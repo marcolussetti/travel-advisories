@@ -65,7 +65,7 @@ If you are stopped with these amounts, you can be fined up to  50,000 Trinidad 
 
 ### LGBT+ travellers
 
-In March 2025, consensual same-sex activity was reinstated as a crime punishable by up to 5 imprisonment. It is also illegal for LGBT+ foreign nationals to enter the country. However, neither of these laws has been enforced in recent times. It is possible LGBT+ visitors could receive negative attention if they show affection in public.
+In March 2025, consensual same-sex activity was reinstated as a crime punishable by up to 5 years imprisonment. It is also illegal for LGBT+ foreign nationals to enter the country. However, neither of these laws has been enforced in recent times. It is possible LGBT+ visitors could receive negative attention if they show affection in public.
 
 Take care when using dating apps especially those used by the LGBT+ community. Criminals have used apps like Grindr to trick, rob and assault people.
 

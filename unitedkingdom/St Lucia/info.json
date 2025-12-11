@@ -1,11 +1,11 @@
 {
     "name": "St Lucia",
-    "update_reason": "This travel advice was reviewed for accuracy and reissued without significant updates.",
+    "update_reason": "New information about dual nationals returning to the UK (\u2018 Entry requirements\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/St Lucia/Warnings and insurance.md",
-            "update_date": "2025-01-09T10:04:02+00:00"
+            "update_date": "2025-12-10T12:34:04+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/St Lucia/Getting help.md"
         }
     ],
-    "update_date": "2025-01-09T10:04:02+00:00"
+    "update_date": "2025-12-10T12:34:04+00:00"
 }

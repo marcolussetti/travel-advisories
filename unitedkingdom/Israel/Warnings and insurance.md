@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   29 November 2025
+:   11 December 2025
 
 Updated:
-:   28 November 2025
+:   10 December 2025
 
 Latest update:
-:   This travel advice has been reviewed for accuracy with edits made throughout, including updated information about recent attacks, political situation and terrorist kidnap (‘Safety and security’ page).
+:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/68d14e34e65dc716bfb1dbf4/FCDO__TA__022_-_Israel_Travel_Advice_Ed25__WEB___3_.jpg)
 

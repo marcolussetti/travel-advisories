@@ -12,6 +12,14 @@ Check with your travel provider that your passport and other travel documents me
 
 You will be denied entry if you do not have a valid travel document or try to use a passport that has been reported lost or stolen.
 
+## Dual nationals
+
+When returning to the UK, British citizens must carry a valid [British passport](https://www.gov.uk/browse/abroad/passports) or [certificate of entitlement](https://www.gov.uk/right-of-abode/apply-for-a-certificate-of-entitlement). See [Dual citizenship](https://www.gov.uk/dual-citizenship).
+
+### British-Brazilian dual nationals
+
+Brazilian immigration authorities often require dual British-Brazilian nationals visiting Brazil to travel on Brazilian (rather than British) passports.
+
 ## Visa requirements
 
 You can visit Brazil without a visa for up to 90 days for tourism.
@@ -27,10 +35,6 @@ Make sure you get your passport stamped.
 Make sure the border control officer puts a stamp in your passport. If it is not stamped, you may be fined when you leave.
 
 Read about [passport stamping if you live in Brazil](https://www.gov.br/pf/pt-br/assuntos/passaporte/ajuda/duvidas_/caderneta/caderneta-carimbo-no-passaporte) (in Portuguese).
-
-### British-Brazilian dual nationals
-
-Brazilian immigration authorities often require dual British-Brazilian nationals visiting Brazil to travel on Brazilian (rather than British) passports.
 
 ## Travelling with children
 

@@ -30,7 +30,7 @@ FCDO has guidance on staying safe and what to do if you need help or support abr
 * finding English-speaking [lawyers](https://find-a-professional-service-abroad.service.csd.fcdo.gov.uk/find/lawyers?country=Congo), [funeral directors](https://www.gov.uk/government/publications/list-of-funeral-directors-in-republic-of-congo/list-of-funeraldirectors-in-republic-of-congo)  and [translators and interpreters](https://find-a-professional-service-abroad.service.csd.fcdo.gov.uk/find/translators-interpreters?country=congo) in the Republic of Congo
 * dealing with a [death in the Republic of Congo](https://www.gov.uk/government/publications/republic-of-congo-bereavement-packinformation)
 * being [arrested or imprisoned in the Republic of Congo](https://www.gov.uk/government/publications/explanation-of-the-legal-and-prison-system-to-british-nationals)
-* getting help if you’re a [victim of crime](https://www.gov.uk/victim-crime-abroad)
+* getting help if you’re a [victim of crime](https://www.gov.uk/guidance/victim-of-crime-abroad)
 * what to do if you’re [in hospital](https://www.gov.uk/guidance/in-hospital-abroad)
 * if you’re [affected by a crisis](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas), such as a terrorist attack
 

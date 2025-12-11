@@ -1,11 +1,11 @@
 {
     "name": "Philippines",
-    "update_reason": "Updated information about demonstrations across Metro Manila ('Warnings and insurance' page).",
+    "update_reason": "New information about dual nationals returning to the UK (\u2018Entry requirements\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Philippines/Warnings and insurance.md",
-            "update_date": "2025-12-02T12:35:25+00:00"
+            "update_date": "2025-12-10T13:28:18+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Philippines/Getting help.md"
         }
     ],
-    "update_date": "2025-12-02T12:35:25+00:00"
+    "update_date": "2025-12-10T13:28:18+00:00"
 }

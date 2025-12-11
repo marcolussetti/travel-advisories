@@ -1,11 +1,11 @@
 {
     "name": "Jamaica",
-    "update_reason": "Updated information about the impact of Hurricane Melissa and additional information about health risks in Jamaica. (\u2018Warnings and insurance\u2019 and \u2018Health\u2019 pages).",
+    "update_reason": "New information about dual nationals returning to the UK (\u2018Entry requirements\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Jamaica/Warnings and insurance.md",
-            "update_date": "2025-12-05T15:00:04+00:00"
+            "update_date": "2025-12-10T12:51:54+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Jamaica/Getting help.md"
         }
     ],
-    "update_date": "2025-12-05T15:00:04+00:00"
+    "update_date": "2025-12-10T12:51:54+00:00"
 }

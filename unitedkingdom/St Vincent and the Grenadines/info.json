@@ -1,11 +1,11 @@
 {
     "name": "St Vincent and the Grenadines",
-    "update_reason": "New information about upcoming general elections on Thursday 27 November (\u2018Warnings and insurance\u2019 page).",
+    "update_reason": "New information about dual nationals returning to the UK (\u2018Entry requirements\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/St Vincent and the Grenadines/Warnings and insurance.md",
-            "update_date": "2025-11-11T16:17:45+00:00"
+            "update_date": "2025-12-10T12:40:16+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/St Vincent and the Grenadines/Getting help.md"
         }
     ],
-    "update_date": "2025-11-11T16:17:45+00:00"
+    "update_date": "2025-12-10T12:40:16+00:00"
 }

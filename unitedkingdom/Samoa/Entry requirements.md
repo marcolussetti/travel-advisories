@@ -10,6 +10,10 @@ To enter Samoa, your passport must have an ‘expiry date’ at least 6 months a
 
 You will be denied entry if you do not have a valid travel document or try to use a passport that has been reported lost or stolen.
 
+## Dual nationals
+
+When returning to the UK, British citizens must carry a valid [British passport](https://www.gov.uk/browse/abroad/passports) or [certificate of entitlement](https://www.gov.uk/right-of-abode/apply-for-a-certificate-of-entitlement). See [Dual citizenship](https://www.gov.uk/dual-citizenship).
+
 ## Visa requirements
 
 You can visit Samoa without a visa for up to 60 days. Border officials will issue a free visitor permit or business visitor permit using your arrival card. You may need to show:

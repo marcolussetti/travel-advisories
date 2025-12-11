@@ -1,18 +1,18 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   11 December 2025
 
 Updated:
-:   20 September 2024
+:   10 December 2025
 
 Latest update:
-:   Information on border restrictions ('Warnings and insurance' page) and political situation ('Safety and security' page).
+:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/5f4ebe84e90e071c79c84cc7/FCDO__TA__032_-_North_Korea_Travel_Advice_Ed1__WEB_.jpg)
 
 
-[Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/5f4ebe848fa8f57fb9bf665c/FCDO__TA__032_-_North_Korea_Travel_Advice_Ed1.pdf)
+[Download a more detailed map (PDF, 509 KB)](https://assets.publishing.service.gov.uk/media/5f4ebe848fa8f57fb9bf665c/FCDO__TA__032_-_North_Korea_Travel_Advice_Ed1.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 

@@ -12,6 +12,10 @@ Check with your travel provider that your passport and other travel documents me
 
 You will not be able to enter Guyana if you do not have a valid travel document or try to use a passport that has been reported lost or stolen.
 
+## Dual nationals
+
+When returning to the UK, British citizens must carry a valid [British passport](https://www.gov.uk/browse/abroad/passports) or [certificate of entitlement](https://www.gov.uk/right-of-abode/apply-for-a-certificate-of-entitlement). See [Dual citizenship](https://www.gov.uk/dual-citizenship).
+
 ## Visa requirements
 
 You do not need a visa to visit Guyana. Visitors can normally stay for 30 days, but you can apply for one-month extensions from Guyana’s [immigration and support services](https://eservices.iss.gov.gy/visitor-visa?new=1).

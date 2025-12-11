@@ -1,18 +1,18 @@
 # Warnings and insurance
 
 Still current at:
-:   30 October 2025
+:   11 December 2025
 
 Updated:
-:   29 October 2025
+:   10 December 2025
 
 Latest update:
-:   FCDO now advises against all travel to the capital city of Niamey, including the rest of Niger ('Warnings and insurance' page).
+:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/69021020918e1f940b3cf7e5/FCDO__TA__029_-_Niger_Travel_Advice_Ed5__WEB_.jpg)
 
 
-[Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/69021020bdb1ef2270a1d106/FCDO__TA__029_-_Niger_Travel_Advice_Ed5.pdf)
+[Download a more detailed map (PDF, 260 KB)](https://assets.publishing.service.gov.uk/media/69021020bdb1ef2270a1d106/FCDO__TA__029_-_Niger_Travel_Advice_Ed5.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 

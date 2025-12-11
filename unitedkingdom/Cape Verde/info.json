@@ -1,11 +1,11 @@
 {
     "name": "Cape Verde",
-    "update_reason": "Updated information about the limitations of medical facilities and support in Cape Verde ('Safety and security' and 'Health' pages).",
+    "update_reason": "New information about dual nationals returning to the UK (\u2018Entry requirements\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Cape Verde/Warnings and insurance.md",
-            "update_date": "2025-02-24T15:02:47+00:00"
+            "update_date": "2025-12-10T13:17:33+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Cape Verde/Getting help.md"
         }
     ],
-    "update_date": "2025-02-24T15:02:47+00:00"
+    "update_date": "2025-12-10T13:17:33+00:00"
 }

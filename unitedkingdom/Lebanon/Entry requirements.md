@@ -16,6 +16,10 @@ You will be denied entry if you do not have a valid travel document, or try to u
 
 If your passport contains an Israeli stamp, you may be refused entry to Lebanon even if you hold a valid Lebanese visa.
 
+## Dual nationals
+
+When returning to the UK, British citizens must carry a valid [British passport](https://www.gov.uk/browse/abroad/passports) or [certificate of entitlement](https://www.gov.uk/right-of-abode/apply-for-a-certificate-of-entitlement). See [Dual citizenship](https://www.gov.uk/dual-citizenship).
+
 ## Visa requirements
 
 British citizens can normally apply for a free single-entry tourist or family visit visa on arrival at Beirut airport. A tourist visa is valid for one month from the date of entry. Travellers can extend their visa for up to three months at the General Security offices.

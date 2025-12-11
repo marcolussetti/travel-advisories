@@ -12,13 +12,13 @@ Check with the Tajikistan authorities before you travel to see which crossings a
 
 ### Tajikistan-Kyrgyzstan border
 
-In November 2025, five Chinese nationals were killed in two separate cross-border attacks launched from Afghanistan in the Shamsiddin Shohon (Khatlon) and Darvoz (GBAO) regions.
-
 There remains some risk of conflict over recognition of the border with Kyrgyzstan. There have been security incidents along the border including with exchanges of gunfire.
 
 In September 2022, armed conflict between the Kyrgyz and Tajik militaries resulted in over 100 deaths, including civilians. There was significant destruction of civilian property and infrastructure. Around 140,000 civilians were displaced. Do not walk off-road – there are both marked and unmarked minefields.
 
 ### Tajikistan-Afghanistan border
+
+In November 2025, five Chinese nationals were killed in two separate cross-border attacks launched from Afghanistan in the Shamsiddin Shohon (Khatlon) and Darvoz (GBAO) regions.
 
 Armed clashes or incursions by armed terrorist or criminal groups may occur without notice near the border with Afghanistan. Stay alert and be cautious in these areas. Do not walk off-road – there are both marked and unmarked minefields. Read [information on terrorism](https://www.gov.uk/foreign-travel-advice/tajikistan/safety-and-security#terrorism).
 

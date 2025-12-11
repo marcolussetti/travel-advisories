@@ -1,18 +1,18 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   11 December 2025
 
 Updated:
-:   10 June 2024
+:   10 December 2025
 
 Latest update:
-:   This travel advice has been rewritten to make it easier to read and understand.
+:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/616053d5e90e071977182943/FCDO__TA__046_-_Western_Sahara_Travel_Advice_Ed3__WEB_.jpg)
 
 
-[Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/6160542b8fa8f529777ffb70/FCDO__TA__046_-_Western_Sahara_Travel_Advice_Ed3__1_.pdf)
+[Download a more detailed map (PDF, 240 KB)](https://assets.publishing.service.gov.uk/media/6160542b8fa8f529777ffb70/FCDO__TA__046_-_Western_Sahara_Travel_Advice_Ed3__1_.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 

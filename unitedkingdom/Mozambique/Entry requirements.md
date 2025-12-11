@@ -16,6 +16,10 @@ Make sure you get your passport stamped.
 
 You need at least 2 blank pages for entry stamps.
 
+## Dual nationals
+
+When returning to the UK, British citizens must carry a valid [British passport](https://www.gov.uk/browse/abroad/passports) or [certificate of entitlement](https://www.gov.uk/right-of-abode/apply-for-a-certificate-of-entitlement). See [Dual citizenship](https://www.gov.uk/dual-citizenship).
+
 ## Visa requirements
 
 You can [travel without a visa to Mozambique](https://www.mozambiquehighcommission.org.uk/visa-section.html) for tourism or business for up to 30 days.

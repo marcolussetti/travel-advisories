@@ -1,18 +1,18 @@
 # Warnings and insurance
 
 Still current at:
-:   27 September 2025
+:   11 December 2025
 
 Updated:
-:   26 September 2025
+:   10 December 2025
 
 Latest update:
-:   New information on the increased risk to LGBT+ travellers (See 'LGBT+ travellers' on the ‘Safety and security’ page).
+:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/6880fe502b6fd60b7c160f72/FCDO_TA_006_-_Burkina_Faso_Travel_Advice_Ed2_WEB.jpg)
 
 
-[Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/6880fe502b6fd60b7c160f73/FCDO_TA_006_-_Burkina_Faso_Travel_Advice_Ed2.pdf)
+[Download a more detailed map (PDF, 393 KB)](https://assets.publishing.service.gov.uk/media/6880fe502b6fd60b7c160f73/FCDO_TA_006_-_Burkina_Faso_Travel_Advice_Ed2.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 

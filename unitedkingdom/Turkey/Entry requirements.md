@@ -16,21 +16,25 @@ Check with your travel provider that your passport and other travel documents me
 
 You will be denied entry if you do not have a valid travel document or try to use a passport that has been reported lost or stolen.
 
+## Dual nationals
+
+When returning to the UK, British citizens must carry a valid [British passport](https://www.gov.uk/browse/abroad/passports) or [certificate of entitlement](https://www.gov.uk/right-of-abode/apply-for-a-certificate-of-entitlement). See [Dual citizenship](https://www.gov.uk/dual-citizenship).
+
 ## Visa requirements
 
 You can visit Turkey without a visa for up to 90 days in any 180-day period, for business or tourism.
 
-If you want to stay in Turkey for more than 90 days, you must get a short-term residence permit before the end of your stay.
+If you hold a British citizen passport, you can visit Turkey  without a visa for up to 90 days in any 180-day period, for business or tourism
 
-If you hold a different type of British nationality, such as British National (Overseas), check visa requirements with the Turkish Embassy or Consulate General before you travel.
+If you hold [another type of British passport](https://www.gov.uk/types-of-british-nationality), you will need a visa and should check visa requirements with the Turkish Embassy or Consulate General before you travel.
 
 To enter Turkey for education, employment or medical purposes, or in other special cases, check the [information on applying for a visa](https://www.mfa.gov.tr/general-information-about-turkish-visas.en.mfa). If you plan to work in Turkey, make sure you have the correct permits.
 
 ## Day trips to Greek islands
 
-If you are considering a day trip to a Greek Island, be aware that Greece is in the Schengen Zone and will be introducing the new European Union (EU) [Entry Exit System (EES)](https://www.gov.uk/guidance/eu-entryexit-system) from 12 October.
+If you are considering a day trip to a Greek Island, be aware that Greece is in the Schengen Zone and has introduced the European Union (EU) [Entry Exit System (EES)](https://www.gov.uk/guidance/eu-entryexit-system).
 
-This applies to any non-EU national travelling from Turkey into the EU by land, sea or air (excluding airport transit). EES may take each passenger a few extra minutes to complete, so be prepared to wait longer than usual at the border once the system starts.
+This applies to any non-EU national travelling from Turkey into the EU by land, sea or air (excluding airport transit). EES may take each passenger a few extra minutes to complete, so be prepared to wait longer than usual at the border.
 
 Read [Greece’s travel advice](https://www.gov.uk/foreign-travel-advice/greece/entry-requirements) for further details.
 

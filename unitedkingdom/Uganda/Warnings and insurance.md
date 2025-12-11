@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   3 December 2025
+:   11 December 2025
 
 Updated:
-:   2 December 2025
+:   10 December 2025
 
 Latest update:
-:   FCDO no longer advise against all but essential travel to Queen Elizabeth National Park, the area immediately south-west of Kasese town, or to Semuliki National Park (‘Regional risks’ page).
+:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
 
 ## Attacks in Western Uganda
 

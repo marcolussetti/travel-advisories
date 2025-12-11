@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   12 November 2025
+:   11 December 2025
 
 Updated:
-:   11 November 2025
+:   10 December 2025
 
 Latest update:
-:   New information about upcoming general elections on Thursday 27 November (‘Warnings and insurance’ page).
+:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
 
 ## Upcoming general elections
 

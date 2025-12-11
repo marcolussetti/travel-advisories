@@ -12,6 +12,10 @@ Check with your travel provider that your passport and other travel documents me
 
 You will be denied entry if you do not have a valid travel document or try to use a passport that has been reported lost or stolen.
 
+## Dual nationals
+
+When returning to the UK, British citizens must carry a valid [British passport](https://www.gov.uk/browse/abroad/passports) or [certificate of entitlement](https://www.gov.uk/right-of-abode/apply-for-a-certificate-of-entitlement). See [Dual citizenship](https://www.gov.uk/dual-citizenship).
+
 ## Visa requirements
 
 From 5 January 2025, it is no longer possible to obtain a visa on arrival in Mauritania. Before you travel, you must apply for an [e-visa](https://anrpts.gov.mr/visa/requestvisa) online via the website of the Mauritanian National Agency for the Population Register and Secure Titles (Agence Nationale du Registre des Populations et des Titres Sécurisés), who can be contacted via email ([contact@anrpts.gov.mr](mailto:contact@anrpts.gov.mr)) if you face any technical difficulties with your application.

@@ -1,11 +1,11 @@
 {
     "name": "South Africa",
-    "update_reason": "Addition of information about South African National Parks advising on recommended routes for those travelling from Gqeberha to Addo Elephant Park ('Safety and security' page).",
+    "update_reason": "New information about dual nationals returning to the UK (\u2018Entry requirements\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/South Africa/Warnings and insurance.md",
-            "update_date": "2025-11-20T16:14:21+00:00"
+            "update_date": "2025-12-10T13:04:57+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/South Africa/Getting help.md"
         }
     ],
-    "update_date": "2025-11-20T16:14:21+00:00"
+    "update_date": "2025-12-10T13:04:57+00:00"
 }

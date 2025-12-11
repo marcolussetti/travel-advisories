@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   21 October 2025
+:   11 December 2025
 
 Updated:
-:   20 October 2025
+:   10 December 2025
 
 Latest update:
-:   Addition of information about taking photographs and flying personal drones near military or other security installations and any buildings or items of national infrastructure (‘Safety and security’ page).
+:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
 
 ## Ukraine-Poland border
 

@@ -1,18 +1,18 @@
 # Warnings and insurance
 
 Still current at:
-:   18 September 2025
+:   11 December 2025
 
 Updated:
-:   17 September 2025
+:   10 December 2025
 
 Latest update:
-:   New information on risks from terrorism close to Ghana’s northern and eastern borders and new information about the Savannah region (‘Safety and security’ and ‘Regional risks’ pages).
+:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/65dca99ff1cab30011fc4712/FCDO__TA__090_-_Ghana_Travel_Advice_Ed2__WEB_.jpg)
 
 
-[Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/65dca99ff1cab30011fc4713/FCDO__TA__090_-_Ghana_Travel_Advice_Ed2.pdf)
+[Download a more detailed map (PDF, 606 KB)](https://assets.publishing.service.gov.uk/media/65dca99ff1cab30011fc4713/FCDO__TA__090_-_Ghana_Travel_Advice_Ed2.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth and Development Office (FCDO).
 

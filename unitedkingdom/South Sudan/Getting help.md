@@ -29,7 +29,7 @@ FCDO has guidance on staying safe and what to do if you need help or support abr
 * dealing with a [death in South Sudan](https://www.gov.uk/government/publications/south-sudan-bereavement-death-abroad)
 * being [arrested or imprisoned in South Sudan](https://www.gov.uk/government/publications/south-sudan-in-prison-abroad)
 * being a [victim of rape or sexual assault in South Sudan](https://www.gov.uk/government/publications/south-sudan-information-for-victims-of-rape-and-sexual-assault/south-sudan-information-for-victims-of-rape-and-sexual-assault)
-* getting help if you’re a [victim of crime](https://www.gov.uk/victim-crime-abroad)
+* getting help if you’re a [victim of crime](https://www.gov.uk/guidance/victim-of-crime-abroad)
 * what to do if you’re [in hospital](https://www.gov.uk/guidance/in-hospital-abroad)
 * if you’re [affected by a crisis](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas), such as a terrorist attack
 

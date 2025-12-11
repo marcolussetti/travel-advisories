@@ -12,6 +12,10 @@ Check with your travel provider that your passport and other travel documents me
 
 You will be denied entry if you do not have a valid travel document or try to use a passport that has been reported lost or stolen.
 
+## Dual nationals
+
+When returning to the UK, British citizens must carry a valid [British passport](https://www.gov.uk/browse/abroad/passports) or [certificate of entitlement](https://www.gov.uk/right-of-abode/apply-for-a-certificate-of-entitlement). See [Dual citizenship](https://www.gov.uk/dual-citizenship).
+
 ## Visa requirements
 
 If you’re visiting Cuba as a tourist, you need to get a tourist -visa, also known as a tourist -card, before you travel. Apply through the [Cuban Embassy in the UK](https://misiones.cubaminrex.cu/en/united-kingdom/embassy-cuba-united-kingdom-great-britain-and-northern-ireland) or check with your travel agent or tour operator. You can also apply for an electronic visa through the [eVisa-Cuba](https://evisacuba.cu/en/inicio) site. When your application is approved, you will receive a ten-character code which should be entered as you fill in your advance passenger information on the [DViajeros](https://www.dviajeros.mitrans.gob.cu/inicio) platform (see below). This will generate a QR code to be presented to the immigration authorities at the border. The electronic-visa will be linked to the applicant’s passport.

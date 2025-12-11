@@ -134,7 +134,7 @@ The [UK Air Safety List (ASL)](https://www.gov.uk/guidance/uk-air-safety-list) l
 
 ### Travel to and from Lungi airport
 
-Lungi airport is on the far side of a wide estuary across from Freetown. The journey time from Freetown to the airport is around 3 hours by road. There are no car hire facilities at the airport. Contact the [British High Commission in Freetown](https://www.gov.uk/government/world/organisations/british-high-commission-freetown) for a list of car hire companies in Freetown.
+Lungi airport is on the far side of a wide estuary across from Freetown. The journey time from Freetown to the airport is around 3 hours by road. There are no car hire facilities at the airport.
 
 British High Commission staff do not travel by road after dark and rarely take this route in the daytime due to the risk of accidents.
 

@@ -12,13 +12,17 @@ Check with your travel provider that your passport and other travel documents me
 
 You will be denied entry if you do not have a valid travel document or try to use a passport that has been reported lost or stolen.
 
+## Dual nationals
+
+When returning to the UK, British citizens must carry a valid [British passport](https://www.gov.uk/browse/abroad/passports) or [certificate of entitlement](https://www.gov.uk/right-of-abode/apply-for-a-certificate-of-entitlement). See [Dual citizenship](https://www.gov.uk/dual-citizenship).).
+
+### British-Eritrean dual nationals
+
+Dual nationals who enter Eritrea on an Eritrean identity card will need an exit permit from the Immigration Office in Asmara to leave the country.
+
 ## Visa requirements
 
 You must have a visa to enter Eritrea. For information about visas, contact the [Eritrean Embassy in the UK](https://www.eritreanembassyuk.org.uk/) or the nearest Eritrean embassy. Check with your airline or travel company for the latest information.
-
-## British-Eritrean dual nationals
-
-Dual nationals who enter Eritrea on an Eritrean identity card will need an exit permit from the Immigration Office in Asmara to leave the country.
 
 ## Vaccination requirements
 

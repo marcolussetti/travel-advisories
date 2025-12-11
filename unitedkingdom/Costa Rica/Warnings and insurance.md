@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 September 2025
+:   11 December 2025
 
 Updated:
-:   25 September 2025
+:   10 December 2025
 
 Latest update:
-:   Removal of information that on Wednesday 24 September 2025 there is disruption to flights at all airports in Costa Rica due to a reported technical issue ('Warnings and insurance' page).
+:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
 
 ## Before you travel
 

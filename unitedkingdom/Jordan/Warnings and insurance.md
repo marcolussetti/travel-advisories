@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   29 November 2025
+:   11 December 2025
 
 Updated:
-:   28 November 2025
+:   10 December 2025
 
 Latest update:
-:   This travel advice has been reviewed for accuracy with edits made throughout, including updated information about recent attacks and the current situation in Israel, Lebanon and Palestine (‘Safety and security’ and ‘Regional risks’ pages).
+:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/65bbcf944965c50010e8a3f1/FCDO__TA__087_-_Jordan_Travel_Advice_Ed2__WEB_.jpg)
 

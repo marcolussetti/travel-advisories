@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   11 December 2025
 
 Updated:
-:   24 February 2025
+:   10 December 2025
 
 Latest update:
-:   Updated information about the limitations of medical facilities and support in Cape Verde ('Safety and security' and 'Health' pages).
+:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
 
 ## Before you travel
 

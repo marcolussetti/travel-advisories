@@ -12,6 +12,14 @@ Check with your travel provider that your passport and other travel documents me
 
 You will be denied entry if you do not have a valid travel document or try to use a passport that has been reported lost or stolen.
 
+## Dual nationals
+
+When returning to the UK, British citizens must carry a valid [British passport](https://www.gov.uk/browse/abroad/passports) or [certificate of entitlement](https://www.gov.uk/right-of-abode/apply-for-a-certificate-of-entitlement). See [Dual citizenship](https://www.gov.uk/dual-citizenship).
+
+### British-Chilean dual nationals
+
+British-Chilean dual nationals must enter and leave Chile using their Chilean passport. Chilean entry and exit requirements for dual nationals may change without notice. For further information check with the [Chilean Embassy in the UK](https://www.chile.gob.cl/en/reino-unido/en).
+
 ## Visa requirements
 
 You can visit Chile for up to 90 days without a visa.
@@ -28,10 +36,6 @@ Chile requires children travelling with only one parent, with a guardian or alon
 * an original birth certificate
 
 If you’re travelling with children aged 17 and under, check the website of the [Chilean Ministry of Foreign Affairs](https://www.chile.gob.cl/en/chile/xplica/ingreso-y-salida-de-menores-del-pais) (website in Spanish) for what documents you need to show.
-
-## British-Chilean dual nationality
-
-British-Chilean dual nationals must enter and leave Chile using their Chilean passport. Chilean entry and exit requirements for dual nationals may change without notice. For further information check with the [Chilean Embassy in the UK](https://www.chile.gob.cl/en/reino-unido/en).
 
 ### Travelling with dual national children
 

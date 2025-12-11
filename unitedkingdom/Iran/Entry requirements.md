@@ -16,18 +16,6 @@ Check with your travel provider that your passport and other travel documents me
 
 You will be denied entry if you do not have a valid travel document or try to use a passport that has been reported lost or stolen.
 
-### Dual nationality
-
-Iran does not recognise dual nationality. If you are a dual national, the Iranian authorities will consider you to be an Iranian national. They are highly unlikely to accept any requests made by the UK government on your behalf.
-
-All Iranian nationals must enter and leave Iran using an Iranian passport. If you want to travel to the UK from Iran, you may also need to prove to the Iranian authorities that you have the right to enter the UK. You must be able to produce your British passport or a valid UK visa in your Iranian passport on request. You may face increased scrutiny, questioning or detention because of your connection to the UK.
-
-Recent media reports suggest Iran is willing to detain people who have been visiting relatives inside Iran. Having travelled to and from Iran previously without issue does not guarantee your safety. See [Safety and security](/foreign-travel-advice/iran/safety-and-security) for more information about the risks British nationals face in Iran.
-
-### Being considered an Iranian national
-
-Even if you do not consider yourself Iranian, the Iranian authorities may see you as an Iranian national. For example, if your father is Iranian, or if you’re married to an Iranian man.
-
 ### Previous travel to Israel
 
 If your passport has stamps from Israel or other countries’ border crossing points with Israel, you may be refused entry to Iran.
@@ -39,6 +27,24 @@ You cannot apply for a British passport from Iran.
 You can [apply in a neighbouring country](https://www.gov.uk/overseas-passports). Choose from the list of countries and follow the application process for that country.
 
 For help with your passport application, [contact HM Passport Office](https://www.gov.uk/passport-advice-line).
+
+## Dual nationals
+
+When returning to the UK, British citizens must carry a valid [British passport](https://www.gov.uk/browse/abroad/passports) or [certificate of entitlement](https://www.gov.uk/right-of-abode/apply-for-a-certificate-of-entitlement). See [Dual citizenship](https://www.gov.uk/dual-citizenship).
+
+### Irani-British dual nationals
+
+Iran does not recognise dual nationality. If you are a dual national, the Iranian authorities will consider you to be an Iranian national. They are highly unlikely to accept any requests made by the UK government on your behalf.
+
+All Iranian nationals must enter and leave Iran using an Iranian passport.
+
+You may also need to prove to the Iranian authorities that you have the right to enter the UK. You must be able to produce your British passport or a valid UK visa in your Iranian passport on request. You may face increased scrutiny, questioning or detention because of your connection to the UK.
+
+Media reports suggest Iran is willing to detain people who have been visiting relatives inside Iran. Having travelled to and from Iran previously without issue does not guarantee your safety. See [Safety and security](/foreign-travel-advice/iran/safety-and-security) for more information about the risks British nationals face in Iran.
+
+### Being considered an Iranian national
+
+Even if you do not consider yourself Iranian, the Iranian authorities may see you as an Iranian national. For example, if your father is Iranian, or if you’re married to an Iranian man.
 
 ## Visa requirements
 

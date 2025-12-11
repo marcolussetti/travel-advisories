@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   3 December 2025
+:   11 December 2025
 
 Updated:
-:   2 December 2025
+:   10 December 2025
 
 Latest update:
-:   Updated information about demonstrations across Metro Manila ('Warnings and insurance' page).
+:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/616406778fa8f52980d9301c/FCDO__TA__033_-_Philippines_Travel_Advice_Ed2__WEB_.jpg)
 

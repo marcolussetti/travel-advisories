@@ -1,29 +1,17 @@
 # Warnings and insurance
 
 Still current at:
-:   9 August 2025
+:   11 December 2025
 
 Updated:
-:   8 August 2025
+:   10 December 2025
 
 Latest update:
-:   Terrorists are very likely to try to carry out attacks in the United Arab Emirates (UAE).
-
-## Regional risks
-
-Following hostilities in the region, a ceasefire between Israel and Iran began on 24 June.
-
-You should:
-
-* stay up to date with events in the region
-* check for any transport disruption that may still be occurring
-* monitor local and international media for the latest information
-* [read the FCDO’s advice on if you’re affected by a crisis abroad](https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.gov.uk%2Fguidance%2Fhow-to-deal-with-a-crisis-overseas&data=05%7C02%7CCrisis%40fcdo.gov.uk%7C4563265a30b14112d88208ddb588a69b%7Cd3a2d0d37cc84f52bbf985bd43d94279%7C0%7C0%7C638866320685449525%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=NKlHvb0l0yilhgUsvbbH7LHGuefu%2FZHZMRJ0Ja%2B5umk%3D&reserved=0%22%20\t%20%22_blank)
-* follow the instructions of local authorities
+:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
 
 ## The U.S. Mission to the UAE has issued the below advice to US citizens:
 
-<https://x.com/USAinUAE/status/1953808764228055337>
+The U.S. Mission to the UAE has [put out the following alert](https://ae.usembassy.gov/united-arab-emirates-security-alert-august-8-2025/):
 
 “The U.S. Mission to the United Arab Emirates is aware of information indicating threats toward the Jewish and Israeli communities in the UAE.  The Mission urges U.S. citizens to avoid locations in the UAE associated with the Jewish and Israeli communities, including places of worship.”
 

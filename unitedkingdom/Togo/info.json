@@ -1,11 +1,11 @@
 {
     "name": "Togo",
-    "update_reason": "Updated information on political situation ('Safety and security' page).",
+    "update_reason": "New information about dual nationals returning to the UK (\u2018Entry requirements\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Togo/Warnings and insurance.md",
-            "update_date": "2025-06-30T16:22:31+01:00"
+            "update_date": "2025-12-10T12:48:30+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Togo/Getting help.md"
         }
     ],
-    "update_date": "2025-06-30T16:22:31+01:00"
+    "update_date": "2025-12-10T12:48:30+00:00"
 }

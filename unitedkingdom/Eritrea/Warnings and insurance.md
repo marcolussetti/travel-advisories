@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   14 November 2025
+:   11 December 2025
 
 Updated:
-:   13 November 2025
+:   10 December 2025
 
 Latest update:
-:   Addition of information on what to do if a crisis develops in Eritrea ('Warnings and insurance' page).
+:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/62558a0c8fa8f54a9055161a/FCDO__TA__016_-_Eritrea_Travel_Advice_Ed4__WEB_.jpg)
 

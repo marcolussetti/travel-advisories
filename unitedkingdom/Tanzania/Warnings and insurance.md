@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   5 December 2025
+:   11 December 2025
 
 Updated:
-:   4 December 2025
+:   10 December 2025
 
 Latest update:
-:   Updated information on the political situation and calls for protest on 9 December, along with phone numbers for consular assistance, and information on an increase in anti-foreigner rhetoric (‘Warnings and insurance’ and ‘Safety and security’ pages).
+:   Updated information on the political situation following the October 29 elections (‘Safety and security’ page). New information about dual nationals returning to the UK (‘Entry requirements’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/690e25f165da22dd57729905/FCDO__TA__086_-_Tanzania_Travel_Advice_Ed1__WEB_.jpg)
 
@@ -23,29 +23,6 @@ Your travel insurance could be invalidated if you travel against advice from the
 FCDO advises against all but essential travel to any area within 20km of the Tanzanian border with the Cabo Delgado province of Mozambique, due to attacks by groups linked with Islamic extremism.
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/tanzania/regional-risks).
-
-## Political situation and ongoing disruption
-
-General elections took place on 29 October.
-
-Protests and the resulting security response led to fatalities and injuries in many areas. Further demonstrations including violent responses by security forces are possible. Calls for protests on 9 December, Independence Day, have been widely shared on social media.
-
-Be prepared for:
-
-* security checkpoints in Dar es Salaam and other urban areas
-* internet and mobile network outages
-* curfews
-* travel disruptions
-* restrictions on availability of supplies, such as food, water and fuel, which may last several days.
-* invasive checks on personal electronic devices
-
-Stay away from all demonstrations, rallies and large crowds, monitor local media and follow the advice of the authorities.
-
-The British High Commission has advised staff not to plan travel between 5-10 December, due to the risk of disruption.
-
-The authorities have previously limited internet access during or after protests. Make a note of important phone numbers including your airline, travel operator, insurance company and the FCDO’s consular assistance number in case the internet is not accessible.
-
-Consular assistance can be reached 24/7, on +255 22 229 0000 or +44 (0) 20 7008 5000.
 
 ## Before you travel
 

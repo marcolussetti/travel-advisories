@@ -12,6 +12,18 @@ Check with your travel provider that your passport and other travel documents me
 
  You will be denied entry if you do not have a valid travel document or try to use a passport that has been reported lost or stolen.
 
+## Dual nationals
+
+When returning to the UK, British citizens must carry a valid [British passport](https://www.gov.uk/browse/abroad/passports) or [certificate of entitlement](https://www.gov.uk/right-of-abode/apply-for-a-certificate-of-entitlement). See [Dual citizenship](https://www.gov.uk/dual-citizenship).
+
+If you’re a dual national, you should use the same passport to enter and exit Brunei. The passport you use for entry will determine your nationality in Brunei.
+
+### British-Brunei dual nationals
+
+Brunei does not recognise the dual nationality of Bruneians. The immigration authorities can refuse your entry if you hold a Bruneian passport and a passport of a different nationality.
+
+If you enter on a Brunei passport, you cannot access British consular assistance, as you will be treated as a Bruneian national.
+
 ## Visa requirements
 
 British citizen passport holders may enter Brunei as visitors for up to 90 days without a visa. If you have another type of British nationality, check visa requirements with [Brunei immigration authorities](http://www.immigration.gov.bn/en/SitePages/Visa,%20Visit%20and%20Diplomatic.aspx).
@@ -25,12 +37,6 @@ Make sure you get your passport stamped when you enter Brunei.
 ### Overstaying your visa
 
 Do not overstay your visa or violate the terms of entry. Penalties include detention and caning.
-
-## Dual nationality
-
-Brunei does not recognise the dual nationality of Bruneians. The immigration authorities can refuse your entry if you hold a Bruneian passport and a passport of a different nationality.
-
-If you’re a dual national, you should use the same passport to enter and exit Brunei. The passport you use for entry will determine your nationality in Brunei. If you enter on a Brunei passport, you cannot access British consular assistance, as you will be treated as a Bruneian national.
 
 ## Declaration form
 

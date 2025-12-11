@@ -8,7 +8,11 @@ The authorities in South Africa set and enforce entry rules. If you’re not sur
 
 Your passport must have an ‘expiry date’ at least 30 days after the date you leave South Africa and have at least 2 blank pages.
 
-### Dual nationals
+## Dual nationals
+
+When returning to the UK, British citizens must carry a valid [British passport](https://www.gov.uk/browse/abroad/passports) or [certificate of entitlement](https://www.gov.uk/right-of-abode/apply-for-a-certificate-of-entitlement). See [Dual citizenship](https://www.gov.uk/dual-citizenship).
+
+### South African-British dual nationals
 
 If you are a South African citizen aged 18 or over, you must use a South African passport to enter and exit South Africa. It is illegal to use another country’s passport. See the [South African Department of Home Affairs](https://www.dha.gov.za/index.php/civic-services/travel-documents) for further information.
 
@@ -20,7 +24,7 @@ Check the expiry date of your visa or entry stamp and ensure you do not overstay
 
 For more information on visas, contact the [South African High Commission](https://dirco.gov.za/uk/).
 
-The Department of Home Affairs also has information on [South Africa visas and immigration regulations](https://www.dha.gov.za/index.php/applying-for-sa-visa).
+The Department of Home Affairs also has information on [South Africa visas and immigration regulations](https://www.dha.gov.za/index.php/immigration-services/types-of-visas).
 
 ## Travelling with children
 

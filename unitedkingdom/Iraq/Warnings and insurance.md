@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   29 November 2025
+:   11 December 2025
 
 Updated:
-:   28 November 2025
+:   10 December 2025
 
 Latest update:
-:   Removal of information about regional risks and airspace restrictions.
+:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/67d2f0ae886e7770c211e09e/FCDO__TA__048_-_Iraq_Travel_Advice_Ed6__WEB_.jpg)
 

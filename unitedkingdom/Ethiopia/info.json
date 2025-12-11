@@ -1,11 +1,11 @@
 {
     "name": "Ethiopia",
-    "update_reason": "FCDO now advises against all but essential travel within 5km of the town of Hawassa. FCDO continues to advise against all but essential travel and all travel to parts of Ethiopia ('Warnings and insurance' page).",
+    "update_reason": "New information about dual nationals returning to the UK (\u2018Entry requirements\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Ethiopia/Warnings and insurance.md",
-            "update_date": "2025-12-05T12:35:27+00:00"
+            "update_date": "2025-12-10T13:33:13+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Ethiopia/Getting help.md"
         }
     ],
-    "update_date": "2025-12-05T12:35:27+00:00"
+    "update_date": "2025-12-10T13:33:13+00:00"
 }

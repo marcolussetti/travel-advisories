@@ -1,18 +1,18 @@
 # Warnings and insurance
 
 Still current at:
-:   2 July 2025
+:   11 December 2025
 
 Updated:
-:   1 July 2025
+:   10 December 2025
 
 Latest update:
-:   New information on areas where FCDO advises against travel, including parts of the southern suburbs of Beirut and the Governorate of Nabatiyeh ('Warnings and insurance' page).
+:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/68626c163464d9c0ad609cfa/FCDO__TA__023_-_Lebanon_Travel_Advice_Ed17__WEB_.jpg)
 
 
-[Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/68626c161c735341c2111ad4/FCDO__TA__023_-_Lebanon_Travel_Advice_Ed17.pdf)
+[Download a more detailed map (PDF, 633 KB)](https://assets.publishing.service.gov.uk/media/68626c161c735341c2111ad4/FCDO__TA__023_-_Lebanon_Travel_Advice_Ed17.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO). Consular support is also severely limited where FCDO advises against travel.
 

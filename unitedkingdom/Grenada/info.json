@@ -1,11 +1,11 @@
 {
     "name": "Grenada",
-    "update_reason": "This travel advice was reviewed for accuracy and reissued with information on the continued affects from Hurricane Beryl from July 2024 (\u2018Safety and security\u2019 page).",
+    "update_reason": "New information about dual nationals returning to the UK (\u2018Entry requirements\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Grenada/Warnings and insurance.md",
-            "update_date": "2025-01-08T14:44:29+00:00"
+            "update_date": "2025-12-10T13:53:19+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Grenada/Getting help.md"
         }
     ],
-    "update_date": "2025-01-08T14:44:29+00:00"
+    "update_date": "2025-12-10T13:53:19+00:00"
 }

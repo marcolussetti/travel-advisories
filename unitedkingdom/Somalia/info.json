@@ -1,11 +1,11 @@
 {
     "name": "Somalia",
-    "update_reason": "New information about a data breach to Somalia\u2019s eVisa system (\u2018Entry requirements\u2019 page).",
+    "update_reason": "New information about dual nationals returning to the UK (\u2018Entry requirements\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Somalia/Warnings and insurance.md",
-            "update_date": "2025-11-14T17:17:35+00:00"
+            "update_date": "2025-12-10T13:39:49+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Somalia/Getting help.md"
         }
     ],
-    "update_date": "2025-11-14T17:17:35+00:00"
+    "update_date": "2025-12-10T13:39:49+00:00"
 }

@@ -1,11 +1,11 @@
 {
     "name": "Maldives",
-    "update_reason": "Updated information on sea travel, Ramadan and risks from terrorism ('Safety and security' page).",
+    "update_reason": "New information about dual nationals returning to the UK (\u2018Entry requirements\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Maldives/Warnings and insurance.md",
-            "update_date": "2025-04-02T09:50:49+01:00"
+            "update_date": "2025-12-10T13:25:55+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Maldives/Getting help.md"
         }
     ],
-    "update_date": "2025-04-02T09:50:49+01:00"
+    "update_date": "2025-12-10T13:25:55+00:00"
 }

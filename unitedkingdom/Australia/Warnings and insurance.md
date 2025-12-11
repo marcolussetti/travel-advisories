@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   22 November 2025
+:   11 December 2025
 
 Updated:
-:   21 November 2025
+:   10 December 2025
 
 Latest update:
-:   Information about a higher risk of bushfires during the spring and summer seasons, from October to February ('Warnings and insurance' page).
+:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
 
 ## Bushfires in Australia
 

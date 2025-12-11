@@ -1,11 +1,11 @@
 {
     "name": "Brazil",
-    "update_reason": "New information about methanol poisoning (\u2018Safety and security\u2019 page).",
+    "update_reason": "New information about dual nationals returning to the UK (\u2018Entry requirements\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Brazil/Warnings and insurance.md",
-            "update_date": "2025-10-07T19:12:00+01:00"
+            "update_date": "2025-12-10T12:39:42+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Brazil/Getting help.md"
         }
     ],
-    "update_date": "2025-10-07T19:12:00+01:00"
+    "update_date": "2025-12-10T12:39:42+00:00"
 }

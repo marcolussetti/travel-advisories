@@ -1,11 +1,11 @@
 {
     "name": "Djibouti",
-    "update_reason": "Updated assessment that terrorists are likely to try to carry out attacks in Djibouti (\u2018Safety and security\u2019 page).",
+    "update_reason": "New information about dual nationals returning to the UK (\u2018Entry requirements\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Djibouti/Warnings and insurance.md",
-            "update_date": "2024-10-14T11:18:54+01:00"
+            "update_date": "2025-12-10T13:28:18+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Djibouti/Getting help.md"
         }
     ],
-    "update_date": "2024-10-14T11:18:54+01:00"
+    "update_date": "2025-12-10T13:28:18+00:00"
 }

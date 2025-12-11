@@ -10,6 +10,10 @@ To enter Canada, your passport must be valid for the length of your planned stay
 
 If you’re travelling through another country on your way to or from Canada, check the entry requirements for that country. Many countries will only allow entry if you have at least 6 months validity remaining on your passport.
 
+## Dual nationals
+
+When returning to the UK, British citizens must carry a valid [British passport](https://www.gov.uk/browse/abroad/passports) or [certificate of entitlement](https://www.gov.uk/right-of-abode/apply-for-a-certificate-of-entitlement). See [Dual Citizenship](https://www.gov.uk/dual-citizenship).
+
 ## Visa requirements
 
 To enter or transit through Canada, most people need a visa or an Electronic Travel Authorization (eTA) – not both.

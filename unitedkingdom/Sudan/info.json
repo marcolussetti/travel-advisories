@@ -1,11 +1,11 @@
 {
     "name": "Sudan",
-    "update_reason": "Updated information on health risks in Sudan (\u2018Health\u2019 page).",
+    "update_reason": "New information about dual nationals returning to the UK (\u2018Entry requirements\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Sudan/Warnings and insurance.md",
-            "update_date": "2025-08-13T12:33:30+01:00"
+            "update_date": "2025-12-10T12:41:08+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Sudan/Getting help.md"
         }
     ],
-    "update_date": "2025-08-13T12:33:30+01:00"
+    "update_date": "2025-12-10T12:41:08+00:00"
 }

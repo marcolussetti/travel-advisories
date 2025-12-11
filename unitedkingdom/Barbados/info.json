@@ -1,11 +1,11 @@
 {
     "name": "Barbados",
-    "update_reason": "The crime section has been updated to reference the risk of carjacking (\u2018Safety and security\u2019 page).",
+    "update_reason": "New information about dual nationals returning to the UK (\u2018Entry requirements\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Barbados/Warnings and insurance.md",
-            "update_date": "2025-07-16T16:26:34+01:00"
+            "update_date": "2025-12-10T13:03:51+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Barbados/Getting help.md"
         }
     ],
-    "update_date": "2025-07-16T16:26:34+01:00"
+    "update_date": "2025-12-10T13:03:51+00:00"
 }

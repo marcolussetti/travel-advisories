@@ -12,6 +12,10 @@ If you’re travelling through another country on your way to or from New Zealan
 
 You will be denied entry if you do not have a valid travel document or try to use a passport that has been reported lost or stolen.
 
+## Dual nationals
+
+When returning to the UK, British citizens must carry a valid [British passport](https://www.gov.uk/browse/abroad/passports) or [certificate of entitlement](https://www.gov.uk/right-of-abode/apply-for-a-certificate-of-entitlement). See [Dual citizenship](https://www.gov.uk/dual-citizenship).
+
 ## Visa requirements
 
 You can visit New Zealand without a visa for up to 6 months. However you do need a New Zealand Electronic Travel Authority (NZeTA).

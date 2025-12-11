@@ -12,11 +12,17 @@ Irish immigration officers are entitled to ask for proof of British nationality 
 
 Check the [Ireland Citizens Information Board for guidance on acceptable ID](https://www.citizensinformation.ie/en/government-in-ireland/ireland-and-the-uk/common-travel-area-between-ireland-and-the-uk/).
 
+## Dual Nationals
+
+When returning to the UK, British citizens must carry a valid [British passport](https://www.gov.uk/browse/abroad/passports) or [certificate of entitlement](https://www.gov.uk/right-of-abode/apply-for-a-certificate-of-entitlement). See [Dual citizenship](https://www.gov.uk/dual-citizenship).
+
 ## Visa requirements
 
 You can visit and remain indefinitely in Ireland under the [Common Travel Area rules](https://www.gov.uk/government/publications/common-travel-area-guidance/common-travel-area-guidance). British nationals do not need a visa or residency permit to live, work or study in Ireland.
 
 Although Ireland is in the EU, it is not part of the [Schengen area](https://home-affairs.ec.europa.eu/policies/schengen-borders-and-visa/schengen-area_en), and Schengen rules do not apply.
+
+As Ireland is not in the Schengen area it is therefore not affected by the new Entry/Exit System (EES) that will be introduced in Schengen countries from 12 October 2025. You will not need to register for EES when entering Ireland. Read more [information on the EU Entry/Exit System and to understand which countries are in the Schengen area](https://www.gov.uk/guidance/eu-entryexit-system).
 
 ## Vaccine requirements
 

@@ -26,7 +26,7 @@ FCDO has guidance on staying safe and what to do if you need help or support abr
 * finding [lawyers](https://find-a-professional-service-abroad.service.csd.fcdo.gov.uk/find/lawyers?country=New%20Zealand), [funeral directors](https://find-a-professional-service-abroad.service.csd.fcdo.gov.uk/find/funeral-directors?country=New%20Zealand) and [translators and interpreters](https://find-a-professional-service-abroad.service.csd.fcdo.gov.uk/find?country=New%20Zealand&serviceType=translatorsInterpreters) in New Zealand
 * dealing with a [death in New Zealand](https://www.gov.uk/government/publications/new-zealand-bereavement-pack-information)
 * being [arrested or imprisoned in New Zealand](https://www.gov.uk/government/publications/new-zealand-prisoner-pack)
-* getting help if you’re a [victim of crime](https://www.gov.uk/victim-crime-abroad)
+* getting help if you’re a [victim of crime](https://www.gov.uk/guidance/victim-of-crime-abroad)
 * what to do if you’re [in hospital](https://www.gov.uk/guidance/in-hospital-abroad)
 * if you’re [affected by a crisis](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas), such as a terrorist attack
 

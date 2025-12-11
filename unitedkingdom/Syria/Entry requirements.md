@@ -18,6 +18,10 @@ If you hold Israeli or Iranian citizenship you cannot enter Syria. Those with Le
 
 If your passport shows previous travel to Israel, you may be refused entry into Syria.
 
+## Dual nationals
+
+When returning to the UK, British citizens must carry a valid [British passport](https://www.gov.uk/browse/abroad/passports) or [certificate of entitlement](https://www.gov.uk/right-of-abode/apply-for-a-certificate-of-entitlement). See [Dual citizenship](https://www.gov.uk/dual-citizenship).
+
 ## Visa requirements
 
 You must have a visa to travel to Syria.

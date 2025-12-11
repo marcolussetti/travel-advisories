@@ -1,18 +1,18 @@
 # Warnings and insurance
 
 Still current at:
-:   14 August 2025
+:   11 December 2025
 
 Updated:
-:   13 August 2025
+:   10 December 2025
 
 Latest update:
-:   Updated information on health risks in Sudan (‘Health’ page).
+:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/672a3fc8f03408fa7966d186/FCDO__TA__038_-_Sudan_Travel_Advice_Ed8__WEB_.jpg)
 
 
-[Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/672a3fc8fbd69e1861921ba2/FCDO__TA__038_-_Sudan_Travel_Advice_Ed8.pdf)
+[Download a more detailed map (PDF, 591 KB)](https://assets.publishing.service.gov.uk/media/672a3fc8fbd69e1861921ba2/FCDO__TA__038_-_Sudan_Travel_Advice_Ed8.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 

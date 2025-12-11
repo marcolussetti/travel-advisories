@@ -22,6 +22,10 @@ Make sure you get your passport stamped.
 
 Check the visa expiry date written in your passport is correct before leaving border control. If it is wrong, you could be accused of overstaying. Your passport is stamped upon entry which will specify the date by which you need to leave Vietnam.
 
+## Dual nationals
+
+When returning to the UK, British citizens must carry a valid [British passport](https://www.gov.uk/browse/abroad/passports) or [certificate of entitlement](https://www.gov.uk/right-of-abode/apply-for-a-certificate-of-entitlement). See [Dual citizenship](https://www.gov.uk/dual-citizenship).
+
 ## Visa requirements
 
 You can visit Vietnam without a visa for up to 45 days for tourism or business. On arrival, your passport will be stamped with an entry and exit stamp (the date you have to leave by). Check that the date given is 45 days from your arrival date, as Immigration will not change this after you have left the airport/land border.

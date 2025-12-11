@@ -20,7 +20,7 @@ At least 8 weeks before your trip:
 * check the latest [vaccine recommendations for South Korea](https://www.travelhealthpro.org.uk/country/120/south-korea#Vaccine_Recommendations)
 * see where to get vaccines and whether you have to pay on the [NHS travel vaccinations page](https://www.nhs.uk/conditions/travel-vaccinations/)
 
-See what health risks you’ll face in South Korea, including:
+See [what health risks you’ll face in South Korea](https://travelhealthpro.org.uk/country/120/south-korea#General_Information), including:
 
 * malaria
 * insect and tick bites

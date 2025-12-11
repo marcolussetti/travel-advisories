@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   15 November 2025
+:   11 December 2025
 
 Updated:
-:   14 November 2025
+:   10 December 2025
 
 Latest update:
-:   New information about a data breach to Somalia’s eVisa system (‘Entry requirements’ page).
+:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/61a63d6be90e07044b1ef4b5/s.jpg)
 

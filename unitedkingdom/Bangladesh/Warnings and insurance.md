@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   4 December 2025
+:   11 December 2025
 
 Updated:
-:   3 December 2025
+:   10 December 2025
 
 Latest update:
-:   This travel advice has been updated with information about crime and upcoming elections ('Safety and security' page).
+:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/66cdbf9203c7db1b41c7091b/FCDO__TA__050_-_Bangladesh_Travel_Advice_Ed2__WEB_.jpg)
 

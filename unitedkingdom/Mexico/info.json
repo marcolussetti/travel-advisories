@@ -1,11 +1,11 @@
 {
     "name": "Mexico",
-    "update_reason": "Information added about World Cup 2026 (\u2018Warnings and insurance\u2019 and \u2018World Cup 2026\u2019 pages).",
+    "update_reason": "New information about dual nationals returning to the UK (\u2018Entry requirements\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Mexico/Warnings and insurance.md",
-            "update_date": "2025-12-05T16:06:08+00:00"
+            "update_date": "2025-12-10T13:43:01+00:00"
         },
         {
             "title": "Entry requirements",
@@ -38,5 +38,5 @@
             "file": "unitedkingdom/Mexico/Getting help.md"
         }
     ],
-    "update_date": "2025-12-05T16:06:08+00:00"
+    "update_date": "2025-12-10T13:43:01+00:00"
 }

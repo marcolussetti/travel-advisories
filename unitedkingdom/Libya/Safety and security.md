@@ -44,15 +44,6 @@ British nationals are seen as legitimate targets, including tourists, humanitari
 
 The long-standing policy of the British government is to not make substantive concessions to hostage takers. The British government considers that paying ransoms and releasing prisoners builds the capability of terrorist groups and finances their activities. This can, in turn, increase the risk of further hostage-taking. The Terrorism Act (2000) makes payments to terrorists illegal.
 
-## Regional risks
-
-Ongoing hostilities in the region and between Israel and Iran could escalate quickly and pose security risks for the wider region.
-
-You should:
-
-* monitor local and international media for the latest information
-* be vigilant and follow the instructions of local authorities
-
 ## Political situation
 
 The political situation in Libya is fragile and the security situation remains dangerous and unpredictable.
@@ -188,7 +179,7 @@ Road traffic accidents are common and often result in deaths. The emergency resp
 
 Flights to and from all airports in Libya are at risk of cancellation at short notice.
 
-Tripoli International Airport has been closed since 2014, following clashes between armed groups in the area surrounding the airport. Other airports may change their flight schedule without notice. Mitiga Airport, which operates international fllights, is Tripoli’s only currently functioning civilian airport. Fighting between armed groups in the area caused Mitiga Airport to temporarily close in 2023.
+Tripoli International Airport has been closed since 2014, following clashes between armed groups in the area surrounding the airport. Other airports may change their flight schedule without notice. Mitiga Airport, which operates international flights, is Tripoli’s only currently functioning civilian airport. Fighting between armed groups in the area caused Mitiga Airport to temporarily close in 2023.
 
 The [UK Air Safety List (ASL)](https://www.gov.uk/guidance/uk-air-safety-list) lists all known airlines in Libya that do not meet international safety standards and are banned from operating commercial air services to, from, and within the UK. Check the UK Air Safety List when considering which airlines to fly with. The list is maintained by the Department for Transport, based on advice from the [UK Civil Aviation Authority](https://www.caa.co.uk/Commercial-Industry/Airlines/Licensing/Requirements-and-guidance/Third-Country-Operator-Certificates).
 

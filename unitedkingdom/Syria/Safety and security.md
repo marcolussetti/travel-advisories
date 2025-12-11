@@ -55,15 +55,6 @@ Fighting and violence may occur around the country and is highly unpredictable. 
 
 Fighting has, at various times, led to the temporary suspension of commercial flights, road closures, and the closure of some border crossings. Curfews may be imposed across the country.
 
-## Regional risks
-
-Ongoing hostilities in the region and between Israel and Iran could escalate quickly and pose security risks for the wider region. There are reports of military debris falling in various locations. Travel disruptions, including flight cancellations and airspace closures may occur. Demonstrations and protest activity may take place.
-
-You should:
-
-* monitor local and international media for the latest information
-* be vigilant and follow the instructions of local authorities
-
 ## Political activity
 
 The political situation in Syria can be volatile. Political demonstrations may escalate into violent protests and fighting. Monitor the media for information about possible demonstrations and be alert to local and regional developments, which may trigger public disturbances.

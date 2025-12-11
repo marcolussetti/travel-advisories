@@ -74,7 +74,7 @@ Find out what you can do to [prepare for and respond to extreme weather and natu
 
 ### Hurricanes
 
-Hurricane Beryl made landfall on the islands of Carriacou and Petite Martinique in July 2024, and there continues to be limited tourist infrastructure as rebuilding efforts continue. If you plan to travel to either island, check with your travel agent or accommodation provider about any disruption you may face.
+Hurricane Beryl made landfall on the islands of Carriacou and Petite Martinique in July 2024, and there continues to be reduced tourist infrastructure as rebuilding efforts continue. If you plan to travel to either island, check with your travel agent or accommodation provider about any disruption you may face.
 
 The hurricane season in the Caribbean normally runs from June to November. Monitor local news and check the warnings on the [US National Hurricane Center](http://www.nhc.noaa.gov/).
 

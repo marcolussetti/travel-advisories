@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   22 August 2025
+:   11 December 2025
 
 Updated:
-:   21 August 2025
+:   10 December 2025
 
 Latest update:
-:   Updated information about the use of taxis in Panama (see ‘Taxis’ on the ‘Safety and security’ page).
+:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
 
 ## Before you travel
 

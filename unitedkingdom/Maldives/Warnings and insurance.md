@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   3 April 2025
+:   11 December 2025
 
 Updated:
-:   2 April 2025
+:   10 December 2025
 
 Latest update:
-:   Updated information on sea travel, Ramadan and risks from terrorism ('Safety and security' page).
+:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
 
 ## Before you travel
 

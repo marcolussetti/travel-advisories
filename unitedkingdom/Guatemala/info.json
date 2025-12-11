@@ -1,11 +1,11 @@
 {
     "name": "Guatemala",
-    "update_reason": "Updated information about travelling between Guatemala, El Salvador, Nicaragua and Honduras (\u2018Entry requirements\u2019 page).",
+    "update_reason": "New information about dual nationals returning to the UK (\u2018Entry requirements\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Guatemala/Warnings and insurance.md",
-            "update_date": "2025-10-14T11:43:14+01:00"
+            "update_date": "2025-12-10T13:54:38+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Guatemala/Getting help.md"
         }
     ],
-    "update_date": "2025-10-14T11:43:14+01:00"
+    "update_date": "2025-12-10T13:54:38+00:00"
 }

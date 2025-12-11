@@ -18,6 +18,10 @@ Make sure that an immigration official stamps, dates and signs your passport whe
 
 This is important if you enter Paraguay at a land border, typically the crossing between Ciudad del Este and Foz do Iguaçu in Brazil. Long-distance bus drivers sometimes tell foreign nationals that they can complete immigration formalities in Asunción. This is not true, and you will get a fine if you do not get your passport stamped at the point of entry.
 
+## Dual nationals
+
+When returning to the UK, British citizens must carry a valid [British passport](https://www.gov.uk/browse/abroad/passports) or [certificate of entitlement](https://www.gov.uk/right-of-abode/apply-for-a-certificate-of-entitlement). See [Dual citizenship](https://www.gov.uk/dual-citizenship).
+
 ## Visa requirements
 
 You do not need a visa to visit Paraguay. You will normally get permission to stay for 90 days on arrival.

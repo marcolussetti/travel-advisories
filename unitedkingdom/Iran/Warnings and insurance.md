@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   19 November 2025
+:   11 December 2025
 
 Updated:
-:   18 November 2025
+:   10 December 2025
 
 Latest update:
-:   Addition of information on the risks from methanol poisoning ('Safety and security' page).
+:   New information about dual nationals returning to the UK (‘ Entry requirements’ page) and update to the ‘Political situation in Iran’ (‘Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/627e359b8fa8f53f99901991/FCDO__TA__021_-_Iran_Travel_Advice_Ed5__WEB_.jpg)
 
@@ -26,7 +26,7 @@ Find out more about [why FCDO advises against travel](https://www.gov.uk/foreign
 
 ## Political situation in Iran
 
-From 13 June, Israel conducted military action against Iran. Reports suggest that a wide range of military, nuclear and civil installations across the country were hit, with major cities affected. On 22 June the US also launched military strikes on Iranian nuclear facilities. On 24 June a ceasefire began. UK staff have returned to Iran after they were temporarily withdrawn in June. This is a fragile situation with the potential to deteriorate further, quickly and without warning.
+In June, Israel and the US conducted military action against Iran targeting a wide range of military, nuclear and civil installations across the country. On 24 June a ceasefire began, however, this remains a fragile situation with the potential to deteriorate quickly and without warning.
 
 ## Limited UK government support
 

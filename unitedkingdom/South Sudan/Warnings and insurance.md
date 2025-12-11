@@ -1,24 +1,24 @@
 # Warnings and insurance
 
 Still current at:
-:   23 April 2025
+:   11 December 2025
 
 Updated:
-:   22 April 2025
+:   10 December 2025
 
 Latest update:
-:   Information about what health risks you may face in South Sudan, including mpox ('Health' page).
+:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/5f4f33bfe90e071c6c7d9425/FCDO__TA__036_-_South_Sudan_Travel_Advice_Ed1__WEB_.jpg)
 
 
-[Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/5f4f33bfe90e071c78ff79da/FCDO__TA__036_-_South_Sudan_Travel_Advice_Ed1.pdf)
+[Download a more detailed map (PDF, 473 KB)](https://assets.publishing.service.gov.uk/media/5f4f33bfe90e071c78ff79da/FCDO__TA__036_-_South_Sudan_Travel_Advice_Ed1.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
 ## FCDO advises against all travel to South Sudan
 
-FCDO advises against all travel to South Sudan due to the risk of armed violence and criminality. If you are in South Sudan and judge it safe to do so, you should leave now.
+FCDO advises against all travel to South Sudan due to the risk of armed violence and criminality.
 
 See more about [safety and security](/foreign-travel-advice/south-sudan/safety-and-security) in South Sudan.
 
@@ -30,11 +30,9 @@ If the unstable security situation deteriorates, routes into and out of South Su
 
 Regional developments may also affect international transport. For example, in 2019 and 2023, events in Sudan caused South Sudan’s airspace to close temporarily.
 
-As of 26 March, the number of British embassy staff in Juba has been temporarily reduced due to the risk of increased insecurity. The embassy remains open in order to carry out essential work but consular assistance to British nationals is severely limited in South Sudan. In person consular assistance is not available.
+Consular assistance to British nationals is severely limited in South Sudan. In person consular assistance is not available.
 
 ## If you are in South Sudan
-
-If you are in South Sudan and judge it safe to do so, you should leave now.
 
 FCDO continues to advise against all travel to South Sudan. If you choose to remain in South Sudan, you do so at your own risk. You should have a personal emergency plan that does not rely on the UK government. This includes the ability to leave the country or to shelter in place, if you judge that to be the safer choice. Make sure to keep all travel documentation up to date, stock up on essential supplies, and monitor the local situation.
 

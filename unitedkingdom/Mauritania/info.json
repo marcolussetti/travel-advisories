@@ -1,11 +1,11 @@
 {
     "name": "Mauritania",
-    "update_reason": "Addition of information about the risks from Rift Valley fever in Mauritania (\u2018 Health\u2019 page).",
+    "update_reason": "New information about dual nationals returning to the UK (\u2018Entry requirements\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Mauritania/Warnings and insurance.md",
-            "update_date": "2025-10-27T11:09:31+00:00"
+            "update_date": "2025-12-10T13:39:18+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Mauritania/Getting help.md"
         }
     ],
-    "update_date": "2025-10-27T11:09:31+00:00"
+    "update_date": "2025-12-10T13:39:18+00:00"
 }

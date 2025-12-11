@@ -1,11 +1,11 @@
 {
     "name": "China",
-    "update_reason": "Updated information about visa requirements in China ('Entry requirements'  page).",
+    "update_reason": "New information about dual nationals returning to the UK (\u2018Entry requirements\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/China/Warnings and insurance.md",
-            "update_date": "2025-10-27T13:25:59+00:00"
+            "update_date": "2025-12-10T12:44:40+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/China/Getting help.md"
         }
     ],
-    "update_date": "2025-10-27T13:25:59+00:00"
+    "update_date": "2025-12-10T12:44:40+00:00"
 }

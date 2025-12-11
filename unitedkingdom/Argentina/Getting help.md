@@ -46,7 +46,7 @@ FCDO provides guidance on how to help yourself stay safe and what to do if you 
 * finding English-speaking [lawyers](https://find-a-professional-service-abroad.service.csd.fcdo.gov.uk/find/lawyers?country=Argentina), [funeral directors](https://find-a-professional-service-abroad.service.csd.fcdo.gov.uk/find/funeral-directors?country=Argentina) and [translators and interpreters](https://find-a-professional-service-abroad.service.csd.fcdo.gov.uk/find/translators-interpreters?country=Argentina) in Argentina
 * dealing with a [death in Argentina](https://www.gov.uk/government/publications/argentina-bereavement-information/argentina-bereavement-infotmation)
 * being [arrested in Argentina](https://www.gov.uk/government/publications/argentina-prisoner-pack/argentina-prisoner-pack)
-* getting help if you’re a [victim of crime](https://www.gov.uk/victim-crime-abroad)
+* getting help if you’re a [victim of crime](https://www.gov.uk/guidance/victim-of-crime-abroad)
 * what to do if you’re [in hospital](https://www.gov.uk/guidance/in-hospital-abroad)
 * if you are [affected by a crisis](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas), such as a terrorist attack
 

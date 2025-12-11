@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 July 2025
+:   11 December 2025
 
 Updated:
-:   25 July 2025
+:   10 December 2025
 
 Latest update:
-:   Removal of malaria from list of potential health risks, after Timor-Leste was certified by the WHO to be malaria-free on 24 July 2025 ('Health' page).
+:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
 
 ## Before you travel
 

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   6 December 2025
+:   11 December 2025
 
 Updated:
-:   5 December 2025
+:   10 December 2025
 
 Latest update:
-:   Updated information that up until 31 December 2026, British passport holders can enter and leave the Dominican Republic for tourism purposes, as long as their passport remains valid for the duration of their visit (‘Entry requirements’ page).
+:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
 
 ## Before you travel
 

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   4 December 2025
+:   11 December 2025
 
 Updated:
-:   3 December 2025
+:   10 December 2025
 
 Latest update:
-:   Addition of information on advice from the Taiwanese authorities on crisis preparedness ('Safety and security' page).
+:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
 
 The UK does not recognise Taiwan as a state and has no diplomatic relations with Taiwan, so limited support is available to British nationals. Please refer to the [British Office in Taipei](https://www.gov.uk/world/organisations/british-office-taipei) for further information.
 

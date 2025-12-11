@@ -1,11 +1,11 @@
 {
     "name": "French Polynesia",
-    "update_reason": "Removal of information on tsunami alert specific to the earthquake in the Kamchatka Peninsular Region  (\u2018Warnings and insurance\u2019 page).",
+    "update_reason": "New information about dual nationals returning to the UK (\u2018Entry requirements\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/French Polynesia/Warnings and insurance.md",
-            "update_date": "2025-08-01T16:02:08+01:00"
+            "update_date": "2025-12-10T13:36:20+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/French Polynesia/Getting help.md"
         }
     ],
-    "update_date": "2025-08-01T16:02:08+01:00"
+    "update_date": "2025-12-10T13:36:20+00:00"
 }

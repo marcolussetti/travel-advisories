@@ -1,11 +1,11 @@
 {
     "name": "Albania",
-    "update_reason": "Removal of information about wildfires ('Warnings and insurance' page).",
+    "update_reason": "New information about dual nationals returning to the UK (\u2018Entry requirements\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Albania/Warnings and insurance.md",
-            "update_date": "2025-10-08T12:48:58+01:00"
+            "update_date": "2025-12-10T12:40:35+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Albania/Getting help.md"
         }
     ],
-    "update_date": "2025-10-08T12:48:58+01:00"
+    "update_date": "2025-12-10T12:40:35+00:00"
 }

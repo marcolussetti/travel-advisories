@@ -20,6 +20,10 @@ Make sure you get an entry stamp in your passport when you arrive. Immigration o
 
 At Bangladeshi border control, you may also need to show a return or onward ticket.
 
+## Dual nationals
+
+When returning to the UK, British citizens must carry a valid [British passport](https://www.gov.uk/browse/abroad/passports) or [certificate of entitlement](https://www.gov.uk/right-of-abode/apply-for-a-certificate-of-entitlement). See [Dual Citizenship](https://www.gov.uk/dual-citizenship).
+
 ## Visa requirements
 
 You must have a visa to visit Bangladesh for up to 3 months, unless you have a ‘no visa required’ stamp in your UK passport.

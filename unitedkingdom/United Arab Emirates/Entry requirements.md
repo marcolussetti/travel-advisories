@@ -16,6 +16,10 @@ Check with your travel provider that your passport and other travel documents me
 
 You will be denied entry if you do not have a valid travel document or try to use a passport that has been reported lost or stolen.
 
+## Dual nationals
+
+When returning to the UK, British citizens must carry a valid [British passport](https://www.gov.uk/browse/abroad/passports) or [certificate of entitlement](https://www.gov.uk/right-of-abode/apply-for-a-certificate-of-entitlement). See [Dual citizenship](https://www.gov.uk/dual-citizenship).
+
 ## Visa requirements
 
 You can get a visitor or tourist visa issued free of charge when you arrive in the UAE. You do not need to apply in advance of travel. Your passport will be stamped with the visa as you go through immigration. It will be valid for up to 90 days over a 180-day period, which will begin from the date of first entry into the UAE. The stay can either be continuous or divided across multiple visits, provided the total duration does not exceed 90 days within the 180-day timeframe.

@@ -1,11 +1,11 @@
 {
     "name": "Samoa",
-    "update_reason": "This travel advice was reviewed for accuracy and there are no significant updates.",
+    "update_reason": "New information about dual nationals returning to the UK (\u2018Entry requirements\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Samoa/Warnings and insurance.md",
-            "update_date": "2025-09-04T11:57:35+01:00"
+            "update_date": "2025-12-10T13:32:35+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Samoa/Getting help.md"
         }
     ],
-    "update_date": "2025-09-04T11:57:35+01:00"
+    "update_date": "2025-12-10T13:32:35+00:00"
 }

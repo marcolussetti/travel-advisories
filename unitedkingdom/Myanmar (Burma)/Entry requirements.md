@@ -8,6 +8,14 @@ The authorities in Myanmar set and enforce entry rules. If you’re not sure how
 
 To enter Myanmar, your passport must have an ‘expiry date’ at least 6 months after the day you arrive.
 
+## Dual nationals
+
+When returning to the UK, British citizens must carry a valid [British passport](https://www.gov.uk/browse/abroad/passports) or [certificate of entitlement](https://www.gov.uk/right-of-abode/apply-for-a-certificate-of-entitlement). See [Dual citizenship](https://www.gov.uk/dual-citizenship).
+
+### Myanmar-British dual nationals
+
+Myanmar does not recognise dual nationality. If you hold dual nationality, Myanmar authorities may treat you as a Myanmar citizen. This limits the consular assistance the UK government may be able to provide. If you are arrested or detained as a dual national, Myanmar authorities may refuse UK consular staff permission to visit or assist you.
+
 ## Visa requirements
 
 You must have a visa to enter Myanmar. If you must apply for and receive your visa before travelling. You cannot obtain a visa on arrival.
@@ -49,10 +57,6 @@ Due to concerns over counterfeit money, exchange counters may refuse dollars wit
 If you want to pay for hotels or restaurants with a credit or debit card, phone ahead to check this will be possible.
 
 You cannot import gold or gold bullion into Myanmar for trading and risk arrest for doing so. On arrival, you  must declare any valuable articles including gold, gems and jewellery with customs.
-
-## Dual nationality
-
-Myanmar does not recognise dual nationality. If you hold dual nationality, Myanmar authorities may treat you as a Myanmar citizen. This limits the consular assistance the UK government may be able to provide. If you are arrested or detained as a dual national, Myanmar authorities may refuse UK consular staff permission to visit or assist you.
 
 [Previous
 :

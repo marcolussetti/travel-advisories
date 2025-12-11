@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   4 July 2025
+:   11 December 2025
 
 Updated:
-:   3 July 2025
+:   10 December 2025
 
 Latest update:
-:   Removal of malaria as a health risk in Suriname, as the World Health Organisation certified Suriname malaria-free on 30 June 2025 (‘Health’ page).
+:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
 
 ## Before you travel
 

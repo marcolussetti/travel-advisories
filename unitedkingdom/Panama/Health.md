@@ -24,7 +24,7 @@ At least 8 weeks before your trip:
 
 See [what health risks you’ll face in Panama](https://travelhealthpro.org.uk/country/174/panama), including:
 
-* dengue – on 30 July 2024 [the Panama Ministry of Health issued a health alert](https://www.minsa.gob.pa/noticia/ministerio-de-salud-declara-alerta-sanitaria-por-aumento-de-casos-de-dengue) (in Spanish) due to the increase in dengue cases, particularly in Panama City, Colón, Panama East and Panama West
+* dengue
 * malaria
 * Zika virus
 * chikungunya

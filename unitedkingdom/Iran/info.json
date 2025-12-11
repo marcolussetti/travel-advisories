@@ -1,11 +1,11 @@
 {
     "name": "Iran",
-    "update_reason": "Addition of information on the risks from methanol poisoning ('Safety and security' page).",
+    "update_reason": "New information about dual nationals returning to the UK (\u2018 Entry requirements\u2019 page) and update to the \u2018Political situation\u202fin Iran\u2019 (\u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Iran/Warnings and insurance.md",
-            "update_date": "2025-11-18T10:32:16+00:00"
+            "update_date": "2025-12-10T12:48:30+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Iran/Getting help.md"
         }
     ],
-    "update_date": "2025-11-18T10:32:16+00:00"
+    "update_date": "2025-12-10T12:48:30+00:00"
 }

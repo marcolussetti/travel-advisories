@@ -10,6 +10,10 @@ If you are visiting Qatar, your passport should be valid for at least 6 months f
 
 If you are a resident of Qatar, your passport must be valid when you arrive.
 
+## Dual nationals
+
+When returning to the UK, British citizens must carry a valid [British passport](https://www.gov.uk/browse/abroad/passports) or [certificate of entitlement](https://www.gov.uk/right-of-abode/apply-for-a-certificate-of-entitlement). See [Dual citizenship](https://www.gov.uk/dual-citizenship).
+
 ## Visa requirements
 
 You can get a tourist visa on arrival if you’re travelling on a full British Citizen passport.
@@ -58,7 +62,7 @@ Qatar also prohibits the importation, sale and purchase of electronic cigarettes
 
 ### Taking medication into Qatar
 
-Qatar has [guidance on medications](https://www.moph.gov.qa/english/derpartments/policyaffairs/pdc/Pages/default.aspx) that you can bring into Qatar. For further information on the legal status of a specific medicine, [contact the Qatari Embassy in the UK](https://london.embassy.qa/en/).
+Qatar has [guidance on medications](https://london.embassy.qa/en/services/travelling-to-qatar) that you can bring into Qatar. For further information on the legal status of a specific medicine, [contact the Qatari Embassy in the UK](https://london.embassy.qa/en/).
 
 ### Taking money, precious metals or gems into Qatar
 

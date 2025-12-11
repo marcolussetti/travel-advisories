@@ -16,6 +16,12 @@ You will be denied entry if you do not have a valid travel document or try to us
 
 If your passport shows previous travel to Israel, it will not be accepted for travel to Libya.
 
+## Dual nationals
+
+When returning to the UK, British citizens must carry a valid [British passport](https://www.gov.uk/browse/abroad/passports) or [certificate of entitlement](https://www.gov.uk/right-of-abode/apply-for-a-certificate-of-entitlement). See [Dual citizenship](https://www.gov.uk/dual-citizenship).
+
+Be aware that a British passport or a certificate of entitlement to the right of abode could attract unwanted attention and pose a risk to your personal safety. Stay alert and exercise vigilance at all times.
+
 ## Visa requirements
 
 If you choose to travel to Libya against FCDO advice, ensure you have the right visa or you may be refused entry. Contact the [Libyan Embassy in London](https://www.gov.uk/government/publications/foreign-embassies-in-the-uk) for further information on the visa you require. You may require a specific type of visa depending on the nature of your trip.

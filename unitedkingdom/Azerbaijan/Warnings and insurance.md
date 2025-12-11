@@ -1,18 +1,18 @@
 # Warnings and insurance
 
 Still current at:
-:   18 October 2025
+:   11 December 2025
 
 Updated:
-:   17 October 2025
+:   10 December 2025
 
 Latest update:
-:   Removal of special visa procedures for the Formula 1 and the addition of information about cultural sensitivity (‘Safety and security’ page).
+:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/67efddbf27eb76c92cf7e567/FCDO__TA__004_-_Azerbaijan_Travel_Advice_Ed9__WEB_.jpg)
 
 
-[Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/67efddc027eb76c92cf7e568/FCDO__TA__004_-_Azerbaijan_Travel_Advice_Ed9.pdf)
+[Download a more detailed map (PDF, 938 KB)](https://assets.publishing.service.gov.uk/media/67efddc027eb76c92cf7e568/FCDO__TA__004_-_Azerbaijan_Travel_Advice_Ed9.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 

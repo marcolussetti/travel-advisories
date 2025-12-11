@@ -1,24 +1,24 @@
 # Warnings and insurance
 
 Still current at:
-:   30 August 2025
+:   11 December 2025
 
 Updated:
-:   29 August 2025
+:   10 December 2025
 
 Latest update:
-:   This travel advice has been reviewed for accuracy, with revisions and the addition of information about Ramadan, lifting of sanctions and the risks from terrorism, including kidnap ('Safety and security' page).
+:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/5f4f3764e90e071c745ff2f9/FCDO__TA__039_-_Syria_Travel_Advice_Ed1__WEB_.jpg)
 
 
-[Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/5f4f37648fa8f57fb57d4b68/FCDO__TA__039_-_Syria_Travel_Advice_Ed1.pdf)
+[Download a more detailed map (PDF, 571 KB)](https://assets.publishing.service.gov.uk/media/5f4f37648fa8f57fb57d4b68/FCDO__TA__039_-_Syria_Travel_Advice_Ed1.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
 ## FCDO advises against all travel to Syria
 
-FCDO advises against all travel to Syria due to the  the ongoing conflict and unpredictable security conditions and threat of terrorist attacks.
+FCDO advises against all travel to Syria due to unpredictable security conditions and the threat of terrorist attacks.
 
 ## UK government support
 

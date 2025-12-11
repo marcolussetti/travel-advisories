@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   3 December 2025
+:   11 December 2025
 
 Updated:
-:   2 December 2025
+:   10 December 2025
 
 Latest update:
-:   Updated information about regional risks in Turkana, West Pokot, Elgeyo-Marakwet, Baringo, Laikipia and Samburu counties (‘Regional risks’ page).
+:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/68cbf893b6d7ea468dbea672/FCDO__TA__055_-_Kenya_Travel_Advice_Ed6__WEB_.jpg)
 

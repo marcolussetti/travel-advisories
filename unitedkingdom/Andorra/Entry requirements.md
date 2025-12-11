@@ -21,6 +21,10 @@ Check with your travel provider that your passport and other travel documents me
 
 You will be denied entry if you do not have a valid travel document or try to use a passport that has been reported lost or stolen.
 
+## Dual nationals
+
+When returning to the UK, British citizens must carry a valid [British passport](https://www.gov.uk/browse/abroad/passports) or [certificate of entitlement](https://www.gov.uk/right-of-abode/apply-for-a-certificate-of-entitlement). See [Dual Citizenship](https://www.gov.uk/dual-citizenship).
+
 ## Visa requirements
 
 Check visa requirements in [France travel advice](https://www.gov.uk/foreign-travel-advice/france/entry-requirements#visa-requirements) or [Spain travel advice](https://www.gov.uk/foreign-travel-advice/spain/entry-requirements#visa-requirements), as you’ll travel through one of those countries to reach Andorra. You must meet the requirements for entry to the Schengen Area in order to enter France or Spain for onward travel to Andorra, even if you have Andorran residency.

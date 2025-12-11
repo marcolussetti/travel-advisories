@@ -8,6 +8,10 @@ The authorities in The Bahamas set and enforce entry rules. If you’re not sure
 
 To enter The Bahamas, your passport must have an ‘expiry date’ at least 6 months after the date you plan to leave.
 
+## Dual nationals
+
+When returning to the UK, British citizens must carry a valid [British passport](https://www.gov.uk/browse/abroad/passports) or [certificate of entitlement](https://www.gov.uk/right-of-abode/apply-for-a-certificate-of-entitlement). See [Dual Citizenship](https://www.gov.uk/dual-citizenship).
+
 ## Visa requirements
 
 You can usually stay in The Bahamas for up to 30 days without a visa. You can get [extensions up to a maximum of 8 months](https://www.immigration.gov.bs/entry-requirements/extension-of-stay/). Penalties for overstaying include a fine, detention and deportation. The Bahamas High Commission lists [more information about visas](https://www.bahamashclondon.net/forms/visa-applications/).

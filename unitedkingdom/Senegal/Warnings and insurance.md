@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   28 October 2025
+:   11 December 2025
 
 Updated:
-:   27 October 2025
+:   10 December 2025
 
 Latest update:
-:   Addition of information about the risks from Rift Valley fever in Senegal (‘ Health’ page).
+:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
 
 ## Before you travel
 

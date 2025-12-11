@@ -20,6 +20,10 @@ You may be exempt if you hold a resident visa, Alien Resident Card (ARC), Alien 
 
 For further advice and instructions on how to complete and submit the TWAC, check the [National Immigration Agency](https://twac.immigration.gov.tw/faq).
 
+## Dual nationals
+
+When returning to the UK, British citizens must carry a valid [British passport](https://www.gov.uk/browse/abroad/passports) or [certificate of entitlement](https://www.gov.uk/right-of-abode/apply-for-a-certificate-of-entitlement). See [Dual citizenship](https://www.gov.uk/dual-citizenship).
+
 ## Visa requirements
 
 You can visit Taiwan without a visa for up to 90 days. You can extend this by a further 90 days once you have arrived in Taiwan. You can get more information on [entering Taiwan without a visa (‘visa-exempt entry’)](https://www.boca.gov.tw/cp-149-4486-7785a-2.html) from the Taiwan Bureau of Consular Affairs. This applies if you travel:

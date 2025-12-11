@@ -31,7 +31,11 @@ In 2020, the village of Kitaya in the Mtwara region was attacked, close to the b
 
 ## Political situation
 
-Recent elections have seen demonstrations and political gatherings across mainland Tanzania and the islands of Zanzibar, which have turned violent and resulted in fatalities.
+A general election took place on 29 October 2025. Protests and the resulting security response led to fatalities and injuries in many areas of mainland Tanzania.
+
+Previous elections in Zanzibar have turned violent and resulted in fatalities.
+
+Further demonstrations, including violent responses by security forces, are possible at any time. There have been calls on social media for demonstrations to take place on public holidays.
 
 Be aware that there has been an increase in anti-foreigner rhetoric.
 
@@ -152,6 +156,8 @@ US dollars are widely accepted in tourist areas. Travellers cheques are not wide
 
 Most banks in major cities have ATMs that accept foreign debit cards and issue Tanzanian shillings. They sometimes break down or run out of money.
 
+Widespread cash shortages were reported in the days of political unrest that followed the 29 October 2025 election.
+
 To minimise the risk of card cloning, use ATMs located within the bank. If you try to exchange non-Bank of England pound notes, you may get a reduced exchange rate.
 
 ## Outdoor activities and adventure tourism
@@ -177,6 +183,8 @@ The [UK Air Safety List (ASL)](https://www.gov.uk/guidance/uk-air-safety-list#ta
 If you’re planning to drive in Tanzania, see [information on driving abroad](https://www.gov.uk/driving-abroad).
 
 The condition of cars rented out by some car hire companies is variable, so use a reputable firm. There are no roadside rescue or breakdown services. Road maps are hard to come by and not always up to date. Service stations are infrequent and may not have supplies of fuel. Consider using reputable taxis as an alternative.
+
+Widespread fuel shortages were reported in the days of political unrest that followed the 29 October 2025 election.
 
 You can drive in Tanzania with a UK driving licence for up to 6 months. For stays longer than this, an international driving permit (IDP) is required. Keep this with you in the car. To confirm the correct IDP to use, contact the [Tanzanian High Commission in the UK](https://www.uk.tzembassy.go.tz/).
 

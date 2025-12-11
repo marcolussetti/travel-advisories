@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   20 November 2025
+:   11 December 2025
 
 Updated:
-:   19 November 2025
+:   10 December 2025
 
 Latest update:
-:   New information on strike action ('Warnings and insurance' page).
+:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
 
 ## National strike action
 

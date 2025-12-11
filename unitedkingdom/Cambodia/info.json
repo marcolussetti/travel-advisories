@@ -1,11 +1,11 @@
 {
     "name": "Cambodia",
-    "update_reason": "Updated information on the dispute along the border with Thailand and Cambodia ('Warnings and insurance' page).",
+    "update_reason": "Updated information on the border situation with Thailand ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Cambodia/Warnings and insurance.md",
-            "update_date": "2025-10-09T15:42:33+01:00"
+            "update_date": "2025-12-10T14:27:43+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Cambodia/Getting help.md"
         }
     ],
-    "update_date": "2025-10-09T15:42:33+01:00"
+    "update_date": "2025-12-10T14:27:43+00:00"
 }

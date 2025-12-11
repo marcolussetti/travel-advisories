@@ -1,11 +1,11 @@
 {
     "name": "South Sudan",
-    "update_reason": "Information about what health risks you may face in South Sudan, including mpox ('Health' page).",
+    "update_reason": "New information about dual nationals returning to the UK (\u2018Entry requirements\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/South Sudan/Warnings and insurance.md",
-            "update_date": "2025-04-22T16:56:51+01:00"
+            "update_date": "2025-12-10T13:40:52+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/South Sudan/Getting help.md"
         }
     ],
-    "update_date": "2025-04-22T16:56:51+01:00"
+    "update_date": "2025-12-10T13:40:52+00:00"
 }

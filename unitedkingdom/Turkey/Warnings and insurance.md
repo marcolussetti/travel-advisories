@@ -1,18 +1,18 @@
 # Warnings and insurance
 
 Still current at:
-:   11 October 2025
+:   11 December 2025
 
 Updated:
-:   10 October 2025
+:   10 December 2025
 
 Latest update:
-:   Addition of information about checking the entry requirements for Greece, if you are considering day trips to Greek islands from Turkey (‘Entry requirements’ page).
+:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/6703bc3c3b919067bb482cfb/FCDO__TA__043_-_Turkey_Travel_Advice_Ed4__WEB_.jpg)
 
 
-[Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/6703bc3c080bdf716392eed6/FCDO__TA__043_-_Turkey_Travel_Advice_Ed4.pdf)
+[Download a more detailed map (PDF, 1.29 MB)](https://assets.publishing.service.gov.uk/media/6703bc3c080bdf716392eed6/FCDO__TA__043_-_Turkey_Travel_Advice_Ed4.pdf)
 
 ## Areas where FCDO advises against travel
 

@@ -1,11 +1,11 @@
 {
     "name": "Benin",
-    "update_reason": "Update on the attempt coup (See \u2018Political situation\u2019 on the \u2018Safety and security\u2019 page)",
+    "update_reason": "New information about dual nationals returning to the UK (\u2018Entry requirements\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Benin/Warnings and insurance.md",
-            "update_date": "2025-12-07T11:14:51+00:00"
+            "update_date": "2025-12-10T13:08:34+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Benin/Getting help.md"
         }
     ],
-    "update_date": "2025-12-07T11:14:51+00:00"
+    "update_date": "2025-12-10T13:08:34+00:00"
 }

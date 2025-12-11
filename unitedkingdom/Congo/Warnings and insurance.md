@@ -1,18 +1,18 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   11 December 2025
 
 Updated:
-:   20 January 2025
+:   10 December 2025
 
 Latest update:
-:   FCDO no longer advises against all but essential travel to some districts in Pool Region and Mouyondzi District in the Bouenza Region ('Warnings and insurance' page).
+:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/678a6b24d0561c11b91d05b9/FCDO__TA__011_-_Congo_Travel_Advice_Ed4__WEB_.jpg)
 
 
-[Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/678a6b249752f24aa15735ba/FCDO__TA__011_-_Congo_Travel_Advice_Ed4.pdf)
+[Download a more detailed map (PDF, 801 KB)](https://assets.publishing.service.gov.uk/media/678a6b249752f24aa15735ba/FCDO__TA__011_-_Congo_Travel_Advice_Ed4.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 

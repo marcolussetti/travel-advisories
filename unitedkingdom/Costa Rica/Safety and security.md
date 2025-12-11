@@ -41,22 +41,13 @@ See [advice for women travelling abroad](https://www.gov.uk/guidance/advice-for-
 
 ### Methanol poisoning
 
-People, including British nationals, have died or suffered serious illness caused by alcoholic drinks containing methanol. Criminal gangs have apparently used methanol in the manufacture of cheap brands of local spirits, including vodka and ‘guaro’ (cane liquor). Take care when buying spirit-based drinks.
+There have been deaths and cases of serious illness caused by alcoholic drinks containing methanol in Costa Rica.
 
-The Pan American Health Organisation (PAHO) says that methanol can cause headaches, dizziness, nausea and vomiting, seriously damage the optic nerve, and can cause respiratory or cardiac failure. If you, or someone you are travelling with, shows signs of methanol poisoning, seek immediate medical attention.
+Criminal gangs have apparently used methanol in the manufacture of cheap brands of local spirits, including vodka and ‘guaro’ (cane liquor). Take care when buying spirit-based drinks.
 
-To reduce the risk of methanol poisoning:
+Even small amounts of methanol can kill. It is not possible to identify methanol in alcoholic drinks by taste or smell. See [Travel Aware Drink Spiking and Methanol Poisoning](https://travelaware.campaign.gov.uk/spiking-and-methanol-poisoning/) for information about how to reduce the risks.
 
-* buy alcoholic beverages only from licensed liquor stores, bars, clubs, restaurants and hotels
-* avoid home-made alcoholic drinks
-* check bottle seals are intact
-* check labels for poor print quality or incorrect spelling
-
-Methanol is tasteless and odourless. If the label, smell or taste seems wrong, do not drink the alcohol. These are signs it is illegal and could contain methanol.
-
-TravelHealthPro lists the [symptoms of methanol poisoning](https://www.travelhealthpro.org.uk/factsheet/25/personal-safety). For more information about spiking and methanol poisoning, read Travel Aware’s information on [Spiking and methanol poisoning](https://travelaware.campaign.gov.uk/spiking-and-methanol-poisoning/).
-
-Seek [urgent medical attention](https://www.gov.uk/government/publications/list-of-medical-facilities-in-costa-rica) if you or someone you are travelling with show signs of methanol poisoning.
+Seek urgent medical attention if you or someone you are travelling with show the [signs of methanol poisoning](https://travelaware.campaign.gov.uk/spiking-and-methanol-poisoning/) after drinking.
 
 ## Laws and cultural differences
 

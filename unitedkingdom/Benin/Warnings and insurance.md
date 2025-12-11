@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   8 December 2025
+:   11 December 2025
 
 Updated:
-:   7 December 2025
+:   10 December 2025
 
 Latest update:
-:   Update on the attempt coup (See ‘Political situation’ on the ‘Safety and security’ page)
+:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/615dd0a28fa8f52986e61c0f/FCDO__TA__051_-_Benin_Travel_Advice_Ed1__WEB_.jpg)
 

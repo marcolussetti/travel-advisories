@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   20 August 2025
+:   11 December 2025
 
 Updated:
-:   19 August 2025
+:   10 December 2025
 
 Latest update:
-:   New information on the potential health risks from heavy metals in water (‘Health’ page).
+:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
 
 ## Before you travel
 

@@ -18,7 +18,7 @@ Follow the advice of local authorities and exercise caution while travelling aro
 
 ## Political situation
 
-Security incidents do happen in Burundi, and there remains concern about the Democratic Republic of Congo (DRC) border region as a result of the security situation in eastern DRC.
+Armed group activity and conflict along the border between Burundi and DRC has increased. Be cautious and keep up to date with developments through local media, given heightened insecurity. The only international airport in Burundi is the Melchior Ndadaye airport. In the event that flights were not available at the airport, there are currently limited land border options to exit Burundi. The DRC border area is unstable and the Rwandan border is closed. The Tanzania-Burundi border continues to operate normally, although transport options may be limited by the ongoing fuel shortages.
 
 Burundi closed its land borders with Rwanda on 11 January 2024 because of escalating bilateral tensions. It is still possible to fly between the two capitals.
 

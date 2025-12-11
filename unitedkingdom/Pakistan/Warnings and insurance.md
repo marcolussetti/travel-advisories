@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   7 December 2025
+:   11 December 2025
 
 Updated:
-:   6 December 2025
+:   10 December 2025
 
 Latest update:
-:   Due to the security situation across Pakistan, we continue to advise British nationals to remain extra vigilant and to follow travel advice updates, particularly the guidance set out in the security section (‘Safety and Security’ pages).
+:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 

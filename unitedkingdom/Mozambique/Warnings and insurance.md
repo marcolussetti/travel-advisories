@@ -1,18 +1,18 @@
 # Warnings and insurance
 
 Still current at:
-:   3 September 2025
+:   11 December 2025
 
 Updated:
-:   2 September 2025
+:   10 December 2025
 
 Latest update:
-:   FCDO now advises against all travel to some areas of Cabo Delgado, Nampula and Niassa Provinces ('Warnings and insurance' and 'Regional risks' pages).
+:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/68b6aa1b11b4ded2da19fcfe/FCDO__TA__028_-_Mozambique_Travel_Advice_Ed11__WEB_.jpg)
 
 
-[Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/68b6aa1b11b4ded2da19fcff/FCDO__TA__028_-_Mozambique_Travel_Advice_Ed11.pdf)
+[Download a more detailed map (PDF, 816 KB)](https://assets.publishing.service.gov.uk/media/68b6aa1b11b4ded2da19fcff/FCDO__TA__028_-_Mozambique_Travel_Advice_Ed11.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 

@@ -10,6 +10,10 @@ To visit Belarus, your passport must be valid for at least 3 months from the dat
 
 Check with your travel provider to make sure your passport and other travel documents meet their requirements. [Renew your passport](https://www.gov.uk/renew-adult-passport/renew) if you need to.
 
+## Dual nationals
+
+When returning to the UK, British citizens must carry a valid [British passport](https://www.gov.uk/browse/abroad/passports) or [certificate of entitlement](https://www.gov.uk/right-of-abode/apply-for-a-certificate-of-entitlement). See [Dual Citizenship](https://www.gov.uk/dual-citizenship).
+
 ## Children of Belarusian passport holders
 
 Children aged 15 and under who do not have a Belarusian passport but have a parent who does, must have a travel certificate issued by a Belarusian embassy or consulate to enter Belarus. Parents of children entering on this document should contact the State Border Committee, Ministry of Interior and Ministry of Foreign Affairs to make sure their children also have the relevant documentation to exit Belarus.

@@ -16,6 +16,10 @@ Check with your travel provider that your passport and other travel documents me
 
 You will be denied entry if you do not have a valid travel document or try to use a passport that has been reported lost or stolen.
 
+## Dual nationals
+
+When returning to the UK, British citizens must carry a valid British passport or [proof of right of abode](https://www.gov.uk/right-of-abode). See [Dual Citizenship](https://www.gov.uk/dual-citizenship).
+
 ## Visa requirements
 
 You can travel without a visa to Cyprus for up to 90 days. This applies if you travel:
@@ -36,6 +40,7 @@ Cyprus is not part of the Schengen area, so:
 
 * visits to Cyprus do not count towards your 90-day visa-free limit in the Schengen area
 * visits to other EU or Schengen countries do not count towards your 90-day visa-free limit in Cyprus
+* Cyprus is not affected by the new Entry/Exit System (EES) that will be introduced in Schengen countries from 12 October 2025. You will not need to register for EES when entering Cyprus. Read more [information on the EU Entry/Exit System and to understand which countries are in the Schengen area](https://www.gov.uk/guidance/eu-entryexit-system).
 
 Make sure you get your passport stamped on entry and exit.
 

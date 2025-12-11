@@ -39,18 +39,9 @@ Recent significant attacks include:
 * in June 2015, 38 foreign tourists were killed, including 30 British nationals, in a terrorist attack at Port El Kantaoui near Sousse
 * in March 2015, 21 tourists were killed, including a British national, in a terrorist attack at the Bardo Museum in the centre of Tunis
 
-## Regional risks
-
-Ongoing hostilities in the region and between Israel and Iran could escalate quickly and pose security risks for the wider region.
-
-You should:
-
-* monitor local and international media for the latest information
-* be vigilant and follow the instructions of local authorities
-
 ## Political situation
 
-In response to the current situation in Israel and the Occupied Palestinian Territories, peaceful demonstrations have occurred in some Tunisian cities, including outside some western embassies.
+In response to the current situation in Israel and Palestine, peaceful demonstrations have occurred in some Tunisian cities, including outside some western embassies.
 
 Demonstrations and protests are common and may start with little or no warning. They can sometimes become violent. Demonstrations and protests tend to be at weekends and on prominent national dates (which may include 14 January and 17 December). They usually take place in central areas of Tunis and other major cities, and may focus on government buildings.
 
@@ -89,7 +80,7 @@ Beach-appropriate clothing in holiday resorts is normal, but revealing clothing 
 
 ### Ramadan
 
-Ramadan is a holy month for Muslims. The dates vary by year and country, next starting in February 2025. During this time, eating or drinking, smoking or chewing gum in public in the daytime may cause offence.
+Ramadan is a holy month for Muslims. The dates vary by year and country, next starting in February 2026. During this time, eating or drinking, smoking or chewing gum in public in the daytime may cause offence.
 
 Get more advice when you arrive from your tour guide, hotel or business contacts. You should also:
 

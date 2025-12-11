@@ -10,7 +10,11 @@ To enter Australia, your passport must be valid for the length of your planned s
 
 If you’re travelling through or transiting another country on your way to or from Australia, check the entry requirements for that country. Many countries require at least 6 months validity remaining on your passport, even if you’re just in transit and do not pass through immigration.
 
-### Dual nationals
+## Dual nationals
+
+When returning to the UK, British citizens must carry a valid [British passport](https://www.gov.uk/browse/abroad/passports) or [certificate of entitlement](https://www.gov.uk/right-of-abode/apply-for-a-certificate-of-entitlement). See [Dual citizenship](https://www.gov.uk/dual-citizenship).
+
+### British- Australian dual nationals
 
 If you’re a British-Australian dual national, you must leave and enter Australia on your Australian passport. You could face difficulties and delays if you do not. See [Australian government advice for dual nationals](https://smartraveller.gov.au/guide/dual-nationals.html).
 

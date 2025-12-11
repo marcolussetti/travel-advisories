@@ -20,6 +20,34 @@ You will be denied entry if you do not have a valid travel document or try to us
 
 If you renew your passport while you are in China, contact your local exit and entry office or call the national immigration service hotline on 12367, before or immediately upon receipt.
 
+## Dual nationals
+
+When returning to the UK, British citizens must carry a valid [British passport](https://www.gov.uk/browse/abroad/passports) or [certificate of entitlement](https://www.gov.uk/right-of-abode/apply-for-a-certificate-of-entitlement). See [Dual citizenship](https://www.gov.uk/dual-citizenship).
+
+### Chinese-British dual nationals
+
+China does not recognise dual nationality. If you were born in China to a Chinese national parent, you will be:
+
+* considered by the Chinese authorities to have Chinese nationality
+* treated as a Chinese citizen, even if you used a British passport to enter China
+
+If you enter China on a Chinese passport or identity card, the British Embassy will not be able to offer you help. If you have formally renounced Chinese citizenship, you should carry clear evidence that you have done so. See [guidance on nationality in China](https://www.gov.uk/government/publications/nationality-in-china).
+
+If you’re a former Chinese citizen, Chinese authorities may:
+
+* treat you as a Chinese citizen
+* refuse you access to UK consular services
+
+This can happen even if you entered China on a UK or other foreign passport and you:
+
+* haven’t renounced your citizenship according to Chinese law
+* haven’t formally advised the Chinese authorities of your UK citizenship
+* continue to maintain a Chinese passport or household registration
+
+Authorities may not allow certain categories of Chinese citizens, such as state officials, to renounce their Chinese nationality under Chinese law.
+
+You should get professional legal advice if you’re unsure of your citizenship status under Chinese law.
+
 ## Visa requirements
 
 You must have a visa to visit mainland China.
@@ -45,30 +73,6 @@ If you want to stay in China longer than 6 months, you may need to get a residen
 ### Teaching visas
 
 Teachers have been detained and deported for working on the wrong visa. It is your responsibility to check you’re working on the correct visa.
-
-## Dual Chinese-British nationality
-
-China does not recognise dual nationality. If you were born in China to a Chinese national parent, you will be:
-
-* considered by the Chinese authorities to have Chinese nationality
-* treated as a Chinese citizen, even if you used a British passport to enter China
-
-If you enter China on a Chinese passport or identity card, the British Embassy will not be able to offer you help. If you have formally renounced Chinese citizenship, you should carry clear evidence that you have done so. See [guidance on nationality in China](https://www.gov.uk/government/publications/nationality-in-china).
-
-If you’re a former Chinese citizen, Chinese authorities may:
-
-* treat you as a Chinese citizen
-* refuse you access to UK consular services
-
-This can happen even if you entered China on a UK or other foreign passport and you:
-
-* haven’t renounced your citizenship according to Chinese law
-* haven’t formally advised the Chinese authorities of your UK citizenship
-* continue to maintain a Chinese passport or household registration
-
-Authorities may not allow certain categories of Chinese citizens, such as state officials, to renounce their Chinese nationality under Chinese law.
-
-You should get professional legal advice if you’re unsure of your citizenship status under Chinese law.
 
 ## Working in China
 

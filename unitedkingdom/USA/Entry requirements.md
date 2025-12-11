@@ -12,7 +12,11 @@ To enter the US, your passport must be valid for the length of your planned stay
 
 If you’re travelling through another country on your way to or from the US, check the entry requirements for that country. Many countries will only allow entry if you have at least 6 months validity remaining on your passport.
 
-### Dual nationals
+## Dual nationals
+
+When returning to the UK, British citizens must carry a valid [British passport](https://www.gov.uk/browse/abroad/passports) or [certificate of entitlement](https://www.gov.uk/right-of-abode/apply-for-a-certificate-of-entitlement). See [Dual citizenship](https://www.gov.uk/dual-citizenship).
+
+### British-US dual nationals
 
 US law requires US citizens to enter and exit the US using a US passport. Contact the [US Embassy or a consulate in the UK](https://uk.usembassy.gov/) for more information.
 
@@ -52,7 +56,7 @@ You cannot normally apply for an ESTA visa waiver if you were in the following c
 
 You cannot apply for an ESTA visa waiver if you travelled to or were in Cuba on or after 12 January 2021.
 
-An ESTA may not be sufficient for all types of business travel – particularly if you are travelling on behalf of a US company. Please check the rules on the [ESTA website](https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Festa.cbp.dhs.gov%2F&data=05%7C02%7CCharlotte.Nixon%40fcdo.gov.uk%7C5608e46cd9ad40b0d00108ddb3cd1a56%7Cd3a2d0d37cc84f52bbf985bd43d94279%7C0%7C0%7C638864415742600533%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=WAX%2FAn0YVOvpq5u%2BSMjtVacNL3%2B9KV0Gvqpy4sLHHqk%3D&reserved=0) carefully.
+An ESTA may not be sufficient for all types of business travel – particularly if you are travelling on behalf of a US company. Please check the rules on the [ESTA website](https://esta.cbp.dhs.gov/) carefully.
 
 If you are not eligible for an ESTA, you must instead apply for a US visa. Travelling on an ESTA when ineligible can lead to detention and deportation by the US authorities.
 

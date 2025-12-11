@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   1 December 2025
+:   11 December 2025
 
 Updated:
-:   30 November 2025
+:   10 December 2025
 
 Latest update:
-:   New information about risks from volcanic eruptions (‘Warnings and insurance’ page)
+:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/67c05135b0bb6528ee866b96/FCDO_TA_054_-_Colombia_Travel_Advice_Ed3_WEB.jpg)
 

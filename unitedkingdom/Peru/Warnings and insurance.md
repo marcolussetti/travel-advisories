@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   25 November 2025
+:   11 December 2025
 
 Updated:
-:   24 November 2025
+:   10 December 2025
 
 Latest update:
-:   Updated information about extension of the State of Emergency in Peru ('Warnings and insurance’ page).
+:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/6645e81e993111924d9d365a/FCDO__TA__093_-_Peru_Travel_Advice_Ed3__WEB_.jpg)
 

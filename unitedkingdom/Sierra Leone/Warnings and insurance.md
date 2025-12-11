@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   6 June 2025
+:   11 December 2025
 
 Updated:
-:   5 June 2025
+:   10 December 2025
 
 Latest update:
-:   New information about measures put in place by Sierra Leone authorities to reduce the risks of Mpox (‘Entry requirements’ page).
+:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
 
 ## Before you travel
 

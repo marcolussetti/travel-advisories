@@ -1,11 +1,11 @@
 {
     "name": "North Korea",
-    "update_reason": "Information on border restrictions ('Warnings and insurance' page) and political situation ('Safety and security' page).",
+    "update_reason": "New information about dual nationals returning to the UK (\u2018Entry requirements\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/North Korea/Warnings and insurance.md",
-            "update_date": "2024-09-20T15:13:42+01:00"
+            "update_date": "2025-12-10T13:22:30+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/North Korea/Getting help.md"
         }
     ],
-    "update_date": "2024-09-20T15:13:42+01:00"
+    "update_date": "2025-12-10T13:22:30+00:00"
 }

@@ -22,15 +22,6 @@ There is an increased threat linked to the number of Moroccans sympathetic or be
 
 In some places, including hotels and tourists sites, there may be protective security measures, including security guards.
 
-## Regional risks
-
-Ongoing hostilities in the region and between Israel and Iran could escalate quickly and pose security risks for the wider region.
-
-You should:
-
-* monitor local and international media for the latest information
-* be vigilant and follow the instructions of local authorities
-
 ## Political situation
 
 Protests and demonstrations could occur across the country, particularly in large cities, often without warning. These events are typically monitored closely by law enforcement. While authorised protests are generally peaceful, unauthorised ones have sometimes led to clashes between protesters and police. Such gatherings can cause travel disruption in the affected areas. Avoid political gatherings and demonstrations and follow local news and directions from security officials.

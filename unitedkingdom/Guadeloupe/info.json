@@ -1,11 +1,11 @@
 {
     "name": "Guadeloupe",
-    "update_reason": "This travel advice was reviewed for accuracy and reissued without any significant updates.",
+    "update_reason": "New information about dual nationals returning to the UK (\u2018Entry requirements\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Guadeloupe/Warnings and insurance.md",
-            "update_date": "2025-01-10T12:48:38+00:00"
+            "update_date": "2025-12-10T13:54:06+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Guadeloupe/Getting help.md"
         }
     ],
-    "update_date": "2025-01-10T12:48:38+00:00"
+    "update_date": "2025-12-10T13:54:06+00:00"
 }

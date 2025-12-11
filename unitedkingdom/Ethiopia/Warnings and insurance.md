@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   6 December 2025
+:   11 December 2025
 
 Updated:
-:   5 December 2025
+:   10 December 2025
 
 Latest update:
-:   FCDO now advises against all but essential travel within 5km of the town of Hawassa. FCDO continues to advise against all but essential travel and all travel to parts of Ethiopia ('Warnings and insurance' page).
+:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/6932cc9d4bedc0e762304142/FCDO__TA__017_-_Ethiopia_Travel_Advice_Ed40__WEB___1_.jpg)
 

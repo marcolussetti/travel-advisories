@@ -1,11 +1,11 @@
 {
     "name": "San Marino",
-    "update_reason": "This travel advice was reviewed for style and accuracy.",
+    "update_reason": "New information about dual nationals returning to the UK (\u2018Entry requirements\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/San Marino/Warnings and insurance.md",
-            "update_date": "2024-07-01T11:48:17+01:00"
+            "update_date": "2025-12-10T13:33:32+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/San Marino/Getting help.md"
         }
     ],
-    "update_date": "2024-07-01T11:48:17+01:00"
+    "update_date": "2025-12-10T13:33:32+00:00"
 }

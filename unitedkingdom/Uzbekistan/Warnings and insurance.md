@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   19 July 2025
+:   11 December 2025
 
 Updated:
-:   18 July 2025
+:   10 December 2025
 
 Latest update:
-:   Addition of information about the risks of not carrying personal ID with you, prohibited materials and use of social media (‘Safety and security’ page).
+:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 

@@ -29,7 +29,7 @@ The terrorist groups Boko Haram and Islamic State West Africa (ISWA) are mainly 
 
 There are occasional isolated incidents of political unrest around the country. You should stay alert, avoid large gatherings and monitor local media.
 
-The results of the 12 October Presidential elections are expected to be announced on or before 26 October. Protests and unrest can occur without warning and the situation could change quickly. Stay aware from crowded areas and rallies.
+The results of the 12 October Presidential elections were announced on Monday 27 October. Protests and unrest can occur without warning and the situation could change quickly. Stay away from crowded areas and rallies.
 
 Political developments and increased tensions related to the English-speaking North-West and South-West regions could lead to isolated incidents of violence in other parts of the country. This could affect western interests, as well as places frequented by foreigners. Plan your movements carefully. In November 2020, a threat by non-state armed groups was made against diplomatic missions in Yaoundé, including the British High Commission.
 

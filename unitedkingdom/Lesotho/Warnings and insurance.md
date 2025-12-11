@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   7 November 2025
+:   11 December 2025
 
 Updated:
-:   6 November 2025
+:   10 December 2025
 
 Latest update:
-:   Removal of information on flight suspensions (‘Warnings and insurance’ page).
+:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
 
 ## Before you travel
 

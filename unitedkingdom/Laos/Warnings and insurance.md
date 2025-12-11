@@ -1,18 +1,18 @@
 # Warnings and insurance
 
 Still current at:
-:   10 October 2025
+:   11 December 2025
 
 Updated:
-:   9 October 2025
+:   10 December 2025
 
 Latest update:
-:   Updated information on the dispute along the border with Thailand and Cambodia ('Warnings and insurance' page).
+:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/64391b7a773a8a0013ab2c63/FCDO__TA__088_-_Laos_Travel_Advice_Ed1__WEB_.jpg)
 
 
-[Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/64391b7a773a8a0013ab2c64/FCDO__TA__088-_Laos_Travel_Advice_Ed1.pdf)
+[Download a more detailed map (PDF, 654 KB)](https://assets.publishing.service.gov.uk/media/64391b7a773a8a0013ab2c64/FCDO__TA__088-_Laos_Travel_Advice_Ed1.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 

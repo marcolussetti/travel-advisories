@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   25 October 2025
+:   11 December 2025
 
 Updated:
-:   24 October 2025
+:   10 December 2025
 
 Latest update:
-:   Updated information on how to contact the British Embassy in San Jose, Costa Rica (See 'UK Government Support' on the 'Warnings and insurance' page).
+:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
 
 ## UK government support
 

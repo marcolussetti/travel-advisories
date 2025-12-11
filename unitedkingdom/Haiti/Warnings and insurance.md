@@ -1,18 +1,18 @@
 # Warnings and insurance
 
 Still current at:
-:   6 November 2025
+:   11 December 2025
 
 Updated:
-:   5 November 2025
+:   10 December 2025
 
 Latest update:
-:   Removal of information about Hurricane Melissa.
+:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/6411a1f18fa8f5556a0d6937/FCDO__TA__019_-_Haiti_Travel_Advice_Ed2__WEB_.jpg)
 
 
-[Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/6411a1f28fa8f55568784e04/FCDO__TA__019_-_Haiti_Travel_Advice_Ed2.pdf)
+[Download a more detailed map (PDF, 380 KB)](https://assets.publishing.service.gov.uk/media/6411a1f28fa8f55568784e04/FCDO__TA__019_-_Haiti_Travel_Advice_Ed2.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO). Consular support is also severely limited where FCDO advises against travel.
 

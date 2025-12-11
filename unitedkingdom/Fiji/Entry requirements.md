@@ -8,6 +8,10 @@ The authorities in Fiji set and enforce entry rules. If you’re not sure how th
 
 Your passport must have an ‘expiry date’ at least 6 months after the date you arrive in Fiji.
 
+## Dual nationals
+
+When returning to the UK, British citizens must carry a valid [British passport](https://www.gov.uk/browse/abroad/passports) or [certificate of entitlement](https://www.gov.uk/right-of-abode/apply-for-a-certificate-of-entitlement). See [Dual citizenship](https://www.gov.uk/dual-citizenship).
+
 ## Visa requirements
 
 You do not need a visa for visits of up to 4 months. If you plan to stay for longer than 4 months, apply for a visa from the [Fiji Immigration Department](https://www.immigration.gov.fj/).

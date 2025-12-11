@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   6 December 2025
+:   11 December 2025
 
 Updated:
-:   5 December 2025
+:   10 December 2025
 
 Latest update:
-:   Updated information about the impact of Hurricane Melissa and additional information about health risks in Jamaica. (‘Warnings and insurance’ and ‘Health’ pages).
+:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
 
 ## Hurricane Melissa
 

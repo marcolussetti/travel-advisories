@@ -12,6 +12,10 @@ Check with your travel provider that your passport and other travel documents me
 
 You will be denied entry if you do not have a valid travel document or try to use a passport that has been reported lost, stolen or is damaged.
 
+## Dual nationals
+
+When returning to the UK, British citizens must carry a valid [British passport](https://www.gov.uk/browse/abroad/passports) or [certificate of entitlement](https://www.gov.uk/right-of-abode/apply-for-a-certificate-of-entitlement). See [Dual Citizenship](https://www.gov.uk/dual-citizenship).
+
 ## Visa requirements
 
 You can enter Cape Verde as a visitor for up to 30 days without a visa.
@@ -20,7 +24,7 @@ To stay longer or to travel for other reasons, you must [meet the Cape Verde gov
 
 ## Traveller entry form
 
-You must fill in a [traveller entry form](https://registration.cv.zetes.com/(S(kd4qtyrmdl3p5irg2blanwr1))/Pages/CapeVerde/PersonalInfo.aspx) at least 5 days before you arrive in the country. This form includes an airport security fee (‘TSA’), which you must pay before you arrive.
+You must fill in a [traveller entry form](https://www.ease.gov.cv/) at least 5 days before you arrive in the country. This form includes an airport security fee (‘TSA’), which you must pay before you arrive.
 
 If you’re travelling with a tour operator, check whether they can complete the form for you as part of the booking process.
 

@@ -1,11 +1,11 @@
 {
     "name": "C\u00f4te d'Ivoire",
-    "update_reason": "Updated information on the political situation ahead of the upcoming parliamentary elections which will take place on 27 December ('Safety and security' page).",
+    "update_reason": "New information about dual nationals returning to the UK (\u2018Entry requirements\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/C\u00f4te d'Ivoire/Warnings and insurance.md",
-            "update_date": "2025-11-05T16:00:10+00:00"
+            "update_date": "2025-12-10T13:10:07+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/C\u00f4te d'Ivoire/Getting help.md"
         }
     ],
-    "update_date": "2025-11-05T16:00:10+00:00"
+    "update_date": "2025-12-10T13:10:07+00:00"
 }

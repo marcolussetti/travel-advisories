@@ -1,19 +1,17 @@
 # Warnings and insurance
 
 Still current at:
-:   19 July 2025
+:   11 December 2025
 
 Updated:
-:   18 July 2025
+:   10 December 2025
 
 Latest update:
-:   State of Emergency declared (Safety and security page)
+:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
 
 ## State of Emergency
 
-The Trinidad and Tobago Government declared a State of Public Emergency, effective from 18 July 2025.
-
-No curfew or restrictions on movement have been imposed. Expect heightened police and military presence as the State of Emergency gives the authorities additional powers of searching, arrest and detention. Always carry your ID and comply with local authorities.
+There is currently a State of Emergency in Trinidad and Tobago, in place since 18 July 2025. The government introduced it to give authorities additional powers of search, arrest, and detention following intelligence of planned activity by a criminal network. No curfew or restrictions on movement have been imposed.
 
 ## Before you travel
 

@@ -1,11 +1,11 @@
 {
     "name": "Laos",
-    "update_reason": "Updated information on the dispute along the border with Thailand and Cambodia ('Warnings and insurance' page).",
+    "update_reason": "New information about dual nationals returning to the UK (\u2018Entry requirements\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Laos/Warnings and insurance.md",
-            "update_date": "2025-10-09T15:41:52+01:00"
+            "update_date": "2025-12-10T13:08:09+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Laos/Getting help.md"
         }
     ],
-    "update_date": "2025-10-09T15:41:52+01:00"
+    "update_date": "2025-12-10T13:08:09+00:00"
 }

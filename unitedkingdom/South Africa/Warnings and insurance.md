@@ -1,19 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   21 November 2025
+:   11 December 2025
 
 Updated:
-:   20 November 2025
+:   10 December 2025
 
 Latest update:
-:   Addition of information about South African National Parks advising on recommended routes for those travelling from Gqeberha to Addo Elephant Park ('Safety and security' page).
-
-## G20 Leaders Summit in Johannesburg
-
-South Africa will be hosting the G20 Leaders Summit in Johannesburg from 21-23 November. Expect road closures in Johannesburg, the Pretoria-Johannesburg highway (N1 and M1) and the highways linking OR Tambo International Airport with Pretoria and Johannesburg.
-
-Keep up to date with local media reports and follow the advice of local authorities. If you are travelling to or from the airport or within Johannesburg, additional travel time may be necessary.
+:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
 
 ## Before you travel
 

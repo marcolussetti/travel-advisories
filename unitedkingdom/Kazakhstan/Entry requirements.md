@@ -14,6 +14,14 @@ Check with your travel provider that your passport and other travel documents me
 
 You will be denied entry if you do not have a valid travel document or try to use a passport that has been reported lost or stolen.
 
+## Dual nationals
+
+When returning to the UK, British citizens must carry a valid [British passport](https://www.gov.uk/browse/abroad/passports) or [certificate of entitlement](https://www.gov.uk/right-of-abode/apply-for-a-certificate-of-entitlement). See [Dual citizenship](https://www.gov.uk/dual-citizenship).
+
+### Kazakh-British dual nationals
+
+Kazakhstan does not recognise dual nationality. If you are found to have a Kazakh passport and another passport, you will be fined and your Kazakh citizenship may be withdrawn.
+
 ## Visa requirements
 
 You can visit Kazakhstan without a visa for up to 30 days for business or tourism. You can make as many visa-free visits as you like, but you must not stay more than 90 days without a visa in any 180-day period.
@@ -41,10 +49,6 @@ See [Kyrgyzstan travel advice](https://www.gov.uk/foreign-travel-advice/kyrgyzst
 To enter Kazakhstan, you must have a certificate to prove you’ve had a yellow fever vaccination if you’re coming from a [country listed as a transmission risk](https://nathnacyfzone.org.uk/factsheet/65/countries-with-risk-of-yellow-fever-transmission).
 
 For full details about medical entry requirements and recommended vaccinations, see [TravelHealthPro’s Kazakhstan guide](https://travelhealthpro.org.uk/country/116/kazakhstan#Vaccine_Recommendations).
-
-## Kazakh-British dual nationality
-
-Kazakhstan does not recognise dual nationality. If you are found to have a Kazakh passport and another passport, you will be fined and your Kazakh citizenship will be withdrawn.
 
 ## Customs rules
 

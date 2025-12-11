@@ -98,7 +98,7 @@ The British government may not be notified if you are detained. There are consid
 
 There is a risk of violent street crime and home invasion including armed robbery in Afghan cities. Make sure your accommodation is secure and review your security measures regularly.
 
-## Criminal Kidnaps
+## Criminal kidnaps
 
 There is a significant risk of kidnapping of foreign nationals for ransom.
 

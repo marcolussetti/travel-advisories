@@ -16,6 +16,10 @@ Make sure you get your passport stamped.
 
 Make sure the border control officer puts a stamp in your passport. If you do not get a stamp in your passport, you’ll be considered an illegal visitor.
 
+## Dual nationals
+
+When returning to the UK, British citizens must carry a valid [British passport](https://www.gov.uk/browse/abroad/passports) or [certificate of entitlement](https://www.gov.uk/right-of-abode/apply-for-a-certificate-of-entitlement). See [Dual citizenship](https://www.gov.uk/dual-citizenship).
+
 ## Visa requirements
 
 You can visit Grenada without a visa.

@@ -1,18 +1,18 @@
 # Warnings and insurance
 
 Still current at:
-:   8 July 2025
+:   11 December 2025
 
 Updated:
-:   7 July 2025
+:   10 December 2025
 
 Latest update:
-:   Removal of information regarding entry into Armenia via the land border with Iran.
+:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/615dcc368fa8f5297eda6658/FCDO__TA__003_-_Armenia_Travel_Advice_Ed3__WEB_.jpg)
 
 
-[Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/615dcc368fa8f529840621c3/FCDO__TA__003_-_Armenia_Travel_Advice_Ed3.pdf)
+[Download a more detailed map (PDF, 416 KB)](https://assets.publishing.service.gov.uk/media/615dcc368fa8f529840621c3/FCDO__TA__003_-_Armenia_Travel_Advice_Ed3.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 

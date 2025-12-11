@@ -30,7 +30,7 @@ FCDO has guidance on staying safe and what to do if you need help or support ab
 * finding English-speaking [lawyers](https://find-a-professional-service-abroad.service.csd.fcdo.gov.uk/find/lawyers?country=North%20Macedonia), [funeral directors](https://find-a-professional-service-abroad.service.csd.fcdo.gov.uk/find/funeral-directors?country=North%20Macedonia) and [translators and interpreters](https://find-a-professional-service-abroad.service.csd.fcdo.gov.uk/find/translators-interpreters?country=North%20Macedonia) in North Macedonia
 * dealing with a [death in North Macedonia](https://www.gov.uk/guidance/when-someone-dies-in-north-macedonia)
 * being [arrested in North Macedonia](https://www.gov.uk/government/publications/north-macedonia-prisoner-pack)
-* getting help if you’re a [victim of crime](https://www.gov.uk/victim-crime-abroad)
+* getting help if you’re a [victim of crime](https://www.gov.uk/guidance/victim-of-crime-abroad)
 * what to do if you’re [in hospital](https://www.gov.uk/guidance/in-hospital-abroad)
 * if you’re [affected by a crisis](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas), such as a terrorist attack
 

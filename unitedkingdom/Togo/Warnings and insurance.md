@@ -1,18 +1,18 @@
 # Warnings and insurance
 
 Still current at:
-:   1 July 2025
+:   11 December 2025
 
 Updated:
-:   30 June 2025
+:   10 December 2025
 
 Latest update:
-:   Updated information on political situation ('Safety and security' page).
+:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/615dd5bc8fa8f52978e14a16/FCDO__TA__041_-_Togo_Travel_Advice_Ed2__WEB_.jpg)
 
 
-[Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/615dd5bce90e0719827b8f49/FCDO__TA__041_-_Togo_Travel_Advice_Ed2.pdf)
+[Download a more detailed map (PDF, 292 KB)](https://assets.publishing.service.gov.uk/media/615dd5bce90e0719827b8f49/FCDO__TA__041_-_Togo_Travel_Advice_Ed2.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth and Development Office (FCDO).
 

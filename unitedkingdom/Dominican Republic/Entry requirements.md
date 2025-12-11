@@ -27,6 +27,10 @@ You must fill in an [entry and exit form before arriving in and leaving the Domi
 
 You can fill in the form up to 7 days before you arrive in the country. You’ll get a QR code, which you may be asked to show at check-in, or when you arrive in or leave the country.
 
+## Dual nationals
+
+When returning to the UK, British citizens must carry a valid [British passport](https://www.gov.uk/browse/abroad/passports) or [certificate of entitlement](https://www.gov.uk/right-of-abode/apply-for-a-certificate-of-entitlement). See [Dual citizenship](https://www.gov.uk/dual-citizenship).
+
 ## Visa requirements
 
 You can visit the Dominican Republic for tourism without a visa for 30 days.

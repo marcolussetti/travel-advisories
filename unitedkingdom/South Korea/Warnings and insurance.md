@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   9 September 2025
+:   11 December 2025
 
 Updated:
-:   8 September 2025
+:   10 December 2025
 
 Latest update:
-:   Updated information on health risks you'll face in South Korea (‘Health’ page).
+:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
 
 ## Before you travel
 

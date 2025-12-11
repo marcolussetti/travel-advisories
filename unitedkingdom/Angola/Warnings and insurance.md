@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 November 2025
+:   11 December 2025
 
 Updated:
-:   25 November 2025
+:   10 December 2025
 
 Latest update:
-:   New information about protests and demonstrations (‘Safety and security’ page).
+:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/6437d3f1db4ba90013448e0a/FCDO__TA__053_-_Angola_Travel_Advice_Ed2__WEB_.jpg)
 

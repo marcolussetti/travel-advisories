@@ -14,6 +14,10 @@ Check with your travel provider that your passport and other travel documents me
 
 You will be denied entry if you do not have a valid travel document or try to use a passport that has been reported lost or stolen.
 
+## Dual nationals
+
+When returning to the UK, British citizens must carry a valid [British passport](https://www.gov.uk/browse/abroad/passports) or [certificate of entitlement](https://www.gov.uk/right-of-abode/apply-for-a-certificate-of-entitlement). See [Dual citizenship](https://www.gov.uk/dual-citizenship).
+
 ## Visa requirements
 
 A visa is not required for visits of 30 days or less. If you do not hold a valid entry permit you must complete “Customs, Immigration & Quarantine Form (CIQ Form)” on arrival. If you are visiting for a period exceeding 30 days you must apply for an entry permit. See [Entry requirements](https://visit-micronesia.fm/regulations/) and contact

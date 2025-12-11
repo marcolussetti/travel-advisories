@@ -1,17 +1,17 @@
 # Warnings and insurance
 
 Still current at:
-:   15 November 2025
+:   11 December 2025
 
 Updated:
-:   14 November 2025
+:   10 December 2025
 
 Latest update:
-:   New information on mosquito-borne diseases and the impact of Hurricane Melissa (See the “Vaccine recommendations and Health Risks” in the “Health” page and “Warnings and Insurance” page)
+:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
 
 ## Mosquito-borne diseases
 
-The Cuban government has declared an arbovirus epidemic following the increase in cases of Dengue, Oropouche and Chikungunya in Cuba. Take precautions to avoid or prevent mosquito and other insect bites. Please refer to the Health section for more information.
+The Cuban government has declared an arbovirus epidemic following the increase in cases of Dengue, Oropouche and Chikungunya in Cuba. Take precautions to avoid or prevent mosquito and other insect bites. See the [Health section](https://www.gov.uk/foreign-travel-advice/cuba/health) for more information.
 
 ## Hurricane Melissa
 

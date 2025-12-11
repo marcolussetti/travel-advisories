@@ -1,11 +1,11 @@
 {
     "name": "Dominica",
-    "update_reason": "New information regarding demonstrations ('Safety and security' page).",
+    "update_reason": "New information about dual nationals returning to the UK (\u2018Entry requirements\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Dominica/Warnings and insurance.md",
-            "update_date": "2025-03-20T10:41:14+00:00"
+            "update_date": "2025-12-10T13:28:48+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Dominica/Getting help.md"
         }
     ],
-    "update_date": "2025-03-20T10:41:14+00:00"
+    "update_date": "2025-12-10T13:28:48+00:00"
 }

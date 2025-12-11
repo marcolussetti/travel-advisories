@@ -12,6 +12,14 @@ Check with your travel provider that your passport and other travel documents me
 
 You will be denied entry if you do not have a valid travel document, or try to use a passport that has been reported lost or stolen.
 
+## Dual nationals
+
+When returning to the UK, British citizens must carry a valid [British passport](https://www.gov.uk/browse/abroad/passports) or [certificate of entitlement](https://www.gov.uk/right-of-abode/apply-for-a-certificate-of-entitlement). See [Dual citizenship](https://www.gov.uk/dual-citizenship).
+
+### Uzbek-British dual nationals
+
+If you enter Uzbekistan on an Uzbek passport and are also a British national, the British Embassy can only provide very limited assistance. Uzbekistan does not recognise dual nationality so will treat you as an Uzbek national only. If you’re arrested or detained, the authorities are unlikely to grant you access to British Embassy staff.
+
 ## Visa requirements
 
 You can visit Uzbekistan without a visa for tourism or business for up to 30 days.
@@ -35,10 +43,6 @@ If you’re staying at a hotel, the staff will register you. If you’re staying
 If you’re travelling in Uzbekistan in a camper van or staying in tents and camping, you must register yourself. Register online through the electronic registration system, [Emehmon](http://www.emehmon.uz/), within 3 days of arrival. When registering online, you’ll have to pay a tourist tax charge for each day of your stay. At the moment you can only pay the tourist tax online with an Uzbek debit card in local currency.
 
 The authorities will require a full record of where you’ve been in Uzbekistan upon departure. If you are unable to account for your whereabouts, or fail to get registered, you could get a fine for each day that is missing or late and possibly be deported.
-
-## Uzbek-British dual nationality
-
-If you enter Uzbekistan on an Uzbek passport and are also a British national, the British Embassy can only provide very limited assistance. Uzbekistan does not recognise dual nationality so will treat you as an Uzbek national only. If you’re arrested or detained, the authorities are unlikely to grant you access to British Embassy staff.
 
 ## Vaccine requirements
 

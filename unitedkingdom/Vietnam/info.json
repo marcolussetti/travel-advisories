@@ -1,11 +1,11 @@
 {
     "name": "Vietnam",
-    "update_reason": "Updated information about bringing prescribed medicine into Vietnam ('Health' page).",
+    "update_reason": "New information about dual nationals returning to the UK (\u2018Entry requirements\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Vietnam/Warnings and insurance.md",
-            "update_date": "2025-10-22T14:50:58+01:00"
+            "update_date": "2025-12-10T13:01:43+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Vietnam/Getting help.md"
         }
     ],
-    "update_date": "2025-10-22T14:50:58+01:00"
+    "update_date": "2025-12-10T13:01:43+00:00"
 }

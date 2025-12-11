@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   4 December 2025
+:   11 December 2025
 
 Updated:
-:   3 December 2025
+:   10 December 2025
 
 Latest update:
-:   New information about health risks in Fiji (‘Health’ page).
+:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
 
 ## Before you travel
 

@@ -20,9 +20,11 @@ Make sure you get your passport stamped.
 
 This will record your date and port of entry. Unstamped passports will raise suspicions of illegal entry.
 
-### Dual nationals
+## Dual nationals
 
 Dual nationals must enter Botswana on the same passport they used to exit the previous country.
+
+When returning to the UK, British citizens must carry a valid [British passport](https://www.gov.uk/browse/abroad/passports) or [certificate of entitlement](https://www.gov.uk/right-of-abode/apply-for-a-certificate-of-entitlement). See [Dual citizenship](https://www.gov.uk/dual-citizenship).
 
 ## Visa requirements
 

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   25 October 2025
+:   11 December 2025
 
 Updated:
-:   24 October 2025
+:   10 December 2025
 
 Latest update:
-:   This travel advice has been reviewed for accuracy with changes made throughout, including updated information on border areas, crime, violent attacks and personal safety and hotel safety ('Safety and security' page).
+:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
 
 ## Before you travel
 

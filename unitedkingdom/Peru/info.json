@@ -1,11 +1,11 @@
 {
     "name": "Peru",
-    "update_reason": "Updated information about extension of the State of Emergency in Peru ('Warnings and insurance\u2019 page).",
+    "update_reason": "New information about dual nationals returning to the UK (\u2018Entry requirements\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Peru/Warnings and insurance.md",
-            "update_date": "2025-11-24T17:01:20+00:00"
+            "update_date": "2025-12-10T13:27:42+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Peru/Getting help.md"
         }
     ],
-    "update_date": "2025-11-24T17:01:20+00:00"
+    "update_date": "2025-12-10T13:27:42+00:00"
 }

@@ -1,11 +1,11 @@
 {
     "name": "Singapore",
-    "update_reason": "Information on the risks related to evidence of drug use on entry or in transit ('Warnings and insurance' page).",
+    "update_reason": "New information about dual nationals returning to the UK (\u2018Entry requirements\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Singapore/Warnings and insurance.md",
-            "update_date": "2025-05-07T15:09:55+01:00"
+            "update_date": "2025-12-10T13:03:52+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Singapore/Getting help.md"
         }
     ],
-    "update_date": "2025-05-07T15:09:55+01:00"
+    "update_date": "2025-12-10T13:03:52+00:00"
 }

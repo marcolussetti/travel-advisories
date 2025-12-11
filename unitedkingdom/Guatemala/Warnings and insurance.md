@@ -1,18 +1,18 @@
 # Warnings and insurance
 
 Still current at:
-:   15 October 2025
+:   11 December 2025
 
 Updated:
-:   14 October 2025
+:   10 December 2025
 
 Latest update:
-:   Updated information about travelling between Guatemala, El Salvador, Nicaragua and Honduras (‘Entry requirements’ page).
+:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/65fac0c89316f5001d64c3c0/FCDO__TA__095_-_Guatemala_Travel_Advice_Ed1__WEB_.jpg)
 
 
-[Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/65fac0ab9316f5001d64c3bf/FCDO__TA__095_-_Guatemala_Travel_Advice_Ed1.pdf)
+[Download a more detailed map (PDF, 668 KB)](https://assets.publishing.service.gov.uk/media/65fac0ab9316f5001d64c3bf/FCDO__TA__095_-_Guatemala_Travel_Advice_Ed1.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 

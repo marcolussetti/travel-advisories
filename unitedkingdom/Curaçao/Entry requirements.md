@@ -18,6 +18,10 @@ You must complete a [digital immigration card](https://dicardcuracao.com/portal)
 
 You must also complete it if you’re travelling through Curaçao.
 
+## Dual nationals
+
+When returning to the UK, British citizens must carry a valid [British passport](https://www.gov.uk/browse/abroad/passports) or [certificate of entitlement](https://www.gov.uk/right-of-abode/apply-for-a-certificate-of-entitlement). See [Dual citizenship](https://www.gov.uk/dual-citizenship).
+
 ## Visa requirements
 
 You can stay in Curaçao for up to 90 days in a calendar year without a visa. You can request an extension beyond 90 days at immigration if you can show you have travel insurance for the duration of your extended stay.

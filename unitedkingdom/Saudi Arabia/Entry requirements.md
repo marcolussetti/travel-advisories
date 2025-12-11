@@ -16,6 +16,10 @@ You will be denied entry if you do not have a valid travel document or try to us
 
 You may not be allowed to enter Saudi Arabia if your passport shows that you have travelled to, or were born in, Israel.
 
+## Dual nationals
+
+When returning to the UK, British citizens must carry a valid [British passport](https://www.gov.uk/browse/abroad/passports) or [certificate of entitlement](https://www.gov.uk/right-of-abode/apply-for-a-certificate-of-entitlement). See [Dual citizenship](https://www.gov.uk/dual-citizenship).
+
 ## Visa requirements
 
 You must get an e-visa or an electronic visa waiver, either before you travel or on arrival at any of Saudi Arabia’s international airports. The [type of e-visa or electronic visa waiver](https://www.visitsaudi.com/en/travel-regulations) you choose depends on your reason for travelling and how long you want to stay.

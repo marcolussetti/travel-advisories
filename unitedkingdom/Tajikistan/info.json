@@ -1,11 +1,11 @@
 {
     "name": "Tajikistan",
-    "update_reason": "New information on cross-border attacks near the Tajikistan-Afghanistan border (See \u2018Tajikistan-Afghanistan border\u2019 on the \u2018Regional risks\u2019 page).",
+    "update_reason": "New information about dual nationals returning to the UK (\u2018Entry requirements\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Tajikistan/Warnings and insurance.md",
-            "update_date": "2025-12-04T12:07:35+00:00"
+            "update_date": "2025-12-10T12:47:37+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Tajikistan/Getting help.md"
         }
     ],
-    "update_date": "2025-12-04T12:07:35+00:00"
+    "update_date": "2025-12-10T12:47:37+00:00"
 }

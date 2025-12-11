@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   8 August 2025
+:   11 December 2025
 
 Updated:
-:   7 August 2025
+:   10 December 2025
 
 Latest update:
-:   Updated with a link to information about using a UK issued Blue Badge in Ireland (‘Safety and security’ page).
+:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
 
 ## Before you travel
 

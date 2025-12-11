@@ -30,7 +30,7 @@ FCDO has guidance on staying safe and what to do if you need help or support abr
 * finding [lawyers in Grenada](https://find-a-professional-service-abroad.service.csd.fcdo.gov.uk/find/lawyers?country=grenada)
 * dealing with a [death in Grenada](https://www.gov.uk/guidance/when-someone-dies-in-grenada)
 * being [arrested or imprisoned in Grenada](https://www.gov.uk/government/publications/grenada-prisoner-pack)
-* getting help if you’re a [victim of crime](https://www.gov.uk/victim-crime-abroad)
+* getting help if you’re a [victim of crime](https://www.gov.uk/guidance/victim-of-crime-abroad)
 * what to do if you’re [in hospital](https://www.gov.uk/guidance/in-hospital-abroad)
 * if you’re [affected by a crisis](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas), such as a terrorist attack
 

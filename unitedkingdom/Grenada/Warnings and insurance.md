@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   11 December 2025
 
 Updated:
-:   8 January 2025
+:   10 December 2025
 
 Latest update:
-:   This travel advice was reviewed for accuracy and reissued with information on the continued affects from Hurricane Beryl from July 2024 (‘Safety and security’ page).
+:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
 
 ## Before you travel
 

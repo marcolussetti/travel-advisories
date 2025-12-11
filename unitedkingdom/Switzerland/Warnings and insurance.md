@@ -1,21 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   7 October 2025
+:   11 December 2025
 
 Updated:
-:   6 October 2025
+:   10 December 2025
 
 Latest update:
-:   Updated with information about the new Entry/Exit System (EES) which will start to be rolled out on 12 October to people travelling into the EU (‘Entry requirements’ page).
-
-## Women’s Euro 2025
-
-The UEFA Women’s Euro 2025 tournament will take place in Switzerland from 2 to 27 July 2025.
-
-If you are travelling to Switzerland to attend the tournament, check the [Women’s Euro 2025 page](https://www.gov.uk/foreign-travel-advice/switzerland/womens-euro-2025).
-
-The tournament will take place in multiple cities around Switzerland. Fan zones will be set up, and transport networks may be busy around match times.
+:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
 
 ## Before you travel
 

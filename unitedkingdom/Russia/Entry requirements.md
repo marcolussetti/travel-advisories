@@ -20,13 +20,17 @@ Check with your travel provider that your passport and other travel documents me
 
 You will be denied entry if you do not have a valid travel document or try to use a passport that has been reported lost or stolen.
 
-### Dual nationals
+## Dual nationals
+
+When returning to the UK, British citizens must carry a valid [British passport](https://www.gov.uk/browse/abroad/passports) or [certificate of entitlement](https://www.gov.uk/right-of-abode/apply-for-a-certificate-of-entitlement). See [Dual citizenship](https://www.gov.uk/dual-citizenship).
+
+### British-Russian dual nationals
 
 If you have dual British-Russian nationality and travel to Russia to renew your Russian passport, it may take up to 4 months to get your new passport. You will not be able to leave Russia on your British passport if you entered Russia on your Russian passport. You will have to stay in Russia until your new Russian passport is issued.
 
 Children born outside of Russia, and added to their parents’ Russian passports may need their own passport to leave Russia. Check with the [Russian Embassy in the UK](https://london.mid.ru/en/) before you travel.
 
-See [Warnings and insurance](https://www.gov.uk/foreign-travel-advice/russia) for information about severely limited UK government support and compulsory military service for British-Russian dual nationals.
+See [Warnings and insurance page](https://www.gov.uk/foreign-travel-advice/russia) for information about severely limited UK government support and compulsory military service for British-Russian dual nationals.
 
 ## Visa requirements
 

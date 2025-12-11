@@ -39,7 +39,7 @@ Some prescribed and over-the-counter medicines may be controlled substances in Q
 
 The letter should be signed by the doctor or consultant and stamped by the hospital or surgery.
 
-For more information, [see](https://www.moph.gov.qa/_layouts/download.aspx?SourceUrl=/Admin/Lists/PublicationsAttachments/Attachments/201/Guideline-of-Controlled-Drugs-for-Travellers%20-%20English.pdf) the Ministry of Public Health ([MOPH) guide.](https://www.moph.gov.qa/_layouts/download.aspx?SourceUrl=/Admin/Lists/PublicationsAttachments/Attachments/201/Guideline-of-Controlled-Drugs-for-Travellers%20-%20English.pdf)
+For more information, [see](https://www.moph.gov.qa/_layouts/download.aspx?SourceUrl=/Admin/Lists/PublicationsAttachments/Attachments/201/Guideline-of-Controlled-Drugs-for-Travellers%20-%20English.pdf) [the Ministry of Public Health (MOPH) guide.](https://www.moph.gov.qa/_layouts/download.aspx?SourceUrl=/Admin/Lists/PublicationsAttachments/Attachments/201/Guideline-of-Controlled-Drugs-for-Travellers%20-%20English.pdf)
 
 ## Healthcare in Qatar
 

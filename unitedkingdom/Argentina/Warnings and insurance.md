@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   24 May 2025
+:   11 December 2025
 
 Updated:
-:   23 May 2025
+:   10 December 2025
 
 Latest update:
-:   Clarification on visa requirements for business travel ('Entry requirements' page).
+:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
 
 ## Before you travel
 

@@ -1,18 +1,18 @@
 # Warnings and insurance
 
 Still current at:
-:   6 August 2025
+:   11 December 2025
 
 Updated:
-:   5 August 2025
+:   10 December 2025
 
 Latest update:
-:   Updated with information about the risks from terrorism (‘Safety and security’ page).
+:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/687faf22fdc190fb6b8468e3/FCDO__TA__042_-_Tunisia_Travel_Advice_Ed5__WEB___1_.jpg)
 
 
-[Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/687faf22fdc190fb6b8468e4/FCDO__TA__042_-_Tunisia_Travel_Advice_Ed5__2_.pdf)
+[Download a more detailed map (PDF, 439 KB)](https://assets.publishing.service.gov.uk/media/687faf22fdc190fb6b8468e4/FCDO__TA__042_-_Tunisia_Travel_Advice_Ed5__2_.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 

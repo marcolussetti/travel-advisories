@@ -1,11 +1,11 @@
 {
     "name": "Trinidad and Tobago",
-    "update_reason": "State of Emergency declared (Safety and security page)",
+    "update_reason": "New information about dual nationals returning to the UK (\u2018Entry requirements\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Trinidad and Tobago/Warnings and insurance.md",
-            "update_date": "2025-07-18T20:23:28+01:00"
+            "update_date": "2025-12-10T12:49:18+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Trinidad and Tobago/Getting help.md"
         }
     ],
-    "update_date": "2025-07-18T20:23:28+01:00"
+    "update_date": "2025-12-10T12:49:18+00:00"
 }

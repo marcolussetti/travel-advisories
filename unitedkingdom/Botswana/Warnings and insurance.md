@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   15 November 2025
+:   11 December 2025
 
 Updated:
-:   14 November 2025
+:   10 December 2025
 
 Latest update:
-:   Updated information about healthcare in Botswana and the end of the state of public health emergency ('Health' page).
+:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
 
 ## Before you travel
 

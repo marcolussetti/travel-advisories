@@ -1,11 +1,11 @@
 {
     "name": "Uzbekistan",
-    "update_reason": "Addition of information about the risks of not carrying personal ID with you, prohibited materials and use of social media (\u2018Safety and security\u2019 page).",
+    "update_reason": "New information about dual nationals returning to the UK (\u2018Entry requirements\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Uzbekistan/Warnings and insurance.md",
-            "update_date": "2025-07-18T11:35:45+01:00"
+            "update_date": "2025-12-10T13:13:01+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Uzbekistan/Getting help.md"
         }
     ],
-    "update_date": "2025-07-18T11:35:45+01:00"
+    "update_date": "2025-12-10T13:13:01+00:00"
 }

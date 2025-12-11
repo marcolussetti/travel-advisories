@@ -1,11 +1,11 @@
 {
     "name": "Mayotte",
-    "update_reason": "FCDO no longer advises against all but essential travel to Mayotte.",
+    "update_reason": "New information about dual nationals returning to the UK (\u2018Entry requirements\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Mayotte/Warnings and insurance.md",
-            "update_date": "2025-07-28T14:45:12+01:00"
+            "update_date": "2025-12-10T13:41:54+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Mayotte/Getting help.md"
         }
     ],
-    "update_date": "2025-07-28T14:45:12+01:00"
+    "update_date": "2025-12-10T13:41:54+00:00"
 }

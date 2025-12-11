@@ -1,42 +1,48 @@
 # Warnings and insurance
 
 Still current at:
-:   9 December 2025
+:   11 December 2025
 
 Updated:
-:   8 December 2025
+:   10 December 2025
 
 Latest update:
-:   Updated information on increased armed group activity and conflict on the border between Burundi and DRC (‘Warning and insurance’ page).
+:   FCDO now advises against all but essential travel to the former Bujumbura Mairie Province, including the city of Bujumbura, and to the area of the former Bujumbura Rural Province east of the Rusizi river. FCDO continues to advise against all travel to parts of Burundi ('Warnings and insurance' page). New information also added about dual nationals returning to the UK ('Entry requirements' page).
 
-![](https://assets.publishing.service.gov.uk/media/67f055b1cb0feef57df7e5dd/Annex_B_FCDO__TA__007_-_Burundi_Travel_Advice_Ed5__WEB_.jpg)
+![](https://assets.publishing.service.gov.uk/media/6939587c5cc812f50aa41eff/FCDO_TA_007_-_Burundi_Travel_Advice_Ed6_WEB.jpg)
 
 
-[Download a more detailed map (PDF, 612 KB)](https://assets.publishing.service.gov.uk/media/67f055b127eb76c92cf7e5e2/Annex_B_FCDO__TA__007_-_Burundi_Travel_Advice_Ed5.pdf)
+[Download a more detailed map (PDF, 613 KB)](https://assets.publishing.service.gov.uk/media/6939587ccfacd5e888491cff/FCDO_TA_007_-_Burundi_Travel_Advice_Ed6.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
 ## Areas where FCDO advises against travel
 
-### Cibitoke and Bubanza provinces
+### Former Cibitoke and Bubanza provinces
 
-FCDO advises against all travel to Cibitoke and Bubanza provinces, due to the presence of a rebel group in the Kibira National Park and possible armed incursions from the Democratic Republic of the Congo (DRC).
+FCDO advises against all travel to the former Cibitoke and Bubanza provinces, due to the presence of a rebel group in the Kibira National Park and possible armed incursions from the Democratic Republic of the Congo (DRC).
 
-### Kayanza Province
+### Former Kayanza Province
 
-FCDO advises against all travel on the main RN6 and RN10 roads running west from Kayanza through the Kibira National Park towards Cibitoke Province, due the presence of a rebel group and possible armed incursions from DRC.
+FCDO advises against all travel on the main RN6 and RN10 roads running west from Kayanza through the Kibira National Park towards former Cibitoke Province, due the presence of a rebel group and possible armed incursions from DRC.
 
 ### Melchior Ndadaye International Airport to Cibitoke
 
 FCDO advises against all travel on the RN5 road north of Melchior Ndadaye International Airport in Bujumbura towards Cibitoke.
 
-### Bujumbura Rural Province
+### Former Bujumbura Rural Province
 
-FCDO advises against all travel to areas of Bujumbura Rural Province west of the Rusizi river towards the border with DRC, including Rusizi National Park (also known as Rusizi Delta Nature Reserve). This is due to possible armed incursions from DRC.
+FCDO advises against all travel to areas of the former Bujumbura Rural Province west of the Rusizi river towards the border with DRC, including Rusizi National Park (also known as Rusizi Delta Nature Reserve). This is due to possible armed incursions from DRC.
 
-### Areas where FCDO advises against all but essential travel
+## Areas where FCDO advises against all but essential travel
 
-FCDO advises against all but essential travel to the area of Bujumbura Rural Province north of the Isale road.
+### Bujumbura Rural
+
+FCDO advises against all but essential travel to the area of the former Bujumbura Rural Province, east of the Rusizi river. This is due to the proximity to conflict in eastern DRC.
+
+### Bujumbura Mairie
+
+FCDO advises against all but essential travel to the former Bujumbura Mairie Province, including the city of Bujumbura. This is due to the proximity to conflict in eastern DRC.
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/burundi/regional-risks).
 
@@ -44,7 +50,7 @@ Find out more about [why FCDO advises against travel](/foreign-travel-advice/bur
 
 Armed group activity and conflict along the border between Burundi and DRC has increased. Be cautious and keep up to date with developments through local media, given heightened insecurity.
 
-Armed group activity and the movement of military and refugees in Democratic Republic of Congo (DRC) could affect people on the Burundian side of the border, in Cibitoke, Bubanza and Bujumbura Rural provinces. The security situation in DRC near to Burundi’s border is unstable (see [Democratic Republic of the Congo’s travel advice](https://www.gov.uk/foreign-travel-advice/democratic-republic-of-the-congo) for more information).
+Armed group activity and the movement of military and refugees in Democratic Republic of Congo (DRC) could affect people on the Burundian side of the border, in the former Cibitoke, Bubanza, Bujumbura Mairie and Bujumbura Rural provinces. The security situation in DRC near to Burundi’s border is unstable (see [Democratic Republic of the Congo’s travel advice](https://www.gov.uk/foreign-travel-advice/democratic-republic-of-the-congo) for more information).
 
 The only international airport in Burundi is the Melchior Ndadaye airport. In the event that flights were not available at the airport, there
 are currently limited land border options to exit Burundi. The DRC border area is unstable and the Rwandan border is closed. The Tanzania-Burundi border continues to operate normally, although transport options may be limited by the ongoing fuel shortages.

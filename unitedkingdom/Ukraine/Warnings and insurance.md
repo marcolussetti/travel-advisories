@@ -1,18 +1,18 @@
 # Warnings and insurance
 
 Still current at:
-:   16 September 2025
+:   11 December 2025
 
 Updated:
-:   15 September 2025
+:   10 December 2025
 
 Latest update:
-:   Information added about the risk of business conferences and events attended by the Ukrainian government and military being the target of Russian attacks (‘Warnings and insurance’ page)
+:   New information about dual nationals returning to the UK (See 'Dual nationals' on the 'Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/663398524d8bb7378fb6c167/FCDO__TA__044_-_Ukraine_Travel_Advice_Ed12__WEB___1_.jpg)
 
 
-[Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/663398521c82a7597d4f306a/FCDO__TA__044_-_Ukraine_Travel_Advice_Ed12__1_.pdf)
+[Download a more detailed map (PDF, 807 KB)](https://assets.publishing.service.gov.uk/media/663398521c82a7597d4f306a/FCDO__TA__044_-_Ukraine_Travel_Advice_Ed12__1_.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth and Development Office (FCDO).
 
@@ -56,17 +56,13 @@ FCDO advises against all but essential travel to the following regions in weste
 * Rivne
 * Zhytomyr
 
-## Business conferences and events
-
-There is a risk of harm to British nationals from Russian attacks across Ukraine, including in western Ukrainian regions such as Lviv. Conferences and events that are attended by the Ukrainian government and military are more likely to be targeted. In the event of attacks, follow the advice of the local authorities, including responding to air raid alerts.
-
-See ‘If you are in Ukraine’ [Ukraine travel advice - GOV.UK](https://www.gov.uk/foreign-travel-advice/ukraine)
-
 ## Russian invasion of Ukraine
 
-The Russian invasion of Ukraine is ongoing, with frequent missile and drone attacks across the country, which injure and kill civilians and cause significant damage to civilian infrastructure, including residential areas, energy and industrial facilities. Russian Military activity against Ukraine has increased over the last 6 months, with the total number of drone and missile strikes increasing in size. In July of this year, Russia launched around 6,500 drones and missiles into Ukraine, up from 3,900 in February 2025 and 1,000 in August 2024. British nationals are advised to exercise heightened awareness and be prepared to immediately shelter in the event an air alert is announced. Be extra vigilant whilst travelling in urban centres.
+The Russian invasion of Ukraine is ongoing, with frequent missile and drone attacks across the country, which injure and kill civilians and cause significant damage to civilian infrastructure, including residential areas, energy, rail and industrial facilities. Russian Military activity against Ukraine has risen over the last year, with the total number of drone and missile strikes increasing in size. Between September and November this year, Russia launched on average around 5,500 missiles and drones per month, up from 3,900 in February 2025 and 1,000 in August 2024. From January to September 2025, civilian casualties in Ukraine increased by 31% compared to the same period in 2024, with a notable rise in civilian injuries occurring away from the front lines. British nationals are advised to exercise heightened awareness and be prepared to immediately shelter in the event an air alert is announced. Be extra vigilant whilst travelling in urban centres.
 
 There is an ongoing risk of harm to British nationals from Russian attacks across all of Ukraine, including from missiles and drones that hit unintended targets or from falling debris. While these are more frequent where FCDO advises against all travel, they can and do also happen in the western regions, where FCDO advice is against all but essential travel.
+
+Conferences and events that are attended by the Ukrainian government and military are more likely to be targeted.
 
 In the event of attacks, follow the advice of the local authorities, including responding to air raid alerts.
 
@@ -98,7 +94,7 @@ If you are in Ukraine, you should:
 * take extra care while moving around
 * know what curfews are in place
 
-There are a number of air raid alert apps available, including [“Air Alert”](https://play.google.com/store/apps/details?id=com.ukrainealarm) and [“Карта Тривог”](https://apps.apple.com/ua/app/%D0%BA%D0%B0%D1%80%D1%82%D0%B0-%D1%82%D1%80%D0%B8%D0%B2%D0%BE%D0%B3-%D1%82%D0%B0-%D0%BD%D0%BE%D0%B2%D0%B8%D0%BD%D0%B8-%D1%83%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8/id1628839956).
+There are a number of air raid alert apps available, including [“Air Alert”](https://play.google.com/store/apps/details?id=com.ukrainealarm).
 
 ### Get travel advice updates
 
@@ -116,6 +112,12 @@ See FCDO advice on [how to deal with a crisis overseas](https://www.gov.uk/gu
 
 Expect increased documentation checks, transport restrictions and increased security measures. Other measures could include additional border controls, restrictions on public events, curfews, restrictions on telephones, internet and broadcasting, and evacuations of certain areas.
 
+For information about leaving Ukraine by car, see [Transport information and risks](/foreign-travel-advice/ukraine/safety-and-security#transport-information-and-risks).
+
+### Dual nationals
+
+When returning to the UK, British citizens must carry a valid [British passport](https://www.gov.uk/browse/abroad/passports) or [certificate of entitlement](https://www.gov.uk/right-of-abode/apply-for-a-certificate-of-entitlement). See [Dual citizenship](https://www.gov.uk/dual-citizenship).
+
 If you are a dual British-Ukrainian national or you have the right to reside in the UK, and want to leave Ukraine, contact the State Border Guard Service of Ukraine on [adpsu@dpsu.gov.ua](mailto:adpsu@dpsu.gov.ua) for advice.
 
 Ukrainian national and dual-national males aged 18 to 60 are prohibited from leaving the country. Dual-nationals have to comply to the same military conscription laws as Ukrainian mono-nationals.
@@ -125,8 +127,6 @@ Even if you do not consider Ukrainian to be your primary nationality, the Ukrain
 For any information regarding nationality issues, you would need to seek advice from local authorities or legal experts.
 
 The authorities in the countries bordering Ukraine set and enforce their entry rules. Before you travel, check the [foreign travel advice](https://www.gov.uk/foreign-travel-advice) for any countries you plan to travel through. If you need assistance from the UK government, contact the [British Embassy in that country](https://www.gov.uk/world/embassies).
-
-For information about leaving Ukraine by car, see [Transport information and risks](/foreign-travel-advice/ukraine/safety-and-security#transport-information-and-risks).
 
 ### Assisted departure or evacuation
 

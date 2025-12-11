@@ -1,17 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   7 October 2025
+:   11 December 2025
 
 Updated:
-:   6 October 2025
+:   10 December 2025
 
 Latest update:
-:   Updated with information about the new Entry/Exit System (EES) which will start to be rolled out on 12 October to people travelling into the EU (‘Entry requirements’ page).
-
-## National defence exercise ‘Namejs 2025’
-
-Latvia’s armed forces will hold a national defence exercise from 2 September to 8 October. You may notice frequent movements of military vehicles and military aircraft. There might be delays to travel on main and local roads. Live fire exercises are planned to be held in training areas. Follow the advice of local authorities. Further details can be found on the [Latvian National Armed forces website](https://www.mil.lv/en/news/comprehensive-national-defense-exercise-namejs-2025-take-place-latvia).
+:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
 
 ## Before you travel
 

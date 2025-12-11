@@ -1,18 +1,18 @@
 # Warnings and insurance
 
 Still current at:
-:   21 October 2025
+:   11 December 2025
 
 Updated:
-:   20 October 2025
+:   10 December 2025
 
 Latest update:
-:   Removal of information about elections in Bolivia which took place on Sunday 19 October.
+:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/672ccc5a62831268b0b1a328/FCDO__TA__098_-_Bolivia_Travel_Advice_Ed1__WEB_.jpg)
 
 
-[Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/672ccc5aeee595f5288bdc09/FCDO__TA__098_-_Bolivia_Travel_Advice_Ed1.pdf)
+[Download a more detailed map (PDF, 740 KB)](https://assets.publishing.service.gov.uk/media/672ccc5aeee595f5288bdc09/FCDO__TA__098_-_Bolivia_Travel_Advice_Ed1.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 

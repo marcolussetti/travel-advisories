@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   5 December 2025
+:   11 December 2025
 
 Updated:
-:   4 December 2025
+:   10 December 2025
 
 Latest update:
-:   New information on cross-border attacks near the Tajikistan-Afghanistan border (See ‘Tajikistan-Afghanistan border’ on the ‘Regional risks’ page).
+:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
 
 ## Before you travel
 

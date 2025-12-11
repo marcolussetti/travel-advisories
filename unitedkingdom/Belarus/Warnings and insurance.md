@@ -1,18 +1,18 @@
 # Warnings and insurance
 
 Still current at:
-:   1 November 2025
+:   11 December 2025
 
 Updated:
-:   31 October 2025
+:   10 December 2025
 
 Latest update:
-:   Updated information on Belarus-Lithuania border ('Safety and security' page).
+:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/621a51bb8fa8f54916f45f67/FCDO_TA_057_-_Belarus_Travel_Advice_Ed2_WEB.jpg)
 
 
-[Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/621f6256e90e0710acb25592/FCDO__TA__057_-_Belarus_Travel_Advice_Ed2.pdf)
+[Download a more detailed map (PDF, 479 KB)](https://assets.publishing.service.gov.uk/media/621f6256e90e0710acb25592/FCDO__TA__057_-_Belarus_Travel_Advice_Ed2.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 

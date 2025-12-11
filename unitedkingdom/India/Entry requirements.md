@@ -12,6 +12,10 @@ Check with your travel provider that your passport and other travel documents me
 
 You will be denied entry if you do not have a valid travel document or try to use a passport that has been reported lost or stolen.
 
+## Returning to the UK
+
+When returning to the UK, [British citizens](https://www.gov.uk/dual-citizenship) must carry a valid [British passport](https://www.gov.uk/browse/abroad/passports) or [certificate of entitlement](https://www.gov.uk/right-of-abode/apply-for-a-certificate-of-entitlement).
+
 ## Visa requirements
 
 You must have a visa to visit India unless you are an Overseas Citizen of India (OCI) cardholder.

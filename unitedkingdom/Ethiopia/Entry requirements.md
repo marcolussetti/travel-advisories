@@ -11,6 +11,10 @@ Your passport must be:
 * valid for at least 6 months after the date you arrive in Ethiopia
 * machine-readable
 
+## Dual nationals
+
+When returning to the UK, British citizens must carry a valid [British passport](https://www.gov.uk/browse/abroad/passports) or [certificate of entitlement](https://www.gov.uk/right-of-abode/apply-for-a-certificate-of-entitlement). See [Dual citizenship](https://www.gov.uk/dual-citizenship).
+
 ## Visa requirements
 
 You must have a visa to visit Ethiopia for tourism or business.

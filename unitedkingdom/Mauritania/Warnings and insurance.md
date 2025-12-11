@@ -1,18 +1,18 @@
 # Warnings and insurance
 
 Still current at:
-:   28 October 2025
+:   11 December 2025
 
 Updated:
-:   27 October 2025
+:   10 December 2025
 
 Latest update:
-:   Addition of information about the risks from Rift Valley fever in Mauritania (‘ Health’ page).
+:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/675319b87e5323915d6a0428/FCDO__TA__027_-_Mauritania_Travel_Advice_Ed6__WEB_.jpg)
 
 
-[Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/675319b8dcabf976e5fb007a/FCDO__TA__027_-_Mauritania_Travel_Advice_Ed6.pdf)
+[Download a more detailed map (PDF, 481 KB)](https://assets.publishing.service.gov.uk/media/675319b8dcabf976e5fb007a/FCDO__TA__027_-_Mauritania_Travel_Advice_Ed6.pdf)
 
 Your travel insurance could be invalidated if you travel against Foreign, Commonwealth & Development Office (FCDO) advice.
 

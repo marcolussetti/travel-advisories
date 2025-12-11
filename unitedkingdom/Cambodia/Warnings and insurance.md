@@ -1,18 +1,18 @@
 # Warnings and insurance
 
 Still current at:
-:   10 October 2025
+:   11 December 2025
 
 Updated:
-:   9 October 2025
+:   10 December 2025
 
 Latest update:
-:   Updated information on the dispute along the border with Thailand and Cambodia ('Warnings and insurance' page).
+:   Updated information on the border situation with Thailand ('Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/688760d2b0e1dfe5b5f0e44b/FCDO__TA__085_-_Cambodia_Travel_Advice_Ed3__WEB_.jpg)
 
 
-[Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/688760d2be2291b14d11afa6/FCDO__TA__085_-_Cambodia_Travel_Advice_Ed3.pdf)
+[Download a more detailed map (PDF, 639 KB)](https://assets.publishing.service.gov.uk/media/688760d2be2291b14d11afa6/FCDO__TA__085_-_Cambodia_Travel_Advice_Ed3.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
@@ -24,7 +24,7 @@ Find out more about [why FCDO advises against travel](/foreign-travel-advice/cam
 
 ### Border with Thailand
 
-In July 2025, Thailand and Cambodia fought along parts of the border. The fighting included the use of rocket and artillery fire. Tensions remain with reports of the latest round of gunfire on 23 September. Land borders and crossings between Cambodia and Thailand continue to be suspended. Some tourist destinations in border areas such as the Preah Vihear/Khao Phra Wihan temple, the Ta Krabey/Ta Kwai temple and the Tamone Thom/Ta Muen Thom temple are closed.
+In July 2025, Thailand and Cambodia fought along parts of the border. The fighting included the use of rocket and artillery fire. Tensions remain, with fighting taking place at various points along the border in early December. Land borders and crossings between Cambodia and Thailand continue to be suspended. Some tourist destinations in border areas such as the Preah Vihear/Khao Phra Wihan temple, the Ta Krabey/Ta Kwai temple and the Tamone Thom/Ta Muen Thom temple are closed.
 
 There are also unexploded landmines in the border area.
 

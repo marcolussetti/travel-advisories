@@ -1,11 +1,11 @@
 {
     "name": "Zambia",
-    "update_reason": "New information on the potential health risks from heavy metals in water (\u2018Health\u2019 page).",
+    "update_reason": "New information about dual nationals returning to the UK (\u2018Entry requirements\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Zambia/Warnings and insurance.md",
-            "update_date": "2025-08-19T10:50:47+01:00"
+            "update_date": "2025-12-10T13:04:00+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Zambia/Getting help.md"
         }
     ],
-    "update_date": "2025-08-19T10:50:47+01:00"
+    "update_date": "2025-12-10T13:04:00+00:00"
 }

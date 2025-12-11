@@ -12,6 +12,10 @@ The Mexican Embassy in the UK recommends passports be valid for at least 180 day
 
 If you’re travelling through another country on your way to or from Mexico, check the entry requirements for that country. Many countries will only allow entry if you have at least 6 months validity remaining on your passport.
 
+## Dual nationals
+
+When returning to the UK, British citizens must carry a valid [British passport](https://www.gov.uk/browse/abroad/passports) or [certificate of entitlement](https://www.gov.uk/right-of-abode/apply-for-a-certificate-of-entitlement). See [Dual citizenship](https://www.gov.uk/dual-citizenship).
+
 ## Visa requirements
 
 If you’re visiting Mexico as a tourist, you do not need a visa. You’ll get a stamp in your passport with the number of days you are allowed to stay.

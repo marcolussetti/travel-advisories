@@ -1,11 +1,11 @@
 {
     "name": "Syria",
-    "update_reason": "This travel advice has been reviewed for accuracy, with revisions and the addition of information about Ramadan, lifting of sanctions and the risks from terrorism, including kidnap ('Safety and security' page).",
+    "update_reason": "New information about dual nationals returning to the UK (\u2018Entry requirements\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Syria/Warnings and insurance.md",
-            "update_date": "2025-08-29T16:30:31+01:00"
+            "update_date": "2025-12-10T12:45:04+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Syria/Getting help.md"
         }
     ],
-    "update_date": "2025-08-29T16:30:31+01:00"
+    "update_date": "2025-12-10T12:45:04+00:00"
 }

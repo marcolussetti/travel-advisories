@@ -1,18 +1,18 @@
 # Warnings and insurance
 
 Still current at:
-:   28 June 2025
+:   11 December 2025
 
 Updated:
-:   27 June 2025
+:   10 December 2025
 
 Latest update:
-:   Updated information about regional risks (see “Warnings and Insurance” page)
+:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/5f4e3445e90e071c6f74664e/FCDO__TA__047_-_Yemen_Travel_Advice_Ed1__WEB_.jpg)
 
 
-[Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/5f4e34458fa8f57fbc2bd3cd/FCDO__TA__047_-_Yemen_Travel_Advice_Ed1.pdf)
+[Download a more detailed map (PDF, 324 KB)](https://assets.publishing.service.gov.uk/media/5f4e34458fa8f57fbc2bd3cd/FCDO__TA__047_-_Yemen_Travel_Advice_Ed1.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 

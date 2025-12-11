@@ -1,11 +1,11 @@
 {
     "name": "Yemen",
-    "update_reason": "Updated information about regional risks (see \u201cWarnings and Insurance\u201d page)",
+    "update_reason": "New information about dual nationals returning to the UK (\u2018Entry requirements\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Yemen/Warnings and insurance.md",
-            "update_date": "2025-06-27T20:02:26+01:00"
+            "update_date": "2025-12-10T13:03:15+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Yemen/Getting help.md"
         }
     ],
-    "update_date": "2025-06-27T20:02:26+01:00"
+    "update_date": "2025-12-10T13:03:15+00:00"
 }

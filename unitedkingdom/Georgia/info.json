@@ -1,11 +1,11 @@
 {
     "name": "Georgia",
-    "update_reason": "Updated information about the duration of political demonstrations in Georgia ('Safety and security' page).",
+    "update_reason": "New information about dual nationals returning to the UK (\u2018Entry requirements\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Georgia/Warnings and insurance.md",
-            "update_date": "2025-11-18T15:57:50+00:00"
+            "update_date": "2025-12-10T13:50:58+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Georgia/Getting help.md"
         }
     ],
-    "update_date": "2025-11-18T15:57:50+00:00"
+    "update_date": "2025-12-10T13:50:58+00:00"
 }

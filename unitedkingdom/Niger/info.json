@@ -1,11 +1,11 @@
 {
     "name": "Niger",
-    "update_reason": "FCDO now advises against all travel to the capital city of Niamey, including the rest of Niger ('Warnings and insurance' page).",
+    "update_reason": "New information about dual nationals returning to the UK (\u2018Entry requirements\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Niger/Warnings and insurance.md",
-            "update_date": "2025-10-29T13:21:04+00:00"
+            "update_date": "2025-12-10T13:21:08+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Niger/Getting help.md"
         }
     ],
-    "update_date": "2025-10-29T13:21:04+00:00"
+    "update_date": "2025-12-10T13:21:08+00:00"
 }

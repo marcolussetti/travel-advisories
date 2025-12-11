@@ -8,6 +8,10 @@ The authorities in Jamaica set and enforce entry rules. If you’re not sure how
 
 To enter Jamaica, your passport must be valid for the duration of your stay. You must have 2 blank pages for entry and exit stamps.
 
+## Dual nationals
+
+When returning to the UK, British citizens must carry a valid [British passport](https://www.gov.uk/browse/abroad/passports) or [certificate of entitlement](https://www.gov.uk/right-of-abode/apply-for-a-certificate-of-entitlement). See [Dual citizenship](https://www.gov.uk/dual-citizenship).
+
 ## Visa requirements
 
 You do not need a visa to visit Jamaica. You will usually be granted entry for up to 90 days. The date you must leave Jamaica is stamped on your passport.

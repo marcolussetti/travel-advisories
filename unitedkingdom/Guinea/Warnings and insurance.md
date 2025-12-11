@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   24 September 2025
+:   11 December 2025
 
 Updated:
-:   23 September 2025
+:   10 December 2025
 
 Latest update:
-:   Removal of information on the political and security situation in Guinea (‘Safety and security’ page).
+:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
 
 ## Before you travel
 

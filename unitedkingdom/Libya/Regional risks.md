@@ -14,7 +14,7 @@ The general security situation in Tripoli has been relatively stable since the U
 
 FCDO advises against all but essential travel to all areas within the city limits of Benghazi.
 
-The general security situation in Benghazi has been calm throughout 2024 and 2025. Security is controlled by a single military group, however there remains a risk of in-fighting fi, but there have not been any incidents in the last 12 months.
+The general security situation in Benghazi has been calm throughout 2024 and 2025. Security is controlled by a single military group, however there remains a risk of in-fighting, but there have not been any incidents in the last 12 months.
 
 ## Misrata
 

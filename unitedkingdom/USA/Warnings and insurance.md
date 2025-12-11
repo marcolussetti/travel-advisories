@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   6 December 2025
+:   11 December 2025
 
 Updated:
-:   5 December 2025
+:   10 December 2025
 
 Latest update:
-:   Information added about World Cup 2026 (‘Warnings and insurance’ and ‘World Cup 2026’ pages).
+:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
 
 This travel advice also covers American Samoa, Guam, Northern Mariana Islands, Puerto Rico, and United States Virgin Islands.
 

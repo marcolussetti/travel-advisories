@@ -15,7 +15,11 @@ Check with your travel provider that your passport and other travel documents me
 
 You will be denied entry if you do not have a valid travel document or try to use a passport that has been reported lost or stolen.
 
-### Dual nationals
+## Dual nationals
+
+When returning to the UK, British citizens must carry a valid [British passport](https://www.gov.uk/browse/abroad/passports) or [certificate of entitlement](https://www.gov.uk/right-of-abode/apply-for-a-certificate-of-entitlement). See [Dual citizenship](https://www.gov.uk/dual-citizenship).
+
+### British-Polish dual nationals
 
 If you are a British-Polish dual national, you must enter and exit Poland using a Polish passport or Polish national identity card. There are regular cases of Polish border guards allowing dual nationals to enter on their British passport, but refusing exit on the British passport.
 
@@ -85,7 +89,7 @@ If you have arrived in Poland from Ukraine and are in need of assistance, call +
 
 ### Entering Poland from Belarus
 
-[FCDO advises against all travel to Belarus](http://www.gov.uk/foreign-travel-advice/belarus). Poland temporarily closed the Poland-Belarus border including rail crossings from 12 to 24 September 2025. The border is open but certain border checkpoints are closed, see [details from the Polish government](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001274) (in Polish). Border checkpoints may close or have additional restrictions imposed at short notice and other disruption is possible.
+[FCDO advises against all travel to Belarus](http://www.gov.uk/foreign-travel-advice/belarus). Poland temporarily closed the Poland-Belarus border including rail crossings from 12 to 24 September 2025. The border is open but certain border checkpoints are closed. Border checkpoints may close or have additional restrictions imposed at short notice and other disruption is possible.
 
 Access to parts of the Polish border with Belarus is restricted. The regulations, which came into force on 13 June 2024 was extended on 6 September 2025 for another 90 days, prohibits access to the border in specific areas controlled by the Polish Border Guard posts at Narewka, Białowieża, Dubicze Cerkiewne and Czeremcha. In some areas, access is restricted to within 200m of the border and in others to within 2km. See precise [details of the restricted areas](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000738) (in Polish).
 

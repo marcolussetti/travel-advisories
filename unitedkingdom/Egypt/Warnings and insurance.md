@@ -1,18 +1,18 @@
 # Warnings and insurance
 
 Still current at:
-:   3 September 2025
+:   11 December 2025
 
 Updated:
-:   2 September 2025
+:   10 December 2025
 
 Latest update:
-:   Removal of temporary update on British Embassy Cairo operations ('Warnings and insurance' page).
+:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/670e278f30536cb92748313c/FCDO__TA__015_-_Egypt_Travel_Advice_Ed10__WEB_.jpg)
 
 
-[Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/670e279030536cb92748313d/FCDO__TA__015_-_Egypt_Travel_Advice_Ed10.pdf)
+[Download a more detailed map (PDF, 629 KB)](https://assets.publishing.service.gov.uk/media/670e279030536cb92748313d/FCDO__TA__015_-_Egypt_Travel_Advice_Ed10.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
@@ -58,15 +58,15 @@ FCDO advises against all but essential travel to the Hala’ib Triangle and the
 
 Find out more about [why FCDO advises against travel](https://www.gov.uk/foreign-travel-advice/egypt/regional-risks).
 
-## Conflict in Israel and the Occupied Palestinian Territories (OPTs)
+## Conflict in Israel and the Palestine
 
-International borders in Israel and the Occupied Palestinian Territories (OPTs) could close at short notice, including the Taba border crossing between Israel and Egypt. Check with local authorities and read [Israel travel advice](https://www.gov.uk/foreign-travel-advice/israel) and [OPTs travel advice](https://www.gov.uk/foreign-travel-advice/the-occupied-palestinian-territories) before trying to cross.
+International borders in Israel and Palestine could close at short notice, including the Taba border crossing between Israel and Egypt. Check with local authorities and read [Israel travel advice](https://www.gov.uk/foreign-travel-advice/israel) and [Palestine travel advice](https://www.gov.uk/foreign-travel-advice/palestine) before trying to cross.
 
 ### Entering Egypt from Gaza
 
 The Rafah border crossing is currently closed. When re-opened, Israel, Egypt and the authorities in Gaza may determine procedures for who is permitted to cross and when.
 
-If you are a British national in Gaza who wants to leave Gaza, see [Israel travel advice](https://www.gov.uk/foreign-travel-advice/israel#travelling-to-egypt-from-gaza) and [OPTs travel advice](https://www.gov.uk/foreign-travel-advice/the-occupied-palestinian-territories#travelling-to-egypt-from-gaza).
+If you are a British national in Gaza who wants to leave Gaza, see [Israel travel advice](https://www.gov.uk/foreign-travel-advice/israel#travelling-to-egypt-from-gaza) and [Palestine travel advice](https://www.gov.uk/foreign-travel-advice/palestine#travelling-to-egypt-from-gaza).
 
 ### Concern for friends and family
 

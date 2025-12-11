@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   4 December 2025
+:   11 December 2025
 
 Updated:
-:   3 December 2025
+:   10 December 2025
 
 Latest update:
-:   Removal of information on Cyclone Ditwah ('Safety and security' page).
+:   Addition of information that when returning to the UK, British citizens must carry a valid British passport or certificate of entitlement ('Entry requirements' page).
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 

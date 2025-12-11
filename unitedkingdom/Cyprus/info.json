@@ -1,11 +1,11 @@
 {
     "name": "Cyprus",
-    "update_reason": "Updated with a link to information about using a UK issued Blue Badge in Cyprus (\u2018Safety and security\u2019 page).",
+    "update_reason": "Addition of information about flooding in Cyprus and new information about dual nationals returning to the UK ('Warnings and insurance' and \u2018Entry requirements\u2019 pages).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Cyprus/Warnings and insurance.md",
-            "update_date": "2025-08-07T13:58:45+01:00"
+            "update_date": "2025-12-10T14:24:58+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Cyprus/Getting help.md"
         }
     ],
-    "update_date": "2025-08-07T13:58:45+01:00"
+    "update_date": "2025-12-10T14:24:58+00:00"
 }

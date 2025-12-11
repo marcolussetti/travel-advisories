@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   8 May 2025
+:   11 December 2025
 
 Updated:
-:   7 May 2025
+:   10 December 2025
 
 Latest update:
-:   Information on the risks related to evidence of drug use on entry or in transit ('Warnings and insurance' page).
+:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
 
 ## Illegal drugs
 

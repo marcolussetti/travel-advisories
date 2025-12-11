@@ -1,11 +1,11 @@
 {
     "name": "Federated States of Micronesia",
-    "update_reason": "Removal of information on tsunami alert specific to the earthquake in the Kamchatka Peninsular Region  (\u2018Warnings and insurance\u2019 page).",
+    "update_reason": "New information about dual nationals returning to the UK (\u2018Entry requirements\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Federated States of Micronesia/Warnings and insurance.md",
-            "update_date": "2025-08-01T14:27:05+01:00"
+            "update_date": "2025-12-10T13:33:45+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Federated States of Micronesia/Getting help.md"
         }
     ],
-    "update_date": "2025-08-01T14:27:05+01:00"
+    "update_date": "2025-12-10T13:33:45+00:00"
 }

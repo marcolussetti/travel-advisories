@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   13 September 2025
+:   11 December 2025
 
 Updated:
-:   12 September 2025
+:   10 December 2025
 
 Latest update:
-:   Removal of information about the England vs Serbia football match which took place on 9 September.
+:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
 
 ## Before you travel
 

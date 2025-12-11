@@ -12,9 +12,11 @@ Check with your travel provider that your passport and other travel documents me
 
 You will be denied entry if you do not have a valid travel document or try to use a passport that has been reported lost or stolen.
 
-### Dual nationals
+## Dual nationals
 
 Malaysia does not recognise dual nationality. You can be refused entry if you’re found with a Malaysian passport and one of a different nationality. If you have dual nationality (not including Malaysian), enter and exit on the same passport.
+
+When returning to the UK, British citizens must carry a valid [British passport](https://www.gov.uk/browse/abroad/passports) or [certificate of entitlement](https://www.gov.uk/right-of-abode/apply-for-a-certificate-of-entitlement). See [Dual citizenship](https://www.gov.uk/dual-citizenship).
 
 ## Visa requirements
 

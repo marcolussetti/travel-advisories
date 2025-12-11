@@ -52,28 +52,13 @@ Both male and female tourists have reported having their drink or food spiked wi
 
 ### Methanol poisoning
 
-There have been deaths and cases of serious illness caused by alcoholic drinks containing methanol. Methanol has been used in the manufacture of counterfeit replicas of well-known alcohol brands or illegal local spirits, like vodka. You should take care if offered, particularly for free, or when buying spirit-based drinks. If labels, smell or taste seem wrong then do not drink.
+There have been deaths and cases of serious illness caused by alcoholic drinks containing methanol in Laos.
 
-Affected drinks may include:
+Laos authorities have issued an order prohibiting the sale and consumption of Tiger Vodka and Tiger Whisky due to concerns about them being a risk to health.
 
-* local spirits, including local rice or palm liquor
-* spirit-based mixed drinks, such as cocktails
-* counterfeit brand-name bottled alcohol in shops or behind the bar
+Even small amounts of methanol can kill. It is not possible to identify methanol in alcoholic drinks by taste or smell. See [Travel Aware Spiking and methanol poisoning](https://travelaware.campaign.gov.uk/spiking-and-methanol-poisoning/) for information about how to reduce the risks.
 
-Laos authorities have issued an order prohibiting the sale and consumption of Tiger Vodka and Tiger Whisky due to concerns about them being a risk to health. You should avoid consuming these products.
-
-To reduce the risk of methanol poisoning:
-
-* buy alcoholic beverages only from licensed liquor stores, bars, clubs, restaurants and hotels
-* avoid home-made alcoholic drinks
-* check bottle seals are intact
-* check labels for poor print quality or incorrect spelling
-
-Methanol is tasteless and odourless. It can rapidly lead to serious illness. Long-term effects may include blindness and permanent damage to the Central Nervous System. Coma and death may occur following exposure.
-
-TravelHealthPro lists the [symptoms of methanol poisoning](https://www.travelhealthpro.org.uk/factsheet/25/personal-safety). For more information about spiking and methanol poisoning, read Travel Aware’s information on [Spiking and methanol poisoning](https://travelaware.campaign.gov.uk/spiking-and-methanol-poisoning/).
-
-Seek [urgent medical attention](https://www.gov.uk/government/publications/laos-list-of-medical-facilities) if you or someone you are travelling with show signs of methanol poisoning.
+Seek urgent medical attention if you or someone you are travelling with show the [signs of methanol poisoning](https://travelaware.campaign.gov.uk/spiking-and-methanol-poisoning/) after drinking.
 
 ## Laws and cultural differences
 

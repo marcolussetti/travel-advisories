@@ -18,6 +18,10 @@ Leaving Pakistan will be difficult if you do not have an entry stamp. If your pa
 
 Illegal entry to Pakistan is a serious offence. If you enter without the correct documentation you may be detained or deported. If you enter Pakistan illegally, you may not be able to travel onward from Pakistan.
 
+## Dual nationals
+
+When returning to the UK, British citizens must carry a valid [British passport](https://www.gov.uk/browse/abroad/passports) or [certificate of entitlement](https://www.gov.uk/right-of-abode/apply-for-a-certificate-of-entitlement). See [Dual citizenship](https://www.gov.uk/dual-citizenship).
+
 ## Visa requirements
 
 You need a visa to visit Pakistan and you must apply in advance.

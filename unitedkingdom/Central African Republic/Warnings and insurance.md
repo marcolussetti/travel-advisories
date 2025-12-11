@@ -1,18 +1,18 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   11 December 2025
 
 Updated:
-:   14 August 2024
+:   10 December 2025
 
 Latest update:
-:   New information on health risks ('Health' page).
+:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/664616ceb7249a4c6e9d3673/FCDO__TA__009_-_Central_African_Republic_Travel_Advice_Ed3__WEB_.jpg)
 
 
-[Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/664616ce4f29e1d07fadc99f/FCDO__TA__009_-_Central_African_Republic_Travel_Advice_Ed3.pdf)
+[Download a more detailed map (PDF, 475 KB)](https://assets.publishing.service.gov.uk/media/664616ce4f29e1d07fadc99f/FCDO__TA__009_-_Central_African_Republic_Travel_Advice_Ed3.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 

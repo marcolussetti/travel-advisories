@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   29 November 2025
+:   11 December 2025
 
 Updated:
-:   28 November 2025
+:   10 December 2025
 
 Latest update:
-:   Addition of information on the risks from methanol poisoning (See 'Alcohol laws' on the 'Safety and security' page).
+:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
 
 ## Before you travel
 

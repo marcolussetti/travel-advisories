@@ -1,11 +1,11 @@
 {
     "name": "Burundi",
-    "update_reason": "Updated information on increased armed group activity and conflict on the border between Burundi and DRC (\u2018Warning and insurance\u2019 page).",
+    "update_reason": "FCDO now advises against all but essential travel to the former Bujumbura Mairie Province, including the city of Bujumbura, and to the area of the former Bujumbura Rural Province east of the Rusizi river. FCDO continues to advise against all travel to parts of Burundi ('Warnings and insurance' page). New information also added about dual nationals returning to the UK ('Entry requirements' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Burundi/Warnings and insurance.md",
-            "update_date": "2025-12-08T14:23:32+00:00"
+            "update_date": "2025-12-10T12:46:28+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Burundi/Getting help.md"
         }
     ],
-    "update_date": "2025-12-08T14:23:32+00:00"
+    "update_date": "2025-12-10T12:46:28+00:00"
 }

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   18 October 2025
+:   11 December 2025
 
 Updated:
-:   17 October 2025
+:   10 December 2025
 
 Latest update:
-:   This travel advice was reviewed for accuracy with minor changes made throughout.
+:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
 
 ## Before you travel
 

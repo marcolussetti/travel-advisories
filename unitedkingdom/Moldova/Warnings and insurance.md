@@ -1,18 +1,18 @@
 # Warnings and insurance
 
 Still current at:
-:   2 August 2025
+:   11 December 2025
 
 Updated:
-:   1 August 2025
+:   10 December 2025
 
 Latest update:
-:   Updated with information about the risks from terrorism (‘Safety and security’ page).
+:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/620fb5b8d3bf7f4f05879a08/FCDO__TA__058_-_Moldova_Travel_Advice_Ed1__WEB_.jpg)
 
 
-[Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/620fb5b88fa8f54915f4374d/FCDO__TA__058_-_Moldova_Travel_Advice_Ed1.pdf)
+[Download a more detailed map (PDF, 418 KB)](https://assets.publishing.service.gov.uk/media/620fb5b88fa8f54915f4374d/FCDO__TA__058_-_Moldova_Travel_Advice_Ed1.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 

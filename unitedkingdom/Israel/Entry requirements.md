@@ -96,6 +96,10 @@ Israeli checkpoints may close on Israeli public holidays and during periods of i
 
 Foreign nationals may encounter suspicion or hostility at checkpoints and in areas not frequented by foreign nationals.
 
+## Dual nationals
+
+When returning to the UK, British citizens must carry a valid [British passport](https://www.gov.uk/browse/abroad/passports) or [certificate of entitlement](https://www.gov.uk/right-of-abode/apply-for-a-certificate-of-entitlement). See [Dual citizenship](https://www.gov.uk/dual-citizenship).
+
 ## British nationals of Palestinian origin
 
 If you’re a British national of Palestinian origin (on the Palestinian Population Register or holding a Palestinian ID number), you must have a Palestinian passport or travel document to leave Gaza or the West Bank.

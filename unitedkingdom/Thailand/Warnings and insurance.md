@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   5 December 2025
+:   11 December 2025
 
 Updated:
-:   4 December 2025
+:   10 December 2025
 
 Latest update:
-:   Updated information about alcohol sale restrictions ('Safety and security' pages).
+:   Updated information on the Thailand-Cambodia border situation ('Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/68ff9972d81972ecd2df5dbf/FCDO__TA__040_-_Thailand_Travel_Advice_Ed5__WEB_.jpg)
 
@@ -41,7 +41,7 @@ Authorities in Thailand are advising  visitors to wear sombre clothing, particu
 
 ## Thailand-Cambodia border
 
-In July 2025, Thailand and Cambodia fought along parts of the border. The fighting included the use of rocket and artillery fire. Tensions remain with reports of the latest round of gunfire on 23 September. Land borders and crossings between Thailand and Cambodia continue to be suspended. Some tourist destinations in border areas such as the Khao Phra Wihan/Preah Vihear temple, the Ta Kwai/Ta Krabey temple and the Ta Muen Thom/Tamone Thom temple are closed.
+In July 2025, Thailand and Cambodia fought along parts of the border. The fighting included the use of rocket and artillery fire. Tensions remain, with reports of fighting taking place at various points along the border in early December. Land borders and crossings between Thailand and Cambodia continue to be suspended. Some tourist destinations in border areas such as the Khao Phra Wihan/Preah Vihear temple, the Ta Kwai/Ta Krabey temple and the Ta Muen Thom/Tamone Thom temple are closed.
 
 There are also unexploded landmines in the border area.
 

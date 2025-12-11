@@ -1,11 +1,11 @@
 {
     "name": "Finland",
-    "update_reason": "Updated with information about the new Entry/Exit System (EES) which will start to be rolled out on 12 October to people travelling into the EU (\u2018Entry requirements\u2019 page).",
+    "update_reason": "New information about dual nationals returning to the UK (\u2018Entry requirements\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Finland/Warnings and insurance.md",
-            "update_date": "2025-10-06T16:11:14+01:00"
+            "update_date": "2025-12-10T13:34:42+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Finland/Getting help.md"
         }
     ],
-    "update_date": "2025-10-06T16:11:14+01:00"
+    "update_date": "2025-12-10T13:34:42+00:00"
 }

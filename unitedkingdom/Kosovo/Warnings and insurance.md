@@ -1,18 +1,18 @@
 # Warnings and insurance
 
 Still current at:
-:   9 July 2025
+:   11 December 2025
 
 Updated:
-:   8 July 2025
+:   10 December 2025
 
 Latest update:
-:   Removal of information about the temporary closure of the Hani i Elezit / Blace border crossing between Kosovo and North Macedonia.
+:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/66d031530b53069322597c76/FCDO__TA__052_-_Kosovo_Travel_Advice_Ed2__WEB_.jpg)
 
 
-[Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/66d03153a7256f1cd83a8a3b/FCDO__TA__052_-_Kosovo_Travel_Advice_Ed2.pdf)
+[Download a more detailed map (PDF, 516 KB)](https://assets.publishing.service.gov.uk/media/66d03153a7256f1cd83a8a3b/FCDO__TA__052_-_Kosovo_Travel_Advice_Ed2.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 

@@ -66,7 +66,13 @@ Smoking is banned at all public parks, all beaches and along certain waterways. 
 
 ### Illegal drugs
 
-There are severe penalties for all drug offences in Singapore, including possession. Carrying even a small amount of drugs can have significant consequences. You can be charged with trafficking (‘intent to sell’)   for possessing drugs above a certain amount. You can be detained without trial. Sentences include prison terms, caning and the death penalty. See the [Misuse of Drugs Act](https://sso.agc.gov.sg/Act/MDA1973?ProvIds=P1III-.) for information on definitions and penalties.
+There are severe penalties for all drug offences in Singapore, including possession. Carrying even a small amount of drugs can have significant consequences.
+
+You can be charged with trafficking (‘intent to sell’) for possessing drugs above a certain amount. You can be detained without trial. Sentences include prison terms, caning and the death penalty, including when transiting through the airport.
+
+Airports in Singapore have excellent technology and security for detecting illegal items, including cannabis. This is also used to scan the baggage of transiting passengers.
+
+See the [Misuse of Drugs Act](https://sso.agc.gov.sg/Act/MDA1973?ProvIds=P1III-.) for information on definitions and penalties.
 
 ### Arrests and detentions
 

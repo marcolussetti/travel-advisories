@@ -14,6 +14,16 @@ Check with your travel provider that your passport and other travel documents me
 
 You will be denied entry if you do not have a valid travel document or try to use a passport that has been reported lost or stolen.
 
+## Dual nationals
+
+When returning to the UK, British citizens must carry a valid [British passport](https://www.gov.uk/browse/abroad/passports) or [certificate of entitlement](https://www.gov.uk/right-of-abode/apply-for-a-certificate-of-entitlement). See [Dual citizenship](https://www.gov.uk/dual-citizenship).
+
+### British-Azerbaijani dual nationals
+
+Azerbaijan does not recognise dual nationality, but does not prohibit Azerbaijani nationals from holding dual nationality. You must inform the local Azerbaijani Embassy or State Migration Service within one month of taking up another nationality. If you do not, this can impact the level of consular support FCDO will be able to provide.
+
+If you’re a British passport holder with links to Azerbaijan, through birth or otherwise, and need to check your nationality status, contact the [State Migration Service](https://migration.gov.az/en) before you travel.
+
 ### Checks at border control
 
 Anyone who has previously visited certain areas in south-western Azerbaijan, including the town of Khankendi, without the permission of the Azerbaijani authorities could be denied entry to Azerbaijan. You should contact the nearest embassy or consulate of Azerbaijan before you travel. See [Regional Risks](https://www.gov.uk/foreign-travel-advice/azerbaijan/regional-risks).
@@ -49,12 +59,6 @@ If you are in Azerbaijan, you can also call the Migration Information Centre on 
 ### Registering with the authorities
 
 If you’re staying in Azerbaijan for longer than 15 days, you must [register with the State Migration Service](https://eservice.migration.gov.az/?lang=en) online or in person. If you do not register you will have to pay a fine to the [State Migration Service](https://migration.gov.az/en/contact/59) before you are able to leave the country. Hotels often provide this service for their guests, but you must do it yourself if you are staying in an apartment or private residence.
-
-## British-Azerbaijani dual nationality
-
-Azerbaijan does not recognise dual nationality, but does not prohibit Azerbaijani nationals from holding dual nationality. You must inform the local Azerbaijani Embassy or State Migration Service within one month of taking up another nationality. If you do not, this can impact the level of consular support FCDO will be able to provide.
-
-If you’re a British passport holder with links to Azerbaijan, through birth or otherwise, and need to check your nationality status, contact the [State Migration Service](https://migration.gov.az/en) before you travel.
 
 ## Vaccine requirements
 

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   29 July 2025
+:   11 December 2025
 
 Updated:
-:   28 July 2025
+:   10 December 2025
 
 Latest update:
-:   FCDO no longer advises against all but essential travel to Mayotte.
+:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
 
 ## Before you travel
 

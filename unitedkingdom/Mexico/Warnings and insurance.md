@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   6 December 2025
+:   11 December 2025
 
 Updated:
-:   5 December 2025
+:   10 December 2025
 
 Latest update:
-:   Information added about World Cup 2026 (‘Warnings and insurance’ and ‘World Cup 2026’ pages).
+:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/65fabfdfaa9b76001dfbdb8a/FCDO_TA_065_-_Mexico_Travel_Advice_Ed5_WEB.jpg)
 

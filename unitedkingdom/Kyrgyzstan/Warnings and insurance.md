@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   7 October 2025
+:   11 December 2025
 
 Updated:
-:   6 October 2025
+:   10 December 2025
 
 Latest update:
-:   New information on driving with an international driving permit (See ‘Road travel’ on the ‘Safety and security’ page).
+:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
 
 ## Before you travel
 

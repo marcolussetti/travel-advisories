@@ -54,32 +54,15 @@ Banks and money exchanges may not accept 50 or 100 US dollar bills, due to a rep
 
 Be wary of strangers approaching you to change money, or to take you to a restaurant or nightclub. If strangers offer you food and drink these could be spiked. Buy your own drinks and always keep sight of them.
 
-### Counterfeit Alcohol
+### Methanol poisoning
+
+There has been an increase in cases of serious illness caused by alcoholic drinks containing methanol in popular travel destinations around the world.
 
 In Turkey, including Ankara and Istanbul, people have died or suffered serious illness after drinking illegally produced local spirits and counterfeit bottles of branded alcohol.
 
-There is a risk of methanol poisoning from home brewed alcohol or counterfeit replicas of well-known alcohol brands.
+Even small amounts of methanol can kill. It is not possible to identify methanol in alcoholic drinks by taste or smell. See [Travel Aware Drink Spiking and methanol poisoning](https://travelaware.campaign.gov.uk/spiking-and-methanol-poisoning/) for information about how to reduce the risks.
 
-Affected drinks may include:
-
-* local spirits
-* spirit-based mixed drinks such as cocktails
-* counterfeit brand-named spirits
-
-To reduce the risk of methanol poisoning:
-
-* buy alcoholic beverages only from licensed liquor stores, bars, clubs, restaurants and hotels
-* avoid home-made alcoholic drinks
-* check bottle seals are intact
-* check labels for poor print quality or incorrect spelling
-
-If you have any concerns, ask for advice from your tour operator or the Turkish authorities.
-
-Methanol is tasteless and odourless. If the label, smell or taste seems wrong, do not drink the alcohol. These are signs it is illegal and could contain methanol.
-
-For more information about spiking and methanol poisoning, read Travel Aware’s information on [Spiking and methanol poisoning](https://travelaware.campaign.gov.uk/spiking-and-methanol-poisoning/).
-
-Seek [urgent medical attention](https://www.gov.uk/government/publications/turkey-list-of-medical-practitioners/list-of-medical-facilities-in-turkey) if you or someone you are travelling with falls ill after drinking alcohol.
+Seek urgent medical attention if you or someone you are travelling with show the [signs of methanol poisoning](https://travelaware.campaign.gov.uk/spiking-and-methanol-poisoning/) after drinking.
 
 ### Sexual assault
 

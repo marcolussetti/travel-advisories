@@ -1,18 +1,18 @@
 # Warnings and insurance
 
 Still current at:
-:   22 October 2025
+:   11 December 2025
 
 Updated:
-:   21 October 2025
+:   10 December 2025
 
 Latest update:
-:   Addition of information on the risks from methanol poisoning ('Safety and security' page).
+:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/621cd8428fa8f54915f43831/FCDO__TA__059_-_Russia_Travel_Advice_Ed1__WEB_.jpg)
 
 
-[Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/621cd82fe90e0710c30a4715/FCDO__TA__059_-_Russia_Travel_Advice_Ed1.pdf)
+[Download a more detailed map (PDF, 2.15 MB)](https://assets.publishing.service.gov.uk/media/621cd82fe90e0710c30a4715/FCDO__TA__059_-_Russia_Travel_Advice_Ed1.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
@@ -24,7 +24,11 @@ FCDO advises against all travel to Russia due to the risks and threats from its
 * lack of flights to return to the UK
 * limited ability for the UK government to provide support
 
-There is also a high likelihood terrorists  will try to carry out attacks, including in major cities. See [Safety and security](https://www.gov.uk/foreign-travel-advice/russia/safety-and-security).
+There is an increased risk of British nationals being detained in Russia, including if the Russian authorities suspect you of engaging in or supporting activities against Russian law, even if activities took place outside Russia. [See ‘Risk of arrest and detention’ on ‘Safety and security’](https://www.gov.uk/foreign-travel-advice/russia/safety-and-security).
+
+Russia has a track record of targeting foreign nationals and holding them in detention as leverage over other countries. FCDO’s ability to assist you in these circumstances is extremely limited.
+
+There is also a high likelihood terrorists will try to carry out attacks, including in major cities. See [‘Safety and security’](https://www.gov.uk/foreign-travel-advice/russia/safety-and-security).
 
 ## Limited UK government support
 

@@ -8,6 +8,10 @@ The authorities in Afghanistan set and enforce entry rules. A visa is required t
 
 If you decide to travel to Afghanistan against FCDO advice, check with your travel provider whether your passport and other travel documents meet requirements.
 
+## Dual nationals
+
+When returning to the UK, British citizens must carry a valid [British passport](https://www.gov.uk/browse/abroad/passports) or [certificate of entitlement](https://www.gov.uk/right-of-abode/apply-for-a-certificate-of-entitlement). See [Dual citizenship](https://www.gov.uk/dual-citizenship).
+
 ## Vaccine requirements
 
 On your departure, the Afghan authorities may ask for a certificate to prove you’ve had a polio vaccine.

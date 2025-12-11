@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   15 October 2025
+:   11 December 2025
 
 Updated:
-:   14 October 2025
+:   10 December 2025
 
 Latest update:
-:   Updated information about travelling between El Salvador, Nicaragua, Honduras and Guatemala (‘Entry requirements’ page).
+:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
 
 ## Before you travel
 

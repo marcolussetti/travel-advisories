@@ -1,19 +1,19 @@
 # Warnings and insurance
 
 Still current at:
-:   24 October 2025
+:   11 December 2025
 
 Updated:
-:   23 October 2025
+:   10 December 2025
 
 Latest update:
-:   New information about the upcoming Winter Olympics and Paralympic games planned to take place from 6 to 22 February and 6 to 15 March 2025 (‘Warnings and insurance’ and ‘Safety and security’ pages).
+:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
 
 This travel advice also covers Vatican City.
 
 ## Winter Olympics (Milano Cortina) 2026
 
-The Winter Olympics and Paralympics will take place in Italy from 6 to 22 February and 6 to 15 March 2025.
+The Winter Olympics and Paralympics will take place in Italy from 6 to 22 February and 6 to 15 March 2026.
 
 If you are planning to travel to Italy during these times, see the [Winter Olympics page](https://www.gov.uk/foreign-travel-advice/italy/winter-olympics) for more information.
 

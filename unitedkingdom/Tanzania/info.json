@@ -1,11 +1,11 @@
 {
     "name": "Tanzania",
-    "update_reason": "Updated information on the political situation and calls for protest on 9 December, along with phone numbers for consular assistance, and information on an increase in anti-foreigner rhetoric (\u2018Warnings and insurance\u2019 and \u2018Safety and security\u2019 pages).",
+    "update_reason": "Updated information on the political situation following the October 29 elections (\u2018Safety and security\u2019 page). New information about dual nationals returning to the UK (\u2018Entry requirements\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Tanzania/Warnings and insurance.md",
-            "update_date": "2025-12-04T09:43:43+00:00"
+            "update_date": "2025-12-10T15:29:15+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Tanzania/Getting help.md"
         }
     ],
-    "update_date": "2025-12-04T09:43:43+00:00"
+    "update_date": "2025-12-10T15:29:15+00:00"
 }

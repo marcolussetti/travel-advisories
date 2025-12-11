@@ -29,18 +29,6 @@ Examples of recent attacks include:
 * In 2023, 2 Israeli tourists and an Egyptian tour guide were killed in a shooting attack in Alexandria
 * In 2022, 4 police officers and one insurgent killed in an attack on a police checkpoint in Ismailiya City
 
-## Regional risks
-
-Following hostilities in the region, a ceasefire between Israel and Iran began on 24 June.
-
-You should:
-
-* stay up to date with events in the region
-* check for any transport disruption that may still be occurring
-* monitor local and international media for the latest information
-* [read the FCDO’s advice on if you’re affected by a crisis abroad](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas)
-* follow the instructions of local authorities
-
 ## Political situation
 
 The political environment in Egypt is restrictive. Avoid large gatherings, demonstrations and protests as the situation could change quickly and without warning. Security forces have responded forcefully to protests and disturbances.

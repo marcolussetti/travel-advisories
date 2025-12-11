@@ -16,6 +16,10 @@ You will be denied entry if you do not have a valid travel document or try to us
 
 Because of foot and mouth disease, you will need an import licence if you bring any food to the island.
 
+## Dual nationals
+
+When returning to the UK, British citizens must carry a valid [British passport](https://www.gov.uk/browse/abroad/passports) or [certificate of entitlement](https://www.gov.uk/right-of-abode/apply-for-a-certificate-of-entitlement). See [Dual citizenship](https://www.gov.uk/dual-citizenship).
+
 ## Visa requirements
 
 You do not need a visa to visit St Vincent and the Grenadines.

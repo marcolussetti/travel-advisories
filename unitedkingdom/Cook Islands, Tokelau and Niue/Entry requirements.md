@@ -24,6 +24,10 @@ To enter Tokelau, your passport must meet the validity requirements for travel t
 
 Your passport must have an ‘expiry date’ at least 3 months after the date you plan to leave the Cook Islands and have at least 2 blank pages.
 
+## Dual nationals
+
+When returning to the UK, British citizens must carry a valid [British passport](https://www.gov.uk/browse/abroad/passports) or [certificate of entitlement](https://www.gov.uk/right-of-abode/apply-for-a-certificate-of-entitlement). See [Dual citizenship](https://www.gov.uk/dual-citizenship).
+
 ## Visa requirements
 
 ### Cook Islands

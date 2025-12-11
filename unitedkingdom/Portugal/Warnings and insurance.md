@@ -1,19 +1,15 @@
 # Warnings and insurance
 
 Still current at:
-:   7 October 2025
+:   11 December 2025
 
 Updated:
-:   6 October 2025
+:   10 December 2025
 
 Latest update:
-:   Updated with information about the new Entry/Exit System (EES) which will start to be rolled out on 12 October to people travelling into the EU (‘Entry requirements’ page).
+:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
 
 This travel advice also covers Madeira, Porto Santo and the Azores.
-
-## Wildfires in Portugal
-
-There is a high risk of wildfires during the summer season from April to October. For advice, visit the wildfires section on the [Safety and security page](https://www.gov.uk/foreign-travel-advice/portugal/safety-and-security#wildfires).
 
 ## Before you travel
 

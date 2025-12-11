@@ -12,7 +12,7 @@ Terrorist attacks in Maldives cannot be ruled out.
 
 Attacks could be indiscriminate, including in places visited by foreign nationals. Stay aware of your surroundings, keep up to date with local media reports and follow the advice of local authorities.
 
-The current conflict in Israel and the Occupied Palestinian Territories has led to heightened tensions around the world. Terrorist groups, such as Al-Qaida and Daesh, have called on their supporters to carry out terrorist attacks in response. The conflict could also motivate individuals to carry out attacks, including in Maldives.
+The current conflict in Israel and Palestine has led to heightened tensions around the world. Terrorist groups, such as Al-Qaida and Daesh, have called on their supporters to carry out terrorist attacks in response. The conflict could also motivate individuals to carry out attacks, including in Maldives.
 
 The Maldivian authorities have disrupted a number of terrorist attack plans since 2017 and have made several arrests relating to attack planning, recruitment of terrorist fighters and spreading extremist ideology. However, a risk from terrorism remains.
 

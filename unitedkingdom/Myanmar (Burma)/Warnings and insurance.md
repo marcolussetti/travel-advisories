@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   5 December 2025
+:   11 December 2025
 
 Updated:
-:   4 December 2025
+:   10 December 2025
 
 Latest update:
-:   FCDO no longer advises against all but essential travel to Nay Pyi Taw following the March 2025 earthquake, based on diminished earthquake risk. FCDO continues to advise against all travel and all but essential travel to parts of Myanmar. Addition of information about dual nationality ('Warnings and insurance' page).
+:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/6931608e502f392086ee8bc8/FCDO_TA_064_-_Myanmar_Ed10_WEB.jpg)
 

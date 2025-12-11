@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   3 December 2025
+:   11 December 2025
 
 Updated:
-:   2 December 2025
+:   10 December 2025
 
 Latest update:
-:   Updated information for those travelling to LGBT+ events (‘Safety and security’ page).
+:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/6745db6083f3d6d843be9719/FCDO__TA__020_-_Indonesia_Travel_Advice_Ed9__WEB_.jpg)
 

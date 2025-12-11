@@ -32,7 +32,7 @@ FCDO has guidance on staying safe and what to do if you need help or support abr
 * finding [lawyers](https://find-a-professional-service-abroad.service.csd.fcdo.gov.uk/find/lawyers?country=saint%20kitts%20and%20nevis) and [funeral directors](https://find-a-professional-service-abroad.service.csd.fcdo.gov.uk/find/funeral-directors?country=saint%20kitts%20and%20nevis) in St Kitts and Nevis
 * dealing with a [death in St Kitts and Nevis](https://www.gov.uk/guidance/when-someone-dies-in-st-kitts-and-nevis)
 * being [arrested or imprisoned in St Kitts and Nevis](https://www.gov.uk/government/publications/st-kitts-and-nevis-prisoner-pack)
-* getting help if you’re a [victim of crime](https://www.gov.uk/victim-crime-abroad)
+* getting help if you’re a [victim of crime](https://www.gov.uk/guidance/victim-of-crime-abroad)
 * what to do if you’re [in hospital](https://www.gov.uk/guidance/in-hospital-abroad)
 * if you’re [affected by a crisis](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas), such as a terrorist attack
 

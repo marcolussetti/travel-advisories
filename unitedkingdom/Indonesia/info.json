@@ -1,11 +1,11 @@
 {
     "name": "Indonesia",
-    "update_reason": "Updated information for those travelling to LGBT+ events (\u2018Safety and security\u2019 page).",
+    "update_reason": "New information about dual nationals returning to the UK (\u2018Entry requirements\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Indonesia/Warnings and insurance.md",
-            "update_date": "2025-12-02T13:11:31+00:00"
+            "update_date": "2025-12-10T12:43:32+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Indonesia/Getting help.md"
         }
     ],
-    "update_date": "2025-12-02T13:11:31+00:00"
+    "update_date": "2025-12-10T12:43:32+00:00"
 }

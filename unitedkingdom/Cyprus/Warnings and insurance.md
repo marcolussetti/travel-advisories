@@ -1,35 +1,19 @@
 # Warnings and insurance
 
 Still current at:
-:   8 August 2025
+:   11 December 2025
 
 Updated:
-:   7 August 2025
+:   10 December 2025
 
 Latest update:
-:   Updated with a link to information about using a UK issued Blue Badge in Cyprus (‘Safety and security’ page).
+:   Addition of information about flooding in Cyprus and new information about dual nationals returning to the UK ('Warnings and insurance' and ‘Entry requirements’ pages).
 
-## Wildfires in Cyprus
+## Flooding
 
-There have been active wildfires in Cyprus, including in the Paphos and Limassol districts, which have resulted in some evacuations from affected areas. Transport and infrastructure (electricity, water) links in locations close to the fires may be affected whilst the authorities respond to the situation.
+There has been significant flooding in areas across Cyprus in recent days due to heavy rains, with severe weather warnings issued by the [Cyprus Department of Meteorology](https://www.moa.gov.cy/moa/dm/dm.nsf/home_en/home_en?openform). Follow advice of the local authorities.
 
-Both Paphos and Larnaca airports are operating as normal.
-
-Get more [information on wildfires from the Department of Forests website](http://www.moa.gov.cy/moa/fd/fd.nsf/fd52_en/fd52_en?OpenDocument).
-
-### If you are travelling to an area affected by wildfires
-
-If you are due to travel to an area that might be affected by wildfires, contact your travel operator or accommodation provider before you travel to check that it is not currently impacted. Make sure you have appropriate insurance.
-
-### If you are in or near areas affected by wildfires
-
-* be cautious if you are in or near an area affected by wildfires. You should follow the guidance of the emergency services
-* call the Cypriot Emergency services on 112 if you are in immediate danger
-* contact  your airline or travel operator, who can assist you with information relating travel back to the UK
-
-### If you need consular assistance
-
-If you are a British national and need consular assistance, call our 24-hour helpline on +44 20 7008 5000
+[Read advice from the FCDO if you are affected by extreme weather and natural hazards](https://www.gov.uk/guidance/extreme-weather-and-natural-hazards) while travelling or living abroad.
 
 ## Before you travel
 

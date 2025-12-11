@@ -19,6 +19,10 @@ Carry your passport if you travel from Romania to other Schengen area countries.
 
 There are no routine checks when travelling by air or sea within the Schengen area, but carry your passport in case you’re asked for it.
 
+## Dual nationals
+
+When returning to the UK, British citizens must carry a valid [British passport](https://www.gov.uk/browse/abroad/passports) or [certificate of entitlement](https://www.gov.uk/right-of-abode/apply-for-a-certificate-of-entitlement). See [Dual citizenship](https://www.gov.uk/dual-citizenship).
+
 ## Visa requirements
 
 You can [travel without a visa to the Schengen area](https://www.gov.uk/travel-to-eu-schengen-area), which includes Romania, for up to 90 days in any 180-day period. This applies if you travel:
@@ -57,7 +61,7 @@ From 12 October 2025, the European Union’s (EU) new Entry/Exit System (EES) wi
 
 This means that when you travel into the Schengen area for short stays, you may need to register your biometric details, such as fingerprints and a photo. You do not need to take any action before you arrive at the border, and there is no cost for EES registration.
 
-On your first visit into a Schengen country from 12 October onwards, you may be asked to register your details at a special booth before proceeding to the immigration desk. Follow directions from your travel operator or the staff at your port of entry. You may also need to provide either your fingerprint or photo when you leave the Schengen area. Children aged 11 or younger will not have their fingerprints scanned but may need their photo taken.
+On your first visit into a Schengen country from 12 October onwards, you may be asked to register your details at a special booth before proceeding to the immigration desk. Follow directions from your travel operator or the staff at your port of entry. You may also need to provide either your fingerprint or photo when you leave the Schengen area. Children aged 11 or younger will not have their fingerprints scanned but can be required to have their photo taken.
 
 EES may take each passenger a few extra minutes to complete so be prepared to wait longer than usual at the border.
 

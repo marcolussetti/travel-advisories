@@ -1,17 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   8 October 2025
+:   11 December 2025
 
 Updated:
-:   7 October 2025
+:   10 December 2025
 
 Latest update:
-:   This travel advice has been reviewed for accuracy with edits made throughout, including updated information about demonstrations, alcohol laws, money, trekking and mountaineering and transport risks ('Entry requirements' and 'Safety and security' pages).
-
-## Maintenance in Astana International Airport
-
-Astana International Airport will undergo scheduled runway maintenance from 1 September to 31 October between 10a.m. and 6 p.m. Check with your airline for the latest information on arrival and departure times, as schedules may be adjusted at short notice.
+:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
 
 ## Before you travel
 

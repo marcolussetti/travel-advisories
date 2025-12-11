@@ -15,6 +15,10 @@ Check with your travel provider that your passport and other travel documents me
 
 You will be denied entry if you do not have a valid, undamaged travel document or try to use a passport that has been reported lost or stolen.
 
+## Dual nationals
+
+When returning to the UK, British citizens must carry a valid [British passport](https://www.gov.uk/browse/abroad/passports) or [certificate of entitlement](https://www.gov.uk/right-of-abode/apply-for-a-certificate-of-entitlement). See [Dual Citizenship](https://www.gov.uk/dual-citizenship).
+
 ## Visa requirements
 
 You can travel without a visa to Bosnia and Herzegovina for up to 90 days within a 6-month period. This applies if you travel:
@@ -42,7 +46,7 @@ For details about medical entry requirements and recommended vaccinations, see [
 
 ## Registering your stay
 
-All foreign nationals must register with the police within 72 hours of arrival, at a local police station. Hotels and some hostels will usually register their guests. If your accommodation is not arranging this, you need to [contact the nearest field centre (‘terenski centar’) for the Service for Foreigners’ Affairs](https://sps.gov.ba/?page_id=2545&lang=en).
+All foreign nationals must register with the police within 72 hours of arrival. Hotels and some hostels will usually register their guests. If your accommodation is not arranging this, you need to [contact the nearest field centre (‘terenski centar’) for the Service for Foreigners’ Affairs](https://sps.gov.ba/?page_id=2545&lang=en).
 
 ## Travelling with children
 

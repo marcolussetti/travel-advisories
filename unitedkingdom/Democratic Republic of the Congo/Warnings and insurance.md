@@ -1,18 +1,18 @@
 # Warnings and insurance
 
 Still current at:
-:   6 September 2025
+:   11 December 2025
 
 Updated:
-:   5 September 2025
+:   10 December 2025
 
 Latest update:
-:   Addition of Ebola as a health risk you may face whilst in the Democratic Republic of Congo (‘Health’ page).
+:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/67f58030e3c60873d6c90d72/FCDO__TA__012_-_Democratic_Repbulic_of_the_Congo_Travel_Advice_Ed15__WEB_.jpg)
 
 
-[Download a more detailed map (PDF)](https://assets.publishing.service.gov.uk/media/67f58030555773bbf109e1b7/FCDO__TA__012_-_Democratic_Repbulic_of_the_Congo_Travel_Advice_Ed15.pdf)
+[Download a more detailed map (PDF, 1.03 MB)](https://assets.publishing.service.gov.uk/media/67f58030555773bbf109e1b7/FCDO__TA__012_-_Democratic_Repbulic_of_the_Congo_Travel_Advice_Ed15.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 

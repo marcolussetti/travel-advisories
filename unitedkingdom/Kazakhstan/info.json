@@ -1,11 +1,11 @@
 {
     "name": "Kazakhstan",
-    "update_reason": "This travel advice has been reviewed for accuracy with edits made throughout, including updated information about demonstrations, alcohol laws, money, trekking and mountaineering and transport risks ('Entry requirements' and 'Safety and security' pages).",
+    "update_reason": "New information about dual nationals returning to the UK (\u2018Entry requirements\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Kazakhstan/Warnings and insurance.md",
-            "update_date": "2025-10-07T13:24:59+01:00"
+            "update_date": "2025-12-10T12:56:26+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Kazakhstan/Getting help.md"
         }
     ],
-    "update_date": "2025-10-07T13:24:59+01:00"
+    "update_date": "2025-12-10T12:56:26+00:00"
 }

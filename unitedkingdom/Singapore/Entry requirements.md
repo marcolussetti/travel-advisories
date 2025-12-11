@@ -14,7 +14,11 @@ You will be denied entry if you do not have a valid travel document or try to us
 
 If you are resident in Singapore, there is no minimum passport validity required. [Apply for a renewal](https://www.gov.uk/overseas-passports) before your passport expires.
 
-### Dual nationality
+## Dual nationals
+
+When returning to the UK, British citizens must carry a valid [British passport](https://www.gov.uk/browse/abroad/passports) or [certificate of entitlement](https://www.gov.uk/right-of-abode/apply-for-a-certificate-of-entitlement). See [Dual citizenship](https://www.gov.uk/dual-citizenship).
+
+### Singapore-British dual nationals
 
 Singapore does not recognise dual nationality beyond the age of 21. A citizen of Singapore is required by Singapore law to renounce any other nationalities before the age of 22 in order to retain their Singaporean citizenship.
 
@@ -32,7 +36,7 @@ You must [complete an electronic SG Arrival Card](https://eservices.ica.gov.sg/s
 
 ### Screening: Drugs
 
-Penalties for drug possession are severe. If you are carrying or transporting drugs, you can be [imprisoned, caned or executed](https://sso.agc.gov.sg/Act/MDA1973?ProvIds=Sc2-#Sc2-).
+Penalties for drug possession, including cannabis, are severe. If you are carrying or transporting drugs, you can be [imprisoned, caned or executed](https://sso.agc.gov.sg/Act/MDA1973?ProvIds=Sc2-#Sc2-).
 
 You can be screened for drugs in your system on arrival in Singapore, including if you’re in transit. You can be charged with drug consumption or detained without trial even if the drugs were taken in another country, including countries where the use of that particular drug is legal. See [Illegal drugs](https://www.gov.uk/foreign-travel-advice/singapore/safety-and-security#illegal-drugs)
 

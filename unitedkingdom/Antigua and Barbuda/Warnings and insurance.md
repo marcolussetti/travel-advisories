@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   18 June 2025
+:   11 December 2025
 
 Updated:
-:   17 June 2025
+:   10 December 2025
 
 Latest update:
-:   Addition of information that the authorities in Antigua and Barbuda advise travellers to use ArriveAntigua.com to speed up your entry to the country (‘Entry requirements’ page).
+:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
 
 ## Before you travel
 
