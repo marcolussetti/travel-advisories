@@ -34,12 +34,8 @@ For full details about medical entry requirements and recommended vaccinations, 
 
 There are strict rules about goods you can take into or out of Guyana. You must declare anything that may be prohibited or subject to tax or duty.
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/guyana)
+[Previous:Warnings and insurance](/foreign-travel-advice/guyana)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/guyana/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/guyana/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/guyana/print)

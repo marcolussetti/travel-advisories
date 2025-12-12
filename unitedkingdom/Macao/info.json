@@ -1,11 +1,11 @@
 {
     "name": "Macao",
-    "update_reason": "Updated information about typhoons ('Warnings and insurance' page).",
+    "update_reason": "New information about dual nationals returning to the UK (\u2018Entry requirements\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Macao/Warnings and insurance.md",
-            "update_date": "2025-09-26T16:41:34+01:00"
+            "update_date": "2025-12-11T11:32:17+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Macao/Getting help.md"
         }
     ],
-    "update_date": "2025-09-26T16:41:34+01:00"
+    "update_date": "2025-12-11T11:32:17+00:00"
 }

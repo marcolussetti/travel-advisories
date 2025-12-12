@@ -104,12 +104,8 @@ Typhoon season runs from April to October in Hong Kong and may cause flooding an
 
 Monitor local news and check the [World Meteorological Organization](https://severeweather.wmo.int/tc/wnp/index.html) and [Hong Kong Observatory](https://www.hko.gov.hk/en/index.html).
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/hong-kong/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/hong-kong/entry-requirements)
 
-[Next
-:
-Health](/foreign-travel-advice/hong-kong/health)
+[Next:Health](/foreign-travel-advice/hong-kong/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/hong-kong/print)

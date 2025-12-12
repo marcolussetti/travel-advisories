@@ -43,30 +43,6 @@ There is a high crime rate in South Africa, with incidents including:
 * rape and sexual assault
 * murder
 
-### Cape Town airport road attacks
-
-There have been recent attacks and violent crime on secondary roads to and from Cape Town airport.
-
-You should:
-
-* stay on the M3 and N2 (rather than the R300)
-* stay on ‘airport approach road’ (exit 16 on the N2) rather than taking the Borcherd’s Quarry Road leading to Nyanga
-* make a journey plan in advance and discuss it with a trusted local contact
-* avoid following GPS navigation routes that take you away from main roads
-
-### Table Mountain National Park attacks
-
-There have been recent violent attacks and muggings against hikers and foreign tourists in Table Mountain National Park, including on Lion’s Head and Signal Hill.
-
-You should:
-
-* avoid quieter areas of the park, especially during early mornings and evenings
-* stay on busy, marked trails
-* go on popular days such as weekends
-* not hike alone
-
-Some Cape Town residents coordinate group hikes on social media, for example [The Hikers Network](https://hikersnetwork.co.za/) and [Facebook](https://www.facebook.com/groups/hikecapetown/). The Hikers Network offer a [free safety tracking service](https://hikersnetwork.co.za/safetymountain/).
-
 ### Crime locations
 
 Violent crime can take place anywhere, including in tourist destinations and transport hubs. Most violent crimes occur in townships located on the outskirts of major cities, central business districts or in isolated areas. The threat is higher when it is dark.
@@ -87,6 +63,94 @@ To protect your personal safety:
 * only go to a township with a responsible and reliable tour guide
 * consider removing expensive-looking jewellery
 * be aware that resisting a robbery can lead to a violent response, including use of weapons, that can result in physical injury
+
+### Airport crime
+
+Crime in and around airports includes robbery and theft of baggage and valuables. Criminals have followed people from OR Tambo International Airport in Johannesburg to their destinations and then robbed them, often at gunpoint.
+
+You should:
+
+* be careful in and around the airport
+* use main roads to and from airports
+* go through public areas quickly
+* avoid isolated areas
+* arrange for your hotel or tour operator to meet you if possible
+* go to your connecting flight quickly if in transit
+* consider vacuum-wrapping luggage
+* keep valuables in your carry-on luggage
+* avoid dropping off your rental car at night
+
+### Cape Town airport road attacks
+
+There have been recent attacks and violent crime on secondary roads to and from Cape Town airport.
+
+You should:
+
+* stay on the M3 and N2 (rather than the R300)
+* stay on ‘airport approach road’ (exit 16 on the N2) rather than taking the Borcherd’s Quarry Road leading to Nyanga
+* make a journey plan in advance and discuss it with a trusted local contact
+* avoid following GPS navigation routes that take you away from main roads
+
+### Vehicle crime
+
+Carjacking and robbery are common, particularly after dark and around traffic lights, junctions, petrol stations and driveways.
+
+Thieves often break car windows and take valuables while cars are waiting at junctions.
+
+Criminals sometimes force vehicles, including tourist buses, to stop so that they can rob passengers. Common tactics include throwing spikes (sometimes hidden in plastic bags), stones or glass in front of vehicles. If criminals target your vehicle, drive to a safe place, or as far as possible, if it is safe to do so.
+
+Criminals may pose as police and use ‘blue lights’ on plain (often white) vehicles to stop motorists and steal the vehicle. If you are suspicious, do not stop and continue to a police station, petrol station or other place of safety to call the police.
+
+Do not pick up strangers or stop to help apparently distressed motorists. Continue driving and report the incident to the police.
+
+If you are involved in a carjacking, stay calm and surrender your valuables and your vehicle if asked. Do not resist as this could lead to a violent reaction.
+
+To reduce your risk while driving:
+
+* check your route for any hazards or disruptions before you set off
+* use a GPS, but do not follow routes into less secure areas – generally smaller roads
+* check whether car rental companies have any safety tips
+* stay on main roads and park in well-lit areas
+* avoid stopping for long periods
+* always lock your car and physically check car doors. Criminals can interfere and block the car’s central locking system using car jamming technology
+* keep your windows closed, especially at junctions
+* keep valuables out of sight, ideally in the boot
+* use ‘smash and grab’ film on windows – ask hire car firms for this
+* make sure you can see the tarmac and the tyres of the car in front of you when you stop your vehicle, giving you space to escape if you need to
+
+### Taxi app crime
+
+Scammers target people using taxi apps in major cities.
+
+Make sure you:
+
+* use an internationally recognised service
+* book the taxi in the app
+* check the vehicle registration and ID before entering
+* do not wait in the street
+* do not display your phone or valuables
+* ask the driver to close rear windows and lock doors if you cannot do so yourself
+* check the taxi app for extra security features, and consider using them
+
+Be wary of unregulated drivers posing as Uber or other taxi app drivers, especially at airports. If you book a taxi, wait in a designated taxi pick-up area, if there is one.
+
+Tensions between taxi app and metered taxi drivers can lead to armed violence, particularly around Gautrain stations and at airports. Strikes and protests by taxi app drivers take place, sometimes with attacks against drivers not seen to be participating. Passengers have also faced harassment or violence. Apps generally warn about high-risk areas, but be cautious using these services. During strikes use alternative reliable private transportation.
+
+### Criminal kidnap
+
+The risk of kidnap is increasing throughout South Africa. Criminals generally kidnap people for financial gain.
+
+In recent years, foreign nationals, including British nationals, have been kidnapped. British nationals can be seen as wealthier than locals and may be at particular risk of kidnap for financial gain. There have also been reports of young children being kidnapped from shops, shopping malls and beaches. Stay vigilant and be aware of your surroundings.
+
+Express kidnappings are short-term, opportunistic abductions aimed at extracting cash from the victim. Victims may be held hostage for up to several days while criminals use stolen bank or credit cards. These often take place after dark.
+
+To reduce your risk:
+
+* avoid wearing expensive clothing or jewellery, particularly in public
+* be vigilant, especially at night
+* avoid predictable routines and isolated areas
+* limit sharing personal information online
+* use secure transport and keep car doors locked
 
 ### Solo and women travellers
 
@@ -119,170 +183,20 @@ Crime around ATMs and money exchanges is common. You should:
 
 * hide your PIN
 * be wary of strangers offering to help or who try to lure you to an ATM
-* only change large sums of money in banks or secure shopping malls, not in busy public areas – some people exchanging large amounts of cash have been followed and robbed
+* only change large sums of money in banks or secure shopping malls, not in busy public areas – some people exchanging large amounts of cash have been followed and robbed.
 
-### Criminal kidnap
+### Table Mountain National Park attacks
 
-The risk of kidnap is increasing throughout South Africa. Criminals generally kidnap people for financial gain.
-
-In recent years, foreign nationals, including British nationals, have been kidnapped. British nationals can be seen as wealthier than locals and may be at particular risk of kidnap for financial gain. There have also been reports of young children being kidnapped from shops, shopping malls and beaches. Stay vigilant and be aware of your surroundings.
-
-Express kidnappings are short-term, opportunistic abductions aimed at extracting cash from the victim. Victims may be held hostage for up to several days while criminals use stolen bank or credit cards. These often take place after dark.
-
-To reduce your risk:
-
-* avoid wearing expensive clothing or jewellery, particularly in public
-* be vigilant, especially at night
-* avoid predictable routines and isolated areas
-* limit sharing personal information online
-* use secure transport and keep car doors locked
-
-### Airport crime
-
-Crime in and around airports includes robbery and theft of baggage and valuables. Criminals have followed people from OR Tambo International Airport in Johannesburg to their destinations and then robbed them, often at gunpoint.
+There have been recent violent attacks and muggings against hikers and foreign tourists in Table Mountain National Park, including on Lion’s Head and Signal Hill.
 
 You should:
 
-* be careful in and around the airport
-* use main roads to and from airports
-* go through public areas quickly
-* avoid isolated areas
-* arrange for your hotel or tour operator to meet you if possible
-* go to your connecting flight quickly if in transit
-* consider vacuum-wrapping luggage
-* keep valuables in your carry-on luggage
-* avoid dropping off your rental car at night
+* avoid quieter areas of the park, especially during early mornings and evenings
+* stay on busy, marked trails
+* go on popular days such as weekends
+* not hike alone
 
-### Vehicle crime
-
-Carjacking and robbery are common, particularly after dark and around traffic lights, junctions, petrol stations and driveways.
-
-Thieves often break car windows and take valuables while cars are waiting at junctions.
-
-Criminals sometimes force vehicles, including tourist buses, to stop so that they can rob passengers. Common tactics include throwing spikes (sometimes hidden in plastic bags), stones or glass in front of vehicles. If criminals target your vehicle, drive to a safe place, or as far as possible, if it is safe to do so.
-
-Criminals may pose as police and use ‘blue lights’ on plain (often white) vehicles to stop motorists and steal the vehicle. If you are suspicious, do not stop and continue to a police station, petrol station or other place of safety to call the police.
-
-Do not pick up strangers or stop to help apparently distressed motorists. Continue driving and report the incident to the police.
-
-If you are involved in a carjacking, stay calm and surrender your valuables and your vehicle if asked. Do not resist as this could lead to a violent reaction.
-
-To reduce your risk while driving:
-
-* check your route for any hazards or disruptions before you set off
-* use a GPS, but do not follow routes into less secure areas – generally smaller roads
-* check whether car rental companies have any safety tips
-* stay on main roads and park in well-lit areas
-* avoid stopping for long periods
-* lock your car when you leave it, and manually check the doors have locked
-* keep your windows closed, especially at junctions
-* keep valuables out of sight, ideally in the boot
-* use ‘smash and grab’ film on windows – ask hire car firms for this
-* make sure you can see the tarmac and the tyres of the car in front of you when you stop your vehicle, giving you space to escape if you need to
-
-### Taxi app crime
-
-Scammers target people using taxi apps in major cities.
-
-Make sure you:
-
-* use an internationally recognised service
-* book the taxi in the app
-* check the vehicle registration and ID before entering
-* do not wait in the street
-* do not display your phone or valuables
-* ask the driver to close rear windows and lock doors if you cannot do so yourself
-* check the taxi app for extra security features, and consider using them
-
-Be wary of unregulated drivers posing as Uber or other taxi app drivers, especially at airports. If you book a taxi, wait in a designated taxi pick-up area, if there is one.
-
-Tensions between taxi app and metered taxi drivers can lead to armed violence, particularly around Gautrain stations and at airports. Strikes and protests by taxi app drivers take place, sometimes with attacks against drivers not seen to be participating. Passengers have also faced harassment or violence. Apps generally warn about high-risk areas, but be cautious using these services. During strikes use alternative reliable private transportation.
-
-### Water shortages
-
-Across parts of South Africa, there have been water shortages. Follow the advice of local authorities if there are water restrictions in place.
-
-## Laws and cultural differences
-
-### Personal ID
-
-Always carry a copy of your passport photo page and the page with your visitors permit or residence permit for South Africa. South African officials may ask for ID and proof of residence at any time. Keep your passport in a hotel safe or another secure location. Do not carry it with you unless you need it for official identification.
-
-### Illegal drugs and cannabis laws
-
-Illegal drugs, including cannabis, carry severe penalties. Using cannabis in private is legal. Public and private use of cannabidiol oils (CBD oils) is also legal.
-
-You should expect a long jail sentence and heavy fines for possessing, using or smuggling illegal drugs, including when transiting through the airport.
-
-Airports in South Africa have excellent technology and security for detecting illegal items. This is also used to scan the baggage of transiting passengers.
-
-### LGBT+ travellers
-
-Same-sex sexual activity is legal. It is illegal to discriminate based on sexual orientation. See our [advice for LGBT+ travellers](https://www.gov.uk/guidance/lesbian-gay-bisexual-and-transgender-foreign-travel-advice).
-
-### Wildlife, animal products and souvenirs
-
-It is illegal to buy, sell, kill or capture any protected wild animal or trade any of its parts without a permit. Trading ivory or rhino horn is banned. Anyone caught buying or trafficking banned goods will be prosecuted.
-
-## Outdoor activities and adventure tourism
-
-### Addo Elephant Park
-
-South African National Parks advise visitors travelling from Gqeberha (formerly Port Elizabeth) to Addo Elephant Park to use the N2 via Colchester, rather than the R335 via Motherwell due to crime, including vehicle high jackings. Recommended routes can be found on the [South African National Parks Website](https://www.sanparks.org/parks/addo-elephant/travel/directions-distances).
-
-Do not take unnecessary risks when participating in outdoor activities and adventure tourism. Health and safety standards vary globally and may not be the same as in the UK.
-
-Check with the local tourism office for safe and licenced operators and consider hiring a registered guide.
-
-Where possible, insist on a receiving a safety briefing.
-
-### Hiking and walking
-
-To stay safe while hiking, [South African National Parks (SANParks)](https://www.sanparks.org/travel) advise you:
-
-* save [emergency numbers](https://mcsa.org.za/activities/mountain-rescue/emergency-phone-numbers/) before you hike
-* not hike alone – go in groups of 4 or more if possible
-* choose a route that matches your ability
-* stay on busy, marked trails on popular days such as weekends
-* plan your route and allow enough time
-* carry water, food and a fully charged phone
-* dress appropriately and prepare for weather changes
-* tell someone your route and when you expect to return
-
-### Table Mountain National Park
-
-Some Table Mountain trails are strenuous, and mountain rescuers get regular calls to help hikers. Know your limits, research possible trails and select a route suitable to your fitness level. Check [SANPARKS](https://www.sanparks.org/parks/table-mountain) for the latest guidance including hazards such as wildfires. Always check the availability of the cable car if you are planning to use it.
-
-See [Crime](/foreign-travel-advice/south-africa/safety-and-security#crime) for information on violent attacks in Table Mountain National Park.
-
-### Kruger National Park
-
-After a violent attack killed a tourist in the Kruger National Park, SANParks advise against using the Numbi gate. There have been protests and violent incidents on the R538 road leading to the gate.
-
-You can fly directly to Kruger National Park from Johannesburg, Cape Town and Durban. Many people also choose to take a private tour or drive overland themselves.
-
-If you stay outside the park, contact your lodge in advance to find out if any disruptions will affect your trip. See [SANParks news](https://www.sanparks.org/about/news/).
-
-### Swimming safety
-
-Beach conditions and local safety measures vary. Every year, many people drown due to strong sea currents. Ask for a life jacket if you participate in water sports.
-
-On beaches with no equipment or warning signs, speak to local people who know the conditions. If in doubt, do not enter the water.
-
-On busier tourist beaches:
-
-* only swim between the red and yellow flags
-* read the warning signs
-* follow instructions from lifeguards
-
-The South African National Sea Rescue Institute (NSRI) has [information about rip currents](https://www.nsri.org.za/water-safety/all-about-rip-currents).
-
-In an emergency, call:
-
-* 112 emergency services (mobile only)
-* +27 87 094 9774 - NSRI emergency line
-
-Seals and other marine animals can bite. Take care near seals when you are swimming or by the sea where they are found. Rabies has been detected in seals along the Cape Peninsula coastline. If you are bitten seek immediate medical attention and notify the authorities.
+Some Cape Town residents coordinate group hikes on social media, for example [The Hikers Network](https://hikersnetwork.co.za/) and [Facebook](https://www.facebook.com/groups/hikecapetown/). The Hikers Network offer a [free safety tracking service](https://hikersnetwork.co.za/safetymountain/).
 
 ## Transport risks
 
@@ -300,7 +214,7 @@ See [Crime](/foreign-travel-advice/south-africa/safety-and-security#crime) for a
 
 ### Air Travel
 
-There have been travel delays and disruptions at airports due to power outages and refuelling disruptions. Check the [Airports Company South Africa (ACSA)](https://x.com/Airports_ZA) ‘X’ feed for the latest updates.
+There have been travel delays and disruptions at airports due to power outages and, refuelling disruptions and immigration queues. Allow for adequate time when travelling Check the [Airports Company South Africa (ACSA)](https://x.com/Airports_ZA) ‘X’ feed for the latest updates.
 
 ### Driving rules and standards
 
@@ -352,6 +266,66 @@ To reduce your risk:
 * do not walk to or from Gautrain stations after dark
 * do not travel to townships by MyCiTi bus – there have been violent attacks in Khayelitsha
 
+## Outdoor activities and adventure tourism
+
+### Hiking and walking
+
+To stay safe while hiking, [South African National Parks (SANParks)](https://www.sanparks.org/travel) advise you:
+
+* save [emergency numbers](https://mcsa.org.za/activities/mountain-rescue/emergency-phone-numbers/) before you hike
+* not hike alone – go in groups of 4 or more if possible
+* choose a route that matches your ability
+* stay on busy, marked trails on popular days such as weekends
+* plan your route and allow enough time
+* carry water, food and a fully charged phone
+* dress appropriately and prepare for weather changes
+* tell someone your route and when you expect to return
+
+### Table Mountain National Park
+
+Some Table Mountain trails are strenuous, and mountain rescuers get regular calls to help hikers. Know your limits, research possible trails and select a route suitable to your fitness level. Check [SANPARKS](https://www.sanparks.org/parks/table-mountain) for the latest guidance including hazards such as wildfires. Always check the availability of the cable car if you are planning to use it.
+
+See [Crime](/foreign-travel-advice/south-africa/safety-and-security#crime) for information on violent attacks in Table Mountain National Park.
+
+### Kruger National Park
+
+After a violent attack killed a tourist in the Kruger National Park, SANParks advise against using the Numbi gate. There have been protests and violent incidents on the R538 road leading to the gate.
+
+You can fly directly to Kruger National Park from Johannesburg, Cape Town and Durban. Many people also choose to take a private tour or drive overland themselves.
+
+If you stay outside the park, contact your lodge in advance to find out if any disruptions will affect your trip. See [SANParks news](https://www.sanparks.org/about/news/).
+
+### Addo Elephant Park
+
+South African National Parks advise visitors travelling from Gqeberha (formerly Port Elizabeth) to Addo Elephant Park to use the N2 via Colchester, rather than the R335 via Motherwell due to crime, including vehicle high jackings. Recommended routes can be found on the [South African National Parks Website](https://www.sanparks.org/parks/addo-elephant/travel/directions-distances).
+
+Do not take unnecessary risks when participating in outdoor activities and adventure tourism. Health and safety standards vary globally and may not be the same as in the UK.
+
+Check with the local tourism office for safe and licenced operators and consider hiring a registered guide.
+
+Where possible, insist on a receiving a safety briefing.
+
+### Swimming safety
+
+Beach conditions and local safety measures vary. Every year, many people drown due to strong sea currents. Ask for a life jacket if you participate in water sports.
+
+On beaches with no equipment or warning signs, speak to local people who know the conditions. If in doubt, do not enter the water.
+
+On busier tourist beaches:
+
+* only swim between the red and yellow flags
+* read the warning signs
+* follow instructions from lifeguards
+
+The South African National Sea Rescue Institute (NSRI) has [information about rip currents](https://www.nsri.org.za/water-safety/all-about-rip-currents).
+
+In an emergency, call:
+
+* 112 emergency services (mobile only)
+* +27 87 094 9774 - NSRI emergency line
+
+Seals and other marine animals can bite. Take care near seals when you are swimming or by the sea where they are found. Rabies has been detected in seals along the Cape Peninsula coastline. If you are bitten seek immediate medical attention and notify the authorities.
+
 ## Extreme weather and natural disasters
 
 Find out what you can do to prepare for and respond to [extreme weather and natural hazards](https://www.gov.uk/guidance/tropical-cyclones).
@@ -364,9 +338,9 @@ Heavy rainfall often causes widespread flooding. There is a year-round risk of f
 
 Wildfires can happen in rural and urban areas during hot and dry weather including Cape Town and in the Table Mountain National Park. Follow evacuation orders if requested. If you see a wildfire, move to a safe place away from vegetation and smoke. If you are inside a building or a car and judge it is safe to stay there, close all vents and windows.
 
-## Power cuts
+### Power cuts
 
-In South Africa there have been nationwide power cuts caused by shortages. Whilst there has been a significant reduction in planned power cuts (‘loadshedding’), they can still happen and affect:
+In South Africa there have been local and nationwide power cuts caused by shortages and extreme weather. Whilst there has been a significant reduction in planned power cuts (‘loadshedding’), they can still happen and affect:
 
 * private accommodation, including hotels and airbnbs
 * availability of mobile phone networks and wifi
@@ -398,12 +372,34 @@ To prepare for long power cuts:
 * find nearby safe places that may have back-up power such as hotels, hospitals and police stations, in case you need help
 * read our advice [If you are affected by a crisis abroad](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas)
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/south-africa/entry-requirements)
+### Water shortages
 
-[Next
-:
-Health](/foreign-travel-advice/south-africa/health)
+Across parts of South Africa, there have been water shortages. Follow the advice of local authorities if there are water restrictions in place.
+
+## Laws and cultural differences
+
+### Personal ID
+
+Always carry a copy of your passport photo page and the page with your visitors permit or residence permit for South Africa. South African officials may ask for ID and proof of residence at any time. Keep your passport in a hotel safe or another secure location. Do not carry it with you unless you need it for official identification.
+
+### Illegal drugs and cannabis laws
+
+Illegal drugs, including cannabis, carry severe penalties. Using cannabis in private is legal. Public and private use of cannabidiol oils (CBD oils) is also legal.
+
+You should expect a long jail sentence and heavy fines for possessing, using or smuggling illegal drugs, including when transiting through the airport.
+
+Airports in South Africa have excellent technology and security for detecting illegal items. This is also used to scan the baggage of transiting passengers.
+
+### LGBT+ travellers
+
+Same-sex sexual activity is legal. It is illegal to discriminate based on sexual orientation. See our [advice for LGBT+ travellers](https://www.gov.uk/guidance/lesbian-gay-bisexual-and-transgender-foreign-travel-advice).
+
+### Wildlife, animal products and souvenirs
+
+It is illegal to buy, sell, kill or capture any protected wild animal or trade any of its parts without a permit. Trading ivory or rhino horn is banned. Anyone caught buying or trafficking banned goods will be prosecuted.
+
+[Previous:Entry requirements](/foreign-travel-advice/south-africa/entry-requirements)
+
+[Next:Health](/foreign-travel-advice/south-africa/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/south-africa/print)

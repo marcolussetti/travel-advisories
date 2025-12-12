@@ -12,6 +12,12 @@ Check with your travel provider that your passport and other travel documents me
 
 You will be denied entry if you do not have a valid travel document or try to use a passport that has been reported lost or stolen.
 
+## Dual nationals
+
+When returning to the UK, British citizens must carry a valid [British passport](https://www.gov.uk/browse/abroad/passports) or [certificate of entitlement](https://www.gov.uk/right-of-abode/apply-for-a-certificate-of-entitlement). See [Dual citizenship](https://www.gov.uk/dual-citizenship).
+
+Other types of [British nationals who are exempt from ETA](https://www.gov.uk/eta/when-not-need-eta) must also carry a valid British passport when entering the UK.
+
 ## Visa requirements
 
 Macao is part of the People’s Republic of China, but it remains a Special Administrative Region (SAR) with its own immigration controls.
@@ -44,12 +50,8 @@ There are strict rules about goods you can take into or out of Macao. You must [
 
 Macao airport has a [passenger guide](https://www.macau-airport.com/en/passenger-guide/arrival) that explains the allowances.
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/macao)
+[Previous:Warnings and insurance](/foreign-travel-advice/macao)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/macao/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/macao/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/macao/print)

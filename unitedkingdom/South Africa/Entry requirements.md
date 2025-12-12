@@ -47,12 +47,8 @@ When you enter South Africa, you must declare cash:
 * in South African rand if you are bringing more than 25,000 rand per person
 * in other currencies if together they are worth more than 10,000 US dollars
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/south-africa)
+[Previous:Warnings and insurance](/foreign-travel-advice/south-africa)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/south-africa/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/south-africa/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/south-africa/print)

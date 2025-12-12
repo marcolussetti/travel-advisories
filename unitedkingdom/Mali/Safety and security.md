@@ -194,12 +194,8 @@ The rainy season in Mali is from June to October. Heavy rains can cause floods a
 
 Find out what you can do to prepare for and respond to [extreme weather and natural hazards](https://www.gov.uk/guidance/tropical-cyclones).
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/mali/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/mali/entry-requirements)
 
-[Next
-:
-Health](/foreign-travel-advice/mali/health)
+[Next:Health](/foreign-travel-advice/mali/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/mali/print)

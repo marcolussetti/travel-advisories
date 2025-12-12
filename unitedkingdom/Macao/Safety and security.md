@@ -66,12 +66,8 @@ Typhoon season normally runs from April to October. Typhoons very occasionally h
 
 Monitor weather updates from the [World Meteorological Organization](https://severeweather.wmo.int/tc/wnp/index.html) and the [Macao Meteorological and Geophysical Bureau](https://www.smg.gov.mo/en).
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/macao/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/macao/entry-requirements)
 
-[Next
-:
-Health](/foreign-travel-advice/macao/health)
+[Next:Health](/foreign-travel-advice/macao/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/macao/print)

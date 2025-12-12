@@ -12,6 +12,12 @@ Check with your travel provider that your passport and other travel documents me
 
 You will be denied entry if you do not have a valid travel document or try to use a passport that has been reported lost or stolen.
 
+## Dual nationals
+
+When returning to the UK, British citizens must carry a valid [British passport](https://www.gov.uk/browse/abroad/passports) or [certificate of entitlement](https://www.gov.uk/right-of-abode/apply-for-a-certificate-of-entitlement). See [Dual citizenship](https://www.gov.uk/dual-citizenship).
+
+Other types of [British nationals who are exempt from ETA](https://www.gov.uk/eta/when-not-need-eta) must also carry a valid British passport when entering the UK.
+
 ## Visa requirements
 
 Hong Kong is part of the People’s Republic of China, but it is a Special Administrative Region (SAR) with its own immigration controls.
@@ -52,12 +58,8 @@ There are restrictions on the amount of powdered baby formula you can take out o
 
 See more information, including exemptions, from the [Hong Kong Customs and Excise Department](https://www.customs.gov.hk/en/service-enforcement-information/trade-facilitation/prohibited-articles/controlled-exports/index.html).
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/hong-kong)
+[Previous:Warnings and insurance](/foreign-travel-advice/hong-kong)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/hong-kong/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/hong-kong/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/hong-kong/print)

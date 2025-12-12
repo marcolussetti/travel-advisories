@@ -1,11 +1,11 @@
 {
     "name": "Mali",
-    "update_reason": "Updated information that there has been an increase in kidnaps in Southern and Western Mali (\u2018Safety and security\u2019 page).",
+    "update_reason": "New information about dual nationals returning to the UK (\u2018Entry requirements\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Mali/Warnings and insurance.md",
-            "update_date": "2025-11-13T14:07:58+00:00"
+            "update_date": "2025-12-11T16:31:20+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Mali/Getting help.md"
         }
     ],
-    "update_date": "2025-11-13T14:07:58+00:00"
+    "update_date": "2025-12-11T16:31:20+00:00"
 }

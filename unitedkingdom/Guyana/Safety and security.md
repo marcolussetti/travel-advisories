@@ -16,7 +16,7 @@ There are occasional protests and political demonstrations throughout Guyana. S
 
 ### Border areas
 
-Venezuela disputes the legitimacy of its border with Guyana. Political tensions remain and the security situation along the border remains tense.
+Venezuela disputes the legitimacy of its border with Guyana. Political tensions remain and the security situation along the border remains tense. There has also been an increase in organised criminality in these border areas.
 
 There continues to be a dispute between Suriname and Guyana over the land in the New River Triangle area in the south-east of Guyana.
 
@@ -94,7 +94,7 @@ Do not hail taxis from the roadside, and avoid using “public” minibuses unle
 
 ### River and sea travel
 
-There have been armed attacks against fishing boats in and around the waters of Guyana and Suriname. If you’re travelling by sea, [read about the regional risks at sea](https://www.gov.uk/guidance/sea-river-and-piracy-safety).
+There have been armed attacks against fishing boats in and around the waters of Guyana and Suriname, and those between Guyana and Venezuela. If you’re travelling by sea, [read about the regional risks at sea](https://www.gov.uk/guidance/sea-river-and-piracy-safety).
 
 If you are travelling on Guyana’s rivers, use registered boat services equipped with life jackets. Do not travel by boat after dark.
 
@@ -108,12 +108,8 @@ Find out what you can do to [prepare for and respond to extreme weather and natu
 
 Guyana is vulnerable to flooding. The main rainy seasons are generally May to June and December to January. The coast of Guyana is below sea level and protected by a sea defence and dam system. However, the anti-flooding infrastructure and drainage systems are poorly maintained
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/guyana/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/guyana/entry-requirements)
 
-[Next
-:
-Health](/foreign-travel-advice/guyana/health)
+[Next:Health](/foreign-travel-advice/guyana/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/guyana/print)

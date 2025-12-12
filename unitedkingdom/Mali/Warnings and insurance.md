@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   14 November 2025
+:   12 December 2025
 
 Updated:
-:   13 November 2025
+:   11 December 2025
 
 Latest update:
-:   Updated information that there has been an increase in kidnaps in Southern and Western Mali (‘Safety and security’ page).
+:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/690369fee2ebc0fb39a51ffc/FCDO_TA_026_-_Mali_Travel_Advice_Ed7_WEB.jpg)
 
@@ -62,8 +62,6 @@ Follow FCDO:
 * [travel advice on Facebook](https://www.facebook.com/FCDOTravel/)
 * [Travel Aware on Instagram](https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Ftravelaware%2F&is_from_rle)
 
-[Next
-:
-Entry requirements](/foreign-travel-advice/mali/entry-requirements)
+[Next:Entry requirements](/foreign-travel-advice/mali/entry-requirements)
 
 [View a printable version of the whole guide](/foreign-travel-advice/mali/print)

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   27 September 2025
+:   12 December 2025
 
 Updated:
-:   26 September 2025
+:   11 December 2025
 
 Latest update:
-:   Updated information about typhoons ('Warnings and insurance' page).
+:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
 
 This travel advice covers the Macao Special Administrative Region (SAR). For mainland China, see [travel advice for China](/foreign-travel-advice/china).
 
@@ -53,8 +53,6 @@ Follow FCDO:
 * [travel advice on Facebook](https://www.facebook.com/FCDOTravel/)
 * [Travel Aware on Instagram](https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Ftravelaware%2F&is_from_rle)
 
-[Next
-:
-Entry requirements](/foreign-travel-advice/macao/entry-requirements)
+[Next:Entry requirements](/foreign-travel-advice/macao/entry-requirements)
 
 [View a printable version of the whole guide](/foreign-travel-advice/macao/print)
