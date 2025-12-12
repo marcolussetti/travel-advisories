@@ -2,7 +2,7 @@
 
 ## Risk level
 
-### Democratic Republic of the Congo - AVOID NON-ESSENTIAL TRAVEL
+### DEMOCRATIC REPUBLIC OF THE CONGO - AVOID NON-ESSENTIAL TRAVEL
 
 [Avoid non-essential travel](#levels "Risk Levels") to the Democratic Republic of the Congo (DRC) due to the fragile security situation, high crime rates and the risk of civil unrest.
 

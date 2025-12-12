@@ -2,7 +2,7 @@
 
 ## Risk level
 
-### Chad - AVOID NON-ESSENTIAL TRAVEL
+### CHAD - AVOID NON-ESSENTIAL TRAVEL
 
 [Avoid non-essential travel](#levels "Risk Levels") to Chad, including the capital, N’Djamena, due to the threat of terrorism, the incidences of violent crime and of civil unrest.
 

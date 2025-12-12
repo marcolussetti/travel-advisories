@@ -2,6 +2,6 @@
 
 ## Risk level
 
-### SAN MARINO - Take normal security precautions
+### San Marino - Take normal security precautions
 
 [Take normal security precautions](#levels "Risk Levels") in San Marino.

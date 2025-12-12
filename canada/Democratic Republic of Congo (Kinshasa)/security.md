@@ -28,7 +28,7 @@ If you or your family require assistance, contact the Embassy of Canada in Kinsh
 
 ### Terrorism
 
-There is a threat of terrorism in the Democratic Republic of Congo, particularly in the border areas with Rwanda, Burundi and Uganda. Armed groups clash over control of goods-trafficking routes, mining sites and agricultural areas.
+There is a threat of terrorism in the Democratic Republic of the Congo, particularly in the border areas with Rwanda, Burundi and Uganda. Armed groups clash over control of goods-trafficking routes, mining sites and agricultural areas.
 
 Attacks on civilians and government targets occur frequently. Further attacks are likely.
 

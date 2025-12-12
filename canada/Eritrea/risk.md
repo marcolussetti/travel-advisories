@@ -2,7 +2,7 @@
 
 ## Risk level
 
-### Eritrea - AVOID NON-ESSENTIAL TRAVEL
+### ERITREA - AVOID NON-ESSENTIAL TRAVEL
 
 [Avoid non-essential travel](#levels "Risk Levels") to Eritrea due to ongoing tensions and conflict with neighbouring countries.
 

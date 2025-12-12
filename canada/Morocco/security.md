@@ -2,6 +2,19 @@
 
 ## Safety and security
 
+### 2025 Africa Cup of Nations
+
+The Africa Cup of Nations (AFCON) will be held in Morocco from December 21, 2025, to January 18, 2026. Matches will be held in several cities across the country, including Casablanca, Rabat, Tangier, Agadir, Marrakesh, and Fez.
+
+Despite increased security measures, crimes such as theft often rise during major sporting events. Tourists are often targeted for theft and fraud, including the resale of unofficial tickets. Post-match celebrations may take place during the event and could lead to disorderly behavior.
+
+If you plan to be in Morocco during the AFCON:
+
+* expect heightened security measures, including an increased police presence
+* be prepared for significant transportation and traffic disruptions and plan accordingly
+* avoid demonstrations
+* follow the instructions of local authorities
+
 ### Border regions
 
 #### The Berm (border regions of Western Sahara)

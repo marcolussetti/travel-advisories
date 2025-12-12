@@ -2,7 +2,7 @@
 
 ## Risk level
 
-### Ethiopia - AVOID NON-ESSENTIAL TRAVEL
+### ETHIOPIA - AVOID NON-ESSENTIAL TRAVEL
 
 [Avoid non-essential travel](#levels "Risk Levels") to Ethiopia due to civil unrest, violence, armed conflict and crime. The security situation can deteriorate without warning.
 

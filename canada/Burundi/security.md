@@ -6,8 +6,6 @@
 
 The security situation in Bujumbura Mairie Province is volatile and unpredictable due to the ongoing conflict in the Democratic Republic of the Congo.
 
-The security situation could deteriorate rapidly and without warning.
-
 If you are in Bujumbura Mairie Province or the surrounding area:
 
 * be vigilant

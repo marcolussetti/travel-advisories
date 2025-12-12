@@ -2,7 +2,7 @@
 
 ## Risk level
 
-### Syria - AVOID ALL TRAVEL
+### SYRIA - AVOID ALL TRAVEL
 
 [Avoid all travel](#levels "Risk Levels") to Syria due to ongoing tensions in the region, the continued volatile security situation, armed clashes and airstrikes, criminality, kidnappings and the threat of terrorism.
 
