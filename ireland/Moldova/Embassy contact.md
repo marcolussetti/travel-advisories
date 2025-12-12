@@ -16,6 +16,6 @@ Bucuresti 010735
 Romania   
 010735
 
-[Tel: +40 31 433 75 50](tel:+4031 433 75 50)
+[Tel: +40 758611959](tel:+40758611959)
 
 [**Contact us**](/en/romania/bucharest/contact/)

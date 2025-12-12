@@ -1,14 +1,14 @@
 ## Health
 
+### **Caution**
+
+There were two confirmed fatal cases of tickborne Severe Fever with Thrombocytopenia Syndrome (SFTS) in Wang Pong District, Phetchabun Province in north-central Thailand in late June 2025. Members of the public are advised to reduce their risk of infection from tick-borne diseases by avoiding contact with ticks, particularly in rural or forested areas and by wearing protective clothing, using tick repellents and performing body checks after outdoor activities.
+
 ### **COVID-19 situation in Thailand**
 
 Mask wearing in public is a voluntary practice. However, the Ministry of Public Health continues to recommend that you wear a mask in a crowded or badly ventilated place such as on public transportation. Wear a mask if you have COVID-19 symptoms or you are in a high risk group. Most buildings have their own requirements for mask wearing and signs will be displayed at the entrance. Mask wearing remains a very common health related practice in Thailand.
 
-Irish citizens are encouraged to comply with preventive measures regulated by the Government of Thailand and prepare for the possibility of additional social distancing measures, lockdowns and quarantine in each province and city.
-
-The Embassy is unfortunately not able to intervene in having any restrictions waived, shortened, or amended.
-
-**All Irish citizens in Thailand are encouraged to:**
+#### **All Irish citizens in Thailand are encouraged to:**
 
 Ensure you are [**registered**](https://www.ireland.ie/en/dfa/overseas-travel/citizens-registration/) with the Embassy of Ireland in Thailand.
 
