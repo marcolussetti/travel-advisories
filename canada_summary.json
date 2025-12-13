@@ -20,7 +20,7 @@
     {
         "destination": "American Samoa",
         "risk_level": "Take normal security precautions",
-        "last_updated": "2025-11-25T15:09:50",
+        "last_updated": "2025-12-12T14:38:31",
         "details_url": "https://travel.gc.ca/destinations/american-samoa"
     },
     {
@@ -248,7 +248,7 @@
     {
         "destination": "Central African Republic",
         "risk_level": "Avoid all travel",
-        "last_updated": "2025-12-10T11:35:42",
+        "last_updated": "2025-12-12T09:20:46",
         "details_url": "https://travel.gc.ca/destinations/central-african-republic"
     },
     {
@@ -464,7 +464,7 @@
     {
         "destination": "Germany",
         "risk_level": "Exercise a high degree of caution",
-        "last_updated": "2025-11-28T09:45:01",
+        "last_updated": "2025-12-12T11:30:11",
         "details_url": "https://travel.gc.ca/destinations/germany"
     },
     {
@@ -860,7 +860,7 @@
     {
         "destination": "Nepal",
         "risk_level": "Avoid non-essential travel",
-        "last_updated": "2025-11-13T15:08:03",
+        "last_updated": "2025-12-12T15:20:48",
         "details_url": "https://travel.gc.ca/destinations/nepal"
     },
     {
@@ -878,7 +878,7 @@
     {
         "destination": "New Zealand",
         "risk_level": "Take normal security precautions",
-        "last_updated": "2025-12-10T15:23:37",
+        "last_updated": "2025-12-12T14:23:53",
         "details_url": "https://travel.gc.ca/destinations/new-zealand"
     },
     {
@@ -1070,7 +1070,7 @@
     {
         "destination": "Samoa",
         "risk_level": "Take normal security precautions",
-        "last_updated": "2025-12-11T15:31:48",
+        "last_updated": "2025-12-12T14:36:47",
         "details_url": "https://travel.gc.ca/destinations/samoa"
     },
     {
@@ -1202,7 +1202,7 @@
     {
         "destination": "Switzerland",
         "risk_level": "Take normal security precautions",
-        "last_updated": "2025-12-10T10:06:50",
+        "last_updated": "2025-12-12T08:15:36",
         "details_url": "https://travel.gc.ca/destinations/switzerland"
     },
     {
@@ -1225,8 +1225,8 @@
     },
     {
         "destination": "Tanzania",
-        "risk_level": "Avoid non-essential travel (with regional advisories)",
-        "last_updated": "2025-12-08T20:46:54",
+        "risk_level": "Exercise a high degree of caution (with regional advisories)",
+        "last_updated": "2025-12-12T15:38:03",
         "details_url": "https://travel.gc.ca/destinations/tanzania"
     },
     {

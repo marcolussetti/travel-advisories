@@ -14,11 +14,34 @@ Penalties for possession, use or trafficking of illegal drugs are severe. Convic
 
 ### Photography
 
-Photography of military installations and personnel is prohibited.
+Photography of military installations, checkpoints and personnel is prohibited.
 
 ### Firearms
 
-You may not bring any kind of firearm into Nepal. Violators who bring in firearms or ammunition may be prosecuted. This includes firearm imitations or in jewellery form.
+You may not bring any kind of firearm into Nepal. Violators who bring in firearms or ammunition may be prosecuted. This includes firearm imitations or firearms in jewellery form.
+
+### Permits
+
+#### Trekking
+
+All foreign trekkers must have a permit and must purchase a Trekkers’ Information Management System (TIMS) card from one of the following entities:
+
+* the [Trekking Agencies’ Association of Nepal](http://www.taan.org.np/)
+* [the Nepal Tourism Board](https://ntb.gov.np/en)
+* an authorized trekking company
+
+Independent trekkers are required to hire a local licensed guide.
+
+#### National park permit
+
+Trekkers must also obtain a national park entry permit before entering official trekking regions or routes such as those in the Annapurna, Everest and Langtang regions.
+
+These permits can be obtained from the Nepal Tourism Board in Kathmandu or Pokhara, or at park entry points.
+
+#### Useful links
+
+* [TIMS Card](https://ntb.gov.np/en/plan-your-trip/before-you-come/tims-card) – Nepal Tourism Board
+* [Park entry fees – Nepal Tourism Board](https://ntb.gov.np/en/plan-your-trip/before-you-come/park-entry-fees)
 
 ### Driving
 
@@ -34,13 +57,25 @@ You must carry an International Driving Permit.
 
 ### Dress and behaviour
 
-Women should dress conservatively in public.
+Women should dress conservatively in public. Visitors to temples and other religious sites should not wear shorts or sleeveless tops.
 
-Public displays of affection are considered to be inappropriate at many of Nepal’s religious sites.
+Public displays of affection are considered inappropriate.
+
+### 2SLGBTQI+ persons
+
+Nepalese law does not prohibit sexual acts between persons of the same sex.
+
+However, Nepalese society remains fairly conservative. 2SLGBTQI+ persons could be discriminated against based on their sexual orientation, gender identity, gender expression, or sex characteristics.
+
+[Travel and your sexual orientation, gender identity, gender expression and sex characteristics](https://travel.gc.ca/travelling/health-safety/lgbt-travel)
+
+### Proselytizing
+
+It’s illegal to proselytize or convert people to another religion in Nepal.
 
 ### Commercial surrogacy
 
-Commercial surrogacy services for foreigners is banned in Nepal. If you have already entered into such an arrangement, you should seek advice from a local lawyer on how this ban could affect your situation and, in particular, on any exit requirement.
+Commercial surrogacy services for foreigners are banned in Nepal. If you have already entered into such an arrangement, you should seek advice from a local lawyer on how this ban could affect your situation and on any exit requirement.
 
 ### Dual citizenship
 
@@ -73,9 +108,11 @@ Be aware that Canadian consular officials cannot interfere in private legal matt
 
 ### Money
 
-The currency is the Nepalese rupee (NPR).
+The currency of Nepal is the Nepalese rupee (NPR).
 
 The economy is largely cash-based; however, credit cards can be used in major stores, hotels and restaurants. ATMs are available in larger cities such as Kathmandu and Pokhara.
+
+Indian rupees (INR) are widely accepted in larger cities and tourist destinations. However, the use of notes greater than 100 INR is prohibited. If you plan to bring INR into the country, you should convert larger notes before arriving.
 
 It is illegal to take NPR banknotes out of the country.
 

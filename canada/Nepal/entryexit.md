@@ -43,32 +43,34 @@ Different entry rules may apply when travelling with a temporary passport or an 
 ### Visas
 
 Tourist visa: required  
-Business visa: required (only issued in Nepal)  
-Student visa: required
+ Business visa: required (only issued in Nepal after arrival on a tourist visa)  
+ Student visa: required (only issued in Nepal after arrival on a tourist visa)
 
-You can purchase a tourist visa, valid for up to 60 days, at:
+You can purchase a tourist visa, valid for up to 90 days, at:
 
 * a Nepalese embassy or consulate
-* the Tribhuvan International Airport in Kathmandu
+* Tribhuvan International Airport in Kathmandu, on arrival
 * some border crossings, upon arrival
 
-You will need to supply a recent passport-size photo. Ensure that you have the necessary amount of funds (Canadian and U.S. dollars are accepted) with you if you wish to obtain a visa upon arrival. Check with the closest Nepalese embassy or consulate for the latest visa fees.
+You will need to supply a recent passport-size photo. Ensure that you have the necessary amount of funds (Canadian and U.S. dollars are accepted) with you if you wish to obtain a visa upon arrival.
 
-[Tourist Visa](https://immigration.gov.np/en/page/tourist-visa) – Department of Immigration, Government of Nepal
+Visa extensions can only be processed at certain Department of Immigration offices.
+
+You must have a valid exit visa in your passport to depart Nepal.
+
+[Tourist Visa](http://www.nepalimmigration.gov.np/page/tourist-visa) – Department of Immigration, Government of Nepal
 
 #### Visa overstays
 
-Overstaying your visa is an offence and immigration authorities can detain you until you pay a fine. In addition to fines and detention, overstays can result in a 7-year ban on re-entry.
+Overstaying your visa is an offence, and immigration authorities can detain you until you pay a fine. You could also receive a 7-year ban on re-entry.
 
 ### Mandatory registration
 
-All foreign nationals travelling to Nepal after September 16, 2025, must register upon arrival via the NepaliPort website or mobile app.
+All foreign nationals travelling to Nepal after September 16, 2025, must register upon arrival via the NepaliPort website or mobile app. NepaliPort is a digital registration and tracking system. You will need to enter your personal information and details about your visa and travel plans.
 
-NepaliPort is a digital registration and tracking system. You will need to enter your personal information and details about your visa and travel plans.
+All public and private service providers in Nepal are required to enroll in the program. You may need to scan QR codes or use authentication applications on your mobile at hotels, airlines and other businesses.
 
-All public and private service providers in Nepal are required to enroll in the program. You may need to scan QR codes or use authentication applications on your mobile when interacting with hotels, airlines and other businesses.
-
-[NepaliPort services](https://nepaliport.immigration.gov.np/) – Nepal Department of Immigration
+[NepaliPort services](https://nepaliport-new.immigration.gov.np/) – Nepal Department of Immigration
 
 ### Travel to Tibet
 

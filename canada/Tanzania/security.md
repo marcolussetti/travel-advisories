@@ -8,17 +8,7 @@ On October 29, 2025, general elections took place in Tanzania and Zanzibar.
 
 Violent demonstrations occurred throughout the country, including in Dar es Salaam. The violence led to a large number of casualties.
 
-The possibility of renewed demonstrations and firm responses from security forces remains, particularly before, during or after Independence Day, on December 9, 2025.
-
-If you are in Tanzania:
-
-* limit your movements
-* ensure that you have sufficient supplies of cash, medication, food, fuel and water in case you need to shelter in place
-* avoid demonstrations and large gatherings
-* follow the instructions of local authorities, including orders on movement restrictions and the sharing of videos or photos deemed sensitive
-* monitor the media for the latest information
-
-[More information on demonstrations](#demonstrations)
+The possibility of renewed demonstrations and firm responses from security forces remains.
 
 Intermittent disruptions to Internet access, including social media and messaging applications, may occur.
 
@@ -40,7 +30,16 @@ Foreign nationals may be subject to increased attention from local security forc
 
 The High Commission is not routinely notified of detentions by local authorities and access to detainees may be restricted, limiting our ability to provide consular assistance.
 
-Curfews have been lifted in most areas, including in Dar es Salaam, but may be reinstated with little notice.
+Curfews have been lifted, but may be reinstated with little notice.
+
+If you are in Tanzania:
+
+* avoid demonstrations and large gatherings
+* monitor the media for the latest information
+* follow the instructions of local authorities, including orders on movement restrictions and the sharing of videos or photos deemed sensitive
+* ensure that you have sufficient supplies of cash, medication, food, fuel and water in case you need to shelter in place
+
+[More information on demonstrations](https://travel.gc.ca/destinations/tanzania#demonstrations)
 
 ### Border with Mozambique in the Mtwara region
 

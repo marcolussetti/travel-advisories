@@ -19,41 +19,52 @@ If you are in Kathmandu:
 
 ### Crime
 
-Petty theft is common, particularly near tourist sites, on buses and in hotel rooms.
+Petty theft, such as pickpocketing and bag snatching, is common, particularly near tourist sites in airports and on crowded buses.
 
 Take particular care when walking around Kupandol, Sanepa and Thamel, popular tourist spots in Kathmandu, where pickpocketing is common.
 
-* Do not leave personal belongings unattended. Armed robberies, particularly of solo trekkers, occur occasionally
-* Exercise caution in and around Kathmandu and other cities
-* Do not travel after dark
+Theft also occurs from hotel rooms.
 
-#### Festival season
+There has been a significant increase in crime, including thefts, bag snatchings, pickpocketing and break-ins, during the festival season, which extends from September to November.
 
-There is a significant increase in crime, including thefts, purse and bag snatchings, pickpocketing and break-ins, during the festival season, which extends from September to November. Maintain a high level of personal security awareness and ensure that your personal belongings and your passports are secure.
+Armed robberies, particularly of solo trekkers, occur occasionally.
+
+During your trip:
+
+* keep your personal belongings, including your passport and other travel documents, in a secure place
+* do not carry large sums of cash or valuables unnecessarily
+* be aware of your surroundings, especially in busy tourist areas
+* avoid going out after dark
 
 ### Women’s safety
 
 Women are vulnerable to harassment and verbal abuse. Dress conservatively, particularly in remote areas.
 
-Female tourists travelling alone are more at risk of violent attacks.
+Women travelling alone are more at risk of violent attacks.
 
 [Advice for women travellers](https://travel.gc.ca/travelling/health-safety/advice-for-women-travellers "Advice for women travellers")
 
-### Political tensions
+### Spiked food, drinks and other items
+
+Never leave your food or drinks unattended or in the care of strangers. Avoid accepting snacks, beverages, gum or cigarettes from new acquaintances, as these items may contain drugs that could put you at risk of sexual assault and robbery.
+
+### Political tensions and violence
 
 While Nepal continues its transition to a stable democracy, the political situation remains fragile and tensions can increase with little notice.
 
-#### Acts of violence
+Small-scale, politically motivated attacks occasionally occur, especially in Kathmandu. Past attacks, some using improvised explosive devices, have injured or killed people. Foreigners have not been targeted. Further attacks are likely.
 
-Small-scale, politically-motivated attacks occasionally occur, especially in Kathmandu. Past attacks have led to injuries and sometimes caused deaths. Foreigners have not been targeted. Further attacks are likely.
+### Demonstrations and strikes
 
-### Demonstrations
+Political protests are common in Nepal and sometimes result in violence.
 
-Political protests are common in Nepal and sometimes result in violence. Transport and public services may be disrupted at short notice.
+Politically motivated protests have been particularly volatile in Kathmandu as well as in Nepal’s southern region bordering India, which has, at times, affected border crossings.
 
-Politically motivated protests have been particularly volatile in Kathmandu as well as in Nepal’s southern region bordering India, which has at times resulted in supply shortages and affected border crossings.
+General strikes (locally referred to as bandhs) are a popular form of political expression and can occur on short notice throughout the country.
 
-Even peaceful demonstrations can turn violent at any time. They can also lead to disruptions to traffic and public transportation.
+Avoid travelling on public transportation during or immediately preceding bandhs, because tourists have been injured doing so. Transportation to and from airports throughout Nepal could be affected. Army and police checkpoints are frequent, especially at night.
+
+Even peaceful demonstrations and strikes can turn violent at any time. They can also affect access to essential services and supplies, and lead to disruptions to traffic and public transportation.
 
 * Avoid areas where demonstrations and large gatherings are taking place
 * Follow the instructions of local authorities
@@ -61,59 +72,42 @@ Even peaceful demonstrations can turn violent at any time. They can also lead to
 
 [Mass gatherings (large-scale events)](https://travel.gc.ca/travelling/health-safety/mass-gatherings)
 
-#### Strikes
+### Adventure travel
 
-General strikes (locally referred to as bandhs) are a popular form of political expression and can occur on short notice throughout the country. Such strike action can affect access to services. While bandhs are usually peaceful, riots and violence are possible. During a bandh, businesses and roads may close and transportation services may be unavailable or severely disrupted.
-
-Avoid travelling on public transportation during or immediately preceding bandhs, as tourists have been injured. Transportation to and from airports throughout Nepal could be affected. Army and police checkpoints are frequent, especially at night.
-
-Follow the advice of local authorities and respect curfews and roadblocks.
-
-### Trekking and mountain climbing
+#### Trekking and mountain climbing
 
 Many popular trekking trails ascend higher than 5,500 metres.
 
-A number of hikers and guides have been stranded, injured or killed while trekking. You may experience high-altitude illnesses at high altitudes and should be well informed on possible hazards in the high mountains.
+Hikers and guides have been stranded, injured or killed while trekking.
 
-Drops in temperature and changes in weather conditions, including blizzards and avalanches can occur suddenly in mountainous regions at any time of year.
+Drops in temperature and changes in weather conditions, including blizzards and avalanches, can occur suddenly in mountainous regions at any time of year.
 
-If you intend to trek:
+If you intend to trek or mountain climb:
 
 * never do so alone and always hire an experienced guide from a reputable company
-* buy travel insurance that includes helicopter rescue and medical evacuation
-* ensure that your physical condition is good enough to meet the challenges of your activity
-* ensure that you're properly equipped and well informed about weather and other conditions that may pose a hazard
+* buy travel insurance that covers incidents related to these types of recreational activities
+* ensure that your physical condition is good enough to tackle the challenges of your activity
+* ensure that you have proper equipment and bring sufficient water
 * inform a family member or friend of your itinerary, including when you expect to be back to camp
-* know the symptoms of high-altitude illnesses, which can be fatal
-* obtain detailed information on trekking routes or ski slopes before setting out and do not venture off marked trails or slopes
+* know the symptoms of high-altitude illnesses, dehydration and heatstroke, which can be fatal
+* obtain detailed information on your activity and the environment in which you will be setting out
 
-Emergency services such as evacuations and rescues from remote areas are available but can be hindered by:
+Emergency services such as evacuations and rescues from remote areas are available, but can be hindered by:
 
-* the lack of immediate payment to helicopter rescue services
-* a positive response from clients of their insurance companies
+* the lack of immediate payment to helicopter rescue service providers
+* lack of a response from clients’ insurance companies
 * limited access to regular phone service in many trekking areas
 
 There have been helicopter rescue scams in the past. Ensure that you are dealing with reputable helicopter companies. Check with your trekking agency for updates on the security situation in the area.
 
-#### Trekkers’ Information Management System
+#### Rafting
 
-All trekkers must purchase a trekkers’ information management system (TIMS) card from one of the following entities:
+Organize white-water rafting excursions only through reputable agencies.
 
-* the [Trekking Agencies’ Association of Nepal](http://www.taan.org.np/)
-* the [Nepal Tourism Board](https://www.welcomenepal.com/)
-* an authorized trekking company
+#### Useful links
 
-#### National park permit
-
-You must obtain a national park entry permit before entering official trekking regions or routes such as those in the Annapurna, Everest and Langtang regions.
-
-Permits may be obtained from the national tourism board after arrival in Kathmandu or Pokhara.
-
-[More about trekking permits](http://www.taan.org.np/page/trekking-permit-fees) - Trekking Agencies’ Association of Nepal
-
-### Rafting
-
-Organize white-water rafting excursions through reputable agencies only.
+* [High-altitude illnesses](https://travel.gc.ca/travelling/health-safety/travel-health-information/altitude-illnesses)
+* [Adventure travel](https://travel.gc.ca/travelling/health-safety/adventure-travellers)
 
 ### Power cuts
 
@@ -121,7 +115,7 @@ Due to an energy shortage, electric power cuts, termed “load shedding,” are 
 
 ### Public transportation
 
-Most public buses are often poorly maintained and accidents involving buses, often causing injuries and fatalities, are common.
+Public buses are often poorly maintained and accidents involving buses, often causing injuries and fatalities, are common.
 
 Avoid travelling on overnight buses.
 
@@ -129,19 +123,45 @@ Tourist buses are generally safe.
 
 Boat accidents are common due to the overloading and poor maintenance of vessels. Do not board vessels that appear overloaded or unfit, especially where there are strong currents.
 
-### Road safety
+Travel providers and bus companies will not provide any compensation in the event of an accident. To recover items lost during an accident, contact local police.
 
-Exercise caution when travelling by road as road conditions and driving standards are poor and traffic laws are not enforced.
+### Roads
 
-Drivers often drive at excessive speed and often do not yield right-of-way to pedestrians.
+#### Road conditions
 
-Many mountain and hill roads, which can be hazardous even in the best weather, are intermittently impassable during the monsoon season due to landslides.
+Road conditions are poor throughout the country.
 
-Traffic is congested in the Kathmandu Valley.
+Many mountain and hill roads, which can be hazardous even in the best weather, are intermittently impassable during the monsoon due to landslides.
+
+Driving can also be dangerous due to:
+
+* insufficient lighting
+* poorly maintained roads
+* traffic jams and heavy traffic, especially in the Kathmandu Valley
+* inexperienced drivers
+
+#### Driving habits
+
+Drivers often speed and do not respect traffic laws.
+
+If you plan to travel by car, consider hiring a driver.
+
+If you choose to drive:
+
+* always drive defensively
+* plan your trip in advance, especially if you are visiting a rural area
+* avoid travelling after dark
+* inform a friend or family member of your itinerary
 
 ### Landmines
 
-Landmines and unexploded ordnance constitute a risk in parts of the country, including in some trekking areas. Follow the advice of local authorities, and only travel on well-used roads and paths.
+Landmines are found in in some parts of the country, including some trekking areas.
+
+* Be especially vigilant in remote areas
+* Stay on main roads
+* Avoid walking in fields/rural areas
+* Avoid roadside ditches, shoulders and unmarked trails
+* Pay attention to signs indicating the possible presence of landmines
 
 ### Air travel
 
