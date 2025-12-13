@@ -258,12 +258,8 @@ If you have not had any previous diving experience:
 * ask your dive instructor to explain what cover they offer before signing up
 * check what to do if something goes wrong, including how to call for help while at sea
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/indonesia/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/indonesia/entry-requirements)
 
-[Next
-:
-Regional risks](/foreign-travel-advice/indonesia/regional-risks)
+[Next:Regional risks](/foreign-travel-advice/indonesia/regional-risks)
 
 [View a printable version of the whole guide](/foreign-travel-advice/indonesia/print)

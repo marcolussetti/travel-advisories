@@ -67,12 +67,8 @@ If you are staying with friends or family or own your own home in Cambodia, you 
 
 If you fail to get yourself registered, you may be unable to extend your visa if you want to.
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/cambodia)
+[Previous:Warnings and insurance](/foreign-travel-advice/cambodia)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/cambodia/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/cambodia/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/cambodia/print)

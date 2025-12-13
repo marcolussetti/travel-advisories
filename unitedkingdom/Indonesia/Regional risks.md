@@ -109,12 +109,8 @@ If you have previously travelled to the area, make sure you check the updated ma
 
 The UK government has no permanent presence in the region. Support for British nationals is managed remotely from Jakarta. There are limited hospital facilities in the region. If you need emergency medical treatment, you are likely to be medically evacuated to Darwin in Australia.
 
-[Previous
-:
-Safety and security](/foreign-travel-advice/indonesia/safety-and-security)
+[Previous:Safety and security](/foreign-travel-advice/indonesia/safety-and-security)
 
-[Next
-:
-Health](/foreign-travel-advice/indonesia/health)
+[Next:Health](/foreign-travel-advice/indonesia/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/indonesia/print)

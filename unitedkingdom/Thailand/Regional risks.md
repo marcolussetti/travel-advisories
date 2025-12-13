@@ -19,11 +19,11 @@ This is due to regular attacks in the provinces by the border with Malaysia. See
 
 ## Thailand-Cambodia border
 
-In July 2025, Thailand and Cambodia fought along parts of the border. The fighting included the use of rocket and artillery fire. Tensions remain with reports of the latest round of gunfire on 23 September. Land borders and crossings between Thailand and Cambodia continue to be suspended. Some tourist destinations in border areas such as the Khao Phra Wihan/Preah Vihear temple, the Ta Kwai/Ta Krabey temple and the Ta Muen Thom/Tamone Thom temple are closed.
+In July 2025, Thailand and Cambodia fought along parts of the border. The fighting included the use of rocket and artillery fire. Tensions remain and fighting erupted again at various points along the border in early December. Land borders and crossings between Thailand and Cambodia continue to be suspended. Some tourist destinations in border areas such as the Khao Phra Wihan/Preah Vihear temple, the Ta Kwai/Ta Krabey temple and the Ta Muen Thom/Tamone Thom temple are closed.
 
 There are also unexploded landmines in the border area.
 
-We advise against all but essential travel to the affected border areas.
+We advise against all travel to the affected land border areas.
 
 ## Thailand-Laos border
 
@@ -33,12 +33,8 @@ Not all land border crossings into Laos are open to foreign nationals. Even if
 
 The security situation in Myanmar is unpredictable and liable to change without notice. See [Myanmar travel advice](https://www.gov.uk/foreign-travel-advice/myanmar).
 
-[Previous
-:
-Safety and security](/foreign-travel-advice/thailand/safety-and-security)
+[Previous:Safety and security](/foreign-travel-advice/thailand/safety-and-security)
 
-[Next
-:
-Health](/foreign-travel-advice/thailand/health)
+[Next:Health](/foreign-travel-advice/thailand/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/thailand/print)

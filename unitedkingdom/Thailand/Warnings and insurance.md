@@ -1,22 +1,24 @@
 # Warnings and insurance
 
 Still current at:
-:   11 December 2025
+:   13 December 2025
 
 Updated:
-:   10 December 2025
+:   12 December 2025
 
 Latest update:
-:   Updated information on the Thailand-Cambodia border situation ('Warnings and insurance’ page).
+:   FCDO now advises against all travel to within 50km of the whole border with Cambodia except for Koh Chang, Koh Kood and the other islands in between them, where FCDO continues to advise against all but essential travel. FCDO continues to advise against all but essential travel to parts of Thailand (‘Warnings and insurance’ page).
 
-![](https://assets.publishing.service.gov.uk/media/68ff9972d81972ecd2df5dbf/FCDO__TA__040_-_Thailand_Travel_Advice_Ed5__WEB_.jpg)
+![](https://assets.publishing.service.gov.uk/media/693c332c5cc812f50aa4210f/FCDO__TA__040_-_Thailand_Travel_Advice_Ed7__WEB___1_.jpg)
 
 
-[Download a more detailed map (PDF, 1.39 MB)](https://assets.publishing.service.gov.uk/media/68ff9972d81972ecd2df5dc0/FCDO__TA__040_-_Thailand_Travel_Advice_Ed5.pdf)
+[Download a more detailed map (PDF, 1.4 MB)](https://assets.publishing.service.gov.uk/media/693c332c33c7ace9c4a4210e/FCDO__TA__040_-_Thailand_Travel_Advice_Ed7__2_.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
-## Areas where FCDO advises against all but essential travel
+## Areas where FCDO advises against travel
+
+## Thailand-Malaysia border
 
 FCDO advises against all but essential travel to parts of the south, near the Thailand-Malaysia border:
 
@@ -29,23 +31,27 @@ FCDO also advises against all but essential travel on the Hat Yai to Padang Bes
 
 This is due to regular attacks in the provinces by the border with Malaysia. See [Safety and security](https://www.gov.uk/foreign-travel-advice/thailand/safety-and-security) .
 
-FCDO also advises against all but essential travel to within 50km of the whole border with Cambodia, including Koh Chang, Koh Kood and the other islands in between them.
+## Thailand-Cambodia border
+
+FCDO advises against all travel to within 50km of the whole border with Cambodia except for, Koh Chang, Koh Kood and the other islands in between them.
+
+FCDO advises against all but essential travel to Koh Chang, Koh Kood and the other islands between them.
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/thailand/safety-and-security#terrorism).
 
-## Death of HM Queen Sirikit
-
-Thailand is in a formal mourning period from 25 October 2025 for at least 30 days. During this time, there may be disruption to a wide range of businesses and services, including entertainment venues, restaurants, bars and shopping areas.
-
-Authorities in Thailand are advising  visitors to wear sombre clothing, particularly in public places, and to avoid bright or festive attire. Authorities are also advising visitors to behave respectfully in public including avoiding loud or inappropriate behaviour, especially when visiting temples, royal sites or government premises. For more information, [read the official announcement from the Thailand government](https://www.tatnews.org/2025/10/official-announcement-mourning-practices-following-the-passing-of-her-majesty-queen-sirikit-the-queen-mother/).
-
 ## Thailand-Cambodia border
 
-In July 2025, Thailand and Cambodia fought along parts of the border. The fighting included the use of rocket and artillery fire. Tensions remain, with reports of fighting taking place at various points along the border in early December. Land borders and crossings between Thailand and Cambodia continue to be suspended. Some tourist destinations in border areas such as the Khao Phra Wihan/Preah Vihear temple, the Ta Kwai/Ta Krabey temple and the Ta Muen Thom/Tamone Thom temple are closed.
+In July 2025, Thailand and Cambodia fought along parts of the border. The fighting included the use of rocket and artillery fire. Tensions remain and fighting erupted again at various points along the border in early December. Land borders and crossings between Thailand and Cambodia continue to be suspended. Some tourist destinations in border areas such as the Khao Phra Wihan/Preah Vihear temple, the Ta Kwai/Ta Krabey temple and the Ta Muen Thom/Tamone Thom temple are closed.
 
 There are also unexploded landmines in the border area.
 
-We advise against all but essential travel to the affected border areas.
+We advise against all travel to the affected land border areas.
+
+## Death of HM Queen Sirikit
+
+Thailand is in a formal mourning period from 25 October 2025 for 100 days. During this time, there may be disruption to a wide range of businesses and services, including entertainment venues, restaurants, bars and shopping areas.
+
+Authorities in Thailand are advising  visitors to wear sombre clothing, particularly in public places, and to avoid bright or festive attire. Authorities are also advising visitors to behave respectfully in public including avoiding loud or inappropriate behaviour, especially when visiting temples, royal sites or government premises. For more information, [read the official announcement from the Thailand government](https://www.tatnews.org/2025/10/official-announcement-mourning-practices-following-the-passing-of-her-majesty-queen-sirikit-the-queen-mother/).
 
 ## Do not carry cannabis out of Thailand
 
@@ -79,8 +85,6 @@ Follow FCDO:
 * [travel advice on Facebook](https://www.facebook.com/FCDOTravel/)
 * [Travel Aware on Instagram](https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Ftravelaware%2F&is_from_rle)
 
-[Next
-:
-Entry requirements](/foreign-travel-advice/thailand/entry-requirements)
+[Next:Entry requirements](/foreign-travel-advice/thailand/entry-requirements)
 
 [View a printable version of the whole guide](/foreign-travel-advice/thailand/print)

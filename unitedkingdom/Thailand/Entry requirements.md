@@ -54,12 +54,8 @@ There are strict rules about [goods you can take into or out of Thailand](https:
 
 It is illegal to take more than 200 cigarettes per person into Thailand. This is enforced at customs on arrival. If you go over the limit, you could be fined 10 times the value. Your cigarettes will likely be confiscated.
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/thailand)
+[Previous:Warnings and insurance](/foreign-travel-advice/thailand)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/thailand/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/thailand/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/thailand/print)

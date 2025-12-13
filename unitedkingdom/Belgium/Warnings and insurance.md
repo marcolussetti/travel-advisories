@@ -1,19 +1,21 @@
 # Warnings and insurance
 
 Still current at:
-:   11 December 2025
+:   13 December 2025
 
 Updated:
-:   10 December 2025
+:   12 December 2025
 
 Latest update:
-:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
+:   Updated information about planned strikes and protests with significant disruptions expected ( 'Warnings and insurance' and 'Safety and security' pages).
 
 ## National strike action
 
-Strikes are planned for Monday 24, Tuesday 25 and Wednesday 26 November. This is expected to affect airports, public transport and some public services, including schools. Public transport will be affected from 10pm on Sunday 23 November. A demonstration is planned for central Brussels on Wednesday 26 November.
+On 15 December, a general strike is planned across the Wallonia and Brussels regions. This is expected to affect public transport and some public services, including schools. A demonstration is planned around central Brussels on this day.
 
-Strike action is an ongoing issue that can cause travel disruption. General strikes took place on 31 March, 29 April and 14 October. Strike action may be announced at short notice.
+On 18 December a farmers’ protest is planned in Brussels. Significant road closures and public transport disruptions are expected, especially around the Schuman area (EU quarter).
+
+Strike action is an ongoing issue that can cause travel disruption. General strikes took place on 31 March, 29 April,14 October and 26 November. Strike action may be announced at short notice.
 
 Monitor local news and check with your provider regarding potential delays and closures. Read more information about demonstrations and strikes on the [Safety and security page](https://www.gov.uk/foreign-travel-advice/belgium/safety-and-security).
 
@@ -45,8 +47,6 @@ Follow FCDO:
 * [travel advice on Facebook](https://www.facebook.com/FCDOTravel/)
 * [Travel Aware on Instagram](https://www.instagram.com/travelaware/)
 
-[Next
-:
-Entry requirements](/foreign-travel-advice/belgium/entry-requirements)
+[Next:Entry requirements](/foreign-travel-advice/belgium/entry-requirements)
 
 [View a printable version of the whole guide](/foreign-travel-advice/belgium/print)

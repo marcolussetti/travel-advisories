@@ -81,12 +81,8 @@ For full details about medical entry requirements and recommended vaccinations, 
 
 Airport tax is included in the cost of all domestic flights within Indonesia. For some international flights departing Indonesia, airport departure tax might not be included in the price of the ticket. Check with your airline or travel agent before you travel.
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/indonesia)
+[Previous:Warnings and insurance](/foreign-travel-advice/indonesia)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/indonesia/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/indonesia/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/indonesia/print)

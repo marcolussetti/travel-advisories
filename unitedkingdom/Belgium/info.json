@@ -1,11 +1,11 @@
 {
     "name": "Belgium",
-    "update_reason": "New information about dual nationals returning to the UK (\u2018Entry requirements\u2019 page).",
+    "update_reason": "Updated information about planned strikes and protests with significant disruptions expected ( 'Warnings and insurance' and 'Safety and security' pages).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Belgium/Warnings and insurance.md",
-            "update_date": "2025-12-10T13:06:13+00:00"
+            "update_date": "2025-12-12T15:48:47+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Belgium/Getting help.md"
         }
     ],
-    "update_date": "2025-12-10T13:06:13+00:00"
+    "update_date": "2025-12-12T15:48:47+00:00"
 }

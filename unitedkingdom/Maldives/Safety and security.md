@@ -12,12 +12,13 @@ Terrorist attacks in Maldives cannot be ruled out.
 
 Attacks could be indiscriminate, including in places visited by foreign nationals. Stay aware of your surroundings, keep up to date with local media reports and follow the advice of local authorities.
 
-The current conflict in Israel and Palestine has led to heightened tensions around the world. Terrorist groups, such as Al-Qaida and Daesh, have called on their supporters to carry out terrorist attacks in response. The conflict could also motivate individuals to carry out attacks, including in Maldives.
+Terrorist groups, such as Al-Qaida and Daesh, have called on their supporters to carry out terrorist attacks in response to the conflict in Israel and Palestine. The conflict could also motivate individuals to carry out attacks, including in Maldives.
 
 The Maldivian authorities have disrupted a number of terrorist attack plans since 2017 and have made several arrests relating to attack planning, recruitment of terrorist fighters and spreading extremist ideology. However, a risk from terrorism remains.
 
 Examples of attacks in the last 5 years include:
 
+* in 2025, a terrorist plot was foiled. Suspects are awaiting trial.
 * in 2022, a politician was attacked with a knife and injured in the Hulhumalé area of Malé
 * in 2021, a high-profile politician and a number of bystanders were injured by the detonation of an improvised explosive device (IED) in central Malé
 * in 2020, an arson attack on a police speedboat in Laamu Gan
@@ -49,9 +50,26 @@ Get more advice when you arrive from your tour guide, hotel or business contacts
 
 Alcoholic drinks are only available on resort islands. Do not take any alcohol out of your resort. You can be arrested and deported for possessing and drinking alcohol, or being intoxicated outside resorts and on inhabited islands.
 
-### Illegal drugs and prison sentences
+### Illegal drugs penalties
 
-Maldives has strong anti-drugs laws. Importing or possessing drugs carries severe penalties, including life imprisonment.
+Possession, trafficking and manufacture of any illegal drugs are serious offences in Maldives and penalties can be severe. This includes cannabis, even small quantities can lead to arrest.
+
+British nationals have been caught carrying controlled drugs while transiting Maldives.
+
+International airports in Maldives have advanced scanning systems and procedures in place for scanning and detecting illegal substances, including cannabis. This includes all carry-on and checked-in baggage of transiting passengers.
+
+The Maldivian authorities have a zero-tolerance policy to drug offences. Possessing drugs, even in very small quantities, carries severe penalties, including:
+
+* arrest and detention
+* long prison sentences if convicted
+* corporal punishment (whipping) in some cases
+* death penalty for the most serious offences
+
+You are strongly advised:
+
+* not to carry any controlled substances, including cannabis, even if legal in your departure country
+* to check your luggage thoroughly before travelling or transiting through the Maldives
+* if prescribed medication contains controlled substances, carry a doctor’s prescription and check Maldivian regulations in advance
 
 ### Wildlife, animal products and souvenirs
 
@@ -119,12 +137,8 @@ Flash flooding can affect low-lying islands during periods of heavy rain. Follow
 
 Find out what you can do to [prepare for and respond to extreme weather and natural hazards](https://www.gov.uk/guidance/extreme-weather-and-natural-hazards).
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/maldives/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/maldives/entry-requirements)
 
-[Next
-:
-Health](/foreign-travel-advice/maldives/health)
+[Next:Health](/foreign-travel-advice/maldives/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/maldives/print)

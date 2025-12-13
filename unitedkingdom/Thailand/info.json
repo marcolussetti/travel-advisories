@@ -1,11 +1,11 @@
 {
     "name": "Thailand",
-    "update_reason": "Updated information on the Thailand-Cambodia border situation ('Warnings and insurance\u2019 page).",
+    "update_reason": "FCDO now advises against all travel to within 50km of the whole border with Cambodia except for Koh Chang, Koh Kood and the other islands in between them, where FCDO continues to advise against all but essential travel. FCDO continues to advise against all but essential travel to parts of Thailand (\u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Thailand/Warnings and insurance.md",
-            "update_date": "2025-12-10T14:25:23+00:00"
+            "update_date": "2025-12-12T15:38:38+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Thailand/Getting help.md"
         }
     ],
-    "update_date": "2025-12-10T14:25:23+00:00"
+    "update_date": "2025-12-12T15:38:38+00:00"
 }

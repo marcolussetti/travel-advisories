@@ -40,12 +40,8 @@ There are strict rules about [goods you can take into or out of Maldives](https:
 
 It is illegal to bring in anything deemed contrary to Islam, including ‘idols for worship’, bibles, pork and pork products, and alcohol.
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/maldives)
+[Previous:Warnings and insurance](/foreign-travel-advice/maldives)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/maldives/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/maldives/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/maldives/print)

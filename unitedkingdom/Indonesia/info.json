@@ -1,11 +1,11 @@
 {
     "name": "Indonesia",
-    "update_reason": "New information about dual nationals returning to the UK (\u2018Entry requirements\u2019 page).",
+    "update_reason": "Removal of information about an explosion at a school in North Jakarta on 7 November 2025.",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Indonesia/Warnings and insurance.md",
-            "update_date": "2025-12-10T12:43:32+00:00"
+            "update_date": "2025-12-12T14:45:59+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Indonesia/Getting help.md"
         }
     ],
-    "update_date": "2025-12-10T12:43:32+00:00"
+    "update_date": "2025-12-12T14:45:59+00:00"
 }

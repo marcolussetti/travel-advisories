@@ -105,12 +105,8 @@ You cannot take [meat, milk or products containing them into EU countries](http
 
 You must [complete a disclosure form](https://finance.belgium.be/en/customs_excises/private-individuals/travelling/movement-cash/to-or-from-eu) at customs if you’re carrying currency worth 10,000 euros or more.
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/belgium)
+[Previous:Warnings and insurance](/foreign-travel-advice/belgium)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/belgium/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/belgium/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/belgium/print)

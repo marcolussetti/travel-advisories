@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   11 December 2025
+:   13 December 2025
 
 Updated:
-:   10 December 2025
+:   12 December 2025
 
 Latest update:
-:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
+:   Removal of information about an explosion at a school in North Jakarta on 7 November 2025.
 
 ![](https://assets.publishing.service.gov.uk/media/6745db6083f3d6d843be9719/FCDO__TA__020_-_Indonesia_Travel_Advice_Ed9__WEB_.jpg)
 
@@ -47,10 +47,6 @@ Your travel insurance could be invalidated if you travel against advice from the
 
 See [more details about why FCDO advises against travel](/foreign-travel-advice/indonesia/regional-risks).
 
-## Explosion at a school in North Jakarta
-
-At approximately 12.15pm local time on 7 November, there was an explosion at a school in Kelapa Gading, North Jakarta. If you’re in the immediate area, follow the advice of the local authorities and monitor local media.
-
 ## Before you travel
 
 No travel can be guaranteed safe. Read all the advice in this guide. You may also find it helpful to:
@@ -79,8 +75,6 @@ Follow FCDO:
 * [travel advice on Facebook](https://www.facebook.com/FCDOTravel/)
 * [Travel Aware on Instagram](https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Ftravelaware%2F&is_from_rle)
 
-[Next
-:
-Entry requirements](/foreign-travel-advice/indonesia/entry-requirements)
+[Next:Entry requirements](/foreign-travel-advice/indonesia/entry-requirements)
 
 [View a printable version of the whole guide](/foreign-travel-advice/indonesia/print)

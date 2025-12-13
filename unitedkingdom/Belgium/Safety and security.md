@@ -43,6 +43,7 @@ For information on travel in Belgium, visit:
 * [Belgian Railways](https://www.belgiantrain.be/en) (train and metro travel)
 * [Brussels](https://www.stib-mivb.be/index.htm?l=en), [Walloon](https://www.letec.be/) and [Flemish](https://www.delijn.be/en/) (regional public transport)
 * [HERE map](https://wego.here.com/?map=50.84439,4.35607,16,omv)
+* [Brussels-Capital Region Transport and Mobility News](https://be.brussels/en/transport-mobility)
 
 For international travel, visit:
 
@@ -149,12 +150,8 @@ The maximum speed limit for riding an electric scooter is 25kph and riding with 
 
 It is illegal for people aged under 16 to use electric scooters, except in a few designated areas.
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/belgium/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/belgium/entry-requirements)
 
-[Next
-:
-Health](/foreign-travel-advice/belgium/health)
+[Next:Health](/foreign-travel-advice/belgium/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/belgium/print)

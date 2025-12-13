@@ -61,8 +61,6 @@ Follow FCDO:
 
 The Overseas Business Risk service offers [information and advice for British companies operating in Indonesia](https://www.gov.uk/government/publications/overseas-business-risk-indonesia) on how to manage political, economic, and business security-related risks.
 
-[Previous
-:
-Health](/foreign-travel-advice/indonesia/health)
+[Previous:Health](/foreign-travel-advice/indonesia/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/indonesia/print)

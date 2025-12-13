@@ -238,12 +238,8 @@ Monitor local news and weather reports, and [weather updates from the World Mete
 
 Lakes, caves and waterfalls are particularly prone to dangerous flash flooding during the rainy season from June to October.
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/cambodia/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/cambodia/entry-requirements)
 
-[Next
-:
-Health](/foreign-travel-advice/cambodia/health)
+[Next:Health](/foreign-travel-advice/cambodia/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/cambodia/print)
