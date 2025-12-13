@@ -6,19 +6,9 @@ High Degree of Caution
 
 ### **Travel Alert**
 
-Following the general election on 29 October, there were several days of country-wide unrest and violent outbreaks leading to fatalities and injuries. Calls for further protests on Tanzania’s Independence Day, 9 December, have circulated widely on social media.
+Following the general election on 29 October, there were several days of country-wide unrest and violent outbreaks leading to fatalities and injuries.
 
-Travellers to Tanzania should prepare for a heightened security presence in urban areas (including checkpoints), curfews, reduced availability of basic goods and services, and disruptions to communications and travel.
-
-Irish citizens are advised to:
-
-* Stay away from all demonstrations, rallies and large crowds
-* Carry identification documents at all times
-* Monitor local media and social media
-* Follow the advice of the authorities
-* Be alert to the potential of opportunistic crime
-
-In the event of civil unrest and the need to shelter in place, Irish citizens are advised to have adequate supplies of food, water, fuel, medication and cash.
+The current situation is calm but unpredictable. Irish citizens are advised to stay alert to their surroundings, avoid any large crowds, rallies or demonstrations, and follow local and social media for any updates.
 
 If you are an Irish citizen in need of consular assistance, you can call the Embassy Duty Officer 24/7 on +255 754 783 455
 

@@ -6,6 +6,8 @@ Normal Precautions
 
 ### **General Travel Advice**
 
+A UEFA Conference League match between NK Celje and Shelbourne F.C. will take place in Celje on the 18th of December. Visitors attending the match should plan extra time for travel, follow local guidance on transport and crowd management, and stay aware of their surroundings. Standard safety precautions are advised around large public events.
+
 Irish citizens need a valid passport or passport card to enter Slovenia.
 
 Irish passports do not have a minimum validity requirement while travelling to the UK or within the EU. When travelling within Europe with an Irish passport, it should be valid for the duration of your stay.

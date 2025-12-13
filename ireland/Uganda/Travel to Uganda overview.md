@@ -26,8 +26,6 @@ There is currently a high risk of terrorism in Uganda and across the East Africa
 
 We advise Irish citizens to exercise a high level of caution in public areas, including shopping malls, schools and tourist sites. Citizens should avoid large gatherings.
 
-The Department of Foreign Affairs and Trade advises against all but essential travel to Queen Elizabeth National Park at this time. The Embassy also advises against all but essential travel to Semuliki National Park, and to the area immediately south-west of Kasese up to the DRC border.
-
 Recent significant attacks include:
 
 * On 3 June 2025, a device carried by motorbike exploded in Munyonyo – Kampala – close to a large gathering of pilgrims.
