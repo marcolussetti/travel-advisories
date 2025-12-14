@@ -2,6 +2,19 @@
 
 ## Safety and security
 
+### Armed strike
+
+A Colombian terrorist group has called for an "armed strike" from 6 am on December 14 to 6 am on December 17, 2025. They are calling for civilians to stay indoors for 72 hours.
+
+Ensure that you maintain stores of food, water and emergency supplies, sufficient to last three to four days.
+
+If you are in Colombia:
+
+* keep a low profile
+* avoid crowds
+* monitor local media and official sources for updates
+* follow the advice of local authorities
+
 ### Dating applications
 
 ### Online dating applications
