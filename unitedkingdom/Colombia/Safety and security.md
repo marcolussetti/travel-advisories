@@ -234,12 +234,8 @@ Notify friends and family of your location, stay alert, and follow any advice fr
 
 Check before travelling on the Pan-American highway, which passes near a volcano. Call 767 for information (in Spanish) from the Colombian Highway Police about road closures.
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/colombia/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/colombia/entry-requirements)
 
-[Next
-:
-Regional risks](/foreign-travel-advice/colombia/regional-risks)
+[Next:Regional risks](/foreign-travel-advice/colombia/regional-risks)
 
 [View a printable version of the whole guide](/foreign-travel-advice/colombia/print)

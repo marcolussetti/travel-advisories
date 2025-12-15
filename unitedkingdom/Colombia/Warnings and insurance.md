@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   11 December 2025
+:   15 December 2025
 
 Updated:
-:   10 December 2025
+:   14 December 2025
 
 Latest update:
-:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
+:   Update on strike in the cities of Cúcuta, Barrancabermeja, Medellín, Bogotá, Cali and Popayán from 14 - 17 December (See 'Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/67c05135b0bb6528ee866b96/FCDO_TA_054_-_Colombia_Travel_Advice_Ed3_WEB.jpg)
 
@@ -66,6 +66,10 @@ FCDO advises against all but essential travel to Orito, San Miguel, Valle del Gu
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/colombia/regional-risks).
 
+## National strike - security threats
+
+A major armed group have called a strike from 06:00 on 14 December to 06:00 on 17 December in the cities of Cúcuta, Barrancabermeja, Medellín, Bogotá, Cali and Popayán. Police and military facilities could be targeted. There may also be disruption to public transport networks and businesses. You should exercise a high degree of caution and follow the advice of the local authorities.
+
 ## Before you travel
 
 No travel can be guaranteed safe. Read all the advice in this guide. You may also find it helpful to:
@@ -94,8 +98,6 @@ Follow FCDO:
 * [travel advice on Facebook](https://www.facebook.com/FCDOTravel/)
 * [Travel Aware on Instagram](https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Ftravelaware%2F&is_from_rle)
 
-[Next
-:
-Entry requirements](/foreign-travel-advice/colombia/entry-requirements)
+[Next:Entry requirements](/foreign-travel-advice/colombia/entry-requirements)
 
 [View a printable version of the whole guide](/foreign-travel-advice/colombia/print)

@@ -244,12 +244,8 @@ If you are in or near an affected area, follow the advice of local authorities.
 
 Dust storms happen regularly in Australia, usually only in outback areas. Follow the advice of local authorities.
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/australia/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/australia/entry-requirements)
 
-[Next
-:
-Health](/foreign-travel-advice/australia/health)
+[Next:Health](/foreign-travel-advice/australia/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/australia/print)

@@ -1,13 +1,17 @@
 # Warnings and insurance
 
 Still current at:
-:   11 December 2025
+:   15 December 2025
 
 Updated:
-:   10 December 2025
+:   14 December 2025
 
 Latest update:
-:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
+:   Update on shooting in Bondi Beach ('Warnings and insurance' page).
+
+## Shooting in Bondi Beach
+
+A number of people were killed and injured on 14 December in a terrorist shooting on Sydney’s Bondi Beach. Emergency services advise people to avoid the area. Police investigations are underway. You should follow the local authorities’ advice. New South Wales (NSW) Police Public Information and Inquiry Centre (PIIC) has been activated (contact number: 1800 227 228). If you are concerned about someone who may have been in the area at the time, or need assistance yourself, please contact the British Consulate in Sydney (available 24/7 on +61 2 9247 7521).
 
 ## Bushfires in Australia
 
@@ -41,8 +45,6 @@ Follow FCDO:
 * [travel advice on Facebook](https://www.facebook.com/FCDOTravel/)
 * [Travel Aware on Instagram](https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Ftravelaware%2F&is_from_rle)
 
-[Next
-:
-Entry requirements](/foreign-travel-advice/australia/entry-requirements)
+[Next:Entry requirements](/foreign-travel-advice/australia/entry-requirements)
 
 [View a printable version of the whole guide](/foreign-travel-advice/australia/print)

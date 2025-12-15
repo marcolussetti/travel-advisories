@@ -1,11 +1,11 @@
 {
     "name": "Colombia",
-    "update_reason": "New information about dual nationals returning to the UK (\u2018Entry requirements\u2019 page).",
+    "update_reason": "Update on strike in the cities of C\u00facuta, Barrancabermeja, Medell\u00edn, Bogot\u00e1, Cali and Popay\u00e1n from 14 - 17 December (See 'Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Colombia/Warnings and insurance.md",
-            "update_date": "2025-12-10T12:45:38+00:00"
+            "update_date": "2025-12-14T08:34:40+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Colombia/Getting help.md"
         }
     ],
-    "update_date": "2025-12-10T12:45:38+00:00"
+    "update_date": "2025-12-14T08:34:40+00:00"
 }

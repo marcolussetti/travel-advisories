@@ -60,12 +60,8 @@ If you travel to the ‘Lost City’ in the Sierra Nevada de Santa Marta, only d
 
 The San Agustín Archaeological Park (‘Parque Arqueológico de San Agustín’) is in the department of Huila. Enter and leave the park on the main road through Neiva or Popayán.
 
-[Previous
-:
-Safety and security](/foreign-travel-advice/colombia/safety-and-security)
+[Previous:Safety and security](/foreign-travel-advice/colombia/safety-and-security)
 
-[Next
-:
-Health](/foreign-travel-advice/colombia/health)
+[Next:Health](/foreign-travel-advice/colombia/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/colombia/print)

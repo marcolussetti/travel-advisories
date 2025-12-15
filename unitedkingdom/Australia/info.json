@@ -1,11 +1,11 @@
 {
     "name": "Australia",
-    "update_reason": "New information about dual nationals returning to the UK (\u2018Entry requirements\u2019 page).",
+    "update_reason": "Update on shooting in Bondi Beach ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Australia/Warnings and insurance.md",
-            "update_date": "2025-12-10T12:35:46+00:00"
+            "update_date": "2025-12-14T21:35:29+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Australia/Getting help.md"
         }
     ],
-    "update_date": "2025-12-10T12:35:46+00:00"
+    "update_date": "2025-12-14T21:35:29+00:00"
 }

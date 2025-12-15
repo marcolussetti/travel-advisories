@@ -70,12 +70,8 @@ There are strict rules about [goods you can take into or out of Colombia](https:
 
 You can bring up to 10,000 US dollars-worth of any currency into Colombia. You must declare anything above this amount with the [National Tax and Customs Directorate (DIAN)](https://www.dian.gov.co/Viajeros-y-Servicios-aduaneros/Paginas/Inicio.aspx) (in Spanish).
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/colombia)
+[Previous:Warnings and insurance](/foreign-travel-advice/colombia)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/colombia/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/colombia/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/colombia/print)

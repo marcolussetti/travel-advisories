@@ -56,12 +56,8 @@ The Australian authorities X-ray luggage. They inspect, treat and, if necessary,
 
 The Department of Agriculture has [more information on quarantine rules](http://www.agriculture.gov.au/travelling).
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/australia)
+[Previous:Warnings and insurance](/foreign-travel-advice/australia)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/australia/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/australia/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/australia/print)
