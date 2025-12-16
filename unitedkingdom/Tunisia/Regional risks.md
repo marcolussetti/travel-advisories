@@ -37,12 +37,8 @@ In addition, FCDO advises against all but essential travel to within 75km of the
 
 There is a heightened Tunisian security presence at the border with Libya due to cross-border terrorist activity and fighting in Libya. Border crossings are sometimes closed temporarily without notice. Some violent incidents have occurred. See [Libya travel advice](https://www.gov.uk/foreign-travel-advice/libya).
 
-[Previous
-:
-Safety and security](/foreign-travel-advice/tunisia/safety-and-security)
+[Previous:Safety and security](/foreign-travel-advice/tunisia/safety-and-security)
 
-[Next
-:
-Health](/foreign-travel-advice/tunisia/health)
+[Next:Health](/foreign-travel-advice/tunisia/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/tunisia/print)

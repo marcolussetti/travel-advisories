@@ -61,7 +61,7 @@ You may come under suspicion if you go near sensitive sites or contact people wh
 
 The British government will have very limited ability to help you if you get into difficulty in Afghanistan. If you are a British national already resident in Afghanistan, you should carefully consider the risk to your safety.
 
-The political situation remains uncertain and could change rapidly. Keep up to date with developments about the security situation and monitor local media.
+The political situation remains uncertain and could change rapidly. Ongoing tensions between Afghanistan and Pakistan may worsen the security situation. Keep up to date with developments about the security situation and monitor local media.
 
 Do not rely on previous experience of travelling in Afghanistan or previous understanding of rules, laws and society. British nationals with previous experience of operating in Afghanistan have been detained in the country since August 2021.
 
@@ -207,12 +207,8 @@ Afghanistan is in an active earthquake zone. Consider signing up to the [US Geol
 
 Heavy rain and winter snowfall can cause significant floods, particularly outside the capital. Heavy snowfall often causes avalanches in the mountains during the winter and spring. Afghanistan lacks emergency response infrastructure, so be prepared for any situation.
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/afghanistan/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/afghanistan/entry-requirements)
 
-[Next
-:
-Health](/foreign-travel-advice/afghanistan/health)
+[Next:Health](/foreign-travel-advice/afghanistan/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/afghanistan/print)

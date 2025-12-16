@@ -46,12 +46,8 @@ FCDO has a list of [medical facilities in Belarus](https://www.gov.uk/governmen
 
 Read [FCDO guidance on travel and mental health](https://www.gov.uk/guidance/foreign-travel-advice-for-people-with-mental-health-issues). There is also [mental health guidance on TravelHealthPro](https://travelhealthpro.org.uk/factsheet/85/travelling-with-mental-health-conditions).
 
-[Previous
-:
-Safety and security](/foreign-travel-advice/belarus/safety-and-security)
+[Previous:Safety and security](/foreign-travel-advice/belarus/safety-and-security)
 
-[Next
-:
-Getting help](/foreign-travel-advice/belarus/getting-help)
+[Next:Getting help](/foreign-travel-advice/belarus/getting-help)
 
 [View a printable version of the whole guide](/foreign-travel-advice/belarus/print)

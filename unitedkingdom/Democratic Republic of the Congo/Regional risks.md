@@ -70,12 +70,8 @@ FCDO advises against all travel to the province of Kasaï Oriental.
 
 FCDO advises against all but essential travel to the provinces of Kasaï and Kasaï Central.
 
-[Previous
-:
-Safety and security](/foreign-travel-advice/democratic-republic-of-the-congo/safety-and-security)
+[Previous:Safety and security](/foreign-travel-advice/democratic-republic-of-the-congo/safety-and-security)
 
-[Next
-:
-Health](/foreign-travel-advice/democratic-republic-of-the-congo/health)
+[Next:Health](/foreign-travel-advice/democratic-republic-of-the-congo/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/democratic-republic-of-the-congo/print)

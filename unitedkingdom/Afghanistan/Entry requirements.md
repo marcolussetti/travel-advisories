@@ -26,12 +26,8 @@ There are strict rules about goods you can take into or out of Afghanistan. You 
 
 It is illegal to carry more than 5000 US dollars through airports and more than 500 US dollars through land borders in cash. For more information, see [‘Money’ on ‘Safety and security’ page](https://www.gov.uk/foreign-travel-advice/afghanistan/safety-and-security#money).
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/afghanistan)
+[Previous:Warnings and insurance](/foreign-travel-advice/afghanistan)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/afghanistan/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/afghanistan/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/afghanistan/print)

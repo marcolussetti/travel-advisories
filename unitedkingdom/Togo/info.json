@@ -1,11 +1,11 @@
 {
     "name": "Togo",
-    "update_reason": "New information about dual nationals returning to the UK (\u2018Entry requirements\u2019 page).",
+    "update_reason": "FCDO now advises against all travel to within 30km of the border with Burkina Faso except for the city of Dapaong and the N1 highway leading to it from the south and FCDO now advises against all but essential travel to the rest of the Savanes Region (\u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Togo/Warnings and insurance.md",
-            "update_date": "2025-12-10T12:48:30+00:00"
+            "update_date": "2025-12-15T16:47:10+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Togo/Getting help.md"
         }
     ],
-    "update_date": "2025-12-10T12:48:30+00:00"
+    "update_date": "2025-12-15T16:47:10+00:00"
 }

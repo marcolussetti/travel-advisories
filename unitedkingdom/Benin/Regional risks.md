@@ -22,12 +22,8 @@ The authorities sometimes set curfews in northern Benin. Keep up to date with se
 
 FCDO advises against all but essential travel to the area between the Interstate Highway (RNIE) 2 from Tchaourou to Malanville and the Benin-Nigeria border, due to increasing criminality.
 
-[Previous
-:
-Safety and security](/foreign-travel-advice/benin/safety-and-security)
+[Previous:Safety and security](/foreign-travel-advice/benin/safety-and-security)
 
-[Next
-:
-Health](/foreign-travel-advice/benin/health)
+[Next:Health](/foreign-travel-advice/benin/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/benin/print)

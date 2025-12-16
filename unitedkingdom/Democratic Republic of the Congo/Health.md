@@ -22,7 +22,6 @@ At least 8 weeks before your trip:
 
 See [what health risks you’ll face in DRC](https://travelhealthpro.org.uk/country/63/democratic-republic-of-the-congo) including:
 
-* ebola
 * malaria
 * cholera
 * yellow fever
@@ -50,12 +49,8 @@ If you take medication regularly, make sure you bring enough for your time in th
 
 Read [FCDO guidance on travel and mental health](https://www.gov.uk/guidance/foreign-travel-advice-for-people-with-mental-health-issues). There is also [mental health guidance on TravelHealthPro](https://travelhealthpro.org.uk/factsheet/85/travelling-with-mental-health-conditions).
 
-[Previous
-:
-Regional risks](/foreign-travel-advice/democratic-republic-of-the-congo/regional-risks)
+[Previous:Regional risks](/foreign-travel-advice/democratic-republic-of-the-congo/regional-risks)
 
-[Next
-:
-Getting help](/foreign-travel-advice/democratic-republic-of-the-congo/getting-help)
+[Next:Getting help](/foreign-travel-advice/democratic-republic-of-the-congo/getting-help)
 
 [View a printable version of the whole guide](/foreign-travel-advice/democratic-republic-of-the-congo/print)

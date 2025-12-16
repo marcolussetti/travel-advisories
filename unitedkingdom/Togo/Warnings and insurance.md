@@ -1,18 +1,18 @@
 # Warnings and insurance
 
 Still current at:
-:   11 December 2025
+:   16 December 2025
 
 Updated:
-:   10 December 2025
+:   15 December 2025
 
 Latest update:
-:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
+:   FCDO now advises against all travel to within 30km of the border with Burkina Faso except for the city of Dapaong and the N1 highway leading to it from the south and FCDO now advises against all but essential travel to the rest of the Savanes Region (‘Warnings and insurance’ page).
 
-![](https://assets.publishing.service.gov.uk/media/615dd5bc8fa8f52978e14a16/FCDO__TA__041_-_Togo_Travel_Advice_Ed2__WEB_.jpg)
+![](https://assets.publishing.service.gov.uk/media/694038f06a12691d4849200a/FCDO__TA__041_-_Togo_Travel_Advice_Ed4__WEB_.jpg)
 
 
-[Download a more detailed map (PDF, 292 KB)](https://assets.publishing.service.gov.uk/media/615dd5bce90e0719827b8f49/FCDO__TA__041_-_Togo_Travel_Advice_Ed2.pdf)
+[Download a more detailed map (PDF, 718 KB)](https://assets.publishing.service.gov.uk/media/694038f05cc812f50aa42220/FCDO__TA__041_-_Togo_Travel_Advice_Ed4.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth and Development Office (FCDO).
 
@@ -20,7 +20,13 @@ Your travel insurance could be invalidated if you travel against advice from the
 
 ### Togo-Burkina Faso border
 
-FCDO advises against all travel to within 5km of the border with Burkina Faso, due to the security situation in Burkina Faso.
+FCDO advises against all travel to within 30km of the border with Burkina Faso, except for:
+
+* the city of Dapaong and the N1 highway leading to it from the south.
+
+### Savanes Region
+
+FCDO advises against all but essential travel to the rest of the Savanes region.
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/togo/safety-and-security).
 
@@ -52,8 +58,6 @@ Follow FCDO:
 * [travel advice on Facebook](https://www.facebook.com/FCDOTravel/)
 * [Travel Aware on Instagram](https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Ftravelaware%2F&is_from_rle)
 
-[Next
-:
-Entry requirements](/foreign-travel-advice/togo/entry-requirements)
+[Next:Entry requirements](/foreign-travel-advice/togo/entry-requirements)
 
 [View a printable version of the whole guide](/foreign-travel-advice/togo/print)

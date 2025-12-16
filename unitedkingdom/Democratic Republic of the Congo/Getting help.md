@@ -57,8 +57,6 @@ Follow FCDO:
 * [travel advice on X](https://x.com/fcdotravelgovuk)
 * [travel advice on Facebook](https://www.facebook.com/FCDOTravel/)
 
-[Previous
-:
-Health](/foreign-travel-advice/democratic-republic-of-the-congo/health)
+[Previous:Health](/foreign-travel-advice/democratic-republic-of-the-congo/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/democratic-republic-of-the-congo/print)

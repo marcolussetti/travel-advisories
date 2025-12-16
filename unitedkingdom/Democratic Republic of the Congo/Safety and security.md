@@ -187,12 +187,8 @@ Earthquakes are a risk in DRC, but they are infrequent. The US Federal Emergency
 
 Mount Nyiragongo volcano, close to the city of Goma and near the border with Rwanda, erupted in 2002 and 2021, resulting in loss of lives and damage to infrastructure in and around Goma. Further volcanic activity is possible at any time.
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/democratic-republic-of-the-congo/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/democratic-republic-of-the-congo/entry-requirements)
 
-[Next
-:
-Regional risks](/foreign-travel-advice/democratic-republic-of-the-congo/regional-risks)
+[Next:Regional risks](/foreign-travel-advice/democratic-republic-of-the-congo/regional-risks)
 
 [View a printable version of the whole guide](/foreign-travel-advice/democratic-republic-of-the-congo/print)

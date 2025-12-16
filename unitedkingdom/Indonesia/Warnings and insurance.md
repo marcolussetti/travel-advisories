@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   13 December 2025
+:   16 December 2025
 
 Updated:
-:   12 December 2025
+:   15 December 2025
 
 Latest update:
-:   Removal of information about an explosion at a school in North Jakarta on 7 November 2025.
+:   Additional information regarding the risks of flooding, storms and tsunamis following Cyclone Ditwah ('Safety and security' page).
 
 ![](https://assets.publishing.service.gov.uk/media/6745db6083f3d6d843be9719/FCDO__TA__020_-_Indonesia_Travel_Advice_Ed9__WEB_.jpg)
 

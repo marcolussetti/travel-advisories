@@ -122,12 +122,8 @@ Driving standards in Togo are poor and add to the risk of accidents. Public tran
 
 There have been incidents of piracy and armed robbery against large vessels in Togolese waters and those of neighbouring countries. Mariners should take appropriate precautions. If you’re travelling by sea, [read about the regional risks at sea](https://www.gov.uk/guidance/sea-river-and-piracy-safety).
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/togo/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/togo/entry-requirements)
 
-[Next
-:
-Health](/foreign-travel-advice/togo/health)
+[Next:Health](/foreign-travel-advice/togo/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/togo/print)

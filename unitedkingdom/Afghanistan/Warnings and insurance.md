@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   11 December 2025
+:   16 December 2025
 
 Updated:
-:   10 December 2025
+:   15 December 2025
 
 Latest update:
-:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
+:   Updated information on recent regional tension (‘Warnings and insurance’ and ‘Safety and security’ pages).
 
 ![](https://assets.publishing.service.gov.uk/media/66447989993111924d9d348d/FCDO__TA__001_-_Afghanistan_Travel_Advice_Ed3__WEB_.jpg)
 
@@ -18,7 +18,7 @@ Your travel insurance could be invalidated if you travel against advice from the
 
 ## FCDO advises against all travel to Afghanistan
 
-You should not travel to Afghanistan. The security situation is volatile. Travel throughout Afghanistan is extremely dangerous and border crossings may not be open.
+You should not travel to Afghanistan. The security situation is volatile and tensions between Afghanistan and Pakistan have previously resulted in violent clashes in border regions. Travel throughout Afghanistan is extremely dangerous and a number of border crossings are not currently open.
 
 There is a heightened risk of British nationals being detained in Afghanistan. If you are a British national and you are detained in Afghanistan, you could face months or years of imprisonment. FCDO’s ability to help you is extremely limited and support in person is not possible in Afghanistan.
 

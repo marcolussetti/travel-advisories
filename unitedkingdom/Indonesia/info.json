@@ -1,11 +1,11 @@
 {
     "name": "Indonesia",
-    "update_reason": "Removal of information about an explosion at a school in North Jakarta on 7 November 2025.",
+    "update_reason": "Additional information regarding the risks of flooding, storms and tsunamis following Cyclone Ditwah ('Safety and security' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Indonesia/Warnings and insurance.md",
-            "update_date": "2025-12-12T14:45:59+00:00"
+            "update_date": "2025-12-15T14:30:16+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Indonesia/Getting help.md"
         }
     ],
-    "update_date": "2025-12-12T14:45:59+00:00"
+    "update_date": "2025-12-15T14:30:16+00:00"
 }

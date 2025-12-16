@@ -16,12 +16,8 @@ FCDO can only provide limited consular support if you are visiting areas in the 
 
 The Republic of Cyprus does not recognise residence permits issued in the north of Cyprus.
 
-[Previous
-:
-Safety and security](/foreign-travel-advice/cyprus/safety-and-security)
+[Previous:Safety and security](/foreign-travel-advice/cyprus/safety-and-security)
 
-[Next
-:
-Health](/foreign-travel-advice/cyprus/health)
+[Next:Health](/foreign-travel-advice/cyprus/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/cyprus/print)

@@ -61,12 +61,8 @@ You may have difficulties when entering DRC if you are travelling with:
 * GPS receivers
 * military clothing
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/democratic-republic-of-the-congo)
+[Previous:Warnings and insurance](/foreign-travel-advice/democratic-republic-of-the-congo)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/democratic-republic-of-the-congo/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/democratic-republic-of-the-congo/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/democratic-republic-of-the-congo/print)

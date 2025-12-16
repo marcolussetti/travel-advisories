@@ -42,12 +42,8 @@ To enter Togo, you must have a certificate to prove you’ve had a yellow fever 
 
 For full details about medical entry requirements and recommended vaccines, see [TravelHealthPro’s Togo guide](https://travelhealthpro.org.uk/country/222/togo#Vaccine_Recommendations).
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/togo)
+[Previous:Warnings and insurance](/foreign-travel-advice/togo)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/togo/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/togo/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/togo/print)

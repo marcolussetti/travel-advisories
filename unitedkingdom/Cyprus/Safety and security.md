@@ -155,12 +155,8 @@ Get more [information on wildfires from the Department of Forests website](http
 
 Cyprus experiences earthquakes and tremors. Make sure you know safety procedures and follow advice given by the local authorities.
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/cyprus/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/cyprus/entry-requirements)
 
-[Next
-:
-Regional risks](/foreign-travel-advice/cyprus/regional-risks)
+[Next:Regional risks](/foreign-travel-advice/cyprus/regional-risks)
 
 [View a printable version of the whole guide](/foreign-travel-advice/cyprus/print)

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   11 December 2025
+:   16 December 2025
 
 Updated:
-:   10 December 2025
+:   15 December 2025
 
 Latest update:
-:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
+:   This travel advice has been reviewed for accuracy with edits made throughout, including new information about hotel tax and damaged or torn passports, updated information about taking money into and out of Tunisia, and drugs and illegal substances ('Entry requirements' and 'Safety and security' pages).
 
 ![](https://assets.publishing.service.gov.uk/media/687faf22fdc190fb6b8468e3/FCDO__TA__042_-_Tunisia_Travel_Advice_Ed5__WEB___1_.jpg)
 
@@ -82,8 +82,6 @@ Follow FCDO:
 * [travel advice on Facebook](https://www.facebook.com/FCDOTravel/)
 * [Travel Aware on Instagram](https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Ftravelaware%2F&is_from_rle)
 
-[Next
-:
-Entry requirements](/foreign-travel-advice/tunisia/entry-requirements)
+[Next:Entry requirements](/foreign-travel-advice/tunisia/entry-requirements)
 
 [View a printable version of the whole guide](/foreign-travel-advice/tunisia/print)

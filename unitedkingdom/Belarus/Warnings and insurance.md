@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   11 December 2025
+:   16 December 2025
 
 Updated:
-:   10 December 2025
+:   15 December 2025
 
 Latest update:
-:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
+:   Updated information on Belarus-Poland and Belarus-Lithuania borders ('Safety and security' page).
 
 ![](https://assets.publishing.service.gov.uk/media/621a51bb8fa8f54916f45f67/FCDO_TA_057_-_Belarus_Travel_Advice_Ed2_WEB.jpg)
 
@@ -48,8 +48,6 @@ Follow FCDO:
 * [travel advice on Facebook](https://www.facebook.com/FCDOTravel/)
 * [Travel Aware on Instagram](https://www.instagram.com/travelaware/)
 
-[Next
-:
-Entry requirements](/foreign-travel-advice/belarus/entry-requirements)
+[Next:Entry requirements](/foreign-travel-advice/belarus/entry-requirements)
 
 [View a printable version of the whole guide](/foreign-travel-advice/belarus/print)

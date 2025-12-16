@@ -89,12 +89,8 @@ Seismic activity and tremors can be felt occasionally, mostly on the islands of 
 
 Sandstorms (‘bruma seca’) can happen between December and February. When intense, they can disrupt air travel, especially on the island of Boa Vista. If a sandstorm happens while you’re on one of the islands, contact your tour operator or airline.
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/cape-verde/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/cape-verde/entry-requirements)
 
-[Next
-:
-Health](/foreign-travel-advice/cape-verde/health)
+[Next:Health](/foreign-travel-advice/cape-verde/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/cape-verde/print)

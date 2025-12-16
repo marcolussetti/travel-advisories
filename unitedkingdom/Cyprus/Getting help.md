@@ -55,8 +55,6 @@ Follow FCDO:
 * [travel advice on X](https://x.com/fcdotravelgovuk)
 * [travel advice on Facebook](https://www.facebook.com/FCDOTravel/)
 
-[Previous
-:
-Health](/foreign-travel-advice/cyprus/health)
+[Previous:Health](/foreign-travel-advice/cyprus/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/cyprus/print)

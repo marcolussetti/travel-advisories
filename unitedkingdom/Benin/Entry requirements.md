@@ -40,12 +40,8 @@ For more details about health entry requirements and recommended vaccinations, s
 
 There are strict rules about [goods you can take into or out of Benin](https://douanes.gouv.bj) (in French). You must declare anything that may be prohibited or subject to tax or duty.
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/benin)
+[Previous:Warnings and insurance](/foreign-travel-advice/benin)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/benin/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/benin/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/benin/print)

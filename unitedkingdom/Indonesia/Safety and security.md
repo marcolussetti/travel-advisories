@@ -192,6 +192,8 @@ Mariners should be vigilant, set up secure areas on board and report all inciden
 
 ## Extreme weather and natural disasters
 
+Indonesia regularly experiences natural disasters such as severe weather, floods, landslides, volcanic eruptions, earthquakes and tsunamis.
+
 Find out what you can do to [prepare for and respond to extreme weather and natural hazards](https://www.gov.uk/guidance/tropical-cyclones).
 
 ### Volcanic eruptions
@@ -226,21 +228,27 @@ If you have any pre-existing respiratory conditions, such as asthma, you might b
 
 ### Flooding
 
-The rainy season runs from September to January or February.
+The rainy season usually runs from October to March. The wet season can be different in Eastern Indonesia, which usually runs from April to August.
 
-Flash floods and widespread flooding can occur across Indonesia. Cities, especially Jakarta, can suffer severe localised flooding resulting in major traffic congestion and power outages. The main toll road to Soekarno-Hatta International Airport and other major roads in Jakarta can be affected by flooding. There are landslides in mountainous and remote areas, but also in some urban areas.
+Flash floods and widespread flooding can occur across Indonesia, damaging infrastructure, and causing injury and loss of life. There are landslides in mountainous and remote areas, but also in some urban areas/cities, especially Jakarta, and the island of Bali, can suffer severe localised flooding resulting in major traffic congestion and power outages. The main toll road to Soekarno-Hatta International Airport and other major roads in Jakarta can be affected by flooding.
+
+Follow and monitor local and international weather updates. [BMKG - Meteorology, Climatology, and Geophysics Agency](https://www.bmkg.go.id/) can be translated into English.
 
 ### Earthquakes and tsunamis
 
-Earthquakes happen regularly. If a major earthquake or landslide occurs close to shore, follow the instructions of local authorities, bearing in mind that a tsunami could arrive within minutes. The [Indonesia Tsunami Early Warning Centre](http://rtsp.bmkg.go.id/publicbull.php) issues warnings when a potential tsunami with significant impact is imminent or expected.
+Earthquakes happen regularly. If a major earthquake or landslide occurs close to shore, follow the instructions of local authorities, bearing in mind that a tsunami could arrive within minutes. The [Indonesia Tsunami Early Warning Centre](http://rtsp.bmkg.go.id/publicbull.php) issues warnings when a potential tsunami with significant impact is imminent or expected. You can also use the BMKG Multi-Hazard Early Warning System app.
 
-The US Federal Emergency Management Agency has advice about what to do before, during and after an [earthquake](http://www.ready.gov/earthquakes) or [tsunami](http://www.ready.gov/tsunamis).
+The US Federal Emergency Management Agency has advice about what to do before, during and after an [earthquake](http://www.ready.gov/earthquakes) or [tsunami](http://www.ready.gov/tsunamis).
 
 ### Wildfires
 
-Wildfires in Indonesia’s forests are most severe during the dry season, from May to November. Many fires burn all year in the peat-rich soil.
+Wildfires in Indonesia’s forests are most severe during the dry season, usually from April to September. Many fires burn all year in the peat-rich soil.
 
-The fires, mostly on Sumatra and Borneo, generate a widespread haze that affects air quality throughout the country. See [Health](/foreign-travel-advice/indonesia/health).
+The fires, mostly on Sumatra and Borneo, generate a widespread haze that affects air quality throughout the country.
+
+Keep up to date with local information and seek medical advice on precautions. See [Health](https://www.gov.uk/foreign-travel-advice/indonesia/health).
+
+More information is available from the [ASEAN Regional Haze Situation](http://asmc.asean.org/home/).
 
 ## Outdoor activities and adventure tourism
 

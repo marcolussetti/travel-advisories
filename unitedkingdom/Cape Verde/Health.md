@@ -20,7 +20,12 @@ At least 8 weeks before your trip:
 * check the current [vaccine recommendations for Cape Verde](https://travelhealthpro.org.uk/country/43/cape-verde#Vaccine_Recommendations)
 * see where to get vaccines and whether you have to pay on [the NHS travel vaccinations page](https://www.nhs.uk/conditions/travel-vaccinations/)
 
-See [what health risks you’ll face on Cape Verde](https://travelhealthpro.org.uk/country/43/cape-verde) including dengue. The Cape Verde government has raised the civil protection warning level for dengue on the islands of Santiago, Fogo and Brava.
+See [what health risks you’ll face on Cape Verde](https://travelhealthpro.org.uk/country/43/cape-verde), including:
+
+* shigella sonnei
+* dengue
+
+The Cape Verde government has raised the civil protection warning level for dengue on the islands of Santiago, Fogo and Brava.
 
 Altitude sickness is a risk on the island of Fogo in Cape Verde. Read more about [altitude sickness on TravelHealthPro](https://travelhealthpro.org.uk/factsheet/26/altitude-illness).
 
@@ -48,12 +53,8 @@ FCDO has a [list of medical providers in Cape Verde](https://www.gov.uk/governme
 
 Read [FCDO guidance on travel and mental health](https://www.gov.uk/guidance/foreign-travel-advice-for-people-with-mental-health-issues). There is also [mental health guidance on TravelHealthPro](https://travelhealthpro.org.uk/factsheet/85/travelling-with-mental-health-conditions).
 
-[Previous
-:
-Safety and security](/foreign-travel-advice/cape-verde/safety-and-security)
+[Previous:Safety and security](/foreign-travel-advice/cape-verde/safety-and-security)
 
-[Next
-:
-Getting help](/foreign-travel-advice/cape-verde/getting-help)
+[Next:Getting help](/foreign-travel-advice/cape-verde/getting-help)
 
 [View a printable version of the whole guide](/foreign-travel-advice/cape-verde/print)

@@ -20,7 +20,7 @@ Children aged 15 and under who do not have a Belarusian passport but have a pare
 
 ## Visa requirements
 
-The Belarusian authorities have announced that from 19 July 2024 until 31 December 2025 all British nationals (except those entering on a diplomatic or official passport) can enter Belarus for up to 30 days without a visa, limited to a total of 90 days per calendar year.
+The Belarusian authorities have announced that until 31 December 2026 all British nationals (except those entering on a diplomatic or official passport) can enter Belarus for up to 30 days without a visa, limited to a total of 90 days per calendar year.
 
 If you want to stay longer than 30 days during a visit, or for a total period exceeding 90 days per calendar year, you must have a visa. You can find more information from the [Embassy of Belarus in the UK](https://uk.mfa.gov.by/en/embassy/address/).
 
@@ -69,12 +69,8 @@ You are not allowed to take more currency out of Belarus than you declared when 
 
 If you want to import goods or services for charitable purposes, consult the [Embassy of Belarus in the UK](https://uk.mfa.gov.by/en/embassy/address/) for advice about local procedures and tariffs. If you think your goods will be exempt from Belarusian taxation, get written confirmation from the embassy.
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/belarus)
+[Previous:Warnings and insurance](/foreign-travel-advice/belarus)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/belarus/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/belarus/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/belarus/print)

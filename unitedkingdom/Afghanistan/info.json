@@ -1,11 +1,11 @@
 {
     "name": "Afghanistan",
-    "update_reason": "New information about dual nationals returning to the UK (\u2018Entry requirements\u2019 page).",
+    "update_reason": "Updated information on recent regional tension (\u2018Warnings and insurance\u2019 and \u2018Safety and security\u2019 pages).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Afghanistan/Warnings and insurance.md",
-            "update_date": "2025-12-10T12:32:23+00:00"
+            "update_date": "2025-12-15T10:52:24+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Afghanistan/Getting help.md"
         }
     ],
-    "update_date": "2025-12-10T12:32:23+00:00"
+    "update_date": "2025-12-15T10:52:24+00:00"
 }

@@ -1,11 +1,11 @@
 {
     "name": "Belarus",
-    "update_reason": "New information about dual nationals returning to the UK (\u2018Entry requirements\u2019 page).",
+    "update_reason": "Updated information on Belarus-Poland and Belarus-Lithuania borders ('Safety and security' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Belarus/Warnings and insurance.md",
-            "update_date": "2025-12-10T13:04:55+00:00"
+            "update_date": "2025-12-15T12:16:53+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Belarus/Getting help.md"
         }
     ],
-    "update_date": "2025-12-10T13:04:55+00:00"
+    "update_date": "2025-12-15T12:16:53+00:00"
 }

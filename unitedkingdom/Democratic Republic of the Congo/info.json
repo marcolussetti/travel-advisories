@@ -1,11 +1,11 @@
 {
     "name": "Democratic Republic of the Congo",
-    "update_reason": "New information about dual nationals returning to the UK (\u2018Entry requirements\u2019 page).",
+    "update_reason": "Removal of Ebola from the list of health risks you may face in the Democratic Republic of Congo (\u2019Health\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Democratic Republic of the Congo/Warnings and insurance.md",
-            "update_date": "2025-12-10T13:17:04+00:00"
+            "update_date": "2025-12-15T12:08:30+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Democratic Republic of the Congo/Getting help.md"
         }
     ],
-    "update_date": "2025-12-10T13:17:04+00:00"
+    "update_date": "2025-12-15T12:08:30+00:00"
 }

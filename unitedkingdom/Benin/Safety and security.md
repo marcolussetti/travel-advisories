@@ -114,12 +114,8 @@ There’s no reliable public transport in Benin. Avoid using taxis and long-dist
 
 Piracy is a risk in the Gulf of Guinea, including in ports across the region. Take precautions to avoid [piracy and armed robbery at sea](https://www.gov.uk/guidance/sea-river-and-piracy-safety).
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/benin/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/benin/entry-requirements)
 
-[Next
-:
-Regional risks](/foreign-travel-advice/benin/regional-risks)
+[Next:Regional risks](/foreign-travel-advice/benin/regional-risks)
 
 [View a printable version of the whole guide](/foreign-travel-advice/benin/print)

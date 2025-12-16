@@ -43,7 +43,7 @@ Recent significant attacks include:
 
 In response to the current situation in Israel and Palestine, peaceful demonstrations have occurred in some Tunisian cities, including outside some western embassies.
 
-Demonstrations and protests are common and may start with little or no warning. They can sometimes become violent. Demonstrations and protests tend to be at weekends and on prominent national dates (which may include 14 January and 17 December). They usually take place in central areas of Tunis and other major cities, and may focus on government buildings.
+Demonstrations and protests happen occasionally and may start with little or no warning. Although rare, they can sometimes become violent. Demonstrations and protests tend to be at weekends and on prominent national dates (which may include 14 January and 17 December). They usually take place in central areas of Tunis and other major cities, and may focus on government buildings.
 
 Labour strikes and industrial action can cause disruption to public transport, airports, seaports and road networks. Land border crossings may have delays or temporary closures.
 
@@ -76,7 +76,7 @@ As a foreign national, you must carry ID, such as a copy of the photo page of yo
 
 ### Dress code
 
-Beach-appropriate clothing in holiday resorts is normal, but revealing clothing may cause offence if you are visiting religious sites or remote areas. Clothing that covers shoulders and down to the knee is more appropriate.
+Beach-appropriate clothing in holiday resorts is acceptable, however when visiting religious sites or remote areas of the country, local custom is to dress modestly.
 
 ### Ramadan
 
@@ -94,9 +94,9 @@ Get more advice when you arrive from your tour guide, hotel or business contacts
 
 The sale of alcohol is permitted in Tunisia but is banned from sale in supermarkets on Fridays. You can still order and drink alcohol in hotels and bars. During Ramadan, sale of alcohol is banned and the consumption of alcohol is restricted to fewer restaurants and bars. These rules do not apply at holiday resorts.
 
-### Illegal drugs and prison sentences
+### Drugs and illegal substances
 
-Possession, use and trafficking of controlled drugs are all serious criminal offences. If you are found with even a small amount of drugs, you could get a prison sentence.
+It is illegal to bring any controlled or prohibited substances into Tunisia. Travellers found in possession of illegal drugs can face severe penalties, including lengthy prison sentences and heavy fines. We strongly advise against carrying any such substances into the country.
 
 ### Using cameras in secure areas
 
@@ -156,12 +156,8 @@ You may come across military or police security checkpoints. Approach slowly and
 
 Rail travel is generally safe, although safety standards tend to be lower than in the UK. There is a risk of petty crime on trains.
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/tunisia/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/tunisia/entry-requirements)
 
-[Next
-:
-Regional risks](/foreign-travel-advice/tunisia/regional-risks)
+[Next:Regional risks](/foreign-travel-advice/tunisia/regional-risks)
 
 [View a printable version of the whole guide](/foreign-travel-advice/tunisia/print)

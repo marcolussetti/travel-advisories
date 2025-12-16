@@ -94,15 +94,13 @@ British nationals cannot currently cross the Belarus-Ukraine border. If you trav
 
 ### Belarus-Poland border
 
-The border with Poland reopened on 25 September 2025 following a decision by Polish authorities. Only the Brest-Terespol border point is open for passenger crossing. The Polish-Belarusian bilateral relationship remains unstable and the border could be closed again at short notice. Check the latest information on the [Polish State Border Guard website](https://granica.gov.pl/przejscia.php?v=en).
+The border with Poland reopened on 25 September 2025.Open border crossings are Brest-Terespol Kuznica Bialostocka – Bruzhi (passenger vehicles only) and Bobrovniki – Bierastavitsa (passenger vehicles and freight). Political relations between Belarus and Poland remain unstable and the border could be closed again at short notice. Check the latest information on the [Polish State Border Guard website](https://granica.gov.pl/przejscia.php?v=en).
 
 ### Belarus-Lithuania border
 
-On 29 October 2025, Lithuania announced the closure of its border with Belarus until at least 30 November 2025. However, UK nationals are exempt and can continue to cross the border. For further information on these restrictions, see the [Lithuanian Government website](https://vrm.lrv.lt/en/news/lithuanian-government-have-decided-to-close-salcininkai-and-medininkai-border-checkpoints-with-belarus-for-one-month-4zSU/) (only available in Lithuanian).
+On 20 November 2025, Lithuania reopened two border crossings with Belarus: Medininkai – Kamenny Log and Salcininkai – Benyakoni. Political relations between Belarus and Lithuania remain unstable and the border could be closed again at short notice. Check the latest information on  the [Lithuanian Government website](https://vrm.lrv.lt/en/news/lithuanian-government-have-decided-to-close-salcininkai-and-medininkai-border-checkpoints-with-belarus-for-one-month-4zSU/) (only available in Lithuanian).
 
-Only one border crossing point between Lithuania and Belarus remains open: Medininkai-Kamenny Log. Crossing the border is only possible by private vehicle; scheduled buses are currently not operating across the Belarusian-Lithuanian border.
-
-Lithuania also denies entry to cars registered in Belarus, with certain exemptions. For further information on these restrictions, see [the Lithuanian Government website](https://muitine.lrv.lt/lt/naujienos/lengvuju-automobiliu-su-baltarusiskais-registracijos-numeriais-ivaziavimas-i-lietuva/) (only available in Lithuanian).
+Lithuania denies entry to cars registered in Belarus, with certain exemptions. For further information on these restrictions, see [the Lithuanian Government website](https://muitine.lrv.lt/lt/naujienos/lengvuju-automobiliu-su-baltarusiskais-registracijos-numeriais-ivaziavimas-i-lietuva/) (only available in Lithuanian).
 
 ### Latvian border
 
@@ -200,12 +198,8 @@ You cannot exchange Belarusian roubles into other currencies outside Belarus.
 
 If you’re travelling to Belarus, speak to your UK bank before you go. Because of sanctions against Belarus, your bank may block your card if you use it in Belarus.
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/belarus/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/belarus/entry-requirements)
 
-[Next
-:
-Health](/foreign-travel-advice/belarus/health)
+[Next:Health](/foreign-travel-advice/belarus/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/belarus/print)

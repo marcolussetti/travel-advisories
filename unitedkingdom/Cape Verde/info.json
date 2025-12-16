@@ -1,11 +1,11 @@
 {
     "name": "Cape Verde",
-    "update_reason": "New information about dual nationals returning to the UK (\u2018Entry requirements\u2019 page).",
+    "update_reason": "New information about what health risk you may face in Cape Verde, including Shigella sonnei (\u2018Warnings and insurance\u2019 and \u2018Health\u2019 pages).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Cape Verde/Warnings and insurance.md",
-            "update_date": "2025-12-10T13:17:33+00:00"
+            "update_date": "2025-12-15T11:43:20+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Cape Verde/Getting help.md"
         }
     ],
-    "update_date": "2025-12-10T13:17:33+00:00"
+    "update_date": "2025-12-15T11:43:20+00:00"
 }

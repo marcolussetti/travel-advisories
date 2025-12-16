@@ -97,12 +97,8 @@ There are [controls on quantities and types of goods](https://www.mof.gov.cy/mof
 
 For example, the Republic of Cyprus enforces a 40-cigarette per person limit. The authorities can confiscate goods at the checkpoint and you could be fined.
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/cyprus)
+[Previous:Warnings and insurance](/foreign-travel-advice/cyprus)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/cyprus/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/cyprus/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/cyprus/print)

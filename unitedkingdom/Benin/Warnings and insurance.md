@@ -1,18 +1,18 @@
 # Warnings and insurance
 
 Still current at:
-:   11 December 2025
+:   16 December 2025
 
 Updated:
-:   10 December 2025
+:   15 December 2025
 
 Latest update:
-:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
+:   FCDO now advises against all but essential travel to the remaining areas of the Alibori and Atacora departments. FCDO continues to advise against all but essential travel and all travel to other areas in Benin (‘Warnings and insurance’ page).
 
-![](https://assets.publishing.service.gov.uk/media/615dd0a28fa8f52986e61c0f/FCDO__TA__051_-_Benin_Travel_Advice_Ed1__WEB_.jpg)
+![](https://assets.publishing.service.gov.uk/media/69403ab8adb5707d9f33d7ce/FCDO__TA__051_-_Benin_Travel_Advice_Ed2__WEB_.jpg)
 
 
-[Download a more detailed map (PDF, 350 KB)](https://assets.publishing.service.gov.uk/media/615dd0658fa8f5297eda665a/FCDO__TA__051_-_Benin_Travel_Advice_Ed1.pdf)
+[Download a more detailed map (PDF, 756 KB)](https://assets.publishing.service.gov.uk/media/69403ab8adb5707d9f33d7cf/FCDO__TA__051_-_Benin_Travel_Advice_Ed2.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth and Development Office (FCDO).
 
@@ -31,6 +31,10 @@ FCDO also advises against all travel to:
 ### Eastern Benin
 
 FCDO advises against all but essential travel to the area between the Interstate Highway (RNIE) 2 from Tchaourou to Malanville and the Benin-Nigeria border, due to increasing criminality.
+
+### Alibori and Atacora
+
+FCDO advises against all but essential travel to the rest of the Alibori and Atacora departments.
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/benin/regional-risks).
 
@@ -62,8 +66,6 @@ Follow FCDO:
 * [travel advice on Facebook](https://www.facebook.com/FCDOTravel/)
 * [Travel Aware on Instagram](https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Ftravelaware%2F&is_from_rle)
 
-[Next
-:
-Entry requirements](/foreign-travel-advice/benin/entry-requirements)
+[Next:Entry requirements](/foreign-travel-advice/benin/entry-requirements)
 
 [View a printable version of the whole guide](/foreign-travel-advice/benin/print)

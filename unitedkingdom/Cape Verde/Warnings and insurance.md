@@ -1,13 +1,17 @@
 # Warnings and insurance
 
 Still current at:
-:   11 December 2025
+:   16 December 2025
 
 Updated:
-:   10 December 2025
+:   15 December 2025
 
 Latest update:
-:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
+:   New information about what health risk you may face in Cape Verde, including Shigella sonnei (‘Warnings and insurance’ and ‘Health’ pages).
+
+## Shigella sonnei in Cape Verde
+
+The UK Health Security Agency is investigating an increase in reports of [Shigella sonnei](https://travelhealthpro.org.uk/news/876/shigella-cases-reported-in-travellers-returning-from-cape-verde) infection in travellers returning from Cape Verde. [See information about health risks](https://www.gov.uk/foreign-travel-advice/cape-verde/health).
 
 ## Before you travel
 
@@ -39,8 +43,6 @@ Follow FCDO:
 * [travel advice on Facebook](https://www.facebook.com/FCDOTravel/)
 * [Travel Aware on Instagram](https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Ftravelaware%2F&is_from_rle)
 
-[Next
-:
-Entry requirements](/foreign-travel-advice/cape-verde/entry-requirements)
+[Next:Entry requirements](/foreign-travel-advice/cape-verde/entry-requirements)
 
 [View a printable version of the whole guide](/foreign-travel-advice/cape-verde/print)
