@@ -47,7 +47,7 @@ Business visa: required 
 Student visa: required   
 Working visa: required
 
-Ensure that you apply for the proper type of visa for the specific purpose of your trip.
+Ensure that you apply for the proper type of visa for the specific purpose of your trip. Canadians are not eligible for China’s 15-day short-stay visa waiver program, but you may qualify for other visa-free entry programs such as the 240-hour transit program available at select ports of entry or the 30-day visa-free entry for travel to Hainan province.
 
 Thoroughly review all information available regarding the visa-issuance process.
 

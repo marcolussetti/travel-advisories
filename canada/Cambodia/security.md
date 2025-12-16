@@ -4,16 +4,12 @@
 
 ### Tensions along the Cambodia-Thailand border
 
-Tensions have increased along the Cambodia-Thailand border since an exchange of fire on May 28, 2025.
+Armed conflict resumed along the Cambodia-Thailand border on December 7, 2025. Stemming from a longstanding border dispute, the conflict has expanded and intensified since December 9. There have been military and civilian casualties. The security situation remains volatile and unpredictable. Civilian evacuations are ongoing from several areas along the border.
 
-Thai and Cambodian authorities reached a ceasefire agreement on July 28, 2025, after five consecutive days of armed conflict along the border, with multiple casualties on both sides. The security environment remains volatile at the border due to a longstanding border dispute in the region.
-
-Land mines are present in the disputed border regions. Land border crossings between Cambodia and Thailand may be closed or have their hours of operation changed unexpectedly.
-
-Cross at designated border crossing points only, with the required travel documentation.
+Land mines are present in the disputed border regions. Land border crossings between Cambodia and Thailand are currently closed.
 
 * Expect an increased military presence and vigilance
-* Follow the instructions of local authorities
+* Follow the instructions of local authorities, including evacuation orders
 * Exercise increased caution if you are travelling to any Cambodia-Thailand border areas
 
 ### Landmines
@@ -229,6 +225,6 @@ Pirate attacks and armed robbery against ships occur in coastal waters. Mariners
 
 ### Air travel
 
-We do not make assessments on the compliance of foreign domestic airlines with international safety standards.
+We don't make assessments on the compliance of foreign domestic airlines with international safety standards.
 
 [Information about foreign domestic airlines](https://travel.gc.ca/air/in-flight-safety#other)

@@ -16,7 +16,7 @@ The situation in the region is tense and accurate information is hard to obtain.
 
 ### Tibet and Tibetan autonomous prefectures
 
-You must obtain a permit and be taking part in an organized tour to travel to Tibet. Chinese authorities occasionally suspend issuing permits to foreigners and can arbitrarily deny tourist entry to certain districts and communes of the Tibetan autonomous prefectures in Sichuan and Qinghai, despite not having proactively published notification of these changes. If you enter a restricted area without the requisite permit, you could be fined, taken into custody, and deported for illegal entry.  Local authorities may also impose curfews and travel restrictions on short notice, even if you have a permit.
+You must obtain a permit and be taking part in an organized tour to travel to Tibet. Chinese authorities occasionally suspend issuing permits to foreigners and can arbitrarily deny tourist entry to certain districts and communes of the Tibetan autonomous prefectures in Sichuan and Qinghai, despite not having proactively published notification of these changes. If you enter a restricted area without the requisite permit, you could be fined, taken into custody, and deported for illegal entry. Local authorities may also impose curfews and travel restrictions on short notice, even if you have a permit.
 
 Where possible, make full payment for travel conditional upon a travel permit being secured while noting that changes in Tibet's security situation can affect travel and related government policies at any time.
 
@@ -58,10 +58,6 @@ Petty crime and sexual harassment can occur on buses and overnight trains.
 
 Serious crime against foreigners is relatively rare, but incidents do occur.
 
-There is a risk of armed bandit attacks in remote parts of China.
-
-Police presence may be poor around border areas.
-
 ### Fraud
 
 Credit card and ATM fraud occurs. Be cautious when using debit or credit cards:
@@ -72,17 +68,13 @@ Credit card and ATM fraud occurs. Be cautious when using debit or credit cards:
 * cover the keypad with one hand when entering your PIN
 * check for any unauthorized transactions on your account statements
 
-#### Counterfeit currency
-
-Counterfeit currency is a significant problem in China. Counterfeit bills are widely distributed in local stores, restaurants and taxis. If you use cash, avoid moneychangers on the street and use small bills or exact change.
-
 #### Scams
 
 Exercise caution in popular tourist areas (particularly in Beijing's Tiananmen Square and Shanghai's the Bund, East Nanjing Road and People's Square), where scammers target foreigners.
 
 Scammers may invite you to a nearby establishment for a drink (usually tea or alcohol), a massage or other services. They will then ask you to pay an exorbitant bill (up to thousands of dollars), sometimes under threat of injury. In some cases, foreigners were harmed.
 
-Be cautious of unsolicited requests from strangers to “practice English” or to accompany them to an art gallery, teahouse or an unknown location.
+Be cautious of unsolicited requests from strangers to "practice English" or to accompany them to an art gallery, teahouse or an unknown location.
 
 If you've been scammed:
 
@@ -153,22 +145,21 @@ Be cautious when crossing streets, as drivers don't always give pedestrians and 
 
 China has an extensive passenger train system, including high-speed trains. You must present a passport to purchase a ticket and to board the train.
 
-#### Taxis
+#### Taxis and ride-hailing services
 
-Taxis are available in major cities and are easier to obtain at hotels or taxi stands. Self-drive (rental), chauffeur-driven cars and ride-sharing services are also available in major cities.
+Taxis and ride-hailing services are widely available in major cities. Many residents rely on ride-hailing apps, some of which allow foreign visitors to book rides using international credit cards and foreign mobile numbers. Availability and functionality may vary by city.
 
-Most taxi drivers don't speak English nor French and will sometimes avoid picking up foreigners to avoid the inconvenience of clients who don't speak Chinese. You should arrange for a person to write out your destination in Chinese characters before you go.
+Most drivers don't speak English nor French. Before you travel, have your destination and the name and address of your hotel written in Chinese characters.
 
 Taxi, motorcycle and pedicab drivers sometimes overcharge clients, especially at airports. They may also attempt to give you counterfeit currency.
 
-To minimize the risk of being overcharged:
+To reduce your risk of inconvenience or fraud:
 
-* use only reputable taxis
-* avoid unlicensed “black taxis”
-* do not agree to multiple passengers
-* negotiate fares before entering the taxi, and/or request that the taxi driver use the meter
-* request that the driver provides you with a receipt or “fapiao”
-* request that the driver removes your luggage from the trunk before paying the fare
+* use only licensed taxis or rides booked through reputable ride-hailing apps
+* avoid unmarked or unlicensed “black” taxis, especially at airports and major tourist sites
+* request that the taxi meter be used; if there is no meter, agree on the fare before departure
+* ask that the driver provides you with a receipt or “fapiao” in case you need to report a complaint or recover a lost item
+* remove your luggage from the trunk before paying the fare
 
 #### Marine transportation
 
@@ -180,7 +171,7 @@ Ferry accidents have occurred in China.
 
 ### Air travel
 
-We do not make assessments on the compliance of foreign domestic airlines with international safety standards.
+We don't make assessments on the compliance of foreign domestic airlines with international safety standards.
 
 [Information about foreign domestic airlines](https://travel.gc.ca/air/in-flight-safety#other)
 
@@ -196,12 +187,6 @@ If you intend on engaging in trekking activities:
 * know the symptoms of high-altitude illnesses, which can be fatal
 * obtain detailed information on trekking routes before setting out and do not venture off marked trails or slopes
 
-### Piracy
-
-Pirate attacks and armed robbery against ships occur in coastal waters, and in some cases, farther out at sea. Mariners should take appropriate precautions.
-
-[Live piracy report](https://icc-ccs.org/index.php/piracy-reporting-centre) - International Maritime Bureau's Piracy Reporting Centre
-
 ### Tensions on Korean Peninsula
 
 Tensions on the neighbouring Korean Peninsula could escalate with little notice, and the security situation could deteriorate suddenly.
@@ -212,4 +197,4 @@ Monitor developments, remain vigilant and follow the instructions of local autho
 
 [Registration of Canadians Abroad](https://travel.gc.ca/travelling/registration)
 
-Authorized and unauthorized demonstrations can take place with little or no notice. They can quickly spread to surrounding areas, including those frequented by tourists.If you participate in or are witness to a demonstration, you may be subject to scrutiny and severe legal action. Foreign journalists have also been intimidated and detained for reporting on demonstrations.
+Authorized and unauthorized demonstrations can take place with little or no notice. They can quickly spread to surrounding areas, including those frequented by tourists. If you participate in or are witness to a demonstration, you may be subject to scrutiny and severe legal action. Foreign journalists have also been intimidated and detained for reporting on demonstrations.

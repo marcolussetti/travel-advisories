@@ -1,7 +1,7 @@
 {
     "name": "Estonia",
-    "update_reason": "Editorial change",
-    "update_date": "2025-11-24T13:27:00",
+    "update_reason": "Risk level(s) \u2013 added map",
+    "update_date": "2025-12-15T14:10:00",
     "sections": {
         "risk": "canada/Estonia/risk.md",
         "security": "canada/Estonia/security.md",

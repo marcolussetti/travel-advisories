@@ -1,7 +1,7 @@
 {
     "name": "Niger",
-    "update_reason": "Thorough review and update of the entire content",
-    "update_date": "2025-12-08T15:15:00",
+    "update_reason": "Risk level(s) \u2013 added map",
+    "update_date": "2025-12-15T14:10:00",
     "sections": {
         "risk": "canada/Niger/risk.md",
         "security": "canada/Niger/security.md",

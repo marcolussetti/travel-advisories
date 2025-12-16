@@ -1,7 +1,7 @@
 {
     "name": "Seychelles",
-    "update_reason": "Editorial change",
-    "update_date": "2025-12-11T15:36:00",
+    "update_reason": "Risk level(s) \u2013 added map",
+    "update_date": "2025-12-15T14:10:00",
     "sections": {
         "risk": "canada/Seychelles/risk.md",
         "security": "canada/Seychelles/security.md",

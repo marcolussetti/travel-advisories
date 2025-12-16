@@ -1,7 +1,7 @@
 {
     "name": "Cura\u00e7ao",
-    "update_reason": "Need help? \u2013 removed information on the Consulate of Canada in Willemstad, Cura\u00e7ao",
-    "update_date": "2025-12-11T14:29:00",
+    "update_reason": "Risk level(s) \u2013 added map",
+    "update_date": "2025-12-15T14:10:00",
     "sections": {
         "risk": "canada/Cura\u00e7ao/risk.md",
         "security": "canada/Cura\u00e7ao/security.md",

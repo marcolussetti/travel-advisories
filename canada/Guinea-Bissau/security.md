@@ -67,6 +67,6 @@ Telecommunications are expensive and unreliable. Infrastructure is inadequate. E
 
 ### Air travel
 
-We do not make assessments on the compliance of foreign domestic airlines with international safety standards.
+We don't make assessments on the compliance of foreign domestic airlines with international safety standards.
 
 [Information about foreign domestic airlines](https://travel.gc.ca/air/in-flight-safety#other)

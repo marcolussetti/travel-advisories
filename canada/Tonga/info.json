@@ -1,7 +1,7 @@
 {
     "name": "Tonga",
-    "update_reason": "Safety and security \u2013 added information on fuel shortages",
-    "update_date": "2025-11-27T12:56:00",
+    "update_reason": "Risk level(s) \u2013 added map",
+    "update_date": "2025-12-15T14:10:00",
     "sections": {
         "risk": "canada/Tonga/risk.md",
         "security": "canada/Tonga/security.md",

@@ -4,33 +4,15 @@
 
 ### Tensions along the Thailand-Cambodia border
 
-Tensions have increased along the Thailand-Cambodia border since an exchange of fire on May 28, 2025.
+Armed conflict resumed along the Thailand-Cambodia border on December 7, 2025. Stemming from a longstanding border dispute, the conflict has expanded and intensified since December 9. There have been military and civilian casualties. The security situation remains volatile and unpredictable.
 
-Thai and Cambodian authorities reached a ceasefire agreement on July 28, 2025, after five consecutive days of armed conflict along the border, with multiple casualties on both sides. The security environment remains volatile at the border due to a longstanding border dispute in the region.
+Thai authorities have declared martial law in several districts along the border with Cambodia. When martial law is in effect, local authorities have enhanced powers and may impose security measures such as:
 
-Thai authorities have declared martial law in several districts along the border with Cambodia. When martial law is in effect, local authorities have enhanced powers and may impose security measures such as curfews and other movement restrictions. Martial law is in effect in the following districts of Chanthaburi, Trat and Sa Kaeo provinces:
+* curfews
+* evacuations
+* and other movement restrictions
 
-* Chanthaburi:
-
-+ Mueang Chanthaburi
-+ Tha Mai
-+ Makham
-+ Laem Sing
-+ Kaeng Hang Maew
-+ Na Yai Am
-+ Khao Khitchakut
-
-* Trat:
-
-+ Khao Saming
-
-* Sa Kaeo:
-
-+ Ban Nong Chan
-
-Land mines are present in the disputed border regions. Land border crossings between Thailand and Cambodia may be closed or change their hours of operation unexpectedly.
-
-Cross at designated border crossing points only, with the required travel documentation.
+Land mines are present in the disputed border regions. Land border crossings between Thailand and Cambodia are currently closed.
 
 * Expect an increased military presence and vigilance
 * Follow the instructions of local authorities, including curfews and evacuation orders
@@ -300,6 +282,6 @@ Pirate attacks and armed robbery against ships occur in coastal waters. Mariners
 
 ### Air travel
 
-We do not make assessments on the compliance of foreign domestic airlines with international safety standards.
+We don't make assessments on the compliance of foreign domestic airlines with international safety standards.
 
 [Information about foreign domestic airlines](https://travel.gc.ca/air/in-flight-safety#other)

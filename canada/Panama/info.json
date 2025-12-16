@@ -1,7 +1,7 @@
 {
     "name": "Panama",
-    "update_reason": "Health \u2013 editorial change",
-    "update_date": "2025-11-25T15:22:00",
+    "update_reason": "Risk level(s) \u2013 added map",
+    "update_date": "2025-12-15T14:10:00",
     "sections": {
         "risk": "canada/Panama/risk.md",
         "security": "canada/Panama/security.md",

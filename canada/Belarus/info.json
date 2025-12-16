@@ -1,7 +1,7 @@
 {
     "name": "Belarus",
-    "update_reason": "Editorial change",
-    "update_date": "2025-12-10T11:20:00",
+    "update_reason": "Risk level(s) \u2013 added map",
+    "update_date": "2025-12-15T14:10:00",
     "sections": {
         "risk": "canada/Belarus/risk.md",
         "security": "canada/Belarus/security.md",

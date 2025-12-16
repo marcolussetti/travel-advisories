@@ -1,7 +1,7 @@
 {
     "name": "India",
-    "update_reason": "Health \u2013 Information on rabies vaccines updated",
-    "update_date": "2025-12-09T11:56:00",
+    "update_reason": "Risk level(s) \u2013 added map",
+    "update_date": "2025-12-15T14:10:00",
     "sections": {
         "risk": "canada/India/risk.md",
         "security": "canada/India/security.md",

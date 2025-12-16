@@ -1,7 +1,7 @@
 {
     "name": "Chile",
-    "update_reason": "Safety and security \u2013 updated information on adventure travel",
-    "update_date": "2025-11-20T14:39:00",
+    "update_reason": "Risk level(s) \u2013 added map",
+    "update_date": "2025-12-15T14:10:00",
     "sections": {
         "risk": "canada/Chile/risk.md",
         "security": "canada/Chile/security.md",

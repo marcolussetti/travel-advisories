@@ -1,7 +1,7 @@
 {
     "name": "Somalia",
-    "update_reason": "Health \u2013 travel health notice for diphtheria added",
-    "update_date": "2025-11-24T16:21:00",
+    "update_reason": "Risk level(s) \u2013 added map",
+    "update_date": "2025-12-15T14:10:00",
     "sections": {
         "risk": "canada/Somalia/risk.md",
         "security": "canada/Somalia/security.md",

@@ -10,7 +10,7 @@ Learn about what you should do and how we can help if you are [arrested or detai
 
 If you are suspected of a crime, Chinese authorities can prevent you from leaving China (by withholding your passport or applying an exit ban) or may detain you for up to 37 days without charges.
 
-You may also be subject to severe punishments, including for non-violent acts such as financial crimes. Chinese authorities may also apply the death penalty for crimes deemed serious, including drug offences.
+You may also be subject to severe punishments, including for non-violent acts such as financial crimes.
 
 Detention during the investigative period before charges are laid is common and can be lengthy. Some defence lawyers may be reluctant to accept cases involving foreigners.
 
@@ -22,11 +22,11 @@ If you are a dual citizen, you should always travel using your valid Canadian pa
 
 ### Death penalty
 
-Chinese authorities apply, sometimes arbitrarily, the death penalty for both violent and non-violent crimes, including for serious drug offences.
+The death penalty may be applied for both violent and non-violent crimes, including for serious drug offences.
 
 ### Drugs
 
-Penalties for possession, use, production or trafficking of illegal drugs, including cannabis, are severe. Convicted offenders can expect heavy fines, jail sentences or the death penalty. These laws are strictly enforced and apply to persons 14 years and older. Penalties can be assigned arbitrarily.
+Penalties for possession, use, production or trafficking of illegal drugs, including cannabis, are severe. Convicted offenders can expect heavy fines, jail sentences or the death penalty. These laws are strictly enforced and apply to persons 14 years and older.
 
 Local authorities conduct random drug tests (urine or hair). Police have raided nightclubs and bars and subjected patrons to on-the-spot drug testing.
 
@@ -232,10 +232,28 @@ Learn about studying abroad if you plan to study or conduct research in China.
 
 The currency is the renminbi (RMB). The basic unit of currency is the yuan.
 
-Counterfeit renminbi are relatively common. It is illegal to use foreign currency. Exchange foreign currency at officially approved facilities only.
+It is illegal to use foreign currency for everyday transactions. Exchange foreign currency at officially approved facilities only.
 
-Generally, only international hotels and some larger shops accept international credit cards. Some Chinese banks will provide cash advances using credit card accounts, but they may charge for the service. It is possible to use bank cards to draw on your Canadian bank account at an increasing number of ATMs, especially in urban areas. Credit cards are not always accepted, and the availability of ATMs is limited outside major cities.
+Mobile payments are widely used in China. Major Chinese platforms allow foreign travellers to link an international credit card and pay by scanning QR codes in shops, restaurants, taxis and on public transport.
 
-Upon entering or leaving China, you must make a declaration to customs if you travel with or more than USD 5 000, 20 000 RMB or the equivalent in other currencies. The sum can be in cash, cheques, money orders, traveller's cheques or any other convertible assets.
+If using these services:
 
-A permit issued by a local bank may also be required to exit China with sums superior to USD 5 000. Make sure you comply with cash control regulations.
+* follow the platform’s official setup instructions
+* be cautious when scanning QR codes from unofficial or unfamiliar sources
+* verify the charge on your screen before authorizing payment
+
+Cash is now used less frequently in large cities. A small number of counterfeit notes still circulate, but they are most often encountered only in low-volume cash transactions. If you pay in cash:
+
+* use small denominations
+* avoid accepting damaged or poor-quality notes
+* be particularly attentive when paying or receiving change in taxis or small informal businesses
+
+International credit cards are accepted in many hotels and larger establishments but not universally. ATMs that accept foreign cards are widely available in major cities but may be limited in remote areas. When using ATMs:
+
+* choose machines located inside banks or reputable businesses
+* shield the keypad when entering your PIN
+* monitor your statements for unauthorized transactions
+
+When entering or leaving China, you must declare to customs if you are carrying USD 5,000 or more, 20 000 RMB or more, or the equivalent in other currencies. The limit applies to cash, cheques, money orders, traveller's cheques or any other convertible assets.
+
+A permit issued by a local bank may be required to leave China with sums superior to USD 5,000 or its equivalent. Make sure you comply with cash control regulations.

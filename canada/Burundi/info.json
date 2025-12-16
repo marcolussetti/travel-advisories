@@ -1,7 +1,7 @@
 {
     "name": "Burundi",
-    "update_reason": "Safety and security \u2013 updated information on the security situation",
-    "update_date": "2025-12-11T09:12:00",
+    "update_reason": "Risk level(s) \u2013 added map",
+    "update_date": "2025-12-15T14:10:00",
     "sections": {
         "risk": "canada/Burundi/risk.md",
         "security": "canada/Burundi/security.md",

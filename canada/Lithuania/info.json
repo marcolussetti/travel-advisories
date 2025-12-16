@@ -1,7 +1,7 @@
 {
     "name": "Lithuania",
-    "update_reason": "Safety and security \u2013 removed information on the land border with Belarus",
-    "update_date": "2025-11-19T16:32:00",
+    "update_reason": "Risk level(s) \u2013 added map",
+    "update_date": "2025-12-15T14:10:00",
     "sections": {
         "risk": "canada/Lithuania/risk.md",
         "security": "canada/Lithuania/security.md",

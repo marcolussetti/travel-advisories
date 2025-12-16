@@ -1,7 +1,7 @@
 {
     "name": "Madagascar",
-    "update_reason": "Risk level \u2013 exercise a high degree of caution in Madagascar; Safety and security \u2013 updated information on the political situation",
-    "update_date": "2025-11-21T16:33:00",
+    "update_reason": "Risk level(s) \u2013 added map",
+    "update_date": "2025-12-15T14:10:00",
     "sections": {
         "risk": "canada/Madagascar/risk.md",
         "security": "canada/Madagascar/security.md",

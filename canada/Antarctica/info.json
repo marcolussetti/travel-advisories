@@ -1,7 +1,7 @@
 {
     "name": "Antarctica",
-    "update_reason": "Editorial change.",
-    "update_date": "2025-12-10T10:42:00",
+    "update_reason": "Risk level(s) \u2013 added map",
+    "update_date": "2025-12-15T16:34:00",
     "sections": {
         "risk": "canada/Antarctica/risk.md",
         "security": "canada/Antarctica/security.md",
