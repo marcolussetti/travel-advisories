@@ -6,12 +6,14 @@ High Degree of Caution
 
 ### **Travel Alert**
 
-The Department of Foreign Affairs advises visitors to exercise a high degree of caution in Azerbaijan and against **all** travel to the following regions:
+The Department of Foreign Affairs advises visitors to exercise a high degree of caution in Azerbaijan.
 
-* Nagorno-Karabakh and the area surrounding it.
-* Within 5km of the border with Armenia.
+The Department of Foreign Affairs advises against all travel:
 
-There is a strong military presence in Nagorno-Karabakh and travel to the area is not possible without the permission of the Azerbaijani authorities. Visitors to the region could also encounter unexploded weapons and landmines.
+* within 5km of the border with Armenia.
+* to some areas in south-western Azerbaijan, including districts in and around the region formerly known as “Nagorno-Karabakh”.
+
+There is a strong military presence in the region formerly known as “Nagorno-Karabakh” and travel to the area is not possible without the permission of the Azerbaijani authorities. Visitors to the region could also encounter unexploded weapons and landmines.
 
 For further information, please read the Safety and Security section of this page.
 
@@ -23,15 +25,13 @@ Irish citizens require a visa to enter Azerbaijan. Citizens can apply online usi
 
 A valid passport is required for travel to Azerbaijan. Passport cards **cannot** be used. Irish passports should have a minimum validity of 3 months from the expiry date of your Azerbaijani visa. This means your passport must be valid for at least 6 months after the date you arrive in Azerbaijan.
 
-Foreign visitors arriving to Azerbaijan in connection with Formula 1 race to be held in Baku in 2025 can obtain visas on arrival at the international airports of Azerbaijan from 25 August 2025 until 30 September 30 2025 by providing one of the below mentioned documents.
-
-* An accreditation card or other document confirming accreditation in accordance with the relevant rules of "Formula One Management Limited" company and International Automobile Federation, the international organizers of Formula 1 races.
-* An accreditation card for Baku City Circuit Operations Company.
-* A ticket, including electronic ticket or a document that confirms obtaining a ticket for Formula 1 race to be held in Baku in 2025.
-
 ### **Entry Restrictions**
 
-Anyone who has visited Nagorno-Karabakh in the past without the permission of the Azerbaijani authorities will be refused entry to Azerbaijan. Visitors should not attempt to enter Azerbaijan via the land borders with Russia (i.e. Dagestan) and Georgia as these as these are closed to foreign nationals. To enter from Iran, permission for Irish citizens to enter Azerbaijan by land border from Iran may be facilitated subject to the permission of the authorities and must be coordinated in advance by the Embassy of Ireland in Ankara, Türkiye. Please contact the Embassy of Ireland in Ankara, Türkiye or the Department of Foreign Affairs and Trade in Dublin if you are intending to make this journey.
+Anyone who has visited the region formerly known as “Nagorno-Karabakh” in the past without the permission of the Azerbaijani authorities will be refused entry to Azerbaijan.
+
+Visitors should not attempt to enter Azerbaijan via the land borders with Russia (i.e. Dagestan) and Georgia as these as these are closed to foreign nationals.
+
+To enter from Iran, permission for Irish citizens to enter Azerbaijan by land border from Iran may be facilitated subject to the permission of the authorities and must be coordinated in advance by the Embassy of Ireland in Ankara, Türkiye. Please contact the Embassy of Ireland in Ankara, Türkiye or the Department of Foreign Affairs and Trade in Dublin if you are intending to make this journey.
 
 For further information on entry requirements, please read the ‘Additional Information’ section of this page.
 
@@ -55,4 +55,4 @@ Visitors can contact the emergency services in Azerbaijan. Specific emergency nu
 * Read our [**‘Know Before You Go’**](https://www.ireland.ie/en/dfa/overseas-travel/know-before-you-go/) guide.
 * Read our [**Consular Assistance Charter**](https://www.ireland.ie/en/dfa/overseas-travel/assistance-abroad/consular-assistance-charter/) that clearly sets out the assistance that can be provided to citizens in difficulty overseas, and the limits of what the Department can do.
 
-As there is no Irish Embassy in Azerbaijan, we are limited in the help we can offer you in an emergency. However, if you need assistance, you can contact the [**Embassy of Ireland in Ankara,Turkiye**](https://www.ireland.ie/en/turkiye/ankara/)**.**
+As there is no Irish Embassy in Azerbaijan, we are limited in the help we can offer you in an emergency. However, if you need assistance, you can contact the [**Embassy of Ireland in Ankara, Turkiye**](https://www.ireland.ie/en/turkiye/ankara/)**.**

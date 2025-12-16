@@ -4,6 +4,14 @@
 
 Normal Precautions
 
+### **Travel Alert**
+
+Following the attack which took place on Bondi Beach on December 14, members of the public have been asked to avoid the area and Irish citizens should continue to follow the advice of local authorities.
+
+If you require assistance, or you are concerned about someone that may have been in the area at the time, New South Wales police have established a Police Public Information and Inquiry Centre (PIIC) that can be contacted on the following number: 0061 800 227 228.
+
+Irish citizens can also contact the Department of Foreign Affairs in Dublin on 00353 1 408 2000.
+
 ### **General Travel Advice**
 
 Irish citizens require a visa to enter Australia.

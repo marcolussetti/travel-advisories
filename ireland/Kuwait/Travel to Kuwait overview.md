@@ -10,7 +10,7 @@ The Embassy of Ireland, Abu Dhabi is closely monitoring the current regional sit
 
 ### **General Travel Advice**
 
-Irish citizens require a visa to enter Kuwait. Electronic visas are now available. Visit the [**Ministry of Interior website**](https://evisa.moi.gov.kw/evisa/home_e.do) for more information. Applicants will be able to check the status of their application before travelling and the visas will be issued upon arrival.
+Irish citizens require a visa to enter Kuwait. Electronic visas are now available. Visit the [**Kuwait Government Online Kuwait e-Visa website**](https://e.gov.kw/sites/kgoenglish/Pages/eServices/MOI/KuwaiteVisa.aspx) for more information. Applicants will be able to check the status of their application before travelling and the visas will be issued upon arrival.
 
 A valid passport is required for travel to Kuwait. Irish passports should have a minimum remaining validity of six months. Passport cards cannot be used for entry to Kuwait.
 

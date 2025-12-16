@@ -2,7 +2,7 @@
 
 ### **Visa**
 
-Irish citizens require a visa to enter Kuwait. Electronic Visas are now available. Visit the [**Ministry of Interior website**](https://evisa.moi.gov.kw/evisa/home_e.do) for more information.
+Irish citizens require a visa to enter Kuwait. Electronic Visas are now available. Visit the [**Kuwait Government Online Kuwait e-Visa website**](https://e.gov.kw/sites/kgoenglish/Pages/eServices/MOI/KuwaiteVisa.aspx) for more information.
 
 For new residency visas, your passport should be valid for a minimum of 2 years.
 
