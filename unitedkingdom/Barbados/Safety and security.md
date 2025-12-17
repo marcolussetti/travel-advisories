@@ -87,12 +87,8 @@ The US Federal Emergency Management Agency website has advice about [what to do 
 
 Check the [alert level of the underwater volcano ‘Kick ‘em Jenny’](https://uwiseismic.com/volcanoes/kick-em-jenny/kej-monitoring/), located 5 miles off the coast of Grenada. Observe any maritime exclusion zones and follow the advice of the local authorities if there is increased activity or an eruption.
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/barbados/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/barbados/entry-requirements)
 
-[Next
-:
-Health](/foreign-travel-advice/barbados/health)
+[Next:Health](/foreign-travel-advice/barbados/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/barbados/print)

@@ -24,13 +24,9 @@ When returning to the UK, British citizens must carry a valid [British passport]
 
 British citizens can normally apply for a free single-entry tourist or family visit visa on arrival at Beirut airport. A tourist visa is valid for one month from the date of entry. Travellers can extend their visa for up to three months at the General Security offices.
 
-British citizens can also obtain a visa from the Lebanese Embassy in London. These may be valid for a different time period. In April 2024, Lebanese authorities introduced new increased rates for residence permits of foreign nationals. Travellers should make sure they understand their visa validity to avoid any penalties for overstaying.
+British citizens can also obtain a visa from the Lebanese Embassy in London. These may be valid for a different time period. Travellers should make sure they understand their visa validity to avoid any penalties for overstaying.
 
-Travellers overstaying their visa may have to pay a fine at the airport. Only Lebanese currency (pounds) will be accepted for payment. This should be paid at departures before security procedures.
-
-[British overseas citizens](https://www.gov.uk/types-of-british-nationality/british-overseas-citizen) and [British protected persons](https://www.gov.uk/types-of-british-nationality/british-protected-person) will need to get a visa before travelling to Lebanon.
-
-Persons of Palestinian origin may also need a visa before travelling, or to carry additional documentation with them when travelling.
+Travellers overstaying their visa may have to pay a fine at the airport. Only Lebanese currency will be accepted for payment. This should be paid at departures before security procedures.
 
 Entry requirements may change at short notice. Check with the [Lebanese Embassy](https://www.lebanon-embassy.org/) in the UK before you travel.
 
@@ -42,12 +38,8 @@ Lebanese immigration authorities check all visitors’ names on arrival against 
 
 For details about medical entry requirements and recommended vaccinations, see [TravelHealthPro’s Lebanon guide](https://travelhealthpro.org.uk/country/126/lebanon#Vaccine_Recommendations).
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/lebanon)
+[Previous:Warnings and insurance](/foreign-travel-advice/lebanon)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/lebanon/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/lebanon/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/lebanon/print)

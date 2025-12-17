@@ -30,6 +30,8 @@ You will be told how long you can stay when you arrive. If you want to extend yo
 
 It’s illegal to overstay or work without a [work permit](https://immigration.gov.bb/pages/WorkPermit.aspx). The Barbados authorities could fine or detain you if you overstay.
 
+Visitors must be able to show an onward or return ticket in order to enter the country.
+
 ### Immigration and customs form
 
 All travellers must [fill in an immigration and customs form online](https://travelform.gov.bb/) before they arrive.
@@ -54,12 +56,8 @@ For full details about medical entry requirements and recommended vaccinations, 
 
 There are strict rules about [goods that can be brought into and taken out of Barbados](https://www.visitbarbados.org/plan-your-trip/important-information). You must declare anything that may be prohibited or subject to tax or duty.
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/barbados)
+[Previous:Warnings and insurance](/foreign-travel-advice/barbados)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/barbados/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/barbados/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/barbados/print)

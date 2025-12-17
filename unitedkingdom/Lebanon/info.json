@@ -1,11 +1,11 @@
 {
     "name": "Lebanon",
-    "update_reason": "New information about dual nationals returning to the UK (\u2018Entry requirements\u2019 page).",
+    "update_reason": "This travel advice has been reviewed for accuracy, with edits made throughout.",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Lebanon/Warnings and insurance.md",
-            "update_date": "2025-12-10T13:10:50+00:00"
+            "update_date": "2025-12-16T10:20:55+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Lebanon/Getting help.md"
         }
     ],
-    "update_date": "2025-12-10T13:10:50+00:00"
+    "update_date": "2025-12-16T10:20:55+00:00"
 }

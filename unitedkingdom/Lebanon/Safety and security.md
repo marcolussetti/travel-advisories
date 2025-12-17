@@ -52,7 +52,7 @@ Violence may occur:
 
 Confrontations often happen without warning, and can result in large numbers of casualties. Security forces may use tear gas and rubber bullets during clashes.
 
-Weapons are common in Lebanon and groups such as Hizballah have arms that are beyond state control. Arguments can quickly escalate into violence, including the use of weapons, typically firearms and bladed weapons.
+Weapons are common in Lebanon and groups such as Lebanese Hizballah have arms that are beyond state control. Arguments can quickly escalate into violence, including the use of weapons, typically firearms and bladed weapons.
 
 Celebratory gunfire is illegal in Lebanon but remains widespread. Every year there are reported casualties.
 
@@ -70,36 +70,36 @@ You should:
 
 If there are widespread disturbances or the security situation deteriorates, there may be limits to the assistance that the British Embassy Beirut can provide. Be prepared to shelter in place for several days, if the security situation requires it. This means having enough essential supplies, such as food, water and medicine, at the place where you are staying. Do not rely on the FCDO being able to evacuate you in an emergency.
 
+Read FCDO advice on what to do [if you’re affected by a crisis abroad](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas) and how to prepare.
+
 ## Severe economic crisis
 
 ### Currency
 
-Lebanon is experiencing a prolonged economic crisis. This may affect your ability to pay for goods and services. US dollars are widely accepted and are the main cash currency, including in most supermarkets, restaurants and other retail outlets. It is difficult to access US dollars locally and many companies do not accept credit/debit cards. Plan accordingly and ensure you have access to adequate cash for the length of your stay.
+Lebanon is experiencing a prolonged economic crisis. This may affect your ability to pay for goods and services by credit or debit card. US dollars are widely accepted and are the main cash currency, including in most supermarkets, restaurants and other retail outlets. It may be difficult or expensive to access US dollars locally and many companies do not accept credit/debit cards. Plan accordingly and ensure you have access to adequate cash for the length of your stay.
 
 ### Power cuts
 
-Lebanon’s power plants are only producing limited electricity for the national grid. This can lead to power cuts across the country, with an impact on services, such as transport, internet, water and waste collection, and shops, cafes and restaurants. Before travelling, check with your hotel whether they are affected by power cuts. Have a torch to hand at night and plan how you would leave your accommodation in the dark.
+Lebanon’s power plants are only producing limited electricity for the national grid. This can lead to power cuts. Many businesses rely heavily on generators for electricity, and electricity provision can vary. Have a torch to hand at night and plan how you would leave your accommodation in the dark.
 
 ## Crime
 
 ### Protecting your belongings
 
-There is moderate risk to tourists from petty or violent crime. However, crime has increased due to the declining economic situation. Theft, vehicle theft and robbery in particular have risen. Take sensible precautions to protect yourself and your belongings:
+There is moderate risk to tourists from petty or violent crime. Take sensible precautions to protect yourself and your belongings:
 
 * consider your route and vary daily routines
 * hide expensive-looking jewellery, which could draw unwanted attention
 * avoid carrying large amounts of cash in public
 * be aware of your surroundings when using ATMs
 
-Members of the public have held up banks across Lebanon in order to access their savings, using both real and replica firearms. This may well continue. Be alert when in or near banks.
-
 ### Sexual assault
 
-There has been an increase in reported incidents of sexual harassment and assault in public areas, including while walking in Beirut. Consider whether it is safe to walk alone, particularly in less busy areas. Due to the lack of electricity, streetlights often do not work, so streets are very dark at night. Consider taking a torch with you at night and make sure your phone is charged in case of an emergency.
+There have been reported incidents of sexual harassment and assault in public areas. Consider whether it is safe to walk alone, particularly in less busy areas. Due to the lack of electricity, streetlights often do not work, so streets can be dark at night. Consider taking a torch with you at night and make sure your phone is charged in case of an emergency.
 
-### Drug smuggling and car theft
+### Drug smuggling and violent crime
 
-Criminal gangs involved in drug cultivation and smuggling operate in parts of the Beqaa Valley, especially northern Beqaa. Car theft gangs are prevalent and may carry out armed vehicle theft, particularly along sections of the international highway towards Baalbek. Vehicle thefts (including 4x4s) have increased significantly and are often targeted. Other armed crimes, such as robbery and kidnap, can occur in these areas. There are also frequent armed clashes between gangs and the security forces.
+Criminal gangs involved in drug cultivation and smuggling operate in parts of the Beqaa Valley, especially northern Beqaa. Other armed crimes, such as robbery and kidnap, can occur in these areas. There are also frequent armed clashes between gangs and the security forces.
 
 ## Laws and cultural differences
 
@@ -205,12 +205,8 @@ If you see a forest fire, call the emergency services on 112 (for the fire servi
 
 Lebanon is in an earthquake zone. There have been no damaging tremors in recent years, although Lebanon experienced strong aftershocks from an earthquake in Turkey in February 2023. The US Federal Emergency Management Agency has advice about [what to do before, during and after an earthquake](http://www.ready.gov/earthquakes).
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/lebanon/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/lebanon/entry-requirements)
 
-[Next
-:
-Regional risks](/foreign-travel-advice/lebanon/regional-risks)
+[Next:Regional risks](/foreign-travel-advice/lebanon/regional-risks)
 
 [View a printable version of the whole guide](/foreign-travel-advice/lebanon/print)

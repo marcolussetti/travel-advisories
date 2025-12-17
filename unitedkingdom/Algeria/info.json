@@ -1,11 +1,11 @@
 {
     "name": "Algeria",
-    "update_reason": "New information about dual nationals returning to the UK (\u2018Entry requirements\u2019 page).",
+    "update_reason": "This travel advice has been reviewed for accuracy with edits made throughout, including new information on taking money into and out of Algeria, risk of arrest and detention, illegal drugs and prison sentences, using cameras in secure areas, family and child custody, military service and healthcare in Algeria ('Entry requirements', 'Safety and security' and 'Health' pages).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Algeria/Warnings and insurance.md",
-            "update_date": "2025-12-10T12:44:34+00:00"
+            "update_date": "2025-12-16T14:25:22+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Algeria/Getting help.md"
         }
     ],
-    "update_date": "2025-12-10T12:44:34+00:00"
+    "update_date": "2025-12-16T14:25:22+00:00"
 }

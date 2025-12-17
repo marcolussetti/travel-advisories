@@ -10,7 +10,7 @@ UK Counter Terrorism Policing has information and advice on [staying safe abroad
 
 Terrorists are likely to try to carry out attacks in Algeria.
 
-Terrorist attacks have often focused on the Algerian state, but attacks could be indiscriminate and target foreigners. There is also a risk that lone actors target foreigners. You should remain vigilant at all times and follow specific advice and direction of the local security authorities.
+Terrorist attacks have often focused on the Algerian state, but attacks could be indiscriminate and target foreign nationals. There is also a risk that lone actors target foreign nationals. You should remain vigilant at all times and follow specific advice and direction of the local security authorities.
 
 The threat from terrorism is higher in some parts of the country, including:
 
@@ -21,18 +21,13 @@ The threat from terrorism is higher in some parts of the country, including:
 
 The Algerian authorities continue to conduct effective counter-terrorism operations to disrupt terrorist activity but there’s a continuing threat of further terrorist attacks.
 
-The main terrorist threat is from Al-Qaida in the Islamic Maghreb (AQIM) and other regional Islamist groups including Al Murabitun and Daesh affiliates. There’s also a threat from individuals inspired by Daesh. These groups have been active across the country and pose a threat throughout Algeria, including in Algiers and other major cities.
+The terrorist threat comes from individuals inspired by Islamist extremist and anti-Semitic ideology and established groups, such as Al-Qaida in the Islamic Maghreb (AQIM). These groups have been active across the country and likely consider Western nationals legitimate targets.
 
 Recent significant attacks include:
 
 * in 2021, a solider killed by an improvised explosive device (IED) in Tlemcen Province
 * in 2021, 2 soldiers killed by an IED in Ain Defla Province
 * in 2021, 2 soldiers killed in Tipasa Province
-* in 2020, an Algerian soldier killed in an ambush in Ain Defla, north-west Algeria – AQIM is reported to have claimed responsibility
-* in 2020, an Algerian soldier killed in a suicide attack in Timeaouine, close to the Malian border – Daesh is reported to have claimed responsibility
-* in 2019, 2 alleged IS members killed by the Algerian army in the southern Tamanrasset region – Daesh reported this same incident as an attack killing 8 Algerian security force members
-
-Indiscriminate attacks are not common, but in 2021 IED explosions seriously injured 3 civilians in Tebessa and Batna. Also in 2021, a roadside bomb killed 5 Algerian citizens in Telidjane, Tebessa Province, on the border with Tunisia. Al-Qaida claimed responsibility for placement of the landmines but denied they were targeting civilians.
 
 ### Terrorist kidnap
 
@@ -49,6 +44,12 @@ Demonstrations and other forms of protest are subject to various restrictions. Y
 ## Algeria-Morocco border
 
 The land border between Algeria and Morocco is closed. Do not attempt to cross it.
+
+## Risk of arrest and detention
+
+The Algerian authorities do not always inform the British Embassy when British nationals have been arrested. If you are detained, insist on your right to contact the British Embassy.
+
+It can take time for the British Embassy to get the necessary permission to visit you.
 
 ## Crime
 
@@ -70,7 +71,7 @@ You should check the latest guidance of local authorities before moving around t
 
 ### Security escorts
 
-The Algerian authorities devote considerable resources to the safety of foreign visitors. There’s a clear security presence, which can feel intrusive. If you travel outside major cities, the authorities may want to know your plans. They may assign police or gendarmes to protect you.
+The Algerian authorities devote considerable resources to the safety of foreign visitors. There’s a clear security presence, which can feel intrusive.
 
 ## Laws and cultural differences
 
@@ -103,7 +104,7 @@ It is illegal to be under the influence of alcohol in a public place.
 
 ### Illegal drugs and prison sentences
 
-It is illegal to possess, use or traffic controlled drugs. If you’re convicted, you may get a prison sentence.
+There is zero tolerance for drugs-related offences. The penalties for trafficking, smuggling, using and possessing illegal drugs are severe and can include the death penalty depending upon the severity of the offence.
 
 ### Mobile phone coverage
 
@@ -111,7 +112,7 @@ Mobile phone coverage can be patchy or unavailable in more remote areas, particu
 
 ### Using cameras in secure areas
 
-It is illegal to take photos of government buildings or security installations, including police checkpoints.
+It is illegal to bring drones, binoculars, telescopes and certain types of photography equipment into Algeria without authorisation. If you have any doubt about items you plan to bring with you, contact the [Algerian customs](https://www.douane.gov.dz/spip.php?page=contact) to check prior to your travel.
 
 ### LGBT+ travellers
 
@@ -121,15 +122,13 @@ Read more [advice for LGBT+ travellers](https://www.gov.uk/lesbian-gay-bisexual-
 
 ### Family law and child custody
 
-[Algerian family law](https://www.gov.uk/government/publications/algerian-family-code) is different from UK law. Mothers cannot renew their children’s passports without written consent from the father.
+[Algerian family law](https://www.gov.uk/government/publications/algerian-family-code) is different from UK law. Mothers cannot renew their children’s passports without written consent from the father. Fathers can renew their children’s passports without needing the mother’s consent.
 
-If you’re a dual British-Algerian national, see our guidance on [child custody](https://www.gov.uk/permission-take-child-abroad).
+Algerian nationals, including dual-nationals, who enter the country on an Algerian passport, must leave the country on an Algerian passport, so if you are travelling with a child who has British-Algerian dual nationality, and you are unable to access a valid Algerian passport for them, you will not be able to bring the child out of Algeria without the father’s written consent or permission from the Algerian courts.
 
-### Forced marriage
+### Military service
 
-If you’re a dual British-Algerian national, see our guidance on [forced marriage](https://www.gov.uk/stop-forced-marriage).
-
-If you have concerns, get legal advice before you travel to Algeria or agree to family members travelling to Algeria.
+If you are a British male of Algerian origin, you may be liable for national service even if you have been living outside of Algeria. You can contact the Algerian consulate near you to check your status prior to travelling to Algeria.
 
 ## Transport risks
 
@@ -189,12 +188,8 @@ In May 2003, a severe earthquake struck the Algiers area. There were over 2,200 
 
 The US Federal Emergency Management Agency website has advice about [what to do before, during and after an earthquake](https://www.ready.gov/earthquakes).
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/algeria/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/algeria/entry-requirements)
 
-[Next
-:
-Health](/foreign-travel-advice/algeria/health)
+[Next:Health](/foreign-travel-advice/algeria/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/algeria/print)

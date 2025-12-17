@@ -20,6 +20,8 @@ When returning to the UK, British citizens must carry a valid [British passport]
 
 You can visit Antigua and Barbuda without a visa. On entry, you’ll be allowed to stay for a maximum period of 90 days.
 
+Visitors must be able to show an onward or return ticket in order to enter the country.
+
 ### Applying for a visa
 
 To stay longer (to work or study, for business travel or for other reasons), you must apply and pay for an extension of stay through the [Antigua and Barbuda Immigration Department](https://immigration.gov.ag/visa-services/general-visa-information/).
@@ -44,12 +46,8 @@ For full details about medical entry requirements and recommended vaccinations, 
 
 There are strict rules about [goods you can take into or out of Antigua and Barbuda](https://vcbia.com/customs-and-immigration/). You must declare anything that may be prohibited or subject to tax or duty.
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/antigua-and-barbuda)
+[Previous:Warnings and insurance](/foreign-travel-advice/antigua-and-barbuda)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/antigua-and-barbuda/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/antigua-and-barbuda/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/antigua-and-barbuda/print)

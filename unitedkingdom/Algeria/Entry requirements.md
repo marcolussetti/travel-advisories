@@ -40,12 +40,6 @@ To enter Algeria, you must have a certificate to prove you’ve had a yellow fev
 
 For full details about medical entry requirements and recommended vaccinations, see [TravelHealthPro’s Algeria guide](https://travelhealthpro.org.uk/country/3/algeria#Vaccine_Recommendations).
 
-## Customs rules
-
-There are strict rules about [goods you can take into and out of Algeria](https://www.douane.gov.dz/?lang=en). You must declare anything that may be prohibited or subject to tax or duty.
-
-You can get a prison sentence for smuggling antiquities in Algeria. If you buy souvenirs, get proof of authenticity for anything that looks old or antique. Otherwise, the Algerian authorities may detain you on departure at the airport and confiscate the souvenirs.
-
 ## Travelling with children
 
 In Algeria, a child is:
@@ -59,12 +53,24 @@ Algerian children travelling alone must have a letter (‘Autorisation Parentale
 
 For further information, check the website of the [Algerian Ministry of Interior](https://www.interieur.gov.dz/index.php/fr/mes-d%C3%A9marches-administratives/sortie-des-mineurs-%C3%A0-l-%C3%A9tranger.html) or contact the [Algerian Consulate in London](https://www.algerian-consulate.org.uk/).
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/algeria)
+## Customs rules
 
-[Next
-:
-Safety and security](/foreign-travel-advice/algeria/safety-and-security)
+There are strict rules about [goods you can take into and out of Algeria](https://www.douane.gov.dz/?lang=en). You must declare anything that may be prohibited or subject to tax or duty.
+
+### Souvenirs
+
+You can get a prison sentence for smuggling antiquities in Algeria. If you buy souvenirs, get proof of authenticity for anything that looks old or antique. Otherwise, the Algerian authorities may detain you on departure at the airport and confiscate the souvenirs.
+
+### Taking money into and out of Algeria
+
+Declare cash at your point of entry and exit into Algeria if the amount you are carrying exceeds 5000 euros or its equivalent in other currencies. Failure to declare or false declaration of imported and exported cash constitutes an offense which may lead to criminal prosecution.
+
+Only travellers with residency status are allowed to bring in and take out Algerian banknotes, up to a maximum of 10,000 Algerian dinars.
+
+For further details, see [You arrive in Algeria - Direction Générale des Douanes](https://www.douane.gov.dz/spip.php?article1&lang=fr).
+
+[Previous:Warnings and insurance](/foreign-travel-advice/algeria)
+
+[Next:Safety and security](/foreign-travel-advice/algeria/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/algeria/print)

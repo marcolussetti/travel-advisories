@@ -1,11 +1,11 @@
 {
     "name": "Antigua and Barbuda",
-    "update_reason": "New information about dual nationals returning to the UK (\u2018Entry requirements\u2019 page).",
+    "update_reason": "Updated information on existing entry requirements (\u2018Entry requirements\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Antigua and Barbuda/Warnings and insurance.md",
-            "update_date": "2025-12-10T12:49:37+00:00"
+            "update_date": "2025-12-16T15:00:55+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Antigua and Barbuda/Getting help.md"
         }
     ],
-    "update_date": "2025-12-10T12:49:37+00:00"
+    "update_date": "2025-12-16T15:00:55+00:00"
 }

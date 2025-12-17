@@ -1,17 +1,23 @@
 # Warnings and insurance
 
 Still current at:
-:   15 December 2025
+:   17 December 2025
 
 Updated:
-:   14 December 2025
+:   16 December 2025
 
 Latest update:
-:   Update on shooting in Bondi Beach ('Warnings and insurance' page).
+:   Update on terrorist attack at Bondi Beach ('Warnings and insurance' page).
 
-## Shooting in Bondi Beach
+## Terrorist attack at Bondi
 
-A number of people were killed and injured on 14 December in a terrorist shooting on Sydney’s Bondi Beach. Emergency services advise people to avoid the area. Police investigations are underway. You should follow the local authorities’ advice. New South Wales (NSW) Police Public Information and Inquiry Centre (PIIC) has been activated (contact number: 1800 227 228). If you are concerned about someone who may have been in the area at the time, or need assistance yourself, please contact the British Consulate in Sydney (available 24/7 on +61 2 9247 7521).
+Following the 14 December terrorist attack on Bondi Beach, security around major events and gatherings in Australia is likely to be enhanced. Follow local authorities’ instructions at all times and ensure you arrive in plenty of time to navigate any additional procedures in place to keep you safe.
+
+If you were affected by the 14 December attack, or concerned about someone who may have been involved, you should:
+
+* contact New South Wales (NSW) Police Public Information and Inquiry Centre (PIIC)
+* contact the British Consulate in Sydney (available 24/7 on +61 2 9247 7521)
+* read about [support for victims of terrorism](https://victimsofterrorism.campaign.gov.uk/)
 
 ## Bushfires in Australia
 

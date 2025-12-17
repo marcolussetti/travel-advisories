@@ -93,12 +93,8 @@ See [tropical cyclones](https://www.gov.uk/tropical-cyclones) for advice about h
 
 Earthquakes are a risk in Antigua and Barbuda. Tremors are felt occasionally in the Caribbean. The US Federal Emergency Management Agency website has advice about [what to do before, during and after an earthquake](https://www.ready.gov/earthquakes).
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/antigua-and-barbuda/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/antigua-and-barbuda/entry-requirements)
 
-[Next
-:
-Health](/foreign-travel-advice/antigua-and-barbuda/health)
+[Next:Health](/foreign-travel-advice/antigua-and-barbuda/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/antigua-and-barbuda/print)

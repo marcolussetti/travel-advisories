@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   11 December 2025
+:   17 December 2025
 
 Updated:
-:   10 December 2025
+:   16 December 2025
 
 Latest update:
-:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
+:   This travel advice has been reviewed for accuracy, with edits made throughout.
 
 ![](https://assets.publishing.service.gov.uk/media/68626c163464d9c0ad609cfa/FCDO__TA__023_-_Lebanon_Travel_Advice_Ed17__WEB_.jpg)
 
@@ -67,7 +67,7 @@ FCDO advises against all but essential travel to:
 
 FCDO advises against all travel to:
 
-* The area of Baalbek-Hermel Governorate east of (and including) the Zahle-Baalbek and Baalbek-Qaa Highways, from where the Ali El Nahri Road joins the Zahle-Baalbek Highway near Riyaq, northward past Baalbek, and through Makneh and Laboueh to the intersection with the Hermel-Ras Baalbek Road
+* The area of Baalbek-Hermel Governorate east of (and including) the Zahle-Baalbek and Baalbek-Qaa Highways, from where the Ali El Nahri Road joins the Zahle-Baalbek Highway near Riyaq, northward past Baalbek, and through Makneh and Laboueh to the intersection with the Hermel-Ras Baalbek Road, including the Baalbek Temple
 * The area of Baalbek-Hermel Governorate north and east of the roads between the intersection of the Baalbek-Qaa Highway and the Hermel-Ras Baalbek Road to the North Governorate boundary via (and including) Hermel and Zouaitini
 
 FCDO advises against all but essential travel to:
@@ -76,7 +76,7 @@ FCDO advises against all but essential travel to:
 
 ### Areas in the North Governorate
 
-FCDO advises against all travel to the city of Tripoli, along the city boundaries.
+FCDO advises against all travel to the city of Tripoli, within and along the city boundaries.
 
 FCDO advises against all but essential travel to:
 
@@ -94,19 +94,19 @@ For further information on why we advise against travel, see [Conflict affecting
 
 ## Conflict affecting Lebanon
 
-Although a ceasefire in the conflict between Israel and Lebanese Hizballah came into force on 27 November, the security environment remains unpredictable. Israeli Defence Forces continue to conduct airstrikes and artillery fire at targets in Lebanon, including the South, near the Israeli and Syrian borders, and in the Nabatiyeh and Beqaa Governates north of the Litani River. The closure or disruption of roads and exit routes at short notice could affect your ability to leave the country. Do not rely on the FCDO being able to evacuate you in an emergency.
+Although a ceasefire in the conflict between Israel and Lebanese Hizballah came into force on 27 November 2024, the security environment remains unpredictable. Israeli Defence Forces continue to conduct airstrikes and artillery fire at targets in Lebanon, including the South, near the Israeli and Syrian borders, and in the Nabatiyeh and Beqaa Governates north of the Litani River. The closure or disruption of roads and exit routes at short notice could affect your ability to leave the country. Do not rely on the FCDO being able to evacuate you in an emergency.
 
 The security situation presents a range of serious risks to British Nationals in Lebanon, including the following.
 
 ### Military activity across Lebanon
 
-There are ongoing airstrikes, mortar and artillery exchanges across Lebanon, primarily on the boundary with Israel and the Beqqa Valley, but there have also been some in the South and in the Nabatiyeh Governates north of the Litani river. Strikes in other areas of the country cannot be ruled out, including in the southern suburbs of Beirut. The FCDO is aware that many people are returning to the south of Lebanon. Be aware that the Israeli Defence Force is continuing to tell people not to return to areas in the south close to the Blue Line. There are reported incidences of the Israeli Defences Forces firing on people who get too close to locations where they retain a presence.
+There are ongoing airstrikes, and artillery fire across Lebanon, primarily on the boundary with Israel and the Beqaa Valley, but there have also been some in the South and in the Nabatiyeh Governates north of the Litani river. Strikes in other areas of the country cannot be ruled out, including in the southern suburbs of Beirut. Strikes have resulted in civilian casualties and the destruction of residential buildings. There are strikes both in population centres and in rural areas. Be aware that the Israeli Defence Force is continuing to tell people not to return to areas in the south close to the Blue Line. There are reported incidences of the Israeli Defences Forces firing on people who get too close to locations where they retain a presence.
 
-Further air-strikes in Lebanon cannot be ruled out. Strikes have resulted in civilian casualties and the destruction of residential buildings. There are also strikes both in population centres and in rural areas. We advise you to keep up to date with the latest situation including using multiple media sources to understand frequency and location of strikes as these may change rapidly. There are various mapping sources available online.
+We advise you to keep up to date with the latest situation including using multiple media sources to understand frequency and location of strikes as these may change rapidly. There are various mapping sources available online.
 
 ### Access to Beirut airport
 
-Conflict between Israel and Iran is affecting airspace across the region, including in Lebanon. There is a risk of flight disruption and issues accessing the airport, whether by airspace closures, traffic congestion, temporary roadblocks or closure caused by Israeli airstrikes nearby. If you are travelling to the airport, check the local security situation and only make the journey if you judge it safe to do so. Remain alert to local conditions as these could change quickly.
+Beirut airport is open and operational. If you are travelling to the airport, check the local security situation before you travel. Remain alert to local conditions as these could change quickly.
 
 ### Civil disorder
 
@@ -114,7 +114,7 @@ Celebratory gunfire is common in Lebanon and there is a risk from gunfire being 
 
 ### Local support
 
-The Embassy remains open as normal and continues with essential work, including full services to British nationals.
+The Embassy is open as normal and continues with essential work, including full services to British nationals.
 
 Keep up to date with local and international media including TV and radio stations such as Virgin Radio Lebanon (FM 89.5) and Voice of Lebanon / Sawt Lubnan (FM 100.3 - 100.5) which may be useful sources of information on any developments.
 
@@ -146,8 +146,6 @@ Follow FCDO:
 * [travel advice on Facebook](https://www.facebook.com/FCDOTravel/)
 * [Travel Aware on Instagram](https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Ftravelaware%2F&is_from_rle)
 
-[Next
-:
-Entry requirements](/foreign-travel-advice/lebanon/entry-requirements)
+[Next:Entry requirements](/foreign-travel-advice/lebanon/entry-requirements)
 
 [View a printable version of the whole guide](/foreign-travel-advice/lebanon/print)
