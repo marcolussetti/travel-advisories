@@ -20,10 +20,13 @@ The features in this map do not constitute an authoritative source of geographic
 
 [Exercise a high degree of caution](#levels "Risk Levels") in Laos due to ongoing security concerns related to banditry, crime, spiked food and drinks, and unexploded munitions.
 
-### Xaisomboun Province - Avoid all travel
+### Xaisomboun province - Avoid non-essential travel
 
-[Avoid all travel](#levels "Risk Levels") to Xaisomboun Province due to the tense security situation and random shooting incidents.
+[Avoid non-essential travel](#levels "Risk Levels") to Xaisomboun province due to the tense security situation and random shooting incidents.
 
-### Bokeo Province - Avoid non-essential travel
+### Areas of Bokeo province - Avoid non-essential travel
 
-[Avoid non-essential travel](#levels "Risk Levels") to Bokeo Province along the borders with Myanmar, Thailand and around the Golden Triangle Special Economic Zone due to criminal activity.
+[Avoid non-essential travel](#levels "Risk Levels") to the following areas of Bokeo province due to criminal activity:
+
+* within 10 km of the borders with Myanmar and Thailand, excluding Bokeo International Airport and Road 3 leading there
+* the Golden Triangle Special Economic Zone

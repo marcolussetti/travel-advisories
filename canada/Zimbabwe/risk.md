@@ -18,4 +18,4 @@ The features in this map do not constitute an authoritative source of geographic
 
 ### Zimbabwe - Exercise a high degree of caution
 
-[Exercise a high degree of caution](#levels "Risk Levels") in Zimbabwe due to crime and the risk of civil unrest.
+[Exercise a high degree of caution](#levels "Risk Levels") in Zimbabwe due to crime.

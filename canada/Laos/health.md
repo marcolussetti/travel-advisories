@@ -299,9 +299,9 @@ High-risk travellers include those visiting or working in prisons, refugee camps
 
 Medical facilities throughout Laos are scarce and operate below the standards you might expect in Canada.
 
-To obtain suitable treatment, medical evacuation to Thailand is required, except for basic medical conditions and injuries. Such evacuations are very expensive and difficult to organize, but you may have to consider leaving if you experience medical problems while in Laos.
+Medical care for basic illnesses and injuries is available in Vientiane and Luang Prabang. To obtain suitable treatment for more complex cases, medical evacuation to Thailand is required.
 
-Seek immediate assistance in Vientiane at the French Medical Clinic on Rue Simeuvang, off Khouvieng (tel. +856 21 214 150), or the Alliance International Medical Centre Route Luang Prabang, on the way to the airport (tel. +856 21 513 095).
+Medical evacuation can be very expensive and difficult to organize, but you may need it in case of serious illness or injury.
 
 Make sure you get travel insurance that includes coverage for medical evacuation and hospital stays.
 

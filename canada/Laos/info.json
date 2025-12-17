@@ -1,7 +1,7 @@
 {
     "name": "Laos",
-    "update_reason": "Risk level(s) \u2013 added map",
-    "update_date": "2025-12-15T14:10:00",
+    "update_reason": "Thorough review and update of the entire content",
+    "update_date": "2025-12-16T12:10:00",
     "sections": {
         "risk": "canada/Laos/risk.md",
         "security": "canada/Laos/security.md",

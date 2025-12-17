@@ -1,7 +1,7 @@
 {
     "name": "Thailand",
-    "update_reason": "Risk level(s) \u2013 added map",
-    "update_date": "2025-12-15T14:10:00",
+    "update_reason": "Risk levels \u2013 updated regional risk in Songkhla province; Safety and security \u2013 updated information on southern provinces",
+    "update_date": "2025-12-16T13:48:00",
     "sections": {
         "risk": "canada/Thailand/risk.md",
         "security": "canada/Thailand/security.md",

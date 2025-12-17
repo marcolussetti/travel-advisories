@@ -4,7 +4,7 @@
 
 The authorities of a country or territory decide who can enter or exit through its borders. The Government of Canada cannot intervene on your behalf if you do not meet your destination’s entry or exit requirements.
 
-We have obtained the information on this page from the Laotian authorities. It can, however, change at any time.
+We have obtained the information on this page from the Lao authorities. It can, however, change at any time.
 
 Verify this information with the [Foreign Representatives in Canada](https://www.international.gc.ca/protocol-protocole/reps.aspx?lang=eng).
 
@@ -42,23 +42,23 @@ Different entry rules may apply when travelling with a temporary passport or an 
 
 ### Visas
 
-Tourist visa: required  
-Business visa: required  
-Student visa: required
+Tourist visa: required   
+ Business visa: required   
+ Student visa: required
 
-Electronic tourist visas can be obtained in advance by travellers planning to enter Laos through the Wattay International Airport or the Lao-Thai Friendship Bridge I.
+If you plan to enter Laos through Wattay International Airport or the First Lao-Thai Friendship Bridge, you can obtain an electronic tourist visa in advance for a fee.
 
-Tourist visas can be obtained upon arrival at Wattay International Airport, Luang Prabang International Airport, Pakse International Airport and some “international” (that is, open to all foreign nationals) border crossings. Contact the nearest Laotian embassy or consulate to confirm where you can get a tourist visa. A passport photo and US$42 are required to obtain a visa upon entry.
+You can obtain a tourist visa upon arrival at Wattay International Airport, Luang Prabang International Airport, Pakse International Airport and some “international” (that is, open to all foreign nationals) border crossings. Contact the nearest Lao embassy or consulate to confirm where you can get a tourist visa. You must provide a passport photo and pay a fee to obtain a visa upon arrival.
 
-[Electronic tourist visa](https://laoevisa.gov.la/index) – Lao Ministry of Foreign Affairs
+[Electronic tourist visa](https://laoevisa.gov.la/index) – Lao Ministry of Foreign Affairs
 
 ### Entry stamp
 
-Immigration offices at some border crossings are difficult to identify. Ensure that you obtain an entry stamp into Laos. Failure to do so can result in serious fines, detention and deportation.
+Immigration offices at some border crossings are difficult to identify. Ensure that you obtain an entry stamp when you enter Laos. Failure to do so can result in serious fines, detention and deportation.
 
-### Travel to Xaisomboun
+### Travel to Xaisomboun province
 
-Travellers are required to obtain permission from local authorities prior to travel to certain parts of Xaisomboun Province. You may be refused entry to some areas of the province, particularly around Long Tieng.
+You must obtain permission from local authorities before travelling to certain parts of Xaisomboun province. You may be refused entry to some areas of the province, particularly around Long Tieng.
 
 ### Children and travel
 

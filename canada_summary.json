@@ -464,7 +464,7 @@
     {
         "destination": "Germany",
         "risk_level": "Exercise a high degree of caution",
-        "last_updated": "2025-12-15T14:10:53",
+        "last_updated": "2025-12-16T10:12:05",
         "details_url": "https://travel.gc.ca/destinations/germany"
     },
     {
@@ -542,13 +542,13 @@
     {
         "destination": "Honduras",
         "risk_level": "Exercise a high degree of caution (with regional advisories)",
-        "last_updated": "2025-12-15T14:10:53",
+        "last_updated": "2025-12-16T13:51:43",
         "details_url": "https://travel.gc.ca/destinations/honduras"
     },
     {
         "destination": "Hong Kong",
         "risk_level": "Exercise a high degree of caution",
-        "last_updated": "2025-12-15T14:10:53",
+        "last_updated": "2025-12-16T10:50:09",
         "details_url": "https://travel.gc.ca/destinations/hong-kong"
     },
     {
@@ -650,7 +650,7 @@
     {
         "destination": "Kuwait",
         "risk_level": "Exercise a high degree of caution (with regional advisories)",
-        "last_updated": "2025-12-15T14:10:53",
+        "last_updated": "2025-12-16T12:12:06",
         "details_url": "https://travel.gc.ca/destinations/kuwait"
     },
     {
@@ -662,7 +662,7 @@
     {
         "destination": "Laos",
         "risk_level": "Exercise a high degree of caution (with regional advisories)",
-        "last_updated": "2025-12-15T14:10:53",
+        "last_updated": "2025-12-16T12:10:39",
         "details_url": "https://travel.gc.ca/destinations/laos"
     },
     {
@@ -1202,7 +1202,7 @@
     {
         "destination": "Switzerland",
         "risk_level": "Take normal security precautions",
-        "last_updated": "2025-12-15T14:10:53",
+        "last_updated": "2025-12-16T12:45:57",
         "details_url": "https://travel.gc.ca/destinations/switzerland"
     },
     {
@@ -1232,7 +1232,7 @@
     {
         "destination": "Thailand",
         "risk_level": "Exercise a high degree of caution (with regional advisories)",
-        "last_updated": "2025-12-15T14:10:53",
+        "last_updated": "2025-12-16T13:48:25",
         "details_url": "https://travel.gc.ca/destinations/thailand"
     },
     {
@@ -1376,7 +1376,7 @@
     {
         "destination": "Zimbabwe",
         "risk_level": "Exercise a high degree of caution",
-        "last_updated": "2025-12-15T14:10:53",
+        "last_updated": "2025-12-16T09:54:45",
         "details_url": "https://travel.gc.ca/destinations/zimbabwe"
     }
 ]

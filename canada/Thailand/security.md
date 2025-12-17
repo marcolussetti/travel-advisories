@@ -18,15 +18,15 @@ Land mines are present in the disputed border regions. Land border crossings bet
 * Follow the instructions of local authorities, including curfews and evacuation orders
 * Exercise increased caution if you are travelling to any areas along the border with Cambodia
 
-### Southern provinces of Narathiwat, Pattani, Songkhla and Yala
+### Southern provinces of Narathiwat, Pattani, Yala and southern Songkhla province
 
-Separatist insurgents periodically perpetrate criminally and politically motivated attacks in the southernmost provinces of Narathiwat, Pattani, Songkhla and Yala.
+Separatist insurgents periodically perpetrate criminally and politically motivated attacks in the southernmost provinces of Narathiwat, Pattani and Yala. They have also carried out an increasing number of violent attacks in areas of southern Songkhla province.
 
-These deadly attacks include shootings, bombings and arson, and are usually directed at military, government and security buildings and personnel. They have also occurred in a variety of public places.
+These deadly attacks include shootings, bombings and arson, and are usually directed at military, government and security buildings and personnel. They have also occurred in a variety of public places. In southern Songkhla province, bombings, shootings and other attacks have targeted monks, civilians and security forces, and resulted in casualties.
 
 These groups may also target popular tourist areas throughout Thailand.
 
-Martial law and heavily enhanced security measures are in place in Narathiwat, Pattani, and Yala provinces, and the Chana, Na Thawi, Thepha and Saba Yoi districts of Songkhla province.
+Martial law and heavily enhanced security measures are in place in Narathiwat, Pattani, and Yala provinces, and the Chana, Na Thawi, Thepha and Saba Yoi districts of Songkhla province. Cross-border skirmishes occur at land crossings and check-points near the border when Thai and Malaysian security forces clash with criminal networks and insurgent groups operating in the area.
 
 Increased enforcement powers allow authorities to:
 

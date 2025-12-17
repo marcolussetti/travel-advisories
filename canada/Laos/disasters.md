@@ -8,19 +8,13 @@ Climate change is affecting Laos. Extreme and unusual weather events are becomin
 
 ### Typhoons and monsoons
 
-Typhoons in the region can intensify rainfall and floods.
+The rainy season (monsoon) extends from May to November. It can bring typhoons and lead to severe flooding, especially in provinces along the Mekong River in southern Laos.
 
-The rainy season (monsoon) extends from May to November, but storms can occur at any time of the year.
+Seasonal flooding can hamper overland travel and reduce the provision of essential services. Roads may become impassable due to mudslides and landslides. Bridges, buildings, and infrastructure may be damaged.
 
-During the rainy season, provinces along the Mekong River in southern Laos are especially prone to severe rainstorms that can cause flooding and landslides, resulting in significant loss of life, extensive damage to infrastructure and hampering the provision of essential services.
-
-* Remain vigilant, especially in areas around major rivers
+* Monitor local media for the latest information, including on road conditions
 * Stay away from flooded areas
 * Monitor weather reports
-* Monitor local media for the latest updates, including those on road conditions
 * Follow the instructions of local authorities, including evacuation orders
 
-#### Useful links
-
-* [Severe storms outside Canada](https://travel.gc.ca/travelling/health-safety/hurricanes-typhoons-cyclones-monsoons)
-* [Mekong river levels](https://www.mrcmekong.org/) – Mekong River Commission
+[Severe storms outside Canada](https://travel.gc.ca/travelling/health-safety/hurricanes-typhoons-cyclones-monsoons)

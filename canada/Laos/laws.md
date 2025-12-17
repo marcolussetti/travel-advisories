@@ -8,29 +8,67 @@ Learn about what you should do and how we can help if you are [arrested or detai
 
 ### Identification
 
-Travellers are subject to search, detention and the possibility of fines by authorities if they can’t show suitable identification, such as a passport, and for not having an entry stamp in your passport.
+Travellers are subject to search, detention and the possibility of fines by authorities if they can’t show suitable identification, such as a passport, and for not having an entry stamp in their passport.
 
-Always carry ID, and comply with requests to stop at checkpoints and roadblocks.
+Always carry identification and comply with requests to stop at checkpoints and roadblocks.
 
 ### Smoking
 
-It is prohibited to import, possess or use shishas, e-cigarettes, vaporisers and their refills. Convicted offenders can expect heavy fines or jail sentences.
+It is prohibited to import, export, sell, buy, possess or use shisha, heated tobacco products, e-cigarettes, vaporizers and their refills. Convicted offenders can expect heavy fines or jail sentences.
 
 ### Drugs
 
-Penalties for possession, use or trafficking of illegal drugs are strict and may include the death penalty.
+Penalties for possession, use or trafficking of illegal drugs are severe and may include the death penalty.
+
+* Pack your own luggage and monitor it closely at all times
+* Never transport other people’s packages, bags or suitcases
 
 [Drugs, alcohol and travel](https://travel.gc.ca/travelling/health-safety/drugs)
 
 ### Illegal or restricted activities
 
-Non-marital sexual relationships between foreigners and Laotian citizens are against the law, as are various forms of cohabitation with Laotian nationals. Convictions for such offences can lead to prison sentences and large fines. Improper registration of a relationship to a Laotian national can lead to similar penalties. Permission for marriage or engagement to a Laotian citizen must be submitted in a formal application to Laotian authorities.
+#### Relationships between foreign citizens and Laotian citizens
 
-Photography of government buildings and vehicles, as well as bridges, airfields and military installations or personnel, is prohibited. Violators may be arrested and their equipment, seized.
+Non-marital sexual relationships between foreign citizens and Lao citizens are against the law, as are various forms of cohabitation. Convictions for such offences can lead to prison sentences and large fines. Improper registration of a relationship to a Lao citizen can lead to similar penalties. Permission for marriage or engagement to a Lao citizen must be submitted in a formal application to Lao authorities.
 
-Laos is tolerant of a diversity of religions. Religious proselytizing or distributing of religious material, however, is strictly prohibited. Violators may be arrested or deported.
+#### Photography
 
-Panhandling is illegal and can lead to fines or imprisonment.
+Photographing sensitive installations is prohibited. This includes:
+
+* military sites
+* government buildings
+* bridges
+* airfields
+
+Photography of military personnel is also prohibited.
+
+Violators may be arrested and their equipment may be seized.
+
+#### Other illegal activities
+
+Other illegal activities include:
+
+* religious proselytizing or distributing religious material
+* panhandling
+* nudity in public or at religious sites
+
+Violators may be arrested, fined, imprisoned or deported.
+
+### Driving
+
+You must carry an International Driving Permit.
+
+[International Driving Permit](https://travel.gc.ca/travelling/documents/international-driving-permit)
+
+#### Rental vehicles
+
+Travellers involved in traffic accidents have been required to pay compensation for property damage or injury, regardless of who the police determine to be at fault. Lao insurers will generally only meet a small proportion of the costs of an accident and refuse to cover compensation, which can be the largest expense related to an accident.
+
+Do not leave your passport as collateral when renting vehicles, including motorcycles. Read rental contracts thoroughly to ensure that the vehicle is correctly insured to cover damages and theft.
+
+### Culture
+
+Public displays of affection, such as kissing, whether between opposite or same-sex couples, are not considered proper or polite.
 
 ### Dual citizenship
 
@@ -61,20 +99,10 @@ Be aware that Canadian consular officials cannot interfere in private legal matt
 * [Canadian embassies and consulates by destination](https://travel.gc.ca/assistance/embassies-consulates)
 * [Request emergency assistance](https://travel.gc.ca/assistance/emergency-assistance)
 
-### Driving
-
-You must carry an International Driving Permit.
-
-[International Driving Permit](https://travel.gc.ca/travelling/documents/international-driving-permit)
-
-### Culture
-
-Public displays of affection, such as kissing, whether between opposite or same-sex couples, are not considered proper or polite.
-
 ### Money
 
-The currency is the kip (LAK).
+The currency of Laos is the kip (LAK).
 
-The LAK is not easily obtained or exchanged outside of Laos. U.S. dollars and Thai baht are commonly accepted.
+The kip is not easily obtained or exchanged outside of Laos. U.S. dollars and Thai baht are commonly accepted.
 
 ATMs are widely available. Major credit cards are accepted at some international hotels and tourist establishments. Cash advances can be obtained from some banks, although the bank commission rates are high.

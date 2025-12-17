@@ -24,11 +24,14 @@ The features in this map do not constitute an authoritative source of geographic
 
 [Avoid all travel](#levels "Risk Levels") to the area within 50 kilometres of the Thailand-Cambodia border due to ongoing tensions in the region.
 
-### Southern provinces of Narathiwat, Pattani, Songkhla and Yala - Avoid all travel
+### Southern provinces of Narathiwat, Pattani, Yala and southern Songkhla province - Avoid all travel
 
-[Avoid all travel](#levels "Risk Levels") to and through the following southern provinces, due to the unpredictable security situation. Separatist insurgents periodically perpetrate violent attacks.
+[Avoid all travel](#levels "Risk Levels") to the following southern provinces and region due to violent attacks from separatist insurgents and the unpredictable security situation:
 
 * Narathiwat
 * Pattani
-* Songkhla
 * Yala
+* southern Songkhla province:
+
++ Hat Yai city
++ east of Highways 408 and 4113, including Sakom
