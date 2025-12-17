@@ -4,6 +4,8 @@
 
 Irish passport holders do not need to get a visa before arrival. A visa, normally valid for 90 days, will be issued on arrival if you hold a valid Irish passport and have a return ticket.
 
+If visiting for longer than 90 days please consult your nearest [**Embassy or Consulate**](https://www.ireland.ie/en/dfa/embassies-in-ireland/) of Mauritius before travelling.
+
 ### **Passport**
 
 Citizens need a valid passport to enter Mauritius and your passport must be valid for a minimum of six months from the date you enter the country. You may be refused entry to Mauritius if your passport has less than six months validity remaining or if you do not have a return ticket.

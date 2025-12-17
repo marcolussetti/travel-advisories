@@ -10,6 +10,12 @@ High Degree of Caution
 
 Presidential and legislative elections will take place in Colombia in 2026. During election periods, increased volatility in the security situation can take place. Citizens are advised to avoid political rallies, demonstrations and large public protests or gatherings.
 
+#### **Armed protests - security threats**
+
+The ELN (Ejercito de Liberacion Nacional), a non-state armed group, has announced an armed strike from 14 December to 17 December. The group has warned of potential attacks in the cities of Bogota, Medellin, Cali, Popayan, Barrancabermeja and Cucuta. The ELN has advised civilians to avoid police and military facilities, as well as vehicles and motorcycles, in these areas. It has also warned against travel by road and on navigable rivers.
+
+Irish citizens in Colombia are advised to monitor the media for emerging threats, take official warnings seriously and follow the advice of local authorities.
+
 ### **General Travel Advice**
 
 Irish citizens do not require a visa to visit Colombia for periods of up to 90 days. When entering the country, they may need to provide evidence of return or onward travel.

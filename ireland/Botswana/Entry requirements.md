@@ -2,7 +2,7 @@
 
 ### Visas
 
-Irish citizens who are planning to visit Botswana for less than 90 days, do not require a visa.
+Irish citizens who are planning to visit Botswana for less than 90 days, do not require a visa. If you wish to visit for longer than 90 days please consult your nearest [**Embassy or Consulate**](https://www.ireland.ie/en/dfa/embassies-in-ireland/) of Botswana before travelling.
 
 ### **Passports**
 

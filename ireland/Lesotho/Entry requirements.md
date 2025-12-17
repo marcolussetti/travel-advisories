@@ -2,7 +2,7 @@
 
 ### **Visa**
 
-Irish citizens do not require a visa to travel to Lesotho for up to a period of 44 days after which a residential permit must be applied for at the Ministry of Home Affairs in Maseru.
+Irish citizens do not require a visa to travel to Lesotho for up to a period of 44 days after which a residential permit must be applied for at the Ministry of Home Affairs in Maseru. Please consult your nearest [**Embassy or Consulate**](https://www.ireland.ie/en/dfa/embassies-in-ireland/) of Lesotho before travelling for further information.
 
 ### **Passports**
 
