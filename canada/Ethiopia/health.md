@@ -365,6 +365,20 @@ Travellers who may be at high risk while travelling in regions with risk of tube
 
 High-risk travellers include those visiting or working in prisons, refugee camps, homeless shelters, or hospitals, or travellers visiting friends and relatives.
 
+Marburg virus disease
+
+Sporadic outbreaks of Marburg virus disease (MVD) may occur in this country.
+
+Marburg virus is transmitted to people from fruit bats and spreads among humans through direct contact with the bodily fluids of infected people or objects contaminated with these fluids. The disease is serious and often fatal, and there is currently no vaccine or specific treatment. The risk of getting the virus is low if proper precautions are followed.
+
+* Avoid contact with people who have symptoms of MVD (fever, rash, muscle pain), and anything that could be contaminated with their bodily fluids.
+* Avoid contact with the bodies of people who have died of MVD or an unknown illness during funerals and burials.
+* Avoid close contact with live (especially sick) or dead animals, as both can spread the virus.
+* Clean your hands often with soap and water for at least 20 seconds, or use a hand sanitizer containing at least 60% alcohol.
+
+**Learn more:**  
+[Marburg virus disease](https://www.canada.ca/en/public-health/services/infectious-diseases/viral-haemorrhagic-fevers/marburg-virus-disease.html)
+
 ### Medical services and facilities
 
 Health care is inadequate, except in private hospitals of Addis Ababa where you can expect reasonable standard of basic care for minor health problems. Otherwise, health facilities are not up to Canadian standards. They lack of personnel, equipment, supplies and medications.

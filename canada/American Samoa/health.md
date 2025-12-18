@@ -223,15 +223,31 @@ To lower your risk of getting sexually transmissible infections (STIs), HIV, and
 
 ### Medical services and facilities
 
-Medical facilities are limited. Health-care facilities are adequate for routine treatments, but limited in range and availability. Immediate cash payment for health services is expected. Pack a [travel health kit](http://travel.gc.ca/travelling/health-safety/kit), especially if you’ll be travelling away from major city centres.
+Health care facilities are adequate for routine treatments but limited in range and availability.
 
-There is a hyperbaric (decompression) chamber available at the LBJ Tropical Medical Center (Tel.: +1 684 633 1222) in Fagaalu on the island of Tutuila.
+There is one public hospital serving the territory, located in Faga’alu, Tutuila. Some clinics across the territory handle more basic treatments.
 
-Medical evacuation can be very expensive and you may need it in case of serious illness or injury.
+Medical facilities require immediate cash payment for medical treatment.
+
+There is only one hyperbaric (decompression) chamber located in Faga’alu, Tutuila. It could be far from your chosen diving location. Keep this in mind when choosing diving destinations.
+
+Medical evacuation can be very expensive and you will likely need it in case of serious illness or injury.
 
 Make sure you get travel insurance that includes coverage for medical evacuation and hospital stays.
 
 [Health and safety outside Canada](https://travel.gc.ca/travelling/health-safety)
+
+### Medication
+
+Some prescription medications may not be available in American Samoa.
+
+If you take prescription medications, you’re responsible for determining their legality in American Samoa.
+
+* Bring enough medication for your stay
+* Always keep your medication in the original container and carry a copy of your prescriptions
+* Pack your medication in your carry-on luggage
+
+[Travelling with medication](https://travel.gc.ca/travelling/health-safety/medication?_ga=2.191785258.1604296173.1718630005-1405742948.1680118138)
 
 ### Keep in Mind...
 

@@ -1,7 +1,7 @@
 {
     "name": "Ethiopia",
-    "update_reason": "Risk level(s) \u2013 added map",
-    "update_date": "2025-12-15T14:10:00",
+    "update_reason": "Health \u2013 Information about Marburg virus disease added",
+    "update_date": "2025-12-17T16:22:00",
     "sections": {
         "risk": "canada/Ethiopia/risk.md",
         "security": "canada/Ethiopia/security.md",

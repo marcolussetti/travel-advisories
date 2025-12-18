@@ -1,7 +1,7 @@
 {
     "name": "Tunisia",
-    "update_reason": "Risk level(s) \u2013 added map",
-    "update_date": "2025-12-15T14:10:00",
+    "update_reason": "Editorial change",
+    "update_date": "2025-12-17T10:07:00",
     "sections": {
         "risk": "canada/Tunisia/risk.md",
         "security": "canada/Tunisia/security.md",

@@ -16,7 +16,7 @@ Before you travel, check with your transportation company about passport require
 
 #### Regular Canadian passport
 
-Your passport must be valid for at least 6 months beyond the date you expect to leave Colombia.
+Your passport must be valid for the duration of your stay in Colombia.
 
 #### Passport for official travel
 

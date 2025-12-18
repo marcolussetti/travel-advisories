@@ -2,15 +2,15 @@
 
 ## Entry and exit requirements
 
+American Samoa is a territory of the United States.
+
 The authorities of a country or territory decide who can enter or exit through its borders. The Government of Canada cannot intervene on your behalf if you do not meet your destination’s entry or exit requirements.
 
-We have obtained the information on this page from the American Samoan authorities. It can, however, change at any time.
+We have obtained the information on this page from American Samoan authorities. It can, however, change at any time.
 
 Verify this information with the [Foreign Representatives in Canada](https://www.international.gc.ca/protocol-protocole/reps.aspx?lang=eng).
 
-American Samoa is a territory of the United States but retains oversight of its own borders. Some entry and exit requirements, such as passport validity, differ from those of the United States.
-
-[More about entry to American Samoa](https://www.legalaffairs.as.gov/copy-of-immigration-office-1) - American Samoa Immigration office
+### Passport
 
 Entry requirements vary depending on the type of passport you're travelling with.
 
@@ -44,16 +44,41 @@ Different entry rules may apply when travelling with a temporary passport or an 
 
 ### Visas
 
-Canadians can visit American Samoa without an entry permit or visa for a period of up to 30 days.
+Tourist visa: not required  
+ Business visa: not required  
+ Work permit: required  
+ Student visa: required
 
-At least 48 hours prior to your arrival, you must apply for and receive authorization from the Entry Permit Waiver Program. Cruise ship passengers need not apply.
+### Visitor permit
 
-[Online application](https://www.legalaffairs.as.gov/copy-of-entry-permit-waiver-program) - Entry Permit Waiver Program
+Canadian citizens must obtain a 30-day visitor permit before travelling to American Samoa for tourism or business purposes. You must apply online within 3 business days of your travel. Once approved, the visitor permit will be sent to you via email and you will be required to present it to immigration officials upon arrival. The visitor permit cannot be extended.
 
-### Yellow fever
+To apply, you will need to provide:
 
-Learn about [potential entry requirements related to yellow fever](#health) (vaccines section).
+* a return or onward ticket
+* proof of accommodation
+* a local contact’s phone number
+* payment via a credit card
+
+[US Visa / Waiver 30-Day Visitor Permit](https://legalaffairs.as.gov/usvisa30day) – American Samoa Department of Legal Affairs
+
+### Health declaration form
+
+You must complete a health declaration form to enter American Samoa.
+
+You can do so either:
+
+* online, a maximum of 48 hours prior to arrival
+* in person, upon arrival
+
+If you choose the online option, once you complete the form, you will receive a QR code by email, which you will need to present to health officials upon arrival.
+
+[American Samoa Traveler Health Declaration Portal](https://travel.doh.as/) – American Samoa Department of Health
 
 ### Children and travel
 
 Learn about [travelling with children](http://travel.gc.ca/travelling/children).
+
+### Yellow fever
+
+Learn about [potential entry requirements related to yellow fever](#health) (vaccines section).

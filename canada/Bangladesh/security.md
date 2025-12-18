@@ -2,11 +2,26 @@
 
 ## Safety and security
 
+### Elections
+
+Following the reforms of the 2024 interim government, Bangladesh will hold national elections on February 12, 2026.
+
+Demonstrations could occur before, during, and after the elections. During this time, local authorities may strengthen security measures and impose movement restrictions.
+
+Even peaceful gatherings can occasionally lead to disruptions or affect traffic and transportation, including in Dhaka and other major cities. Keep this in mind if you are planning to travel outside urban areas, as your travel plans may be disrupted.
+
+If you are in Bangladesh:
+
+* avoid demonstrations and large gatherings
+* expect an increased presence of security forces
+* monitor local and international media for the latest information
+* follow the instructions of local authorities
+
 ### Security situation
 
 Since July 2024, the security situation has been volatile in Bangladesh.
 
-The verdict in the trial of the former Prime Minister is expected on November 17, 2025, in Dhaka. Local authorities have enhanced security measures in response to rising violence, including crude bomb detonations and arson attacks.
+Local authorities have enhanced security measures in response to rising violence, including crude bomb detonations and arson attacks.
 
 If you are in Bangladesh:
 
@@ -31,18 +46,18 @@ If you decide to visit the Chittagong Hill Tracts region despite this advisory, 
 
 ### Demonstrations and civil unrest
 
-Demonstrations, blockades, nationwide general strikes—known as hartals—and politically motivated violence have occurred.
+Protests, blockades, nationwide general strikes—known as hartals—and politically-motivated violence have occurred in Bangladesh.
 
-Sudden, potentially violent demonstrations and clashes can take place any day. Larger crowds usually gather on Friday afternoons following Jumma prayers. Previous violent protests have resulted in thousands of casualties.
+Larger crowds usually gather on Friday afternoons following Jumma prayers but sudden and potentially violent clashes can take place any time. Past violent protests have resulted in thousands of casualties.
 
-Avoid all demonstrations and gatherings. Violence has occurred at rallies in several cities, including:
+Rallies have also turned violent in several cities, including:
 
 * Chittagong
 * Dhaka
 * Khulna
 * Sylhet
 
-Certain groups have used explosive devices and firearms during confrontations between rival political factions, demonstrators and police.
+Explosive devices and firearms have been used during confrontations between rival political factions, demonstrators and police.
 
 Be vigilant in Dhaka around:
 
@@ -62,9 +77,9 @@ Be vigilant in Dhaka around:
 
 * the commercial district of Kawran Bazar
 
-Attacks using explosive devices have occurred in crowded public places, hotels, movie theatres, public transportation and railway stations. Law enforcement officials have deployed crowd control measures such as tear gas and rubber bullets.
+Attacks have occurred using improvised explosive devices in crowded public places, including hotels, movie theatres, public transportation and railway stations. Law enforcement officials have deployed crowd control measures such as tear gas and rubber bullets.
 
-* Avoid areas where demonstrations and large gatherings are taking place
+* Avoid areas where demonstrations or large gatherings are taking place
 * Follow the instructions of local authorities
 * Monitor local media for information on ongoing demonstrations
 
