@@ -88,7 +88,7 @@ You must get a report at the scene of an accident in Romania. If your vehicle is
 
 ### Toll roads
 
-You must pay a [road toll ‘rovinieta’](https://www.roviniete.ro/en/#go-content) to use the national roads. Buy a vignette (sticker) at border points and at most petrol stations. If you do not display the sticker, you may get a heavy fine.
+You must pay a [road toll ‘rovinieta’](https://www.roviniete.ro/en/#go-content) to use the national roads. Buy a vignette at border points and at most petrol stations. If you do not purchase the vignette, you may get a heavy fine.
 
 ### Taxis
 
@@ -104,12 +104,8 @@ You may receive alerts on your mobile phone from the Romanian government in the 
 
 Romania is in a seismically active area and tremors happen regularly. The last major earthquake was in 1977. The US Federal Emergency Management Agency website has advice about  [what to do before, during and after an earthquake](https://www.ready.gov/earthquakes).
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/romania/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/romania/entry-requirements)
 
-[Next
-:
-Health](/foreign-travel-advice/romania/health)
+[Next:Health](/foreign-travel-advice/romania/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/romania/print)

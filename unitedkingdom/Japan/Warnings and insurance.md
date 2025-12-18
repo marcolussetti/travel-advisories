@@ -1,17 +1,17 @@
 # Warnings and insurance
 
 Still current at:
-:   11 December 2025
+:   18 December 2025
 
 Updated:
-:   10 December 2025
+:   17 December 2025
 
 Latest update:
-:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
+:   Updated information about earthquake and tsunami advisories ( 'Warnings and insurance' page).
 
 ## Earthquake and tsunami advisories
 
-All tsunami advisories have been lifted following a 7.5 magnitude earthquake off Aomori prefecture on 8 December. However, the Japan Meteorological Agency has warned of the possibility of another follow-up large-scale earthquake over the next 7 days.
+All formal tsunami and mega-quake advisories have been lifted following a 7.5 magnitude earthquake off Aomori prefecture on 8 December. However the risk of a large-scale earthquake is still present and Japanese authorities are urging the public to remain cautious.
 
 Follow the advice of local authorities. For further information, read the [NHK website](https://www3.nhk.or.jp/nhkworld/en/news/).
 
@@ -43,8 +43,6 @@ Follow FCDO:
 * [travel advice on Facebook](https://www.facebook.com/FCDOTravel/)
 * [Travel Aware on Instagram](https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Ftravelaware%2F&is_from_rle)
 
-[Next
-:
-Entry requirements](/foreign-travel-advice/japan/entry-requirements)
+[Next:Entry requirements](/foreign-travel-advice/japan/entry-requirements)
 
 [View a printable version of the whole guide](/foreign-travel-advice/japan/print)

@@ -16,12 +16,8 @@ Although the decommissioning of the Fukushima Daiichi site and full clean-up of 
 
 A series of earthquakes hit the Noto Peninsula on 1 January, causing a minor tsunami and fires in various parts of Ishikawa Prefecture. Infrastructure damage was extensive, and some transport links remain disrupted. Take care in affected areas and follow local guidance.
 
-[Previous
-:
-Safety and security](/foreign-travel-advice/japan/safety-and-security)
+[Previous:Safety and security](/foreign-travel-advice/japan/safety-and-security)
 
-[Next
-:
-Health](/foreign-travel-advice/japan/health)
+[Next:Health](/foreign-travel-advice/japan/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/japan/print)

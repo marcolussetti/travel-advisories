@@ -53,12 +53,8 @@ FCDO has a list of [medical providers in Japan](https://www.gov.uk/government/
 
 There is also [guidance on healthcare if you’re living in Japan](https://www.gov.uk/guidance/living-in-japan#healthcare-in-japan).
 
-[Previous
-:
-Regional risks](/foreign-travel-advice/japan/regional-risks)
+[Previous:Regional risks](/foreign-travel-advice/japan/regional-risks)
 
-[Next
-:
-Getting help](/foreign-travel-advice/japan/getting-help)
+[Next:Getting help](/foreign-travel-advice/japan/getting-help)
 
 [View a printable version of the whole guide](/foreign-travel-advice/japan/print)

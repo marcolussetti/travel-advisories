@@ -179,12 +179,8 @@ See [earthquake safety tips](https://www.jnto.go.jp/safety-tips/eng/emergency/e
 
 There are several active volcanoes in Japan. Monitor local media reports and follow the advice of local authorities. Check for [volcano warnings](http://www.jma.go.jp/en/volcano/) from the Japanese Meteorological Agency. See [volcano safety tips](https://www.jnto.go.jp/safety-tips/eng/emergency/volcanic/v01.html) from the Japan National Tourism Agency.
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/japan/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/japan/entry-requirements)
 
-[Next
-:
-Regional risks](/foreign-travel-advice/japan/regional-risks)
+[Next:Regional risks](/foreign-travel-advice/japan/regional-risks)
 
 [View a printable version of the whole guide](/foreign-travel-advice/japan/print)

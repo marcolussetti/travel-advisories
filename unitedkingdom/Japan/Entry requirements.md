@@ -48,12 +48,8 @@ Whale meat is available in Japan but importing it into the UK and EU is illegal.
 
 Japan is still a predominantly cash-based society. You may have difficulty using credit and debit cards issued outside Japan. Cirrus, Maestro, Link and Delta cash cards are not widely accepted. Japanese post offices, 7-Eleven stores and JP Post Bank have cash machines that will accept some foreign cards during business hours.
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/japan)
+[Previous:Warnings and insurance](/foreign-travel-advice/japan)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/japan/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/japan/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/japan/print)

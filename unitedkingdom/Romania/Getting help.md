@@ -57,8 +57,6 @@ Follow FCDO:
 
 The Overseas Business Risk service offers [information and advice for British companies operating in Romania](https://www.gov.uk/government/publications/overseas-business-risk-romania) on how to manage political, economic, and business security-related risks.
 
-[Previous
-:
-Health](/foreign-travel-advice/romania/health)
+[Previous:Health](/foreign-travel-advice/romania/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/romania/print)

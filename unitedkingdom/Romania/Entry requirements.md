@@ -100,12 +100,8 @@ For more information, contact the [Romanian Embassy in the UK](https://londra.ma
 
 For a list of the public notaries, see the [National Union of Public Notaries from Romania](http://www.uniuneanotarilor.ro/?p=2.2.3&lang=en) website.
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/romania)
+[Previous:Warnings and insurance](/foreign-travel-advice/romania)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/romania/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/romania/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/romania/print)
