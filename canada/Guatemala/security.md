@@ -2,6 +2,20 @@
 
 ## Safety and security
 
+Due to recurring armed clashes, a state of prevention is in effect until December 30, 2025, in the communities of Nahualá and Santa Catarina Ixtahuacán in Sololá department. During this period, security forces have the authority to:
+
+* limit public gatherings and demonstrations
+* establish roadblocks and checkpoints
+* limit movements
+
+If you’re in the affected areas:
+
+* follow the instructions of local authorities
+* monitor local media to stay informed on the evolving situation
+* avoid areas where demonstrations and large gatherings are taking place
+
+If you’re travelling to the cities of Sololá or Quetzaltenango, you should plan an alternative route.
+
 ### Border areas
 
 Border areas often see higher levels of criminal activity and violence. Crime rates are high near all border crossings in Guatemala but are worse near unofficial ones.
