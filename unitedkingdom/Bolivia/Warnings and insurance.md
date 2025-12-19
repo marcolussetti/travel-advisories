@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   11 December 2025
+:   19 December 2025
 
 Updated:
-:   10 December 2025
+:   18 December 2025
 
 Latest update:
-:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
+:   "Addition of information and advice about planned road blockades across La Paz from 19 December (Summary page)."
 
 ![](https://assets.publishing.service.gov.uk/media/672ccc5a62831268b0b1a328/FCDO__TA__098_-_Bolivia_Travel_Advice_Ed1__WEB_.jpg)
 
@@ -19,6 +19,10 @@ Your travel insurance could be invalidated if you travel against advice from the
 ## Areas where FCDO advises against all but essential travel
 
 FCDO advises against all but essential travel to the Chapare region of Cochabamba Department including Villa Tunari and highway routes 4 and 24 that pass through Chapare.
+
+The transport union in Bolivia has announced extensive road blockades across La Paz starting from Friday 19 December, including on roads to and from airports. These blockades are expected to spread to other regions and cities across Bolivia. This will restrict public and private transport services.
+
+Avoid large crowds and demonstrations, and do not attempt to cross blockades. Check [road status updates from the Bolivian road authority](https://transitabilidad.abc.gob.bo/mapa/) (in Spanish) to see which roads are blocked.
 
 Find out more about [why FCDO advises against travel](https://www.gov.uk/foreign-travel-advice/bolivia/safety-and-security).
 
@@ -49,8 +53,6 @@ Follow FCDO:
 * [travel advice on Facebook](https://www.facebook.com/FCDOTravel/)
 * [Travel Aware on Instagram](https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Ftravelaware%2F&is_from_rle)
 
-[Next
-:
-Entry requirements](/foreign-travel-advice/bolivia/entry-requirements)
+[Next:Entry requirements](/foreign-travel-advice/bolivia/entry-requirements)
 
 [View a printable version of the whole guide](/foreign-travel-advice/bolivia/print)

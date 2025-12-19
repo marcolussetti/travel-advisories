@@ -75,12 +75,8 @@ There are strict rules about goods you can take into or out of Guatemala. You mu
 
 It is often not possible to exchange British pounds in Guatemala. It is much easier to exchange US dollars.
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/guatemala)
+[Previous:Warnings and insurance](/foreign-travel-advice/guatemala)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/guatemala/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/guatemala/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/guatemala/print)

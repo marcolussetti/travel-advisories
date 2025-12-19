@@ -24,12 +24,8 @@ In recent years, armed incursions have occurred into south-west Rwanda:
 * on 17 June 2023, a Congolese soldier crossed into Rwanda at Gisenyi and fired on civilians and Rwandan security personnel near the border, injuring 2 Rwandan police officers – the soldier was shot dead
 * in 2022, artillery fire from the DRC hit Rwandan territory, close to the border in Kinigi sector of Musanze District in the north-west
 
-[Previous
-:
-Safety and security](/foreign-travel-advice/rwanda/safety-and-security)
+[Previous:Safety and security](/foreign-travel-advice/rwanda/safety-and-security)
 
-[Next
-:
-Health](/foreign-travel-advice/rwanda/health)
+[Next:Health](/foreign-travel-advice/rwanda/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/rwanda/print)

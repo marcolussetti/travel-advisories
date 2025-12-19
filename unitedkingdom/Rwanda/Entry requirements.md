@@ -46,12 +46,8 @@ There are strict rules about [goods you can take into or out of Rwanda](https://
 
 You must declare drones when you arrive. They may be confiscated or held until you leave the country.
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/rwanda)
+[Previous:Warnings and insurance](/foreign-travel-advice/rwanda)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/rwanda/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/rwanda/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/rwanda/print)

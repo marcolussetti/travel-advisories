@@ -160,12 +160,8 @@ There are frequent minor earth tremors and there is a risk of earthquakes in Gua
 
 There is a risk of volcanic eruptions in Guatemala. Monitor local media and seek advice from your tour operator in case of possible travel disruption. For further information see [CONRED, Guatemala’s disaster agency](https://conred.gob.gt/) (in Spanish).
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/guatemala/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/guatemala/entry-requirements)
 
-[Next
-:
-Regional risks](/foreign-travel-advice/guatemala/regional-risks)
+[Next:Regional risks](/foreign-travel-advice/guatemala/regional-risks)
 
 [View a printable version of the whole guide](/foreign-travel-advice/guatemala/print)

@@ -1,11 +1,11 @@
 {
     "name": "Guatemala",
-    "update_reason": "New information about dual nationals returning to the UK (\u2018Entry requirements\u2019 page).",
+    "update_reason": "New information about a State of Exception in Solol\u00e1 department of western Guatemala ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Guatemala/Warnings and insurance.md",
-            "update_date": "2025-12-10T13:54:38+00:00"
+            "update_date": "2025-12-18T09:39:48+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Guatemala/Getting help.md"
         }
     ],
-    "update_date": "2025-12-10T13:54:38+00:00"
+    "update_date": "2025-12-18T09:39:48+00:00"
 }

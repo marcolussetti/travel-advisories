@@ -27,12 +27,8 @@ PROATUR, Guatemala’s tourist assistance service (see [Getting help](https://w
 
 Boat services between towns on the shore of Lake Atitlán may be a safer alternative.
 
-[Previous
-:
-Safety and security](/foreign-travel-advice/guatemala/safety-and-security)
+[Previous:Safety and security](/foreign-travel-advice/guatemala/safety-and-security)
 
-[Next
-:
-Health](/foreign-travel-advice/guatemala/health)
+[Next:Health](/foreign-travel-advice/guatemala/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/guatemala/print)

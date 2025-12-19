@@ -1,11 +1,11 @@
 {
     "name": "Rwanda",
-    "update_reason": "New information about dual nationals returning to the UK (\u2018Entry requirements\u2019 page).",
+    "update_reason": "FCDO no longer advises against all but essential travel to parts of Rubavu District. FCDO continues to advise against all but essential travel to parts of Rusizi District which are within 10km of the border with the Democratic Republic of Congo (\u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Rwanda/Warnings and insurance.md",
-            "update_date": "2025-12-10T13:31:46+00:00"
+            "update_date": "2025-12-18T15:03:23+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Rwanda/Getting help.md"
         }
     ],
-    "update_date": "2025-12-10T13:31:46+00:00"
+    "update_date": "2025-12-18T15:03:23+00:00"
 }

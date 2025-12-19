@@ -72,12 +72,8 @@ It is illegal to import:
 
 Declare cash or travellers cheques if the value is 3000 Kuwaiti dinars (£7,500) or more. You will get a certified declaration to show you brought it in with you. If you do not, your money could be seized when you leave.
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/kuwait)
+[Previous:Warnings and insurance](/foreign-travel-advice/kuwait)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/kuwait/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/kuwait/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/kuwait/print)

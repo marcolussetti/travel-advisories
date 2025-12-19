@@ -112,7 +112,11 @@ Alcohol is illegal. Buying, selling or carrying it, as well as public intoxicati
 
 ### Illegal drugs penalties
 
-Penalties for drug trafficking include the death sentence. Possession or use of illegal drugs can lead to a prison sentence of between 5 and 10 years, and a heavy fine. Bail is not usually given and even if found not guilty, you can expect to spend several months in detention while the case progresses through the judicial system.
+Kuwait has zero tolerance for drug-related offences. Penalties for drug smuggling or trafficking include the death sentence. Offences involving minors or committed in schools, hospitals, prisons or other protected locations can result in life imprisonment or the death penalty.
+
+Possession or use of illegal drugs, including for small or residual amounts, can lead to a prison sentence of between 5 and 10 years, and heavy fines. Bail is not usually given and even if found not guilty, defendants can expect to spend several months in detention while the case progresses through the judicial system.
+
+Wearing, using, or displaying items that promote or encourage narcotics, including logos on clothing, constitutes an offence and may result in significant fines.
 
 ### Using cameras in secure areas
 
@@ -206,12 +210,8 @@ Take extra care when sailing in Kuwaiti waters – regional tensions may affect 
 
 Take care when travelling by dhow, as the safety of these sailing vessels may not be up to UK standards. Make sure life jackets are available.
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/kuwait/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/kuwait/entry-requirements)
 
-[Next
-:
-Health](/foreign-travel-advice/kuwait/health)
+[Next:Health](/foreign-travel-advice/kuwait/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/kuwait/print)

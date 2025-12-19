@@ -10,12 +10,8 @@ FCDO advises against all but essential travel to the Chapare region of Cochabamb
 
 It is difficult for the British Embassy to provide in-person emergency or consular support in these areas. The local authorities may also be very limited in the help they can provide.
 
-[Previous
-:
-Safety and security](/foreign-travel-advice/bolivia/safety-and-security)
+[Previous:Safety and security](/foreign-travel-advice/bolivia/safety-and-security)
 
-[Next
-:
-Health](/foreign-travel-advice/bolivia/health)
+[Next:Health](/foreign-travel-advice/bolivia/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/bolivia/print)

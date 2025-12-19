@@ -161,12 +161,8 @@ Forest fires are common during the dry season (May to October) and affect some p
 
 Floods and landslides are common, particularly in mountainous areas during the rainy season (November to March). Roads are often impassable for days at a time.
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/bolivia/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/bolivia/entry-requirements)
 
-[Next
-:
-Regional Risks](/foreign-travel-advice/bolivia/regional-risks)
+[Next:Regional Risks](/foreign-travel-advice/bolivia/regional-risks)
 
 [View a printable version of the whole guide](/foreign-travel-advice/bolivia/print)

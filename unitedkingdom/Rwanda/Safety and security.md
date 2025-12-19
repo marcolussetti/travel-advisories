@@ -76,7 +76,7 @@ The last Saturday of each month is Umuganda, a national day of community service
 
 ### Gorilla and Chimpanzee trekking
 
-If you plan to travel close to the Democratic Republic of the Congo border on a gorilla or chimpanzee trek, check travel advice for [the Rubavu and Rusizi Districts](https://www.gov.uk/foreign-travel-advice/rwanda). If you plan on crossing the border into DRC, [check the travel advice for DRC](https://www.gov.uk/foreign-travel-advice/democratic-republic-of-the-congo). Short-notice border closures could impact any travel plans in the region. Plan your journey  in advance and discuss your itinerary with your tour operator.  Keep up to date with developments through your tour operator and check the local media.
+If you plan to travel close to the Democratic Republic of the Congo border on a gorilla or chimpanzee trek, check travel advice for [Rusizi District and the DRC border region](https://www.gov.uk/foreign-travel-advice/rwanda). If you plan on crossing the border into DRC, [check the travel advice for DRC](https://www.gov.uk/foreign-travel-advice/democratic-republic-of-the-congo). Short-notice border closures could impact any travel plans in the region. Plan your journey  in advance and discuss your itinerary with your tour operator.  Keep up to date with developments through your tour operator and check the local media.
 
 ## Transport risks
 
@@ -117,12 +117,8 @@ The rainy season runs from February to May and from September to December. April
 
 There is a risk of earthquakes in Rwanda. The US Federal Emergency Management Agency has advice about [what to do before, during and after an earthquake](https://www.ready.gov/earthquakes). The US Geological Survey has a real-time earthquake map that [captures information following significant seismic activity](https://earthquake.usgs.gov/earthquakes/map/?extent=-13.71004,11.64551&extent=9.0587,51.72363). If there is an earthquake, monitor local media reports and follow the advice of the authorities.
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/rwanda/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/rwanda/entry-requirements)
 
-[Next
-:
-Regional risks](/foreign-travel-advice/rwanda/regional-risks)
+[Next:Regional risks](/foreign-travel-advice/rwanda/regional-risks)
 
 [View a printable version of the whole guide](/foreign-travel-advice/rwanda/print)

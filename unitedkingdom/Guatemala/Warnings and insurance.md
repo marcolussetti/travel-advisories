@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   11 December 2025
+:   19 December 2025
 
 Updated:
-:   10 December 2025
+:   18 December 2025
 
 Latest update:
-:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
+:   New information about a State of Exception in Sololá department of western Guatemala ('Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/65fac0c89316f5001d64c3c0/FCDO__TA__095_-_Guatemala_Travel_Advice_Ed1__WEB_.jpg)
 
@@ -24,6 +24,12 @@ FCDO advises against all but essential travel to:
 * to the towns of Santa Ana Huista, San Antonio Huista and La Democracia in the department of Huehuetenango
 
 Find out more about [why FCDO advises against travel to these areas](https://www.gov.uk/foreign-travel-advice/guatemala/regional-risks).
+
+## State of Exception
+
+The Guatemalan government has declared a 15-day State of Emergency in the municipalities of Santa Catarina Ixtahuacán and Nahualá in Sololá department in western Guatemala, effective from 15 December. This follows violent clashes involving armed security forces linked to territorial disputes. If you plan to visit Lake Atitlán, Quetzaltenango, or nearby towns, check your route in advance, monitor local news, and avoid traveling at night.
+
+Under the State of Emergency, public gatherings are prohibited, road blocks are in force and security forces may intervene to disperse unauthorised gatherings. Restrictions also apply to carrying items that could be used for violence.
 
 ## Before you travel
 
@@ -53,8 +59,6 @@ Follow FCDO:
 * [travel advice on Facebook](https://www.facebook.com/FCDOTravel/)
 * [Travel Aware on Instagram](https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Ftravelaware%2F&is_from_rle)
 
-[Next
-:
-Entry requirements](/foreign-travel-advice/guatemala/entry-requirements)
+[Next:Entry requirements](/foreign-travel-advice/guatemala/entry-requirements)
 
 [View a printable version of the whole guide](/foreign-travel-advice/guatemala/print)

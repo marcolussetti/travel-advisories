@@ -1,11 +1,11 @@
 {
     "name": "Bolivia",
-    "update_reason": "New information about dual nationals returning to the UK (\u2018Entry requirements\u2019 page).",
+    "update_reason": "\"Addition of information and advice about planned road blockades across La Paz from 19 December (Summary page).\"",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Bolivia/Warnings and insurance.md",
-            "update_date": "2025-12-10T13:10:12+00:00"
+            "update_date": "2025-12-18T22:45:56+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Bolivia/Getting help.md"
         }
     ],
-    "update_date": "2025-12-10T13:10:12+00:00"
+    "update_date": "2025-12-18T22:45:56+00:00"
 }

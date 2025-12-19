@@ -1,26 +1,22 @@
 # Warnings and insurance
 
 Still current at:
-:   11 December 2025
+:   19 December 2025
 
 Updated:
-:   10 December 2025
+:   18 December 2025
 
 Latest update:
-:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
+:   FCDO no longer advises against all but essential travel to parts of Rubavu District. FCDO continues to advise against all but essential travel to parts of Rusizi District which are within 10km of the border with the Democratic Republic of Congo (‘Warnings and insurance’ page).
 
-![](https://assets.publishing.service.gov.uk/media/67f05c1e22a7bab256d956cf/Annex_A_FCDO__TA__100_-_Rwanda_Travel_Advice_Ed4__WEB_.jpg)
+![](https://assets.publishing.service.gov.uk/media/694416f88f4636fa2c547e9a/FCDO__TA__100_-_Rwanda_Travel_Advice_Ed5__WEB_.jpg)
 
 
-[Download a more detailed map (PDF, 556 KB)](https://assets.publishing.service.gov.uk/media/67f05c1eba15e341025cf023/Annex_A_FCDO__TA__100_-_Rwanda_Travel_Advice_Ed4.pdf)
+[Download a more detailed map (PDF, 554 KB)](https://assets.publishing.service.gov.uk/media/694416f89273c48f554cf5fe/FCDO__TA__100_-_Rwanda_Travel_Advice_Ed5.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
 ## Areas where FCDO advises against all but essential travel
-
-### Rubavu District
-
-FCDO advises against all but essential travel to the parts of Rubavu District which are north-west of the NR2 road west of the NR11 road, leading from Nyamyumba to Mukamira. This includes the town of Gisenyi and the border crossing point at Gisenyi-Goma.
 
 ### Rusizi District
 
@@ -28,7 +24,7 @@ FCDO advises against all but essential travel to the parts of Rusizi District w
 
 ## Rwanda-DRC border
 
-Risks associated with the proximity of potential fighting in Democratic Republic of Congo (DRC) may affect people on the Rwandan side of the border, including Rubavu and Rusizi districts, Volcanoes National Park, Nyungwe Forest and Lake Kivu. International borders are often not well marked in remote areas, and you could unknowingly cross into DRC. You may see a presence of military personnel on both sides of the border. On 27 January, there were reports of gunfire and artillery fire in Gisenyi.
+Risks associated with the proximity of potential fighting in Democratic Republic of Congo (DRC) may affect people on the Rwandan side of the border. International borders are often not well marked in remote areas, and you could unknowingly cross into DRC. You may see a presence of military personnel on both sides of the border.
 
 See [Democratic Republic of the Congo’s travel advice](https://www.gov.uk/foreign-travel-advice/democratic-republic-of-the-congo) for more information. Keep up to date with developments through local media.
 
@@ -62,8 +58,6 @@ Follow FCDO:
 * [travel advice on Facebook](https://www.facebook.com/FCDOTravel/)
 * [Travel Aware on Instagram](https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Ftravelaware%2F&is_from_rle)
 
-[Next
-:
-Entry requirements](/foreign-travel-advice/rwanda/entry-requirements)
+[Next:Entry requirements](/foreign-travel-advice/rwanda/entry-requirements)
 
 [View a printable version of the whole guide](/foreign-travel-advice/rwanda/print)
