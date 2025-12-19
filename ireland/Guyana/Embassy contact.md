@@ -2,7 +2,7 @@
 
 There is no Irish Embassy in Guyana. However, if assistance is needed, please contact the Irish Embassy in Brazil.
 
-If you are in need of emergency assistance, please contact the Embassy at + 55 61 3248 8800 and leave a message on the answering machine.
+If you are in need of emergency assistance, please contact the Embassy at + 55 11 3149 7629 and leave a message on the answering machine.
 
 The answering machine is monitored regularly and the Duty Officer will contact you as soon as possible.
 

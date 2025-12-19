@@ -6,6 +6,8 @@ High Degree of Caution
 
 ### **Travel Alert**
 
+On 14 December 2025, the Guatemalan government declared a State of Emergency in the municipalities of Nahuala and Santa Catarina Ixtahuacan in the department of Sololá in western Guatemala. The State of Emergency is a response to increased criminal activity in the two municipalities, and it is expected to last for at least 15 days. Irish citizens travelling in those municipalities, and surrounding areas, should exercise additional caution, avoid large crowds/demonstrations, follow instructions issued by local authorities, and monitor local media for any new information.
+
 Recently, Guatemala has been subject to earthquakes of varying severity, from 3.0 to 5.7 magnitude. Earthquakes and their aftershocks can also cause landslides in some parts of the country. If travelling through Guatemala, please make sure you know what to do in case of an earthquake. Earthquakes may also cause road blockages and temporary disruptions.
 
 ### **General Travel Advice**

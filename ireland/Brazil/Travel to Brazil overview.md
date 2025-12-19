@@ -4,9 +4,9 @@
 
 High Degree of Caution
 
-### **Travel alert**
+### **Travel Alert**
 
-### **Methanol poisoning**
+#### **Methanol poisoning**
 
 There have been recent cases of death and severe illness in Brazil from alcoholic drinks laced with methanol. Be vigilant when buying spirit-based drinks, particularly whiskey, gin, or vodka. If you feel ill within 12 – 24 hours of consuming an alcoholic drink, seek medical assistance.
 
@@ -32,7 +32,7 @@ Visitors can contact the emergency services in Brazil by dialling the following 
 
 Tourist Police who speak English are available in Rio de Janeiro, São Paulo and at some major airports
 
-**Any Irish citizen requiring assistance should contact the Irish Embassy in Brasília or Consulate General in São Paulo. Irish citizens can also reach the out of hours emergency service by calling +55 61 3248 8800.**
+**Any Irish citizen requiring assistance should contact the Irish Embassy in Brasília or Consulate General in São Paulo. Irish citizens can also reach the out of hours emergency service by calling +55 11 3149 7629.**
 
 ### **Our Tips for Safe Travels:**
 

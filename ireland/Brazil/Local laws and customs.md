@@ -16,7 +16,7 @@ To purchase a property in Brazil, complete all adequate due diligence procedures
 
 If visitors have to use a Brazilian telephone (rather than an Irish mobile) they need to use a carrier, that is, to add an additional two numbers which effectively select through which company the call will be routed.
 
-Thus if, from, say, Rio de Janeiro, you wished to call the Embassy, dial 0+carrier (which can be 21, 14 or 15) followed by 61.3248-8800.
+Thus if, from, say, Rio de Janeiro, you wished to call the Embassy, dial 0+carrier (which can be 21, 14 or 15) followed by 11.3149-7629.
 
 Visitors should contact your Irish mobile phone provider, in advance of their trip, to confirm whether they will be able to receive/make telephone calls or text messages while travelling in Brazil.
 

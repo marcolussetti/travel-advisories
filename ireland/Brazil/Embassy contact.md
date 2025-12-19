@@ -1,6 +1,6 @@
 ## Embassy contact
 
-If in need of emergency assistance, please contact the Embassy at + 55 61 3248 8800 and leave a message on the answering machine.
+If in need of emergency assistance, please contact the Embassy at + 55 11 3149 7629 and leave a message on the answering machine.
 
 The answering machine is monitored regularly and the Duty Officer will make contact as soon as possible.
 
