@@ -63,8 +63,6 @@ Telephone: 020 7008 5000 (24 hours)
 
 The Overseas Business Risk service offers [information and advice for British companies operating in Guinea](https://www.gov.uk/government/publications/overseas-business-risk-guinea) on how to manage political, economic, and business security-related risks.
 
-[Previous
-:
-Health](/foreign-travel-advice/guinea/health)
+[Previous:Health](/foreign-travel-advice/guinea/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/guinea/print)

@@ -1,15 +1,19 @@
 # Warnings and insurance
 
 Still current at:
-:   11 December 2025
+:   20 December 2025
 
 Updated:
-:   10 December 2025
+:   19 December 2025
 
 Latest update:
-:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
+:   Updated following an incident near Taipei Main Station and in Zhongshan shopping district, central Taipei (‘Warnings and insurance’ page).
 
 The UK does not recognise Taiwan as a state and has no diplomatic relations with Taiwan, so limited support is available to British nationals. Please refer to the [British Office in Taipei](https://www.gov.uk/world/organisations/british-office-taipei) for further information.
+
+## Incident in Taipei
+
+There has been a stabbing near Taipei Main Station and in Zhongshan shopping district, central Taipei. If you’re in the immediate area, follow the advice of the local authorities and monitor local media.
 
 ## Before you travel
 
@@ -39,8 +43,6 @@ Follow FCDO:
 * [travel advice on Facebook](https://www.facebook.com/FCDOTravel/)
 * [Travel Aware on Instagram](https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Ftravelaware%2F&is_from_rle)
 
-[Next
-:
-Entry requirements](/foreign-travel-advice/taiwan/entry-requirements)
+[Next:Entry requirements](/foreign-travel-advice/taiwan/entry-requirements)
 
 [View a printable version of the whole guide](/foreign-travel-advice/taiwan/print)

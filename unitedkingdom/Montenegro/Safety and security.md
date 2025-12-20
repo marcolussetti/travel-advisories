@@ -8,9 +8,9 @@ UK Counter Terrorism Policing has information and advice on [staying safe abroad
 
 ### Terrorism in Montenegro
 
-Terrorist attacks in Montenegro cannot be ruled out.
+Although there’s no recent history of terrorism in Montenegro, attacks cannot be ruled out.
 
-Attacks could be indiscriminate, including in places visited by foreign nationals. Terrorists may target religious sites, including churches. Stay aware of your surroundings, keep up to date with local media reports and follow the advice of local authorities.
+Stay aware of your surroundings, keep up to date with local media reports and follow the advice of local authorities.
 
 ## Political demonstrations
 
@@ -167,12 +167,8 @@ Monitor media reports and follow the advice of the local authorities if flooding
 
 Montenegro lies in a seismically active zone and small tremors are recorded throughout the year. Serious earthquakes are less frequent but do happen. The last serious earthquake was in 1979. The US Federal Emergency Management Agency’s website tells you about [what to do before, during and after an earthquake](http://www.ready.gov/earthquakes).
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/montenegro/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/montenegro/entry-requirements)
 
-[Next
-:
-Health](/foreign-travel-advice/montenegro/health)
+[Next:Health](/foreign-travel-advice/montenegro/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/montenegro/print)

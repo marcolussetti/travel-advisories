@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   11 December 2025
+:   20 December 2025
 
 Updated:
-:   10 December 2025
+:   19 December 2025
 
 Latest update:
-:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
+:   New information about a National Day of Mourning following the death of Sharif Osman Hadi ('Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/66cdbf9203c7db1b41c7091b/FCDO__TA__050_-_Bangladesh_Travel_Advice_Ed2__WEB_.jpg)
 
@@ -27,6 +27,10 @@ FCDO advises against all but essential travel to the Chittagong Hill Tracts, as 
 * Bandarban
 
 Find out more about [why FCDO advises against travel](https://www.gov.uk/foreign-travel-advice/bangladesh/safety-and-security).
+
+## Death of Sharif Osman Hadi
+
+Bangladesh will observe a National Day of Mourning on Saturday 20 December. Pay close attention to local information and follow guidance.
 
 ## Support from the UK government
 
@@ -60,8 +64,6 @@ Follow FCDO:
 * [travel advice on Facebook](https://www.facebook.com/FCDOTravel/)
 * [Travel Aware on Instagram](https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Ftravelaware%2F&is_from_rle)
 
-[Next
-:
-Entry requirements](/foreign-travel-advice/bangladesh/entry-requirements)
+[Next:Entry requirements](/foreign-travel-advice/bangladesh/entry-requirements)
 
 [View a printable version of the whole guide](/foreign-travel-advice/bangladesh/print)

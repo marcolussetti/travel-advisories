@@ -38,12 +38,8 @@ There are strict rules about goods you can take into or out of Guinea. You must
 
 There is no limit on cash you can bring into Guinea. When you leave, you cannot take more than 100,000 Guinean francs, or 5,000 US dollars or the equivalent in euros.
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/guinea)
+[Previous:Warnings and insurance](/foreign-travel-advice/guinea)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/guinea/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/guinea/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/guinea/print)

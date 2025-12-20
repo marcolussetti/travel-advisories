@@ -87,12 +87,8 @@ When travelling to Montenegro, you may carry a reasonable amount of medication n
 
 Possession of a medications without proper medical documentation, or failure to declare such medication, may lead to confiscation and legal action.
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/montenegro)
+[Previous:Warnings and insurance](/foreign-travel-advice/montenegro)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/montenegro/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/montenegro/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/montenegro/print)

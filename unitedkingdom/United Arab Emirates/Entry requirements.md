@@ -91,12 +91,8 @@ In all cases, there are limits on the amount of medication you can bring into th
 
 You do not need to complete this approval process if you are only changing planes in a UAE airport and not passing through UAE immigration.
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/united-arab-emirates)
+[Previous:Warnings and insurance](/foreign-travel-advice/united-arab-emirates)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/united-arab-emirates/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/united-arab-emirates/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/united-arab-emirates/print)

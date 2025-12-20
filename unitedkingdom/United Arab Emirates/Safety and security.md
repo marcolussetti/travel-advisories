@@ -8,7 +8,7 @@ UK Counter Terrorism Policing has information and advice on [staying safe abroad
 
 ### Terrorism in the UAE
 
-Terrorists are very likely to try to carry out attacks in the United Arab Emirates (UAE).
+Terrorists are likely to try to carry out attacks in the United Arab Emirates (UAE).
 
 Attacks could be indiscriminate, including in places visited by foreign nationals.
 
@@ -255,12 +255,8 @@ Find out what you can do to [prepare for and respond to extreme weather and natu
 
 Heavy rain in the UAE can cause flooding. Check weather forecasts from [the National Centre of Meteorology](https://www.ncm.gov.ae/maps-radars/gcc-radars-network?lang=ar), and follow advice from the local authorities. Sources for up-to-date information include local radio and online media outlets [The National](https://www.thenationalnews.com/news/uae/) and [The Khaleej Times](https://www.khaleejtimes.com/).
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/united-arab-emirates/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/united-arab-emirates/entry-requirements)
 
-[Next
-:
-Health](/foreign-travel-advice/united-arab-emirates/health)
+[Next:Health](/foreign-travel-advice/united-arab-emirates/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/united-arab-emirates/print)

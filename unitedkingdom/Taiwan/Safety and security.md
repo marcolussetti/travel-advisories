@@ -75,12 +75,8 @@ Earthquakes are a risk in Taiwan. The US Federal Emergency Management Agency h
 
 Taipei City Government have created an [online digital booklet](https://www.eoc.gov.taipei/En_DisasterManual/mobile/index.html#p=1) with useful information on how to keep safe during an earthquake, typhoon and other types of natural and man-made disasters.
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/taiwan/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/taiwan/entry-requirements)
 
-[Next
-:
-Health](/foreign-travel-advice/taiwan/health)
+[Next:Health](/foreign-travel-advice/taiwan/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/taiwan/print)

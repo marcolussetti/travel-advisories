@@ -32,7 +32,7 @@ Remain aware of your surroundings. Avoid large gatherings and other locations wi
 
 In July and August 2024, a popular uprising led to widespread violence across Bangladesh, with many deaths and injuries.
 
-Bangladesh’s interim government has announced that it will hold elections in the first half of February 2026. The situation remains volatile. Political rallies and demonstrations are taking place. These can quickly turn violent leading to clashes. During demonstrations and strikes (‘hartals’), there can be arson, violence and vandalism in towns and cities across the country, which can result in fatalities.
+Bangladesh is due to hold national elections on 12 February 2026. The situation remains volatile. Political rallies and demonstrations are taking place. These can quickly turn violent leading to clashes. During demonstrations and strikes (‘hartals’), there can be arson, violence and vandalism in towns and cities across the country, which can result in fatalities.
 
 There have been occasional attacks against minority religious communities.
 
@@ -252,12 +252,8 @@ The US Federal Emergency Management Agency website has advice about [what to do 
 
 Bangladesh can be affected by tsunamis. In some cases the Bangladeshi government will issue tsunami warnings. Monitor local news and follow any advice given by local authorities.
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/bangladesh/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/bangladesh/entry-requirements)
 
-[Next
-:
-Regional risks](/foreign-travel-advice/bangladesh/regional-risks)
+[Next:Regional risks](/foreign-travel-advice/bangladesh/regional-risks)
 
 [View a printable version of the whole guide](/foreign-travel-advice/bangladesh/print)

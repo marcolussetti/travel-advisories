@@ -70,12 +70,8 @@ You may need to [declare foreign currency or Bangladeshi taka](http://bangladesh
 
 You can cash travellers cheques at banks and airports. ATMs are available in most urban areas and accept UK cards. There are fewer ATMs in rural areas.
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/bangladesh)
+[Previous:Warnings and insurance](/foreign-travel-advice/bangladesh)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/bangladesh/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/bangladesh/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/bangladesh/print)

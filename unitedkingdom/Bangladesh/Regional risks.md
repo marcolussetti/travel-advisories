@@ -49,12 +49,8 @@ If you plan to visit Ukhia and Teknaf, you should:
 
 Take particular care near the border with India. There are regular reports of individuals being killed for illegally crossing the border. There are occasional skirmishes between the Indian and Bangladeshi border guards, including exchanges of gunfire.
 
-[Previous
-:
-Safety and security](/foreign-travel-advice/bangladesh/safety-and-security)
+[Previous:Safety and security](/foreign-travel-advice/bangladesh/safety-and-security)
 
-[Next
-:
-Health](/foreign-travel-advice/bangladesh/health)
+[Next:Health](/foreign-travel-advice/bangladesh/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/bangladesh/print)

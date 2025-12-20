@@ -70,12 +70,8 @@ International bank transfers can be slow. Most of the ATMs in 7-11 stores accept
 
 American Express, Citibank and Thomas Cook branches accept their own-brand travellers cheques. You may need your receipt as well as your passport when you cash them.
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/taiwan)
+[Previous:Warnings and insurance](/foreign-travel-advice/taiwan)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/taiwan/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/taiwan/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/taiwan/print)

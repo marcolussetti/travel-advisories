@@ -144,12 +144,8 @@ The authorities may close the Guinea-Sierra Leone border at short notice.
 
 There have been reports of piracy attacks against vessels in Guinean territorial waters.
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/guinea/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/guinea/entry-requirements)
 
-[Next
-:
-Health](/foreign-travel-advice/guinea/health)
+[Next:Health](/foreign-travel-advice/guinea/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/guinea/print)

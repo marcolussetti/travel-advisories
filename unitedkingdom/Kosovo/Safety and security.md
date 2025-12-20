@@ -10,7 +10,7 @@ UK Counter Terrorism Policing has information and advice on [staying safe abroad
 
 ### Terrorism in Kosovo
 
-Terrorists are likely to try to carry out attacks in Kosovo.
+Terrorist attacks in Kosovo cannot be ruled out.
 
 Terrorist attacks could be indiscriminate, including in places visited by foreign nationals, and at large public gatherings and cultural events. Terrorists may target religious sites, including churches.
 
@@ -131,12 +131,8 @@ Flooding and poor road conditions can be a problem after wet weather. There is a
 
 Check local news reports as flooding or landslides may cause road blockages.
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/kosovo/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/kosovo/entry-requirements)
 
-[Next
-:
-Regional risks](/foreign-travel-advice/kosovo/regional-risks)
+[Next:Regional risks](/foreign-travel-advice/kosovo/regional-risks)
 
 [View a printable version of the whole guide](/foreign-travel-advice/kosovo/print)

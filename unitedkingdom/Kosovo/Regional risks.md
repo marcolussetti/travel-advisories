@@ -31,12 +31,8 @@ The main areas of risk are:
 
 Keep to the main roads when travelling in these areas. Most of the remaining dangerous areas are in high mountainous regions covered with dense vegetation. If you see something made of metal or anything suspicious, do not touch it, and report it immediately to the [police or the nearest Kosovo Force (KFOR) patrol](https://www.kosovopolice.com/en/numbers-of-police-stations/).
 
-[Previous
-:
-Safety and security](/foreign-travel-advice/kosovo/safety-and-security)
+[Previous:Safety and security](/foreign-travel-advice/kosovo/safety-and-security)
 
-[Next
-:
-Health](/foreign-travel-advice/kosovo/health)
+[Next:Health](/foreign-travel-advice/kosovo/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/kosovo/print)

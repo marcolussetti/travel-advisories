@@ -1,19 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   11 December 2025
+:   20 December 2025
 
 Updated:
-:   10 December 2025
+:   19 December 2025
 
 Latest update:
-:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
-
-## The U.S. Mission to the UAE has issued the below advice to US citizens:
-
-The U.S. Mission to the UAE has [put out the following alert](https://ae.usembassy.gov/united-arab-emirates-security-alert-august-8-2025/):
-
-“The U.S. Mission to the United Arab Emirates is aware of information indicating threats toward the Jewish and Israeli communities in the UAE.  The Mission urges U.S. citizens to avoid locations in the UAE associated with the Jewish and Israeli communities, including places of worship.”
+:   Updated with information about the risks from terrorism (‘Safety and security’ page’).
 
 ## Before you travel
 
@@ -43,8 +37,6 @@ Follow FCDO:
 * [travel advice on Facebook](https://www.facebook.com/FCDOTravel/)
 * [Travel Aware on Instagram](https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Ftravelaware%2F&is_from_rle)
 
-[Next
-:
-Entry requirements](/foreign-travel-advice/united-arab-emirates/entry-requirements)
+[Next:Entry requirements](/foreign-travel-advice/united-arab-emirates/entry-requirements)
 
 [View a printable version of the whole guide](/foreign-travel-advice/united-arab-emirates/print)

@@ -1,11 +1,11 @@
 {
     "name": "Cambodia",
-    "update_reason": "FCDO now advises against all travel to within 50km from the whole border with Thailand (\u2018Warnings and insurance\u2019 page).",
+    "update_reason": "Updated with information about the escalating border conflict with Thailand (See 'Border with Thailand' on the 'Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Cambodia/Warnings and insurance.md",
-            "update_date": "2025-12-12T15:38:38+00:00"
+            "update_date": "2025-12-19T16:59:18+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Cambodia/Getting help.md"
         }
     ],
-    "update_date": "2025-12-12T15:38:38+00:00"
+    "update_date": "2025-12-19T16:59:18+00:00"
 }

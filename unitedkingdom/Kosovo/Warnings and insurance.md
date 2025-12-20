@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   11 December 2025
+:   20 December 2025
 
 Updated:
-:   10 December 2025
+:   19 December 2025
 
 Latest update:
-:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
+:   Updated with information about the risks from terrorism (‘Safety and security’ page’).
 
 ![](https://assets.publishing.service.gov.uk/media/66d031530b53069322597c76/FCDO__TA__052_-_Kosovo_Travel_Advice_Ed2__WEB_.jpg)
 
@@ -54,8 +54,6 @@ Follow FCDO:
 * [travel advice on Facebook](https://www.facebook.com/FCDOTravel/)
 * [Travel Aware on Instagram](https://www.instagram.com/travelaware/)
 
-[Next
-:
-Entry requirements](/foreign-travel-advice/kosovo/entry-requirements)
+[Next:Entry requirements](/foreign-travel-advice/kosovo/entry-requirements)
 
 [View a printable version of the whole guide](/foreign-travel-advice/kosovo/print)

@@ -1,11 +1,11 @@
 {
     "name": "United Arab Emirates",
-    "update_reason": "New information about dual nationals returning to the UK (\u2018Entry requirements\u2019 page).",
+    "update_reason": "Updated with information about the risks from terrorism (\u2018Safety and security\u2019 page\u2019).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/United Arab Emirates/Warnings and insurance.md",
-            "update_date": "2025-12-10T13:00:12+00:00"
+            "update_date": "2025-12-19T10:21:33+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/United Arab Emirates/Getting help.md"
         }
     ],
-    "update_date": "2025-12-10T13:00:12+00:00"
+    "update_date": "2025-12-19T10:21:33+00:00"
 }

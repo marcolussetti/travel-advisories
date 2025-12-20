@@ -1,13 +1,17 @@
 # Warnings and insurance
 
 Still current at:
-:   11 December 2025
+:   20 December 2025
 
 Updated:
-:   10 December 2025
+:   19 December 2025
 
 Latest update:
-:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
+:   New information about presidential elections in Guinea ('Warnings and insurance' page).
+
+## Presidential elections
+
+Presidential elections in Guinea will take place on 28 December. Ahead of and during this period, an elevated security presence, including military, checkpoints, and possible road movement restrictions, is expected, particularly in Conakry.
 
 ## Before you travel
 
@@ -37,8 +41,6 @@ Follow FCDO:
 * [travel advice on Facebook](https://www.facebook.com/FCDOTravel/)
 * [Travel Aware on Instagram](https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Ftravelaware%2F&is_from_rle)
 
-[Next
-:
-Entry requirements](/foreign-travel-advice/guinea/entry-requirements)
+[Next:Entry requirements](/foreign-travel-advice/guinea/entry-requirements)
 
 [View a printable version of the whole guide](/foreign-travel-advice/guinea/print)

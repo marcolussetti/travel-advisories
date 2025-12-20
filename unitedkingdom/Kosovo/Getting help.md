@@ -59,8 +59,6 @@ Follow FCDO:
 * [travel advice on X](https://x.com/fcdotravelgovuk)
 * [travel advice on Facebook](https://www.facebook.com/FCDOTravel/)
 
-[Previous
-:
-Health](/foreign-travel-advice/kosovo/health)
+[Previous:Health](/foreign-travel-advice/kosovo/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/kosovo/print)

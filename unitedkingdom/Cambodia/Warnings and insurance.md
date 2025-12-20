@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   13 December 2025
+:   20 December 2025
 
 Updated:
-:   12 December 2025
+:   19 December 2025
 
 Latest update:
-:   FCDO now advises against all travel to within 50km from the whole border with Thailand (‘Warnings and insurance’ page).
+:   Updated with information about the escalating border conflict with Thailand (See 'Border with Thailand' on the 'Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/693c335a6a12691d48491efb/FCDO__TA__085_-_Cambodia_Travel_Advice_Ed5__WEB_.jpg)
 
@@ -24,11 +24,13 @@ Find out more about [why FCDO advises against travel](/foreign-travel-advice/cam
 
 ## Border with Thailand
 
-In July 2025, Thailand and Cambodia fought along parts of the border. The fighting included the use of rocket and artillery fire. Tensions remain and fighting erupted again at various points along the border in early December. Land borders and crossings between Cambodia and Thailand continue to be suspended. Some tourist destinations in border areas such as the Preah Vihear/Khao Phra Wihan temple, the Ta Krabey/Ta Kwai temple and the Tamone Thom/Ta Muen Thom temple are closed.
+In July 2025, Thailand and Cambodia fought along parts of the border. The fighting included the use of rocket and artillery fire. Tensions remain and fighting erupted again at various points along and across the border in December, including airstrikes, with some incidents beyond the border areas.
+
+Land borders and crossings between Cambodia and Thailand continue to be suspended. Some tourist destinations in border areas such as the Preah Vihear/Khao Phra Wihan temple, the Ta Krabey/Ta Kwai temple and the Tamone Thom/Ta Muen Thom temple are closed.
 
 There are also unexploded landmines in the border area.
 
-We advise against all travel to the affected land border areas.
+We advise against all travel to the affected land border areas. All travellers to Cambodia should remain alert and follow advice of local authorities.
 
 ## Before you travel
 
