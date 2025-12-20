@@ -10,7 +10,7 @@ The features in this map do not constitute an authoritative source of geographic
 
 [Enlarge map](#full-screen)
 
-## somalia travel advice
+## Somalia travel advice
 
 ![Risk level map](https://www.international.gc.ca/tama-sgcv_images/maps-cartes/SO/mapeng.png)Disclaimer
 
@@ -18,6 +18,6 @@ The features in this map do not constitute an authoritative source of geographic
 
 ### SOMALIA - AVOID ALL TRAVEL
 
-[Avoid all travel](#levels "Risk Levels") to Somalia. If you are currently in Somalia despite this advisory, you should leave immediately.
+[Avoid all travel](#levels "Risk Levels") to Somalia due to the volatile security situation and the high threat of domestic terrorism.
 
-The security situation in Somalia is extremely volatile and the threat of domestic terrorism is high, particularly in south-central Somalia and in the capital, Mogadishu.
+If you choose to travel to Somalia despite this advisory, be aware that you may have difficulty leaving the country should the situation deteriorate suddenly.

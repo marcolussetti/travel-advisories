@@ -42,8 +42,9 @@ The features in this map do not constitute an authoritative source of geographic
 
 ### Regional advisory - Avoid non-essential travel
 
-[Avoid non-essential travel](#levels "Risk Levels") to the following departments and cities due to drug-related criminal activity by illegal armed groups and other criminal organizations:
+[Avoid non-essential travel](#levels "Risk Levels") to the following departments, cities and border areas due to drug-related criminal activity by illegal armed groups and other criminal organizations:
 
+* Amazonas, within 20 km of the border with Peru, west of Puerto Narino
 * Antioquia, the area along the border with Choco department that is north of highway 60 and west of highway 62 and all areas north of the city of Buriticá
 * Córdoba, in the Paramillo National Natural Park
 * city of Cúcuta

@@ -2,29 +2,6 @@
 
 ## Natural disasters and climate
 
-### Hurricane Melissa
-
-On October 29, 2025, Hurricane Melissa swept across the southwestern coast of Haiti.
-
-The storm brought excessive rainfall and violent winds, which caused severe flooding. There is significant damage to buildings and infrastructure, as well as casualties and displaced persons.
-
-There are significant disruptions to the following essential services:
-
-* transportation, including operations at airports
-* power distribution
-* water and food supply
-* telecommunications networks
-* emergency services
-* medical care
-
-If you are in the affected areas:
-
-* exercise caution
-* monitor local news and weather reports
-* follow the instructions of local authorities, including evacuation orders
-
-[Latest advisories](http://www.nhc.noaa.gov/) – U.S. National Hurricane Centre
-
 ### Hurricane season
 
 The hurricane season is from early June to the end of November in the Atlantic, Caribbean Sea and Gulf of Mexico. During this period, even small tropical storms can quickly develop into major hurricanes.

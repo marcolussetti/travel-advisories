@@ -10,15 +10,15 @@ Climate change is affecting Vietnam. Extreme and unusual weather events are beco
 
 ### Flooding and landslides
 
-Heavy rainfall has caused severe flooding across the central and northern provinces of Vietnam.
+Recent typhoons and heavy rainfall have caused severe flooding across the central and northern provinces of Vietnam which has resulted in significant casualties and damage to infrastructure.
 
-Recent typhoons and rain have resulted in significant casualties and damage to infrastructure.
+The mountain passes near Da Lat city have reopened but local authorities are advising drivers in the area to:
 
-The Mimosa, Khanh Le and Prenn mountain passes near Da Lat city are blocked by landslides. Traffic congestion has significantly increased due to flooded sections of the national highways in Khanh Hoa, Gia Lai, and Dak Lak, as well as other provincial roads.
+* avoid driving at night
+* drive at reduced speeds
+* obey all traffic signs
 
-Heavy rains and high tides are forecast for Ho Chi Minh City until November 26, 2025, and may cause severe flooding in areas that are low-lying and close to rivers.
-
-Central Vietnam, in particular Dak Lak, Gia Lai, Lam Dong, and Khanh Hoa provinces, will continue to be affected by exceptionally high rainfall, flooding and landslides through to early December.
+Heavy rains continue to pose a flooding risk in areas that are low-lying and close to rivers.
 
 If you are in an affected area:
 

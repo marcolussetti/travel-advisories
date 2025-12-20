@@ -82,6 +82,8 @@ Malaria
 [Malaria](https://www.canada.ca/en/public-health/services/diseases/malaria.html) is a serious and sometimes fatal disease that is caused by parasites spread through the bites of mosquitoes.
 
 **Malaria is a risk to travellers to this destination.**  
+   
+[Antimalarial medication is recommended](https://www.canada.ca/en/public-health/services/catmat/appendix-1-malaria-risk-recommended-chemoprophylaxis-geographic-area.html) for most travellers to this destination and should be taken as recommended. Consult a health care professional or visit a travel health clinic before travelling to discuss your options. It is recommended to do this 6 weeks before travel, however, it is still a good idea any time before leaving.   
  
 
 * Cover your skin and use an [approved](https://www.canada.ca/en/health-canada/services/about-pesticides/insect-repellents.html) insect repellent on uncovered skin.
@@ -289,9 +291,19 @@ Travellers who may be at high risk while travelling in regions with risk of tube
 
 High-risk travellers include those visiting or working in prisons, refugee camps, homeless shelters, or hospitals, or travellers visiting friends and relatives.
 
+### Medication
+
+Most prescription medications are not available in Somalia.
+
+If you take prescription medications, you’re responsible for determining their legality in the country you’re visiting.
+
+* Bring sufficient quantities of your medication for the duration of your stay
+* Always keep your medication in the original container and carry a copy of your prescriptions
+* Pack them in your carry-on luggage
+
 ### Medical services and facilities
 
-There are virtually no health facilities or medicines available in Somalia. You must be completely self-sufficient.
+Health facilities are extremely limited and there is a lack of resources and supplies. You must be completely self-sufficient. Medical evacuation, which can be very expensive, will be necessary in the event of serious illness or injury.
 
 Make sure you get travel insurance that includes coverage for medical evacuation and hospital stays.
 

@@ -42,11 +42,17 @@ Different entry rules may apply when travelling with a temporary passport or an 
 
 ### Visas
 
-You need a visa to visit those areas under the authority of the Transitional Federal Government (TFG), Somaliland and Puntland.
+You must have an electronic visa (e-visa) to visit Somalia.
 
-**To visit areas under the authority of the TFG**: you should obtain, in advance, a visa from the Embassy of Somali Republic in Kenya.
+Tourist visa: required  
+Business visa: required  
+Student visa: required
 
-**To visit Somaliland and Puntland** direct your visa inquiries to the person/organization you will be visiting, as there is no office in Kenya to issue these visas.
+Previously, Somalia’s e-visa platform experienced a breach involving sensitive personal data of travellers. Be aware that there is a potential risk of your data being exposed if you use this platform.
+
+The Somali e-visa might not be recognized as valid in certain areas where the central government’s authority is contested, particularly in Somaliland and Puntland. If you intend to visit, confirm with local authorities or direct your visa inquiries to the person or organization you will be visiting.
+
+[Get an electronic visa](https://evisa.gov.so/) – Somali Immigration and Citizenship Agency
 
 ### Children and travel
 

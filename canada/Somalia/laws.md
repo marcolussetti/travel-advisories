@@ -6,6 +6,37 @@ You must abide by local laws.
 
 Learn about what you should do and how we can help if you are [arrested or detained abroad](http://travel.gc.ca/assistance/emergency-info/arrest-detention).
 
+### Drugs and alcohol
+
+Penalties for possession, use or trafficking of illegal drugs and alcohol are severe.
+
+[Drugs, alcohol and travel](https://travel.gc.ca/travelling/health-safety/drugs)
+
+### Identification
+
+Local authorities may request to see your identification at any time.
+
+* Always carry photo identification
+* Keep a photocopy of your passport in a safe place in case it’s lost or seized
+* Keep a digital copy of your identification and travel documents
+
+### Dress and behaviour
+
+To avoid offending local sensitivities:
+
+* dress conservatively
+* avoid kissing in public
+* behave discretly
+* respect religious and social traditions
+
+### Dual citizenship
+
+Dual citizenship is legally recognized in Somalia.
+
+If you are a Canadian citizen, but also a citizen of Somalia, our ability to offer you consular services may be limited while you're there. You may also be subject to different [entry/exit requirements](#entryexit).
+
+[Dual citizens](http://travel.gc.ca/travelling/documents/dual-citizenship)
+
 ### Ramadan
 
 In 2026, the lunar month of Ramadan is expected to begin on or around February 17.
@@ -16,34 +47,17 @@ In public, between sunrise and sunset, refrain from:
 * eating
 * smoking
 
-### 2SLGBTQI+ persons
+### Photography
 
-Somalian law prohibits sexual acts between individuals of the same sex.
+Photography of sensitive installations is prohibited. This includes:
 
-2SLGBTQI+ persons should carefully consider the risks of travelling to Somalia.
+* airports
+* ports
+* military sites
+* government buildings
+* uniformed service people
 
-[Travel and your sexual orientation, gender identity, gender expression and sex characteristics](https://travel.gc.ca/travelling/health-safety/lgbt-travel)
-
-### 
-
-### Forced marriage
-
-Forced marriage affecting foreigners occur. It sometimes occurs without the affected person’s prior knowledge or consent.
-
-Parents, relatives and the community may use relentless pressure and emotional blackmail, threatening behaviour, abduction, imprisonment and physical violence to coerce young people to enter into marriage. While both men and women experience forced marriage, it is a form of violence most commonly perpetrated against women and girls. People have been unable to return to Canada because their passports and money have been withheld by family members.
-
-#### Useful links
-
-* [General information and advice about forced marriage](https://travel.gc.ca/assistance/emergency-info/forced-marriage)
-* [Safe travel guide for women](https://travel.gc.ca/travelling/publications/her-own-way)
-
-### Dual citizenship
-
-Dual citizenship is legally recognized in Somalia.
-
-If you are a Canadian citizen, but also a citizen of Somalia, our ability to offer you consular services may be limited while you're there. You may also be subject to different [entry/exit requirements](#entryexit).
-
-[Dual citizens](http://travel.gc.ca/travelling/documents/dual-citizenship)
+Always ask permission before photographing official buildings or individuals.
 
 ### International Child Abduction
 
@@ -68,4 +82,4 @@ Be aware that Canadian consular officials cannot interfere in private legal matt
 
 ### Money
 
-The currency is the Somali shilling (SOS), except in Somaliland, which uses the Somaliland shilling. U.S. dollars are widely accepted. Credit cards and traveller’s cheques are not accepted in Somalia, and there are no automated banking machines (ABMs).
+The currency is the Somali shilling (SOS), except in Somaliland, which uses the Somaliland shilling. U.S. dollars are widely accepted. Credit cards are generally not accepted in Somalia. ATMs are available in major cities and are usually located in hotels, malls and other secure areas.

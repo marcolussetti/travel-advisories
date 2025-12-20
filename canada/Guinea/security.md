@@ -2,6 +2,17 @@
 
 ## Safety and security
 
+### Presidential elections
+
+Presidential elections are scheduled for December 28, 2025. Demonstrations could occur before, during and after the elections.
+
+* Avoid areas where demonstrations and large gatherings are taking place
+* Expect significant security measures and an increased security presence
+* Follow the instructions of local authorities
+* Monitor the media for the latest information
+
+[More information on demonstrations](#demonstrations)
+
 ### Political situation
 
 A coup d’état took place in Guinea on September 5, 2021. Although the situation in Conakry is currently calm, it is evolving and could deteriorate quickly.
