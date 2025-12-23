@@ -6,9 +6,11 @@ Avoid Non-Essential Travel
 
 ### **Travel Alert**
 
-Exercise increased caution in Ecuador due to civil unrest, violent crime, and kidnapping.
+The security status of ‘Avoid Non-Essential Travel’ currently applies to all of mainland Ecuador owing to civil unrest, violent crime, and kidnapping.
 
-Owing to drug trafficking, criminal activity, and high risk of violence, the Embassy advises to **avoid all travel to**:
+The Embassy advises citizens to take normal precautions when travelling in the Galapagos Islands, off the coast of mainland Ecuador. Transit in the airports of Quito or Guayaquil for onward travel to the Galapagos Islands is considered safe.
+
+Owing to pretty significant criminal activity drug trafficking, and high risk of violence, the Embassy advises to **avoid all travel to**:
 
 - Within 20km of the border with Colombia, except for the official border-crossing town of Tulcan in Carchi province. In particular, avoid travel to Carchi and Sucumbíos;
 

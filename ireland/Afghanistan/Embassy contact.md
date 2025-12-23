@@ -8,7 +8,7 @@ Alternatively, you may contact the Duty Officer at the Department of Foreign Aff
 
 ### Embassy of Ireland, Pakistan
 
-Level 1, North Wing   
+Level 06, West Wing   
 Serena Business Complex   
 Khayaban-e-Suhrwardy Rd   
 G-5/1 G-5   
