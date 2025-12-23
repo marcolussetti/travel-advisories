@@ -2,24 +2,9 @@
 
 ## Safety and security
 
-### Demonstrations
-
-Demonstrations occur frequently, often with little or no notice. Even peaceful demonstrations can turn violent at any time. They can also lead to disruptions to traffic and public transportation. Protesters may also use dynamite during protests. The police often respond with tear gas to disperse crowds.
-
-* Avoid areas where demonstrations and large gatherings are taking place
-* Follow the instructions of local authorities
-* Monitor local media for information on ongoing demonstrations
-
-[Mass gatherings (large-scale events)](https://travel.gc.ca/travelling/health-safety/mass-gatherings)
-
-### Strikes
-
-Strikes occur frequently and often take place nationwide. Roadblocks are frequently erected during strikes, which can complicate travel plans.
-
-* Consult local media to be aware of strikes that may affect your stay or travel plans
-* In the event of a transport strike, plan extra time to get to your destination
-
 ### Roadblocks
+
+Since December 19, 2025, there is an increased risk of roadblocks in La Paz, Santa Cruz, Cochabamba and other areas due to transport strikes and demonstrations.
 
 Roadblocks are common throughout the country. They can lead to significant disruptions to traffic and public transportation. Roadblocks can also restrict the flow of goods and services throughout the country. The following are particularly vulnerable to blockades:
 
@@ -27,7 +12,7 @@ Roadblocks are common throughout the country. They can lead to significant disru
 * main arteries in cities
 * roads leading to airports
 
-Before making your way to the airport, check with your airline to determine if there are delays or changes in flight schedules caused by roadblocks
+Before making your way to the airport, check with your airline to determine if there are delays or changes in flight schedules caused by roadblocks.
 
 If you plan to take a road trip:
 
@@ -49,6 +34,23 @@ Don’t cross roadblocks, even if they appear unattended. This may aggravate the
 * returning to your place of departure
 
 [Road closures and blockages](http://transitabilidad.abc.gob.bo/mapa) – Bolivian Highway Administrator (in Spanish)
+
+### Demonstrations
+
+Demonstrations occur frequently, often with little or no notice. Even peaceful demonstrations can turn violent at any time. They can also lead to disruptions to traffic and public transportation. Protesters may also use dynamite during protests. The police often respond with tear gas to disperse crowds.
+
+* Avoid areas where demonstrations and large gatherings are taking place
+* Follow the instructions of local authorities
+* Monitor local media for information on ongoing demonstrations
+
+[Mass gatherings (large-scale events)](https://travel.gc.ca/travelling/health-safety/mass-gatherings)
+
+### Strikes
+
+Strikes occur frequently and often take place nationwide. Roadblocks are frequently erected during strikes, which can complicate travel plans.
+
+* Consult local media to be aware of strikes that may affect your stay or travel plans
+* In the event of a transport strike, plan extra time to get to your destination
 
 ### Crime
 
