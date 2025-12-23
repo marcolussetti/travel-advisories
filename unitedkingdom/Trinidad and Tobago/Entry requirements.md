@@ -51,12 +51,8 @@ There are strict rules about [goods you can take into or out of Trinidad and Tob
 
 The amount of currency you can bring in (or take out of) the country is unlimited. However you must declare cash in any currency worth over 20,000 Trinidad and Tobago dollars. There are strict penalties for failing to declare amounts in excess of the limit.
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/trinidad-and-tobago)
+[Previous:Warnings and insurance](/foreign-travel-advice/trinidad-and-tobago)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/trinidad-and-tobago/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/trinidad-and-tobago/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/trinidad-and-tobago/print)

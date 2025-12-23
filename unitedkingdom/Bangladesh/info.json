@@ -1,11 +1,11 @@
 {
     "name": "Bangladesh",
-    "update_reason": "New information about a National Day of Mourning following the death of Sharif Osman Hadi ('Warnings and insurance' page).",
+    "update_reason": "New information about potential travel disruption on 25 December ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Bangladesh/Warnings and insurance.md",
-            "update_date": "2025-12-19T10:52:49+00:00"
+            "update_date": "2025-12-22T11:40:32+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Bangladesh/Getting help.md"
         }
     ],
-    "update_date": "2025-12-19T10:52:49+00:00"
+    "update_date": "2025-12-22T11:40:32+00:00"
 }

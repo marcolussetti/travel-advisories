@@ -22,7 +22,7 @@ You must have a visa to enter Uganda. Check [which visa best fits your needs](ht
 
 ### Applying for a visa
 
-You must [apply for a Uganda visa online](https://visas.immigration.go.ug/#/apply). You will have to attach the required  documents and certificates. In most cases, you must submit a yellow fever vaccination certificate.
+You must [apply for a Uganda visa online](https://visas.immigration.go.ug/#/apply). You will have to attach the required documents and certificates. You may be asked to submit a yellow fever vaccination certificate and must bring the physical certificate with you to present, if requested, at Immigration.
 
 The immigration authorities will email you a letter of authorisation including a barcode. Print out the letter to show on arrival. Border officials will issue your visa.
 
@@ -36,7 +36,7 @@ If someone is coming to meet you at Entebbe International Airport, you will have
 
 ## Vaccine requirements
 
-To enter Uganda, you must have a certificate to prove you’ve had a yellow fever vaccination. You must bring the certificate you used to get your visa.
+To enter Uganda, you must have a certificate to prove you’ve had a yellow fever vaccination.
 
 For full details about medical entry requirements and recommended vaccinations, see [TravelHealthPro’s Uganda guide](https://travelhealthpro.org.uk/country/231/uganda#Vaccine_Recommendations).
 
@@ -44,12 +44,8 @@ For full details about medical entry requirements and recommended vaccinations, 
 
 There are strict rules about [goods that can be taken into and out of Uganda](https://ura.go.ug/en/frequently-asked-questions-for-goods-handled-at-entebbe-airport/). You must declare anything that may be prohibited or subject to tax or duty.
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/uganda)
+[Previous:Warnings and insurance](/foreign-travel-advice/uganda)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/uganda/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/uganda/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/uganda/print)

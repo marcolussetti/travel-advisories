@@ -71,6 +71,10 @@ Take care when using dating apps especially those used by the LGBT+ community. C
 
 Read more [advice for LGBT+ travellers](https://www.gov.uk/lesbian-gay-bisexual-and-transgender-foreign-travel-advice).
 
+### Trespassing
+
+If you enter private property without permission, you may face a fine of up to 750,000 Trinidad and Tobago Dollars or imprisonment for up to 25 years. Local laws allow legal occupants of private property to use defensive and even deadly force against trespassers.
+
 ## Transport risks
 
 ### Road travel
@@ -112,12 +116,8 @@ Earthquakes are a risk in Trinidad and Tobago. The last serious earthquake was i
 
 Monitor the [alert level of ‘Kick’em Jenny’](https://safetyandsecuritynet.org/tag/kick-em-jenny/), an underwater volcano located off the coast of Grenada and about 200km from Trinidad. It erupts every few years. Follow the advice of the local authorities if there is increased activity.
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/trinidad-and-tobago/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/trinidad-and-tobago/entry-requirements)
 
-[Next
-:
-Health](/foreign-travel-advice/trinidad-and-tobago/health)
+[Next:Health](/foreign-travel-advice/trinidad-and-tobago/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/trinidad-and-tobago/print)

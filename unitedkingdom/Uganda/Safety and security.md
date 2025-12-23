@@ -38,8 +38,6 @@ Recent significant attacks include:
 * in December 2023, 10 people were killed in an attack on a bar and a farm in Kyabandara, and a further 3 people in an attack in Nyabitusi, in Kamwenge district near to Kibale forest
 * in October 2023, 2 tourists and their driver were killed by terrorists in Queen Elizabeth National Park
 * in June 2023, 42 people were killed in an attack on a school in Mpondwe, Kasese District, western Uganda, close to the border with the DRC
-* in 2021, terrorists used 2 explosive devices in central Kampala killing 4 and injuring 33 people. The police disarmed 2 further explosive devices
-* in 2021, terrorists used an explosive device to attack a restaurant in Komamboga, a suburb in the north-east of Kampala killing one person and injuring a number of others
 
 ## Political situation
 
@@ -144,13 +142,13 @@ If you are taking photographs of people, ask their permission first.
 
 ### LGBT+ travellers
 
-Same-sex sexual activity is illegal and same-sex relationships are not tolerated in Uganda’s conservative society.
+Same-sex sexual activity is illegal in Uganda.
 
-In May 2023, Uganda brought in the Anti-Homosexuality Act 2023. This act introduces harsh prison sentences, and the death penalty in some cases, for same-sex sexual activity. There are also severe penalties for promoting LGBT+ rights.
+In May 2023, Uganda introduced the Anti-Homosexuality Act 2023. This act introduces long prison sentences, and the death penalty in some cases, for same-sex sexual activity. There are also severe penalties for promoting LGBT+ rights.
 
 Sexual activity with someone of the same sex carries the punishment of life imprisonment.
 
-Offences classed as ’aggravated homosexuality’ carry a sentence up to the death penalty. ‘Aggravated homosexuality’ is defined as sexual activity with someone of the same sex who is:
+Offences classed as ’aggravated homosexuality’ carry a sentence up to the death penalty (though the death penalty has not been implemented for civilians in Uganda since 1999). ‘Aggravated homosexuality’ is defined as sexual activity with someone of the same sex who is:
 
 * a person aged 17 or under
 * a person aged 75 or above
@@ -168,7 +166,7 @@ Promoting or supporting homosexuality carries up to a 20-year prison sentence. T
 * publishing, printing, broadcasting by any means, information that promotes or encourages homosexuality
 * providing financial or other support that encourages homosexuality or the normalisation of acts prohibited by the act
 
-Some of the language in the law is vague and open to interpretation, and it remains unclear how this law will be implemented. The law could affect those who are exercising their freedoms of expression, peaceful assembly and association to show support for LGBT+ people and rights.
+The law could affect those who are exercising their freedoms of expression, peaceful assembly and association, to show support for LGBT+ people and rights.
 
 Anti-LGBT+ rhetoric by religious leaders, politicians, government officials and the local media can incite homophobia against the LGBT+ community.
 
@@ -235,12 +233,8 @@ Localised flooding and landslides are common, particularly during the rainy seas
 
 Uganda is in an earthquake zone. The US Federal Emergency Management Agency website has advice about [what to do before, during and after an earthquake](https://www.ready.gov/earthquakes).
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/uganda/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/uganda/entry-requirements)
 
-[Next
-:
-Regional risks](/foreign-travel-advice/uganda/regional-risks)
+[Next:Regional risks](/foreign-travel-advice/uganda/regional-risks)
 
 [View a printable version of the whole guide](/foreign-travel-advice/uganda/print)

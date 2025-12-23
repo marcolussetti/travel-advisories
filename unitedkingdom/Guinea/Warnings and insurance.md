@@ -1,17 +1,17 @@
 # Warnings and insurance
 
 Still current at:
-:   20 December 2025
+:   23 December 2025
 
 Updated:
-:   19 December 2025
+:   22 December 2025
 
 Latest update:
-:   New information about presidential elections in Guinea ('Warnings and insurance' page).
+:   New information about presidential elections in Guinea (‘Warnings and insurance’ page).
 
 ## Presidential elections
 
-Presidential elections in Guinea will take place on 28 December. Ahead of and during this period, an elevated security presence, including military, checkpoints, and possible road movement restrictions, is expected, particularly in Conakry.
+Presidential elections in Guinea will take place on 28 December. Ahead of and during this period, an elevated security presence, including military, checkpoints, and possible road movement restrictions, is expected, particularly in Conakry. Guinean airspace and airports may also be closed at short notice.
 
 ## Before you travel
 

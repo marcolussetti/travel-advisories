@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   20 December 2025
+:   23 December 2025
 
 Updated:
-:   19 December 2025
+:   22 December 2025
 
 Latest update:
-:   New information about a National Day of Mourning following the death of Sharif Osman Hadi ('Warnings and insurance' page).
+:   New information about potential travel disruption on 25 December ('Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/66cdbf9203c7db1b41c7091b/FCDO__TA__050_-_Bangladesh_Travel_Advice_Ed2__WEB_.jpg)
 
@@ -28,9 +28,11 @@ FCDO advises against all but essential travel to the Chittagong Hill Tracts, as 
 
 Find out more about [why FCDO advises against travel](https://www.gov.uk/foreign-travel-advice/bangladesh/safety-and-security).
 
-## Death of Sharif Osman Hadi
+## Potential travel disruption on 25 December
 
-Bangladesh will observe a National Day of Mourning on Saturday 20 December. Pay close attention to local information and follow guidance.
+On 25 December, there are likely to be large gatherings and traffic disruption on routes to and from Hazrat Shahjalal International Airport (and to Gulshan) as the acting head of the Bangladesh Nationalist Party, Tarique Rahman, is due to arrive in Dhaka.
+
+Stay away from crowds, political demonstrations, and affected areas. Allow extra time for travel, carry ID and travel documents, and follow advice of local authority.
 
 ## Support from the UK government
 

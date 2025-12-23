@@ -20,7 +20,7 @@ Uganda and the DRC conduct joint military action against the ADF near parts of
 
 Border crossing points could close at short notice.
 
-There is also a risk of banditry near the Uganda-DRC border.
+There is also a risk of banditry and localised violence near the Uganda-DRC border. There were co-ordinated attacks by local armed men against police and army installations in Kasese and Bundibugyo in November 2025, resulting in multiple deaths including of one civilian. Local authorities deployed security forces to the areas and multiple suspects were arrested. While tourists and foreign nationals were not specifically targeted, the attacks were close to tourist areas. If you plan to visit these areas, you should remain vigilant, exercise caution, and follow the advice of local security agencies.
 
 FCDO advises against all travel to the DRC provinces that border Uganda. See [DRC travel advice](https://www.gov.uk/foreign-travel-advice/democratic-republic-of-the-congo).
 
@@ -58,12 +58,8 @@ Parts of the north-east are likely to experience flooding during the rainy seaso
 
 Travel to eastern Uganda is largely trouble-free, but during heavy rains there is a risk of landslides, particularly in Bulucheke sub-county in Bududa District near Mount Elgon National Park, a popular tourist destination.
 
-[Previous
-:
-Safety and security](/foreign-travel-advice/uganda/safety-and-security)
+[Previous:Safety and security](/foreign-travel-advice/uganda/safety-and-security)
 
-[Next
-:
-Health](/foreign-travel-advice/uganda/health)
+[Next:Health](/foreign-travel-advice/uganda/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/uganda/print)

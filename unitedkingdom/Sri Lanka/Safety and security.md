@@ -206,12 +206,8 @@ Monitor [Sri Lanka’s Disaster Management Centre](http://www.dmc.gov.lk/index_e
 
 There is a risk of tropical cyclones. Monitor [Sri Lanka’s Disaster Management Centre](http://www.dmc.gov.lk/index_english.htm) and the [World Meteorological Organization](http://severe.worldweather.org/tc/in/index.html) for updates.
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/sri-lanka/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/sri-lanka/entry-requirements)
 
-[Next
-:
-Regional risks](/foreign-travel-advice/sri-lanka/regional-risks)
+[Next:Regional risks](/foreign-travel-advice/sri-lanka/regional-risks)
 
 [View a printable version of the whole guide](/foreign-travel-advice/sri-lanka/print)

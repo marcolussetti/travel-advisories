@@ -1,17 +1,21 @@
 # Warnings and insurance
 
 Still current at:
-:   11 December 2025
+:   23 December 2025
 
 Updated:
-:   10 December 2025
+:   22 December 2025
 
 Latest update:
-:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
+:   Clarification: Updated information on the upcoming presidential and parliamentary elections, applying for a visa and LGBT+ travellers ('Warnings and insurance' and 'Safety and security' pages).
 
-## Attacks in Western Uganda
+## Presidential and Parliamentary elections
 
-There are reports of attacks on 1 November 2025 by an armed group on security installations in Kasese and Bundibugyo in Western Uganda. Local authorities have reported the deployment of security forces to the areas and multiple suspects have been arrested. If you are in the area you should follow the advice of local security agencies.
+Presidential and Parliamentary elections are scheduled to be held in Uganda on 15 January 2026.
+
+Previous elections and political events have led to protests and violence, including fatalities. There has also been disruption to the internet and social media.
+
+Stay away from political gatherings and large crowds and monitor local media to see when and where major protests are likely. Follow local news and the instructions of local authorities.
 
 ## Before you travel
 
@@ -41,8 +45,6 @@ Follow FCDO:
 * [travel advice on Facebook](https://www.facebook.com/FCDOTravel/)
 * [Travel Aware on Instagram](https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Ftravelaware%2F&is_from_rle)
 
-[Next
-:
-Entry requirements](/foreign-travel-advice/uganda/entry-requirements)
+[Next:Entry requirements](/foreign-travel-advice/uganda/entry-requirements)
 
 [View a printable version of the whole guide](/foreign-travel-advice/uganda/print)

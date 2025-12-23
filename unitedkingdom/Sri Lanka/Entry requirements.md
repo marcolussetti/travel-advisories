@@ -48,12 +48,8 @@ Most major banks allow Visa and Mastercard cash withdrawals. There are ATMs in m
 
 You cannot transfer money without an exchange control permit issued by the [Central Bank of Sri Lanka](https://www.cbsl.gov.lk/en).
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/sri-lanka)
+[Previous:Warnings and insurance](/foreign-travel-advice/sri-lanka)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/sri-lanka/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/sri-lanka/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/sri-lanka/print)

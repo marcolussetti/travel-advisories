@@ -57,8 +57,6 @@ Follow FCDO:
 
 The Overseas Business Risk service offers [information and advice for British companies operating in Uganda](https://www.gov.uk/government/publications/overseas-business-risk-uganda) on how to manage political, economic, and business security-related risks.
 
-[Previous
-:
-Health](/foreign-travel-advice/uganda/health)
+[Previous:Health](/foreign-travel-advice/uganda/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/uganda/print)

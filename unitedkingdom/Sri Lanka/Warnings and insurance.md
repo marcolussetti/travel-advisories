@@ -1,19 +1,19 @@
 # Warnings and insurance
 
 Still current at:
-:   11 December 2025
+:   23 December 2025
 
 Updated:
-:   10 December 2025
+:   22 December 2025
 
 Latest update:
-:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
+:   Updated information on the impact of Cyclone Ditwah ('Warnings and insurance').
 
-## Severe weather and travel disruption
+## Impact of Cyclone Ditwah
 
-More heavy rain is forecast following Cyclone Ditwah, monitor local news reports and stay in touch with your tour operator.
+Cyclone Ditwah affected much of Sri Lanka, causing flooding and landslides. The main tourist areas near Colombo and on the south coast of Sri Lanka remain largely unaffected and many other tourist areas are returning to normal. The Sri Lankan authorities continue to restore infrastructure. Some road networks, especially minor roads, remain disrupted and a few areas still have power and telecommunications outages. The most affected area is the Hill Country including Kandy, Nuwara Eliya and Badulla.
 
-Cyclone Ditwah caused flooding and landslides throughout much of Sri Lanka, resulting in the loss of life. As a result, travel in many areas has been disrupted. Infrastructure including road networks, power lines and telecommunications remain disrupted in the most affected areas including Kandy, Nuwara Eliya and the wider Hill Country. There remains a risk of landslides and localised flooding. The further forecast heavy rainfall increases this risk. The Sri Lankan authorities are working to restore critical infrastructure. The south coast of Sri Lanka remains largely unaffected and is operating as normal.
+There remains a risk of landslides and localised flooding. Check conditions with local authorities or your travel provider before you travel.
 
 Sri Lanka Tourism has a 24-hour hotline available on 1912.
 
@@ -45,8 +45,6 @@ Follow FCDO:
 * [travel advice on Facebook](https://www.facebook.com/FCDOTravel/)
 * [Travel Aware on Instagram](https://www.instagram.com/travelaware/)
 
-[Next
-:
-Entry requirements](/foreign-travel-advice/sri-lanka/entry-requirements)
+[Next:Entry requirements](/foreign-travel-advice/sri-lanka/entry-requirements)
 
 [View a printable version of the whole guide](/foreign-travel-advice/sri-lanka/print)
