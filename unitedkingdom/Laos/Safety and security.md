@@ -126,12 +126,11 @@ Safety and maintenance may not meet the standards you find in the UK. Risks inc
 * flooding, swollen rivers and landslides, especially during the rainy season
 * lower standards than in the UK
 
-### River rafting and water activities
+### River rafting and other water activities
 
-* Travel on the Mekong River can be dangerous, especially when water levels are low, and sandbanks may be close to the surface
-* White-water rafting, kayaking, tubing and other water-based activities, including swimming in the Mekong, are dangerous and there have been incidents of drowning and serious injuries
-* Operators may not give the necessary safety advice; you cannot expect warning signs to tell you about currents or rough stretches of water
-* Check that lifejackets are provided.
+Activities such as white-water rafting, kayaking, tubing and swimming, particularly in the Mekong River, can carry significant risks, including strong currents and hidden obstacles. There have been incidents of drowning and serious injuries involving tourists.
+
+Safety standards vary widely. Operators may not provide adequate safety advice, and there may not be warning signs for dangerous currents or other hazards. Stay alert and check that lifejackets are provided.
 
 See [water safety on holiday](https://www.rlss.org.uk/safety-on-holiday) from the Royal Life Saving Society.
 
@@ -147,6 +146,8 @@ Make sure:
 * you read the contract you are offered and be clear about who is responsible for all parts of the venture.
 * if you choose an organisation that prepares properly, you are more likely to stay safe
 
+## Travelling within Laos
+
 ### Road travel
 
 If you are planning to drive in Laos, see [information on driving abroad](https://www.gov.uk/driving-abroad).
@@ -157,17 +158,21 @@ Police may stop your car at any time, particularly in the evening, and ask for I
 
 ### Driving conditions
 
-Roads in Laos are in poor condition and vehicles are not maintained to UK standards. Travel after dark significantly increases the risk of an accident, as vehicles often do not have lights. Livestock including water buffalo also stray on to the roads causing accidents.
+Roads in Laos are often in poor condition and vehicles may not be maintained to UK standards. Travel after dark significantly increases the risk of an accident, as vehicles often do not have lights. Livestock, including water buffalo, also stray onto roads, creating hazards for motorists.
 
 ### Road accidents and safety
 
-If you’re involved in a road accident, you will have to pay compensation for third-party property damage and injury, even if you’re not at fault. Generally, the Lao authorities will overwhelmingly find in favour of Lao citizens, regardless of the situation. Lao insurers only meet a small proportion of the costs of an accident and will not cover this compensation.
+If you’re involved in a road accident, you will have to pay compensation for third-party property damage and injury, even if you’re not at fault. Generally, the Lao authorities will find in favour of Lao citizens, regardless of the situation. Lao insurers typically only cover a small proportion of accident costs and do not provide broader compensation.
 
-Motorbike rentals may not supply helmets, so budget to purchase one locally. Take extra care when using public transport or shared vehicles, as they can be overcrowded and unsafe. You can report road accidents to a dedicated police number +856 20 5666 9090.
+Motorbike rentals may not supply helmets, so you may need to bring your own or purchase one locally. Take extra care when using public transport or shared vehicles, as they can be overcrowded and unsafe. You can report road accidents to a dedicated police number +856 20 5666 9090.
 
 ### China-Laos Expressway
 
 The Vientiane to Vang Vieng section of the China-Laos Expressway is the first contained high-speed road in Laos, with posted speed limits between 80 and 120km/h. Take care when using this road, as some local users will be unfamiliar with this type of carriageway.
+
+### Travel by Boat or Ferry
+
+Travel on the Mekong River can be dangerous due to changing water levels, strong currents, and hidden obstacles. There have been incidents of boating and ferry accidents. Vessel safety standards vary widely and operators may not provide adequate safety advice. Stay alert, ensure boats are equipped with life jackets and avoid boarding overcrowded vessels.
 
 ## Landmines and unexploded weapons
 
@@ -187,12 +192,8 @@ During the monsoon season local road transport is often disrupted due to conditi
 
 The Mekong River Commission posts [official updates on the Mekong River](https://webarchive.nationalarchives.gov.uk/ukgwa/20250801154111mp_/http://ffw.mrcmekong.org/). Travel to some provinces can be seriously disrupted during this time. Monitor local news and check [World Meteorological Organization weather reports](https://webarchive.nationalarchives.gov.uk/ukgwa/20250801154111mp_/https://worldweather.wmo.int/en/country.html?countryCode=121).
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/laos/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/laos/entry-requirements)
 
-[Next
-:
-Regional risks](/foreign-travel-advice/laos/regional-risks)
+[Next:Regional risks](/foreign-travel-advice/laos/regional-risks)
 
 [View a printable version of the whole guide](/foreign-travel-advice/laos/print)

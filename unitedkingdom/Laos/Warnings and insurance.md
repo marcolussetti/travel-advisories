@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   11 December 2025
+:   24 December 2025
 
 Updated:
-:   10 December 2025
+:   23 December 2025
 
 Latest update:
-:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
+:   Updated information about river rafting and other water activities and travelling within Laos including by boat or ferry ('Safety and security' page).
 
 ![](https://assets.publishing.service.gov.uk/media/64391b7a773a8a0013ab2c63/FCDO__TA__088_-_Laos_Travel_Advice_Ed1__WEB_.jpg)
 
@@ -23,16 +23,6 @@ Your travel insurance could be invalidated if you travel against advice from the
 FCDO advises against all but essential travel to Xaisomboun Province. There are intermittent attacks on infrastructure and armed clashes with anti-government groups.
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/laos/regional-risks).
-
-## Monsoon/rainy season
-
-The rainy season in Laos normally runs from May to October, at the same time as the typhoon season in south-east Asia. Follow and monitor local and international weather updates. The [Mekong River Commission](https://www.mrcmekong.org/) posts official updates on the Mekong River.
-
-Follow the advice of local authorities. Travel to some provinces can be seriously disrupted during this time. Monitor local news and check World Meteorological Organization weather reports. 2025 has seen higher than expected rainfall in Laos and 19 deaths due to flooding so far.
-
-See [Extreme weather and natural disasters](https://www.gov.uk/foreign-travel-advice/laos/safety-and-security).
-
-English-news versions of local newspapers are available at [Laotian Times](https://laotiantimes.com/) and [Vientiane Times](https://www.vientianetimes.org.la/).
 
 ## Land borders and crossing with Thailand and Cambodia
 
@@ -72,8 +62,6 @@ Follow FCDO:
 * [travel advice on Facebook](https://www.facebook.com/FCDOTravel/)
 * [Travel Aware on Instagram](https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Ftravelaware%2F&is_from_rle)
 
-[Next
-:
-Entry requirements](/foreign-travel-advice/laos/entry-requirements)
+[Next:Entry requirements](/foreign-travel-advice/laos/entry-requirements)
 
 [View a printable version of the whole guide](/foreign-travel-advice/laos/print)

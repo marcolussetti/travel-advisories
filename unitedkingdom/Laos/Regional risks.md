@@ -18,12 +18,8 @@ Be extremely cautious in Bokeo Province, particularly near the borders with Myan
 
 Recent clashes in this area between the Lao army and unidentified armed groups has led to increased security levels with associated military checkpoints. Make yourself aware of local official guidance and be prepared to reconsider travel plans to this area.
 
-[Previous
-:
-Safety and security](/foreign-travel-advice/laos/safety-and-security)
+[Previous:Safety and security](/foreign-travel-advice/laos/safety-and-security)
 
-[Next
-:
-Health](/foreign-travel-advice/laos/health)
+[Next:Health](/foreign-travel-advice/laos/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/laos/print)

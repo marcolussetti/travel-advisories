@@ -64,12 +64,8 @@ There is also [guidance on healthcare if you’re living in Laos](https://www.g
 
 Read [FCDO guidance on travel and mental health](https://www.gov.uk/guidance/foreign-travel-advice-for-people-with-mental-health-issues). There is also [mental health guidance on TravelHealthPro](https://travelhealthpro.org.uk/factsheet/85/travelling-with-mental-health-conditions).
 
-[Previous
-:
-Regional risks](/foreign-travel-advice/laos/regional-risks)
+[Previous:Regional risks](/foreign-travel-advice/laos/regional-risks)
 
-[Next
-:
-Getting help](/foreign-travel-advice/laos/getting-help)
+[Next:Getting help](/foreign-travel-advice/laos/getting-help)
 
 [View a printable version of the whole guide](/foreign-travel-advice/laos/print)

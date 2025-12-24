@@ -27,12 +27,8 @@ Attacks against critical national infrastructure are likely. Attacks have also b
 
 The Saudi Tourism Authority has banned tourist trips to military zones and border posts.
 
-[Previous
-:
-Safety and security](/foreign-travel-advice/saudi-arabia/safety-and-security)
+[Previous:Safety and security](/foreign-travel-advice/saudi-arabia/safety-and-security)
 
-[Next
-:
-Pilgrimage](/foreign-travel-advice/saudi-arabia/pilgrimage)
+[Next:Pilgrimage](/foreign-travel-advice/saudi-arabia/pilgrimage)
 
 [View a printable version of the whole guide](/foreign-travel-advice/saudi-arabia/print)

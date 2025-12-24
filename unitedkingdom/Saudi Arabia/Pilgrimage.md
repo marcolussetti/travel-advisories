@@ -78,12 +78,8 @@ To plan your visit and keep updated when travelling, see the:
 * British Embassy in Saudi Arabia on [X](https://X.com/ukinsaudiarabia) and [Facebook](https://www.facebook.com/ukinsaudiarabia)
 * [Saudi Embassy in the UK](https://embassies.mofa.gov.sa/sites/uk/EN/Pages/default.aspx)
 
-[Previous
-:
-Regional risks](/foreign-travel-advice/saudi-arabia/regional-risks)
+[Previous:Regional risks](/foreign-travel-advice/saudi-arabia/regional-risks)
 
-[Next
-:
-Health](/foreign-travel-advice/saudi-arabia/health)
+[Next:Health](/foreign-travel-advice/saudi-arabia/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/saudi-arabia/print)

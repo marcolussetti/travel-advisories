@@ -1,11 +1,11 @@
 {
     "name": "Taiwan",
-    "update_reason": "Updated following an incident near Taipei Main Station and in Zhongshan shopping district, central Taipei (\u2018Warnings and insurance\u2019 page).",
+    "update_reason": "New information about crime in Taiwan (\u2018Safety and security\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Taiwan/Warnings and insurance.md",
-            "update_date": "2025-12-19T14:14:10+00:00"
+            "update_date": "2025-12-23T11:48:04+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Taiwan/Getting help.md"
         }
     ],
-    "update_date": "2025-12-19T14:14:10+00:00"
+    "update_date": "2025-12-23T11:48:04+00:00"
 }

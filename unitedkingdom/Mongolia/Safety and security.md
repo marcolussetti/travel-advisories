@@ -99,12 +99,8 @@ There are frequent weather warnings all year round for flooding, dust storms, he
 
 The most extreme weather conditions occur in and around the Gobi Desert and the Steppes. Check the [World Meteorological Organization weather forecasts for Mongolia](https://worldweather.wmo.int/en/country.html?countryCode=MNG).
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/mongolia/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/mongolia/entry-requirements)
 
-[Next
-:
-Health](/foreign-travel-advice/mongolia/health)
+[Next:Health](/foreign-travel-advice/mongolia/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/mongolia/print)

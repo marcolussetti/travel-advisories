@@ -204,12 +204,8 @@ There are earthquakes and small tremors throughout the year, usually without ser
 
 The US Federal Emergency Management Agency website has advice about [what to do before, during and after an earthquake](https://www.ready.gov/earthquakes).
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/bulgaria/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/bulgaria/entry-requirements)
 
-[Next
-:
-Health](/foreign-travel-advice/bulgaria/health)
+[Next:Health](/foreign-travel-advice/bulgaria/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/bulgaria/print)

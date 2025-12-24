@@ -8,7 +8,7 @@ UK Counter Terrorism Policing has information and advice on [staying safe abroad
 
 ### Terrorism in Saudi Arabia
 
-Terrorists are very likely to try to carry out attacks in Saudi Arabia.
+Terrorists are likely to try to carry out attacks in Saudi Arabia.
 
 Attacks could be indiscriminate, including in places visited by foreign nationals. Stay aware of your surroundings, keep up to date with local media reports and follow the advice of local authorities.
 
@@ -236,12 +236,8 @@ Find out what you can do to prepare for and respond to [extreme weather and natu
 
 Heavy rains from November to February can cause flooding. Use the internet to check  weather forecasts. In a flood, follow Civil Defence advice or call them on 998.
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/saudi-arabia/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/saudi-arabia/entry-requirements)
 
-[Next
-:
-Regional risks](/foreign-travel-advice/saudi-arabia/regional-risks)
+[Next:Regional risks](/foreign-travel-advice/saudi-arabia/regional-risks)
 
 [View a printable version of the whole guide](/foreign-travel-advice/saudi-arabia/print)

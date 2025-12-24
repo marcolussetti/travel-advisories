@@ -1,19 +1,15 @@
 # Warnings and insurance
 
 Still current at:
-:   20 December 2025
+:   24 December 2025
 
 Updated:
-:   19 December 2025
+:   23 December 2025
 
 Latest update:
-:   Updated following an incident near Taipei Main Station and in Zhongshan shopping district, central Taipei (‘Warnings and insurance’ page).
+:   New information about crime in Taiwan (‘Safety and security’ page).
 
 The UK does not recognise Taiwan as a state and has no diplomatic relations with Taiwan, so limited support is available to British nationals. Please refer to the [British Office in Taipei](https://www.gov.uk/world/organisations/british-office-taipei) for further information.
-
-## Incident in Taipei
-
-There has been a stabbing near Taipei Main Station and in Zhongshan shopping district, central Taipei. If you’re in the immediate area, follow the advice of the local authorities and monitor local media.
 
 ## Before you travel
 

@@ -89,14 +89,18 @@ You cannot take [meat, milk or products containing them into EU countries](https
 
 ### Taking money into Bulgaria
 
+As of 1 January 2026, the currency of Bulgaria will be the euro. Bulgarian lev will still be accepted until 31 January, but can be exchanged for euros free of charge at Bulgarian banks until 30 June 2026.
+
+There may be some temporary disruption to card payments and to cash withdrawals from ATMs around 31 December 2025 to 1 January 2026 due to the changeover in currency. Cash payments will be unaffected.
+
+Major credit and debit cards are accepted in most banks and hotels. Most ATMs accept standard international credit and debit cards.
+
+Pounds sterling and US dollars are easily exchanged for euros. Only exchange money at reliable places such as banks and currency exchange bureaux.
+
 Declare [cash or travellers cheques if the value is 10,000 euros or more](https://customs.bg/wps/portal/agency-en/home/info-citizens/Carrying%20of%20cash,%20precious%20metals,%20gems%20and%20items%20containing%20them%20or%20made%20of%20them). You will get a certified declaration to show you brought it in with you. If you do not, your money could be seized when you leave.
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/bulgaria)
+[Previous:Warnings and insurance](/foreign-travel-advice/bulgaria)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/bulgaria/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/bulgaria/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/bulgaria/print)

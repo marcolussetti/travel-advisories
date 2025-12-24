@@ -14,6 +14,10 @@ Although there’s no recent history of terrorism in Taiwan, attacks cannot be r
 
 The Taiwanese authorities have provided [practical guidance and information](https://prepare.mnd.gov.tw/) (in Chinese), including a booklet, on disaster preparedness and responding to various crises.
 
+## Crime
+
+Crime rates are extremely low in Taiwan. However, travellers are advised to remain vigilant, monitor local media, and follow local law enforcement.
+
 ## Laws and cultural differences
 
 ### Personal ID

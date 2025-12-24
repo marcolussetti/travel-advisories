@@ -139,12 +139,8 @@ You may need a licence for:
 
 If you need information on customs rules, contact the [Saudi Embassy](https://embassies.mofa.gov.sa/sites/uk/EN/Pages/default.aspx).
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/saudi-arabia)
+[Previous:Warnings and insurance](/foreign-travel-advice/saudi-arabia)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/saudi-arabia/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/saudi-arabia/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/saudi-arabia/print)

@@ -18,11 +18,11 @@ When returning to the UK, British citizens must carry a valid [British passport]
 
 ## Visa requirements
 
-You can visit Mongolia without a visa for up to 30 days within a 6-month period.
+Until 31 December 2025, you can visit Mongolia without a visa and stay for up to 30 days for tourism. From 1 January 2026, this visa arrangement may no longer apply. Contact the [Mongolian Embassy in the UK](https://embassyofmongolia.co.uk/?lang=en) to obtain a tourist visa for travel after this date.
 
 ### Applying for a visa
 
-To stay longer, to work or study, for business travel or for other reasons you must [meet the Mongolian government’s entry requirements](https://immigration.gov.mn/en/vizijn-zvshrl/). For more details, contact the [Mongolian Embassy in the UK](https://embassyofmongolia.co.uk/?lang=en).
+For tourism on or after 1 January 2026, to stay longer, to work or study, for business travel or for other reasons you must [meet the Mongolian government’s entry requirements](https://immigration.gov.mn/en/vizijn-zvshrl/). For more details, contact the [Mongolian Embassy in the UK](https://embassyofmongolia.co.uk/?lang=en).
 
 Make sure you get your passport stamped.
 
@@ -97,12 +97,8 @@ You can take in up to 15 million in Mongolian tugriks.
 
 Declare cash or travellers cheques if the value is 10,000 US dollars or more. You will get a certified declaration to show you brought it with you. If you do not, your money could be seized when you leave.
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/mongolia)
+[Previous:Warnings and insurance](/foreign-travel-advice/mongolia)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/mongolia/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/mongolia/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/mongolia/print)
