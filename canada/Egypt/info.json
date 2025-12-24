@@ -1,7 +1,7 @@
 {
     "name": "Egypt",
-    "update_reason": "Risk level(s) \u2013 added map",
-    "update_date": "2025-12-15T14:10:00",
+    "update_reason": "Natural disasters and climate \u2013 updated information on earthquakes and sand and dust storms",
+    "update_date": "2025-12-23T11:33:00",
     "sections": {
         "risk": "canada/Egypt/risk.md",
         "security": "canada/Egypt/security.md",

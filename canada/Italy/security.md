@@ -6,9 +6,11 @@
 
 The Milan Cortina Olympic Winter Games will take place in northern Italy from February 6-22, followed by the Paralympic Winter Games from March 6-15, 2026.
 
-Venues for the Games will be spread out across several destinations in northern Italy. Roads and public transportation services may be impacted by winter weather or increased demand. If you are travelling to Italy for the Games, plan your journey carefully and leave plenty of time to travel between locations.
+Venues for the Games will be spread out across several destinations in northern Italy. Roads and public transportation services may be impacted by winter weather or increased demand. If you are travelling to Italy for the Games, plan your journey carefully, read the transportation information on the official Milan Cortina 2026 website and leave plenty of time to travel between locations.
 
 Be aware of your surroundings, especially in crowded areas. Thieves and pickpockets take advantage of large gatherings to target travellers. People may approach you on the street to sell tickets to events. You should only purchase event tickets through the official Milan Cortina 2026 website or reputable resale services.
+
+The 112 European Emergency Phone Number system provides service in multiple languages, including in English. You can download the “Where are U” application to your smartphone. This application can connect you to the 112 Public Safety Answering Point and will automatically transmit your GPS location. While the ‘Where Are U’ service is unavailable in certain parts of Italy, including in Veneto, you can dial 112 for emergencies throughout Italy.
 
 During the Games, especially in areas near the event centres, you should expect:
 
@@ -20,6 +22,7 @@ During the Games, especially in areas near the event centres, you should expect:
 
 * [Milan Cortina 2026](https://www.olympics.com/en/milano-cortina-2026) – Official site
 * [Lost or stolen belongings outside Canada](https://travel.gc.ca/assistance/emergency-info/stolen-belongings)
+* [Where are U](https://www.regione.lombardia.it/wps/portal/istituzionale/HP/DettaglioServizio/servizi-e-informazioni/Cittadini/salute-e-prevenzione/Emergenze-e-urgenze/where-are-u-112/where-are-u-112) – Regione Lombardia (in Italian only)
 * [More information on medical services and facilities](#medical-services)
 
 ### Crime

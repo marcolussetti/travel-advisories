@@ -16,7 +16,7 @@ Before you travel, check with your transportation company about passport require
 
 #### Regular Canadian passport
 
-Your passport must be valid for at least 45 days beyond the date of expected departure from Bermuda.
+Your passport must be valid for the duration of your stay in Bermuda.
 
 #### Passport for official travel
 
@@ -42,12 +42,25 @@ Different entry rules may apply when travelling with a temporary passport or an 
 
 ### Visas
 
-Tourist visa: not required    
-Business visa: not required
+Tourist visa: not required for stays of up to 180 days  
+Business visa: not required for stays of up to 180 days  
+Work permit: required  
+Student visa: required
+
+### Bermuda Arrival Card
+
+You must complete the digital Bermuda Arrival Card before arriving in Bermuda. Once completed, you must download the form or check your emails to present it to immigration officials upon arrival. Visitors arriving by cruise ship are not required to complete the form.
+
+[Bermuda Arrival Card](https://www.bermudaarrivalcard.com/)
 
 ### Other entry requirements
 
-Customs officials may ask you to show them a return or onward ticket and proof of sufficient funds to cover your stay.
+Customs officials may ask you to show them:
+
+* a return or onward ticket
+* proof of sufficient funds to cover your stay
+* proof of health insurance coverage
+* a declaration not to seek or take up employment in Bermuda
 
 ### Children and travel
 
