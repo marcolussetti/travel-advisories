@@ -54,12 +54,8 @@ Khat is a legal drug in Somalia, but it is an offence to take it out of the coun
 
 In Somaliland you must declare cash or travellers cheques if the value is 10,000 US dollars or more.
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/somalia)
+[Previous:Warnings and insurance](/foreign-travel-advice/somalia)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/somalia/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/somalia/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/somalia/print)

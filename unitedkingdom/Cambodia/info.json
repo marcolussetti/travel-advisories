@@ -1,11 +1,11 @@
 {
     "name": "Cambodia",
-    "update_reason": "Updated with information about the escalating border conflict with Thailand (See 'Border with Thailand' on the 'Warnings and insurance' page).",
+    "update_reason": "FCDO now advises against all but essential travel to within 80km from the border with Thailand in Preah Vihear, Oddar Meanchey, Banteay Meanchey, Battambang and Siem Reap Provinces, except the areas where FCDO continues to advise against all travel to within 50km from the whole border with Thailand ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Cambodia/Warnings and insurance.md",
-            "update_date": "2025-12-19T16:59:18+00:00"
+            "update_date": "2025-12-24T14:07:44+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Cambodia/Getting help.md"
         }
     ],
-    "update_date": "2025-12-19T16:59:18+00:00"
+    "update_date": "2025-12-24T14:07:44+00:00"
 }

@@ -143,12 +143,8 @@ Localised flooding may prevent you from getting to some parts of Somalia, includ
 
 Flooding increases humanitarian need by forcing people to move or cutting them off from possible support. The end of 2023 saw widespread flooding in south-western Somalia, leading to significant internal displacement and disruption to travel.
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/somalia/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/somalia/entry-requirements)
 
-[Next
-:
-Regional risks](/foreign-travel-advice/somalia/regional-risks)
+[Next:Regional risks](/foreign-travel-advice/somalia/regional-risks)
 
 [View a printable version of the whole guide](/foreign-travel-advice/somalia/print)

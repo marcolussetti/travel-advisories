@@ -22,12 +22,8 @@ Land borders with countries neighbouring Somalia may close at short notice. You 
 
 FCDO advises against all travel to the rest of Somalia. There is ongoing, serious violence between opposing factions in many parts of the country. Civilians of all ages have been killed in fighting, which often involves heavy weapons.
 
-[Previous
-:
-Safety and security](/foreign-travel-advice/somalia/safety-and-security)
+[Previous:Safety and security](/foreign-travel-advice/somalia/safety-and-security)
 
-[Next
-:
-Health](/foreign-travel-advice/somalia/health)
+[Next:Health](/foreign-travel-advice/somalia/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/somalia/print)

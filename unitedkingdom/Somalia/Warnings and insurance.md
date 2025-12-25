@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   11 December 2025
+:   25 December 2025
 
 Updated:
-:   10 December 2025
+:   24 December 2025
 
 Latest update:
-:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
+:   New information about travel disruption on 25 December due to district elections (‘Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/61a63d6be90e07044b1ef4b5/s.jpg)
 
@@ -28,6 +28,14 @@ FCDO advises against all but essential travel to the 3 western regions of Somali
 
 Find out more about [why FCDO advises against travel](https://www.gov.uk/foreign-travel-advice/somalia/regional-risks). There has recently been an increase in fighting between al-Shabaab and the Somali Government close to the capital Mogadishu. Please see the [Terrorism section](https://www.gov.uk/foreign-travel-advice/somalia/safety-and-security) for more information.
 
+## Travel disruption due to district elections
+
+District elections will be taking place in Banadir on 25 December 2025. The government has announced an uplift in the numbers of security forces in Mogadishu, movement restrictions in the city, and the closure of Mogadishu International Airport on 25 December.
+
+## Risk of Kidnap
+
+There is a high risk of kidnapping across Somalia, including in and around Gedo Region. Foreign nationals, including British nationals are seen as legitimate targets.
+
 ## Support from FCDO
 
 Support from FCDO is severely limited in Somalia, including Somaliland, with no support in person from staff at the British Embassy Mogadishu or the British Office Hargeisa.
@@ -42,10 +50,6 @@ If you’re in the UK and are concerned about a British national in Somalia, inc
 ## People of Somali descent, including Somaliland descent
 
 The government of Somalia and the authorities in Somaliland will consider any British national of Somali (including Somaliland) descent to be a dual national. FCDO can offer only limited consular support in these cases.
-
-## Risk of Kidnap
-
-There is a high risk of kidnapping across Somalia, including in and around Gedo Region. Foreign nationals, including British nationals are seen as legitimate targets.
 
 ## Before you travel
 
@@ -75,8 +79,6 @@ Follow FCDO:
 * [travel advice on Facebook](https://www.facebook.com/FCDOTravel/)
 * [Travel Aware on Instagram](https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Ftravelaware%2F&is_from_rle)
 
-[Next
-:
-Entry requirements](/foreign-travel-advice/somalia/entry-requirements)
+[Next:Entry requirements](/foreign-travel-advice/somalia/entry-requirements)
 
 [View a printable version of the whole guide](/foreign-travel-advice/somalia/print)

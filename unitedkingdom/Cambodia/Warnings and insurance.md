@@ -1,36 +1,44 @@
 # Warnings and insurance
 
 Still current at:
-:   20 December 2025
+:   25 December 2025
 
 Updated:
-:   19 December 2025
+:   24 December 2025
 
 Latest update:
-:   Updated with information about the escalating border conflict with Thailand (See 'Border with Thailand' on the 'Warnings and insurance' page).
+:   FCDO now advises against all but essential travel to within 80km from the border with Thailand in Preah Vihear, Oddar Meanchey, Banteay Meanchey, Battambang and Siem Reap Provinces, except the areas where FCDO continues to advise against all travel to within 50km from the whole border with Thailand ('Warnings and insurance' page).
 
-![](https://assets.publishing.service.gov.uk/media/693c335a6a12691d48491efb/FCDO__TA__085_-_Cambodia_Travel_Advice_Ed5__WEB_.jpg)
+![](https://assets.publishing.service.gov.uk/media/694bd4c883489d5685a753a1/FCDO__TA__085_-_Cambodia_Travel_Advice_Ed6__WEB___1_.jpg)
 
 
-[Download a more detailed map (PDF, 639 KB)](https://assets.publishing.service.gov.uk/media/693c335a33c7ace9c4a42113/FCDO__TA__085_-_Cambodia_Travel_Advice_Ed5.pdf)
+[Download a more detailed map (PDF, 654 KB)](https://assets.publishing.service.gov.uk/media/694bd4c883489d5685a753a2/FCDO__TA__085_-_Cambodia_Travel_Advice_Ed6__1_.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
-## Areas where FCDO advises against all travel
+## Areas where FCDO advises against travel
 
 FCDO advises against all travel to within 50km from the whole border with Thailand.
+
+FCDO advises against all but essential travel to within 80km from the border with Thailand, except where we advise against all travel, in:
+
+* Preah Vihear Province
+* Oddar Meanchey Province
+* Banteay Meanchey Province
+* Battambang Province
+* Siem Reap Province
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/cambodia/safety-and-security#terrorism).
 
 ## Border with Thailand
 
-In July 2025, Thailand and Cambodia fought along parts of the border. The fighting included the use of rocket and artillery fire. Tensions remain and fighting erupted again at various points along and across the border in December, including airstrikes, with some incidents beyond the border areas.
+Heavy fighting along parts of the Thailand and Cambodia border, including the use of airstrikes, rocket and artillery fire is ongoing. While most military activity is focused in the contested areas, strikes have happened more than 50km from the border. Targets have been military but have also included infrastructure such as bridges.
 
 Land borders and crossings between Cambodia and Thailand continue to be suspended. Some tourist destinations in border areas such as the Preah Vihear/Khao Phra Wihan temple, the Ta Krabey/Ta Kwai temple and the Tamone Thom/Ta Muen Thom temple are closed.
 
 There are also unexploded landmines in the border area.
 
-We advise against all travel to the affected land border areas. All travellers to Cambodia should remain alert and follow advice of local authorities.
+We advise against travel to the affected land border areas. All travellers to Cambodia should remain alert and follow advice of local authorities.
 
 ## Before you travel
 
