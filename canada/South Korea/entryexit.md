@@ -47,7 +47,7 @@ Business visa: not required\*
 Student visa: required (must be obtained outside South Korea)  
 Working visa: required (must be obtained outside South Korea)
 
-\*Canadians are exempt from the Korea Electronic Travel Authority (K-ETA) requirement to visit South Korea until December 31, 2025.
+\*Canadians are exempt from the Korea Electronic Travel Authority (K-ETA) requirement to visit South Korea until December 31, 2026.
 
 You can't change your visa status once you're in South Korea.
 

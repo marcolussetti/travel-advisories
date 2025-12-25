@@ -10,7 +10,7 @@ The features in this map do not constitute an authoritative source of geographic
 
 [Enlarge map](#full-screen)
 
-## cambodia travel advice
+## Cambodia travel advice
 
 ![Risk level map](https://www.international.gc.ca/tama-sgcv_images/maps-cartes/KH/mapeng.png)Disclaimer
 
@@ -23,3 +23,7 @@ The features in this map do not constitute an authoritative source of geographic
 ### Cambodia-Thailand border - Avoid all travel
 
 [Avoid all travel](#levels "Risk Levels") to the area within 50 kilometres of the Cambodia-Thailand border due to ongoing tensions in the region.
+
+### Regional advisory - Avoid non-essential travel
+
+[Avoid non-essential travel](#levels "Risk Levels") to the area between 50 to 80 km from the Cambodia-Thailand border, from Preah Vihear to Battambang province including Battambang City.

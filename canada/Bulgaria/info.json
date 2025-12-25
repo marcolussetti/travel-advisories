@@ -1,7 +1,7 @@
 {
     "name": "Bulgaria",
-    "update_reason": "Risk level(s) \u2013 added map",
-    "update_date": "2025-12-15T14:10:00",
+    "update_reason": "Laws and culture \u2013 added information on currency change",
+    "update_date": "2025-12-24T10:08:00",
     "sections": {
         "risk": "canada/Bulgaria/risk.md",
         "security": "canada/Bulgaria/security.md",

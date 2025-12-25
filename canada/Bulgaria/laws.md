@@ -6,6 +6,14 @@ You must abide by local laws.
 
 Learn about what you should do and how we can help if you are [arrested or detained abroad](http://travel.gc.ca/assistance/emergency-info/arrest-detention).
 
+### Currency change
+
+As of 1 January 2026, Bulgaria will officially join the Eurozone. The euro (EUR) will replace the Bulgarian lev (BGN) as Bulgaria’s official currency.
+
+You will be able to exchange any outdated currency free of charge at banks until January 31, 2026.
+
+[More information on money](#money)
+
 ### Transfer to a Canadian prison
 
 Canada and Bulgaria are signatories to the Convention on the Transfer of Sentenced Persons. This enables a Canadian imprisoned in Bulgaria to request a transfer to a Canadian prison to complete a sentence. The transfer requires the agreement of both Canadian and Bulgaria authorities.

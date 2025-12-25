@@ -2,6 +2,41 @@
 
 ## Natural disasters and climate
 
+### Flooding and mudslides in southern California
+
+The State of California has declared a state of emergency in multiple counties due to heavy rains that could lead to flooding, rockslides and mudslides.   
+   
+ The state of emergency applies to the following counties:
+
+* Los Angeles
+* Orange
+* Riverside
+* San Bernardino
+* San Diego
+* Shasta
+
+Evacuation efforts are underway.
+
+There are reports of wide-spread flash flooding which may damage roads and bridges.
+
+The following essential services could be disrupted:
+
+* transportation
+* power distribution
+* water and food supply
+* telecommunications networks
+* emergency services
+* medical care
+
+If you are in the affected areas:
+
+* stay away from flooded or landslide-prone zones
+* exercise caution
+* monitor local news and weather reports
+* follow the instructions of local authorities, including evacuation orders
+
+[Flooding and storm advisory](https://www.weather.gov/lox/) for Los Angeles **–** National Weather Service
+
 Natural disasters can occur at any time.
 
 [Plan Ahead for Disasters](https://www.ready.gov/) – U.S. Department of Homeland Security
