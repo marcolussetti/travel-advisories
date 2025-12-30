@@ -58,6 +58,8 @@ All travellers entering Ecuador must register their entry and exit in the nation
 
 ### Peru and Colombia land border crossings
 
+As of 24 December 2025 only Rumichaca and Huaquillas international immigration checkpoints, at the Colombia and Peru land borders, are operating. Other checkpoints remain closed for national security reasons until further notice.
+
 If you are entering Ecuador by land from Peru or Colombia, it is essential to use an official immigration checkpoint to receive the required passport entry stamp indicating your arrival date. Some buses may bypass immigration checkpoints, which can result in travellers not receiving the necessary stamp. This can lead to serious immigration issues.
 
 Evading immigration control filters, regardless of the reason, is considered a serious offence. According to official sources:
@@ -115,12 +117,8 @@ This form must be completed at least three days before travelling. Failure to de
 
 You must declare cash you’re carrying when you leave Ecuador. You will have to pay tax on amounts over 1,350 US dollars.
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/ecuador)
+[Previous:Warnings and insurance](/foreign-travel-advice/ecuador)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/ecuador/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/ecuador/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/ecuador/print)

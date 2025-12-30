@@ -131,12 +131,8 @@ Uzbekistan is in an active seismic zone. There are regular tremors.
 
 The US Federal Emergency Management Agency has advice about [what to do before, during and after an earthquake](http://www.ready.gov/earthquakes).
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/uzbekistan/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/uzbekistan/entry-requirements)
 
-[Next
-:
-Regional risks](/foreign-travel-advice/uzbekistan/regional-risks)
+[Next:Regional risks](/foreign-travel-advice/uzbekistan/regional-risks)
 
 [View a printable version of the whole guide](/foreign-travel-advice/uzbekistan/print)

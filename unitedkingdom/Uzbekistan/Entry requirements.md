@@ -77,12 +77,8 @@ Bring a doctor’s prescription if you travel with prescription medicines and de
 
 The import and use of drones in Uzbekistan is largely prohibited, with some limited exceptions. You must get a licence to import drones and permission to use them before you arrive in Uzbekistan. If you import or use drones without permission, you can be fined or get a prison sentence. The authorities can also confiscate your equipment.
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/uzbekistan)
+[Previous:Warnings and insurance](/foreign-travel-advice/uzbekistan)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/uzbekistan/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/uzbekistan/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/uzbekistan/print)

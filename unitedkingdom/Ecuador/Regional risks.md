@@ -58,12 +58,8 @@ If you cross the northern border at Tulcán (Rumichaca official land border poin
 
 Lago Agrio (also known as Nueva Loja) the main town in Sucumbíos province, and San Lorenzo, in Esmeraldas province, are both within the 20km border zone where FCDO advises against all but essential travel.
 
-[Previous
-:
-Safety and security](/foreign-travel-advice/ecuador/safety-and-security)
+[Previous:Safety and security](/foreign-travel-advice/ecuador/safety-and-security)
 
-[Next
-:
-Health](/foreign-travel-advice/ecuador/health)
+[Next:Health](/foreign-travel-advice/ecuador/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/ecuador/print)

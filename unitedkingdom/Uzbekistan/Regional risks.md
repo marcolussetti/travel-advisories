@@ -16,12 +16,8 @@ Many of the tourist sites close to the border require the permission of the loca
 
 In April 2022, rockets were fired from Afghanistan into southern Uzbekistan. Islamic State Khorasan Province (ISKP) claimed responsibility. See [Terrorism](/foreign-travel-advice/uzbekistan/safety-and-security#terrorism).
 
-[Previous
-:
-Safety and security](/foreign-travel-advice/uzbekistan/safety-and-security)
+[Previous:Safety and security](/foreign-travel-advice/uzbekistan/safety-and-security)
 
-[Next
-:
-Health](/foreign-travel-advice/uzbekistan/health)
+[Next:Health](/foreign-travel-advice/uzbekistan/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/uzbekistan/print)

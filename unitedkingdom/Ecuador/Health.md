@@ -60,12 +60,8 @@ San Cristóbal Island has a well-equipped public hospital. Santa Cruz Island has
 
 Read [FCDO guidance on travel and mental health](https://www.gov.uk/guidance/foreign-travel-advice-for-people-with-mental-health-issues). There is also [mental health guidance on TravelHealthPro](https://travelhealthpro.org.uk/factsheet/85/travelling-with-mental-health-conditions). You can find information about [mental health support for British nationals in Ecuador.](https://www.gov.uk/government/publications/ecuador-mental-health-support-for-british-nationals/ecuador-mental-health-support-for-british-nationals)
 
-[Previous
-:
-Regional risks](/foreign-travel-advice/ecuador/regional-risks)
+[Previous:Regional risks](/foreign-travel-advice/ecuador/regional-risks)
 
-[Next
-:
-Getting help](/foreign-travel-advice/ecuador/getting-help)
+[Next:Getting help](/foreign-travel-advice/ecuador/getting-help)
 
 [View a printable version of the whole guide](/foreign-travel-advice/ecuador/print)

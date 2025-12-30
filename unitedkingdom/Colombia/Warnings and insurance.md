@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   15 December 2025
+:   30 December 2025
 
 Updated:
-:   14 December 2025
+:   29 December 2025
 
 Latest update:
-:   Update on strike in the cities of Cúcuta, Barrancabermeja, Medellín, Bogotá, Cali and Popayán from 14 - 17 December (See 'Warnings and insurance' page).
+:   Removal of information about strike in the cities of Cúcuta, Barrancabermeja, Medellín, Bogotá, Cali and Popayán 14 - 17 December ('Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/67c05135b0bb6528ee866b96/FCDO_TA_054_-_Colombia_Travel_Advice_Ed3_WEB.jpg)
 
@@ -15,10 +15,6 @@ Latest update:
 [Download a more detailed map (PDF, 1010 KB)](https://assets.publishing.service.gov.uk/media/67c0513672e83aab48866ba1/FCDO_TA_054_-_Colombia_Travel_Advice_Ed3.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
-
-## Puracé Volcano
-
-The Colombian authorities have issued an [orange alert](https://www2.sgc.gov.co/Noticias/Paginas/Boletin-extraordinario-Volcan-Purace-cadena-volcanica-Los-Coconucos-del-30-de-noviembre-de-2025.aspx) for Puracé volcano near Popayán. You should follow the advice of the local authorities which includes avoiding the volcano’s immediate perimeter and closely monitoring the situation.
 
 ## Areas where FCDO advises against all but essential travel
 
@@ -66,9 +62,9 @@ FCDO advises against all but essential travel to Orito, San Miguel, Valle del Gu
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/colombia/regional-risks).
 
-## National strike - security threats
+## Puracé Volcano
 
-A major armed group have called a strike from 06:00 on 14 December to 06:00 on 17 December in the cities of Cúcuta, Barrancabermeja, Medellín, Bogotá, Cali and Popayán. Police and military facilities could be targeted. There may also be disruption to public transport networks and businesses. You should exercise a high degree of caution and follow the advice of the local authorities.
+The Colombian authorities have issued an [orange alert](https://www2.sgc.gov.co/Noticias/Paginas/Boletin-extraordinario-Volcan-Purace-cadena-volcanica-Los-Coconucos-del-30-de-noviembre-de-2025.aspx) for Puracé volcano near Popayán. Follow the advice of the local authorities which includes avoiding the volcano’s immediate perimeter and closely monitoring the situation.
 
 ## Before you travel
 

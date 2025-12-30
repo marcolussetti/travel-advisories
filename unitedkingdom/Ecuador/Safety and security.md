@@ -323,12 +323,8 @@ There is a high risk from mixed flows of water, mud, lava and debris (â€˜laharsâ
 
 Access to the Reventador volcano (Napo province) is currently restricted.
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/ecuador/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/ecuador/entry-requirements)
 
-[Next
-:
-Regional risks](/foreign-travel-advice/ecuador/regional-risks)
+[Next:Regional risks](/foreign-travel-advice/ecuador/regional-risks)
 
 [View a printable version of the whole guide](/foreign-travel-advice/ecuador/print)

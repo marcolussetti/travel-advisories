@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   11 December 2025
+:   30 December 2025
 
 Updated:
-:   10 December 2025
+:   29 December 2025
 
 Latest update:
-:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
+:   Updated information about the risks from air quality in Uzbekistan (‘Health’ page).
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
@@ -36,8 +36,6 @@ Follow FCDO:
 * [travel advice on Facebook](https://www.facebook.com/FCDOTravel/)
 * [Travel Aware on Instagram](https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Ftravelaware%2F&is_from_rle)
 
-[Next
-:
-Entry requirements](/foreign-travel-advice/uzbekistan/entry-requirements)
+[Next:Entry requirements](/foreign-travel-advice/uzbekistan/entry-requirements)
 
 [View a printable version of the whole guide](/foreign-travel-advice/uzbekistan/print)

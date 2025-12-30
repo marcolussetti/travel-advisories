@@ -26,9 +26,13 @@ Altitude sickness is a risk in parts of Uzbekistan. Read more about [altitude si
 
 ### Air quality
 
-Air quality in the Karakalpakstan and Khorezm regions has deteriorated because of regular storms over the Aral Sea bringing salt, dust and pollutants into the air. Try to minimise your exposure to outside air by staying in an air-conditioned indoor place as much as possible, with windows and doors closed and well sealed.
+Poor outdoor air quality is a risk in Uzbekistan, especially during winter between November and February. The major cities, including Tashkent and the Fergana valley, are most affected by these high seasonal levels of pollution.
 
-Wash all fruit, vegetables and other foods, which might have been exposed. Regularly damp-dust all indoor surfaces, washing your hands afterwards. Monitor local reports and weather forecasts for the latest information and advice.
+The air quality in Karakalkpakstan and Khorezm regions can be poor all year round, because of regular storms over the Aral Sea bringing salt, dust and pollutants into the air.
+
+Children, the elderly and those with pre-existing medical conditions may be especially affected.
+
+Read about the risks from [poor air quality, and steps you should take, on TravelHealthPro](https://travelhealthpro.org.uk/disease/219/outdoor-air-quality).
 
 ## Medication
 
@@ -48,12 +52,8 @@ FCDO has a [list of medical providers in Uzbekistan](https://www.gov.uk/governme
 
 Read [FCDO guidance on travel and mental health](https://www.gov.uk/guidance/foreign-travel-advice-for-people-with-mental-health-issues). There is also [mental health guidance on TravelHealthPro](https://travelhealthpro.org.uk/factsheet/85/travelling-with-mental-health-conditions).
 
-[Previous
-:
-Regional risks](/foreign-travel-advice/uzbekistan/regional-risks)
+[Previous:Regional risks](/foreign-travel-advice/uzbekistan/regional-risks)
 
-[Next
-:
-Getting help](/foreign-travel-advice/uzbekistan/getting-help)
+[Next:Getting help](/foreign-travel-advice/uzbekistan/getting-help)
 
 [View a printable version of the whole guide](/foreign-travel-advice/uzbekistan/print)

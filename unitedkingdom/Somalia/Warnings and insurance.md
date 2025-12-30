@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   25 December 2025
+:   30 December 2025
 
 Updated:
-:   24 December 2025
+:   29 December 2025
 
 Latest update:
-:   New information about travel disruption on 25 December due to district elections (‘Warnings and insurance’ page).
+:   New information about risks from large gatherings and celebratory gunfire (‘Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/61a63d6be90e07044b1ef4b5/s.jpg)
 
@@ -28,13 +28,10 @@ FCDO advises against all but essential travel to the 3 western regions of Somali
 
 Find out more about [why FCDO advises against travel](https://www.gov.uk/foreign-travel-advice/somalia/regional-risks). There has recently been an increase in fighting between al-Shabaab and the Somali Government close to the capital Mogadishu. Please see the [Terrorism section](https://www.gov.uk/foreign-travel-advice/somalia/safety-and-security) for more information.
 
-## Travel disruption due to district elections
+## Risks from large gatherings and celebratory gunfire
 
-District elections will be taking place in Banadir on 25 December 2025. The government has announced an uplift in the numbers of security forces in Mogadishu, movement restrictions in the city, and the closure of Mogadishu International Airport on 25 December.
-
-## Risk of Kidnap
-
-There is a high risk of kidnapping across Somalia, including in and around Gedo Region. Foreign nationals, including British nationals are seen as legitimate targets.
+There is an increased likelihood of large gatherings and celebratory gunfire in Somaliland. Avoid large gatherings, demonstrations, and public celebrations, even if they appear peaceful. If you hear gunfire, seek immediate shelter indoors and stay away from windows.
+Terrorist groups may seek to exploit periods of civil unrest.
 
 ## Support from FCDO
 
