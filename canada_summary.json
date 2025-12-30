@@ -74,7 +74,7 @@
     {
         "destination": "Australia",
         "risk_level": "Take normal security precautions",
-        "last_updated": "2025-12-15T14:10:53",
+        "last_updated": "2025-12-29T16:30:39",
         "details_url": "https://travel.gc.ca/destinations/australia"
     },
     {
@@ -110,7 +110,7 @@
     {
         "destination": "Bangladesh",
         "risk_level": "Exercise a high degree of caution (with regional advisories)",
-        "last_updated": "2025-12-23T12:38:15",
+        "last_updated": "2025-12-29T11:46:59",
         "details_url": "https://travel.gc.ca/destinations/bangladesh"
     },
     {
@@ -194,7 +194,7 @@
     {
         "destination": "Brunei",
         "risk_level": "Take normal security precautions",
-        "last_updated": "2025-12-15T14:10:53",
+        "last_updated": "2025-12-29T13:00:37",
         "details_url": "https://travel.gc.ca/destinations/brunei"
     },
     {
@@ -224,7 +224,7 @@
     {
         "destination": "Cambodia",
         "risk_level": "Exercise a high degree of caution (with regional advisories)",
-        "last_updated": "2025-12-24T12:38:50",
+        "last_updated": "2025-12-29T13:02:58",
         "details_url": "https://travel.gc.ca/destinations/cambodia"
     },
     {
@@ -266,13 +266,13 @@
     {
         "destination": "China",
         "risk_level": "Exercise a high degree of caution",
-        "last_updated": "2025-12-15T16:22:36",
+        "last_updated": "2025-12-29T14:51:44",
         "details_url": "https://travel.gc.ca/destinations/china"
     },
     {
         "destination": "Colombia",
         "risk_level": "Exercise a high degree of caution (with regional advisories)",
-        "last_updated": "2025-12-19T15:37:24",
+        "last_updated": "2025-12-29T16:50:10",
         "details_url": "https://travel.gc.ca/destinations/colombia"
     },
     {
@@ -296,7 +296,7 @@
     {
         "destination": "Croatia",
         "risk_level": "Take normal security precautions",
-        "last_updated": "2025-12-15T14:10:53",
+        "last_updated": "2025-12-29T11:28:54",
         "details_url": "https://travel.gc.ca/destinations/croatia"
     },
     {
@@ -362,7 +362,7 @@
     {
         "destination": "Ecuador",
         "risk_level": "Exercise a high degree of caution (with regional advisories)",
-        "last_updated": "2025-12-18T12:10:05",
+        "last_updated": "2025-12-29T17:00:44",
         "details_url": "https://travel.gc.ca/destinations/ecuador"
     },
     {
@@ -464,7 +464,7 @@
     {
         "destination": "Germany",
         "risk_level": "Exercise a high degree of caution",
-        "last_updated": "2025-12-17T09:18:22",
+        "last_updated": "2025-12-29T10:04:50",
         "details_url": "https://travel.gc.ca/destinations/germany"
     },
     {
@@ -548,7 +548,7 @@
     {
         "destination": "Hong Kong",
         "risk_level": "Exercise a high degree of caution",
-        "last_updated": "2025-12-16T10:50:09",
+        "last_updated": "2025-12-29T13:09:50",
         "details_url": "https://travel.gc.ca/destinations/hong-kong"
     },
     {
@@ -572,7 +572,7 @@
     {
         "destination": "Indonesia",
         "risk_level": "Exercise a high degree of caution (with regional advisories)",
-        "last_updated": "2025-12-15T14:10:53",
+        "last_updated": "2025-12-29T13:11:27",
         "details_url": "https://travel.gc.ca/destinations/indonesia"
     },
     {
@@ -734,7 +734,7 @@
     {
         "destination": "Malaysia",
         "risk_level": "Take normal security precautions (with regional advisories)",
-        "last_updated": "2025-12-23T10:58:59",
+        "last_updated": "2025-12-29T13:56:38",
         "details_url": "https://travel.gc.ca/destinations/malaysia"
     },
     {
@@ -788,7 +788,7 @@
     {
         "destination": "Mexico",
         "risk_level": "Exercise a high degree of caution (with regional advisories)",
-        "last_updated": "2025-12-22T16:16:11",
+        "last_updated": "2025-12-29T14:11:59",
         "details_url": "https://travel.gc.ca/destinations/mexico"
     },
     {
@@ -812,7 +812,7 @@
     {
         "destination": "Mongolia",
         "risk_level": "Take normal security precautions",
-        "last_updated": "2025-12-15T14:10:53",
+        "last_updated": "2025-12-29T13:59:44",
         "details_url": "https://travel.gc.ca/destinations/mongolia"
     },
     {
@@ -842,7 +842,7 @@
     {
         "destination": "Myanmar",
         "risk_level": "Avoid all travel",
-        "last_updated": "2025-12-23T10:19:55",
+        "last_updated": "2025-12-29T14:14:54",
         "details_url": "https://travel.gc.ca/destinations/myanmar"
     },
     {
@@ -908,7 +908,7 @@
     {
         "destination": "North Korea",
         "risk_level": "Avoid all travel",
-        "last_updated": "2025-12-15T14:10:53",
+        "last_updated": "2025-12-29T14:06:46",
         "details_url": "https://travel.gc.ca/destinations/north-korea"
     },
     {
@@ -926,7 +926,7 @@
     {
         "destination": "Norway",
         "risk_level": "Take normal security precautions",
-        "last_updated": "2025-12-15T14:10:53",
+        "last_updated": "2025-12-29T10:02:44",
         "details_url": "https://travel.gc.ca/destinations/norway"
     },
     {
@@ -950,7 +950,7 @@
     {
         "destination": "Panama",
         "risk_level": "Take normal security precautions (with regional advisories)",
-        "last_updated": "2025-12-22T10:55:22",
+        "last_updated": "2025-12-29T15:39:58",
         "details_url": "https://travel.gc.ca/destinations/panama"
     },
     {
@@ -968,13 +968,13 @@
     {
         "destination": "Peru",
         "risk_level": "Exercise a high degree of caution (with regional advisories)",
-        "last_updated": "2025-12-22T11:00:33",
+        "last_updated": "2025-12-29T16:39:14",
         "details_url": "https://travel.gc.ca/destinations/peru"
     },
     {
         "destination": "Philippines",
         "risk_level": "Exercise a high degree of caution (with regional advisories)",
-        "last_updated": "2025-12-18T12:23:33",
+        "last_updated": "2025-12-29T14:13:09",
         "details_url": "https://travel.gc.ca/destinations/philippines"
     },
     {
@@ -1118,7 +1118,7 @@
     {
         "destination": "Singapore",
         "risk_level": "Take normal security precautions",
-        "last_updated": "2025-12-15T14:10:53",
+        "last_updated": "2025-12-29T14:14:01",
         "details_url": "https://travel.gc.ca/destinations/singapore"
     },
     {
@@ -1160,7 +1160,7 @@
     {
         "destination": "South Korea",
         "risk_level": "Take normal security precautions",
-        "last_updated": "2025-12-24T12:06:43",
+        "last_updated": "2025-12-29T14:15:19",
         "details_url": "https://travel.gc.ca/destinations/south-korea"
     },
     {
@@ -1178,7 +1178,7 @@
     {
         "destination": "Sri Lanka",
         "risk_level": "Exercise a high degree of caution",
-        "last_updated": "2025-12-15T14:10:53",
+        "last_updated": "2025-12-29T11:23:38",
         "details_url": "https://travel.gc.ca/destinations/sri-lanka"
     },
     {
@@ -1202,7 +1202,7 @@
     {
         "destination": "Switzerland",
         "risk_level": "Take normal security precautions",
-        "last_updated": "2025-12-16T12:45:57",
+        "last_updated": "2025-12-29T11:26:53",
         "details_url": "https://travel.gc.ca/destinations/switzerland"
     },
     {
@@ -1214,7 +1214,7 @@
     {
         "destination": "Taiwan",
         "risk_level": "Take normal security precautions",
-        "last_updated": "2025-12-22T09:53:18",
+        "last_updated": "2025-12-29T14:16:55",
         "details_url": "https://travel.gc.ca/destinations/taiwan"
     },
     {
@@ -1322,7 +1322,7 @@
     {
         "destination": "United States",
         "risk_level": "Take normal security precautions",
-        "last_updated": "2025-12-24T16:54:13",
+        "last_updated": "2025-12-29T15:14:54",
         "details_url": "https://travel.gc.ca/destinations/united-states"
     },
     {
@@ -1352,7 +1352,7 @@
     {
         "destination": "Vietnam",
         "risk_level": "Exercise a high degree of caution",
-        "last_updated": "2025-12-23T11:00:19",
+        "last_updated": "2025-12-29T14:18:53",
         "details_url": "https://travel.gc.ca/destinations/vietnam"
     },
     {

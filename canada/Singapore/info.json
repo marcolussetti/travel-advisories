@@ -1,7 +1,7 @@
 {
     "name": "Singapore",
-    "update_reason": "Risk level(s) \u2013 added map",
-    "update_date": "2025-12-15T14:10:00",
+    "update_reason": "Health \u2013 added Travel health notice for Lunar New Year",
+    "update_date": "2025-12-29T14:14:00",
     "sections": {
         "risk": "canada/Singapore/risk.md",
         "security": "canada/Singapore/security.md",

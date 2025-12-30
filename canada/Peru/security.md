@@ -42,7 +42,7 @@ Criminal activity related to drug production and trafficking, illegal mining and
 
 Expect an increased security presence in the border area due to crime, particularly theft and extortion. Landmines and unmarked minefields are also present along the border.
 
-Only cross the Peru–Ecuador border at the official crossing point near Tumbes, the Centro Binacional de Atención Fronteriza (Binational Border Centre). Access this border crossing via the Panamerican Highway.
+Only cross the Peru–Ecuador border at the official crossing point near Tumbes, the Centro Binacional de Atención Fronteriza (Binational Border Centre). Access this border crossing via the Pan-American Highway. This is the only land border crossing with Ecuador that is currently open.
 
 Be aware that basic services in the Tumbes district have become increasingly difficult to access due to an increased number of migrants entering Peru from Ecuador.
 
@@ -56,7 +56,6 @@ Crime rates are high throughout the country.
 
 * Always be aware of your surroundings, especially at night
 * Avoid walking in deserted or under-populated areas
-
 * Travel in groups whenever possible
 
 #### Petty crime
@@ -74,7 +73,7 @@ Theft occurs frequently, particularly in crowded public areas such as:
 * hotel lobbies
 * restaurants
 
- During your trip:
+During your trip:
 
 * keep your personal belongings, including your passport and other travel documents, in a secure place
 * don’t show signs of affluence or wear expensive jewellery
@@ -104,7 +103,7 @@ Armed robberies occur, including in tourist areas, particularly when travellers 
 * Be extra cautious when withdrawing cash from ATMs and use ATMs inside banks and during regular service hours
 * Don’t resist an attack
 
-#### Sexual Assault
+#### Sexual assault
 
 Incidents of sexual assault, including rape, occur throughout the country. In some cases, tour guides have been implicated.
 

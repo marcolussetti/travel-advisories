@@ -1,7 +1,7 @@
 {
     "name": "Brunei",
-    "update_reason": "Risk level(s) \u2013 added map",
-    "update_date": "2025-12-15T14:10:00",
+    "update_reason": "Health \u2013 added Travel health notice for Lunar New Year",
+    "update_date": "2025-12-29T13:00:00",
     "sections": {
         "risk": "canada/Brunei/risk.md",
         "security": "canada/Brunei/security.md",

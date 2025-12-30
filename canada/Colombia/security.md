@@ -2,6 +2,10 @@
 
 ## Safety and security
 
+### Land border crossings with Ecuador
+
+Most land border crossings with Ecuador are closed until further notice. Only the Rumichaca International Bridge, near Ipiales-Tulcán, remains open.
+
 ### Dating applications
 
 ### Online dating applications

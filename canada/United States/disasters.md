@@ -4,9 +4,9 @@
 
 ### Flooding and mudslides in southern California
 
-The State of California has declared a state of emergency in multiple counties due to heavy rains that could lead to flooding, rockslides and mudslides.   
-   
- The state of emergency applies to the following counties:
+On December 24, 2025, the State of California has declared a state of emergency in multiple counties due to heavy rains that led to flooding and mudslides.
+
+The state of emergency applies to the following counties:
 
 * Los Angeles
 * Orange
@@ -15,9 +15,7 @@ The State of California has declared a state of emergency in multiple counties d
 * San Diego
 * Shasta
 
-Evacuation efforts are underway.
-
-There are reports of wide-spread flash flooding which may damage roads and bridges.
+Additional rain is forecast to begin on December 31, 2025, which may lead to more flooding, rockslides, and mudslides.
 
 The following essential services could be disrupted:
 
@@ -35,7 +33,7 @@ If you are in the affected areas:
 * monitor local news and weather reports
 * follow the instructions of local authorities, including evacuation orders
 
-[Flooding and storm advisory](https://www.weather.gov/lox/) for Los Angeles **–** National Weather Service
+[Rain Readiness](https://emergency.lacity.gov/rain) – L.A. Emergency Management Department
 
 Natural disasters can occur at any time.
 

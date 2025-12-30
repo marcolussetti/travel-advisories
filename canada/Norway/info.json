@@ -1,7 +1,7 @@
 {
     "name": "Norway",
-    "update_reason": "Risk level(s) \u2013 added map",
-    "update_date": "2025-12-15T14:10:00",
+    "update_reason": "Editorial change",
+    "update_date": "2025-12-29T10:02:00",
     "sections": {
         "risk": "canada/Norway/risk.md",
         "security": "canada/Norway/security.md",

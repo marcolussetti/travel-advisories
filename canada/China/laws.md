@@ -10,7 +10,7 @@ Learn about what you should do and how we can help if you are [arrested or detai
 
 If you are suspected of a crime, Chinese authorities can prevent you from leaving China (by withholding your passport or applying an exit ban) or may detain you for up to 37 days without charges.
 
-You may also be subject to severe punishments, including for non-violent acts such as financial crimes.
+You may also be subject to severe punishments, including for non-violent acts such as financial crimes. Chinese authorities may also apply the death penalty for crimes deemed serious, including drug offences.
 
 Detention during the investigative period before charges are laid is common and can be lengthy. Some defence lawyers may be reluctant to accept cases involving foreigners.
 
@@ -22,11 +22,11 @@ If you are a dual citizen, you should always travel using your valid Canadian pa
 
 ### Death penalty
 
-The death penalty may be applied for both violent and non-violent crimes, including for serious drug offences.
+Chinese authorities apply, sometimes arbitrarily, the death penalty for both violent and non-violent crimes, including for serious drug offences.
 
 ### Drugs
 
-Penalties for possession, use, production or trafficking of illegal drugs, including cannabis, are severe. Convicted offenders can expect heavy fines, jail sentences or the death penalty. These laws are strictly enforced and apply to persons 14 years and older.
+Penalties for possession, use, production or trafficking of illegal drugs, including cannabis, are severe. Convicted offenders can expect heavy fines, jail sentences or the death penalty. These laws are strictly enforced and apply to persons 14 years and older. Penalties can be assigned arbitrarily.
 
 Local authorities conduct random drug tests (urine or hair). Police have raided nightclubs and bars and subjected patrons to on-the-spot drug testing.
 

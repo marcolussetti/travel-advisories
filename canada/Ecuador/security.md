@@ -39,6 +39,13 @@ If you are in Ecuador:
 
 ### Border areas
 
+#### Land border crossings with Colombia and Peru
+
+For national security reasons, Ecuadorian authorities have closed most land border crossings with Colombia and Peru until further notice. Only the following remain open:
+
+* on the border with Colombia: the Rumichaca International Bridge, near Tulcán-Ipiales
+* on the border with Peru: the crossing on the Pan-American Highway, south of Huaquillas and leading to Tumbes
+
 Border areas often see higher criminal activity and violence.
 
 #### Colombia

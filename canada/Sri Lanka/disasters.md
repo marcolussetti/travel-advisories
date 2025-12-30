@@ -2,31 +2,6 @@
 
 ## Natural disasters and climate
 
-### Flooding and landslides
-
-Heavy rainfall has caused severe flooding and landslides across Sri Lanka, especially in the Uva and Central provinces. The President has declared a nationwide state of emergency.
-
-Torrential rain has caused flash floods, significant infrastructure damage and casualties. Local authorities warn of more landslides and mudslides due to ongoing erosion.
-
-Power has been restored to most of the country but there are still some outages. Potable water is limited in the affected areas of Uva and Central provinces. Telecommunications are also severely affected in these provinces. There have been long queues at gas stations and banks in the capital, Colombo, as well as localized shortages of fresh fruit and vegetables.
-
-Roadways may be blocked by landslides or flood water. This can affect access to emergency services. All trains and many international flights have been cancelled. Some flights have been rerouted. Contact your airline if your travel plans have been affected.
-
-Special measures are in place if you are unable to leave the country due to flood disruptions, including exemptions from overstay fees and visa extensions. If you have been unable to leave, you should extend your visa through the Department of Immigration and Emigration’s online portal.
-
-If you are in Sri Lanka:
-
-* stay away from affected areas
-* move to higher ground, away from rivers and low-lying areas
-* monitor local news and weather reports
-* confirm your flight before going to the airport
-* follow the instructions of local authorities
-
-#### Useful links
-
-* [e-Visa extension](https://eservices.immigration.gov.lk/vs/login.php) – Department of Immigration of Emigration Sri Lanka
-* [Advisory on Waiver of Charge for Tourists Affected by Adverse Weather Conditions](https://mfa.gov.lk/en/wp-content/uploads/2025/11/Advisory-on-Waiver-of-Charges-for-Tourists-Affected-by-Adverse-Weather-Conditions.pdf) – Ministry of Ports and Civil Aviation Sri Lanka
-
 ### Climate change
 
 Climate change is affecting Sri Lanka. Extreme and unusual weather events are becoming more frequent and may affect your travel plans. Monitor local media for the latest information.

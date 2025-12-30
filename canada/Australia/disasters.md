@@ -2,6 +2,27 @@
 
 ## Natural disasters and climate
 
+### Tropical Cyclone Hayley
+
+Tropical Cyclone Hayley is expected to make landfall between north of Broome and east of Cockatoo Island on December 30, 2025.
+
+The storm is likely to bring excessive rainfall and violent winds. It may cause flash flooding and landslides and could severely disrupt the following essential services:
+
+* transportation
+* power distribution
+* water and food supply
+* telecommunications networks
+* emergency services
+* medical care
+
+If you are on the northwest Kimberley coast:
+
+* exercise caution
+* monitor local news and weather reports
+* follow the instructions of local authorities
+
+[Warnings and incidents](https://emergency.wa.gov.au/warnings/69521eea80480004f25e102f?display=modal)– Department of Fire and Emergency Services
+
 ### Bush and forest fires
 
 Bush and forest fires are common between October and April, particularly in areas covered by bushes, long grass or coastal scrub. Elevated fire danger ratings and alert levels may be applied to affected areas. The air quality in areas near active fires may deteriorate due to heavy smoke.
