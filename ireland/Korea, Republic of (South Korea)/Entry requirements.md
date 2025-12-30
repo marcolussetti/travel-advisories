@@ -4,7 +4,7 @@
 
 South Korea introduced an electronic travel authorisation system called K-ETA in 2021. Under this system, anyone who is eligible for visa free entry to South Korea is usually\* required to obtain K-ETA approval before departure. If you need to apply for a K-ETA, please apply through the [**official K-ETA website**](https://www.k-eta.go.kr/portal/apply/index.do). It can take up to 72 hours for K-ETA application to be processed.
 
-\*Irish nationals who are travelling for short-term visit / business to South Korea are temporarily exempt from K-ETA. The temporary exemption ends on 31 December 2025.
+\*Irish nationals who are travelling for short-term visit / business to South Korea are temporarily exempt from K-ETA. The temporary exemption ends on 31 December 2026.
 
 South Korea have introduced an e-Arrival Card that allows individuals to complete their arrival card electronically, in advance of travel. You can complete your e-Arrival Card online within 72 hours of arrival via [**e-Arrival Card website**](https://e-arrivalcard.go.kr/portal/main/index.do).
 
