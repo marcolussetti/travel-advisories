@@ -2,6 +2,13 @@
 
 ## Safety and security
 
+### Train collision near Machu Picchu
+
+On December 30, 2025, a serious train collision occurred on the Ollantayambo-Machu Picchu route. Rail traffic along this route has been suspended.
+
+* If you have been affected by this accident and need assistance, contact iPerú at +51 944-492-314 and the [Emergency Watch and Response Centre](https://travel.gc.ca/assistance/emergency-assistance) in Ottawa
+* If you have upcoming travel plans in the area, contact your rail or travel provider to learn how your plans will be affected
+
 ### State of emergency
 
 A state of emergency is in effect in the provinces of Lima and Callao to curb a rise in violent crime.

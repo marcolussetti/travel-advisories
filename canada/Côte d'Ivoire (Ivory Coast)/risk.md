@@ -10,7 +10,7 @@ The features in this map do not constitute an authoritative source of geographic
 
 [Enlarge map](#full-screen)
 
-## cote-d-ivoire-ivory-coast travel advice
+## Côte d'Ivoire (Ivory Coast) travel advice
 
 ![Risk level map](https://www.international.gc.ca/tama-sgcv_images/maps-cartes/CI/mapeng.png)Disclaimer
 

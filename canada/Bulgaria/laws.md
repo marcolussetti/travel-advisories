@@ -8,9 +8,9 @@ Learn about what you should do and how we can help if you are [arrested or detai
 
 ### Currency change
 
-As of 1 January 2026, Bulgaria will officially join the Eurozone. The euro (EUR) will replace the Bulgarian lev (BGN) as Bulgaria’s official currency.
+As of January 1, 2026, Bulgaria will officially join the Eurozone. The euro (EUR) will replace the Bulgarian lev (BGN) as Bulgaria’s official currency.
 
-You will be able to exchange any outdated currency free of charge at banks until January 31, 2026.
+You will be able to exchange any outdated currency free of charge at banks until June 30, 2026.
 
 [More information on money](#money)
 

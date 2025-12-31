@@ -4,9 +4,11 @@
 
 ### Tropical Cyclone Hayley
 
-Tropical Cyclone Hayley is expected to make landfall between north of Broome and east of Cockatoo Island on December 30, 2025.
+On December 30, 2025, Tropical Cyclone Hayley passed through the northern Dampier Peninsula, south of Lombadina, Western Australia.
 
-The storm is likely to bring excessive rainfall and violent winds. It may cause flash flooding and landslides and could severely disrupt the following essential services:
+The cyclone is gradually weakening as it moves across the west Kimberley, but it will continue to bring heavy rainfall.
+
+It may cause flash flooding and landslides, and could disrupt the following essential services:
 
 * transportation
 * power distribution
@@ -15,13 +17,18 @@ The storm is likely to bring excessive rainfall and violent winds. It may cause 
 * emergency services
 * medical care
 
-If you are on the northwest Kimberley coast:
+If you are in an affected area:
 
 * exercise caution
 * monitor local news and weather reports
 * follow the instructions of local authorities
 
-[Warnings and incidents](https://emergency.wa.gov.au/warnings/69521eea80480004f25e102f?display=modal)– Department of Fire and Emergency Services
+#### 
+
+#### Useful links
+
+* [Warnings and incidents](https://emergency.wa.gov.au/warnings/) – Department of Fire and Emergency Services
+* [Tropical Cyclone Advice](https://www.bom.gov.au/warning/tropical-cyclone-advice/IDW24100) – Australian Bureau of Meteorology
 
 ### Bush and forest fires
 

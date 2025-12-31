@@ -53,6 +53,14 @@ If you plan to stay in Taiwan for more than 180 days, you must obtain a visa bef
 
 [Information on visas](https://www.boca.gov.tw/mp-2.html) - Ministry of Foreign Affairs of Taiwan
 
+### Taiwan Arrival Card (TWAC)
+
+Most visitors to Taiwan must complete the Taiwan Arrival Card (TWAC) online within 3 days before arrival.
+
+There is no fee to complete the card through the official TWAC website. Fraudulent websites or third-party agents may charge service fees and could collect your personal information for unauthorized purposes.
+
+[TWAC: Taiwan Arrival Card](https://twac.immigration.gov.tw/) – Ministry of the Interior
+
 ### Other entry requirements
 
 Customs officials may ask you to show them a return or onward ticket and proof of sufficient funds to cover your stay.
