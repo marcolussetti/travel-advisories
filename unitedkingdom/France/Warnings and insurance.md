@@ -1,13 +1,19 @@
 # Warnings and insurance
 
 Still current at:
-:   11 December 2025
+:   31 December 2025
 
 Updated:
-:   10 December 2025
+:   30 December 2025
 
 Latest update:
-:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
+:   Addition of information about Channel Tunnel travel disruption ('Warnings and insurance' page).
+
+## Channel Tunnel travel disruption
+
+Eurostar services to and from Belgium, France and the Netherlands are experiencing severe delays and last-minute cancellations. Eurotunnel LeShuttle services between UK and France are also disrupted. Travellers should expect disruption and check the latest service updates with operators.
+
+See [Eurostar updates](https://www.eurostar.com/uk-en/travel-info/travel-updates) and [LeShuttle updates](https://www.leshuttle.com/uk-en/travel-updates/live-departures) for more information.
 
 ## Before you travel
 
@@ -37,8 +43,6 @@ Follow FCDO:
 * [travel advice on Facebook](https://www.facebook.com/FCDOTravel/)
 * [Travel Aware on Instagram](https://www.instagram.com/travelaware/)
 
-[Next
-:
-Entry requirements](/foreign-travel-advice/france/entry-requirements)
+[Next:Entry requirements](/foreign-travel-advice/france/entry-requirements)
 
 [View a printable version of the whole guide](/foreign-travel-advice/france/print)

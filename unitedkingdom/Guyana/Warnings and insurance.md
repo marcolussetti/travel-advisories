@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   12 December 2025
+:   31 December 2025
 
 Updated:
-:   11 December 2025
+:   30 December 2025
 
 Latest update:
-:   Updated information on border areas and river and sea travel ('Safety and security' page).
+:   Updated information on health risks and healthcare in Guyana (‘Health’ page).
 
 ## Before you travel
 

@@ -1,11 +1,11 @@
 {
     "name": "Belgium",
-    "update_reason": "Updated information about planned strikes and protests with significant disruptions expected ( 'Warnings and insurance' and 'Safety and security' pages).",
+    "update_reason": "Addition of information about Channel Tunnel travel disruption ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Belgium/Warnings and insurance.md",
-            "update_date": "2025-12-12T15:48:47+00:00"
+            "update_date": "2025-12-30T13:29:44+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Belgium/Getting help.md"
         }
     ],
-    "update_date": "2025-12-12T15:48:47+00:00"
+    "update_date": "2025-12-30T13:29:44+00:00"
 }

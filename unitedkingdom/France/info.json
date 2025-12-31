@@ -1,11 +1,11 @@
 {
     "name": "France",
-    "update_reason": "New information about dual nationals returning to the UK (\u2018Entry requirements\u2019 page).",
+    "update_reason": "Addition of information about Channel Tunnel travel disruption ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/France/Warnings and insurance.md",
-            "update_date": "2025-12-10T13:50:02+00:00"
+            "update_date": "2025-12-30T13:33:17+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/France/Getting help.md"
         }
     ],
-    "update_date": "2025-12-10T13:50:02+00:00"
+    "update_date": "2025-12-30T13:33:17+00:00"
 }

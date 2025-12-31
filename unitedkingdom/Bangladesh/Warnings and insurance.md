@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   23 December 2025
+:   31 December 2025
 
 Updated:
-:   22 December 2025
+:   30 December 2025
 
 Latest update:
-:   New information about potential travel disruption on 25 December ('Warnings and insurance' page).
+:   New information that Bangladesh will observe 3 days of national mourning, starting with a public holiday on 31 December (‘Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/66cdbf9203c7db1b41c7091b/FCDO__TA__050_-_Bangladesh_Travel_Advice_Ed2__WEB_.jpg)
 
@@ -28,11 +28,11 @@ FCDO advises against all but essential travel to the Chittagong Hill Tracts, as 
 
 Find out more about [why FCDO advises against travel](https://www.gov.uk/foreign-travel-advice/bangladesh/safety-and-security).
 
-## Potential travel disruption on 25 December
+## Period of national mourning from 31 December
 
-On 25 December, there are likely to be large gatherings and traffic disruption on routes to and from Hazrat Shahjalal International Airport (and to Gulshan) as the acting head of the Bangladesh Nationalist Party, Tarique Rahman, is due to arrive in Dhaka.
+Bangladesh will observe 3 days of national mourning, starting with a public holiday on 31 December, following the death of Khaleda Zia, former Prime Minister of Bangladesh. During this time, there may be disruption to a wide range of businesses and services, including entertainment venues, restaurants, bars and shopping areas.
 
-Stay away from crowds, political demonstrations, and affected areas. Allow extra time for travel, carry ID and travel documents, and follow advice of local authority.
+Be sensitive to local circumstances. In public, avoid wearing bright or festive clothing and avoid loud or inappropriate behaviour, especially when visiting places of worship  or government premises.
 
 ## Support from the UK government
 

@@ -42,7 +42,7 @@ Medical and dental care in South Korea is usually of a good standard, but can be
 
 If you need to stay in a South Korean hospital, particularly if your condition is severe, the hospital may ask you to bring a guardian or ‘bohoja’ to assist you with basic care needs such as trips to the bathroom, washing and exercise. It is possible to find agencies who will provide a caregiver or ‘ganbyungin’ for a fee, but these caregivers generally do not speak English. If you know that you may need to enter a Korean hospital, you should try to organise a guardian such as a friend or relative in advance.
 
-FCDO has a [list of medical providers in South Korea](https://www.gov.uk/government/publications/south-korea-list-of-lawyers) where some staff will speak English.
+FCDO has a [list of medical providers in South Korea](https://www.gov.uk/government/publications/south-korea-doctors) where some staff will speak English.
 
 There is also [guidance on healthcare if you’re living in South Korea](https://www.gov.uk/guidance/living-in-south-korea).
 
@@ -60,12 +60,8 @@ If you are travelling to South Korea for elective treatment, such as cosmetic su
 
 Read [FCDO guidance on travel and mental health](https://www.gov.uk/guidance/foreign-travel-advice-for-people-with-mental-health-issues). There is also [mental health guidance on TravelHealthPro](https://travelhealthpro.org.uk/factsheet/85/travelling-with-mental-health-conditions).
 
-[Previous
-:
-Safety and security](/foreign-travel-advice/south-korea/safety-and-security)
+[Previous:Safety and security](/foreign-travel-advice/south-korea/safety-and-security)
 
-[Next
-:
-Getting help](/foreign-travel-advice/south-korea/getting-help)
+[Next:Getting help](/foreign-travel-advice/south-korea/getting-help)
 
 [View a printable version of the whole guide](/foreign-travel-advice/south-korea/print)

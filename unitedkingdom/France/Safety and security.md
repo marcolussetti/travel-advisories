@@ -216,12 +216,8 @@ There is a risk of avalanches in mountainous areas. Check [current weather forec
 
 Conditions on roads in mountainous areas can quickly become difficult in winter. Carry water, food, warm clothing and medicines in your vehicle.
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/france/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/france/entry-requirements)
 
-[Next
-:
-Health](/foreign-travel-advice/france/health)
+[Next:Health](/foreign-travel-advice/france/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/france/print)

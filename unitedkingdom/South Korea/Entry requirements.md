@@ -22,7 +22,7 @@ When returning to the UK, British citizens must carry a valid [British passport
 
 You can enter South Korea for up to 90 days for short-term business or tourism. You must have an onward or return ticket. It’s illegal to be employed in South Korea while visiting visa-free, whether as a teacher or in any other capacity.
 
-South Korea operates an electronic travel authorisation system called K-ETA. Anyone eligible for visa-free entry to South Korea is usually required to get K-ETA approval before departure. However, British nationals travelling visa-free to South Korea are temporarily exempt from requiring a K-ETA until December 31, 2025. Further information about the K-ETA exemption can be found on the [K-ETA notice board](https://www.k-eta.go.kr/portal/board/viewboardlist.do?tmpltNm=notice&locale=EN).
+South Korea operates an electronic travel authorisation system called K-ETA. Anyone eligible for visa-free entry to South Korea is usually required to get K-ETA approval before departure. However, British nationals travelling visa-free to South Korea are temporarily exempt from requiring a K-ETA until December 31, 2026. Further information about the K-ETA exemption can be found on the [K-ETA notice board](https://www.k-eta.go.kr/portal/board/viewboardlist.do?tmpltNm=notice&locale=EN).
 
 If you need to apply for a K-ETA, you should ensure that you apply through the Korean government’s [official K-ETA website](https://www.k-eta.go.kr/portal/apply/index.do). Other sites offering K-ETA application services are generally scams. It can take up to 72 hours for K-ETA approval to be granted.
 
@@ -48,7 +48,7 @@ Check all terms and conditions of your employment carefully. If possible, speak 
 
 Foreign nationals entering South Korea are required to submit an entry declaration form (arrivals card) to the immigration officer upon arrival. From 24 February 2025, passengers may submit an e-Arrival card online in advance instead of submitting a paper form to the immigration officers.
 
-The e-Arrival card can be submitted up to 72 hours before arrival in South Korea. There is no fee to submit the e-Arrival card. Travellers should visit the [e-Arrival card website](https://www.e-arrivalcard.go.kr/portal/main/index.do) for further details on the e-Arrival card submission process. Paper entry declaration forms will still be available until December 2025.
+The e-Arrival card can be submitted up to 72 hours before arrival in South Korea. There is no fee to submit the e-Arrival card. Travellers should visit the [e-Arrival card website](https://www.e-arrivalcard.go.kr/portal/main/index.do) for further details on the e-Arrival card submission process. Paper entry declaration forms will still be available.
 
 ## Health screening
 
@@ -66,12 +66,8 @@ For details about medical entry requirements and recommended vaccinations, see [
 
 There are strict rules about [goods you can take into or out of South Korea](https://www.customs.go.kr/english/cm/cntnts/cntntsView.do?mi=8069&cntntsId=2743). You must declare anything that may be prohibited or subject to tax or duty.
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/south-korea)
+[Previous:Warnings and insurance](/foreign-travel-advice/south-korea)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/south-korea/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/south-korea/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/south-korea/print)

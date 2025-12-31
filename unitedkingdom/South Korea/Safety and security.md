@@ -96,12 +96,8 @@ Forest fires may occur in South Korea. Pay attention to warnings from local auth
 
 You can track the location and progress of fires through the Korea Forest Service website in [English](https://fd.forest.go.kr/ffas/pubConn/movePage/english.do) and [Korean](https://fd.forest.go.kr/ffas/index.jsp).
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/south-korea/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/south-korea/entry-requirements)
 
-[Next
-:
-Health](/foreign-travel-advice/south-korea/health)
+[Next:Health](/foreign-travel-advice/south-korea/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/south-korea/print)

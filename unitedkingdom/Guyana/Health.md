@@ -24,8 +24,9 @@ Go to TravelHealthPro to see [what health risks you’ll face in Guyana](https:/
 
 * yellow fever
 * dengue
-* Zika virus
-* Oropouche Virus
+* zika virus
+* oropouche Virus
+* malaria in the interior of the country
 
 Altitude sickness is a risk in parts of Guyana. Read more about [altitude sickness on TravelHealthPro](https://travelhealthpro.org.uk/factsheet/26/altitude-illness).
 
@@ -39,7 +40,7 @@ Read [best practice when travelling with medicines on TravelHealthPro](https://t
 
 ## Healthcare in Guyana
 
-Medical facilities are very limited, even in Georgetown. There are none in remote areas. Standards of medical practice are low and you should arrange an evacuation for any serious or invasive treatment if possible. Make sure you have adequate travel health insurance and accessible funds to cover the cost of any medical treatment abroad and repatriation.
+Medical facilities are very limited, even in Georgetown. There are extremely limited health facilities in remote areas. Standards of medical practice are low and you should arrange an evacuation for any serious or invasive treatment if possible. Make sure you have adequate travel health insurance and accessible funds to cover the cost of any medical treatment abroad and repatriation.
 
 FCDO has a [list of medical providers in Guyana](https://www.gov.uk/government/publications/guyana-list-of-list-of-medical-facilities-practioners/list-of-medical-facilities-in-guyana) where some staff will speak English.
 

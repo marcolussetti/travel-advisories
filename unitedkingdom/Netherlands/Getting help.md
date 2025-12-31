@@ -57,8 +57,6 @@ Follow FCDO:
 
 The Overseas Business Risk service offers [information and advice for British companies operating in the Netherlands](https://www.gov.uk/government/publications/overseas-business-risk-for-the-netherlands) on how to manage political, economic, and business security-related risks.
 
-[Previous
-:
-Health](/foreign-travel-advice/netherlands/health)
+[Previous:Health](/foreign-travel-advice/netherlands/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/netherlands/print)

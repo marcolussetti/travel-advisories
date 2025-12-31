@@ -1,23 +1,25 @@
 # Warnings and insurance
 
 Still current at:
-:   13 December 2025
+:   31 December 2025
 
 Updated:
-:   12 December 2025
+:   30 December 2025
 
 Latest update:
-:   Updated information about planned strikes and protests with significant disruptions expected ( 'Warnings and insurance' and 'Safety and security' pages).
+:   Addition of information about Channel Tunnel travel disruption ('Warnings and insurance' page).
+
+## Channel Tunnel travel disruption
+
+Eurostar services to and from Belgium, France and the Netherlands are experiencing severe delays and last-minute cancellations. Eurotunnel LeShuttle services between UK and France are also disrupted. Travellers should expect disruption and check the latest service updates with operators.
+
+See [Eurostar updates](https://www.eurostar.com/uk-en/travel-info/travel-updates) and [LeShuttle updates](https://www.leshuttle.com/uk-en/travel-updates/live-departures) for more information.
 
 ## National strike action
 
-On 15 December, a general strike is planned across the Wallonia and Brussels regions. This is expected to affect public transport and some public services, including schools. A demonstration is planned around central Brussels on this day.
+Strike action is an ongoing issue that can cause travel disruption. General strikes took place on 31 March, 29 April,14 October, 26 November and 15 December 2025. Strike action may be announced at short notice.
 
-On 18 December a farmers’ protest is planned in Brussels. Significant road closures and public transport disruptions are expected, especially around the Schuman area (EU quarter).
-
-Strike action is an ongoing issue that can cause travel disruption. General strikes took place on 31 March, 29 April,14 October and 26 November. Strike action may be announced at short notice.
-
-Monitor local news and check with your provider regarding potential delays and closures. Read more information about demonstrations and strikes on the [Safety and security page](https://www.gov.uk/foreign-travel-advice/belgium/safety-and-security).
+Monitor local news and check with your provider regarding potential delays and closures. Read more information about demonstrations and strikes on the [Safety and security page](https://www.gov.uk/foreign-travel-advice/belgium/safety-and-security).
 
 ## Before you travel
 

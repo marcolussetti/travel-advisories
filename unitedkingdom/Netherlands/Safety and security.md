@@ -114,12 +114,8 @@ Be on the look-out for cyclists, mopeds and trams when crossing roads, especial
 
 Cycle paths are busy and cyclists ride at speed.
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/netherlands/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/netherlands/entry-requirements)
 
-[Next
-:
-Health](/foreign-travel-advice/netherlands/health)
+[Next:Health](/foreign-travel-advice/netherlands/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/netherlands/print)
