@@ -1,7 +1,7 @@
 {
     "name": "Benin",
-    "update_reason": "Risk level(s) \u2013 added map",
-    "update_date": "2025-12-15T14:10:00",
+    "update_reason": "Safety and security \u2013 removed information on political instability",
+    "update_date": "2025-12-31T10:30:00",
     "sections": {
         "risk": "canada/Benin/risk.md",
         "security": "canada/Benin/security.md",

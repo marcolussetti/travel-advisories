@@ -101,13 +101,13 @@ Although U.S. authorities don’t formally require dual nationals to carry both 
 
 #### Canadians with dual citizenship from a third country
 
-Since June 9, 2025, the U.S. limits the entry of nationals from specific countries under the proclamation “Restricting the Entry of Foreign Nationals to Protect the United States from Foreign Terrorists and Other National Security and Public Safety Threats”. Canadian citizens, including dual citizens, travelling on a Canadian passport are not affected by this proclamation.
+On January 1, 2026, the specific countries whose nationals are subject to entry limitations in the U.S. were updated per the proclamation “Restricting and Limiting the Entry of Foreign Nationals to Protect the Security of the United States”. Canadian citizens, including dual citizens, travelling on a Canadian passport are not affected by this proclamation.
 
 #### Useful links
 
 * [Travelling as a dual citizen](https://travel.gc.ca/travelling/documents/dual-citizenship)
 * [Dual Nationality](https://travel.state.gov/content/travel/en/legal/travel-legal-considerations/Relinquishing-US-Nationality/Dual-Nationality.html) – U.S. Department of State, Bureau of Consular Affairs
-* [Proclamation](https://www.whitehouse.gov/presidential-actions/2025/06/restricting-the-entry-of-foreign-nationals-to-protect-the-united-states-from-foreign-terrorists-and-other-national-security-and-public-safety-threats/) – The White House
+* [Proclamation](https://www.whitehouse.gov/presidential-actions/2025/12/restricting-and-limiting-the-entry-of-foreign-nationals-to-protect-the-security-of-the-united-states/) – The White House
 
 ### Visas
 
@@ -133,12 +133,12 @@ Canadian permanent residents may need a non-immigrant visa to enter the United
 
 You must obtain this visa from the U.S. authorities before entering the country. You must also have a valid passport from your country of citizenship.
 
-Since June 9, 2025, the U.S. proclamation “Restricting the Entry of Foreign Nationals to Protect the United States from Foreign Terrorists and Other National Security and Public Safety Threats” is in effect. It may impact your ability to obtain a visa if your country of citizenship is designated in the proclamation.
+As of January 1, 2026, the U.S. proclamation “Restricting and Limiting the Entry of Foreign Nationals to Protect the Security of the United States” is in effect. It may impact your ability to obtain a visa if your country of citizenship is designated in the proclamation.
 
 #### Useful links
 
 * [Cross U.S. Borders](https://www.dhs.gov/how-do-i/cross-us-borders#2) – U.S. Customs and Border Protection
-* [Proclamation](https://www.whitehouse.gov/presidential-actions/2025/06/restricting-the-entry-of-foreign-nationals-to-protect-the-united-states-from-foreign-terrorists-and-other-national-security-and-public-safety-threats/) – The White House
+* [Proclamation](https://www.whitehouse.gov/presidential-actions/2025/12/restricting-and-limiting-the-entry-of-foreign-nationals-to-protect-the-security-of-the-united-states/) – The White House
 
 #### Visa Waiver Program
 
@@ -201,7 +201,7 @@ There is no set period that you must wait to re-enter the United States after th
 
 ### Biometrics
 
-Most ports of entry to the United States use facial recognition technology to verify your identity. In addition, digital fingerprints are required for some travellers.
+Most ports of entry to the United States use facial recognition technology to verify your identity when entering or departing the country. In addition, digital fingerprints are required for some travellers.
 
 [Biometrics](https://www.cbp.gov/travel/biometrics) – U.S. Customs and Border Protection
 

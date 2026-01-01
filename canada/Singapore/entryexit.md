@@ -52,17 +52,27 @@ The Singapore Immigration and Checkpoints Authority may also approve, under cert
 
 #### Useful links
 
-* [Visa extensions](https://www.ica.gov.sg/enter-depart/extend_short_stay) - Immigration and Checkpoints Authority of Singapore
-* [Work pass exemptions](https://www.mom.gov.sg/passes-and-permits/work-pass-exempt-activities/eligible-activities) - Ministry of Manpower of Singapore
-* [Entry security requirements](https://www.ica.gov.sg/enter-depart) - Singaporean Immigration and checkpoints authority
+* [Visa extensions](https://www.ica.gov.sg/enter-depart/extend_short_stay) – Immigration and Checkpoints Authority of Singapore
+* [Work pass exemptions](https://www.mom.gov.sg/passes-and-permits/work-pass-exempt-activities/eligible-activities) – Ministry of Manpower of Singapore
+* [Entry security requirements](https://www.ica.gov.sg/enter-depart) – Singaporean Immigration and checkpoints authority
 
 ### Other entry requirements
 
 Customs officials may ask you to show them a return or onward ticket and proof of sufficient funds to cover your stay.
 
-#### Fingerprints
+All travellers are required to submit a Singapore Arrival Card (SGAC), which can be done online up to 3 days prior to arriving in Singapore. The SGAC also asks for your travel details as well as health status.   
+   
+ Your biometric information (iris, face and fingerprints) will be scanned and recorded as you enter and exit Singapore.
 
-Immigration officials will fingerprint all visitors upon arrival and departure.
+From January 30, 2026, Singapore authorities will enforce a No-Boarding Directive (NBD) policy for any travellers who pose health, security, or immigration threats to the country, including travellers who have:
+
+* past entry refusal or a criminal record
+* invalid visas, insufficient passport validity (less than 6 months)
+* not complied with health protocols or are missing required vaccine documents
+* links to fraudulent activity
+* been named on any watchlist
+
+[Information on Singapore Arrival Card](https://eservices.ica.gov.sg/sgarrivalcard/) – Immigration & Checkpoints Authority, Government of Singapore
 
 #### Health entry requirements
 

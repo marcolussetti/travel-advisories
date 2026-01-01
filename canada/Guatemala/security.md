@@ -2,7 +2,7 @@
 
 ## Safety and security
 
-Due to recurring armed clashes, a state of prevention is in effect until December 30, 2025, in the communities of Nahualá and Santa Catarina Ixtahuacán in Sololá department. During this period, security forces have the authority to:
+Due to recurring armed clashes, a state of prevention is in effect until January 14, 2026, in the communities of Nahualá and Santa Catarina Ixtahuacán in Sololá department. During this period, security forces have the authority to:
 
 * limit public gatherings and demonstrations
 * establish roadblocks and checkpoints

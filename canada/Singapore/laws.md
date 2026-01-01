@@ -20,17 +20,18 @@ Penalties for possession, use or trafficking of illegal drugs are severe. Convic
 
 Custom officers can subject travellers to a drug screening test at the point of entry to Singapore. If you test positive for drugs, you can be arrested and prosecuted, even if the drugs were consumed prior to your arrival in the country.
 
-#### Alcohol
+### Alcohol
 
-Consuming alcohol in public places between 10:30 p.m. and 7 a.m. is illegal.
+Consuming alcohol in public places between 10:30 pm and 7 am is illegal.
 
 In Liquor Control Zones, the alcohol ban is extended to all day on weekends. Local authorities may impose additional restrictions in these zones.
 
 If you don't comply, you could face heavy fines and jail time.
 
-[Drugs, alcohol and travel](https://travel.gc.ca/travelling/health-safety/drugs)
+#### Useful links
 
-* [Map of liquor control zones](https://data.gov.sg/dataset/liquor-control-zones-proclaimed-under-liquor-control-supply-and-consumption-act-2015) – Government of Singapore
+* [Map of liquor control zones](https://sso.agc.gov.sg/SL/LCSCA2015-LCSCA2015-S166-2015?DocDate=20150330&ValidDate=20150401&ProvIds=Sc-#Sc-) – Government of Singapore
+* [Drugs, alcohol and travel](https://travel.gc.ca/travelling/health-safety/drugs)
 
 ### Smoking
 
@@ -42,9 +43,19 @@ Smoking is prohibited in many public spaces, such as:
 * the ABC Water Sites and Reservoir Parks
 * certain public beaches
 
-If you're caught smoking in prohibited places could face heavy fines.
+If you're caught smoking in prohibited places, you could face heavy fines.
 
-[Overview of Smoking Prohibition](https://www.nea.gov.sg/our-services/smoking-prohibition/overview)– Singapore's National Environment Agency
+[Overview of Smoking Prohibition](https://www.nea.gov.sg/our-services/smoking-prohibition/overview) – Singapore's National Environment Agency
+
+### Electronic cigarettes and vaporizers
+
+You cannot bring electronic cigarettes or vaporizers to Singapore. It is illegal to bring, sell, use or distribute:
+
+* electronic cigarettes
+* vaping devices
+* vaping liquids
+
+Convicted offenders may face heavy fines or jail sentences.
 
 ### Other illegal or restricted activities
 
@@ -60,19 +71,18 @@ Singapore has strict laws and penalties against a variety of actions that may no
 * shoplifting
 * vandalism
 
-Convicted offenders may expect:
+Convicted offenders may expect one or more of the following:
 
-* corporal punishment, generally in the form of caning
+* corporal punishment, most often caning
 * imprisonment
 * a fine
-* a combination thereof
 
 #### Restricted items
 
 Local authorities enforce strict regulations on the import and export of items, such as:
 
 * weapons
-* e-cigarettes, vaporisers and their refills
+* e-cigarettes, vaporizers and their refills
 * certain religious material
 * pornographic material
 * videotapes
@@ -103,9 +113,9 @@ In public, between sunrise and sunset, be discreet when:
 
 ### 2SLGBTQI+ persons
 
-Singapore laws prohibit displays of affection and sexual acts between males. Those convicted can face imprisonment.
+Singaporean laws do not criminalize sexual acts or relationships between persons of the same sex.
 
-2SLGBTQI+ persons could also be discriminated against or detained based on their sexual orientation, gender identity, gender expression, or sex characteristics.
+However, 2SLGBTQI+ persons could be discriminated against or detained based on their sexual orientation, gender identity, gender expression, or sex characteristics.
 
 2SLGBTQI+ persons should carefully consider the risks of travelling to Singapore.
 

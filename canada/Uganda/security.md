@@ -4,18 +4,27 @@
 
 ### Presidential elections
 
-Political tensions are running high ahead of the January 2026 presidential elections. Announcements related to the electoral process, including nominations, could lead to protests and civil unrest.
+Political tensions are high ahead of the presidential elections scheduled for January 15, 2026.
 
-During periods of political tension, local authorities may increase security measures, restrict movement without notice and impose curfews.
+Demonstrations may occur before, during and after the elections.
 
 Even peaceful demonstrations can turn violent at any time. They can also lead to disruptions to traffic and public transportation.
 
+During periods of heightened tensions, local authorities may increase security measures, including movement restrictions and curfews. Disruptions to telecommunications and Internet access, including social media and messaging applications, may occur.
+
+Have a communication plan with your important contacts and save or print copies of key information in case of an Internet disruption, including:
+
+* itineraries
+* contact details for the Canadian High Commission in Nairobi, Kenya and the [Emergency Watch and Response Centre in Ottawa](http://travel.gc.ca/assistance/emergency-assistance)
+* emergency numbers
+
 If you are in Uganda:
 
-* avoid areas where demonstrations and large gatherings are taking place
-* expect an increased security presence
-* monitor local media for information on ongoing demonstrations
-* follow the instructions of local authorities
+* avoid demonstrations and large gatherings
+* expect an increased security presence and additional security measures
+* follow the instructions of local authorities, including orders on movement restrictions
+* monitor the media for the latest information
+* ensure that you have sufficient supplies of cash, medication, food, fuel and water in case you need to shelter in place
 
 ### Border with the Democratic Republic of Congo
 
