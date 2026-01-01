@@ -18,11 +18,11 @@ When returning to the UK, British citizens must carry a valid [British passport]
 
 ## Visa requirements
 
-Until 31 December 2025, you can visit Mongolia without a visa and stay for up to 30 days for tourism. From 1 January 2026, this visa arrangement may no longer apply. Contact the [Mongolian Embassy in the UK](https://embassyofmongolia.co.uk/?lang=en) to obtain a tourist visa for travel after this date.
+You can visit Mongolia without a visa and stay for up to 30 days.
 
 ### Applying for a visa
 
-For tourism on or after 1 January 2026, to stay longer, to work or study, for business travel or for other reasons you must [meet the Mongolian government’s entry requirements](https://immigration.gov.mn/en/vizijn-zvshrl/). For more details, contact the [Mongolian Embassy in the UK](https://embassyofmongolia.co.uk/?lang=en).
+To stay longer, to work or study, for business travel or for other reasons you must [meet the Mongolian government’s entry requirements](https://immigration.gov.mn/en/vizijn-zvshrl/). For more details, contact the [Mongolian Embassy in the UK](https://embassyofmongolia.co.uk/?lang=en).
 
 Make sure you get your passport stamped.
 

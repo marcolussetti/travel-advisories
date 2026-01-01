@@ -41,11 +41,11 @@ There is a higher likelihood of opposition attacks after sunset and an increased
 * the 8888 uprising (8 August)
 * National Day (25 November)
 
-Some areas in Myanmar are under martial law; others have curfews or ‘stay at home’ orders. In Yangon, there is a city-wide curfew from 1am to 3am (see [Regional Risks](https://www.gov.uk/foreign-travel-advice/myanmar/regional-risks)). Ensure you are aware of local restrictions. If you ignore military instructions or curfews, you could be detained and, if you’re convicted, you could face a lengthy prison sentence. Ensure you are aware of local rules and restrictions before you arrive in an area.
+Some areas in Myanmar are under martial law; others have curfews or ‘stay at home’ orders. Ensure you are aware of local restrictions. If you ignore military instructions or curfews, you could be detained and, if you’re convicted, you could face a lengthy prison sentence. Ensure you are aware of local rules and restrictions before you arrive in an area.
 
 Be cautious and avoid all demonstrations, large crowds and political gatherings. You risk arrest and detention if you attempt to photograph demonstrations or protests.
 
-The military regime intends to hold elections from 28 December 2025 and into early 2026. Stay alert as the security situation could deteriorate at short notice including around sites and venues related to the election, such as campaign events, polling sites, or political party premises.
+The military regime is holding elections throughout January, with election days on 11 and 25 January 2026. Stay alert as the security situation could deteriorate at short notice including around sites and venues related to the election, such as campaign events, polling sites, or political party premises.
 
 ## Police and military checkpoints
 
@@ -174,12 +174,8 @@ There is a risk of earthquakes in Myanmar. In March 2025, a 7.7 magnitude earthq
 
 The US Federal Emergency Management Agency has advice about [what to do before, during and after an earthquake](http://www.ready.gov/earthquakes) or [tsunami](http://www.ready.gov/tsunamis).
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/myanmar/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/myanmar/entry-requirements)
 
-[Next
-:
-Regional risks](/foreign-travel-advice/myanmar/regional-risks)
+[Next:Regional risks](/foreign-travel-advice/myanmar/regional-risks)
 
 [View a printable version of the whole guide](/foreign-travel-advice/myanmar/print)

@@ -42,18 +42,12 @@ The security situation remains volatile and can change at short notice. If you a
 
 Security incidents in Yangon city, like in the rest of Myanmar, continue primarily to target military locations and personnel affiliated to the military. Attacks may affect civilians and bystanders, including in areas regularly frequented by foreign nationals. This may include hotels, restaurants and accommodation complexes. Military installations, such as checkpoints, are also targets.
 
-A curfew is in place from 1am to 3am across Yangon city.
-
 If you encounter a threatening or intimidating situation, do not try to make your way through it. Turn around and move to safety.
 
 There are recent reports of attacks on the Yangon-Mandalay Expressway and National Highway 1 that links Yangon to Mandalay. Attacks have included the use of landmines and improvised explosive devices. There is an increased risk of attacks after dark, and an unofficial curfew is in place.
 
-[Previous
-:
-Safety and security](/foreign-travel-advice/myanmar/safety-and-security)
+[Previous:Safety and security](/foreign-travel-advice/myanmar/safety-and-security)
 
-[Next
-:
-Health](/foreign-travel-advice/myanmar/health)
+[Next:Health](/foreign-travel-advice/myanmar/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/myanmar/print)

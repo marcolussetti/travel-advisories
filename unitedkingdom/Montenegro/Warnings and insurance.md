@@ -1,13 +1,24 @@
 # Warnings and insurance
 
 Still current at:
-:   20 December 2025
+:   1 January 2026
 
 Updated:
-:   19 December 2025
+:   31 December 2025
 
 Latest update:
-:   Updated with information about the risks from terrorism (‘Safety and security’ page’).
+:   Updated with information about protests and risks of travel disruption ('Warnings and insurance' page).
+
+## Protests and potential travel disruption
+
+There are reports of protests in the municipality of Zeta which can disrupt access to Podgorica Airport.
+
+You should:
+
+* monitor local media and official announcements
+* plan your journey in advance
+* allow extra time for travel
+* follow the advice of local authorities
 
 ## Before you travel
 

@@ -1,21 +1,15 @@
 # Warnings and insurance
 
 Still current at:
-:   31 December 2025
+:   1 January 2026
 
 Updated:
-:   30 December 2025
+:   31 December 2025
 
 Latest update:
-:   Addition of information about Channel Tunnel travel disruption ('Warnings and insurance' page).
+:   Removal of information about Channel Tunnel travel disruption.
 
 Check [separate travel advice pages](/foreign-travel-advice) for advice on travel to the constituent countries and special municipalities in the Dutch Caribbean.
-
-## Channel Tunnel travel disruption
-
-Eurostar services to and from Belgium, France and the Netherlands are experiencing severe delays and last-minute cancellations. Eurotunnel LeShuttle services between UK and France are also disrupted. Travellers should expect disruption and check the latest service updates with operators.
-
-See [Eurostar updates](https://www.eurostar.com/uk-en/travel-info/travel-updates) and [LeShuttle updates](https://www.leshuttle.com/uk-en/travel-updates/live-departures) for more information.
 
 ## Before you travel
 

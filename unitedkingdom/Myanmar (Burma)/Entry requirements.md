@@ -58,12 +58,8 @@ If you want to pay for hotels or restaurants with a credit or debit card, phone 
 
 You cannot import gold or gold bullion into Myanmar for trading and risk arrest for doing so. On arrival, you  must declare any valuable articles including gold, gems and jewellery with customs.
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/myanmar)
+[Previous:Warnings and insurance](/foreign-travel-advice/myanmar)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/myanmar/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/myanmar/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/myanmar/print)
