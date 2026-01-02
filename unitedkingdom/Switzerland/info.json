@@ -1,11 +1,11 @@
 {
     "name": "Switzerland",
-    "update_reason": "New information about dual nationals returning to the UK (\u2018Entry requirements\u2019 page).",
+    "update_reason": "Addition of information on the fire in Crans Montana on 1 January (Warnings and Insurance page)",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Switzerland/Warnings and insurance.md",
-            "update_date": "2025-12-10T12:44:40+00:00"
+            "update_date": "2026-01-01T20:20:56+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Switzerland/Getting help.md"
         }
     ],
-    "update_date": "2025-12-10T12:44:40+00:00"
+    "update_date": "2026-01-01T20:20:56+00:00"
 }

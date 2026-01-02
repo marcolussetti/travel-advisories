@@ -1,13 +1,17 @@
 # Warnings and insurance
 
 Still current at:
-:   11 December 2025
+:   2 January 2026
 
 Updated:
-:   10 December 2025
+:   1 January 2026
 
 Latest update:
-:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
+:   Addition of information on the fire in Crans Montana on 1 January (Warnings and Insurance page)
+
+## Fire in Crans Montana
+
+Following the fire in Crans Montana on 1 January, the Swiss authorities have opened a dedicated phone number for Swiss and foreign nationals affected by this incident. Swiss authorities recommend that people seek to contact loved ones on all available channels (email, social media, phone) before attempting to call.  You can call +41 848 112 117. You may be asked for proof of kinship if you ask for information about your close family.
 
 ## Before you travel
 
@@ -37,8 +41,6 @@ Follow FCDO:
 * [travel advice on Facebook](https://www.facebook.com/FCDOTravel/)
 * [Travel Aware on Instagram](https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Ftravelaware%2F&is_from_rle)
 
-[Next
-:
-Entry requirements](/foreign-travel-advice/switzerland/entry-requirements)
+[Next:Entry requirements](/foreign-travel-advice/switzerland/entry-requirements)
 
 [View a printable version of the whole guide](/foreign-travel-advice/switzerland/print)

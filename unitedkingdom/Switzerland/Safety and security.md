@@ -127,12 +127,8 @@ Causing a forest fire in a place where there’s a ban is illegal, even if unint
 
 If you see a wildfire, call the fire department on 118.
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/switzerland/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/switzerland/entry-requirements)
 
-[Next
-:
-Health](/foreign-travel-advice/switzerland/health)
+[Next:Health](/foreign-travel-advice/switzerland/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/switzerland/print)

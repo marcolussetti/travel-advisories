@@ -81,12 +81,8 @@ At least 8 weeks before your trip, check the vaccinations and certificates you n
 
 There are strict rules about [goods that you can take into and out of Switzerland](https://www.ch.ch/en/customs). You must declare anything that may be prohibited or subject to tax or duty.
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/switzerland)
+[Previous:Warnings and insurance](/foreign-travel-advice/switzerland)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/switzerland/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/switzerland/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/switzerland/print)
