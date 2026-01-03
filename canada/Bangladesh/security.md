@@ -6,7 +6,7 @@
 
 Following the reforms of the 2024 interim government, Bangladesh will hold national elections on February 12, 2026.
 
-Demonstrations are expected before, during, and after the elections. including on December 25, 2025, when large gatherings and traffic disruptions are anticipated in Dhaka. During this time, local authorities may strengthen security measures and impose movement restrictions.
+Demonstrations are expected before, during, and after the elections.
 
 Even peaceful gatherings can occasionally lead to disruptions or affect traffic and transportation, including in Dhaka and other major cities. Keep this in mind if you are planning to travel outside urban areas, as your travel plans may be disrupted.
 

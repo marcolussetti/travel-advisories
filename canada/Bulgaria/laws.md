@@ -8,9 +8,9 @@ Learn about what you should do and how we can help if you are [arrested or detai
 
 ### Currency change
 
-As of January 1, 2026, Bulgaria will officially join the Eurozone. The euro (EUR) will replace the Bulgarian lev (BGN) as Bulgaria’s official currency.
+On 1 January 2026, Bulgaria officially joined the Eurozone. The euro (EUR) is now Bulgaria’s official currency.
 
-You will be able to exchange any outdated currency free of charge at banks until June 30, 2026.
+You will be able to exchange any outdated Bulgarian lev (BGN) for euros free of charge until June 30, 2026.
 
 [More information on money](#money)
 
@@ -108,9 +108,9 @@ Although the laws of Bulgaria don’t prohibit sexual acts between individuals o
 
 ### Money
 
-The currency in Bulgaria is the lev (BGN).
+The currency of Bulgaria is the euro (EUR).
 
-Bulgaria’s economy is primarily cash-based. Most businesses also accept euros and major credit cards. ATMs are widely available. The United Bulgarian Bank in Sofia can process international money transfers.
+Bulgaria’s economy is primarily cash-based. Most businesses also accept major credit cards. ATMs are widely available. The United Bulgarian Bank in Sofia can process international money transfers.
 
 If you are carrying €10,000 or more, or the equivalent in other currencies or monetary instruments, you must make a declaration to customs when you enter or leave the European Union.
 

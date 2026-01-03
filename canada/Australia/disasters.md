@@ -2,34 +2,6 @@
 
 ## Natural disasters and climate
 
-### Tropical Cyclone Hayley
-
-On December 30, 2025, Tropical Cyclone Hayley passed through the northern Dampier Peninsula, south of Lombadina, Western Australia.
-
-The cyclone is gradually weakening as it moves across the west Kimberley, but it will continue to bring heavy rainfall.
-
-It may cause flash flooding and landslides, and could disrupt the following essential services:
-
-* transportation
-* power distribution
-* water and food supply
-* telecommunications networks
-* emergency services
-* medical care
-
-If you are in an affected area:
-
-* exercise caution
-* monitor local news and weather reports
-* follow the instructions of local authorities
-
-#### 
-
-#### Useful links
-
-* [Warnings and incidents](https://emergency.wa.gov.au/warnings/) – Department of Fire and Emergency Services
-* [Tropical Cyclone Advice](https://www.bom.gov.au/warning/tropical-cyclone-advice/IDW24100) – Australian Bureau of Meteorology
-
 ### Bush and forest fires
 
 Bush and forest fires are common between October and April, particularly in areas covered by bushes, long grass or coastal scrub. Elevated fire danger ratings and alert levels may be applied to affected areas. The air quality in areas near active fires may deteriorate due to heavy smoke.

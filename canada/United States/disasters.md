@@ -2,39 +2,6 @@
 
 ## Natural disasters and climate
 
-### Flooding and mudslides in southern California
-
-On December 24, 2025, the State of California has declared a state of emergency in multiple counties due to heavy rains that led to flooding and mudslides.
-
-The state of emergency applies to the following counties:
-
-* Los Angeles
-* Orange
-* Riverside
-* San Bernardino
-* San Diego
-* Shasta
-
-Additional rain is forecast to begin on December 31, 2025, which may lead to more flooding, rockslides, and mudslides.
-
-The following essential services could be disrupted:
-
-* transportation
-* power distribution
-* water and food supply
-* telecommunications networks
-* emergency services
-* medical care
-
-If you are in the affected areas:
-
-* stay away from flooded or landslide-prone zones
-* exercise caution
-* monitor local news and weather reports
-* follow the instructions of local authorities, including evacuation orders
-
-[Rain Readiness](https://emergency.lacity.gov/rain) – L.A. Emergency Management Department
-
 Natural disasters can occur at any time.
 
 [Plan Ahead for Disasters](https://www.ready.gov/) – U.S. Department of Homeland Security

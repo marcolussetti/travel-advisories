@@ -54,11 +54,11 @@ Keep a low profile and don’t share your personal information with strangers.
 
 ### Demonstrations
 
-Political demonstrations and gatherings may occur.
+Since December 28, 2025, protests have erupted across Iran, including in Tehran, in connection with the cost of living and worsening economic conditions. There have been clashes between protestors and security forces, resulting in casualties and arrests.
 
-Large-scale and violent protests took place across Iran in the Fall of 2022 following the strict enforcement of the hijab law by the Iranian authorities. Security forces strongly repressed demonstrators resulting in numerous arrests, injuries and casualties. In some cases, arrested individuals were sentenced to death for charges arising from their participation in the demonstrations.
+Large-scale political demonstrations, gatherings and violent protests take place unpredictably across Iran. Security forces may strongly repress demonstrators, which may lead to numerous arrests, injuries and casualties. In some cases, arrested individuals were sentenced to death for charges arising from their participation in the demonstrations.
 
-The situation remains highly volatile and could escalate without notice. Even peaceful demonstrations can turn violent at any time. Security forces could use excessive and lethal force to disperse crowds. They can also lead to disruptions to traffic and public transportation. Disruptions to telecommunications services, including mobile internet access, may occur during large-scale demonstrations.
+The situation is volatile and could escalate without notice. Even peaceful demonstrations can turn violent at any time. Security forces could use excessive and lethal force to disperse crowds. Protests can also lead to disruptions to traffic and public transportation. Disruptions to telecommunications services, including mobile internet access, may occur during large-scale demonstrations.
 
 * Avoid areas where demonstrations and large gatherings are taking place
 * Monitor local and international media for information on ongoing demonstrations

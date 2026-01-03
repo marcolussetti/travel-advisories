@@ -6,6 +6,10 @@
 
 Tensions can flare up suddenly in the Middle East, and lead to travel disruptions, including flight cancellations and airspace closures.
 
+### State of emergency
+
+Since December 30, 2025, a state of emergency has been in effect in Yemen due to military strikes targeting locations in the country. All air, sea, and land ports of entry and exit are closed until further notice and there are flight disruptions.
+
 ### Security situation
 
 Despite truce agreements, the security situation in Yemen remains highly unstable and unpredictable due to the ongoing civil war that started in 2014. The state of emergency declared in March 2011 remains in effect.
