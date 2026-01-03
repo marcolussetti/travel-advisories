@@ -1,11 +1,11 @@
 {
     "name": "Ecuador",
-    "update_reason": "As of 24 December, only Rumichaca and Huaquillas international immigration checkpoints are open for land crossing from Colombia and Peru (Entry requirements)",
+    "update_reason": "The 60-day state of emergency was renewed on 31 December 2025 (Warnings and insurance.)",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Ecuador/Warnings and insurance.md",
-            "update_date": "2025-12-29T17:51:02+00:00"
+            "update_date": "2026-01-02T19:22:26+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Ecuador/Getting help.md"
         }
     ],
-    "update_date": "2025-12-29T17:51:02+00:00"
+    "update_date": "2026-01-02T19:22:26+00:00"
 }

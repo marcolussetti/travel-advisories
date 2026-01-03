@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   30 December 2025
+:   3 January 2026
 
 Updated:
-:   29 December 2025
+:   2 January 2026
 
 Latest update:
-:   As of 24 December, only Rumichaca and Huaquillas international immigration checkpoints are open for land crossing from Colombia and Peru (Entry requirements)
+:   The 60-day state of emergency was renewed on 31 December 2025 (Warnings and insurance.)
 
 ![](https://assets.publishing.service.gov.uk/media/65a1082ce96df50014f8452c/FCDO__TA__014_-_Ecuador_Travel_Advice_Ed5__WEB_.jpg)
 
@@ -45,13 +45,17 @@ Find out more about [why FCDO advises against travel](/foreign-travel-advice/ecu
 
 ## Regional state of emergency declared (internal disturbance and armed violence)
 
-A 60-day state of emergency (SOE) was renewed on 4 November due to internal disturbance and armed violence. Follow the instructions of police and local authorities. The SOE currently applies to the following provinces:
+A 60-day state of emergency (SOE) was renewed on 31 December 2025 due to internal disturbance and armed violence, adding 4 extra provinces to the previous SOE. You should follow the instructions of police and local authorities. The SOE currently applies to the following provinces:
 
 * Guayas
 * El Oro
 * Manabí
 * Los Ríos
 * Santa Elena
+* Pichincha
+* Santo Domingo
+* Esmeraldas
+* Sucumbíos
 * Bolívar (cantones Echeandía and Las Naves)
 * Cotopaxi (cantón La Maná)
 

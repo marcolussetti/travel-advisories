@@ -1,10 +1,10 @@
 # Warnings and insurance
 
 Still current at:
-:   1 January 2026
+:   3 January 2026
 
 Updated:
-:   31 December 2025
+:   2 January 2026
 
 Latest update:
 :   Updated information about visa requirements (‘Entry requirements’ page).

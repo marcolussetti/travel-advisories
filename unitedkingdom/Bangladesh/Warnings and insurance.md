@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   31 December 2025
+:   3 January 2026
 
 Updated:
-:   30 December 2025
+:   2 January 2026
 
 Latest update:
-:   New information that Bangladesh will observe 3 days of national mourning, starting with a public holiday on 31 December (‘Warnings and insurance’ page).
+:   Removal of information that Bangladesh will observe 3 days of national mourning, starting with a public holiday on 31 December (‘Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/66cdbf9203c7db1b41c7091b/FCDO__TA__050_-_Bangladesh_Travel_Advice_Ed2__WEB_.jpg)
 
@@ -27,12 +27,6 @@ FCDO advises against all but essential travel to the Chittagong Hill Tracts, as 
 * Bandarban
 
 Find out more about [why FCDO advises against travel](https://www.gov.uk/foreign-travel-advice/bangladesh/safety-and-security).
-
-## Period of national mourning from 31 December
-
-Bangladesh will observe 3 days of national mourning, starting with a public holiday on 31 December, following the death of Khaleda Zia, former Prime Minister of Bangladesh. During this time, there may be disruption to a wide range of businesses and services, including entertainment venues, restaurants, bars and shopping areas.
-
-Be sensitive to local circumstances. In public, avoid wearing bright or festive clothing and avoid loud or inappropriate behaviour, especially when visiting places of worship  or government premises.
 
 ## Support from the UK government
 
