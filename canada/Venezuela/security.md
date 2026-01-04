@@ -4,7 +4,11 @@
 
 ### Heightened security situation
 
-The current situation in Venezuela is tense. Borders and airspace could close at short notice. Several airlines have suspended flights to and from Venezuela, reducing options to leave the country.
+On January 3, 2026, military strikes took place on several sites in Venezuela, including military facilities, in the city of Caracas and the states of Miranda, Aragua and La Guaira.
+
+The current situation in Venezuela is tense and could escalate quickly.
+
+Borders and airspace could close at short notice. Several airlines have suspended flights to and from Venezuela, reducing options to leave the country.
 
 The Embassy of Canada to Venezuela has not been open since 2019. Our ability to provide consular assistance to Canadians in Venezuela is severely limited and done remotely.
 
