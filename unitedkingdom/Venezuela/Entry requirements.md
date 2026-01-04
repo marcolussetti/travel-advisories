@@ -67,12 +67,8 @@ Local banknotes are in short supply. Most people use card payments, bank transfe
 
 If you find your bank cards do not work, you can arrange for friends and family overseas to deposit funds through Western Union and pick up the deposited funds at any [Grupo Zoom](https://zoom.red/remesas/) branch.
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/venezuela)
+[Previous:Warnings and insurance](/foreign-travel-advice/venezuela)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/venezuela/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/venezuela/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/venezuela/print)

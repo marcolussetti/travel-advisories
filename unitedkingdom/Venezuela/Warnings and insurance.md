@@ -1,48 +1,28 @@
 # Warnings and insurance
 
 Still current at:
-:   24 November 2025
+:   4 January 2026
 
 Updated:
-:   23 November 2025
+:   3 January 2026
 
 Latest update:
-:   Information on flight cancellations ('Warnings and insurance' page)
+:   Addition of information following reports of explosions in Caracas ('Warning and insurance' page)
 
-![](https://assets.publishing.service.gov.uk/media/5f4e7de38fa8f57fb9bf665b/FCDO__TA__045_-_Venezuela_Travel_Advice_Ed1__WEB_.jpg)
+![](https://assets.publishing.service.gov.uk/media/6959091fa2fb6c15f98d1941/FCDO__TA__045_-_Venezuela_Travel_Advice_Ed2__WEB_.jpg)
 
 
-[Download a more detailed map (PDF, 738 KB)](https://assets.publishing.service.gov.uk/media/5f4e7de3e90e071c71bb3f9e/FCDO__TA__045_-_Venezuela_Travel_Advice_Ed1.pdf)
+[Download a more detailed map (PDF, 726 KB)](https://assets.publishing.service.gov.uk/media/69590920a2fb6c15f98d1942/FCDO__TA__045_-_Venezuela_Travel_Advice_Ed2.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
-## Areas where FCDO advises against travel
+## The FCDO advises against all travel to Venezuela
 
-### Within 80km of the Venezuela-Colombia border
-
-FCDO advises against all travel to within 80km (50 miles) of the border with Colombia. Drug traffickers and illegal armed groups are active along the border area with Colombia and there is a risk of criminal kidnapping.
-
-### Zulia State
-
-FCDO advises against all travel to Zulia State, which has prolonged power cuts, water shortages, violence and local conflict.
-
-### Within 40km of the Venezuela-Brazil border
-
-FCDO advises against all travel to within 40km (25 miles) of the border with Brazil. Drug traffickers and illegal armed groups are active along the border area with Brazil and there is a risk of criminal kidnapping.
-
-### All other areas of Venezuela
-
-FCDO advises against all but essential travel to the remaining areas of Venezuela, due to ongoing crime and instability.
-
-## Flights
-
-Some airlines have cancelled flights at short notice.  If you have an upcoming flight to or from Venezuela you should stay in touch with your airline or travel agency.
+FCDO advises against all travel to Venezuela. If you are a British National already living or travelling in Venezuela, you should shelter in place, but be prepared to change your plans quickly if necessary. Regularly review your departure options and make sure your travel documents are valid and accessible. You should have a ‘personal emergency plan’, including practical steps for leaving the country or staying safe during a crisis, that does not depend on support from the UK government.
 
 ## State of External Commotion
 
-Plans for a ‘state of external commotion’ were announced on 29 September 2025. If decreed by the authorities in Venezuela  – in the event of a case of internal or external conflict – this could lead to the closure of Venezuelan borders and airspace.
-
-The situation in Venezuela is currently tense. Consular access and support to British nationals in Venezuela may be severely limited.  If you choose to travel to Venezuela, monitor developments closely through local and international media and keep up to date with this travel advice.
+On 3 January, Venezuelan authorities announced a ‘state of external commotion’ due to air strikes on targets across the country. This could lead to closure of Venezuelan borders and airspace.
 
 ## Before you travel
 

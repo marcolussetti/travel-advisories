@@ -136,12 +136,8 @@ During the rainy season from May to November there may be flooding in low-lying 
 
 There is a risk of earthquakes in Venezuela. These are mostly tremors but there are occasionally more serious quakes. Monitor media reports and follow the advice of the local authorities. The US Federal Emergency Management Agency website has advice about [what to do before, during and after an earthquake](https://www.ready.gov/earthquakes).
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/venezuela/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/venezuela/entry-requirements)
 
-[Next
-:
-Regional risks](/foreign-travel-advice/venezuela/regional-risks)
+[Next:Regional risks](/foreign-travel-advice/venezuela/regional-risks)
 
 [View a printable version of the whole guide](/foreign-travel-advice/venezuela/print)

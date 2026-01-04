@@ -1,11 +1,11 @@
 {
     "name": "Venezuela",
-    "update_reason": "Information on flight cancellations ('Warnings and insurance' page)",
+    "update_reason": "Addition of information following reports of explosions in Caracas ('Warning and insurance' page)",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Venezuela/Warnings and insurance.md",
-            "update_date": "2025-11-23T19:27:15+00:00"
+            "update_date": "2026-01-03T12:29:50+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Venezuela/Getting help.md"
         }
     ],
-    "update_date": "2025-11-23T19:27:15+00:00"
+    "update_date": "2026-01-03T12:29:50+00:00"
 }

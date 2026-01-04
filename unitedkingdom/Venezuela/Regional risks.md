@@ -24,12 +24,8 @@ FCDO advises against all but essential travel to the remaining areas of Venezuel
 
 During power cuts or in an unstable security situation, the British Embassy may be limited in the assistance that it can provide.
 
-[Previous
-:
-Safety and security](/foreign-travel-advice/venezuela/safety-and-security)
+[Previous:Safety and security](/foreign-travel-advice/venezuela/safety-and-security)
 
-[Next
-:
-Health](/foreign-travel-advice/venezuela/health)
+[Next:Health](/foreign-travel-advice/venezuela/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/venezuela/print)
