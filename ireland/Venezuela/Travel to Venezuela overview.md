@@ -8,7 +8,9 @@ Do Not Travel
 
 **The Department of Foreign Affairs and Trade advises against all travel to Venezuela at this time.**
 
-**The Venezuelan authorities have revoked the operating licences of several international airlines, including Iberia, LATAM airlines, Avianca, GOL, TAP Portugal and Turkish Airlines. Irish citizens in Venezuela are advised to closely monitor airline updates and stay informed through official media channels.**
+On 3 January 2025, military strikes took place in several locations across Venezuela, including the capital city, Caracas. The current security situation is unpredictable and may deteriorate quickly. Land borders and airspace may close at short notice.
+
+The Department of Foreign Affairs and Trade advises against all travel to Venezuela. Irish citizens in the country are advised to shelter in place. Citizens should make sure travel documents are valid and accessible and regularly review departure options. Closely monitor local and international media for updates.
 
 ### **General Travel Advice**
 
