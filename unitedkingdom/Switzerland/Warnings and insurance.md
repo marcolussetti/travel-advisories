@@ -1,17 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   2 January 2026
+:   6 January 2026
 
 Updated:
-:   1 January 2026
+:   5 January 2026
 
 Latest update:
-:   Addition of information on the fire in Crans Montana on 1 January (Warnings and Insurance page)
-
-## Fire in Crans Montana
-
-Following the fire in Crans Montana on 1 January, the Swiss authorities have opened a dedicated phone number for Swiss and foreign nationals affected by this incident. Swiss authorities recommend that people seek to contact loved ones on all available channels (email, social media, phone) before attempting to call.  You can call +41 848 112 117. You may be asked for proof of kinship if you ask for information about your close family.
+:   Removal of information on the fire in Crans Montana on 1 January.
 
 ## Before you travel
 

@@ -20,6 +20,8 @@ When returning to the UK, British citizens must carry a valid [British passport]
 
 You can visit St Kitts and Nevis without a visa for up to 6 months.
 
+All visitors to St Kitts and Nevis must obtain an Electronic Travel Authorisation (eTA) before travel. The eTA can be applied for online or via the official mobile app. For full details, see the [St Kitts and Nevis Electronic Border Management System website](https://www.knatravelform.kn/en).
+
 If you want to stay longer, you must apply and pay for an extension through the [St Kitts and Nevis Immigration Department](https://www.facebook.com/p/St-Kitts-Nevis-Immigration-Department-100064749728765/). Email: [stkittsimmigrationdept@gmail.com](mailto:stkittsimmigrationdept@gmail.com).
 
 It is illegal to overstay your visa or to work without a work permit.
@@ -51,12 +53,8 @@ For full details about medical entry requirements and recommended vaccinations, 
 
 There are strict rules about [goods you can take into or out of St Kitts and Nevis](https://skncustoms.com/Show-Page.aspx?PageID=392). You must declare anything that may be prohibited or subject to tax or duty.
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/st-kitts-and-nevis)
+[Previous:Warnings and insurance](/foreign-travel-advice/st-kitts-and-nevis)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/st-kitts-and-nevis/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/st-kitts-and-nevis/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/st-kitts-and-nevis/print)

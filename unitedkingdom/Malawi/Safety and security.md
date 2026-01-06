@@ -130,12 +130,8 @@ Check your route before travelling and follow the advice of the local authoritie
 
 Earthquakes are a risk in Malawi. The US Federal Emergency Management Agency has advice about [what to do before, during and after an earthquake](http://www.ready.gov/earthquakes).
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/malawi/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/malawi/entry-requirements)
 
-[Next
-:
-Health](/foreign-travel-advice/malawi/health)
+[Next:Health](/foreign-travel-advice/malawi/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/malawi/print)

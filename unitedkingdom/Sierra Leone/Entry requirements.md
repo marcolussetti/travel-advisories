@@ -39,19 +39,15 @@ To enter Sierra Leone, you must have a certificate to prove you’ve had a yello
 
 For more details about medical entry requirements and recommended vaccinations, see [TravelHealthPro’s Sierra Leone guide](https://travelhealthpro.org.uk/country/195/sierra-leone#Vaccine_Recommendations).
 
-## Mpox
-
-Expect extra health measures, such as temperature checks, hand sanitising and questions on arrival into Sierra Leone. These measures have been put in place to reduce the risks from Mpox. If you are found to have a high temperature, you will be referred to the airport’s medical unit for further evaluation.
-
-Precautions such as social distancing, hand washing and sanitising are in place across businesses and public spaces. If you do not follow local rules, you may be fined or prosecuted. Check locally for rules in place.
-
 ## Airport security fee
 
-All passengers must pay a 25 US dollar airport security fee on arrival and departure. You must show proof of payment before immigration. You can pay:
+All passengers must pay a 25 US dollar airport security fee on arrival and departure. You must show proof of payment before immigration immigration when departing and before leaving the terminal on arrival.
+
+You can pay:
 
 * in advance online through [Securipass](http://www.securipass.sl/)
 * on your mobile through Orange Money or Afrimoney
-* at United Bank for Africa or Sierra Leone Commercial Bank
+* at Ecobank SL, Zenith Bank, Vista Bank, Guaranty Trust Bank, Rokel Commercial Bank, United Bank for Africa or Sierra Leone Commercial Bank
 
 ## Customs rules
 
@@ -63,12 +59,8 @@ You must declare anything that may be prohibited or subject to tax or duty.
 
 You must have an export licence to leave Sierra Leone with precious stones. Check the quality of any gems or minerals you buy. Any deals that appear too good to be true probably are.
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/sierra-leone)
+[Previous:Warnings and insurance](/foreign-travel-advice/sierra-leone)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/sierra-leone/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/sierra-leone/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/sierra-leone/print)

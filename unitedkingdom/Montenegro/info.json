@@ -1,11 +1,11 @@
 {
     "name": "Montenegro",
-    "update_reason": "Updated with information about protests and risks of travel disruption ('Warnings and insurance' page).",
+    "update_reason": "Removal of information about protests and risks of travel disruption.",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Montenegro/Warnings and insurance.md",
-            "update_date": "2025-12-31T10:53:13+00:00"
+            "update_date": "2026-01-05T16:15:47+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Montenegro/Getting help.md"
         }
     ],
-    "update_date": "2025-12-31T10:53:13+00:00"
+    "update_date": "2026-01-05T16:15:47+00:00"
 }

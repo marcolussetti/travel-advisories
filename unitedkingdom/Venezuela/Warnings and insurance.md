@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   4 January 2026
+:   6 January 2026
 
 Updated:
-:   3 January 2026
+:   5 January 2026
 
 Latest update:
-:   Addition of information following reports of explosions in Caracas ('Warning and insurance' page)
+:   Removal of information about sheltering in place, FCDO continues to advise against all travel to Venezuela (‘Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/6959091fa2fb6c15f98d1941/FCDO__TA__045_-_Venezuela_Travel_Advice_Ed2__WEB_.jpg)
 
@@ -18,7 +18,7 @@ Your travel insurance could be invalidated if you travel against advice from the
 
 ## The FCDO advises against all travel to Venezuela
 
-FCDO advises against all travel to Venezuela. If you are a British National already living or travelling in Venezuela, you should shelter in place, but be prepared to change your plans quickly if necessary. Regularly review your departure options and make sure your travel documents are valid and accessible. You should have a ‘personal emergency plan’, including practical steps for leaving the country or staying safe during a crisis, that does not depend on support from the UK government.
+FCDO advises against all travel to Venezuela. If you are a British National already living or travelling in Venezuela, you should be prepared to change your plans quickly if necessary. Regularly review your departure options and make sure your travel documents are valid and accessible. You should have a ‘personal emergency plan’, including practical steps for leaving the country or staying safe during a crisis, that does not depend on support from the UK government.
 
 ## State of External Commotion
 

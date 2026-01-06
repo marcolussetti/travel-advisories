@@ -111,12 +111,8 @@ Earthquakes are a risk in St Kitts and Nevis. The US Federal Emergency Managemen
 
 Mount Liamuiga is a potentially active volcano and is likely to erupt in the future. The [University of West Indies (UWI) Seismic Research Centre](https://uwiseismic.com/island-profiles/st-kitts/) monitors volcanic activity on St Kitts and Nevis.
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/st-kitts-and-nevis/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/st-kitts-and-nevis/entry-requirements)
 
-[Next
-:
-Health](/foreign-travel-advice/st-kitts-and-nevis/health)
+[Next:Health](/foreign-travel-advice/st-kitts-and-nevis/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/st-kitts-and-nevis/print)

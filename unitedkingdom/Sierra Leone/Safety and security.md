@@ -160,12 +160,8 @@ There is no country-wide coverage from mobile network providers in Sierra Leone.
 
 Mains water is limited. Mains power is unreliable and extended outages are common. Power surges, especially in the rainy season, are common – you may want to use power surge protectors. Hotels and rented villas have generators and private water supplies.
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/sierra-leone/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/sierra-leone/entry-requirements)
 
-[Next
-:
-Health](/foreign-travel-advice/sierra-leone/health)
+[Next:Health](/foreign-travel-advice/sierra-leone/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/sierra-leone/print)

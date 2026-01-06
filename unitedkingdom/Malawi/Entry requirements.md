@@ -18,7 +18,17 @@ When returning to the UK, British citizens must carry a valid [British passport]
 
 ## Visa requirements
 
-The Malawian government has announced a stop to visa-free entry. You might need a visa when you arrive. It is not clear when this will start. Check the [Malawi Immigration website](https://www.immigration.gov.mw/) for the latest information.
+You must apply for a visa to enter Malawi.
+
+### Applying for a visa
+
+Single or multiple entry visas can be obtained on arrival. You are advised to bring US dollars in cash for payment:
+
+* 50 US dollars for a single-entry visa
+* 150 US dollars for a 6-month multiple entry visa, and
+* 250 US dollars for a one-year multiple entry visa
+
+On-line e-visas are available on the [Malawi Immigration website](https://www.immigration.gov.mw/), although the system is not always up to date.
 
 If you wish to live, work or study in Malawi, visit the [Malawi Immigration website](https://www.immigration.gov.mw/) for further information.
 
@@ -39,12 +49,8 @@ For full details about medical entry requirements and recommended vaccinations, 
 
 There are strict rules about [goods you can take into or out of Malawi](https://www.mra.mw/custom-and-excise/declaration-process). You must declare anything that may be prohibited or subject to tax or duty.
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/malawi)
+[Previous:Warnings and insurance](/foreign-travel-advice/malawi)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/malawi/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/malawi/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/malawi/print)
