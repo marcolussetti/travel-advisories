@@ -8,7 +8,7 @@ Do Not Travel
 
 **The Department of Foreign Affairs and Trade advises against all travel to Venezuela at this time.**
 
-On 3 January 2025, military strikes took place in several locations across Venezuela, including the capital city, Caracas. The current security situation is unpredictable and may deteriorate quickly. Land borders and airspace may close at short notice.
+On 3 January 2026, military strikes took place in several locations across Venezuela, including the capital city, Caracas. The current security situation is unpredictable and may deteriorate quickly. Land borders and airspace may close at short notice.
 
 The Department of Foreign Affairs and Trade advises against all travel to Venezuela. Irish citizens in the country are advised to shelter in place. Citizens should make sure travel documents are valid and accessible and regularly review departure options. Closely monitor local and international media for updates.
 
