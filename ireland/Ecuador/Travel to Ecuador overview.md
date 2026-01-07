@@ -24,7 +24,7 @@ This **does not apply** to airside transit within Guayaquil Airport in Guayas Pr
 
 ### **Yellow Fever**
 
-As of 12 May 2025, travellers to Ecuador require a yellow fever vaccination certificate, owing to the increase of yellow fever in the region. In particular, travellers from Colombia, Peru, Bolivia, and Brazil will need to present a yellow fever vaccination certificate.
+As of 31 December 2025, travellers to Ecuador require a yellow fever vaccination certificate, owing to the increase of yellow fever in the region. In particular, travellers from Colombia, Peru, Bolivia, and Brazil will need to present a yellow fever vaccination certificate.
 
 The yellow fever vaccine must have been administered at least 10 days before entering Ecuador. The certificate may be requested when boarding by means of air, land, or sea transport to Ecuador.
 
@@ -37,6 +37,10 @@ A state of emergency was renewed on 04 November 2025 for 60 days owing to ongoin
 * Manabí
 * Los Ríos
 * Santa Elena
+* Pichincha
+* Santo Domingo
+* Esmeraldas
+* Sucumbíos
 * Echeandía and Las Naves in the province of Bolívar
 * Cotopaxi in the province of La Maná
 
