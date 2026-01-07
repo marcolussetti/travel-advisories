@@ -1,19 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   18 December 2025
+:   7 January 2026
 
 Updated:
-:   17 December 2025
+:   6 January 2026
 
 Latest update:
-:   Updated information about earthquake and tsunami advisories ( 'Warnings and insurance' page).
-
-## Earthquake and tsunami advisories
-
-All formal tsunami and mega-quake advisories have been lifted following a 7.5 magnitude earthquake off Aomori prefecture on 8 December. However the risk of a large-scale earthquake is still present and Japanese authorities are urging the public to remain cautious.
-
-Follow the advice of local authorities. For further information, read the [NHK website](https://www3.nhk.or.jp/nhkworld/en/news/).
+:   Updated information on earthquakes and tsunamis ('Safety and security' page).
 
 ## Before you travel
 

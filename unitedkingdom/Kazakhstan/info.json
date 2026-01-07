@@ -1,11 +1,11 @@
 {
     "name": "Kazakhstan",
-    "update_reason": "New information about dual nationals returning to the UK (\u2018Entry requirements\u2019 page).",
+    "update_reason": "Updated information for LGBT+ travellers ('Safety and security' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Kazakhstan/Warnings and insurance.md",
-            "update_date": "2025-12-10T12:56:26+00:00"
+            "update_date": "2026-01-06T16:08:37+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Kazakhstan/Getting help.md"
         }
     ],
-    "update_date": "2025-12-10T12:56:26+00:00"
+    "update_date": "2026-01-06T16:08:37+00:00"
 }

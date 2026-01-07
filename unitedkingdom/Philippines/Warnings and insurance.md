@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   11 December 2025
+:   7 January 2026
 
 Updated:
-:   10 December 2025
+:   6 January 2026
 
 Latest update:
-:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
+:   New information on volcanoes (See ‘Extreme weather and natural disasters’ on the ‘Safety and security’ page’).
 
 ![](https://assets.publishing.service.gov.uk/media/616406778fa8f52980d9301c/FCDO__TA__033_-_Philippines_Travel_Advice_Ed2__WEB_.jpg)
 
@@ -31,10 +31,6 @@ FCDO also advises against all but essential travel to the remainder of Mindanao,
 This advice is due to terrorist activity and clashes between the military and insurgent groups in south Philippines.
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/philippines/safety-and-security#terrorism).
-
-## Tropical storm season
-
-Around 20 typhoons hit the Philippines each year. While most typhoons happen between June and November, storms can hit outside of this timeframe. Follow the advice of local authorities, and monitor the progress of storms on the [Philippines state weather agency](http://www.pagasa.dost.gov.ph/) and the [Philippines Disaster Risk Reduction and Management Council](http://www.ndrrmc.gov.ph/index.php). You can find updates on [typhoon2000.ph](http://www.typhoon2000.ph/), or follow [@Typhoon2k](https://twitter.com/Typhoon2k) on X.
 
 ## Demonstrations
 
@@ -72,8 +68,6 @@ Follow FCDO:
 * [travel advice on Facebook](https://www.facebook.com/FCDOTravel/)
 * [Travel Aware on Instagram](https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Ftravelaware%2F&is_from_rle)
 
-[Next
-:
-Entry requirements](/foreign-travel-advice/philippines/entry-requirements)
+[Next:Entry requirements](/foreign-travel-advice/philippines/entry-requirements)
 
 [View a printable version of the whole guide](/foreign-travel-advice/philippines/print)

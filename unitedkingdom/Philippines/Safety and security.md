@@ -191,7 +191,7 @@ If you are planning to travel to Cebu or nearby provinces:
 
 There are numerous volcanoes in the Philippines, any of which can erupt without warning. Sudden steam and ash explosions may happen at any time.
 
-The Kanlaon Volcano is currently at alert level 3 (increased tendency towards a hazardous eruption).
+The Mayon Volcano is currently at alert level 3 (increased tendency towards a hazardous eruption).
 
 Check news reports and follow local advice before travelling to any areas around volcanoes. Avoid volcanic areas during and immediately after heavy rainfall when there’s increased risk of lava flows.
 
@@ -203,12 +203,8 @@ Ash plumes can [affect air quality and have an impact on health](http://www.ivh
 
 The Philippine emergency and rescue services have a limited capacity to deal with large natural disasters.
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/philippines/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/philippines/entry-requirements)
 
-[Next
-:
-Health](/foreign-travel-advice/philippines/health)
+[Next:Health](/foreign-travel-advice/philippines/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/philippines/print)

@@ -64,12 +64,8 @@ It is not permitted to export any foreign currency in cash of a value greater th
 
 Contact the [State Revenue Department](https://kgd.gov.kz/en/node/66966) if you have specific questions.
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/kazakhstan)
+[Previous:Warnings and insurance](/foreign-travel-advice/kazakhstan)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/kazakhstan/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/kazakhstan/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/kazakhstan/print)

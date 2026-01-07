@@ -94,7 +94,7 @@ There is zero tolerance of drug crime and the penalties are severe. British nati
 
 Same-sex sexual activity is not illegal, but Japanese law does not protect against discrimination on the grounds of sexual orientation. Same-sex marriages are not recognised, but some local authorities issue certificates of recognition that can be used for civil issues, such as hospital visitation rights.
 
-Nichome in Tokyo and Doyamacho in Osaka are well-known LGBT+ areas.
+Shinjuku Nichome in Tokyo and Doyamacho in Osaka are well-known LGBT+ areas.
 
 Read more [advice for LGBT+ travellers](https://www.gov.uk/guidance/lesbian-gay-bisexual-and-transgender-foreign-travel-advice).
 
@@ -169,11 +169,11 @@ See [weather safety tips](https://www.jnto.go.jp/safety-tips/eng/emergency/weat
 
 ### Earthquakes and tsunamis
 
-Japan is in a major earthquake zone. Take note of instructions in hotel rooms and at train stations. Check the safety procedures on your local prefectural website.
+Japan is in a major earthquake zone. The [Japan Meteorological Agency](https://www.bousai.go.jp/kokusai/web/img/02_bousai_guidebook_Web_EN.pdf) provides a list of [helpful apps and websites in the event of disaster](https://www.bousai.go.jp/kokusai/web/img/02_bousai_guidebook_Web_EN.pdf) . See further [earthquake safety tips](https://www.jnto.go.jp/safety-tips/eng/emergency/earthquake/e01.html) from the Japan National Tourism Agency.
 
-Monitor [tsunami warnings and earthquake information](http://www.jma.go.jp/en/tsunami/) from the Japan Meteorological Agency.
+Monitor [earthquake information, including tsunami and aftershock warnings](https://www.jma.go.jp/jma/indexe.html), from the Japan Meteorological Agency. See further news on earthquakes at [NHK World](https://www3.nhk.or.jp/nhkworld/en/news/tags/23/).
 
-See [earthquake safety tips](https://www.jnto.go.jp/safety-tips/eng/emergency/earthquake/e01.html) from the Japan National Tourism Agency.
+Take note of instructions in hotel rooms and at train stations and follow the advice of local authorities.
 
 ### Volcanic eruptions
 

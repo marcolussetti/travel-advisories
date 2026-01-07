@@ -114,7 +114,9 @@ Depending on your bank, you may be able to withdraw cash in Kazakhstani tenge (K
 
 ### LGBT+ travellers
 
-Although same-sex sexual activity is not illegal, same-sex relationships are often not tolerated, especially outside of the major cities.
+Same-sex sexual activity is not illegal in Kazakhstan. However, on 30 December 2025, legislation was introduced prohibiting the ‘promotion’ or dissemination of information about non-traditional sexual orientation. Perceived breaches of this law may result in administrative penalties, including fines, detention, and deportation.
+
+Public acceptance of LGBT+ people and identities in Kazakhstan is limited, especially outside major cities. There is an increased risk of discrimination or harassment against individuals thought to be part of the LGBT+ community, or perceived to be supporting their rights.
 
 Read more [advice for LGBT+ travellers](https://www.gov.uk/lesbian-gay-bisexual-and-transgender-foreign-travel-advice).
 
@@ -210,12 +212,8 @@ Kazakhstan has several areas which are at high risk of earthquakes. Almaty is in
 
 The US Federal Emergency Management Agency has advice about [what to do before, during and after an earthquake](https://www.ready.gov/earthquakes).
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/kazakhstan/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/kazakhstan/entry-requirements)
 
-[Next
-:
-Health](/foreign-travel-advice/kazakhstan/health)
+[Next:Health](/foreign-travel-advice/kazakhstan/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/kazakhstan/print)

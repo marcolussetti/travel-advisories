@@ -1,11 +1,11 @@
 {
     "name": "Philippines",
-    "update_reason": "New information about dual nationals returning to the UK (\u2018Entry requirements\u2019 page).",
+    "update_reason": "New information on volcanoes (See \u2018Extreme weather and natural disasters\u2019 on the \u2018Safety and security\u2019 page\u2019).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Philippines/Warnings and insurance.md",
-            "update_date": "2025-12-10T13:28:18+00:00"
+            "update_date": "2026-01-06T11:04:20+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Philippines/Getting help.md"
         }
     ],
-    "update_date": "2025-12-10T13:28:18+00:00"
+    "update_date": "2026-01-06T11:04:20+00:00"
 }

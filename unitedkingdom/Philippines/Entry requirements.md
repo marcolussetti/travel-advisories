@@ -62,12 +62,8 @@ If you were in the Philippines on a visa issued by the Department of Justice (Do
 
 If you’re leaving the country from Cebu Mactan airport, you must pay a departure tax of 850 Philippine pesos in local currency or the equivalent in US dollars. There’s no longer a departure tax at Manila airport. This information can change and you should check with your airline before you travel.
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/philippines)
+[Previous:Warnings and insurance](/foreign-travel-advice/philippines)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/philippines/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/philippines/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/philippines/print)

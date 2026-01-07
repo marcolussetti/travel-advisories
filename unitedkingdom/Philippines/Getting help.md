@@ -57,8 +57,6 @@ Follow FCDO:
 
 The Overseas Business Risk service offers [information and advice for British companies operating in the Philippines](https://www.gov.uk/government/publications/overseas-business-risk-philippines) on how to manage political, economic, and business security-related risks.
 
-[Previous
-:
-Health](/foreign-travel-advice/philippines/health)
+[Previous:Health](/foreign-travel-advice/philippines/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/philippines/print)
