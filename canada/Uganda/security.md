@@ -10,7 +10,9 @@ Demonstrations may occur before, during and after the elections.
 
 Even peaceful demonstrations can turn violent at any time. They can also lead to disruptions to traffic and public transportation.
 
-During periods of heightened tensions, local authorities may increase security measures, including movement restrictions and curfews. Disruptions to telecommunications and Internet access, including social media and messaging applications, may occur.
+During periods of heightened tensions, local authorities may increase security measures, including movement restrictions and curfews.
+
+Disruptions to telecommunications and Internet access, including social media and messaging applications, may occur. The Government of Uganda has imposed import restrictions on Starlink satellite internet equipment.
 
 Have a communication plan with your important contacts and save or print copies of key information in case of an Internet disruption, including:
 
