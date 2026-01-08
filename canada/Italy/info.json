@@ -1,7 +1,7 @@
 {
     "name": "Italy",
-    "update_reason": "Safety and security \u2013 updated information on the Olympic and Paralympic Winter Games",
-    "update_date": "2025-12-23T15:56:00",
+    "update_reason": "Safety and security \u2013 removed information on Jubilee 2025",
+    "update_date": "2026-01-07T09:02:00",
     "sections": {
         "risk": "canada/Italy/risk.md",
         "security": "canada/Italy/security.md",

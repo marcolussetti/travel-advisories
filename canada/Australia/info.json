@@ -1,7 +1,7 @@
 {
     "name": "Australia",
-    "update_reason": "Natural disasters and climate \u2013 removed information on Tropical Cyclone Hayley",
-    "update_date": "2026-01-02T09:42:00",
+    "update_reason": "Editorial change",
+    "update_date": "2026-01-07T12:04:00",
     "sections": {
         "risk": "canada/Australia/risk.md",
         "security": "canada/Australia/security.md",

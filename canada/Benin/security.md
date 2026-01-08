@@ -2,16 +2,14 @@
 
 ## Safety and security
 
-### Attempted coup
+### Elections
 
-On December 7, 2025, an attempted coup failed in Benin. Local authorities reinforced security measures, particularly in Cotonou.
+Legislative and communal elections are scheduled for January 11, 2026.
 
-If you are in Benin:
-
-* exercise caution
-* expect an increased presence of security forces
-* contact your airline to confirm your flight status
-* monitor local and international media regularly to stay informed of the evolving situation
+* Avoid areas where demonstrations and large gatherings are taking place
+* Expect significant security measures and an increased security presence
+* Follow the instructions of local authorities
+* Monitor the media for the latest information
 
 ### Border areas with Burkina Faso, Niger and Nigeria
 

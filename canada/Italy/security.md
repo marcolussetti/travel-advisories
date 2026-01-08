@@ -78,20 +78,6 @@ If you are the victim of a sexual assault, you may report it immediately to the 
 * [1522 – anti-violence and stalking](https://www.1522.eu/?lang=en)
 * [Advice for women travellers](https://travel.gc.ca/travelling/health-safety/advice-for-women-travellers "Advice for women travellers")
 
-### Jubilee 2025
-
-The Jubilee, also known as the Holy Year, will take place in Rome from December 24, 2024, to January 6, 2026.
-
-A large number of visitors are expected. Pilgrimages and large-scale events will take place across the city during the Holy Year. If you plan on travelling to Rome during the Jubilee, plan accordingly.
-
-During the Jubilee, especially during large events, you should expect:
-
-* large crowds and public gatherings
-* disruptions to traffic and movement
-* an increased presence of security forces
-
-[Jubilee 2025](https://www.iubilaeum2025.va/en.html) – Official site
-
 ### Terrorism
 
 There is a threat of terrorism in Europe. Terrorists have carried out attacks in several European cities and further attacks elsewhere in Europe are likely. Attacks in Italy cannot be ruled out.

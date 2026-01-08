@@ -10,7 +10,7 @@ The features in this map do not constitute an authoritative source of geographic
 
 [Enlarge map](#full-screen)
 
-## costa-rica travel advice
+## Costa Rica travel advice
 
 ![Risk level map](https://www.international.gc.ca/tama-sgcv_images/maps-cartes/CR/mapeng.png)Disclaimer
 
