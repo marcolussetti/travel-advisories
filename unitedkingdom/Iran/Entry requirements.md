@@ -32,7 +32,7 @@ For help with your passport application, [contact HM Passport Office](https://ww
 
 When returning to the UK, British citizens must carry a valid [British passport](https://www.gov.uk/browse/abroad/passports) or [certificate of entitlement](https://www.gov.uk/right-of-abode/apply-for-a-certificate-of-entitlement). See [Dual citizenship](https://www.gov.uk/dual-citizenship).
 
-### Irani-British dual nationals
+### British-Iranian dual nationals
 
 Iran does not recognise dual nationality. If you are a dual national, the Iranian authorities will consider you to be an Iranian national. They are highly unlikely to accept any requests made by the UK government on your behalf.
 
@@ -103,12 +103,8 @@ You must also have a hotel reservation before you travel. Your guide must:
 
 Travellers have occasionally been denied entry to Kish without explanation. If you’re denied entry, follow the advice of your airline or travel agent.
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/iran)
+[Previous:Warnings and insurance](/foreign-travel-advice/iran)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/iran/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/iran/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/iran/print)

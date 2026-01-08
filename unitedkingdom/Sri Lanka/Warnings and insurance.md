@@ -1,21 +1,21 @@
 # Warnings and insurance
 
 Still current at:
-:   23 December 2025
+:   8 January 2026
 
 Updated:
-:   22 December 2025
+:   7 January 2026
 
 Latest update:
-:   Updated information on the impact of Cyclone Ditwah ('Warnings and insurance').
+:   Updated information on the impact of Cyclone Ditwah ('Warnings and insurance' page).
 
 ## Impact of Cyclone Ditwah
 
-Cyclone Ditwah affected much of Sri Lanka, causing flooding and landslides. The main tourist areas near Colombo and on the south coast of Sri Lanka remain largely unaffected and many other tourist areas are returning to normal. The Sri Lankan authorities continue to restore infrastructure. Some road networks, especially minor roads, remain disrupted and a few areas still have power and telecommunications outages. The most affected area is the Hill Country including Kandy, Nuwara Eliya and Badulla.
+Cyclone Ditwah affected much of Sri Lanka, causing flooding and landslides. The main tourist areas near Colombo and on the south coast of Sri Lanka remain largely unaffected and many other tourist areas are returning to normal. The Sri Lankan authorities continue to restore infrastructure. Some road and railway networks, especially minor roads, remain disrupted and a few areas still have power and telecommunications outages. The most affected area is the Hill Country including Kandy, Nuwara Eliya and Badulla.
 
-There remains a risk of landslides and localised flooding. Check conditions with local authorities or your travel provider before you travel.
+There remains a risk of landslides. Check conditions with local authorities or your travel provider before you travel and you can find local weather updates at [Department of Meteorology](https://meteo.gov.lk/index.php?lang=en).
 
-Sri Lanka Tourism has a 24-hour hotline available on 1912.
+Sri Lanka Tourism’s 24‑hour hotline is available on 1912 and Disaster Management Centre (DMC) for road related issues (landslides) is 177.
 
 ## Before you travel
 

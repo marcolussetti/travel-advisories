@@ -1,11 +1,11 @@
 {
     "name": "France",
-    "update_reason": "Removal of information about Channel Tunnel travel disruption.",
+    "update_reason": "Updated advice on travel disruption in France ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/France/Warnings and insurance.md",
-            "update_date": "2025-12-31T14:33:36+00:00"
+            "update_date": "2026-01-07T16:31:20+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/France/Getting help.md"
         }
     ],
-    "update_date": "2025-12-31T14:33:36+00:00"
+    "update_date": "2026-01-07T16:31:20+00:00"
 }

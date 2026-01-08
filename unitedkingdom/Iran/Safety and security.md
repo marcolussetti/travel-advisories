@@ -287,12 +287,8 @@ You should:
 * monitor advice from local authorities
 * take waterproofs, thermals, hiking boots and rations when driving and walking
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/iran/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/iran/entry-requirements)
 
-[Next
-:
-Health](/foreign-travel-advice/iran/health)
+[Next:Health](/foreign-travel-advice/iran/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/iran/print)
