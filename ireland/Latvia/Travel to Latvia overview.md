@@ -22,6 +22,8 @@ The Department of Foreign Affairs and Trade strongly advises against all travel 
 
 Please note that a number of land border crossings between Belarus and EU Member States, including Latvia, have been closed in recent times. The Paternieki-Grigorovshchina border crossing point is the only crossing point between Latvia and Belarus that remains open. This border crossing may close or implement restrictions at short notice. Check the latest information on the [**Latvian State Border Guard website**](https://www.rs.gov.lv/en).
 
+From 15 October 2025, vehicles intending to cross the Latvia-Belarus border must now register in advance on the Electronic Queue Reservation System (ERRS). The ERRS can be accessed on the following sites: [**www.lvborder.lv**](http://www.lvborder.lv/) and [**www.lvrobeza.lv**](http://www.lvrobeza.lv/).
+
 Access to within 2km of Latvia’s border with Belarus is limited. If you wish to enter the border area, you are required to obtain a special licence issued by the Latvian Border Guard. You should abide by this limitation at all times and follow the instructions of Latvian authorities if you are in this area.
 
 ### **Emergency Assistance**

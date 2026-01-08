@@ -4,12 +4,6 @@
 
 Normal Precautions
 
-### **Travel Alert**
-
-#### **Jubilee Year in Rome**
-
-From 24 December 2024 to 6 January 2026, the Jubilee 2025, also known as the Holy Year, is taking place in Rome. The city is expected to see significantly elevated tourist levels, particularly during the larger events coinciding with important religious celebrations. When travelling in the city during this time, you should expect large crowds and gatherings and disruptions to travel and movement. When planning travel in Rome during the Jubilee Year, it may be useful to consult the [**Jubilee 2025 official site**](https://www.iubilaeum2025.va/en.html)**.**
-
 ### **General Travel Advice**
 
 Irish citizens need a valid passport or passport card to enter Italy.
