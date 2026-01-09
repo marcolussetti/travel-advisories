@@ -2,20 +2,9 @@
 
 ## Safety and security
 
-### Security situation
-
-On November 26, 2025, a faction of the army seized power and announced the suspension of the electoral process.
-
-The overnight curfew has been lifted but may be reinstated with little notice.
-
-If you are in Guinea-Bissau:
-
-* monitor the media for the latest information
-* follow the instructions of local authorities, including curfew orders
-
 ### Political situation
 
-Guinea-Bissau suffers from political instability. On February 2, 2022, there was a failed coup attempt at the Government Palace in Bissau. Although the situation is now calm, the political situation is volatile and further attacks against government and military personnel and installations cannot be ruled out.
+Guinea-Bissau is going through a period of political instability. On November 26, 2025, following the presidential election, the army seized power, announced the suspension of the electoral process, and formed a transitional government. Although calm has been restored, the political situation remains uncertain.
 
 ### Area bordering Senegal
 

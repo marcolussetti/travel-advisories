@@ -4,24 +4,9 @@
 
 ### Flooding and landslides
 
-Heavy rainfall from recent storms has caused severe flooding and landslides across Malaysia, including for the following states:
+Sarawak and Sabah states, on the island of Borneo in East Malaysia, are experiencing heavy rains and flooding.
 
-* Kelantan
-* Terengganu
-* Kedah
-* Perlis
-* Perak
-* Penang
-* Pahang
-* Selangor
-* Negeri Sembilan
-* Melaka
-* Johor
-
-and the federal territories of:
-
-* Kuala Lumpur
-* Putrajaya
+The 2025-2026 Northeast Monsoon is affecting many parts of Peninsular Malaysia.
 
 Rain storms have resulted in flash floods, significant damage to infrastructure and casualties. Roadways may be blocked by landslides or flood water.
 

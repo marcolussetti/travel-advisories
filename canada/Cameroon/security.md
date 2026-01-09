@@ -2,20 +2,6 @@
 
 ## Safety and security
 
-**Security situation**
-
-On October 27, 2025, the announcement of the presidential election results sparked violent clashes, resulting in casualties.
-
-The possibility of renewed demonstrations and firm responses from security forces remains.
-
-If you are in Cameroon:
-
-* avoid demonstrations and large gatherings
-* monitor local media for the latest information
-* follow the instructions of local authorities
-
-[Information on demonstrations](#demonstrations)
-
 ### Far North region and Mayo-Louti Department
 
 Violent extremist groups carry out attacks, kidnappings and banditry in these regions.
@@ -110,7 +96,7 @@ The risk of kidnapping is particularly high in the Far North, North-West and Sou
 
 ### Demonstrations
 
-Even peaceful demonstrations can turn violent at any time. They can also lead to disruptions to traffic and public transportation.
+Even peaceful demonstrations can turn violent at any time. They can also lead to disruptions to traffic and public transportation. In the past, security forces have used tear gas, water cannons, and, in some cases, live ammunition to disperse crowds.
 
 * Avoid areas where demonstrations and large gatherings are taking place
 * Follow the instructions of local authorities

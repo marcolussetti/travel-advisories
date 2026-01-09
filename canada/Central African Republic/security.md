@@ -2,15 +2,6 @@
 
 ## Safety and security
 
-### Elections
-
-General elections are scheduled for December 28, 2025. Demonstrations could occur before, during and after the elections.
-
-* Avoid areas where demonstrations and large gatherings are taking place
-* Expect significant security measures and an increased security presence
-* Follow the instructions of local authorities
-* Monitor the media for the latest information
-
 ### Security situation
 
 The political and security situation remains unstable in the Central African Republic. Military operations are regularly taking place throughout the country and armed criminal groups are committing acts of violence in several regions. The security situation is more stable in Bangui but could deteriorate rapidly.
