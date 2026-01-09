@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   11 December 2025
+:   9 January 2026
 
 Updated:
-:   10 December 2025
+:   8 January 2026
 
 Latest update:
-:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
+:   New information about heavy snowfall and increased risks of floods and landslides (‘Safety and security’ page).
 
 ## Before you travel
 
@@ -37,8 +37,6 @@ Follow  FCDO:
 * [travel advice on Facebook](https://www.facebook.com/FCDOTravel/)
 * [Travel Aware on Instagram](https://www.instagram.com/travelaware/)
 
-[Next
-:
-Entry requirements](/foreign-travel-advice/bosnia-and-herzegovina/entry-requirements)
+[Next:Entry requirements](/foreign-travel-advice/bosnia-and-herzegovina/entry-requirements)
 
 [View a printable version of the whole guide](/foreign-travel-advice/bosnia-and-herzegovina/print)

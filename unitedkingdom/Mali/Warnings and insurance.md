@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   12 December 2025
+:   9 January 2026
 
 Updated:
-:   11 December 2025
+:   8 January 2026
 
 Latest update:
-:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
+:   Updated with information about risks of terrorism ('Safety and security' page).
 
 ![](https://assets.publishing.service.gov.uk/media/690369fee2ebc0fb39a51ffc/FCDO_TA_026_-_Mali_Travel_Advice_Ed7_WEB.jpg)
 
@@ -22,7 +22,7 @@ FCDO advises against all travel to the whole of the Mali due to the unpredictab
 
 If you’re in Mali, you should leave immediately by commercial flight if you judge it safe to do so.
 
-The international airport in Bamako is open, and commercial flights are still available. Do not try to leave Mali by overland routes to neighbouring countries as this is too dangerous. This is due to terrorist attacks along national highways.
+The international airport in Bamako is open, and commercial flights are available. Do not try to leave Mali by overland routes to neighbouring countries as this is too dangerous. This is due to terrorist attacks along national highways.
 
 Terrorist group Jama’a Nusrat ul-Islam wa al-Muslimin (JNIM) has implemented blockades on key routes throughout Southern and Western Mali, including the capital city of Bamako. These blockades are targeting fuel trucks and are enforcing checkpoints for individuals attempting to pass through them. Attacks can occur at any time.
 
@@ -38,7 +38,7 @@ Find out more about [why FCDO advises against travel](https://www.gov.uk/fore
 
 ## UK government support
 
-Support for British nationals is severely limited in Mali, especially outside Bamako. Non-essential British Embassy staff have been temporarily withdrawn from Bamako.
+Support for British nationals is severely limited in Mali, especially outside Bamako.
 
 Do not rely on FCDO being able to help you to evacuate in an emergency.
 

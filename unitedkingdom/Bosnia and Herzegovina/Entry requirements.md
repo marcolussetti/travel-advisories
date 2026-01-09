@@ -60,12 +60,8 @@ For further information [contact the Embassy of Bosnia and Herzegovina in the U
 
 There are strict [rules about goods you can take into and out of Bosnia and Herzegovina](https://www.uino.gov.ba/portal/en/customs/). You must declare anything that may be prohibited or subject to tax or duty.
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/bosnia-and-herzegovina)
+[Previous:Warnings and insurance](/foreign-travel-advice/bosnia-and-herzegovina)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/bosnia-and-herzegovina/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/bosnia-and-herzegovina/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/bosnia-and-herzegovina/print)

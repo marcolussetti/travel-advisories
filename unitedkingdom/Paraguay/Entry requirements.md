@@ -50,12 +50,8 @@ Declare any cash or travellers cheques if the value is 10,000 US dollars or more
 
 Many ATMs accept bank cards. When exchanging money, use registered banks or a bureau de change. Do not change money with people on the street or on arrival at the airport as false banknotes are common.
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/paraguay)
+[Previous:Warnings and insurance](/foreign-travel-advice/paraguay)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/paraguay/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/paraguay/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/paraguay/print)

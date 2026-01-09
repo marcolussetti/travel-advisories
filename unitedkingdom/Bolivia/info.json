@@ -1,11 +1,11 @@
 {
     "name": "Bolivia",
-    "update_reason": "\"Addition of information and advice about planned road blockades across La Paz from 19 December (Summary page).\"",
+    "update_reason": "Updated information on road blockades ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Bolivia/Warnings and insurance.md",
-            "update_date": "2025-12-18T22:45:56+00:00"
+            "update_date": "2026-01-08T10:52:43+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Bolivia/Getting help.md"
         }
     ],
-    "update_date": "2025-12-18T22:45:56+00:00"
+    "update_date": "2026-01-08T10:52:43+00:00"
 }

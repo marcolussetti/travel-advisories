@@ -52,12 +52,8 @@ You may have to fill in a health questionnaire about any recent travel to Ebola-
 
 You must declare anything that may be prohibited or subject to tax or duty.
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/equatorial-guinea)
+[Previous:Warnings and insurance](/foreign-travel-advice/equatorial-guinea)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/equatorial-guinea/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/equatorial-guinea/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/equatorial-guinea/print)

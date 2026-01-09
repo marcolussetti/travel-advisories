@@ -167,12 +167,8 @@ Find out what you can do to prepare for and respond to [extreme weather and nat
 
 Floods can cause travel disruption and damage to property and infrastructure. [Check weather warnings from Ukraine’s Hydrometeorological Center](https://www.meteo.gov.ua/en/Meteorolohichni-poperedzhennya) before travel and follow the advice of the local authorities.
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/ukraine/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/ukraine/entry-requirements)
 
-[Next
-:
-Regional risks](/foreign-travel-advice/ukraine/regional-risks)
+[Next:Regional risks](/foreign-travel-advice/ukraine/regional-risks)
 
 [View a printable version of the whole guide](/foreign-travel-advice/ukraine/print)

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   11 December 2025
+:   9 January 2026
 
 Updated:
-:   10 December 2025
+:   8 January 2026
 
 Latest update:
-:   New information about dual nationals returning to the UK (See 'Dual nationals' on the 'Warnings and insurance' page).
+:   Information concerning a potentially significant air attack that may occur at any time over the next several days (Warnings and Insurance).
 
 ![](https://assets.publishing.service.gov.uk/media/663398524d8bb7378fb6c167/FCDO__TA__044_-_Ukraine_Travel_Advice_Ed12__WEB___1_.jpg)
 
@@ -58,7 +58,7 @@ FCDO advises against all but essential travel to the following regions in weste
 
 ## Russian invasion of Ukraine
 
-The Russian invasion of Ukraine is ongoing, with frequent missile and drone attacks across the country, which injure and kill civilians and cause significant damage to civilian infrastructure, including residential areas, energy, rail and industrial facilities. Russian Military activity against Ukraine has risen over the last year, with the total number of drone and missile strikes increasing in size. Between September and November this year, Russia launched on average around 5,500 missiles and drones per month, up from 3,900 in February 2025 and 1,000 in August 2024. From January to September 2025, civilian casualties in Ukraine increased by 31% compared to the same period in 2024, with a notable rise in civilian injuries occurring away from the front lines. British nationals are advised to exercise heightened awareness and be prepared to immediately shelter in the event an air alert is announced. Be extra vigilant whilst travelling in urban centres.
+The Russian invasion of Ukraine is ongoing, with frequent missile and drone attacks across the country, which injure and kill civilians and cause significant damage to civilian infrastructure, including residential areas, energy, rail and industrial facilities. Russian Military activity against Ukraine has risen over the last year, with the total number of drone and missile strikes increasing in size in 2025 compared with 2024. Between September and December 2025, Russia launched on average around 5,200 missiles and drones per month, up from 3,900 in February 2025 and 1,000 in August 2024. From January to September 2025, civilian casualties in Ukraine increased by 31% compared to the same period in 2024, with a notable rise in civilian injuries occurring away from the front lines. British nationals are advised to exercise heightened awareness and be prepared to immediately shelter in the event an air alert is announced. Be extra vigilant whilst travelling in urban centres.
 
 There is an ongoing risk of harm to British nationals from Russian attacks across all of Ukraine, including from missiles and drones that hit unintended targets or from falling debris. While these are more frequent where FCDO advises against all travel, they can and do also happen in the western regions, where FCDO advice is against all but essential travel.
 
@@ -80,7 +80,7 @@ The British Embassy in Kyiv is unable to help you in person. FCDO cannot facilit
 
 ## If you are in Ukraine
 
-Martial law is in place. Follow the instructions of the Ukrainian authorities and check any measures in place in your location, as they will vary by region.
+Martial law is in place. Information has been received concerning a potentially significant air attack that may occur at any time over the next several days. Follow the instructions of the Ukrainian authorities and check any measures in place in your location, as they will vary by region.
 
 If you are in Ukraine, you should:
 
@@ -158,8 +158,6 @@ If you choose to travel despite FCDO advice, research your destinations and [get
 
 The FCDO provides advice about risks of travel to help British nationals make informed decisions. Find out [more about FCDO travel advice](https://www.gov.uk/guidance/about-foreign-commonwealth-development-office-travel-advice).
 
-[Next
-:
-Entry requirements](/foreign-travel-advice/ukraine/entry-requirements)
+[Next:Entry requirements](/foreign-travel-advice/ukraine/entry-requirements)
 
 [View a printable version of the whole guide](/foreign-travel-advice/ukraine/print)

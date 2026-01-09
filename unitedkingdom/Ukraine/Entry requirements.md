@@ -132,12 +132,8 @@ Ukraine’s border with Russia is currently closed.
 
 FCDO advises against all travel to Russia. See [FCDO Travel Advice for Russia](https://www.gov.uk/foreign-travel-advice/russia).
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/ukraine)
+[Previous:Warnings and insurance](/foreign-travel-advice/ukraine)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/ukraine/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/ukraine/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/ukraine/print)

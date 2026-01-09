@@ -43,12 +43,8 @@ In theory foreign nationals need to provide their passport and a special permit 
 
 The Crimean sea ports of Kerch, Sevastopol, Feodosia, Yalta and Yevpatoria have been designated by the Ukrainian authorities as closed to international shipping.
 
-[Previous
-:
-Safety and security](/foreign-travel-advice/ukraine/safety-and-security)
+[Previous:Safety and security](/foreign-travel-advice/ukraine/safety-and-security)
 
-[Next
-:
-Health](/foreign-travel-advice/ukraine/health)
+[Next:Health](/foreign-travel-advice/ukraine/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/ukraine/print)

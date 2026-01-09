@@ -10,7 +10,7 @@ UK Counter Terrorism Policing has information and advice on [staying safe abroad
 
 ### Terrorism in Paraguay
 
-Terrorist attacks in Paraguay cannot be ruled out.
+Although there’s no recent history of terrorism in Paraguay, attacks cannot be ruled out.
 
 ## Political situation
 
@@ -132,12 +132,8 @@ Heavy rainfall and flooding can affect several areas, including some areas of As
 
 During especially hot and dry periods a single spark or flame can start a wildfire. Report fires to the emergency services immediately.
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/paraguay/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/paraguay/entry-requirements)
 
-[Next
-:
-Regional risks](/foreign-travel-advice/paraguay/regional-risks)
+[Next:Regional risks](/foreign-travel-advice/paraguay/regional-risks)
 
 [View a printable version of the whole guide](/foreign-travel-advice/paraguay/print)

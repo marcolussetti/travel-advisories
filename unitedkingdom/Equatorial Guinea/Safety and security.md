@@ -16,7 +16,7 @@ The political situation has been calm in recent years, but police, military or s
 
 ## Commercial disputes
 
-The authorities can stop you from leaving the country if you’re involved in a commercial dispute. There have been occasions when expatriate staff of foreign companies have been confined to the country for prolonged periods.
+The authorities can stop you from leaving the country if you’re involved in a commercial dispute. There have been occasions when expatriate staff of foreign companies have been detained or confined to the country for prolonged periods. If you are detained, you could face months or years of imprisonment. Legal processes can be lengthy and complex.
 
 ## Crime
 
@@ -92,12 +92,8 @@ There have been armed attacks on commercial shipping vessels in the Gulf of Guin
 
 If you’re travelling by sea, [read about the regional risks at sea](https://www.gov.uk/guidance/sea-river-and-piracy-safety).
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/equatorial-guinea/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/equatorial-guinea/entry-requirements)
 
-[Next
-:
-Health](/foreign-travel-advice/equatorial-guinea/health)
+[Next:Health](/foreign-travel-advice/equatorial-guinea/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/equatorial-guinea/print)

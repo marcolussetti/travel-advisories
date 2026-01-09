@@ -21,12 +21,8 @@ A small guerrilla-style group calling itself the Ejercito del Pueblo Paraguayo (
 
 Illegal cross-border activities are common in this area, centred around drug trafficking.
 
-[Previous
-:
-Safety and security](/foreign-travel-advice/paraguay/safety-and-security)
+[Previous:Safety and security](/foreign-travel-advice/paraguay/safety-and-security)
 
-[Next
-:
-Health](/foreign-travel-advice/paraguay/health)
+[Next:Health](/foreign-travel-advice/paraguay/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/paraguay/print)

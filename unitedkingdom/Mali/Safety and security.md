@@ -36,6 +36,7 @@ Attacks could be indiscriminate and occur at any time, including in places frequ
 
 Examples of recent significant attacks include:
 
+* from September 2025, there has been an increase in attacks targeting fuel convoys in Mali, particularly in southern and western Mali
 * in June 2025, JNIM claimed to kill more than 150 soldiers, in multiple attacks targeting military bases in Boulkessi, Timbuktu and Mahou
 * in March and May 2025, there were two separate attacks against a police station and a military base which damaged vehicles and infrastructure in Kati, approximately 15km from Bamako city centre
 * in February 2025, a roadside bomb killed two people and injured others in a convoy that was travelling on the road linking Kati to Soribougou
@@ -43,10 +44,6 @@ Examples of recent significant attacks include:
 * in July 2024, at least 7 civilians were killed by an indiscriminate motorcycle attack in an IDP camp in Mondoro, Gao Region
 * in June 2024, ISSP claimed responsibility for an attack which killed or wounded on the route between Menaka and Ansongo
 * in May 2024, 9 people were abducted and killed in an attack in Koundi locality, near Timbuktu
-* in 2023, a project worker for a humanitarian organisation, Action Against Hunger, was killed in Gao Region
-* in 2023, a roadside bomb killed 3 people and wounded 16 others in the Cercle de Bankass, in Mali’s central region of Bandiagara
-* in 2023, more than 60 people were killed in a suspected jihadist attack on a river boat near Abakoira in the north of Mali
-* from August 2023 to January 2024, JNIM repeatedly shelled Timbuktu, including the airport, resulting in the suspension of some flights
 
 This continues a historical trend of terrorists attacking military bases and personnel, sometimes including foreign military, often leading to the deaths of soldiers, civilians and others.
 

@@ -1,11 +1,11 @@
 {
     "name": "Ukraine",
-    "update_reason": "New information about dual nationals returning to the UK (See 'Dual nationals' on the 'Warnings and insurance' page).",
+    "update_reason": "Information concerning a potentially significant air attack that may occur at any time over the next several days (Warnings and Insurance).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Ukraine/Warnings and insurance.md",
-            "update_date": "2025-12-10T16:06:09+00:00"
+            "update_date": "2026-01-08T23:10:05+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Ukraine/Getting help.md"
         }
     ],
-    "update_date": "2025-12-10T16:06:09+00:00"
+    "update_date": "2026-01-08T23:10:05+00:00"
 }

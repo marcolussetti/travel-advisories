@@ -161,7 +161,7 @@ If you see a wildfire, call the emergency services on 112. Follow any advice fro
 
 ### Flooding
 
-Parts of central Bosnia and Herzegovina are severely affected by floods and landslides due to heavy rain. Road and rail links between Sarajevo and Mostar are severely impacted. Check and follow advice from local authorities.
+Parts of Bosnia and Herzegovina are currently severely affected by heavy snowfall. In other areas, rainfall and snowmelt have increased the risk of flooding and landslides. Road and rail links may be affected. Check and follow advice from local authorities.
 
 Flash floods and landslides are a risk in all parts of Bosnia and Herzegovina after heavy rain. Follow instructions from local officials and traffic police.
 
@@ -169,12 +169,8 @@ Flash floods and landslides are a risk in all parts of Bosnia and Herzegovina af
 
 Earthquakes and small tremors are recorded throughout the year, usually without serious consequences. The US Federal Emergency Management Agency website has advice about [what to do before, during and after an earthquake](https://www.ready.gov/earthquakes).
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/bosnia-and-herzegovina/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/bosnia-and-herzegovina/entry-requirements)
 
-[Next
-:
-Health](/foreign-travel-advice/bosnia-and-herzegovina/health)
+[Next:Health](/foreign-travel-advice/bosnia-and-herzegovina/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/bosnia-and-herzegovina/print)

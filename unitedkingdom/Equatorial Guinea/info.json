@@ -1,11 +1,11 @@
 {
     "name": "Equatorial Guinea",
-    "update_reason": "New information about dual nationals returning to the UK (\u2018Entry requirements\u2019 page).",
+    "update_reason": "Updated information on commercial disputes (\u2018Safety and security\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Equatorial Guinea/Warnings and insurance.md",
-            "update_date": "2025-12-10T13:31:39+00:00"
+            "update_date": "2026-01-08T10:25:07+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Equatorial Guinea/Getting help.md"
         }
     ],
-    "update_date": "2025-12-10T13:31:39+00:00"
+    "update_date": "2026-01-08T10:25:07+00:00"
 }

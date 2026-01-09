@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   19 December 2025
+:   9 January 2026
 
 Updated:
-:   18 December 2025
+:   8 January 2026
 
 Latest update:
-:   "Addition of information and advice about planned road blockades across La Paz from 19 December (Summary page)."
+:   Updated information on road blockades ('Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/672ccc5a62831268b0b1a328/FCDO__TA__098_-_Bolivia_Travel_Advice_Ed1__WEB_.jpg)
 
@@ -20,7 +20,9 @@ Your travel insurance could be invalidated if you travel against advice from the
 
 FCDO advises against all but essential travel to the Chapare region of Cochabamba Department including Villa Tunari and highway routes 4 and 24 that pass through Chapare.
 
-The transport union in Bolivia has announced extensive road blockades across La Paz starting from Friday 19 December, including on roads to and from airports. These blockades are expected to spread to other regions and cities across Bolivia. This will restrict public and private transport services.
+## Road blockades
+
+Extensive road blockades have been announced in Bolivia. Due to the blockades, the city of La Paz is cut off from Copacabana, Oruro, Cochabamba, Santa Cruz, Potosí and Sucre.
 
 Avoid large crowds and demonstrations, and do not attempt to cross blockades. Check [road status updates from the Bolivian road authority](https://transitabilidad.abc.gob.bo/mapa/) (in Spanish) to see which roads are blocked.
 
