@@ -8,15 +8,13 @@ High Degree of Caution
 
 #### **Extreme Weather**
 
-Following Cyclone Ditwah, heavy rains continue in Sri Lanka. Irish citizens are advised to monitor local news updates, follow the instructions of local authorities and contact their airlines or tour operators for up to date information.
-
 On 27 November, Cyclone Ditwah caused severe flooding and landslides across the country. This resulted in fatalities, damage to infrastructure and travel disruptions. These disruptions continue in the most affected areas including Kandy, Nuwara Eliya and the wider Hill Country, and the risk of further landslides and flooding remains.
 
 The south coast of Sri Lanka remains largely unaffected and is operating as normal.
 
-Sri Lanka Tourism has a 24-hour hotline available on 1912.
+Sri Lanka Tourism has a 24-hour hotline available on 1912 and Disaster Management Centre (DMC) for road related issues (landslides) is 177.
 
-Irish citizens are advised to monitor local news and weather reports and follow the instructions of local authorities.
+Irish citizens are advised to monitor local news updates, follow the instructions of local authorities and contact their airlines or tour operators for up to date information.
 
 #### **Honorary Consulate in Colombo**
 

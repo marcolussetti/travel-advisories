@@ -8,9 +8,9 @@ Do Not Travel
 
 **The Department of Foreign Affairs and Trade continues to strongly advise against all travel to Iran for Irish citizens due to the security situation in Iran and the wider region and the risk of arbitrary arrest and detention in Iran. The Department will be very limited in its ability to assist Irish citizens to leave Iran during a crisis situation.**
 
-Following the conflict between Israel and Iran in June 2025 in which significant damage was done to military, nuclear and civilian infrastructure in Tehran and other areas of the country, the security situation remains volatile and could deteriorate quickly.
+In recent days, protests have been taking place in cities across Iran. There are reports of violence and fatalities at these protests, as well as reports that participants have been detained by the Iranian authorities. Any Irish citizens who may be in Iran are strongly advised to avoid large public gatherings, demonstrations and protests and follow the advice of local authorities.
 
-Any such deterioration may cause extensive flight and other travel disruptions, making leaving the country at short notice very challenging. Iran has closed its airspace due to regional unrest several times in the past year; leaving the country via land or sea borders in the event of airspace closure is likely to be very challenging.
+Furthermore, following the conflict between Israel and Iran in June 2025, the security situation remains volatile and could deteriorate quickly. Any such deterioration may cause extensive flight and other travel disruptions, making leaving the country at short notice very challenging. Iran has closed its airspace due to regional unrest several times in the past year; leaving the country via land or sea borders in the event of airspace closure is likely to be very challenging.
 
 In addition, foreign travellers including Irish citizens in Iran are at risk of arbitrary detention by the Iranian authorities, including on charges of espionage. There has been an increase in the number of detentions of foreign nationals recently.
 
