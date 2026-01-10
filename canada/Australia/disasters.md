@@ -2,6 +2,10 @@
 
 ## Natural disasters and climate
 
+### Climate change
+
+Climate change is affecting Australia. Extreme and unusual weather events are becoming more frequent and may affect your travel plans. Monitor local media for the latest information.
+
 ### Bush and forest fires
 
 Bush and forest fires are common between October and April, particularly in areas covered by bushes, long grass or coastal scrub. Elevated fire danger ratings and alert levels may be applied to affected areas. The air quality in areas near active fires may deteriorate due to heavy smoke.
@@ -25,6 +29,12 @@ For current information, consult the relevant state or territory authorities.
 * [Tasmania](http://www.fire.tas.gov.au/)
 * [Victoria](http://www.cfa.vic.gov.au/)
 * [Western Australia](https://www.emergency.wa.gov.au/)
+
+### Heat waves
+
+Humidity and heat may be severe, particularly mid to late summer (December to February).
+
+Know the symptoms of dehydration and heatstroke, which can both be fatal.
 
 ### Rainy season and flooding
 

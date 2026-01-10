@@ -4,16 +4,7 @@
 
 ### Hurricane Melissa
 
-On October 28, 2025, Hurricane Melissa swept across Jamaica as a major hurricane. It caused significant flooding and damage to buildings and infrastructure.
-
-There are significant disruptions to the following essential services:
-
-* transportation, including operations at airports
-* power distribution
-* water and food supply
-* telecommunications networks
-* emergency services
-* medical care
+Infrastructure in the western parishes of Jamaica (St. Elizabeth, Westmoreland, Trelawny, St. James and Hanover) was severely damaged following the passage of Hurricane Melissa in October 2025. In some communities, you may not be able to access essential services such electricity or running water. There is a risk of waterborne and mosquito-borne diseases due to standing water. Health care services may be limited in some areas. Exercise a high degree of caution if travelling to the affected parishes.
 
 ### Hurricane season
 

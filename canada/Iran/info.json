@@ -1,7 +1,7 @@
 {
     "name": "Iran",
-    "update_reason": "Safety and security \u2013 updated information on demonstrations",
-    "update_date": "2026-01-02T15:00:00",
+    "update_reason": "Risk level; Safety and security \u2013 added information on demonstrations",
+    "update_date": "2026-01-09T17:30:00",
     "sections": {
         "risk": "canada/Iran/risk.md",
         "security": "canada/Iran/security.md",

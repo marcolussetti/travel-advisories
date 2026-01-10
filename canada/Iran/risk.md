@@ -18,8 +18,8 @@ The features in this map do not constitute an authoritative source of geographic
 
 ### IRAN - AVOID ALL TRAVEL
 
-[Avoid all travel](#levels "Risk Levels") to Iran due to ongoing tensions in the region, the high risk of arbitrary detention and the unpredictable enforcement of local laws. The Iranian authorities have arrested and/or detained individuals, including foreign and dual nationals, to exert political or diplomatic influence on their governments.
+[Avoid all travel](#levels "Risk Levels") to Iran due to ongoing nationwide demonstrations, tensions in the region, the high risk of arbitrary detention and the unpredictable enforcement of local laws. The Iranian authorities have arrested and/or detained individuals, including foreign and dual nationals, to exert political or diplomatic influence on their governments.
 
-You should leave Iran if you can do so safely. There are commercial flight and overland crossing options.
+You should leave Iran if you can do so safely. There are commercial flight and overland crossing options. However, flight availability could decrease on short notice.
 
 Our ability to provide consular services in Iran is extremely limited.

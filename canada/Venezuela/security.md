@@ -4,7 +4,7 @@
 
 ### Heightened security situation
 
-On January 3, 2026, military strikes took place on several sites in Venezuela, including military facilities, in the city of Caracas and the states of Miranda, Aragua and La Guaira.
+On January 3, 2026, military strikes took place on several sites in Venezuela, including military facilities, in the city of Caracas and the states of Miranda, Aragua and La Guaira. Venezuelan authorities have declared a State of External Commotion, granting them exceptional political, economic and social powers.
 
 The current situation in Venezuela is tense and could escalate quickly.
 
@@ -14,7 +14,7 @@ The Embassy of Canada to Venezuela has not been open since 2019. Our ability to 
 
 If you choose to travel to Venezuela despite this advisory :
 
-* prepare to shelter in place and make sure you have a sufficient supply of essential items such as food and water
+* prepare to shelter in place and make sure you have a sufficient supply of essential items such as food, water, cash and medication
 * monitor developments closely through local and international media
 * register or update your contact information with the [Registration of Canadians abroad](https://travel.gc.ca/travelling/registration) service to receive the latest information from the Government of Canada
 

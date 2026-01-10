@@ -2,6 +2,19 @@
 
 ## Safety and security
 
+### Demonstrations
+
+Since December 28, 2025, protests have erupted across Iran, including in Tehran, in connection with the cost of living and worsening economic conditions. There are ongoing disruptions to telecommunications services, including mobile internet access, as well as clashes between protestors and security forces, resulting in casualties and arrests.
+
+Large-scale political demonstrations, gatherings and violent protests take place unpredictably across Iran. Security forces may strongly repress demonstrators, which may lead to numerous arrests, injuries and casualties. In some cases, arrested individuals were sentenced to death for charges arising from their participation in the demonstrations.
+
+The situation is volatile and could escalate without notice. Even peaceful demonstrations can turn violent at any time. Security forces could use excessive and lethal force to disperse crowds. Protests can also lead to disruptions to traffic and public transportation.
+
+* Avoid areas where demonstrations and large gatherings are taking place
+* Monitor local and international media for information on ongoing demonstrations
+
+[Mass gatherings (large-scale events)](https://travel.gc.ca/travelling/health-safety/mass-gatherings)
+
 ### Tensions in the Middle East
 
 There are ongoing tensions in the region and hostilities could resume with little or no warning. During previous attacks, drones, missiles and other projectiles struck targets in Iran.
@@ -51,19 +64,6 @@ Canadians in Iran are likely to be subject to increased surveillance and scrutin
 * interacting with the local population
 
 Keep a low profile and don’t share your personal information with strangers.
-
-### Demonstrations
-
-Since December 28, 2025, protests have erupted across Iran, including in Tehran, in connection with the cost of living and worsening economic conditions. There have been clashes between protestors and security forces, resulting in casualties and arrests.
-
-Large-scale political demonstrations, gatherings and violent protests take place unpredictably across Iran. Security forces may strongly repress demonstrators, which may lead to numerous arrests, injuries and casualties. In some cases, arrested individuals were sentenced to death for charges arising from their participation in the demonstrations.
-
-The situation is volatile and could escalate without notice. Even peaceful demonstrations can turn violent at any time. Security forces could use excessive and lethal force to disperse crowds. Protests can also lead to disruptions to traffic and public transportation. Disruptions to telecommunications services, including mobile internet access, may occur during large-scale demonstrations.
-
-* Avoid areas where demonstrations and large gatherings are taking place
-* Monitor local and international media for information on ongoing demonstrations
-
-[Mass gatherings (large-scale events)](https://travel.gc.ca/travelling/health-safety/mass-gatherings)
 
 ### Border areas
 

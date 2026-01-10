@@ -1,7 +1,7 @@
 {
     "name": "Honduras",
-    "update_reason": "Safety and security \u2013 removed information on general elections",
-    "update_date": "2026-01-07T15:02:00",
+    "update_reason": "Editorial change",
+    "update_date": "2026-01-09T14:21:00",
     "sections": {
         "risk": "canada/Honduras/risk.md",
         "security": "canada/Honduras/security.md",
