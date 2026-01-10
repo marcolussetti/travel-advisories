@@ -6,9 +6,11 @@ Normal Precautions
 
 ### **Travel Alert**
 
-Following the attack which took place on Bondi Beach on December 14, members of the public have been asked to avoid the area and Irish citizens should continue to follow the advice of local authorities.
+Following the attack which took place on Bondi Beach on December 14, Irish citizens are advised to remain vigalent and follow the advice of local authorities.
 
-If you require assistance, or you are concerned about someone that may have been in the area at the time, New South Wales police have established a Police Public Information and Inquiry Centre (PIIC) that can be contacted on the following number: 0061 800 227 228.
+The Australian Government National Terrorism Threat Level remains at Probable. Security measures may be increased in public places, transport hubs and at major events.
+
+Travellers should stay informed by monitoring local media and official sources and allow extra time to navigate any additional security procedures that may be in place.
 
 Irish citizens can also contact the Department of Foreign Affairs in Dublin on 00353 1 408 2000.
 

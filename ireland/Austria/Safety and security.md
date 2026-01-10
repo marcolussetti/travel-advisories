@@ -1,13 +1,12 @@
 ## Safety and security
 
-A security alert of a suspected attack was issued by authorities on 15 March 2023. People are asked to remain vigilant in crowded and popular inner city places.
+People are asked to remain vigilant in crowded and popular inner city places.
 
 ### **Crime**
 
 Crime remains relatively low in Austria but visitors should take sensible precautions.
 
 * Do not carry credit cards, travel tickets and money together - leave spare cash and valuables in a safe place.
-* Do not carry your passport unless absolutely necessary and leave a photocopy (as well as travel and insurance documents) with family or friends at home.
 
 Be particularly aware of petty theft at Vienna´s largest train stations, Westbahnhof, and Hauptbahnhof. There have also been several recent reports of thefts on the trains between Vienna and Prague/Budapest.
 

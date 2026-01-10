@@ -1,6 +1,10 @@
 ## Embassy contact
 
-If you are an Irish citizen and require urgent assistance in the case of an emergency, please send a WhatsApp or SMS to +98 910 810 5733, detailing the nature of the emergency and your personal details. An Embassy duty officer will respond as soon as possible. These messages will be monitored regularly.
+If you are an Irish citizen in Iran and require urgent assistance in the case of an emergency, please send a WhatsApp or SMS to +98 910 810 5733, or an email to [tehranpublic@dfa.ie](mailto:tehranpublic@dfa.ie), detailing the nature of the emergency and your personal details.
+
+Alternatively, you may contact the Duty Officer at the Department of Foreign Affairs and Trade in Dublin on +353 1 408 2000.
+
+A duty officer will respond as soon as possible. Phone lines and email are monitored 24/7.
 
 Please be aware that we are limited in the help we can offer in an emergency.
 

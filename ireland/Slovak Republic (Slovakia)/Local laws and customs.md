@@ -8,11 +8,11 @@ You should carry your passport or passport card at all times as identification s
 
 ### **Public Transport**
 
-When using public transport, particularly buses or trams, tickets must be validated immediately upon entering the bus or tram. Failure to do so can attract on the spot fines of €50 and inspectors will insist that the fine is paid irrespective of the circumstances.
+When using public transport, particularly buses or trams, tickets must be validated immediately upon entering the bus or tram. Failure to do so can attract on the spot fines and inspectors will insist that the fine is paid irrespective of the circumstances, either on the spot or within 10 days.
 
 ### **Alcohol**
 
-Drinking alcohol in unapproved public places such as squares and parks is prohibited in the Old Town area of Bratislava. There may be exceptions for seasonal markets (such as the Christmas Market) and outside seating areas of restaurants and bars.  But consuming alcohol (for example bought in a supermarket) in other public areas could lead to a fine of €33.
+Drinking alcohol in unapproved public places such as squares and parks is prohibited in the Old Town area of Bratislava. There may be exceptions for seasonal markets (such as the Christmas Market) and outside seating areas of restaurants and bars.  But consuming alcohol (for example bought in a supermarket) in other public areas could lead to a fine.
 
 ### **Antisocial Behaviour**
 
