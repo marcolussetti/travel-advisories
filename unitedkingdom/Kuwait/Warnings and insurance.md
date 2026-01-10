@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   19 December 2025
+:   10 January 2026
 
 Updated:
-:   18 December 2025
+:   9 January 2026
 
 Latest update:
-:   Updated information about penalties for illegal drug offences following the introduction of a new law in Kuwait on 15 December (See 'Illegal drugs penalties' on the 'Safety and security' page).
+:   Updated information about travelling with prescribed medication to Kuwait ('Health' page).
 
 ## Before you travel
 

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   8 January 2026
+:   10 January 2026
 
 Updated:
-:   7 January 2026
+:   9 January 2026
 
 Latest update:
-:   New information about risks of protests (‘Warnings and insurance’ page).
+:   Updated information about risks of protests (‘Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/627e359b8fa8f53f99901991/FCDO__TA__021_-_Iran_Travel_Advice_Ed5__WEB_.jpg)
 
@@ -27,6 +27,8 @@ Find out more about [why FCDO advises against travel](https://www.gov.uk/foreign
 ## Protests
 
 In recent days, protests have been taking place in a number of locations across Iran. There are reports of violence and fatalities, as well as the arrest and detention of protesters by the Iranian authorities.
+
+There is ongoing disruption to communications across Iran, with severe limitations on internet access. Some international flights have also been cancelled. Check with your airline for further information.
 
 If you are at or near a protest, you are at serious risk of arrest. Even if you avoid protests and crowds, British nationals face a very high risk of arrest, questioning and detention in Iran. Monitor media for further updates.
 

@@ -1,11 +1,11 @@
 {
     "name": "Kuwait",
-    "update_reason": "Updated information about penalties for illegal drug offences following the introduction of a new law in Kuwait on 15 December (See 'Illegal drugs penalties' on the 'Safety and security' page).",
+    "update_reason": "Updated information about travelling with prescribed medication to Kuwait ('Health' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Kuwait/Warnings and insurance.md",
-            "update_date": "2025-12-18T09:38:53+00:00"
+            "update_date": "2026-01-09T11:57:22+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Kuwait/Getting help.md"
         }
     ],
-    "update_date": "2025-12-18T09:38:53+00:00"
+    "update_date": "2026-01-09T11:57:22+00:00"
 }

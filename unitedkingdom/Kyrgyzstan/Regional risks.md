@@ -20,12 +20,8 @@ Crossing the borders  can be complex, take local advice if you’re planning on
 
 Check local media reports before you travel to see which border posts are open. Only use officially recognised border crossings. Border crossings can close at short notice.
 
-[Previous
-:
-Safety and security](/foreign-travel-advice/kyrgyzstan/safety-and-security)
+[Previous:Safety and security](/foreign-travel-advice/kyrgyzstan/safety-and-security)
 
-[Next
-:
-Health](/foreign-travel-advice/kyrgyzstan/health)
+[Next:Health](/foreign-travel-advice/kyrgyzstan/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/kyrgyzstan/print)

@@ -18,17 +18,17 @@ When returning to the UK, British citizens must carry a valid [British passport]
 
 ## Visa requirements
 
-You can enter Kyrgyzstan as a visitor for stays of up to 60 days without a visa. You must not stay more than 60 days in any 120-day period.
+You can enter Kyrgyzstan as a visitor for stays of up to 30 calendar days without a visa, for each 60-day period. After this period expires, UK nationals must either leave Kyrgyzstan or obtain the appropriate documents.
 
-To stay longer, or to work or study, see more [information on the available visa](https://evisa.e-gov.kg/get_information.php?lng=en) types.
+To stay longer, to work or study, see more [information on the available visa](https://evisa.e-gov.kg/get_information.php?lng=en) types.
 
-The Kyrgyzstan Ministry of Foreign Affairs has introduced an [e-visa service you can use for these visa types](https://evisa.e-gov.kg/).
+Kyrgyzstan offers an e-visa service for visitors. See [Kyrgyzstan’s official e-visa portal](https://www.evisa.e-gov.kg/)
 
 ### Registering with the authorities
 
-If you’re visiting Kyrgyzstan for more than 60 days, you must [register online with the State Registration Service (SRS)](https://portal.srs.kg/ru/service/e2025f78-a118-40b3-a5f5-284494b185de) (in Kyrgyz and Russian). You must register within 5 days of your entry into Kyrgyzstan for the period of your visa’s validity.
+If you’re visiting Kyrgyzstan for more than 30 calendar  days, you must either leave the territory of Kyrgyzstan before the 30 calendar day period ends, or [register online with the State Registration Service (SRS)](https://portal.srs.kg/ru/service/e2025f78-a118-40b3-a5f5-284494b185de) (in Kyrgyz and Russian). You must register within 5 days of your entry into Kyrgyzstan for the period of your visa’s validity.
 
-If you’re staying with someone who owns a property in Kyrgyzstan for longer than 60 days, you and the property owner must register at the State Registration Service.
+If you’re staying with someone who owns a property in Kyrgyzstan for longer than 30 calendar days, you and the property owner must register at the State Registration Service.
 
 Do not overstay your visa, or exceed your permitted duration of stay, even for a very short period. If you overstay, you could get a fine and possibly be deported. It is not always easy or possible to extend your stay or visa if you want to stay in the country for longer than planned. If you’re travelling overland, make sure you arrive at your intended border crossing in good time before your period of stay or visa expires.
 
@@ -50,12 +50,8 @@ Bring a doctor’s prescription if you travel with prescription medicines and de
 
 If you are planning to take any medication with you, it is recommended that you contact the Kyrgyz Embassy into the UK or a local travel agency for further advice on whether any restrictions apply to the medications you are planning to bring.
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/kyrgyzstan)
+[Previous:Warnings and insurance](/foreign-travel-advice/kyrgyzstan)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/kyrgyzstan/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/kyrgyzstan/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/kyrgyzstan/print)

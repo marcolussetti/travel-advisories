@@ -1,11 +1,11 @@
 {
     "name": "Uganda",
-    "update_reason": "Clarification: Updated information on the upcoming presidential and parliamentary elections, applying for a visa and LGBT+ travellers ('Warnings and insurance' and 'Safety and security' pages).",
+    "update_reason": "Updated information on Presidential and Parliamentary elections in Uganda on 15 January (\u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Uganda/Warnings and insurance.md",
-            "update_date": "2025-12-22T15:40:34+00:00"
+            "update_date": "2026-01-09T11:18:24+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Uganda/Getting help.md"
         }
     ],
-    "update_date": "2025-12-22T15:40:34+00:00"
+    "update_date": "2026-01-09T11:18:24+00:00"
 }

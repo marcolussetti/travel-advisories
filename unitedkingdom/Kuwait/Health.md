@@ -26,6 +26,8 @@ The legal status and regulation of some medicines prescribed or bought in the UK
 
 Read [best practice when travelling with medicines on TravelHealthPro](https://travelhealthpro.org.uk/factsheet/43/medicines-abroad).
 
+Under new rules in Kuwait, all visitors must obtain permission from the Kuwaiti authorities to carry certain prescription drugs before arrival. This requirement applies to many commonly prescribed medications.
+
 ## Healthcare in Kuwait
 
 There is a state medical service with local clinics and several good hospitals. There are also private medical and dental facilities.

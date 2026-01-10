@@ -192,12 +192,8 @@ There is a high risk of earthquakes and tremors are frequent. Familiarise yourse
 
 In the mountains, avalanches and landslides often block roads, particularly in the spring.
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/kyrgyzstan/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/kyrgyzstan/entry-requirements)
 
-[Next
-:
-Regional risks](/foreign-travel-advice/kyrgyzstan/regional-risks)
+[Next:Regional risks](/foreign-travel-advice/kyrgyzstan/regional-risks)
 
 [View a printable version of the whole guide](/foreign-travel-advice/kyrgyzstan/print)

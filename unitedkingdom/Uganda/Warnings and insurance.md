@@ -1,21 +1,25 @@
 # Warnings and insurance
 
 Still current at:
-:   23 December 2025
+:   10 January 2026
 
 Updated:
-:   22 December 2025
+:   9 January 2026
 
 Latest update:
-:   Clarification: Updated information on the upcoming presidential and parliamentary elections, applying for a visa and LGBT+ travellers ('Warnings and insurance' and 'Safety and security' pages).
+:   Updated information on Presidential and Parliamentary elections in Uganda on 15 January (‘Warnings and insurance’ page).
 
 ## Presidential and Parliamentary elections
 
 Presidential and Parliamentary elections are scheduled to be held in Uganda on 15 January 2026.
 
-Previous elections and political events have led to protests and violence, including fatalities. There has also been disruption to the internet and social media.
+Previous elections and political events have led to protests and violence, including fatalities.
 
 Stay away from political gatherings and large crowds and monitor local media to see when and where major protests are likely. Follow local news and the instructions of local authorities.
+
+There has also been disruption to the internet and social media. Make a note of important phone numbers including your airline, travel operator, insurance company and the FCDO’s consular assistance number in case the internet is not accessible.
+
+Consular assistance can be reached 24/7 on +255 22 229 0000 or +44 (0) 20 7008 5000.
 
 ## Before you travel
 

@@ -73,8 +73,6 @@ The Kyrgyz legal system can be slow and getting judgements implemented can be ve
 
 Business associations in Kyrgyzstan may be able to offer you advice. If you get into difficulties due to the actions of state bodies, you can also contact the [Kyrgyzstan ombudsman](https://ombudsman.kg/index.php?option=com_content&view=category&layout=blog&id=114&filter_tag%5b0%5d=&Itemid=176&lang=en) (in Russian and Kyrgyz).
 
-[Previous
-:
-Health](/foreign-travel-advice/kyrgyzstan/health)
+[Previous:Health](/foreign-travel-advice/kyrgyzstan/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/kyrgyzstan/print)
