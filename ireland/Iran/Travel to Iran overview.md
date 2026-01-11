@@ -8,7 +8,7 @@ Do Not Travel
 
 **The Department of Foreign Affairs and Trade continues to strongly advise against all travel to Iran for Irish citizens due to the security situation in Iran and the wider region and the risk of arbitrary arrest and detention in Iran. The Department will be very limited in its ability to assist Irish citizens to leave Iran during a crisis situation.**
 
-**In recent days, protests have been taking place in cities across Iran. There are reports of violence and fatalities at these protests, as well as reports that participants have been detained by the Iranian authorities. We are also aware of disruptions to phone and email communications. Any Irish citizens who may be in Iran are strongly advised to avoid large public gatherings, demonstrations and protests and follow the advice of local authorities.**
+**In recent days, large protests have been taking place in cities across Iran. There are reports of violence and fatalities at these protests, as well as reports that participants have been detained by the Iranian authorities. We are also aware of disruptions to phone (including SMS) and internet communications. Any Irish citizens who may be in Iran are strongly advised to avoid public gatherings, demonstrations and protests and follow the advice of local authorities.**
 
 Furthermore, following the conflict between Israel and Iran in June 2025, the security situation remains volatile and could deteriorate quickly. Any such deterioration may cause extensive flight and other travel disruptions, making leaving the country at short notice very challenging. Iran has closed its airspace due to regional unrest several times in the past year; leaving the country via land or sea borders in the event of airspace closure is likely to be very challenging.
 
@@ -24,7 +24,7 @@ Irish citizens in Iran should register with the Department via the [**Citizens R
 
 Irish citizens in Iran are strongly advised to avoid any protests or large gatherings, and to avoid taking photographs, recording videos or flying drones (the latter is illegal in Iran).
 
-There are ongoing security issues within Iran. The security situation is particularly dangerous in the provinces bordering Pakistan, Afghanistan and Iraq. However security incidents can occur in any part of the country.
+There are ongoing security issues within Iran. The security situation is particularly dangerous in the provinces bordering Pakistan, Afghanistan and Iraq. However, security incidents can occur in any part of the country.
 
 Irish citizens require a visa to enter Iran.
 
@@ -56,7 +56,7 @@ Visitors can contact the emergency services in Iran by dialling the following nu
 * Read our [**‘Know Before You Go’**](https://www.ireland.ie/en/dfa/overseas-travel/know-before-you-go/) guide.
 * Read our [**Consular Assistance Charter**](https://www.ireland.ie/en/dfa/overseas-travel/assistance-abroad/consular-assistance-charter/) that clearly sets out the assistance that the Embassy can provide to citizens in difficulty overseas, and the limits of what the Department can do.
 
-If you are an Irish citizen in Iran and require urgent assistance in the case of an emergency, please send a WhatsApp or SMS to +98 910 810 5733, or an email to [tehranpublic@dfa.ie](mailto:tehranpublic@dfa.ie), detailing the nature of the emergency and your personal details. An Embassy duty officer will respond as soon as possible. These messages will be monitored regularly.
+If you are an Irish citizen in Iran and require urgent assistance in the case of an emergency, please send a WhatsApp or SMS to +98 910 810 5733, or an email to [**tehranpublicmail@dfa.ie**](mailto:tehranpublicmail@dfa.ie), detailing the nature of the emergency and your personal details. If internet or SMS is not working, please call the above number. Please note that communications are severely disrupted in Iran at present.
 
 Alternatively, you may contact the Duty Officer at the Department of Foreign Affairs and Trade in Dublin on +353 1 408 2000.
 
