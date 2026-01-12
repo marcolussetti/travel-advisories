@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   10 January 2026
+:   12 January 2026
 
 Updated:
-:   9 January 2026
+:   11 January 2026
 
 Latest update:
-:   Information on a flight being organised from Uyuni and La Paz by the Government of Bolivia departing on Saturday 10 January (Warnings and Insurance page)
+:   Removal of information relating to a flight organised by the Government of Bolivia on 10 January (Warnings and Insurance page)
 
 ![](https://assets.publishing.service.gov.uk/media/672ccc5a62831268b0b1a328/FCDO__TA__098_-_Bolivia_Travel_Advice_Ed1__WEB_.jpg)
 
@@ -27,22 +27,6 @@ Extensive road blockades have been announced in Bolivia. Due to the blockades, t
 Avoid large crowds and demonstrations, and do not attempt to cross blockades. Check [road status updates from the Bolivian road authority](https://transitabilidad.abc.gob.bo/mapa/) (in Spanish) to see which roads are blocked.
 
 Find out more about [why FCDO advises against travel](https://www.gov.uk/foreign-travel-advice/bolivia/safety-and-security).
-
-## One-off flight between Uyuni and La Paz on Saturday 10 January
-
-Due to violent blockades on the roads between Uyuni and La Paz the Bolivian government are offering a flight operated by the Bolivian Air Force. It is important to register as soon as possible as other flights are unlikely to be offered.
-
-Access to the flight is only possible through prior registration using the following [Registration form](https://forms.gle/g2KF2WH13FNUKMj26)
-
-Priority is given to international travellers with urgent outbound connections.
-
-Limited capacity; registration does not guarantee a seat.
-
-Travelers with serious medical conditions or critical situations must immediately contact the designated emergency number indicated on the form.
-
-+591 76788849: This is the message from the Bolivian Ministry of tourism
-
-+591 76788849: It is in English too
 
 ## Before you travel
 
