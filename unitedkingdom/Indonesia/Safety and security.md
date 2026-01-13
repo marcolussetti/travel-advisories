@@ -158,6 +158,8 @@ In the province of Aceh gambling is illegal under Sharia law. Punishment followi
 
 In the province of Aceh, extra-marital sex is illegal under Sharia law and punishable by public caning after a Sharia court process.
 
+Indonesia’s new criminal code imposes penalties for cohabitation and sex outside of marriage if certain members of either party’s immediate family file a complaint.
+
 ### Wildlife, animal products and souvenirs
 
 It’s illegal to buy, sell, kill or capture any protected wild animal or trade its parts without a licence. If you’re caught buying or smuggling illegal wildlife products, you’ll be prosecuted and could receive a prison sentence and a fine.
