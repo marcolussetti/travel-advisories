@@ -2,7 +2,7 @@
 
 ### **Visa**
 
-Irish citizens don’t need a visa to enter Kyrgyzstan if they’re travelling in the country for up to 60 days.
+Irish citizens don’t need a visa to enter Kyrgyzstan if they’re travelling in the country for up to 30 days.
 
 ### **Passport**
 
