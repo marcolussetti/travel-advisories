@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   10 January 2026
+:   14 January 2026
 
 Updated:
-:   9 January 2026
+:   13 January 2026
 
 Latest update:
-:   Updated information on Presidential and Parliamentary elections in Uganda on 15 January (‘Warnings and insurance’ page).
+:   Updated information about an internet outage during the election period in Uganda (‘Warnings and insurance’ page).
 
 ## Presidential and Parliamentary elections
 
@@ -17,9 +17,11 @@ Previous elections and political events have led to protests and violence, incl
 
 Stay away from political gatherings and large crowds and monitor local media to see when and where major protests are likely. Follow local news and the instructions of local authorities.
 
-There has also been disruption to the internet and social media. Make a note of important phone numbers including your airline, travel operator, insurance company and the FCDO’s consular assistance number in case the internet is not accessible.
+The Uganda Communications Commission has announced the temporary suspension of public internet access, sale and registration of new simcards, and outbound data roaming services from 6pm local time on 13 January. There is likely to be an indefinite internet outage from this time.
 
-Consular assistance can be reached 24/7 on +255 22 229 0000 or +44 (0) 20 7008 5000.
+Make a note of important phone numbers including your airline, travel operator, insurance company and the FCDO’s consular assistance number in case the internet is not accessible.
+
+Consular assistance can be reached 24/7 on +256 (0) 312 312 000 or +44 (0) 20 7008 5000.
 
 ## Before you travel
 

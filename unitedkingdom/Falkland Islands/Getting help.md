@@ -2,7 +2,7 @@
 
 The Foreign, Commonwealth & Development Office (FCDO) cannot provide tailored advice for individual trips. Read this travel advice and carry out your own research before deciding whether to travel.
 
-The Falkland Islands is a British Overseas Territory, so there is no British Embassy, and the [Falkland Islands government](https://falklands.gov.fk/government-services) will support you if you need help.
+The Falkland Islands are a British Overseas Territory, so there is no British Embassy, and the [Falkland Islands Government](https://falklands.gov.fk/government-services) will support you if you need help.
 
 ## Emergency services in the Falkland Islands
 
@@ -23,7 +23,7 @@ Find out more about [changing or cancelling travel plans](https://www.gov.uk/gui
 
 ## Support from the Falkland Islands government
 
-If you’re in the Falkland Islands and you need emergency help, [contact the relevant government department](https://www.falklands.gov.fk/government-services).
+If you’re in the Falkland Islands and you need emergency help, contact the relevant [department of the Falkland Islands Government](https://www.falklands.gov.fk/government-services).
 
 ## Get travel advice updates
 
@@ -34,8 +34,6 @@ Follow FCDO:
 * [travel advice on X](https://x.com/fcdotravelgovuk)
 * [travel advice on Facebook](https://www.facebook.com/FCDOTravel/)
 
-[Previous
-:
-Health](/foreign-travel-advice/falkland-islands/health)
+[Previous:Health](/foreign-travel-advice/falkland-islands/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/falkland-islands/print)

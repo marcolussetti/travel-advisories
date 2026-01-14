@@ -1,11 +1,11 @@
 {
     "name": "Uganda",
-    "update_reason": "Updated information on Presidential and Parliamentary elections in Uganda on 15 January (\u2018Warnings and insurance\u2019 page).",
+    "update_reason": "Updated information about an internet outage during the election period in Uganda (\u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Uganda/Warnings and insurance.md",
-            "update_date": "2026-01-09T11:18:24+00:00"
+            "update_date": "2026-01-13T15:34:10+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Uganda/Getting help.md"
         }
     ],
-    "update_date": "2026-01-09T11:18:24+00:00"
+    "update_date": "2026-01-13T15:34:10+00:00"
 }

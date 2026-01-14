@@ -11,7 +11,7 @@ This is particularly important if you have a health condition or are pregnant.
 
 Call 999 and ask for an ambulance. Outside of Stanley, coverage is limited and there may be delays in emergency assistance arriving.
 
-Contact your insurance company quickly if you’re referred to a medical facility for treatment.
+Contact your insurance company quickly if you are referred to a medical facility for treatment.
 
 ## Vaccine recommendations and health risks
 
@@ -39,7 +39,9 @@ You can access free medical care in the Falkland Islands through the UK-Falkland
 * prescribed medicines
 * ambulance travel
 
-You will need proof of UK residency, such as an NHS medical card or passport. You must take out comprehensive travel and medical insurance which includes at least 2 million US dollars for medical evacuation as this is not covered under the UK-Falklands reciprocal healthcare agreement. Other medical costs are also not covered. Find out more about [healthcare for UK citizens in the Falkland Islands](https://www.gov.uk/guidance/uk-reciprocal-healthcare-agreements-with-non-eu-countries#falkland-islands).
+You will need proof of UK residency, such as a passport or NHS medical card.
+
+Medical evacuation is not covered under the UK-Falklands reciprocal healthcare agreement. Therefore you must take out comprehensive travel and medical insurance which includes at least 2 million US dollars. Other medical costs are also not covered. Find out more about [healthcare for UK citizens in the Falkland Islands](https://www.gov.uk/guidance/uk-reciprocal-healthcare-agreements-with-non-eu-countries#falkland-islands).
 
 There is also guidance on [healthcare if you’re living in the Falkland Islands](https://www.falklands.gov.fk/health/).
 
@@ -47,12 +49,8 @@ There is also guidance on [healthcare if you’re living in the Falkland Islands
 
 Read [FCDO guidance on travel and mental health](https://www.gov.uk/guidance/foreign-travel-advice-for-people-with-mental-health-issues). There is also [mental health guidance on TravelHealthPro](https://travelhealthpro.org.uk/factsheet/85/travelling-with-mental-health-conditions).
 
-[Previous
-:
-Safety and security](/foreign-travel-advice/falkland-islands/safety-and-security)
+[Previous:Safety and security](/foreign-travel-advice/falkland-islands/safety-and-security)
 
-[Next
-:
-Getting help](/foreign-travel-advice/falkland-islands/getting-help)
+[Next:Getting help](/foreign-travel-advice/falkland-islands/getting-help)
 
 [View a printable version of the whole guide](/foreign-travel-advice/falkland-islands/print)
