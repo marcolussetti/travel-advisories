@@ -2,29 +2,6 @@
 
 ## Natural disasters and climate
 
-### Flooding in southern Thailand
-
-Heavy rainfall has caused severe flooding across southern provinces of Thailand, including:
-
-* Songkhla
-* Pattani
-* Yala
-* Narathiwat
-
-Recent monsoon rains have resulted in transportation disruptions and damage to infrastructure. Rising water levels have cut access to major roads, including those to the Hat Yai airport.
-
-Local authorities have declared Hat Yai district a disaster zone. Evacuation orders are in effect. If you are in Hat Yai district, you should go to one of the following evacuation centres if you can do so safely:
-
-* the Prince of Songkla University International Convention Center
-* the Songkhla Rajabhat University auditorium
-* the Royal Thai Navy’s Naval Area Command 2
-
-If you are in an affected area:
-
-* monitor local news and weather reports
-* confirm your flight before going to the airport
-* follow the instructions of local authorities, including evacuation and curfew orders
-
 ### Climate change
 
 Climate change is affecting Thailand. Extreme and unusual weather events are becoming more frequent and may affect your travel plans. Monitor local media for the latest information.

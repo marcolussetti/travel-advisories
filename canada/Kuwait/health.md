@@ -198,9 +198,15 @@ Certain prescription medications are only available to Kuwaiti citizens. In some
 
 If you take prescription medications, you’re responsible for determining their legality and availability in Kuwait.
 
-* Bring enough medication for your stay
+The General Administration of Customs strictly regulates the entry of prescription medication, especially controlled drugs containing narcotics and psychotropic substances. If Kuwaiti authorities consider your medication a controlled substance, you must obtain prior authorization from a Kuwaiti Embassy or consulate abroad before entering the country. Failure to do so may result in confiscation and detention.
+
+If you receive permission to bring medication, you may bring a supply for either 15 or 30 days, depending on the medication. All certifications, such as medical reports and official prescriptions, must be submitted to Kuwaiti Customs officials upon arrival in Kuwait.
+
+* Only bring the authorized quantity of your prescription medication for your stay
 * Always keep your medication in the original container and carry a copy of your prescriptions
 * Pack your medication in your carry-on luggage
+
+[Contact information](https://kuwaitembassy.ca/index.php/contact) – Embassy of the State of Kuwait in Ottawa
 
 ### Medical services and facilities
 

@@ -42,15 +42,23 @@ Different entry rules may apply when travelling with a temporary passport or an 
 
 ### Visas
 
-Tourist visa: not required for stays up to 30 days  
-Business visa: not required for stays up to 30 days  
+Tourist visa: required  
+Business visa: required  
 Student visa: required
 
-If you wish to extend your stay in Malawi, contact the Department of Immigration and Citizenship of Malawi. You may be fined upon departure if you overstay the 30-day period without proper authorization.
+You can obtain a 3-month single entry visa or a 6-month multiple-entry visa on arrival at main ports of entry. You can also obtain an e-visa before your departure to Malawi.
 
-Specific documents are required for Canadians volunteering in Malawi.
+[e-Visa System](https://evisa.gov.mw/) – Department of Immigration and Citizenship services of the Republic of Malawi
 
-[Visa information](https://www.immigration.gov.mw/) - Department of Immigration and Citizenship Services, Republic of Malawi
+#### Extending your visa
+
+If you wish to extend your stay in Malawi, contact the Department of Immigration and Citizenship of Malawi. You may be fined upon departure if you overstay without proper authorization.
+
+#### Working and volunteering
+
+You cannot perform any type of work, including volunteer work, on a tourist visa. Contact the Malawi Department of Immigration and citizenship services for information on specific requirements.
+
+[Permit information](https://epermit.gov.mw/)– Department of Immigration and Citizenship Services of the Republic of Malawi
 
 ### Children and travel
 

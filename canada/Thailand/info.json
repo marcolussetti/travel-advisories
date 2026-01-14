@@ -1,7 +1,7 @@
 {
     "name": "Thailand",
-    "update_reason": "Risk levels \u2013 updated regional risk in Songkhla province; Safety and security \u2013 updated information on southern provinces",
-    "update_date": "2025-12-16T13:48:00",
+    "update_reason": "Natural disasters and climate \u2013 removed information on flooding in southern Thailand",
+    "update_date": "2026-01-13T16:02:00",
     "sections": {
         "risk": "canada/Thailand/risk.md",
         "security": "canada/Thailand/security.md",
