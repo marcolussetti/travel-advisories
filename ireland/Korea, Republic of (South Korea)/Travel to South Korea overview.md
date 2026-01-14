@@ -8,7 +8,7 @@ Normal Precautions
 
 South Korea introduced an electronic travel authorisation system called K-ETA in 2021. Under this system, anyone who is eligible for visa free entry to South Korea is usually\* required to obtain K-ETA approval before departure. If you need to apply for a K-ETA, please apply through the [**official K-ETA website**](https://www.k-eta.go.kr/portal/apply/index.do). It can take up to 72 hours for K-ETA application to be processed.
 
-\*Irish nationals who are travelling for short-term visit / business to South Korea are temporarily exempt from K-ETA. The temporary exemption ends on 31 December 2025.
+\*Irish nationals who are travelling for short-term visit / business to South Korea are temporarily exempt from K-ETA. The temporary exemption ends on 31 December 2026.
 
 A valid passport is required for travel to South Korea. Irish passports must be valid for the duration of your time in South Korea. Passport cards cannot be used.
 

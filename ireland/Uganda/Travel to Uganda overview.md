@@ -8,15 +8,19 @@ High Degree of Caution
 
 ### **General Elections will take place in Uganda on Thursday 15 January 2026.**
 
-Uganda has experienced disturbances during previous election periods. Citizens are advised that political demonstrations in Uganda can take a violent turn without warning. Irish citizens in Uganda should avoid all political gatherings including demonstrations, public gatherings and rallies; remain vigilant at all times; and follow local media for updates. Travel around the Uganda may also be affected during the campaigning and election period. Citizens are advised to plan routes accordingly.
+Uganda has experienced disturbances during previous election periods. Citizens are advised that political demonstrations in Uganda can take a violent turn without warning. Past elections have seen internet, mobile network and social media disruptions. As has occurred during past elections, we are aware of current disruptions to phone (including SMS) and internet communications.
 
-Irish citizens are advised to avoid military sites – taking photos of, or near, military or security installations, and some public buildings, may be prohibited.
+Irish citizens in Uganda should avoid all political gatherings including demonstrations, public gatherings and rallies; remain vigilant at all times; and follow local media for updates. Irish citizens are advised to avoid military sites – taking photos of, or near, military or security installations, and some public buildings, may be prohibited.
 
-Irish citizens are encouraged to factor this information into any plans they may have and to visit this page for the most up-to-date information. Irish citizens living in or visiting Uganda – either short of long term – can register their presence [here](https://citizensregistration.dfa.ie/).
+Travel around the Uganda may also be affected during the campaigning and election period. Citizens are advised to plan routes accordingly. Citizens are advised to establish a communications plan with family or contacts in Ireland in case of internet outage.
+
+Irish citizens are encouraged to factor this information into any plans they may have and to visit this page for the most up-to-date information. Irish citizens living in or visiting Uganda – either short of long term – can register their presence [**here**](https://citizensregistration.dfa.ie/).
 
 If there is an emergency, or if you need help and advice, you can contact the Embassy of Ireland Kampala on Tel: +256 417 713 000.
 
 Please note that if you are an Irish citizen and require urgent assistance while the Embassy is closed, contact the main Embassy number, +256 417 713 000, and leave a voice message on the Duty Officer voice mailbox. This mailbox is monitored regularly.
+
+Alternatively, you may contact the Duty Officer at the Department of Foreign Affairs and Trade in Dublin on +353 1 408 2527.
 
 Citizens can also follow the Embassy on X [**@IrlEmbUganda**](https://twitter.com/irlembuganda) to ensure access to relevant updates and alerts.
 
