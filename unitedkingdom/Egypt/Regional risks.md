@@ -60,12 +60,8 @@ The Hala’ib Triangle remains disputed territory between Egypt and Sudan. If yo
 
 The Bir Tawil Trapezoid is unclaimed by either Egypt or Sudan. If you’re in this area and need urgent UK government support, [contact FCDO](https://www.contact.service.csd.fcdo.gov.uk/home) in the last country you travelled through.
 
-[Previous
-:
-Safety and security](/foreign-travel-advice/egypt/safety-and-security)
+[Previous:Safety and security](/foreign-travel-advice/egypt/safety-and-security)
 
-[Next
-:
-Health](/foreign-travel-advice/egypt/health)
+[Next:Health](/foreign-travel-advice/egypt/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/egypt/print)

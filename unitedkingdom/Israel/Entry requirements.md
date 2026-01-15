@@ -158,12 +158,8 @@ There are strict rules about [goods you can take into or out of Israel and Pales
 
 The Israeli Tax Authority provides information on [taking money into or out of Israel](https://www.gov.il/en/departments/guides/guide-requirement-report-and-spend-money-on-israel).
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/israel)
+[Previous:Warnings and insurance](/foreign-travel-advice/israel)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/israel/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/israel/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/israel/print)

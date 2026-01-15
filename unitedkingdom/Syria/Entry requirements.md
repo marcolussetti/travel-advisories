@@ -46,12 +46,8 @@ For details about medical entry requirements and recommended vaccinations, see [
 
 There are strict rules about goods you can take into or out of Syria. You must declare anything that may be prohibited or subject to tax or duty.
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/syria)
+[Previous:Warnings and insurance](/foreign-travel-advice/syria)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/syria/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/syria/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/syria/print)

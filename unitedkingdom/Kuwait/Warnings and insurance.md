@@ -1,13 +1,25 @@
 # Warnings and insurance
 
 Still current at:
-:   10 January 2026
+:   15 January 2026
 
 Updated:
-:   9 January 2026
+:   14 January 2026
 
 Latest update:
-:   Updated information about travelling with prescribed medication to Kuwait ('Health' page).
+:   There is a heightened risk of regional tension. Escalation could lead to travel disruption and other unanticipated impacts (‘Warnings and insurance’ page).
+
+## Regional risks
+
+There is a heightened risk of regional tension. Escalation could lead to travel disruption and other unanticipated impacts.
+
+British nationals should take sensible precautions, considering their own individual circumstances. These include:
+
+* read [If you’re affected by a crisis abroad - GOV.UK](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas). This includes guidance on “how to prepare for a crisis” with suggestions on what you might include in your emergency supplies and “what to do in a crisis”
+* sign up to FCDO Travel Advice email alerts
+* monitor local and international media for the latest information
+* sign up to local information alerts/resources and follow the instructions of the local authorities
+* stay away from areas around security or military facilities
 
 ## Before you travel
 

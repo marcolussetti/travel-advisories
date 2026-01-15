@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   11 December 2025
+:   15 January 2026
 
 Updated:
-:   10 December 2025
+:   14 January 2026
 
 Latest update:
-:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
+:   There is a heightened risk of regional tension. Escalation could lead to travel disruption and other unanticipated impacts (‘Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/68237cb42b7ca0cc347e081e/FCDO__TA__024_-_Libya_Travel_Advice_Ed3__WEB_.jpg)
 
@@ -27,6 +27,18 @@ Find out more about [why the FCDO advises against travel](https://www.gov.uk/for
 ## UK government support
 
 UK government support is limited in Libya. If you are in Libya and need urgent help from the UK government (for example, if you’ve been attacked, arrested or someone has died) [contact the British Embassy in Tunis, Tunisia](https://www.gov.uk/world/organisations/british-embassy-tunis) who provide assistance for British nationals in Libya. In-person support is not available in Libya. If you are a British national already in, or planning to travel to Tripoli, you should have robust security arrangements and contingency plans in place.
+
+## Regional risks
+
+There is a heightened risk of regional tension. Escalation could lead to travel disruption and other unanticipated impacts.
+
+British nationals should take sensible precautions, considering their own individual circumstances. These include:
+
+* read [If you’re affected by a crisis abroad - GOV.UK](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas). This includes guidance on “how to prepare for a crisis” with suggestions on what you might include in your emergency supplies and “what to do in a crisis”
+* sign up to FCDO Travel Advice email alerts
+* monitor local and international media for the latest information
+* sign up to local information alerts/resources and follow the instructions of the local authorities
+* stay away from areas around security or military facilities
 
 ## Before you travel
 
@@ -56,8 +68,6 @@ Follow FCDO:
 * [travel advice on Facebook](https://www.facebook.com/FCDOTravel/)
 * [Travel Aware on Instagram](https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Ftravelaware%2F&is_from_rle)
 
-[Next
-:
-Entry requirements](/foreign-travel-advice/libya/entry-requirements)
+[Next:Entry requirements](/foreign-travel-advice/libya/entry-requirements)
 
 [View a printable version of the whole guide](/foreign-travel-advice/libya/print)

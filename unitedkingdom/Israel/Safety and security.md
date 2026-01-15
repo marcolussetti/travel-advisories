@@ -275,12 +275,8 @@ Roads can flood during extreme weather conditions. Flash flooding is a risk, par
 
 Earthquakes are a risk in Israel and Palestine. The US Federal Emergency Management Agency website has advice about [what to do before, during and after an earthquake](https://www.ready.gov/earthquakes).
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/israel/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/israel/entry-requirements)
 
-[Next
-:
-Regional risks](/foreign-travel-advice/israel/regional-risks)
+[Next:Regional risks](/foreign-travel-advice/israel/regional-risks)
 
 [View a printable version of the whole guide](/foreign-travel-advice/israel/print)

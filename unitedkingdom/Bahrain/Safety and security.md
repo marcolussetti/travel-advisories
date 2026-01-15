@@ -166,12 +166,8 @@ The local authorities are sensitive to the security around the sea areas of the 
 
 Take care when travelling by local sailing boats (‘dhows’). The safety of these vessels may not comply with UK standards. Make sure lifejackets are available.
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/bahrain/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/bahrain/entry-requirements)
 
-[Next
-:
-Health](/foreign-travel-advice/bahrain/health)
+[Next:Health](/foreign-travel-advice/bahrain/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/bahrain/print)

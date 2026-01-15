@@ -64,8 +64,6 @@ Follow FCDO:
 
 The Overseas Business Risk service offers information and advice for [British companies operating overseas in Israel](https://www.gov.uk/government/publications/overseas-business-risk-israel) and [British companies operating overseas in Palestine](https://www.gov.uk/government/publications/overseas-business-risk-palestinian-territories) on how to manage political, economic, and business security-related risks.
 
-[Previous
-:
-Health](/foreign-travel-advice/palestine/health)
+[Previous:Health](/foreign-travel-advice/palestine/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/palestine/print)

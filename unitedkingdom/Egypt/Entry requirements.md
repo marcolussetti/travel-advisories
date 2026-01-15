@@ -80,12 +80,8 @@ You must declare foreign currency worth more than 10,000 US dollars on arrival â
 
 You should declare high value electronic devices and recording equipment when you arrive. Officials are likely to confiscate satellite phones or radio communications equipment unless you have prior clearance from the Ministry of Telecommunications.
 
-[Previous
-:
- Warnings and insurance](/foreign-travel-advice/egypt)
+[Previous: Warnings and insurance](/foreign-travel-advice/egypt)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/egypt/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/egypt/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/egypt/print)

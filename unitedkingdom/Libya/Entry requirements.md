@@ -52,12 +52,8 @@ The exchange of foreign currency into Libyan dinar is tightly controlled by the 
 
 It is illegal to take dinar out of Libya.
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/libya)
+[Previous:Warnings and insurance](/foreign-travel-advice/libya)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/libya/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/libya/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/libya/print)

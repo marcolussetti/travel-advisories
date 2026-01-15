@@ -45,12 +45,8 @@ There is also [guidance on healthcare if you’re living in Israel and Palestine
 
 Read [FCDO guidance on travel and mental health](https://www.gov.uk/guidance/foreign-travel-advice-for-people-with-mental-health-issues). There is also [mental health guidance on TravelHealthPro](https://travelhealthpro.org.uk/factsheet/85/travelling-with-mental-health-conditions).
 
-[Previous
-:
-Regional risks](/foreign-travel-advice/palestine/regional-risks)
+[Previous:Regional risks](/foreign-travel-advice/palestine/regional-risks)
 
-[Next
-:
-Getting help](/foreign-travel-advice/palestine/getting-help)
+[Next:Getting help](/foreign-travel-advice/palestine/getting-help)
 
 [View a printable version of the whole guide](/foreign-travel-advice/palestine/print)

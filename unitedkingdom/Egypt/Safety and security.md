@@ -215,12 +215,8 @@ There have also been fatal train collisions and derailments.
 
 Overcrowding and poor safety standards have caused accidents on Red Sea ferries and Nile cruises.
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/egypt/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/egypt/entry-requirements)
 
-[Next
-:
-Regional risks](/foreign-travel-advice/egypt/regional-risks)
+[Next:Regional risks](/foreign-travel-advice/egypt/regional-risks)
 
 [View a printable version of the whole guide](/foreign-travel-advice/egypt/print)

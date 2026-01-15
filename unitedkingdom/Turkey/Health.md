@@ -61,12 +61,8 @@ The Turkish Ministry of Health provides a list of its approved medical providers
 
 The Foreign, Commonwealth & Development Office (FCDO) does not give any endorsement of the competence or suitability of any practitioner or facility.
 
-[Previous
-:
-Regional risks](/foreign-travel-advice/turkey/regional-risks)
+[Previous:Regional risks](/foreign-travel-advice/turkey/regional-risks)
 
-[Next
-:
-Getting help](/foreign-travel-advice/turkey/getting-help)
+[Next:Getting help](/foreign-travel-advice/turkey/getting-help)
 
 [View a printable version of the whole guide](/foreign-travel-advice/turkey/print)

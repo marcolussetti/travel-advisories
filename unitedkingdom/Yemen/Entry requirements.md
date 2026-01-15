@@ -42,12 +42,8 @@ Import and export of local currency is illegal. There are no restrictions on the
 
 There are not many ATMs outside of Sana’a. US dollars in cash is the most easily convertible currency.
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/yemen)
+[Previous:Warnings and insurance](/foreign-travel-advice/yemen)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/yemen/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/yemen/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/yemen/print)

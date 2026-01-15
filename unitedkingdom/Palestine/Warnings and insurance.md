@@ -1,18 +1,18 @@
 # Warnings and insurance
 
 Still current at:
-:   11 December 2025
+:   15 January 2026
 
 Updated:
-:   10 December 2025
+:   14 January 2026
 
 Latest update:
-:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
+:   There is a heightened risk of regional tension. Escalation could lead to travel disruption and other unanticipated impacts (‘Warnings and insurance’ page).
 
-![](https://assets.publishing.service.gov.uk/media/68d14e43b6c608ff9421b12a/FCDO__TA__022_-_Palestine_Travel_Advice_Ed25__WEB_.jpg)
+![](https://assets.publishing.service.gov.uk/media/69681bfab122b8f5f68d0df4/Palestine_Travel_Advice.jpg)
 
 
-[Download a more detailed map (PDF, 399 KB)](https://assets.publishing.service.gov.uk/media/68d14e44e65dc716bfb1dbf6/FCDO__TA__022_-_Palestine_Travel_Advice_Ed25.pdf)
+[Download a more detailed map (PDF, 397 KB)](https://assets.publishing.service.gov.uk/media/69681bfa58f53a31e87a2306/Palestine_Travel_Advice.pdf)
 
 This travel advice covers Israel and Palestine.
 
@@ -34,26 +34,35 @@ FCDO advises against all travel to:
 
 * Tulkarm Governorate, Jenin Governorate, and Tubas Governorate except Route 90
 
-FCDO advises against all but essential travel to:
+Northern Israel and Occupied Golan Heights
 
-* the rest of the West Bank, except for: East Jerusalem, Bethlehem Governorate, Ramallah Municipality, Jericho municipality and all areas which lie south of it (this includes the Allenby crossing), Highway 1 that links Jerusalem and Tel Aviv and the areas that lie to the south and west of the Highway (this includes Highway 3), and Route 443 and Highway 45 which link Jerusalem and Tel Aviv.
-
-### Northern Israel and Occupied Golan Heights
-
-* FCDO advises against all travel within 500m of the Area of Separation in the occupied Golan Heights (the ‘Alpha line’). Do not attempt to enter the occupied Golan Heights through Syria.
+* FCDO advises against all travel within 500m of the Area of Separation in the occupied Golan Heights (the ‘Alpha line’). Do not attempt to enter the occupied Golan Heights through Syria.
 * FCDO advises against all travel to the Sheba’a Farms and Ghajja
 
-### Northern Israel and Occupied Golan Heights
-
-* FCDO advises against all but essential travel to within 500m of the border with Lebanon.
-
+FCDO advises against all but essential travel to the rest of Israel and Palestine.
 Find out more about [why FCDO advises against travel](https://www.gov.uk/foreign-travel-advice/israel/regional-risks).
+
+## Regional risks
+
+There is a heightened risk of regional tension. Escalation could lead to travel disruption and other unanticipated impacts.
+
+British nationals should take sensible precautions, considering their own individual circumstances. These include:
+
+* read [If you’re affected by a crisis abroad - GOV.UK](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas). This includes guidance on “how to prepare for a crisis” with suggestions on what you might include in your emergency supplies and “what to do in a crisis”
+* sign up to FCDO Travel Advice email alerts
+* monitor local and international media for the latest information
+* sign up to local information alerts/resources and follow the instructions of the local authorities
+* stay away from areas around security or military facilities
 
 ## If you are in Israel and Palestine
 
+Due to ongoing regional tensions, we recommend against all but essential travel to Israel and Palestine. We continue to recommend against all travel to parts of Israel and Palestine.
+
+Due to the ongoing security situation, we have taken the precautionary measure to temporarily withdraw non-essential UK staff and dependents from Tel Aviv. Our embassy continues to operate as normal. The situation could escalate quickly and poses significant risks. Regional tensions may cause international borders (air and land) to close.
+
 If you are in Israel and Palestine, be aware that whilst the frequency of missile and drone attacks has decreased, there is still a risk of rocket and drone attacks throughout Israel. There is a risk of shrapnel from intercepted missiles falling across Israel and Palestine, and possible disruption at Ben Gurion airport in Tel Aviv.
 
-Regional tensions can change quickly, which can cause international borders (air and land) to close. Political tension can cause demonstrations and clashes around anniversaries and significant events.
+Political tension can cause demonstrations and clashes around anniversaries and significant events.
 
 Keep up to date through local media and follow the instructions of Israeli Home Front Command. To find these:
 
@@ -105,8 +114,6 @@ Follow FCDO:
 * [travel advice on Facebook](https://www.facebook.com/FCDOTravel/)
 * [Travel Aware on Instagram](https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Ftravelaware%2F&is_from_rle)
 
-[Next
-:
-Entry requirements](/foreign-travel-advice/palestine/entry-requirements)
+[Next:Entry requirements](/foreign-travel-advice/palestine/entry-requirements)
 
 [View a printable version of the whole guide](/foreign-travel-advice/palestine/print)

@@ -42,12 +42,8 @@ Protests are common in Basra. Stay alert, monitor media reports and keep up to d
 
 Border crossing points with countries neighbouring Iraq may close with little or no notice.
 
-[Previous
-:
-Safety and security](/foreign-travel-advice/iraq/safety-and-security)
+[Previous:Safety and security](/foreign-travel-advice/iraq/safety-and-security)
 
-[Next
-:
-Health](/foreign-travel-advice/iraq/health)
+[Next:Health](/foreign-travel-advice/iraq/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/iraq/print)

@@ -22,12 +22,8 @@ Mount Ararat, in Ağrı Province, is a special military zone. You must have perm
 
 Take extra care if you’re travelling to this area. Keep up to date with local media and follow the advice of the local authorities.
 
-[Previous
-:
-Safety and security](/foreign-travel-advice/turkey/safety-and-security)
+[Previous:Safety and security](/foreign-travel-advice/turkey/safety-and-security)
 
-[Next
-:
-Health](/foreign-travel-advice/turkey/health)
+[Next:Health](/foreign-travel-advice/turkey/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/turkey/print)

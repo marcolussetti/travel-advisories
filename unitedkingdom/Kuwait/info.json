@@ -1,11 +1,11 @@
 {
     "name": "Kuwait",
-    "update_reason": "Updated information about travelling with prescribed medication to Kuwait ('Health' page).",
+    "update_reason": "There is a heightened risk of regional tension. Escalation could lead to travel disruption and other unanticipated impacts (\u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Kuwait/Warnings and insurance.md",
-            "update_date": "2026-01-09T11:57:22+00:00"
+            "update_date": "2026-01-14T21:22:41+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Kuwait/Getting help.md"
         }
     ],
-    "update_date": "2026-01-09T11:57:22+00:00"
+    "update_date": "2026-01-14T21:22:41+00:00"
 }

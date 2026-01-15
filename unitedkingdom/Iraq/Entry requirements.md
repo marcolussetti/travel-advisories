@@ -47,12 +47,8 @@ On entering or exiting Iraq, you must declare:
 * all local currency over 200,000 Iraqi dinars
 * all currency or items valued over 10,000 US Dollars or the same value in any other foreign currency
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/iraq)
+[Previous:Warnings and insurance](/foreign-travel-advice/iraq)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/iraq/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/iraq/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/iraq/print)

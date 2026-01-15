@@ -1,13 +1,25 @@
 # Warnings and insurance
 
 Still current at:
-:   11 December 2025
+:   15 January 2026
 
 Updated:
-:   10 December 2025
+:   14 January 2026
 
 Latest update:
-:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
+:   There is a heightened risk of regional tension. Escalation could lead to travel disruption and other unanticipated impacts (‘Warnings and insurance’ page).
+
+## Regional risks
+
+There is a heightened risk of regional tension. Escalation could lead to travel disruption and other unanticipated impacts.
+
+British nationals should take sensible precautions, considering their own individual circumstances. These include:
+
+* read [If you’re affected by a crisis abroad - GOV.UK](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas). This includes guidance on “how to prepare for a crisis” with suggestions on what you might include in your emergency supplies and “what to do in a crisis”
+* sign up to FCDO Travel Advice email alerts
+* monitor local and international media for the latest information
+* sign up to local information alerts/resources and follow the instructions of the local authorities
+* stay away from areas around security or military facilities
 
 ## Before you travel
 
@@ -37,8 +49,6 @@ Follow FCDO:
 * [travel advice on Facebook](https://www.facebook.com/FCDOTravel/)
 * [Travel Aware on Instagram](https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Ftravelaware%2F&is_from_rle)
 
-[Next
-:
-Entry requirements](/foreign-travel-advice/bahrain/entry-requirements)
+[Next:Entry requirements](/foreign-travel-advice/bahrain/entry-requirements)
 
 [View a printable version of the whole guide](/foreign-travel-advice/bahrain/print)

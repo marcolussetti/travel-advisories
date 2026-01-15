@@ -36,12 +36,8 @@ FCDO advises against all travel to the provinces in Iraq bordering Jordan. See [
 
 Due to the conflict in Israel and Palestine, several Jordanian organisations hold protests near the border on Fridays. Be particularly cautious in areas close to the border.
 
-[Previous
-:
-Safety and security](/foreign-travel-advice/jordan/safety-and-security)
+[Previous:Safety and security](/foreign-travel-advice/jordan/safety-and-security)
 
-[Next
-:
-Health](/foreign-travel-advice/jordan/health)
+[Next:Health](/foreign-travel-advice/jordan/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/jordan/print)

@@ -209,12 +209,8 @@ Many areas of the Gulf are highly sensitive, including near maritime boundaries 
 
 Regional tensions may also affect your route. Vessels operating in the Gulf of Oman, Northern Arabian Sea, Gulf of Aden and Bab El Mandeb regions may be at increased risk of [maritime attack](https://www.gov.uk/guidance/sea-river-and-piracy-safety).
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/qatar/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/qatar/entry-requirements)
 
-[Next
-:
-Health](/foreign-travel-advice/qatar/health)
+[Next:Health](/foreign-travel-advice/qatar/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/qatar/print)

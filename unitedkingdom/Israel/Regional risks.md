@@ -120,12 +120,8 @@ We advise you not to use taxis in the West Bank, because of their involvement in
 
 Avoid using buses in the West Bank and consider the difficulties and risks of travelling between Jerusalem and Ramallah via checkpoints, along Route 60 (especially the junctions near Nablus), Route 443 and other West Bank arterial roads used by both Palestinians and Israelis.
 
-[Previous
-:
-Safety and security](/foreign-travel-advice/israel/safety-and-security)
+[Previous:Safety and security](/foreign-travel-advice/israel/safety-and-security)
 
-[Next
-:
-Health](/foreign-travel-advice/israel/health)
+[Next:Health](/foreign-travel-advice/israel/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/israel/print)

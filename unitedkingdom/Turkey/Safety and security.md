@@ -70,7 +70,8 @@ Among the 4.4 million British travellers that visited Turkey in 2024, 56 cases o
 
 Take extra precautions:
 
-* make sure children and young people are always accompanied by known and trusted people and not left alone with hotel or excursion staff  use reputable providers for any services and excursions, carry out research beforehand, including by consulting your tour operator if you have one
+* make sure children and young people are always accompanied by known and trusted people and not left alone with hotel or excursion staff
+* use reputable providers for any services and excursions, carry out research beforehand, including by consulting your tour operator if you have one
 * don’t unnecessarily share personal details such as, information about your accommodation, personal contact information or social media accounts
 
 See [advice for women travelling abroad](https://www.gov.uk/guidance/advice-for-women-travelling-abroad) and [information for British nationals affected by rape or sexual assault abroad](https://www.gov.uk/guidance/victim-of-rape-and-sexual-assault-abroad)
@@ -252,12 +253,8 @@ If you’re in an affected area:
 * monitor local media
 * follow instructions of local authorities, including evacuation orders
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/turkey/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/turkey/entry-requirements)
 
-[Next
-:
-Regional risks](/foreign-travel-advice/turkey/regional-risks)
+[Next:Regional risks](/foreign-travel-advice/turkey/regional-risks)
 
 [View a printable version of the whole guide](/foreign-travel-advice/turkey/print)

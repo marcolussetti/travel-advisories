@@ -176,12 +176,8 @@ Find out what you can do to prepare for and respond to [extreme weather and natu
 
 In the rainy season from November to March, the Jordanian government sometimes issues flood alerts, particularly along the Jordan Valley. Flood alerts can cause diversions and road closures, affecting drivers and hikers. There is a risk of flash flooding. Be alert to advisories and co-operate with the authorities.
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/jordan/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/jordan/entry-requirements)
 
-[Next
-:
-Regional risks](/foreign-travel-advice/jordan/regional-risks)
+[Next:Regional risks](/foreign-travel-advice/jordan/regional-risks)
 
 [View a printable version of the whole guide](/foreign-travel-advice/jordan/print)

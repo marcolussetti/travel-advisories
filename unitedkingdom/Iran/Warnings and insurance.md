@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   10 January 2026
+:   15 January 2026
 
 Updated:
-:   9 January 2026
+:   14 January 2026
 
 Latest update:
-:   Updated information about risks of protests (‘Warnings and insurance’ page).
+:   Information that due to the security situation, UK staff have been temporarily withdrawn from Iran. Our embassy continues to operate remotely (‘Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/627e359b8fa8f53f99901991/FCDO__TA__021_-_Iran_Travel_Advice_Ed5__WEB_.jpg)
 
@@ -37,6 +37,10 @@ If you are at or near a protest, you are at serious risk of arrest. Even if you 
 In June, Israel and the US conducted military action against Iran targeting a wide range of military, nuclear and civil installations across the country. On 24 June a ceasefire began, however, this remains a fragile situation with the potential to deteriorate quickly and without warning.
 
 ## Limited UK government support
+
+Due to the ongoing security situation, we have taken the precautionary measure to temporarily withdraw UK staff from Iran. Our embassy continues to operate remotely.
+
+The situation could escalate quickly and poses significant risks. We continue to advise against all travel to Iran.
 
 UK government support is extremely limited in Iran. No face-to-face consular assistance will be possible in an emergency and the UK government will not be able to help you if you get into difficulty in Iran.
 

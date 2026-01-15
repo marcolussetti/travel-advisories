@@ -146,12 +146,8 @@ Find out what you can do to [prepare for and respond to extreme weather and natu
 
 Earthquakes are a risk in Syria. These can be high magnitude, cause damage to infrastructure and put lives at risk. The US Federal Emergency Management Agency website has advice about [what to do before, during and after an earthquake](https://www.ready.gov/earthquakes).
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/syria/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/syria/entry-requirements)
 
-[Next
-:
-Health](/foreign-travel-advice/syria/health)
+[Next:Health](/foreign-travel-advice/syria/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/syria/print)

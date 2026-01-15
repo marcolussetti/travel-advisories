@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   11 December 2025
+:   15 January 2026
 
 Updated:
-:   10 December 2025
+:   14 January 2026
 
 Latest update:
-:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
+:   There is a heightened risk of regional tension. Escalation could lead to travel disruption and other unanticipated impacts (‘Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/670e278f30536cb92748313c/FCDO__TA__015_-_Egypt_Travel_Advice_Ed10__WEB_.jpg)
 
@@ -58,6 +58,18 @@ FCDO advises against all but essential travel to the Hala’ib Triangle and the
 
 Find out more about [why FCDO advises against travel](https://www.gov.uk/foreign-travel-advice/egypt/regional-risks).
 
+## Regional risks
+
+There is a heightened risk of regional tension. Escalation could lead to travel disruption and other unanticipated impacts.
+
+British nationals should take sensible precautions, considering their own individual circumstances. These include:
+
+* read [If you’re affected by a crisis abroad - GOV.UK](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas). This includes guidance on “how to prepare for a crisis” with suggestions on what you might include in your emergency supplies and “what to do in a crisis”
+* sign up to FCDO Travel Advice email alerts
+* monitor local and international media for the latest information
+* sign up to local information alerts/resources and follow the instructions of the local authorities
+* stay away from areas around security or military facilities
+
 ## Conflict in Israel and the Palestine
 
 International borders in Israel and Palestine could close at short notice, including the Taba border crossing between Israel and Egypt. Check with local authorities and read [Israel travel advice](https://www.gov.uk/foreign-travel-advice/israel) and [Palestine travel advice](https://www.gov.uk/foreign-travel-advice/palestine) before trying to cross.
@@ -104,8 +116,6 @@ Follow FCDO:
 * [travel advice on Facebook](https://www.facebook.com/FCDOTravel/)
 * [Travel Aware on Instagram](https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Ftravelaware%2F&is_from_rle)
 
-[Next
-:
-Entry requirements](/foreign-travel-advice/egypt/entry-requirements)
+[Next:Entry requirements](/foreign-travel-advice/egypt/entry-requirements)
 
 [View a printable version of the whole guide](/foreign-travel-advice/egypt/print)

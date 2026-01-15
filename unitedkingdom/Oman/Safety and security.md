@@ -263,12 +263,8 @@ If you’re caught in a flash flood:
 
 Follow any instructions or guidance from the Royal Oman Police.
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/oman/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/oman/entry-requirements)
 
-[Next
-:
-Health](/foreign-travel-advice/oman/health)
+[Next:Health](/foreign-travel-advice/oman/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/oman/print)

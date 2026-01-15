@@ -68,12 +68,8 @@ If you have other currency worth more than 5000 US dollars to take out of Turkey
 
 You may need to [demonstrate where the currency came from](https://www.ktb.gov.tr/EN-120418/foreign-exchange.html).
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/turkey)
+[Previous:Warnings and insurance](/foreign-travel-advice/turkey)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/turkey/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/turkey/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/turkey/print)

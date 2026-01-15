@@ -191,12 +191,8 @@ Find out what you can do to [prepare for and respond to extreme weather and natu
 
 In September 2023 Storm Daniel struck eastern Libya, causing severe flooding and significantly damaging critical infrastructure, including hospitals and telecommunications networks. Libya remains vulnerable to severe weather incidents, with flooding impacting cities, including Tripoli and Misrata in December 2024.
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/libya/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/libya/entry-requirements)
 
-[Next
-:
-Regional risks](/foreign-travel-advice/libya/regional-risks)
+[Next:Regional risks](/foreign-travel-advice/libya/regional-risks)
 
 [View a printable version of the whole guide](/foreign-travel-advice/libya/print)

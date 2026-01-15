@@ -94,12 +94,8 @@ There are strict rules about goods you can take into or out of Jordan. You must 
 
 You must [apply for approval to take a drone](https://carc.gov.jo/en/drones) into Jordan at least 10 working days before you travel. If you have not received a permit before you arrive, the authorities will hold your drone at the airport. You can collect it when you leave Jordan.
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/jordan)
+[Previous:Warnings and insurance](/foreign-travel-advice/jordan)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/jordan/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/jordan/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/jordan/print)

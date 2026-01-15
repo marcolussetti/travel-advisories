@@ -77,12 +77,8 @@ You must also give customs officials any other information they request.
 
 If you break these rules, you could be fined or imprisoned, as well as the funds or goods being seized.
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/qatar)
+[Previous:Warnings and insurance](/foreign-travel-advice/qatar)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/qatar/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/qatar/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/qatar/print)

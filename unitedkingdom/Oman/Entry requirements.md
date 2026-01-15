@@ -54,12 +54,8 @@ There are strict rules about [goods you can take into or out of Oman](https://ww
 
 Some UK prescription and over-the-counter medicines are illegal in Oman. Carry a copy of your prescription if you’re bringing medicine. Check with [Oman’s Ministry of Health](https://www.moh.gov.om/en/-/---276) well before you travel.
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/oman)
+[Previous:Warnings and insurance](/foreign-travel-advice/oman)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/oman/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/oman/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/oman/print)

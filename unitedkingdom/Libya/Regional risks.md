@@ -22,12 +22,8 @@ FCDO advises against all but essential travel to all areas of within the city li
 
 The security situation in Misrata is stable despite the presence in the city of several armed groups. Regular policing is the responsibility of the Misrata Security Directorate, the security forces are widely assessed to be the most professional in the western region.
 
-[Previous
-:
-Safety and security](/foreign-travel-advice/libya/safety-and-security)
+[Previous:Safety and security](/foreign-travel-advice/libya/safety-and-security)
 
-[Next
-:
-Health](/foreign-travel-advice/libya/health)
+[Next:Health](/foreign-travel-advice/libya/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/libya/print)

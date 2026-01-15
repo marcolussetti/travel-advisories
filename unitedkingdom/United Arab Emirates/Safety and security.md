@@ -136,7 +136,7 @@ It is illegal to drink or be under the influence of alcohol in a public place an
 
 The legal age for purchasing and drinking alcohol is 21 in Abu Dhabi, Dubai and in all Northern Emirates except Sharjah, where drinking and having alcohol in your possession is illegal.
 
-If you are resident in Dubai and want to buy alcohol to drink at home, you must get a liquor licence. Liquor licences are no longer required for residents in the other Emirates excluding Sharjah..
+If you are resident in Dubai and want to buy alcohol to drink at home, you must get a liquor licence. Liquor licences are no longer required for residents in the other Emirates excluding Sharjah.
 
 Liquor licences are not required in Dubai to purchase and consume alcohol in licenced venues like hotel bars, restaurants, and pubs. However, a liquor licence is required for consuming alcohol in private places like homes or private parties. While this requirement might not be strictly enforced in private settings, it remains a legal requirement.
 

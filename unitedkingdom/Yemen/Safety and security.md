@@ -151,12 +151,8 @@ Find out what you can do to prepare for and respond to [extreme weather and natu
 
 Tropical cyclones sometimes affect parts of the country. Monitor local and [international weather updates](http://severe.worldweather.org/tc/in/).
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/yemen/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/yemen/entry-requirements)
 
-[Next
-:
-Health](/foreign-travel-advice/yemen/health)
+[Next:Health](/foreign-travel-advice/yemen/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/yemen/print)

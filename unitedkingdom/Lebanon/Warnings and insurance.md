@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   17 December 2025
+:   15 January 2026
 
 Updated:
-:   16 December 2025
+:   14 January 2026
 
 Latest update:
-:   This travel advice has been reviewed for accuracy, with edits made throughout.
+:   There is a heightened risk of regional tension. Escalation could lead to travel disruption and other unanticipated impacts (‘Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/68626c163464d9c0ad609cfa/FCDO__TA__023_-_Lebanon_Travel_Advice_Ed17__WEB_.jpg)
 
@@ -91,6 +91,18 @@ FCDO advises against all travel to Akkar Governorate.
 FCDO advises against all travel to the 12 Palestinian refugee camps. See [Palestinian refugee camp locations](https://www.unrwa.org/where-we-work/lebanon) on the UN Relief and Works Agency website.
 
 For further information on why we advise against travel, see [Conflict affecting Lebanon](https://www.gov.uk/foreign-travel-advice/lebanon#conflict-in-neighbouring-israel-and-the-occupied-palestinian-territories-opts) and [Regional risks.](https://www.gov.uk/foreign-travel-advice/lebanon/regional-risks).
+
+## Regional risks
+
+There is a heightened risk of regional tension. Escalation could lead to travel disruption and other unanticipated impacts.
+
+British nationals should take sensible precautions, considering their own individual circumstances. These include:
+
+* read [If you’re affected by a crisis abroad - GOV.UK](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas). This includes guidance on “how to prepare for a crisis” with suggestions on what you might include in your emergency supplies and “what to do in a crisis”
+* sign up to FCDO Travel Advice email alerts
+* monitor local and international media for the latest information
+* sign up to local information alerts/resources and follow the instructions of the local authorities
+* stay away from areas around security or military facilities
 
 ## Conflict affecting Lebanon
 

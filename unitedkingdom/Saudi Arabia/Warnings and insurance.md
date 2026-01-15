@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   24 December 2025
+:   15 January 2026
 
 Updated:
-:   23 December 2025
+:   14 January 2026
 
 Latest update:
-:   Updated with information about the risks from terrorism (‘Safety and security’ page).
+:   There is a heightened risk of regional tension. Escalation could lead to travel disruption and other unanticipated impacts (‘Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/681a1ee1fb59a222d4f17336/FCDO__TA__034_-_Saudi_Arabia_Travel_Advice_Ed3__WEB_.jpg)
 
@@ -26,6 +26,18 @@ FCDO advises against:
 * all but essential travel to areas between 10km and 80km from the border with Yemen
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/saudi-arabia/regional-risks).
+
+## Regional risks
+
+There is a heightened risk of regional tension. Escalation could lead to travel disruption and other unanticipated impacts.
+
+British nationals should take sensible precautions, considering their own individual circumstances. These include:
+
+* read [If you’re affected by a crisis abroad - GOV.UK](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas). This includes guidance on “how to prepare for a crisis” with suggestions on what you might include in your emergency supplies and “what to do in a crisis”
+* sign up to FCDO Travel Advice email alerts
+* monitor local and international media for the latest information
+* sign up to local information alerts/resources and follow the instructions of the local authorities
+* stay away from areas around security or military facilities
 
 ## Before you travel
 

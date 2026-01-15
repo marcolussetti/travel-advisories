@@ -214,12 +214,8 @@ The US Federal Emergency Management Agency website has advice about [what to do 
 
 Sand and dust storms are common during the spring and summer months. Poor visibility can create difficult driving conditions and affect flights.
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/iraq/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/iraq/entry-requirements)
 
-[Next
-:
-Regional risks](/foreign-travel-advice/iraq/regional-risks)
+[Next:Regional risks](/foreign-travel-advice/iraq/regional-risks)
 
 [View a printable version of the whole guide](/foreign-travel-advice/iraq/print)

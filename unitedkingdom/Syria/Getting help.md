@@ -31,8 +31,6 @@ Find out more about [changing or cancelling travel plans](https://www.gov.uk/gui
 * where to get advice if you are in a dispute with a provider
 * how to access previous versions of travel advice to support a claim
 
-[Previous
-:
-Health](/foreign-travel-advice/syria/health)
+[Previous:Health](/foreign-travel-advice/syria/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/syria/print)
