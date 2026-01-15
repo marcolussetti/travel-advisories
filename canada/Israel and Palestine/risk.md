@@ -2,7 +2,7 @@
 
 ## Risk level
 
-[![Risk level map](https://www.international.gc.ca/tama-sgcv_images/maps-cartes/IL/mapeng.png)](#full-screen)
+[![Map unavailable due to ongoing event – see risk level text](https://www.international.gc.ca/tama-sgcv_images/maps-cartes/IL/mapongoingeng.png)](#full-screen)
 
 Disclaimer
 
@@ -12,13 +12,15 @@ The features in this map do not constitute an authoritative source of geographic
 
 ## Israel and Palestine travel advice
 
-![Risk level map](https://www.international.gc.ca/tama-sgcv_images/maps-cartes/IL/mapeng.png)Disclaimer
+![Map unavailable due to ongoing event – see risk level text](https://www.international.gc.ca/tama-sgcv_images/maps-cartes/IL/mapongoingeng.png)Disclaimer
 
 The features in this map do not constitute an authoritative source of geographical information. This map is solely intended to assist Canadians by illustrating the risk levels contained in the Travel Advice and Advisories for this destination. The features in this map do not necessarily represent the views of the Canadian government on international boundaries, nomenclature or political status. The text under the Risk levels section takes precedence over this map.
 
-### Israel - Exercise a high degree of caution
+### ISRAEL - AVOID NON-ESSENTIAL TRAVEL
 
-[Exercise a high degree of caution](#levels "Risk Levels") in Israel due to ongoing tensions in the region.
+[Avoid non-essential travel](#levels "Risk Levels") to Israel due to the unpredictable security situation and ongoing tensions in the region.
+
+Make sure your travel documents and those of your spouse and children are up to date and secure at all times.
 
 ### PALESTINE - AVOID ALL TRAVEL
 

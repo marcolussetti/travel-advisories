@@ -320,7 +320,7 @@
     {
         "destination": "Czechia",
         "risk_level": "Take normal security precautions",
-        "last_updated": "2026-01-06T09:09:54",
+        "last_updated": "2026-01-14T15:45:17",
         "details_url": "https://travel.gc.ca/destinations/czechia"
     },
     {
@@ -595,8 +595,8 @@
     },
     {
         "destination": "Israel and Palestine",
-        "risk_level": "Exercise a high degree of caution (with regional advisories)",
-        "last_updated": "2026-01-06T11:08:52",
+        "risk_level": "Avoid non-essential travel (with regional advisories)",
+        "last_updated": "2026-01-14T20:24:32",
         "details_url": "https://travel.gc.ca/destinations/israel-and-palestine"
     },
     {
@@ -830,7 +830,7 @@
     {
         "destination": "Morocco",
         "risk_level": "Exercise a high degree of caution (with regional advisories)",
-        "last_updated": "2025-12-24T11:31:38",
+        "last_updated": "2026-01-14T13:17:49",
         "details_url": "https://travel.gc.ca/destinations/morocco"
     },
     {
@@ -998,7 +998,7 @@
     {
         "destination": "Qatar",
         "risk_level": "Exercise a high degree of caution",
-        "last_updated": "2025-12-15T14:10:53",
+        "last_updated": "2026-01-14T12:01:38",
         "details_url": "https://travel.gc.ca/destinations/qatar"
     },
     {
@@ -1202,7 +1202,7 @@
     {
         "destination": "Switzerland",
         "risk_level": "Take normal security precautions",
-        "last_updated": "2026-01-07T09:04:11",
+        "last_updated": "2026-01-14T14:40:51",
         "details_url": "https://travel.gc.ca/destinations/switzerland"
     },
     {
@@ -1226,7 +1226,7 @@
     {
         "destination": "Tanzania",
         "risk_level": "Exercise a high degree of caution (with regional advisories)",
-        "last_updated": "2025-12-15T14:10:53",
+        "last_updated": "2026-01-14T13:47:29",
         "details_url": "https://travel.gc.ca/destinations/tanzania"
     },
     {
@@ -1346,7 +1346,7 @@
     {
         "destination": "Venezuela",
         "risk_level": "Avoid all travel",
-        "last_updated": "2026-01-09T16:29:52",
+        "last_updated": "2026-01-14T14:37:13",
         "details_url": "https://travel.gc.ca/destinations/venezuela"
     },
     {

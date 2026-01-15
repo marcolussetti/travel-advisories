@@ -18,13 +18,11 @@ Penalties for possession, use or trafficking of illegal drugs are severe. Convic
 
 [Drugs, alcohol and travel](https://travel.gc.ca/travelling/health-safety/drugs)
 
-### Concealing your face in public places
+### Face coverings
 
-It is illegal to cover your face in public places. This ban is already in force in several cantons and is expected to be implemented nationwide in 2022.
+It is illegal to wear clothing or masks that partially or completely cover the face in public places. Failure to comply can result in a fine. Certain exemptions apply. See the Swiss government’s website for more information.
 
-There is no exemption for tourists or for religious reasons.
-
-Offenders risk a fine.
+[Information on the ban on covering the face in Switzerland](https://www.bj.admin.ch/bj/en/home/gesellschaft/gesetzgebung/archiv/verhuellungsverbot.html) – Swiss Confederation Federal Office of Justice
 
 ### Dual citizenship
 

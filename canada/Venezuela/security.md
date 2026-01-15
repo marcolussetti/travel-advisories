@@ -6,7 +6,7 @@
 
 On January 3, 2026, military strikes took place on several sites in Venezuela, including military facilities, in the city of Caracas and the states of Miranda, Aragua and La Guaira. Venezuelan authorities have declared a State of External Commotion, granting them exceptional political, economic and social powers.
 
-The current situation in Venezuela is tense and could escalate quickly.
+The current situation in Venezuela is tense and could escalate quickly. Armed militias are setting up roadblocks, searching vehicles for support for the United States or evidence of U.S. citizenship.
 
 Borders and airspace could close at short notice. Several airlines have suspended flights to and from Venezuela, reducing options to leave the country.
 

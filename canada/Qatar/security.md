@@ -4,13 +4,11 @@
 
 ### Tensions in the Middle East
 
-Tensions can flare up suddenly in the Middle East, and lead to travel disruptions, including flight cancellations and airspace closures.
+Tensions can flare up suddenly in the Middle East and the Gulf region, which could affect Qatar. They could lead to travel disruptions, including flight cancellations and airspace closures.
 
-### Regional conflicts
+On January 14, 2026, media reports indicate that some military personnel were advised to leave the Al Udeid Air Base.
 
-Conflicts in the Middle East and the Gulf region could affect Qatar. Regional tensions can flare up at any time, resulting in an unpredictable and volatile security situation.
-
-* Monitor the security situation
+* Monitor local and international media to stay informed of the evolving security situation
 * Follow the instructions of local authorities
 
 ### Terrorism
