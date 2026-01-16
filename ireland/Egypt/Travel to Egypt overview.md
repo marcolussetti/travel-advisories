@@ -6,13 +6,17 @@ High Degree of Caution
 
 ### **Travel Alert**
 
-### **Irish citizens are strongly advised against:**
+#### **Regional tensions**
+
+The Embassy of Ireland, Cairo is closely monitoring the current regional situation and advises that Irish citizens exercise a high degree of caution. Escalation could lead to travel disruption and other unanticipated impacts across the region.
+
+#### **Irish citizens are strongly advised against:**
 
 * travel to the Governorate of North Sinai including the Taba-Suez Road where the security situation is extremely dangerous;
 * travel to Gaza via the Rafah border crossing (the vicinity of the Rafah border crossing is particularly dangerous at the moment and the border crossing is currently closed;
 * independent travel to remote desert areas close to the Libyan and Sudanese borders.
 
-### **Irish citizens are advised to arrive by air if travelling to:**
+#### **Irish citizens are advised to arrive by air if travelling to:**
 
 * Sharm El Sheikh, Hurghada and immediate surrounds and Marsa Alam and immediate surrounds;
 * tourist areas in the Nile river (such as Luxor, Aswan and Abu Simbel). Irish citizens should be aware of the hazardous driving conditions in Egypt.

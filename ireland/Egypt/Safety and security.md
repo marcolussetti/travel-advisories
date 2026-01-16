@@ -57,7 +57,7 @@ Egypt is a very popular scuba diving destination. If not fully qualified, please
 
 ### **Transport**
 
-### **Driving**
+#### **Driving**
 
 Driving conditions in Egypt are hazardous, particularly at night outside major cities. Accidents are common and drivers often pay little heed to the rules of the road. Most sign-posts outside major cities are in Arabic only.
 
@@ -70,12 +70,12 @@ If driving:
 * Be aware that driving under the influence of alcohol or drugs is against the law and you risk being detained, fined or banned from driving if caught
 * Keep vehicle doors locked and bags out of sight to prevent opportunistic bag-snatching if stopped at traffic lights.
 
-### **Vehicle Hire**
+#### **Vehicle Hire**
 
 If hiring a vehicle, we advise not to hand over your passport as a form of security. If allowing your passport to be photocopied, keep it in sight at all times.
 
 Check to have adequate insurance and read the small print of the vehicle hire contract (particularly any waiver that will come into effect if the vehicle is damaged).
 
-### **Public Transport**
+#### **Public Transport**
 
 Public transport in Egypt has a poor safety record. There have been numerous accidents in recent years involving buses, micro-buses, trains and metro services which have resulted in a considerable number of deaths, including foreign tourists. The train and metro network has also been the target of terrorist attacks. Where they are available, women should use the women-only carriages of trains.

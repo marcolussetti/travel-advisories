@@ -6,9 +6,7 @@ Normal Precautions
 
 ### **Travel Alert**
 
-Citizens should be aware of the potential for disruption from ongoing protests in Chicago, Illinois, especially in the vicinity of sites connected to ICE. Tensions are currently high and there is potential for clashes with security forces. Citizens should exercise caution in areas near demonstrations.
-
-Visitors to the USA should follow the guidance of national and local authorities and stay fully informed of what is going on by monitoring local news and the social media accounts of the Embassy of Ireland and of the closest Consulate General of Ireland.
+Irish citizens should exercise caution in the Minneapolis-St Paul area, where tensions are high following recent ICE activities. Citizens should follow the advice of local authorities and exercise caution. Visitors to the USA should follow the guidance of national and local authorities and stay fully informed of what is going on by monitoring local news and the social media accounts of the Embassy of Ireland and of the closest Consulate General of Ireland.
 
 ### **General Travel Advice**
 

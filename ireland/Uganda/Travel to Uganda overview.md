@@ -6,7 +6,7 @@ High Degree of Caution
 
 ### **Travel Alert**
 
-### **General Elections will take place in Uganda on Thursday 15 January 2026.**
+#### **General Elections will take place in Uganda on Thursday 15 January 2026.**
 
 Uganda has experienced disturbances during previous election periods. Citizens are advised that political demonstrations in Uganda can take a violent turn without warning. Past elections have seen internet, mobile network and social media disruptions. As has occurred during past elections, we are aware of current disruptions to phone (including SMS) and internet communications.
 
@@ -18,9 +18,9 @@ Irish citizens are encouraged to factor this information into any plans they may
 
 If there is an emergency, or if you need help and advice, you can contact the Embassy of Ireland Kampala on Tel: +256 417 713 000.
 
-Please note that if you are an Irish citizen and require urgent assistance while the Embassy is closed, contact the main Embassy number, +256 417 713 000, and leave a voice message on the Duty Officer voice mailbox. This mailbox is monitored regularly.
+Please note that if you are an Irish citizen and require urgent assistance while the Embassy is closed, contact the main Embassy number, +256 417 713 000, and leave a voice message on the Duty Officer mailbox. This mailbox is monitored regularly.
 
-Alternatively, you may contact the Duty Officer at the Department of Foreign Affairs and Trade in Dublin on +353 1 408 2527.
+Alternatively, you may contact the Duty Officer at the Department of Foreign Affairs and Trade in Dublin on +353 1 408 2000.
 
 Citizens can also follow the Embassy on X [**@IrlEmbUganda**](https://twitter.com/irlembuganda) to ensure access to relevant updates and alerts.
 

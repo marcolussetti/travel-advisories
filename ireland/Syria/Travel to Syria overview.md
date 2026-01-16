@@ -4,6 +4,14 @@
 
 Do Not Travel
 
+### **Travel Alert**
+
+#### **Regional tensions**
+
+The situation in Syria remains volatile, and events could escalate throughout the country with little warning.
+
+The Embassy of Ireland, Cairo is closely monitoring the current regional situation. Escalation could lead to travel disruption and other unanticipated impacts across the region.
+
 ### **General Travel Advice**
 
 Following a decade of conflict and insecurity, Syria remains volatile and dangerous. If you are currently in Syria, we strongly advise you to leave immediately while this is still possible. Ireland has no Embassy in Syria, and if the Honorary Consulate has to close at short notice, it is extremely unlikely that we will be able to provide any consular assistance to Irish citizens in Syria.

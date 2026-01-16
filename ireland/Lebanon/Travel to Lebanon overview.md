@@ -6,21 +6,25 @@ Avoid Non Essential Travel
 
 ### **Travel Alert**
 
-**Irish citizens are strongly advised against all travel to:**
+#### **Regional tensions**
 
-* **Areas south of the Litani River;**
-* **the Beqaa Valley;**
-* **the southern suburbs of Beirut (excluding highway 51 between the airport and central Beirut);**
-* **the** [**12 Palestinian refugee camps**](https://www.unrwa.org/where-we-work/lebanon)**;**
-* **areas within 15km of the border with Syria;**
-* **the city of Tripoli; and**
-* **Akkar Governorate.**
+The situation in Lebanon remains volatile, and events could escalate throughout the country with little warning.
 
-**For the rest of Lebanon, Irish citizens are advised to avoid non-essential travel.**
+The Embassy of Ireland, Cairo is closely monitoring the current regional situation. Escalation could lead to travel disruption and other unanticipated impacts across the region.
 
-The situation in Lebanon remains volatile. **In light of the unpredictability of the situation, events could escalate throughout the country with little warning.**
+#### **In addition, Irish citizens are strongly advised against all travel to:**
 
-Irish citizens in Lebanon should [register](https://www.ireland.ie/en/dfa/overseas-travel/citizens-registration/) with the Embassy of Ireland in Cairo. [KJTAE1] Citizens should be aware that, in the event that the political or security situation deteriorates, we do not have an Embassy in Beirut and the Embassy is likely to be very limited in the assistance that can be provided.
+* Areas south of the Litani River;
+* the Beqaa Valley;
+* the southern suburbs of Beirut (excluding highway 51 between the airport and central Beirut);
+* the [**12 Palestinian refugee camps**](https://www.unrwa.org/where-we-work/lebanon);
+* areas within 15km of the border with Syria;
+* the city of Tripoli; and
+* Akkar Governorate.
+
+For the rest of Lebanon, Irish citizens are advised to avoid non-essential travel.
+
+Irish citizens in Lebanon should [**register**](https://www.ireland.ie/en/dfa/overseas-travel/citizens-registration/) with the Embassy of Ireland in Cairo. Citizens should be aware that, in the event that the political or security situation deteriorates, we do not have an Embassy in Beirut and the Embassy is likely to be very limited in the assistance that can be provided.
 
 Citizens should avoid all gatherings and demonstrations, remain vigilant and follow the instructions of local authorities.
 
