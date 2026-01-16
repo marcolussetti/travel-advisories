@@ -2,6 +2,40 @@
 
 ## Safety and security
 
+### Power outages
+
+To reduce pressure on the electrical network, Cuba schedules long daily power cuts. Sometimes, unexpected nationwide power outages occur and can last more than 24 hours.
+
+Most large hotels and resorts use generators during power outages. However, fuel shortages may impact generator use and the availability of various services, activities and utilities such as food service, light, running water and hot water.
+
+* Monitor local media for the latest information
+* Try to keep your phone charged
+* Plan accordingly
+
+### Shortages
+
+Cuba faces chronic and severe shortages of ‎basic necessities, including:
+
+* food
+* bottled water
+* public water supply
+* medication
+* fuel
+* hard currency
+
+Resorts can be affected by shortages. The timing, location, and type of impacts on resorts vary and are difficult to predict.
+
+Fuel shortages affect a wide range of services. Travelling across the island is extremely challenging. Public transportation services, including taxis, are often disrupted, leaving tourists with few options to travel. Some travellers have been temporarily stranded with a rental car. There are often long line-ups at gas stations that have led to altercations.
+
+Food shortages or food spoilage, as a result of power outages and fuel shortages, can occur even in restaurants and hotels.
+
+Intermittent shortages of tap water provided by municipalities occur, including in Havana. Water shortages may also affect resorts.
+
+* Plan accordingly
+* Bring some supplies with you, including toiletries and medication
+* Keep a supply of water, food and fuel on hand
+* Make sure you always have access to a complete emergency kit
+
 ### Crime
 
 #### Petty crime
@@ -73,36 +107,6 @@ In bars, sex workers, including minors, may be very persistent and intrusive wit
 * Be wary of strangers who seem too friendly
 
 [Overseas fraud](https://travel.gc.ca/travelling/health-safety/overseas-fraud)
-
-### Power outages
-
-To reduce pressure on the electrical network, Cuba schedules long daily power cuts. Sometimes, unexpected nationwide power outages occur and can last more than 24 hours.
-
-Most large hotels and resorts use generators during power outages. However, fuel shortages may impact generator use and the type of services provided.
-
-* Monitor local media for the latest information
-* Try to keep your phone charged
-* Plan accordingly
-
-### Shortages
-
-Cuba faces chronic and severe shortages of ‎basic necessities, including:
-
-* food
-* bottled water
-* public water supply
-* medication
-* fuel
-* hard currency
-
-Fuel shortages affect a wide range of services. Travelling across the island is extremely challenging. Public transportation services, including taxis, are often disrupted, leaving tourists with few options to travel. Some travellers have been temporarily stranded with a rental car. There are often long line-ups at gas stations that have led to altercations.
-
-Intermittent shortages of tap water provided by municipalities occur, including in Havana. Water shortages have affected resorts in the past.
-
-* Plan accordingly
-* Bring some supplies with you, including toiletries and medication
-* Keep a supply of water, food and fuel on hand
-* Make sure you always have access to a complete emergency kit
 
 ### Harassment
 

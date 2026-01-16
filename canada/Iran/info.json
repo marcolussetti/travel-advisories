@@ -1,7 +1,7 @@
 {
     "name": "Iran",
-    "update_reason": "Risk level \u2013 you should leave Iran now; added information on land borders with Armenia and T\u00fcrkiye",
-    "update_date": "2026-01-13T10:09:00",
+    "update_reason": "Risk level \u2013 updated information on visa requirements for Armenia and T\u00fcrkiye",
+    "update_date": "2026-01-15T11:10:00",
     "sections": {
         "risk": "canada/Iran/risk.md",
         "security": "canada/Iran/security.md",

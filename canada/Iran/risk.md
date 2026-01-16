@@ -20,6 +20,6 @@ The features in this map do not constitute an authoritative source of geographic
 
 [Avoid all travel](#levels "Risk Levels") to Iran due to ongoing nationwide demonstrations, tensions in the region, the high risk of arbitrary detention and the unpredictable enforcement of local laws. The Iranian authorities have arrested and/or detained individuals, including foreign and dual nationals, to exert political or diplomatic influence on their governments.
 
-You should leave Iran now if you can do so safely. Many airlines have suspended flights to and from Iran at this time, but there are overland crossing options. The land borders with Armenia and Türkiye are open, and Canadian passport holders don’t require a visa to enter these countries.
+You should leave Iran now if you can do so safely. Many airlines have suspended flights to and from Iran at this time, but there are overland crossing options. The land borders with Armenia and Türkiye are open. Canadian passport holders don’t need a visa to enter Türkiye. However, they do need to obtain a visa on-arrival in Armenia.
 
 Our ability to provide consular services in Iran is extremely limited.
