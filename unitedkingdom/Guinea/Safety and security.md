@@ -14,11 +14,11 @@ Attacks could be indiscriminate including in places visited by foreigners. Stay 
 
 ## Political situation
 
-There was a coup in Guinea in 2021 and the resulting military-backed interim government is still in charge. The situation is changeable and you should remain vigilant, avoid demonstrations and monitor local media.
+While the political environment is currently stable, there is ongoing tension between the government and opposition parties.
 
-Political tensions are high. Protests about the economic situation, such as the lack of electricity, are common. Public gatherings and demonstrations can start with little or no notice and can quickly turn violent. In the past, protestors have ransacked and set fire to several public buildings. In recent years many protestors and bystanders have died during protests and hundreds have been injured.
+Protests linked to economic challenges, such as electricity shortages, occur from time to time. Tensions can rise quickly. Public gatherings and demonstrations can start with little or no warning and may turn violent. In the past, protestors have damaged public buildings, and there have been fatalities and injuries among protestors and bystanders.
 
-Avoid any large demonstrations or rallies, particularly those close to military barracks. Move quickly to a safe place if you see crowds gathering or any signs of disturbances or unrest.
+Stay away from demonstrations, especially near military installations, and monitor reliable, local and international media for updates. If you see crowds forming or signs of unrest, move promptly to a safe location.
 
 ## Security situation
 

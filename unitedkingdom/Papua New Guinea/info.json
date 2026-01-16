@@ -1,11 +1,11 @@
 {
     "name": "Papua New Guinea",
-    "update_reason": "Addition of information on the risks from methanol poisoning ('Safety and security' page).",
+    "update_reason": "New information about dual nationals returning to the UK (\u2018Entry requirements\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Papua New Guinea/Warnings and insurance.md",
-            "update_date": "2025-11-18T10:30:57+00:00"
+            "update_date": "2026-01-15T16:18:15+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Papua New Guinea/Getting help.md"
         }
     ],
-    "update_date": "2025-11-18T10:30:57+00:00"
+    "update_date": "2026-01-15T16:18:15+00:00"
 }

@@ -1,11 +1,11 @@
 {
     "name": "Palestine",
-    "update_reason": "There is a heightened risk of regional tension. Escalation could lead to travel disruption and other unanticipated impacts (\u2018Warnings and insurance\u2019 page).",
+    "update_reason": "CORRECTION: FCDO now advises against all but essential travel to Israel and Palestine and continues to advise against all travel to parts of Israel and Palestine. There is a heightened risk of regional tension. Escalation could lead to travel disruption and other unanticipated impacts (\u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Palestine/Warnings and insurance.md",
-            "update_date": "2026-01-14T22:52:05+00:00"
+            "update_date": "2026-01-15T17:34:18+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Palestine/Getting help.md"
         }
     ],
-    "update_date": "2026-01-14T22:52:05+00:00"
+    "update_date": "2026-01-15T17:34:18+00:00"
 }

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   30 December 2025
+:   16 January 2026
 
 Updated:
-:   29 December 2025
+:   15 January 2026
 
 Latest update:
-:   Removal of information about presidential elections in Guinea.
+:   New information on the political situation in Guinea (‘Safety and security’ page).
 
 ## Before you travel
 

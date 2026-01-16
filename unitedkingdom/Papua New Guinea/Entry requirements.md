@@ -12,6 +12,10 @@ Check with your travel provider that your passport and other travel documents me
 
 You will be denied entry if you do not have a valid travel document or try to use a passport that has been reported lost or stolen.
 
+## Dual nationals
+
+When returning to the UK, British citizens must carry a valid British passport or [proof of right of abode](https://www.gov.uk/right-of-abode). See [Dual Citizenship](https://www.gov.uk/dual-citizenship).
+
 ## Visa requirements
 
 You must have a visa to visit Papua New Guinea. Visas can be obtained in advance online or at a Papua New Guinea (PNG) Embassy or High Commission. Tourist/visitor visas can also be obtained on arrival at Jacksons International Airport in Port Moresby.
@@ -43,12 +47,8 @@ You must declare anything that may be prohibited or subject to tax or duty.
 
 It is illegal to enter Papua New Guinea with many fruits, vegetables and animal products due to local quarantine controls.
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/papua-new-guinea)
+[Previous:Warnings and insurance](/foreign-travel-advice/papua-new-guinea)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/papua-new-guinea/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/papua-new-guinea/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/papua-new-guinea/print)

@@ -30,11 +30,15 @@ A small number of British citizens have either been denied entry to Georgia or h
 
 Some families have reported being denied entry to Georgia due to their child’s passport photo no longer matching their current appearance.
 
-## Travel insurance
+## Insurance upon entry
 
-All visitors to Georgia must have appropriate travel insurance to cover all healthcare needs during their visit. You may be asked for evidence of this, either by your airline at check-in or by immigration authorities when you arrive in Georgia. You may face difficulties if you do not have this evidence.
+All visitors must have appropriate health and accident insurance to cover all healthcare needs during your visit. You may be asked for evidence of this, either by your airline at check-in or by immigration authorities when you arrive in Georgia. You may face difficulties if you do not have this evidence.
 
-Make sure you have [appropriate travel health insurance](https://www.gov.uk/guidance/foreign-travel-insurance) and accessible funds to cover the cost of any medical treatment abroad and repatriation.
+Make sure you have [appropriate travel health insurance](https://www.gov.uk/guidance/foreign-travel-insurance) and accessible funds to cover the cost of any medical treatment abroad and repatriation. The insurance coverage amount must be no less than 30 000 Georgian Lari. The insurance policy may be issued by either a Georgian or a foreign insurance company.
+
+The insurance policy needs to cover the full period of your stay in Georgia, including both arrival and departure dates.
+
+See [Georgian Visa information](https://geoconsul.gov.ge/en/entering-georgia) for full details, including mandatory information that must be included in the insurance policy.
 
 ## Vaccine requirements
 
@@ -54,12 +58,8 @@ For more information on the legal status of a specific medicine, contact the [Re
 
 If you plan to travel with prescription medicine, you must carry a doctor’s prescription and ideally the original packaging.
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/georgia)
+[Previous:Warnings and insurance](/foreign-travel-advice/georgia)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/georgia/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/georgia/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/georgia/print)

@@ -14,7 +14,7 @@ Terrorist attacks in Georgia cannot be ruled out. Attacks could happen anywhere 
 
 ## Political situation
 
-27 November marked one full year of daily political demonstrations. There is a heightened risk of demonstrations and political rallies, some leading to violent confrontation between police and protesters. In Tbilisi these are mainly on Rustaveli Avenue, Chavchavadze Avenue and Heroes’ Square and in other nearby areas, but they can begin or end at different locations across the city, disrupting traffic. Demonstrations are taking place in other cities and towns. Demonstrations generally begin in the evening and some rallies extend into the night. Demonstrations may lead to travel disruption.
+2 January marked 400 consecutive days of daily political demonstrations. There is a heightened risk of demonstrations and political rallies, some leading to violent confrontation between police and protesters. In Tbilisi these are mainly on Rustaveli Avenue, Chavchavadze Avenue and Heroes’ Square and in other nearby areas, but they can begin or end at different locations across the city, disrupting traffic. Demonstrations are taking place in other cities and towns. Demonstrations generally begin in the evening and some rallies extend into the night. Demonstrations may lead to travel disruption.
 
 Tensions can escalate without warning. You should:
 
@@ -178,12 +178,8 @@ The US Federal Emergency Management Agency website has advice about [what to do 
 
 Lightning and wildfires are a risk in summer, particularly in the mountains.
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/georgia/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/georgia/entry-requirements)
 
-[Next
-:
-Regional risks](/foreign-travel-advice/georgia/regional-risks)
+[Next:Regional risks](/foreign-travel-advice/georgia/regional-risks)
 
 [View a printable version of the whole guide](/foreign-travel-advice/georgia/print)

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   11 December 2025
+:   16 January 2026
 
 Updated:
-:   10 December 2025
+:   15 January 2026
 
 Latest update:
-:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
+:   New information on mandatory insurance for visitors upon entering Georgia (see ‘Insurance upon entry’ on the ‘Entry requirements’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/690481e4823bdda9488b24cf/FCDO_TA_018_-_Georgia_Travel_Advice_Ed4_WEB.jpg)
 
@@ -59,8 +59,6 @@ Follow FCDO:
 * [travel advice on Facebook](https://www.facebook.com/FCDOTravel/)
 * [Travel Aware on Instagram](https://www.instagram.com/travelaware/)
 
-[Next
-:
-Entry requirements](/foreign-travel-advice/georgia/entry-requirements)
+[Next:Entry requirements](/foreign-travel-advice/georgia/entry-requirements)
 
 [View a printable version of the whole guide](/foreign-travel-advice/georgia/print)

@@ -152,12 +152,8 @@ There is a risk of flooding and landslides, especially in rural areas and during
 
 Damage caused by heavy rain can make travel difficult.
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/papua-new-guinea/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/papua-new-guinea/entry-requirements)
 
-[Next
-:
-Regional risks](/foreign-travel-advice/papua-new-guinea/regional-risks)
+[Next:Regional risks](/foreign-travel-advice/papua-new-guinea/regional-risks)
 
 [View a printable version of the whole guide](/foreign-travel-advice/papua-new-guinea/print)

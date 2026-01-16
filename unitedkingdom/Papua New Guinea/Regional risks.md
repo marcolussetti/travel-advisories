@@ -24,12 +24,8 @@ The Papua New Guinea government has defence units at its Wutung border post in S
 
 Bougainville Island has been calm since a 2001 peace agreement ended separatist fighting. You should still be cautious, particularly in central and southern Bougainville. There is a risk of lawlessness and violence. The autonomous Bougainville government has designated the mountainous area in central Bougainville around the old Panguna mine a ‘no go zone’. Do not travel to it without prior authorisation.
 
-[Previous
-:
-Safety and security](/foreign-travel-advice/papua-new-guinea/safety-and-security)
+[Previous:Safety and security](/foreign-travel-advice/papua-new-guinea/safety-and-security)
 
-[Next
-:
-Health](/foreign-travel-advice/papua-new-guinea/health)
+[Next:Health](/foreign-travel-advice/papua-new-guinea/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/papua-new-guinea/print)

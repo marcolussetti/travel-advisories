@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   9 January 2026
+:   16 January 2026
 
 Updated:
-:   8 January 2026
+:   15 January 2026
 
 Latest update:
-:   Information concerning a potentially significant air attack that may occur at any time over the next several days (Warnings and Insurance).
+:   New information on the energy situation in Ukraine (' Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/663398524d8bb7378fb6c167/FCDO__TA__044_-_Ukraine_Travel_Advice_Ed12__WEB___1_.jpg)
 
@@ -66,7 +66,7 @@ Conferences and events that are attended by the Ukrainian government and militar
 
 In the event of attacks, follow the advice of the local authorities, including responding to air raid alerts.
 
-Russian attacks on the energy network may result in unscheduled blackouts or emergency power cuts with little notice. Rolling scheduled blackouts may be required in some areas. Electricity outages may also affect district heating and water supplies. Be aware that temperatures may drop below -20°C in the depths of winter.
+The Ukrainian authorities have declared a nationwide energy state of emergency due to sustained Russian attacks that have severely damaged the country’s energy infrastructure. Russian attacks on the energy network may result in unscheduled blackouts or emergency power cuts with little notice. Rolling scheduled blackouts may be required in some areas. Electricity outages may also affect district heating and water supplies. Be aware that temperatures may drop below -20°C in the depths of winter.
 
 Ukraine’s airspace remains closed.
 
@@ -80,7 +80,7 @@ The British Embassy in Kyiv is unable to help you in person. FCDO cannot facilit
 
 ## If you are in Ukraine
 
-Martial law is in place. Information has been received concerning a potentially significant air attack that may occur at any time over the next several days. Follow the instructions of the Ukrainian authorities and check any measures in place in your location, as they will vary by region.
+Martial law is in place. Follow the instructions of the Ukrainian authorities and check any measures in place in your location, as they will vary by region.
 
 If you are in Ukraine, you should:
 

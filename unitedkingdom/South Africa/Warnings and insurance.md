@@ -1,13 +1,17 @@
 # Warnings and insurance
 
 Still current at:
-:   12 December 2025
+:   16 January 2026
 
 Updated:
-:   11 December 2025
+:   15 January 2026
 
 Latest update:
-:   Addition of information about vehicle crime and air travel ('Safety and security' page).
+:   New information about risks from flooding in Kruger National Park, and travel disruption (‘Warnings and insurance’ page).
+
+## Flooding in Kruger National Park
+
+Kruger National Park is currently experiencing severe flooding. Evacuations have taken place and flights to and from Hoedspruit Airport have been cancelled. Check with your travel or accommodation provider about your options and reconsider your itinerary if necessary. Plan your route in advance and ensure routes are safe and accessible. Be aware roads may close at short notice. Follow guidance from local authorities and SAN Parks.
 
 ## Before you travel
 

@@ -46,12 +46,8 @@ The land border with Azerbaijan has been closed since the start of the COVID-19 
 
 If you visit the Udabno caves at the Davit Gareja monastery site, take care not to cross the Georgia-Azerbaijan border. It is unmarked in this area and disputed. There are border guides in the area – seek their advice if you’re unsure.
 
-[Previous
-:
-Safety and security](/foreign-travel-advice/georgia/safety-and-security)
+[Previous:Safety and security](/foreign-travel-advice/georgia/safety-and-security)
 
-[Next
-:
-Health](/foreign-travel-advice/georgia/health)
+[Next:Health](/foreign-travel-advice/georgia/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/georgia/print)

@@ -41,18 +41,12 @@ Medical facilities in Papua New Guinea are very basic. Hospitals often run out o
 
 FCDO has a list of [medical providers in Papua New Guinea](https://www.gov.uk/government/publications/papua-new-guinea-doctors) where some staff will speak English.
 
-There is also [guidance on healthcare if you’re living in Papua New Guinea](https://www.gov.uk/guidance/living-in-papua-new-guinea#health).
-
 ## Travel and mental health
 
 Read [FCDO guidance on travel and mental health](https://www.gov.uk/guidance/foreign-travel-advice-for-people-with-mental-health-issues). There is also [mental health guidance on TravelHealthPro](https://travelhealthpro.org.uk/factsheet/85/travelling-with-mental-health-conditions).
 
-[Previous
-:
-Regional risks](/foreign-travel-advice/papua-new-guinea/regional-risks)
+[Previous:Regional risks](/foreign-travel-advice/papua-new-guinea/regional-risks)
 
-[Next
-:
-Getting help](/foreign-travel-advice/papua-new-guinea/getting-help)
+[Next:Getting help](/foreign-travel-advice/papua-new-guinea/getting-help)
 
 [View a printable version of the whole guide](/foreign-travel-advice/papua-new-guinea/print)

@@ -1,11 +1,11 @@
 {
     "name": "South Africa",
-    "update_reason": "Addition of information about vehicle crime and air travel ('Safety and security' page).",
+    "update_reason": "New information about risks from flooding in Kruger National Park, and travel disruption (\u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/South Africa/Warnings and insurance.md",
-            "update_date": "2025-12-11T15:41:47+00:00"
+            "update_date": "2026-01-15T16:23:06+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/South Africa/Getting help.md"
         }
     ],
-    "update_date": "2025-12-11T15:41:47+00:00"
+    "update_date": "2026-01-15T16:23:06+00:00"
 }

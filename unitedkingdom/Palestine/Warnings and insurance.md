@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   15 January 2026
+:   16 January 2026
 
 Updated:
-:   14 January 2026
+:   15 January 2026
 
 Latest update:
-:   There is a heightened risk of regional tension. Escalation could lead to travel disruption and other unanticipated impacts (‘Warnings and insurance’ page).
+:   CORRECTION: FCDO now advises against all but essential travel to Israel and Palestine and continues to advise against all travel to parts of Israel and Palestine. There is a heightened risk of regional tension. Escalation could lead to travel disruption and other unanticipated impacts (‘Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/69681bfab122b8f5f68d0df4/Palestine_Travel_Advice.jpg)
 
@@ -58,7 +58,7 @@ British nationals should take sensible precautions, considering their own ind
 
 Due to ongoing regional tensions, we recommend against all but essential travel to Israel and Palestine. We continue to recommend against all travel to parts of Israel and Palestine.
 
-Due to the ongoing security situation, we have taken the precautionary measure to temporarily withdraw non-essential UK staff and dependents from Tel Aviv. Our embassy continues to operate as normal. The situation could escalate quickly and poses significant risks. Regional tensions may cause international borders (air and land) to close.
+Due to the ongoing security situation, we have taken the precautionary measure to temporarily move some of our staff and their dependents from Tel Aviv to another location within Israel. Our Embassy continues to operate as normal. The situation could escalate quickly and poses significant risks. Regional tensions may cause international borders (air and land) to close.
 
 If you are in Israel and Palestine, be aware that whilst the frequency of missile and drone attacks has decreased, there is still a risk of rocket and drone attacks throughout Israel. There is a risk of shrapnel from intercepted missiles falling across Israel and Palestine, and possible disruption at Ben Gurion airport in Tel Aviv.
 
