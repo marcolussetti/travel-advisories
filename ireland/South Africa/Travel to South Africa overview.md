@@ -4,6 +4,16 @@
 
 High Degree of Caution
 
+### **Travel Alert**
+
+#### **Flooding in Kruger National Park and surrounding areas (Limpopo and Mpumalanga provinces)**
+
+Kruger National Park and the surrounding areas are currently experiencing severe disruption caused by heavy rainfall and flooding. The South African Weather Service (SAWS) has issued a Red Level 10 weather [alert](https://www.weathersa.co.za/home/warnings), warning of severe impact on roads and settlements and danger to life from rising rivers, and fast-flowing and deep water. SAWS warns large communities may be inaccessible/cut-off for a prolonged period. Flights to and from Hoedspruit Airport have resumed having been suspended, but are subject to local weather conditions.
+
+Parts of Kruger National Park have been closed and evacuated, while South African National Parks (SAN Parks) has [announced](https://www.sanparks.org/news/update-on-severe-weather-warning-day-visitors-into-the-kruger-national-park-temporarily-suspended) that day visitors will not be allowed into Kruger National Park until conditions improve. SAWS’ forecasts report heavy rainfall is likely to continue for the coming days.
+
+The Department of Foreign Affairs and Trade advises that visitors monitor local media for updates, check with your travel or accommodation provider about your options, and reconsider traveling if necessary. Plan your route in advance and ensure routes are safe and accessible. Be aware roads may close at short notice and never drive on a road covered by water. Follow guidance from local authorities and SAN Parks.
+
 ### **General Travel Advice**
 
 Irish citizens who are planning to visit South Africa for less than 90 days, do not require a visa. If you wish to visit for longer than 90 days please consult your nearest [**Embassy or Consulate**](/en/dfa/embassies-in-ireland/) of South Africa before travelling.

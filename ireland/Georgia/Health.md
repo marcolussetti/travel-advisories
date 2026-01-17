@@ -18,7 +18,7 @@ Medical facilities in Tbilisi are available but expensive. Outside Tbilisi, medi
 
 ### **Travel Insurance**
 
-The Embassy can not pay for emergency medical repatriation, repatriation of remains, or for expenses as a result of a personal emergency while abroad. If an appropriate travel insurance policy is purchased, these costs will be covered, provided the terms and conditions have not been broken.
+The Embassy cannot pay for emergency medical repatriation, repatriation of remains, or for expenses as a result of a personal emergency while abroad. If an appropriate travel insurance policy is purchased, these costs will be covered, provided the terms and conditions have not been broken.
 
 Buying comprehensive travel insurance can save a lot of money if something goes wrong. It will also ensure that travellers get the medical attention travellers need, when needed. Hospital bills can quickly run into thousands of euro, and a medical evacuation back to Ireland can cost thousands more.
 

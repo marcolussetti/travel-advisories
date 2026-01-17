@@ -6,9 +6,11 @@ Normal Precautions
 
 ### **General Travel Advice**
 
-Normal precautions are advised, however, mass protests have been taking place in Tbilisi in response to the general election results of 26 October 2024 and the Georgian government’s decision to halt EU accession talks. We therefore advise to avoid large demonstrations and rallies especially in the vicinity of the parliament, and monitor local media.
+Normal precautions are advised, however, frequent protests have been taking place in Tbilisi in response to the general election results of 26 October 2024 and the Georgian government’s decision to halt EU accession talks. We therefore advise to avoid large demonstrations and rallies especially in the vicinity of the parliament, and monitor local media.
 
-Following the conflict with Russia in 2008, the situation has stabilised but remains tense. It is illegal under Georgian law to enter Georgia from Russia via South Ossetia or Abkhazia as there is no official border control and travellers may face criminal prosecution. The Embassy recommends not to travel to these areas and avoid all but essential travel to the areas near the Administrative Boundary Lines (ABLs) as sporadic attacks continue. Do not attempt to cross the land border with Russia.
+Following the conflict with Russia in 2008, the situation has stabilised but remains tense. It is illegal under Georgian law to enter Georgia from Russia via South Ossetia or Abkhazia as there is no official border control and travellers may face criminal prosecution. The Embassy recommends not to travel to these areas and avoid all but essential travel to the areas near the Administrative Boundary Lines (ABLs) as sporadic attacks and incidents can still take place. Do not attempt to cross the land border with Russia.
+
+As of 1 January 2026, all tourists entering Georgia are required to hold a **valid health and accident (travel) insurance** policy and present evidence in physical or electronic form. This policy must cover the full period of your stay in Georgia and the policy coverage amount must be no less than 33 000 GEL. See Entry Requirements Tab for more information.
 
 Caution should be exercised when entering Georgia as foreign nationals have been detained on arrival for possession of medicines that would not normally be problematic in other countries. Visitors are advised to carry a doctor’s prescription if intending to travel with prescription medicine and to declare the medications on a Custom Declaration Form.
 

@@ -10,7 +10,7 @@ The political situation in Georgia has stabilised since the 2008 conflict with R
 
 ### **Border Crossings**
 
-Do not attempt to enter or leave Georgia via the land borders with the Russian Federation (ie Dagestan, Chechnya, Ingushetia, North Ossetia) under any circumstances. The border crossing between the Russian Federation and unoccupied Georgia at Verkhny Lars is not open to tourists.
+Do not attempt to enter or leave Georgia via the land borders with the Russian Federation (i.e. Dagestan, Chechnya, Ingushetia, North Ossetia) under any circumstances. The border crossing between the Russian Federation and unoccupied Georgia at Verkhny Lars is not open to tourists.
 
 It is illegal to enter Georgia via Abkhazia or South Ossetia as there is no official border control. If travellers do so they may face criminal prosecution, which carries a prison sentence of up to four years. If the passport contains entry/exit stamps from the separatist Abkhazian or South Ossetian authorities, the Georgian authorities may consider this as illegal entry into Georgia via an unrecognised border crossing.
 
@@ -19,8 +19,13 @@ It is illegal to enter Georgia via Abkhazia or South Ossetia as there is no offi
 Although Tbilisi itself is considered to be a relatively safe city, normal precautions should be taken when visiting the tourist areas and areas frequented by foreigners:
 
 * Do not carry credit cards, travel tickets and money together - leave spare cash and valuables in a safe place.
-* Do not carry a passport unless absolutely necessary and leave a copy of the passport (as well as travel and insurance documents) with family or friends at home.
+* Do not carry a passport unless absolutely necessary and leave a copy of the passport (as well as travel and insurance documents) with family or friends at home. Ensure that at least one family member in Ireland is aware of your location and travel plans in Georgia. Should an emergency arise communications by email or mobile phone can be difficult.
 * There have been reports of muggings near Narikala Fortress and Mother Georgia in Tbilisi and we recommend that travellers do not walk alone in this area.
+* Avoid showing large sums of money in public and do not use ATMs after dark, especially if alone. Check no one has followed you.
+* Keep a close eye on personal belongings and hold on to them in public places such as trains and bus stations.
+* Avoid dark and unlit streets and stairways, arrange to be picked up or dropped off as close to your hotel or apartment entrance as possible.
+* Do not leave valuables, or bags that may appear to contain valuables, visible in parked cars.
+* Exercise a high level of vigilance in bars, nightclubs and any crowded areas where food and drink are consumed. Spiking of food and drink with drugs can occur. Always keep your drink with you and avoid accepting food or drinks from strangers or new acquaintances. If you do begin to feel strange or unwell, contact a trusted friend straight away who should help take you to a safe place such as the hotel or accommodation where you are staying.
 
 ### **Reporting Crime**
 
