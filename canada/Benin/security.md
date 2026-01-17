@@ -2,15 +2,6 @@
 
 ## Safety and security
 
-### Elections
-
-Legislative and communal elections are scheduled for January 11, 2026.
-
-* Avoid areas where demonstrations and large gatherings are taking place
-* Expect significant security measures and an increased security presence
-* Follow the instructions of local authorities
-* Monitor the media for the latest information
-
 ### Border areas with Burkina Faso, Niger and Nigeria
 
 Armed groups operate along the borders with Burkina Faso, Niger and Nigeria, including in national parks, in the departments of Atacora, Alibori and Borgou, as well as the area north of National Highway 7. Attacks and kidnappings occur in these areas.

@@ -14,9 +14,11 @@ Penalties for possession, use or trafficking of illegal drugs are severe. Convic
 
 ### 2SLGBTQI+ persons
 
-The law of Kazakhstan doesn’t criminalize sexual acts or relationships between individuals of the same sex.
+Kazakh law doesn’t criminalize sexual acts or relationships between individuals of the same sex.
 
-However, 2SLGBTQI+ persons could be discriminated against based on their sexual orientation, gender identity, gender expression, or sex characteristics.
+However, homosexuality is not widely accepted. 2SLGBTQI+ persons have been attacked, harassed, and verbally and physically abused. They could also be discriminated against based on their sexual orientation, gender identity, gender expression, or sex characteristics.
+
+In Kazakhstan, it is illegal to spread “propaganda of non-traditional sexual orientation”. Those found to be in violation of the law could face fines, deportation, or imprisonment.
 
 [Travel and your sexual orientation, gender identity, gender expression and sex characteristics](https://travel.gc.ca/travelling/health-safety/lgbt-travel)
 

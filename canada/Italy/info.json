@@ -1,7 +1,7 @@
 {
     "name": "Italy",
-    "update_reason": "Safety and security \u2013 removed information on Jubilee 2025",
-    "update_date": "2026-01-07T09:02:00",
+    "update_reason": "Editorial change",
+    "update_date": "2026-01-16T12:23:00",
     "sections": {
         "risk": "canada/Italy/risk.md",
         "security": "canada/Italy/security.md",
