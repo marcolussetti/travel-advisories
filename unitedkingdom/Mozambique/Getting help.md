@@ -60,8 +60,6 @@ Telephone: 020 7008 5000 (24 hours)
 
 The Overseas Business Risk service offers [information and advice for British companies operating in Mozambique](https://www.gov.uk/government/publications/overseas-business-risk-mozambique) on how to manage political, economic, and business security-related risks.
 
-[Previous
-:
-Health](/foreign-travel-advice/mozambique/health)
+[Previous:Health](/foreign-travel-advice/mozambique/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/mozambique/print)

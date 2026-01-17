@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   11 December 2025
+:   17 January 2026
 
 Updated:
-:   10 December 2025
+:   16 January 2026
 
 Latest update:
-:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
+:   Addition of information about risks from flooding in low-lying areas, including in the capital, Maputo ('Safety and security' page).
 
 ![](https://assets.publishing.service.gov.uk/media/68b6aa1b11b4ded2da19fcfe/FCDO__TA__028_-_Mozambique_Travel_Advice_Ed11__WEB_.jpg)
 
@@ -44,8 +44,6 @@ FCDO provides advice about risks of travel to help you make informed decisions. 
 
 Follow FCDO travel on [Twitter](https://twitter.com/fcdotravelgovuk), [Facebook](https://www.facebook.com/fcdotravel) and [Instagram](https://www.instagram.com/travelaware/). You can also [sign up to get email notifications](https://www.gov.uk/foreign-travel-advice/mozambique/email-signup) when this advice is updated.
 
-[Next
-:
-Entry requirements](/foreign-travel-advice/mozambique/entry-requirements)
+[Next:Entry requirements](/foreign-travel-advice/mozambique/entry-requirements)
 
 [View a printable version of the whole guide](/foreign-travel-advice/mozambique/print)

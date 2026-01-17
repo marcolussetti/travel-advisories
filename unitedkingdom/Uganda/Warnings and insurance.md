@@ -1,23 +1,23 @@
 # Warnings and insurance
 
 Still current at:
-:   14 January 2026
+:   17 January 2026
 
 Updated:
-:   13 January 2026
+:   16 January 2026
 
 Latest update:
-:   Updated information about an internet outage during the election period in Uganda (‘Warnings and insurance’ page).
+:   Updated information about reports of violent incidents during the election period, including in Kampala (‘Warnings and insurance’ page).
 
 ## Presidential and Parliamentary elections
 
-Presidential and Parliamentary elections are scheduled to be held in Uganda on 15 January 2026.
+Presidential and Parliamentary elections took place in Uganda on 15 January 2026. Results are due to be announced on or before 17 January.
 
-Previous elections and political events have led to protests and violence, including fatalities.
+Previous election campaigns and result announcements have led to protests and violence, including fatalities. There are some current reports of violent incidents, including in Kampala.
 
 Stay away from political gatherings and large crowds and monitor local media to see when and where major protests are likely. Follow local news and the instructions of local authorities.
 
-The Uganda Communications Commission has announced the temporary suspension of public internet access, sale and registration of new simcards, and outbound data roaming services from 6pm local time on 13 January. There is likely to be an indefinite internet outage from this time.
+The Uganda Communications Commission announced the temporary suspension of public internet access, sale and registration of new simcards, and outbound data roaming services from 6pm local time on 13 January. There is likely to be an indefinite internet outage from this time.
 
 Make a note of important phone numbers including your airline, travel operator, insurance company and the FCDO’s consular assistance number in case the internet is not accessible.
 

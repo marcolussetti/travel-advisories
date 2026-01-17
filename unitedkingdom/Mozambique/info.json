@@ -1,11 +1,11 @@
 {
     "name": "Mozambique",
-    "update_reason": "New information about dual nationals returning to the UK (\u2018Entry requirements\u2019 page).",
+    "update_reason": "Addition of information about risks from flooding in low-lying areas, including in the capital, Maputo ('Safety and security' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Mozambique/Warnings and insurance.md",
-            "update_date": "2025-12-10T13:14:52+00:00"
+            "update_date": "2026-01-16T15:40:13+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Mozambique/Getting help.md"
         }
     ],
-    "update_date": "2025-12-10T13:14:52+00:00"
+    "update_date": "2026-01-16T15:40:13+00:00"
 }

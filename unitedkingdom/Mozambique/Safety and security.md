@@ -138,7 +138,7 @@ Only travel by road outside major cities during daylight. Where possible, keep t
 
 Traffic accidents are common in Mozambique due to poor road conditions and low driving standards. Watch for pedestrians on the roads.
 
-Low-lying areas around major rivers flood regularly during the rainy season from November to April, making many roads impassable. Check conditions before travelling. Make sure you have emergency supplies, including a first aid kit.
+Low-lying areas around major rivers flood regularly and at short notice during the rainy season from November to April, making many roads impassable including in the capital, Maputo. Check conditions before travelling. Make sure you have emergency supplies, including a first aid kit.
 
 ### Public transport
 
@@ -158,12 +158,8 @@ Cyclones and floods are common during the rainy season from November to April. T
 
 Monitor local reports and international weather updates from the [World Meteorological Organization](https://severeweather.wmo.int/tc/swi/index.html) and the [National Meteorological Institute (in Portuguese)](https://www.inam.gov.mz/).
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/mozambique/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/mozambique/entry-requirements)
 
-[Next
-:
-Regional risks](/foreign-travel-advice/mozambique/regional-risks)
+[Next:Regional risks](/foreign-travel-advice/mozambique/regional-risks)
 
 [View a printable version of the whole guide](/foreign-travel-advice/mozambique/print)

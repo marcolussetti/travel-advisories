@@ -57,12 +57,8 @@ There are strict rules about goods you can take into or out of Mozambique. You m
 
 Declare 10,000 Mozambican meticais or more in cash. Declare foreign cash or travellers cheques if the value is 5,000 US dollars or more.
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/mozambique)
+[Previous:Warnings and insurance](/foreign-travel-advice/mozambique)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/mozambique/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/mozambique/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/mozambique/print)

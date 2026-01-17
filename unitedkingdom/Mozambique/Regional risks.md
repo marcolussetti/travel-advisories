@@ -22,12 +22,8 @@ Groups with links to Islamist extremism have previously carried out attacks in t
 
 FCDO advise against all travel to the Mecula and Marrupo districts of Niassa Province. There have been recent lethal attacks there within Niassa Special Reserve at hunting lodges visited by international tourists. Groups with links to Islamic extremism have previously carried out attacks in the Mavago district as well, stay aware of your surroundings in this area, as the situation may change without warning.
 
-[Previous
-:
-Safety and security](/foreign-travel-advice/mozambique/safety-and-security)
+[Previous:Safety and security](/foreign-travel-advice/mozambique/safety-and-security)
 
-[Next
-:
-Health](/foreign-travel-advice/mozambique/health)
+[Next:Health](/foreign-travel-advice/mozambique/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/mozambique/print)
