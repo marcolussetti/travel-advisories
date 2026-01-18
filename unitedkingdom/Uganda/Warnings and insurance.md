@@ -1,23 +1,23 @@
 # Warnings and insurance
 
 Still current at:
-:   17 January 2026
+:   18 January 2026
 
 Updated:
-:   16 January 2026
+:   17 January 2026
 
 Latest update:
-:   Updated information about reports of violent incidents during the election period, including in Kampala (‘Warnings and insurance’ page).
+:   Updated information about the announcement of results in Uganda’s Presidential election (‘Warnings and insurance’).
 
 ## Presidential and Parliamentary elections
 
-Presidential and Parliamentary elections took place in Uganda on 15 January 2026. Results are due to be announced on or before 17 January.
+Presidential and Parliamentary elections took place in Uganda on 15 January 2026 and results were announced on the afternoon of 17 January.
 
-Previous election campaigns and result announcements have led to protests and violence, including fatalities. There are some current reports of violent incidents, including in Kampala.
+Previous election campaigns and result announcements have led to protests and violence, including fatalities. There are some reports of violent incidents, including in Kampala, and there have been calls for further protest by opposition figures.
 
-Stay away from political gatherings and large crowds and monitor local media to see when and where major protests are likely. Follow local news and the instructions of local authorities.
+Stay away from political gatherings and large crowds and monitor local media to see when and where major protests may occur. Follow local news and the instructions of local authorities.
 
-The Uganda Communications Commission announced the temporary suspension of public internet access, sale and registration of new simcards, and outbound data roaming services from 6pm local time on 13 January. There is likely to be an indefinite internet outage from this time.
+The Uganda Communications Commission announced the temporary suspension of public internet access, sale and registration of new sim cards, and outbound data roaming services from 6pm local time on 13 January. It is not clear when the suspension will end.
 
 Make a note of important phone numbers including your airline, travel operator, insurance company and the FCDO’s consular assistance number in case the internet is not accessible.
 
