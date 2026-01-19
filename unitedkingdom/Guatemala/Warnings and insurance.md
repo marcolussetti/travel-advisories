@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   19 December 2025
+:   19 January 2026
 
 Updated:
-:   18 December 2025
+:   19 January 2026
 
 Latest update:
-:   New information about a State of Exception in Sololá department of western Guatemala ('Warnings and insurance' page).
+:   Update to reflect 30-day nationwide siege. Likely restrictions and disruptions ('Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/65fac0c89316f5001d64c3c0/FCDO__TA__095_-_Guatemala_Travel_Advice_Ed1__WEB_.jpg)
 
@@ -25,9 +25,15 @@ FCDO advises against all but essential travel to:
 
 Find out more about [why FCDO advises against travel to these areas](https://www.gov.uk/foreign-travel-advice/guatemala/regional-risks).
 
+## State of Siege
+
+The Guatemalan government has declared a 30‑day nationwide state of siege (estado de sitio) effective 18 January 2025, in response to escalating insecurity linked to organised crime and gang activity, including recent attacks on law enforcement and prison riots.
+
+British Nationals should exercise heightened caution. Under the measure, authorities may militarise certain areas, restrict civil liberties such as freedom of movement and assembly, and carry out arrests or home searches without warrants. Some public services may also be disrupted. Please follow guidance of local authorities.
+
 ## State of Exception
 
-The Guatemalan government has declared a 15-day State of Emergency in the municipalities of Santa Catarina Ixtahuacán and Nahualá in Sololá department in western Guatemala, effective from 15 December. This follows violent clashes involving armed security forces linked to territorial disputes. If you plan to visit Lake Atitlán, Quetzaltenango, or nearby towns, check your route in advance, monitor local news, and avoid traveling at night.
+The Guatemalan government declared a State of Emergency in the municipalities of Santa Catarina Ixtahuacán and Nahualá in Sololá department in western Guatemala. This follows violent clashes involving armed security forces linked to territorial disputes. If you plan to visit Lake Atitlán, Quetzaltenango, or nearby towns, check your route in advance, monitor local news, and avoid traveling at night.
 
 Under the State of Emergency, public gatherings are prohibited, road blocks are in force and security forces may intervene to disperse unauthorised gatherings. Restrictions also apply to carrying items that could be used for violence.
 

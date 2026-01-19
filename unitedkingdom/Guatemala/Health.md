@@ -38,8 +38,6 @@ You cannot use British-issued prescriptions in Guatemala. To find a pharmacy (â€
 
 FCDO has a list of [English-speaking doctors in Guatemala](https://www.gov.uk/government/publications/list-of-medical-facilities-in-guatemala-city).
 
-There is also [guidance on healthcare if youâ€™re living in Guatemala](https://www.gov.uk/guidance/living-in-guatemala).
-
 ## Travel and mental health
 
 Read [FCDO guidance on travel and mental health](https://www.gov.uk/guidance/foreign-travel-advice-for-people-with-mental-health-issues). There is also [mental health guidance on TravelHealthPro](https://travelhealthpro.org.uk/factsheet/85/travelling-with-mental-health-conditions).
