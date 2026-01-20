@@ -41,9 +41,9 @@ Recent significant attacks include:
 
 ## Political situation
 
-Presidential and Parliamentary elections are scheduled to be held in Uganda on 15 January 2026.
+Presidential and Parliamentary elections took place in Uganda on 15 January 2026.
 
-Previous elections and political events have led to protests and violence, including fatalities. There has also been disruption to the internet and social media.
+Elections and political events have led to protests and violence, including fatalities. There has also been disruption to the internet and social media.
 
 Political rallies, protests and violent demonstrations in Uganda:
 

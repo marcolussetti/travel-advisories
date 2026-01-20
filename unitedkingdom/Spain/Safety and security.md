@@ -257,12 +257,8 @@ For information on what to do in the event of a wildfire, visit [Civil Protectio
 
 Flash flooding can cause travel disruption and damage to property and infrastructure. [Check weather warnings from Spain’s meteorological office (AEMET)](http://www.aemet.es/en/eltiempo/prediccion/avisos) before travel and follow the advice of the local authorities.
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/spain/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/spain/entry-requirements)
 
-[Next
-:
-Health](/foreign-travel-advice/spain/health)
+[Next:Health](/foreign-travel-advice/spain/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/spain/print)

@@ -100,12 +100,8 @@ You can use your [Blue Badge in Malta](https://www.gov.uk/government/publicatio
 
 Take care while driving as some roads are in poor condition. Keep to the speed limit. Local standards of driving are poor.
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/malta/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/malta/entry-requirements)
 
-[Next
-:
-Health](/foreign-travel-advice/malta/health)
+[Next:Health](/foreign-travel-advice/malta/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/malta/print)

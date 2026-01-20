@@ -1,19 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   8 January 2026
+:   20 January 2026
 
 Updated:
-:   7 January 2026
+:   19 January 2026
 
 Latest update:
-:   Updated advice on travel disruption in France ('Warnings and insurance' page).
-
-## Travel disrupted by severe weather
-
-Ongoing cold weather conditions and snow may affect travel to and from France, with some flights and Eurostar services cancelled or delayed.
-
-Check your operator’s advice before travelling, including where you are taking connecting flights.
+:   Removal of information about travel disruption in France ('Warnings and insurance' page).
 
 ## Before you travel
 

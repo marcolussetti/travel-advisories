@@ -1,11 +1,11 @@
 {
     "name": "Chile",
-    "update_reason": "New information about dual nationals returning to the UK (\u2018Entry requirements\u2019 page).",
+    "update_reason": "New information on wildfires affecting the regions of regions of \u00d1uble and Biob\u00edo ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Chile/Warnings and insurance.md",
-            "update_date": "2025-12-10T12:41:39+00:00"
+            "update_date": "2026-01-19T14:50:59+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Chile/Getting help.md"
         }
     ],
-    "update_date": "2025-12-10T12:41:39+00:00"
+    "update_date": "2026-01-19T14:50:59+00:00"
 }

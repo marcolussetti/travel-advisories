@@ -63,12 +63,8 @@ For details about medical entry requirements and recommended vaccinations, see [
 
 There are strict rules about [goods you can take into or out of Chile](https://www.aduana.cl/aduana/site/edic/base/port/viajero_turista.html). You must declare anything that may be prohibited or subject to tax or duty.
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/chile)
+[Previous:Warnings and insurance](/foreign-travel-advice/chile)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/chile/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/chile/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/chile/print)

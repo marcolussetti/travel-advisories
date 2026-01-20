@@ -196,12 +196,8 @@ A chain of volcanoes is active in the Puyehue and Los Lagos region (500 miles so
 
 If you’re travelling to these areas, monitor local media reports and follow [local authority volcano monitoring advice](https://www.sernageomin.cl/) (in Spanish).
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/chile/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/chile/entry-requirements)
 
-[Next
-:
-Regional risks](/foreign-travel-advice/chile/regional-risks)
+[Next:Regional risks](/foreign-travel-advice/chile/regional-risks)
 
 [View a printable version of the whole guide](/foreign-travel-advice/chile/print)

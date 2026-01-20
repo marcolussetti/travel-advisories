@@ -1,15 +1,27 @@
 # Warnings and insurance
 
 Still current at:
-:   11 December 2025
+:   20 January 2026
 
 Updated:
-:   10 December 2025
+:   19 January 2026
 
 Latest update:
-:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
+:   New information on wildfires affecting the regions of regions of Ñuble and Biobío ('Warnings and insurance' page).
 
 This travel advice page also covers Rapa Nui (Easter Island).
+
+## Wildfires
+
+Chile is experiencing severe wildfires in the southern regions.
+
+The Chilean Government declared a State of Catastrophe in Ñuble and Biobío regions. Chilean authorities are advising people to avoid the affected areas, follow official channels for up-to-date information and, in the case of an evacuation order, follow the evacuation process swiftly and calmly.
+
+Curfews have also been in place in parts of these regions in recent days.
+
+If you are in the affected areas, or in an area at risk of wildfires, keep up to date with and follow the advice of local authorities and emergency services. Have an evacuation plan ready that does not depend on the UK Government.
+
+For further guidance on wildfires, including the times and locations of any further curfews, visit the website of [Chile’s National Disaster Prevention and Response Service](https://web.senapred.cl/) (Servicio Nacional de Prevención y Respuesta ante Desastres (SERNAPRED) (in Spanish).
 
 ## Before you travel
 
@@ -39,8 +51,6 @@ Follow FCDO:
 * [travel advice on Facebook](https://www.facebook.com/FCDOTravel/)
 * [Travel Aware on Instagram](https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Ftravelaware%2F&is_from_rle)
 
-[Next
-:
-Entry requirements](/foreign-travel-advice/chile/entry-requirements)
+[Next:Entry requirements](/foreign-travel-advice/chile/entry-requirements)
 
 [View a printable version of the whole guide](/foreign-travel-advice/chile/print)

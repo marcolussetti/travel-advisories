@@ -1,25 +1,23 @@
 # Warnings and insurance
 
 Still current at:
-:   18 January 2026
+:   20 January 2026
 
 Updated:
-:   17 January 2026
+:   19 January 2026
 
 Latest update:
-:   Updated information about the announcement of results in Uganda’s Presidential election (‘Warnings and insurance’).
+:   Updated information about internet access and ongoing elections following Uganda’s Presidential election (‘Warnings and insurance’).
 
-## Presidential and Parliamentary elections
+## Presidential, Parliamentary and local elections
 
-Presidential and Parliamentary elections took place in Uganda on 15 January 2026 and results were announced on the afternoon of 17 January.
+Presidential and Parliamentary elections took place in Uganda on 15 January 2026 and results were announced on the afternoon of 17 January. Local government and special interest group elections are scheduled in January and February 2026.
 
-Previous election campaigns and result announcements have led to protests and violence, including fatalities. There are some reports of violent incidents, including in Kampala, and there have been calls for further protest by opposition figures.
+Previous election campaigns and result announcements have led to protests and violence, including fatalities. There have been some reports of violent incidents over this election period, including in Kampala.
 
 Stay away from political gatherings and large crowds and monitor local media to see when and where major protests may occur. Follow local news and the instructions of local authorities.
 
-The Uganda Communications Commission announced the temporary suspension of public internet access, sale and registration of new sim cards, and outbound data roaming services from 6pm local time on 13 January. It is not clear when the suspension will end.
-
-Make a note of important phone numbers including your airline, travel operator, insurance company and the FCDO’s consular assistance number in case the internet is not accessible.
+Public internet access was restored on Sunday 17 January following a 4-day suspension though some social media and messaging platforms remain restricted.
 
 Consular assistance can be reached 24/7 on +256 (0) 312 312 000 or +44 (0) 20 7008 5000.
 

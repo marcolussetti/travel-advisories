@@ -1,13 +1,27 @@
 # Warnings and insurance
 
 Still current at:
-:   11 December 2025
+:   20 January 2026
 
 Updated:
-:   10 December 2025
+:   19 January 2026
 
 Latest update:
-:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
+:   New information about significant disruption following a serious rail incident in Andalusia (‘Warnings and insurance’ page).
+
+## Travel disruption
+
+On 18 January, two high‑speed trains collided near Adamuz, in the province of Córdoba in Andalusia, southern Spain.
+
+Significant disruption to rail services between Madrid and Andalusia is expected, with all high‑speed services between Madrid and Córdoba, Seville, Málaga, Granada and Huelva suspended. Services between Madrid and Cádiz, Algeciras and Granada will also be affected.
+
+If you need assistance or information about affected passengers, you can contact:
+
+* ADIF: (+34) 900 10 10 20 @Adif\_es
+* IRYO: (+34) 00 00 14 02 @iryo\_eu
+* Emergency services (112 EMA): From inside Andalusia: 061; from outside Andalusia: (+34) 953 00 11 49
+
+If you are a British national and you or a family member have been affected by this accident and require consular support, call the nearest British Embassy or Consulate on 0034 91 714 6300.
 
 ## Before you travel
 
@@ -41,8 +55,6 @@ Follow FCDO:
 * [travel advice on Facebook](https://www.facebook.com/FCDOTravel/)
 * [Travel Aware on Instagram](https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Ftravelaware%2F&is_from_rle)
 
-[Next
-:
-Entry requirements](/foreign-travel-advice/spain/entry-requirements)
+[Next:Entry requirements](/foreign-travel-advice/spain/entry-requirements)
 
 [View a printable version of the whole guide](/foreign-travel-advice/spain/print)

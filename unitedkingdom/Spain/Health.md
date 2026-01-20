@@ -71,12 +71,8 @@ Due to an increase in respiratory infections such as flu and COVID-19, you may h
 
 [Read FCDO guidance on travel and mental health](https://www.gov.uk/guidance/foreign-travel-advice-for-people-with-mental-health-issues). There is also [guidance on TravelHealthPro](https://travelhealthpro.org.uk/factsheet/85/travelling-with-mental-health-conditions).
 
-[Previous
-:
-Safety and security](/foreign-travel-advice/spain/safety-and-security)
+[Previous:Safety and security](/foreign-travel-advice/spain/safety-and-security)
 
-[Next
-:
-Getting help](/foreign-travel-advice/spain/getting-help)
+[Next:Getting help](/foreign-travel-advice/spain/getting-help)
 
 [View a printable version of the whole guide](/foreign-travel-advice/spain/print)
