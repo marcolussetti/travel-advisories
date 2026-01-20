@@ -6,13 +6,11 @@ Normal Precautions
 
 ### Travel Alert
 
-Spain can at times experience extreme weather conditions. During the extended summer months in Spain, many parts of the country will experience heatwaves with exceptionally high temperatures. During autumn and winter, there is an increased risk of storms, heavy rainfall and flooding. You can monitor information and alerts, including severe weather warnings, on the website of the Spanish Meteorological Agency, [**AEMET**](https://www.aemet.es/en/portada).
+On 18 January, 2026, two high‑speed trains were involved in an accident near Adamuz, in Córdoba in Andalusia. Emergency services are responding to the scene.
 
-The HSE has advice on heat health, which can be found on their [**website**](https://www.hpsc.ie/news/title-24973-en.html).
+Significant disruptions to rail services are ongoing. All high‑speed services between Madrid and Andalusia have been suspended, disrupting connections with Seville, Córdoba, Málaga, Huelva, Cádiz, Algeciras and Granada. Citizens are advised to consult their travel operator.
 
-The occurrence of wildfires during periods of warm and dry weather is common in Spain. For more advice on this, please visit the section below on ‘Natural disasters and climate’.
-
-As part of their Safe Tourism campaign, the Spanish National Police have published useful information for tourists, which can be found on their [**website**](https://www.policia.es/miscelanea/participacion_ciudadana/pasaporte_turista_2024.pdf)**.**
+Any Irish citizen affected by this accident requiring consular assistance should contact the Embassy of Ireland in Madrid on 0034 914364093.
 
 ### General Travel Advice
 

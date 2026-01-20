@@ -4,6 +4,18 @@
 
 Normal Precautions
 
+### **Travel Alert**
+
+#### **Wildfires**
+
+Fires can occur suddenly anywhere in Chile in the summer months of December to February. Wildfires are currently burning in central and southern Chile, particularly in the Biobío and Ñuble regions.
+
+We advise all citizens to:
+
+* Avoid affected areas;
+* Follow the instructions of emergency services, particularly evacuation orders;
+* Monitor local media and the [website](https://senapred.cl/alertas) / [X account](https://x.com/Senapred) of SENAPRED, the National Service for Disaster Prevention and Response (in Spanish) for further updates.
+
 ### **General Travel Advice**
 
 In recent years, there have been large-scale protests and demonstrations leading to civil unrest across Chile, and there is a risk of violent protest in Santiago and other Chilean cities, particularly on Friday afternoons and evenings. Even peaceful protests can become violent.
