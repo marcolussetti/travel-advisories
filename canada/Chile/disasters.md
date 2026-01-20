@@ -4,16 +4,12 @@
 
 ### Wildfires in central Chile
 
-Wildfires are burning in central Chile. Evacuation orders and warnings are in effect for multiple areas, including:
+Wildfires are burning in central Chile. Evacuation orders, curfews and warnings are in effect for multiple regions, including:
 
-* Ranquil, in Ñuble region
-* In Biobío region:
-
-+ Conception
-+ Penco
-+ Tomé
-+ Halqui
-+ Quillon
+* Ñuble
+* Biobío
+* La Araucanía
+* O’Higgins
 
 Road closures and poor visibility due to smoke are affecting travel. Air quality is significantly degraded in fire-affected zones.
 
@@ -22,7 +18,10 @@ Stay away from impacted regions. If you are near a wildfire:
 * follow the instructions of local emergency services personnel, including evacuation orders
 * monitor local media for up-to-date information on the situation
 
-[More information on wildfires](#wildfires)
+#### Useful links
+
+* [Latest updates (including curfew information)](https://web.senapred.cl/eventos/) – National Disaster and Prevention Response Service (SENAPRED) (in Spanish only)
+* [More information on wildfires](#wildfires)
 
 Chile is subject to various natural disasters such as:
 

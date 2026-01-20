@@ -1,7 +1,7 @@
 {
     "name": "Argentina",
-    "update_reason": "Editorial change",
-    "update_date": "2026-01-02T12:55:00",
+    "update_reason": "Health \u2013 Outbreak Monitoring alert for hantavirus added",
+    "update_date": "2026-01-19T11:01:00",
     "sections": {
         "risk": "canada/Argentina/risk.md",
         "security": "canada/Argentina/security.md",

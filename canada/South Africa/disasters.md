@@ -4,9 +4,11 @@
 
 South Africa is currently experiencing severe weather events. The South African Weather Service issued several high-level alerts for parts of Limpopo, Mpumalanga and KwaZulu-Natal provinces, which are significantly impacted by flooding.
 
-Kruger National Park has temporarily evacuated visitors from parts of the park and closed its access to day visitors. Flights to and from Hoedspruit airport are suspended until further notice.
+Parts of Kruger National Park are closed, including some entrances and camps. The number of visitors allowed per day is limited.
 
-Several wildfires are currently active in the Western Cape province, especially in the Overberg district.
+There may be travel disruptions due to weather, including flight cancellations and airport closures.
+
+Several wildfires are currently active in the Western Cape province.
 
 If you are in or near the affected areas:
 

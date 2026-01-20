@@ -2,6 +2,25 @@
 
 ## Natural disasters and climate
 
+Since the beginning of January 2026, heavy rains have caused severe flooding and landslides, resulting in numerous casualties and damage to buildings and infrastructure.
+
+Heavy rainfall is expected to continue throughout January, which will increase the risk of flooding and landslides, including in Maputo. Authorities have issued alerts for several central and southern provinces and have carried out localized evacuations in high‑risk areas.
+
+The following essential services are disrupted in several provinces:
+
+* transportation
+* power distribution
+* telecommunication networks
+
+If you're in or around an affected area:
+
+* exercise caution and avoid flooded roads and low-lying areas
+* monitor local news and weather reports
+* confirm the status of roads with local authorities before travelling
+* follow the instructions of local authorities, including evacuation orders
+
+[Mozambique National Meteorology Institute (INAM)](https://www.inam.gov.mz/index.php/pt/) – Government of Mozambique (Portuguese only)
+
 ### Rainy season
 
 The rainy season extends from November to April. Seasonal flooding can hamper overland travel and reduce the provision of essential services. Roads may become impassable and bridges, damaged.

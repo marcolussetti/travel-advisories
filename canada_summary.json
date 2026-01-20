@@ -56,7 +56,7 @@
     {
         "destination": "Argentina",
         "risk_level": "Take normal security precautions (with regional advisories)",
-        "last_updated": "2026-01-02T12:55:13",
+        "last_updated": "2026-01-19T11:01:22",
         "details_url": "https://travel.gc.ca/destinations/argentina"
     },
     {
@@ -140,7 +140,7 @@
     {
         "destination": "Benin",
         "risk_level": "Exercise a high degree of caution (with regional advisories)",
-        "last_updated": "2026-01-16T09:57:39",
+        "last_updated": "2026-01-19T13:38:23",
         "details_url": "https://travel.gc.ca/destinations/benin"
     },
     {
@@ -206,7 +206,7 @@
     {
         "destination": "Burkina Faso",
         "risk_level": "Avoid all travel",
-        "last_updated": "2025-12-15T14:10:53",
+        "last_updated": "2026-01-19T13:39:10",
         "details_url": "https://travel.gc.ca/destinations/burkina-faso"
     },
     {
@@ -260,7 +260,7 @@
     {
         "destination": "Chile",
         "risk_level": "Exercise a high degree of caution",
-        "last_updated": "2026-01-18T15:21:31",
+        "last_updated": "2026-01-19T13:37:48",
         "details_url": "https://travel.gc.ca/destinations/chile"
     },
     {
@@ -326,7 +326,7 @@
     {
         "destination": "C\u00f4te d'Ivoire (Ivory Coast)",
         "risk_level": "Exercise a high degree of caution (with regional advisories)",
-        "last_updated": "2025-12-30T11:03:21",
+        "last_updated": "2026-01-19T13:40:14",
         "details_url": "https://travel.gc.ca/destinations/cote-d-ivoire-ivory-coast"
     },
     {
@@ -470,7 +470,7 @@
     {
         "destination": "Ghana",
         "risk_level": "Exercise a high degree of caution",
-        "last_updated": "2025-12-15T14:10:53",
+        "last_updated": "2026-01-19T13:42:13",
         "details_url": "https://travel.gc.ca/destinations/ghana"
     },
     {
@@ -518,7 +518,7 @@
     {
         "destination": "Guinea",
         "risk_level": "Exercise a high degree of caution",
-        "last_updated": "2025-12-30T11:36:10",
+        "last_updated": "2026-01-19T13:46:23",
         "details_url": "https://travel.gc.ca/destinations/guinea"
     },
     {
@@ -614,7 +614,7 @@
     {
         "destination": "Japan",
         "risk_level": "Take normal security precautions",
-        "last_updated": "2026-01-16T11:36:22",
+        "last_updated": "2026-01-19T08:39:15",
         "details_url": "https://travel.gc.ca/destinations/japan"
     },
     {
@@ -686,7 +686,7 @@
     {
         "destination": "Liberia",
         "risk_level": "Exercise a high degree of caution",
-        "last_updated": "2025-12-15T14:10:53",
+        "last_updated": "2026-01-19T13:51:58",
         "details_url": "https://travel.gc.ca/destinations/liberia"
     },
     {
@@ -746,7 +746,7 @@
     {
         "destination": "Mali",
         "risk_level": "Avoid all travel",
-        "last_updated": "2025-12-15T14:10:53",
+        "last_updated": "2026-01-19T13:53:11",
         "details_url": "https://travel.gc.ca/destinations/mali"
     },
     {
@@ -830,13 +830,13 @@
     {
         "destination": "Morocco",
         "risk_level": "Exercise a high degree of caution (with regional advisories)",
-        "last_updated": "2026-01-14T13:17:49",
+        "last_updated": "2026-01-19T09:16:02",
         "details_url": "https://travel.gc.ca/destinations/morocco"
     },
     {
         "destination": "Mozambique",
         "risk_level": "Exercise a high degree of caution (with regional advisories)",
-        "last_updated": "2025-12-15T14:10:53",
+        "last_updated": "2026-01-19T15:33:16",
         "details_url": "https://travel.gc.ca/destinations/mozambique"
     },
     {
@@ -896,7 +896,7 @@
     {
         "destination": "Nigeria",
         "risk_level": "Avoid non-essential travel (with regional advisories)",
-        "last_updated": "2025-12-15T14:10:53",
+        "last_updated": "2026-01-19T13:54:26",
         "details_url": "https://travel.gc.ca/destinations/nigeria"
     },
     {
@@ -1112,7 +1112,7 @@
     {
         "destination": "Sierra Leone",
         "risk_level": "Exercise a high degree of caution",
-        "last_updated": "2025-12-15T14:10:53",
+        "last_updated": "2026-01-19T13:56:01",
         "details_url": "https://travel.gc.ca/destinations/sierra-leone"
     },
     {
@@ -1154,7 +1154,7 @@
     {
         "destination": "South Africa",
         "risk_level": "Exercise a high degree of caution",
-        "last_updated": "2026-01-16T09:55:16",
+        "last_updated": "2026-01-19T12:23:30",
         "details_url": "https://travel.gc.ca/destinations/south-africa"
     },
     {
@@ -1178,7 +1178,7 @@
     {
         "destination": "Sri Lanka",
         "risk_level": "Exercise a high degree of caution",
-        "last_updated": "2026-01-12T11:09:28",
+        "last_updated": "2026-01-19T08:38:10",
         "details_url": "https://travel.gc.ca/destinations/sri-lanka"
     },
     {
@@ -1244,7 +1244,7 @@
     {
         "destination": "Togo",
         "risk_level": "Exercise a high degree of caution (with regional advisories)",
-        "last_updated": "2025-12-15T14:10:53",
+        "last_updated": "2026-01-19T13:57:14",
         "details_url": "https://travel.gc.ca/destinations/togo"
     },
     {
@@ -1376,7 +1376,7 @@
     {
         "destination": "Zimbabwe",
         "risk_level": "Exercise a high degree of caution",
-        "last_updated": "2026-01-06T11:10:04",
+        "last_updated": "2026-01-19T13:28:52",
         "details_url": "https://travel.gc.ca/destinations/zimbabwe"
     }
 ]

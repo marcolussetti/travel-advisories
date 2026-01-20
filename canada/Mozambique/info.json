@@ -1,7 +1,7 @@
 {
     "name": "Mozambique",
-    "update_reason": "Risk level(s) \u2013 added map",
-    "update_date": "2025-12-15T14:10:00",
+    "update_reason": "Natural disasters and climate \u2013 added information on flooding and landslides",
+    "update_date": "2026-01-19T15:33:00",
     "sections": {
         "risk": "canada/Mozambique/risk.md",
         "security": "canada/Mozambique/security.md",

@@ -230,11 +230,16 @@ Make sure to closely watch children; they are more likely to try to touch animal
 
 Lassa fever 
 
-Lassa fever is a risk in this country.
+Lassa fever is a risk in this country. The risk is low for most travellers.
 
-Lassa fever is caused by a virus carried by rodents. Humans get sick when they inhale or come into close contact with feces, saliva, or urine of infected rodents or the blood or bodily fluids of infected humans.
+The virus that causes Lassa fever is primarily spread by a rat found in parts of West Africa. People can become sick if they have direct contact with infected rats or after inhaling or touching the feces, urine, or saliva of infected rats. Infection can also occur through contact with the blood or body fluids of infected people or by exposure to contaminated food or household items. Most people who are infected have mild illness or no symptoms, but some can become very sick and need hospital care.
 
-Lassa virus can be very serious. Avoid rodents and rodent-infested areas.
+To protect yourself from Lassa fever, avoid rats, keep food in rat-proof containers, maintain a clean living space, and don’t eat or handle rats.
+
+There is no vaccine to prevent Lassa fever, but supportive care and treatment can be effective.
+
+**Learn more:**  
+[Lassa fever](https://www.canada.ca/en/public-health/services/diseases/lassa-fever.html)
 
 ### Person-to-person infections
 
