@@ -42,13 +42,13 @@ Different entry rules may apply when travelling with a temporary passport or an 
 
 ### Visas
 
-Tourist visa: not required for stays of up to 60 days in a 120-day period   
- Business visa: not required for stays of up to 60 days in a 120-day period  
- Student visa: not required for stays of up to 60 days in a 120-day period
+Tourist visa: not required for stays of up to 30 days in a 60-day period   
+ Business visa: not required for stays of up to 30 days in a 60-day period  
+ Student visa: not required for stays of up to 30 days in a 60-day period
 
 #### Long stays
 
-If you intend to stay in Kyrgyzstan for longer than 60 days, you must obtain an E-Visa before your arrival in the country.
+If you intend to stay in Kyrgyzstan for longer than 30 days, you must obtain an E-Visa before your arrival in the country.
 
 Once in the country, you must also register with the State Registration Service Passport Desk within 5 business days following your arrival. You will need to show this proof of registration to leave the country.
 

@@ -42,16 +42,19 @@ Different entry rules may apply when travelling with a temporary passport or an 
 
 ### Electronic Travel Authorisation (ETA)
 
-You need to apply for an ETA before travelling to the UK. You must travel on the passport used for your ETA application.
+You need to apply for an ETA before travelling to or transiting through the UK. You must travel on the passport used for your ETA application.
 
-You do not need an ETA if:
+You do not need an ETA if, for example, you:
 
-* you are transiting through an airport in the UK without passing border control
-* you are a dual national travelling on your British, Irish, or British overseas territories citizen passport
-* you have a visa or permission to live, work or study in the UK
-* you live in Ireland and you are travelling from Ireland, Guernsey, Jersey or the Isle of Man
+* are transiting through an airport in the UK without passing border control
+* are a dual national travelling on your British, Irish, or British overseas territories citizen passport
+* have a visa or permission to live, work or study in the UK
+* live in Ireland and you are travelling from Ireland, Guernsey, Jersey or the Isle of Man
 
-[Apply for an electronic travel authorisation (ETA)](https://www.gov.uk/guidance/apply-for-an-electronic-travel-authorisation-eta) – UK Visas and Immigration
+#### Useful links
+
+* [Travelling to Europe](https://travel.gc.ca/travelling/travelling-europe)
+* [Apply for an electronic travel authorisation (ETA)](https://www.gov.uk/guidance/apply-for-an-electronic-travel-authorisation-eta) – UK Visas and Immigration
 
 ### Visas
 

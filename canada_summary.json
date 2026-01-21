@@ -56,7 +56,7 @@
     {
         "destination": "Argentina",
         "risk_level": "Take normal security precautions (with regional advisories)",
-        "last_updated": "2026-01-19T11:01:22",
+        "last_updated": "2026-01-20T14:43:03",
         "details_url": "https://travel.gc.ca/destinations/argentina"
     },
     {
@@ -656,7 +656,7 @@
     {
         "destination": "Kyrgyzstan",
         "risk_level": "Exercise a high degree of caution (with regional advisories)",
-        "last_updated": "2026-01-06T09:11:34",
+        "last_updated": "2026-01-20T11:56:59",
         "details_url": "https://travel.gc.ca/destinations/kyrgyzstan"
     },
     {
@@ -722,7 +722,7 @@
     {
         "destination": "Madagascar",
         "risk_level": "Exercise a high degree of caution",
-        "last_updated": "2026-01-12T11:01:42",
+        "last_updated": "2026-01-20T08:58:30",
         "details_url": "https://travel.gc.ca/destinations/madagascar"
     },
     {
@@ -848,7 +848,7 @@
     {
         "destination": "Namibia",
         "risk_level": "Exercise a high degree of caution",
-        "last_updated": "2026-01-16T16:02:32",
+        "last_updated": "2026-01-20T08:43:13",
         "details_url": "https://travel.gc.ca/destinations/namibia"
     },
     {
@@ -859,8 +859,8 @@
     },
     {
         "destination": "Nepal",
-        "risk_level": "Avoid non-essential travel",
-        "last_updated": "2025-12-22T10:00:28",
+        "risk_level": "Exercise a high degree of caution",
+        "last_updated": "2026-01-20T14:36:14",
         "details_url": "https://travel.gc.ca/destinations/nepal"
     },
     {
@@ -962,7 +962,7 @@
     {
         "destination": "Paraguay",
         "risk_level": "Exercise a high degree of caution",
-        "last_updated": "2026-01-06T15:48:29",
+        "last_updated": "2026-01-20T11:39:25",
         "details_url": "https://travel.gc.ca/destinations/paraguay"
     },
     {
@@ -1316,7 +1316,7 @@
     {
         "destination": "United Kingdom",
         "risk_level": "Exercise a high degree of caution",
-        "last_updated": "2026-01-12T10:53:29",
+        "last_updated": "2026-01-20T16:59:39",
         "details_url": "https://travel.gc.ca/destinations/united-kingdom"
     },
     {

@@ -16,8 +16,6 @@ The features in this map do not constitute an authoritative source of geographic
 
 The features in this map do not constitute an authoritative source of geographical information. This map is solely intended to assist Canadians by illustrating the risk levels contained in the Travel Advice and Advisories for this destination. The features in this map do not necessarily represent the views of the Canadian government on international boundaries, nomenclature or political status. The text under the Risk levels section takes precedence over this map.
 
-### NEPAL - AVOID NON-ESSENTIAL TRAVEL
+### Nepal - Exercise a high degree of caution
 
-[Avoid non-essential travel](#levels "Risk Levels") to Nepal due to civil unrest, violence, and the fragile political and security situation.
-
-The security situation can deteriorate without warning. Our ability to provide consular assistance is limited in Nepal.
+[Exercise a high degree of caution](#levels "Risk Levels") in Nepal due to the fragile political and security situation.

@@ -4,14 +4,16 @@
 
 ### Demonstrations in Nepal
 
-On September 8, 2025, violent clashes between demonstrators and security forces resulted in hundreds of casualties, including several deaths. The demonstrations have since eased and local authorities have lifted curfew orders in the Kathmandu Valley. However, the situation remains volatile and curfews could be reinstated with little notice.
+In September 2025, violent clashes between demonstrators and security forces resulted in hundreds of casualties, including several deaths.
 
-Domestic and international flights have resumed but you should confirm your flight status with your travel agent or airline.
+Although the situation in Nepal is currently calm, it is evolving and could deteriorate quickly. Curfews could be reinstated with little notice.
 
-If you are in Kathmandu:
+General elections are scheduled for March 5, 2026. Demonstrations may occur, especially before, during and after elections.
+
+If you are in Nepal:
 
 * avoid demonstrations and areas around government buildings, especially near the Nepali Parliament
-* expect heavy security measures and an increased security presence
+* expect heavy security measures and an increased security presence in major cities
 * monitor local media for the latest information
 * follow the instructions of local authorities, including curfew orders
 
@@ -36,11 +38,9 @@ During your trip:
 * be aware of your surroundings, especially in busy tourist areas
 * avoid going out after dark
 
-### Women’s safety
+### Women's safety
 
-Women are vulnerable to harassment and verbal abuse. Dress conservatively, particularly in remote areas.
-
-Women travelling alone are more at risk of violent attacks.
+Women travelling alone are at higher risk of verbal or physical harassment. Sexual assaults have occurred, including against foreign women. Dress conservatively, particularly in remote areas.
 
 [Advice for women travellers](https://travel.gc.ca/travelling/health-safety/advice-for-women-travellers "Advice for women travellers")
 
@@ -58,7 +58,7 @@ Small-scale, politically motivated attacks occasionally occur, especially in Kat
 
 Political protests are common in Nepal and sometimes result in violence.
 
-Politically motivated protests have been particularly volatile in Kathmandu as well as in Nepal’s southern region bordering India, which has, at times, affected border crossings.
+Politically motivated protests have been particularly volatile in Kathmandu as well as in Nepal's southern region bordering India, which has, at times, affected border crossings.
 
 General strikes (locally referred to as bandhs) are a popular form of political expression and can occur on short notice throughout the country.
 
@@ -95,7 +95,7 @@ If you intend to trek or mountain climb:
 Emergency services such as evacuations and rescues from remote areas are available, but can be hindered by:
 
 * the lack of immediate payment to helicopter rescue service providers
-* lack of a response from clients’ insurance companies
+* lack of a response from clients' insurance companies
 * limited access to regular phone service in many trekking areas
 
 There have been helicopter rescue scams in the past. Ensure that you are dealing with reputable helicopter companies. Check with your trekking agency for updates on the security situation in the area.
@@ -152,16 +152,6 @@ If you choose to drive:
 * plan your trip in advance, especially if you are visiting a rural area
 * avoid travelling after dark
 * inform a friend or family member of your itinerary
-
-### Landmines
-
-Landmines are found in in some parts of the country, including some trekking areas.
-
-* Be especially vigilant in remote areas
-* Stay on main roads
-* Avoid walking in fields/rural areas
-* Avoid roadside ditches, shoulders and unmarked trails
-* Pay attention to signs indicating the possible presence of landmines
 
 ### Air travel
 
