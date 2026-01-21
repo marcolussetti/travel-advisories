@@ -1,11 +1,11 @@
 {
     "name": "South Africa",
-    "update_reason": "New information about risks from flooding in Kruger National Park, and travel disruption (\u2018Warnings and insurance\u2019 page).",
+    "update_reason": "Updated information about risks from flooding in Mpumalanga and Limpopo provinces, including Kruger National Park (\u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/South Africa/Warnings and insurance.md",
-            "update_date": "2026-01-15T16:23:06+00:00"
+            "update_date": "2026-01-20T15:15:29+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/South Africa/Getting help.md"
         }
     ],
-    "update_date": "2026-01-15T16:23:06+00:00"
+    "update_date": "2026-01-20T15:15:29+00:00"
 }

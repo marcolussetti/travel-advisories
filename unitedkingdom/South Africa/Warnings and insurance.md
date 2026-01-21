@@ -1,17 +1,17 @@
 # Warnings and insurance
 
 Still current at:
-:   16 January 2026
+:   21 January 2026
 
 Updated:
-:   15 January 2026
+:   20 January 2026
 
 Latest update:
-:   New information about risks from flooding in Kruger National Park, and travel disruption (‘Warnings and insurance’ page).
+:   Updated information about risks from flooding in Mpumalanga and Limpopo provinces, including Kruger National Park (‘Warnings and insurance’ page).
 
-## Flooding in Kruger National Park
+## Flooding in Mpumalanga and Limpopo provinces
 
-Kruger National Park is currently experiencing severe flooding. Evacuations have taken place and flights to and from Hoedspruit Airport have been cancelled. Check with your travel or accommodation provider about your options and reconsider your itinerary if necessary. Plan your route in advance and ensure routes are safe and accessible. Be aware roads may close at short notice. Follow guidance from local authorities and SAN Parks.
+The provinces of Mpumalanga and Limpopo (including Kruger National Park) have experienced severe flooding. Some roads and bridges remain dangerous or impassable. Some areas of Kruger National Park remain closed or inaccessible. Check with your travel or accommodation provider about your options and reconsider your itinerary if necessary. Plan your trip in advance and ensure routes are safe and accessible. Be aware roads may close at short notice. Follow guidance from local authorities and SAN Parks.
 
 ## Before you travel
 

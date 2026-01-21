@@ -71,12 +71,8 @@ Declare cash or travellers cheques if the value is 10,000 US dollars or more. Yo
 
 If you’re working as a journalist (for example, as a reporter or news photographer), you must get accreditation before you travel from the [Zimbabwean Embassy in the UK](https://www.facebook.com/zimembassylondon/). If you do not have proper accreditation, you risk arrest, detention in difficult conditions, a fine and deportation.
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/zimbabwe)
+[Previous:Warnings and insurance](/foreign-travel-advice/zimbabwe)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/zimbabwe/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/zimbabwe/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/zimbabwe/print)

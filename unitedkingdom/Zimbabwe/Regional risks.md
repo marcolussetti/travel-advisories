@@ -12,12 +12,8 @@ There continue to be occasional invasions of commercial farms, sometimes accompa
 
 Mining areas are often restricted. Turn back if you are stopped and told that you are not allowed to access a particular area.
 
-[Previous
-:
-Safety and security](/foreign-travel-advice/zimbabwe/safety-and-security)
+[Previous:Safety and security](/foreign-travel-advice/zimbabwe/safety-and-security)
 
-[Next
-:
-Health](/foreign-travel-advice/zimbabwe/health)
+[Next:Health](/foreign-travel-advice/zimbabwe/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/zimbabwe/print)

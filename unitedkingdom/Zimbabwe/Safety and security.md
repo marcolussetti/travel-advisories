@@ -179,14 +179,10 @@ Find out what you can do to [prepare for and respond to extreme weather and natu
 
 ### Flooding
 
-The rainy season runs from November to April. Heavy rainfall can damage roads, or make them impassable in some areas.
+There is currently heavy rainfall and flooding across Southern Africa, including in areas of Zimbabwe. The rainy season runs from November to April. Heavy rainfall can damage roads, or make them impassable in some areas.
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/zimbabwe/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/zimbabwe/entry-requirements)
 
-[Next
-:
-Regional risks](/foreign-travel-advice/zimbabwe/regional-risks)
+[Next:Regional risks](/foreign-travel-advice/zimbabwe/regional-risks)
 
 [View a printable version of the whole guide](/foreign-travel-advice/zimbabwe/print)
