@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   11 December 2025
+:   22 January 2026
 
 Updated:
-:   10 December 2025
+:   21 January 2026
 
 Latest update:
-:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
+:   Updated information about regional airport operations (‘Warnings and insurance’ and ‘Safety and security’ pages).
 
 ![](https://assets.publishing.service.gov.uk/media/672a3fc8f03408fa7966d186/FCDO__TA__038_-_Sudan_Travel_Advice_Ed8__WEB_.jpg)
 
@@ -22,7 +22,7 @@ FCDO advises against all travel to Sudan because of the ongoing military confl
 
 There have been several ceasefires, but these have been regularly broken.
 
-Khartoum International Airport is closed. The only civilian airport operating international flights is Port Sudan Airport, however it was subject to drone attacks in early May. Since then, no new strikes have been reported, but surveillance drone activity has continued. A limited number of airlines are currently operating from the airport.
+Khartoum International Airport is not currently running commercial flights. It officially re-opened in October 2025 but was subject to drone attacks and the risk of further attacks continues. The only civilian airport operating international flights is Port Sudan Airport, however it was also subject to drone attacks in early May 2025. Since then, no new strikes have been reported, but surveillance drone activity has continued. A limited number of airlines are currently operating from the airport.
 
 Monitor travel advice and other media reports for the latest information.
 
@@ -66,8 +66,6 @@ Follow FCDO:
 * [travel advice on Facebook](https://www.facebook.com/FCDOTravel/)
 * [Travel Aware on Instagram](https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Ftravelaware%2F&is_from_rle)
 
-[Next
-:
-Entry requirements](/foreign-travel-advice/sudan/entry-requirements)
+[Next:Entry requirements](/foreign-travel-advice/sudan/entry-requirements)
 
 [View a printable version of the whole guide](/foreign-travel-advice/sudan/print)

@@ -30,12 +30,8 @@ If you’re a British national planning to cross into Egypt at Argeen or Qustul 
 
 See our [Egypt travel advice](https://www.gov.uk/foreign-travel-advice/egypt) for entry requirements, including information on visas.
 
-[Previous
-:
-Safety and security](/foreign-travel-advice/sudan/safety-and-security)
+[Previous:Safety and security](/foreign-travel-advice/sudan/safety-and-security)
 
-[Next
-:
-Health](/foreign-travel-advice/sudan/health)
+[Next:Health](/foreign-travel-advice/sudan/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/sudan/print)

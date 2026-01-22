@@ -1,11 +1,11 @@
 {
     "name": "Seychelles",
-    "update_reason": "New information about dual nationals returning to the UK (\u2018Entry requirements\u2019 page).",
+    "update_reason": "New information on illegal drugs and prison sentences ('Safety and security' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Seychelles/Warnings and insurance.md",
-            "update_date": "2025-12-10T13:35:49+00:00"
+            "update_date": "2026-01-21T12:01:13+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Seychelles/Getting help.md"
         }
     ],
-    "update_date": "2025-12-10T13:35:49+00:00"
+    "update_date": "2026-01-21T12:01:13+00:00"
 }

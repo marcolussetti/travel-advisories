@@ -1,11 +1,11 @@
 {
     "name": "Malta",
-    "update_reason": "Information on severe weather warnings for Malta on 19 and 20 January (Warnings and Insurance)",
+    "update_reason": "Removal of information on severe weather warnings for Malta on 19 and 20 January.",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Malta/Warnings and insurance.md",
-            "update_date": "2026-01-19T20:25:13+00:00"
+            "update_date": "2026-01-21T11:36:55+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Malta/Getting help.md"
         }
     ],
-    "update_date": "2026-01-19T20:25:13+00:00"
+    "update_date": "2026-01-21T11:36:55+00:00"
 }

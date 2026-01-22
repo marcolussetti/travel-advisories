@@ -20,6 +20,10 @@ Check with your travel provider that your passport and other travel documents me
 
 You will be denied entry if you do not have a valid travel document or try to use a passport that has been reported lost or stolen.
 
+## Traveling with children
+
+Children under 18 years old must carry a notarised travel permission from one of their parents or legal guardians if they’re travelling out of Russia without their parent or legal guardian.
+
 ## Dual nationals
 
 When returning to the UK, British citizens must carry a valid [British passport](https://www.gov.uk/browse/abroad/passports) or [certificate of entitlement](https://www.gov.uk/right-of-abode/apply-for-a-certificate-of-entitlement). See [Dual citizenship](https://www.gov.uk/dual-citizenship).
@@ -28,7 +32,7 @@ When returning to the UK, British citizens must carry a valid [British passport
 
 If you have dual British-Russian nationality and travel to Russia to renew your Russian passport, it may take up to 4 months to get your new passport. You will not be able to leave Russia on your British passport if you entered Russia on your Russian passport. You will have to stay in Russia until your new Russian passport is issued.
 
-Children born outside of Russia, and added to their parents’ Russian passports may need their own passport to leave Russia. Check with the [Russian Embassy in the UK](https://london.mid.ru/en/) before you travel.
+Children born outside of Russia and added to their parents’ Russian passports may need their own passport to leave Russia. Check with the [Russian Embassy in the UK](https://london.mid.ru/en/) before you travel.
 
 See [Warnings and insurance page](https://www.gov.uk/foreign-travel-advice/russia) for information about severely limited UK government support and compulsory military service for British-Russian dual nationals.
 
@@ -53,15 +57,17 @@ The Russian authorities strictly enforce visa and immigration laws. Before you t
 
 If you overstay your visa, you may face fines, court hearings, deportation or a ban from re-entry.
 
-From 1 January 2025 until 10 September 2025, foreign nationals who have exceeded the terms of their legal stay in Russia need to apply to the Russian internal affairs authorities to regularize their stay or leave Russia. The application process includes biometric checks, medical screening for dangerous diseases, drugs and psychoactive substances tests, and checks for any outstanding payments of duties, taxes, fees, fines, and other mandatory payments.
+Foreign nationals who have exceeded the terms of their legal stay in Russia and don’t have the necessary permits or visa will be entered on an official surveillance register, deported from Russia, and banned from re-entering.
 
-After 10 September 2025, anyone without the necessary permits or visa will be entered on an official surveillance register, deported from Russia, and banned from re-entering.
+## Leaving Russia
+
+You may not be able to exit Russia if you have any unpaid debts, fines or penalties in Russia. Check if you have any outstanding payments using the [Russia State Bailiff’s Services portal](https://fssp.gov.ru/iss/ip/) (in Russian) or [Russian State Services portal](https://www.gosuslugi.ru/) (in Russian). You may not be able to access these portals from outside of Russia.
 
 ## Immigration cards
 
 You must sign an immigration card at passport control every time you enter Russia.
 
-Immigration officials keep one half. They return the other half to you. You must keep it and show it at passport control when you leave Russia or your departure could be delayed.
+Immigration officials keep one half. They return the other half to you. You must keep it and show it at passport control when you leave Russia, or your departure could be delayed.
 
 You will need to show your immigration card when you exchange money or check into your accommodation.
 
@@ -88,7 +94,7 @@ The UK government cannot interfere in Russian immigration decisions and cannot h
 
 You must register with the local authorities if you’re staying anywhere for more than 7 working days. Your hotel will do this automatically. If you’re staying with someone, check that they’re doing this.
 
-You must show evidence of your registration at passport control when you leave Russia. Police also carry out routine checks. If you cannot show your registration and passport, you may get a fine.
+You must show evidence of your registration at passport control when you leave Russia. Police also carry out routine checks. If you cannot show your registration and passport, you may be detained for up to 48 hours for identity checks or get a fine.
 
 ## Travelling between Russia and Belarus
 
@@ -154,7 +160,7 @@ Make sure a customs official stamps your customs declaration form when you enter
 
 Keep receipts of any purchases in case you need to show them when you leave Russia.
 
-## Accessing money in Russia
+## Money and banking
 
 The Russian economy is unstable. This could make access to goods and services difficult.
 
@@ -172,12 +178,8 @@ Only change money at banks, hotels and exchange bureaus. It is illegal to change
 
 The UK government has sanctioned several major Russian banks. This means British nationals are banned from making funds available to these banks. See more [information about Russian sanctions](https://www.gov.uk/government/collections/uk-sanctions-on-russia) and what this means for British nationals.
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/russia)
+[Previous:Warnings and insurance](/foreign-travel-advice/russia)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/russia/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/russia/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/russia/print)

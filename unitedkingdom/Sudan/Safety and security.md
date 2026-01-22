@@ -151,9 +151,7 @@ Sudanese law prohibits the use of mobile phones while driving.
 
 ## Air travel
 
-Khartoum International Airport is closed following the outbreak of violence in April 2023.
-
-The only civilian airport operating international flights is Port Sudan Airport, however this is subject to drone attacks and the risk of intermittent closure is high. Some commercial flights continue to operate from Port Sudan Airport, including Egypt Airlines, Badr Airlines and Ethiopian Airlines.
+Khartoum International Airport is not currently running commercial flights. It officially re-opened in October 2025 but was subject to drone attacks and the risk of further attacks continues. The only civilian airport operating international flights is Port Sudan Airport, however it was also subject to drone attacks in early May 2025. Since then, no new strikes have been reported, but surveillance drone activity has continued. A limited number of airlines are currently operating from the airport.
 
 There are no Sudanese airlines which currently meet the standards required to operate direct flights to the UK or EU.
 
@@ -176,12 +174,8 @@ Flash flooding can happen during the rainy season from July to October. Risks at
 * flooding that can make areas inaccessible by road, including areas south of Khartoum
 * dry riverbeds (‘wadis’) being hit by flash floods, with many only being passable on a major road
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/sudan/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/sudan/entry-requirements)
 
-[Next
-:
-Regional risks](/foreign-travel-advice/sudan/regional-risks)
+[Next:Regional risks](/foreign-travel-advice/sudan/regional-risks)
 
 [View a printable version of the whole guide](/foreign-travel-advice/sudan/print)

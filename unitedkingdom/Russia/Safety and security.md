@@ -48,7 +48,7 @@ The situation remains unpredictable and could escalate without warning.
 
 If you do not need to be in Russia, the FCDO strongly advises you to consider leaving.
 
-You cannot fly directly from Russia to the UK or through EU countries. There are limited commercial airlines with indirect flights through the Middle East, Serbia and Turkey. Check the latest information with your airline or travel provider.
+You cannot fly directly from Russia to the UK or through EU countries. There are limited commercial airlines with indirect flights including through the Middle East, Serbia, Azerbaijan, Central Asia, Georgia and Turkey. Check the latest information with your airline or travel provider.
 
 ### Land border crossings
 
@@ -127,7 +127,7 @@ If you are a British-Russian dual national, you are at risk of arrest, questioni
 
 It may take some time for the Russian authorities to tell us of your arrest or detention and to give us permission to visit you. They will control your access to your family during your detention. Conditions in Russian penitentiary institutions are poor.
 
-If you are a British-Russian dual national, we will not be informed of your arrest. The Russian authorities will treat you as a Russian national. They will not allow FCDO consular access to visit you.
+If you are a British-Russian dual national, we may not be informed of your arrest. The Russian authorities will treat you as a Russian national. They will not allow FCDO consular access to visit you.
 
 ### Restrictions on publishing and distributing information
 
@@ -238,6 +238,14 @@ You must get permission from the [Russian aviation authority](http://www.favt.r
 ### Mobile phones
 
 If you travel to Russia with a non-Russian SIM card, you may not be able to access mobile internet, SMS or other services. Buying a local-network SIM card in Russia can be difficult for visitors and could take up to 2 weeks to complete. Make sure your friends and relatives know how to contact you if your mobile phone does not work.
+
+You need to present your passport or other ID and pass biometric checks to buy a Russian sim card from local providers in Russia. You may be asked to perform these checks even if you have had a local SIM for some time.
+
+You can continue using your UK SIM in Russia without any local identity checks as long as your UK mobile company provides roaming service for Russia.
+
+Any SIM which has not been connected to the Russian network for 72 hours will not be able to connect to the internet or send SMS when they are first switched on. You may have to wait for some time for the services to resume. This may vary from several hours to several days.  Some networks may allow you to complete a set of actions to get your access restored quicker.
+
+Make sure friends and relatives know how to contact you if your mobile phone does not work.
 
 ### Cybersecurity laws
 
@@ -363,12 +371,8 @@ There are areas of wildfires in western and southern Russia.
 
 Parts of Russia are in the Arctic Circle, including some very remote areas of land and sea. Emergency medical assistance and search and rescue are limited in these areas. See [Arctic travel safety advice](https://www.gov.uk/guidance/arctic-travel-safety-advice).
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/russia/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/russia/entry-requirements)
 
-[Next
-:
-Health](/foreign-travel-advice/russia/health)
+[Next:Health](/foreign-travel-advice/russia/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/russia/print)

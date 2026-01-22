@@ -1,15 +1,22 @@
 # Warnings and insurance
 
 Still current at:
-:   20 January 2026
+:   22 January 2026
 
 Updated:
-:   19 January 2026
+:   21 January 2026
 
 Latest update:
-:   New information about significant disruption following a serious rail incident in Andalusia (‘Warnings and insurance’ page).
+:   Updated information about significant disruption following a serious rail incident in Catalonia (‘Warnings and insurance’ page).
 
 ## Travel disruption
+
+### Catalonia – local rail network suspension
+
+Following incidents on the Catalan Rodalies (cercanías) rail network on 20 January, expect major disruption on all Rodalies services.  
+Check routes before travelling.
+
+### Andalusia – high‑speed train collision
 
 On 18 January, two high‑speed trains collided near Adamuz, in the province of Córdoba in Andalusia, southern Spain.
 
@@ -18,7 +25,7 @@ Significant disruption to rail services between Madrid and Andalusia is expected
 If you need assistance or information about affected passengers, you can contact:
 
 * ADIF: (+34) 900 10 10 20 @Adif\_es
-* IRYO: (+34) 00 00 14 02 @iryo\_eu
+* IRYO: (+34) 900 00 14 02 @iryo\_eu
 * Emergency services (112 EMA): From inside Andalusia: 061; from outside Andalusia: (+34) 953 00 11 49
 
 If you are a British national and you or a family member have been affected by this accident and require consular support, call the nearest British Embassy or Consulate on 0034 91 714 6300.

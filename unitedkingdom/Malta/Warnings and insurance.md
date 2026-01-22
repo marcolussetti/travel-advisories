@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   20 January 2026
+:   22 January 2026
 
 Updated:
-:   19 January 2026
+:   21 January 2026
 
 Latest update:
-:   Information on severe weather warnings for Malta on 19 and 20 January (Warnings and Insurance)
+:   Removal of information on severe weather warnings for Malta on 19 and 20 January.
 
 ## Before you travel
 
@@ -26,12 +26,6 @@ If you choose to travel, research your destinations and [get appropriate travel
 ## About FCDO travel advice
 
 The Foreign, Commonwealth & Development Office (FCDO) provides advice about risks of travel to help you make informed decisions. Find out [more about FCDO travel advice](https://www.gov.uk/guidance/about-foreign-commonwealth-development-office-travel-advice).
-
-### Information on severe weather warning for Malta on 19 and 20 January
-
-Severe weather, including strong winds, are expected across Malta and Gozo on Monday 19 January and Tuesday 20 January. Public transport will be disrupted; the Gozo ferry is suspended. Malta International Airport is expected to remain open but this could change at short notice. The Government of Malta has advised people to stay indoors where possible, and avoid coastal areas. Monitor local media for further updates.
-
-The British High Commission to Malta will be closed to the public on Tuesday 20 January. For urgent consular assistance affecting British Nationals please call: +356 2323 0000.
 
 ### Get travel advice updates
 

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   15 January 2026
+:   22 January 2026
 
 Updated:
-:   14 January 2026
+:   21 January 2026
 
 Latest update:
-:   Information that due to the security situation, UK staff have been temporarily withdrawn from Iran. Our embassy continues to operate remotely (‘Warnings and insurance’ page).
+:   Removal of information about staff being temporarily withdrawn from Iran.
 
 ![](https://assets.publishing.service.gov.uk/media/627e359b8fa8f53f99901991/FCDO__TA__021_-_Iran_Travel_Advice_Ed5__WEB_.jpg)
 
@@ -26,7 +26,7 @@ Find out more about [why FCDO advises against travel](https://www.gov.uk/foreign
 
 ## Protests
 
-In recent days, protests have been taking place in a number of locations across Iran. There are reports of violence and fatalities, as well as the arrest and detention of protesters by the Iranian authorities.
+Protests have been taking place in a number of locations across Iran. There are reports of violence and fatalities, as well as the arrest and detention of protesters by the Iranian authorities.
 
 There is ongoing disruption to communications across Iran, with severe limitations on internet access. Some international flights have also been cancelled. Check with your airline for further information.
 
@@ -37,10 +37,6 @@ If you are at or near a protest, you are at serious risk of arrest. Even if you 
 In June, Israel and the US conducted military action against Iran targeting a wide range of military, nuclear and civil installations across the country. On 24 June a ceasefire began, however, this remains a fragile situation with the potential to deteriorate quickly and without warning.
 
 ## Limited UK government support
-
-Due to the ongoing security situation, we have taken the precautionary measure to temporarily withdraw UK staff from Iran. Our embassy continues to operate remotely.
-
-The situation could escalate quickly and poses significant risks. We continue to advise against all travel to Iran.
 
 UK government support is extremely limited in Iran. No face-to-face consular assistance will be possible in an emergency and the UK government will not be able to help you if you get into difficulty in Iran.
 

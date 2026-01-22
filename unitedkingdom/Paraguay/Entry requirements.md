@@ -32,7 +32,7 @@ If you are travelling to Paraguay to work or study, you should contact the [Par
 
 ## Travelling with children
 
-You need a parental permission document (‘Permiso del Menor’) to bring a child into or out of Paraguay if they are not travelling with both parents. The permission document must be certified by the [Paraguayan Embassy in the UK](http://www.paraguayembassy.co.uk/), or your nearest Paraguayan embassy. You can get more [information on requirements for children entering or leaving Paraguay](https://www.migraciones.gov.py/index.php/tramites/ingreso-y-salida-del-pais/requerimientos-migratorios-de-ingreso-y-salida-del-paraguay-de-menores) from the Paraguayan Immigration Directorate (in Spanish).
+Children under 18 years of age who are resident in Paraguay need written permission (‘Permiso del Menor’) from the non-accompanying parents to leave the country. The permission is granted by a Justice of the Peace Court, where the applicant resides. You can get more information on requirements for children entering or leaving Paraguay from the [Paraguayan Immigration Directorate](https://www.migraciones.gov.py/index.php/tramites/ingreso-y-salida-del-pais/requerimientos-migratorios-de-ingreso-y-salida-del-paraguay-de-menores) (in Spanish), the [Supreme Court of Justice](https://www.pj.gov.py/contenido/460-autorizacion-para-viajar-al-exterior-de-ninos-ninas-y-adolescentes/460) (in Spanish) or from your nearest Paraguayan Consulate.
 
 ## Vaccine requirements
 

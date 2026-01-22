@@ -57,8 +57,6 @@ Follow FCDO:
 
 The Overseas Business Risk service offers [information and advice for British companies operating in Seychelles](https://www.gov.uk/government/publications/overseas-business-risk-seychelles) on how to manage political, economic, and business security-related risks.
 
-[Previous
-:
-Health](/foreign-travel-advice/seychelles/health)
+[Previous:Health](/foreign-travel-advice/seychelles/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/seychelles/print)

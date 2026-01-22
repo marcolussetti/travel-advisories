@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   11 December 2025
+:   22 January 2026
 
 Updated:
-:   10 December 2025
+:   21 January 2026
 
 Latest update:
-:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
+:   New information on travelling with children and leaving Russia. (‘Entry requirements’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/621cd8428fa8f54915f43831/FCDO__TA__059_-_Russia_Travel_Advice_Ed1__WEB_.jpg)
 
@@ -46,7 +46,7 @@ If you hold both British and Russian nationality, Russian authorities will treat
 
 ### Military Service
 
-Russia operates a conscription-based military system. Men aged 18 to 30 with Russian citizenship may be called up for two-year compulsory military service. Conscription campaigns take place twice a year.
+Russia operates a conscription-based military system. Men aged 18 to 30 with Russian citizenship may be called up for two-year compulsory military service. Conscription campaigns continue throughout the year.
 
 Russian law prevents eligible individuals from leaving Russia once their draft notice appears on the federal electronic draft register.
 
@@ -72,8 +72,6 @@ Follow FCDO:
 * [travel advice on Facebook](https://www.facebook.com/FCDOTravel/)
 * [Travel Aware on Instagram](https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Ftravelaware%2F&is_from_rle)
 
-[Next
-:
-Entry requirements](/foreign-travel-advice/russia/entry-requirements)
+[Next:Entry requirements](/foreign-travel-advice/russia/entry-requirements)
 
 [View a printable version of the whole guide](/foreign-travel-advice/russia/print)

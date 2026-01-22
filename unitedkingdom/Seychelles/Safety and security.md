@@ -42,7 +42,11 @@ Topless sunbathing is uncommon. Nudism is not accepted and is likely to cause of
 
 ### Illegal drugs and prison sentences
 
-Drug taking and smuggling are serious offences in Seychelles. Penalties are severe and may include fines and prison sentences, up to life imprisonment.
+Seychelles has strict laws on drug use and smuggling. Penalties are severe and may include fines and prison sentences, up to life imprisonment. This can be applied both for supplying and simple possession of any drugs, including when transiting through the airport. Bail is highly unlikely and prosecutions can take a year or more to come to court.
+
+Seychelles International Airport has excellent technology and security for detecting illegal items, including cannabis. This can be used to scan the baggage of transiting passengers.
+
+Pack all luggage yourself and never carry anything through customs for anyone else.
 
 ### LGBT+ travellers
 
@@ -100,12 +104,8 @@ If you’re travelling by sea, [read about the regional risks at sea](https://ww
 
 Most of the inner island resorts are accessible by ferry. Pay attention to safety briefings when taking any boat trips. Make sure life jackets are provided, especially on smaller excursion boats.
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/seychelles/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/seychelles/entry-requirements)
 
-[Next
-:
-Health](/foreign-travel-advice/seychelles/health)
+[Next:Health](/foreign-travel-advice/seychelles/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/seychelles/print)

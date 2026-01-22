@@ -1,11 +1,11 @@
 {
     "name": "Paraguay",
-    "update_reason": "Updated with information about the risks from terrorism (\u2018Safety and security\u2019 page\u2019).",
+    "update_reason": "Updated information on travelling with children ('Entry requirements' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Paraguay/Warnings and insurance.md",
-            "update_date": "2026-01-08T11:00:14+00:00"
+            "update_date": "2026-01-21T16:11:30+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Paraguay/Getting help.md"
         }
     ],
-    "update_date": "2026-01-08T11:00:14+00:00"
+    "update_date": "2026-01-21T16:11:30+00:00"
 }

@@ -52,12 +52,8 @@ There are strict rules about [goods you can take into or out of Seychelles](http
 
 If you are taking cash with a value of 50,000 Seychellois rupees or more into Seychelles, declare this when you apply for your travel authorisation.
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/seychelles)
+[Previous:Warnings and insurance](/foreign-travel-advice/seychelles)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/seychelles/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/seychelles/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/seychelles/print)

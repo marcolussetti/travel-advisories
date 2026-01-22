@@ -66,12 +66,8 @@ Contact the [Sudanese Embassy in the UK](https://www.sudanembassy.org.uk/) for m
 
 There are strict rules about goods you can take into or out of Sudan. You must declare anything that may be prohibited or subject to tax or duty.
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/sudan)
+[Previous:Warnings and insurance](/foreign-travel-advice/sudan)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/sudan/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/sudan/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/sudan/print)

@@ -1,18 +1,18 @@
 # Warnings and insurance
 
 Still current at:
-:   16 January 2026
+:   22 January 2026
 
 Updated:
-:   15 January 2026
+:   21 January 2026
 
 Latest update:
-:   CORRECTION: FCDO now advises against all but essential travel to Israel and Palestine and continues to advise against all travel to parts of Israel and Palestine. There is a heightened risk of regional tension. Escalation could lead to travel disruption and other unanticipated impacts (‘Warnings and insurance’ page).
+:   FCDO now advises against all but essential travel to parts of Israel and Palestine. FCDO continues to advise against all travel to parts of Israel and Palestine ('Warnings and insurance' page).
 
-![](https://assets.publishing.service.gov.uk/media/69681bfab122b8f5f68d0df4/Palestine_Travel_Advice.jpg)
+![](https://assets.publishing.service.gov.uk/media/6970a955f88ad0be09b9ef19/FCDO__TA__022_-_Israel_Travel_Advice_Ed25__WEB___3___1_.jpg)
 
 
-[Download a more detailed map (PDF, 397 KB)](https://assets.publishing.service.gov.uk/media/69681bfa58f53a31e87a2306/Palestine_Travel_Advice.pdf)
+[Download a more detailed map (PDF, 399 KB)](https://assets.publishing.service.gov.uk/media/6970a955f88ad0be09b9ef1a/FCDO__TA__022_-_Israel_Travel_Advice_Ed25__3___1_.pdf)
 
 This travel advice covers Israel and Palestine.
 
@@ -34,12 +34,16 @@ FCDO advises against all travel to:
 
 * Tulkarm Governorate, Jenin Governorate, and Tubas Governorate except Route 90
 
-Northern Israel and Occupied Golan Heights
+FCDO advises against all but essential travel to:
 
-* FCDO advises against all travel within 500m of the Area of Separation in the occupied Golan Heights (the ‘Alpha line’). Do not attempt to enter the occupied Golan Heights through Syria.
+* the rest of the West Bank, except for: East Jerusalem, Bethlehem Governorate, Ramallah Municipality, Jericho municipality and all areas which lie south of it (this includes the Allenby crossing), Highway 1 that links Jerusalem and Tel Aviv and the areas that lie to the south and west of the Highway (this includes Highway 3), and Route 443 and Highway 45 which link Jerusalem and Tel Aviv
+
+### Northern Israel and Occupied Golan Heights
+
+* FCDO advises against all travel within 500m of the Area of Separation in the occupied Golan Heights (the ‘Alpha line’). Do not attempt to enter the occupied Golan Heights through Syria
 * FCDO advises against all travel to the Sheba’a Farms and Ghajja
+* FCDO advises against all but essential travel to within 500m of the border with Lebanon
 
-FCDO advises against all but essential travel to the rest of Israel and Palestine.
 Find out more about [why FCDO advises against travel](https://www.gov.uk/foreign-travel-advice/israel/regional-risks).
 
 ## Regional risks
@@ -58,7 +62,7 @@ British nationals should take sensible precautions, considering their own ind
 
 Due to ongoing regional tensions, we recommend against all but essential travel to Israel and Palestine. We continue to recommend against all travel to parts of Israel and Palestine.
 
-Due to the ongoing security situation, we have taken the precautionary measure to temporarily move some of our staff and their dependents from Tel Aviv to another location within Israel. Our Embassy continues to operate as normal. The situation could escalate quickly and poses significant risks. Regional tensions may cause international borders (air and land) to close.
+The situation could escalate quickly and poses significant risks. Regional tensions may cause international borders (air and land) to close.
 
 If you are in Israel and Palestine, be aware that whilst the frequency of missile and drone attacks has decreased, there is still a risk of rocket and drone attacks throughout Israel. There is a risk of shrapnel from intercepted missiles falling across Israel and Palestine, and possible disruption at Ben Gurion airport in Tel Aviv.
 

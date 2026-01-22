@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   9 January 2026
+:   22 January 2026
 
 Updated:
-:   8 January 2026
+:   21 January 2026
 
 Latest update:
-:   Updated with information about the risks from terrorism (‘Safety and security’ page’).
+:   Updated information on travelling with children ('Entry requirements' page).
 
 ## Before you travel
 
