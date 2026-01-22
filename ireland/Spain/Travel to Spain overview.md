@@ -6,11 +6,13 @@ Normal Precautions
 
 ### Travel Alert
 
-On 18 January, 2026, two high‑speed trains were involved in an accident near Adamuz, in Córdoba in Andalusia. Emergency services are responding to the scene.
+On 18 January, 2026, two high‑speed trains were involved in an accident near Adamuz, in Córdoba in Andalusia.
 
 Significant disruptions to rail services are ongoing. All high‑speed services between Madrid and Andalusia have been suspended, disrupting connections with Seville, Córdoba, Málaga, Huelva, Cádiz, Algeciras and Granada. Citizens are advised to consult their travel operator.
 
-Any Irish citizen affected by this accident requiring consular assistance should contact the Embassy of Ireland in Madrid on 0034 914364093.
+On 20 January, 2026, a Barcelona commuter train on the R4 line, between Sant Sadurní d’Anoia and Gelida (40km west of Barcelona), derailed after a retaining wall fell onto the tracks. As a precautionary measure, all RENFE Rodalies commuter train services have been temporarily suspended.
+
+Any Irish citizen affected by these accidents requiring consular assistance should contact the Embassy of Ireland in Madrid on 0034 914364093.
 
 ### General Travel Advice
 

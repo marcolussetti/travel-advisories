@@ -6,6 +6,8 @@ High Degree of Caution
 
 ### **Travel Alert**
 
+**On 18 January 2026, the Guatemalan government declared a 30‑day nationwide State of Emergency (sometimes translated as ‘State of Siege’). The State of Emergency is in response to escalating insecurity linked to organised crime and gang activity, including recent attacks on law enforcement and prison riots. Irish citizens should exercise heightened caution. Under the measure, authorities may militarise certain areas, restrict civil liberties such as freedom of movement and assembly, and carry out arrests or home searches without warrants. Some public services may also be disrupted. Irish citizens should follow guidance of local authorities, and monitor local media for any new information.**
+
 On 14 December 2025, the Guatemalan government declared a State of Emergency in the municipalities of Nahuala and Santa Catarina Ixtahuacan in the department of Sololá in western Guatemala. The State of Emergency is a response to increased criminal activity in the two municipalities, and it is expected to last for at least 15 days. Irish citizens travelling in those municipalities, and surrounding areas, should exercise additional caution, avoid large crowds/demonstrations, follow instructions issued by local authorities, and monitor local media for any new information.
 
 Recently, Guatemala has been subject to earthquakes of varying severity, from 3.0 to 5.7 magnitude. Earthquakes and their aftershocks can also cause landslides in some parts of the country. If travelling through Guatemala, please make sure you know what to do in case of an earthquake. Earthquakes may also cause road blockages and temporary disruptions.

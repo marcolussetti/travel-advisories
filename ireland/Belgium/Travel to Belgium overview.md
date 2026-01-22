@@ -4,6 +4,18 @@
 
 High Degree of Caution
 
+### **Travel Alert**
+
+Industrial action is an ongoing issue in Belgium. This can occur at short notice and can cause travel disruption.
+
+A five-day national train strike will impact services from 22:00 on Sunday 25 January until 22:00 on Friday 30 January. A limited domestic service is expected to operate. The strike may also impact international train services operating to/from and via Belgium.
+
+For updates, monitor local news and check with your travel operator.
+
+[**SNCB-NMBS Belgian Rail (domestic)**](https://www.belgiantrain.be/en/travel-info/train-network-travel-info/strike)
+
+[**SNCB-NMBS International**](https://www.b-europe.com/EN/Disruptions)
+
 ### **General Travel Advice**
 
 Irish citizens need a valid passport or passport card to enter Belgium. Failure to produce your passport or passport card on arrival at the Belgian border may result in being detained and the issuing of a fine by Police.
@@ -18,7 +30,7 @@ Citizens can also follow the Irish Embassy in Brussels on X [**@IrishEmbBelgium*
 
 ### **Temporary Internal Border Controls**
 
-Authorities have announced the implementation of enhanced immigration checks within Belgium and at border crossing until December 2025. Checks may occur on motorways, motorway car parks, international bus traffic, international trains and intra-Schengen flights.
+Authorities have announced the implementation of enhanced immigration checks within Belgium and at border crossings. Checks may occur on motorways, motorway car parks, international bus traffic, international trains and intra-Schengen flights.
 
 Travellers may also be subject to controls at Schengen borders neighbouring Belgium following the introduction of checks by authorities in France, Germany and The Netherlands.
 
