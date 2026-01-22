@@ -4,13 +4,14 @@
 
 ### Tensions along the Cambodia-Thailand border
 
-Armed conflict resumed along the Cambodia-Thailand border on December 7, 2025. Stemming from a longstanding border dispute, the conflict has expanded and intensified since December 9. There have been military and civilian casualties. The security situation remains volatile and unpredictable. Civilian evacuations are ongoing from several areas along the border.
+There have been ongoing armed clashes along the Cambodia-Thailand border stemming from a longstanding border dispute. Cambodian and Thai authorities reached a ceasefire agreement on December 27, 2025. The ceasefire is in effect; however, the security environment in border areas remains unpredictable. Land border crossings between Cambodia and Thailand are currently closed.
 
-Land mines are present in the disputed border regions. Land border crossings between Cambodia and Thailand are currently closed.
+Land mines and unexploded ordnance are present in the disputed border regions.
 
-* Expect an increased military presence and vigilance
-* Follow the instructions of local authorities, including evacuation orders
-* Exercise increased caution if you are travelling to any Cambodia-Thailand border areas
+If you decide to travel near the border with Thailand despite the advisory:
+
+* expect an increased military presence and vigilance
+* follow the instructions of local authorities, including evacuation orders
 
 ### Landmines
 

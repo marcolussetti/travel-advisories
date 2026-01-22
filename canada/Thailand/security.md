@@ -4,7 +4,7 @@
 
 ### Tensions along the Thailand-Cambodia border
 
-Armed conflict resumed along the Thailand-Cambodia border on December 7, 2025. Stemming from a longstanding border dispute, the conflict has expanded and intensified since December 9. There have been military and civilian casualties. The security situation remains volatile and unpredictable.
+There have been ongoing armed clashes along the Thailand-Cambodia border stemming from a longstanding border dispute. Thai and Cambodian authorities reached a ceasefire agreement on December 27, 2025. The ceasefire is in effect; however, the security environment in border areas remains unpredictable. Land border crossings between Thailand and Cambodia are currently closed.
 
 Thai authorities have declared martial law in several districts along the border with Cambodia. When martial law is in effect, local authorities have enhanced powers and may impose security measures such as:
 
@@ -12,11 +12,12 @@ Thai authorities have declared martial law in several districts along the border
 * evacuations
 * and other movement restrictions
 
-Land mines are present in the disputed border regions. Land border crossings between Thailand and Cambodia are currently closed.
+Land mines and unexploded ordnance are present in the disputed border regions.
 
-* Expect an increased military presence and vigilance
-* Follow the instructions of local authorities, including curfews and evacuation orders
-* Exercise increased caution if you are travelling to any areas along the border with Cambodia
+If you decide to travel near the border with Cambodia despite the advisory:
+
+* expect an increased military presence and vigilance
+* follow the instructions of local authorities, including curfews and evacuation orders
 
 ### Southern provinces of Narathiwat, Pattani, Yala and southern Songkhla province
 
