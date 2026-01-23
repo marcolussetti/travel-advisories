@@ -1,13 +1,25 @@
 # Warnings and insurance
 
 Still current at:
-:   11 December 2025
+:   23 January 2026
 
 Updated:
-:   10 December 2025
+:   22 January 2026
 
 Latest update:
-:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
+:   Addition of information about recent flooding in Botswana ('Safety and security' page).
+
+## Flooding in Chobe District and neighbouring South Africa
+
+Severe flooding is affecting Chobe District. Some roads and airstrips are currently closed, and further closures may occur at short notice. Travellers should plan trips carefully, ensure routes are safe and accessible.
+
+Check with your travel or accommodation provider about your options and reconsider your itinerary if necessary.
+
+Follow updates and guidance from the [Ministry of Environment and Tourism](https://www.facebook.com/profile.php?id=61569658071888).
+
+Monitor weather updates from the [Botswana Meteorological Services](https://www.facebook.com/BotswanaMet).
+
+Flooding has also been reported in neighbouring South Africa (Limpopo and Mpumalanga provinces). Travellers should monitor updates from the [Botswana Unified Revenue Services](https://www.facebook.com/BotswanaUnifiedRevenueService) for potential border impacts.
 
 ## Before you travel
 
@@ -37,8 +49,6 @@ Follow FCDO:
 * [travel advice on Facebook](https://www.facebook.com/FCDOTravel/)
 * [Travel Aware on Instagram](https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Ftravelaware%2F&is_from_rle)
 
-[Next
-:
-Entry requirements](/foreign-travel-advice/botswana/entry-requirements)
+[Next:Entry requirements](/foreign-travel-advice/botswana/entry-requirements)
 
 [View a printable version of the whole guide](/foreign-travel-advice/botswana/print)

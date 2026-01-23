@@ -63,8 +63,6 @@ Follow FCDO:
 
 The Overseas Business Risk service offers [information and advice for British companies operating in Serbia](https://www.gov.uk/government/publications/overseas-business-risk-serbia) on how to manage political, economic, and business security-related risks.
 
-[Previous
-:
-Health](/foreign-travel-advice/serbia/health)
+[Previous:Health](/foreign-travel-advice/serbia/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/serbia/print)

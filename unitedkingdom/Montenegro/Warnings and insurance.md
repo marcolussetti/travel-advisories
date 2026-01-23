@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   20 January 2026
+:   23 January 2026
 
 Updated:
-:   19 January 2026
+:   22 January 2026
 
 Latest update:
-:   Addition of information about protests and potential travel disruption ('Warnings and insurance' page).
+:   New information around travel disruption at land border crossings (‘Entry requirements’ page).
 
 ## Protests and potential travel disruption
 

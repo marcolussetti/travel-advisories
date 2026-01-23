@@ -1,11 +1,11 @@
 {
     "name": "North Macedonia",
-    "update_reason": "New information about dual nationals returning to the UK (\u2018Entry requirements\u2019 page).",
+    "update_reason": "New information around travel disruption at land border crossings ('Entry requirements' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/North Macedonia/Warnings and insurance.md",
-            "update_date": "2025-12-10T13:23:02+00:00"
+            "update_date": "2026-01-22T17:17:16+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/North Macedonia/Getting help.md"
         }
     ],
-    "update_date": "2025-12-10T13:23:02+00:00"
+    "update_date": "2026-01-22T17:17:16+00:00"
 }

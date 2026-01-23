@@ -45,6 +45,10 @@ The dated entry stamp helps avoid any problems about the length of your stay in 
 
 To stay longer than 90 days, you must meet the Montenegrin government’s entry requirements. Check which type of visa or work permit you may need with the [Montenegrin Embassy in the UK](https://www.gov.me/en/diplomatic-missions/embassies-and-consulates-of-montenegro/united-kingdom-of-great-britain-and-northern-ireland) in advance of your arrival to Montenegro.
 
+## Land border crossings
+
+On 26 January, planned protests by transport associations at some land border crossings in the Western Balkans have the potential to cause significant delays. If you are planning cross-border travel, check local media before travelling and plan ahead to avoid disruption to your journey.
+
 ## Vaccine requirements
 
 For details about medical entry requirements and recommended vaccinations, see [TravelHealthPro’s Montenegro guide](https://travelhealthpro.org.uk/country/152/montenegro#Vaccine_Recommendations).

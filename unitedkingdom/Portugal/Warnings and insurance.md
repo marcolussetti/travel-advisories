@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   11 December 2025
+:   23 January 2026
 
 Updated:
-:   10 December 2025
+:   22 January 2026
 
 Latest update:
-:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
+:   Updated information about travelling with children (‘Entry requirements’ page).
 
 This travel advice also covers Madeira, Porto Santo and the Azores.
 
@@ -39,8 +39,6 @@ Follow FCDO:
 * [travel advice on Facebook](https://www.facebook.com/FCDOTravel/)
 * [Travel Aware on Instagram](https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Ftravelaware%2F&is_from_rle)
 
-[Next
-:
-Entry requirements](/foreign-travel-advice/portugal/entry-requirements)
+[Next:Entry requirements](/foreign-travel-advice/portugal/entry-requirements)
 
 [View a printable version of the whole guide](/foreign-travel-advice/portugal/print)

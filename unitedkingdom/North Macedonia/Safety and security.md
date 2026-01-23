@@ -127,12 +127,8 @@ Follow any advice from the police or local authorities.
 
 Earthquakes occur occasionally. The US Federal Emergency Management Agency website has advice about [what to do before, during and after an earthquake](https://www.ready.gov/earthquakes).
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/north-macedonia/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/north-macedonia/entry-requirements)
 
-[Next
-:
-Health](/foreign-travel-advice/north-macedonia/health)
+[Next:Health](/foreign-travel-advice/north-macedonia/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/north-macedonia/print)

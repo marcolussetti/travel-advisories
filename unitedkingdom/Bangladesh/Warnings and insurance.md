@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   3 January 2026
+:   23 January 2026
 
 Updated:
-:   2 January 2026
+:   22 January 2026
 
 Latest update:
-:   Removal of information that Bangladesh will observe 3 days of national mourning, starting with a public holiday on 31 December (‘Warnings and insurance’ page).
+:   Updated information that Bangladesh will hold national elections on 12 February and that election campaigning started on 22 January (‘Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/66cdbf9203c7db1b41c7091b/FCDO__TA__050_-_Bangladesh_Travel_Advice_Ed2__WEB_.jpg)
 
@@ -31,6 +31,12 @@ Find out more about [why FCDO advises against travel](https://www.gov.uk/foreig
 ## Support from the UK government
 
 FCDO’s ability to provide assistance is severely limited in areas where we advise against travel.
+
+## National elections
+
+Elections will take place in Bangladesh on 12 February. The election campaign started on 22 January. Political rallies will become more frequent, with large crowds, an increased security presence and likely disruption to transport. Plan carefully and make sure you have alternative plans if faced with any disruption.
+
+See [how to get help from the UK government abroad](https://www.contact.service.csd.fcdo.gov.uk/posts/pakistan/british-high-commission-islamabad) including in an emergency.
 
 ## Before you travel
 

@@ -36,6 +36,10 @@ If you are travelling through (transiting) other countries, check travel advice 
 
 If you hold a UK refugee travel document, you must have a visa to travel to North Macedonia. You also need a visa to travel through North Macedonia on your way to Kosovo. You can apply for a visa from the [Macedonian Embassy in the UK](https://london.mfa.gov.mk/en).
 
+## Land border crossings
+
+On 26 January, planned protests by transport associations at some land border crossings in the Western Balkans have the potential to cause significant delays. If you are planning cross-border travel, check local media before travelling and plan ahead to avoid disruption to your journey.
+
 ## Registering with the police
 
 You must register with the local police in the town or city where you’re staying within 48 hours of your arrival in North Macedonia. If you’re staying in a hotel, staff will register you at check-in.
@@ -64,12 +68,8 @@ There are strict rules about [goods you can take into or out of North Macedonia]
 
 Declare foreign currency if the value is 10,000 euros or more when you enter North Macedonia. If you do not, customs officers may detain you and seize the cash when you try to leave.
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/north-macedonia)
+[Previous:Warnings and insurance](/foreign-travel-advice/north-macedonia)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/north-macedonia/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/north-macedonia/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/north-macedonia/print)

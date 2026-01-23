@@ -172,12 +172,8 @@ The US Federal Emergency Management Agency website has advice about [what to do 
 
 For severe weather warnings, go to the [European Meteorological Services website](https://www.meteoalarm.org/en/).
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/portugal/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/portugal/entry-requirements)
 
-[Next
-:
-Health](/foreign-travel-advice/portugal/health)
+[Next:Health](/foreign-travel-advice/portugal/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/portugal/print)

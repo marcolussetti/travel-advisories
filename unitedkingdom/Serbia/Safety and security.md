@@ -130,12 +130,8 @@ Parts of Serbia can flood after heavy rain. See flood warnings from the [Serbia
 
 There is a risk of earthquakes in Serbia, and earth tremors are common. Serious earthquakes are less frequent but can occur. The US Federal Emergency Management Agency has advice on [what to before, during and after an earthquake](https://www.ready.gov/earthquakes).
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/serbia/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/serbia/entry-requirements)
 
-[Next
-:
-Health](/foreign-travel-advice/serbia/health)
+[Next:Health](/foreign-travel-advice/serbia/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/serbia/print)

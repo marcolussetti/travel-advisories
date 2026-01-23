@@ -1,11 +1,11 @@
 {
     "name": "Bangladesh",
-    "update_reason": "Removal of information that Bangladesh will observe 3 days of national mourning, starting with a public holiday on 31 December (\u2018Warnings and insurance\u2019 page).",
+    "update_reason": "Updated information that Bangladesh will hold national elections on 12 February and that election campaigning started on 22 January (\u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Bangladesh/Warnings and insurance.md",
-            "update_date": "2026-01-02T17:00:07+00:00"
+            "update_date": "2026-01-22T15:35:39+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Bangladesh/Getting help.md"
         }
     ],
-    "update_date": "2026-01-02T17:00:07+00:00"
+    "update_date": "2026-01-22T15:35:39+00:00"
 }

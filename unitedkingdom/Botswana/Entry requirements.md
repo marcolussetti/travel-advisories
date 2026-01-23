@@ -54,12 +54,8 @@ There are strict rules about goods you can take into or out of Botswana. You mus
 
 Declare foreign or local cash currency if the value is 10,000 Botswana pula or more. If you do not, you could be liable to prosecution.
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/botswana)
+[Previous:Warnings and insurance](/foreign-travel-advice/botswana)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/botswana/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/botswana/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/botswana/print)

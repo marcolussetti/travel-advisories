@@ -30,7 +30,7 @@ When entering Serbia, make sure border guards stamp your passport. If you try to
 
 ## Land border crossings
 
-Only enter Serbia by land through recognised border crossings. Serbian borders remain open for entry and exit, subject to any entry requirements currently in place in neighbouring countries.
+Only enter Serbia by land through recognised border crossings. On 26 January, planned protests by transport associations at some land border crossings in the Western Balkans have the potential to cause significant delays. If you are planning cross-border travel, check local media before travelling and plan ahead to avoid disruption to your journey.
 
 ### Travelling between Serbia and Kosovo
 
@@ -84,12 +84,8 @@ You should exchange any unwanted dinars before you leave Serbia. British banks d
 
 It is not possible to exchange Scottish and Northern Irish banknotes in Serbia.
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/serbia)
+[Previous:Warnings and insurance](/foreign-travel-advice/serbia)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/serbia/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/serbia/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/serbia/print)
