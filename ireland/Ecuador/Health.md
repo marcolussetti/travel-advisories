@@ -4,11 +4,9 @@ Check with your doctor well in advance of travelling (8 weeks) to see if any vac
 
 ### **Yellow Fever**
 
-As of 12 May 2025, travellers to Ecuador will require a yellow fever vaccination certificate, owing to the increase of yellow fever in the region. In particular, travellers from Colombia, Peru, Bolivia, and Brazil will need to present a yellow fever vaccination certificate.
+Travellers to Ecuador arriving from Brazil, Uganda, or the Democratic Republic of the Congo, or who have transited through airports in these countries, require a **yellow fever vaccination certificate**.
 
 The yellow fever vaccine must have been administered at least 10 days before entering Ecuador. The certificate may be requested when boarding by means of air, land, or sea transport to Ecuador.
-
-On 28 April 2025, the Ministry of Health of Ecuador launched a yellow fever prevention campaign in the Amazonian province of Zamora Chincipe, amid growing concerns about the spread of the virus in Ecuador and in parts of the wider region.
 
 ### **Zika Virus**
 
@@ -24,4 +22,4 @@ Malaria risk is present throughout most of the country. Visitors should discuss 
 
 ### **Altitude Sickness**
 
-Altitude sickness can also present problems, especially in Quito which is located 2800 metres above sea level. Visitors should seek medical advice on the risks of altitude sickness before traveling to Ecuador.
+Altitude sickness can also present problems, including in Quito which is located 2800 metres above sea level. Visitors should seek medical advice on the risks of altitude sickness before traveling to Ecuador.

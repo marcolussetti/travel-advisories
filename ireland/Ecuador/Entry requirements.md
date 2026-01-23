@@ -8,7 +8,13 @@ It is advisable to take a number of **photocopies of your passport** and to also
 
 ### **Entry via Peru or Colombia**
 
-An official entry stamp is required for those **entering Ecuador via the land border with Peru or Colombia**. Ecuadorian immigration officials may deny entry to travellers not in possession of an exit stamp from Peru/Colombia.
+If an Irish citizen decides to travel to Ecuador at this time via a land border from Peru or Colombia, **contrary to this travel advice**, they must present a criminal record certificate from their country of residence covering the last five years. The certificate must be legalised with a Hague Apostille. This does not apply to children and adolescents under 18.
+
+If they do not have the correct documentation they **may not be permitted** to enter via the land border, and they may have to change travel plans. This restriction applies **exclusively to land borders**, and not to entry via airports or seaports.
+
+For all entry, including via land, airports and seaports, you may be asked to provide a reason for your travel and evidence of a return or onward journey.
+
+Irish citizens **do not require** a visa to enter Ecuador for stays up to **90 days**.
 
 ### **Entry to Galapagos Islands**
 
@@ -27,8 +33,6 @@ Travellers must declare cash on exit from Ecuador and tax must be paid on amount
 
 ### **Vaccinations**
 
-There are no **COVID-19 vaccination** requirements to enter Ecuador. While the wearing of facemasks is no longer mandatory in Ecuador, travellers may be asked to wear them by private establishments. It is recommended to carry a mask and proof of vaccination at all times.
-
-As of 12 May 2025, travellers to Ecuador will require a **yellow fever vaccination certificate**, owing to the increase of yellow fever in the region. In particular, travellers from Colombia, Peru, Bolivia, and Brazil will need to present a yellow fever vaccination certificate.
+Travellers to Ecuador arriving from Brazil, Uganda, or the Democratic Republic of the Congo, or who have transited through airports in these countries, require a **yellow fever vaccination certificate**.
 
 The yellow fever vaccine must have been administered at least 10 days before entering Ecuador. The certificate may be requested when boarding by means of air, land, or sea transport to Ecuador.

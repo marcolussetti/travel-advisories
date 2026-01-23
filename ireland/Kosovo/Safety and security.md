@@ -30,7 +30,7 @@ Take normal, sensible precautions while in Kosovo:
 
 * Don’t carry your credit card, travel tickets and money together - leave spare cash and valuables in a safe place.
 * Don’t carry your passport unless absolutely necessary and leave a copy of your passport (and travel and insurance documents) with family or friends at home.
-* Be aware of mugging, bag snatching and pick-pocketing, particularly on busy public transport, in train stations, markets and other places frequented by tourists. You should also be aware that the incidence of car-jacking and car theft continue to increase, particularly in the city of Pristina
+* Be aware of mugging, bag snatching and pick-pocketing, particularly on busy public transport, in train stations, markets and other places frequented by tourists. Vehicle theft and car-jacking are noted issues, particularly in the city of Pristina.
 
 ### **Reporting Crime**
 

@@ -10,21 +10,20 @@ The security status of ‘Avoid Non-Essential Travel’ currently applies to all
 
 Ecuador is in a state of **“internal armed conflict”**. There is an increased presence of security forces to contain gang violence across the country, including in Guayaquil and Quito.
 
-The Embassy advises citizens to take normal precautions when travelling in the Galapagos Islands, off the coast of mainland Ecuador. Transit in the airports of Quito or Guayaquil for onward travel to the Galapagos Islands is considered safe.
+Owing to civil unrest, violent crime, and kidnapping, the security status of ‘**Avoid Non-Essential Travel’** **currently applies to most of Ecuador, with the following exceptions:**
 
-Owing to significant criminal activity drug trafficking, and high risk of violence, the Embassy advises to **avoid all travel to**:
+* **The Galápagos Islands,** where the Embassy advises citizens to **take normal precautions.** This also applies to citizens transiting through the airports of Quito or Guayaquil for onward travel to the Galapagos Islands;
+* **Quito and surround Pichincha province,** where we advise citizens to **exercise a high degree of caution.**
+
+**Owing to significant criminal activity drug trafficking, and high risk of violence, the Embassy advises to avoid all travel to:**
 
 * Within 20km of the **border with Colombia**, except for the official border-crossing town of Tulcan in Carchi province. In particular, avoid travel to Carchi and Sucumbíos;
 * **Minefields** near the southern portion of the border with Peru, in particular Chinchipe, El Pangui, Nangaritza, and Yantzaza;
 * **Esmeraldas**, **El Oro**, **Guayas**, and **Los Ríos** provinces.
 
-This **does not apply** to airside transit within Guayaquil Airport in Guayas Province, including onward or return travel to the **Galapagos Islands.**
-
-**To note, your travel insurance could be invalidated if you travel against advice of the Department of Foreign Affairs and Trade.**
-
 ### **Yellow Fever**
 
-As of 31 December 2025, travellers to Ecuador require a yellow fever vaccination certificate, owing to the increase of yellow fever in the region. In particular, travellers from Colombia, Peru, Bolivia, and Brazil will need to present a yellow fever vaccination certificate.
+Travellers to Ecuador arriving from Brazil, Uganda, or the Democratic Republic of the Congo, or who have transited through airports in these countries, require a **yellow fever vaccination certificate**.
 
 The yellow fever vaccine must have been administered at least 10 days before entering Ecuador. The certificate may be requested when boarding by means of air, land, or sea transport to Ecuador.
 
@@ -56,7 +55,7 @@ To note, in some areas, a curfew from 10:00 to 05:00 may apply. Should you need 
 
 The Embassy advises all Irish citizens in Ecuador to be particularly attentive to news and safety recommendations from the Ecuadorian authorities.
 
-If an Irish citizen decides to travel to Ecuador at this time, via a land border from Peru or Colombia, **against our clear advice**, they must present a criminal record certificate from their country of residence covering the last five years. The certificate must be legalised with a Hague Apostille. This does not apply to children and adolescents under 18.
+If an Irish citizen decides to travel to Ecuador at this time, via a land border from Peru or Colombia, **contrary to this travel advice**, they must present a criminal record certificate from their country of residence covering the last five years. The certificate must be legalised with a Hague Apostille. This does not apply to children and adolescents under 18.
 
 If they do not have the correct documentation they **may not be permitted** to enter via the land border, and they may have to change travel plans. This restriction applies **exclusively to land borders**, and not to entry via airports or seaports.
 
