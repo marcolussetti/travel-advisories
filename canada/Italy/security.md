@@ -4,13 +4,9 @@
 
 ### Olympic and Paralympic Winter Games
 
-The Milan Cortina Olympic Winter Games will take place in northern Italy from February 6-22, followed by the Paralympic Winter Games from March 6-15, 2026.
+The Milan Cortina Olympic Winter Games will take place across several destinations in northern Italy from February 6-22, followed by the Paralympic Winter Games from March 6-15, 2026.
 
-Venues for the Games will be spread out across several destinations in northern Italy. Roads and public transportation services may be impacted by winter weather or increased demand. If you are travelling to Italy for the Games, plan your journey carefully, read the transportation information on the official Milan Cortina 2026 website and leave plenty of time to travel between locations.
-
-Be aware of your surroundings, especially in crowded areas. Thieves and pickpockets take advantage of large gatherings to target travellers. People may approach you on the street to sell tickets to events. You should only purchase event tickets through the official Milan Cortina 2026 website or reputable resale services.
-
-The 112 European Emergency Phone Number system provides service in multiple languages, including in English. You can download the “Where are U” application to your smartphone. This application can connect you to the 112 Public Safety Answering Point and will automatically transmit your GPS location. While the ‘Where Are U’ service is unavailable in certain parts of Italy, including in Veneto, you can dial 112 for emergencies throughout Italy.
+Be aware of your surroundings, especially in crowded areas. Thieves and pickpockets take advantage of large gatherings to target travellers.
 
 During the Games, especially in areas near the event centres, you should expect:
 
@@ -20,9 +16,9 @@ During the Games, especially in areas near the event centres, you should expect:
 
 #### Useful links
 
+* [Milano Cortina 2026 Winter Olympic Games and Winter Paralympic Games](https://travel.gc.ca/campaigns/olympics-paralympics-2026?_ga=2.109171906.69752942.1769090817-833740108.1769090808) – Government of Canada
 * [Milan Cortina 2026](https://www.olympics.com/en/milano-cortina-2026) – Official site
 * [Lost or stolen belongings outside Canada](https://travel.gc.ca/assistance/emergency-info/stolen-belongings)
-* [Where are U](https://www.regione.lombardia.it/wps/portal/istituzionale/HP/DettaglioServizio/servizi-e-informazioni/Cittadini/salute-e-prevenzione/Emergenze-e-urgenze/where-are-u-112/where-are-u-112) – Regione Lombardia (in Italian only)
 * [More information on medical services and facilities](#medical-services)
 
 ### Crime
@@ -103,12 +99,15 @@ Never leave food or drinks unattended or in the care of strangers. Be wary of ac
 
 You can report a crime at the nearest police station (Carabinieri or Polizia di Stato).
 
-It’s possible to file a preliminary complaint online, in Italian, for certain types of minor crimes, including theft.
+It's possible to file a preliminary complaint online, in Italian, for certain types of minor crimes, including theft.
+
+You can also report a crime or contact emergency services by calling 112. The "Where are U" app will automatically connect you to the 112 Public Safety Answering Point and transmit your GPS location. While the "Where Are U" service is unavailable in certain parts of Italy, including in Veneto, you can dial 112 for emergencies throughout Italy.
 
 #### Useful links
 
 * [Online preliminary complaint](https://extranet.carabinieri.it/DenunciaViaWeb/denuncia.aspx) – Arma dei Carabinieri (in Italian only)
-* [Closest police station](https://questure.poliziadistato.it/servizio/dovesiamo) – Polizia di Stato, Italy’s national police (in Italian only)
+* [Closest police station](https://questure.poliziadistato.it/servizio/dovesiamo) – Polizia di Stato, Italy's national police (in Italian only)
+* [Where are U](https://www.regione.lombardia.it/wps/portal/istituzionale/HP/DettaglioServizio/servizi-e-informazioni/Cittadini/salute-e-prevenzione/Emergenze-e-urgenze/where-are-u-112/where-are-u-112) – Regione Lombardia (in Italian only)
 
 ### Fraud
 
@@ -163,7 +162,7 @@ You must wear a helmet if you plan on skiing, snowboarding or practicing any oth
 
 If you intend to participate in adventure tourism activities:
 
-* share your itinerary with a friend or family member if you’re alone
+* share your itinerary with a friend or family member if you're alone
 * stay on marked trails and consider hiring an experienced guide from a reputable company
 * buy travel insurance that covers incidents related to this type of recreational activity
 * ensure that your physical condition is good enough to tackle the challenges of your activity
@@ -190,7 +189,7 @@ Be cautious on the beach and in the water during fall and winter. Waves can be u
 
 Coastal waters can be dangerous. Waters in the Strait of Bonifacio, between Corsica and Sardinia, and the Strait of Messina, between Sicily and mainland Italy, can be difficult to navigate due to strong winds and currents.
 
-If you’re planning on going boating or taking a boat tour:
+If you're planning on going boating or taking a boat tour:
 
 * have life jackets available and accessible for all passengers
 * don't board vessels that appear overloaded or unseaworthy
@@ -237,7 +236,7 @@ In Italy, drivers start the meter at the point of departure rather than at pick-
 Use only officially licensed taxis from a stand or requested by phone or app. Official taxis have a white “TAXI” sign on the roof of the vehicle.
 
 * Never share a taxi with strangers
-* Discuss the fare in advance or make sure the meter is on
+* Discuss the fare in advance or make sure the meter is on
 
 ### Air travel
 
