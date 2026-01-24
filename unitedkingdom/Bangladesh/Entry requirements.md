@@ -34,6 +34,8 @@ You must have a visa to visit Bangladesh for up to 3 months, unless you have a �
 
 Your passport must have an ‘expiry date’ at least 6 months after the date your visa starts. The visa starts from the date of issue, not the date of travel. If you plan to use Bangladesh as a hub to visit other countries in the region, make sure you get a multiple-entry visa.
 
+The Visa on Arrival service continues to operate, including in the period before the national elections on 12 February. See [Checks at the border](https://www.gov.uk/foreign-travel-advice/bangladesh/entry-requirements#checks-at-the-border).
+
 You may be able to [apply for a visa on arrival at Dhaka airport](https://bhclondon.org.uk/visa-on-arrival). You must have a return ticket and proof of funds to apply for a visa on arrival. Visas on arrival are:
 
 * single entry
@@ -50,6 +52,16 @@ If you are working in Bangladesh, you must get a work permit, and you’ll need 
 ### ‘No visa required’ stamp
 
 British nationals of Bangladeshi origin may be eligible to [apply for a ‘no visa required’ stamp](https://bhclondon.org.uk/no-visa-required-old) from the Bangladeshi High Commission in the UK.
+
+## Checks at the border
+
+During the election period, you may face further checks at the border and be asked for additional documents such as:
+
+* proof of an onward or return ticket
+* confirmation of accommodation
+* contact details
+
+Check with your travel operator for the latest information before travelling.
 
 ## Vaccine requirements
 

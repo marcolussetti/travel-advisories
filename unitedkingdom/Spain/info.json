@@ -1,11 +1,11 @@
 {
     "name": "Spain",
-    "update_reason": "Updated information about significant disruption following a serious rail incident in Catalonia (\u2018Warnings and insurance\u2019 page).",
+    "update_reason": "Updated information on ongoing travel disruption affecting routes between Madrid and Andalusia (\u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Spain/Warnings and insurance.md",
-            "update_date": "2026-01-21T11:12:09+00:00"
+            "update_date": "2026-01-23T13:42:13+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Spain/Getting help.md"
         }
     ],
-    "update_date": "2026-01-21T11:12:09+00:00"
+    "update_date": "2026-01-23T13:42:13+00:00"
 }

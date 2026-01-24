@@ -1,11 +1,11 @@
 {
     "name": "Bangladesh",
-    "update_reason": "Updated information that Bangladesh will hold national elections on 12 February and that election campaigning started on 22 January (\u2018Warnings and insurance\u2019 page).",
+    "update_reason": "Updated information that the Visa on Arrival service continues to operate, including in the period before the national elections on 12 February and that you might be asked for additional documents such as proof of an onward or return ticket, confirmation of accommodation and contact details (See \u2018Applying for a visa\u2019 and \u2018Checks at the border\u2019 on the \u2018Entry requirements\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Bangladesh/Warnings and insurance.md",
-            "update_date": "2026-01-22T15:35:39+00:00"
+            "update_date": "2026-01-23T15:54:17+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Bangladesh/Getting help.md"
         }
     ],
-    "update_date": "2026-01-22T15:35:39+00:00"
+    "update_date": "2026-01-23T15:54:17+00:00"
 }

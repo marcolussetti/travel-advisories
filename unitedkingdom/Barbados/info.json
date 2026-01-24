@@ -1,11 +1,11 @@
 {
     "name": "Barbados",
-    "update_reason": "Advice regarding possible flight disruptions (\u2018Warnings and insurance page\u2019).",
+    "update_reason": "Removal of information about flight disruptions ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Barbados/Warnings and insurance.md",
-            "update_date": "2026-01-04T20:20:53+00:00"
+            "update_date": "2026-01-23T15:06:44+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Barbados/Getting help.md"
         }
     ],
-    "update_date": "2026-01-04T20:20:53+00:00"
+    "update_date": "2026-01-23T15:06:44+00:00"
 }

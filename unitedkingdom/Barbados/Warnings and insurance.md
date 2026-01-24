@@ -1,17 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   5 January 2026
+:   24 January 2026
 
 Updated:
-:   4 January 2026
+:   23 January 2026
 
 Latest update:
-:   Advice regarding possible flight disruptions (‘Warnings and insurance page’).
-
-## Travel disruption
-
-Regional airspace restrictions have been lifted, however some flights to and from Barbados are facing disruptions due to rescheduling. If you are travelling, check with your airline, tour operator, or cruise company for the latest information and allow extra time for rebooking or delays.
+:   Removal of information about flight disruptions ('Warnings and insurance' page).
 
 ## Before you travel
 

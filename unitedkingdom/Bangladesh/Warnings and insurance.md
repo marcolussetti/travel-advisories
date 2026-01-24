@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   23 January 2026
+:   24 January 2026
 
 Updated:
-:   22 January 2026
+:   23 January 2026
 
 Latest update:
-:   Updated information that Bangladesh will hold national elections on 12 February and that election campaigning started on 22 January (‘Warnings and insurance’ page).
+:   Updated information that the Visa on Arrival service continues to operate, including in the period before the national elections on 12 February and that you might be asked for additional documents such as proof of an onward or return ticket, confirmation of accommodation and contact details (See ‘Applying for a visa’ and ‘Checks at the border’ on the ‘Entry requirements’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/66cdbf9203c7db1b41c7091b/FCDO__TA__050_-_Bangladesh_Travel_Advice_Ed2__WEB_.jpg)
 

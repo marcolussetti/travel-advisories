@@ -61,10 +61,6 @@ See [water safety on holiday](https://www.rlss.org.uk/safety-on-holiday) from th
 
 If you are planning to drive in Barbados, see [information on driving abroad](https://www.gov.uk/driving-abroad) and [Barbados driving tips](https://barbados.org/tours/barbados-driving-tips.htm).
 
-You must get a Barbados driving licence to drive in Barbados. You can buy one from a car hire company or online from the [Barbados Revenue Authority](https://portal.bra.gov.bb/). You must also carry your UK driving licence.
-
-Driving is on the left. If you have an accident, call the police and do not move the vehicle.
-
 ### Taxis
 
 Taxis do not have meters. There are standard fares for most destinations. Agree the fare in Barbados dollars with the driver before you set off. Drivers do not always accept card payments, so carry cash with you.

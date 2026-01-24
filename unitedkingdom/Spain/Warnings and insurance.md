@@ -1,26 +1,25 @@
 # Warnings and insurance
 
 Still current at:
-:   22 January 2026
+:   24 January 2026
 
 Updated:
-:   21 January 2026
+:   23 January 2026
 
 Latest update:
-:   Updated information about significant disruption following a serious rail incident in Catalonia (‘Warnings and insurance’ page).
+:   Updated information on ongoing travel disruption affecting routes between Madrid and Andalusia (‘Warnings and insurance’ page).
 
 ## Travel disruption
 
-### Catalonia – local rail network suspension
-
-Following incidents on the Catalan Rodalies (cercanías) rail network on 20 January, expect major disruption on all Rodalies services.  
-Check routes before travelling.
-
-### Andalusia – high‑speed train collision
-
 On 18 January, two high‑speed trains collided near Adamuz, in the province of Córdoba in Andalusia, southern Spain.
 
-Significant disruption to rail services between Madrid and Andalusia is expected, with all high‑speed services between Madrid and Córdoba, Seville, Málaga, Granada and Huelva suspended. Services between Madrid and Cádiz, Algeciras and Granada will also be affected.
+High‑speed rail services between Madrid and Andalusia remain severely disrupted. Renfe, the national railway operator, has introduced a replacement transport plan combining train and bus services. Additional bus and rail services operate on some routes.
+
+You should:
+
+* check the latest information with your train operator before you travel
+* allow extra time for your journey
+* follow local authority advice
 
 If you need assistance or information about affected passengers, you can contact:
 
