@@ -10,9 +10,7 @@ On 18 January, 2026, two high‑speed trains were involved in an accident near A
 
 Significant disruptions to rail services are ongoing. Trains travelling to the south of Spain are particularly affected. Citizens are advised to consult their travel operator.
 
-On 20 January, 2026, a Barcelona commuter train on the R4 line, between Sant Sadurní d’Anoia and Gelida (40km west of Barcelona), derailed after a retaining wall fell onto the tracks. All RENFE Rodalies commuter train services are currently suspended.
-
-Any Irish citizen affected by these accidents requiring consular assistance should contact the Embassy of Ireland in Madrid on 0034 914364093.
+Any Irish citizen affected by this accident requiring consular assistance should contact the Embassy of Ireland in Madrid on 0034 914364093.
 
 ### General Travel Advice
 

@@ -18,9 +18,11 @@ We suggest you learn as much as you can about Timor-Leste before your trip from 
 
 You can contact the limited emergency services in Timor-Leste by dialling the following:
 
-* Police: 112
-* Fire: 115
-* Medical: 110
+Ambulance: 110 or +670 331 1044
+
+Fire: 115 or +670 331 0340
+
+Police: 112 or +670 331 1380
 
 ### **Our Tips for Safe Travels:**
 

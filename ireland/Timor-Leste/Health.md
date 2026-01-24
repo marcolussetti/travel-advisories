@@ -12,7 +12,7 @@ Irish citizens are advised to **make sure they have adequate travel insurance an
 
 Access to medicines is limited: bring sufficient supplies of any prescription medication
 
-If traveling with prescription medication, check with the Timor-Leste authorities to ensure the medication is legal in Timor-Leste. Medication should be in original packaging and with a copy of the original prescription.
+If traveling with prescription medication, check with the Timor-Leste authorities to ensure the medication is legal in Timor-Leste. Medication should be in original packaging and with a copy of the original prescription. You should also bring a letter from your Doctor to explain your medical condition when travelling with medication.
 
 ### **Chikungunya, Dengue Fever, and Tuberculosis**
 
@@ -22,4 +22,4 @@ To avoid mosquito-borne illnesses it is advisable to use bed nets and repellents
 
 ### **Water**
 
-We recommend drinking only, filtered and boiled or bottled water.
+We recommend drinking only filtered and boiled or bottled water.

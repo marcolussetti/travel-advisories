@@ -2,7 +2,7 @@
 
 ### **Entry Permit**
 
-Travellers arriving in the country by air can receive a 30-day visa on arrival at Dili Airport.
+Travellers arriving in the country by air can receive a 30-day visa on arrival at Dili Airport. For more information on entry requirements to Timor-Leste, please click [**here**](https://customs.gov.tl/travelers/obtaining-a-visa/).
 
 ### **Passport**
 
