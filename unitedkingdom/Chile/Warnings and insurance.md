@@ -1,15 +1,21 @@
 # Warnings and insurance
 
 Still current at:
-:   20 January 2026
+:   25 January 2026
 
 Updated:
-:   19 January 2026
+:   24 January 2026
 
 Latest update:
-:   New information on wildfires affecting the regions of regions of Ñuble and Biobío ('Warnings and insurance' page).
+:   New information about the closure of the border crossings at Jama Pass (Paso de Jama) between Chile and Bolivia; and Hito Cajón between Chile and Argentina, due to bad weather ('Warnings and Insurance' page)
 
 This travel advice page also covers Rapa Nui (Easter Island).
+
+## Jama Pass Border Closure
+
+Due to bad weather in San Pedro de Atacama, the border crossings at Jama Pass (Paso de Jama) between Chile and Bolivia; and at Hito Cajón between Chile and Argentina, are closed until at least 26 January.
+
+For up-to-date weather alerts in this region of Chile follow Chile’s National Disaster Prevention and Response Service [SERNAPRED – in Spanish](https://web.senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-provincia-de-el-loa-y-comunas-de-antofagasta-y-taltal-por-tormentas-electricas-2026-01-10-13-29-39). For more information about flooding in the region, visit the Travel Advice pages for [Argentina](https://www.gov.uk/foreign-travel-advice/argentina) and [Bolivia](https://www.gov.uk/foreign-travel-advice/bolivia).”
 
 ## Wildfires
 

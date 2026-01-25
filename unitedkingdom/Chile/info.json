@@ -1,11 +1,11 @@
 {
     "name": "Chile",
-    "update_reason": "New information on wildfires affecting the regions of regions of \u00d1uble and Biob\u00edo ('Warnings and insurance' page).",
+    "update_reason": "New information about the closure of the border crossings at Jama Pass (Paso de Jama) between Chile and Bolivia; and Hito Caj\u00f3n between Chile and Argentina, due to bad weather ('Warnings and Insurance' page)",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Chile/Warnings and insurance.md",
-            "update_date": "2026-01-19T14:50:59+00:00"
+            "update_date": "2026-01-24T22:03:35+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Chile/Getting help.md"
         }
     ],
-    "update_date": "2026-01-19T14:50:59+00:00"
+    "update_date": "2026-01-24T22:03:35+00:00"
 }
