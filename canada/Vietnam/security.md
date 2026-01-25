@@ -6,7 +6,7 @@
 
 #### Petty crime
 
-Petty crime, such as pickpocketing and purse snatching, occurs frequently. It’s most prevalent in larger cities and may increase during major public holidays, such as Tet (Lunar New Year).
+Petty crime, such as pickpocketing and purse snatching, occurs frequently. It's most prevalent in larger cities and may increase during major public holidays, such as Tet (Lunar New Year).
 
 Criminals work alone or in groups and may use various techniques to distract you and steal your belongings. They may try to grab your bag and other valuables while passing on a motorbike or slash your bag in crowded streets and markets.
 
@@ -34,16 +34,16 @@ While travelling:
 Although violent crimes targeting foreigners are rarer, they may occur. In some cases, criminals have used weapons such as knives and razors. Threats of physical injury related to personal disputes also occasionally occur.
 
 * If you are involved in a dispute, contact the police as soon as possible
-* If you are threatened by robbers, don’t resist
+* If you are threatened by robbers, don't resist
 
 #### Residential break-ins
 
 Residential break-ins occur, especially in large cities and may increase before and during the Tet holiday (Lunar New Year). Burglars may target houses or apartments rented or owned by tourists and foreigners.
 
 * Stay in accommodations with adequate security measures
-* Make sure you lock doors and windows at night and when you’re away
+* Make sure you lock doors and windows at night and when you're away
 
-### Women’s safety
+### Women's safety
 
 Women travelling alone may be subject to some forms of harassment and verbal abuse. Sexual assault and harassment do occur, including:
 
@@ -81,7 +81,7 @@ Cybercrime occurs. Perpetrators may compromise public Wi-Fi networks to steal cr
 * Avoid making purchases on unencrypted websites
 * Be cautious when posting information on social media
 * Be especially vigilant if you decide to meet someone you met online
-* Don’t click a suspicious link in an email or text message asking for your credit card details
+* Don't click a suspicious link in an email or text message asking for your credit card details
 
 #### At the airport
 
@@ -90,17 +90,17 @@ Criminals posing as taxi drivers have targeted foreign visitors at Nội Bài In
 Travellers have also been robbed by drivers who greeted them upon arrival with a placard showing their name.
 
 * Arrange your pickup with your hotel before arrival, or use authorized airport taxis
-* Confirm the driver’s identity and the licence plate before getting in the car
+* Confirm the driver's identity and the licence plate before getting in the car
 
 #### Gambling scams
 
 Tourists have been victims of gambling scams in Hanoi, as well as in Ho Chi Minh City, particularly in the Pham Ngu Lao neighbourhood.
 
-The scam consists of a friendly invitation sent to the victim to go to someone’s home in order to meet a relative interested in visiting Canada. While waiting for the relative, the scammers suggest a casual game of cards involving an initial small wager. Some victims have lost thousands of dollars over the course of an evening.
+The scam consists of a friendly invitation sent to the victim to go to someone's home in order to meet a relative interested in visiting Canada. While waiting for the relative, the scammers suggest a casual game of cards involving an initial small wager. Some victims have lost thousands of dollars over the course of an evening.
 
 Be wary of unsolicited proposals from strangers.
 
-If you’ve been scammed:
+If you've been scammed:
 
 * get to a safe location immediately
 * take note, as soon as possible, of the name and address of the facility where you were held
@@ -135,10 +135,10 @@ An increased police presence in Dak Lak continues, after organized attacks on a 
 
 If you are in the area, do not photograph security forces.
 
-Public demonstrations are rare since local authorities don’t usually authorize them. Demonstrating without authorization can lead to heavy consequences, including lengthy prison sentences.
+Public demonstrations are rare since local authorities don't usually authorize them. Demonstrating without authorization can lead to heavy consequences, including lengthy prison sentences.
 
 * Avoid areas where demonstrations and large gatherings are taking place
-* Don’t photograph demonstrations
+* Don't photograph demonstrations
 * Follow the instructions of local authorities
 * Monitor local media for information on ongoing demonstrations
 
@@ -153,7 +153,7 @@ Within the Vietnamese territory, local authorities block access to several:
 * search engines
 * online services
 
-You shouldn’t expect internet privacy.
+You shouldn't expect internet privacy.
 
 Local authorities may monitor your communications at any time. They may review the content stored or consulted on your electronic devices. They may also place certain foreigners under electronic surveillance. They can search your home or hotel room without your knowledge or consent.
 
@@ -198,7 +198,7 @@ If you intend to practice adventure tourism:
 * buy travel insurance that includes helicopter rescue and medical evacuation
 * ensure that your physical condition is good enough to meet the challenges of your activity
 * avoid venturing off marked trails
-* ensure that you’re adequately equipped and bring sufficient water
+* ensure that you're adequately equipped and bring sufficient water
 * stay informed about weather and other conditions that may pose a hazard
 * refrain from using facilities or equipment if you have doubts on their safety
 * inform a family member or friend of your itinerary
@@ -231,7 +231,7 @@ Boat accidents have occurred due to the overloading and poor maintenance of some
 
 * Choose a reputable boating company
 * Ensure that your tour operator follows up-to-date safety regulations
-* Don’t board vessels that appear overloaded or unseaworthy
+* Don't board vessels that appear overloaded or unseaworthy
 
 [Adventure travel health and safety](https://travel.gc.ca/travelling/health-safety/adventure-travellers)
 
@@ -262,7 +262,7 @@ Driving can be dangerous due to:
 
 #### Driving habits
 
-Drivers don’t always respect traffic laws.
+Drivers don't always respect traffic laws.
 
 Some vehicles, especially motorcycles, drive against the flow of traffic and on the sidewalks.
 
@@ -287,8 +287,8 @@ Motorcycle taxis (known as “xe oms”) are not safe.
 * Use only official taxis or a trusted ridesharing app
 * Negotiate the fare in advance, or insist that the driver use the meter
 * Never share a taxi with a stranger
-* Confirm the driver’s identity and the licence plate before getting in the car
-* Be familiar with your hotel’s address and the neighbourhood to avoid being brought to a wrong location
+* Confirm the driver's identity and the licence plate before getting in the car
+* Be familiar with your hotel's address and the neighbourhood to avoid being brought to a wrong location
 
 #### Buses
 
@@ -308,9 +308,9 @@ Retain your ticket stub when travelling by train.
 
 Ferry accidents have occurred due to the overloading and poor maintenance of some vessels, particularly on the line connecting Ho Chi Minh City to Vung Tau.
 
-Don’t board vessels that appear overloaded or unseaworthy.
+Don't board vessels that appear overloaded or unseaworthy.
 
-[Transport within Vietnam](https://vietnam.travel/plan-your-trip/transport-within-vietnam) - Vietnam Tourism
+[Transport within Vietnam](https://vietnam.travel/plan-your-trip/transport-within-vietnam) – Vietnam Tourism
 
 ### Air travel
 

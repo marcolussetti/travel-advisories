@@ -1,7 +1,7 @@
 {
     "name": "Antarctica",
-    "update_reason": "Risk level(s) \u2013 added map",
-    "update_date": "2025-12-15T16:34:00",
+    "update_reason": "The Health section was updated - travel health information (Public Health Agency of Canada)",
+    "update_date": "2026-01-24T13:42:00",
     "sections": {
         "risk": "canada/Antarctica/risk.md",
         "security": "canada/Antarctica/security.md",
