@@ -4,8 +4,6 @@
 
 Since the beginning of January 2026, heavy rains have caused flooding and landslides, resulting in numerous casualties and damage to buildings and infrastructure.
 
-Heavy rainfall is expected to continue until January 24, 2026, which will increase the risk of flooding and landslides, including in Harare.
-
 The following essential services are disrupted in some areas:
 
 * transportation

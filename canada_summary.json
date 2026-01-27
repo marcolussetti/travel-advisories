@@ -56,7 +56,7 @@
     {
         "destination": "Argentina",
         "risk_level": "Take normal security precautions (with regional advisories)",
-        "last_updated": "2026-01-20T14:43:03",
+        "last_updated": "2026-01-26T13:12:08",
         "details_url": "https://travel.gc.ca/destinations/argentina"
     },
     {
@@ -302,7 +302,7 @@
     {
         "destination": "Cuba",
         "risk_level": "Exercise a high degree of caution",
-        "last_updated": "2026-01-15T12:06:08",
+        "last_updated": "2026-01-26T16:53:12",
         "details_url": "https://travel.gc.ca/destinations/cuba"
     },
     {
@@ -362,7 +362,7 @@
     {
         "destination": "Ecuador",
         "risk_level": "Exercise a high degree of caution (with regional advisories)",
-        "last_updated": "2026-01-02T16:19:30",
+        "last_updated": "2026-01-26T15:40:50",
         "details_url": "https://travel.gc.ca/destinations/ecuador"
     },
     {
@@ -404,7 +404,7 @@
     {
         "destination": "Ethiopia",
         "risk_level": "Avoid non-essential travel (with regional advisories)",
-        "last_updated": "2025-12-17T16:22:14",
+        "last_updated": "2026-01-26T11:06:26",
         "details_url": "https://travel.gc.ca/destinations/ethiopia"
     },
     {
@@ -776,7 +776,7 @@
     {
         "destination": "Mauritius",
         "risk_level": "Take normal security precautions",
-        "last_updated": "2026-01-22T13:28:21",
+        "last_updated": "2026-01-26T13:11:20",
         "details_url": "https://travel.gc.ca/destinations/mauritius"
     },
     {
@@ -788,7 +788,7 @@
     {
         "destination": "Mexico",
         "risk_level": "Exercise a high degree of caution (with regional advisories)",
-        "last_updated": "2026-01-06T08:20:51",
+        "last_updated": "2026-01-26T15:07:49",
         "details_url": "https://travel.gc.ca/destinations/mexico"
     },
     {
@@ -1154,7 +1154,7 @@
     {
         "destination": "South Africa",
         "risk_level": "Exercise a high degree of caution",
-        "last_updated": "2026-01-22T16:42:34",
+        "last_updated": "2026-01-26T13:15:08",
         "details_url": "https://travel.gc.ca/destinations/south-africa"
     },
     {
@@ -1322,7 +1322,7 @@
     {
         "destination": "United States",
         "risk_level": "Take normal security precautions",
-        "last_updated": "2026-01-07T09:07:46",
+        "last_updated": "2026-01-26T15:07:49",
         "details_url": "https://travel.gc.ca/destinations/united-states"
     },
     {
@@ -1376,7 +1376,7 @@
     {
         "destination": "Zimbabwe",
         "risk_level": "Exercise a high degree of caution",
-        "last_updated": "2026-01-19T13:28:52",
+        "last_updated": "2026-01-26T11:03:24",
         "details_url": "https://travel.gc.ca/destinations/zimbabwe"
     }
 ]

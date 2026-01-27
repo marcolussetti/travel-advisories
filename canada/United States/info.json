@@ -1,7 +1,7 @@
 {
     "name": "United States",
-    "update_reason": "Editorial change",
-    "update_date": "2026-01-07T09:07:00",
+    "update_reason": "The Health section was updated - travel health information (Public Health Agency of Canada)",
+    "update_date": "2026-01-26T15:07:00",
     "sections": {
         "risk": "canada/United States/risk.md",
         "security": "canada/United States/security.md",

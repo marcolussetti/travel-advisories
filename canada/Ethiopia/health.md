@@ -30,25 +30,6 @@ To protect yourself while travelling, avoid mosquito bites and take any anti-mal
 [Insect bite and pest prevention](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html)  
 [CATMAT Appendix 1: Malaria transmission and recommended preventive measures by geographical area](https://www.canada.ca/en/public-health/services/catmat/appendix-1-malaria-risk-recommended-chemoprophylaxis-geographic-area.html)
 
-#### Marburg virus disease in Ethiopia
-
-On November 14, 2025, the Ministry of Health of Ethiopia confirmed an outbreak of Marburg virus disease (MVD). Cases have been reported in Jinka, South Ethiopia Region, and in Hawassa, Sidama Region. Investigations are ongoing to determine the scope of the outbreak.
-
-The virus that causes MVD can spread to people through contact with infected animals, most often fruit bats. It can also spread between people through direct contact with the bodily fluids of someone who is sick, or by touching items that have those fluids on them. Marburg virus disease is very serious and can be deadly. There is currently no vaccine or specific treatment for it, but the risk of infection is low if proper safety precautions are followed.
-
-The risk of infection is very low for most travellers, however travellers visiting the area where the outbreak is occurring could be at higher risk. If you are travelling to the area, follow local health guidelines and take precautions to protect yourself.
-
-* Avoid contact with people who have symptoms of MVD (fever, rash, muscle pain), and anything that could be contaminated with their bodily fluids.
-* Avoid contact with the bodies of people who have died of MVD or an unknown illness during funerals and burials.
-* Wash your hands regularly with soap and water for at least 20 seconds, or use a hand sanitizer containing at least 60% alcohol for 20 seconds or until dry.
-* Avoid close contact with live and dead animals, especially bats.
-
-Monitor your health for symptoms while in the affected area and for 21 days after leaving. Isolate from others and seek medical care immediately if you develop symptoms of MVD.
-
-**Learn more:**  
-[Marburg virus disease](https://www.canada.ca/en/public-health/services/infectious-diseases/viral-haemorrhagic-fevers/marburg-virus-disease.html)  
-[WHO – Ethiopia confirms first outbreak of Marburg virus disease](https://www.afro.who.int/countries/ethiopia/news/ethiopia-confirms-first-outbreak-marburg-virus-disease)
-
 ### Routine vaccines
 
 Make sure your routine vaccinations are up-to-date before you travel, no matter where you’re going.
@@ -154,9 +135,7 @@ Malaria
    
 [Protect yourself from mosquito bites](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html) at all times:   
 • Cover your skin and use an [approved](https://www.canada.ca/en/health-canada/services/about-pesticides/insect-repellents.html) insect repellent on uncovered skin.   
-• Exclude mosquitoes from your living area with screening and/or closed, well-sealed doors and windows.  
-• Use insecticide-treated bed nets if mosquitoes cannot be excluded from your living area.   
-• Wear permethrin-treated clothing. 
+• Exclude mosquitoes from your living area with screening and/or closed, well-sealed doors and windows.
 
 Rabies 
 

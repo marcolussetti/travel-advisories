@@ -19,7 +19,7 @@ There is a higher than expected number of hantavirus cases in parts of Central a
 
 Hantaviruses are a group of viruses that can cause severe illness and death in humans. They’re most commonly spread to humans through contact with rodents, such as mice and rats, especially their urine, droppings, or saliva.
 
-Symptoms vary but may include fever, muscle aches and headaches. See a health care provider immediately if you have had contact with rodents or their droppings and you feel ill while travelling or upon your return.
+Symptoms vary but can begin as a flu-like illness, and may include fever, muscle aches, headaches, vomiting, diarrhea, and eventually coughing and shortness of breath. See a health care provider immediately if you have had contact with rodents or their droppings and you feel ill while travelling or upon your return.
 
 There are no vaccines or medications to prevent hantavirus. You can reduce your risk of getting sick by:
 
