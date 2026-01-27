@@ -8,4 +8,4 @@ In summer, the average temperature is typically around 20°C but it has been kno
 
 ### **Flooding**
 
-There is occasional seasonal flooding, particularly in the spring, in areas prone to flooding in the Czech Republic. You can find up-to-date information on flood warnings on the Czech Ministry of Agriculture website.
+There is occasional seasonal flooding, particularly in the spring, in areas prone to flooding in the Czech Republic. You can find up-to-date information on the Czech Hydrometeorological Institute website: [**HPPS POV aktuální měření**](https://hydro.chmi.cz/hpps/?id=act&key=map&sx=1694595.6735910657&sy=6408401.514026617&sz=0).

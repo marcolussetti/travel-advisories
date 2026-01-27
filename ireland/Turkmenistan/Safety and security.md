@@ -4,7 +4,7 @@
 
 Certain parts of Turkmenistan have been designated as ‘restricted’ and special permits are required from the Ministry of Foreign Affairs in order to travel there. Check the situation with your local guide before travelling outside the capital.
 
-We advise you to avoid the Turkmenistan/Afghanistan border area.
+We advise against all travel to the Turkmenistan/Afghanistan border area.
 
 Avoid any demonstrations and public gatherings. Always keep yourself informed of what’s going on around you by monitoring local media and staying in contact with your hotel or tour organiser.
 

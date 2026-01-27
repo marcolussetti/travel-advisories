@@ -24,7 +24,7 @@ Citizens are strongly encouraged to [**register**](https://www.ireland.ie/en/dfa
 
 ### **COVID-19 Entry Requirements**
 
-While Turkmenistan doesn’t require COVID-19 vaccination, all travellers may have to undergo a COVID-19 test upon arrival, which costs about 31 US dollars. Passengers should confirm the latest information with their Turkmen sponsor, or with the Turkmen Embassy where their visa was issued as the requirements may be subject to change with little notice.
+While Turkmenistan doesn’t require COVID-19 vaccination, all travellers arriving by air must undergo a COVID-19 test upon arrival, which costs about 31 US dollars, to be paid in cash. Passengers should confirm the latest information with their Turkmen sponsor, or with the Turkmen Embassy where their visa was issued as the requirements may be subject to change with little notice.
 
 ### **Emergency Assistance**
 

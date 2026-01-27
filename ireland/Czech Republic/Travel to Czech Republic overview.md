@@ -20,7 +20,7 @@ Citizens can also follow the Embassy on X [**@IrlEmbPrague**](https://twitter.c
 
 The best help is often close at hand. If you have problems, try talking to your local contacts, tour operator representative and/or hotel management.
 
-Visitors can contact the emergency services in the Czech Republic by dialing 112. Specific emergency numbers are:
+Visitors can contact the emergency services in the Czech Republic by dialling 112. Specific emergency numbers are:
 
 * Police: 158
 * Fire brigade: 150
