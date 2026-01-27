@@ -1,11 +1,11 @@
 {
     "name": "Somalia",
-    "update_reason": "New information about risks from large gatherings and celebratory gunfire (\u2018Warnings and insurance\u2019 page).",
+    "update_reason": "Removal of information about risks from large gatherings and celebratory gunfire.",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Somalia/Warnings and insurance.md",
-            "update_date": "2025-12-29T12:05:20+00:00"
+            "update_date": "2026-01-26T16:49:01+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Somalia/Getting help.md"
         }
     ],
-    "update_date": "2025-12-29T12:05:20+00:00"
+    "update_date": "2026-01-26T16:49:01+00:00"
 }

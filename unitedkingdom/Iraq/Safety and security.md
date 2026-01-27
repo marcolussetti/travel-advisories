@@ -15,7 +15,6 @@ Terrorists are very likely to try to carry out attacks in Iraq.
 Attacks can occur throughout the country, including the Kurdistan region of Iraq, but are more frequent in areas where Daesh had a strong presence and capability. This includes parts of the provinces of:
 
 * Anbar
-* Baghdad
 * Diyala
 * Ninewah
 * Salah Al-Din

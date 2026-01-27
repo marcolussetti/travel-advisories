@@ -78,12 +78,8 @@ You can take up to 400,000 Malagasy ariary into Madagascar.
 
 Declare foreign cash or travellers cheques if the value is 7,500 euros or more. You will get a certified declaration to show you brought it with you. If you do not, your money could be seized when you leave.
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/madagascar)
+[Previous:Warnings and insurance](/foreign-travel-advice/madagascar)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/madagascar/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/madagascar/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/madagascar/print)

@@ -35,12 +35,8 @@ In July 2023, demonstrations in the Lanirano area to the east of Fort Dauphin tu
 
 Due to the risk of violent highway robberies, particularly at night, use a recognised tour operator when travelling in the region between Besalampy and Morombe, including the RN35 and RN1 (between Tsiroanomandidy and Maintirano). You should also maintain a high level of vigilance if you travel on the following roads: RN7, RN27, RN10 and RN34.
 
-[Previous
-:
-Safety and security](/foreign-travel-advice/madagascar/safety-and-security)
+[Previous:Safety and security](/foreign-travel-advice/madagascar/safety-and-security)
 
-[Next
-:
-Health](/foreign-travel-advice/madagascar/health)
+[Next:Health](/foreign-travel-advice/madagascar/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/madagascar/print)

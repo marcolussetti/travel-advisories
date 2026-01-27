@@ -12,7 +12,7 @@ Areas liberated from Daesh are likely to contain remnants of war and improvised 
 
 Routes in and out of Baghdad and its airport may close with little or no notice. Check your routes in advance of travelling.
 
-There is still a threat of terrorist groups targeting hotels in Baghdad. Stay alert and follow the advice of local authorities.
+Stay alert and follow the advice of local authorities.
 
 Avoid political gatherings and large crowds. Reduce your movement around banks, restaurants, and shopping malls. Follow instructions from security officials.
 
@@ -40,7 +40,11 @@ Protests are common in Basra. Stay alert, monitor media reports and keep up to d
 
 ## Land borders
 
-Border crossing points with countries neighbouring Iraq may close with little or no notice.
+Border crossing points with countries neighbouring Iraq may close with little or no notice. If crossing the border, stick to main roads and ensure you use official designated border crossings.
+
+## Landmines
+
+Landmines and other unexploded weapons are present in some rural and desert areas of Iraq, particularly in border areas. A number of people are killed each year. Some areas have warning signs, but not all. If you are travelling to rural or desert areas take local advice and stick to well trodden paths and well driven tracks, and do not pick up metal objects.
 
 [Previous:Safety and security](/foreign-travel-advice/iraq/safety-and-security)
 

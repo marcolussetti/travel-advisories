@@ -140,12 +140,8 @@ Monitor local news and check [World Meteorological Organization weather warnings
 
 Find out what you can do to prepare for and respond to [cyclone warnings](https://www.gov.uk/guidance/tropical-cyclones).
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/madagascar/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/madagascar/entry-requirements)
 
-[Next
-:
-Regional risks](/foreign-travel-advice/madagascar/regional-risks)
+[Next:Regional risks](/foreign-travel-advice/madagascar/regional-risks)
 
 [View a printable version of the whole guide](/foreign-travel-advice/madagascar/print)

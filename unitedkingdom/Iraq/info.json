@@ -1,11 +1,11 @@
 {
     "name": "Iraq",
-    "update_reason": "There is a heightened risk of regional tension. Escalation could lead to travel disruption and other unanticipated impacts (\u2018Warnings and insurance\u2019 page).",
+    "update_reason": "FCDO now advises against all travel to Jurf al-Sakr town in Babil province and within 5km of federal Iraq\u2019s borders with Iran (in Wasit, Maysan and Basra provinces); Saudi Arabia and Kuwait. FCDO now advises against all but essential travel to Baghdad province, excluding Sadr City, Basra province excluding 5km from the borders with Iran and Kuwait but including Highway 1, Highway 8 and the Safwan-Kuwait border, and the road sections of Highway 34 between Baghdad and Baqubah, and Highway 2 between Baqubah and Erbil. FCDO continues to advise against all travel and all but essential travel to parts of Iraq. New information about landmines and land border crossings ('Warnings and insurance', 'Safety and security' and 'Regional risks' pages).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Iraq/Warnings and insurance.md",
-            "update_date": "2026-01-14T21:21:16+00:00"
+            "update_date": "2026-01-26T17:02:54+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Iraq/Getting help.md"
         }
     ],
-    "update_date": "2026-01-14T21:21:16+00:00"
+    "update_date": "2026-01-26T17:02:54+00:00"
 }

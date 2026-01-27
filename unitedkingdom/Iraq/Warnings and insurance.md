@@ -1,18 +1,18 @@
 # Warnings and insurance
 
 Still current at:
-:   15 January 2026
+:   27 January 2026
 
 Updated:
-:   14 January 2026
+:   26 January 2026
 
 Latest update:
-:   There is a heightened risk of regional tension. Escalation could lead to travel disruption and other unanticipated impacts (‘Warnings and insurance’ page).
+:   FCDO now advises against all travel to Jurf al-Sakr town in Babil province and within 5km of federal Iraq’s borders with Iran (in Wasit, Maysan and Basra provinces); Saudi Arabia and Kuwait. FCDO now advises against all but essential travel to Baghdad province, excluding Sadr City, Basra province excluding 5km from the borders with Iran and Kuwait but including Highway 1, Highway 8 and the Safwan-Kuwait border, and the road sections of Highway 34 between Baghdad and Baqubah, and Highway 2 between Baqubah and Erbil. FCDO continues to advise against all travel and all but essential travel to parts of Iraq. New information about landmines and land border crossings ('Warnings and insurance', 'Safety and security' and 'Regional risks' pages).
 
-![](https://assets.publishing.service.gov.uk/media/67d2f0ae886e7770c211e09e/FCDO__TA__048_-_Iraq_Travel_Advice_Ed6__WEB_.jpg)
+![](https://assets.publishing.service.gov.uk/media/69778f31f909df76c5e71f49/FCDO__TA__048_-_Iraq_Travel_Advice_Ed11__WEB_.jpg)
 
 
-[Download a more detailed map (PDF, 658 KB)](https://assets.publishing.service.gov.uk/media/67d2f0af886e7770c211e09f/FCDO__TA__048_-_Iraq_Travel_Advice_Ed6.pdf)
+[Download a more detailed map (PDF, 661 KB)](https://assets.publishing.service.gov.uk/media/69778f313fd50ac304b79761/FCDO__TA__048_-_Iraq_Travel_Advice_Ed11.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
@@ -23,29 +23,30 @@ Your travel insurance could be invalidated if you travel against advice from the
 FCDO advises against all travel to:
 
 * the parts of Anbar province which are west of, but not including Ramadi City
-* Basra province (except for Basra city)
 * Diyala province except for Baqubah City
 * Kirkuk province
 * Ninawa province
 * Salah al-Din province
+* Jurf al-Sakr town in Babil province
 * Sadr City, part of Baghdad province
-* The parts of Baghdad province which are south of the Airport Road
-* Within 30km of federal Iraq’s borders with Iran, Syria, Saudi Arabia and Kuwait
+* Within 5km of areas that border Iran in Wasit, Maysan and Basra provinces
+* Within 5km of Iraq’s borders with Saudi Arabia and Kuwait
 
-FCDO advises against all but essential travel to:
+FCDO advises against all but essential travel to:
 
-* The remainder of Anbar province
-* The remainder of Baghdad province
-* Basra city
+* The remainder of Al-Muthanna province
+* Al-Qadasiyah province
+* The remainder of Anbar province
+* Babil province (except Jurf al-Sakr town)
+* Baghdad province (except Sadr City)
+* The remainder of Basra province, including Highways 1 and 8 and the Safwan-Kuwait border crossing.
+* Dhi Qar Province
 * Karbala Province
-* The remainder of Najaf Province
-* Babil Province
-* Al-Qadasiyah Province
-* Dhi Qar Province
-* Baqubah City in Diyala province
-* The remainder of Wasit Province
-* The remainder of Maysan Province
-* The remainder of Al-Muthanna Province
+* The remainder of Maysan province
+* The remainder of Najaf province
+* The remainder of Wasit province
+* Baqubah City in Diyala province
+* The road sections of Highway 34 between Baghdad and Baqubah, and Highway 2 between Baqubah and Erbil
 
 **Kurdistan Region of Iraq**
 

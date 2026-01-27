@@ -24,7 +24,8 @@ See [what health risks you’ll face in Madagascar](https://travelhealthpro.org.
 
 * malaria
 * dengue
-* Schistosomiasis
+* schistosomiasis
+* mpox
 
 Altitude sickness is a risk in parts of Madagascar. Read more about [altitude sickness on TravelHealthPro](https://travelhealthpro.org.uk/factsheet/26/altitude-illness).
 
@@ -48,12 +49,8 @@ There is also [guidance on healthcare if you’re living in Madagascar](https://
 
 Read [FCDO guidance on travel and mental health](https://www.gov.uk/guidance/foreign-travel-advice-for-people-with-mental-health-issues). There is also [mental health guidance on TravelHealthPro](https://travelhealthpro.org.uk/factsheet/85/travelling-with-mental-health-conditions).
 
-[Previous
-:
-Regional risks](/foreign-travel-advice/madagascar/regional-risks)
+[Previous:Regional risks](/foreign-travel-advice/madagascar/regional-risks)
 
-[Next
-:
-Getting help](/foreign-travel-advice/madagascar/getting-help)
+[Next:Getting help](/foreign-travel-advice/madagascar/getting-help)
 
 [View a printable version of the whole guide](/foreign-travel-advice/madagascar/print)
