@@ -8,7 +8,7 @@ UK Counter Terrorism Policing has information and advice on [staying safe abroad
 
 ### Terrorism in Chile
 
-Terrorist attacks in Chile cannot be ruled out.
+Terrorists are likely to try to carry out attacks in Chile.
 
 Some individuals or groups claiming to represent the interests of indigenous communities have carried out attacks in the Araucanía, Biobío and Los Ríos regions of the country. State actors and businesses operating in these regions are the primary targets of these groups. You should exercise caution and follow the instructions of local authorities.
 

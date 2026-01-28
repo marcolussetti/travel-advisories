@@ -108,12 +108,8 @@ The Southern Red Sea area is a hotspot for maritime crime and security incidents
 
 There is still a significant risk of [piracy in the Gulf of Aden and Indian Ocean](https://www.gov.uk/guidance/sea-river-and-piracy-safety), where piracy has been reduced but not prevented. The threat assessment of the combined international naval counter-piracy forces is that sailing yachts should not enter the [designated high-risk area,](https://on-shore.mschoa.org/) due to the risk of hijacking.
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/eritrea/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/eritrea/entry-requirements)
 
-[Next
-:
-Regional risks](/foreign-travel-advice/eritrea/regional-risks)
+[Next:Regional risks](/foreign-travel-advice/eritrea/regional-risks)
 
 [View a printable version of the whole guide](/foreign-travel-advice/eritrea/print)

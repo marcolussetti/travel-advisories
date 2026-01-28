@@ -1,11 +1,11 @@
 {
     "name": "Chile",
-    "update_reason": "New information about the closure of the border crossings at Jama Pass (Paso de Jama) between Chile and Bolivia; and Hito Caj\u00f3n between Chile and Argentina, due to bad weather ('Warnings and Insurance' page)",
+    "update_reason": "Removal of information about the Jama Pass Border closure and an updated assessment that terrorists are likely to try to carry out attacks in Chile (\u2018Safety and security\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Chile/Warnings and insurance.md",
-            "update_date": "2026-01-24T22:03:35+00:00"
+            "update_date": "2026-01-27T12:51:50+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Chile/Getting help.md"
         }
     ],
-    "update_date": "2026-01-24T22:03:35+00:00"
+    "update_date": "2026-01-27T12:51:50+00:00"
 }

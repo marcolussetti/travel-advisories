@@ -12,6 +12,8 @@ Terrorists are likely to try to carry out attacks in Australia.
 
 Attacks could be indiscriminate, including in places visited by foreign nationals. You should be vigilant, keep up to date with local media reports and follow the advice of local authorities.
 
+In December 2025, 15 people were killed in an antisemitic terrorist attack at Bondi Beach, Sydney.
+
 In April 2024, several people were injured in a terrorist incident at a church in Wakeley, Sydney.
 
 See the [Australian government’s national terrorism threat level](https://www.nationalsecurity.gov.au/national-threat-level/current-national-terrorism-threat-level).

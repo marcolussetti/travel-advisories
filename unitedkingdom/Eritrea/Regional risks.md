@@ -26,12 +26,8 @@ It is highly unlikely that Eritrean authorities will issue permits for any vesse
 
 There is a risk of landmines near Eritrea’s borders, particularly in the Eritrea-Ethiopia and Eritrea-Djibouti border areas. If you are in the border area against FCDO advice, do not leave the main paved highways by car or on foot.
 
-[Previous
-:
-Safety and security](/foreign-travel-advice/eritrea/safety-and-security)
+[Previous:Safety and security](/foreign-travel-advice/eritrea/safety-and-security)
 
-[Next
-:
-Health](/foreign-travel-advice/eritrea/health)
+[Next:Health](/foreign-travel-advice/eritrea/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/eritrea/print)

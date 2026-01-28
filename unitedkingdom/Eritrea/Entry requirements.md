@@ -51,12 +51,8 @@ If you cannot account for foreign money you’ve spent, you may be delayed or fa
 
 You are not allowed to take more than 1,000 Eritrean nafka out of Eritrea.
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/eritrea)
+[Previous:Warnings and insurance](/foreign-travel-advice/eritrea)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/eritrea/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/eritrea/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/eritrea/print)

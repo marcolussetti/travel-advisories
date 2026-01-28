@@ -1,11 +1,11 @@
 {
     "name": "Bosnia and Herzegovina",
-    "update_reason": "New information about heavy snowfall and increased risks of floods and landslides (\u2018Safety and security\u2019 page).",
+    "update_reason": "Addition of information about travel disruption at land border crossings (\u2018Entry requirements\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Bosnia and Herzegovina/Warnings and insurance.md",
-            "update_date": "2026-01-08T16:28:20+00:00"
+            "update_date": "2026-01-27T16:38:34+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Bosnia and Herzegovina/Getting help.md"
         }
     ],
-    "update_date": "2026-01-08T16:28:20+00:00"
+    "update_date": "2026-01-27T16:38:34+00:00"
 }

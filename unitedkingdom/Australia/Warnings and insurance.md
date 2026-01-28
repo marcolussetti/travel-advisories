@@ -1,23 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   17 December 2025
+:   28 January 2026
 
 Updated:
-:   16 December 2025
+:   27 January 2026
 
 Latest update:
-:   Update on terrorist attack at Bondi Beach ('Warnings and insurance' page).
-
-## Terrorist attack at Bondi
-
-Following the 14 December terrorist attack on Bondi Beach, security around major events and gatherings in Australia is likely to be enhanced. Follow local authorities’ instructions at all times and ensure you arrive in plenty of time to navigate any additional procedures in place to keep you safe.
-
-If you were affected by the 14 December attack, or concerned about someone who may have been involved, you should:
-
-* contact New South Wales (NSW) Police Public Information and Inquiry Centre (PIIC)
-* contact the British Consulate in Sydney (available 24/7 on +61 2 9247 7521)
-* read about [support for victims of terrorism](https://victimsofterrorism.campaign.gov.uk/)
+:   Information about the terrorist attack at Bondi Beach in December 2025 (‘Safety and security’ page).
 
 ## Bushfires in Australia
 

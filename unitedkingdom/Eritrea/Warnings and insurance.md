@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   11 December 2025
+:   28 January 2026
 
 Updated:
-:   10 December 2025
+:   27 January 2026
 
 Latest update:
-:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
+:   Updated information about getting in touch with the British Embassy in Asmara if you need urgent help (‘Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/62558a0c8fa8f54a9055161a/FCDO__TA__016_-_Eritrea_Travel_Advice_Ed4__WEB_.jpg)
 
@@ -38,10 +38,10 @@ Consular support is severely limited in parts of Eritrea. Staff at the British E
 
 The Eritrean authorities may not inform the British Embassy if a British national is in need of help. There have been instances where the Eritrean authorities have refused to give the Embassy consular access to detained foreign nationals.
 
-If you’re in Eritrea and you need urgent help (for example, you’ve been attacked or arrested, or someone has died) please get in touch using the numbers below.
+If you’re in Eritrea and you need urgent help (for example, you’ve been attacked or arrested, or someone has died), get in touch using the below:
 
-* During office hours, please call the British Embassy Asmara on +291 787 1517. Office hours are Monday-Thursday between 08:00 and 16:30 or Friday between 08:00 and 12:30.
-* For out of hours support, please call the British Embassy Addis on +251 116 170 100 or the Foreign Office in London on +44 207 008 5000.
+* during office hours, visit the British Embassy in Asmara at 66-68 Mariam Ghimbi Street. Office hours are Monday-Thursday between 8am and 4:30pm or Friday between 8am and 12:30pm
+* for out of hours support, call the British Embassy Addis Ababa on +251 116 170 100 or the Foreign Office in London on +44 207 008 5000
 
 ### British-Eritrean dual nationals
 
@@ -75,8 +75,6 @@ Follow FCDO:
 * [travel advice on Facebook](https://www.facebook.com/FCDOTravel/)
 * [Travel Aware on Instagram](https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Ftravelaware%2F&is_from_rle)
 
-[Next
-:
-Entry requirements](/foreign-travel-advice/eritrea/entry-requirements)
+[Next:Entry requirements](/foreign-travel-advice/eritrea/entry-requirements)
 
 [View a printable version of the whole guide](/foreign-travel-advice/eritrea/print)
