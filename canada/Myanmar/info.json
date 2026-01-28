@@ -1,7 +1,7 @@
 {
     "name": "Myanmar",
-    "update_reason": "Health \u2013 added Travel health notice for Lunar New Year",
-    "update_date": "2025-12-29T14:14:00",
+    "update_reason": "Safety and security \u2013 removed information on elections",
+    "update_date": "2026-01-27T13:30:00",
     "sections": {
         "risk": "canada/Myanmar/risk.md",
         "security": "canada/Myanmar/security.md",

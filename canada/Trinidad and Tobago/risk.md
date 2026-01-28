@@ -22,7 +22,7 @@ The features in this map do not constitute an authoritative source of geographic
 
 ### Regional Advisory - Avoid non-essential travel
 
-[Avoid non-essential travel](#levels "Risk Levels") to to the following areas due to high levels of violence and gang-related crime:
+[Avoid non-essential travel](#levels "Risk Levels") to the following areas due to high levels of violence and gang-related crime:
 
 * Beetham Estate Gardens
 * Cocorite (north of Western Main Road)

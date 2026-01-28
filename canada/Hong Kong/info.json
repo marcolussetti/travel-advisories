@@ -1,7 +1,7 @@
 {
     "name": "Hong Kong",
-    "update_reason": "Health \u2013 added Travel health notice for Lunar New Year",
-    "update_date": "2025-12-29T13:09:00",
+    "update_reason": "Editorial change",
+    "update_date": "2026-01-27T09:03:00",
     "sections": {
         "risk": "canada/Hong Kong/risk.md",
         "security": "canada/Hong Kong/security.md",

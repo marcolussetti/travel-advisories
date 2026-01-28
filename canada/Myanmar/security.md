@@ -2,23 +2,6 @@
 
 ## Safety and security
 
-### Elections
-
-Myanmar’s military regime has announced general elections to be held in multiple rounds on the following dates:
-
-* December 28, 2025
-* January 11, 2026
-* January 25, 2026
-
-During this period, the security conditions may deteriorate without notice, with an increased risk of violent incidents, including civil unrest, armed attacks, and kidnappings.
-
-If you are in Myanmar:
-
-* avoid demonstrations and large gatherings
-* expect a heightened security presence, particularly near voting stations
-* expect important security measures, including movement restrictions, checkpoints, road closures or curfews
-* monitor the media for the latest information
-
 ### Political situation
 
 On February 1, 2021, the Myanmar military detained officials from the elected government and declared a state of emergency, effectively seizing control of the country's governance by force. The state of emergency currently remains in place. Martial law has been imposed in several townships in Yangon and across the country. Curfews are in effect at specific locations and gatherings are banned. Due to the ongoing conflict in Myanmar, the political situation has rapidly deteriorated. Control over territory is fragmented throughout the country, with various armed ethnic organizations, the People's Defence Forces, the regime's military forces, and other groups fighting to maintain or gain control of areas.
