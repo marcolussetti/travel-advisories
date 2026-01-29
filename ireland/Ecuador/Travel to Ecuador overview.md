@@ -6,8 +6,6 @@ Avoid Non-Essential Travel
 
 ### **Travel Alert**
 
-The security status of ‘Avoid Non-Essential Travel’ currently applies to all of mainland Ecuador owing to civil unrest, violent crime, and kidnapping.
-
 Ecuador is in a state of **“internal armed conflict”**. There is an increased presence of security forces to contain gang violence across the country, including in Guayaquil and Quito.
 
 Owing to civil unrest, violent crime, and kidnapping, the security status of ‘**Avoid Non-Essential Travel’** **currently applies to most of Ecuador, with the following exceptions:**

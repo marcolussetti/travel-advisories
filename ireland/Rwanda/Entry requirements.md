@@ -4,7 +4,7 @@
 
 Irish citizens require a visa to enter Rwanda.
 
-Irish citizens travelling to Rwanda can apply for an eVisa [**online**](https://www.visagov.com/en/rwa-visa-for-rwanda). Passengers can also acquire a 30 day entry visa upon arrival.
+Irish citizens travelling to Rwanda can apply for an eVisa [**online**](https://irembo.gov.rw/home/citizen/all_services). Passengers can also acquire a 30 day entry visa upon arrival.
 
 ### Passport
 
