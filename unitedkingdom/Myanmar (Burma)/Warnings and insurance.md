@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   1 January 2026
+:   29 January 2026
 
 Updated:
-:   31 December 2025
+:   28 January 2026
 
 Latest update:
-:   Addition of information that the military regime will be holding elections throughout January 2026 (‘Safety and security’ page).
+:   Addition of information to reflect end of the military regime’s elections and lifting of city-wide curfew in Yangon ('Safety and security' page).
 
 ![](https://assets.publishing.service.gov.uk/media/6931608e502f392086ee8bc8/FCDO_TA_064_-_Myanmar_Ed10_WEB.jpg)
 

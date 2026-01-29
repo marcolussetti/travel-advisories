@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   16 December 2025
+:   29 January 2026
 
 Updated:
-:   15 December 2025
+:   28 January 2026
 
 Latest update:
-:   This travel advice has been reviewed for accuracy with edits made throughout, including new information about hotel tax and damaged or torn passports, updated information about taking money into and out of Tunisia, and drugs and illegal substances ('Entry requirements' and 'Safety and security' pages).
+:   New information about temporary safety measures following severe storm (‘Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/687faf22fdc190fb6b8468e3/FCDO__TA__042_-_Tunisia_Travel_Advice_Ed5__WEB___1_.jpg)
 
@@ -53,6 +53,12 @@ This is due to cross-border terrorist activity and fighting in Libya.
 In addition, FCDO advises against all but essential travel to within 75km of the Tunisia-Libya border, including Remada and El Borma but excluding Zarzis, the C118 road and all areas in Medenine Governorate north of the road.
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/tunisia/regional-risks).
+
+## Temporary safety measures
+
+Following a severe storm on 20-21 January, local authorities in Sidi Bou Said have introduced temporary safety measures, including restrictions on buses and heavy vehicles and the closure of some roads and pedestrian zones, to reduce the risk of landslides.
+
+Monitor local media and follow the advice of local authorities.
 
 ## Before you travel
 

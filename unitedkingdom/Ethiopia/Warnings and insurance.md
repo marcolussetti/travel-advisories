@@ -1,18 +1,18 @@
 # Warnings and insurance
 
 Still current at:
-:   11 December 2025
+:   29 January 2026
 
 Updated:
-:   10 December 2025
+:   28 January 2026
 
 Latest update:
-:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
+:   FCDO no longer advises against all but essential travel within 5km of the towns of Jinka and Hawassa. FCDO continues to advise against all travel and all but essential travel to parts of Ethiopia. Information that on 26 January 2026, the Ethiopian government and WHO officially declared the end of the Marburg virus disease outbreak (‘Warnings and insurance’ and ‘Health’ pages).
 
-![](https://assets.publishing.service.gov.uk/media/6932cc9d4bedc0e762304142/FCDO__TA__017_-_Ethiopia_Travel_Advice_Ed40__WEB___1_.jpg)
+![](https://assets.publishing.service.gov.uk/media/6979dc5bd6ab92f1d3a4d707/FCDO__TA__017_-_Ethiopia_Travel_Advice_Ed38__WEB_.jpg)
 
 
-[Download a more detailed map (PDF, 814 KB)](https://assets.publishing.service.gov.uk/media/6932cc9d4bedc0e762304143/FCDO__TA__017_-_Ethiopia_Travel_Advice_Ed40__1_.pdf)
+[Download a more detailed map (PDF, 814 KB)](https://assets.publishing.service.gov.uk/media/6979dc5b128d9c1d09a98c77/FCDO__TA__017_-_Ethiopia_Travel_Advice_Ed38.pdf)
 
 ## Areas where FCDO advises against travel
 
@@ -91,8 +91,6 @@ FCDO advises against all but essential travel to:
 
 FCDO advises against all travel to within 10km of the borders with South Sudan and Kenya including the shores of Lake Turkana.
 
-FCDO advises against all but essential travel within 5km of the towns of Jinka and Hawassa due to the Marburg outbreak.
-
 ### Benishangul-Gumuz region
 
 FCDO advises against all travel to:
@@ -104,10 +102,6 @@ FCDO advises against all travel to:
 FCDO advises against all but essential travel to the rest of Benishangul-Gumuz region.
 
 Find out more about why [FCDO advises against travel to these regions](/foreign-travel-advice/ethiopia/regional-risks).
-
-## Volcanic eruptions
-
-An eruption of the Hayli Gubbi volcano, Afar region, took place on 23 November 2025. Travellers in the region should follow the advice of local authorities. Airspace can be affected during and following eruptions. If you are travelling during a period of heightened activity, check with your travel provider.
 
 ## Support from FCDO
 
@@ -145,8 +139,6 @@ Follow FCDO:
 * [travel advice on Facebook](https://www.facebook.com/FCDOTravel/)
 * [Travel Aware on Instagram](https://www.instagram.com/travelaware/)
 
-[Next
-:
-Entry requirements](/foreign-travel-advice/ethiopia/entry-requirements)
+[Next:Entry requirements](/foreign-travel-advice/ethiopia/entry-requirements)
 
 [View a printable version of the whole guide](/foreign-travel-advice/ethiopia/print)

@@ -153,12 +153,8 @@ There is risk of armed clashes at near the border with Sudan.
 
 Local tensions have led to frequent and unpredictable violent clashes, including reported abductions and deaths. There have been instances of civil unrest in and around Assosa.
 
-[Previous
-:
-Safety and security](/foreign-travel-advice/ethiopia/safety-and-security)
+[Previous:Safety and security](/foreign-travel-advice/ethiopia/safety-and-security)
 
-[Next
-:
-Health](/foreign-travel-advice/ethiopia/health)
+[Next:Health](/foreign-travel-advice/ethiopia/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/ethiopia/print)

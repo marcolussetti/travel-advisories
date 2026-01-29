@@ -58,7 +58,7 @@ For details about health entry requirements and recommended vaccinations, see [T
 
 ## Customs rules
 
-There are strict rules about [goods you can take into or out of Tunisia](https://www.aeroportdetunis.com/en/customs_tunis_airport.php#:~:text=Customs%20rules%20at%20Tunis%20airport,you%20have%20anything%20to%20declare%20%3F&text=When%20you%20arrive%20in%20Tunisia,payment%20of%20duties%20and%20taxes.). You must declare anything that may be prohibited or subject to tax or duty.
+There are strict rules about [goods you can take into or out of Tunisia](https://www.douane.gov.tn/prohibitions-et-restrictions/). You must declare anything that may be prohibited or subject to tax or duty.
 
 ### Taking money into and out of Tunisia
 

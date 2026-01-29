@@ -1,11 +1,11 @@
 {
     "name": "Bulgaria",
-    "update_reason": "New information about a change of currency in Bulgaria ('Entry requirements' page).",
+    "update_reason": "New information around travel disruption at land border crossings ('Entry requirements' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Bulgaria/Warnings and insurance.md",
-            "update_date": "2025-12-23T16:42:52+00:00"
+            "update_date": "2026-01-28T16:09:57+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Bulgaria/Getting help.md"
         }
     ],
-    "update_date": "2025-12-23T16:42:52+00:00"
+    "update_date": "2026-01-28T16:09:57+00:00"
 }

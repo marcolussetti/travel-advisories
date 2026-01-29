@@ -246,12 +246,8 @@ There is a risk of earthquakes and earth tremors. You should:
 
 The US Federal Emergency Management Agency has advice about [what to do before, during and after an earthquake](https://www.ready.gov/earthquakes).
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/ethiopia/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/ethiopia/entry-requirements)
 
-[Next
-:
-Regional risks](/foreign-travel-advice/ethiopia/regional-risks)
+[Next:Regional risks](/foreign-travel-advice/ethiopia/regional-risks)
 
 [View a printable version of the whole guide](/foreign-travel-advice/ethiopia/print)

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   17 December 2025
+:   29 January 2026
 
 Updated:
-:   16 December 2025
+:   28 January 2026
 
 Latest update:
-:   This travel advice has been reviewed for accuracy with edits made throughout, including new information on taking money into and out of Algeria, risk of arrest and detention, illegal drugs and prison sentences, using cameras in secure areas, family and child custody, military service and healthcare in Algeria ('Entry requirements', 'Safety and security' and 'Health' pages).
+:   New information about a storm warning ('Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/615dcb70d3bf7f55fd843aea/FCDO__TA__002_-_Algeria_Travel_Advice_Ed3__WEB_.jpg)
 
@@ -33,6 +33,12 @@ FCDO advises against all travel to within 30km of Algeria’s borders with:
 FCDO advises against all but essential travel to within 30km of the rest of Algeria’s border with Tunisia.
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/algeria/safety-and-security).
+
+## Storm warning
+
+Algerian Civil Protection has issued a warning for violent winds in parts of Algeria. Monitor local media and follow the advice of the authorities.
+
+For more information, check [Algeria Civil Protection](https://www.facebook.com/DGPCDZ) (in Arabic).
 
 ## Before you travel
 

@@ -1,11 +1,11 @@
 {
     "name": "Tunisia",
-    "update_reason": "This travel advice has been reviewed for accuracy with edits made throughout, including new information about hotel tax and damaged or torn passports, updated information about taking money into and out of Tunisia, and drugs and illegal substances ('Entry requirements' and 'Safety and security' pages).",
+    "update_reason": "New information about temporary safety measures following severe storm (\u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Tunisia/Warnings and insurance.md",
-            "update_date": "2025-12-15T15:08:28+00:00"
+            "update_date": "2026-01-28T16:46:37+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Tunisia/Getting help.md"
         }
     ],
-    "update_date": "2025-12-15T15:08:28+00:00"
+    "update_date": "2026-01-28T16:46:37+00:00"
 }

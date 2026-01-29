@@ -10,15 +10,15 @@ UK Counter Terrorism Policing has information and advice on [staying safe abroad
 
 ### Terrorism in Bangladesh
 
-Terrorists are likely to try to carry out attacks in Bangladesh.
+Terrorists are very likely to try to carry out attacks in Bangladesh.
 
-Terrorists are likely to try to carry out attacks. These attacks could be indiscriminate, including in places visited by foreign nationals, such as:
+Terrorists are very likely to try to carry out attacks. These attacks could be indiscriminate, including in places visited by foreign nationals, and places such as:
 
 * public buildings, including restaurants and cafés
 * public transport
 * crowded areas
 * religious buildings
-* political rallies
+* polling stations and political rallies
 
 Some groups have targeted people who they consider to have views and lifestyles contrary to Islam, including religious minorities.
 

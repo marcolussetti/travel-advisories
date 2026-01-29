@@ -20,7 +20,7 @@ FCDO advises against all but essential travel to the following border areas: Sha
 
 FCDO advises against all travel to Magway Region and the north of Mandalay Region and all but essential travel to the rest of Mandalay Region. The situation in central Myanmar is unstable due to ongoing conflict. There is a risk of being caught in crossfire, armed clashes or airstrikes and the situation may change quickly at short notice.
 
-Naypyitaw Region was significantly affected by the March 2025 earthquake, suffering damage to infrastructure, including hospitals and roads. Seek local advice before travelling to the Region.
+While FCDO no longer advises against all but essential travel to Naypyitaw Region there is still a heightened risk. If you are visiting Nay Pyi Taw Region, seek local advice.
 
 ## Southern States and Regions
 
@@ -28,17 +28,9 @@ FCDO advises against all travel to Mon State and east of the Yangon-Mandalay Exp
 
 ## Yangon Region
 
-While FCDO no longer advises against all but essential travel to Yangon Region or to Nay Pyi Taw, there is still a heightened risk.
+While FCDO no longer advises against all but essential travel to Yangon Region, there is still a heightened risk.
 
-The security situation remains volatile and can change at short notice. If you are visiting Yangon Region, seek local advice, especially if travelling to the following townships:
-
-* Shwe Pyithar
-* Hlaing Tha Ya (West)
-* Hlaing Tha Ya (East)
-* North Okkalapa
-* Dagon Myothit (North)
-* Dagon Myothit (South)
-* Dagon Myothit (Seikkan)
+The security situation remains volatile and can change at short notice. If you are visiting Yangon Region, seek local advice. There is no longer a city-wide curfew in Yangon. However, township-specific curfews can be brought in at short notice.
 
 Security incidents in Yangon city, like in the rest of Myanmar, continue primarily to target military locations and personnel affiliated to the military. Attacks may affect civilians and bystanders, including in areas regularly frequented by foreign nationals. This may include hotels, restaurants and accommodation complexes. Military installations, such as checkpoints, are also targets.
 

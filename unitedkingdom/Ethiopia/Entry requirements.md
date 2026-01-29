@@ -86,12 +86,8 @@ It’s illegal to import or export satellite phones, binoculars or drones to or 
 
 Unapproved items can be confiscated by authorities. You may be able to collect them on departure from Ethiopia, but this is not guaranteed.
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/ethiopia)
+[Previous:Warnings and insurance](/foreign-travel-advice/ethiopia)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/ethiopia/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/ethiopia/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/ethiopia/print)

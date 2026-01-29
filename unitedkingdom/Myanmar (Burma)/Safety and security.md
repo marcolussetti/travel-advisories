@@ -16,7 +16,7 @@ Attacks could be indiscriminate including in places visited by foreign nationals
 
 ## Political and conflict situation
 
-In February 2021, the Myanmar military took control of the country by force and declared a state of emergency leading to increased conflict. There has been widespread violence involving the deaths of thousands of civilians and fighting continues across much of the country.
+In February 2021, the Myanmar military took control of the country by force and declared a state of emergency leading to increased conflict. There has been widespread violence involving the deaths of thousands of civilians and fighting continues across much of the country. Stay alert as the security situation could deteriorate at short notice, especially around sites with political or military associations.
 
 The military are highly likely to target all opposition-controlled areas, including with airstrikes. Meanwhile, opposition groups are likely to target the following facilities in military-regime controlled towns and cities, including with small explosives:
 
@@ -44,8 +44,6 @@ There is a higher likelihood of opposition attacks after sunset and an increased
 Some areas in Myanmar are under martial law; others have curfews or ‘stay at home’ orders. Ensure you are aware of local restrictions. If you ignore military instructions or curfews, you could be detained and, if you’re convicted, you could face a lengthy prison sentence. Ensure you are aware of local rules and restrictions before you arrive in an area.
 
 Be cautious and avoid all demonstrations, large crowds and political gatherings. You risk arrest and detention if you attempt to photograph demonstrations or protests.
-
-The military regime is holding elections throughout January, with election days on 11 and 25 January 2026. Stay alert as the security situation could deteriorate at short notice including around sites and venues related to the election, such as campaign events, polling sites, or political party premises.
 
 ## Police and military checkpoints
 

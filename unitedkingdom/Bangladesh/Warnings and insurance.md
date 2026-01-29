@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   24 January 2026
+:   29 January 2026
 
 Updated:
-:   23 January 2026
+:   28 January 2026
 
 Latest update:
-:   Updated information that the Visa on Arrival service continues to operate, including in the period before the national elections on 12 February and that you might be asked for additional documents such as proof of an onward or return ticket, confirmation of accommodation and contact details (See ‘Applying for a visa’ and ‘Checks at the border’ on the ‘Entry requirements’ page).
+:   Updated information about the threat of political violence and extremist attacks during the election period and that you should plan carefully and follow the advice of local authorities (‘Warnings and insurance’ and ‘Safety and security’ pages).
 
 ![](https://assets.publishing.service.gov.uk/media/66cdbf9203c7db1b41c7091b/FCDO__TA__050_-_Bangladesh_Travel_Advice_Ed2__WEB_.jpg)
 
@@ -34,7 +34,7 @@ FCDO’s ability to provide assistance is severely limited in areas where we adv
 
 ## National elections
 
-Elections will take place in Bangladesh on 12 February. The election campaign started on 22 January. Political rallies will become more frequent, with large crowds, an increased security presence and likely disruption to transport. Plan carefully and make sure you have alternative plans if faced with any disruption.
+Elections will take place in Bangladesh on 12 February. The election campaign started on 22 January. There is a threat of political violence and extremist attacks during the election period. Attacks could target political rallies and polling stations. They could also be indiscriminate. Remain aware of your surroundings. Stay away from large gatherings and other locations with a police or security presence. Follow the advice of local authorities. Plan carefully and make sure you have alternative plans if faced with any disruption.
 
 See [how to get help from the UK government abroad](https://www.contact.service.csd.fcdo.gov.uk/posts/pakistan/british-high-commission-islamabad) including in an emergency.
 

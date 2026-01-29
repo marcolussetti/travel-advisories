@@ -1,11 +1,11 @@
 {
     "name": "Myanmar (Burma)",
-    "update_reason": "Addition of information that the military regime will be holding elections throughout January 2026 (\u2018Safety and security\u2019 page).",
+    "update_reason": "Addition of information to reflect end of the military regime\u2019s elections and lifting of city-wide curfew in Yangon ('Safety and security' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Myanmar (Burma)/Warnings and insurance.md",
-            "update_date": "2025-12-31T09:59:22+00:00"
+            "update_date": "2026-01-28T12:08:16+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Myanmar (Burma)/Getting help.md"
         }
     ],
-    "update_date": "2025-12-31T09:59:22+00:00"
+    "update_date": "2026-01-28T12:08:16+00:00"
 }

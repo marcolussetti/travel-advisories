@@ -27,9 +27,8 @@ See [what health risks you’ll face in Ethiopia](https://travelhealthpro.org.uk
 * Schistosomiasis
 * Zika virus
 * Mpox
-* Marburg
 
-The Ethiopian Ministry of Health has confirmed cases of Marburg virus. You can find further information about Marburg on [TravelHealthPro](https://travelhealthpro.org.uk/disease/114/marburg-virus-disease). You should follow guidance from local authorities.
+On 26 January 2026, the Ethiopian government and WHO officially declared the end of the Marburg virus disease outbreak. This announcement came after no new confirmed cases were reported for consecutive 42 days.
 
 Malaria is common in areas of the country up to 2,000 metres above sea level. Addis Ababa sits at 2,400m but a number of sites popular with tourists are below 2,000m.
 
@@ -59,12 +58,8 @@ There is also [guidance on healthcare if you’re living in Ethiopia](https://ww
 
 Read [FCDO guidance on travel and mental health](https://www.gov.uk/guidance/foreign-travel-advice-for-people-with-mental-health-issues). There is also [mental health guidance on TravelHealthPro](https://travelhealthpro.org.uk/factsheet/85/travelling-with-mental-health-conditions).
 
-[Previous
-:
-Regional risks](/foreign-travel-advice/ethiopia/regional-risks)
+[Previous:Regional risks](/foreign-travel-advice/ethiopia/regional-risks)
 
-[Next
-:
-Getting help](/foreign-travel-advice/ethiopia/getting-help)
+[Next:Getting help](/foreign-travel-advice/ethiopia/getting-help)
 
 [View a printable version of the whole guide](/foreign-travel-advice/ethiopia/print)
