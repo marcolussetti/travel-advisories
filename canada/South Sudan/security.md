@@ -6,9 +6,9 @@
 
 The security situation remains volatile and unpredictable.
 
-Political tensions are high following recent leadership changes and clashes between rival factions earlier this year.
+Political tensions are high and clashes between rival factions continue to occur.
 
-Although conditions in Juba appear calm, the situation can deteriorate quickly. Outbreaks of violence remain possible.
+Although conditions in Juba appear calm, the situation can deteriorate quickly and outbreaks of violence remain possible.
 
 Violent clashes between security forces and opposition groups continue in several states and the risk of further escalation cannot be ruled out.
 
