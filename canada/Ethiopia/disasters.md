@@ -2,30 +2,33 @@
 
 ## Natural disasters and climate
 
-### Volcanoes
+### Climate change
 
-### Hayli Gubbi eruption
-
-On November 24, 2025, the Hayli Gubbi volcano erupted in the Afar Region. The region is also experiencing increased seismic activity.
-
-A large volcanic ash cloud could disrupt air traffic and cause flight delays or cancellations.
-
-Contact your airline to confirm your flight before heading to the airport.
+Climate change is affecting Ethiopia. Extreme and unusual weather events are becoming more frequent and may affect your travel plans. Monitor local media for the latest information.
 
 ### Earthquakes
 
-### Increase in seismic activity
+Ethiopia is located in an active seismic zone. Earthquakes commonly occur in:
 
-Since January 2025, there has been an increase in seismic activity in Ethiopia, especially in the Afar and Oromia regions and in areas east of Addis Ababa. Further earthquakes are possible.
+* Afar
+* Amhara
+* Oromia
+* Tigray
 
-Although there have been no casualties, evacuation orders have been issued in several of the affected areas.
+Even minor earthquakes can cause significant damage. Landslides can occur with little warning following volcanic eruptions and earthquakes. Roads may become impassable.
 
-If you are in or near an affected area:
+### Volcanoes
 
-* monitor local media for the latest information
-* keep a supply of water and food and an emergency kit on hand
-* keep your phone charged and have a list of emergency numbers
-* follow instructions of local authorities, including evacuation orders
+Ethiopia has several active volcanoes, most of them are located in Afar region.
+
+Ash clouds can disrupt air travel and cause or worsen respiratory problems.
+
+If you are near active volcanoes:
+
+* take official warnings seriously and respect exclusion zones
+* monitor local media to stay up-to-date on latest developments
+* follow the advice of local authorities, including evacuation orders
+* be prepared to modify your travel arrangements or even evacuate the area on short notice
 
 ### Drought
 

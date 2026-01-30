@@ -145,7 +145,7 @@ Exercise caution along the following border areas:
 
 #### Express kidnappings
 
-Express kidnappings have occurred near hotels and transportation facilities such as ferry, bus and train terminals, in Dar es Salaam, where kidnappers demand small immediate ransoms.
+Express kidnappings have occurred near hotels and transportation facilities such as ferry, bus and train terminals, in Dar es Salaam and Zanzibar.
 
 Criminals kidnap the victim from the street or a taxi and force the person to withdraw funds from an ATM. The victim is sometimes held overnight so that a second withdrawal can be made the next day.
 

@@ -2,6 +2,18 @@
 
 ## Safety and security
 
+### Closure of Niamey Airport
+
+On January 29, 2026, gunfire and explosions occurred in the area of Diori Hamani International Airport in Niamey.
+
+Access to the airport may be restricted and flights disrupted.
+
+If you are in Niger:
+
+* limit your movements
+* contact your airline to confirm your flight and only go to the airport if it is safe to do so
+* monitor the media for the latest information
+
 ### Political instability
 
 The political and security situation in Niger remains unpredictable since the military-led coup d’État against the democratically elected government, which took place on July 26, 2023.
