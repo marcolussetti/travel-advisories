@@ -2,6 +2,8 @@
 
 ### **Travel Alert**
 
+**Given ongoing regional tensions, airlines may choose to suspend flights and/or adjust their schedules to and from Israel at short notice. If you plan on flying to or from the region in the coming days, please check your flight status with your airline directly in advance of travelling.**
+
 The Department of Foreign Affairs and Trade advises High Degree of Caution for Israel. Irish citizens currently in Israel who have not already done so are asked to register on the Department’s Citizens Registration platform [**here**](https://citizensregistration.dfa.ie/).
 
 **Irish citizens in Israel are strongly advised not to travel to border areas with Lebanon.**
