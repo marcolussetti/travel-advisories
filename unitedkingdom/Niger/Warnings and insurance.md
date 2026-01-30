@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   11 December 2025
+:   30 January 2026
 
 Updated:
-:   10 December 2025
+:   29 January 2026
 
 Latest update:
-:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
+:   New information about airport closure following gunfire and explosions in Niamey (‘Warnings and insurance’ and ‘Safety and security’ pages).
 
 ![](https://assets.publishing.service.gov.uk/media/69021020918e1f940b3cf7e5/FCDO__TA__029_-_Niger_Travel_Advice_Ed5__WEB_.jpg)
 
@@ -23,6 +23,19 @@ This is due to the rise of reported terrorist and criminal kidnappings of foreig
 There is an ongoing risk of terrorist attacks throughout Niger including in the capital, Niamey.
 
 The political situation remains unstable following the military coup in July 2023. Further instability is possible.
+
+## Airport closure
+
+There are reports that access to Diori Hamani International Airport in Niamey has been suspended and Niamey’s airspace closed following gunfire and explosions in the vicinity of the airport on 29 January.
+
+All commercial flights operations are suspended until further notice.
+
+You should:
+
+* monitor local news
+* check with your provider regarding delays and closures
+* stay indoors, and
+* follow advice of local authorities
 
 ## US Security Alert
 
@@ -54,8 +67,6 @@ Follow FCDO:
 * [travel advice on Facebook](https://www.facebook.com/FCDOTravel/)
 * [Travel Aware on Instagram](https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Ftravelaware%2F&is_from_rle)
 
-[Next
-:
-Entry requirements](/foreign-travel-advice/niger/entry-requirements)
+[Next:Entry requirements](/foreign-travel-advice/niger/entry-requirements)
 
 [View a printable version of the whole guide](/foreign-travel-advice/niger/print)

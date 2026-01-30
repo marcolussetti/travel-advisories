@@ -38,12 +38,8 @@ There are strict rules about goods you can take into or out of Niger. You must d
 
 Niger is a cash-based society. Credit cards are rarely accepted even in hotels and restaurants visited by international clients. There are few ATMs. Banks accept travellers cheques. You will have to produce your passport and the receipt for the cheques from the issuing bank.
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/niger)
+[Previous:Warnings and insurance](/foreign-travel-advice/niger)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/niger/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/niger/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/niger/print)

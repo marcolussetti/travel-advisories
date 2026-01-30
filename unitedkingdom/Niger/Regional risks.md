@@ -16,12 +16,8 @@ There is a lack of infrastructure in rural and desert areas increasing the safet
 
 Terrorists operate in the areas bordering Mali, Libya, Burkina Faso, Nigeria and throughout northern Niger. Avoid travel to Niger’s border regions, particularly the Tillaberi and Diffa regions.  [See Terrorism.](https://www.gov.uk/foreign-travel-advice/niger/safety-and-security)
 
-[Previous
-:
-Safety and security](/foreign-travel-advice/niger/safety-and-security)
+[Previous:Safety and security](/foreign-travel-advice/niger/safety-and-security)
 
-[Next
-:
-Health](/foreign-travel-advice/niger/health)
+[Next:Health](/foreign-travel-advice/niger/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/niger/print)

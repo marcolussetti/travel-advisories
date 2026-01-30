@@ -21,7 +21,7 @@ There is a heightened risk of attack in Niamey. Terrorist  attacks could be ind
 * locations popular with tourists and foreign nationals
 * sporting and cultural events
 * shopping centres
-* major roads and transport hubs
+* transport hubs, including airports and major roads
 * religious sites and places of worship, particularly churches
 * national parks and nature reserves; including the Parc du W
 * foreign, national or local government buildings
@@ -35,6 +35,7 @@ There are frequent attacks across Niger, particularly in the Diffa and Tillabér
 
 Examples of significant attacks include:
 
+* on 29 January 2026, gunfire and explosions were reported near Diori Hamani International Airport in Niamey
 * in October 2024, one person was killed in an attack in Seno (approximately 7km south west) of Niamey city limits
 * in September 2024, 2 health workers were killed in Weze Bangou, Tillabéri
 * in September 2024, around 27 soldiers were killed in an attack on the Nigerien army, in Niaktire, Tillabéri
@@ -69,13 +70,13 @@ Be careful when walking in crowded or insecure public places, including:
 * hotels
 * bars, night clubs and restaurants
 * nature reserves and national parks
-* transport hubs
+* transport hubs, including airports and major roads
 
 Do not cross the bridges over the River Niger on foot at any time.
 
 Travel within or out of Niger is at your own risk. The FCDO cannot offer advice on the safety of travelling to any departure point within Niger.
 
-There could be disruptions to commercial flights from Niamey’s Diori International Airport at short notice.
+Operations in Niamey’s Diori International Airport have been temporarily suspended.
 
 ## Political situation
 
@@ -189,12 +190,8 @@ Find out what you can do to prepare for and respond to [extreme weather and natu
 
 The rainy season in Niger is from June to October. Torrential rains can cause floods and landslides. Monitor local weather reports and expect difficulties when travelling to affected areas.
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/niger/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/niger/entry-requirements)
 
-[Next
-:
-Regional risks](/foreign-travel-advice/niger/regional-risks)
+[Next:Regional risks](/foreign-travel-advice/niger/regional-risks)
 
 [View a printable version of the whole guide](/foreign-travel-advice/niger/print)
