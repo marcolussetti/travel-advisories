@@ -101,7 +101,7 @@ Incidents of attacks and sexual assault, including rape, have been reported thro
 
 Women or other survivors of gender-based violence may be discouraged or blocked from reporting aggressors to the authorities. If you are a survivor of a sexual assault or other crime, you should report it immediately to the police and the nearest Canadian office.
 
-[Advice for women travellers](https://travel.gc.ca/travelling/health-safety/advice-for-women-travellers)
+[Advice for women travellers](https://travel.gc.ca/travelling/health-safety/advice-for-women-travellers "Advice for women travellers")
 
 ### Fraud
 

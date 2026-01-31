@@ -29,20 +29,20 @@ Keep photocopies or digital copies of the following documents, in case of loss o
 * the identification page of your passport
 * your birth certificate
 * your Canadian citizenship card
-* your driver’s licence
+* your driver's licence
 
 Keep originals and copies in separate safe locations.
 
 #### Concealing your face in public places
 
-In France, it’s illegal to cover your face in public places, including international airport arrivals areas.
+In France, it's illegal to cover your face in public places, including international airport arrivals areas.
 
 Offenders risk a very high fine. There is no exemption for tourists or for religious reasons.
 
 #### Useful links
 
-* [Identity checks](https://www.service-public.fr/particuliers/vosdroits/F1036?lang=en) - French administration services
-* [Concealment of the face in public places](https://www.service-public.fr/particuliers/vosdroits/F21613?lang=en) - French administration services
+* [Identity checks](https://www.service-public.fr/particuliers/vosdroits/F1036?lang=en) – French administration services
+* [Concealment of the face in public places](https://www.service-public.fr/particuliers/vosdroits/F21613?lang=en) – French administration services
 
 ### Dual citizenship
 
@@ -82,13 +82,13 @@ Be aware that Canadian consular officials cannot interfere in private legal matt
 
 Recreational and commercial flying of drones is regulated.
 
-You must register your drone to use it across the European Union. If you don’t comply, you may be fined and your drone confiscated.
+You must register your drone to use it across the European Union. If you don't comply, you may be fined and your drone confiscated.
 
 #### Useful links
 
-* [Civil drones](https://www.easa.europa.eu/domains/civil-drones) - European Union Aviation Safety Agency
+* [Civil drones](https://www.easa.europa.eu/en/domains/civil-drones) – European Union Aviation Safety Agency
 * [General Directorate of Civil Aviation](https://www.ecologie.gouv.fr/direction-generale-laviation-civile-dgac-0#:~:text=La%20DGAC%20est%20prestataire%20de,de%20ses%20tours%20de%20contr%C3%B4le.) – Government of France (in French)
-* [Drones: piloting rules to follow](https://www.service-public.fr/particuliers/vosdroits/F34630)– Government of France (in French)
+* [Drones: piloting rules to follow](https://www.service-public.fr/particuliers/vosdroits/F34630) – Government of France (in French)
 
 ### Driving
 
@@ -96,7 +96,7 @@ You must be at least 18 years old to drive a car in France.
 
 You should carry an International Driving Permit. You can drive with your Canadian licence for up to 1 year. If you stay in France, you will have to exchange your Canadian licence for a French licence.
 
-Numerous roadside cameras have been installed to help enforce traffic regulations. You could receive heavy fines if you do not obey the speed limit or the Highway Code. Local authorities may also confiscate your driver’s licence.
+Numerous roadside cameras have been installed to help enforce traffic regulations. You could receive heavy fines if you do not obey the speed limit or the Highway Code. Local authorities may also confiscate your driver's licence.
 
 Fines must generally be paid within 3 days. They may be increased in case of delay of payment.
 
@@ -106,7 +106,7 @@ From November 1 to March 31, winter tires or chains are compulsory in some citie
 
 #### Priority to the right
 
-The “priority to the right” system is in effect in France. Drivers must give way to vehicles approaching from the right at intersections, even on secondary roads. This is often a surprise to foreign drivers and results in accidents.
+The "priority to the right" system is in effect in France. Drivers must give way to vehicles approaching from the right at intersections, even on secondary roads. This is often a surprise to foreign drivers and results in accidents.
 
 In general, traffic in a roundabout has priority over vehicles trying to enter it. Priority switches to vehicles from the left.
 
@@ -118,9 +118,9 @@ Access to these zones is restricted to vehicles that meet certain environmental 
 
 #### Useful links
 
-* [More information about road travel in France](http://ec.europa.eu/transport/road_safety/going_abroad/france/index_en.htm) - European Commission
-* [Obligations to equip vehicles in winter](https://www.service-public.fr/particuliers/actualites/A14389?lang=en) - French administration services (in French)
-* [Air quality certificates: Crit'Air](https://www.ecologie.gouv.fr/certificats-qualite-lair-critair) - Ministry of Ecological Transition (in French)
+* [More information about road travel in France](http://ec.europa.eu/transport/road_safety/going_abroad/france/index_en.htm) – European Commission
+* [Obligations to equip vehicles in winter](https://www.service-public.fr/particuliers/actualites/A14389?lang=en) – French administration services (in French)
+* [Air quality certificates: Crit'Air](https://www.ecologie.gouv.fr/certificats-qualite-lair-critair) – Ministry of Ecological Transition (in French)
 
 ### Money
 

@@ -90,7 +90,7 @@ Ethnic tensions and sporadic violence are common. Ethnic militias from South Sud
 
 ### Gambella region
 
-Ethnic conflict, violent crime and sporadic violence are of concern in the city of Gambella and its surrounding areas. Armed clashes have caused casualties and damage to foreign companies’ installations in the area.
+Ethnic conflict, violent crime and sporadic violence are of concern in the city of Gambella and its surrounding areas. Armed clashes have caused casualties and damage to foreign companies' installations in the area.
 
 ### Somali region
 
@@ -133,7 +133,7 @@ If you are travelling in a region prone to kidnapping:
 * change your travel patterns regularly
 * be aware of your surroundings
 * avoid displaying signs of affluence
-* don’t travel alone
+* don't travel alone
 
 ### Crime
 
@@ -156,7 +156,7 @@ Crime significantly increases after dark.
 * Avoid displaying any signs of affluence in public
 * Avoid walking alone after sundown
 * Choose living accommodations that have good security measures
-* Keep car doors locked while you’re in your vehicle
+* Keep car doors locked while you're in your vehicle
 * Park your car in a well-lit and guarded area
 * Be vigilant if approached by strangers seeking assistance
 * If threatened, hand over valuables without resistance
@@ -168,8 +168,8 @@ Violent crime is rare in Addis Ababa, but happens. Westerners have been victims 
 
 If threatened:
 
-* stay calm and don’t resist
-* comply with the robbers’ requests
+* stay calm and don't resist
+* comply with the robbers' requests
 
 ### Interactions with security personnel
 
@@ -252,7 +252,7 @@ Driving standards, vehicle maintenance and road conditions are often poor throug
 
 Apart from major arteries, roads are generally unpaved. They often lack markings and signage, reflectors and shoulders, even in urban areas. They are poorly lit and maintained.
 
-Drivers often drive at excessive speed and don’t respect traffic laws. They may be reckless. Poorly maintained vehicles, roaming animals and pedestrians pose further hazards. Armed robbery, carjacking and landmines also pose a threat, especially in border areas
+Drivers often drive at excessive speed and don't respect traffic laws. They may be reckless. Poorly maintained vehicles, roaming animals and pedestrians pose further hazards. Armed robbery, carjacking and landmines also pose a threat, especially in border areas
 
 There is no road assistance and emergency services are limited to nonexistent in several areas. Although improving, the cellular coverage remains unstable outside main cities.
 
@@ -260,8 +260,8 @@ There is no road assistance and emergency services are limited to nonexistent in
 * Always keep your gas tank full when in remote areas
 * Always carry a first-aid kit, as medical facilities are often undersupplied
 * Advise a relative of your anticipated itinerary and route
-* If you encounter a roadblock, turn around and don’t attempt to pass it
-* Don’t rely on your phone for navigation or emergency contacts
+* If you encounter a roadblock, turn around and don't attempt to pass it
+* Don't rely on your phone for navigation or emergency contacts
 
 #### Accidents
 
@@ -312,12 +312,12 @@ If you intend on hiking in this area despite the advisory in place:
 * never do so alone and always hire an experienced guide from a reputable company
 * buy travel insurance that includes helicopter rescue and medical evacuation
 * ensure that your physical condition is good enough to meet the challenges of your activity
-* ensure that you’re properly equipped and well informed about weather and other conditions that may pose a hazard
+* ensure that you're properly equipped and well informed about weather and other conditions that may pose a hazard
 * inform a family member or friend of your itinerary, including when you expect to be back to camp
 * know the symptoms of high-altitude illnesses, which can be fatal
 * obtain detailed information on trekking routes before setting out and do not venture off marked trails
 
-### Women’s safety
+### Women's safety
 
 Women travelling alone may be subject to harassment and verbal abuse.
 

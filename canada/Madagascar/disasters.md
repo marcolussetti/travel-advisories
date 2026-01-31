@@ -4,6 +4,25 @@
 
 ### Cyclones
 
+Tropical Cyclone Fytia is expected to sweep through northwest Madagascar, between Maintirano and Majunga, on January 31, 2026.
+
+The storm is likely to bring excessive rainfall and violent winds. It may cause flash flooding and landslides and could severely disrupt the following essential services:
+
+* transportation
+* power distribution
+* water and food supply
+* telecommunications networks
+* emergency services
+* medical care
+
+If you are in northern Madagascar:
+
+* exercise caution
+* monitor local news and weather reports
+* follow the instructions of local authorities
+
+[Weather forecast](https://www.meteomadagascar.mg/) – Madagascar National Weather Service
+
 The cyclone season occurs from November to April.
 
 If you decide to travel to Madagascar during this time:

@@ -28,9 +28,9 @@ Ensure that your personal belongings, including your passport and your other tra
 
 ### Fraud
 
-Fraud involving use of credit cards, debit cards and ATMs may occur. 
+Fraud involving use of credit cards, debit cards and ATMs may occur.
 
-When using your bank card or credit card:  
+When using your bank card or credit card:
 
 * cover the keypad with one hand when entering your PIN
 * pay careful attention when your cards are being handled by others
@@ -42,7 +42,7 @@ When using your bank card or credit card:  
 
 ### Women's safety
 
-Women travelling alone may be subject to some forms of harassment, verbal abuse and sexual assault.
+Women travelling alone may be subject to some forms of harassment, verbal abuse and sexual assault./p>
 
 [Advice for women travellers](https://travel.gc.ca/travelling/health-safety/advice-for-women-travellers "Advice for women travellers")
 
@@ -75,23 +75,23 @@ If you are in Saint Lucia:
 
 ### Swimming
 
-Coastal waters can be dangerous as riptides are common. Beaches are unsupervised and don’t have warning flags to warn of unsafe conditions.   
+Coastal waters can be dangerous as riptides are common. Beaches are unsupervised and don't have warning flags to warn of unsafe conditions.
 
 * Never swim alone
 * Always maintain a safe distance from boats and restricted areas
 * Consult residents and tour operators for information on possible hazards and safe swimming areas
-* Don’t dive in unfamiliar waters as hidden rocks or shallow water can cause serious injury or death
+* Don't dive in unfamiliar waters as hidden rocks or shallow water can cause serious injury or death
 
 [Adventure travel health and safety](https://travel.gc.ca/travelling/health-safety/adventure-travellers)
 
 ### Adventure tourism
 
-Outdoor activities, such as zip lining, hiking, mountain biking, and other adventure activities can be dangerous if unprepared. Trails are not always marked, and weather conditions can change rapidly, even during summer.   
+Outdoor activities, such as zip lining, hiking, mountain biking, and other adventure activities can be dangerous if unprepared. Trails are not always marked, and weather conditions can change rapidly, even during summer.
 
-If you intend to practice adventure tourism: 
+If you intend to practice adventure tourism:
 
-* never do so alone, and don’t part with your expedition companions
-* obtain detailed information on your activity and on the environment in which you will be setting out
+* never do so alone, and don't part with your expedition companions
+* obtain detailed information on your activity and on the environment in which you will be setting out;
 * buy travel insurance that includes helicopter rescue and medical evacuation
 * stay informed about weather and other conditions that may pose a hazard
 * refrain from using facilities or equipment if you have doubts on their safety
@@ -99,7 +99,7 @@ If you intend to practice adventure tourism: 
 
 ### Road safety
 
-Road safety is overall good throughout the island. 
+Road safety is overall good throughout the island.
 
 Cell phone reception is available across the island and is reliable for emergency calls.
 
@@ -107,16 +107,16 @@ Emergencies services, including roadside assistance, are available. Response tim
 
 #### Road conditions
 
-Road conditions are generally good across the island. 
+Road conditions are generally good across the island.
 
 #### Driving habits
 
-Drivers don’t always respect traffic laws. They can be reckless.  
+Drivers don't always respect traffic laws. They can be reckless.
 
-If you choose to drive during your stay: 
+If you choose to drive during your stay:
 
 * be wary of strangers offering to help you
-* don’t pick up hitchhikers
+* don't pick up hitchhikers
 * keep doors locked and windows closed at all times
 * always carry a cell phone and charger
 * keep a list of emergency numbers handy
@@ -125,11 +125,11 @@ If you choose to drive during your stay: 
 
 #### Minibuses
 
-Regular minibus services are reliable but can be unsafe due to driving speeds.
+Regular minibus services are reliable but can be unsafe due to driving speeds.
 
 #### Taxis
 
-Taxis are available at airports and resort areas. They don’t use meters.
+Taxis are available at airports and resort areas. They don't use meters.
 
 * Only use registered taxis with a blue number plate
 * Negotiate the fare in advance
@@ -137,11 +137,11 @@ Taxis are available at airports and resort areas. They don’t use meters.
 
 #### Ride-sharing apps
 
-Ride-sharing apps are available in Saint Lucia. 
+Ride-sharing apps are available in Saint Lucia.
 
 #### Ferries
 
-Ferry services are available weekly between Martinique and Saint Lucia and between Saint Vincent and Saint Lucia. 
+Ferry services are available weekly between Martinique and Saint Lucia and between Saint Vincent and Saint Lucia.
 
 Ferries are safe although sea waters around Saint Lucia are rough.
 

@@ -4,9 +4,9 @@
 
 ### Olympic and Paralympic Winter Games
 
-The Milan Cortina Olympic Winter Games will take place across several destinations in northern Italy from February 6-22, followed by the Paralympic Winter Games from March 6-15, 2026.
+The Milano Cortina Olympic Winter Games will take place across several destinations in northern Italy from February 6-22, followed by the Paralympic Winter Games from March 6-15, 2026.
 
-Be aware of your surroundings, especially in crowded areas. Thieves and pickpockets take advantage of large gatherings to target travellers.
+Demonstrations could take place before and during the Games. Avoid areas where demonstrations are taking place.
 
 During the Games, especially in areas near the event centres, you should expect:
 
@@ -17,7 +17,7 @@ During the Games, especially in areas near the event centres, you should expect:
 #### Useful links
 
 * [Milano Cortina 2026 Winter Olympic Games and Winter Paralympic Games](https://travel.gc.ca/campaigns/olympics-paralympics-2026?_ga=2.109171906.69752942.1769090817-833740108.1769090808) – Government of Canada
-* [Milan Cortina 2026](https://www.olympics.com/en/milano-cortina-2026) – Official site
+* [Milano Cortina 2026](https://www.olympics.com/en/milano-cortina-2026) – Official site
 * [Lost or stolen belongings outside Canada](https://travel.gc.ca/assistance/emergency-info/stolen-belongings)
 * [More information on medical services and facilities](#medical-services)
 

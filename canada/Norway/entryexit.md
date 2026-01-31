@@ -41,13 +41,13 @@ Since October 2023, Norway has enforced an entry ban on vehicles registered in R
 
 Vehicles registered in Russia carrying Russian license plates will be refused entry into Norway.
 
-Norway is tightening its restrictive measures against Russia – Norwegian Ministry of Foreign Affairs
+[Norway is tightening its restrictive measures against Russia](https://www.regjeringen.no/en/aktuelt/norway-is-tightening-its-restrictive-measures-against-russia/id2996416/) – Norwegian Ministry of Foreign Affairs
 
 ### Svalbard archipelago
 
-While Svalbard is a Norwegian territory, it’s not part of the Schengen area.
+While Svalbard is a Norwegian territory, it's not part of the Schengen area.
 
-You must have a valid passport to enter Svalbard and meet Schengen area entry regulations when returning to Norway’s mainland.
+You must have a valid passport to enter Svalbard and meet Schengen area entry regulations when returning to Norway's mainland.
 
 [Entry and residence](https://www.sysselmannen.no/en/tilreisende/) - Governor of Svalbard
 

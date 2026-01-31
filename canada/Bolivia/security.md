@@ -6,14 +6,8 @@
 
 Since December 19, 2025, there is an increased risk of roadblocks in La Paz, Santa Cruz, Cochabamba and other areas due to transport strikes and demonstrations.
 
-Certain areas, including the city of Uyuni in Antonio Quijarro Province, have been effectively cut off from the road network.
-
-Chartered flights may be organized to assist travellers stranded in Uyuni. Register for a flight using this form: [https://forms.gle/g2KF2WH13FNUKMj26](https://forms.gle/g2KF2WH13FNUKMj26 "https://forms.gle/g2kf2wh13fnukmj26")
-
-If you are in Uyuni:
-
-* contact your tour operator
-* monitor local media for the latest information
+* Monitor local media for the latest information
+* Follow the instructions of local authorities
 
 Roadblocks are common throughout the country. They can lead to significant disruptions to traffic and public transportation. Roadblocks can also restrict the flow of goods and services throughout the country. The following are particularly vulnerable to blockades:
 
