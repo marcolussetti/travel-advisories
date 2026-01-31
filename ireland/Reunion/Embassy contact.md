@@ -1,10 +1,8 @@
 ## Embassy contact
 
-As there is no Irish Embassy or Consulate in Martinique, we are limited in the help we can offer you in an emergency. However, if you need assistance, you can contact the [**Irish Embassy in Paris**](https://www.ireland.ie/en/france/paris/contact/)**.**
+As there is no Irish Embassy or Consulate in Réunion, we are limited in the help we can offer you in an emergency. However, if you need assistance, you can contact the [**Irish Embassy in Paris**](https://www.ireland.ie/en/france/paris/contact/)**.**
 
-Please note that if you require urgent assistance while the Embassy is closed, contact the main Embassy number, 0033(0) 1 44 17 67 00, and leave a message on the Duty Officer voice mailbox. This mailbox will be monitored regularly.
-
-Monday to Friday 09:30-12:00
+If urgent assistance is you required while the Embassy is closed, please contact the main Embassy number, +331 44 17 67 00, and leave a message on the Duty Officer voice mailbox. This mailbox will be monitored regularly.
 
 ### Embassy of Ireland, France
 

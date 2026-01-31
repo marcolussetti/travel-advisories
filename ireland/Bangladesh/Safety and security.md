@@ -2,9 +2,11 @@
 
 ### **Political Unrest**
 
-You should avoid demonstrations and be cautious when travelling in Bangladesh. There is a strong and visible security presence on the streets of Dhaka.
+In July and August 2024, a mass uprising led to violence across Bangladesh, resulting in many deaths and injuries. An interim government took control over the country following the exile of PM Hasina on 5 August 2024.
 
-If you’re travelling to Bangladesh, always keep yourself informed of what’s going on around you by monitoring local media and staying in contact with your local contact, hotel or tour organiser. Avoid demonstrations and public gatherings, which can sometimes turn violent.
+Elections will take place on 12 February and the situation is volatile. Avoid political rallies and demonstrations can quickly turn violent leading to clashes. There have also been sporadic attacks against minority religious communities. There is a strong and visible security presence across Bangladesh.
+
+Irish citizens travelling to Bangladesh are advised to keep informed by monitoring local media and staying in contact with their local contact, hotel or tour organiser.
 
 ### **Terrorism**
 

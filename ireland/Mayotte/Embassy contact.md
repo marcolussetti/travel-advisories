@@ -1,14 +1,16 @@
 ## Embassy contact
 
-As there is no Irish Embassy or Consulate in Mayotte, we are limited in the help we can offer you in an emergency. However, if you need assistance, you can contact the Consular Assistance Unit at the Department of Foreign Affairs and Trade, in Dublin.
+As there is no Irish Embassy in Mayotte, we are limited in the help we can offer you in an emergency. However, if you need assistance, you can contact the [**Irish Embassy in Paris**](https://www.ireland.ie/en/france/paris/contact/)**.**
 
-### Department of Foreign Affairs and Trade
+If urgent assistance is required while the Embassy is closed, please contact the main Embassy number, +33 1 44 17 67 00, and leave a message on the Duty Officer voice mailbox. This mailbox will be monitored regularly.
 
-Iveagh House   
-80 St Stephen’s Green   
-Dublin 2   
-D02 VY53
+### Embassy of Ireland, France
 
-[Tel: +353 1 408 2000](tel:+3531 408 2000)
+12 avenue Foch   
+(entrance 4 rue Rude)   
+75116 Paris   
+France
 
-[**Contact us**](/en/dfa/overseas-travel/contact-dfa-travel-advice/)
+[Tel: +33 1 44 17 67 00](tel:+331 44 17 67 00)
+
+[**Contact us**](/en/france/paris/contact/)

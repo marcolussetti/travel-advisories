@@ -1,5 +1,6 @@
 ## Safety and security
 
-### **Hurricane Season**
-
-The hurricane season in the Caribbean normally runs from July to October. You should pay close attention to local and international weather reports and follow the advice of local authorities. Always monitor local and international weather updates for the region by accessing, for example, [**the Weather Channel**](http://www.weather.com/), or the [**US National Hurricane Centre website**](http://www.nhc.noaa.gov/).
+* Read our [**Know Before You Go travel guide**](https://www.ireland.ie/en/dfa/overseas-travel/know-before-you-go-/) for useful security tips when travelling abroad.
+* Get advice locally about areas of risk and security concerns.
+* Take common-sense precautions about safety and security.
+* Know who to contact in case of an emergency.

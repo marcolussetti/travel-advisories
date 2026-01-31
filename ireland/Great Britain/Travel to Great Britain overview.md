@@ -4,6 +4,18 @@
 
 Normal Precautions
 
+### **Travel Alert**
+
+**UK, Channel Islands and Isle of Man Electronic Travel Authorisation (ETA)**
+
+**Exemption for Irish Citizens, including Irish dual citizens, travelling to, or transiting through, the UK, the Channel Islands or the Isle of Man from outside the Common Travel Area (The Common Travel Area is comprised of the United Kingdom, the Channel Islands, the Isle of Man and Ireland):**
+
+A new ETA for people travelling to, or transiting through, the UK, the Channel Islands, or the Isle of Man from outside the Common Travel Area has been introduced. **Irish citizens, including Irish dual citizens, do not need and therefore are ineligible to apply for an ETA. Under UK, Channel Islands and Isle of Man entry requirements, you must present a valid Irish passport to your airline carrier, ferry operator or border control to demonstrate that you are exempt from the ETA requirement when travelling from outside the Common Travel Area**.
+
+You are advised to check your passport validity, and where necessary, apply for an Irish passport, well in advance of any travel. Where travel is required owing to an emergency, Irish citizens, including Irish dual citizens, who are not in possession of a valid Irish passport can contact their nearest Embassy or Consulate, for advice.
+
+Further information on the ETA is available from the UK Government at their website [Get an electronic travel authorisation (ETA) to visit the UK: Overview - GOV.UK](https://www.gov.uk/eta)
+
 ### **General Travel Advice**
 
 Irish citizens do not require a visa to enter the UK.

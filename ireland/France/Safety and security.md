@@ -6,13 +6,9 @@ Irish citizens in France are reminded that they should be in possession of a val
 
 ### **Terrorism**
 
-Following the 22 March attack in Moscow, France has raised its national threat level to the highest, ‘Emergency’ level. This is level 3 on the French Vigipirate security programme. It is established for a limited duration in the event of an imminent threat, or in the immediate aftermath of an attack
+Since March 2025, France has maintained its national security threat level at level 3, ‘attack emergency’ (urgence attentat). This is the highest level in the French Vigipirate security programme.
 
 When in France, expect to see additional security measures and an increased police presence in public places. This includes a highly visible police and army presence in cities and near main tourist attractions. Many museums, galleries and stadia have security screening programmes in place and visitors may be asked to present bags for inspection before being admitted.  We advise all citizens to maintain an awareness of their surroundings, monitor local media for up-to-date information, and follow the instructions of local authorities. See the French government's advice about [**what to do if a terrorist attack occurs**](https://www.gouvernement.fr/risques/reagir-en-cas-dattaque-terroriste).
-
-### **Minors Travelling Alone**
-
-Minors travelling without a parent must carry specific documentation. Please find [**here**](https://www.service-public.fr/particuliers/vosdroits/F1359) information on travel requirements for unaccompanied minors travelling from France, which applies to Irish citizens resident in France.
 
 Visitors can contact the emergency services in France by dialling 112. Irish citizens in France should be in possession of a valid form of photographic identification such as a passport or passport card at all times.
 
@@ -33,7 +29,7 @@ See the latest advice and information from the French police on their website [
 
 If a victim of a crime while in France, report it to the local police station ‘commissariat’ or gendarmerie immediately. Learn more about [**what to do if your passport is lost/stolen**](/en/dfa/overseas-travel/assistance-abroad/lost-stolen-passport/).  Contact us at the [**Irish Embassy in Paris**](/en/france/paris/) if you need help.
 
-### **Theft From Vehicles**
+### **Theft from Vehicles**
 
 This is common, particularly in the south of France, so keep doors locked, windows rolled up and valuables out of sight while driving and parked. In some tourist areas along the south coast, it is common to remove the parcel shelf so that potential thieves can see that there is nothing worth stealing in the boot.
 
@@ -69,7 +65,7 @@ If you are a truck driver, make sure you are familiar with French traffic regula
 
 ### **Cyclists**
 
-Paris and many other cities have public bicycle-rental schemes. Cyclist, not allowed to cycle on the footpaths unless a cycle lane is marked as part of the path. Obey all relevant traffic rules and take appropriate safety precautions, particularly if not familiar with cycling on the right-hand side of the road. Avoid cycling if you are under the influence of alcohol.
+Paris and many other cities have public bicycle-rental schemes. Cyclists are not allowed to cycle on the footpaths unless a cycle lane is marked as part of the path. Obey all relevant traffic rules and take appropriate safety precautions, particularly if not familiar with cycling on the right-hand side of the road. Avoid cycling if you are under the influence of alcohol.
 
 All cyclists must wear a high-visibility vest when cycling outside urban areas at night.
 
@@ -86,5 +82,3 @@ Some overnight inter-city trains have been targeted by thieves. On metros and tr
 Eurostar operates from Paris, Lille, Calais and Brussels to London St Pancras. Bookings are through [**www.eurostar.com**](http://www.eurostar.com/) or (from within France – premium rates apply) 0892-353539.
 
 Visitors can book trains from within France through [**www.voyages-sncf.com**](http://www.voyages-sncf.com/).
-
-Please find information [**here**](https://www.service-public.fr/particuliers/vosdroits/F1359) on regulations regarding unaccompanied minors travelling from France, including those ordinarily resident in France.

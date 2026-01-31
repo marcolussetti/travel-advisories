@@ -8,17 +8,7 @@ High Degree of Caution
 
 #### **Chikungunya Outbreak**
 
-Mayotte is currently experiencing a Chikungunya outbreak. There is also a risk of autochthonous malaria.
-
-Protect yourself from mosquito bites at all times.
-
-It is advisable to speak to your healthcare provider or travel health clinic well in advance of any visit to Mayotte.
-
-#### **Cyclone Season**
-
-The cyclone season in Mayotte normally runs from November to May. Cyclones can cause severe damage to property. The authorities have a well-structured system of phased warnings in place. You should follow any advice issued by the local authorities. If you are travelling to or living in Mayotte, make sure you know what to do in the event of a cyclone.
-
-You can find further information on the website of the [**World Meteorological Organisation**](https://severeweather.wmo.int/).
+Cases of Chikungunya continue to occur in Mayotte since an outbreak in 2025. There is also a risk of locally-acquired (autochthonous) malaria. Protect yourself from mosquito bites at all times. Protect yourself from mosquito bites at all times.
 
 ### **General Travel Advice**
 
@@ -49,4 +39,4 @@ You can contact the emergency services in Mayotte by dialling 112. Specific emer
 * Read our [**‘Know Before You Go’**](/en/dfa/overseas-travel/know-before-you-go-/) guide.
 * Read our [**Consular Assistance Charter**](https://www.ireland.ie/en/dfa/overseas-travel/assistance-abroad/consular-assistance-charter/) that clearly sets out the assistance that can be provided to citizens in difficulty overseas, and the limits of what the Department can do.
 
-As there is no Irish Embassy or Consulate in Mayotte, we are limited in the help we can offer you in an emergency situation.  However, if there is an emergency, or if you need help and advice, you can contact our Embassy in Paris on **+331 44176700** or our Consular Assistance Unit at the Department of Foreign Affairs and Trade in Dublin on +353 1 408 2000.
+As there is no Irish Embassy or Consulate in Mayotte, we are limited in the help we can offer you in an emergency situation.  However, if there is an emergency, or if you need help and advice, you can contact our Embassy in Paris on **+33 1 44 17 67 00** or our Consular Assistance Unit at the Department of Foreign Affairs and Trade in Dublin on +353 1 408 2000.

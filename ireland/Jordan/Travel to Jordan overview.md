@@ -8,6 +8,8 @@ High Degree of Caution
 
 Please be advised that the three land border crossings between Jordan and Israel (Allenby /King Hussein Bridge, Jordan River/ Sheikh Hussein Crossing, and Yitzhak Rabin / Wadi Araba Crossing) continue to be affected by long delays, reduced hours, and unforeseen closures without prior notification.
 
+Given ongoing regional tensions, airlines may choose to suspend flights and/or adjust their schedules to and from Jordan at short notice. If you plan on flying to or from the region in the coming days, please check your flight status with your airline directly in advance of travelling.
+
 In general, travellers to Jordan should exercise a high degree of caution, monitor local media, and **follow the instructions of local authorities at all times.** Where there are road closures, seek alternate routes, and avoid all demonstrations and large crowds. If you find yourself in immediate danger, please contact the Jordanian police by dialling 911.
 
 We recommend that all Irish citizens travelling to or residing in Jordan register on our [**Citizens Registration portal**](https://citizensregistration.dfa.ie/).

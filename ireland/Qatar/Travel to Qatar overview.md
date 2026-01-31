@@ -6,6 +6,8 @@ High Degree of Caution
 
 ### **Travel Alert**
 
+Given ongoing regional tensions, airlines may choose to suspend flights and/or adjust their schedules to and from Qatar at short notice. If you plan on flying to or from the region in the coming days, please check your flight status with your airline directly in advance of travelling
+
 The Embassy of Ireland, Abu Dhabi is closely monitoring the current situation in Qatar and the region and advises that Irish citizens exercise a high degree of caution. For further updates, please monitor the Embassy’s social media channels on [**X**](https://x.com/IrelandEmbUAE), [**Instagram**](https://www.instagram.com/irelandembuae?igsh=bnRnYjQ0Mmt4OG50), and [**Facebook**](https://www.facebook.com/share/1Aek6yo4tR/?mibextid=wwXIfr)**.**
 
 ### **General Travel Advice**

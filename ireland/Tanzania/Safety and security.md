@@ -2,13 +2,11 @@
 
 ### **Political Situation**
 
-General elections are scheduled to take place in Tanzania on 29 October 2025, with early voting in Zanzibar on 28 October 2025.
+Following the general election on 29 October 2025, there were several days of country-wide unrest and violent outbreaks leading to fatalities and injuries.
 
-Recent elections in Tanzania (particularly on the islands of Zanzibar) have turned violent and resulted in some fatalities.
+The current situation is calm but unpredictable. Irish citizens are advised to stay alert to their surroundings, and avoid all demonstrations, rallies, and large crowds.
 
-Avoid all demonstrations, rallies, and large crowds.
-
-If visitors become aware of any nearby protests, leave the area immediately and monitor our travel advice, and social and local media for up-to-date information. Access to some social media platforms may be restricted during the electoral period.
+If visitors become aware of any nearby protests, leave the area immediately and monitor our travel advice, and social and local media for up-to-date information.
 
 ### **Terrorism**
 
@@ -26,6 +24,8 @@ Irish citizens are advised against all travel within 20 kilometres of the border
 
 Most visits to Tanzania are trouble-free but armed crime is increasing so take sensible precautions, and exercise caution, especially in popular tourist areas in Dar es Salaam and Zanzibar. Muggings, bag grabs from passing motorbikes, and robberies including forced ATM withdrawals, sometimes accompanied by violence or the threat of violence, have increased throughout Tanzania and Zanzibar, especially in areas frequented by backpackers and expatriates such as the Peninsula area of Masaki in Dar es Salaam.
 
+Muggings, bag grabs from passing cars and motorbikes, and robberies including forced ATM withdrawals - sometimes accompanied by violence or the threat of violence - have increased throughout Tanzania and Zanzibar, especially in areas frequented by backpackers and expatriates.
+
 * Do not carry your credit cards, travel tickets and money together
 * Do not make yourself an obvious target for muggers and pickpockets – leave spare cash and expensive-looking jewellery or watches in a safe place
 * Do not carry your passport unless absolutely necessary, rather carry a copy for ID purposes, and leave a copy of your passport (as well as travel and insurance documents) with family or friends at home
@@ -37,8 +37,6 @@ Most visits to Tanzania are trouble-free but armed crime is increasing so take s
 * Avoid dark and unlit streets and stairways, arrange to be picked up or dropped off as close to your hotel or apartment entrance as possible
 * Be alert to the risk of thefts of personal property from cars and taxis stationary in traffic. If attacked or if someone grabs your bag, do not resist
 * Citizens may wish to be guided by our Know Before You Go advice to for [**Female Travellers**](https://www.ireland.ie/en/dfa/overseas-travel/know-before-you-go/female-travellers/) and [**LGBTQI+ Travellers**](https://www.ireland.ie/en/dfa/overseas-travel/know-before-you-go/lgbtqi/).
-
-Muggings, bag grabs from passing cars, and robberies including forced ATM withdrawals, sometimes accompanied by violence or the threat of violence, have increased throughout Tanzania and Zanzibar, especially in areas frequented by backpackers and expatriates.
 
 ### **Taxis, Buses and Motorbikes**
 

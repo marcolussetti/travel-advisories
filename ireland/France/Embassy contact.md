@@ -4,8 +4,6 @@ Please note that if you require urgent assistance while the Embassy is closed, c
 
 This mailbox will be monitored regularly.
 
-Monday to Friday 09:30am - 12:00pm
-
 ### Embassy of Ireland, France
 
 12 avenue Foch   

@@ -6,25 +6,19 @@ Normal Precautions
 
 ### **Travel Alert**
 
+#### **UK ETA**
+
+**Exemption for Irish Citizens, including Irish dual citizens, travelling to, or transiting through, the UK, the Channel Islands or the Isle of Man from outside the Common Travel Area:**
+
+The UK has introduced a new Electronic Travel Authorisation (ETA) for people travelling to, or transiting through, the UK, the Channel Islands, or the Isle of Man from outside the Common Travel Area. **Irish citizens, including Irish dual citizens, do not need and therefore are ineligible to apply for an ETA. Under UK entry requirements, you must present a valid Irish passport at UK border control to demonstrate that you are exempt from the ETA requirement**.
+
+You are advised to check your passport validity, and where necessary, apply for an Irish passport, well in advance of any travel. Where travel is required owing to an emergency, Irish citizens, including Irish dual citizens, who are not in possession of a valid Irish passport can contact the Embassy of Ireland in Madrid, or nearest Consulate, for advice.
+
+Further information on the ETA is available at [Get an electronic travel authorisation (ETA) to visit the UK: Overview - GOV.UK](https://www.gov.uk/eta)
+
 #### **National Threat Level**
 
-Following the 22 March attack in Moscow, France has raised its national threat level to the highest ‘Emergency’ level. This is level 3 on the French Vigipirate security programme.
-
-#### **New Caledonia Safety and Security**
-
-The state of emergency for New Caledonia has lifted.
-
-* The international airport at Nouméa-La Tontouta has now reopened.
-* The nightly curfew, which was in effect since May, lifted on 2 December;
-
-If you are in New Caledonia
-
-* limit your movements and exercise caution;
-* avoid demonstrations, public gatherings and roadblocks
-* monitor local media for latest updates;
-* follow advice of local authorities, including curfew orders.
-
-New Caledonia is a sui generis or special status Overseas Collectivity of France.
+Since March 2025, France has maintained its national security threat level at level 3, ‘attack emergency’ (urgence attentat). This is the highest level in the French Vigipirate security programme.
 
 ### **General Travel Advice**
 
@@ -40,7 +34,7 @@ Citizens can also follow the Embassy in Paris and Consulate in Lyon on social me
 
 ### **Temporary Reintroduction of Border Controls**
 
-There will be increased checks and controls at France's borders with Belgium, Luxembourg, Germany, Switzerland, Italy, and Spain from 1 November 2024 to 30 April 2025.
+There are increased checks and controls at France's borders with Belgium, Luxembourg, Germany, Switzerland, Italy, and Spain until 4 April 2026.
 
 Travellers should be aware of potential delays and additional documentation requirements during this period.
 

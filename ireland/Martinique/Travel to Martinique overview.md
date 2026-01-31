@@ -6,7 +6,7 @@ High Degree of Caution
 
 ### **Travel Alert**
 
-Since September 2024, there have been cost of living protests and strikes in Martinique, and acts of violence have taken place. Some local authorities have imposed nightly curfews 00.00-05.00. Irish visitors to Martinique should follow the advice of local authorities, and stay away from any demonstrations. Roadblocks, as well as disruption to transportation and public services may occur, and flights may be affected. Visitors should carry their passport at all times, and stay in touch with their travel providers and airlines.
+Protests and industrial action in Martinique can occur at short notice, sometimes causing roadblocks and public transport disruption. Avoid demonstrations, follow local advice, and carry photo ID.
 
 ### **General Travel Advice**
 
@@ -28,10 +28,6 @@ You can contact the emergency services in Martinique by dialling 112. Specific e
 * Fire brigade: 18
 * Ambulance: 15
 
-The hurricane season in Martinique normally runs from June to November and can bring heavy rain, flooding, and extremely high winds. Citizens with plans to be in the affected region during this period should consider the need to travel based on information relating to extreme weather projections.
-
-You can find further information on the websites of the [**World Meteorological Organisation**](https://severeweather.wmo.int/) and the [**National Hurricane Centre**](https://www.nhc.noaa.gov/).
-
 ### **Our Tips for Safe Travels:**
 
 * Get comprehensive travel insurance that covers all your planned activities.
@@ -41,4 +37,4 @@ You can find further information on the websites of the [**World Meteorological 
 * Read our [**‘Know Before You Go’**](https://www.ireland.ie/en/dfa/overseas-travel/know-before-you-go/) guide.
 * Read our [**Consular Assistance Charter**](https://www.ireland.ie/en/dfa/overseas-travel/assistance-abroad/consular-assistance-charter/) that clearly sets out the assistance that can be provided to citizens in difficulty overseas, and the limits of what the Department can do.
 
-As there is no Irish Embassy or Consulate in Martinique, we are limited in the help we can offer you in an emergency situation. However, if there is an emergency, or if you need help and advice, you can contact our Embassy in Paris on **+331 44176700** or our Consular Assistance Unit at the Department of Foreign Affairs and Trade in Dublin on +353 1 408 2000.
+As there is no Irish Embassy or Consulate in Martinique, we are limited in the help we can offer you in an emergency situation. However, if there is an emergency, or if you need help and advice, you can contact our Embassy in Paris on **+33** **1** **44 17 67 00** or our Consular Assistance Unit at the Department of Foreign Affairs and Trade in Dublin on +353 1 408 2000.

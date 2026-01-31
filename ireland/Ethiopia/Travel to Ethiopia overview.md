@@ -6,9 +6,7 @@ High Degree of Caution
 
 ### **Travel Alert**
 
-As of Sunday, 11 May 2025, all foreign nationals, including Irish citizens, have been forbidden from boarding flights bound for domestic airports in Tigray and Afar Regional States until further notice. Irish citizens presently in Tigray and Afar are advised to make contact with the Embassy of Ireland in Addis Ababa.
-
-The Ethiopian authorities may implement travel restrictions anywhere at short notice. Irish citizens should check with their travel operator before travelling.
+Amidst reported clashes between regional and federal military authorities, all flights to Tigray Regional State have been cancelled. Irish citizens are advised against all travel to Tigray until further notice.
 
 ### **General Travel Advice**
 
@@ -24,22 +22,21 @@ Visitors to Ethiopia are advised to follow the guidance of national and local au
 
 Citizens can also follow the Embassy on X[**@IrlEmbEthiopia**](https://twitter.com/irlembethiopia) to ensure access to relevant updates and alerts.
 
-### **The Department of Foreign Affairs and Trade advises against all travel to:**
+#### **The Department of Foreign Affairs and Trade advises against all travel to:**
 
+* Tigray Regional State
 * Amhara Regional State
 * Benishangul-Gumuz Regional State.
 * Gambella Regional State.
 * The East and West Guji, East and West Wellega, Kelam Wellega and Horo Gudru Wellega zones of Oromia.
 * The Gedeo zone of South Ethiopia Regional State.
-* Parts of Tigray Regional State west of the Tekeze River and within 10km of the border with Amhara Regional State and the border with Eritrea.
 * Parts of Afar Regional state within 10km of border with Eritrea.
 * Land within 10km of the borders with Border areas with Sudan, South Sudan and Kenya.
 * Land within 100km of the borders of Somalia and Somaliland excluding the city of Jijiga.
 
-### **The Department of Foreign Affairs and Trade advises against all but essential travel to:**
+#### **The Department of Foreign Affairs and Trade advises against all but essential travel to:**
 
 * Ethiopia's Somali Regional State, excluding the area around Jijiga. Care should be take on the A10 road between Harar and Jijiga due to sporadic unrest, particularly in the area around Babile.
-* All parts of Tigray Regional State east of the Tekeze River and outside 10km of the border with Amhara Regional State and the border with Eritrea. This includes the Region’s major urban centres and its capital Mekelle.
 
 Travel insurance, including international medical evacuation, is essential for visitors to Ethiopia as medical facilities may be limited. It is essential that you check the terms of your travel insurance policy thoroughly before you travel. You should be aware that **if you travel to areas of the country where the Department advises against all travel, your travel insurance is likely to be invalidated and the Embassy’s ability to provide consular assistance may be limited**.
 
