@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   27 June 2025
+:   31 January 2026
 
 Updated:
-:   26 June 2025
+:   30 January 2026
 
 Latest update:
-:   This travel advice has been updated for style and accuracy with minor edits throughout.
+:   Removal of information about the need to present a yellow fever certificate to enter St Helena if you are arriving from a country listed as a transmission risk (‘Entry requirements’ page).
 
 St Helena, Ascension and Tristan da Cunha are British Overseas Territories. There are no British Embassies, and the St Helena, Ascension and Tristan da Cunha governments will support you if you need emergency assistance.
 
@@ -39,8 +39,6 @@ Follow FCDO:
 * [travel advice on Facebook](https://www.facebook.com/FCDOTravel/)
 * [Travel Aware on Instagram](https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Ftravelaware%2F&is_from_rle)
 
-[Next
-:
-Entry requirements](/foreign-travel-advice/st-helena-ascension-and-tristan-da-cunha/entry-requirements)
+[Next:Entry requirements](/foreign-travel-advice/st-helena-ascension-and-tristan-da-cunha/entry-requirements)
 
 [View a printable version of the whole guide](/foreign-travel-advice/st-helena-ascension-and-tristan-da-cunha/print)

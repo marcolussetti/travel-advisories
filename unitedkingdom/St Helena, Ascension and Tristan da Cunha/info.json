@@ -1,11 +1,11 @@
 {
     "name": "St Helena, Ascension and Tristan da Cunha",
-    "update_reason": "This travel advice has been updated for style and accuracy with minor edits throughout.",
+    "update_reason": "Removal of information about the need to present a yellow fever certificate to enter St Helena if you are arriving from a country listed as a transmission risk (\u2018Entry requirements\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/St Helena, Ascension and Tristan da Cunha/Warnings and insurance.md",
-            "update_date": "2025-06-26T16:53:12+01:00"
+            "update_date": "2026-01-30T10:38:21+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/St Helena, Ascension and Tristan da Cunha/Getting help.md"
         }
     ],
-    "update_date": "2025-06-26T16:53:12+01:00"
+    "update_date": "2026-01-30T10:38:21+00:00"
 }

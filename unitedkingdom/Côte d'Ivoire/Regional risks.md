@@ -21,12 +21,8 @@ See [Safety and security](/foreign-travel-advice/cote-d-ivoire/safety-and-securi
 
 FCDO advises against all but essential travel to within 20km of the border with Liberia. This is due to the risk of clashes between local militias and security forces. Fatal clashes have taken place in and around this area in the past. If you travel to this area, seek professional security advice locally.
 
-[Previous
-:
-Safety and security](/foreign-travel-advice/cote-d-ivoire/safety-and-security)
+[Previous:Safety and security](/foreign-travel-advice/cote-d-ivoire/safety-and-security)
 
-[Next
-:
-Health](/foreign-travel-advice/cote-d-ivoire/health)
+[Next:Health](/foreign-travel-advice/cote-d-ivoire/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/cote-d-ivoire/print)

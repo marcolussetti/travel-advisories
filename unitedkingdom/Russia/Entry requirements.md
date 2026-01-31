@@ -125,38 +125,52 @@ For details about medical entry requirements and recommended vaccinations, see [
 
 ## Customs rules
 
-There are strict rules about goods that you can take into and out of Russia. You must declare anything that may be prohibited or subject to tax or duty.
+There are strict rules on what you can take into and out of Russia.
 
-You must complete a customs declaration form if you import certain types of goods worth more than 10,000 US dollars (or the same amount in other currencies), including:
+If you fail to comply with Russian customs regulations, you may face fines, confiscation of goods or prosecution. Check the [Federal Customs Service of Russia guidance](https://eng.customs.gov.ru/activities/individuals) for details (the site may not be accessible from outside Russia).
 
-* electrical items
-* jewellery
-* antiques
-* valuable musical instruments
+## Goods requiring a customs declaration
 
-Possessing even small quantities of any illegal drugs, including cannabis, carries severe penalties. See [‘Illegal drugs’ for more information](https://www.gov.uk/foreign-travel-advice/russia/safety-and-security#illegal-drugs).
+You must complete a customs declaration form if you import goods worth more than 10,000 US dollars (or the same amount in other currencies).
+
+You must also complete a customs declaration when bringing any of the following into Russia, regardless of their value:
+
+* items of cultural and historical significance
+* rare plants or animals
+* vehicles
+* Russian state awards
+* weapons or their components
+* medicines containing potent, toxic, or psychoactive substances
+
+Russian law requires accompanying documentation for many of these items.
+
+Possessing even small quantities of any illegal drugs, including cannabis, carries severe penalties. See [‘Illegal drugs’ for more information](https://www.gov.uk/foreign-travel-advice/russia/safety-and-security#illegal-drugs).
 
 ### Cannabidiol (CBD)
 
 Cannabidiol (CBD) is illegal in Russia, even in products purchased legally elsewhere. This includes oils, edibles and vapes. If you’re found with CBD products you may be sentenced to several years’ imprisonment.
 
-### Taking money into or out of Russia
+### Cash and financial instruments
 
-You can carry foreign currency worth up to 10,000 US dollars into or out of Russia without declaring it.
+You may bring cash in any currency and travellers’ cheques into or out of Russia without declaring them if their combined value does not exceed the equivalent of 10,000 US dollars.
 
-You cannot leave Russia with foreign currency worth more than 10,000 US dollars, even if you declare it.
+You cannot leave Russia with cash in any currency or travellers’ cheques if their combined value is more than the equivalent of 10,000 US dollars, even if you complete a customs declaration.
 
 ### Electronic items
 
-You must get a licence before you travel if you want to import certain electronic items, such as GPS instruments. Check with the [Russian Embassy in the UK](https://london.mid.ru/en/) before your travel.
+You must obtain a licence before travelling if you plan to take certain electronic equipment with you to Russia, including GPS devices. The number of electronic items you can bring for personal use is limited.
+
+Check the requirements for entering and exiting Russia with electronic items on [the Federal Customs Service website](https://eng.customs.gov.ru/activities/individuals/movement/rules-for-moving-goods) (the site may not be accessible from outside Russia).
 
 ### Antiques and art
 
-There are strict regulations on the export and import of antiques, artworks and historical items. You must get an [export permit from the Ministry of Culture](http://government.ru/en/department/27/events/) and declare each item when you leave. It is illegal to import or export items without a permit.
+Russia has strict regulations on the import and export of antiques, artwork, and items of historical significance.
+
+You must get an [export permit from the Ministry of Culture](https://culture.gov.ru/about/departments/departament_kulturnogo_naslediya/activities/409789/) (the site may not be accessible from outside Russia) and declare each item when you leave. It is illegal to import or export items without a permit.
 
 ### Customs declaration forms
 
-Make sure a customs official stamps your customs declaration form when you enter. If you do not get a stamp, the authorities may confiscate your money or goods when you leave, or you could get a fine.
+Make sure a customs official stamps your customs declaration form when you enter. If you do not get a stamp, the authorities may confiscate your money or goods when you leave, and you may be fined.
 
 Keep receipts of any purchases in case you need to show them when you leave Russia.
 

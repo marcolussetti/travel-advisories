@@ -1,11 +1,11 @@
 {
     "name": "Botswana",
-    "update_reason": "Addition of information about recent flooding in Botswana ('Safety and security' page).",
+    "update_reason": "Removal of information about recent flooding in Botswana ('Safety and security' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Botswana/Warnings and insurance.md",
-            "update_date": "2026-01-22T15:07:20+00:00"
+            "update_date": "2026-01-30T09:30:26+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Botswana/Getting help.md"
         }
     ],
-    "update_date": "2026-01-22T15:07:20+00:00"
+    "update_date": "2026-01-30T09:30:26+00:00"
 }

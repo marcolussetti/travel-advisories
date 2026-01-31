@@ -40,12 +40,8 @@ There are strict rules about [goods you can take into or out of Côte d’Ivoire
 
 You can take up to 500,000 West African CFA francs in cash into Côte d’Ivoire. You must declare any foreign currency.
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/cote-d-ivoire)
+[Previous:Warnings and insurance](/foreign-travel-advice/cote-d-ivoire)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/cote-d-ivoire/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/cote-d-ivoire/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/cote-d-ivoire/print)

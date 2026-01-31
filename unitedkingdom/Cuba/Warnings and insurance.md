@@ -1,27 +1,17 @@
 # Warnings and insurance
 
 Still current at:
-:   11 December 2025
+:   31 January 2026
 
 Updated:
-:   10 December 2025
+:   30 January 2026
 
 Latest update:
-:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
+:   Update to information on power outages and fuel shortages ('Warnings and insurance page').
 
-## Mosquito-borne diseases
+## Power outages and fuel shortages
 
-The Cuban government has declared an arbovirus epidemic following the increase in cases of Dengue, Oropouche and Chikungunya in Cuba. Take precautions to avoid or prevent mosquito and other insect bites. See the [Health section](https://www.gov.uk/foreign-travel-advice/cuba/health) for more information.
-
-## Hurricane Melissa
-
-As a result of Hurricane Melissa, infrastructure and services, including access to electricity and water, remain severely impacted in the East of Cuba.
-
-Follow the guidance of local authorities. See ‘Extreme weather and natural disasters’ on the [‘Safety and security’ page](https://www.gov.uk/foreign-travel-advice/cuba/safety-and-security).
-
-## Power outages
-
-Lengthy power outages are a daily occurrence across Cuba. Take precautions such as conserving fuel, water, food and mobile phone charge, particularly if travelling outside Havana. Transport may be affected due to fuel shortages and the inability to refuel during power outages. Ensure you have enough fuel before setting off on your journey.
+Cuba is experiencing serious issues with its national power grid and fuel supply. Prolonged power outages – over 24 hours in some instances – are a daily occurrence across the country, affecting water supply, lighting, refrigeration and communications.  There is also a shortage of fuel affecting transportation and resulting in long queues at petrol stations. The fuel shortage also impacts resorts and businesses which often rely on oil/diesel-powered generators. Take precautions by conserving fuel, water, food and mobile phone charge, and be prepared for significant disruption.
 
 ## Before you travel
 
@@ -51,8 +41,6 @@ Follow FCDO:
 * [travel advice on Facebook](https://www.facebook.com/FCDOTravel/)
 * [Travel Aware on Instagram](https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Ftravelaware%2F&is_from_rle)
 
-[Next
-:
-Entry requirements](/foreign-travel-advice/cuba/entry-requirements)
+[Next:Entry requirements](/foreign-travel-advice/cuba/entry-requirements)
 
 [View a printable version of the whole guide](/foreign-travel-advice/cuba/print)

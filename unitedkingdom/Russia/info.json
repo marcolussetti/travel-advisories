@@ -1,11 +1,11 @@
 {
     "name": "Russia",
-    "update_reason": "New information on travelling with children and leaving Russia. (\u2018Entry requirements\u2019 page).",
+    "update_reason": "New information on customs rules ('Entry requirements' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Russia/Warnings and insurance.md",
-            "update_date": "2026-01-21T11:23:38+00:00"
+            "update_date": "2026-01-30T15:20:21+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Russia/Getting help.md"
         }
     ],
-    "update_date": "2026-01-21T11:23:38+00:00"
+    "update_date": "2026-01-30T15:20:21+00:00"
 }

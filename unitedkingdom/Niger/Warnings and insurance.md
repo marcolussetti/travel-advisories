@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   30 January 2026
+:   31 January 2026
 
 Updated:
-:   29 January 2026
+:   30 January 2026
 
 Latest update:
-:   New information about airport closure following gunfire and explosions in Niamey (‘Warnings and insurance’ and ‘Safety and security’ pages).
+:   New information about airport disruptions following gunfire and explosions in Niamey (‘Warnings and insurance' and ‘Safety and security’ pages).
 
 ![](https://assets.publishing.service.gov.uk/media/69021020918e1f940b3cf7e5/FCDO__TA__029_-_Niger_Travel_Advice_Ed5__WEB_.jpg)
 
@@ -24,18 +24,11 @@ There is an ongoing risk of terrorist attacks throughout Niger including in the 
 
 The political situation remains unstable following the military coup in July 2023. Further instability is possible.
 
-## Airport closure
+## Airport disruption
 
-There are reports that access to Diori Hamani International Airport in Niamey has been suspended and Niamey’s airspace closed following gunfire and explosions in the vicinity of the airport on 29 January.
+On 30 January, Diori Hamani International Airport in Niamey reopened following its temporary closure on 29 January after gunfire and explosions were reported in the vicinity of the airport.
 
-All commercial flights operations are suspended until further notice.
-
-You should:
-
-* monitor local news
-* check with your provider regarding delays and closures
-* stay indoors, and
-* follow advice of local authorities
+Travellers should continue to monitor local media, check with airlines for the latest information, and follow advice of local authorities.
 
 ## US Security Alert
 

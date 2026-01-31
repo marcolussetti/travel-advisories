@@ -114,12 +114,8 @@ Ascension is a dormant volcanic island which has not erupted for 600 years.
 
 Tristan da Cunha is a volcanic island but has not had an eruption since 1961.
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/st-helena-ascension-and-tristan-da-cunha/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/st-helena-ascension-and-tristan-da-cunha/entry-requirements)
 
-[Next
-:
-Health](/foreign-travel-advice/st-helena-ascension-and-tristan-da-cunha/health)
+[Next:Health](/foreign-travel-advice/st-helena-ascension-and-tristan-da-cunha/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/st-helena-ascension-and-tristan-da-cunha/print)

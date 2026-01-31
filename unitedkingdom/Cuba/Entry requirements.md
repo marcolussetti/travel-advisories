@@ -86,12 +86,8 @@ The Cuban national peso (CUP – ‘moneda nacional’) is the official currency
 
 You must only exchange money at the Cadeca exchange houses. It is illegal to exchange money anywhere else. See [Money](/foreign-travel-advice/cuba/safety-and-security#money).
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/cuba)
+[Previous:Warnings and insurance](/foreign-travel-advice/cuba)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/cuba/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/cuba/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/cuba/print)

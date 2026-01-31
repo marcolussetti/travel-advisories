@@ -74,9 +74,7 @@ You will have to pay a small landing fee when you arrive. See Tristan da Cunha t
 
 ### St Helena
 
-To enter St Helena, you must have a certificate to prove you’ve had a yellow fever vaccination if you’re coming from a [country listed as a transmission risk](https://nathnacyfzone.org.uk/factsheet/65/countries-with-risk-of-yellow-fever-transmission).
-
-For full details about medical entry requirements and recommended vaccinations, see [TravelHealthPro’s St Helena, Ascension and Tristan da Cunha guide](https://travelhealthpro.org.uk/country/14/ascension-island-st-helena-tristan-da-cunha#Vaccine_Recommendations).
+For details about medical entry requirements and recommended vaccinations, see [TravelHealthPro’s St Helena, Ascension and Tristan da Cunha guide](https://travelhealthpro.org.uk/country/14/ascension-island-st-helena-tristan-da-cunha#Vaccine_Recommendations).
 
 ### Ascension and Tristan da Cunha
 
@@ -90,12 +88,8 @@ There are strict rules about importing alcohol into St Helena, Ascension and Tri
 * [Ascension](https://www.ascension.gov.ac/customs-attendance-and-checks)
 * [Tristan da Cunha](https://www.tristandc.com/visitsadmin.php)
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/st-helena-ascension-and-tristan-da-cunha)
+[Previous:Warnings and insurance](/foreign-travel-advice/st-helena-ascension-and-tristan-da-cunha)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/st-helena-ascension-and-tristan-da-cunha/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/st-helena-ascension-and-tristan-da-cunha/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/st-helena-ascension-and-tristan-da-cunha/print)

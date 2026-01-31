@@ -1,25 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   23 January 2026
+:   31 January 2026
 
 Updated:
-:   22 January 2026
+:   30 January 2026
 
 Latest update:
-:   Addition of information about recent flooding in Botswana ('Safety and security' page).
-
-## Flooding in Chobe District and neighbouring South Africa
-
-Severe flooding is affecting Chobe District. Some roads and airstrips are currently closed, and further closures may occur at short notice. Travellers should plan trips carefully, ensure routes are safe and accessible.
-
-Check with your travel or accommodation provider about your options and reconsider your itinerary if necessary.
-
-Follow updates and guidance from the [Ministry of Environment and Tourism](https://www.facebook.com/profile.php?id=61569658071888).
-
-Monitor weather updates from the [Botswana Meteorological Services](https://www.facebook.com/BotswanaMet).
-
-Flooding has also been reported in neighbouring South Africa (Limpopo and Mpumalanga provinces). Travellers should monitor updates from the [Botswana Unified Revenue Services](https://www.facebook.com/BotswanaUnifiedRevenueService) for potential border impacts.
+:   Removal of information about recent flooding in Botswana ('Safety and security' page).
 
 ## Before you travel
 

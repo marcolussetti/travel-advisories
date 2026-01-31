@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   22 January 2026
+:   31 January 2026
 
 Updated:
-:   21 January 2026
+:   30 January 2026
 
 Latest update:
-:   New information on travelling with children and leaving Russia. (‘Entry requirements’ page).
+:   New information on customs rules ('Entry requirements' page).
 
 ![](https://assets.publishing.service.gov.uk/media/621cd8428fa8f54915f43831/FCDO__TA__059_-_Russia_Travel_Advice_Ed1__WEB_.jpg)
 

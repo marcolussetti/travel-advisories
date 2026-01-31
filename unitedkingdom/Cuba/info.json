@@ -1,11 +1,11 @@
 {
     "name": "Cuba",
-    "update_reason": "New information about dual nationals returning to the UK (\u2018Entry requirements\u2019 page).",
+    "update_reason": "Update to information on power outages and fuel shortages ('Warnings and insurance page').",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Cuba/Warnings and insurance.md",
-            "update_date": "2025-12-10T13:15:36+00:00"
+            "update_date": "2026-01-30T18:09:05+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Cuba/Getting help.md"
         }
     ],
-    "update_date": "2025-12-10T13:15:36+00:00"
+    "update_date": "2026-01-30T18:09:05+00:00"
 }

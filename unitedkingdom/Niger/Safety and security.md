@@ -48,7 +48,7 @@ Examples of significant attacks include:
 
 ### Terrorist kidnap
 
-There’s a very high threat of kidnapping throughout Niger, including Niamey. Al-Qaeda affiliated groups, Jama’at Nasr al-Islam wal Muslimin (JNIM) and Islamic State Sahel Province (ISSP), operate throughout Mali, Niger and Burkina Faso. Islamic State West Africa and Boko Haram operate in the Lake Chad Basin.
+There is a very high threat of kidnapping throughout Niger, including Niamey. Al-Qaeda affiliated groups, Jama’at Nasr al-Islam wal Muslimin (JNIM) and Islamic State Sahel Province (ISSP), operate throughout Mali, Niger and Burkina Faso. Islamic State West Africa and Boko Haram operate in the Lake Chad Basin.
 
 A number of foreign nationals have been kidnapped in Niger in recent years, by Al-Qaeda and Islamic State affiliated groups.
 
@@ -76,7 +76,7 @@ Do not cross the bridges over the River Niger on foot at any time.
 
 Travel within or out of Niger is at your own risk. The FCDO cannot offer advice on the safety of travelling to any departure point within Niger.
 
-Operations in Niamey’s Diori International Airport have been temporarily suspended.
+There could be disruptions to commercial flights from Niamey’s Diori International Airport at short notice.
 
 ## Political situation
 

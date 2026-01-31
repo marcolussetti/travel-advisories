@@ -25,7 +25,7 @@ Stay aware of your surroundings, keep up to date with local media reports and fo
 
 ## Political situation
 
-Political demonstrations sometimes take place in Abidjan and regional towns, particularly around elections. Parliamentary elections are scheduled for 27 December. The authorities may use tear gas to disrupt unauthorised protests. Crowds can gather quickly, and roadblocks are common.
+Political demonstrations sometimes take place in Abidjan and regional towns, particularly around elections. The authorities may use tear gas to disrupt unauthorised protests. Crowds can gather quickly, and roadblocks are common. It is possible that, in the event of significant unrest, internet access might be restricted.
 
 You should:
 
@@ -39,10 +39,6 @@ Be alert near military barracks and military installations.
 
 If you’re staying for long in Côte d’Ivoire, you should seek professional security advice and regularly review personal security arrangements. You should keep a stock of food and water.
 
-## Internet outages
-
-FCDO are aware of internet outages across West Africa, including Côte d’Ivoire. Services including airport, online payments, messaging services and online booking may be affected. Voice calls and SMS are broadly available.
-
 ## Crime
 
 There is a risk of violent crime in Abidjan, including armed break-ins to private residences and armed hold-ups in the street. Though not common, they do occur.
@@ -51,11 +47,10 @@ There is a risk of violent crime in Abidjan, including armed break-ins to privat
 
 To reduce your personal risk:
 
-* avoid walking over the bridges to and from the La Plateau areas of Abidjan – pedestrians have been robbed in daylight on these bridges
 * use taxi apps or pre-arranged private taxis
 * avoid using public transport after dark
 * make sure your accommodation has security measures in place
-* carry any valuables out of sight and do not wear expensive-looking jewellery or watches
+* keep any valuables out of sight and do not wear expensive-looking jewellery or watches
 * do not walk after dark
 * take transport to use ATMs or to exchange money at the bank
 
@@ -63,7 +58,7 @@ To prevent card fraud, keep your bank card in sight when paying bills.
 
 ### Vehicle crime
 
-There have been attacks by armed robbers on private cars driving on the main roads between Yamoussoukro, Bouaké and Korhogo and in the west of the country. You could be at risk in daylight as well as at night.
+There have been attacks by armed robbers on private cars driving on the main roads in the west of the country. You could be at risk in daylight as well as at night.
 
 Keep your car doors locked, windows shut and all valuables out of sight while driving.
 
@@ -90,7 +85,6 @@ It is prohibited to take photographs near sensitive installations, including:
 * radio and TV stations
 * the Presidency building
 * Abidjan Airport
-* de Gaulle and Houphouet-Boigny bridges in Abidjan
 
 ### LGBT+ travellers
 
@@ -122,12 +116,7 @@ Take care when using public transport – driving standards and vehicle maintena
 
 ### Taxis
 
-There are 2 types of taxis:
-
-* red taxis, which you can hail on the street and tend to be for private use – there may be issues with the standard of vehicle maintenance
-* yellow taxis, which are shared
-
-Be cautious when using shared yellow taxis and try to avoid using them after dark. In Abidjan there are online taxi booking services which have higher maintenance standards and are more likely to have seatbelts.
+Taxis, including share taxis, operate in Abidjan and other cities in Côte d’Ivoire. Vehicles used as taxis tend to be old and there may be issues with the standard of maintenance. Ride-hailing apps are also available, and vehicles operating on these apps tend to be better maintained. Although no taxi can be guaranteed safe, we recommend using ride-hailing apps where possible.
 
 ### Roadblocks and checkpoints
 
@@ -153,12 +142,8 @@ Ocean currents are very strong along the coast. Rip tides cause many swimming ac
 
 See [water safety on holiday](https://www.rlss.org.uk/safety-on-holiday) from the Royal Life Saving Society.
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/cote-d-ivoire/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/cote-d-ivoire/entry-requirements)
 
-[Next
-:
-Regional risks](/foreign-travel-advice/cote-d-ivoire/regional-risks)
+[Next:Regional risks](/foreign-travel-advice/cote-d-ivoire/regional-risks)
 
 [View a printable version of the whole guide](/foreign-travel-advice/cote-d-ivoire/print)
