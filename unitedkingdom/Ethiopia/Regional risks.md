@@ -6,7 +6,7 @@ You should also read [FCDO’s overall travel advice](/foreign-travel-advice/eth
 
 ## Travel Restrictions
 
-Foreign nationals are currently unable to travel to airports in Tigray and Afar regional states due to restrictions by the Ethiopian authorities. Check with your operator before travel.
+Since 29 January 2026 all civilian flights to and from Tigray region have been suspended. Foreign nationals are currently unable to travel to airports in Afar regional state due to restrictions by the Ethiopian authorities. Check with your operator before travel.
 
 The Ethiopian authorities may implement travel restrictions anywhere in the country at short notice.
 
@@ -26,18 +26,9 @@ FCDO advises against all but essential travel to:
 
 ## Tigray region
 
-FCDO advises against all travel to:
+FCDO advises against all travel to Tigray region.
 
-* the parts of Tigray region west of the Tekeze river
-* within 10km of the internal border with Amhara region
-* Tahtay Adiyabo woreda (district)
-* Irob woreda (district)
-
-FCDO advises against all but essential travel to:
-
-* the parts of Tigray region east of the Tekeze river
-
-Exercise caution, particularly when travelling in and around Tigray. In November 2022, the Government of Ethiopia and the Tigray People’s Liberation Front signed a peace agreement to cease hostilities in Tigray. Disarmament and reconstruction measures have begun. The situation in Tigray is still fragile. There may be isolated armed incidents, including gunfire, spontaneous protest or increased political or security tensions in some areas, There may be restrictions on travel between towns and cities in Tigray, and on travel outside of Tigray.
+Since 26 January, clashes have occurred in Tigray, northern Ethiopia, between Tigray People’s Liberation Front (TPLF) aligned forces and the Ethiopian military, reportedly including drone strikes which have killed at least one civilian.
 
 ## Amhara region
 

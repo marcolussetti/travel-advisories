@@ -44,7 +44,7 @@ Tensions are high between Ethiopia and Eritrea, the security situation in Northe
 
 Between November 2020 and November 2022, conflict took place in the northern regions of Ethiopia, in particular in Tigray but also in Amhara and Afar.
 
-The Government of Ethiopia and the Tigray People’s Liberation Front signed a peace agreement to cease hostilities in Tigray in November 2022. Disarmament and reconstruction measures have begun. The situation in Tigray is still fragile. There have been isolated armed incidents, including gunfire and spontaneous protest. In 2025 there have been increased political and security tensions in some areas with the seizing of administrative offices, checkpoints, the arrest of officials and disruption to goods and services.
+Following the end of the conflict there have remained high tensions and occasional clashes between Tigray People’s Liberation Front aligned forces and the Ethiopian military. In 2025 there were increased political and security tensions in some areas with the seizing of administrative offices, checkpoints, the arrest of officials and disruption to goods and services. Since 26 January there have been renewed clashes in Tigray, including reports of drone strikes.
 
 Since spring 2023 there has been significant conflict in Amhara region, between Amhara militia groups (Fano) and the Ethiopian authorities, as well as opportunistic crime and banditry.
 

@@ -1,18 +1,18 @@
 # Warnings and insurance
 
 Still current at:
-:   29 January 2026
+:   1 February 2026
 
 Updated:
-:   28 January 2026
+:   31 January 2026
 
 Latest update:
-:   FCDO no longer advises against all but essential travel within 5km of the towns of Jinka and Hawassa. FCDO continues to advise against all travel and all but essential travel to parts of Ethiopia. Information that on 26 January 2026, the Ethiopian government and WHO officially declared the end of the Marburg virus disease outbreak (‘Warnings and insurance’ and ‘Health’ pages).
+:   The FCDO now advises against all travel to all parts of Tigray region following renewed violence between Tigray People’s Liberation Front (TPLF) aligned forces and the Ethiopian military (‘Warnings and insurance’, ‘Safety and Security’ and ‘Regional Risks’ pages).
 
-![](https://assets.publishing.service.gov.uk/media/6979dc5bd6ab92f1d3a4d707/FCDO__TA__017_-_Ethiopia_Travel_Advice_Ed38__WEB_.jpg)
+![](https://assets.publishing.service.gov.uk/media/697e532701dffa6465580074/FCDO__TA__017_-_Ethiopia_Travel_Advice_Ed41__WEB_.jpg)
 
 
-[Download a more detailed map (PDF, 814 KB)](https://assets.publishing.service.gov.uk/media/6979dc5b128d9c1d09a98c77/FCDO__TA__017_-_Ethiopia_Travel_Advice_Ed38.pdf)
+[Download a more detailed map (PDF, 819 KB)](https://assets.publishing.service.gov.uk/media/697e54a884f2153b112452b0/FCDO_TA_017_-_Ethiopia_Travel_Advice_Ed41.pdf)
 
 ## Areas where FCDO advises against travel
 
@@ -32,16 +32,7 @@ FCDO advises against all but essential travel to:
 
 ### Tigray region
 
-FCDO advises against all travel to:
-
-* the parts of Tigray region west of the Tekeze river
-* within 10km of the internal border with Amhara region
-* Tahtay Adiyabo woreda (district)
-* Irob woreda (district)
-
-FCDO advises against all but essential travel to:
-
-* the parts of Tigray region east of the Tekeze river
+FCDO advises against all travel to Tigray region.
 
 ### Amhara region
 
