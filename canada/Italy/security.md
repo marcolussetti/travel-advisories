@@ -2,6 +2,20 @@
 
 ## Safety and security
 
+### Demonstrations
+
+On January 31, 2026, violent demonstrations and civil unrest took place in Turin. The possibility of further demonstrations cannot be ruled out.
+
+If you are in Turin:
+
+* be aware of your surroundings
+* follow the instructions of local authorities
+* monitor local media for the most recent information
+* be prepared to modify your plans in case of disturbances
+* expect enhanced security measures and an increased police presence
+
+[More information on demonstrations](#demonstrations)
+
 ### Olympic and Paralympic Winter Games
 
 The Milano Cortina Olympic Winter Games will take place across several destinations in northern Italy from February 6-22, followed by the Paralympic Winter Games from March 6-15, 2026.

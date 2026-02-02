@@ -4,14 +4,14 @@
 
 ### Cyclones
 
-Tropical Cyclone Fytia is expected to sweep through northwest Madagascar, between Maintirano and Majunga, on January 31, 2026.
+Tropical Cyclone Fytia swept across northern Madagascar on January 31, 2026.
 
-The storm is likely to bring excessive rainfall and violent winds. It may cause flash flooding and landslides and could severely disrupt the following essential services:
+The storm brought excessive rainfall and violent winds. It caused damage to buildings and infrastructure.
+
+Fytia caused flooding and there are significant disruptions to the following essential services:
 
 * transportation
 * power distribution
-* water and food supply
-* telecommunications networks
 * emergency services
 * medical care
 
