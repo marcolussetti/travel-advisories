@@ -23,7 +23,7 @@ In July 2025, Thailand and Cambodia fought along parts of the border. The fighti
 
 There are also unexploded landmines in the border area.
 
-We advise against all travel to the affected land border areas.
+FCDO advises against all but essential travel to within 20km of the land border with Cambodia.
 
 ## Thailand-Laos border
 

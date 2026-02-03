@@ -1,18 +1,18 @@
 # Warnings and insurance
 
 Still current at:
-:   13 December 2025
+:   3 February 2026
 
 Updated:
-:   12 December 2025
+:   2 February 2026
 
 Latest update:
-:   FCDO now advises against all travel to within 50km of the whole border with Cambodia except for Koh Chang, Koh Kood and the other islands in between them, where FCDO continues to advise against all but essential travel. FCDO continues to advise against all but essential travel to parts of Thailand (‘Warnings and insurance’ page).
+:   FCDO now advises against all but essential travel to within 20km of the land border with Cambodia. FCDO no longer advises against all but essential travel to Koh Chang, Koh Kood and the other islands between them.
 
-![](https://assets.publishing.service.gov.uk/media/693c332c5cc812f50aa4210f/FCDO__TA__040_-_Thailand_Travel_Advice_Ed7__WEB___1_.jpg)
+![](https://assets.publishing.service.gov.uk/media/6980b4383915f7123658010e/FCDO__TA__040_-_Thailand_Travel_Advice_Ed8__WEB_.jpg)
 
 
-[Download a more detailed map (PDF, 1.4 MB)](https://assets.publishing.service.gov.uk/media/693c332c33c7ace9c4a4210e/FCDO__TA__040_-_Thailand_Travel_Advice_Ed7__2_.pdf)
+[Download a more detailed map (PDF, 1.38 MB)](https://assets.publishing.service.gov.uk/media/6980b43884f2153b11245356/FCDO__TA__040_-_Thailand_Travel_Advice_Ed8.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
@@ -33,9 +33,7 @@ This is due to regular attacks in the provinces by the border with Malaysia. See
 
 ## Thailand-Cambodia border
 
-FCDO advises against all travel to within 50km of the whole border with Cambodia except for, Koh Chang, Koh Kood and the other islands in between them.
-
-FCDO advises against all but essential travel to Koh Chang, Koh Kood and the other islands between them.
+FCDO advises against all but essential travel to within 20km of the land border with Cambodia.
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/thailand/safety-and-security#terrorism).
 

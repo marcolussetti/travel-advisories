@@ -1,32 +1,24 @@
 # Warnings and insurance
 
 Still current at:
-:   25 December 2025
+:   3 February 2026
 
 Updated:
-:   24 December 2025
+:   2 February 2026
 
 Latest update:
-:   FCDO now advises against all but essential travel to within 80km from the border with Thailand in Preah Vihear, Oddar Meanchey, Banteay Meanchey, Battambang and Siem Reap Provinces, except the areas where FCDO continues to advise against all travel to within 50km from the whole border with Thailand ('Warnings and insurance' page).
+:   FCDO now advises against all but essential travel to within 20km from the land border with Thailand.
 
-![](https://assets.publishing.service.gov.uk/media/694bd4c883489d5685a753a1/FCDO__TA__085_-_Cambodia_Travel_Advice_Ed6__WEB___1_.jpg)
+![](https://assets.publishing.service.gov.uk/media/6980b459ec71a16669612e19/FCDO__TA__085_-_Cambodia_Travel_Advice_Ed7__WEB_.jpg)
 
 
-[Download a more detailed map (PDF, 654 KB)](https://assets.publishing.service.gov.uk/media/694bd4c883489d5685a753a2/FCDO__TA__085_-_Cambodia_Travel_Advice_Ed6__1_.pdf)
+[Download a more detailed map (PDF, 637 KB)](https://assets.publishing.service.gov.uk/media/6980b459f0e5cf1ed2612e16/FCDO__TA__085_-_Cambodia_Travel_Advice_Ed7.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
 ## Areas where FCDO advises against travel
 
-FCDO advises against all travel to within 50km from the whole border with Thailand.
-
-FCDO advises against all but essential travel to within 80km from the border with Thailand, except where we advise against all travel, in:
-
-* Preah Vihear Province
-* Oddar Meanchey Province
-* Banteay Meanchey Province
-* Battambang Province
-* Siem Reap Province
+FCDO advises against all but essential travel to within 20km from the land border with Thailand.
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/cambodia/safety-and-security#terrorism).
 

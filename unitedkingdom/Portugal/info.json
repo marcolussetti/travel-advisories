@@ -1,11 +1,11 @@
 {
     "name": "Portugal",
-    "update_reason": "Updated information about travelling with children (\u2018Entry requirements\u2019 page).",
+    "update_reason": "New information about risks from severe weather conditions across Portugal and updated information about personal ID (\u2018Warnings and insurance\u2019 and \u2018Safety and security\u2019 pages).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Portugal/Warnings and insurance.md",
-            "update_date": "2026-01-22T10:26:58+00:00"
+            "update_date": "2026-02-02T16:38:07+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Portugal/Getting help.md"
         }
     ],
-    "update_date": "2026-01-22T10:26:58+00:00"
+    "update_date": "2026-02-02T16:38:07+00:00"
 }

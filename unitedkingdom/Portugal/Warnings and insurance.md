@@ -1,15 +1,21 @@
 # Warnings and insurance
 
 Still current at:
-:   23 January 2026
+:   3 February 2026
 
 Updated:
-:   22 January 2026
+:   2 February 2026
 
 Latest update:
-:   Updated information about travelling with children (‘Entry requirements’ page).
+:   New information about risks from severe weather conditions across Portugal and updated information about personal ID (‘Warnings and insurance’ and ‘Safety and security’ pages).
 
 This travel advice also covers Madeira, Porto Santo and the Azores.
+
+## Severe weather conditions
+
+Heavy rain, thunderstorms and strong coastal winds are expected across the country until Sunday 8 February, with an increased risk of flash flooding, landslides and travel disruption. Follow advice of local authorities and monitor weather updates on the [European Meteorological Services website](https://www.meteoalarm.org/en/).
+
+See further information on what you can do to [prepare for and respond to extreme weather and natural hazards](https://www.gov.uk/guidance/extreme-weather-and-natural-hazards).
 
 ## Before you travel
 

@@ -65,7 +65,7 @@ Report anything that does not feel right to local authorities or hotel or club m
 
 ### Personal ID
 
-You must show some form of identification if asked by the police or judicial authorities. Sometimes a copy of the photo page of your passport could be enough, but you may be asked to produce the original document.
+You must provide photo ID if asked by a police officer. The police have the right to hold you at a police station until they have confirmed your identity. It is mandatory to carry ID when driving.
 
 ### Gambling
 
