@@ -6,7 +6,7 @@
 
 * [Measles: Advice for travellers](https://travel.gc.ca/travelling/health-safety/travel-health-notices/504) - 13 November, 2025
 * [COVID-19 and International Travel](https://travel.gc.ca/travelling/health-safety/travel-health-notices/513) - 12 May, 2025
-* [Oropouche virus disease in the Americas](https://travel.gc.ca/travelling/health-safety/travel-health-notices/534) - 22 December, 2025
+* [Oropouche virus disease in the Americas](https://travel.gc.ca/travelling/health-safety/travel-health-notices/534) - 2 February, 2026
 * [Dengue: Advice for travellers](https://travel.gc.ca/travelling/health-safety/travel-health-notices/517) - 25 November, 2025
 * [Chikungunya: Advice for travellers](https://travel.gc.ca/travelling/health-safety/travel-health-notices/540) - 12 January, 2026
 

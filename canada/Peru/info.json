@@ -1,7 +1,7 @@
 {
     "name": "Peru",
-    "update_reason": "The Need help? section was updated.",
-    "update_date": "2026-01-05T14:46:00",
+    "update_reason": "Health \u2013 removed the Travel health notice for Oropouche",
+    "update_date": "2026-02-02T11:59:00",
     "sections": {
         "risk": "canada/Peru/risk.md",
         "security": "canada/Peru/security.md",

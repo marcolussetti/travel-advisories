@@ -1,7 +1,7 @@
 {
     "name": "Zimbabwe",
-    "update_reason": "Natural disasters and climate \u2013 updated information on flooding and landslides",
-    "update_date": "2026-01-26T11:03:00",
+    "update_reason": "Natural disasters and climate \u2013 removed information on flooding and landslides",
+    "update_date": "2026-02-02T16:15:00",
     "sections": {
         "risk": "canada/Zimbabwe/risk.md",
         "security": "canada/Zimbabwe/security.md",

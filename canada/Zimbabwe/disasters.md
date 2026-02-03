@@ -2,21 +2,6 @@
 
 ## Natural disasters and climate
 
-Since the beginning of January 2026, heavy rains have caused flooding and landslides, resulting in numerous casualties and damage to buildings and infrastructure.
-
-The following essential services are disrupted in some areas:
-
-* transportation
-* power distribution
-* telecommunication networks
-
-If you're in or around an affected area:
-
-* exercise caution and avoid flooded roads and low-lying areas
-* monitor local news and weather reports
-* confirm the status of roads with local authorities
-* follow the instructions of local authorities, including evacuation orders
-
 ### Rainy season and cyclones
 
 The rainy season extends from November to March. Seasonal flooding can hamper overland travel and reduce the provision of essential services. Roads may become impassable and bridges damaged.

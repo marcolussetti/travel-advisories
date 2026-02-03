@@ -302,7 +302,7 @@
     {
         "destination": "Cuba",
         "risk_level": "Exercise a high degree of caution",
-        "last_updated": "2026-01-26T16:53:12",
+        "last_updated": "2026-02-02T10:51:42",
         "details_url": "https://travel.gc.ca/destinations/cuba"
     },
     {
@@ -404,7 +404,7 @@
     {
         "destination": "Ethiopia",
         "risk_level": "Avoid non-essential travel (with regional advisories)",
-        "last_updated": "2026-01-30T15:31:41",
+        "last_updated": "2026-02-02T13:07:35",
         "details_url": "https://travel.gc.ca/destinations/ethiopia"
     },
     {
@@ -566,7 +566,7 @@
     {
         "destination": "India",
         "risk_level": "Exercise a high degree of caution (with regional advisories)",
-        "last_updated": "2025-12-22T09:41:35",
+        "last_updated": "2026-02-02T10:13:01",
         "details_url": "https://travel.gc.ca/destinations/india"
     },
     {
@@ -578,7 +578,7 @@
     {
         "destination": "Iran",
         "risk_level": "Avoid all travel",
-        "last_updated": "2026-01-15T11:10:29",
+        "last_updated": "2026-02-02T12:02:46",
         "details_url": "https://travel.gc.ca/destinations/iran"
     },
     {
@@ -950,7 +950,7 @@
     {
         "destination": "Panama",
         "risk_level": "Take normal security precautions (with regional advisories)",
-        "last_updated": "2025-12-31T09:48:25",
+        "last_updated": "2026-02-02T12:01:33",
         "details_url": "https://travel.gc.ca/destinations/panama"
     },
     {
@@ -968,7 +968,7 @@
     {
         "destination": "Peru",
         "risk_level": "Exercise a high degree of caution (with regional advisories)",
-        "last_updated": "2026-01-05T15:02:47",
+        "last_updated": "2026-02-02T11:59:54",
         "details_url": "https://travel.gc.ca/destinations/peru"
     },
     {
@@ -1280,7 +1280,7 @@
     {
         "destination": "Turks and Caicos Islands",
         "risk_level": "Exercise a high degree of caution",
-        "last_updated": "2026-01-13T11:40:15",
+        "last_updated": "2026-02-02T15:20:18",
         "details_url": "https://travel.gc.ca/destinations/turks-and-caicos-islands"
     },
     {
@@ -1376,7 +1376,7 @@
     {
         "destination": "Zimbabwe",
         "risk_level": "Exercise a high degree of caution",
-        "last_updated": "2026-01-26T11:03:24",
+        "last_updated": "2026-02-02T16:15:06",
         "details_url": "https://travel.gc.ca/destinations/zimbabwe"
     }
 ]

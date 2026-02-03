@@ -2,18 +2,7 @@
 
 ## Safety and security
 
-### Demonstrations
-
-Since December 28, 2025, protests have erupted across Iran, including in Tehran, in connection with the cost of living and worsening economic conditions. There are ongoing disruptions to telecommunications services, including mobile internet access, as well as clashes between protestors and security forces, resulting in casualties and arrests.
-
-Large-scale political demonstrations, gatherings and violent protests take place unpredictably across Iran. Security forces may strongly repress demonstrators, which may lead to numerous arrests, injuries and casualties. In some cases, arrested individuals were sentenced to death for charges arising from their participation in the demonstrations.
-
-The situation is volatile and could escalate without notice. Even peaceful demonstrations can turn violent at any time. Security forces could use excessive and lethal force to disperse crowds. Protests can also lead to disruptions to traffic and public transportation.
-
-* Avoid areas where demonstrations and large gatherings are taking place
-* Monitor local and international media for information on ongoing demonstrations
-
-[Mass gatherings (large-scale events)](https://travel.gc.ca/travelling/health-safety/mass-gatherings)
+### 
 
 ### Tensions in the Middle East
 
@@ -26,17 +15,19 @@ Heightened tensions could result in:
 * travel disruptions, including flight cancellations and airspace closures
 * military debris falling in various locations
 
-Canada is unable to provide assistance within Iran, including transportation to the border. It’s possible to cross the land border with Türkiye and Armenia.
+Canada is unable to provide assistance within Iran, including transportation to the border. It’s possible to cross the land border into Türkiye and Armenia.
 
-Border closures or restrictions to movement could occur.
+Restrictions to movement could occur.
 
 You must have valid travel documents. If you have dual Canadian-Iranian citizenship, Iranian border officials require you to exit Iran on your Iranian passport.
 
 You should:
 
+* ensure your travel documents are up-to-date
 * monitor local and international media to stay informed of the rapidly evolving situation
 * follow the instructions of local authorities at all times
-* register or update your personal information through the [Registration of Canadians Abroad service](https://travel.gc.ca/travelling/registration "https://travel.gc.ca/travelling/registration") to receive the latest information from the Government of Canada.
+* register or update your personal information through the [Registration of Canadians Abroad service](https://travel.gc.ca/travelling/registration "https://travel.gc.ca/travelling/registration") to receive the latest information from the Government of Canada
+* ensure that you have sufficient supplies of cash, medication, food, fuel and water in case you need to shelter in place
 
 If you encounter any debris or fragments:
 
@@ -45,15 +36,22 @@ If you encounter any debris or fragments:
 
 [Canada's response to the situation in the Middle East](https://www.international.gc.ca/world-monde/issues_development-enjeux_developpement/response_conflict-reponse_conflits/crisis-crises/middle-east-moyen-orient.aspx?lang=eng "https://www.international.gc.ca/world-monde/issues_development-enjeux_developpement/response_conflict-reponse_conflits/crisis-crises/middle-east-moyen-orient.aspx?lang=eng")
 
-### Water shortages
+### Demonstrations
 
-Drought has contributed to severe water shortages in Tehran and several provinces. Local authorities may ration water supplies, and running water may not always be available.
+In December 2025, protests erupted across Iran for several weeks, including in Tehran, resulting in clashes between protestors and security forces. The violence led to mass casualties and arrests.
 
-If you’re in Iran:
+The possibility of renewed demonstrations and a violent response from security forces remains.
 
-* keep supplies of bottled water and water purification tablets on hand
-* expect limits on the availability of drinkable water
-* monitor local media to stay informed of the evolving situation
+There are ongoing disruptions to telecommunications services, including internet access, social media and messaging applications.
+
+Large-scale political demonstrations, gatherings and violent protests take place unpredictably across Iran. Security forces may strongly repress demonstrators, which may lead to numerous arrests, injuries and casualties. In some cases, arrested individuals were sentenced to death for charges arising from their participation in the demonstrations.
+
+The situation is volatile and could escalate without notice. Even peaceful demonstrations can turn violent at any time. Security forces could use excessive and lethal force to disperse crowds. Protests can also lead to disruptions to traffic and public transportation.
+
+* Avoid areas where demonstrations and large gatherings are taking place
+* Monitor local and international media for information on ongoing demonstrations
+
+[Mass gatherings (large-scale events)](https://travel.gc.ca/travelling/health-safety/mass-gatherings)
 
 ### Increased surveillance and scrutiny
 
@@ -152,6 +150,17 @@ Women and children require the permission of the husband, or an Iranian male hea
 The dress code is strictly enforced in Iran. Women must wear a headscarf and a long jacket that covers the arms and upper legs while in public.
 
 [Advice for women travellers](https://travel.gc.ca/travelling/health-safety/advice-for-women-travellers "Advice for women travellers")
+
+### Water shortages
+
+Drought regularly contributes to severe water shortages in Tehran and several provinces. Local authorities may ration water supplies, and running water may not always be available.
+
+If you’re in Iran:
+
+* keep supplies of bottled water and water purification tablets on hand
+* expect limits on the availability of drinkable water
+
+monitor local media to stay informed of the evolving situation
 
 ### Power outages
 

@@ -33,12 +33,22 @@ If you are in the Amhara region or are affected by the armed conflict:
 * monitor local media to stay informed on the evolving situation
 * follow the instructions of local authorities
 * shelter-in-place until the situation stabilizes and until it is safe to leave the region (flights and land transportation may be disrupted)
-* register with ROCA (<https://travel.gc.ca/travelling/registration>) to receive important safety updates from the Government of Canada
+* sign up for the [Registration of Canadians abroad service](https://travel.gc.ca/travelling/registration) to receive important safety updates from the Government of Canada
 * contact the Embassy of Canada in Addis Ababa by email if you require consular assistance: [consul.addis@international.gc.ca](mailto:consul.addis@international.gc.ca)
 
 Violent clashes between armed groups occur. Inter-ethnic disputes in Amhara have resulted in casualties, including civilians. Although foreigners aregenerally not targeted, there is a risk that you could be caught up in violence.
 
 ### Tigray region
+
+In January 2026, sporadic armed clashes occurred between armed groups and the Ethiopian military. The security situation remains uncertain and could escalate with little warning.
+
+If you are in the Tigray region or are affected by the armed conflict:
+
+* monitor local media to stay informed on the evolving situation
+* follow the instructions of local authorities
+* shelter-in-place until the situation stabilizes and until it is safe to leave the region (flights and land transportation may be disrupted)
+* sign up for the [Registration of Canadians abroad service](https://travel.gc.ca/travelling/registration) to receive important safety updates from the Government of Canada
+* contact the Embassy of Canada in Addis Ababa by email if you require consular assistance: [consul.addis@international.gc.ca](mailto:consul.addis@international.gc.ca)
 
 A cessation of hostilities agreement was signed on November 2, 2022, between the Government of Ethiopia and the Tigray People's Liberation Front (TPLF), after two years of armed conflict. The agreement has yet to be fully implemented and there remains uncertainty regarding its implications for security in the region.
 
