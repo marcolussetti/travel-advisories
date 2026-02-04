@@ -10,11 +10,11 @@ Any citizen who has lost their passport must obtain a police report and then obt
 
 ### **Visa**
 
-China has announced that from 30 November 2024 until 31 December 2025, citizens of Ireland holding an ordinary Irish passport travelling to China for business, tourism, family or friends visit, exchange and transit, are eligible for visa-free entry for a duration not exceeding 30 days. **Individuals who do not meet the visa-free conditions or who are official passport holders still need to apply for a visa or a visa free certificate before entering China.**
+China has announced that from 30 November 2024 until 31 December 2026, citizens of Ireland holding an ordinary Irish passport travelling to China for business, tourism, family or friends visit, exchange and transit, are eligible for visa-free entry for a duration not exceeding 30 days. **Individuals who do not meet the visa-free conditions or who are official passport holders still need to apply for a visa or a visa free certificate before entering China.**
 
 A valid passport is required for travel to China. Irish passports should have a minimum validity of 6 months. Passport cards cannot be used.
 
-Further information and relevant announcements can be found on the website of the [**Embassy of China in Dublin**](http://ie.china-embassy.gov.cn/eng/qzfw/). or obtained by contacting nearest Chinese Embassy or Consulate. See also the Entry Requirements tab on this webpage.
+Further information and relevant announcements can be found on the website of the [**Embassy of China in Dublin**](http://ie.china-embassy.gov.cn/eng/qzfw/) or obtained by contacting nearest Chinese Embassy or Consulate. See also the Entry Requirements tab on this webpage.
 
 Additional information regarding visa policy can be found on the website of China’s [**National Immigration Administration**](https://en.nia.gov.cn/index.html).
 

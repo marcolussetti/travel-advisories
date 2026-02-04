@@ -6,7 +6,7 @@ Normal Precautions
 
 ### **General Travel Advice**
 
-Irish citizens require a visa to enter Mongolia, except for tourism stays of up to 30 days. This visa-free arrangement, for tourism, is effective until 31 December 2025.
+Irish citizens require a visa to enter Mongolia, except for tourism stays of up to 30 days. This visa-free arrangement, for tourism, is effective until the end of 2026.
 
 A valid passport is required for travel to Mongolia. Irish passports should have a minimum validity of 6 months. Passport cards cannot be used.
 

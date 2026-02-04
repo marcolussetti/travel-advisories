@@ -6,13 +6,13 @@ High Degree of Caution
 
 ### **Travel Alert**
 
-As of January 2026, Irish passport holders must apply for a visa to enter Malawi. Single or multiple entry visas can be obtained on arrival. For more information on visas please see the Entry requirements tab.
+As of January 2026, Irish passport holders must apply for a visa to enter Malawi. You are advised to apply as early as possible in advance before you travel through the Malawi Immigration [**website**](https://evisa.gov.mw/). For more information on visas please see the Entry requirements tab.
 
 ### **General Travel Advice**
 
 A valid passport is required for travel to Malawi. Irish passports should have a minimum validity of six months. Passport cards cannot be used.
 
-As of January 2026, Irish passport holders must apply for a visa to enter Malawi. Single or multiple entry visas can be obtained on arrival.
+As of January 2026, Irish passport holders must apply for a visa to enter Malawi. You are advised to apply as early as possible in advance before you travel through the Malawi Immigration [**website**](https://evisa.gov.mw/).
 
 For more information on visas and passports, please see the Entry requirements tab.
 

@@ -2,7 +2,7 @@
 
 ### **Visa**
 
-Irish citizens can travel to Mongolia for tourism for stays of up to 30 days without obtaining a visa. This visa-free arrangement, for tourism, is effective until 31 December 2025.
+Irish citizens can travel to Mongolia for tourism for stays of up to 30 days without obtaining a visa. This visa-free arrangement, for tourism, is effective until the end of 2026.
 
 Irish citizens travelling to Mongolia for purposes other than tourism (such as work, study, long-term stay, or other personal purposes) should obtain the appropriate visa to enter Mongolia. You should take steps to apply for a visa well in advance of your planned visit. Information on how to apply for a visa can be obtained from the [**Embassy of Mongolia in London**](https://en.embassyofmongolia.co.uk/).
 

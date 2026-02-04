@@ -6,7 +6,7 @@ Irish passports should be valid for a minimum period of six months on arrival in
 
 ### Visa
 
-As of January 2026, Irish passport holders must apply for a visa to enter Malawi. Single or multiple entry visas can be obtained on arrival. You are advised to bring US dollars in cash for payment:
+As of January 2026, Irish passport holders must apply for a visa to enter Malawi. You are advised to apply as early as possible in advance before you travel through the Malawi Immigration [**website**](https://evisa.gov.mw/). The costs for the visas are below:
 
 50 US dollars for a single-entry visa
 
@@ -14,9 +14,7 @@ As of January 2026, Irish passport holders must apply for a visa to enter Malawi
 
 250 US dollars for a one-year multiple entry visa
 
-You can apply online for an e-visa before you travel through the Malawi Immigration [**website**](https://evisa.gov.mw/).
-
-Please be aware that this is a new system and the Embassy of Ireland has received reports of the online platform not being updated and a lack of clarity around the requirements at the ports of entry.
+You are advised to bring US dollars in cash for payment on arrival, if your e-visa has not been issued in time for travel. Please note that the embassy is aware of individuals without an e-visa being denied boarding to travel to Malawi.
 
 ### **Extending an Entry Permit**
 

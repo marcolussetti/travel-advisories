@@ -16,6 +16,8 @@ You are advised to check your passport validity, and where necessary, apply for 
 
 Further information on the ETA is available at [Get an electronic travel authorisation (ETA) to visit the UK: Overview - GOV.UK](https://www.gov.uk/eta)
 
+There is no change to entry requirements for Australian passport holders travelling directly to Ireland without transiting through the UK.
+
 #### **Bondi Beach Attack**
 
 Following the attack which took place on Bondi Beach on December 14, Irish citizens are advised to remain vigalent and follow the advice of local authorities.
