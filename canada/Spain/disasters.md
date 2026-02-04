@@ -2,6 +2,23 @@
 
 ## Natural disasters and climate
 
+### Storm Leonardo
+
+Heavy rains caused by storm Leonardo are forecast for parts of Spain until at least February 4, 2025. The storm is expected to hit especially hard in Andalusia, in the southwest, and Galicia, in the northwest.
+
+Many of the affected areas are still recovering from damages due to the recent impact of storm Kristin. Storm Leonardo could bring further damage to infrastructure and cause severe disruptions to travel and transportation in the area.
+
+If you are in an affected area:
+
+* monitor local news and weather reports
+* confirm your flight status before going to the airport
+* follow the instructions of local authorities
+
+#### Useful links
+
+* [Meteorological warnings](https://www.aemet.es/en/eltiempo/prediccion/avisos) – AEMET, State Meteorological Agency (Spanish only)
+* [MeteoAlarm](https://meteoalarm.org/en/live/) – EUMETNET, European Network of National Meteorological Services
+
 ### Climate change
 
 Climate change is affecting Spain. Extreme and unusual weather events are becoming more frequent and may affect your travel plans. Monitor local news to stay informed on the current situation.

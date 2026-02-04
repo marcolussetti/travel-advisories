@@ -6,6 +6,7 @@
 
 * [Measles: Advice for travellers](https://travel.gc.ca/travelling/health-safety/travel-health-notices/504) - 13 November, 2025
 * [COVID-19 and International Travel](https://travel.gc.ca/travelling/health-safety/travel-health-notices/513) - 12 May, 2025
+* [Mpox: Advice for travellers](https://travel.gc.ca/travelling/health-safety/travel-health-notices/515) - 3 February, 2026
 
 This section has information and advice about health risks you might face when travelling. Following this advice can help reduce your risk of getting sick. Not all risks are listed here.
 

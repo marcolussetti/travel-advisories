@@ -1,7 +1,7 @@
 {
     "name": "Madagascar",
-    "update_reason": "Natural disasters and climate \u2013 updated information on Tropical Cyclone Fytia",
-    "update_date": "2026-02-01T08:19:00",
+    "update_reason": "Health \u2013 Travel health notice for mpox added",
+    "update_date": "2026-02-03T11:24:00",
     "sections": {
         "risk": "canada/Madagascar/risk.md",
         "security": "canada/Madagascar/security.md",

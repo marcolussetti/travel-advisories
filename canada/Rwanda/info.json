@@ -1,7 +1,7 @@
 {
     "name": "Rwanda",
-    "update_reason": "Risk levels \u2013 updated regional risk levels",
-    "update_date": "2026-01-21T13:55:00",
+    "update_reason": "Health \u2013 editorial change",
+    "update_date": "2026-02-03T11:33:00",
     "sections": {
         "risk": "canada/Rwanda/risk.md",
         "security": "canada/Rwanda/security.md",

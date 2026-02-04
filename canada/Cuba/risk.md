@@ -18,4 +18,9 @@ The features in this map do not constitute an authoritative source of geographic
 
 ### Cuba - Exercise a high degree of caution
 
-[Exercise a high degree of caution](#levels "Risk Levels") in Cuba due to shortages of basic necessities including food, water, medicine, electricity and fuel, which can also affect resorts.
+[Exercise a high degree of caution](#levels "Risk Levels") in Cuba due to worsening shortages of electricity, fuel and basic necessities including food, water, and medicine, which can also affect resorts. The situation is unpredictable and could deteriorate, disrupting flight availability on short notice.
+
+* Sign up for the [Registration of Canadians Abroad](https://travel.gc.ca/travelling/registration) service to receive important updates
+* Make sure your travel documents are up to date and secure at all times
+* Be prepared to change your travel plans on short notice
+* Get [insurance](https://travel.gc.ca/travelling/documents/travel-insurance) coverage that includes trip cancellation and interruption

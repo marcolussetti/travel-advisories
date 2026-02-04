@@ -1,7 +1,7 @@
 {
     "name": "Cuba",
-    "update_reason": "Health \u2013 editorial change",
-    "update_date": "2026-02-02T10:51:00",
+    "update_reason": "Risk level \u2013 updated information on shortages",
+    "update_date": "2026-02-03T15:30:00",
     "sections": {
         "risk": "canada/Cuba/risk.md",
         "security": "canada/Cuba/security.md",

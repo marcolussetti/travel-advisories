@@ -6,7 +6,7 @@
 
 * [Measles: Advice for travellers](https://travel.gc.ca/travelling/health-safety/travel-health-notices/504) - 13 November, 2025
 * [COVID-19 and International Travel](https://travel.gc.ca/travelling/health-safety/travel-health-notices/513) - 12 May, 2025
-* [Mpox: Advice for travellers](https://travel.gc.ca/travelling/health-safety/travel-health-notices/515) - 29 September, 2025
+* [Mpox: Advice for travellers](https://travel.gc.ca/travelling/health-safety/travel-health-notices/515) - 3 February, 2026
 
 This section has information and advice about health risks you might face when travelling. Following this advice can help reduce your risk of getting sick. Not all risks are listed here.
 
@@ -57,14 +57,6 @@ Travellers get vaccinated either because it is required to enter a country or be
 
 [Yellow Fever Vaccination Centres in Canada](https://www.canada.ca/en/public-health/services/travel-health/yellow-fever.html#select-centre)  
 \* It is important to note that [country entry requirements](https://www.who.int/publications/m/item/vaccination-requirements-and-recommendations-for-international-travellers-and-malaria-situation-per-country-2022-edition "Link to External Site") may not reflect your risk of yellow fever at your destination. It is recommended that you contact the nearest [diplomatic or consular office](http://www.international.gc.ca/protocol-protocole/reps.aspx?view=d "Link to External Site") of the destination(s) you will be visiting to verify any additional entry requirements.
-
-Rabies 
-
-In this destination, [rabies](https://travel.gc.ca/travelling/health-safety/diseases/rabies) is commonly carried by dogs and some wildlife, including bats. Rabies is a deadly disease that spreads to humans primarily through bites or scratches from an infected animal. While travelling, take [precautions](https://www.canada.ca/en/public-health/services/diseases/rabies/prevention.html), including keeping your distance from animals (including free-roaming dogs), and closely supervising children.
-
-If you are bitten or scratched by a dog or other animal while travelling, immediately wash the wound with soap and clean water and see a health care professional. **In this destination, rabies treatment may be limited or may not be available, therefore you may need to return to Canada for treatment.**
-
-Before travel, discuss rabies vaccination with a health care professional. It may be recommended for travellers who are at high risk of exposure (e.g., occupational risk such as veterinarians and wildlife workers, children, adventure travellers and spelunkers, and others in close contact with animals).
 
 Measles 
 
@@ -128,6 +120,14 @@ Malaria
 * Wear permethrin-treated clothing.
 
  If you develop [symptoms](https://www.canada.ca/en/public-health/services/diseases/malaria/symptoms-malaria.html) similar to malaria when you are travelling or up to a year after you return home, see a health care professional immediately. Tell them where you have been travelling or living.
+
+Rabies 
+
+In this destination, [rabies](https://travel.gc.ca/travelling/health-safety/diseases/rabies) is commonly carried by dogs and some wildlife, including bats. Rabies is a deadly disease that spreads to humans primarily through bites or scratches from an infected animal. While travelling, take [precautions](https://www.canada.ca/en/public-health/services/diseases/rabies/prevention.html), including keeping your distance from animals (including free-roaming dogs), and closely supervising children.
+
+If you are bitten or scratched by a dog or other animal while travelling, immediately wash the wound with soap and clean water and see a health care professional. **In this destination, rabies treatment may be limited or may not be available, therefore you may need to return to Canada for treatment.**
+
+Before travel, discuss rabies vaccination with a health care professional. It may be recommended for travellers who are at high risk of exposure (e.g., occupational risk such as veterinarians and wildlife workers, children, adventure travellers and spelunkers, and others in close contact with animals).
 
 ### Safe food and water precautions
 

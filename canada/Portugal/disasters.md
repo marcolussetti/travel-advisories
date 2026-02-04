@@ -2,6 +2,23 @@
 
 ## Natural disasters and climate
 
+### Storm Leonardo
+
+Heavy rains, snow, strong winds and dangerous coastal waves caused by storm Leonardo are forecast for much of continental Portugal until at least February 4, 2025. A state of emergency is in effect until February 8.
+
+Many of the affected areas are still recovering from damages due to the recent impact of storm Kristin. Storm Leonardo could bring further damage to infrastructure and cause severe disruptions to travel and transportation across the country.
+
+If you are in an affected area:
+
+* monitor local news and weather reports
+* confirm your flight status before going to the airport
+* follow the instructions of local authorities
+
+#### Useful links
+
+* [Weather warnings](https://www.ipma.pt/en/otempo/prev-sam/) – Portuguese Institute of Sea and Atmosphere (Portuguese only)
+* [MeteoAlarm](https://meteoalarm.org/en/live/) – EUMETNET, European Network of National Meteorological Services
+
 ### Climate change
 
 Climate change is affecting Portugal. Extreme and unusual weather events are becoming more frequent and may affect your travel plans. Monitor local media for the latest information.
