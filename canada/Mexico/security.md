@@ -2,21 +2,13 @@
 
 ## Safety and security
 
-### Demonstrations
+### FIFA World Cup 2026™
 
-Demonstrations occur frequently, especially in Mexico City, and roadblocks are common during demonstrations. Even peaceful demonstrations can turn violent at any time. They can also lead to disruptions to traffic and public transportation, as well as airport closures.
-
-It’s illegal for foreigners to conduct political activity in Mexico, including participating in demonstrations. If you participate in demonstrations as a foreigner, you may face detention, deportation, and the denial of future entry into Mexico.
-
-* Avoid areas where demonstrations and large gatherings are taking place
-* Follow the instructions of local authorities
-* Monitor local media for information on ongoing demonstrations
-
-[Mass gatherings (large-scale events)](https://travel.gc.ca/travelling/health-safety/mass-gatherings)
+Canada, Mexico and the United States will be hosting the FIFA World Cup from June 11 to July 19, 2026. If you plan on travelling to Mexico for the tournament, consult our [Advice for Canadians travelling to Mexico – FIFA World Cup 2026™](https://travel.gc.ca/travelling/campaigns/soccer-2026-mexico).
 
 ### Sinaloa (see [Risk levels](#risk))
 
-Violent clashes occur regularly between rival armed groups in the State of Sinaloa, including in Culiacán and parts of Mazatlán located outside the main tourist zones. Armed groups have stopped vehicles on the highway from Culiácan to Mazatlán and other major roads.
+Violent clashes occur regularly between rival armed groups in the state of Sinaloa, including in Culiacán and parts of Mazatlán located outside the main tourist zones. Armed groups have stopped vehicles on the highway from Culiácan to Mazatlán and other major roads.
 
 If you are in an area of Sinaloa where we advise to avoid non-essential travel:
 
@@ -31,15 +23,57 @@ If you are in an area of Sinaloa where we advise to avoid non-essential travel:
 
 Levels of crime, particularly violent crime, are high throughout Mexico.
 
-If you’re a victim of a crime, you must report it immediately to local authorities. Criminal investigations require that a formal complaint be made in person. You should hire a local lawyer to represent your interests and follow up on your case after you return to Canada. Failure to do so may result in incomplete investigations or long delays in bringing cases to trial.
+If you’re a victim of a crime, regardless of the nature, you should report it by making a formal complaint in person at the nearest prosecutor’s office (known as Ministerio Público or Fiscalía) before you leave the country. Insurance companies usually request a formal report before providing reimbursement. You should hire a local lawyer to represent your interests and follow up on your case after you return to Canada. Failure to do so may result in incomplete investigations or long delays in bringing cases to trial.
+
+#### Tourist areas
+
+Mexican authorities have made efforts to protect major tourist destinations, resulting in lower levels of gang-related violence in these areas. However, violent crime still occurs in major cities, popular tourist areas and resorts. Fighting between criminal gangs and cartels has taken place in:
+
+* hotels
+* nightclubs
+* restaurants
+
+Remain vigilant, since innocent bystanders have been injured or killed. You may be in the wrong place at the wrong time and become a victim of violent crime.
+
+#### Border areas
+
+Criminal activity and violence occur regularly in border areas. Confrontations between organized criminal groups and Mexican security forces continue to pose a risk. Shootouts, attacks and illegal roadblocks may occur without warning.
+
+The situation is tense in the border areas between:
+
+* Mexico and the United States
+* Mexico and Guatemala
+
+You should travel to Mexico by air to avoid criminal incidents at international land border crossings.
+
+If you cross a land border:
+
+* only cross at official borders
+* account for possible delays at the border
+* avoid travelling after dark
 
 #### Petty crime
 
-Petty crime, such as pickpocketing and purse snatching, is common in Mexico. Remain vigilant in airports, bus stations, buses and the Mexico City metro system.
+Petty crime, such as pickpocketing and bag snatching, occurs frequently.
 
-* Be aware of your surroundings at all times,
-* Keep your personal belongings, including your passport and other travel documents, in a secure place
-* Don’t show signs of affluence or wear expensive jewellery
+Criminals on motorcycles often rob other motorists and pedestrians on the roads.
+
+Remain vigilant:
+
+* in airports
+* at bus stations
+* onboard buses
+* on the Mexico City metro
+* during mass gatherings such as concerts and sporting events
+
+During your trip:
+
+* be aware of your surroundings, especially in busy tourist areas
+* keep your personal belongings, including your passport and other travel documents, in a secure place
+* do not show signs of affluence or wear expensive jewellery
+* do not leave valuables in your car or rental car, including in the trunk
+
+[Lost or stolen belongings abroad](https://travel.gc.ca/assistance/emergency-info/stolen-belongings)
 
 #### Organized crime
 
@@ -47,78 +81,32 @@ Criminal groups, including drug cartels, are very active across the country. ‎
 
 In some parts of the country, the military, the navy and federal police forces have been deployed to maintain a visible presence and combat organized crime to improve security conditions.
 
-If you plan on travelling to Mexico:
+#### Armed robberies
 
-* be vigilant
-* don’t show signs of affluence
-* stay in tourist areas
-* be very cautious on the roads, including major highways
-* avoid travelling at night
-* research your destination thoroughly
-* monitor local media for the latest information
+Armed robberies occur frequently. Criminals sometimes follow a victim after they exchange or withdraw money.
 
-#### Tourist areas
-
-Mexican authorities have made efforts to protect major tourist destinations, resulting in lower levels of gang-related violence in these areas. However, incidents of violent crime still occur in major cities, popular tourist areas and resorts. Fighting between criminal gangs and cartels has taken place in:
-
-* restaurants
-* hotels
-* nightclubs
-
-Innocent bystanders have been injured or killed. You may be in the wrong place at the wrong time and become a victim of violent crime.
-
-#### Border areas
-
-Criminal activity and violence occur regularly in border areas. Confrontations between organized criminal groups and Mexican security forces continue to pose a risk. Shootouts, attacks and illegal roadblocks may occur without warning.
-
-The situation is tense in the border area between:
-
-* Mexico and the United States
-* Mexico and Guatemala
-
-You should travel to Mexico by air to avoid criminal incidents at international land border crossings.
-
-If you plan to cross an international land border:
-
-* remain extremely vigilant
-* use only official border crossings
-* avoid travelling at night
-
-#### Armed robbery
-
-Armed robbery occurs frequently. Criminals sometimes follow a victim after they exchange or withdraw money.
-
-Criminals on motorcycles often rob other motorists and pedestrians on the roads.
-
-* Don’t show signs of affluence
-* Stay in hotels and resorts with good security
-* Keep your personal belongings, including your passport and other travel documents, in a secure place
-* Don't resist an attack
+* Do not resist an attack
 * Rent cars without stickers or other advertisements for the rental company
 * Ensure that you only stop in major centres, at reputable hotels or at secure campsites
 * Avoid withdrawing or exchanging money in public areas of the airport
-* Don’t leave valuables in the vehicle
 
-#### Assault
+#### Assaults
 
 Canadian travellers have been physically and sexually assaulted. In some cases, hotel employees, taxi drivers and security personnel at popular tourist destinations were involved. Sometimes, hotel staff are not helpful and try to dissuade victims from reporting the incident to the police.
 
-There are reports of individuals posing as police officers and driving cars resembling police vehicles committing:
+There are reports of individuals posing as police officers and driving cars resembling police vehicles committing assault.
 
-* robberies
-* physical assault
-* sexual assault
+During your stay:
 
-If you are in Mexico:
-
-* avoid walking after dark
-* avoid deserted streets at night and isolated areas
+* avoid going out after dark
+* avoid isolated areas
+* travel in groups
 
 [Are you a victim of sexual violence?](https://canadainmexico.com/wp-content/uploads/2021/11/SGBV-En-Digital.pdf) – Government of Canada and British Embassy in Mexico City
 
 #### Carjackings
 
-Carjacking is common on roads along the Pacific coast and northern borders. Criminals mainly target:
+Carjackings are common on roads along the Pacific coast and northern borders. Criminals mainly target:
 
 * camper vans
 * sport utility vehicles
@@ -130,20 +118,19 @@ If you believe that you’re being followed, go directly to a police station.
 
 Kidnappings, including express kidnappings, occur frequently throughout Mexico. Kidnappers have targeted foreigners, including Canadians.
 
-If you're kidnapped:
+If attacked, stay calm and do not resist, as criminals often carry weapons and may become violent.
 
-* comply with the kidnappers’ requests
-* don’t resist
+Express kidnappings, where kidnappers demand small, immediate ransoms, may occur in large urban areas. Criminals kidnap the victim from the street or a taxi and force the person to withdraw funds from an ATM. The victim is sometimes held overnight so that a second withdrawal can be made the next day. Thieves often work in cooperation with, or pose as, taxi drivers.
 
-Express kidnappings may occur in large urban areas. Criminals kidnap the victim from the street or a taxi and force the person to withdraw funds from an ATM. Victims may be held overnight to make a second withdrawal after midnight. Thieves often work in cooperation with or pose as taxi drivers.
-
-* Only use reputable cab companies or ride-sharing apps
+* Only use reputable taxi companies or ride-sharing applications
 * Avoid hailing taxis on the street
-* If you're threatened by armed criminals, stay calm and don’t resist
 
 #### Home break-ins
 
-Tourists staying in private and rental homes have been the victims of break-ins and burglaries. Make sure you lock windows and doors securely.
+Tourists staying in private and rental homes have been the victims of break-ins and burglaries.
+
+* Stay in accommodations with adequate security measures
+* Keep doors and windows locked at all times
 
 ### Fraud
 
@@ -153,7 +140,7 @@ Disputes over timeshare arrangements occur. Timeshare sales representatives may
 
 Members of criminal groups often pose as real estate representatives offering to buy your property for large amounts for use as a timeshare. They may never pay for the property or charge high administrative fees.
 
-You're legally entitled to cancel a timeshare contract without penalty within 5 working days. It's illegal for timeshare companies to ask you to sign a waiver that prevents you from cancelling a contract. To cancel your contract, you must write directly to the timeshare company.
+You’re legally entitled to cancel a timeshare contract without penalty within 5 working days. It’s illegal for timeshare companies to ask you to sign a waiver that prevents you from cancelling a contract. To cancel your contract, you must write directly to the timeshare company.
 
 Before purchasing a timeshare:
 
@@ -162,18 +149,18 @@ Before purchasing a timeshare:
 * only provide your credit card number if you are sure you want to make the purchase
 * keep copies of all correspondence
 
-If you suspect fraud in the real estate procedures, contact the Federal Attorney’s Office of Consumer immediately.
+If you suspect fraud in the real estate procedures, contact the Federal Consumer Protection Office immediately.
 
-* [Federal Attorney’s Office of Consumer (PROFECO)](https://www.profeco.gob.mx/english.htm) – Mexican Government (in Spanish)
+* [Federal Consumer Protection Office (PROFECO)](https://www.profeco.gob.mx/) – Government of Mexico (Spanish only)
 * [Should I buy a timeshare in Mexico?](https://embamex.sre.gob.mx/canada/index.php/en/notices/11667-should-i-buy-a-timeshare-in-mexico) – Embassy of Mexico in Canada
 * [Should I sell my timeshare in Mexico?](https://embamex.sre.gob.mx/canada/index.php/en/notices/11668-should-i-sell-my-timeshare-in-mexico) – Embassy of Mexico in Canada
 * [Timeshares](https://ised-isde.canada.ca/site/office-consumer-affairs/en/buying-and-leasing-big-ticket-items/timeshares)
 
 #### Online scams
 
-Travellers fall victim to online scams, including phishing emails and romance scams. Certain scams target senior citizens.
+Travellers have fallen victim to online scams, including phishing emails and romance scams. Certain scams target senior citizens.
 
- Scam victims are subject to:
+ Scam victims can be subject to:
 
 * coercion into acting as a drug or money courier for criminal groups
 * kidnapping
@@ -186,22 +173,24 @@ Before travelling to Mexico to visit someone you met online:
 
 #### Useful links
 
-* [Alcohol, drug and travel](https://travel.gc.ca/travelling/health-safety/drugs)
+* [Drugs, alcohol and travel](https://travel.gc.ca/travelling/health-safety/drugs)
 * [Warning to Canadian Seniors Targeted by International Drug Smuggling Scams](http://www.cbsa-asfc.gc.ca/security-securite/senior-aines-eng.html)
-* [Overseas fraud](https://travel.gc.ca/travelling/health-safety/overseas-fraud)
+* [Travelling to meet someone you met online](https://travel.gc.ca/travelling/health-safety/overseas-fraud#travelling)
 
-#### Credit card and ATM fraud
+#### Credit card, debit card and ATM fraud
 
 Credit and debit card as well as ATM fraud occurs frequently.
 
 When using your debit or credit card:
 
 * cover the keypad with one hand when entering your PIN
-* don't withdraw large sums of cash
+* do not withdraw large sums of cash
 * pay careful attention when others are handling your cards
 * avoid using card readers with an irregular or unusual feature
 * use ATMs located in public areas or inside a bank or business
 * check for any unauthorized transactions on your account statements
+
+[Overseas fraud](https://travel.gc.ca/travelling/health-safety/overseas-fraud)
 
 #### Overcharging
 
@@ -212,39 +201,31 @@ Discussions about overcharging have turned violent. Tourists have been threatene
 * Always confirm the price of an item before ordering
 * Do not leave an open tab
 * Avoid giving your credit card to bar or restaurant staff
-* Check your bill for accuracy before paying
+* Check the accuracy of your bill before paying
 
 ### Extortion
 
-Extortion schemes are common in Mexico. Incidences of virtual kidnappings are increasing and are more common than traditional forms of kidnapping.
-
 #### Virtual kidnappings
 
-Virtual kidnappings are a form of extortion. Victims are neither captured nor detained. Criminals use threats and knowledge of their victim’s personal information to create the impression of a kidnapping and demand ransom from the victim’s friends and family.
+Virtual kidnappings are a form of extortion. Victims are neither captured nor detained, but they could be unreachable. Criminals use threats and knowledge of their victim’s personal information to create the impression of a kidnapping and demand ransom from the victim’s friends and family.
 
-Criminals gather information on their victims from a variety of sources, including:
+Criminals use many tactics in virtual kidnapping. Many of these tactics involve criminals calling potential victims in their hotel rooms, posing as their friends or family members in distress, as government officials, or claiming to represent criminal gangs.
 
-* social media
-* watching and eavesdropping on conversations
-* phone theft or hacking
-
-Criminals use many tactics in virtual kidnapping. Many of these tactics involve criminals calling potential victims in their hotel rooms, posing as their friends or family members in distress, posing as government officials or claiming to represent criminal gangs.
-
- Always protect your personal information, both in person and over communications networks.
+Always protect your personal information, both in person and over communications networks.
 
 * When you answer the phone, wait for the caller to speak
-* If the caller asks who is speaking, you're threatened on the phone or hear screams, hang up immediately and report the call to the authorities
-* Don't discuss travel plans, your room number or any other personal information with strangers
+* If the caller asks who is speaking, you’re threatened on the phone or hear screams, hang up immediately and report the call to the authorities
+* Do not discuss travel plans, your room number or any other personal information with strangers
 * Never leave your cell phone unattended
 * Ensure your cellphone is password protected and enable two-step verification for your applications
-* Don't share personal details to strangers in person, over the phone or on social media, especially when using hotel phones
-* Don’t admit visitors to your room
+* Do not share personal details with strangers in person, over the phone or on social media, especially when using hotel phones
+* Do not admit visitors to your room
 
-If you believe a friend or family member is the victim of a virtual kidnapping, you should contact the Government of Canada to verify if the kidnapping is legitimate before taking any action or sending ransom money.
+If you believe a friend or family member is the victim of a virtual kidnapping, you should contact the Government of Canada for consular assistance.
 
 #### Police corruption
 
-Legitimate police officers have demanded money from tourists or arrested tourists for minor offences such as:
+Legitimate police officers have demanded money from tourists or arrested them for minor offences such as:
 
 * drinking alcohol on the street
 * public urination
@@ -254,26 +235,26 @@ They have requested immediate cash payment in exchange for their release. This p
 
 If this occurs:
 
-* don’t hand over your money or your passport
+* do not hand over your money or your passport
 * ask for the officer’s name, badge and patrol car number
+* advise the officer that you’ll call 911
 * ask for a copy of the written fine, which is payable at a later date, or insist on going to the nearest police station
 
-#### Useful links
-
-* [Payment of traffic violations](https://data.finanzas.cdmx.gob.mx/sma/consulta_sedema) – Government of Mexico (in Spanish)
-* [Overseas fraud](https://travel.gc.ca/travelling/health-safety/overseas-fraud)
+You have the right to contact a lawyer for legal assistance or the Embassy of Canada for consular assistance.
 
 ### Women’s safety
 
 Women travelling alone may be subject to some forms of harassment and verbal abuse.
 
-Some incidents of assault, rape and sexual assault against Canadian women have occurred, including at beach resorts and on public buses.
+Incidents of physical and sexual assault against Canadian women have occurred, including at beach resorts and on public buses.
+
+If you’re the victim of a sexual assault, you should report it immediately to 911 and the nearest Government of Canada office.
 
 * Always remain vigilant
 * Do not accept offers of transportation from strangers
-* Avoid walking alone at night
+* Avoid walking alone after dark
 
-[Advice for women travellers](https://travel.gc.ca/travelling/health-safety/advice-for-women-travellers)
+[Advice for women travellers](https://travel.gc.ca/travelling/health-safety/advice-for-women-travellers "Advice for women travellers")
 
 ### 2SLGBTQI+ persons
 
@@ -283,9 +264,9 @@ Mexican law does not prohibit sexual acts between individuals of the same sex. H
 
 [Travel and your sexual orientation, gender identity, gender expression and sex characteristics](https://travel.gc.ca/travelling/health-safety/lgbt-travel)
 
-### Spiked food and drinks
+### Spiked food, drinks and other items
 
-There are reports of criminals adding drugs into items that could put you at risk of sexual assault or robbery.
+Criminals sometimes add drugs to items that could put you at risk of sexual assault or robbery. There have also been cases of eye drops being added to victims’ drinks, poisoning the victims, and the victims being robbed after becoming unconscious.
 
 Items include:
 
@@ -297,9 +278,9 @@ Incidents are most likely to occur:
 
 * in nightclubs
 * in bars and restaurants
-* on public transportation, including taxis on the street
+* on public transportation, including taxis hailed on the street
 
-While you’re in Mexico
+While you’re in Mexico:
 
 * be wary of accepting these items from new acquaintances
 * never leave food or drinks unattended or in the care of strangers
@@ -312,53 +293,51 @@ Some bars, restaurants and resorts have served unregulated alcohol. Some travell
 * Buy alcohol from reputable establishments
 * Seek medical assistance if you begin to feel sick
 
-[Alcohol, drugs and travel](https://travel.gc.ca/travelling/health-safety/drugs)
+[Drugs, alcohol and travel](https://travel.gc.ca/travelling/health-safety/drugs)
+
+### Demonstrations
+
+Demonstrations occur frequently, especially in Mexico City, and roadblocks are common during demonstrations. Even peaceful demonstrations can turn violent at any time. They can also lead to disruptions to traffic and public transportation, as well as airport closures.
+
+It’s illegal for foreigners to conduct political activity in Mexico, including participating in demonstrations. If you participate in demonstrations as a foreigner, you may face detention, deportation and the denial of future entry into Mexico.
+
+* Avoid areas where demonstrations and large gatherings are taking place
+* Follow the instructions of local authorities
+* Monitor local media for information on ongoing demonstrations
+
+[Mass gatherings (large-scale events)](https://travel.gc.ca/travelling/health-safety/mass-gatherings)
 
 ### Balconies
 
-Mexico's standards for the height of balcony railings are considerably lower than those in Canada. Falls have resulted in deaths and injuries. Exercise caution when standing close to balcony railings.
+Mexico’s standards for the height of balcony railings are considerably lower than those in Canada. People have been injured or killed after falling from balconies.
+
+Exercise caution when standing close to balcony railings.
 
 ### Water activities
 
-#### Swimming
+Coastal waters can be dangerous. Riptides are common. Tidal changes and strong winds can cause dangerous riptides. Several drownings occur each year.
 
-Coastal waters can be dangerous. Riptides are common and powerful waves make swimming and water sports dangerous. Several drownings occur each year.
+Beaches are not always supervised. Lifeguard services do not always meet Canadian standards.
 
-Many beaches don’t have warning flags to indicate unsafe conditions and they don’t always have lifeguards on duty.
+Many beaches don’t have warning flags to alert of unsafe conditions.
 
-Lifeguard services do not always meet Canadian standards.
-
-* Consult local residents and tour operators for information on possible hazards and safe swimming areas
+* Consult local residents and tour operators for information on possible hazards, the presence of dangerous species and safe swimming areas
 * Respect the areas reserved for swimming
 * Follow the instructions of local authorities
 
-#### Water sports
-
-Tour operators do not always comply with Canadian standards, and many don’t conduct regular safety checks on their equipment.
-
-Canadians have been involved in accidents where operators of recreational vehicles demand compensation exceeding the value of the damage caused to the vehicle or equipment.
-
-If you undertake water sports:
-
-* use a reputable company
-* make sure that your travel insurance covers incidents related to this type of recreational activity
-* wear appropriate safety equipment, such as helmets and life jackets
-* do not use the equipment if you are unsure of its safety
-* do not dive if you have been drinking alcohol or using other substances
-
-[Water safety abroad](https://travel.gc.ca/travelling/health-safety/water-safety)
-
 ### Adventure travel
 
-Outdoor activities, including hiking, mountain biking, scuba diving, and other extreme sports can be dangerous.
+Outdoor activities, such as hiking, mountain biking, scuba diving, skydiving, paragliding and other extreme sports, can be dangerous.
 
 Tour operators may not meet Canadian safety standards.
+
+Canadians have been involved in accidents where operators of recreational vehicles demand compensation exceeding the value of the damage caused to the vehicle or equipment.
 
 If you intend to participate in adventure travel activities:
 
 * share your itinerary with a friend or family member if you’re alone
 * stay on marked trails and consider hiring an experienced guide from a reputable company
-* buy travel insurance that covers incidents related to this type of recreational activity
+* buy travel insurance that covers incidents related to these types of recreational activities
 * ensure that your physical condition is good enough to tackle the challenges of your activity
 * ensure that you have proper equipment and bring sufficient water
 * monitor weather conditions and other possible hazards
@@ -368,7 +347,7 @@ If you intend to participate in adventure travel activities:
 
 ### Power outages
 
-Mexico sometimes experiences power shortages.
+Power outages occur occasionally.
 
 Power outages could impact essential services, such as:
 
@@ -391,31 +370,34 @@ Canadian cell phones generally work in major cities.
 
 #### Road safety
 
+Road safety is poor throughout the country.
+
 Fatal accidents are frequent.
 
-Police don’t strictly enforce traffic laws, including for drinking and driving. Police don’t regularly patrol the highways. Crime is common on highways, especially in rural areas.
-
-Toll highways are typically better maintained than secondary highways.
+Police don’t strictly enforce traffic laws, including for drinking and driving. They don’t regularly patrol the highways. Crime is common on highways, especially in rural areas.
 
 * Only use frequented rest areas and gas stations
 * Avoid travelling after dark
 * Only use toll roads and highways
 * Fill your gas tank before you travel
 * Always keep doors and windows closed and locked
-* Don’t hitchhike or pick up hitchhikers
+* Do not hitchhike or pick up hitchhikers
 
 #### Useful links
 
-* [Road alerts](https://www.gob.mx/guardianacional/es/articulos/servicio-de-alertas-digitales-gn-carreteras?idiom=es) – Government of Mexico (in Spanish)
-* [Information on roadside assistance](https://www.gob.mx/sectur%7Cangelesverdes/en) – Government of Mexico (in Spanish)
-* [Pre-paid toll card](https://www.pase.com.mx/) (in Spanish)
+* [Road alerts](https://www.gob.mx/guardianacional/es/articulos/servicio-de-alertas-digitales-gn-carreteras?idiom=es) – Government of Mexico (Spanish only)
+* [Information on roadside assistance](https://www.gob.mx/sectur%7Cangelesverdes/en) – Government of Mexico (Spanish only)
+* [Pre-paid toll card](https://www.pase.com.mx/) (Spanish only)
 
 #### Road conditions
 
-Road conditions vary greatly throughout the country. Many common hazards, including construction and speed bumps, are unmarked and many roads or exits are unsigned.
+Road conditions vary greatly throughout the country.
+
+Toll highways (with a “D” after the number) are typically safer and better maintained than secondary highways.
 
 Road conditions can be dangerous, especially on rural roads, due to:
 
+* unmarked construction sites and speed bumps
 * abandoned vehicles blocking the road
 * potholes
 * sharp curves
@@ -424,24 +406,22 @@ Road conditions can be dangerous, especially on rural roads, due to:
 
 #### Driving habits
 
-Drivers don’t always respect traffic laws and often:
-
-* drive at excessive speeds
-* drive aggressive or reckless
-* don’t use signals to indicate turns or lane changes
-* don’t routinely stop at pedestrian crosswalks
+Drivers don’t always respect traffic laws. They can be aggressive and reckless towards other drivers and pedestrians. Speeding is common.
 
 Vehicles and bicycles often operate without sufficient lights and reflectors.
 
-#### Illegal Roadblocks
+#### Illegal roadblocks
 
-Illegal roadblocks are common. Heavily armed gangs have attacked travellers on intercity highways who fail to stop or pay a ‘toll’.
+Illegal roadblocks are common. Heavily armed gangs have attacked travellers on intercity highways who failed to stop or pay a “toll.” Community self-defence groups and protestors have set up roadblocks and shot drivers who refused to stop or pay to cross.
 
-If you are threatened by criminals, stay calm and don’t resist.
+Always stop at roadblocks. If you’re threatened by criminals, stay calm and do not resist.
 
 #### Checkpoints
 
 The military and federal police search for drugs and firearms at checkpoints throughout the country.
+
+* Do not go through a checkpoint/roadblock without stopping, even if it appears unattended
+* Follow the instructions of security forces
 
 ### Public transportation
 
@@ -455,11 +435,10 @@ The Mexico City metro is often very crowded and a popular place for pickpocketin
 
 The Metrobus in Mexico City is generally reliable. There are sections reserved for women and children at the front of the buses.
 
-Crime is common on intercity buses.
+Crime is common on some intercity buses. For intercity travel, use bus companies that offer VIP or executive class transportation and travel on toll roads.
 
-* Don’t use mini buses
-* Take direct bus routes
-* Only use bus companies that offer VIP or executive class transportation travelling on toll roads
+* Do not use minibuses
+* Take direct routes
 * Travel only during daylight hours
 * Do not carry large sums of cash
 * Exercise caution at bus stations
@@ -468,28 +447,28 @@ Crime is common on intercity buses.
 
 In Mexico City, all government-authorized taxis have licence plates starting with “A” or “B.” Taxis from designated stands have a company logo and licence plate number on the side of the car.
 
-Official taxis in Mexico City are pink and white. Users can reserve these taxis on the CDMX app. Credit card fraud occurs. Drivers may charge excessive amounts, sometimes without customers' knowledge.
+Official taxis in Mexico City are pink and white. Users can reserve these taxis on the CDMX application. Credit card fraud occurs in taxis hailed on the street, including licensed ones. Drivers may charge excessive amounts, sometimes without customers’ knowledge.
+
+If you wish to pay by credit or debit card when taking a taxi from an airport, it is safer to book and pre-pay either inside the terminal or at the designated boarding area outside when your taxi is assigned.
 
 * Only use officially marked taxis
 * Avoid hailing taxis on the street
-* Never share a cab with strangers
-* Avoid using your credit or debit card
+* Never share a taxi with strangers
+* Avoid using your credit or debit card to pay inside a taxi
 * Have small bills available for payment
 
-If you wish to pay by credit or debit card when taking a taxi from an airport in Mexico, it is safer to do book and pre-pay either inside the terminal, or at the designated boarding area outside when your taxi is assigned.
+[My taxi](https://taxi.cdmx.gob.mx/mi-taxi) – CDMX application (Spanish only)
 
-[My taxi](https://taxi.cdmx.gob.mx/mi-taxi) – CDMX app (in Spanish)
+#### Ride-sharing services
 
-#### Ridesharing services
+Ride-sharing services are available at some airports.
 
-Ridesharing apps are available at some airports.
+Disputes between taxi and ride-sharing service drivers may occur. Although tourists have not been targeted, you may be caught up in these incidents and be harassed or injured.
 
-Disputes between taxi and ride-share service drivers may occur. Although tourists have not been targeted, you may be caught up in these incidents and be harassed or injured.
+If you use a ride-sharing service:
 
-If you use a ride-sharing app:
-
-* confirm the driver’s identity and license plate before getting in the car
-* use the security features in rideshare apps
+* confirm the driver’s identity and licence plate before getting into the car
+* use the security features in the ride-sharing application
 
 ### Piracy
 

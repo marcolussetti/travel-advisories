@@ -287,32 +287,47 @@ To lower your risk of getting sexually transmissible infections (STIs), HIV, and
 
 ### Medical services and facilities
 
-The quality of care varies greatly throughout the country. Good health care is available in private hospitals and clinics in major cities, but health care services are limited in rural areas.
+The quality of the health care varies greatly throughout the country. Good health care is available in private hospitals and clinics in major cities, but health care services are limited in rural areas.
 
 Health care from private hospitals and clinics is generally expensive. Most private facilities don’t deal directly with medical insurance companies and will require payment with a credit card in advance or a bank transfer/direct deposit.
 
 Mental health services are extremely limited in Mexico, particularly outside of Mexico City. Services and treatment standards may differ substantially from those in Canada.
 
-Most healthcare providers speak Spanish.
+Most healthcare providers don’t speak English or French.
 
-Emergency and ambulance services are widely available. Response times vary widely depending on traffic and availability of services and may be slow in rural areas.
+Emergency and ambulance services are widely available. Response times vary widely depending on traffic, and they may be slow in rural areas due to lower availability.
 
-Medical evacuation can be very expensive, and you may need it in case of serious illness or injury.
+Medical evacuation can be very expensive and you may need it in case of serious illness or injury.
 
 Make sure you get travel insurance that includes coverage for medical evacuation and hospital stays.
 
 [Health and safety outside Canada](https://travel.gc.ca/travelling/health-safety)
 
-### Contaminated beaches
+### Medication
 
-Storm run-off, sewage or oil may affect the water quality at some beaches. Water can contain bacteria, parasites and viruses and cause illness.
+Some prescription medications may not be available in Mexico.
 
-* Avoid swimming in polluted water
-* Avoid swallowing water while swimming
+If you take prescription medications, you’re responsible for determining their legality in Mexico.
+
+* Bring enough medication for your stay
+* Always keep your medication in the original container and carry a copy of your prescriptions
+* Pack your medication in your carry-on luggage
+
+Medication cannot be sent to Mexico from Canada via courier services.
+
+Many types of medication, both over-the-counter and prescription, are readily available with little oversight. Counterfeit medication is common in certain parts of Mexico.
+
+If you purchase medication in Mexico:
+
+* obtain a local prescription
+* exercise caution
+* purchase from a reputable location
+
+[Travelling with medication](https://travel.gc.ca/travelling/health-safety/medication?_ga=2.191785258.1604296173.1718630005-1405742948.1680118138)
 
 ### Medical tourism
 
-Canadian travellers have had serious health complications following cosmetic or other elective surgeries abroad.
+Canadian citizens have had serious health complications following cosmetic or other elective surgeries abroad.
 
 Before leaving for medical travel, you should do your research, considering:
 
@@ -323,51 +338,45 @@ Before leaving for medical travel, you should do your research, considering:
 
 You should discuss your medical plans with your primary healthcare provider in Canada before travelling. Most provincial and territorial health care programs are extremely limited in their coverage offered abroad.
 
-* Ensure that the healthcare providers you choose are authorized by the Mexican health authorities
-* Ask to see the credentials of the healthcare providers
+* Ensure that the health care providers you choose are authorized by the Mexican health authorities
+* Ask to see the credentials of the health care providers
 * Obtain a written agreement detailing the proposed treatment or procedure
 
 #### Useful links
 
 * [Travelling outside Canada to receive medical care](https://travel.gc.ca/travelling/health-safety/medical-care-outside-canada)
 * [If you become sick or injured while travelling outside Canada or after your return](https://travel.gc.ca/assistance/emergency-info/sick-injured)
-* [Medical tourism](https://www.gob.mx/sectur/acciones-y-programas/sello-turismo-de-salud-turismo-medico) – Government of Mexico (in Spanish)
+* [Medical tourism](https://www.gob.mx/sectur/acciones-y-programas/sello-turismo-de-salud-turismo-medico) – Government of Mexico (Spanish only)
 
-### Medication
+### Addiction treatment facilities
 
-Some prescription medications may not be available in Mexico.
+A large portion of addiction treatment facilities operating in Mexico are not certified by the Government of Mexico. Canadians have reported being abducted to be taken to uncertified treatment facilities, then subjected to abuse and forced to remain in the facility.
 
-If you take prescription medication, you’re responsible for determining its legality in Mexico.
+If you’re in Mexico and are being kept in a treatment facility against your will, contact the nearest office of the Government of Canada or the Emergency Watch and Response Centre.
 
-* Bring sufficient quantities of your medication with you
-* Always keep your medication in the original container
-* Pack your medication in your carry-on luggage
-* Carry a copy of your prescriptions
+#### Useful links
 
-Medication cannot be sent to Mexico from Canada via courier services.
+* [Licensed facilities](https://www.gob.mx/conasama/es/documentos/directorio-nacional-de-establecimientos-residenciales-reconocidos-por-la-conasama?state=published) – Government of Mexico (Spanish only)
+* [Request emergency assistance outside Canada](https://travel.gc.ca/assistance/emergency-assistance)
 
-Many types of medication, both over the counter and prescription, are readily available with little oversight. Counterfeit medication is common in certain parts of Mexico.
+### Contaminated beaches
 
-If you purchase medication in Mexico:
+Storm run-off, sewage or oil may affect the water quality at some beaches. Water can contain bacteria, parasites and viruses and cause illness.
 
-* obtain a local prescription
-* exercise caution
-* purchase from a reputable location
+* Avoid swimming in polluted water
+* Avoid swallowing water while swimming
 
 ### Air quality
 
-You may experience health problems caused by air pollution in major cities. In Mexico City, air pollution peaks between December to March.
+You may experience health problems caused by air pollution in major cities. In Mexico City, air pollution peaks between December and March.
 
 Consult your doctor before booking your trip if you have lung, heart or respiratory problems.
 
 ### High-altitude illnesses
 
-Mexico City is 2,240 metres above sea level. In some parts of the country, you may experience health problems due to high altitudes.
+Mexico City is 2,240 m above sea level. In some parts of the country, you may experience health problems due to high altitudes.
 
 High-altitude illnesses can be life-threatening. They may require immediate medical evacuation.
-
-* Know about the symptoms of high-altitude illnesses
-* Find out how to prevent or reduce the effects of high-altitude illneses
 
 [High-altitude illnesses](https://travel.gc.ca/travelling/health-safety/travel-health-information/altitude-illnesses)
 

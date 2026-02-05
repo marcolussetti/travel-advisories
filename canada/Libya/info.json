@@ -1,7 +1,7 @@
 {
     "name": "Libya",
-    "update_reason": "Risk level(s) \u2013 added map",
-    "update_date": "2025-12-15T14:10:00",
+    "update_reason": "Health \u2013 editorial change",
+    "update_date": "2026-02-04T10:12:00",
     "sections": {
         "risk": "canada/Libya/risk.md",
         "security": "canada/Libya/security.md",

@@ -2,15 +2,6 @@
 
 ## Natural disasters and climate
 
-Mexico is subject to various natural disasters, which can occur at any time.
-
-In the event of a natural disaster:
-
-* monitor local news to stay informed on the evolving situation
-* follow the instructions of local authorities, including evacuation orders
-
-[Secretary of Integrated Risk Management and Civil Protection](https://www.proteccioncivil.cdmx.gob.mx/) – Government of Mexico City (in Spanish)
-
 ### Climate change
 
 Climate change is affecting Mexico. Extreme and unusual weather events are becoming more frequent and may affect your travel plans. Monitor local media for the latest information.
@@ -38,7 +29,7 @@ If you decide to travel to a coastal area during the hurricane season despite th
 
 ### Heat waves
 
-Severe heat waves occur during the hot season, from April to May in the south, and from July to September along the Pacific Coast.
+Severe heat waves occur across the country, from April to September.
 
 Know the symptoms of dehydration and heatstroke, which can both be fatal.
 
@@ -46,11 +37,11 @@ Know the symptoms of dehydration and heatstroke, which can both be fatal.
 
 ### Flooding and landslides
 
-Heavy rains can cause flooding and landslides, especially between June and November. They can hamper overland travel, especially in rural areas. Roads may become impassable and infrastructure damaged.
+Heavy rains can cause flooding and landslides, especially between June and November. They can hamper overland travel, particularly in rural areas. Roads may become impassable and infrastructure damaged.
 
 ### Earthquakes and tsunamis
 
-Mexico is located in an active seismic zone and there is a risk of earthquakes, aftershocks and landslides.
+Mexico is located in an active seismic zone.
 
 Earthquakes occur, particularly in Mexico City and the following states:
 
@@ -72,34 +63,35 @@ Forest fires may occur, particularly during the dry season from:
 * January to June in the centre, north, northeast, south and southeast
 * May to September in the northwest
 
-The air quality in areas near active fires may deteriorate due to heavy smoke.
+Heavy smoke may deteriorate the air quality in areas near active fires.
 
 In case of a major fire:
 
-* stay away from the affected area, particularly if you suffer from respiratory ailments
+* stay away from the affected areas, particularly if you suffer from respiratory ailments
 * monitor local media for the latest information
 * follow the instructions of local authorities, including evacuation orders
 
-[Daily report on wildfires](https://www.gob.mx/conafor/documentos/reporte-semanal-de-incendios?idiom=es) – Government of Mexico (in Spanish)
+[Weekly report on wildfires](https://www.gob.mx/conafor/documentos/reporte-semanal-de-incendios?idiom=es) – Government of Mexico (Spanish only)
 
 ### Volcanoes
 
-Mexican authorities are closely monitoring multiple active volcanoes including:
+There are several active volcanoes in Mexico. Local authorities closely monitor the following volcanoes:
 
 * Colima
 * Popocatepetl
 
 Access to national parks in these areas could be restricted at any time without notice.
 
-Eruptions could occur at any time. They sometimes lead to short-notice evacuations of surrounding areas, and ash clouds may also disrupt domestic and international flights.
+Eruptions could occur at any time. Series of tremors sometimes lead to evacuations of surrounding areas. Falling ash may also disrupt air traffic.
 
 Exposure to falling ash and toxic fumes from active volcanoes can affect your health.
 
-If you are planning to travel near active volcanoes:
+If you are travelling near active volcanoes:
 
 * consult a physician in advance to determine associated health risks if you suffer from respiratory ailments
-* familiarize yourself with local emergency plans
-* avoid restricted areas
+* monitor levels of volcanic activity through the local media
+* pay careful attention to all warnings issued
+* follow the advice of local authorities
 * be prepared to modify your travel arrangements or even evacuate the area on short notice
 
 In the event of a volcanic eruption:
@@ -109,5 +101,5 @@ In the event of a volcanic eruption:
 
 #### Useful links
 
-* [Popocatepetl volcano updates](https://www.gob.mx/cenapred) – Government of Mexico (in Spanish)
-* [Colima Volcano](http://portal.ucol.mx/cueiv/Volcan-colima.htm) – University of Colima (in Spanish)
+* [Popocatepetl volcano updates](https://www.gob.mx/cenapred) – Government of Mexico (Spanish only)
+* [Colima volcano](http://portal.ucol.mx/cueiv/Volcan-colima.htm) – University of Colima (Spanish only)

@@ -4,7 +4,7 @@
 
 ### Storm Leonardo
 
-Heavy rains, snow, strong winds and dangerous coastal waves caused by storm Leonardo are forecast for much of continental Portugal until at least February 4, 2025. A state of emergency is in effect until February 8.
+Heavy rains, snow, strong winds and dangerous coastal waves caused by storm Leonardo are forecast for much of continental Portugal until at least February 4, 2026. A state of emergency is in effect until February 8.
 
 Many of the affected areas are still recovering from damages due to the recent impact of storm Kristin. Storm Leonardo could bring further damage to infrastructure and cause severe disruptions to travel and transportation across the country.
 

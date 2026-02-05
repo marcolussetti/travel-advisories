@@ -2,22 +2,6 @@
 
 ## Natural disasters and climate
 
-South Africa is currently experiencing severe weather events. The South African Weather Service issued several high-level alerts for parts of Limpopo, Mpumalanga and KwaZulu-Natal provinces, which are significantly impacted by flooding.
-
-Parts of Kruger National Park are closed, including some entrances and camps. The number of visitors allowed per day is limited.
-
-There may be travel disruptions due to weather, including flight cancellations and airport closures.
-
-Several wildfires are currently active in the Western Cape province.
-
-If you are in or near the affected areas:
-
-* exercise caution
-* follow the advice of local authorities, including evacuation orders
-* monitor local media to stay informed of the situation
-
-[Weather alerts](https://www.weathersa.co.za/) – South African Weather Service
-
 ### Climate change
 
 Climate change is affecting South Africa. Extreme and unusual weather events are becoming more frequent and may affect your travel plans. Monitor local media for the latest information.

@@ -10,7 +10,7 @@ The features in this map do not constitute an authoritative source of geographic
 
 [Enlarge map](#full-screen)
 
-## saint-kitts-and-nevis travel advice
+## Saint Kitts and Nevis travel advice
 
 ![Risk level map](https://www.international.gc.ca/tama-sgcv_images/maps-cartes/KN/mapeng.png)Disclaimer
 

@@ -2,6 +2,14 @@
 
 ## Natural disasters and climate
 
+### Closure of Salkantay Trail
+
+Peru is experiencing heavy seasonal rains, including in popular tourist destinations in the Cusco region. Due to an increased risk of landslides, the Salkantay Trail will be closed during the month of February 2026.
+
+* Do not attempt to access a closed trail, even with a guide. Trail and weather conditions could limit rescue efforts.
+* Follow the instructions of local authorities
+* Stay informed of regional weather forecasts
+
 ### Climate change
 
 Climate change is affecting Peru. Extreme and unusual weather events are becoming more frequent and may affect your travel plans. Monitor local news for the latest information.
@@ -17,10 +25,11 @@ Seasonal flooding, mudslides and landslides can hamper overland travel, result i
 * Stay informed of regional weather forecasts and plan accordingly
 * Stay away from flooded areas
 * Follow instructions of local authorities, including evacuation orders
-* [Severe storms outside Canada](https://travel.gc.ca/travelling/health-safety/hurricanes-typhoons-cyclones-monsoons)
-* [Large-scale emergencies outside Canada](https://travel.gc.ca/assistance/emergency-info/large-scale-emergencies-abroad)
 
 #### Useful links
+
+* [Severe storms outside Canada](https://travel.gc.ca/travelling/health-safety/hurricanes-typhoons-cyclones-monsoons)
+* [Large-scale emergencies outside Canada](https://travel.gc.ca/assistance/emergency-info/large-scale-emergencies-abroad)
 
 ### El Niño
 

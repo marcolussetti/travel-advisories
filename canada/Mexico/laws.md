@@ -29,44 +29,53 @@ This process can take a long time, and there is no guarantee that the transfer w
 
 ### Drugs
 
-Penalties for possession, use or trafficking of illegal drugs are severe. Convicted offenders can expect lengthy prison sentences. Mexican laws and their enforcement related to the possession and use of recreational and medical cannabis are unclear. You could be arrested or extorted for possession, use, or transport of cannabis.
+Penalties for possession, use or trafficking of illegal drugs are severe. Convicted offenders can expect lengthy prison sentences.
+
+Mexican laws and their enforcement related to the possession and use of recreational and medical cannabis are unclear. You could be arrested or extorted for possession, use or transport of cannabis.
 
 [Drugs, alcohol and travel](https://travel.gc.ca/travelling/health-safety/drugs)
 
 ### Imports and exports
 
-#### Weapons
+You must declare goods worth more than $500 USD.
 
-The Mexican government enforces strict laws on the possession, importation and trafficking of firearms and ammunition.
-
-Anyone entering Mexico with a firearm or ammunition without prior written authorization from Mexican authorities is subject to imprisonment.
-
-It is illegal to enter the country with knives with blades longer than 6cm.
-
-#### Vehicles and boats
-
-Mexico has very strict rules on importing foreign vehicles and boats.
-
-You must enter Mexico with the proper import permit and insurance since it cannot be obtained once you are in Mexico. If you fail to provide the proper permit and insurance, you could:
-
-* face a fine
-* have your vehicle seized
-
-You must present a paper document of your vehicle registration to obtain a vehicle importation permit from Mexican authorities. If you present a digital document of your vehicle registration, your vehicle may be refused entry into Mexico.
+Mexico has strict rules on the importation of weapons, vehicles, cigarettes and alcohol.
 
 #### Useful links
 
-* [Importing foreign vehicles](https://www.gob.mx/tramites/ficha/permiso-para-importacion-temporal-de-vehiculo-extranjero/SAT2427) – Government of Mexico (in Spanish)
-* [Temporary vehicle import application system](https://www.banjercito.com.mx/registroVehiculos/) – Government of Mexico (in Spanish)
-* [Travelling to Mexico by land](https://embamex.sre.gob.mx/canada/index.php/en/travelbyland) – Embassy of Mexico in Canada
+* [What is included in your luggage?](https://anam.gob.mx/equipaje-y-franquicia-ing/) – Government of Mexico
+* [Restricted goods](https://anam.gob.mx/mercancia-restringida-ing/) – Government of Mexico
+* [Goods that you cannot bring into Mexico](https://anam.gob.mx/mercancia-que-no-puedes-ingresar-a-mexico/) – Government of Mexico (Spanish only)
+
+#### Weapons
+
+Anyone entering Mexico with a firearm or ammunition without prior written authorization from Mexican authorities is subject to imprisonment.
+
+It is illegal to enter the country with knives with blades longer than 6 cm.
+
+#### Vehicles and boats
+
+You must enter Mexico with the proper import permit and insurance since they cannot be obtained once you’re in Mexico.
+
+If you fail to provide the proper documents, you could:
+
+* face a fine
+* have your vehicle or boat seized
+
+You must present a paper document of your vehicle registration to obtain a vehicle importation permit from Mexican authorities. If you present a digital version of your vehicle registration, your vehicle may be refused entry into Mexico.
+
+#### Useful links
+
+* [Temporary vehicle import system](https://www.banjercito.com.mx/registroVehiculos/) – Government of Mexico
+* [Travelling to Mexico by Land](https://embamex.sre.gob.mx/canada/index.php/en/travelbyland) – Embassy of Mexico in Canada
 
 #### Cigarettes and alcohol
 
-If you are over 18, you can bring into Mexico up to:
+If you’re 18 or older, you can bring into Mexico up to:
 
-* 10 packs of cigarettes
+* 20 packs of cigarettes
 * 25 cigars or 200 grams of tobacco
-* 3 litres of alcohol
+* 3 litres of alcoholic beverages
 * 6 litres of wine
 
 If you bring more than the allowed quantities, even if you declare or hand them over to authorities, you will have to pay a hefty import tax.
@@ -74,11 +83,6 @@ If you bring more than the allowed quantities, even if you declare or hand them 
 #### Artifacts
 
 It’s illegal to remove archaeological artifacts or to export such items from Mexico.
-
-#### Useful links
-
-* [What is included in your luggage?](https://anam.gob.mx/equipaje-y-franquicia-ing/) – Government of Mexico
-* [Restricted goods](https://anam.gob.mx/mercancia-restringida-ing/) – Government of Mexico
 
 ### Smoking and vaping
 
@@ -90,7 +94,7 @@ Smoking and vaping are prohibited in all public places except for clearly marked
 * parks
 * restaurants
 
-You may be fined or arrested if you’re caught smoking in public.
+You may be fined or arrested if you’re caught smoking or vaping in public.
 
 #### Electronic cigarettes
 
@@ -101,8 +105,6 @@ It’s illegal to bring, sell or distribute:
 * vaping solutions
 
 Customs officials could confiscate these items if you have them in your possession upon arrival. You could also be fined or detained.
-
-[Merchandise that you cannot bring into Mexico](https://anam.gob.mx/mercancia-que-no-puedes-ingresar-a-mexico/) – Government of Mexico (in Spanish)
 
 ### Dual citizenship
 
@@ -116,7 +118,7 @@ If you are a Canadian citizen, but also a citizen of Mexico, our ability to offe
 
 The Hague Convention on the Civil Aspects of International Child Abduction is an international treaty. It can help parents with the return of children who have been removed to or retained in certain countries in violation of custody rights. The convention applies between Canada and Mexico.
 
-If your child was wrongfully taken to, or is being held in Mexico, and if the applicable conditions are met, you may apply for the return of your child to the Mexican court.
+If your child was wrongfully taken to, or is being held in Mexico, and if the applicable conditions are met, you may apply for the return of your child to the Mexico court.
 
 If you are in this situation:
 
@@ -140,16 +142,16 @@ Be aware that Canadian consular officials cannot interfere in private legal matt
 
 ### Identification
 
-Authorities may request to see your identification at any time, including your, tourist card or proof of your legal status in Mexico. Carry your original identification at all times.
+Local authorities may request to see your identification at any time, including proof of your legal status in Mexico. Always carry your original identification.
 
-#### Identity documents
+### Identity documents
 
 The names on your identification must match those on your birth certificate to obtain official Mexican documents, including:
 
-* marriage certificates
+* a marriage certificate
 * immigration documents
 
-Middle names are often not included in Canadian identity documents. This has caused significant difficulties for many Canadians planning to move to Mexico or dealing with the Mexican Civil Registry. Obtain a Canadian passport that will meet Mexican requirements prior to applying for residency.
+Middle names are often not included in Canadian identity documents. This has caused significant difficulties for many Canadians planning to move to Mexico or dealing with the Mexican Civil Registry. Obtain a Canadian passport that will meet Mexican requirements before applying for residency in Mexico.
 
 ### Investments
 
@@ -163,9 +165,9 @@ If you plan to buy property or make other investments in Mexico:
 
 ### Rental accommodations
 
-Rental agreements between two individuals in Mexico are considered a private matter and are not regulated by the government.
+In Mexico, rental agreements between two individuals are considered a private matter and are not regulated by the government.
 
-If you encounter difficulties with a rental agreement, you must obtain the services of a local lawyer.
+If you encounter difficulties with a rental agreement, you must consult a local lawyer.
 
 ### Driving
 
@@ -173,45 +175,34 @@ You should carry an International Driving Permit.
 
 [International Driving Permit](https://travel.gc.ca/travelling/documents/international-driving-permit)
 
-#### Auto insurance
+#### Automobile insurance
 
 Mexican liability insurance is mandatory. Canadian automobile insurance is not valid in Mexico.
 
-You can obtain insurance at the Mexican border. You should obtain full coverage, including coverage for legal assistance.
+You can obtain insurance at the Mexican border. You should obtain full coverage, including for legal assistance.
 
 #### Accidents
 
-If you’re involved in a traffic accident, you may face serious legal problems, including imprisonment. If you don’t have Mexican liability insurance, you could be prevented from leaving the country until all parties agree that adequate financial satisfaction has been received. If you’re found to be under the influence of alcohol or drugs at the time of an accident, or if you don’t have a valid driver’s licence, your insurance will be considered invalid.
+If you’re involved in a traffic accident, you may face serious legal problems, including imprisonment. If you don’t have Mexican liability insurance, you could be prevented from leaving the country until all parties agree that adequate financial satisfaction has been received. If you’re found to be under the influence of alcohol or drugs at the time of an accident, or if you don’t have a valid driver’s licence, your automobile insurance will be considered invalid.
 
-You could be taken into custody and have your vehicle seized until responsibility for the accident is determined and all fines are paid. You must report any accident you’re involved to the police.
+You could be taken into custody and have your vehicle seized until responsibility for the accident is determined and all fines are paid. You must report any accident you’re involved in to the police.
 
-Criminals may deliberately cause traffic accidents and threaten you with violence in order to make insurance claims or request cash from the other party.
+Criminals may deliberately cause collisions and threaten violence in order to make insurance claims or request cash from the other party.
 
 #### Driving restrictions in Mexico City
 
-To reduce air pollution, the Hoy No Circula (No Driving Today) program restricts some cars from driving in Mexico City from Monday to Saturday between 5 am to 10 pm.
+To reduce air pollution, the Hoy No Circula (No Driving Today) program restricts some cars from driving in Mexico City.
 
-Additional driving restrictions apply between February and June when pollution levels are high.
-
-You will face driving restrictions depending on:
-
-* the last digit of your license plate
-* where your license plate was issued
-* your car’s emission sticker
-
-Hoy No Circula program is strictly enforced. You may face heavy fines and temporary confiscation of your vehicle if you don’t comply. Consult the Hoy No Circula calendar before driving.
-
-Electric and hybrid cars are exempted from these restrictions. Gas-fueled cars of a 2008 model or later may obtain a tourist pass valid for selected drive days.
+This program is strictly enforced. You may face heavy fines and temporary confiscation of your vehicle if you don’t comply. Generally, electric and hybrid cars are exempted from these restrictions. Consult the Hoy No Circula calendar before driving.
 
 #### Useful links
 
-* [Driving restrictions calendar for Mexico City](https://www.hoy-no-circula.com.mx/calendario) – Government of Mexico (in Spanish)
-* [Tourist pass](http://www.paseturistico.cdmx.gob.mx/) – Government of Mexico (in Spanish)
-* [Ministry of Environment](http://www.sedema.cdmx.gob.mx/) – Government of Mexico (in Spanish)
+* [Driving restrictions calendar for Mexico City](https://hoynocircula.cdmx.gob.mx/) – Government of Mexico (Spanish only)
+* [Tourist pass](http://www.paseturistico.cdmx.gob.mx/) – Government of Mexico (Spanish only)
 
-#### Buying or selling a vehicle
+### Buying or selling a vehicle
 
-You can only buy a car in Mexico if you are a temporary or permanent resident.
+You can only buy a car in Mexico if you’re a temporary or permanent resident.
 
 Selling your imported vehicle is illegal in Mexico and is subject to penalties including:
 
@@ -223,15 +214,16 @@ Selling your imported vehicle is illegal in Mexico and is subject to penalties i
 
 The currency of Mexico is the Mexican peso (MXN).
 
-You must declare upon arrival and departure if you carry more than $10,000 USD or equivalent in other currencies in:
+You must declare upon arrival and departure if you carry more than $10,000 USD or equivalent in other currencies. This includes:
 
 * cash
 * cheques
 * money orders
+
 * any other receivable document
 
-Failure to make this declaration is against Mexican law and often results in detention.
+If you fail to make this declaration, you could be detained.
 
-There is a limit to the amount of U.S. dollars that residents and foreigners can exchange in Mexico, depending on your immigration status. The rule doesn’t apply to Canadian dollars, but some financial institutions, hotels and currency exchange bureaus don’t make the distinction.
+There is a limit to the amount of U.S. dollars that residents and foreigners can exchange in Mexico, depending on immigration status. The rule doesn’t apply to Canadian dollars, but some financial institutions, hotels and currency exchange bureaus don’t make the distinction.
 
-[Money declaration](https://anam.gob.mx/declaracion-de-dinero-ing/) – Government of Mexico
+[Money declaration](https://anam.gob.mx/declaracion-de-dinero-ing/) – Government of Mexico

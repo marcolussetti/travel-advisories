@@ -1,7 +1,7 @@
 {
     "name": "Kuwait",
-    "update_reason": "Health \u2013 updated information on prescription medication",
-    "update_date": "2026-01-13T14:43:00",
+    "update_reason": "Health \u2013 editorial change",
+    "update_date": "2026-02-04T10:12:00",
     "sections": {
         "risk": "canada/Kuwait/risk.md",
         "security": "canada/Kuwait/security.md",

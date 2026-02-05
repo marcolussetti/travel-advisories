@@ -1,7 +1,7 @@
 {
     "name": "Cambodia",
-    "update_reason": "Risk levels \u2013 removed regional advisory to avoid non-essential travel to the area between 50 to 80 km from the Cambodia-Thailand border; Safety and security \u2013 updated information on tensions along the Cambodia-Thailand border",
-    "update_date": "2026-01-21T12:55:00",
+    "update_reason": "Health \u2013 editorial change",
+    "update_date": "2026-02-04T10:12:00",
     "sections": {
         "risk": "canada/Cambodia/risk.md",
         "security": "canada/Cambodia/security.md",

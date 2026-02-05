@@ -10,7 +10,7 @@ The features in this map do not constitute an authoritative source of geographic
 
 [Enlarge map](#full-screen)
 
-## antigua-and-barbuda travel advice
+## Antigua and Barbuda travel advice
 
 ![Risk level map](https://www.international.gc.ca/tama-sgcv_images/maps-cartes/AG/mapeng.png)Disclaimer
 

@@ -1,7 +1,7 @@
 {
     "name": "South Africa",
-    "update_reason": "Editorial change",
-    "update_date": "2026-01-26T13:15:00",
+    "update_reason": "Health \u2013 Travel health notice for Diphtheria added; Natural disasters and climate \u2013 removed information on floods",
+    "update_date": "2026-02-04T14:19:00",
     "sections": {
         "risk": "canada/South Africa/risk.md",
         "security": "canada/South Africa/security.md",

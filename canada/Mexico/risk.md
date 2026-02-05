@@ -29,23 +29,24 @@ The features in this map do not constitute an authoritative source of geographic
   + the city of Tuxtla Gutiérrez (and its airport and the main road leading there)
   + the city of San Cristobal de las Casas (and toll highway 190D between this city and Tuxtla Gutiérrez)
 * Chihuahua, excluding Chihuahua City
-* Colima, excluding the city of Manzanillo if accessed by air
+* Colima, excluding the city of Manzanillo only if accessed by air
 * Guanajuato, in all areas south of and including highways 43D and 45D
 * Guerrero, excluding the cities of Ixtapa/Zihuatanejo only if accessed by air
 * Jalisco, within 50 km of the border with Michoacán state
-* the Lagunas de Zempoala National Park in Morelos
+* Lagunas de Zempoala National Park in Morelos
 * Michoacán, excluding the cities of Morelia and Patzcuaro
 * Nayarit, within 20 km of the border with the states of Sinaloa and Durango
 * Nuevo León, excluding the city of Monterrey
-* Sinaloa with the following exceptions, and only if accessed by air or sea:
+* Sinaloa, excluding the following areas, and only if accessed by air or sea:
 
 + the city of Los Mochis
-+ specific areas in the city of Mazatlán:
++ specific areas in and around the city of Mazatlán:
 
 - Centro Histórico south of Avenida Gutiérrez Najera
 - the road connecting Centro Histórico to the airport
 - the main coastal roads from Centro Histórico to Playa Delfines, including Zona Cerritos and Zona Dorada (the Golden Zone)
+- the resorts on Playa Estrella del Mar and the road leading there from the airport
 
 * Sonora, excluding the cities of Hermosillo, Guaymas/San Carlos and Puerto Peñasco
-* Tamaulipas, excluding the city of Tampico
-* Zacatecas, excluding Zacatecas City
+* Tamaulipas, excluding the city of Tampico only if accessed by air or sea
+* Zacatecas, excluding the city of Zacatecas

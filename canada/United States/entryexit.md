@@ -97,7 +97,9 @@ Customs officials may ask you to provide your address while in the United States
 
 #### Dual Canadian-American citizenship
 
-Although U.S. authorities don’t formally require dual nationals to carry both a U.S. and a Canadian passport, carrying both documents as proof of citizenship may facilitate your entry into the United States and your return to Canada.
+U.S. law requires dual citizens to enter the United States on their U.S. passport.
+
+When travelling between Canada and the United States, you should carry both your U.S. and Canadian passports. This will facilitate your entry into the United States and your return to Canada.
 
 #### Canadians with dual citizenship from a third country
 
@@ -169,6 +171,7 @@ Members of Canada’s First Nations and Native Americans born in Canada may fre
 
 #### Useful links
 
+* [Indigenous travellers](https://travel.gc.ca/travelling/health-safety/indigenous)
 * [Entry and exit for First Nations and Native Americans](https://ca.usembassy.gov/first-nations-and-native-americans/?_ga=2.58016554.1842551196.1739453245-1351641362.1739266653) – U.S. Embassy & Consulates in Canada
 * [Green Card for an American Indian Born in Canada](https://www.uscis.gov/green-card/green-card-eligibility/green-card-for-an-american-indian-born-in-canada#:~:text=You%20may%20be%20eligible%20to,Were%20born%20in%20Canada.) – U.S. Citizenship and Immigration Services
 

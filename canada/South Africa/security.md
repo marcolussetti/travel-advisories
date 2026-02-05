@@ -15,22 +15,22 @@ Violent crimes occur frequently throughout the country and have involved foreign
 * assaults, including sexual assaults
 * murders
 
+Major city centres, townships, and isolated areas are particularly affected by crime, especially after dark.
+
+During your stay:
+
+* be extremely cautious in city centres and avoid them after dark
+* avoid townships and isolated areas
+* stay in accommodations with adequate security measures
+* keep doors and windows locked at all times
+* keep valuables out of sight and reach
+
 If you are assaulted:
 
 * immediately comply
 * avoid making sudden movements
 * avoid resisting or antagonizing the assailants
 * avoid eye contact with your assailant
-
-Crime significantly increases after dark in major city centres and townships. Avoid city centres after dark.
-
-During your stay:
-
-* stay in accommodations with adequate security measures
-* keep doors and windows locked at all times
-* keep valuables out of sight and reach
-* avoid townships and isolated areas
-* don't resist an attack
 
 #### Petty crime
 
@@ -261,7 +261,7 @@ Attacks also occurred on certain routes leading Kruger National Park and Addo El
 
 ### Water activities
 
-Coastal waters can be dangerous, even for experienced swimmers. Not all beaches are supervised. Shark attacks are common on South African shores. Around Cape Town, there is a flag system alerting on the presence of shark activity. Follow the advice and warnings of local authorities.
+Coastal waters can be dangerous, even for experienced swimmers. Not all beaches are supervised. Shark attacks can occur on South African shores. Around Cape Town, there is a flag system alerting on the presence of shark activity. Follow the advice and warnings of local authorities.
 
 If you plan to participate in boating activities, such as snorkelling or diving:
 

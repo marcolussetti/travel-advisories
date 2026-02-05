@@ -1,7 +1,7 @@
 {
     "name": "Jamaica",
-    "update_reason": "Risk level \u2013 exercise a high degree of caution in Jamaica; Natural disasters and climate \u2013 updated information on Hurricane Melissa",
-    "update_date": "2026-01-09T11:22:00",
+    "update_reason": "Health \u2013 editorial change",
+    "update_date": "2026-02-04T10:12:00",
     "sections": {
         "risk": "canada/Jamaica/risk.md",
         "security": "canada/Jamaica/security.md",

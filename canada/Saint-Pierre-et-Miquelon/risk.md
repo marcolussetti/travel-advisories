@@ -10,7 +10,7 @@ The features in this map do not constitute an authoritative source of geographic
 
 [Enlarge map](#full-screen)
 
-## saint-pierre-et-miquelon travel advice
+## Saint-Pierre-et-Miquelon travel advice
 
 ![Risk level map](https://www.international.gc.ca/tama-sgcv_images/maps-cartes/PM/mapeng.png)Disclaimer
 

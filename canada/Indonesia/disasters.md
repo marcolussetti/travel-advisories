@@ -2,15 +2,6 @@
 
 ## Natural disasters and climate
 
-A tsunami threat is in effect for Indonesia.
-
-If you’re in or around the affected areas:
-
-* follow the instructions of local authorities
-* monitor local news for information on the tsunami’s progress
-
-[Tsunami threat](http://www.tsunami.gov/ "http://www.tsunami.gov/") – U.S. Tsunami Warning System
-
 ### Flooding and landslides in North Sumatra
 
 Heavy rainfall has caused severe flooding and landslides across North Sumatra, especially in Lake Toba and mountainous districts.

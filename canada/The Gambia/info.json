@@ -1,0 +1,13 @@
+{
+    "name": "The Gambia",
+    "update_reason": "Health \u2013 editorial change",
+    "update_date": "2026-02-04T10:12:00",
+    "sections": {
+        "risk": "canada/The Gambia/risk.md",
+        "security": "canada/The Gambia/security.md",
+        "entryexit": "canada/The Gambia/entryexit.md",
+        "health": "canada/The Gambia/health.md",
+        "laws": "canada/The Gambia/laws.md",
+        "disasters": "canada/The Gambia/disasters.md"
+    }
+}

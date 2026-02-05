@@ -2,6 +2,10 @@
 
 ## Safety and security
 
+### FIFA World Cup 2026™
+
+Canada, Mexico and the United States will be hosting the FIFA World Cup from June 11 to July 19, 2026. If you plan on travelling to the United States for the tournament, consult our [Advice for Canadians travelling to the U.S. — FIFA World Cup 2026™](https://travel.gc.ca/travelling/campaigns/soccer-2026-united-states).
+
 ### Border with Mexico
 
 Criminal incidents associated with drug trafficking are more frequent at the border with Mexico, in the following states:

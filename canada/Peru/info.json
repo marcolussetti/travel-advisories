@@ -1,7 +1,7 @@
 {
     "name": "Peru",
-    "update_reason": "Health \u2013 removed the Travel health notice for Oropouche",
-    "update_date": "2026-02-02T11:59:00",
+    "update_reason": "Natural disasters and climate \u2013 added information on the closure of the Salkantay Trail",
+    "update_date": "2026-02-04T16:41:00",
     "sections": {
         "risk": "canada/Peru/risk.md",
         "security": "canada/Peru/security.md",

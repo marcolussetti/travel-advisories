@@ -4,7 +4,7 @@
 
 ### Storm Leonardo
 
-Heavy rains caused by storm Leonardo are forecast for parts of Spain until at least February 4, 2025. The storm is expected to hit especially hard in Andalusia, in the southwest, and Galicia, in the northwest.
+Heavy rains caused by storm Leonardo are forecast for parts of Spain until at least February 4, 2026. The storm is expected to hit especially hard in Andalusia, in the southwest, and Galicia, in the northwest.
 
 Many of the affected areas are still recovering from damages due to the recent impact of storm Kristin. Storm Leonardo could bring further damage to infrastructure and cause severe disruptions to travel and transportation in the area.
 

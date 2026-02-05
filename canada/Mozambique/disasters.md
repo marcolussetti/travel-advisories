@@ -4,9 +4,7 @@
 
 Since the beginning of January 2026, heavy rains have caused severe flooding and landslides, resulting in numerous casualties and damage to buildings and infrastructure.
 
-Heavy rainfall is expected to continue throughout January, which will increase the risk of flooding and landslides, including in Maputo. Authorities have issued alerts for several central and southern provinces and have carried out localized evacuations in high‑risk areas.
-
-The following essential services are disrupted in several provinces:
+Essential services are disrupted across several central and southern provinces, particularly Gaza and Maputo, including:
 
 * transportation
 * power distribution

@@ -1,7 +1,7 @@
 {
     "name": "Malaysia",
-    "update_reason": "Natural disasters and climate \u2013 updated information on flooding and landslides",
-    "update_date": "2026-01-08T13:11:00",
+    "update_reason": "Health \u2013 editorial change",
+    "update_date": "2026-02-04T10:12:00",
     "sections": {
         "risk": "canada/Malaysia/risk.md",
         "security": "canada/Malaysia/security.md",

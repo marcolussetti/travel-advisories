@@ -2,21 +2,6 @@
 
 ## Safety and security
 
-### State of emergency
-
-On July 18, 2025, Trinidadian and Tobagonian authorities declared a nationwide state of emergency.
-
-While the state of emergency is in effect, security forces have increased rights, without warrants, to:
-
-* conduct searches of persons and property
-* arrest and detain persons of interest
-
-If you are in Trinidad and Tobago:
-
-* expect an increased police and military presence
-* always carry valid identification
-* follow the instructions of local authorities
-
 ### Crime
 
 #### Petty crime
