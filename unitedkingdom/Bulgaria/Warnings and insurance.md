@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   29 January 2026
+:   5 February 2026
 
 Updated:
-:   28 January 2026
+:   4 February 2026
 
 Latest update:
-:   New information around travel disruption at land border crossings ('Entry requirements' page).
+:   Removal of information around travel disruption at land border crossings.
 
 ## Before you travel
 

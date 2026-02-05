@@ -1,17 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   23 December 2025
+:   5 February 2026
 
 Updated:
-:   22 December 2025
+:   4 February 2026
 
 Latest update:
-:   New information about the risks of trespassing ('Safety and security' page).
-
-## State of Emergency
-
-There is currently a State of Emergency in Trinidad and Tobago, in place since 18 July 2025. The government introduced it to give authorities additional powers of search, arrest, and detention following intelligence of planned activity by a criminal network. No curfew or restrictions on movement have been imposed.
+:   Removal of information about the State of Emergency which ended on 31 January 2026 (‘Warnings and insurance’ page).
 
 ## Before you travel
 

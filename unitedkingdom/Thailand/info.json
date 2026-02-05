@@ -1,11 +1,11 @@
 {
     "name": "Thailand",
-    "update_reason": "FCDO now advises against all but essential travel to within 20km of the land border with Cambodia. FCDO no longer advises against all but essential travel to Koh Chang, Koh Kood and the other islands between them.",
+    "update_reason": "New information on alcohol restrictions during the General election period (see \u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Thailand/Warnings and insurance.md",
-            "update_date": "2026-02-02T14:49:24+00:00"
+            "update_date": "2026-02-04T14:34:57+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Thailand/Getting help.md"
         }
     ],
-    "update_date": "2026-02-02T14:49:24+00:00"
+    "update_date": "2026-02-04T14:34:57+00:00"
 }

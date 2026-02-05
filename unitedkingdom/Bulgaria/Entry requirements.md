@@ -75,10 +75,6 @@ If you enter the Schengen area through the Port of Dover, Eurotunnel at Folkesto
 
 Read more [information on the EU Entry/Exit System and to understand which countries are in the Schengen area](https://www.gov.uk/guidance/eu-entryexit-system).
 
-## Land Border Crossings
-
-Protests by transport associations at some land border crossings in the Western Balkans have the potential to cause significant delays. If you are planning cross-border travel, check local media before travelling and plan ahead to avoid disruption to your journey.
-
 ## Vaccine requirements
 
 For details about medical entry requirements and recommended vaccinations, see [TravelHealthPro’s Bulgaria guide](https://travelhealthpro.org.uk/country/36/bulgaria#Vaccine_Recommendations).

@@ -20,12 +20,8 @@ If you are in a boat or jet ski, make sure you:
 
 People entering Algerian waters illegally are likely to be intercepted and investigated.
 
-[Previous
-:
-Safety and security](/foreign-travel-advice/morocco/safety-and-security)
+[Previous:Safety and security](/foreign-travel-advice/morocco/safety-and-security)
 
-[Next
-:
-Health](/foreign-travel-advice/morocco/health)
+[Next:Health](/foreign-travel-advice/morocco/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/morocco/print)

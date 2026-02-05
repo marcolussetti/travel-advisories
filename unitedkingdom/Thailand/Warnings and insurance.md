@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   3 February 2026
+:   5 February 2026
 
 Updated:
-:   2 February 2026
+:   4 February 2026
 
 Latest update:
-:   FCDO now advises against all but essential travel to within 20km of the land border with Cambodia. FCDO no longer advises against all but essential travel to Koh Chang, Koh Kood and the other islands between them.
+:   New information on alcohol restrictions during the General election period (see ‘Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/6980b4383915f7123658010e/FCDO__TA__040_-_Thailand_Travel_Advice_Ed8__WEB_.jpg)
 
@@ -37,6 +37,17 @@ FCDO advises against all but essential travel to within 20km of the land�
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/thailand/safety-and-security#terrorism).
 
+## General election and alcohol restrictions
+
+Thailand will hold a General Election on 8 February 2026. A nationwide ban on the sale and distribution of alcohol will be in place from 6pm on 7 February until 6pm on 8 February.
+
+During this period:
+
+* public consumption of alcohol is prohibited, including at social gatherings
+* the restrictions apply to convenience stores, bars, restaurants, and entertainment venues, both public and private
+
+If you do not comply with these restrictions, you could face fines of up to 10,000 baht and up to 6 months’ imprisonment.
+
 ## Thailand-Cambodia border
 
 In July 2025, Thailand and Cambodia fought along parts of the border. The fighting included the use of rocket and artillery fire. Tensions remain and fighting erupted again at various points along the border in early December. Land borders and crossings between Thailand and Cambodia continue to be suspended. Some tourist destinations in border areas such as the Khao Phra Wihan/Preah Vihear temple, the Ta Kwai/Ta Krabey temple and the Ta Muen Thom/Tamone Thom temple are closed.
@@ -44,12 +55,6 @@ In July 2025, Thailand and Cambodia fought along parts of the border. The fighti
 There are also unexploded landmines in the border area.
 
 We advise against all travel to the affected land border areas.
-
-## Death of HM Queen Sirikit
-
-Thailand is in a formal mourning period from 25 October 2025 for 100 days. During this time, there may be disruption to a wide range of businesses and services, including entertainment venues, restaurants, bars and shopping areas.
-
-Authorities in Thailand are advising  visitors to wear sombre clothing, particularly in public places, and to avoid bright or festive attire. Authorities are also advising visitors to behave respectfully in public including avoiding loud or inappropriate behaviour, especially when visiting temples, royal sites or government premises. For more information, [read the official announcement from the Thailand government](https://www.tatnews.org/2025/10/official-announcement-mourning-practices-following-the-passing-of-her-majesty-queen-sirikit-the-queen-mother/).
 
 ## Do not carry cannabis out of Thailand
 

@@ -30,7 +30,7 @@ When entering Serbia, make sure border guards stamp your passport. If you try to
 
 ## Land border crossings
 
-Only enter Serbia by land through recognised border crossings. On 26 January, planned protests by transport associations at some land border crossings in the Western Balkans have the potential to cause significant delays. If you are planning cross-border travel, check local media before travelling and plan ahead to avoid disruption to your journey.
+Only enter Serbia by land through recognised border crossings.
 
 ### Travelling between Serbia and Kosovo
 

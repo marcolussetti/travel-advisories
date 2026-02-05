@@ -63,8 +63,6 @@ Follow FCDO:
 
 The Overseas Business Risk service offers [information and advice for British companies operating in Morocco](https://www.gov.uk/government/publications/overseas-business-risk-morocco) on how to manage political, economic, and business security-related risks.
 
-[Previous
-:
-Health](/foreign-travel-advice/morocco/health)
+[Previous:Health](/foreign-travel-advice/morocco/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/morocco/print)

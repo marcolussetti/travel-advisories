@@ -1,11 +1,11 @@
 {
     "name": "Serbia",
-    "update_reason": "New information around travel disruption at land border crossings ('Entry requirements' page).",
+    "update_reason": "Removal of information around travel disruption at land border crossings.",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Serbia/Warnings and insurance.md",
-            "update_date": "2026-01-22T17:17:37+00:00"
+            "update_date": "2026-02-04T12:01:21+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Serbia/Getting help.md"
         }
     ],
-    "update_date": "2026-01-22T17:17:37+00:00"
+    "update_date": "2026-02-04T12:01:21+00:00"
 }

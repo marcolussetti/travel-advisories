@@ -48,12 +48,8 @@ You can take up to 2,000 Moroccan dirham into or out of Morocco. The dirham is â
 
 You must declare foreign currency worth 100,000 Moroccan dirham or more (about 10,000 US dollars) when you enter or leave the country. There is no limit on the amount of foreign cash you can carry.
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/morocco)
+[Previous:Warnings and insurance](/foreign-travel-advice/morocco)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/morocco/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/morocco/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/morocco/print)

@@ -206,12 +206,8 @@ The US Federal Emergency Management Agency website has advice about [what to do 
 
 Heavy rain can cause flash flooding in some areas, particularly in the mountains or near rivers during winter months. Walking and driving can be dangerous in flooded areas. If you’re near a flood, monitor local media and follow instructions from local authorities.
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/morocco/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/morocco/entry-requirements)
 
-[Next
-:
-Regional risks](/foreign-travel-advice/morocco/regional-risks)
+[Next:Regional risks](/foreign-travel-advice/morocco/regional-risks)
 
 [View a printable version of the whole guide](/foreign-travel-advice/morocco/print)
