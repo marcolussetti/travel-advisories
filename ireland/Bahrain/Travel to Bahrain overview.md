@@ -8,7 +8,9 @@ High Degree of Caution
 
 #### Regional Tensions
 
-Ongoing hostilities in Iran, Israel, and Palestine may escalate leading to possible attacks on military installations; and/or on strategic infrastructure. Debris from intercepted missiles or drones may cause localised damage over urban areas. The most immediate risk remains delay or cancellation of flights.
+Given ongoing regional tensions, airlines may choose to suspend flights and/or adjust their schedules to and from Bahrain at short notice. If you plan on flying to or from the region in the coming days, please check your flight status with your airline directly in advance of travelling.
+
+Additionally, ongoing hostilities in Iran, Israel, and Palestine may escalate leading to possible attacks on military installations; and/or on strategic infrastructure. Debris from intercepted missiles or drones may cause localised damage over urban areas. The most immediate risk remains delay or cancellation of flights.
 
 ### **General Travel Advice**
 

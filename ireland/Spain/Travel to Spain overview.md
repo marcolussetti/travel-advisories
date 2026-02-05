@@ -22,7 +22,13 @@ On 18 January, 2026, two high‑speed trains were involved in an accident near A
 
 Significant disruptions to rail services are ongoing. Trains travelling to the south of Spain are particularly affected. Citizens are advised to consult their travel operator.
 
-Any Irish citizen affected by this accident requiring consular assistance should contact the Embassy of Ireland in Madrid on 0034 914364093.
+#### **Weather Warnings**
+
+Weather warnings, including extreme weather warnings, can affect many of areas of Spain all year round.
+
+You can monitor information and alerts on the website of the Spanish Meteorological Agency, [**AEMET**](https://www.aemet.es/en/portada).
+
+In the event of a weather warning, citizens should consult their travel provider and follow the instructions of the local authorities.
 
 ### General Travel Advice
 

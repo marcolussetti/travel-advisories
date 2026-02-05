@@ -1,12 +1,12 @@
 ## Travel to Ethiopia overview
 
-### **Security status**
+### **Security Status**
 
 High Degree of Caution
 
 ### **Travel Alert**
 
-Amidst reported clashes between regional and federal military authorities, all flights to Tigray Regional State have been cancelled. Irish citizens are advised against all travel to Tigray until further notice.
+All flights to Tigray Regional State are currently suspended. Irish citizens are advised against all travel to Tigray until further notice.
 
 ### **General Travel Advice**
 
@@ -48,9 +48,7 @@ The Embassy recommends against all travel to Amhara Regional State as the region
 
 ### **Tigray**
 
-The Cessation of Hostilities Agreement signed in November 2022 ended the large-scale fighting in Tigray. Nonetheless there continues to be reports of sporadic and indiscriminate violence particularly in the disputed of territory of Western Tigray and the Raya area of southern Tigray, but also elsewhere in the region, including in major urban centres such as Mekelle. Irish citizens should avoid all travel to areas west of the Tekeze River and within 10km of the border with Amhara Regional State and the border with Eritrea. They should avoid non-essential travel to the rest of the region.
-
-As of Sunday, 11 May 2025, all foreign nationals are restricted from taking flights to Tigray Regional State. Until further notice, Irish citizens are advised against attempting to travel on flights bound for any airport in the region.
+The Cessation of Hostilities Agreement signed in November 2022 ended the large-scale fighting in Tigray. Nonetheless there continues to be reports of sporadic and indiscriminate violence particularly in the disputed of territory of Western Tigray and the Raya area of southern Tigray, but also elsewhere in the region, including in major urban centres such as Mekelle.
 
 ### **Addis Ababa**
 
@@ -77,8 +75,6 @@ Irish citizens planning to travel elsewhere within Oromia region should seek sec
 The embassy is aware of reports of attacks on goods vehicles and trucks moving along the A1 road from Djibouti to Addis Ababa. Driving at night on this road should be avoided.
 
 Tensions in the border zones between Afar and Somali regions can give rise to unrest and violence.
-
-As of Sunday, 11 May 2025, all foreign nationals are restricted from taking flights to Afar Regional State. Until further notice, Irish citizens are advised against attempting to travel on flights bound for Semera Airport.
 
 ### **Southern Regions**
 

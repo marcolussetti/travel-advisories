@@ -6,15 +6,15 @@ High Degree of Caution
 
 ### **Travel Alert**
 
-Industrial action is an ongoing issue in Belgium. This can occur at short notice and can cause travel disruption.
+#### **UK ETA**
 
-A five-day national train strike will impact services from 22:00 on Sunday 25 January until 22:00 on Friday 30 January. A limited domestic service is expected to operate. The strike may also impact international train services operating to/from and via Belgium.
+**Exemption for Irish Citizens, including Irish dual citizens, travelling to, or transiting through, the UK, the Channel Islands or the Isle of Man from outside the Common Travel Area:**
 
-For updates, monitor local news and check with your travel operator.
+The UK has introduced a new Electronic Travel Authorisation (ETA) for people travelling to, or transiting through, the UK, the Channel Islands, or the Isle of Man from outside the Common Travel Area. **Irish citizens, including Irish dual citizens, do not need and therefore are ineligible to apply for an ETA. Under UK entry requirements, you must present a valid Irish passport at UK border control to demonstrate that you are exempt from the ETA requirement**.
 
-[**SNCB-NMBS Belgian Rail (domestic)**](https://www.belgiantrain.be/en/travel-info/train-network-travel-info/strike)
+You are advised to check your passport validity, and where necessary, apply for an Irish passport, well in advance of any travel. Where travel is required owing to an emergency, Irish citizens, including Irish dual citizens, who are not in possession of a valid Irish passport can contact the Embassy of Ireland in Brussels for advice.
 
-[**SNCB-NMBS International**](https://www.b-europe.com/EN/Disruptions)
+Further information on the ETA is available at [Get an electronic travel authorisation (ETA) to visit the UK: Overview - GOV.UK](https://www.gov.uk/eta)
 
 ### **General Travel Advice**
 

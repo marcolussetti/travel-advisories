@@ -6,6 +6,18 @@ High Degree of Caution
 
 ### **Travel Alert**
 
+#### **UK ETA**
+
+**Exemption for Irish Citizens, including Irish dual citizens, travelling to, or transiting through, the UK, the Channel Islands or the Isle of Man from outside the Common Travel Area:**
+
+The UK has introduced a new Electronic Travel Authorisation (ETA) for people travelling to, or transiting through, the UK, the Channel Islands, or the Isle of Man from outside the Common Travel Area. **Irish citizens, including Irish dual citizens, do not need and therefore are ineligible to apply for an ETA. Under UK entry requirements, you must present a valid Irish passport at UK border control to demonstrate that you are exempt from the ETA requirement**.
+
+You are advised to check your passport validity, and where necessary, apply for an Irish passport, well in advance of any travel. Where travel is required owing to an emergency, Irish citizens, including Irish dual citizens, who are not in possession of a valid Irish passport can contact the Embassy of Ireland in Abu Dhabi for advice.
+
+Further information on the ETA is available at [Get an electronic travel authorisation (ETA) to visit the UK: Overview - GOV.UK](https://www.gov.uk/eta)
+
+#### **Regional Tensions**
+
 Given ongoing regional tensions, airlines may choose to suspend flights and/or adjust their schedules to and from Qatar at short notice. If you plan on flying to or from the region in the coming days, please check your flight status with your airline directly in advance of travelling
 
 The Embassy of Ireland, Abu Dhabi is closely monitoring the current situation in Qatar and the region and advises that Irish citizens exercise a high degree of caution. For further updates, please monitor the Embassy’s social media channels on [**X**](https://x.com/IrelandEmbUAE), [**Instagram**](https://www.instagram.com/irelandembuae?igsh=bnRnYjQ0Mmt4OG50), and [**Facebook**](https://www.facebook.com/share/1Aek6yo4tR/?mibextid=wwXIfr)**.**

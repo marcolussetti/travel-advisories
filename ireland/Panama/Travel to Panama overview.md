@@ -6,6 +6,18 @@ High Degree of Caution
 
 ### **Travel Alert**
 
+#### **UK ETA**
+
+**Exemption for Irish Citizens, including Irish dual citizens, travelling to, or transiting through, the UK, the Channel Islands or the Isle of Man from outside the Common Travel Area:**
+
+The UK has introduced a new Electronic Travel Authorisation (ETA) for people travelling to, or transiting through, the UK, the Channel Islands, or the Isle of Man from outside the Common Travel Area. **Irish citizens, including Irish dual citizens, do not need and therefore are ineligible to apply for an ETA. Under UK entry requirements, you must present a valid Irish passport at UK border control to demonstrate that you are exempt from the ETA requirement**.
+
+You are advised to check your passport validity, and where necessary, apply for an Irish passport, well in advance of any travel. Where travel is required owing to an emergency, Irish citizens, including Irish dual citizens, who are not in possession of a valid Irish passport can contact the Embassy of Ireland in Bogota for advice.
+
+Further information on the ETA is available at [Get an electronic travel authorisation (ETA) to visit the UK: Overview - GOV.UK](https://www.gov.uk/eta)
+
+#### **Oropouche Disease**
+
 In February 2024, the Pan American Health Organization (PAHO) issued an epidemiological alert concerning increasing reports of Oropouche disease, a virus mainly transmitted to humans through being bitten by infected midges. Some species of mosquito are also known to spread the virus. Oropouche can manifest as an acute febrile illness with common systems including headache, nausea, vomiting, muscle and joint pains. Occasionally symptoms can be more severe. PAHO has reported an outbreak in countries in Central America, including Panama. Take precautions to avoid being bitten by mosquitoes by using bed nets and repellents, and wearing closed shoes, long sleeves and trousers.
 
 ### **General Travel Advice**
