@@ -12,8 +12,10 @@ Monday to Friday 09:00-13:00 and 13:30-16:00 Dublin time
 
 ### Embassy of Ireland, Indonesia
 
-World Trade Centre 1, L-14   
-Jl. Jend. Sudirman Kav 29-31   
+World Trade Center I   
+Jl. Jenderal Sudirman 14th floor   
+RT.8/RW.3   
+Kuningan, Karet Kuningan, Setiabudi, South Jakarta City   
 Jakarta 12920
 
 [Tel: +62 21 280 94300](tel:+6221 280 94300)
