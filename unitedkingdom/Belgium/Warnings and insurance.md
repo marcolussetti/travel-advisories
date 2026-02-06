@@ -1,17 +1,15 @@
 # Warnings and insurance
 
 Still current at:
-:   22 January 2026
+:   6 February 2026
 
 Updated:
-:   21 January 2026
+:   5 February 2026
 
 Latest update:
-:   New information on railway strikes ('Warnings and insurance' page).
+:   Removal of information on railway strikes ('Warnings and insurance' page).
 
 ## National strike action
-
-Railway strikes are expected from 10pm Sunday 25 January until the end of services on Friday 30 January. National routes and international routes are likely to be affected. Consult the [SNCB’s Journey Planner](https://www.belgiantrain.be/en/travel-info/train-network-travel-info/strike) and your operator before rail travel to and within Belgium during this period.
 
 Strike action is an ongoing issue that can cause travel disruption. General strikes took place on 31 March, 29 April,14 October, 26 November and 15 December 2025. Strike action may be announced at short notice.
 

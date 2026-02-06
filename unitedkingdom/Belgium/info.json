@@ -1,11 +1,11 @@
 {
     "name": "Belgium",
-    "update_reason": "New information on railway strikes ('Warnings and insurance' page).",
+    "update_reason": "Removal of information on railway strikes ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Belgium/Warnings and insurance.md",
-            "update_date": "2026-01-21T16:40:40+00:00"
+            "update_date": "2026-02-05T12:32:54+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Belgium/Getting help.md"
         }
     ],
-    "update_date": "2026-01-21T16:40:40+00:00"
+    "update_date": "2026-02-05T12:32:54+00:00"
 }

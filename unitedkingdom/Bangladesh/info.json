@@ -1,11 +1,11 @@
 {
     "name": "Bangladesh",
-    "update_reason": "Updated information about the threat of political violence and extremist attacks during the election period and that you should plan carefully and follow the advice of local authorities (\u2018Warnings and insurance\u2019 and \u2018Safety and security\u2019 pages).",
+    "update_reason": "FCDO now advises against all but essential travel to Bangladesh (\u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Bangladesh/Warnings and insurance.md",
-            "update_date": "2026-01-28T17:05:33+00:00"
+            "update_date": "2026-02-05T15:45:54+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Bangladesh/Getting help.md"
         }
     ],
-    "update_date": "2026-01-28T17:05:33+00:00"
+    "update_date": "2026-02-05T15:45:54+00:00"
 }

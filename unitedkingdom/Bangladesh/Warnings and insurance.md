@@ -1,30 +1,24 @@
 # Warnings and insurance
 
 Still current at:
-:   29 January 2026
+:   6 February 2026
 
 Updated:
-:   28 January 2026
+:   5 February 2026
 
 Latest update:
-:   Updated information about the threat of political violence and extremist attacks during the election period and that you should plan carefully and follow the advice of local authorities (‘Warnings and insurance’ and ‘Safety and security’ pages).
+:   FCDO now advises against all but essential travel to Bangladesh (‘Warnings and insurance’ page).
 
-![](https://assets.publishing.service.gov.uk/media/66cdbf9203c7db1b41c7091b/FCDO__TA__050_-_Bangladesh_Travel_Advice_Ed2__WEB_.jpg)
+![](https://assets.publishing.service.gov.uk/media/69849f17468d351e1406b509/FCDO__TA__050_-_Bangladesh_Travel_Advice_Ed3__WEB_.jpg)
 
 
-[Download a more detailed map (PDF, 1.02 MB)](https://assets.publishing.service.gov.uk/media/66cdbf93f04c14b05511b332/FCDO__TA__050_-_Bangladesh_Travel_Advice_Ed2.pdf)
+[Download a more detailed map (PDF, 1.02 MB)](https://assets.publishing.service.gov.uk/media/69849f17a886d1b3227bd718/FCDO__TA__050_-_Bangladesh_Travel_Advice_Ed3.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
-## Areas where FCDO advises against all but essential travel
+## FCDO advises against all but essential travel to Bangladesh
 
-### Chittagong Hill Tracts
-
-FCDO advises against all but essential travel to the Chittagong Hill Tracts, as there are regular reports of violence and other criminal activity, particularly in more remote parts. The area is made up of the districts of:
-
-* Rangamati
-* Khagrachari
-* Bandarban
+There is a threat of political violence and extremist attacks during the election period.  The security situation in Bangladesh may change quickly with no advance warning. For more information on the security situation, see [‘Safety and security’](https://www.gov.uk/foreign-travel-advice/bangladesh/safety-and-security).
 
 Find out more about [why FCDO advises against travel](https://www.gov.uk/foreign-travel-advice/bangladesh/safety-and-security).
 

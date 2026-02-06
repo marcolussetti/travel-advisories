@@ -6,14 +6,6 @@ You should also read [FCDO’s overall travel advice](/foreign-travel-advice/ban
 
 ## Chittagong Hill Tracts
 
-FCDO advises against all but essential travel to the Chittagong Hill Tracts, an area made up of the districts of:
-
-* Rangamati
-* Khagrachari
-* Bandarban
-
-Chittagong City and other districts of Chittagong Division are not included in the travel warning.
-
 Security in the Chittagong Hill Tracts is a cause for concern. There are regular reports of violence and other criminal activity, particularly in more remote areas.
 
 If you plan to travel to the Chittagong Hill Tracts, you must give the Bangladesh authorities 10 days’ notice.
