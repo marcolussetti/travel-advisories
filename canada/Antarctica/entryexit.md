@@ -16,7 +16,7 @@ All Canadian travellers require a permit to visit Antarctica. Expedition tour op
 
 Should you need to apply for a permit yourself, you must submit your request to the Antarctic Environmental Program at Environment Canada.
 
-[Apply for a permit](https://www.canada.ca/en/environment-climate-change/services/disposal-at-sea/antarctic-environmental-protection-act/permits.html) - Environment Canada
+[Apply for a permit](https://www.canada.ca/en/environment-climate-change/services/disposal-at-sea/antarctic-environmental-protection-act/permits.html) – Environment Canada
 
 ### Children and travel
 

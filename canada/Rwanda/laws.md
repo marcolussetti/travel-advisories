@@ -67,7 +67,7 @@ To avoid offending local sensitivities:
 
 The recreational and commercial flying of drones is strictly regulated. You must seek the permission from Rwanda Civil Aviation Authority prior to operating a drone. If you don’t comply, you may be fined and your drone confiscated.
 
-[Drones – Visit Rwanda](https://www.visitrwanda.com/facts/drones/)
+[Drones](https://www.visitrwanda.com/facts/drones/) – Visit Rwanda
 
 ### Driving
 
