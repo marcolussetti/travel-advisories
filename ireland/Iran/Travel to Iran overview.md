@@ -46,6 +46,8 @@ A valid passport is required for travel to Iran. Irish passports should have a m
 
 Iran does not recognise dual nationality. If you are an Irish citizen with Iranian nationality, or a dual Irish citizen who enters Iran on a non-Irish passport, our ability to provide consular assistance to you will be very limited.
 
+Military service is mandatory for Iranian adult males. If you are an Iranian-Irish dual national man who has not completed military service, you may not be able to leave Iran without first completing your military service.
+
 For more information on visas and passports, please see the Entry requirements tab.
 
 Visitors to Iran are advised to follow the guidance of national and local authorities and stay fully informed of what is going on by monitoring local news and social media.

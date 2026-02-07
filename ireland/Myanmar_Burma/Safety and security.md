@@ -2,7 +2,7 @@
 
 ### **Political Situation**
 
-On February 1, 2021, the Myanmar military detained officials from the elected government and announced a state of emergency, effectively seizing control of the country’s governance. This situation still persists with the military in control of the country.
+On February 1, 2021, the Myanmar military detained officials from the elected government and announced a state of emergency, effectively seizing control of the country’s governance. This situation still persists with conflict for territorial control between the military and other armed group.
 
 The political situation is volatile and you may find your security unexpectedly at risk. Due to high levels of political tension, acts of politically motivated violence may occur at any time. Avoid concentrations of police and security forces and remain informed of current issues.
 
@@ -10,7 +10,7 @@ Restrictions on freedom of speech, movement, religion, and political activity re
 
 Irish citizens in Myanmar should exercise caution and avoid any demonstrations or large gatherings. Avoid taking pictures of demonstrations, police or military, including any police stations or military installations, as this may be prohibited by the authorities.
 
-Myanmar has suffered from prolonged internal conflicts which predate the 2021 coup and involve a large number of Ethnic Armed Organisations from Myanmar’s border areas. Since the coup, some have also formed new People’s Defence Forces specifically to oppose the military junta. Anti-government forces now operate in most of Myanmar, including areas which had been peaceful before the coup.
+Myanmar has suffered from prolonged internal conflicts which predate the 2021 coup and involve a large number of Ethnic Armed Organisations from Myanmar’s border areas.
 
 ### **Landmines**
 

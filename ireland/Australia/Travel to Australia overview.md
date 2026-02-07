@@ -20,13 +20,13 @@ There is no change to entry requirements for Australian passport holders travell
 
 #### **Bondi Beach Attack**
 
-Following the attack which took place on Bondi Beach on December 14, Irish citizens are advised to remain vigalent and follow the advice of local authorities.
+Following the attack which took place on Bondi Beach on December 14, Irish citizens are advised to remain vigilant and follow the advice of local authorities.
 
 The Australian Government National Terrorism Threat Level remains at Probable. Security measures may be increased in public places, transport hubs and at major events.
 
 Travellers should stay informed by monitoring local media and official sources and allow extra time to navigate any additional security procedures that may be in place.
 
-Irish citizens can also contact the Department of Foreign Affairs in Dublin on 00353 1 408 2000.
+Irish citizens can also contact the Department of Foreign Affairs and Trade in Dublin on 00353 1 408 2000.
 
 ### **General Travel Advice**
 
