@@ -128,12 +128,8 @@ If you travel to these areas you may face risks of kidnapping, high levels of mi
 
 The situation for border crossings between Afghanistan and Pakistan may change rapidly due to the security situation in Afghanistan. See [Afghanistan travel advice](https://www.gov.uk/foreign-travel-advice/afghanistan).
 
-[Previous
-:
-Safety and security](/foreign-travel-advice/pakistan/safety-and-security)
+[Previous:Safety and security](/foreign-travel-advice/pakistan/safety-and-security)
 
-[Next
-:
-Health](/foreign-travel-advice/pakistan/health)
+[Next:Health](/foreign-travel-advice/pakistan/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/pakistan/print)

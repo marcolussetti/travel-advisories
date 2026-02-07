@@ -103,12 +103,8 @@ There are strict rules about [goods that you can take into and out of Pakistan](
 
 Importing alcohol or pork products is illegal. You could be detained if you try to import them.
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/pakistan)
+[Previous:Warnings and insurance](/foreign-travel-advice/pakistan)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/pakistan/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/pakistan/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/pakistan/print)

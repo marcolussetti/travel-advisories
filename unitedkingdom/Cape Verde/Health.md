@@ -23,6 +23,7 @@ At least 8 weeks before your trip:
 See [what health risks you’ll face on Cape Verde](https://travelhealthpro.org.uk/country/43/cape-verde), including:
 
 * shigella sonnei
+* salmonella
 * dengue
 
 The Cape Verde government has raised the civil protection warning level for dengue on the islands of Santiago, Fogo and Brava.

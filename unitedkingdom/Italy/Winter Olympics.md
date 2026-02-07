@@ -38,6 +38,10 @@ Winter weather and road conditions may extend your travel times so check the [of
 
 There will be a very high demand for accommodation in the ski resorts as well as Milan and Verona so ensure to plan ahead.
 
+## Increased security
+
+Due to increased security and random police checks, you should carry your passport with you at all times.
+
 ## Increased risk of petty crime
 
 The high number of travellers during the Winter Olympics could increase levels of petty crime. See our advice on Crime in the [Safety and security page](https://www.gov.uk/foreign-travel-advice/italy/safety-and-security#crime) which includes advice about [theft from cars](https://www.gov.uk/foreign-travel-advice/italy/safety-and-security#theft-from-cars).
@@ -46,12 +50,8 @@ The high number of travellers during the Winter Olympics could increase levels o
 
 If you plan to participate in winter sports, check the [Safety and security page](https://www.gov.uk/foreign-travel-advice/italy/safety-and-security) for information about weather and avalanche conditions, local skiing laws and regulations.
 
-[Previous
-:
-Safety and security](/foreign-travel-advice/italy/safety-and-security)
+[Previous:Safety and security](/foreign-travel-advice/italy/safety-and-security)
 
-[Next
-:
-Health](/foreign-travel-advice/italy/health)
+[Next:Health](/foreign-travel-advice/italy/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/italy/print)

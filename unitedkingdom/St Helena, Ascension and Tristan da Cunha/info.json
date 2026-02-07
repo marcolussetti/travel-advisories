@@ -1,11 +1,11 @@
 {
     "name": "St Helena, Ascension and Tristan da Cunha",
-    "update_reason": "Removal of information about the need to present a yellow fever certificate to enter St Helena if you are arriving from a country listed as a transmission risk (\u2018Entry requirements\u2019 page).",
+    "update_reason": "The St Helena Government has announced the airport is unable to operate as normal.  (Warnings and insurance)",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/St Helena, Ascension and Tristan da Cunha/Warnings and insurance.md",
-            "update_date": "2026-01-30T10:38:21+00:00"
+            "update_date": "2026-02-06T21:22:48+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/St Helena, Ascension and Tristan da Cunha/Getting help.md"
         }
     ],
-    "update_date": "2026-01-30T10:38:21+00:00"
+    "update_date": "2026-02-06T21:22:48+00:00"
 }

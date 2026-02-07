@@ -1,17 +1,19 @@
 # Warnings and insurance
 
 Still current at:
-:   16 December 2025
+:   7 February 2026
 
 Updated:
-:   15 December 2025
+:   6 February 2026
 
 Latest update:
-:   New information about what health risk you may face in Cape Verde, including Shigella sonnei (‘Warnings and insurance’ and ‘Health’ pages).
+:   Updated information on health risks you may face in Cape Verde (‘Warnings and insurance’ and ‘Health’ pages).
 
-## Shigella sonnei in Cape Verde
+## Shigella sonnei and Salmonella in Cape Verde
 
-The UK Health Security Agency is investigating an increase in reports of [Shigella sonnei](https://travelhealthpro.org.uk/news/876/shigella-cases-reported-in-travellers-returning-from-cape-verde) infection in travellers returning from Cape Verde. [See information about health risks](https://www.gov.uk/foreign-travel-advice/cape-verde/health).
+The UK Health Security Agency is investigating an increase in reports of [Shigella sonnei and Salmonella](https://travelhealthpro.org.uk/news/876/shigella-cases-reported-in-travellers-returning-from-cape-verde) infection in travellers returning from Cape Verde. If you have an underlying health condition, speak to a healthcare professional before travelling.
+
+[See information about health risks](https://www.gov.uk/foreign-travel-advice/cape-verde/health).
 
 ## Before you travel
 

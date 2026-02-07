@@ -72,12 +72,8 @@ Alternatively, you can visit an Italian GP to obtain a local prescription. Presc
 
 Read [FCDO guidance on travel and mental health](https://www.gov.uk/guidance/mental-health-and-wellbeing-abroad). There is also [guidance on TravelHealthPro](https://travelhealthpro.org.uk/factsheet/85/travelling-with-mental-health-conditions).
 
-[Previous
-:
-Winter Olympics](/foreign-travel-advice/italy/winter-olympics)
+[Previous:Winter Olympics](/foreign-travel-advice/italy/winter-olympics)
 
-[Next
-:
-Getting help](/foreign-travel-advice/italy/getting-help)
+[Next:Getting help](/foreign-travel-advice/italy/getting-help)
 
 [View a printable version of the whole guide](/foreign-travel-advice/italy/print)

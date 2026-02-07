@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   11 December 2025
+:   7 February 2026
 
 Updated:
-:   10 December 2025
+:   6 February 2026
 
 Latest update:
-:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
+:   Addition of information about an explosion reported at the Tarlai Imam Bargah of Shahzad Town Police Station jurisdiction in Islamabad ('Warnings and insurance' page).
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
@@ -75,7 +75,11 @@ FCDO advises against all but essential travel to Dera Ghazi Khan.
 
 Find out more about [why FCDO advises against travel to these regions](/foreign-travel-advice/pakistan/regional-risks).
 
-Due to the security situation across Pakistan, we continue to advise British nationals to remain extra vigilant and to follow travel advice updates, particularly the guidance set out in the security section [Safety and Security](/foreign-travel-advice/pakistan/safety-and-security).
+## Explosion in Islamabad
+
+We are aware of reports of an explosion on Friday 6 February at the Tarlai Imam Bargah of Shahzad Town Police Station jurisdiction in Islamabad. Local authorities have declared a medical emergency. If you are in the immediate area, continue to follow the advice of the local authorities and monitor local media.
+
+British nationals who require urgent consular assistance should call the FCDO on +92 (0) 51 201 2000 or +44 (0) 20 7008 5000.
 
 ## Before you travel
 
@@ -118,8 +122,6 @@ Follow FCDO:
 * [travel advice on Facebook](https://www.facebook.com/FCDOTravel/)
 * [Travel Aware on Instagram](https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Ftravelaware%2F&is_from_rle)
 
-[Next
-:
-Entry requirements](/foreign-travel-advice/pakistan/entry-requirements)
+[Next:Entry requirements](/foreign-travel-advice/pakistan/entry-requirements)
 
 [View a printable version of the whole guide](/foreign-travel-advice/pakistan/print)

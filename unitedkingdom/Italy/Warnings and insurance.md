@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   11 December 2025
+:   7 February 2026
 
 Updated:
-:   10 December 2025
+:   6 February 2026
 
 Latest update:
-:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
+:   Addition of information about increased security ('Winter Olympics' page).
 
 This travel advice also covers Vatican City.
 
@@ -45,8 +45,6 @@ Follow FCDO:
 * [travel advice on Facebook](https://www.facebook.com/FCDOTravel/)
 * [Travel Aware on Instagram](https://www.instagram.com/travelaware/)
 
-[Next
-:
-Entry requirements](/foreign-travel-advice/italy/entry-requirements)
+[Next:Entry requirements](/foreign-travel-advice/italy/entry-requirements)
 
 [View a printable version of the whole guide](/foreign-travel-advice/italy/print)

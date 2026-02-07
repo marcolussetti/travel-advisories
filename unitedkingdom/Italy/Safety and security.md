@@ -18,10 +18,6 @@ Italian authorities have increased security around some Jewish community sites d
 
 Demonstrations can happen with little or no warning in cities. Avoid any protests, political gatherings or marches.
 
-## Jubilee 2025 - Holy Year
-
-Rome expects a high number of visitors throughout the Holy Year of 2025, particularly during large events.
-
 ## Crime
 
 Crime levels are generally low but there are higher levels of petty crime, particularly bag-snatching and pickpocketing, in city centres and at major tourist attractions.
@@ -202,12 +198,8 @@ There are [several active volcanoes in southern Italy](https://rischi.protezione
 
 Read [what to do in the event of a volcanic eruption](https://rischi.protezionecivile.gov.it/en/volcanic/are-you-prepared/) and follow the instructions of the local authorities.
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/italy/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/italy/entry-requirements)
 
-[Next
-:
-Winter Olympics](/foreign-travel-advice/italy/winter-olympics)
+[Next:Winter Olympics](/foreign-travel-advice/italy/winter-olympics)
 
 [View a printable version of the whole guide](/foreign-travel-advice/italy/print)

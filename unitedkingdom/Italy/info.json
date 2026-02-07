@@ -1,11 +1,11 @@
 {
     "name": "Italy",
-    "update_reason": "New information about dual nationals returning to the UK (\u2018Entry requirements\u2019 page).",
+    "update_reason": "Addition of information about increased security ('Winter Olympics' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Italy/Warnings and insurance.md",
-            "update_date": "2025-12-10T12:50:18+00:00"
+            "update_date": "2026-02-06T17:28:48+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Italy/Getting help.md"
         }
     ],
-    "update_date": "2025-12-10T12:50:18+00:00"
+    "update_date": "2026-02-06T17:28:48+00:00"
 }

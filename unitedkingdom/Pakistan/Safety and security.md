@@ -222,12 +222,8 @@ Pakistan can experience flooding and landslides during monsoon season which is u
 
 Earth tremors are common. The US Federal Emergency Management Agency has advice on [what to do before, during and after an earthquake](https://www.ready.gov/earthquakes).
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/pakistan/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/pakistan/entry-requirements)
 
-[Next
-:
-Regional risks](/foreign-travel-advice/pakistan/regional-risks)
+[Next:Regional risks](/foreign-travel-advice/pakistan/regional-risks)
 
 [View a printable version of the whole guide](/foreign-travel-advice/pakistan/print)
