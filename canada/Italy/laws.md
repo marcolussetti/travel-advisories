@@ -68,15 +68,14 @@ If you don’t comply, you may be fined and your drone confiscated.
 
 ### Identification
 
-Authorities may request to see your ID at any time.
+Local authorities may request to see your identification, including your passport, at any time.
 
-* Carry valid identification or a photocopy of it at all times
-* Keep a photocopy of your passport in case it’s lost or seized
-* Keep a digital copy of your identification and travel documents
+* Always carry valid identification
+* Keep a photocopy or a digital copy of your identification and passport in case they are lost or stolen
 
 You will need to present your passport when you check-in to a hotel or other commercial accommodation.
 
-Wait at the reception until the hotel staff has taken the required information from your passport.
+Wait at the reception until the hotel staff has taken the required information from your passport and ensure that your passport is returned to you.
 
 ### Dual citizenship
 

@@ -2,12 +2,6 @@
 
 ## Safety and security
 
-### Demonstrations
-
-Since November 26, 2025, violent demonstrations have taken place across the country. There have been acts of vandalism, arson and clashes leading to injuries.
-
-[More on demonstrations and mass gatherings](https://travel.gc.ca/destinations/bulgaria#demonstrations)
-
 ### Crime
 
 #### Petty crime

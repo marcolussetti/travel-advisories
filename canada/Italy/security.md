@@ -4,9 +4,11 @@
 
 ### Olympic and Paralympic Winter Games
 
-The Milano Cortina Olympic Winter Games will take place across several destinations in northern Italy from February 6-22, followed by the Paralympic Winter Games from March 6-15, 2026.
+The Milano Cortina Olympic Winter Games are taking place across several destinations in northern Italy from February 6-22, followed by the Paralympic Winter Games from March 6-15, 2026.
 
-Demonstrations could take place before and during the Games. Avoid areas where demonstrations are taking place.
+Demonstrations could take place during the Games. Avoid areas where demonstrations are taking place.
+
+Always carry valid identification. Local authorities may request to see your identification, including your passport, at any time. Make sure you keep a copy of your passport in case it’s lost or stolen.
 
 During the Games, especially in areas near the event centres, you should expect:
 

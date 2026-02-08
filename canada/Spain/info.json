@@ -1,7 +1,7 @@
 {
     "name": "Spain",
-    "update_reason": "Health \u2013 editorial change",
-    "update_date": "2026-02-04T10:12:00",
+    "update_reason": "Natural disasters and climate \u2013 updated information on storms Leonardo and Marta",
+    "update_date": "2026-02-06T16:33:00",
     "sections": {
         "risk": "canada/Spain/risk.md",
         "security": "canada/Spain/security.md",

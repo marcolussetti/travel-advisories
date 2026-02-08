@@ -2,17 +2,17 @@
 
 ## Natural disasters and climate
 
-### Storm Leonardo
+### Storms Leonardo and Marta
 
-Heavy rains, snow, strong winds and dangerous coastal waves caused by storm Leonardo are forecast for much of continental Portugal until at least February 4, 2026. A state of emergency is in effect until February 8.
+Heavy rains, flash floods, snow, strong winds and dangerous coastal waves caused by storm Leonardo have affected much of continental Portugal since February 2, 2026. Further severe weather from storm Marta is forecast to continue until at least February 9. A state of emergency is in effect until February 15.
 
-Many of the affected areas are still recovering from damages due to the recent impact of storm Kristin. Storm Leonardo could bring further damage to infrastructure and cause severe disruptions to travel and transportation across the country.
+The storm has caused significant flooding, casualties, and damage to buildings and infrastructure. Many of the affected areas are still recovering from damages due to the recent impact of storm Kristin. Storm Marta could bring further damage to infrastructure and cause severe disruptions to travel and transportation across the country.
 
 If you are in an affected area:
 
 * monitor local news and weather reports
 * confirm your flight status before going to the airport
-* follow the instructions of local authorities
+* follow the instructions of local authorities, including evacuation orders
 
 #### Useful links
 

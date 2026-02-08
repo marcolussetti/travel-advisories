@@ -26,7 +26,7 @@ You should:
 * monitor local and international media to stay informed of the rapidly evolving situation
 * follow the instructions of local authorities at all times
 * be vigilant and prepared to shelter in place
-* Register or update your contact information with the [Registration of Canadians abroad](https://travel.gc.ca/travelling/registration) service to receive the latest information from the Government of Canada
+* Register or update your contact information with the [Registration of Canadians Abroad](https://travel.gc.ca/travelling/registration) service to receive the latest information from the Government of Canada
 
 If you encounter any debris or fragments:
 
@@ -40,7 +40,7 @@ If you encounter any debris or fragments:
 
 ### Security situation in the Gaza Strip
 
-The security situation in the Gaza Strip remains volatile and unpredictable. Your safety is at high risk throughout the Gaza Strip.
+On October 10, 2025, a ceasefire came into effect in the Gaza Strip. However, the situation remains volatile and unpredictable, with continued ceasefire violations and hostilities. Your safety is at high risk throughout the Gaza Strip.
 
 On October 7, 2023, terrorists based in the Gaza Strip carried out a large-scale terrorist attack in Israel, resulting in thousands of casualties. Subsequently, Israel launched a military offensive into the Gaza Strip. The two-year conflict has resulted in tens of thousands of civilian casualties and led to significant damage to civilian infrastructure, such as hospitals and schools.
 
@@ -52,7 +52,7 @@ The limited entry of humanitarian aid has led to severe shortages of basic suppl
 * emergency services
 * medical care and supplies
 
-Travel in and out of the Gaza Strip is extremely limited, including for humanitarian assistance and evacuations.
+Despite the ceasefire, travel into and out of the Gaza Strip is extremely limited, including for humanitarian assistance and evacuations.
 
 Due to infrastructure damage, connectivity in the Gaza Strip may be unstable or unavailable. If possible, try to register or update your personal information through the [Registration of Canadians Abroad service](https://travel.gc.ca/travelling/registration) to receive the latest information, including about departure options. If you are unable to do so, try to contact Global Affairs Canada's 24/7 [Emergency Watch and Response Centre](https://travel.gc.ca/assistance/emergency-assistance?_ga=2.93069341.168187391.1696947682-2043183889.1686925125).
 
@@ -139,7 +139,7 @@ The border area with Egypt is dangerous due to military operations and smuggling
 
 The Israeli Defence Forces regularly patrol the area to intercept drug smugglers resulting in frequent armed clashes.
 
-The Rafah border crossing, which is the only option to cross between the Gaza Strip and Egypt, is controlled jointly by Egyptian and Israeli authorities. It has been closed since May 2024 due to the ongoing conflict in the Gaza Strip. There have been several strikes on the city of Rafah before and after the border crossing closure. In northern Sinai, the security situation can also deteriorate rapidly due to instability and the risk of terrorist attacks.
+The Rafah border crossing, which is the only option to cross between the Gaza Strip and Egypt, is controlled jointly by Egyptian and Israeli authorities. In northern Sinai, the security situation can also deteriorate rapidly due to instability and the risk of terrorist attacks.
 
 Don't drive on:
 

@@ -1,7 +1,7 @@
 {
     "name": "Australia",
-    "update_reason": "Health \u2013 editorial change",
-    "update_date": "2026-02-04T10:12:00",
+    "update_reason": "Natural disasters and climate \u2013 added information on Tropical Cyclone Mitchell",
+    "update_date": "2026-02-06T15:26:00",
     "sections": {
         "risk": "canada/Australia/risk.md",
         "security": "canada/Australia/security.md",
