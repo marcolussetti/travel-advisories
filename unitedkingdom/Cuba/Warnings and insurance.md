@@ -1,17 +1,23 @@
 # Warnings and insurance
 
 Still current at:
-:   31 January 2026
+:   9 February 2026
 
 Updated:
-:   30 January 2026
+:   8 February 2026
 
 Latest update:
-:   Update to information on power outages and fuel shortages ('Warnings and insurance page').
+:   Update to information on fuel shortages ('Warnings and insurance page').
 
 ## Power outages and fuel shortages
 
 Cuba is experiencing serious issues with its national power grid and fuel supply. Prolonged power outages – over 24 hours in some instances – are a daily occurrence across the country, affecting water supply, lighting, refrigeration and communications.  There is also a shortage of fuel affecting transportation and resulting in long queues at petrol stations. The fuel shortage also impacts resorts and businesses which often rely on oil/diesel-powered generators. Take precautions by conserving fuel, water, food and mobile phone charge, and be prepared for significant disruption.
+
+The Cuban government has imposed strict limitations on the purchase of fuel at petrol stations from 7 February 2026. This will impact travel within Cuba.
+
+You will need to factor this into planning for any journey. Diesel fuel cannot be bought in Cuban Pesos or US Dollars. Petrol is currently limited to a maximum purchase of 20 litres.
+
+We understand that some tourists are being relocated to different hotels to maximise fuel consumption from generators. You should contact your tour operator for further details.
 
 ## Before you travel
 
