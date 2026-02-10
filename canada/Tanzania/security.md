@@ -2,45 +2,6 @@
 
 ## Safety and security
 
-### Security situation
-
-On October 29, 2025, general elections took place in Tanzania and Zanzibar.
-
-Violent demonstrations occurred throughout the country, including in Dar es Salaam. The violence led to a large number of casualties.
-
-The possibility of renewed demonstrations and firm responses from security forces remains.
-
-Intermittent disruptions to Internet access, including social media and messaging applications, may occur.
-
-Save or print copies of key information in case of an internet disruption, including:
-
-* itineraries
-* contact details for the Canadian High Commission in Dar es Salaam and the [Emergency Watch and Response Centre in Ottawa](http://travel.gc.ca/assistance/emergency-assistance)
-* emergency numbers
-
-Authorities have strengthened security measures and security forces are present on the streets.
-
-Movement restrictions and military checkpoints may be implemented without notice.
-
-Disruptions to transportation, including international and domestic flights, ferries and rail service may occur.
-
-Police have the authority to search electronic devices, including phones. This may involve examining images and videos that could be considered sensitive by local authorities. Possession of such content could lead to detention.
-
-Foreign nationals may be subject to increased attention from local security forces, and there have been reports of extensive interrogation and temporary detentions. Carry valid identification at all times and comply with local regulations.
-
-The High Commission is not routinely notified of detentions by local authorities and access to detainees may be restricted, limiting our ability to provide consular assistance.
-
-Curfews have been lifted, but may be reinstated with little notice.
-
-If you are in Tanzania:
-
-* avoid demonstrations and large gatherings
-* monitor the media for the latest information
-* follow the instructions of local authorities, including orders on movement restrictions and the sharing of videos or photos deemed sensitive
-* ensure that you have sufficient supplies of cash, medication, food, fuel and water in case you need to shelter in place
-
-[More information on demonstrations](https://travel.gc.ca/destinations/tanzania#demonstrations)
-
 ### Border with Mozambique in the Mtwara region
 
 Extremist groups are active in the northern districts of Cabo Delgado, Mozambique. Security incidents have occurred along the border, in the Mtwara Region. Tanzanian military and security forces conduct counterinsurgency operations in the area where access is controlled in several locations and movements in and out are monitored.
@@ -55,13 +16,13 @@ Exercise a high degree of caution when travelling near refugee camps in northwes
 
 ### Demonstrations
 
-Demonstrations can occur anywhere across the country and sometimes on short notice. Even peaceful demonstrations can turn violent at any time. Protests following the October 29, 2025, election resulted in fatalities. They can also lead to disruptions to traffic and public transportation.
+Demonstrations can occur anywhere across the country and sometimes on short notice. Even peaceful demonstrations can turn violent at any time. Protests following previous elections resulted in fatalities. They can also lead to disruptions to traffic and public transportation.
 
 * Avoid areas where demonstrations and large gatherings are taking place
 * Follow the instructions of local authorities
 * Monitor local media for information on ongoing demonstrations
 
-During periods of unrest, disruptions to movement and essential services may occur. If unrest is anticipated, you should:
+During periods of unrest, disruptions to movement, essential services and Internet access may occur. If unrest is anticipated, you should:
 
 * ensure to have enough cash for essential expenses
 * always keep your gas tank at least half full
@@ -71,6 +32,12 @@ During periods of unrest, disruptions to movement and essential services may occ
 * store important documents securely and ensure they are easily accessible
 * be aware of nearby medical facilities and ensure you have necessary prescriptions
 * inform a trusted contact of your movements
+
+You should also save or print key information in case of an internet disruption, including:
+
+* itineraries
+* contact details for the Canadian High Commission in Dar es Salaam and the [Emergency Watch and Response Centre](http://travel.gc.ca/assistance/emergency-assistance) in Ottawa
+* emergency numbers
 
 [Mass gatherings (large-scale events)](https://travel.gc.ca/travelling/health-safety/mass-gatherings)
 

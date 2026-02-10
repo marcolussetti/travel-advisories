@@ -4,24 +4,23 @@
 
 ### Cyclones
 
-Tropical Cyclone Fytia swept across northern Madagascar on January 31, 2026.
+On February 10, 2026, Tropical Cyclone Gezani is expected to make landfall on the eastern coast of Madagascar near Toamasina (Tamatave), between Mananara Nord and Vatomandry before sweeping across central Madagascar on February 11, 2026.
 
-The storm brought excessive rainfall and violent winds. It caused damage to buildings and infrastructure.
-
-Fytia caused flooding and there are significant disruptions to the following essential services:
+The storm is likely to bring excessive rainfall and violent winds. It may cause flash flooding and landslides and could severely disrupt the following essential services:
 
 * transportation
 * power distribution
 * emergency services
 * medical care
 
-If you are in northern Madagascar:
+If you are in Madagascar:
 
-* exercise caution
+* exercise caution avoid flooded roads and low-lying areas
 * monitor local news and weather reports
-* follow the instructions of local authorities
+* confirm the status of roads with local authorities before travelling
+* follow the instructions of local authorities, including evacuation orders
 
-[Weather forecast](https://www.meteomadagascar.mg/) – Madagascar National Weather Service
+[Weather forecast](https://www.meteomadagascar.mg/) – Madagascar National Weather Service (in French only)
 
 The cyclone season occurs from November to April.
 

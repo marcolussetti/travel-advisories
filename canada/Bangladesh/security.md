@@ -12,11 +12,9 @@ Even peaceful gatherings can occasionally lead to disruptions or affect traffic 
 
 February 11 and 12, 2026, have been declared national holidays and restrictions on transportation nationwide have been announced.
 
-The High Commission of Canada in Dhaka will have limited services available on February 11 and 12.
-
 If you are in Bangladesh:
 
-* avoid demonstrations and large gatherings
+* avoid demonstrations, large gatherings and areas where police or security forces are present
 * expect an increased presence of security forces
 * monitor local and international media for the latest information
 * follow the instructions of local authorities
