@@ -24,13 +24,17 @@ Irish citizens are advised against all travel within 20 kilometres of the border
 
 Most visits to Tanzania are trouble-free but armed crime is increasing so take sensible precautions, and exercise caution, especially in popular tourist areas in Dar es Salaam and Zanzibar. Muggings, bag grabs from passing motorbikes, and robberies including forced ATM withdrawals, sometimes accompanied by violence or the threat of violence, have increased throughout Tanzania and Zanzibar, especially in areas frequented by backpackers and expatriates such as the Peninsula area of Masaki in Dar es Salaam.
 
-Muggings, bag grabs from passing cars and motorbikes, and robberies including forced ATM withdrawals - sometimes accompanied by violence or the threat of violence - have increased throughout Tanzania and Zanzibar, especially in areas frequented by backpackers and expatriates.
+Muggings, bag grabs from passing cars and motorbikes, and robberies have increased throughout Tanzania and Zanzibar, especially in areas frequented by backpackers and expatriates. In Dar es Salaam, tourists have been ‘express kidnapped’. This means they’ve been assaulted and forced through threats of violence to withdraw cash from ATMs. Be wary of unlicensed taxis or strangers offering rides. Arrange taxis through your hotel or on official apps.
 
+Incidents of assault, rape and sexual aggression against foreigners have occurred, including at beach resorts.
+
+* Avoid walking home alone at night and avoid walking in isolated areas alone.
+* Do not leave drinks unattended.
+* Be wary when dealing with strangers, and anyone offering rides or other invitations.
 * Do not carry your credit cards, travel tickets and money together
 * Do not make yourself an obvious target for muggers and pickpockets – leave spare cash and expensive-looking jewellery or watches in a safe place
 * Do not carry your passport unless absolutely necessary, rather carry a copy for ID purposes, and leave a copy of your passport (as well as travel and insurance documents) with family or friends at home
 * Do not use ATMs after dark, especially if alone. Check no one has followed you after conducting your business
-* Avoid walking alone, especially in isolated areas and on beaches and particularly after dark
 * Walk as far from the road side as possible to avoid bag snatching. If you need to walk alongside the road, walk towards the traffic
 * Keep a close eye on personal belongings and hold on to them in public places such as internet cafes, train and bus stations
 * If carrying a bag when walking it is safer to hold it loosely by the handle or hanging off your shoulder rather than by securing the strap across your chest
