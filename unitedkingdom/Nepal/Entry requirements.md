@@ -67,12 +67,8 @@ You will need to convert all your Nepali currency before you leave Nepal, and th
 
 ATMs are not reliable outside main tourist sites.
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/nepal)
+[Previous:Warnings and insurance](/foreign-travel-advice/nepal)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/nepal/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/nepal/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/nepal/print)

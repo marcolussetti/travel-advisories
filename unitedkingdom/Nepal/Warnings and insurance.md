@@ -1,13 +1,30 @@
 # Warnings and insurance
 
 Still current at:
-:   11 December 2025
+:   10 February 2026
 
 Updated:
-:   10 December 2025
+:   9 February 2026
 
 Latest update:
-:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
+:   Information added on risk of protests, political violence and travel disruption ahead of the general election on 5 March ('Warnings and insurance' page).
+
+## General election
+
+There is a risk of protests, political violence and travel disruption ahead of the general election scheduled for 5 March 2026.
+
+Protests can start at short notice and may lead to clashes between police and protestor groups.
+
+Before and during the election, there may be restrictions on travel across much of Nepal. On election day, only essential travel is likely to be allowed and businesses may close. International and domestic flights are expected to continue, but disruption is possible. It is likely that Nepal’s land border crossings will close in the lead up to the election and on 5 March.
+
+Authorities may increase police presence and could impose curfews.
+
+You should:
+
+* stay away from polling stations, political rallies and demonstrations, including around political party offices, high profile government buildings and the Maitighar Mandala area of Kathmandu
+* check local media for updates
+* follow the direction of local authorities (including security forces deployed for elections)
+* check for messaging from your hotel, airline or tour operator on any potential disruption to travel plans on or around polling day
 
 ## Before you travel
 
@@ -37,8 +54,6 @@ Follow FCDO:
 * [travel advice on Facebook](https://www.facebook.com/FCDOTravel/)
 * [Travel Aware on Instagram](https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Ftravelaware%2F&is_from_rle)
 
-[Next
-:
-Entry requirements](/foreign-travel-advice/nepal/entry-requirements)
+[Next:Entry requirements](/foreign-travel-advice/nepal/entry-requirements)
 
 [View a printable version of the whole guide](/foreign-travel-advice/nepal/print)

@@ -70,16 +70,16 @@ Lake Nyos in the North-West Region emitted carbon dioxide in 1986, suffocating a
 
 FCDO advises against all but essential travel to Limbé and the 35km stretch of N3 road connecting Limbé to the Littoral Region in Fako Division, South-West Region.
 
-## North Region, Adamawa Region and Maroua
+## North Region, and Maroua
 
-FCDO advises against all but essential travel to the rest of North and Adamawa regions, including Garoua in North Region, and a 20km radius to the north, east and west of Maroua, and 30km south of Maroua, in Far-North Region.
+FCDO advises against all but essential travel to the  North Region, including Garoua,, and a 20km radius to the north, east and west of Maroua, and 30km south of Maroua, in Far-North Region.
 
-[Previous
-:
-Safety and security](/foreign-travel-advice/cameroon/safety-and-security)
+## Adamawa Region
 
-[Next
-:
-Health](/foreign-travel-advice/cameroon/health)
+FCDO advises against all but essential travel to within 20km of the border with the North region of Cameroon. FCDO advises against all travel to within 40km of the Central African Republic (CAR) and Nigeria borders.
+
+[Previous:Safety and security](/foreign-travel-advice/cameroon/safety-and-security)
+
+[Next:Health](/foreign-travel-advice/cameroon/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/cameroon/print)

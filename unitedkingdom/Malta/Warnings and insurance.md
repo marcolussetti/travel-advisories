@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   22 January 2026
+:   10 February 2026
 
 Updated:
-:   21 January 2026
+:   9 February 2026
 
 Latest update:
-:   Removal of information on severe weather warnings for Malta on 19 and 20 January.
+:   Updated information about the risks from terrorism ('Safety and security' page).
 
 ## Before you travel
 

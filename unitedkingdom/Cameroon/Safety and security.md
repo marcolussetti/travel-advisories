@@ -151,12 +151,8 @@ Camair-Co is the only local airline operating between some of the major cities. 
 
 Check whether your tour operator has concerns about airlines in Cameroon.
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/cameroon/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/cameroon/entry-requirements)
 
-[Next
-:
-Regional risks](/foreign-travel-advice/cameroon/regional-risks)
+[Next:Regional risks](/foreign-travel-advice/cameroon/regional-risks)
 
 [View a printable version of the whole guide](/foreign-travel-advice/cameroon/print)

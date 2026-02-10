@@ -61,8 +61,6 @@ Follow FCDO:
 
 The Overseas Business Risk service offers [information and advice for British companies operating in Cameroon](https://www.gov.uk/government/publications/cameroon-overseas-business-risk) on how to manage political, economic, and business security-related risks.
 
-[Previous
-:
-Health](/foreign-travel-advice/cameroon/health)
+[Previous:Health](/foreign-travel-advice/cameroon/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/cameroon/print)

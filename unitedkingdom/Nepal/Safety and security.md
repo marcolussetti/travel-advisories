@@ -192,12 +192,8 @@ Building, fire and electrical protection standards in Nepal are not always the s
 
 Be aware of the risks of exposure to carbon monoxide. Carbon monoxide is a highly poisonous gas that is impossible to detect without an alarm. It can be produced by fires, charcoal grills or incorrectly installed gas equipment, and a lack of appropriate ventilation is dangerous. Find out more about [how to stay safe and the symptoms to look out for](https://www.energy-uk.org.uk/customers/carbon-monoxide/).
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/nepal/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/nepal/entry-requirements)
 
-[Next
-:
-Health](/foreign-travel-advice/nepal/health)
+[Next:Health](/foreign-travel-advice/nepal/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/nepal/print)

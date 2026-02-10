@@ -1,18 +1,18 @@
 # Warnings and insurance
 
 Still current at:
-:   11 December 2025
+:   10 February 2026
 
 Updated:
-:   10 December 2025
+:   9 February 2026
 
 Latest update:
-:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
+:   FCDO no longer advises against all but essential travel to the majority of Adamawa Region. FCDO continues to advise against all but essential or all travel to parts of Cameroon.
 
-![](https://assets.publishing.service.gov.uk/media/639343a4e90e0769b63df154/FCDO__TA__008_-_Cameroon_Travel_Advice_Ed5__WEB_.jpg)
+![](https://assets.publishing.service.gov.uk/media/698a079585bc7d6ba0fbc82e/FCDO__TA__008_-_Cameroon_Travel_Advice_Ed6__WEB_.jpg)
 
 
-[Download a more detailed map (PDF, 650 KB)](https://assets.publishing.service.gov.uk/media/639343a4e90e0769b63df155/FCDO__TA__008_-_Cameroon_Travel_Advice_Ed5.pdf)
+[Download a more detailed map (PDF, 537 KB)](https://assets.publishing.service.gov.uk/media/698a0796cfe7ccf77efbc842/Updated_Travel_Advice_Map_Adamawa_Cameroon.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
@@ -58,7 +58,11 @@ FCDO advises against all but essential travel to Limbé and the 35km stretch of 
 
 ### North Region, Adamawa Region and Maroua
 
-FCDO advises against all but essential travel to the rest of North and Adamawa regions, including Garoua in North Region, and a 20km radius to the north, east and west of Maroua, and 30km south of Maroua, in Far-North Region.
+FCDO advises against all but essential travel to the North Region, including Garoua,, and a 20km radius to the north, east and west of Maroua, and 30km south of Maroua, in Far-North Region.
+
+### Adamawa Region
+
+FCDO advises against all but essential travel to within 20km of the border with the North region of Cameroon. FCDO advises against all travel to within 40km of the Central African Republic (CAR) and Nigeria borders.
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/cameroon/regional-risks).
 
@@ -94,8 +98,6 @@ Follow FCDO:
 * [travel advice on Facebook](https://www.facebook.com/FCDOTravel/)
 * [Travel Aware on Instagram](https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Ftravelaware%2F&is_from_rle)
 
-[Next
-:
-Entry requirements](/foreign-travel-advice/cameroon/entry-requirements)
+[Next:Entry requirements](/foreign-travel-advice/cameroon/entry-requirements)
 
 [View a printable version of the whole guide](/foreign-travel-advice/cameroon/print)

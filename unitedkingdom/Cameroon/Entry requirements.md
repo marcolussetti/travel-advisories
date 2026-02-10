@@ -44,12 +44,8 @@ For more details about medical entry requirements and recommended vaccinations, 
 
 There are strict rules [about goods you can take into or out of Cameroon](http://www.douanes.cm/douanes-cameroun/en/home-page-01-english/). You must declare anything that may be prohibited or subject to tax or duty.
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/cameroon)
+[Previous:Warnings and insurance](/foreign-travel-advice/cameroon)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/cameroon/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/cameroon/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/cameroon/print)

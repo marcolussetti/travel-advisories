@@ -58,6 +58,10 @@ Some demanding mountain trails can include sections of via ferrata (steel wires 
 
 For mountain rescue, call 112.
 
+### Wild camping
+
+Wild camping is illegal in Slovenia. Only camp in registered campsites, or if you are travelling with a camper van or motorhome in a designated camper stop (“Parking za avtodome”, also known as “PZA”). Fines for illegal camping depend upon the local municipality or authority and can range from 40 to 500 euros. Enforcement is especially strict in national parks, including Triglav National Park.
+
 ## Transport risks
 
 ### Road travel
@@ -124,12 +128,8 @@ During especially hot and dry periods there is a risk of wildfires. It’s illeg
 
 Western Slovenia is on an earthquake fault line and is subject to occasional tremors. The US Federal Emergency Management Agency website has advice about [what to do before, during and after an earthquake](https://www.ready.gov/earthquakes).
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/slovenia/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/slovenia/entry-requirements)
 
-[Next
-:
-Health](/foreign-travel-advice/slovenia/health)
+[Next:Health](/foreign-travel-advice/slovenia/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/slovenia/print)

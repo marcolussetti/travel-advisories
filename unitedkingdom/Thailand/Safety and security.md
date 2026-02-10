@@ -132,7 +132,9 @@ Some British nationals have suffered severe psychiatric problems because of drug
 
 ### Cannabis
 
-Do not carry cannabis out of Thailand. While low-strength cannabis is legal in Thailand, cannabis of any strength may be illegal in other countries you travel to.
+Cannabis use in Thailand is restricted to medical purposes only. You must not buy, possess or use it without a Thai-issued medical prescription, which is limited to a 30-day supply. Recreational use remains illegal.
+
+Do not carry cannabis out of Thailand. Cannabis of any strength may be illegal in other countries you travel to.
 
 Criminal gangs are known to pressure people into carrying drugs. Always pack your own luggage and do not carry anything through customs for someone else. British nationals have been caught carrying cannabis out of Thailand.
 

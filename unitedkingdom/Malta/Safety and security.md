@@ -8,7 +8,7 @@ UK Counter Terrorism Policing has information and advice on [staying safe abroa
 
 ### Terrorism in Malta
 
-Terrorist attacks in Malta cannot be ruled out.
+Although there’s no recent history of terrorism in Malta, attacks cannot be ruled out.
 
 You should be aware of the global risk of indiscriminate terrorist attacks, which could be in public places, including those visited by foreigners.
 

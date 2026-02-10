@@ -1,11 +1,11 @@
 {
     "name": "Thailand",
-    "update_reason": "New information on alcohol restrictions during the General election period (see \u2018Warnings and insurance\u2019 page).",
+    "update_reason": "Updated information on the status of cannabis on Thailand (see \u2018Cannabis\u2019 on the \u2018Safety and security\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Thailand/Warnings and insurance.md",
-            "update_date": "2026-02-04T14:34:57+00:00"
+            "update_date": "2026-02-09T09:50:28+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Thailand/Getting help.md"
         }
     ],
-    "update_date": "2026-02-04T14:34:57+00:00"
+    "update_date": "2026-02-09T09:50:28+00:00"
 }

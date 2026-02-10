@@ -161,7 +161,7 @@ If you see a wildfire, call the emergency services on 112. Follow any advice fro
 
 ### Flooding
 
-Parts of Bosnia and Herzegovina are currently severely affected by heavy snowfall. In other areas, rainfall and snowmelt have increased the risk of flooding and landslides. Road and rail links may be affected. Check and follow advice from local authorities.
+Rainfall and snowmelt have increased the risk of flooding and landslides. Road and rail links may be affected. Check and follow advice from local authorities.
 
 Flash floods and landslides are a risk in all parts of Bosnia and Herzegovina after heavy rain. Follow instructions from local officials and traffic police.
 

@@ -1,17 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   21 January 2026
+:   10 February 2026
 
 Updated:
-:   20 January 2026
+:   9 February 2026
 
 Latest update:
-:   Updated information about risks from flooding in Mpumalanga and Limpopo provinces, including Kruger National Park (‘Warnings and insurance’ page).
-
-## Flooding in Mpumalanga and Limpopo provinces
-
-The provinces of Mpumalanga and Limpopo (including Kruger National Park) have experienced severe flooding. Some roads and bridges remain dangerous or impassable. Some areas of Kruger National Park remain closed or inaccessible. Check with your travel or accommodation provider about your options and reconsider your itinerary if necessary. Plan your trip in advance and ensure routes are safe and accessible. Be aware roads may close at short notice. Follow guidance from local authorities and SAN Parks.
+:   Removal of information about risks from flooding in Mpumalanga and Limpopo provinces, including Kruger National Park (‘Warnings and insurance’ page).
 
 ## Before you travel
 

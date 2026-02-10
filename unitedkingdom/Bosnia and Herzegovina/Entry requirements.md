@@ -40,10 +40,6 @@ If you want to stay longer than 90 days within a 6-month period, apply for a res
 
 For more information, see the Bosnia and Herzegovina government’s page about [residency and work permits](https://sps.gov.ba/?page_id=2491&lang=en).
 
-## Land border crossings
-
-Protests by transport associations at some land border crossings in the Western Balkans have the potential to cause significant delays. If you are planning cross-border travel, check local media before travelling and plan ahead to avoid disruption to your journey.
-
 ## Vaccine requirements
 
 For details about medical entry requirements and recommended vaccinations, see [TravelHealthPro’s Bosnia and Herzegovina guide](https://travelhealthpro.org.uk/country/32/bosnia-and-herzegovina#Vaccine_Recommendations).

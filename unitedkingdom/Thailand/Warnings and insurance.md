@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   5 February 2026
+:   10 February 2026
 
 Updated:
-:   4 February 2026
+:   9 February 2026
 
 Latest update:
-:   New information on alcohol restrictions during the General election period (see ‘Warnings and insurance’ page).
+:   Updated information on the status of cannabis on Thailand (see ‘Cannabis’ on the ‘Safety and security’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/6980b4383915f7123658010e/FCDO__TA__040_-_Thailand_Travel_Advice_Ed8__WEB_.jpg)
 
@@ -36,17 +36,6 @@ This is due to regular attacks in the provinces by the border with Malaysia. See
 FCDO advises against all but essential travel to within 20km of the land border with Cambodia.
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/thailand/safety-and-security#terrorism).
-
-## General election and alcohol restrictions
-
-Thailand will hold a General Election on 8 February 2026. A nationwide ban on the sale and distribution of alcohol will be in place from 6pm on 7 February until 6pm on 8 February.
-
-During this period:
-
-* public consumption of alcohol is prohibited, including at social gatherings
-* the restrictions apply to convenience stores, bars, restaurants, and entertainment venues, both public and private
-
-If you do not comply with these restrictions, you could face fines of up to 10,000 baht and up to 6 months’ imprisonment.
 
 ## Thailand-Cambodia border
 
