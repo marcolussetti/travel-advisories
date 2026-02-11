@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   15 January 2026
+:   11 February 2026
 
 Updated:
-:   14 January 2026
+:   10 February 2026
 
 Latest update:
-:   There is a heightened risk of regional tension. Escalation could lead to travel disruption and other unanticipated impacts (‘Warnings and insurance’ page).
+:   Addition of information about travel bans (‘Entry requirements’ page).
 
 ## Regional risks
 

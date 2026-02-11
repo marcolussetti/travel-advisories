@@ -1,11 +1,11 @@
 {
     "name": "Cuba",
-    "update_reason": "Update to information on fuel shortages ('Warnings and insurance page').",
+    "update_reason": "Update to information on aviation fuel shortages and availability of care at hospitals ('Warnings and insurance page')",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Cuba/Warnings and insurance.md",
-            "update_date": "2026-02-08T13:21:55+00:00"
+            "update_date": "2026-02-10T20:04:16+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Cuba/Getting help.md"
         }
     ],
-    "update_date": "2026-02-08T13:21:55+00:00"
+    "update_date": "2026-02-10T20:04:16+00:00"
 }

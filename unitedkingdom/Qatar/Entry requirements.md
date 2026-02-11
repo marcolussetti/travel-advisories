@@ -27,6 +27,10 @@ If you need to stay longer than 30 days, you must extend your visa waiver before
 
 There is more information on visa requirements and extensions on the [Qatar Ministry of Interior website](https://portal.moi.gov.qa/qatarvisas).
 
+### Travel bans
+
+If you are subject to a travel ban, involved in legal proceedings, have unpaid debt or are a child subject to a custody dispute, you may be prevented from leaving Qatar by the Qatari authorities.
+
 ### Transit passengers
 
 At the airport, all bags are scanned. Transit passengers found with even residual amounts of drugs may be arrested. This includes drugs which may be legal in other countries, but not in Qatar.
