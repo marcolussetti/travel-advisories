@@ -2,32 +2,6 @@
 
 ## Safety and security
 
-### Presidential elections
-
-Political tensions are high following the presidential elections of January 15, 2026. Violent incidents have occurred.
-
-Demonstrations may continue to take place after the elections.
-
-Even peaceful demonstrations can turn violent at any time. They can also lead to disruptions to traffic and public transportation.
-
-During periods of heightened tensions, local authorities may increase security measures, including movement restrictions and curfews.
-
-There are significant disruptions to telecommunications and Internet access, including social media and messaging applications. The Government of Uganda has imposed import restrictions on Starlink satellite internet equipment.
-
-Have a communication plan with your important contacts and save or print copies of key information in case of an Internet disruption, including:
-
-* itineraries
-* contact details for the Canadian High Commission in Nairobi, Kenya and the [Emergency Watch and Response Centre in Ottawa](http://travel.gc.ca/assistance/emergency-assistance)
-* emergency numbers
-
-If you are in Uganda:
-
-* avoid demonstrations and large gatherings
-* expect an increased security presence and additional security measures
-* follow the instructions of local authorities, including orders on movement restrictions
-* monitor the media for the latest information
-* ensure that you have sufficient supplies of cash, medication, food, fuel and water in case you need to shelter in place
-
 ### Border with the Democratic Republic of Congo
 
 The volatile security situation in the eastern part of neighbouring Democratic Republic of Congo (DRC) could lead to possible incursions into western Uganda by armed rebel groups from the DRC.
@@ -114,10 +88,13 @@ Taxi and matatu (minibus) operators have robbed their passengers and stranded th
 
 ### Demonstrations
 
-Demonstrations may occur. Even peaceful demonstrations can turn violent at any time. They can also lead to disruptions to traffic and public transportation.
+Political and social tensions remain high in Uganda. Demonstrations can occur and turn violent at any time. In the past, security forces have used excessive force to disperse crowds, including tear gas, water cannons, rubber bullets and, in some cases, live ammunition. Protesters have been arrested, detained or abducted.
+
+During periods of civil unrest, telecommunications and Internet access may be disrupted. Demonstrations can also lead to disruptions to traffic and public transportation.
 
 * Avoid areas where demonstrations and large gatherings are taking place
-* Follow the instructions of local authorities
+* Expect an increased security presence and additional security measures
+* Follow the instructions of local authorities, including orders on movement restrictions
 * Monitor local media for information on ongoing demonstrations
 
 [Mass gatherings (large-scale events)](https://travel.gc.ca/travelling/health-safety/mass-gatherings)

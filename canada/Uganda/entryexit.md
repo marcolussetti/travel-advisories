@@ -55,6 +55,16 @@ Canadians intending to work in Uganda should insist that the employer ascertain 
 
 [Apply for an electronic visa](https://visas.immigration.go.ug/) - Uganda’s e-immigration system
 
+### Restricted items
+
+The importation of electronic equipment is strictly controlled in Uganda.
+
+Starlink terminals are prohibited, and other electronic devices, such as drones, may require a permit before they can be brought into the country.  
+
+If you attempt to enter Uganda with prohibited items or without official authorization, customs officials may confiscate your belongings. You could also face arrest and detention. Any items confiscated on entry may not be returned.
+
+Contact the Ugandan High Commission or the nearest Ugandan consulate prior to departure for up-to-date information on customs requirements.
+
 ### Children and travel
 
 Learn about [travelling with children](http://travel.gc.ca/travelling/children).

@@ -1,7 +1,7 @@
 {
     "name": "Uganda",
-    "update_reason": "Health \u2013 editorial change",
-    "update_date": "2026-02-04T10:12:00",
+    "update_reason": "Safety and security \u2013 removed information on the post-electoral security situation; updated information on demonstrations; Entry and exit requirements \u2013 added information on restricted items",
+    "update_date": "2026-02-10T15:18:00",
     "sections": {
         "risk": "canada/Uganda/risk.md",
         "security": "canada/Uganda/security.md",
