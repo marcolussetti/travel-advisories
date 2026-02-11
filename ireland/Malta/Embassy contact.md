@@ -2,7 +2,17 @@
 
 Please note that if you require assistance in the case of emergency while the Embassy is closed, contact the Duty Officer on 00356 99058895.
 
-Monday to Friday 08:20-12:30 and 13:30-16:30
+The Embassy’s public office is open on an appointment basis as indicated below.
+
+**Monday:** 09:00-12:30 and 14:00-16:00
+
+**Tuesday:** 09:00-12:30 and 14:00-16:00
+
+**Wednesday:** 09:00-12:30 (mornings only)
+
+**Thursday:** 09:00-12:30 and 14:00-16:00
+
+**Friday:** 09:00-12:30 and 14:00-16:00.
 
 ### Embassy of Ireland, Malta
 

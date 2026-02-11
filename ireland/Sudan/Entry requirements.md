@@ -2,7 +2,7 @@
 
 ### **Visas**
 
-Irish citizens require a visa to enter Sudan. If you are unsure about the entry requirements for Sudan, including visa and other immigration information, ask your travel agent or contact the Embassy of Sudan in London.
+Irish citizens require a visa to enter Sudan. If you are unsure about the entry requirements for Sudan, including visa and other immigration information, contact the Embassy of Sudan in London.
 
 ### **Passports**
 

@@ -10,7 +10,7 @@ Following violent clashes and protests on 8 September 2025, restrictions and cur
 
 While calm has been restored to much of the country following the appointment of an interim prime minister, the situation remains volatile.
 
-National elections will take place in Nepal in March 2026, and it is likely that there will be an increase in rallies, protests and demonstrations, with the risk of further violent clashes as a result. Irish citizens are advised to avoid public demonstrations, exercise caution in public places, stay alert, monitor local news reports and follow the advice of local authorities.
+National elections will take place in Nepal on 5 March 2026. There may be restrictions on travel across much of Nepal throughout the election period. Some disruption to domestic and international air travel is also possible. There will be an increase in rallies, protests and demonstrations, with the risk of further violent clashes as a result. Irish citizens are advised to avoid public demonstrations, exercise caution in public places, stay alert, monitor local news reports and follow the advice of local authorities.
 
 Those who have not already done so should register their details and those of their dependents [here](https://www.ireland.ie/en/dfa/overseas-travel/citizens-registration/).
 
