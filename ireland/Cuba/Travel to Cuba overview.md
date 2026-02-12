@@ -2,25 +2,33 @@
 
 ### **Security Status**
 
-Normal Precautions
+Avoid Non-Essential Travel
 
-### **Mosquito-borne diseases**
+### Travel Alert
 
-There are currently a number of reported instances of Dengue and Chikungunya in Cuba. Take precautions to avoid or prevent mosquito and other insect bites. Additionally, it is difficult to access repellent in Cuba.
+#### **Fuel Shortages and Power Outages**
 
-**Power Outage**
+Challenges to the importation of fuel are compounding ongoing issues with Cuba’s national power grid. There are often prolonged power outages across the country, sometimes lasting over 24 hours. Power outages affect water supply, lighting, refrigeration and communications.
 
-Cuba has recently experienced several nationwide electrical grid shutdowns (most recently in March). A schedule of outages remains in place to restrict electricity usage.
+Access to fuel can be very difficult, with long queues at petrol stations not uncommon. Petrol is currently limited to a maximum purchase of 20 litres. Businesses reliant on backup generation are also experiencing difficulties. In response to the fuel shortage, guests have been moved from the resorts they have booked to other hotels, to maximise efficient use of available power.
 
-While in Cuba, you should take the necessary precautions, including conserving water and food and keeping your mobile phone charged. Please monitor local media for updates, including on power cut schedules.
+Cuba has advised that for the present airlines cannot refuel on the island. This has seen some routes cancelled. Some others have introduced refuelling stops elsewhere in the Caribbean. Yet more – short haul routes – are flying with sufficient fuel onboard to make their return journey.
+
+Hospitals and clinics are also impacted, which may limit the availability of medical care.
+
+While in Cuba, you should take the necessary precautions, including conserving water and food and keeping your mobile phone charged. Please monitor local media for updates, including on power cut schedules, and stay in touch with your airline or travel agent.
+
+#### **Mosquito-borne diseases**
+
+There are currently a number of reported instances of Dengue and Chikungunya in Cuba. Take precautions to avoid or prevent mosquito and other insect bites. Additionally, it is difficult to access repellent in Cuba. You may wish to bring a personal first-aid kit while travelling in country.
 
 ### **General Travel Advice**
 
 Irish citizens do not require a visa to enter Cuba but will need to acquire a tourist card. In addition to advice from airline or travel operators who may be able to provide this, more information on the card is available [**here**](https://misiones.cubaminrex.cu/en/ireland/consular-services#visa_turismo). Dual citizens (Irish-Cuban), should contact the Cuban Embassy for advice on entry requirements before undertaking travel.
 
-A valid passport is required for travel to Cuba, and Irish passports should have a minimum validity of 6 months. Passport cards cannot be used. Please note that travelling to Cuba will impact on travel and entry to the United States – please see ‘US Travel’ section below.
+A valid passport is required for travel to Cuba, and Irish passports should have a minimum validity of 6 months. Passport cards cannot be used. Please note that **travelling to Cuba will impact on travel and entry to the United States** – please see ‘US Travel’ section below.
 
-The arrival form on the [D’Viajeros traveller information portal](https://dviajeros.mitrans.gob.cu/inicio) must be completed at least 72 hours prior to arrival. A QR code will be issued to present to authorities on arrival.
+The arrival form on the [**D’Viajeros traveller information portal**](https://dviajeros.mitrans.gob.cu/inicio) must be completed at least 72 hours prior to arrival. A QR code will be issued to present to authorities on arrival.
 
 Irish citizens in Cuba most frequently need consular assistance due to difficulties using debit/credit/cash point cards and exchanging money in Cuba. Please see our “additional information” section for further details. The Cuban Peso (CUP or moneda nacional) is the only legal tender in Cuba. Visitors should bring cash (eg: Euros) to Cuba, and use reputable bureaus de change (Cadecas), their hotel or a bank to exchange this money. Private hotels, bars and restaurants may accept cash payments in foreign currency. See our Additional Information Section for further information.
 
@@ -30,7 +38,7 @@ Before travelling to Cuba, you must have comprehensive travel insurance that wil
 
 ### **US Travel**
 
-On 12 January 2021, the United States designated Cuba a State Sponsor of Terrorism (more information available on the US State Department’s website [**here**](https://www.state.gov/state-sponsors-of-terrorism/)). Travellers who have visited a country designated as State Sponsor of Terrorism are no longer eligible to participate in the Visa Wavier Program (ESTA), and must apply for a visa to enter the United States. If you have any doubts about your eligibility for an ESTA, we advise Irish citizens to apply in good time for a US visa through the US Embassy in Dublin or another US embassy or consulate.
+On 12 January 2021, the **United States designated Cuba a State Sponsor of Terrorism** (more information available on the US State Department’s website [**here**](https://www.state.gov/state-sponsors-of-terrorism/)). **Travellers who have visited a country designated as State Sponsor of Terrorism are no longer eligible to participate in the Visa Wavier Program (ESTA), and must apply for a visa to enter the United States.** If you have any doubts about your eligibility for an ESTA, we advise Irish citizens to apply in good time for a US visa through the US Embassy in Dublin or another US embassy or consulate.
 
 From 7 July 2023, existing ESTAs will be revoked for travellers who have visited Cuba on or after 12 January 2021.
 
