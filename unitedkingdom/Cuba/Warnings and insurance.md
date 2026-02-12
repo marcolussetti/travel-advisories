@@ -1,25 +1,26 @@
 # Warnings and insurance
 
 Still current at:
-:   11 February 2026
+:   12 February 2026
 
 Updated:
-:   10 February 2026
+:   11 February 2026
 
 Latest update:
-:   Update to information on aviation fuel shortages and availability of care at hospitals ('Warnings and insurance page')
+:   FCDO now advises against all but essential travel to Cuba
+
+![](https://assets.publishing.service.gov.uk/media/698cc89184cc2df4a87123d5/FCDO__TA__103_-_Cuba_Travel_Advice_Ed1__WEB_.jpg)
+
+
+[Download a more detailed map (PDF, 987 KB)](https://assets.publishing.service.gov.uk/media/698cdf66547c54ae7c02369a/FCDO__TA__103_-_Cuba_Travel_Advice_Ed1.pdf)
+
+## FCDO advises against all but essential travel to Cuba
 
 ## Power outages and fuel shortages
 
-Cuba is experiencing serious issues with its national power grid and fuel supply. Prolonged power outages – over 24 hours in some instances – are a daily occurrence across the country, affecting water supply, lighting, refrigeration and communications.  Take precautions by conserving fuel, water, food and mobile phone charge, and be prepared for significant disruption.
+Cuba is experiencing severe and worsening disruption to essential infrastructure, persistent nationwide power outages and fuel shortages. These conditions significantly affect the ability of visitors to access reliable transport, medical care, communications, and basic services.  Authorities have introduced fuel rationing, scaled back public services, and made temporary changes to healthcare, education, transport and tourism operations in order to conserve severely limited energy supplies.  Flight schedules are also being disrupted due to aviation fuel shortages, with some airlines reviewing routes or temporarily cancelling services which risk visitors being unable to leave the country.
 
-There are long queues at petrol stations. The Cuban government has imposed strict limitations on the purchase of fuel  from 7 February 2026. Diesel sales have been temporarily discontinued. Petrol is currently limited to a maximum purchase of 20 litres. This will impact travel within Cuba and you should factor this into planning for any journey.
-
-Resorts and businesses which often rely on oil/diesel-powered generators are also impacted. We understand that some tourists are being relocated to different hotels to maximise fuel consumption.  You should contact your tour operator for further details.
-
-Aviation fuel shortages in Cuba’s airports are leading some airlines to review their schedules and consider refuelling in other nearby destinations. Three Canadian airlines have temporarily cancelled travel to Cuba but will return their existing customers from Cuba. European airlines are operating but making plans to refuel elsewhere. You should contact your airline or tour operator for further details.
-
-Some hospitals have postponed routine medical treatment but are continuing to provide services for urgent care.
+If you are currently in Cuba, carefully consider if your presence is essential. Take precautions by conserving fuel, water, food and mobile phone charge, and be prepared for significant disruption.  Check for messaging from your airline or tour operator.
 
 ## Before you travel
 

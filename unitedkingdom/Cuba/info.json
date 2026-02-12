@@ -1,11 +1,11 @@
 {
     "name": "Cuba",
-    "update_reason": "Update to information on aviation fuel shortages and availability of care at hospitals ('Warnings and insurance page')",
+    "update_reason": "FCDO now advises against all but essential travel to Cuba",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Cuba/Warnings and insurance.md",
-            "update_date": "2026-02-10T20:04:16+00:00"
+            "update_date": "2026-02-11T20:03:07+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Cuba/Getting help.md"
         }
     ],
-    "update_date": "2026-02-10T20:04:16+00:00"
+    "update_date": "2026-02-11T20:03:07+00:00"
 }
