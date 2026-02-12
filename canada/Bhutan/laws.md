@@ -10,7 +10,7 @@ Learn about what you should do and how we can help if you are [arrested or detai
 
 Authorities carefully regulate tourism. You cannot travel independently. You must pre-arrange travel through an authorized travel agency.
 
-[Tourism Council of Bhutan](https://www.tourism.gov.bt/)
+[Tourism Council of Bhutan](https://bhutan.travel)
 
 ### Drugs
 

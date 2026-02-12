@@ -51,7 +51,7 @@ You must buy a travel package from an authorized travel agent in advance to get 
 
 You must also obtain a special permit from the Bhutanese Ministry of Home and Cultural Affairs to travel outside of Thimphu and Paro.
 
-* [More information on applying for a visa](https://www.tourism.gov.bt/) – Tourism Council of Bhutan
+* [More information on applying for a visa](https://bhutan.travel/) – Tourism Council of Bhutan
 * [Visa requirements](https://www.mfa.gov.bt/?page_id=9196) – Department of Immigration, Royal Government of Bhutan
 
 ### Entry/exit points

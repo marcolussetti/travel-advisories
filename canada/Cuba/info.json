@@ -1,7 +1,7 @@
 {
     "name": "Cuba",
-    "update_reason": "Health \u2013 editorial change",
-    "update_date": "2026-02-09T14:23:00",
+    "update_reason": "Risk level \u2013 avoid non-essential travel to Cuba due to worsening fuel shortages",
+    "update_date": "2026-02-11T19:28:00",
     "sections": {
         "risk": "canada/Cuba/risk.md",
         "security": "canada/Cuba/security.md",

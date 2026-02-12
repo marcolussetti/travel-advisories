@@ -4,9 +4,9 @@
 
 ### Cyclones
 
-On February 10, 2026, Tropical Cyclone Gezani is expected to make landfall on the eastern coast of Madagascar near Toamasina (Tamatave), between Mananara Nord and Vatomandry before sweeping across central Madagascar on February 11, 2026.
+On February 10, 2026, Tropical Cyclone Gezani made landfall in the city of Toamasina (Tamatave). It caused significant damage to buildings and infrastructure in Atsinanana region, particularly in Toamasina.
 
-The storm is likely to bring excessive rainfall and violent winds. It may cause flash flooding and landslides and could severely disrupt the following essential services:
+The storm brought excessive rainfall and violent winds. There are reports of several casualties and numerous displaced persons. Gezani caused severe flooding and there are significant disruptions to the following essential services:
 
 * transportation
 * power distribution

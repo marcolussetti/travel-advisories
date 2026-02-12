@@ -2,27 +2,6 @@
 
 ## Natural disasters and climate
 
-### Tropical Cyclone Mitchell
-
-Tropical Cyclone Mitchell is north of the Pilbara coast between De Grey and Mardie, including the towns of Port Hedland and Karratha, and is expected to make landfall on the western Pilbara coast on February 7, 2026.
-
-The storm is likely to bring excessive rainfall and violent winds. It may cause flash flooding and landslides and could severely disrupt the following essential services:
-
-* transportation
-* power distribution
-* water and food supply
-* telecommunications networks
-* emergency services
-* medical care
-
-If you are on the western Pilbara coast:
-
-* exercise caution
-* monitor local news and weather reports
-* follow the instructions of local authorities
-
-[Warnings and incidents](https://www.bom.gov.au/warning/tropical-cyclone-advice/IDW24100) – Department of Fire and Emergency Services
-
 ### Climate change
 
 Climate change is affecting Australia. Extreme and unusual weather events are becoming more frequent and may affect your travel plans. Monitor local media for the latest information.

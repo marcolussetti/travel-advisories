@@ -24,6 +24,8 @@ If you intend on trekking:
 * inform a family member or friend of your itinerary, including when you expect to be back to camp
 * obtain detailed information on trekking routes before setting out and do not venture off marked trails or slopes
 
+[High-altitude illnesses](https://travel.gc.ca/travelling/health-safety/travel-health-inforpmation/altitude-illnesses)
+
 ### Tourism
 
 You must buy a travel package from an authorized travel agent in advance. Travel agents and tour operators will arrange your visit and apply for your visa. A daily rate covers most services in the package, including accommodation, meals, internal transportation except flights, guides and cultural programs. You must travel in groups with authorized drivers when visiting Bhutan.

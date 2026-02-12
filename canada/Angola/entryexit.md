@@ -60,6 +60,12 @@ Customs officials may ask you to show them a return or onward ticket.
 
 Any issue relating to documentation or identification can lead to delays or denial of entry.
 
+### Dual citizens
+
+Dual citizens must use their Angolan passport to enter and exit Angola.
+
+If your Angolan passport expires during your stay in Angola, you must obtain a new one before you depart. Renewing an Angolan passport may take several months.
+
 ### Yellow fever
 
 Learn about [potential entry requirements related to yellow fever](#health) (vaccines section).
