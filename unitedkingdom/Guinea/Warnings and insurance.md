@@ -1,19 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   11 February 2026
+:   13 February 2026
 
 Updated:
-:   10 February 2026
+:   12 February 2026
 
 Latest update:
-:   New information about a security incident in Conakry ('Warnings and insurance' page).
-
-## Security incident in Conakry
-
-On 10 February, gunfire was reported in central Conakry during a security operation near Corniche Sud. There are also reports of disturbances and possible breakouts at Maison Centrale Prison.
-
-Security forces have locked down parts of the area and are carrying out vehicle checks and searches. Movement around the affected streets is restricted and the situation may change at short notice. Stay alert, and follow instructions from local authorities.
+:   Removal of information about a security incident in Conakry.
 
 ## Before you travel
 

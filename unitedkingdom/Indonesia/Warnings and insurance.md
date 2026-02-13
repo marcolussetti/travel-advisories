@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   13 January 2026
+:   13 February 2026
 
 Updated:
-:   12 January 2026
+:   12 February 2026
 
 Latest update:
-:   Updated information about extramarital sex ('Safety and security' page).
+:   Addition of information that visa on arrival cannot be used to undertake volunteering, and addition of information about the risk of possible arrest for possessing CBD oil ('Entry requirements' and 'Safety and security' pages).
 
 ![](https://assets.publishing.service.gov.uk/media/6745db6083f3d6d843be9719/FCDO__TA__020_-_Indonesia_Travel_Advice_Ed9__WEB_.jpg)
 

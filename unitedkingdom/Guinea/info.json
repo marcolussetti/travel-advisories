@@ -1,11 +1,11 @@
 {
     "name": "Guinea",
-    "update_reason": "New information about a security incident in Conakry ('Warnings and insurance' page).",
+    "update_reason": "Removal of information about a security incident in Conakry.",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Guinea/Warnings and insurance.md",
-            "update_date": "2026-02-10T11:50:14+00:00"
+            "update_date": "2026-02-12T10:13:29+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Guinea/Getting help.md"
         }
     ],
-    "update_date": "2026-02-10T11:50:14+00:00"
+    "update_date": "2026-02-12T10:13:29+00:00"
 }

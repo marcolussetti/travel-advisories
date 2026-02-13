@@ -41,8 +41,6 @@ Recent attacks include:
 
 * in 2022, a suicide bomber attacked a police post on Jalan Astana Anyar, in Bandung, West Java, killing one and injuring 8 people
 * in 2021, there was a suicide attack outside the Catholic Cathedral Church at JaIan Kajaolalido, Makassar
-* in 2020, a police officer was killed and another injured during an attack on a police station in Kalimantan
-* in 2019, a suicide bomber attacked police headquarters in Medan, Sumatra, injuring 4 police officers and 2 civilians
 
 ## Political situation
 
@@ -82,13 +80,13 @@ There has been a rise in the number of scams at tattoo parlours, nail salons an
 
 ### Alcoholic drinks and drugs
 
-Drinks served in bars can be stronger than those in the UK, usually because the measures of spirits are larger. In some cases, over-drinking and taking drugs has resulted in accidents, injuries, robbery, assaults and lost travel documents. Some British nationals have suffered psychiatric problems caused by alcohol, drugs and a lack of sleep. Drink responsibly and be aware of your limits.
+Drinks served in bars can be stronger than those in the UK, usually because the measures of spirits are larger. In some cases, excessive drinking and taking drugs has resulted in accidents, injuries, robbery, assaults and lost travel documents. Some British nationals have suffered psychiatric problems caused by alcohol, drugs and a lack of sleep. Drink responsibly and be aware of your limits.
 
 ### Methanol poisoning
 
-There have been deaths and cases of serious illness caused by alcoholic drinks containing methanol  in Indonesia.
+There have been deaths and cases of serious illness caused by alcoholic drinks containing methanol in Indonesia.
 
-Methanol poisoning cases have resulted from drinks purchased in bars, shops and hotels in tourist areas like Bali, Lombok, the Gili Islands and Sumatra. Criminal gangs make counterfeit replicas of well-known alcohol brands and these could contain high amounts of methanol.
+Methanol poisoning cases have resulted from drinks purchased in licensed bars, shops and hotels in tourist areas. Criminal gangs make counterfeit replicas of well-known alcohol brands and these could contain high amounts of methanol.
 
 Even small amounts of methanol can kill. It is not possible to identify methanol in alcoholic drinks by taste or smell. See [Travel Aware Spiking and methanol poisoning](https://travelaware.campaign.gov.uk/spiking-and-methanol-poisoning/) for information about how to reduce the risks.
 
@@ -98,7 +96,7 @@ Seek urgent medical attention if you or someone you are travelling with show the
 
 ### Ramadan
 
-Ramadan is a holy month for Muslims. The dates vary by year and country. Ramadan in Indonesia is from 1 March to 29 March 2025. During this time, do not:
+Ramadan is a holy month for Muslims. The dates vary by year and country. Ramadan in Indonesia is from 19 February to 20 March 2026. During this time, do not:
 
 * eat, drink, smoke or chew gum in public in the daytime, including in your car
 * play loud music or dance
@@ -116,7 +114,7 @@ You should also:
 
 ### Balinese New Year
 
-During Balinese New Year (‘Nyepi’), local custom requires that all people in Bali observe a day of silence by staying indoors, turning off lights, and making no noise. Ngurah Rai International Airport is closed for the entire day. However, emergency services and hospitals are allowed to operate.
+Balinese New Year (‘Nyepi’) is on 19 March 2026. During this time, local custom requires that all people in Bali observe a day of silence by staying indoors, turning off lights, and making no noise. Ngurah Rai International Airport is closed for the entire day. However, emergency services and hospitals are allowed to operate.
 
 ### Personal ID
 
@@ -124,15 +122,17 @@ You must always carry your passport or stay permit (such as KITAS or KITAP).
 
 ### Illegal drugs and prison sentences
 
-Do not get involved with illegal drugs. Possession, trafficking and manufacture of any illegal drugs, including cannabis, are serious offences in Indonesia. The Indonesian authorities have a zero-tolerance policy and those caught face lengthy prison sentences or a death penalty, usually after a protracted and expensive legal process.
+Do not get involved with illegal drugs in Indonesia. Possession, using, making or trafficking  illegal drugs is a serious crime. The Indonesian authorities have a zero-tolerance policy and those caught may face  long prison sentences or the death penalty. Legal cases can be lengthy and costly.
 
-British nationals have been caught and given significant prison sentences for drug offences in Indonesia. Criminal gangs in the UK and elsewhere are known to coerce people into carrying drugs across borders. Do not allow yourself to be persuaded.
+Cannabis and cannabis-based products, including medicinal cannabis, cannabis-based oils and creams, hemp-based products, CBD, THC, hash and edibles, are illegal in Indonesia. This applies whether it is carried in a bottle, vape, or any other form. The NHS has [guidance explaining how cannabis oils differ](https://www.nhs.uk/medicines/medical-cannabis/) and the risks they may carry.
+
+British nationals have been caught and given  long prison sentences for drug offences. Criminal groups  sometimes pressure people into carrying drugs across borders. Do not allow yourself to be persuaded.
 
 Airports in Indonesia have excellent technology and security for detecting illegal items, including cannabis. This is also used to scan the baggage of transiting passengers.
 
-If you are detained by the police, it is important to be aware of your rights. To assist you, we have [a guide to the legal and detention systems in Indonesia](https://www.gov.uk/government/publications/indonesia-prisoner-pack). The British Embassy strongly encourages adherence to local laws and regulations. Any payments requested after arrest, that you agree to, are at your own discretion.
+If you are detained by the police, it is important to understand your rights. The British embassy provides [a guide to the legal and detention systems in Indonesia](https://www.gov.uk/government/publications/indonesia-prisoner-pack), but you must follow local laws and regulations. Any payments requested after arrest, that you agree to, are at your own discretion.
 
-In some venues in Jakarta and Bali, drugs may be handed out as free samples. Police often raid venues (particularly in Bali) known to be frequented by foreigners. You may have to take a urine or blood test if there is a reasonable suspicion that drugs have been used, and you will be arrested if the test is positive.
+In some venues drugs may be offered as free samples. Police often raid venues popular with foreigners, especially  in Bali. If police suspect drug use, you may be required to take a urine or blood test. A positive result will lead to arrest.
 
 ### Alcohol laws and bans
 

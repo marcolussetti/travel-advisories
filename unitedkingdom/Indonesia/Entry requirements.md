@@ -20,20 +20,24 @@ When returning to the UK, British citizens must carry a valid [British passport]
 
 You must have a visa to visit Indonesia.
 
-You can get a [30-day visa on arrival (VOA)](https://evisa.imigrasi.go.id/).
+You can get a [30-day visa on arrival (VOA)](https://evisa.imigrasi.go.id/) for:
 
 * tourism or visiting
 * some business purposes or an official meeting
 * procurement of goods
 * official visits or government duties
 
-The VOA is not suitable for all business purposes. You should confirm the appropriate visa for your visit at the [Indonesian immigration website](https://www.imigrasi.go.id/wna/permohonan-visa-republik-indonesia).
+The VOA is not suitable for all business activities or for volunteering. You should confirm the appropriate visa for your visit at the [Indonesian immigration website](https://www.imigrasi.go.id/wna/permohonan-visa-republik-indonesia).
 
 The VOA costs 500,000 Indonesian rupiah, payable in cash or by card. It is valid for single entry only. You must meet passport validity requirements and have a return or onward ticket. Most of the [main airports and ports](https://kemlu.go.id/london/en/news/18631/visa-on-arrival-voa-for-foreign-travellers) issue VOAs.
 
 You can also apply for a visa at least a week before you leave on the [Indonesian immigration website](https://evisa.imigrasi.go.id/). You will find options to apply for a multiple-entry visa or a 60-day visa.
 
 Make sure your visa is approved before arriving in Indonesia, otherwise you may only be eligible for a 30-day visa on arrival. Online visas approved after entry are not valid and may result in overstaying penalties.
+
+### All Indonesia Declaration Form
+
+Before travelling to Indonesia, fill out the online customs and health declaration on the [All Indonesia arrival card website](https://www.gov.uk/guidance/indonesia-visa-overstay-and-deportation) or app within 72 hours of arrival. After completing the form, you can use the All Indonesia app to apply for a visa.
 
 ### Extending your visa or residence permit
 
@@ -51,17 +55,13 @@ Beware of visa scams by fake visa agents who, having taken your money, may fail 
 
 Visa scams are increasing in Indonesia. Some travellers have lost significant amounts of money. Others have been deported despite paying a large fee to an agent to get the correct visa or extension.
 
-### Overstaying your visa
+### Not following visa conditions
 
-If you overstay your visa, you risk a heavy fine, possible lengthy detention (limited access to health care facilities and space) and deportation.
+Using the wrong type of visa, or staying in Indonesia after your visa expires, is taken very seriously. It can lead to prosecution, detention and deportation at your own cost. The cost of overstaying your visa is one million rupiah a day.
 
-If your visa will expire during a period of hospitalisation or detention, contact Indonesian immigration before your visa expires to avoid any overstay fines.
+If your visa will expire while you are in hospital or in detention, contact Indonesian Immigration before it expires to avoid any overstay fines.
 
-Find more information [about](https://www.gov.uk/guidance/indonesia-visa-overstay-and-deportation) visa overstay and deportation and how the British Embassy in Jakarta can help.
-
-### All Indonesia Declaration Form
-
-Indonesia has introduced the  [All Indonesia Arrival Card website](https://allindonesia.imigrasi.go.id/) (from 1 September) which combines customs and health declarations into a single form. You must complete the online All Indonesia Declaration Form up to 72 hours before you arrive In Indonesia.
+You can find more [information about visa overstays, deportation](https://www.gov.uk/guidance/indonesia-visa-overstay-and-deportation) and how the British Embassy in Jakarta can help in these situations.
 
 ## Registering with the police
 

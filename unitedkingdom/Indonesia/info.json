@@ -1,11 +1,11 @@
 {
     "name": "Indonesia",
-    "update_reason": "Updated information about extramarital sex ('Safety and security' page).",
+    "update_reason": "Addition of information that visa on arrival cannot be used to undertake volunteering, and addition of information about the risk of possible arrest for possessing CBD oil ('Entry requirements' and 'Safety and security' pages).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Indonesia/Warnings and insurance.md",
-            "update_date": "2026-01-12T16:40:44+00:00"
+            "update_date": "2026-02-12T12:03:18+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Indonesia/Getting help.md"
         }
     ],
-    "update_date": "2026-01-12T16:40:44+00:00"
+    "update_date": "2026-02-12T12:03:18+00:00"
 }
