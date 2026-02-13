@@ -20,6 +20,10 @@ The features in this map do not constitute an authoritative source of geographic
 
 [Exercise a high degree of caution](#levels "Risk Levels") in Mozambique due to crime, the increased risk of demonstrations and violent spillovers, kidnappings and terrorism.
 
+### Southeastern coast - Avoid non-essential travel
+
+[Avoid non-essential travel](#levels "Risk Levels") to the southeastern coast, from Pomene National Reserve to Zavala, due to Tropical Cyclone Gezani.
+
 ### Cabo Delgado Province - Avoid all travel
 
 [Avoid all travel](#levels "Risk Levels") to to Cabo Delgado Province due to ongoing insurgency by militants.

@@ -1,7 +1,7 @@
 {
     "name": "Mozambique",
-    "update_reason": "Natural disasters and climate \u2013 updated information on flooding and landslides",
-    "update_date": "2026-02-04T14:05:00",
+    "update_reason": "Risk levels \u2013 avoid non-essential travel to the southeastern coast from Pomene National Reserve to Zavala; Natural disasters and climate \u2013 added information on Tropical Cyclone Gezani",
+    "update_date": "2026-02-12T12:15:00",
     "sections": {
         "risk": "canada/Mozambique/risk.md",
         "security": "canada/Mozambique/security.md",
