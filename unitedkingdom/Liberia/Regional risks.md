@@ -6,7 +6,7 @@ You should also read [FCDO’s overall travel advice](/foreign-travel-advice/lib
 
 ## Liberia-Côte d’Ivoire border
 
-There are sometimes clashes between armed groups from both sides of the Liberia-Côte d’Ivoire border in some of the more remote border areas of Grand Gedeh and River Gee counties. Use the main roads when travelling in these areas.
+There are occasional clashes between armed groups from both sides of the Liberia-Côte d’Ivoire border in some of the more remote border areas of Grand Gedeh and River Gee counties. Use the main roads when travelling in these areas.
 
 ## Sinoe rubber plantation and Sapo National Park
 
@@ -14,12 +14,8 @@ The Liberian authorities have limited ability to provide emergency help outside 
 
 There may be organised groups of former combatants in areas of the country where there is limited government security presence. Be especially wary in the Sinoe rubber plantation and Sapo National Park.
 
-[Previous
-:
-Safety and security](/foreign-travel-advice/liberia/safety-and-security)
+[Previous:Safety and security](/foreign-travel-advice/liberia/safety-and-security)
 
-[Next
-:
-Health](/foreign-travel-advice/liberia/health)
+[Next:Health](/foreign-travel-advice/liberia/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/liberia/print)

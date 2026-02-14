@@ -22,9 +22,9 @@ You must have a visa to enter Liberia.
 
 ### Applying for a visa
 
-Apply for a visa to visit Liberia through the [Liberian Embassy in the UK](https://www.embassyofliberia.co.uk/consular-services/visa-application/).
+Apply for a visa to visit Liberia through the [Liberian Embassy in the UK](https://www.embassyofliberia.co.uk/consular-services/visa-application/). Your passport must have at least 6 months validity remaining when you make your application.
 
-You can apply for an extension for a maximum of 60 days. To apply for an extension in Monrovia, you should visit the Immigration Office at Gbarngaye’s Town, 24th Street, Sinkor. You’ll need to bring your passport and pay a fee of 25 US dollars.
+Once in Liberia, you can apply for an extension of your existing visa for a maximum of 60 days. To apply for an extension in Monrovia, you should visit the Immigration Office at Gbarngaye’s Town, 24th Street, Sinkor. You’ll need to take your passport and pay a fee of 25 US dollars.
 
 If you’re staying outside Montserrado County, contact your local Immigration Office to get a visa extension authorised by the Immigration County Commander.
 
@@ -32,7 +32,7 @@ To stay longer you must [apply for a Liberian residence permit](https://lis.gov.
 
 ## Vaccine requirements
 
-To enter Liberia, you must have a certificate to prove you’ve had a yellow fever vaccination if you’re coming from a [country listed as a transmission risk](https://nathnacyfzone.org.uk/factsheet/65/countries-with-risk-of-yellow-fever-transmission).
+As part of the visa application process, you need to provide a certificate to prove you’ve had a yellow fever vaccination.
 
 For more details about medical entry requirements and recommended vaccinations, including yellow fever, see [TravelHealthPro’s Liberia guide](https://travelhealthpro.org.uk/country/128/liberia#Vaccine_Recommendations).
 
@@ -48,12 +48,8 @@ Declare cash or travellers cheques if the value is 10,000 US dollars or more.
 
 You cannot take more than 7,500 US dollars in cash out of the country.
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/liberia)
+[Previous:Warnings and insurance](/foreign-travel-advice/liberia)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/liberia/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/liberia/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/liberia/print)

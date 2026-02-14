@@ -151,7 +151,7 @@ Car hire is possible in Kinshasa although self-drive options are limited. Most c
 
 ### Road conditions
 
-Driving standards are well below those in the UK and accidents are very common. Roads in Kinshasa are poorly maintained. Outside Kinshasa and other large cities, most roads are barely drivable even with a 4x4, especially during the rainy season from September to May. Consider the technical capability of your vehicle and be confident in your ability to operate it. Travel after dark brings increased risk.
+Driving standards are well below those in the UK and accidents are very common. Roads in the DRC are poorly maintained, largely unpaved and often not drivable with a standard vehicle, especially during the rainy season from September to May. Inside the cities, including Kinshasa, main roads are often paved but they can be narrow with cars parked on either side. Consider the technical capability of your vehicle and be confident in your ability to operate it. Travel after dark brings increased risk.
 
 Public buses and taxis are often not well-maintained, and there is a risk of assault.
 

@@ -45,6 +45,10 @@ A ‘state of siege’ is in place in the provinces of Ituri and North Kivu. Mil
 
 The situation in Goma, Bukavu, and the surrounding areas remains uncertain, unstable and can change quickly. British nationals should be prepared to leave at short notice and have adequate supplies of food, water, medicine etc in case of the need to lock down.
 
+## Tshopo Province
+
+The security situation in and around Bangoka International Airport, Kisangani, remains unpredictable following recent drone attacks against DRC military assets at the airport. These attacks have been claimed by the M23. Commercial flights are operating as usual, but availability can change at short notice.
+
 ## Border crossings with Rwanda
 
 The border crossings between Rwanda and the DRC at Gisenyi/Goma and Cyangugu/Bukavu may close at short notice. On the 27 January 2025, there were reports of gunfire and artillery fire crossing the border into Rwanda near the Gisenyi/Goma border crossing.

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   12 February 2026
+:   14 February 2026
 
 Updated:
-:   11 February 2026
+:   13 February 2026
 
 Latest update:
-:   FCDO now advises against all but essential travel to Cuba
+:   Addition of information on lack of aviation fuel (‘Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/698cc89184cc2df4a87123d5/FCDO__TA__103_-_Cuba_Travel_Advice_Ed1__WEB_.jpg)
 
@@ -16,11 +16,13 @@ Latest update:
 
 ## FCDO advises against all but essential travel to Cuba
 
-## Power outages and fuel shortages
+### Power outages and fuel shortages
 
-Cuba is experiencing severe and worsening disruption to essential infrastructure, persistent nationwide power outages and fuel shortages. These conditions significantly affect the ability of visitors to access reliable transport, medical care, communications, and basic services.  Authorities have introduced fuel rationing, scaled back public services, and made temporary changes to healthcare, education, transport and tourism operations in order to conserve severely limited energy supplies.  Flight schedules are also being disrupted due to aviation fuel shortages, with some airlines reviewing routes or temporarily cancelling services which risk visitors being unable to leave the country.
+Cuba is experiencing severe and worsening disruption to essential infrastructure, persistent  power outages across the country and fuel shortages. These conditions significantly affect the ability of visitors to access reliable transport, medical care, communications, and basic services. Authorities have introduced fuel rationing, scaled back public services, and made temporary changes to healthcare, education, transport and tourism operations to conserve severely limited energy supplies.
 
-If you are currently in Cuba, carefully consider if your presence is essential. Take precautions by conserving fuel, water, food and mobile phone charge, and be prepared for significant disruption.  Check for messaging from your airline or tour operator.
+Cuban authorities have announced that all nine of its international airports are without aviation fuel at this time. Some airlines are reviewing routes or temporarily cancelling services which risk visitors being unable to leave the country, although other operators are continuing their services through using refuelling stops.
+
+If you are currently in Cuba, carefully consider if your presence is essential. Take precautions by conserving fuel, water, food and mobile phone charge, and be prepared for significant disruption. If you are considering your options for leaving Cuba, check for messaging from your airline or tour operator for up to date information.
 
 ## Before you travel
 

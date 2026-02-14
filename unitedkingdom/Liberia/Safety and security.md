@@ -20,11 +20,11 @@ Stay aware of your surroundings, keep up to date with local media reports and fo
 
 ## Political situation
 
-Liberia is generally stable politically, but protests and demonstrations do occasionally happen. Avoid protests, demonstrations, political rallies and large crowds. Follow the advice of local authorities.
+Liberia is generally stable politically, but protests and demonstrations do take place and, particularly small-scale protests, can begin with little or no warning. Avoid protests, demonstrations, political rallies and large crowds. Follow the advice of local authorities.
 
 ## Crime
 
-The crime rate in Liberia is high. Liberians are the main victims of crime, but foreign nationals can be targeted. Most crime is opportunistic theft, but there are organised criminal gangs. Thieves are often armed with knives or machetes, and occasionally carry firearms.
+The crime rate in Liberia is high. Liberians are the main victims of crime, but foreign nationals can also be targeted. Most crime is opportunistic theft, but there are organised criminal gangs. Thieves are often armed with knives or machetes, and occasionally carry firearms.
 
 ### Protecting yourself and your belongings
 
@@ -42,7 +42,7 @@ You can take steps to reduce your personal risk by:
 
 ### Sexual assault
 
-Liberia has a high rate of rape and sexual assault. There have been cases of rapes and attempted rapes of foreign women although these are rare.
+Liberia has a high rate of rape and sexual assault. There have been cases of rapes and attempted rapes of foreign women, although these are rare.
 
 ## Laws and cultural differences
 
@@ -52,7 +52,7 @@ Carry photo ID with you at all times, such as your driving licence or a copy of 
 
 ### Drug trafficking and diamond smuggling
 
-Drug trafficking and diamond smuggling are illegal. If convicted you’ll get a long prison sentence. Local prison conditions are harsh.
+Drug trafficking and gold and diamond smuggling are illegal. If convicted, you will get a long prison sentence. Local prison conditions are harsh.
 
 ### LGBT+ travellers
 
@@ -66,19 +66,21 @@ The Ministry of Justice in Liberia can issue a decree of adoption if all legal r
 
 ### Money
 
-Credit and debit cards are not generally accepted in Liberia, except for a few of the major hotels and some larger supermarkets. They may be unable to process card payments when internet connections are poor. Not many places accept travellers cheques.
+Liberia remains a predominantly cash-based society, especially with street vendors.
 
-There are a few ATMs that accept Visa cards in Monrovia, including in the 2 main hotels used by international visitors. ATMs often run out of money.
+Credit and debit cards are not generally accepted in Liberia, except for a few of the major hotels and some larger supermarkets. They may be unable to process card payments when internet connections are poor. Not many places accept travellers cheques. Mobile money apps offer an alternative way to make payments, but not all vendors use these.
+
+There are a few ATMs that accept Visa cards in Monrovia, including in the two main hotels used by international visitors. ATMs often run out of money or only have certain denominations.
 
 Foreign exchange and banking facilities are limited. Western Union and MoneyGram can transfer money from the UK, although there are very few offices outside Monrovia.
 
-Liberia’s banks are currently experiencing cash shortages of both US dollars and Liberian dollars. Banks and foreign exchange facilities may not be able to pay out transferred funds or fulfil ATM withdrawals. Bring sufficient funds, in US dollars, to cover all expenses.
+Liberia’s banks can experience cash shortages of both US dollars and Liberian dollars. Banks and foreign exchange facilities may not be able to pay out transferred funds or fulfil ATM withdrawals. Bring sufficient funds, in US dollars, to cover all expenses.
 
 ## Outdoor activities
 
 ### Swimming and water safety
 
-Beaches in Liberia can have rip tides and other dangerous currents. Get local advice before going in the water.
+Beaches in Liberia can have rip tides and other dangerous currents. Beaches and the sea in Monrovia city centre are dirty. Get local advice before going in the water.
 
 See [water safety on holiday](https://www.rlss.org.uk/safety-on-holiday) from the Royal Life Saving Society.
 
@@ -96,7 +98,7 @@ If you’re planning to drive in Liberia, see [information on driving abroad](ht
 
 Get security advice about travelling by road anywhere outside Monrovia.
 
-Most foreign nationals travelling by road outside Monrovia will hire a car with a driver, and travel in convoy of at least 2 vehicles in case of breakdowns or possible attacks.
+Most foreign nationals travelling by road outside Monrovia will hire a car with a driver, and travel in convoy of at least 2 vehicles in case of breakdowns or possible security incidents.
 
 ### Road conditions and driving standards
 
@@ -104,7 +106,7 @@ The roads from Monrovia to the port town of Buchanan and to the border with Sier
 
 Most other roads outside Monrovia are unpaved. Roads outside Monrovia can be treacherous and most are unlit.
 
-The road from Monrovia to Roberts International Airport is currently undergoing roadworks and can be hazardous.
+The road from Monrovia to Roberts International Airport is currently undergoing roadworks. It can be hazardous and prone to severe traffic.
 
 Driving and road conditions deteriorate significantly during the rainy season from May to November, and many roads become impassable.
 
@@ -120,12 +122,8 @@ Pull over to the side of the road immediately when instructed by security forces
 
 The [UK Air Safety List (ASL)](https://www.gov.uk/guidance/uk-air-safety-list#liberia) lists all known airlines in Liberia that do not meet international safety standards and are banned from operating commercial air services to, from, and within the UK. Check the UK Air Safety List when considering which airlines to fly with. The list is maintained by the Department for Transport, based on advice from the [UK Civil Aviation Authority](https://www.caa.co.uk/Commercial-Industry/Airlines/Licensing/Requirements-and-guidance/Third-Country-Operator-Certificates).
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/liberia/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/liberia/entry-requirements)
 
-[Next
-:
-Regional risks](/foreign-travel-advice/liberia/regional-risks)
+[Next:Regional risks](/foreign-travel-advice/liberia/regional-risks)
 
 [View a printable version of the whole guide](/foreign-travel-advice/liberia/print)

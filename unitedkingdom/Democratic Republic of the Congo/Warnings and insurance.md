@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   1 January 2026
+:   14 February 2026
 
 Updated:
-:   31 December 2025
+:   13 February 2026
 
 Latest update:
-:   New information on the security situation in the Democratic Republic of the Congo ('Warnings and insurance' page).
+:   Addition of information following recent drone attacks against DRC military assets at Bangoka International Airport in Kisangani and on road conditions ('Safety and security' and ‘Regional risks’ pages).
 
 ![](https://assets.publishing.service.gov.uk/media/67f58030e3c60873d6c90d72/FCDO__TA__012_-_Democratic_Repbulic_of_the_Congo_Travel_Advice_Ed15__WEB_.jpg)
 

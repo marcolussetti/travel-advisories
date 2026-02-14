@@ -1,11 +1,11 @@
 {
     "name": "Democratic Republic of the Congo",
-    "update_reason": "New information on the security situation in the Democratic Republic of the Congo ('Warnings and insurance' page).",
+    "update_reason": "Addition of information following recent drone attacks against DRC military assets at Bangoka International Airport in Kisangani  and on road conditions ('Safety and security' and \u2018Regional risks\u2019 pages).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Democratic Republic of the Congo/Warnings and insurance.md",
-            "update_date": "2025-12-31T11:52:14+00:00"
+            "update_date": "2026-02-13T14:29:45+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Democratic Republic of the Congo/Getting help.md"
         }
     ],
-    "update_date": "2025-12-31T11:52:14+00:00"
+    "update_date": "2026-02-13T14:29:45+00:00"
 }
