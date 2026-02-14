@@ -4,9 +4,9 @@
 
 ### Political situation
 
-On February 1, 2021, the Myanmar military detained officials from the elected government and declared a state of emergency, effectively seizing control of the country's governance by force. The state of emergency currently remains in place. Martial law has been imposed in several townships in Yangon and across the country. Curfews are in effect at specific locations and gatherings are banned. Due to the ongoing conflict in Myanmar, the political situation has rapidly deteriorated. Control over territory is fragmented throughout the country, with various armed ethnic organizations, the People's Defence Forces, the regime's military forces, and other groups fighting to maintain or gain control of areas.
+On February 1, 2021, the Myanmar military detained officials from the elected government and declared a state of emergency, effectively seizing control of the country's governance by force. Since 2021, the political and security situation has worsened, and the armed conflict continues to escalate.
 
-The political and security situation remains unpredictable and could deteriorate further.
+Control over territory is fragmented throughout the country. The regime’s military forces, various armed ethnic organizations, the People's Defence Forces and other groups fight to maintain or gain control of areas.
 
 ### Armed clashes
 
@@ -105,14 +105,15 @@ Exercise a high level of personal security awareness.
 
 #### Petty crime
 
-Petty crime, such as pickpocketing and purse snatching occur. Ensure that your personal belongings, passports and other travel documents are always secure.
+Petty crime, such as pickpocketing and purse snatching, has increased. Ensure that your personal belongings, passports and other travel documents are always secure.
 
 #### Organized crime
 
-Organized criminal activity associated with international drug trafficking and human trafficking is increasing in Myanmar. Online financial scams also occur, including fake business or financial opportunities, such as:
+Transnational criminal networks linked to drug and human trafficking, as well as cyber-fraud, operate across Myanmar, especially in border regions. If you travel near these areas, there is a high risk of detention, extortion and violence. Local authorities have limited capacity to provide assistance.
 
-* investment opportunities
-* job offers
+Criminals have lured, kidnapped, and trafficked foreign nationals with fake business opportunities and job offers. These victims are forced to work in online scams including illegal gambling, fake investment schemes and romance fraud.
+
+The security situation in Myanmar remains volatile and unpredictable, and Canadians may have extremely limited access to consular assistance.
 
 ### Gems and jewellery purchases
 

@@ -2,11 +2,11 @@
 
 ## Natural disasters and climate
 
-### Storms Leonardo and Marta
+### Severe storms
 
-Heavy rains and flash floods caused by storm Leonardo have affected parts of Spain since February 2, 2026. The storm has hit especially hard in Andalusia, in the southwest, and Galicia, in the northwest. High winds and more heavy rain from approaching storm Marta are forecast in Andalusia until at least February 9.
+Heavy rains and flash floods caused by a cluster of severe winter storms have affected parts of Spain since February 2, 2026. The storms have hit especially hard in Andalusia, in the southwest, and Galicia, in the northwest. High winds, cold temperatures and more heavy rain are forecast in Galicia and Catalonia until at least February 15.
 
-Many of the affected areas are still recovering from damages due to the recent impact of storm Kristin. Storm Marta could cause further damage to infrastructure, including roads, and disruptions to travel and transportation in the affected areas.
+Many of the affected areas are still recovering from damages due to the impact of earlier storms. Further storms could cause additional damage to infrastructure, including roads, and disruptions to travel and transportation in the affected areas.
 
 If you are in an affected area:
 

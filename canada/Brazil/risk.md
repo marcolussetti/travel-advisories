@@ -33,3 +33,10 @@ The features in this map do not constitute an authoritative source of geographic
 * within 20 km of the border with Peru
 * within 20 km of the border with Suriname
 * within 50 km of the border with Venezuela
+
+### Certain neighbourhoods in Rio de Janeiro - Avoid all travel
+
+[Avoid all travel](#levels "Risk Levels") to the following vulnerable neighbourhoods (favela complexes) in Rio de Janeiro due to very high rates of violent crime, frequent large-scale police operations and difficulty in obtaining emergency assistance:
+
+* Complexo da Maré
+* Complexo da Penha

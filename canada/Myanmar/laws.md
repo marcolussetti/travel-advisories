@@ -69,7 +69,7 @@ Dual citizenship is not legally recognized in Myanmar. Citizenship is determined
 
 If local authorities consider you a citizen of Myanmar, they may refuse to grant you access to Canadian consular services. This will prevent us from providing you with those services.
 
-Myanmar authorities have activated a 2010 conscription law that came into effect on February 10, 2024. If local authorities consider you a citizen of Myanmar, you may be subject to military obligations requiring all men aged 18-35 and all women aged 18-27 to serve at least two years in the army, with possible extensions up to five years during a state of emergency. The current state of emergency began in February 2021 and has been extended to August 31, 2025. Future extensions are likely. There is no guarantee that travelling with a Canadian passport will provide protection from this law.
+Myanmar authorities have activated a 2010 conscription law that came into effect on February 10, 2024. If local authorities consider you a citizen of Myanmar, you may be subject to military obligations requiring all men aged 18-35 and all women aged 18-27 to serve at least two years in the army, with possible extensions up to five years during a state of emergency. There is no guarantee that travelling with a Canadian passport will provide protection from this law.
 
 You may face up to three years in prison plus a fine, if you evade or ignore a summons to serve. The Government of Canada continues to recommend that Canadian travellers avoid all travel to Myanmar and take this advice seriously.
 

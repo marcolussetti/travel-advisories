@@ -12,7 +12,22 @@ If you choose to travel near border areas
 * monitor local media for the latest information
 * follow the instructions of local authorities and security forces
 
-### Crime
+### Major urban centres
+
+#### Vulnerable neighbourhoods
+
+Vulnerable neighbourhoods, commonly referred to as “favelas” or “comunidades,” are characterized by informal housing developments, crowded quarters, poorer conditions and/or irregular construction. They are located throughout major cities.
+
+Gang-related violence and organized crime is prevalent in these neighbourhoods. Armed clashes and shootouts between security forces and alleged criminals occur regularly. There is a risk of violence spilling over to neighbouring areas, including affluent neighbourhoods and tourist destinations.
+
+Gangs strictly control access to these neighbourhoods. Tourists have been killed after accidentally entering on foot or when following GPS directions while driving. These neighbourhoods are not safe for outsiders, even if they are accompanied by a local guide. Access and assistance from emergency service providers is very limited.
+
+In Rio de Janeiro, Complexo da Maré and Complexo da Penha are especially dangerous.
+
+* Ask your hotel, travel agency, or trusted locals for assistance in identifying the favelas in the area where you are travelling
+* Ensure your GPS or navigation application does not direct you through a favela
+
+#### Other high-crime areas
 
 Crime rates are high throughout the country, particularly in:
 
@@ -24,33 +39,7 @@ Crime rates are high throughout the country, particularly in:
 * Salvador
 * São Paulo
 
-Tourists are mostly affected by theft, but incidents of violent crime also occur.
-
-#### Violent crime
-
-Violent crime occurs, including:
-
-* armed robberies
-* carjackings
-* burglaries
-* sexual assaults
-
-Violent crime, often involving weapons, is common. Incidents of mass shootings occur, often resulting in casualties. Although tourists are rarely involved, you could be in the wrong place at the wrong time.
-
-Violent crime often occurs in the following areas:
-
-* Rio de Janeiro:
-
-+ Cidade de Deus to Gardênia Azul and surrounding area
-+ Complexo da Maré
-+ Complexo da Penha
-+ Complexo do Alemão
-+ Complexo do Turano
-+ Jacarezinho
-+ Morro do Borel to Morro do Andaraí and surrounding area
-+ Morro do Juramento and surrounding area
-+ Morro do Urubu and surrounding area
-+ Vila Kennedy to Vila Aliança and surrounding area
+Tourists are mostly affected by theft, but could also become victims of violent crime, which often occurs in the following areas:
 
 * São Paulo:
 
@@ -70,6 +59,19 @@ Violent crime often occurs in the following areas:
 + Santa Maria
 + São Sebastião
 
+* Rio de Janeiro:
+
++ Cidade de Deus to Gardênia Azul and surrounding area
++ Complexo do Alemão
++ Complexo do Turano
++ Jacarezinho
++ Morro do Borel to Morro do Andaraí and surrounding area
++ Morro do Juramento and surrounding area
++ Morro do Urubu and surrounding area
++ Vila Kennedy to Vila Aliança and surrounding area
+
+Armed criminal groups operate in multiple parts of Rio de Janeiro, and armed confrontations with security forces occur regularly. Security conditions can deteriorate rapidly and without warning, particularly during police or military operations.
+
 If you decide to travel to these areas:
 
 * always be aware of your surroundings
@@ -77,6 +79,21 @@ If you decide to travel to these areas:
 * travel in groups
 * avoid isolated areas
 * do not resist an attack
+
+### Crime
+
+#### Violent crime
+
+Violent crime occurs, including:
+
+* armed robberies
+* carjackings
+* burglaries
+* sexual assaults
+
+Violent crime, often involving weapons, is common. Mass shootings occur, often resulting in casualties.
+
+Although tourists are rarely involved, you could be in the wrong place at the wrong time.
 
 #### Theft
 
@@ -134,7 +151,7 @@ During your trip:
 
 Spiked food and drink incidents are increasing in Brazil, particularly in Rio de Janeiro.
 
-Incidents of spiked food and drinks to force victims to use their debit or credit card to withdraw money from ATMs have been reported, including on beaches in Rio de Janeiro and crowded restaurants in São Paulo.
+Incidents of spiked food and drinks to force victims to use their debit or credit card to withdraw money from ATMs have been reported, including on beaches in Rio de Janeiro and in crowded restaurants and bars in São Paulo. Be cautious when meeting new acquaintances, such as people met on dating websites or who approach you in a nightlife setting.
 
 The use of drugs to facilitate sexual assault and robbery against foreigners has also been reported. Assaults frequently occur in unofficial taxis.
 
@@ -208,19 +225,6 @@ Be aware that police response often takes time.
 
 Organized crime associated with international drug trafficking occurs in Brazil, as it is situated along transit routes. This is most common in the north and northeastern regions.
 
-### Vulnerable neighbourhoods
-
-Vulnerable neighbourhoods, commonly referred to as “favelas” or “comunidades”, are characterized by informal housing developments, crowded quarters, poorer conditions, and/or irregular construction.
-
-Gang-related violence and organized crime is prevalent in these areas. Access and assistance from emergency services is very limited.
-
-* Avoid renting accommodations in vulnerable neighbourhoods, and travelling to these areas, even on a guided tour
-* Ensure your GPS or navigation application does not direct you through a favela, as tourists have been shot after accidentally entering one
-
-#### Police operations
-
-Armed clashes and shootouts between security forces and alleged criminals regularly occur in vulnerable neighbourhoods. Police operations have led to retaliation by criminal gangs. Vulnerable neighbourhoods are located across major cities. As a result, there is risk of violence spilling over to neighbouring areas, including affluent neighbourhoods and tourist destinations. There have been casualties as a result of stray bullets in and near vulnerable neighbourhoods.
-
 ### Scams
 
 Common tourist scams include:
@@ -257,6 +261,7 @@ When using your debit or credit card:
 * use ATMs located in public areas or inside a bank or business
 * check for any unauthorized transactions on your account statements
 * consider disabling the tap function of your card
+* carefully check the amount being charged on the card reader’s screen
 
 #### Cybercrime
 
@@ -371,9 +376,16 @@ If you choose to drive in Brazil:
 * if you are in a traffic accident, call the police immediately
 * never confront the driver of another vehicle
 
-### Public transportation
+### Transportation
 
 Public transportation can be very crowded at peak transit times, and pickpocketing is common at bus and subway stations. Be extremely cautious when using public transportation at night.
+
+When travelling to and from Rio de Janeiro’s international airport:
+
+* only use authorized taxis, reputable ride-sharing services or transfers arranged by hotels or trusted organizations
+* do not make unnecessary stops en route
+* avoid public transportation, particularly buses
+* follow routes recommended by accommodation staff and remain alert throughout the journey
 
 #### Subway
 
@@ -397,7 +409,7 @@ Do not use public vans.
 
 Assaults, thefts, and scams often occur in unofficial taxis.
 
-Registered taxis are identifiable and have a taxi meter to determine the legal fare.
+Registered taxis are identifiable by their red licence plates and have a taxi meter to determine the legal fare.
 
 In Brasília, most registered taxis are white with a green sign on the doors. In Rio de Janeiro, most registered taxis are yellow with a blue stripe and have a company’s name labelled near the blue stripe at the back. Malls and the airport often have their own registered taxis.
 

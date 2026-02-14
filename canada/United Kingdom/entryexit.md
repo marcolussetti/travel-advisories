@@ -2,6 +2,20 @@
 
 ## Entry and exit requirements
 
+### Travelling to the UK as a dual citizen
+
+Starting February 25, 2026, the United Kingdom will begin strict enforcement of the Electronic Travel Authorisation (ETA) requirement for all travellers. If you’re a Canadian citizen but also a citizen of the United Kingdom or Ireland, you cannot apply for an ETA. You must travel on your British, Irish, or British overseas territories citizen passport. If you do not have any of these documents, you will need to apply for one, or apply for a certificate of entitlement to travel on your Canadian passport.
+
+If you are unsure whether you are a citizen of the United Kingdom or Ireland, you must verify your status before you travel. You may be denied boarding if you do not present the required documentation to enter the UK.
+
+#### Useful links
+
+* [More information on the Electronic Travel Authorisation (ETA)](#ETA)
+* [Electronic travel authorisation (ETA): guide for dual citizens](https://www.gov.uk/guidance/electronic-travel-authorisation-eta-guide-for-dual-citizens) – UK Visas and Immigration
+* [Apply for a certificate of entitlement](https://www.gov.uk/right-of-abode/apply-for-a-certificate-of-entitlement) – Citizenship and living in the UK
+* [Check if you're a British citizen](https://www.gov.uk/check-british-citizenship) – Citizenship and living in the UK
+* [British High Commission Ottawa](https://www.gov.uk/world/organisations/british-high-commission-ottawa)
+
 The authorities of a country or territory decide who can enter or exit through its borders. The Government of Canada cannot intervene on your behalf if you do not meet your destination’s entry or exit requirements.
 
 We have obtained the information on this page from the British authorities. It can, however, change at any time.
