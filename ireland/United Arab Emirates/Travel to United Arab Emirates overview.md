@@ -20,7 +20,7 @@ The UK has introduced a new Electronic Travel Authorisation (ETA) for people tra
 
 You are advised to check your passport validity, and where necessary, apply for an Irish passport, well in advance of any travel. Where travel is required owing to an emergency, Irish citizens, including Irish dual citizens, who are not in possession of a valid Irish passport can contact the Embassy of Ireland in Abu Dhabi, or nearest Consulate, for advice.
 
-Further information on the ETA is available at [Get an electronic travel authorisation (ETA) to visit the UK: Overview - GOV.UK](https://www.gov.uk/eta)
+Please contact the [**Federal Authority for Identity, Citizenship, Customs, and Security**](https://icp.gov.ae/en/contact-us/) to check your travel ban status in the UAE.
 
 ### **General Travel Advice**
 
