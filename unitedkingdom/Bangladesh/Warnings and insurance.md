@@ -1,34 +1,30 @@
 # Warnings and insurance
 
 Still current at:
-:   6 February 2026
+:   16 February 2026
 
 Updated:
-:   5 February 2026
+:   15 February 2026
 
 Latest update:
-:   FCDO now advises against all but essential travel to Bangladesh (‘Warnings and insurance’ page).
+:   We no longer advise against all but essential travel to the whole of Bangladesh. We continue to advise against all but essential travel to the Chittagong Hill Tracts ('Warnings and insurance' page)
 
-![](https://assets.publishing.service.gov.uk/media/69849f17468d351e1406b509/FCDO__TA__050_-_Bangladesh_Travel_Advice_Ed3__WEB_.jpg)
+![](https://assets.publishing.service.gov.uk/media/6991cc717da91680ad7f4436/Bangladesh_map.jpg)
 
 
-[Download a more detailed map (PDF, 1.02 MB)](https://assets.publishing.service.gov.uk/media/69849f17a886d1b3227bd718/FCDO__TA__050_-_Bangladesh_Travel_Advice_Ed3.pdf)
+[Download a more detailed map (PDF, 89.2 KB)](https://assets.publishing.service.gov.uk/media/6991cc7175466636847f6b56/Bangladesh.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
-## FCDO advises against all but essential travel to Bangladesh
+## Areas where FCDO advises against all but essential travel
 
-There is a threat of political violence and extremist attacks during the election period.  The security situation in Bangladesh may change quickly with no advance warning. For more information on the security situation, see [‘Safety and security’](https://www.gov.uk/foreign-travel-advice/bangladesh/safety-and-security).
+FCDO advises against all but essential travel to the Chittagong Hill Tracts, an area made up of the districts of:
+
+* Rangamati
+* Khagrachari
+* Bandarban
 
 Find out more about [why FCDO advises against travel](https://www.gov.uk/foreign-travel-advice/bangladesh/safety-and-security).
-
-## Support from the UK government
-
-FCDO’s ability to provide assistance is severely limited in areas where we advise against travel.
-
-## National elections
-
-Elections will take place in Bangladesh on 12 February. The election campaign started on 22 January. There is a threat of political violence and extremist attacks during the election period. Attacks could target political rallies and polling stations. They could also be indiscriminate. Remain aware of your surroundings. Stay away from large gatherings and other locations with a police or security presence. Follow the advice of local authorities. Plan carefully and make sure you have alternative plans if faced with any disruption.
 
 See [how to get help from the UK government abroad](https://www.contact.service.csd.fcdo.gov.uk/posts/pakistan/british-high-commission-islamabad) including in an emergency.
 

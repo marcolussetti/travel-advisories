@@ -18,7 +18,7 @@ Terrorists are very likely to try to carry out attacks. These attacks could be i
 * public transport
 * crowded areas
 * religious buildings
-* polling stations and political rallies
+* political rallies
 
 Some groups have targeted people who they consider to have views and lifestyles contrary to Islam, including religious minorities.
 
@@ -30,13 +30,13 @@ Remain aware of your surroundings. Avoid large gatherings and other locations wi
 
 ## Political situation
 
-In July and August 2024, a popular uprising led to widespread violence across Bangladesh, with many deaths and injuries.
-
-Bangladesh is due to hold national elections on 12 February 2026. The situation remains volatile. Political rallies and demonstrations are taking place. These can quickly turn violent leading to clashes. During demonstrations and strikes (‘hartals’), there can be arson, violence and vandalism in towns and cities across the country, which can result in fatalities.
+Bangladesh held national elections on 12 February 2026. Political rallies and demonstrations can quickly turn violent leading to clashes. During demonstrations and strikes (‘hartals’), there can be arson, violence and vandalism in towns and cities across the country, which can result in fatalities.
 
 There have been occasional attacks against minority religious communities.
 
 There have also been attacks targeting the police and security forces. These have included improvised explosive device (IED) attacks in major cities.
+
+In July and August 2024, a popular uprising led to widespread violence across Bangladesh, with many deaths and injuries.
 
 Be alert to quickly changing situations on the streets. Stay away from protests or demonstrations, rallies and large gatherings. If you see a demonstration starting, move to a place of safety. Follow the advice of local authorities. Follow updates in local media and [get email notifications](https://www.gov.uk/foreign-travel-advice/bangladesh/email-signup) when this travel advice is updated.
 
@@ -106,7 +106,7 @@ Both men and women should dress modestly to avoid causing offence. Women should 
 
 ### Ramadan
 
-Ramadan in 2026 is expected to start during the third week of February and last until the third week of March.
+Ramadan in 2026 is expected to start on the 17/18 February and last until the third week of March.
 
 Ramadan is a holy month for Muslims. Get advice on respecting Ramadan from your tour guide, hotel or business contacts.
 

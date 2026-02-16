@@ -1,11 +1,11 @@
 {
     "name": "Bangladesh",
-    "update_reason": "FCDO now advises against all but essential travel to Bangladesh (\u2018Warnings and insurance\u2019 page).",
+    "update_reason": "We no longer advise against all but essential travel to the whole of Bangladesh. We continue to advise against all but essential travel to the Chittagong Hill Tracts ('Warnings and insurance' page)",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Bangladesh/Warnings and insurance.md",
-            "update_date": "2026-02-05T15:45:54+00:00"
+            "update_date": "2026-02-15T13:52:06+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Bangladesh/Getting help.md"
         }
     ],
-    "update_date": "2026-02-05T15:45:54+00:00"
+    "update_date": "2026-02-15T13:52:06+00:00"
 }
