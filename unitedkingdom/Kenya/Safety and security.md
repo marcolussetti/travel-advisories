@@ -205,12 +205,8 @@ Kenya lies on an active fault and tremors occur from time to time. The last sign
 
 The US Federal Emergency Management Agency has advice about [what to do before, during and after an earthquake](http://www.ready.gov/earthquakes).
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/kenya/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/kenya/entry-requirements)
 
-[Next
-:
-Regional risks](/foreign-travel-advice/kenya/regional-risks)
+[Next:Regional risks](/foreign-travel-advice/kenya/regional-risks)
 
 [View a printable version of the whole guide](/foreign-travel-advice/kenya/print)

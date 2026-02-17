@@ -1,18 +1,18 @@
 # Warnings and insurance
 
 Still current at:
-:   11 December 2025
+:   17 February 2026
 
 Updated:
-:   10 December 2025
+:   16 February 2026
 
 Latest update:
-:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
+:   New information on travel disruption at Jomo Kenyatta International airport (‘Warnings and insurance’ page).
 
-![](https://assets.publishing.service.gov.uk/media/68cbf893b6d7ea468dbea672/FCDO__TA__055_-_Kenya_Travel_Advice_Ed6__WEB_.jpg)
+![](https://assets.publishing.service.gov.uk/media/696a6280448fedc1eb4248f0/FCDO__TA__055_-_Kenya_Travel_Advice_Ed7__WEB_.jpg)
 
 
-[Download a more detailed map (PDF, 704 KB)](https://assets.publishing.service.gov.uk/media/68cbf89425860ae11bbea671/FCDO__TA__055_-_Kenya_Travel_Advice_Ed6.pdf)
+[Download a more detailed map (PDF, 704 KB)](https://assets.publishing.service.gov.uk/media/696a6280cbe2202b38424901/FCDO__TA__055_-_Kenya_Travel_Advice_Ed7__1_.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
@@ -35,6 +35,10 @@ FCDO advises against all but essential travel to:
 * within 15km of the east coast between the Tana River and the Galana (Athi-Galana-Sabaki) River
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/kenya/regional-risks).
+
+## Travel disruption at Jomo Kenyatta International airport
+
+There is travel disruption at Jomo Kenyatta International Airport, due to ongoing strike action. Monitor local news and check for messaging from your airline or travel provider.
 
 ## Before you travel
 
@@ -64,8 +68,6 @@ Follow FCDO:
 * [travel advice on Facebook](https://www.facebook.com/FCDOTravel/)
 * [Travel Aware on Instagram](https://www.instagram.com/travelaware/)
 
-[Next
-:
-Entry requirements](/foreign-travel-advice/kenya/entry-requirements)
+[Next:Entry requirements](/foreign-travel-advice/kenya/entry-requirements)
 
 [View a printable version of the whole guide](/foreign-travel-advice/kenya/print)

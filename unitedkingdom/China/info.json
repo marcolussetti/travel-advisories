@@ -1,11 +1,11 @@
 {
     "name": "China",
-    "update_reason": "New information about dual nationals returning to the UK (\u2018Entry requirements\u2019 page).",
+    "update_reason": "Addition of information that from 17 February until 31 December 2026, you can enter China visa free for stays of up to 30 days for business, tourism, family or friend visits, or transit ('Entry requirements' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/China/Warnings and insurance.md",
-            "update_date": "2025-12-10T12:44:40+00:00"
+            "update_date": "2026-02-16T17:00:18+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/China/Getting help.md"
         }
     ],
-    "update_date": "2025-12-10T12:44:40+00:00"
+    "update_date": "2026-02-16T17:00:18+00:00"
 }

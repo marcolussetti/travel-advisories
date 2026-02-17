@@ -48,12 +48,8 @@ There have been attacks using landmines around Moyale, close to the main A2 road
 
 There is a significant security presence in Mount Elgon because of armed clashes. Further incidents are possible. Seek local advice before you set off.
 
-[Previous
-:
-Safety and security](/foreign-travel-advice/kenya/safety-and-security)
+[Previous:Safety and security](/foreign-travel-advice/kenya/safety-and-security)
 
-[Next
-:
-Health](/foreign-travel-advice/kenya/health)
+[Next:Health](/foreign-travel-advice/kenya/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/kenya/print)

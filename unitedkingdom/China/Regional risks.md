@@ -40,12 +40,8 @@ The ability of the British Embassy to help British nationals in Xinjiang Uyghur 
 
 There is continuing violence on the Myanmar side of the China-Myanmar border, which has occasionally spilled over into China. In early 2024, the Chinese authorities reported artillery shells from Myanmar had injured residents and damaged structures within its territory in Yunnan province, prompting increased armed patrols along the border.
 
-[Previous
-:
-Safety and security](/foreign-travel-advice/china/safety-and-security)
+[Previous:Safety and security](/foreign-travel-advice/china/safety-and-security)
 
-[Next
-:
-Health](/foreign-travel-advice/china/health)
+[Next:Health](/foreign-travel-advice/china/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/china/print)

@@ -50,7 +50,13 @@ You should get professional legal advice if you’re unsure of your citizenship 
 
 ## Visa requirements
 
-You must have a visa to visit mainland China.
+Until 31 December 2026, you can enter China visa free for stays of up to 30 days for business, tourism, family or friend visits or transit.
+
+If you travel to China for any other reason (this includes paid work, long-term assignments, journalism, or study) or for a stay exceeding 30 days, you must apply for a visa before your trip to China.
+
+If you have any doubt about your eligibility, verify the conditions for visa free entry with the Chinese Embassy in London.
+
+If you visit China without the appropriate visa or visa free access you will be refused entry.
 
 You can visit Hainan without a visa if you fly directly from an approved country or transit point. Check the [Hainan Authorities website](http://en.hnftp.gov.cn/tips/policy/202003/t20200317_3263796.html) for more information.
 
@@ -59,6 +65,8 @@ Depending on your travel plans, visa free transit options are available, includi
 Visa requirements for [Hong Kong](https://www.gov.uk/foreign-travel-advice/hong-kong/entry-requirements) and [Macao](https://www.gov.uk/foreign-travel-advice/macao/entry-requirements) are different.
 
 ### Applying for a visa
+
+Unless you meet the requirement for visa-free access, you must arrange a visa before traveling to China.
 
 If you’re 14 to 70 years old, you must apply for a visa online and then go in person to a [visa for China application centre](https://www.visaforchina.cn/). Officials will take a scan of your fingerprints as part of your application. There are visa application centres in London, Manchester, Belfast and Edinburgh. If you’re aged 13 or under, or 71 or over, you do not have to attend in person, but someone will need to submit your application on your behalf.
 
@@ -102,12 +110,8 @@ You must register your place of residence with the local Public Security Bureau 
 
 There are strict rules about [goods you can take into or out of China](http://english.customs.gov.cn/statics/88707c1e-aa4e-40ca-a968-bdbdbb565e4f.html). You must declare anything that may be prohibited or subject to tax or duty.
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/china)
+[Previous:Warnings and insurance](/foreign-travel-advice/china)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/china/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/china/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/china/print)

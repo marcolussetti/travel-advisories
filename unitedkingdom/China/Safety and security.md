@@ -243,12 +243,8 @@ See [guidance on tropical cyclones](https://www.gov.uk/tropical-cyclones) for ad
 
 Flooding and storms are common between May and November. You should monitor [local weather reports](http://www.cma.gov.cn/en2014/) and follow the advice and instructions of local authorities, including any evacuation orders.
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/china/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/china/entry-requirements)
 
-[Next
-:
-Regional risks](/foreign-travel-advice/china/regional-risks)
+[Next:Regional risks](/foreign-travel-advice/china/regional-risks)
 
 [View a printable version of the whole guide](/foreign-travel-advice/china/print)

@@ -1,11 +1,11 @@
 {
     "name": "Kenya",
-    "update_reason": "New information about dual nationals returning to the UK (\u2018Entry requirements\u2019 page).",
+    "update_reason": "New information on travel disruption at Jomo Kenyatta International airport (\u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Kenya/Warnings and insurance.md",
-            "update_date": "2025-12-10T12:56:27+00:00"
+            "update_date": "2026-02-16T16:17:48+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Kenya/Getting help.md"
         }
     ],
-    "update_date": "2025-12-10T12:56:27+00:00"
+    "update_date": "2026-02-16T16:17:48+00:00"
 }

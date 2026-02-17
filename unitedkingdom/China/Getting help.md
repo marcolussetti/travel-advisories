@@ -67,8 +67,6 @@ Follow FCDO:
 
 The Overseas Business Risk service offers [information and advice for British companies operating in China](https://www.gov.uk/government/publications/overseas-business-risk-china) on how to manage political, economic, and business security-related risks.
 
-[Previous
-:
-Health](/foreign-travel-advice/china/health)
+[Previous:Health](/foreign-travel-advice/china/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/china/print)

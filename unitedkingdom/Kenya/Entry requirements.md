@@ -38,12 +38,8 @@ There are strict rules about [goods you can take into or out of Kenya](https://w
 
 It is illegal to import or export drones without prior approval from the [Kenya Civil Aviation Authority (KCAA)](https://www.kcaa.or.ke/). Contact the KCAA well in advance of travel if you wish to bring a drone to Kenya.
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/kenya)
+[Previous:Warnings and insurance](/foreign-travel-advice/kenya)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/kenya/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/kenya/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/kenya/print)
