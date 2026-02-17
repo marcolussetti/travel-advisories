@@ -20,18 +20,14 @@ The features in this map do not constitute an authoritative source of geographic
 
 [Exercise a high degree of caution](#levels "Risk Levels") in Jordan due to ongoing tensions in the region and demonstrations.
 
-### Border with Syria - Avoid all travel
+### Borders with Iraq and Syria - Avoid all travel
 
-[Avoid all travel](#levels "Risk Levels") to all areas within 5 km of the border with Syria, with the exception of the tourist site Umm Qais, due to incidents linked to the conflict in Syria.
-
-### Border with Iraq - Avoid all travel
-
-[Avoid all travel](#levels "Risk Levels") to all areas within 5 km of the border with Iraq, due to incidents linked to the conflict in that country.
+[Avoid all travel](#levels "Risk Levels") to within 5 km of the borders with Iraq and Syria, with the exception of the tourist site Umm Qais, due to the threat of terrorism, cross-border violence and crime.
 
 ### Northeastern Jordan, east of Ruwaished - Avoid all travel
 
-[Avoid all travel](#levels "Risk Levels") to the east of the city of Ruwaished, in northeastern Jordan, due to military activity and the lack of emergency facilities.
+[Avoid all travel](#levels "Risk Levels") to all areas east of the city of Ruwaished in northeastern Jordan, including Highway 10 leading to Iraq past Ruwaished, due to military activity and the lack of emergency facilities.
 
 ### Refugee camps - Avoid non-essential travel
 
-[Avoid non-essential travel](#levels "Risk Levels") to to all refugee camps, including Zaatari and Azraq due to the unpredictable security situation
+[Avoid non-essential travel](#levels "Risk Levels") to to all refugee camps, including Zaatari and Azraq, due to the unpredictable security situation.

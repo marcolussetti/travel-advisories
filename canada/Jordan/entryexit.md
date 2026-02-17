@@ -42,13 +42,13 @@ Different entry rules may apply when travelling with a temporary passport or an 
 
 ### Visas
 
-Tourist visa: required, and valid for 30 days  
-Transit visa: required, and valid for 3 days  
-Visitor visa: required  
-Work visa: required  
-Student visa: required
+Tourist visa: required and valid for 3 months  
+ Transit visa: required and valid for 3 days  
+ Visitor visa: required  
+ Work visa: required  
+ Student visa: required
 
-You can apply for a tourist visa in advance through the Ministry of Tourism and Antiquities or a travel company. These visas are often linked to the Jordan Pass for tourists.
+You can apply for a tourist visa in advance through the Ministry of Tourism and Antiquities or a travel company. These visas are often linked to the Jordan Pass for tourists, which includes entry to various tourist sites and waives visa fees with a minimum stay.
 
 You can obtain a visitor or transit visa upon arrival.
 
@@ -62,19 +62,19 @@ Jordan doesn’t issue visas at the King Hussein Bridge (Allenby) border crossi
 
 You need to obtain a visa online or from a Jordanian diplomatic mission prior to travelling if you’re planning on entering Jordan at the King Hussein Bridge (Allenby) border crossing.
 
-You can extend the validity of your visa at any police station. For student and work visas, different procedures may apply.
+You can extend the validity of your visa at any police station. For work visas and student visas, different procedures may apply.
 
 If you overstay your visa, you’ll be fined when leaving the country.
 
-#### Residency and registration
+### Registration
 
 If you plan to stay in Jordan for more than 14 days, including if you’re travelling on a visitor visa, you must file a formal registration request.
 
-Requests can be submitted to the Public Security Directorate, one of its branches or a local police station within 14 days of the date you enter Jordan. Any police station can provide information on the required documents.
+Requests can be submitted to the Public Security Directorate, one of its branches or a local police station within 13 days of the date you enter Jordan. Any police station can provide information on the required documents. You should plan enough time to complete the registration process, which can take several hours.
 
 This requirement does not apply to:
 
-* tourist visa holders, during the first 30 days
+* tourist visa holders during the first 30 days
 * transit visa holders
 * Hajj visa holders
 
@@ -89,7 +89,7 @@ If you fail to register, you will be fined upon departure.
 #### Useful links
 
 * [Jordan Pass](https://jordanpass.jo/Default.aspx) – Ministry of Tourism and Antiquities
-* [Visa E Applications](https://moi.gov.jo/EN/Pages/Visa_E_Applications) – Ministry of Interior
+* [Visa E Applications](https://moi.gov.jo/EN/Pages/Visa_E_Applications) – Ministry of Interior
 
 ### Health entry requirements
 
@@ -97,7 +97,7 @@ You must take a medical exam to obtain a residency permit, including mandatory t
 
 ### Other entry requirements
 
-Canadians who were previously in Jordan under a Refugee Status Determination process may be subject to different entry requirements and should contact the nearest Jordanian Embassy before travel.
+Canadians who were previously in Jordan under a Refugee Status Determination process may be subject to different entry requirements and should contact the nearest Jordanian embassy before travel.
 
 [Foreign Representatives in Canada](https://www.international.gc.ca/protocol-protocole/reps.aspx?lang=eng)
 
@@ -105,17 +105,15 @@ Canadians who were previously in Jordan under a Refugee Status Determination pro
 
 If travelling from Jordan to neighbouring countries, ensure that you obtain your visas before departing Canada. These countries don’t normally issue visas at border crossings to individuals without a Jordanian residency permit.
 
-#### Travelling to and from Israel
+### Travelling to and from Israel and Palestine
 
-Consult our travel advice for Israel, the West Bank and Gaza Strip for more information on entry requirements.
+Consult our travel advice for [Israel and Palestine](https://travel.gc.ca/destinations/israel-and-palestine) for more information on entry requirements.
 
 If you’re travelling beyond Jordan, note that other countries have denied Canadians entry because their passports bore a Jordanian border stamp issued by an office bordering Israel. Such a stamp would indicate that the traveller had entered Jordan from Israel.
 
-#### Travelling from Egypt
+### Travelling from Egypt
 
 You’ll need to show your Egyptian entry and exit stamps to border officials when arriving from Egypt.
-
-[Foreign diplomatic missions and consulates in Canada](http://www.international.gc.ca/protocol-protocole/reps.aspx?lang=eng)
 
 ### Customs
 

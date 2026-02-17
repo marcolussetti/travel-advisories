@@ -25,11 +25,19 @@ Penalties for possession, use or trafficking of illegal drugs are severe. Convic
 
 [Drugs, alcohol and travel](https://travel.gc.ca/travelling/health-safety/drugs)
 
-### Firearms
+### Imports
+
+#### Firearms
 
 It’s illegal to import firearms into Colombia.
 
 Conviction may result in lengthy prison sentences.
+
+#### Drones
+
+You may only bring drones into Colombia through El Dorado International Airport in Bogotá. You must complete a customs form on arrival to confirm the intended use of the drone.
+
+[New customs measures to control the import of drones into the country](https://www.dian.gov.co/Prensa/Paginas/NG-DIAN-actualiza-disposiciones-y-fortalece-el-control-aduanero-para-el-ingreso-e-importacion-de-drones-al-pais.aspx) – National Directorate of Taxes and Customs (Spanish only)
 
 ### Political activities
 

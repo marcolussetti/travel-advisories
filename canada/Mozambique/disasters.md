@@ -4,11 +4,7 @@
 
 Since January 2026, heavy rains have caused severe flooding and landslides, resulting in casualties and significant damage to buildings and infrastructure.
 
-Starting February 13, 2026, Tropical Cyclone Gezani will impact the eastern coastal provinces of Sofala, Inhambame and Gaza.
-
-The storm is likely to bring excessive rainfall and violent winds. It may cause flash flooding and landslides.
-
-Essential services, already affected by previous floods, could be further disrupted in the coming days, including:
+Essential services are disrupted across several central and southern provinces, particularly Gaza and Maputo, including:
 
 * transportation
 * power distribution

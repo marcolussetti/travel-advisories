@@ -203,13 +203,25 @@ To lower your risk of getting sexually transmissible infections (STIs), HIV, and
 
 ### Medical services and facilities
 
-Modern medical care is available in Amman but could be inadequate elsewhere. Procedures often require immediate cash payment.
+Modern health care is available in Amman but could be inadequate elsewhere. Immediate cash payment is often required for medical procedures.
 
-Medical evacuation can be very expensive. You may need it in case of serious illness or injury.
+Medical evacuation can be very expensive and you may need it in case of serious illness or injury.
 
 Make sure you get travel insurance that includes coverage for medical evacuation and hospital stays.
 
 [Health and safety outside Canada](https://travel.gc.ca/travelling/health-safety)
+
+### Medication
+
+Some prescription medications may not be available in Jordan.
+
+If you take prescription medications, you’re responsible for determining their legality in Jordan.
+
+* Bring enough medication for your stay
+* Always keep your medication in the original container and carry a copy of your prescriptions
+* Pack your medication in your carry-on luggage
+
+[Travelling with medication](https://travel.gc.ca/travelling/health-safety/medication?_ga=2.191785258.1604296173.1718630005-1405742948.1680118138)
 
 ### Keep in Mind...
 

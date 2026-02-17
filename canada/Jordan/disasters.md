@@ -2,9 +2,20 @@
 
 ## Natural disasters and climate
 
-Jordan is located in an active seismic zone. Strong aftershocks may occur up to one week after the initial earthquake. Landslides are possible in certain areas.
+### Earthquakes
 
-Droughts and sand and dust storms occur.
+Jordan is located in an active seismic zone. Earthquakes may occur. Strong aftershocks may occur up to one week after the initial earthquake. Landslides are possible in certain areas.
+
+### Sand, dust and snow storms
+
+Sand and dust storms occur.
+
+During a sand or dust storm:
+
+* stay indoors
+* keep doors and windows closed
+* follow the instructions of local authorities
+* monitor local media for the latest information
 
 Snowfall is infrequent but can cause extensive road closures and disrupt public services.
 
@@ -12,11 +23,11 @@ Snowfall is infrequent but can cause extensive road closures and disrupt public 
 
 The rainy season usually extends from November to March.
 
-Heavy rain can result in flash floods in dry river beds and canyons (or “wadis”).  
-Flash floods and landslides can hamper overland travel and reduce the provision of essential services. Roads may become impassable and bridges damaged.
+Heavy rain can result in large, sometimes deadly, flash floods in dry riverbeds and canyons (or “wadis”), as well as on roads and highways. Flash floods and landslides can occur outside the rainy season. They can hamper overland travel and reduce the provision of essential services. Roads may become impassable and infrastructure damaged.
 
-• Monitor local news and weather reports  
-• Stay away from the affected areas  
-• Follow the instructions of local authorities, including evacuation orders
+* Monitor local media for the latest information, including on road conditions
+* Stay away from flooded areas
+* Monitor weather reports
+* Follow the instructions of local authorities, including evacuation orders
 
 Weather forecast – [Jordan Meteorological Department](http://jmd.gov.jo/en)

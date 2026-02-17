@@ -10,9 +10,9 @@ Verify the status of border crossings ahead of time.
 
 Tensions can flare up suddenly in the Middle East, and lead to travel disruptions, including flight cancellations and airspace closures.
 
-### Areas within 5 km of the borders with Syria and Iraq, with the exception of the tourist site Umm Qais
+### Areas within 5 km of the borders with Iraq and Syria, except the tourist site Umm Qais
 
-Clashes involving small arms and mortar fire have occurred in the areas bordering Syria and Iraq, due to the ongoing conflict in these countries. Borders with Syria and Iraq are highly militarized. Government security forces may engage vehicles and people coming into Jordan illegally.
+Clashes involving small arms and mortar fire have occurred in the areas bordering Iraq and Syria. Borders with Iraq and Syria are highly militarized. Government security forces may engage vehicles and people coming into Jordan illegally.
 
 ### Refugee camps
 
@@ -20,46 +20,49 @@ You must receive the Government of Jordan’s approval for travel to the Syrian 
 
 ### Terrorism
 
-There’s a threat of terrorism. Transnational and domestic terrorist groups have demonstrated the capability to plan and implement attacks in Jordan. Terrorist attacks could occur at any time.
+There is a threat of terrorism. Transnational and domestic terrorist groups have planned and carried out attacks in Jordan. Terrorist attacks could occur at any time.
 
-Jordanian security forces have increased their operations across the country. This has resulted in the deaths of suspected terrorists, bystanders and local security officers. Further counterterrorism operations are expected throughout Jordan. Heightened security measures are in place.
+Jordanian security forces have increased their operations across the country. This has resulted in the arrest or death of suspected terrorists, bystanders and local security officers. Further counterterrorism operations are expected throughout Jordan. Heightened security measures are in place.
 
 Targets could include:
 
 * government buildings, including police stations
 * places of worship
 * airports and other transportation hubs and networks
-* public areas such as tourist attractions, restaurants, bars, coffee shops, shopping centres, markets, hotels and other sites frequented by foreigners
+* public areas such as restaurants, bars, coffee shops, shopping centres, markets, hotels and other sites frequented by foreigners
 
 Always be aware of your surroundings when in public places.
 
 ### Demonstrations
 
-Demonstrations occur regularly. Even peaceful demonstrations can turn violent at any time. They can also lead to disruptions to traffic and public transportation.
-
-* Avoid areas where demonstrations and large gatherings are taking place
-* Follow the instructions of local authorities
-* Monitor local media for information on ongoing demonstrations
-
-Protests related to the ongoing conflicts in Israel, the West Bank and the Gaza Strip are taking place periodically at various locations across Jordan.
+Demonstrations occur regularly, often on Friday afternoons. They take place at various locations across Jordan.
 
 Major gathering places have included:
 
-* places of worship, especially:
-
-+ the Al Husseini Mosque in downtown Amman
-+ the Al Kalouti mosque near the Israeli embassy in Rabieh, Amman
-
+* places of worship
 * refugee camps, including:
+  + the al-Wehdat refugee camp in South Amman
+  + the Baqa’a refugee camp near Ein Al-Basha on the Amman-Jerash highway
+* in Amman:
+  + various neighbourhoods in East Amman
+  + the Al Kalouti mosque near the Israeli Embassy in Rabieh
+  + in front of the Prime Ministry at 4th Circle on Zahran Street
+  + the Al Husseini mosque downtown
+  + in front of Parliament in Abdali District
 
-+ the al-Wehdat refugee camp in South Amman
-+ the Baqa'a refugee camp near Ein Al-Basha on the Amman-Jerash highway
+Other cities in Jordan where large demonstrations may occur include:
 
-* various neighbourhoods in East Amman
+* Irbid
+* Karak
+* Ma’an
+* Madaba
+* Mafraq
+* Salt
+* Zarqa
 
-Most protests have been peaceful and contained by security forces. Isolated incidents of clashes with security forces have been reported.
+Most protests have been peaceful and contained by security forces. However, even peaceful demonstrations can turn violent at any time. They can also lead to disruptions to traffic and public transportation.
 
-Future protests near border areas could result in confrontations between security forces and demonstrators. They could lead to temporary closures of the Dead Sea highway and surrounding roads.
+Isolated incidents of clashes with security forces have been reported.
 
 Jordanian authorities may employ enhanced measures to respond to demonstrations, including:
 
@@ -67,53 +70,42 @@ Jordanian authorities may employ enhanced measures to respond to demonstrations,
 * using crowd dispersal methods
 * establishing checkpoints and roadblocks
 
-Protests may occur at various locations across the country.
+During your trip:
 
-#### In Amman
-
-Demonstrations have occurred in Amman at locations including:
-
-* the Al Husseini Mosque, downtown;
-* in front of Parliament in Abdali District;
-* in front of the Prime Ministry at 4th circle on Zahran Street.
-
-#### Outside of Amman
-
-Other cities in Jordan where large demonstrations occur frequently include Irbid, Kerak, Ma’an, Madaba, Mafraq, Salt and Zarqa.
+* avoid areas where demonstrations and large gatherings are taking place
+* follow the instructions of local authorities
+* monitor local media for information on ongoing demonstrations
 
 [Mass gatherings (large-scale events)](https://travel.gc.ca/travelling/health-safety/mass-gatherings)
 
 ### Crime
 
-#### Petty Crime
+#### Petty crime
 
-The crime rate is low by regional standards. Petty crime occurs, especially at tourist sites and in crowded areas. Theft of vehicles, assaults, robberies and attempted residential break-ins also occur.
+The crime rate is low by regional standards. Petty crime, such as pickpocketing and bag snatching, occurs, especially at tourist sites and in crowded areas. Assaults, robberies and burglaries also occur.
 
-* Ensure that your personal belongings, including your passport and other travel documents, are secure at all times
-* Always carry a photocopy of identification documents for identification purposes
-* Don’t display valuables in your car or on your person
-* Lock car doors and windows
-* Avoid travelling alone, especially in remote areas
+During your trip:
+
+* keep your personal belongings, including your passport and other travel documents, in a secure place
+* do not show signs of affluence or wear expensive jewellery
+* always keep car doors and windows closed and locked
+* avoid travelling alone, especially in remote areas
 
 ### Adulterated alcohol
 
-People have died in Jordan after drinking methanol-adulterated alcohol. Poisoning incidents have happened at various locations, including in Amman, Zarqa and Balqa.
+Several people died in Jordan in June 2025 after drinking methanol-adulterated alcohol.
 
-You should be alert to the risk of poisoning when buying and/or consuming lesser-known alcohol brands. Even if the wrapping or container appears intact, it may contain substances that could put your health at risk.
+While the incident was contained, you should remain alert to the risk of poisoning when buying and/or consuming lesser-known alcohol brands. Even if the wrapping or container appears intact, it may contain substances that could put your health at risk.
 
 * Be cautious if you choose to drink alcohol
 * Avoid buying alcohol from individuals
 * Seek medical assistance if you begin to feel sick
 
-[Alcohol, drugs and travel](https://travel.gc.ca/travelling/health-safety/drugs)
+[Drugs, alcohol and travel](https://travel.gc.ca/travelling/health-safety/drugs)
 
 ### Firearms
 
-Incidents of celebratory gunfire, while illegal, are common and occasionally result in injury and death.
-
-### Tribal violence
-
-Clashes between tribes, clans or families periodically erupt and sometimes involve the use of firearms. Response from authorities is often delayed or non-existent.
+Celebratory gunfire, while illegal, occurs and occasionally results in injury and death.
 
 ### Women’s safety
 
@@ -121,46 +113,53 @@ Women travelling alone may be subject to some forms of harassment and verbal abu
 
 Sexual harassment and assaults have occurred.
 
-Women have been detained when reporting a sexual assault. Women must prove that any sexual activity was not consensual to avoid being charged under extramarital sex statutes.
+If you’re the victim of a sexual assault, you should report it immediately to the nearest Government of Canada office.
 
 Women should:
 
 * dress conservatively
 * travel in groups
 * travel during daylight hours
-* sit in the back seat of taxis.
+* sit in the back seat of taxis
 
 [Advice for women travellers](https://travel.gc.ca/travelling/health-safety/advice-for-women-travellers "Advice for women travellers")
 
-### Road safety
+### Roads
 
-Road conditions and road safety can vary greatly throughout the country. Driving conditions may be hazardous during winter. Accidents are common but more frequent during Ramadan and Eid.
+Road conditions and road safety can vary greatly throughout the country. Driving conditions may be hazardous during the winter.
 
-Some drivers don’t respect traffic laws. Drivers may be aggressive and drive very close to each other. It’s typical for drivers not to use signals to indicate turns or lane changes. Drivers often talk or text on mobile phones while driving, although this is illegal in Jordan.
+Some drivers don’t respect traffic laws and can be aggressive and reckless. They often talk or text on mobile phones while driving, although this is illegal in Jordan.
 
-Off-road driving can be hazardous, and you should only do it in a convoy of four-wheel-drive vehicles with an experienced guide.
+Off-road driving can be hazardous. You should only do it in a convoy of four-wheel-drive vehicles with an experienced guide.
 
-* Avoid driving at night in rural areas, as roaming animals and insufficient lighting create hazards after dark
-* Leave your travel itinerary with a family member or friend
-* Be well prepared and equipped with gasoline, water, food and a cellular phone
+Driving can also be dangerous due to:
 
-#### If you’re involved in an accident
+* insufficient lighting
+* stray livestock
 
-Many drivers involved in an accident may avoid calling the police and try to negotiate a settlement instead. However, they may later try to file a claim against you.
+If you choose to drive in Jordan:
 
-In the event of an accident causing personal injury, the driver may be held for several days until responsibility and appropriate restitution is determined.
-
-To avoid legal issues, call the police to attend the scene of the accident and assess responsibility.
+* avoid travelling after dark
+* inform a friend or family member of your itinerary
+* fill your gas tank before you travel, especially if you are travelling to a remote area
 
 ### Public transportation
 
-Public transportation is usually very crowded. It can be uncomfortable.
+#### Buses
 
-### Taxis
+Due to overcrowding and inconsistent maintenance, you should avoid using smaller-style “coaster” buses.
 
-The cleanliness and mechanical reliability of taxis vary considerably. Book taxis through hotels.
+#### Taxis and ride-sharing services
 
-Vehicles booked through ride-hailing applications are generally more reliable and in better condition than taxis in Jordan.
+The cleanliness and mechanical reliability of taxis vary considerably.
+
+Licensed taxis have a government-issued sticker on the windshield.
+
+Vehicles booked through ride-sharing applications are generally more reliable and in better condition than taxis.
+
+* Only use officially marked taxis
+* Ask for your taxi at the front desk if you’re using hotel services
+* Avoid hailing taxis on the street
 
 ### Air travel
 

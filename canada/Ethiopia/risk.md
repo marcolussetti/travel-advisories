@@ -41,7 +41,6 @@ Additional regional advice and advisories are in effect. Our ability to provide 
 [Avoid all travel](#levels "Risk Levels") to the following areas in the central regions due to civil unrest, violent crime, kidnapping, armed conflict and airstrikes:
 
 * Gambella
-* Sidama
 * the following zones in the Oromia region:
   + North Shewa
   + West Shewa, except the A4 highway, from Addis to and including Ambo where you should avoid non-essential travel
