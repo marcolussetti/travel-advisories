@@ -1,7 +1,7 @@
 {
     "name": "Morocco",
-    "update_reason": "Natural disasters and climate \u2013 added information on flooding",
-    "update_date": "2026-02-04T15:54:00",
+    "update_reason": "Natural disasters and climate \u2013 removed information on flooding",
+    "update_date": "2026-02-17T08:12:00",
     "sections": {
         "risk": "canada/Morocco/risk.md",
         "security": "canada/Morocco/security.md",
