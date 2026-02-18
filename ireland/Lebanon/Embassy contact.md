@@ -15,7 +15,7 @@ Monday to Friday 09:30-12:30
 Cairo   
 Egypt
 
-[Tel: +202 272 87100](tel:+202272 87100)
+[Tel: +2 272 87100](tel:+2272 87100)
 
 ### Honorary Consul of Ireland, Lebanon
 

@@ -11,20 +11,18 @@ Monday to Friday 09:30-12:30
 Cairo   
 Egypt
 
-[Tel: +202 272 87100](tel:+202272 87100)
+[Tel: +2 272 87100](tel:+2272 87100)
 
 ### Honorary Consul of Ireland, Alexandria
 
 Hisham G Helmy   
-30 Behind Partice Lumumba Street,   
-El-Shalalat - Bab Sharky,   
+30 Behind Partice Lumumba Street   
+El-Shalalat - Bab Sharky   
 Alexandria   
 Egypt
 
-[Tel: +002 03 4941007](tel:+00203 4941007)
+[Tel: +2 03 4941007](tel:+203 4941007)
 
-[Alt tel: +002 03 4941008](tel:+00203 4941008)
+[Alt tel: +2 03 4941008](tel:+203 4941008)
 
-**Email:** [**amira.elsaeed@honoraryconsul.ie**](mailto:amira.elsaeed@honoraryconsul.ie) (primary)
-
-[**hisham.helmy@honoraryconsul.ie**](mailto:hisham.helmy@honoraryconsul.ie)
+**Email:** [**amira.elsaeed@honoraryconsul.ie**](mailto:amira.elsaeed@honoraryconsul.ie) (primary), [**hisham.helmy@honoraryconsul.ie**](mailto:hisham.helmy@honoraryconsul.ie)

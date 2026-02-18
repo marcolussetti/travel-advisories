@@ -30,18 +30,6 @@ SM22, Cancún
 
 **Email:** [anthony.leeman@honoraryconsul.ie](mailto:anthony.leeman@honoraryconsul.ie)
 
-### ​Honorary Consul of Ireland, Guadalajara
-
-Mr. John Tobin   
-Quiptech, QTEK Mexico S de RL de CV   
-Camino a La Tijera 806 A-1, Col La Tijera   
-Tlajomulco de Zuniga, Jalisco   
-Mexico CP 45637
-
-[Tel: +52 333 687 0547](tel:+52333 687 0547)
-
-**Email:** [john.tobin@honoraryconsul.ie](mailto:john.tobin@honoraryconsul.ie)
-
 ### Honorary Consul of Ireland, Monterrey
 
 Mr. Roger González Lau   

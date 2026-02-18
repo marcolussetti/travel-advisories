@@ -4,6 +4,10 @@
 
 Normal Precautions
 
+### **Travel Alert**
+
+Seychelles are currently experiencing an outbreak of Chikungunya virus, a disease transmitted by mosquitoes. While not normally life-threatening, pregnant women infected around time of delivery can pass the virus to their baby, with risk of severe illness. Visitors can protect themselves by avoiding mosquito bites and should seek medical care if they develop fever, joint pain, headache, muscle pain or rash, during or after travel.
+
 ### **General Travel Advice**
 
 Irish citizens do not require a visa to enter Seychelles. All visitors are required to complete a digital Travel authorisation immigration form in advance of travel.
