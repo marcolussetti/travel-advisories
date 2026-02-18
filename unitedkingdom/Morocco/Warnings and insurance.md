@@ -1,17 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   5 February 2026
+:   18 February 2026
 
 Updated:
-:   4 February 2026
+:   17 February 2026
 
 Latest update:
-:   New information about risks from severe weather conditions in several areas across Morocco ('Warnings and insurance' page).
-
-## Severe weather warnings
-
-Direction Générale de la Météorologie is issuing red-level alerts for several areas across Morocco due to exceptionally heavy rainfall, storm activity and significant flood risk. The situation is changing daily. Monitor the [Direction Générale de la Météorologie](https://www.marocmeteo.ma/) website for weather updates.
+:   Removal of information about risks from severe weather conditions in several areas across Morocco.
 
 ## Before you travel
 

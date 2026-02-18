@@ -53,8 +53,10 @@ Take particular care during periods of national, social or religious significanc
 
 Examples of recent attacks include:
 
+* on 6 February 2026, a suicide bombing at the Imam Bargah Mosque in Islamabad killed at least 36 people and injured more than 150; Da’esh (IS) claimed responsibility for the attack
+* in January 2026, coordinated attacks by the Balochistan Liberation Army (BLA) across multiple towns in Balochistan resulted in the deaths of at least 31 civilians and 17 security personnel. Militants targeted government buildings, security installations, and public areas
+* on 11 November 2025, a suicide bombing outside Islamabad’s district courts complex killed 12 people and injured more than two dozen
 * in March 2025, the Jaffar Express passenger train travelling from Quetta to Peshawar, with at least 380 passengers on board, was hijacked by the Balochistan Liberation Army (BLA), resulting in 64 deaths
-* in November 2024, a suicide attack by Baloch separatists at Quetta railway station killed at least 26 people.
 * in October 2024, a suicide attack near Karachi’s Jinnah International Airport killed 4 individuals - including two Chinese nationals and two Pakistani civilians
 * public service and health officials have been attacked while working on health programmes
 

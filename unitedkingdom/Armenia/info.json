@@ -1,11 +1,11 @@
 {
     "name": "Armenia",
-    "update_reason": "New information about dual nationals returning to the UK (\u2018Entry requirements\u2019 page).",
+    "update_reason": "This travel advice was reviewed for accuracy and there are no significant updates.",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Armenia/Warnings and insurance.md",
-            "update_date": "2025-12-10T12:55:53+00:00"
+            "update_date": "2026-02-17T09:16:01+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Armenia/Getting help.md"
         }
     ],
-    "update_date": "2025-12-10T12:55:53+00:00"
+    "update_date": "2026-02-17T09:16:01+00:00"
 }

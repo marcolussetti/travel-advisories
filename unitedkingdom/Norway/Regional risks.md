@@ -8,12 +8,8 @@ You should also read [FCDO’s overall travel advice](/foreign-travel-advice/nor
 
 Follow the [safety advice of the Governor of Svalbard](http://www.sysselmannen.no/en/), including on how to protect yourself from polar bear attacks, the risks of glaciers, avalanches and other dangers outside the main town of Longyearbyen.
 
-[Previous
-:
-Safety and security](/foreign-travel-advice/norway/safety-and-security)
+[Previous:Safety and security](/foreign-travel-advice/norway/safety-and-security)
 
-[Next
-:
-Health](/foreign-travel-advice/norway/health)
+[Next:Health](/foreign-travel-advice/norway/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/norway/print)

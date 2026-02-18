@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   11 December 2025
+:   18 February 2026
 
 Updated:
-:   10 December 2025
+:   17 February 2026
 
 Latest update:
-:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
+:   This travel advice was reviewed for accuracy and there are no significant updates.
 
 ![](https://assets.publishing.service.gov.uk/media/615dcc368fa8f5297eda6658/FCDO__TA__003_-_Armenia_Travel_Advice_Ed3__WEB_.jpg)
 
@@ -56,8 +56,6 @@ Follow FCDO:
 * [travel advice on Facebook](https://www.facebook.com/FCDOTravel/)
 * [Travel Aware on Instagram](https://www.instagram.com/travelaware/)
 
-[Next
-:
-Entry requirements](/foreign-travel-advice/armenia/entry-requirements)
+[Next:Entry requirements](/foreign-travel-advice/armenia/entry-requirements)
 
 [View a printable version of the whole guide](/foreign-travel-advice/armenia/print)

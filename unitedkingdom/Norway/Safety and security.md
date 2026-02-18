@@ -76,12 +76,8 @@ The winter is long and can last well into April. Temperatures can drop to -25°C
 
 There is a risk of wildfires, especially during hot and dry periods. Police enforce bans on campfires in many areas.
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/norway/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/norway/entry-requirements)
 
-[Next
-:
-Regional risks](/foreign-travel-advice/norway/regional-risks)
+[Next:Regional risks](/foreign-travel-advice/norway/regional-risks)
 
 [View a printable version of the whole guide](/foreign-travel-advice/norway/print)

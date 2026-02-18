@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   8 February 2026
+:   18 February 2026
 
 Updated:
-:   7 February 2026
+:   17 February 2026
 
 Latest update:
-:   Updated information about explosion at the Imam Bargah Qasr-e-Khadijatul Kubra Mosque in Islamabad ('Warnings and insurance' page)
+:   Updated information about recent attacks ( 'Safety and security' page).
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
@@ -74,14 +74,6 @@ FCDO advises against all but essential travel to all areas of Sindh Province nor
 FCDO advises against all but essential travel to Dera Ghazi Khan.
 
 Find out more about [why FCDO advises against travel to these regions](/foreign-travel-advice/pakistan/regional-risks).
-
-## Terrorist Incident in Islamabad
-
-We are aware of the terrorist incident on Friday 6 February 2026 at the Imam Bargah Qasr-e-Khadijatul Kubra Mosque in Islamabad. Da’esh (also known as Islamic State) has claimed responsibility for the attack and at least 36 people are reported to have been killed.
-
-Local authorities have declared a medical emergency. If you are in the immediate area, continue to follow the advice of the local authorities and monitor local media.
-
-British nationals who require urgent consular assistance should call the FCDO on +92 (0) 51 201 2000 or +44 (0) 20 7008 5000.
 
 ## Before you travel
 

@@ -1,11 +1,11 @@
 {
     "name": "Guatemala",
-    "update_reason": "Update to reflect 30-day nationwide siege. Likely restrictions and disruptions ('Warnings and insurance' page).",
+    "update_reason": "New information on the \u2018State of Prevention' currently in effect in Guatemala ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Guatemala/Warnings and insurance.md",
-            "update_date": "2026-01-19T01:21:45+00:00"
+            "update_date": "2026-02-17T16:34:36+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Guatemala/Getting help.md"
         }
     ],
-    "update_date": "2026-01-19T01:21:45+00:00"
+    "update_date": "2026-02-17T16:34:36+00:00"
 }

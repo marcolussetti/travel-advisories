@@ -1,11 +1,11 @@
 {
     "name": "Pakistan",
-    "update_reason": "Updated information about explosion at the Imam Bargah Qasr-e-Khadijatul Kubra Mosque in Islamabad ('Warnings and insurance' page)",
+    "update_reason": "Updated information about recent attacks ( 'Safety and security' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Pakistan/Warnings and insurance.md",
-            "update_date": "2026-02-07T21:21:31+00:00"
+            "update_date": "2026-02-17T15:09:57+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Pakistan/Getting help.md"
         }
     ],
-    "update_date": "2026-02-07T21:21:31+00:00"
+    "update_date": "2026-02-17T15:09:57+00:00"
 }

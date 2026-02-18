@@ -95,12 +95,8 @@ There is a risk of earthquakes. The last serious earthquake was in 1988 in the L
 
 The US Federal Emergency Management Agency has advice about [what to do before, during and after an earthquake](http://www.ready.gov/earthquakes).
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/armenia/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/armenia/entry-requirements)
 
-[Next
-:
-Regional risks](/foreign-travel-advice/armenia/regional-risks)
+[Next:Regional risks](/foreign-travel-advice/armenia/regional-risks)
 
 [View a printable version of the whole guide](/foreign-travel-advice/armenia/print)

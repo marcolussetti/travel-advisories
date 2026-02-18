@@ -15,6 +15,10 @@ Check with your travel provider that your passport and other travel documents me
 
 You will be denied entry if you do not have a valid travel document or try to use a passport that has been reported lost or stolen.
 
+## Dual nationals
+
+When returning to the UK, British citizens must carry a valid British passport or [proof of right of abode](https://www.gov.uk/right-of-abode). See [Dual Citizenship](https://www.gov.uk/dual-citizenship).
+
 ## Visa requirements
 
 You can travel without a visa to the Schengen area, which includes Norway, for up to 90 days in any 180-day period. This applies if you travel:
@@ -57,7 +61,7 @@ From 12 October 2025, the European Union’s (EU) new Entry/Exit System (EES) wi
 
 This means that when you travel into the Schengen area for short stays, you may need to register your biometric details, such as fingerprints and a photo. You do not need to take any action before you arrive at the border, and there is no cost for EES registration.
 
-On your first visit into a Schengen country from 12 October onwards, you may be asked to register your details at a special booth before proceeding to the immigration desk. Follow directions from your travel operator or the staff at your port of entry. You may also need to provide either your fingerprint or photo when you leave the Schengen area. Children aged 11 or younger will not have their fingerprints scanned but may need their photo taken.
+On your first visit into a Schengen country from 12 October onwards, you may be asked to register your details at a special booth before proceeding to the immigration desk. Follow directions from your travel operator or the staff at your port of entry. You may also need to provide either your fingerprint or photo when you leave the Schengen area. Children aged 11 or younger will not have their fingerprints scanned but can be required to have their photo taken.
 
 EES may take each passenger a few extra minutes to complete so be prepared to wait longer than usual at the border.
 
@@ -95,12 +99,8 @@ You cannot take [meat, milk or products containing them into EEA countries](http
 
 Declare cash or travellers cheques if the [value is 25,000 Norwegian krone or more](https://www.toll.no/en/goods/currency/). If you do not declare it, you could get a substantial fine and temporary confiscation of the excess money, which may then be released only through a bank.
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/norway)
+[Previous:Warnings and insurance](/foreign-travel-advice/norway)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/norway/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/norway/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/norway/print)

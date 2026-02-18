@@ -20,12 +20,8 @@ The land border with Turkey is closed, although there are scheduled direct fligh
 
 Travelling in the South Caucasus can be unpredictable and infrastructure is sometimes in a poor state of repair. Plan your travel carefully.
 
-[Previous
-:
-Safety and security](/foreign-travel-advice/armenia/safety-and-security)
+[Previous:Safety and security](/foreign-travel-advice/armenia/safety-and-security)
 
-[Next
-:
-Health](/foreign-travel-advice/armenia/health)
+[Next:Health](/foreign-travel-advice/armenia/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/armenia/print)

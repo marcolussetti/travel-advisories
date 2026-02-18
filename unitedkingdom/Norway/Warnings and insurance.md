@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   7 October 2025
+:   18 February 2026
 
 Updated:
-:   6 October 2025
+:   17 February 2026
 
 Latest update:
-:   Updated with information about the new Entry/Exit System (EES) which will start to be rolled out on 12 October to people travelling into the EU (‘Entry requirements’ page).
+:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
 
 ## Before you travel
 
@@ -37,8 +37,6 @@ Follow FCDO:
 * [travel advice on Facebook](https://www.facebook.com/FCDOTravel/)
 * [Travel Aware on Instagram](https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Ftravelaware%2F&is_from_rle)
 
-[Next
-:
-Entry requirements](/foreign-travel-advice/norway/entry-requirements)
+[Next:Entry requirements](/foreign-travel-advice/norway/entry-requirements)
 
 [View a printable version of the whole guide](/foreign-travel-advice/norway/print)

@@ -1,33 +1,25 @@
 # Warnings and insurance
 
 Still current at:
-:   24 January 2026
+:   18 February 2026
 
 Updated:
-:   23 January 2026
+:   17 February 2026
 
 Latest update:
-:   Updated information on ongoing travel disruption affecting routes between Madrid and Andalusia (‘Warnings and insurance’ page).
+:   Updated information to reflect resumed high speed rail services between Madrid and Andalusia, and continued disruption on routes to Malaga and Algeciras ('Warnings and insurance' page).
 
 ## Travel disruption
 
 On 18 January, two high‑speed trains collided near Adamuz, in the province of Córdoba in Andalusia, southern Spain.
 
-High‑speed rail services between Madrid and Andalusia remain severely disrupted. Renfe, the national railway operator, has introduced a replacement transport plan combining train and bus services. Additional bus and rail services operate on some routes.
+High speed rail services between Madrid and Andalusia have resumed, except services to Malaga and Algeciras. These routes are still severely disrupted. Renfe, the national rail operator, is running a replacement transport plan combining train and bus services for people affected by the disruption.
 
 You should:
 
 * check the latest information with your train operator before you travel
 * allow extra time for your journey
 * follow local authority advice
-
-If you need assistance or information about affected passengers, you can contact:
-
-* ADIF: (+34) 900 10 10 20 @Adif\_es
-* IRYO: (+34) 900 00 14 02 @iryo\_eu
-* Emergency services (112 EMA): From inside Andalusia: 061; from outside Andalusia: (+34) 953 00 11 49
-
-If you are a British national and you or a family member have been affected by this accident and require consular support, call the nearest British Embassy or Consulate on 0034 91 714 6300.
 
 ## Before you travel
 
