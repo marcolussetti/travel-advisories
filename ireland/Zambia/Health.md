@@ -2,13 +2,13 @@
 
 ### **Travel and Medical Insurance**
 
-Please note that while Embassy can provide information on local medical supports we cannot provide medical advice or pay for medical bills.
+Please note that while the Embassy can provide information on local medical supports we cannot provide medical advice or pay for medical bills.
 
 Before travelling, the Department of Foreign Affairs and Trade **strongly recommends** getting comprehensive travel insurance which will cover all overseas medical costs, including medical repatriation/evacuation, repatriation of remains and legal costs. Check any exclusions and, in particular, that your policy covers all activities you want to undertake.
 
 ### **Medical Facilities**
 
-Medical facilities in Zambia are less developed than in Ireland, especially in rural areas.  Even basic drugs and clean needles may not be available. Take particular care if travelling with children.
+Medical facilities in Zambia are less developed than in Ireland, especially in rural areas although quality healthcare of a reasonable standard can be accessed in Lusaka. Take particular care if travelling with children.
 
 ### **Water**
 
@@ -17,8 +17,6 @@ Only drink or use boiled or bottled water. If you suffer from severe diarrhoea d
 ### **Vaccinations**
 
 Check what vaccinations may be needed for your trip at least eight weeks before travel. We cannot advise on vaccinations, but you can get information about vaccinations from a GP or an International Health and Travel Centre.
-
-Evidence of vaccination (in the form of a certificate) can be a requirement for entry to some countries.
 
 ### **Medication**
 
@@ -32,16 +30,24 @@ Malaria is a threat in Zambia. Before travelling, ask a doctor about risks and 
 
 ### **Cholera and Dysentery**
 
-Cholera and dysentery are common, especially during the rainy season (November – April). Only drink bottled or boiled water and avoid ice in drinks. Avoid food from street vendors. If you suffer from diarrhoea during a visit to Zambia you should seek immediate medical attention.
+Cases of cholera and dysentery are reported annually, especially during the rainy season (November – April). Only drink bottled or boiled water and avoid ice in drinks. Avoid food supplied by street vendors. If you suffer from diarrhoea during a visit to Zambia you should seek immediate medical attention.
 
 ### **Rabies and TB**
 
-These are common in Zambia. Consult with a GP and review relevant precautions before traveling.
+These are common in Zambia. Consult with a GP and review relevant precautions before traveling. Avoid contact with dogs, cats and other animals.
 
 ### **Anthrax**
 
 Outbreaks of Anthrax have occurred in Zambia in recent years, connected to dead animals. Consult with your a GP and review relevant precautions before traveling.
 
+### **Mpox**
+
+On 10 October 2024, Zambia reported a first confirmed case of Mpox in the country and a low number of cases continue to be reported as of December 2025. Irish citizens are advised to follow developments in the region in respect of Mpox, and to consult relevant public health advice on Mpox.
+
 ### **HIV and AIDS**
 
 HIV and AIDS are prevalent in Zambia, with rates estimated at 12% of the adult population. If engaging in activities that expose you to possible HIV infection, make sure to take adequate precautions. If you suspect that you have been exposed, seek immediate medical attention.
+
+### **Schistosomiasis (Bilharzia)**
+
+Bilharzia is present in Zambia and caution is advised spending extended time in contact with fresh water in Zambia (swimming, wading, washing etc). Please consult relevant public health advice regarding risks and treatment.
