@@ -92,12 +92,8 @@ Smaller roads may be unpaved and winding.
 
 The weather can change quickly, and you should prepare appropriately for the activity you are planning.
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/denmark/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/denmark/entry-requirements)
 
-[Next
-:
-Health](/foreign-travel-advice/denmark/health)
+[Next:Health](/foreign-travel-advice/denmark/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/denmark/print)

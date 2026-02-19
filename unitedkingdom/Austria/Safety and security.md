@@ -114,12 +114,8 @@ There is also [guidance on driving if you’re living in Austria](https://www.go
 
 All vehicles on motorways and expressways in Austria are subject to tolls. If you use Austrian motorways, you must [display a vignette (sticker)](https://www.austria.info/en/service-and-facts/getting-there-around/by-car/vignette) inside your windscreen. You could get a fine if you do not.
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/austria/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/austria/entry-requirements)
 
-[Next
-:
-Health](/foreign-travel-advice/austria/health)
+[Next:Health](/foreign-travel-advice/austria/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/austria/print)

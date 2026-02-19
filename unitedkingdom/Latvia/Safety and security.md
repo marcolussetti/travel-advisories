@@ -110,12 +110,8 @@ To reduce the risk of being charged inflated fares:
 
 Be prepared for extremely cold and possibly hazardous weather if you travel to Latvia in the winter – between October and March. Temperatures may drop to -25°C or below. Snowfalls can result in delays and cancellations on public transport and difficult road conditions.
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/latvia/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/latvia/entry-requirements)
 
-[Next
-:
-Health](/foreign-travel-advice/latvia/health)
+[Next:Health](/foreign-travel-advice/latvia/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/latvia/print)

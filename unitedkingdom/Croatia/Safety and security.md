@@ -159,12 +159,8 @@ Small tremors also happen several times a month throughout the year. Most pass w
 
 Flash floods can happen with very little warning and lead to dangerous water flows and disruption to transport and other networks. There is the highest risk of flooding in central Croatia, between Karlovac and Slavonski Brod. Monitor [Croatian Meteorological and Hydrological Service](https://meteo.hr/index_en.php) forecasts and follow the advice of local authorities.
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/croatia/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/croatia/entry-requirements)
 
-[Next
-:
-Health](/foreign-travel-advice/croatia/health)
+[Next:Health](/foreign-travel-advice/croatia/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/croatia/print)

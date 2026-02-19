@@ -62,7 +62,7 @@ Same-sex relationships are legal in Romania. There are active LGBT+ communities 
 If you are planning to drive in Romania, see [information on driving abroad](https://www.gov.uk/driving-abroad) and check the [rules of the road in the RAC’s Romania guide](https://www.rac.co.uk/drive/travel/country/romania/). The guide lists driving regulations and other legal requirements you need to be aware of, such as:
 
 * carrying a first aid kit, fire extinguisher, red warning triangle and a fluorescent jacket
-* using winter tyres from 1 November to 1 March
+* using winter tyres (or snow chains for certain vehicles) whenever snow, ice or sleet is on the road – common practice is for this to be between November and March
 
 You can use a UK photocard driving licence to drive in Romania. If you still have a paper driving licence, you may need to update it to a photocard licence or get the [correct version of the international driving permit (IDP)](https://www.gov.uk/driving-abroad/international-driving-permit) as well.
 

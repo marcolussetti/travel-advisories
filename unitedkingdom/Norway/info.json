@@ -1,11 +1,11 @@
 {
     "name": "Norway",
-    "update_reason": "New information about dual nationals returning to the UK (\u2018Entry requirements\u2019 page).",
+    "update_reason": "Updated information on European Entry-Exit System (EES) (\u2018Entry requirements\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Norway/Warnings and insurance.md",
-            "update_date": "2026-02-17T11:34:52+00:00"
+            "update_date": "2026-02-18T11:35:29+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Norway/Getting help.md"
         }
     ],
-    "update_date": "2026-02-17T11:34:52+00:00"
+    "update_date": "2026-02-18T11:35:29+00:00"
 }

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   5 February 2026
+:   19 February 2026
 
 Updated:
-:   4 February 2026
+:   18 February 2026
 
 Latest update:
-:   Removal of information around travel disruption at land border crossings.
+:   Updated information on European Entry-Exit System (EES) (‘Entry requirements’ page).
 
 ## Before you travel
 

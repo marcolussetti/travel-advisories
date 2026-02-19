@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   18 February 2026
+:   19 February 2026
 
 Updated:
-:   17 February 2026
+:   18 February 2026
 
 Latest update:
-:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
+:   Updated information on European Entry-Exit System (EES) (‘Entry requirements’ page).
 
 ## Before you travel
 

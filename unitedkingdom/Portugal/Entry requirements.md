@@ -53,19 +53,21 @@ Read about [entry processes if you live in Portugal](https://www.gov.uk/guidance
 
 ## New Schengen entry requirements
 
-From 12 October 2025, the European Union’s (EU) new Entry/Exit System (EES) will begin roll out.
+The European Union’s (EU) new Entry/Exit System (EES) is being rolled out.
+
+EES checks are being introduced in a phased way across external borders, with full operation expected from 10 April 2026.
 
 This means that when you travel into the Schengen area for short stays, you may need to register your biometric details, such as fingerprints and a photo. You do not need to take any action before you arrive at the border, and there is no cost for EES registration.
 
-On your first visit into a Schengen country from 12 October onwards, you may be asked to register your details at a special booth before proceeding to the immigration desk. Follow directions from your travel operator or the staff at your port of entry. You may also need to provide either your fingerprint or photo when you leave the Schengen area. Children aged 11 or younger will not have their fingerprints scanned but can be required to have their photo taken.
+On your first visit into a Schengen country, you may be asked to register your details at a special booth before proceeding to the immigration desk. Follow directions from your travel operator or the staff at your port of entry. You may also need to provide either your fingerprint or photo when you leave the Schengen area. Children aged 11 or younger will not have their fingerprints scanned but can be required to have their photo taken.
 
-EES may take each passenger a few extra minutes to complete so be prepared to wait longer than usual at the border.
-
-EES will not be rolled out to all ports of entry at once, the numbers of passengers being registered at each port of entry will vary, and some destinations may take up to 6 months to fully roll out the new process.
+EES may take each passenger a few minutes extra to complete so be prepared to wait longer than usual at the border.
 
 Until EES is fully rolled out your passport will continue to be stamped, even if you’ve already been registered for EES. Once EES is fully rolled out, it will replace the current system of manually stamping passports when visitors arrive in the Schengen area for short stays and you will input biometric details every time you enter or exit.
 
 If you enter the Schengen area through the Port of Dover, Eurotunnel at Folkestone or Eurostar at St Pancras International and you are asked to register for EES, the information will be taken at the border before you leave the UK.
+
+Your digital EES record is valid for 3 years. If you enter the Schengen area again during this time, you will still only need to provide a fingerprint or photo at the border, when you enter and exit.
 
 Read more [information on the EU Entry/Exit System and to understand which countries are in the Schengen area](https://www.gov.uk/guidance/eu-entryexit-system).
 

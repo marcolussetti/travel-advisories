@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   18 December 2025
+:   19 February 2026
 
 Updated:
-:   17 December 2025
+:   18 February 2026
 
 Latest update:
-:   Updated information about toll roads ( ‘Safety and security’ page).
+:   Updated information on European Entry-Exit System (EES) (‘Entry requirements’ page).
 
 ## Before you travel
 

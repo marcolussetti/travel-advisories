@@ -151,12 +151,8 @@ Find out what you can do to [prepare for and respond to extreme weather and natu
 
 You may receive alerts on your mobile phone from the Polish government in the event of extreme weather, a natural disaster or other emergency. These are in Polish and English, and you should follow the authorities’ instructions. You can find out information about the [text message alert system here](https://alert.rcb.gov.pl/en/alert-rcb/) and about the [Government Centre for Security](https://www.gov.pl/web/rcb-en).
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/poland/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/poland/entry-requirements)
 
-[Next
-:
-Health](/foreign-travel-advice/poland/health)
+[Next:Health](/foreign-travel-advice/poland/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/poland/print)

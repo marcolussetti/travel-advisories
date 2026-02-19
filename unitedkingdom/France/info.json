@@ -1,11 +1,11 @@
 {
     "name": "France",
-    "update_reason": "Removal of information about travel disruption in France ('Warnings and insurance' page).",
+    "update_reason": "Updated information on European Entry-Exit System (EES) (\u2018Entry requirements\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/France/Warnings and insurance.md",
-            "update_date": "2026-01-19T14:27:06+00:00"
+            "update_date": "2026-02-18T11:39:22+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/France/Getting help.md"
         }
     ],
-    "update_date": "2026-01-19T14:27:06+00:00"
+    "update_date": "2026-02-18T11:39:22+00:00"
 }

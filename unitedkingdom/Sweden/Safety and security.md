@@ -60,12 +60,8 @@ During winter, snow and ice on the roads cause accidents daily. From 1 December 
 
 Parts of Sweden are in the Arctic Circle, including some very remote areas of land. Emergency medical assistance and search and rescue are limited in these areas. See [Arctic travel safety advice](https://www.gov.uk/guidance/arctic-travel-safety-advice).
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/sweden/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/sweden/entry-requirements)
 
-[Next
-:
-Health](/foreign-travel-advice/sweden/health)
+[Next:Health](/foreign-travel-advice/sweden/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/sweden/print)

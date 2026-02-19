@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   7 February 2026
+:   19 February 2026
 
 Updated:
-:   6 February 2026
+:   18 February 2026
 
 Latest update:
-:   Updated information about risks from severe weather conditions across Portugal (‘Warnings and insurance’ page).
+:   Updated information on European Entry-Exit System (EES) (‘Entry requirements’ page).
 
 This travel advice also covers Madeira, Porto Santo and the Azores.
 

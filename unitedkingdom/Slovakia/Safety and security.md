@@ -118,12 +118,8 @@ Find out what you can do to [prepare for and respond to extreme weather and natu
 
 You can access [local forecasts and weather warnings](https://www.shmu.sk/sk/?page=987) for Slovakia. Follow the instructions of local authorities.
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/slovakia/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/slovakia/entry-requirements)
 
-[Next
-:
-Health](/foreign-travel-advice/slovakia/health)
+[Next:Health](/foreign-travel-advice/slovakia/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/slovakia/print)

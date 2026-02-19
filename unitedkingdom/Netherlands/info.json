@@ -1,11 +1,11 @@
 {
     "name": "Netherlands",
-    "update_reason": "Removal of information about Channel Tunnel travel disruption.",
+    "update_reason": "Updated information on European Entry-Exit System (EES) (\u2018Entry requirements\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Netherlands/Warnings and insurance.md",
-            "update_date": "2025-12-31T14:35:07+00:00"
+            "update_date": "2026-02-18T11:35:06+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Netherlands/Getting help.md"
         }
     ],
-    "update_date": "2025-12-31T14:35:07+00:00"
+    "update_date": "2026-02-18T11:35:06+00:00"
 }

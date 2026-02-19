@@ -81,12 +81,8 @@ Do not hail unmarked taxis – they’re illegal. Make sure the taxi has:
 
 You can also use taxi apps like Bolt, Forus and Uber.
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/estonia/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/estonia/entry-requirements)
 
-[Next
-:
-Health](/foreign-travel-advice/estonia/health)
+[Next:Health](/foreign-travel-advice/estonia/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/estonia/print)

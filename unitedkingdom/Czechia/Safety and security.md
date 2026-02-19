@@ -18,6 +18,8 @@ Public protests may happen at short notice. These have been peaceful but take ca
 
 ## Crime
 
+If you are victim of crime, immediately call 112 for assistance.
+
 ### Protecting yourself and your belongings
 
 Petty theft is a problem, especially in major tourist areas in Prague. There is a risk of pickpocketing:
@@ -28,7 +30,11 @@ Petty theft is a problem, especially in major tourist areas in Prague. There is 
 
 Take care of yourself and your belongings in the same way as you would do in the UK. Avoid leaving your belongings unattended.
 
-Report thefts in person to the Czech police within 24 hours, and get a police report crime number for insurance purposes. Prague police station (Jungmannovo namesti 9, Prague 1, nearest metro stop is Mustek) is open 24 hours and has English translators. You can also get a police report from the police station at the airport. See [Prague police station contact details](https://www.policie.cz/SCRIPT/imapa.aspx?area=pha&docid=672&nid=269&num=1) (in Czech).
+Report thefts in person to the nearest Czech police station within 24 hours and get a police report crime number for insurance purposes.
+
+Prague police station (Jungmannovo namesti 9, Prague 1, nearest metro stop is Mustek) is open 24 hours a day and would provide English speaking interpreters.
+
+You can also get a police report from the police station at the airport. See [Prague police station contact details](https://www.policie.cz/SCRIPT/imapa.aspx?area=pha&docid=672&nid=269&num=1) (in Czech).
 
 Every lamppost in Prague has a 6-digit number posted at eye level. These codes will help you tell the police where you are if you cannot give them an exact address.
 
@@ -38,7 +44,7 @@ There is a risk of drink spiking in bars and clubs. Be careful not to take drink
 
 ### Scams
 
-Beware of criminals pretending to be plainclothes policemen who ask to see your foreign currency and passport. Czechia police officers do not have the right to do this. Do not show them your money. Instead, offer to go with them to the nearest police station. You can also call 158 or 112 to check their identity.
+Beware of criminals pretending to be plainclothes policemen who ask to see your foreign currency and passport. Czechia police officers do not have the right to do this. Do not show them your money. Instead, offer to go with them to the nearest police station. You can also call 112 to check their identity.
 
 ## Travelling in groups
 
@@ -130,12 +136,8 @@ Find out what you can do to [prepare for and respond to extreme weather and natu
 
 You can access [local forecasts and weather warnings](https://www.chmi.cz/?l=en) for Czechia.  Follow the instructions of local authorities.
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/czechia/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/czechia/entry-requirements)
 
-[Next
-:
-Health](/foreign-travel-advice/czechia/health)
+[Next:Health](/foreign-travel-advice/czechia/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/czechia/print)

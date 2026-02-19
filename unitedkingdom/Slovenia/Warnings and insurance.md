@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   10 February 2026
+:   19 February 2026
 
 Updated:
-:   9 February 2026
+:   18 February 2026
 
 Latest update:
-:   New information about wild camping in Slovenia ('Safety and security' page).
+:   Updated information on European Entry-Exit System (EES) (‘Entry requirements’ page).
 
 ## Before you travel
 

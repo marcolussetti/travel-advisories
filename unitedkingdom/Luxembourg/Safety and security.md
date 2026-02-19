@@ -78,12 +78,8 @@ For more information, see [Luxembourg winter tyre regulations](https://guichet.p
 
 It is safer to use official taxis at clearly marked taxi stands. Official taxis display a price list. Check the rate per kilometre before you get into a taxi – some may charge highly inflated prices. Drivers are allowed to charge extra in the evenings and on Sunday.
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/luxembourg/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/luxembourg/entry-requirements)
 
-[Next
-:
-Health](/foreign-travel-advice/luxembourg/health)
+[Next:Health](/foreign-travel-advice/luxembourg/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/luxembourg/print)

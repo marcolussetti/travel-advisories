@@ -71,12 +71,8 @@ The police strictly enforce road regulations. If you are stopped by police for a
 
 If you plan to travel to Liechtenstein using motorways in Switzerland or Austria, you must buy and display a motorway vignette (sticker) in those countries or risk a large on-the-spot fine.
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/liechtenstein/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/liechtenstein/entry-requirements)
 
-[Next
-:
-Health](/foreign-travel-advice/liechtenstein/health)
+[Next:Health](/foreign-travel-advice/liechtenstein/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/liechtenstein/print)

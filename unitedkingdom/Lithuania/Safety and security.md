@@ -63,12 +63,8 @@ It is safer to use a recognised taxi app or to phone for a registered taxi that 
 
 The Spit, a UNESCO World Heritage Site, is divided between Lithuania and Russia – the northern half is in Lithuania and the southern half is part of Kaliningrad, Russia. Visitors should be aware that the walk along the Curonian Spit in Lithuanian territory will eventually reach Russian territory. See [Russia travel advice](https://www.gov.uk/foreign-travel-advice/russia).
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/lithuania/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/lithuania/entry-requirements)
 
-[Next
-:
-Health](/foreign-travel-advice/lithuania/health)
+[Next:Health](/foreign-travel-advice/lithuania/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/lithuania/print)

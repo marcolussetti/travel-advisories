@@ -117,12 +117,8 @@ Find out what you can do to [prepare for and respond to extreme weather and natu
 
 You can access [local forecasts and weather warnings](https://www.met.hu/en/idojaras/index.php) for Hungary.  Follow the instructions of local authorities.
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/hungary/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/hungary/entry-requirements)
 
-[Next
-:
-Health](/foreign-travel-advice/hungary/health)
+[Next:Health](/foreign-travel-advice/hungary/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/hungary/print)

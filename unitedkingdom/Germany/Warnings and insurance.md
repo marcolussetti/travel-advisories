@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   11 December 2025
+:   19 February 2026
 
 Updated:
-:   10 December 2025
+:   18 February 2026
 
 Latest update:
-:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
+:   Updated information on European Entry-Exit System (EES) (‘Entry requirements’ page).
 
 ## Before you travel
 
@@ -37,8 +37,6 @@ Follow FCDO:
 * [travel advice on Facebook](https://www.facebook.com/FCDOTravel/)
 * [Travel Aware on Instagram](https://www.instagram.com/travelaware/)
 
-[Next
-:
-Entry requirements](/foreign-travel-advice/germany/entry-requirements)
+[Next:Entry requirements](/foreign-travel-advice/germany/entry-requirements)
 
 [View a printable version of the whole guide](/foreign-travel-advice/germany/print)

@@ -211,7 +211,7 @@ Find out more from gov.uk on what you can do to [prepare for and respond to ext
 
 ### Flooding
 
-Adverse weather conditions, including floods, can happen quickly.. Register for Emergency alerts and follow [‘112 Greece’ on X](https://x.com/112Greece) for official updates.
+Adverse weather conditions, including floods, can happen quickly. Register for Emergency alerts and follow [‘112 Greece’ on X](https://x.com/112Greece) for official updates.
 
 ### Wildfires
 
@@ -246,12 +246,8 @@ There is a risk of earthquakes and earth tremors in Greece. You should:
 
 For further guidance on how to prepare for earthquakes, please visit the [Greek Ministry of Civil Protection](https://civilprotection.gov.gr/en/odigies-prostasias/seismoi) (in English) and to see, for anywhere in Greece, where your nearest assembly points are located in case of emergency you can visit [mysafetyplan.gov.gr](https://mysafetyplan.gov.gr/) (map with text in Greek).
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/greece/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/greece/entry-requirements)
 
-[Next
-:
-Health](/foreign-travel-advice/greece/health)
+[Next:Health](/foreign-travel-advice/greece/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/greece/print)

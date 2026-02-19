@@ -1,11 +1,11 @@
 {
     "name": "Switzerland",
-    "update_reason": "Removal of information on the fire in Crans Montana on 1 January.",
+    "update_reason": "Updated information on European Entry-Exit System (EES) (\u2018Entry requirements\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Switzerland/Warnings and insurance.md",
-            "update_date": "2026-01-05T15:41:06+00:00"
+            "update_date": "2026-02-18T11:38:50+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Switzerland/Getting help.md"
         }
     ],
-    "update_date": "2026-01-05T15:41:06+00:00"
+    "update_date": "2026-02-18T11:38:50+00:00"
 }

@@ -61,8 +61,6 @@ Follow FCDO:
 
 The Overseas Business Risk service offers [information and advice for British companies operating in Slovakia](https://www.gov.uk/government/publications/overseas-business-risk-slovakia) on how to manage political, economic, and business security-related risks.
 
-[Previous
-:
-Health](/foreign-travel-advice/slovakia/health)
+[Previous:Health](/foreign-travel-advice/slovakia/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/slovakia/print)

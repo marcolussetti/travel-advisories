@@ -99,12 +99,8 @@ If you live in Germany, check the [driving requirements for residents](https://w
 
 Some inner-city areas have an environmental zone (‘Umweltzone’). Only vehicles that meet specific exhaust emission standards can enter. See [Federal Ministry for the Environment, Nature Conservation, Nuclear Safety and Consumer Protection](https://www.bmuv.de/en/topics/air-noise-mobility/air/emissions-control-sticker-low-emission-zone) for more information.
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/germany/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/germany/entry-requirements)
 
-[Next
-:
-Health](/foreign-travel-advice/germany/health)
+[Next:Health](/foreign-travel-advice/germany/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/germany/print)

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   6 February 2026
+:   19 February 2026
 
 Updated:
-:   5 February 2026
+:   18 February 2026
 
 Latest update:
-:   Removal of information on railway strikes ('Warnings and insurance' page).
+:   Updated information on European Entry-Exit System (EES) (‘Entry requirements’ page).
 
 ## National strike action
 
