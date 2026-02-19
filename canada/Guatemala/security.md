@@ -2,17 +2,22 @@
 
 ## Safety and security
 
-### State of siege
+### State of prevention
 
-On January 18, 2026, the Government of Guatemala declared a 30-day nationwide state of siege in response to a series of armed attacks against police in Guatemala City. The attacks occurred after a crackdown on gangs in the area. Several officers have been killed and more injured.
+A nationwide state of prevention is in effect until March 3, 2026. During this period, security forces have the authority to:
 
-During the state of siege, you should expect an increased presence of security forces across the country. Security forces will be allowed to stop and search individuals and carry out arrests without a warrant.
+* limit demonstrations and public and private gatherings
+* establish roadblocks and checkpoints
+* limit movements
+* regulate or suspend strikes and work stoppages, especially if they have political purposes
+* dissolve gatherings or demonstrations that are not authorized or that involve weapons or violence
+* request that media outlets avoid publications that, in the authority’s judgement, encourage disruption of public order
 
-If you are in Guatemala:
+If you’re in Guatemala:
 
-* always be aware of your surroundings
 * follow the instructions of local authorities
-* monitor local media to stay informed of the evolving situation
+* monitor local media to stay informed on the evolving situation
+* avoid areas where demonstrations and large gatherings are taking place
 
 ### Border areas
 

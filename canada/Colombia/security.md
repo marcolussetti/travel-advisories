@@ -6,6 +6,16 @@
 
 Most land border crossings with Ecuador are closed until further notice. Only the Rumichaca International Bridge, near Ipiales-Tulcán, remains open.
 
+### Closure of Tayrona National Park
+
+Tayrona National Park has been temporarily closed due to roadblocks and threats from armed groups.
+
+If you’re nearby or planning to go there:
+
+* monitor local media for the latest information
+* follow the instructions of local authorities
+* do not pay anyone claiming to collect an entrance fee or offer a tour of the park
+
 ### Dating applications
 
 ### Online dating applications
