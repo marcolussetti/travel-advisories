@@ -22,6 +22,10 @@ To enter Sri Lanka, you need to apply for an ‘Electronic Travel Authorization�
 
 ### Applying for an Electronic Travel Authorization (ETA)
 
+The Sri Lankan ETA system is [currently experiencing a technical issue](https://srilankahc.uk/2026/02/18/notice-to-all-eta-applicants/). If you have applied for an ETA, ensure you keep proof of your application and carry this with you. You may be asked by airline staff or immigration officials to provide this.
+
+The Department of Immigration and Emigration has advised that British nationals may consider applying for a visa on arrival, an option permitted under the current travel advisory, should the queue for those who have “paid online but not received an ETA” becomes excessively long.
+
 Apply for a [Sri Lanka ‘Electronic Travel Authorization’ (ETA)](https://www.eta.gov.lk/slvisa/visainfo/extsheta.jsp?locale=en_US) online. You should do this before travel. ETAs will be valid for 30 days. Alternatively, you can also apply for an on-arrival ETA at the airport’s Immigration counter.
 
 If you plan to stay longer, you can apply for an extension online through Sri Lankas [official Immigration portal](https://eservices.immigration.gov.lk/vs/home.php). You do not need a visa if you are transiting through Sri Lanka by air, if the connecting flight is within 24 hours of your arrival. Check with your airlines about transit times.

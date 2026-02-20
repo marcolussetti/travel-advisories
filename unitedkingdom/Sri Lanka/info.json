@@ -1,11 +1,11 @@
 {
     "name": "Sri Lanka",
-    "update_reason": "Updated information on the impact of Cyclone Ditwah ('Warnings and insurance' page).",
+    "update_reason": "New information about the Sri Lankan Electronic Travel Authorisation (ETA) (\u2018Entry requirements\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Sri Lanka/Warnings and insurance.md",
-            "update_date": "2026-01-09T16:56:11+00:00"
+            "update_date": "2026-02-19T15:00:19+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Sri Lanka/Getting help.md"
         }
     ],
-    "update_date": "2026-01-09T16:56:11+00:00"
+    "update_date": "2026-02-19T15:00:19+00:00"
 }

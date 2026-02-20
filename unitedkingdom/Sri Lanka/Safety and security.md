@@ -206,6 +206,12 @@ Monitor [Sri Lanka’s Disaster Management Centre](http://www.dmc.gov.lk/index_e
 
 There is a risk of tropical cyclones. Monitor [Sri Lanka’s Disaster Management Centre](http://www.dmc.gov.lk/index_english.htm) and the [World Meteorological Organization](http://severe.worldweather.org/tc/in/index.html) for updates.
 
+### Impact of Cyclone Ditwah
+
+Cyclone Ditwah affected much of Sri Lanka in November 2025, causing flooding and landslides. The main tourist areas near Colombo and on the south coast of Sri Lanka remain largely unaffected and many other tourist areas are returning to normal.
+
+Sri Lanka Tourism’s 24 hour hotline is available on 1912 and Disaster Management Centre (DMC) for road related issues (landslides) is 177.
+
 [Previous:Entry requirements](/foreign-travel-advice/sri-lanka/entry-requirements)
 
 [Next:Regional risks](/foreign-travel-advice/sri-lanka/regional-risks)

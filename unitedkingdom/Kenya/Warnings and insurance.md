@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   17 February 2026
+:   20 February 2026
 
 Updated:
-:   16 February 2026
+:   19 February 2026
 
 Latest update:
-:   New information on travel disruption at Jomo Kenyatta International airport (‘Warnings and insurance’ page).
+:   Removal of information on travel disruption at Jomo Kenyatta International airport.
 
 ![](https://assets.publishing.service.gov.uk/media/696a6280448fedc1eb4248f0/FCDO__TA__055_-_Kenya_Travel_Advice_Ed7__WEB_.jpg)
 
@@ -35,10 +35,6 @@ FCDO advises against all but essential travel to:
 * within 15km of the east coast between the Tana River and the Galana (Athi-Galana-Sabaki) River
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/kenya/regional-risks).
-
-## Travel disruption at Jomo Kenyatta International airport
-
-There is travel disruption at Jomo Kenyatta International Airport, due to ongoing strike action. Monitor local news and check for messaging from your airline or travel provider.
 
 ## Before you travel
 

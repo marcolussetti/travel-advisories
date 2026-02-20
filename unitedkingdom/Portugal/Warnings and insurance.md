@@ -1,21 +1,27 @@
 # Warnings and insurance
 
 Still current at:
-:   19 February 2026
+:   20 February 2026
 
 Updated:
-:   18 February 2026
+:   19 February 2026
 
 Latest update:
-:   Updated information on European Entry-Exit System (EES) (‘Entry requirements’ page).
+:   Updated information about ongoing risks following a period of severe weather conditions across Portugal (‘Warnings and insurance’ page).
 
 This travel advice also covers Madeira, Porto Santo and the Azores.
 
-## Severe weather conditions
+## Potential disruption
 
-Heavy rain, thunderstorms and strong coastal winds are expected across the country until Sunday 15 February, with an increased risk of flash flooding, landslides and travel disruption. Follow advice of local authorities and monitor weather updates on the [European Meteorological Services website](https://www.meteoalarm.org/en/).
+The persistent and heavy rainfall which has caused flooding in Portugal over the last few weeks has stopped. Some areas, particularly in central Portugal, continue to experience disruption, with ongoing risks from landslides, debris and damaged infrastructure. Be prepared for road closures and traffic diversions.
 
-See further information on what you can do to [prepare for and respond to extreme weather and natural hazards](https://www.gov.uk/guidance/extreme-weather-and-natural-hazards).
+You should:
+
+* follow the advice of local authorities
+* check the latest weather updates on the [Portuguese](https://www.ipma.pt/pt/otempo/prev.significativa/) and [European Meteorological Service website](https://www.meteoalarm.org/en/)
+* allow extra time for your journey
+
+See further information on what you can do to [prepare for and respond to extreme weather and natural hazards.](https://www.gov.uk/guidance/extreme-weather-and-natural-hazards)
 
 ## Before you travel
 
