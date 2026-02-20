@@ -17,4 +17,4 @@ Ankara 06700
 
 Fax: +90 312 446 8061
 
-[**Contact us**](/en/turkiye/ankara/contact/)
+[**Contact us**](/en/turkiye/ankara/contact-embassy-of-ireland-t%C3%BCrkiye/general-queries/)

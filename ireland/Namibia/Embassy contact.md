@@ -1,8 +1,8 @@
 ## Embassy contact
 
-As Ireland does not have an Embassy or Consulate in Namibia, consular assistance is provided via the [**Embassy of Ireland in Lusaka, Zambia**](https://www.ireland.ie/en/zambia/lusaka/).
+As Ireland does not have an Embassy in Namibia, consular assistance is provided via the [**Embassy of Ireland in Lusaka, Zambia**](https://www.ireland.ie/en/zambia/lusaka/) or via our Honorary Consulate.
 
-Irish citizens who require urgent assistance while the Embassy is closed can contact the Duty Officer at the Department of Foreign Affairs and Trade on +353 1 408 2000.
+Irish citizens who require urgent assistance while the Embassy and Honorary Consulate is closed can contact the Duty Officer at the Department of Foreign Affairs and Trade on +353 1 408 2000.
 
 Opening Hours: Monday – Thursday 08:00 to 16:30; Friday 08:00 to 12:30
 

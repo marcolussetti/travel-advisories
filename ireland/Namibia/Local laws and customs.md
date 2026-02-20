@@ -12,7 +12,7 @@ Always carry identification with you – a photocopy of the relevant passport pa
 
 ### **LGBTI+**
 
-While homosexuality is not explicitly illegal, colonial era laws still criminalise sex between men. There is currently a strong conservative social backlash against any further liberalisation on LGBTI+ issues that may affect travellers.
+While homosexuality is not explicitly illegal, colonial era laws still criminalise sex between men. There is a conservative social backlash against liberalisation on LGBTI+ issues that may affect travellers.
 
 ### **Photography**
 

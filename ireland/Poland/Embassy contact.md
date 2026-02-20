@@ -17,7 +17,7 @@ Poland
 
 Fax: +48 22 849 8431
 
-[Contact us](/en/poland/warsaw/contact/)
+[Contact us](/en/poland/warsaw/contact-embassy-of-ireland-poland/all-other-queries/)
 
 ### Honorary Consul of Ireland, Poznań
 
