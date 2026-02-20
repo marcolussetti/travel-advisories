@@ -17,7 +17,7 @@ Always be aware of your surroundings when in public places. Be particularly vigi
 
 The Dutch government maintains a public alert system on terrorism and communicates threat level changes online and through local media. The current threat level for the Netherlands is level 4 (“substantial”) on a scale of 5.
 
-[Current terrorism threat levels](https://english.nctv.nl/topics/terrorist-threat-assessment-netherlands) - Dutch Ministry of Security and Justice
+[Terrorist Threat Assessment Netherlands](https://english.nctv.nl/topics/t/terrorist-threat-assessment-netherlands) – National Coordinator for Counterterrorism and Security
 
 ### Crime
 

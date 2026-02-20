@@ -10,13 +10,13 @@ The work week is from Sunday to Thursday.
 
 ### Drugs
 
-Penalties for possession, use or trafficking of illegal drugs are severe. Convicted offenders can expect long detention or even the death penalty.
+Penalties for possession, use or trafficking of illegal drugs are severe. Convicted offenders can expect lengthy prison sentences or even the death penalty.
 
-#### Alcohol
+### Alcohol
 
-A new law is prohibiting importing, manufacturing, and selling alcoholic beverages. It is being challenged in court, and its application at ports of entry and inside Iraq remains unclear. You should nonetheless avoid travelling to Iraq with alcohol or risk heavy fines if convicted.
+While inconsistently enforced, Iraqi law prohibits the importing, manufacturing, and selling of alcoholic beverages. You should avoid travelling to Iraq with alcohol at the risk heavy fines if convicted.
 
-Do not drink alcohol outside licensed facilities. There is a zero tolerance policy regarding drinking and driving.
+Do not drink alcohol outside of licensed facilities. There is a zero-tolerance policy regarding drinking and driving.
 
 [Drugs, alcohol and travel](https://travel.gc.ca/travelling/health-safety/drugs)
 
@@ -28,9 +28,17 @@ If local authorities consider you a citizen of Iraq, they may refuse to grant yo
 
 [Dual citizens](https://travel.gc.ca/travelling/documents/dual-citizenship)
 
-### Custody
+### Child custody
 
-According to Iraqi law, the child of a male Iraqi national is considered an Iraqi national. Even if the name of the child is written in the mother’s foreign passport, Iraqi authorities may consider the child an Iraqi national and the child will require the father’s permission to travel.
+Under Iraqi law, any child born to a male Iraqi citizen, including those with dual citizenship, is considered an Iraqi citizen. Even if the mother is a foreign national, Iraqi authorities may still consider the child as Iraqi, in which case the father’s authorization would be required for the child to travel outside of Iraq.
+
+### Marriage
+
+Iraq is a parliamentary republic, but Iraqi law closely adheres to Islamic principles and beliefs, which are the main source of legislation in the country.
+
+In Iraq, marriages between Canadian and Iraqi citizens are subject to the rules of conduct and Islamic law.
+
+[Marriage outside Canada](https://travel.gc.ca/travelling/documents/marriage-overseas)
 
 ### International Child Abduction
 
@@ -53,9 +61,9 @@ Be aware that Canadian consular officials cannot interfere in private legal matt
 * [Canadian embassies and consulates by destination](https://travel.gc.ca/assistance/embassies-consulates)
 * [Request emergency assistance](https://travel.gc.ca/assistance/emergency-assistance)
 
-### Religion
+### Religious proselytism
 
-Religious preaching is forbidden.
+Religious proselytism is forbidden.
 
 Islamic practices and beliefs form the basis of the country’s customs, laws and regulations.
 
@@ -83,7 +91,7 @@ You must carry an International Driving Permit.
 
 ### Identification
 
-You must carry photo identification as well as a legally certified copy of your visa and registration at all times. Keep a photocopy of your passport, visa and registration in a safe place, in case they are lost or confiscated.
+You must carry photo identification as well as a legally certified copy of your visa and registration at all times. Keep a photocopy of your passport, visa and registration in a safe place, in case the originals are lost or confiscated.
 
 ### Customs
 
@@ -103,6 +111,6 @@ Failure to comply can lead to severe punishment, including heavy fines, jail sen
 
 ### Money
 
-The currency is the Iraqi dinar (IQD). The economy is primarily cash-based. U.S. dollars are accepted. There are very few ATM’s.
+The currency is the Iraqi dinar (IQD). The economy is primarily cash-based. U.S. dollars are accepted in some shops.  You may have difficulty finding ATMs that accept your international bank card. There are a limited amount of ATMs compared to in Canada.
 
-You cannot leave Iraq with more than US$10,000 in cash, unless you declared the amount when you entered the country.
+You cannot leave Iraq with more than USD 10,000 in cash, or its equivalent in other currencies, unless you declared the amount when you entered the country.

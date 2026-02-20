@@ -18,13 +18,12 @@ The features in this map do not constitute an authoritative source of geographic
 
 ### CUBA - AVOID NON-ESSENTIAL TRAVEL
 
-[Avoid non-essential travel](#levels "Risk Levels") to Cuba due to worsening shortages of fuel, electricity, and basic necessities including food, water, and medicine, which can also affect resorts. Fuel availability has decreased, is difficult to predict, and may disrupt ground transportation.
+[Avoid non-essential travel](#levels "Risk Levels") to Cuba due to worsening shortages of fuel, electricity, and basic necessities including food, water, and medicine. These shortages can also affect services at resorts. Fuel availability has decreased, is difficult to predict, and may disrupt ground transportation.
 
-As a result, all Canadian airlines have suspended service to Cuba for upcoming trips. Canadian airlines will facilitate the return of their clients currently in Cuba and are reaching out directly to them. Confirm your return flight details and avoid extending your stay in Cuba.
-
-If you do not have a return ticket, seek a commercial option to leave the country. Commercial flights remain available through international airlines; however, they may become limited on short notice.
+All Canadian airlines have suspended service to Cuba until further notice. Commercial flights remain available through international airlines; however, they may become limited on short notice. You should consider leaving while options remain available.
 
 * Sign up for the [Registration of Canadians Abroad](https://travel.gc.ca/travelling/registration "https://travel.gc.ca/travelling/registration") service to receive important updates
 * Make sure your travel documents are up to date and secure at all times
+* If you require emergency consular assistance, contact the [Emergency Watch and Response Centre](http://travel.gc.ca/assistance/emergency-assistance)
 
 .

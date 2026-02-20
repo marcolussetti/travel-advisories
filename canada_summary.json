@@ -302,7 +302,7 @@
     {
         "destination": "Cuba",
         "risk_level": "Avoid non-essential travel",
-        "last_updated": "2026-02-16T16:13:06",
+        "last_updated": "2026-02-19T10:16:40",
         "details_url": "https://travel.gc.ca/destinations/cuba"
     },
     {
@@ -583,8 +583,8 @@
     },
     {
         "destination": "Iraq",
-        "risk_level": "Avoid all travel",
-        "last_updated": "2026-02-04T10:12:06",
+        "risk_level": "Avoid all travel (with regional advisories)",
+        "last_updated": "2026-02-19T12:24:29",
         "details_url": "https://travel.gc.ca/destinations/iraq"
     },
     {
@@ -866,7 +866,7 @@
     {
         "destination": "Netherlands",
         "risk_level": "Exercise a high degree of caution",
-        "last_updated": "2026-02-04T10:12:06",
+        "last_updated": "2026-02-19T12:24:14",
         "details_url": "https://travel.gc.ca/destinations/netherlands"
     },
     {
@@ -992,7 +992,7 @@
     {
         "destination": "Puerto Rico",
         "risk_level": "Take normal security precautions",
-        "last_updated": "2026-02-16T10:03:49",
+        "last_updated": "2026-02-19T17:00:37",
         "details_url": "https://travel.gc.ca/destinations/puerto-rico"
     },
     {
@@ -1322,7 +1322,7 @@
     {
         "destination": "United States",
         "risk_level": "Take normal security precautions",
-        "last_updated": "2026-02-06T15:57:49",
+        "last_updated": "2026-02-19T13:17:55",
         "details_url": "https://travel.gc.ca/destinations/united-states"
     },
     {

@@ -16,7 +16,7 @@ Before you travel, check with your transportation company about passport require
 
 #### Regular Canadian passport
 
-Your passport must be valid for at least 6 months from the date of entry into Iraq.
+Your passport must be valid for at least six months from the date of entry into Iraq.
 
 #### Passport for official travel
 
@@ -42,15 +42,21 @@ Different entry rules may apply when travelling with a temporary passport or an 
 
 ### Visas
 
-Canadians must have a visa to visit Iraq.
+#### Federal Iraq
+
+Canadian passport holders must have a visa to enter Iraq. If you are travelling by air via Baghdad International Airport, the visa must be obtained at an Iraqi Embassy or Consulate or online before travelling.
 
 After 10 days in the country, you must register your arrival with the Iraqi Residence Office (Ministry of Interior). After three months in Iraq, you must apply for a one-year residence permit.
 
-You will be subject to additional screening measures prior to being issued an Iraqi visa if your passport contains an Israeli visa or border stamp. This does not apply to Canadians travelling to the region of Kurdistan.  
+You will be subject to additional screening measures prior to being issued an Iraqi visa if your passport contains an Israeli visa or border stamp. This does not apply to Canadians travelling to the region of Kurdistan.
 
-### Kurdistan Region of Iraq
+[Electronic visa portal – Iraqi Ministry of Interior](https://evisa.iq/en)
 
-You can obtain a 30-day visa for Kurdistan upon arrival at both Erbil International Airport and Sulaymaniyah International Airport. If you plan to travel outside of Kurdistan to other regions of Iraq, you must obtain an Iraqi visa prior to travelling to Iraq. If you are leaving via the airport in Baghdad without a visa, you may be required to pay a penalty fee at departure.
+#### Kurdistan Region of Iraq
+
+You must obtain an electronic visa for Kurdistan online before travelling. If you plan to travel outside of Kurdistan to other regions of Iraq, you must obtain a distinct Iraqi visa prior to travelling.
+
+If you leave federal Iraq or Kurdistan without a valid visa you may have to pay a fine upon departure.
 
 ### Children and travel
 

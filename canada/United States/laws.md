@@ -8,7 +8,9 @@ Learn about what you should do and how we can help if you are [arrested or detai
 
 Laws vary greatly from state to state. Consult the website of the state you wish to visit prior to arrival.
 
-### Proof of status
+### Identification and proof of status
+
+Carry government-issued photo I.D. and photocopies of the identification page of your passport and other travel documents in case they are lost or stolen.
 
 Authorities may request proof of legal status in the U.S. at any time. Be prepared to show evidence of your legal presence in the U.S.
 

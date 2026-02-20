@@ -36,7 +36,7 @@ As per the Western Hemisphere Travel Initiative (WHTI), Canadian citizens aged 1
 * a valid passport
 * a Trusted Traveler Program card
 * an enhanced driver’s licence (EDL) or enhanced identification card (EIC) from a province or territory where a U.S. approved EDL/EIC program has been implemented
-* a Secure Certificate of Indian Status
+* a Secure Certificate of Indian Status (SCIS)
 
 The WHTI-compliant document you choose to use must be valid for the duration of your stay.
 
@@ -165,13 +165,21 @@ Permanent resident status in the U.S. can be terminated for certain reasons, inc
 
 [International travel as a U.S. Permanent Resident](https://www.uscis.gov/green-card/after-green-card-granted/international-travel-permanent-resident) – U.S. Citizenship and Immigration Services
 
-#### First Nations and Native Americans born in Canada
+#### First Nations persons and Native Americans born in Canada
 
-Members of Canada’s First Nations and Native Americans born in Canada may freely enter the United States for the purposes of employment, study, retirement, investing, or immigration.
+You may be able to cross the Canada-U.S. border by land or water with your Secure Certificate of Indian Status (SCIS), also known as a secure status card. However, the acceptance of all status cards is entirely at the discretion of U.S. officials. The secure status card and status card are not accepted travel documents for air travel and cannot be used to cross the Canada-U.S. border by air.
+
+As of February 1, 2019, all new and renewed secure status cards are issued with a machine-readable field to facilitate Canada-U.S. border crossing. When using a status card to cross the Canada-U.S. border, it is strongly recommended to:
+
+* use a valid machine-readable secure status card, and
+* carry a valid passport
+
+As a person registered under the Indian Act entering the U.S. to live or work, you may be asked to provide documentation to prove the percentage of Indian blood required under U.S. law.
 
 #### Useful links
 
 * [Indigenous travellers](https://travel.gc.ca/travelling/health-safety/indigenous)
+* [Crossing the Canada-U.S. border: Bring your valid passport and secure status card](https://www.sac-isc.gc.ca/eng/1100100032399/1572459562067)
 * [Entry and exit for First Nations and Native Americans](https://ca.usembassy.gov/first-nations-and-native-americans/?_ga=2.58016554.1842551196.1739453245-1351641362.1739266653) – U.S. Embassy & Consulates in Canada
 * [Green Card for an American Indian Born in Canada](https://www.uscis.gov/green-card/green-card-eligibility/green-card-for-an-american-indian-born-in-canada#:~:text=You%20may%20be%20eligible%20to,Were%20born%20in%20Canada.) – U.S. Citizenship and Immigration Services
 

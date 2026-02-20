@@ -6,24 +6,41 @@
 
 Tensions can flare up suddenly in the Middle East, and lead to travel disruptions, including flight cancellations and airspace closures.
 
-### Threats to foreigners
+### Border areas
 
-Foreigners and individuals associated to Western countries are targets for kidnappings and violence by terrorist groups.
+Despite counter-terrorism operations and regional peace efforts, the northern borders of Iraq remain dangerous due to the presence of terrorist groups and occasional military strikes against them. People suspected of illegally crossing the Iraq-Syria border risk being detained by the Iraqi authorities and if convicted, sentenced to up to 15 years in prison.
 
-If you travel to Iraq despite the advisory in effect:
+#### Unexploded ordnances
 
-* always exercise extreme caution
-* choose accommodations that provide adequate security and transportation services
-* get advice or close protection from a private security company
-* have contingency plans in place
+Despite clearing efforts, unexploded ordnance from previous wars in the region continue to pose a security risk throughout Iraq, especially in border areas with Iran and Kuwait. The following governorates are also affected due to past terrorist activity:
+
+* Kirkuk
+* Salah ad-Din
+* Nineveh
+* Diyala
+* Anbar
+
+If you suspect that unexploded ordnance may be present:
+
+* be extremely vigilant, especially in remote areas
+* stay on paved and main roads
+* don’t walk in fields
+* avoid roadside ditches, shoulders and unmarked trails
+* report any suspicious items to local authorities
 
 ### Terrorism
 
-There is a threat of terrorism in Iraq.
+There is a threat of terrorism in Iraq, especially in certain northern and western governorates, and in the Kurdistan Region of Iraq.
 
-Car bombings, vehicle ambushes, drones, mortar and rocket attacks occur regularly across the country, including in Baghdad and residential areas. Terrorist groups are particularly active in the northern and western parts of Iraq.
+Despite international and Iraqi counter-terrorism operations, terrorist groups remain active in the country, including in Baghdad. Additional attacks could occur.
 
-Despite regular counter-terrorism operations by Iraqi security forces, additional attacks are likely to occur.
+Attacks have involved:
+
+* suicide vests
+* improvised explosive devices (IEDs)
+* vehicle-borne IEDs
+* rockets and mortars
+* assault weapons
 
 Targets could include:
 
@@ -46,13 +63,11 @@ Be particularly vigilant during:
 
 Terrorists may use such occasions to mount attacks.
 
-### Border areas
-
-Avoid travelling to border areas. You may encounter serious problems with local authorities when crossing borders or risk of injury or death as a result of ongoing clashes, air strikes or other violent incidents that are common to border areas in Iraq. People suspected of illegally crossing the Iraq-Syria border risk being detained by the Iraqi authorities and charged with terrorism, which can result in capital punishment.
-
 ### Crime
 
-Crime, including carjackings, robberies, kidnapping and corruption, is common. Security conditions get much worse after dark in most areas. Violent conflicts involving organized criminals, street gangs, militants, rival militias and Iraqi security forces pose grave dangers.
+#### Violent crime
+
+Organized criminal groups are active throughout Iraq, especially in southern governorates. Many individuals possess weapons, which increases the likelihood of violent spillovers. Armed clashes erupt regularly between rival tribes and militias and with Iraqi security forces. Kidnappings of civilians for ransom or for political and religious reasons also occur. You should avoid going outside after dark as security conditions worsen at night.
 
 ### 2SLGBTQI+ persons
 
@@ -88,9 +103,9 @@ Women travelling alone may be subject to some forms of harassment and verbal abu
 
 ### Demonstrations
 
-Violent demonstrations and attacks are common throughout Iraq.
+Demonstrations may occur, especially in larger cities. In the past, there have been clashes between protestors and security forces, who used tear gas, water cannons, and live ammunition to disperse crowds.
 
-Clashes between protestors and security forces can occur. Security forces may use tear gas, water cannons, and live ammunition to disperse crowds.
+Even peaceful demonstrations can turn violent at any time. They can also lead to disruptions to traffic and public transportation.
 
 * Avoid areas where demonstrations and large gatherings are taking place
 * Follow the instructions of local authorities
@@ -100,35 +115,45 @@ Clashes between protestors and security forces can occur. Security forces may u
 
 ### Checkpoints
 
-Security checkpoints are common across the country. An Iraqi police or army uniform is not a guarantee that the wearer is operating in an official capacity.
+Official security checkpoints conducting ID checks are common across the country. Militias sometimes set up unofficial checkpoints and force the payment of bribes. There is a risk of violence and arbitrary arrest at these checkpoints
 
-* Be very respectful and cooperate fully at security checkpoints
-* Exercise particular caution at ad hoc checkpoints, where murders, kidnappings and robberies frequently occur
+* Exercise caution at all times
+* Carry the original version, not only photocopies or digital versions, of a valid government-issued ID, such as your passport, at all times
+* Keep a digital copy of your ID and travel documents in case they are seized or lost
+* Follow the instructions of the individuals requesting the documents
 
 ### Curfews
 
-Authorities impose curfews on short notice throughout the country. Monitor local media in order to stay informed.
+Authorities impose curfews on short notice throughout the country. Monitor local media to stay informed.
 
-### Cellular Network
+### Cellular network coverage
 
-Telecommunications services are very poor or non-existent in remote areas. Cellular network coverage is widespread in major cities.
+Cellular network coverage is adequate in large cities, but unreliable or sometimes unavailable in remote areas.
+
+If you plan to travel to remote areas:
+
+* share your itinerary with a friend or family member if you’re alone
+* keep a supply of water, food and fuel if you’re driving
+* carry an emergency kit
 
 ### The Arba’ een
 
-The next Arba’ een pilgrimage will take place on August 25, 2024.
+The Arba’ een pilgrimage in 2026 will take place around August 3.
 
-The event attracts a large number of pilgrims each year.
+The event attracts a large number of pilgrims each year, from several foreign countries. There is an increased security risk during the pilgrimage as Iraqi authorities may not be able to conduct ID checks on all individuals entering Iraq, some of whom enter illegally. Iraqi security forces have thwarted attacks targeting Arba’een pilgrims in the past.
 
 Before and during the pilgrimage, you can expect:
 
+* large crowds
 * a heavy presence of security forces
 * street closures
-* disruptions to transportation
-* limited available accommodations
+* disruptions to transportation, which start around a week before the event
+
+limited availability of accommodation
 
 If you travel to Iraq during the pilgrimage:
 
-* be aware of your surroundings at all times
+* always be aware of your surroundings
 * ensure that your belongings, including your passport and other travel documents, are secure at all times
 
 ### Piracy
@@ -139,7 +164,7 @@ Pirate attacks and armed robbery against ships occur in coastal waters, particul
 
 ### Road safety
 
-Road conditions and road safety are poor throughout the country. Drivers do not respect traffic laws and speeding and tailgating are common practices.
+Drivers do not respect traffic laws and speeding and tailgating are common practices.
 
 Travel by road remains highly dangerous. Fatal roadside bombings and attacks on military and civilian vehicles continue to happen. There is also a risk of carjacking and robbery.
 
@@ -147,19 +172,17 @@ Due to the country’s high liability risk, it is difficult to obtain car insura
 
 ### Public Transportation
 
-#### Busses
+#### Buses
 
-Busses run irregularly and routes are subject to frequent changes. Rundown transit vehicles are frequently involved in accidents.
+Buses run irregularly and routes are subject to frequent changes. Rundown transit vehicles are frequently involved in accidents.
 
 #### Trains
 
-Avoid travelling by rail, as the railroad is old and poorly maintained.
+Avoid travelling by rail, as the rail system is old and poorly maintained.
 
 ### Mosul Dam
 
-The Government of Iraq has begun to take measures to improve the structural integrity of the Mosul Dam.
-
-A dam failure could cause significant flooding and disruptions to essential services from Mosul to Baghdad, along the Tigris River as well as areas adjoining the dam. A failure of the Mosul Dam cannot be predicted. Monitor local media reports and prepare contingency plans. The Government of Canada cannot provide consular services if there is a dam failure.
+A dam failure can’t be predicted, but could cause significant flooding and disrupt essential services from Mosul to Baghdad, along the Tigris River as well as areas adjoining the dam. Monitor local media reports and prepare contingency plans. The Government of Canada has a very limited ability to provide consular services in Iraq.
 
 ### Air travel
 
