@@ -205,12 +205,8 @@ Swimming off the coast of Nigeria is sometimes dangerous due to rip tides and un
 
 See [water safety on holiday](https://www.rlss.org.uk/safety-on-holiday) from the Royal Life Saving Society.
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/nigeria/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/nigeria/entry-requirements)
 
-[Next
-:
-Regional risks](/foreign-travel-advice/nigeria/regional-risks)
+[Next:Regional risks](/foreign-travel-advice/nigeria/regional-risks)
 
 [View a printable version of the whole guide](/foreign-travel-advice/nigeria/print)

@@ -1,11 +1,11 @@
 {
     "name": "Nigeria",
-    "update_reason": "New information about dual nationals returning to the UK (\u2018Entry requirements\u2019 page).",
+    "update_reason": "New information on potential travel disruption during elections taking place in the Federal Capital Territory (including Abuja) on 21 February (\u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Nigeria/Warnings and insurance.md",
-            "update_date": "2025-12-10T13:21:48+00:00"
+            "update_date": "2026-02-20T12:07:01+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Nigeria/Getting help.md"
         }
     ],
-    "update_date": "2025-12-10T13:21:48+00:00"
+    "update_date": "2026-02-20T12:07:01+00:00"
 }

@@ -58,12 +58,8 @@ It is illegal to import beer, mineral water, soft drinks, sparkling wine, fruits
 
 It is illegal to export African art, particularly antiques, without written authorisation from the Department of Antiquities.
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/nigeria)
+[Previous:Warnings and insurance](/foreign-travel-advice/nigeria)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/nigeria/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/nigeria/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/nigeria/print)

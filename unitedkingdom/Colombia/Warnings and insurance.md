@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   30 December 2025
+:   21 February 2026
 
 Updated:
-:   29 December 2025
+:   20 February 2026
 
 Latest update:
-:   Removal of information about strike in the cities of Cúcuta, Barrancabermeja, Medellín, Bogotá, Cali and Popayán 14 - 17 December ('Warnings and insurance' page).
+:   Information on the temporary closure of Tayrona National Natural Park ('Warnings and insurance' page)
 
 ![](https://assets.publishing.service.gov.uk/media/67c05135b0bb6528ee866b96/FCDO_TA_054_-_Colombia_Travel_Advice_Ed3_WEB.jpg)
 
@@ -62,9 +62,9 @@ FCDO advises against all but essential travel to Orito, San Miguel, Valle del Gu
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/colombia/regional-risks).
 
-## Puracé Volcano
+## Tayrona National Park Closure
 
-The Colombian authorities have issued an [orange alert](https://www2.sgc.gov.co/Noticias/Paginas/Boletin-extraordinario-Volcan-Purace-cadena-volcanica-Los-Coconucos-del-30-de-noviembre-de-2025.aspx) for Puracé volcano near Popayán. Follow the advice of the local authorities which includes avoiding the volcano’s immediate perimeter and closely monitoring the situation.
+The Colombian government has ordered the [temporary closure of Tayrona National Natural Park](https://www.parquesnacionales.gov.co/sala-prensa/noticias/parques-nacionales-naturales-de-colombia-anuncia-cierre-temporal-del-parque-tayrona-para-garantizar-condiciones-de-seguridad/), located within the jurisdiction of Santa Marta, over safety concerns. This will remain in effect until further notice. Monitor advice from local authorities.
 
 ## Before you travel
 

@@ -90,12 +90,8 @@ Be cautious when travelling in Lagos, particularly on the mainland, which attra
 
 Be alert and take any security advice given by your hotel, employer or your hosts.
 
-[Previous
-:
-Safety and security](/foreign-travel-advice/nigeria/safety-and-security)
+[Previous:Safety and security](/foreign-travel-advice/nigeria/safety-and-security)
 
-[Next
-:
-Health](/foreign-travel-advice/nigeria/health)
+[Next:Health](/foreign-travel-advice/nigeria/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/nigeria/print)

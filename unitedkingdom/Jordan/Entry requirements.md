@@ -36,15 +36,17 @@ If you wish to also visit Israel or Palestine and re-enter Jordan, you can get a
 
 ### Applying for a visit visa
 
-You can buy a single-entry visit visa when you arrive at a Jordanian airport or the Sheikh Hussein/North Border land crossing. It costs 40 Jordanian dinars and is valid for one month. Some airlines may ask you to submit a health declaration at check-in. Check with your airline.
+You can buy a single-entry visit visa when you arrive at a Jordanian airport or the Sheikh Hussein/North Border land crossing. It costs 40 Jordanian dinars (JOD) and is valid for 3 months. Some airlines may ask you to submit a health declaration at check-in. Check with your airline.
 
-If you’re visiting for tourism, and you will stay at least 3 nights in Jordan, you can [apply for a Jordan Pass online](https://www.jordanpass.jo/) before you arrive. A Jordan Pass costs between JOD 70 and 80 which includes the visa fee and and gives discounted entry to major tourist sites. You should only purchase a Jordan Pass from the official website. The Jordan Pass is valid for 1 month from date of entry and can be extended at any police station.
+If you’re visiting for tourism, and you will stay at least 3 nights in Jordan, you can [apply for a Jordan Pass online](https://www.jordanpass.jo/) before you arrive. A Jordan Pass costs between 70 and 80 Jordanian dinars, which includes the visa fee and gives discounted entry to major tourist sites. You should only purchase a Jordan Pass from the official website. The Jordan Pass is valid for 3 months from date of entry.
 
-You can [extend your Jordan visit visa online](https://eservices.moi.gov.jo/MOI_EVISA/faces/Pages/Runnables/login.jsf) for up to 6 months. You could get a fine if you overstay.
+You can [extend your Jordan visit visa online](https://eservices.moi.gov.jo/MOI_EVISA/faces/Pages/Runnables/login.jsf) for up to 6 months. You could get a fine if you overstay.
 
 ### Visiting Jordan for purposes other than tourism
 
 If you are visiting Jordan for purposes other than tourism, you must apply for your visa in advance [online](https://moi.gov.jo/EN/Pages/Visa_E_Applications). This includes travel for the purposes of work or study.
+
+### Registering with the local authorities
 
 If you are planning to remain in Jordan for more than 14 days, you must report to the police station with a residency extension office that is nearest to your place of residence. You will be required to provide your biometrics (fingerprint and iris scan).
 

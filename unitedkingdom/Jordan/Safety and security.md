@@ -29,26 +29,7 @@ Examples of significant attacks include:
 
 ## Political situation
 
-The political situation in Jordan is stable but sometimes there are protests in Amman and other cities. There have been recent protests about the Gaza conflict near the Israeli and US embassies and downtown. You should:
-
-* take particular care near these areas
-* take care when travelling outside Amman, especially at night
-* be aware of the possibility of large, spontaneous demonstrations
-
-There is a heavy security presence and roadblocks can happen. Most protests are peaceful, but they can become confrontational. There may be heightened anti-western sentiment. You should:
-
-* take sensible precautions
-* follow news reports
-* avoid all political gatherings and demonstrations
-* follow the advice of local authorities
-
-## Tribal violence
-
-Tribal and social disputes may start without notice and become violent. You should:
-
-* follow news reports
-* leave the area if caught in an incident
-* follow any police instructions
+The political situation in Jordan is stable but sometimes there are protests in Amman and other cities. You should stay away from demonstrations and follow the advice of the local authorities.
 
 ## Crime
 

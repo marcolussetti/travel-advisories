@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   11 December 2025
+:   21 February 2026
 
 Updated:
-:   10 December 2025
+:   20 February 2026
 
 Latest update:
-:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
+:   New information on potential travel disruption during elections taking place in the Federal Capital Territory (including Abuja) on 21 February (‘Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/68b5a5683f3e5483efdba88a/FCDO__TA__030_-_Nigeria_Travel_Advice_map__WEB_.jpg)
 
@@ -68,6 +68,10 @@ FCDO advises against all but essential travel to:
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/nigeria/regional-risks).
 
+## Potential travel disruption
+
+Council elections will take place on Saturday 21 February. A heavier security presence is expected in Abuja and in the Federal Capital Territory (FCT) from the afternoon of Friday 20 February. Travel restrictions  may be introduced from 8pm on Friday 20 February, with the FCT Police confirming that restrictions will be in force from 6am until 6pm on Saturday 21 February. British nationals should expect not be able to travel by vehicle within the FCT area whilst these restrictions are in place. Limit your movements during this time. Carry your passport or other ID to show if required and make sure you comply with instructions given by the security services.
+
 ## Before you travel
 
 No travel can be guaranteed safe. Read all the advice in this guide. You may also find it helpful to:
@@ -96,8 +100,6 @@ Follow FCDO:
 * [travel advice on Facebook](https://www.facebook.com/FCDOTravel/)
 * [Travel Aware on Instagram](https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Ftravelaware%2F&is_from_rle)
 
-[Next
-:
-Entry requirements](/foreign-travel-advice/nigeria/entry-requirements)
+[Next:Entry requirements](/foreign-travel-advice/nigeria/entry-requirements)
 
 [View a printable version of the whole guide](/foreign-travel-advice/nigeria/print)

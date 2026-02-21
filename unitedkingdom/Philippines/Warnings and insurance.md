@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   7 January 2026
+:   21 February 2026
 
 Updated:
-:   6 January 2026
+:   20 February 2026
 
 Latest update:
-:   New information on volcanoes (See ‘Extreme weather and natural disasters’ on the ‘Safety and security’ page’).
+:   Updated information about visa requirements ('Entry requirements' page).
 
 ![](https://assets.publishing.service.gov.uk/media/616406778fa8f52980d9301c/FCDO__TA__033_-_Philippines_Travel_Advice_Ed2__WEB_.jpg)
 

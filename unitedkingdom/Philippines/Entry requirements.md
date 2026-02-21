@@ -18,12 +18,13 @@ When returning to the UK, British citizens must carry a valid [British passport
 
 ## Visa requirements
 
-You can visit the Philippines without a visa for tourism or business for up to 30 days, however you must have:
+You can visit the Philippines without a visa for tourism or business for up to 30 days.
 
-* a ticket for your return or onward travel
-* a QR code to show that you have registered on the [e-travel system](https://etravel.gov.ph/) within the 72 hours before your arrival in the Philippines – some airlines will not allow you to board your flight to the Philippines if you cannot show the QR code.
+You must have a QR code to show that you have registered on the [e-travel system](https://etravel.gov.ph/) within the 72 hours before your arrival in the Philippines. Some airlines will not allow you to board your flight to the Philippines if you cannot show the QR code.
 
 The e-travel registration is free of charge.
+
+Most UK visitors are also expected to have proof of return or onward travel. Immigration officials and airlines may ask for this.
 
 To stay more than 30 days, you can [apply for an extension](https://e-services.immigration.gov.ph/Dashboard/Index) when you are in the Philippines. If you overstay any visa without authority, it is a serious matter. You could face fees and fines, and detention if you cannot pay them, or you could be deported at your own expense.
 

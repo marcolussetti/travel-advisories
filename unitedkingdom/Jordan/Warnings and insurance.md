@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   15 January 2026
+:   21 February 2026
 
 Updated:
-:   14 January 2026
+:   20 February 2026
 
 Latest update:
-:   There is a heightened risk of regional tension. Escalation could lead to travel disruption and other unanticipated impacts (‘Warnings and insurance’ page).
+:   New information about the registration process for stays of 14 days or more and removal of information about protests and tribal violence in Jordan ('Entry requirements' and 'Safety and security' pages).
 
 ![](https://assets.publishing.service.gov.uk/media/65bbcf944965c50010e8a3f1/FCDO__TA__087_-_Jordan_Travel_Advice_Ed2__WEB_.jpg)
 
