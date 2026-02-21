@@ -22,4 +22,16 @@ Exclusions: Most insurance policies will not cover drink or drug-related inciden
 
 ### **Vaccinations**
 
-Check with a doctor what vaccinations may be required for your trip at least eight weeks before you travel. You can find out more information about vaccinations on the [**HSE’s website**](http://www.hse.ie/portal/eng/health/az/V/Vaccinations,-travel/).
+Senegalese authorities recommend vaccination against Measles, Hepatitis A and B, and Polio, Diphtheria and Tetanus. Please consult a doctor at least 8 weeks in advance of travel for advice on health care.
+
+Confirmation of vaccination against yellow fever is required for entry and may be inspected on arrival in Senegal.
+
+You can find out more information about vaccinations on the [**HSE’s website**](http://www.hse.ie/portal/eng/health/az/V/Vaccinations,-travel/).
+
+### **Medical Care**
+
+Pharmacies and medical centres are accessible in most urban centres in Senegal but the quality of medical care can vary. Ensure to have an adequate supply of any prescription medications with you if travelling outside of the main urban centres.
+
+### **Water**
+
+Tap water is not safe to drink bottled water should be purchased instead.

@@ -1,3 +1,3 @@
-### Avoid Non-Essential Travel
+### High Degree of Caution
 
-This is our second-highest level of warning. Countries or territories at this level have serious and potentially life-threatening risks. Our ability to provide consular assistance to Irish citizens in this location is extremely limited.
+This is level two of four ratings. Citizens travelling to this country or territory can expect more or higher risks than they would find in Ireland. Research your destination and exercise caution in relation to the particular points set out in our advice.

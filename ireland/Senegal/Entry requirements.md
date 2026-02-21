@@ -26,6 +26,10 @@ What we can do:
 
 A police report is required if you want to make a claim on your travel insurance. A travel document cannot be provided without a police report.
 
+### **Vaccination Certificates**
+
+Confirmation of vaccination against yellow fever is required for entry and will be inspected on arrival in Senegal. This usually takes the form of a yellow card or booklet, please consult a doctor for further information.
+
 ### **Visa to Ireland**
 
 Information for Irish Visa applicants resident in Senegal can be found on the website of the Irish Embassy in Nigeria [**here**](/en/nigeria/abuja/).

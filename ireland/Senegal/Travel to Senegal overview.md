@@ -6,17 +6,7 @@ High Degree of Caution
 
 ### **Travel Alert**
 
-### **Rift Valley Fever Outbreak**
-
-An outbreak of Rift Valley fever (RVF) has been reported in northern Senegal, mainly in the regions of Saint-Louis, Louga, and Matam.
-
-RVF infection in humans usually occurs following contact with the blood, bodily fluids, or tissues of infected animals, as well as through the bites of infected mosquitoes.
-
-Travellers to northern Senegal, including Saint-Louis, are advised to avoid all contact with livestock, raw or undercooked meat, and raw dairy products. Travellers are also advised to take measures to prevent mosquito bites, including use of an approved insect repellent spray, wearing socks and closed toe shoes, and sleeping under mosquito nets if staying outdoors or in unenclosed spaces.
-
-Infection with the RVF virus can cause a severe illness that initially manifests as fever spikes. Travellers to northern Senegal experiencing these symptoms are advised to consult a doctor as soon as possible.
-
-### **Travel to the Mali border**
+#### **Travel to the Mali border**
 
 There is increased terrorist and serious organised crime activity in the Kayes Region in western Mali, and in part of Mauritania bordering the Matam region in Senegal.
 
@@ -30,11 +20,13 @@ Irish citizens do not need a visa to travel to Senegal. If intending to stay in 
 
 A valid passport is required for travel to Senegal Irish passports should have a minimum validity of 6 months.
 
+Irish citizens may be required to provide confirmation of vaccination against yellow fever on arrival in Senegal.
+
 More information on visas and passports can be found [**here**](https://www.aeroport-dakar.com/visa_on_arrival_senegal.php).
 
 Visitors to Senegal are advised to follow the guidance of national and local authorities and stay fully informed of what is going on by monitoring local news and social media.
 
-Citizens can also follow the Embassy on X [**@IrlEmbDakar**](https://twitter.com/IrlEmbDakar/status/1693966463952883724) to ensure access to relevant updates and alerts.
+Citizens can also follow the Embassy on X [**@IrlEmbDakar**](https://twitter.com/IrlEmbDakar/status/1693966463952883724)and [**irlande\_sn**](https://www.instagram.com/irlande_sn/) on Instagram to ensure access to relevant updates and alerts.
 
 ### **Emergency Assistance**
 
@@ -45,6 +37,8 @@ Visitors can contact the emergency services in Senegal by dialling:
 * Police: 17
 * Fire brigade: 18
 * Ambulance: 00221338651818
+
+Visitors should be aware that English is not widely spoken in Senegal. Communication with the emergency services will take place in French or Wolof.
 
 ### **Our Tips for Safe Travels:**
 

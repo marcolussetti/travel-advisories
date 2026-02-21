@@ -2,13 +2,21 @@
 
 ### **Security Status**
 
-Avoid Non-Essential Travel
+High Degree of Caution
 
 ### **Travel Alert**
 
-National elections will take place in Bangladesh on 12 February 2026. There is a threat of further violence and extremist attacks during this period. Attacks could be targeted and political in nature, but they may also be indiscriminate. Stay away from large gatherings and other locations with a police or security presence. Plan your travel carefully as you may encounter disruption.
+National elections took place in Bangladesh on 12 February 2026. While the election period has passed peacefully, there is still a chance for political gatherings or demonstrations to occur.
 
 Irish citizens travelling to or located in Bangladesh are recommended to exercise a high degree of caution, avoid demonstrations and monitor the advice of local authorities. Those who have not already done so should register their details and those of their dependents [here](https://www.ireland.ie/en/dfa/overseas-travel/citizens-registration/).
+
+The Department continues to advise against all but essential travel to the Chittagong Hill Tracts. The area is made up of the following districts:
+
+Rangamati
+
+Khagrachari
+
+Bandarban
 
 ### **General Travel Advice**
 
@@ -23,8 +31,6 @@ Citizens can also follow the Irish Embassy in India on social media (X [**@IrlEm
 ### **Security**
 
 There are heightened security concerns about the potential threat to Western citizens in Bangladesh and Irish citizens should remain vigilant while travelling in the country. Due to the risk of terrorist attacks, Irish citizens are advised to exercise caution in public places, to avoid large gatherings or demonstrations, and venues frequented by expats/foreign tourists, and to keep informed of news reports or security developments.
-
-Extra caution is also advised if visiting Chittagong Hill Tracts (this does not include Chittagong City). If you must visit the area, you should only stay in the main towns of Khagrachari, Rangamati and Bandarban and only travel on the main roads. There’s a risk of being caught up in clashes between rival groups engaged in conflict there.
 
 ### **Emergency Assistance**
 
