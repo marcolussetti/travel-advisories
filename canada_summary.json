@@ -8,7 +8,7 @@
     {
         "destination": "Albania",
         "risk_level": "Take normal security precautions",
-        "last_updated": "2026-02-13T14:22:53",
+        "last_updated": "2026-02-21T01:10:38",
         "details_url": "https://travel.gc.ca/destinations/albania"
     },
     {
@@ -44,7 +44,7 @@
     {
         "destination": "Antarctica",
         "risk_level": "Exercise a high degree of caution",
-        "last_updated": "2026-02-05T14:26:09",
+        "last_updated": "2026-02-20T13:50:32",
         "details_url": "https://travel.gc.ca/destinations/antarctica"
     },
     {
@@ -109,8 +109,8 @@
     },
     {
         "destination": "Bangladesh",
-        "risk_level": "Avoid non-essential travel (with regional advisories)",
-        "last_updated": "2026-02-16T10:03:49",
+        "risk_level": "Exercise a high degree of caution (with regional advisories)",
+        "last_updated": "2026-02-20T15:00:16",
         "details_url": "https://travel.gc.ca/destinations/bangladesh"
     },
     {
@@ -266,7 +266,7 @@
     {
         "destination": "China",
         "risk_level": "Exercise a high degree of caution",
-        "last_updated": "2026-02-16T10:03:49",
+        "last_updated": "2026-02-20T16:36:15",
         "details_url": "https://travel.gc.ca/destinations/china"
     },
     {
@@ -302,7 +302,7 @@
     {
         "destination": "Cuba",
         "risk_level": "Avoid non-essential travel",
-        "last_updated": "2026-02-19T10:16:40",
+        "last_updated": "2026-02-20T11:39:57",
         "details_url": "https://travel.gc.ca/destinations/cuba"
     },
     {
@@ -602,7 +602,7 @@
     {
         "destination": "Italy",
         "risk_level": "Exercise a high degree of caution",
-        "last_updated": "2026-02-06T12:09:35",
+        "last_updated": "2026-02-20T13:13:22",
         "details_url": "https://travel.gc.ca/destinations/italy"
     },
     {
@@ -962,7 +962,7 @@
     {
         "destination": "Paraguay",
         "risk_level": "Exercise a high degree of caution",
-        "last_updated": "2026-02-04T10:12:06",
+        "last_updated": "2026-02-20T09:43:16",
         "details_url": "https://travel.gc.ca/destinations/paraguay"
     },
     {
@@ -1016,7 +1016,7 @@
     {
         "destination": "Russia",
         "risk_level": "Avoid all travel",
-        "last_updated": "2026-02-04T10:12:06",
+        "last_updated": "2026-02-20T17:27:24",
         "details_url": "https://travel.gc.ca/destinations/russia"
     },
     {
@@ -1232,7 +1232,7 @@
     {
         "destination": "Thailand",
         "risk_level": "Exercise a high degree of caution (with regional advisories)",
-        "last_updated": "2026-02-04T10:12:06",
+        "last_updated": "2026-02-20T09:44:13",
         "details_url": "https://travel.gc.ca/destinations/thailand"
     },
     {

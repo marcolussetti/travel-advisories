@@ -1,7 +1,7 @@
 {
     "name": "Albania",
-    "update_reason": "Safety and security \u2013 added information on violent demonstrations",
-    "update_date": "2026-02-13T14:22:00",
+    "update_reason": "Safety and security \u2013 removed information on protests in Tirana",
+    "update_date": "2026-02-21T01:10:00",
     "sections": {
         "risk": "canada/Albania/risk.md",
         "security": "canada/Albania/security.md",

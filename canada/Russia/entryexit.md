@@ -17,6 +17,8 @@ Polish authorities have closed certain border crossings with Russia (Kaliningrad
 * Grzechotki/Mamonovo
 * Bezledy/Bagrationovsk
 
+Starting February 24, 2026, Estonian authorities will close the Luhamaa-Shumilkino and Koidula-Kunichina border crossings to all overnight traffic. The Narva-Ivangorod border crossing will remain open at all times.
+
 Only local residents are allowed to travel by land from Russia to Belarus. This restriction applies to cars, tour buses and trains. If you intend to travel between Belarus and Russia, you must have visas for both countries and travel by air.
 
 #### Useful links

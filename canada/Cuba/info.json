@@ -1,7 +1,7 @@
 {
     "name": "Cuba",
-    "update_reason": "Risk level \u2013 update information on flight options",
-    "update_date": "2026-02-19T10:16:00",
+    "update_reason": "Editorial change",
+    "update_date": "2026-02-20T11:39:00",
     "sections": {
         "risk": "canada/Cuba/risk.md",
         "security": "canada/Cuba/security.md",

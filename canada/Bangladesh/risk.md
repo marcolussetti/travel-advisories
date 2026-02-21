@@ -16,9 +16,9 @@ The features in this map do not constitute an authoritative source of geographic
 
 The features in this map do not constitute an authoritative source of geographical information. This map is solely intended to assist Canadians by illustrating the risk levels contained in the Travel Advice and Advisories for this destination. The features in this map do not necessarily represent the views of the Canadian government on international boundaries, nomenclature or political status. The text under the Risk levels section takes precedence over this map.
 
-### BANGLADESH - AVOID NON-ESSENTIAL TRAVEL
+### Bangladesh - Exercise a high degree of caution
 
-[Avoid non-essential travel](#levels "Risk Levels") to Bangladesh due to possible elections-related demonstrations and clashes. The security situation could deteriorate with little warning. Nationwide general strikes are also possible.
+[Exercise a high degree of caution](#levels "Risk Levels") in Bangladesh due to possible demonstrations, clashes and nationwide general strikes. The security situation could deteriorate with little warning.
 
 ### Chittagong Hill Tracts region - Avoid all travel
 

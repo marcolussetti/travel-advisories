@@ -1,7 +1,7 @@
 {
     "name": "Russia",
-    "update_reason": "Health \u2013 editorial change",
-    "update_date": "2026-02-04T10:12:00",
+    "update_reason": "Entry and exit requirements \u2013 updated information on land border crossings",
+    "update_date": "2026-02-20T17:27:00",
     "sections": {
         "risk": "canada/Russia/risk.md",
         "security": "canada/Russia/security.md",

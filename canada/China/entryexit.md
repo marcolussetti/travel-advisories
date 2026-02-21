@@ -42,40 +42,34 @@ Different entry rules may apply when travelling with a temporary passport or an 
 
 ### Visas
 
-Tourist visa: required   
-Business visa: required   
-Student visa: required   
+Tourist visa: not required   
+Business visa: not required   
+Student visa: required   
 Working visa: required
 
-Ensure that you apply for the proper type of visa for the specific purpose of your trip. Canadians are not eligible for China’s 15-day short-stay visa waiver program, but you may qualify for other visa-free entry programs such as the 240-hour transit program available at select ports of entry or the 30-day visa-free entry for travel to Hainan province.
+Ensure that you apply for the proper type of visa for the specific purpose of your trip.
 
 Thoroughly review all information available regarding the visa-issuance process.
 
 Pay particular attention to the length of stay permitted after each entry on your Chinese visa. Overstaying can lead to fines and administrative detention.
 
-#### Transit without visa and visa-free stays
+#### Visa-free entry
 
-While you may be eligible for a visa on arrival, there is no guarantee that it will be granted. You should obtain a visa before travelling to China.
+From February 17 to December 31, 2026, Canadian passport holders are included in China's visa waiver travel scheme. During this period, you may be eligible for visa‑free entry for up to 30 days for tourism, business, family visits or transit during this period. Always verify your eligibility with the nearest Chinese embassy or consulate. If you don't meet the criteria for visa-free travel, make sure you have the appropriate visa before travelling to mainland China.
 
-You may be eligible for a visa on arrival if you are:
+#### Entry to Tibet
 
-* transiting between two international destinations
-* visiting certain areas for short periods
-* visiting certain areas as part of an organized tour or travelling in a group
+Unaccompanied private visits to Tibet are still prohibited. Foreigners may visit Tibet through an accredited travel agency, which can obtain the Tibet Travel Permit on their behalf.
 
-Contact the nearest Chinese diplomatic or consular office for more information on visa exemptions.
+Check with the Embassy of the People's Republic of China to know about the specific entry requirements for Tibet and other restricted areas.
+
+[Embassy of the People's Republic of China](https://www.international.gc.ca/protocol-protocole/reps.aspx?lang=eng&_ga=2.144703924.1622506889.1681434440-1960359831.1632357707)
 
 #### Visa application outside of Canada
 
 If you apply for a visa outside of Canada, check with the Chinese embassy or consulate nearest you to make sure that it issues visas to Canadians.
 
 If you are already travelling or living in China, contact the Foreigners Entry and Exit Administration Section of the local Public Security Bureau (PSB) for visa information.
-
-#### Visiting Hong Kong and Macao
-
-Obtain a visa allowing multiple entries if you plan to travel between Hong Kong, Macao and mainland China.
-
-[Applying for visas for mainland China in Hong Kong](http://www.fmcoprc.gov.hk/eng/zgqz/bgfwxx/default.htm) - Ministry of Foreign Affairs of China in Hong Kong
 
 ### Proof of onward travel
 

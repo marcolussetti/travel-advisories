@@ -38,9 +38,7 @@ If you travel to these regions despite the risks:
 
 Our ability to provide consular support in the Tibet Autonomous Region is limited.
 
-Check with the Embassy of the People's Republic of China to know about the specific entry requirements for Tibet and other restricted areas.
-
-[Embassy of the People's Republic of China](https://www.international.gc.ca/protocol-protocole/reps.aspx?lang=eng&_ga=2.144703924.1622506889.1681434440-1960359831.1632357707)
+[More information on entry requirements for Tibet](#entrytibet)
 
 ### Crime
 
@@ -158,7 +156,7 @@ To reduce your risk of inconvenience or fraud:
 * use only licensed taxis or rides booked through reputable ride-hailing apps
 * avoid unmarked or unlicensed “black” taxis, especially at airports and major tourist sites
 * request that the taxi meter be used; if there is no meter, agree on the fare before departure
-* ask that the driver provides you with a receipt or “fapiao” in case you need to report a complaint or recover a lost item
+* ask that the driver provide you with a receipt or “fapiao” in case you need to report a complaint or recover a lost item
 * remove your luggage from the trunk before paying the fare
 
 #### Marine transportation

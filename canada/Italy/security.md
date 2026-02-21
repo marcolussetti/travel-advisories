@@ -172,7 +172,7 @@ If you intend to participate in adventure tourism activities:
 * ensure that you have proper equipment and bring sufficient water
 * monitor weather conditions and other possible hazards
 
-[Information on avalanche risk](https://meteomont.carabinieri.it/home) – Meteomont, Arma dei Carabinieri
+[Avalanche Forecast](https://bollettini-en.aineva.it/bulletin/latest) – AINEVA (Interregional Association for coordination and documentation of snow and avalanche problems)
 
 ### Water activities
 

@@ -1,7 +1,7 @@
 {
     "name": "Italy",
-    "update_reason": "Safety and security \u2013 updated information on the Olympic and Paralympic Winter Games; Laws and culture \u2013 updated information on identification",
-    "update_date": "2026-02-06T12:09:00",
+    "update_reason": "Editorial change",
+    "update_date": "2026-02-20T13:13:00",
     "sections": {
         "risk": "canada/Italy/risk.md",
         "security": "canada/Italy/security.md",

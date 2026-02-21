@@ -2,14 +2,6 @@
 
 ## Safety and security
 
-### Violent demonstrations
-
-Violent demonstrations have taken place since January 2026, especially in central Tirana. There have been clashes causing injuries.
-
-The possibility of further demonstrations cannot be ruled out.
-
-[More on demonstrations and mass gatherings](#demonstrations)
-
 ### Crime
 
 #### Petty crime
