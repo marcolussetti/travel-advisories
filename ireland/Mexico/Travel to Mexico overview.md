@@ -6,6 +6,12 @@ High Degree of Caution
 
 ### **Travel Alert**
 
+#### **Ongoing Security Operations and Incidents of Violence across the State of Jalisco**
+
+The Department of Foreign Affairs and Trade advises against all travel to the state of Jalisco at this time, including to major urban areas such as Puerto Vallarta and Guadalajara, where ongoing security operations and incidents of violence have resulted in road and airport closures. There have also been reports of security operations and related road blockages in other states, particularly those bordering Jalisco.
+
+Irish citizens already in Jalisco or in any other affected area should shelter in place, avoid unnecessary movement, and follow the direction of the local authorities.
+
 #### **UK ETA**
 
 **Exemption for Irish Citizens, including Irish dual citizens, travelling to, or transiting through, the UK, the Channel Islands or the Isle of Man from outside the Common Travel Area:**

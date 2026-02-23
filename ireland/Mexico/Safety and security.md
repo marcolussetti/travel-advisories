@@ -6,7 +6,9 @@ Armed crime and violence has been growing in tourist areas, and all visitors sho
 
 The security environment in Mexico can vary significantly between states, with rates of violence and organised crime higher in certain areas.
 
-We advise against non-essential travel to the following states, due to high levels of crime (including opportunistic crime and organised crime) and violence:
+**Irish citizens are advised against all travel to the state of Jalisco due to ongoing security operations and incidents of violence.**
+
+Additionally, we advise against non-essential travel to the following states, due to high levels of crime (including opportunistic crime and organised crime) and violence:
 
 * Chiapas border areas with Guatemala
 * Chihuahua
@@ -15,7 +17,6 @@ We advise against non-essential travel to the following states, due to high leve
 * Durango (except Durango City)
 * Guerrero (except the cities of Taxco, Ixtapa-Zihuatenejo, Acapulco)
 * Michoacán (except Morelia)
-* Jalisco (except Guadalajara and Puerto Vallarta)
 * Nuevo León (except Monterrey)
 * Sinaloa (except Mazatlán)
 * Sonora (except Hermosillo and Guaymas/San Carlos and Puerto Peñasco)
