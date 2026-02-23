@@ -2,6 +2,34 @@
 
 ## Safety and security
 
+### Violent incidents in various parts of Mexico
+
+Criminal groups have set up roadblocks with burning vehicles in several cities in various parts of Mexico. There have been shootouts with security forces and explosions, including on roads and highways connecting affected areas to Mexico city.
+
+Security incidents have taken place across the country, especially in the following states:
+
+* Jalisco, including Guadalajara and Puerto Vallarta
+* Guerrero, including Acapulco
+* Michoacán
+* Sinaloa, including Mazatlán
+* Quintana Roo, including Cancun
+* Baja California, including Tijuana and Tecate
+* Nayarit
+
+The security situation could deteriorate rapidly in these locations and in others across Mexico.
+
+Shelter in place orders are in effect in Jalisco and Nayarit. Similar instructions, including curfews, may be issued on short notice in other areas of the country.
+
+There are significant disruptions to travel and transportation, including flight delays and cancellations.
+
+If you are in Mexico:
+
+* avoid the affected areas
+* keep a low profile and limit your movements
+* follow the advice of local authorities, including any curfews and orders to shelter in place
+* monitor local and international media to stay informed of the rapidly evolving situation
+* before making your way to the airport, check with your airline to determine if there are delays or changes in flight schedules
+
 ### FIFA World Cup 2026™
 
 Canada, Mexico and the United States will be hosting the FIFA World Cup from June 11 to July 19, 2026. If you plan on travelling to Mexico for the tournament, consult our [Advice for Canadians travelling to Mexico – FIFA World Cup 2026™](https://travel.gc.ca/travelling/campaigns/soccer-2026-mexico).

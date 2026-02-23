@@ -1,7 +1,7 @@
 {
     "name": "Mexico",
-    "update_reason": "Health \u2013 Travel health notice for dengue removed",
-    "update_date": "2026-02-16T10:05:00",
+    "update_reason": "Safety and security \u2013 updated information on violent incidents in various parts of Mexico",
+    "update_date": "2026-02-22T23:28:00",
     "sections": {
         "risk": "canada/Mexico/risk.md",
         "security": "canada/Mexico/security.md",
