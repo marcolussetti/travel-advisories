@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   11 December 2025
+:   23 February 2026
 
 Updated:
-:   10 December 2025
+:   23 February 2026
 
 Latest update:
-:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
+:   Update to information on security incidents across the state of Jalisco, including in Guadalajara and Puerto Vallarta ('Warnings and insurance' page) .
 
 ![](https://assets.publishing.service.gov.uk/media/65fabfdfaa9b76001dfbdb8a/FCDO_TA_065_-_Mexico_Travel_Advice_Ed5_WEB.jpg)
 
@@ -107,6 +107,16 @@ FCDO advises against all but essential travel on Federal Highway 199 (Carretera 
 
 Find out more about [why FCDO advises against travel to these areas](/foreign-travel-advice/mexico/regional-risks).
 
+## Security incidents across the state of Jalisco (including in Guadalajara and Puerto Vallarta).
+
+Serious security incidents have been reported on 22 February across the state of Jalisco, including in Guadalajara and Puerto Vallarta, following a federal law-enforcement operation against organised crime in the municipality of Tapalpa.
+
+Authorities in Puerto Vallarta have issued a public advisory to stay indoors. Routes to airports may be blocked. You should exercise extreme caution, follow local authorities’ advice, including orders to stay indoors and avoid non‑essential travel in affected areas.
+
+There are reports of blockades on intercity roads across affected states.  Please monitor local media and follow advice from authorities and local transport companies before making a decision to travel. If you do decide to travel, we recommend intercity road travel during daylight hours.
+
+Security incidents have also been reported in other parts of Mexico.  As the situation develops, wherever you are in Mexico, you should stay alert and follow local security advice.
+
 ## World Cup 2026
 
 Mexico is co-hosting the 2026 World Cup which takes place between 11 June and 19 July.
@@ -141,8 +151,6 @@ Follow FCDO:
 * [travel advice on Facebook](https://www.facebook.com/FCDOTravel/)
 * [Travel Aware on Instagram](https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Ftravelaware%2F&is_from_rle)
 
-[Next
-:
-Entry requirements](/foreign-travel-advice/mexico/entry-requirements)
+[Next:Entry requirements](/foreign-travel-advice/mexico/entry-requirements)
 
 [View a printable version of the whole guide](/foreign-travel-advice/mexico/print)

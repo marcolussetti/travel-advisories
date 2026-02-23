@@ -277,12 +277,8 @@ Falling volcanic ash and toxic fumes can affect your health, especially if you s
 
 The [Mexican Disaster Prevention Centre](https://www.gob.mx/cenapred) has updates on Popocatepetl, Colima and other volcanoes. There is also [Mexican government information on X](https://x.com/SGIRPC_CDMX/).
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/mexico/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/mexico/entry-requirements)
 
-[Next
-:
-World Cup 2026](/foreign-travel-advice/mexico/world-cup-2026)
+[Next:World Cup 2026](/foreign-travel-advice/mexico/world-cup-2026)
 
 [View a printable version of the whole guide](/foreign-travel-advice/mexico/print)

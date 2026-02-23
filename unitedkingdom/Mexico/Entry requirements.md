@@ -100,12 +100,8 @@ Fake immigration officers can operate in international airports. Always refuse o
 
 You may need to pay a departure tax when leaving Mexico by air or land. The cost can vary, and some airports or border crossings only accept cash. Most airlines include the cost within the ticket price. If in doubt, check with your airline or tour operator.
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/mexico)
+[Previous:Warnings and insurance](/foreign-travel-advice/mexico)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/mexico/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/mexico/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/mexico/print)

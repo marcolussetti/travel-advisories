@@ -225,12 +225,8 @@ The border between Chiapas and Guatemala is dangerous due to the presence of man
 
 Illegal roadblocks and checkpoints are reported frequently on Federal Highway 199 (Carretera Federal 199) between Rancho Nuevo, just outside San Cristobal de las Casas, and Palenque. Protests by indigenous groups often block the road. There is a risk of kidnapping.
 
-[Previous
-:
-World Cup 2026](/foreign-travel-advice/mexico/world-cup-2026)
+[Previous:World Cup 2026](/foreign-travel-advice/mexico/world-cup-2026)
 
-[Next
-:
-Health](/foreign-travel-advice/mexico/health)
+[Next:Health](/foreign-travel-advice/mexico/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/mexico/print)

@@ -59,12 +59,8 @@ See more advice on the [Safety and security page](https://www.gov.uk/foreign-tra
 
 Read the advice for LGBT+ travellers in Mexico on the [Safety and security page](https://www.gov.uk/foreign-travel-advice/mexico/safety-and-security#lgbt-travellers).
 
-[Previous
-:
-Safety and security](/foreign-travel-advice/mexico/safety-and-security)
+[Previous:Safety and security](/foreign-travel-advice/mexico/safety-and-security)
 
-[Next
-:
-Regional risks](/foreign-travel-advice/mexico/regional-risks)
+[Next:Regional risks](/foreign-travel-advice/mexico/regional-risks)
 
 [View a printable version of the whole guide](/foreign-travel-advice/mexico/print)
