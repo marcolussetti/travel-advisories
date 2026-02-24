@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   16 January 2026
+:   24 February 2026
 
 Updated:
-:   15 January 2026
+:   23 February 2026
 
 Latest update:
-:   New information on mandatory insurance for visitors upon entering Georgia (see ‘Insurance upon entry’ on the ‘Entry requirements’ page).
+:   Information on mandatory insurance for visitors upon entering Georgia (see ‘Insurance upon entry’ on the ‘Entry requirements’ page), and updated information on duration of protests ('Safety and security' page).
 
 ![](https://assets.publishing.service.gov.uk/media/690481e4823bdda9488b24cf/FCDO_TA_018_-_Georgia_Travel_Advice_Ed4_WEB.jpg)
 

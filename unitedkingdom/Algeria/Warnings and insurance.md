@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   29 January 2026
+:   24 February 2026
 
 Updated:
-:   28 January 2026
+:   23 February 2026
 
 Latest update:
-:   New information about a storm warning ('Warnings and insurance' page).
+:   Removal of information about a storm warning.
 
 ![](https://assets.publishing.service.gov.uk/media/615dcb70d3bf7f55fd843aea/FCDO__TA__002_-_Algeria_Travel_Advice_Ed3__WEB_.jpg)
 
@@ -33,12 +33,6 @@ FCDO advises against all travel to within 30km of Algeria’s borders with:
 FCDO advises against all but essential travel to within 30km of the rest of Algeria’s border with Tunisia.
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/algeria/safety-and-security).
-
-## Storm warning
-
-Algerian Civil Protection has issued a warning for violent winds in parts of Algeria. Monitor local media and follow the advice of the authorities.
-
-For more information, check [Algeria Civil Protection](https://www.facebook.com/DGPCDZ) (in Arabic).
 
 ## Before you travel
 

@@ -1,11 +1,11 @@
 {
     "name": "Georgia",
-    "update_reason": "New information on mandatory insurance for visitors upon entering Georgia (see \u2018Insurance upon entry\u2019 on the \u2018Entry requirements\u2019 page).",
+    "update_reason": "Information on mandatory insurance for visitors upon entering Georgia (see \u2018Insurance upon entry\u2019 on the \u2018Entry requirements\u2019 page), and updated information on duration of protests ('Safety and security' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Georgia/Warnings and insurance.md",
-            "update_date": "2026-01-15T15:21:25+00:00"
+            "update_date": "2026-02-23T15:57:40+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Georgia/Getting help.md"
         }
     ],
-    "update_date": "2026-01-15T15:21:25+00:00"
+    "update_date": "2026-02-23T15:57:40+00:00"
 }

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   14 February 2026
+:   24 February 2026
 
 Updated:
-:   13 February 2026
+:   23 February 2026
 
 Latest update:
-:   Addition of information that Cyclone Gezani has entered the Mozambique channel, bringing strong winds and the risk of flooding (‘Warnings and insurance’ page).
+:   Removal of information that Cyclone Gezani has entered the Mozambique channel, bringing strong winds and the risk of flooding.
 
 ![](https://assets.publishing.service.gov.uk/media/68b6aa1b11b4ded2da19fcfe/FCDO__TA__028_-_Mozambique_Travel_Advice_Ed11__WEB_.jpg)
 
@@ -33,12 +33,6 @@ FCDO advises against all travel to the districts of Memba and Eráti in Nampula
 FCDO advises against all travel to the districts of Mecula and Marrupo in Niassa Province.
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/mozambique/regional-risks).
-
-### Cyclone Gezani
-
-On 11 February, Cyclone Gezani entered the Mozambique channel and is expected to affect Mozambique from Friday 13 February, bringing a risk of flooding and strong winds, which could cause damage to buildings and infrastructure.
-
-Monitor local news reports and follow advice from local authorities.
 
 ## Travel insurance
 

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   21 February 2026
+:   24 February 2026
 
 Updated:
-:   20 February 2026
+:   23 February 2026
 
 Latest update:
-:   New information on potential travel disruption during elections taking place in the Federal Capital Territory (including Abuja) on 21 February (‘Warnings and insurance’ page).
+:   Removal of information on potential travel disruption during elections taking place in the Federal Capital Territory (including Abuja) on 21 February.
 
 ![](https://assets.publishing.service.gov.uk/media/68b5a5683f3e5483efdba88a/FCDO__TA__030_-_Nigeria_Travel_Advice_map__WEB_.jpg)
 
@@ -67,10 +67,6 @@ FCDO advises against all but essential travel to:
 * Imo State
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/nigeria/regional-risks).
-
-## Potential travel disruption
-
-Council elections will take place on Saturday 21 February. A heavier security presence is expected in Abuja and in the Federal Capital Territory (FCT) from the afternoon of Friday 20 February. Travel restrictions  may be introduced from 8pm on Friday 20 February, with the FCT Police confirming that restrictions will be in force from 6am until 6pm on Saturday 21 February. British nationals should expect not be able to travel by vehicle within the FCT area whilst these restrictions are in place. Limit your movements during this time. Carry your passport or other ID to show if required and make sure you comply with instructions given by the security services.
 
 ## Before you travel
 

@@ -39,8 +39,6 @@ Read [best practice when travelling with medicines on TravelHealthPro](https://t
 
 FCDO has a [list of medical providers in Mozambique](https://www.gov.uk/government/publications/mozambique-list-of-medical-facilties/mozambique-list-of-medical-facilties) where some staff will speak English.
 
-There is also [guidance on healthcare if you’re living in Mozambique](https://www.gov.uk/guidance/living-in-mozambique#healthcare-in-mozambique).
-
 Hospital facilities are of a lower standard compared to the UK, especially in the north of the country. In cases of serious illness or injury, medical evacuation to South Africa or the UK may be necessary.
 
 Make sure you have adequate travel health insurance and accessible funds to cover the cost of any medical treatment abroad and repatriation.

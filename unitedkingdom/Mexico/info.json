@@ -1,11 +1,11 @@
 {
     "name": "Mexico",
-    "update_reason": "Update to information on security incidents across the state of Jalisco, including in Guadalajara and Puerto Vallarta ('Warnings and insurance' page) .",
+    "update_reason": "Updated information about the ongoing security incidents across Mexico including the states of Jalisco, Oaxaca and Quintana Roo ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Mexico/Warnings and insurance.md",
-            "update_date": "2026-02-23T04:16:45+00:00"
+            "update_date": "2026-02-23T19:10:54+00:00"
         },
         {
             "title": "Entry requirements",
@@ -38,5 +38,5 @@
             "file": "unitedkingdom/Mexico/Getting help.md"
         }
     ],
-    "update_date": "2026-02-23T04:16:45+00:00"
+    "update_date": "2026-02-23T19:10:54+00:00"
 }

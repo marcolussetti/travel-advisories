@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   29 January 2026
+:   24 February 2026
 
 Updated:
-:   28 January 2026
+:   23 February 2026
 
 Latest update:
-:   New information about temporary safety measures following severe storm (‘Warnings and insurance’ page).
+:   Removal of information about temporary safety measures following severe storm.
 
 ![](https://assets.publishing.service.gov.uk/media/687faf22fdc190fb6b8468e3/FCDO__TA__042_-_Tunisia_Travel_Advice_Ed5__WEB___1_.jpg)
 
@@ -53,12 +53,6 @@ This is due to cross-border terrorist activity and fighting in Libya.
 In addition, FCDO advises against all but essential travel to within 75km of the Tunisia-Libya border, including Remada and El Borma but excluding Zarzis, the C118 road and all areas in Medenine Governorate north of the road.
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/tunisia/regional-risks).
-
-## Temporary safety measures
-
-Following a severe storm on 20-21 January, local authorities in Sidi Bou Said have introduced temporary safety measures, including restrictions on buses and heavy vehicles and the closure of some roads and pedestrian zones, to reduce the risk of landslides.
-
-Monitor local media and follow the advice of local authorities.
 
 ## Before you travel
 
