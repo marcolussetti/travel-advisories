@@ -4,31 +4,29 @@
 
 ### Violent incidents in various parts of Mexico
 
-Criminal groups have set up roadblocks with burning vehicles in several cities in various parts of Mexico. There have been shootouts with security forces and explosions, including on roads and highways connecting affected areas to Mexico city.
+On February 22, 2026, criminal groups set up roadblocks with burning vehicles in several cities in various parts of Mexico. There were shootouts with security forces and explosions, including on roads and highways connecting affected areas to Mexico city.
 
-Security incidents have taken place across the country, especially in the following states:
+Security incidents took place in a number of locations, especially in the following states:
 
 * Jalisco, including Guadalajara and Puerto Vallarta
 * Guerrero, including Acapulco
+* Nayarit
 * Michoacán
 * Sinaloa, including Mazatlán
 * Quintana Roo, including Cancun
 * Baja California, including Tijuana and Tecate
-* Nayarit
 
-The security situation could deteriorate rapidly in these locations and in others across Mexico.
+While no new significant security incidents were reported in those areas on February 23, further incidents are possible in these locations and in other areas across Mexico.
 
-Shelter in place orders are in effect in Jalisco and Nayarit. Similar instructions, including curfews, may be issued on short notice in other areas of the country.
+Local authorities are reopening roads and reinforcing security around Guadalajara and Puerto Vallarta. Airports in Puerto Vallarta and Guadalajara are open, domestic flights resumed on February 23, and international flights are scheduled to resume on February 24. Shelter in place orders remain in effect in Jalisco and Nayarit.
 
-There are significant disruptions to travel and transportation, including flight delays and cancellations.
+Travel to the airport only if you have a confirmed flight, and it is safe to do so. You should take into account your personal circumstances and local security conditions when making this decision. Confirm the status of your flight before you leave, as there may be delays or changes in flight schedules. Give yourself extra time to get there and plan to arrive early.
 
-If you are in Mexico:
+If you are in an affected area:
 
-* avoid the affected areas
 * keep a low profile and limit your movements
 * follow the advice of local authorities, including any curfews and orders to shelter in place
-* monitor local and international media to stay informed of the rapidly evolving situation
-* before making your way to the airport, check with your airline to determine if there are delays or changes in flight schedules
+* monitor local and international media to stay informed of the situation
 
 ### FIFA World Cup 2026™
 

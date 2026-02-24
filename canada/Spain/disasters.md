@@ -2,23 +2,6 @@
 
 ## Natural disasters and climate
 
-### Severe storms
-
-Heavy rains and flash floods caused by a cluster of severe winter storms have affected parts of Spain since February 2, 2026. The storms have hit especially hard in Andalusia, in the southwest, and Galicia, in the northwest. High winds, cold temperatures and more heavy rain are forecast in Galicia and Catalonia until at least February 15.
-
-Many of the affected areas are still recovering from damages due to the impact of earlier storms. Further storms could cause additional damage to infrastructure, including roads, and disruptions to travel and transportation in the affected areas.
-
-If you are in an affected area:
-
-* monitor local news and weather reports
-* confirm your flight status before going to the airport
-* follow the instructions of local authorities
-
-#### Useful links
-
-* [Meteorological warnings](https://www.aemet.es/en/eltiempo/prediccion/avisos) – AEMET, State Meteorological Agency (Spanish only)
-* [MeteoAlarm](https://meteoalarm.org/en/live/) – EUMETNET, European Network of National Meteorological Services
-
 ### Climate change
 
 Climate change is affecting Spain. Extreme and unusual weather events are becoming more frequent and may affect your travel plans. Monitor local news to stay informed on the current situation.

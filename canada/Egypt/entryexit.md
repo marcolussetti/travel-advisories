@@ -72,11 +72,11 @@ If a child is born in Egypt to a Canadian parent, a data stamp proving that the 
 
 If you are contemplating onward travel to other Arab countries, bear in mind that Canadians have been denied entry because their passports bore an Israeli visa, an Israeli border stamp or an Egyptian or Jordanian border stamp issued by an office bordering Israel, which would indicate they entered from Israel.
 
-### Israeli border
+### Border with Palestine and Israel
 
-Due to the ongoing events in Israel, West Bank and the Gaza Strip, the land borders could close with little notice.
+Due to the ongoing events in Israel and Palestine, the land borders could close with little notice.
 
-The Rafah border crossing to the Gaza Strip has been closed since May 2024. The Government of Canada continues to advise against all travel to the Gaza Strip due to ongoing military operations.
+Access to the Gaza Strip through the Rafah border crossing is restricted. The Government of Canada continues to advise against all travel to the Gaza Strip due to ongoing military operations.
 
 The Taba border crossing to southern Israel remains open.
 

@@ -139,7 +139,7 @@ The border area with Egypt is dangerous due to military operations and smuggling
 
 The Israeli Defence Forces regularly patrol the area to intercept drug smugglers resulting in frequent armed clashes.
 
-The Rafah border crossing, which is the only option to cross between the Gaza Strip and Egypt, is controlled jointly by Egyptian and Israeli authorities. In northern Sinai, the security situation can also deteriorate rapidly due to instability and the risk of terrorist attacks.
+Entry to and exit from the Gaza Strip through the Rafah border crossing, which is the only crossing point between Palestine (Gaza Strip) and Egypt, is significantly restricted. In northern Sinai, the security situation can also deteriorate rapidly due to instability and the risk of terrorist attacks.
 
 Don't drive on:
 
