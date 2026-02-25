@@ -6,6 +6,14 @@ High Degree of Caution
 
 ### **Travel Alert**
 
+#### **Electronic Travel Authorization (ETA) Technical Issue**
+
+**The Department of Immigration and Emigration in Sri Lanka have advised that the online ETA system is currently experiencing technical difficulties. As a result, there are delays in the approval of some ETA applications.**
+
+**If you have made an ETA application, please carry proof of this with you when traveling, as airline staff or immigration officials may request it. Upon verification of the ETA application, as long as the standard entry requirements are met and required supporting documentation is in order, your visa will be issued.**
+
+**Please see full details regarding the notice from the Sri Lankan Government** [**here**](https://srilankahc.uk/2026/02/18/notice-to-all-eta-applicants/)**.**
+
 #### **Extreme Weather**
 
 On 27 November, Cyclone Ditwah caused severe flooding and landslides across the country. This resulted in fatalities, damage to infrastructure and travel disruptions. These disruptions continue in the most affected areas including Kandy, Nuwara Eliya and the wider Hill Country, and the risk of further landslides and flooding remains.

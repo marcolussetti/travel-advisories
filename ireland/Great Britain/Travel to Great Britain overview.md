@@ -6,6 +6,18 @@ Normal Precautions
 
 ### **Travel Alert**
 
+#### **Airlines Passport Requirement**
+
+Effective from 25 February, the majority of airlines, including Aer Lingus and Ryanair, require that Irish citizens present a valid **Irish passport or passport card** for travel between Ireland and the UK.
+
+TravelWise Tips:
+
+* Check your passport validity.
+* Where necessary, apply online for an Irish passport, well in advance of any travel.
+* Check with your travel operator (airline/ferry) regarding their identification requirements before travelling.
+
+#### **Electronic Travel Authorisation**
+
 **UK, Channel Islands and Isle of Man Electronic Travel Authorisation (ETA)**
 
 **Exemption for Irish Citizens, including Irish dual citizens, travelling to, or transiting through, the UK, the Channel Islands or the Isle of Man from outside the Common Travel Area (The Common Travel Area is comprised of the United Kingdom, the Channel Islands, the Isle of Man and Ireland):**
