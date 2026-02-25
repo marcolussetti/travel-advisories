@@ -1,11 +1,11 @@
 {
     "name": "Mexico",
-    "update_reason": "Updated information about the ongoing security incidents across Mexico including the states of Jalisco, Oaxaca and Quintana Roo ('Warnings and insurance' page).",
+    "update_reason": "Updated information about security incidents that began on 22 February ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Mexico/Warnings and insurance.md",
-            "update_date": "2026-02-23T19:10:54+00:00"
+            "update_date": "2026-02-24T16:59:54+00:00"
         },
         {
             "title": "Entry requirements",
@@ -38,5 +38,5 @@
             "file": "unitedkingdom/Mexico/Getting help.md"
         }
     ],
-    "update_date": "2026-02-23T19:10:54+00:00"
+    "update_date": "2026-02-24T16:59:54+00:00"
 }

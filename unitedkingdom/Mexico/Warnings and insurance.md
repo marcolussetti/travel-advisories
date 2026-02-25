@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   24 February 2026
+:   25 February 2026
 
 Updated:
-:   23 February 2026
+:   24 February 2026
 
 Latest update:
-:   Updated information about the ongoing security incidents across Mexico including the states of Jalisco, Oaxaca and Quintana Roo ('Warnings and insurance' page).
+:   Updated information about security incidents that began on 22 February ('Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/699c670acd3d70e6c2f12758/FCDO__TA__065_-_Mexico_Travel_Advice_Ed6__WEB_.jpg)
 
@@ -93,19 +93,19 @@ FCDO advises against all but essential travel on Federal Highway 199 (Carretera 
 
 Find out more about [why FCDO advises against travel to these areas](/foreign-travel-advice/mexico/regional-risks).
 
-## Security incidents across Mexico including the states of Jalisco, Oaxaca and Quintana Roo (including Cancun, Cozumel, Playa del Carmen, and Tulum)
+## Security incident that began in the State of Jalisco on 22 February
 
-Serious security incidents have been reported on 22 February across the state of Jalisco, including in Guadalajara and Puerto Vallarta, following a federal law-enforcement operation against organised crime in the municipality of Tapalpa.
+Serious security incidents have been reported since 22 February across the state of Jalisco, including in Guadalajara and Puerto Vallarta, following a federal law-enforcement operation against organised crime in the municipality of Tapalpa.
 
-If you are currently in Jalisco, minimise movements and follow any local shelter‑in‑place instructions.
+If you are currently in Jalisco, minimise movements and follow any local shelter in place instructions.
 
-These conditions are significantly affecting access to reliable transport and services, with local shelter‑in‑place instructions in some areas and suspension of certain local transport services reported in Puerto Vallarta and Guadalajara. Authorities in Puerto Vallarta have issued a public advisory to stay indoors.
+These conditions significantly affected access to reliable transport and services, with local shelter in place instructions in some areas and suspension of certain local transport services reported in Puerto Vallarta and Guadalajara. Services appear to be resuming operations on 24 February, although you should continue to follow local security advice.
 
-Routes to airports may be blocked. Flight schedules to and from Puerto Vallarta and Guadalajara have also been disrupted, with several airlines cancelling or diverting services at short notice. Check for messages from your airline or tour operator before travelling to the airport, and monitor local and international media for updates.
+Flight schedules to and from Puerto Vallarta and Guadalajara have also been disrupted. Check for messages from your airline or tour operator before travelling to the airport, and monitor local and international media for updates.
 
-There are reports of blockades on intercity roads across affected states. Be alert to potential disruptions and check local media, official guidance, and updates from transport providers before deciding whether to travel. If you do choose to travel, remain vigilant and be prepared for possible delays or changes to routes.
+There continue to be some reports of blockades in Jalisco state. Be alert to potential disruptions and check local media, official guidance, and updates from transport providers before deciding whether to travel. If you do choose to travel, remain vigilant and be prepared for possible delays or changes to routes.
 
-Security incidents have also been reported in other parts of Mexico, including in tourist areas in Quintana Roo and Oaxaca states. As the situation develops, wherever you are in Mexico, stay alert and follow local security advice.
+Security incidents were reported in other parts of Mexico, including in tourist areas in Quintana Roo and Oaxaca states, but things appear to have returned to normal outside of Jalisco. Wherever you are in Mexico, stay alert and follow local security advice.
 
 Read more about [why FCDO advises against travel to parts of Mexico](https://www.gov.uk/foreign-travel-advice/mexico/regional-risks).
 
