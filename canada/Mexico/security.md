@@ -16,17 +16,15 @@ Security incidents took place in a number of locations, especially in the follow
 * Quintana Roo, including Cancun
 * Baja California, including Tijuana and Tecate
 
-While no new significant security incidents were reported in those areas on February 23, further incidents are possible in these locations and in other areas across Mexico.
+While the security situation has stabilized in these areas since February 22, further incidents are possible in these locations and in other areas across Mexico.
 
-Local authorities are reopening roads and reinforcing security around Guadalajara and Puerto Vallarta. Airports in Puerto Vallarta and Guadalajara are open, domestic flights resumed on February 23, and international flights are scheduled to resume on February 24. Shelter in place orders remain in effect in Jalisco and Nayarit.
+Local authorities are reopening roads and reinforcing security around Guadalajara and Puerto Vallarta. Airports in Puerto Vallarta and Guadalajara are open, domestic flights resumed on February 23, and international flights resumed on February 24. Shelter in place orders have been lifted.
 
-Travel to the airport only if you have a confirmed flight, and it is safe to do so. You should take into account your personal circumstances and local security conditions when making this decision. Confirm the status of your flight before you leave, as there may be delays or changes in flight schedules. Give yourself extra time to get there and plan to arrive early.
+Travel to the airport only if you have a confirmed flight, and it is safe to do so. Confirm the status of your flight before you leave to the airport, as there may be delays or changes in flight schedules. Give yourself extra time to get there and plan to arrive early.
 
-If you are in an affected area:
-
-* keep a low profile and limit your movements
-* follow the advice of local authorities, including any curfews and orders to shelter in place
-* monitor local and international media to stay informed of the situation
+* If your travel plans have been disrupted, contact your airline or travel agent for more information
+* Follow the advice of local authorities
+* Monitor local and international media to stay informed of the situation
 
 ### FIFA World Cup 2026™
 

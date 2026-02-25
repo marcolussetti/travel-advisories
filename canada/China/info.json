@@ -1,7 +1,7 @@
 {
     "name": "China",
-    "update_reason": "Entry and exit requirements \u2013 updated information on visa requirements for Canadian passport holders",
-    "update_date": "2026-02-20T16:36:00",
+    "update_reason": "Editorial change",
+    "update_date": "2026-02-24T10:12:00",
     "sections": {
         "risk": "canada/China/risk.md",
         "security": "canada/China/security.md",

@@ -69,11 +69,14 @@ If you plan to buy property, or making other investments in Nicaragua:
 
 ### Dual citizenship
 
-Dual citizenship is legally recognized in Nicaragua.
+On January 16, 2026, Nicaragua eliminated the right to dual citizenship in most cases, including for Canadian citizens. If you are planning to obtain Nicaraguan citizenship, consult the announcement regarding the constitutional reform in the Official Gazette.
 
-If you are a Canadian citizen, but also a citizen of Nicaragua, our ability to offer you consular services may be limited while you're there. You may also be subject to different [entry/exit requirements](#entryexit).
+If you are a Canadian citizen, but also a citizen of Nicaragua, our ability to offer you consular services may be limited while you're there. You may also be subject to different [entry/exit requirements](https://travel.gc.ca/destinations/nicaragua#entryexit).
 
-[Dual citizens](http://travel.gc.ca/travelling/documents/dual-citizenship)
+#### Useful links
+
+* [Dual citizens](http://travel.gc.ca/travelling/documents/dual-citizenship)
+* [Constitutional amendments on dual citizenship](https://www.lagaceta.gob.ni/la-gaceta-no-09-viernes-16-de-enero-de-2026/) – The Official Gazette of Nicaragua (Spanish only)
 
 ### International Child Abduction
 
