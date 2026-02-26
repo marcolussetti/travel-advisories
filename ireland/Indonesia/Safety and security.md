@@ -1,6 +1,6 @@
 ## Safety and security
 
-Citizens are strongly encouraged to [**Register**](https://www.ireland.ie/en/dfa/overseas-travel/citizens-registration/) your details with the Embassy
+Citizens are strongly encouraged to [**Register**](https://www.ireland.ie/en/dfa/overseas-travel/citizens-registration/) your details with the Embassy.
 
 ### **Civil Unrest**
 
@@ -26,13 +26,39 @@ If a victim of a crime while in Indonesia, report it to the local police immedia
 
 ### **Lost or Stolen Passport**
 
-If your passport is lost or stolen, report this to the Police immediately and obtain a Police Report. A lost passport can delay travel plans considerably, and incur costs. Along with the time taken to arrange a new travel document, you will subsequently need to get a replacement visa and an exit visa from immigration and this can take an additional three working days at a minimum, and may delay your onward travel plans considerably.
+If your passport is lost or stolen, report this to the Police immediately and obtain a Police Report. A lost passport can delay travel plans considerably, and incur costs.
 
-Please be aware that you will need to visit the Embassy of Ireland in Jakarta - in - person to arrange an emergency travel document if necessary. For more information please see Entry requirements tab.
+Please be aware that you will need to visit the Embassy of Ireland in Jakarta in-person if you require an Emergency Travel Certificate.
+
+### Emergency Travel Certificate
+
+Irish citizens who have lost their passport while visiting Indonesia may be able to obtain a one-way Emergency Travel Certificate to return to Ireland or their country of residence. Emergency Travel Certificates are valid for 72 hours and can be used for a single journey only.
+
+If resident in Indonesia and have lost your passport you should apply for a [**new passport**](https://www.ireland.ie/en/dfa/passports/passport-online/).
+
+Irish citizens who need an Emergency Travel Certificate should contact the Embassy of Ireland at +62 21 2809 4300 or [**via this form**](https://www.ireland.ie/en/indonesia/jakarta/contact/)**.**
+
+Emergency travel certificates can only be issued at the Embassy of Ireland in Jakarta. Irish citizens must present in-person at the Embassy.
+
+The following documentation is required before an Emergency Travel Certificate can be issued:
+
+* Emergency travel document fee of IDR 500,000. An additional fee of IDR 1,300,000 will be applied if the emergency travel certificate is processed outside of normal office hours (09.00 – 16.00). Fees can be paid in cash at the Embassy or via bank transfer.
+* Photographic ID
+* Proof of address in country of residence
+* Copy of Long Birth Certificate
+* Copy of proof of Irish citizenship, if born outside Ireland or in Ireland after 2005
+* Completed passport application form (this can be completed at the Embassy)
+* Two colour passport photos (size 3.5X4.5 cm, white background)
+* Police report of lost/stolen passport
+* Visa and flight information
+
+**Important**: Some countries do not accept Emergency Travel Certificates, including for transit purposes. **Applicants should check that an Emergency Travel Certificate will be accepted in their countries of transit or residence before they apply for the certificate and before finalising travel arrangements.**
+
+If provided with an Emergency Travel Certificate, an application for a new passport should be submitted as soon as possible. Your previous passport will be registered as lost and will be cancelled.
 
 ### **Driving and other forms of transport**
 
-Caution should be exercised if driving in Indonesia, as driving standards vary. Bring a full Irish and international driving license. **You should** **have adequate and appropriate insurance.**
+Caution should be exercised when driving in Indonesia, as driving standards vary. Bring a full Irish and international driving license. **You should** **have adequate and appropriate insurance.**
 
 Motorcycle accidents are common on the Islands of Bali and Lombok. Only experienced drivers should use motorbikes and mopeds and all necessary safety precautions should be taken, including wearing a helmet.
 

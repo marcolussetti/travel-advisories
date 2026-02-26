@@ -4,9 +4,7 @@ Crime and violence are prevalent throughout Mexico, and the security situation p
 
 Armed crime and violence has been growing in tourist areas, and all visitors should exercise caution when spending time in such locations. While tourists are not usually the targets of such crimes, the growing number of gang and drug related violence in tourist areas is of serious concern, and can affect tourists directly.
 
-The security environment in Mexico can vary significantly between states, with rates of violence and organised crime higher in certain areas.
-
-**Irish citizens are advised against all travel to the state of Jalisco due to ongoing security operations and incidents of violence.**
+The security environment in Mexico can vary significantly between states, with rates of violence and organised crime higher in certain areas. From time to time, security operations may result in disruptions and travellers should remain alert to official advice and be aware of the risk of misinformation.
 
 Additionally, we advise against non-essential travel to the following states, due to high levels of crime (including opportunistic crime and organised crime) and violence:
 
@@ -16,11 +14,11 @@ Additionally, we advise against non-essential travel to the following states, du
 * Coahuila (except Saltillo)
 * Durango (except Durango City)
 * Guerrero (except the cities of Taxco, Ixtapa-Zihuatenejo, Acapulco)
+* Jalisco (except Puerto Vallarta and Guadalajara we recommend arriving by air)
 * Michoacán (except Morelia)
 * Nuevo León (except Monterrey)
 * Sinaloa (except Mazatlán)
 * Sonora (except Hermosillo and Guaymas/San Carlos and Puerto Peñasco)
-* Tabasco
 * Tamaulipas
 * Zacatecas (except Zacatecas City – we recommend arriving by air)
 

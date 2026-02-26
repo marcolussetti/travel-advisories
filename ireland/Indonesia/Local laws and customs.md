@@ -1,12 +1,16 @@
 ## Local laws and customs
 
+You must carry a copy of your passport or other photographic identification with you at all times.
+
 Remember, the local laws apply to you as a visitor and it is your responsibility to follow them.
 
 Visitors should respect local traditions, customs, laws and religions at all times and be aware of their actions to ensure that they do not offend other cultures or religious beliefs, especially during the Muslim holy month of Ramadan or if intending to visit religious areas. Sharia law is enforced in Aceh (Northern Sumatra) and may exist unofficially or through local legislation in other areas.
 
 It is important to avoid offending Muslim sensitivities. Westerners have occasionally been harassed by fundamentalists in bars and nightclubs, particularly around major Islamic holidays such as Ramadan.
 
-Indonesia has approved new legislation that will take effect in 2025 banning extra-marital sexual relations and cohabitation by unmarried couples. The new law when introduced will apply equally to Indonesian and foreign residents as well as tourists.
+Indonesia has introduced legislation which bans extra-marital sexual relations and cohabitation by unmarried couples. The new law applies equally to Indonesian and foreign residents as well as tourists, however enforcement is complaint-based, requiring reports submitted by close family members.
+
+Citizens travelling to Bali should familiarise with the Bali Provincial Government’s official [**'Do's and Don'ts'**](https://lovebali.baliprov.go.id/article/detail/1686289659500/the-provincial-government-of-bali-issued-an-official-%E2%80%9Cdo-and-don%E2%80%99t%E2%80%9D-card-for-foreign-tourist-while-in-bali) advice.
 
 ### **Illegal Drugs**
 
