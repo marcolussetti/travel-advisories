@@ -56,7 +56,7 @@ Different entry rules may apply when travelling with a temporary passport or an 
 
 ### Electronic Travel Authorisation (ETA)
 
-You need to apply for an ETA before travelling to or transiting through the UK. You must travel on the passport used for your ETA application.
+You need to apply for an ETA before travelling to the UK. You must travel on the passport used for your ETA application.
 
 You do not need an ETA if, for example, you:
 
