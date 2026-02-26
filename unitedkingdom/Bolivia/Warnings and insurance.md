@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   12 January 2026
+:   26 February 2026
 
 Updated:
-:   11 January 2026
+:   25 February 2026
 
 Latest update:
-:   Removal of information relating to a flight organised by the Government of Bolivia on 10 January (Warnings and Insurance page)
+:   New information about earthquakes (‘Safety and security’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/672ccc5a62831268b0b1a328/FCDO__TA__098_-_Bolivia_Travel_Advice_Ed1__WEB_.jpg)
 
@@ -19,12 +19,6 @@ Your travel insurance could be invalidated if you travel against advice from the
 ## Areas where FCDO advises against all but essential travel
 
 FCDO advises against all but essential travel to the Chapare region of Cochabamba Department including Villa Tunari and highway routes 4 and 24 that pass through Chapare.
-
-## Road blockades
-
-Extensive road blockades have been announced in Bolivia. Due to the blockades, the city of La Paz is cut off from Copacabana, Oruro, Cochabamba, Santa Cruz, Potosí and Sucre.
-
-Avoid large crowds and demonstrations, and do not attempt to cross blockades. Check [road status updates from the Bolivian road authority](https://transitabilidad.abc.gob.bo/mapa/) (in Spanish) to see which roads are blocked.
 
 Find out more about [why FCDO advises against travel](https://www.gov.uk/foreign-travel-advice/bolivia/safety-and-security).
 

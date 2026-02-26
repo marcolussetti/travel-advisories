@@ -1,11 +1,11 @@
 {
     "name": "Kyrgyzstan",
-    "update_reason": "New information on changes to visa-free period (See \u2018Visa requirements\u2019 and \u2018Registering with authorities\u2019 on the \u2018Entry requirements\u2019 page).",
+    "update_reason": "New information on travelling near the Kyrgyzstan-Tajikistan border (See \u2018Kyrgyzstan-Tajikistan Border\u2019 on the \u2018Regional risks\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Kyrgyzstan/Warnings and insurance.md",
-            "update_date": "2026-01-09T10:37:08+00:00"
+            "update_date": "2026-02-25T15:22:54+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Kyrgyzstan/Getting help.md"
         }
     ],
-    "update_date": "2026-01-09T10:37:08+00:00"
+    "update_date": "2026-02-25T15:22:54+00:00"
 }

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   10 January 2026
+:   26 February 2026
 
 Updated:
-:   9 January 2026
+:   25 February 2026
 
 Latest update:
-:   New information on changes to visa-free period (See ‘Visa requirements’ and ‘Registering with authorities’ on the ‘Entry requirements’ page).
+:   New information on travelling near the Kyrgyzstan-Tajikistan border (See ‘Kyrgyzstan-Tajikistan Border’ on the ‘Regional risks’ page).
 
 ## Before you travel
 

@@ -76,12 +76,8 @@ Travellers may bring up to $10,000 US dollars (or equivalent in other currencies
 
 Customs declaration forms are available in Russian and English. It is recommended to retain your entry declaration form until departure to prove the amount of money originally brought into the country. Failure to declare or provide documentation may result in fines or delays at the border.
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/tajikistan)
+[Previous:Warnings and insurance](/foreign-travel-advice/tajikistan)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/tajikistan/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/tajikistan/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/tajikistan/print)

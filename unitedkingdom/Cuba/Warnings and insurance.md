@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   20 February 2026
+:   26 February 2026
 
 Updated:
-:   19 February 2026
+:   25 February 2026
 
 Latest update:
-:   Information about flight cancellations and checking you have the correct travel documents for your final and transit destinations (‘Warnings and insurance’ page).
+:   Updated information about the ongoing situation in Cuba ('Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/698cc89184cc2df4a87123d5/FCDO__TA__103_-_Cuba_Travel_Advice_Ed1__WEB_.jpg)
 
@@ -18,13 +18,15 @@ Latest update:
 
 ### Power outages and fuel shortages
 
-Cuba is experiencing severe and worsening disruption to essential infrastructure, persistent  power outages across the country and fuel shortages. These conditions significantly affect the ability of visitors to access reliable transport, medical care, communications, and basic services. Authorities have introduced fuel rationing, scaled back public services, and made temporary changes to healthcare, education, transport and tourism operations to conserve severely limited energy supplies.
+Cuba is experiencing severe and worsening disruption to essential infrastructure, persistent power outages across the country and fuel shortages. These conditions are significantly affecting the ability of visitors to access reliable transport, medical care, communications, and basic services. Authorities have introduced fuel rationing, scaled back public services, and made temporary changes to healthcare, education, transport and tourism operations to conserve severely limited energy supplies.
 
-Cuban authorities have announced that all of its international airports are without aviation fuel. Some airlines, including all Canadian airlines and LATAM, have suspended flights to and from Cuba, with others reviewing routes. This limits your options to leave the country.
+Cuban authorities have announced that all of its international airports are without aviation fuel. Some airlines, including all Canadian airlines and LATAM, have suspended flights to and from Cuba, with others reviewing routes. This limits your options to leave the country.
 
-If you are considering leaving Cuba, check for messaging from your airline or tour operator for up to date information. If you are required to change your flight route, make sure you have the correct travel documents (visa, ETA etc) for your final and transit destinations.
+The situation has the potential to deteriorate quickly and without warning. Make sure you are ready to change your plans quickly if needed. If you are considering leaving Cuba, check for messaging from your airline or tour operator for up to date information. Ensure your travel documents remain valid and confirm you have any required visas for onward travel.
 
-If you are currently in Cuba, carefully consider if your presence is essential. Take precautions by conserving fuel, water, food and mobile phone charge, and be prepared for significant disruption.
+If you are currently in Cuba, carefully consider if your presence is essential. Take precautions by conserving fuel, water, food and mobile phone charge, and be prepared for significant disruption.
+
+Continue to monitor local media and follow the instructions of local authorities. Subscribe to [FCDO email alerts](https://www.gov.uk/foreign-travel-advice/cuba/email-signup) and read our [guidance on how to deal with a crisis overseas](https://www.gov.uk/government/collections/support-for-british-nationals-abroad#help-in-a-crisis).
 
 ## Before you travel
 

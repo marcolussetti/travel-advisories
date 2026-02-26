@@ -1,11 +1,11 @@
 {
     "name": "Democratic Republic of the Congo",
-    "update_reason": "Addition of information following recent drone attacks against DRC military assets at Bangoka International Airport in Kisangani  and on road conditions ('Safety and security' and \u2018Regional risks\u2019 pages).",
+    "update_reason": "FCDO now advises against all but essential travel to Bangoka International Airport in Kisangani. FDCO no longer advises against all but essential travel to the district of Kasa Vubu in Kinshasa city bordered by the N1 Triumphal Road (Stadium), Barumbu District, Lingwala district and south of the Botanical Garden ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Democratic Republic of the Congo/Warnings and insurance.md",
-            "update_date": "2026-02-13T14:29:45+00:00"
+            "update_date": "2026-02-25T17:08:17+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Democratic Republic of the Congo/Getting help.md"
         }
     ],
-    "update_date": "2026-02-13T14:29:45+00:00"
+    "update_date": "2026-02-25T17:08:17+00:00"
 }

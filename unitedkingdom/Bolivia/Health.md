@@ -43,8 +43,6 @@ The public healthcare system does not meet the same standards as the UK, and you
 
 FCDO has a list of [medical providers in Bolivia](https://www.gov.uk/government/publications/bolivia-medical-facilities-and-practitioners) where some staff will speak English.
 
-There is also [guidance on healthcare if you’re living in Bolivia](https://www.gov.uk/guidance/living-in-bolivia--2).
-
 ## Travel and mental health
 
 Read [FCDO guidance on travel and mental health](https://www.gov.uk/guidance/foreign-travel-advice-for-people-with-mental-health-issues). There is also [mental health guidance on TravelHealthPro](https://travelhealthpro.org.uk/factsheet/85/travelling-with-mental-health-conditions).

@@ -212,12 +212,8 @@ In late spring and summer, there can be seasonal flooding and mudslides caused b
 
 Heavy snowfall in winter can cause delays and cancellations at airports and disrupt travel, particularly in mountainous regions where there’s an increased risk of avalanches. Take local advice on road conditions during or following severe weather.
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/tajikistan/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/tajikistan/entry-requirements)
 
-[Next
-:
-Regional risks](/foreign-travel-advice/tajikistan/regional-risks)
+[Next:Regional risks](/foreign-travel-advice/tajikistan/regional-risks)
 
 [View a printable version of the whole guide](/foreign-travel-advice/tajikistan/print)

@@ -1,11 +1,11 @@
 {
     "name": "Bolivia",
-    "update_reason": "Removal of information relating to a flight organised by the Government of Bolivia on 10 January (Warnings and Insurance page)",
+    "update_reason": "New information about earthquakes (\u2018Safety and security\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Bolivia/Warnings and insurance.md",
-            "update_date": "2026-01-11T08:09:18+00:00"
+            "update_date": "2026-02-25T16:43:03+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Bolivia/Getting help.md"
         }
     ],
-    "update_date": "2026-01-11T08:09:18+00:00"
+    "update_date": "2026-02-25T16:43:03+00:00"
 }

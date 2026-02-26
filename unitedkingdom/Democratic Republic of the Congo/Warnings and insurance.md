@@ -1,18 +1,18 @@
 # Warnings and insurance
 
 Still current at:
-:   14 February 2026
+:   26 February 2026
 
 Updated:
-:   13 February 2026
+:   25 February 2026
 
 Latest update:
-:   Addition of information following recent drone attacks against DRC military assets at Bangoka International Airport in Kisangani and on road conditions ('Safety and security' and ‘Regional risks’ pages).
+:   FCDO now advises against all but essential travel to Bangoka International Airport in Kisangani. FDCO no longer advises against all but essential travel to the district of Kasa Vubu in Kinshasa city bordered by the N1 Triumphal Road (Stadium), Barumbu District, Lingwala district and south of the Botanical Garden ('Warnings and insurance' page).
 
-![](https://assets.publishing.service.gov.uk/media/67f58030e3c60873d6c90d72/FCDO__TA__012_-_Democratic_Repbulic_of_the_Congo_Travel_Advice_Ed15__WEB_.jpg)
+![](https://assets.publishing.service.gov.uk/media/699f2b9b532c9ad91ebbcd03/FCDO__TA__012_-_Democratic_Repbulic_of_the_Congo_Travel_Advice_Ed17__WEB_.jpg)
 
 
-[Download a more detailed map (PDF, 1.03 MB)](https://assets.publishing.service.gov.uk/media/67f58030555773bbf109e1b7/FCDO__TA__012_-_Democratic_Repbulic_of_the_Congo_Travel_Advice_Ed15.pdf)
+[Download a more detailed map (PDF, 1.03 MB)](https://assets.publishing.service.gov.uk/media/699f2b9b07d7bff3604d6d5f/FCDO__TA__012_-_Democratic_Repbulic_of_the_Congo_Travel_Advice_Ed17.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
@@ -24,7 +24,6 @@ FCDO advises against all but essential travel to:
 
 * The districts of N’djili and Kimbanseke in Kinshasa city south of the main access road to N’djili airport, in Nsele commune
 * The N1 road in Kinshasa Province, between and including Menkao to the west, Kenge to the east, the border of Mai-Ndombe province to the north, and 10km to the south
-* The district of Kasa Vubu in Kinshasa city bordered by the N1 Triumphal Road (Stadium), Barumbu District, Lingwala district and south of the Botanical Garden.
 
 ### DRC-Central African Republic border
 
@@ -50,6 +49,10 @@ FCDO advises against all travel to the Kwamouth territory of Mai-Ndombe Province
 FCDO advises against all travel to the province of Kasaï Oriental.
 
 FCDO advises against all but essential travel to the provinces of Kasaï and Kasaï Central.
+
+### Tshopo Province
+
+FCDO advises against all but essential travel to Bangoka International Airport in Kisangani.
 
 See details about [why FCDO advises against travel](/foreign-travel-advice/democratic-republic-of-the-congo/regional-risks).
 

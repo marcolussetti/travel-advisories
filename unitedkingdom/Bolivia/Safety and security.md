@@ -161,6 +161,19 @@ Forest fires are common during the dry season (May to October) and affect some p
 
 Floods and landslides are common, particularly in mountainous areas during the rainy season (November to March). Roads are often impassable for days at a time.
 
+### Earthquakes
+
+Earthquakes can happen in Bolivia, although serious earthquakes are rare. Many buildings, particularly older buildings and those outside major cities, may not be built to withstand earthquakes.
+
+If you’re affected by an earthquake:
+
+* follow the advice of local authorities
+* if you’re indoors, stay inside and take cover under a sturdy piece of furniture or against an interior wall, away from windows
+* if you’re outdoors, move away from buildings, trees and power lines
+* be aware of the risk of aftershocks
+
+You should familiarise yourself with general earthquake safety advice before travelling.
+
 [Previous:Entry requirements](/foreign-travel-advice/bolivia/entry-requirements)
 
 [Next:Regional Risks](/foreign-travel-advice/bolivia/regional-risks)

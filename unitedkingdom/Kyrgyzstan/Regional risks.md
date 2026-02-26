@@ -10,9 +10,7 @@ Stay aware of your surroundings if you travel to the provinces (‘oblasts’) o
 
 ## Kyrgyzstan-Tajikistan Border
 
-There remains some risk of conflict over recognition of the border with Tajikistan. There have been security incidents along the border including with exchanges of gunfire.
-
-In September 2022, armed conflict between the Kyrgyz and Tajik militaries resulted in over 100 deaths, including civilians. There was significant destruction of civilian property and infrastructure. Around 140,000 civilians were displaced. Unexploded landmines and weapons remain a risk.
+There is a history of border clashes in this area, and the security situation can change at short notice. There have been no further clashes since the border agreement in 2025. However, unexploded landmines and weapons continue to pose a serious risk. Border areas may be subject to sudden restrictions on movement and a heightened security presence. You should exercise caution if travelling near the Kyrgyzstan–Tajikistan border, check local conditions before travel, and follow the advice of the local authorities.
 
 ## Border crossings
 
