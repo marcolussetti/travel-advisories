@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   24 February 2026
+:   27 February 2026
 
 Updated:
-:   23 February 2026
+:   26 February 2026
 
 Latest update:
-:   Removal of information that Cyclone Gezani has entered the Mozambique channel, bringing strong winds and the risk of flooding.
+:   Updated information about visa requirements ('Entry requirements' page).
 
 ![](https://assets.publishing.service.gov.uk/media/68b6aa1b11b4ded2da19fcfe/FCDO__TA__028_-_Mozambique_Travel_Advice_Ed11__WEB_.jpg)
 

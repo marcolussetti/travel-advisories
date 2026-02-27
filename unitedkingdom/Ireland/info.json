@@ -1,11 +1,11 @@
 {
     "name": "Ireland",
-    "update_reason": "New information about dual nationals returning to the UK (\u2018Entry requirements\u2019 page).",
+    "update_reason": "This travel advice was reviewed for accuracy and there are no significant updates.",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Ireland/Warnings and insurance.md",
-            "update_date": "2025-12-10T12:48:26+00:00"
+            "update_date": "2026-02-26T11:06:23+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Ireland/Getting help.md"
         }
     ],
-    "update_date": "2025-12-10T12:48:26+00:00"
+    "update_date": "2026-02-26T11:06:23+00:00"
 }

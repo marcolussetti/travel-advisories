@@ -151,7 +151,7 @@ Sudanese law prohibits the use of mobile phones while driving.
 
 ## Air travel
 
-Khartoum International Airport is not currently running commercial flights. It officially re-opened in October 2025 but was subject to drone attacks and the risk of further attacks continues. The only civilian airport operating international flights is Port Sudan Airport, however it was also subject to drone attacks in early May 2025. Since then, no new strikes have been reported, but surveillance drone activity has continued. A limited number of airlines are currently operating from the airport.
+Khartoum Airport has recently resumed operating a limited number of domestic commercial flights. It officially re-opened in October 2025 but was subject to drone attacks and the risk of further attacks continues. Port Sudan Airport is operating a limited number of international and domestic flights, however it was also subject to drone attacks in early May 2025. Since then, no new strikes have been reported, but surveillance drone activity has continued.
 
 There are no Sudanese airlines which currently meet the standards required to operate direct flights to the UK or EU.
 

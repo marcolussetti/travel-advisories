@@ -22,11 +22,11 @@ When returning to the UK, British citizens must carry a valid [British passport
 
 ## Visa requirements
 
-You can [travel without a visa to Mozambique](https://www.mozambiquehighcommission.org.uk/visa-section.html) for tourism or business for up to 30 days.
+You can [travel without a visa to Mozambique](https://www.mozambiquehighcommission.org.uk/visa-section.html) for tourism or business for up to 30 days but the Mozambican authorities request you apply for an Electronic Travel Authorisation (ETA) at least 48 hours before departure. You can [apply through the Mozambique eVisa official portal](https://evisa.gov.mz/).
 
-On arrival, you must be able to show border control a written invitation from your host, or a confirmed hotel reservation, and a return or onward air ticket. You must pay a fee of 650 Mozambican meticais using cash or card.
+On arrival, you must be able to show border control a written invitation from your host, or a confirmed reservation for accommodation, and a return or onward air ticket.
 
-For all other travel purposes, you can [apply for a visa online through the e-visa portal](https://evisa.gov.mz/).
+Keep the receipt provided upon arrival at the border, as you may need to show it when exiting Mozambique.
 
 ## Entering Mozambique by land crossing
 

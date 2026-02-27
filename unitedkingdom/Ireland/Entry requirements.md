@@ -12,10 +12,6 @@ Irish immigration officers are entitled to ask for proof of British nationality 
 
 Check the [Ireland Citizens Information Board for guidance on acceptable ID](https://www.citizensinformation.ie/en/government-in-ireland/ireland-and-the-uk/common-travel-area-between-ireland-and-the-uk/).
 
-## Dual Nationals
-
-When returning to the UK, British citizens must carry a valid [British passport](https://www.gov.uk/browse/abroad/passports) or [certificate of entitlement](https://www.gov.uk/right-of-abode/apply-for-a-certificate-of-entitlement). See [Dual citizenship](https://www.gov.uk/dual-citizenship).
-
 ## Visa requirements
 
 You can visit and remain indefinitely in Ireland under the [Common Travel Area rules](https://www.gov.uk/government/publications/common-travel-area-guidance/common-travel-area-guidance). British nationals do not need a visa or residency permit to live, work or study in Ireland.
@@ -40,12 +36,8 @@ Read about [travelling to the EU with your pet](https://www.gov.uk/taking-your-
 
 Declare [cash or travellers cheques if the value is 10,000 euros or more](https://www.revenue.ie/en/customs/individuals/travelling-with-sending-cash/index.aspx). You will get a certified declaration to show you brought it in with you. If you do not, your money could be seized when you leave.
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/ireland)
+[Previous:Warnings and insurance](/foreign-travel-advice/ireland)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/ireland/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/ireland/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/ireland/print)

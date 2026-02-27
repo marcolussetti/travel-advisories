@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   11 December 2025
+:   27 February 2026
 
 Updated:
-:   10 December 2025
+:   26 February 2026
 
 Latest update:
-:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
+:   This travel advice was reviewed for accuracy and there are no significant updates.
 
 ## Before you travel
 
@@ -37,8 +37,6 @@ Follow FCDO:
 * [travel advice on Facebook](https://www.facebook.com/FCDOTravel/)
 * [Travel Aware on Instagram](https://www.instagram.com/travelaware/)
 
-[Next
-:
-Entry requirements](/foreign-travel-advice/ireland/entry-requirements)
+[Next:Entry requirements](/foreign-travel-advice/ireland/entry-requirements)
 
 [View a printable version of the whole guide](/foreign-travel-advice/ireland/print)

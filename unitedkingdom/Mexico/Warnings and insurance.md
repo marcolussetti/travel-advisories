@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 February 2026
+:   27 February 2026
 
 Updated:
-:   25 February 2026
+:   26 February 2026
 
 Latest update:
-:   “Updated information on the security situation in Mexico ('Warnings and insurance' page)”
+:   Updated information on the security situation in Mexico ('Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/699c670acd3d70e6c2f12758/FCDO__TA__065_-_Mexico_Travel_Advice_Ed6__WEB_.jpg)
 
@@ -95,15 +95,11 @@ Find out more about [why FCDO advises against travel to these areas](/foreign-tr
 
 ## Security incident that began in the State of Jalisco on 22 February
 
-On 22 February, serious security incidents were reported in the Mexican state of Jalisco, including in Guadalajara and Puerto Vallarta, following an operation by the Mexican army against organised crime. These incidents included roadblocks, arson attacks and clashes between criminal groups and Mexican security forces. Similar incidents were reported in other states, including in Michoacán, Guerrero, Nayarit, Sinaloa, Baja California and Quintanta Roo (where Cancun, Tulum and Cozumel are located).
+On 22 February, serious security incidents were reported in the Mexican state of Jalisco, including in Guadalajara and Puerto Vallarta, following an operation by the Mexican army against organised crime. These incidents included roadblocks, arson attacks and clashes between criminal groups and Mexican security forces. Similar incidents were then reported in other states, including in Michoacán, Guerrero, Nayarit, Sinaloa, Baja California and Quintanta Roo (where Cancun, Tulum and Cozumel are located).
 
-The situation outside Jalisco state has now returned to normal, with no further roadblocks or clashes reported due to the 22 February clashes. You should read thoroughly the UK travel advice for Mexico, including on safety and security, and note that we advise all but essential travel to specific areas of Mexico. Wherever you are in Mexico, stay alert and follow local security advice.
+The situation has now calmed, with no further roadblocks or clashes reported due to the events of 22 February. Read thoroughly the UK travel advice for Mexico, including on safety and security, and note that we advise all but essential travel to specific areas of Mexico. Wherever you are in Mexico, stay alert and follow local security advice. If you are in Jalisco state, make sure to monitor local media and follow the advice of local authorities.
 
-If you are in Jalisco state, monitor local media and follow the advice of local authorities, including any shelter in place instructions. Also consider keeping friends and family updated about your location and well-being.
-
-Flights to Guadalajara and Puerto Vallarta airports have resumed, though there remains the possibility of cancellations and changes to flight schedules. Check with your airline to confirm your flight status and schedule. Only travel to the airport if you have a confirmed flight and it is safe to do so.
-
-The Jalisco Government reports that public transport has resumed. Be alert to potential disruptions and check local media, official guidance, and updates from transport providers before deciding whether to travel. If you choose to travel, remain vigilant and be prepared for possible delays or changes to routes.
+Flights to Guadalajara and Puerto Vallarta airports have resumed, though there remains the possibility of cancellations and changes to flight schedules. Check with your airline to confirm your flight status and schedule.
 
 ## World Cup 2026
 

@@ -38,12 +38,8 @@ If you are planning to drive in Ireland, see [information on driving abroad](htt
 
 If you are visiting Ireland, you may be able to use your [Blue Badge](https://www.gov.uk/government/publications/blue-badge-using-it-in-the-eu/using-a-blue-badge-in-the-european-union) in some circumstances. Check local parking rules.
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/ireland/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/ireland/entry-requirements)
 
-[Next
-:
-Health](/foreign-travel-advice/ireland/health)
+[Next:Health](/foreign-travel-advice/ireland/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/ireland/print)
