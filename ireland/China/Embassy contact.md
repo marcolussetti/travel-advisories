@@ -1,6 +1,6 @@
 ## Embassy contact
 
-Monday to Friday 09:00-12:30 and 13:30-17:00 Irish Citizens seeking emergency consular assistance outside office hours (including weekends and holidays) should contact the Embassy duty phone on +86 13801056774.
+Monday to Friday 09:00-12:30 and 13:30-17:00 Irish Citizens seeking emergency consular assistance outside office hours (including weekends and holidays) should contact the Embassy duty phone on +86 10 13801056774.
 
 ### Embassy of Ireland, China
 

@@ -4,14 +4,6 @@
 
 High Degree of Caution
 
-### **Travel Alert**
-
-Hurricane Melissa has passed through the Caribbean islands, including the Dominican Republic. High storm surges, heavy rainfall, flooding and landslides have been reported. Authorities declared an orange level warning.
-
-It is advised that citizens in Dominican Republic monitor local media regularly and follow advice from local authorities, in particular in relation to evacuation orders.
-
-Citizens travelling to Dominican Republic may be impacted by flight delays or cancellations. Closely monitor airline updates for up to date flight information.
-
 ### **General Travel Advice**
 
 Irish citizens do not require a visa to enter Dominican Republic.
