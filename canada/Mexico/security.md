@@ -2,29 +2,13 @@
 
 ## Safety and security
 
-### Violent incidents in various parts of Mexico
+### Recent violent incidents in various parts of Mexico
 
-On February 22, 2026, criminal groups set up roadblocks with burning vehicles in several cities in various parts of Mexico. There were shootouts with security forces and explosions, including on roads and highways connecting affected areas to Mexico city.
+On February 22, 2026, criminal groups set up roadblocks with burning vehicles in various cities across Mexico. There were shootouts with security forces and explosions, including on roads and highways connecting affected areas to Mexico City.
 
-Security incidents took place in a number of locations, especially in the following states:
+The security situation has since stabilized.
 
-* Jalisco, including Guadalajara and Puerto Vallarta
-* Guerrero, including Acapulco
-* Nayarit
-* Michoacán
-* Sinaloa, including Mazatlán
-* Quintana Roo, including Cancun
-* Baja California, including Tijuana and Tecate
-
-While the security situation has stabilized in these areas since February 22, further incidents are possible in these locations and in other areas across Mexico.
-
-Local authorities are reopening roads and reinforcing security around Guadalajara and Puerto Vallarta. Airports in Puerto Vallarta and Guadalajara are open, domestic flights resumed on February 23, and international flights resumed on February 24. Shelter in place orders have been lifted.
-
-Travel to the airport only if you have a confirmed flight, and it is safe to do so. Confirm the status of your flight before you leave to the airport, as there may be delays or changes in flight schedules. Give yourself extra time to get there and plan to arrive early.
-
-* If your travel plans have been disrupted, contact your airline or travel agent for more information
-* Follow the advice of local authorities
-* Monitor local and international media to stay informed of the situation
+If your travel plans have been disrupted, contact your airline or travel agent for more information.
 
 ### FIFA World Cup 2026™
 

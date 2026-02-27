@@ -98,8 +98,8 @@ Traffic regulation is different from Canada, the legal age to drive is 18.
 
 #### Useful links
 
-* [Online fine payments](https://pagalo.pe/) – Ministry of the Economy and Finance (in Spanish only)
-* [Bank of the Peruvian government](https://www.bn.com.pe/)  – National bank (in Spanish only)
+* [Online fine payments](https://pagalo.pe/) – Ministry of the Economy and Finance (Spanish only)
+* [Bank of the Peruvian government](https://www.bn.com.pe/)  – National bank (Spanish only)
 
 ### Money
 

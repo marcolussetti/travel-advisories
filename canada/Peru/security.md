@@ -2,26 +2,6 @@
 
 ## Safety and security
 
-### State of emergency
-
-The Peruvian government frequently declares regional states of emergency and publishes the information in *El Peruano*. A state of emergency allows the military to assist police forces to respond to security incidents and natural disasters. When a state of emergency is in effect, security forces have increased rights to:
-
-* restrict freedom of movement
-* monitor correspondence
-* conduct search and seizures
-* detain persons of interest
-
-If you are in Peru during a state of emergency:
-
-* monitor local media for the latest information
-* follow the instructions of local authorities
-* avoid crowds
-
-#### Useful links
-
-* [El Peruano](https://www.elperuano.pe/) – Official newspaper (in Spanish only)
-* [Official tourist information](http://www.peru.travel/en/useful-data/iperu) – Tourist Information and Assistance‎
-
 ### Valley of the Apurímac, Ene and Mantaro rivers (VRAEM)
 
 #### Drug trafficking
@@ -90,7 +70,7 @@ Violent crime occurs. Incidents have included:
 * kidnappings
 * extortion
 
-#### Armed robbery
+#### Armed robberies
 
 Armed robberies are on the rise. While most victims are not physically injured, criminals will not hesitate to use force when opposed.
 
@@ -101,7 +81,7 @@ Armed robberies occur, including in tourist areas, particularly when travellers 
 * Be extra cautious when withdrawing cash from ATMs and use ATMs inside banks and during regular service hours
 * Don’t resist an attack
 
-#### Sexual assault
+#### Sexual assaults
 
 Incidents of sexual assault, including rape, occur throughout the country. In some cases, tour guides have been implicated.
 
@@ -111,11 +91,11 @@ Incidents of sexual assault, including rape, occur throughout the country. In so
 
 If you are a victim of sexual assault, you should be report it to the police immediately. Medical examinations at identified clinics are part of the investigation process. Those who delay reporting may experience more scrutiny by local authorities.
 
-#### Assault
+#### Assaults
 
 Assaults have occurred along the Inca Trail and in the Huaraz region of the Cordillera Blanca mountains. Hiking in these regions should be done in groups.
 
-#### Kidnapping
+#### Kidnappings
 
 Express kidnappings involving tourists have occurred. Victims are usually abducted for a few hours and forced to withdraw money from ATMs for their release. Most express kidnappings take place at night, but incidents also occur during daylight hours. Incidents often involve criminals posing as taxi drivers, or taxi drivers working for organized gangs.
 
@@ -125,6 +105,26 @@ Express kidnappings involving tourists have occurred. Victims are usually abduct
 * Never leave your cellphone unattended
 * Be cautious when using cellphones and smart devices in public as they are often targeted by thieves, especially while people are using them
 * Ensure your phone is password protected
+
+### State of emergency
+
+The Peruvian government frequently declares regional states of emergency and publishes the information in *El Peruano*. A state of emergency allows the military to assist police forces to respond to security incidents and natural disasters. When a state of emergency is in effect, security forces have increased rights to:
+
+* restrict freedom of movement
+* monitor correspondence
+* conduct search and seizures
+* detain persons of interest
+
+If you are in Peru during a state of emergency:
+
+* monitor local media for the latest information
+* follow the instructions of local authorities
+* avoid crowds
+
+#### Useful links
+
+* [El Peruano](https://www.elperuano.pe/) – Official newspaper (Spanish only)
+* [Official tourist information](http://www.peru.travel/en/useful-data/iperu) – Tourist Information and Assistance‎
 
 ### Demonstrations
 
@@ -198,7 +198,7 @@ Legitimate police officers have also extorted money in exchange for dismissing m
 Scammers may pose as volunteer organizations or owners of rental properties.
 
 * If you are planning to participate in volunteer activities in Peru, ensure that the company organizing your trip is legitimate
-  + When booking accommodations, use reputable platforms and companies
+* When booking accommodations, use reputable platforms and companies
 
 #### Useful links
 
@@ -327,7 +327,7 @@ The Government of Peru publishes a list of the bus companies with the highest ra
 * Always keep your personal belongings and identification on you for long-distance travel
 * Avoid storing bags under or above your seat and on empty seats
 
-[Ministry of Transportation](https://www.gob.pe/mtc) – Government of Peru (iSpanish only)
+[Ministry of Transportation](https://www.gob.pe/mtc) – Government of Peru (Spanish only)
 
 ### Trains
 

@@ -4,9 +4,9 @@
 
 ### Closure of Salkantay Trail
 
-Peru is experiencing heavy seasonal rains, including in popular tourist destinations in the Cusco region. Due to an increased risk of landslides, the Salkantay Trail will be closed during the month of February 2026.
+Peru is experiencing heavy seasonal rains, including in popular tourist destinations in the Cusco region. Due to an increased risk of landslides, the Salkantay Trail will be closed until further notice.
 
-* Do not attempt to access a closed trail, even with a guide. Trail and weather conditions could limit rescue efforts.
+* Do not attempt to access a closed trail, even with a guide. Trail and weather conditions could limit rescue efforts
 * Follow the instructions of local authorities
 * Stay informed of regional weather forecasts
 

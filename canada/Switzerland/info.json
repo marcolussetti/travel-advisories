@@ -1,7 +1,7 @@
 {
     "name": "Switzerland",
-    "update_reason": "Health \u2013 editorial change",
-    "update_date": "2026-02-04T10:12:00",
+    "update_reason": "Editorial change",
+    "update_date": "2026-02-26T17:36:00",
     "sections": {
         "risk": "canada/Switzerland/risk.md",
         "security": "canada/Switzerland/security.md",
