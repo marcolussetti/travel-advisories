@@ -10,8 +10,6 @@ High Degree of Caution
 
 Demonstrations and industrial action are taking place on a rolling basis in Kenya. Irish citizens travelling to Kenya should always monitor local media and follow the advice of local authorities. Always avoid demonstrations, as they may turn violent.
 
-Citizens are encouraged to be particularly vigilant on 27 November 2025 when a series of by-elections will take place across the country.
-
 ### **General Travel Advice**
 
 **Visitors to Kenya are required to register on the** [**Electronic Travel Authorisation (ETA) system**](https://www.etakenya.go.ke/en) **before entering Kenya.** Some exemptions apply as detailed on the [**website of the Kenyan Civil Aviation Authority**](https://www.kcaa.or.ke/sites/default/files/publication/visa_free_regime_in_kenya.pdf).

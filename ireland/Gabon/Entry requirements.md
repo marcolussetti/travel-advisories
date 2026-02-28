@@ -1,5 +1,13 @@
 ## Entry requirements
 
+A valid passport is required for travel to Gabon. Irish passports should have a minimum validity of 6 months from date of arrival. Passport cards cannot be used.
+
+Proof of yellow fever vaccination is required to enter Gabon.
+
+### **Visa**
+
+Irish citizens require a visa to enter Gabon. Further information on how to apply for a visa can be found from the [High Commission of Gabon to the United Kingdom](https://gabonhighcommission.org.uk/)
+
 ### **Passports**
 
 It is advisable to take a number of photocopies of your passport when travelling to Gabon and to carry a photocopy at all times during your stay.
@@ -21,6 +29,5 @@ Ireland does not have an Embassy or Consulate in Gabon so we cannot verify detai
 
 * [**UK: Foreign and Commonwealth Office**](https://www.gov.uk/foreign-travel-advice/gabon)
 * [**Canada: Department of Foreign Affairs and International Trade**](https://travel.gc.ca/destinations/gabon)
-* [**New Zealand: Ministry of Foreign Affairs and Trade**](https://safetravel.govt.nz/gabon)
 * [**Australia: Department of Foreign Affairs and Trade**](http://smartraveller.gov.au/Countries/africa/central/Pages/gabon.aspx)
 * [**USA: Department of State**](https://travel.state.gov/content/passports/en/country/gabon.html)
