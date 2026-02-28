@@ -311,8 +311,8 @@ If a doctor is not registered and duly qualified by the Ministry of Health or th
 
 #### Useful links
 
-* [Human resources registration platform](https://www.minsalud.gov.co/salud/po/paginas/registro-unico-nacional-del-talento-humano-en-salud-rethus.aspx) – Ministry of Health (in Spanish)
-* [List of surgeons](https://cirugiaplastica.org.co/) - Colombian Society of Plastic Surgery (in Spanish)
+* [Human resources registration platform](https://www.minsalud.gov.co/salud/po/paginas/registro-unico-nacional-del-talento-humano-en-salud-rethus.aspx) – Ministry of Health (Spanish only)
+* [List of surgeons](https://cirugiaplastica.org.co/) - Colombian Society of Plastic Surgery (Spanish only)
 * [Travelling outside Canada to receive medical care](https://travel.gc.ca/travelling/health-safety/medical-care-outside-canada?_ga=2.187223660.518087928.1716814549-1405742948.1680118138)
 
 ### Medication

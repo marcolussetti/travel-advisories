@@ -4,18 +4,14 @@
 
 ### Tensions in the Middle East
 
-Tensions can flare up suddenly in the Middle East, and lead to travel disruptions, including flight cancellations and airspace closures.
-
-### Hostilities with Israel
-
-On November 27, 2024, a ceasefire took effect between Israel and Lebanon. However, the situation remains volatile and Israeli airstrikes continue to occur in:
+There are ongoing tensions in the region. Hostilities could resume with little or no warning. On November 27, 2024, a ceasefire took effect between Israel and Lebanon. However, the security situation in Lebanon remains volatile and Israeli airstrikes continue to occur in:
 
 * southern Lebanon
-* Beirut’s southern suburbs
+* Beirut's southern suburbs
 * the Beqaa Valley
 * Palestinian refugee camps
 
-Previous air strikes reached populated areas across Lebanon, including central Beirut.
+Previous air strikes reached populated areas across Lebanon, including central Beirut. Our ability to provide consular services to Canadians during an active conflict is likely to be limited. If you are in Lebanon, prepare contingency plans that don’t rely on the Government of Canada’s assistance for evacuations or assisted departures. You should consider leaving while commercial options remain available.
 
 If you intend to travel to Lebanon despite the advisory in effect:
 
@@ -52,8 +48,6 @@ Authorities regularly ban peaceful gatherings and events related to 2SLGBTQI+ is
 2SLGBTQI+ persons should carefully consider the risks of travelling to Lebanon.
 
 [Travel and your sexual orientation, gender identity, gender expression and sex characteristics](https://travel.gc.ca/travelling/health-safety/lgbt-travel)
-
-### 
 
 ### Areas South of Litani River
 

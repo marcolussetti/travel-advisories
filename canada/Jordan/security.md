@@ -6,9 +6,20 @@ Due to the ongoing security situation in Israel and Palestine, operations at lan
 
 Verify the status of border crossings ahead of time.
 
-### Tensions in the Middle East
+### Heightened tensions in the Middle East
 
-Tensions can flare up suddenly in the Middle East, and lead to travel disruptions, including flight cancellations and airspace closures.
+There are heightened tensions in the region and the security situation could deteriorate significantly without notice. In the event of escalation, there could be disruptions to movement and transportation, including:
+
+* border closures or restrictions
+* flight cancellations
+* airspace closures
+
+If you're in the region, you should:
+
+* monitor local and international media to stay informed of the rapidly evolving situation
+* be vigilant and follow the instructions of local authorities at all times, including any orders to shelter in place
+* sign up with the [Registration of Canadians Abroad](https://travel.gc.ca/travelling/registration) service to receive important information specific to your location
+* ensure that your travel documents and those of your family are up to date
 
 ### Areas within 5 km of the borders with Iraq and Syria, except the tourist site Umm Qais
 

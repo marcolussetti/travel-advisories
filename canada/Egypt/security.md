@@ -2,10 +2,6 @@
 
 ## Safety and security
 
-### Tensions in the Middle East
-
-Tensions can flare up suddenly in the Middle East, and lead to travel disruptions, including flight cancellations and airspace closures.
-
 ### Situation in Israel, the West Bank and the Gaza Strip
 
 Due to the ongoing events in Israel, the West Bank and the Gaza Strip, the security situation in neighbouring Sinai could deteriorate suddenly. Local authorities could impose movement restrictions on short notice.

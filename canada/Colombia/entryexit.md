@@ -65,18 +65,25 @@ You will need the following information to complete the form:
 
 ### Entry fee
 
-As of November 14, 2023, you must pay an entry fee equivalent to $85 CAD in Colombian Pesos upon arrival in Colombia. The payment must be made by credit card only upon entering the country during the immigration control process. There could be significant delays in making the payment, which could disrupt your travel plans.
+You must pay an entry fee upon arrival in Colombia. The fee is updated annually.
 
-You don't have to pay this entry fee if:
+You can make the payment in one of the following ways:
+
+* in person by credit card during the immigration control process upon entering the country. This method may involve significant delays, which could disrupt your travel plans
+* online, by credit or debit card, through the Single Form for Procedures
+
+Once you receive confirmation that your online payment has been approved, take a screenshot of the receipt, with the reference number clearly visible, to present to the Colombian immigration officer upon arrival.
+
+You are exempt from this entry fee if:
 
 * your destination is the archipelago of San Andres, Providencia and Santa Catalina
 * you have a valid Colombian visa
-* you are less than 14 years of age or more than 79 years old
-* you are a member of the crew of international transport means (conditions apply)
+* you are less than 14 years old or more than 79 years old
+* you are a member of the crew of an international means of transport (conditions apply)
 
-Failure to pay the entry fee could prohibit you from entering the country.
+Failure to pay the entry fee may result in you being denied entry into the country.
 
-[Entry fee for Canadian travellers starts on Nov 14, 2023](https://unidad-administrativa-especial-migracion-colombia.micolombiadigital.gov.co/noticias/cobro-a-viajeros-canadienses-para-ingresar-a-colombia) – Migration Colombia (in Spanish)
+[Single Form for Procedures](https://apps.migracioncolombia.gov.co/registro/public/formularioRegistro.jsf?tramite=7) – Ministry of Foreign Affairs
 
 ### Entry stamp
 
@@ -90,7 +97,7 @@ The immigration officer will determine the permitted length of your stay when yo
 
 You will be fined if you overstay the specified period on your entry stamp. You may apply for a stay extension at the nearest Colombian migration office. You may extend your stay up to a maximum of 180 days per calendar year. The final decision remains with the immigration authority.
 
-[Colombia migration](https://www.migracioncolombia.gov.co/) - Government of Colombia (in Spanish)
+[Colombia migration](https://www.migracioncolombia.gov.co/) - Government of Colombia (Spanish only)
 
 ### Other entry requirements
 
@@ -112,7 +119,7 @@ Customs officials may:
 * fingerprint you
 * require you to undergo an X-ray inspection upon arrival or departure
 
-Most airport customs inspectors speak only Spanish.
+Most airport customs inspectors only speak Spanish.
 
 ### Ecuador entry restrictions
 
@@ -151,9 +158,9 @@ If one of the parents does not comply with child support obligations, his/her au
 
 #### Useful links
 
-* [Authorization to travel for minors](https://www.migracioncolombia.gov.co/entidad/salida-de-menores-del-pais) - Colombian Ministry of Foreign Affairs (in Spanish)
-* [Ministry of Foreign Affairs](http://www.migracioncolombia.gov.co/) - Government of Colombia (in Spanish)
-* [Colombian child support debtors](https://www.redam.gov.co/) - Government of Colombia (in Spanish)
+* [Authorization to travel for minors](https://www.migracioncolombia.gov.co/entidad/salida-de-menores-del-pais) - Colombian Ministry of Foreign Affairs (Spanish only)
+* [Ministry of Foreign Affairs](http://www.migracioncolombia.gov.co/) - Government of Colombia (Spanish only)
+* [Colombian child support debtors](https://www.redam.gov.co/) - Government of Colombia (Spanish only)
 * [Travelling with children](http://travel.gc.ca/travelling/children)
 
 ### Yellow fever

@@ -10,7 +10,7 @@ An orange alert has been issued for the Puracé volcano near Popayán due to a r
 * Monitor the situation through official bulletins
 * Follow the instructions of local authorities
 
-[Latest information](https://www2.sgc.gov.co/Noticias/Paginas/Historico-de-noticias.aspx) – Colombian Geological Service (in Spanish only)
+[Latest information](https://www2.sgc.gov.co/Noticias/Paginas/Historico-de-noticias.aspx) – Colombian Geological Service (Spanish only)
 
 Colombia is subject to various natural disasters such as:
 
@@ -50,7 +50,7 @@ Colombia is located in an active seismic area. Earthquakes occur frequently. Dan
 
 #### Useful links
 
-* [Colombian Geological Service](http://www2.sgc.gov.co/ "Servicio GeolóGico Colombiano") – Colombia’s government (in Spanish)
+* [Colombian Geological Service](http://www2.sgc.gov.co/ "Servicio GeolóGico Colombiano") – Colombia’s government (Spanish only)
 * [Latest earthquakes](https://earthquake.usgs.gov/earthquakes/map/) – U.S. Geological Survey
 
 ### Rainy seasons

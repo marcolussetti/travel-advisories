@@ -2,6 +2,17 @@
 
 ## Safety and security
 
+### Demonstrations across the country
+
+Large-scale demonstrations commemorating the Tempi train crash in 2023 are scheduled to take place in Athens and other cities across the country on February 28, 2026.
+
+If you are in Athens or near a demonstration:
+
+* exercise caution
+* monitor local media for the most recent information
+* be prepared to modify your plans in case of disturbances
+* expect enhanced security measures and an increased police presence
+
 ### Demonstrations and strikes
 
 #### Demonstrations
@@ -11,6 +22,7 @@ Demonstrations take place regularly, particularly in Athens and Thessaloniki. Th
 * Workers' Day on May 1
 * the commemoration of the Athens Polytechnic uprising of 1973 on November 17
 * the commemoration of the riots of 2008 on December 6
+* the commemoration of the 2023 Tempi train crash on February 28
 
 In Athens, demonstrations and marches occur primarily in areas around:
 

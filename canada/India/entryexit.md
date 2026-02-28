@@ -81,7 +81,7 @@ You must complete the e-Arrival Card online up to 72 hours before your arrival, 
 * official "Indian Visa Su-Swagatam" mobile application on [iOS App Store](https://apps.apple.com/ca/app/indian-visa-su-swagatam/id1573902563) or [Google Play](https://play.google.com/store/apps/details?id=org.nic.ivfrt.visitindia&hl=en_CA)
 * [e-Arrival](https://indianvisaonline.gov.in/earrival/) webform
 
-You should to complete the digital process in advance to reduce wait times at the airport.
+You should complete the digital process in advance to reduce wait times at the airport.
 
 ### Dual citizenship
 

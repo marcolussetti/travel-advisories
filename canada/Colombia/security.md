@@ -312,7 +312,7 @@ Unauthorized roadblocks and bandits also pose a threat.
 
 If you’re planning to travel by land in Colombia:
 
-* dial 767 from your cell phone to receive advice on current road closures from the Colombian Highway Police information line (in Spanish)
+* dial 767 from your cell phone to receive advice on current road closures from the Colombian Highway Police information line (Spanish only)
 * never hitchhike
 * consult local media
 * follow the instructions of local authorities

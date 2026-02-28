@@ -10,30 +10,31 @@ Verify the status of border crossings ahead of time.
 
 ### Tensions in the Middle East
 
-There are ongoing tensions in the region. Hostilities could resume with little or no warning and lead to missile, drone and other projectile strikes in Israel and Palestine, as it occurred during previous attacks.
+There are ongoing tensions in the region. Hostilities could resume with little or no warning.
 
-Ben Gurion International Airport is open to commercial flights. However, a significant resumption of tensions could result in:
+During previous attacks, drones, missiles and other projectiles struck targets in Israel and Palestine, resulting in military debris falling in various locations.
 
-* travel disruptions, including widespread and sudden flight cancellations and airspace closures
-* military debris falling in various locations.
+While Ben Gurion International Airport remains open to commercial flights, some international airlines have suspended their service to and from Tel Aviv. A significant resumption of tensions could result in:
+
+* further travel disruptions, including widespread and sudden flight cancellations and airspace closures
+* military debris falling in various locations
 
 Land border crossings with Jordan and Egypt remain open, but could be impacted at short notice. For West Bank ID holders, the Allenby/King Hussein bridge near Jericho is the only available exit option. You must obtain a visa in advance before crossing.
 
-Our ability to provide consular services to Canadians during an active conflict is likely to be limited.
+Our ability to provide consular services to Canadians during an active conflict is likely to be limited. If you are in Israel or Palestine, prepare contingency plans that don’t rely on the Government of Canada’s assistance for evacuations or assisted departures. You should consider leaving while commercial options remain available.
 
 You should:
 
+* identify the location of the nearest shelters, which are indicated on Google Maps if you are in Israel
+* ensure that you have sufficient supplies of cash, medication, food, fuel and water in case you need to shelter in place
+* download mobile alert applications informing of incoming rocket or missile fire, such as Home Front Command or Red Alert
+* ensure your travel documents and those of your family members are up-to-date
+* keep the local emergency services’ contact information at hand
 * monitor local and international media to stay informed of the rapidly evolving situation
-* follow the instructions of local authorities at all times
-* be vigilant and prepared to shelter in place
-* Register or update your contact information with the [Registration of Canadians Abroad](https://travel.gc.ca/travelling/registration) service to receive the latest information from the Government of Canada
+* follow the instructions of local authorities at all times, including any orders to shelter in place
+* register or update your contact information with the [Registration of Canadians Abroad](https://travel.gc.ca/travelling/registration) service to receive additional important information specific to your location
 
-If you encounter any debris or fragments:
-
-* move away from them immediately
-* contact local authorities
-
-**Useful links**
+#### Useful links
 
 * [Registration of Canadians Abroad service](https://travel.gc.ca/travelling/registration)
 * [Canada's response to the situation in the Middle East](https://www.international.gc.ca/world-monde/issues_development-enjeux_developpement/response_conflict-reponse_conflits/crisis-crises/middle-east-moyen-orient.aspx?lang=eng)
