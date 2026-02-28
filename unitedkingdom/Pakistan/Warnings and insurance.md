@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   18 February 2026
+:   28 February 2026
 
 Updated:
-:   17 February 2026
+:   27 February 2026
 
 Latest update:
-:   Updated information about recent attacks ( 'Safety and security' page).
+:   New information about the security situation in Jinnah International airport and potential disruption (‘Warnings and insurance’ page).
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
@@ -74,6 +74,14 @@ FCDO advises against all but essential travel to all areas of Sindh Province nor
 FCDO advises against all but essential travel to Dera Ghazi Khan.
 
 Find out more about [why FCDO advises against travel to these regions](/foreign-travel-advice/pakistan/regional-risks).
+
+## Security situation in Jinnah International Airport and potential disruption
+
+In Karachi, key infrastructure and transit routes, including Karachi Jinnah International Airport, have recently been the subject of security threats and enhanced security presence. Exercise caution when using public transport and transport hubs, including airports.
+
+## Pakistan-Afghanistan tensions
+
+There are heighted tensions between Pakistan and Afghanistan, including clashes in border areas. FCDO already advises against all travel to within 10 miles of the border between Pakistan and Afghanistan. Sign up to [get email notifications](https://www.gov.uk/foreign-travel-advice/pakistan/email-signup) when this travel advice is updated.
 
 ## Before you travel
 

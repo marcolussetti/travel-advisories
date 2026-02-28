@@ -1,11 +1,11 @@
 {
     "name": "Kuwait",
-    "update_reason": "There is a heightened risk of regional tension. Escalation could lead to travel disruption and other unanticipated impacts (\u2018Warnings and insurance\u2019 page).",
+    "update_reason": "Updated information about the risks of regional escalation (\u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Kuwait/Warnings and insurance.md",
-            "update_date": "2026-01-14T21:22:41+00:00"
+            "update_date": "2026-02-27T22:30:25+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Kuwait/Getting help.md"
         }
     ],
-    "update_date": "2026-01-14T21:22:41+00:00"
+    "update_date": "2026-02-27T22:30:25+00:00"
 }

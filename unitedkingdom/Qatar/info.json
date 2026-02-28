@@ -1,11 +1,11 @@
 {
     "name": "Qatar",
-    "update_reason": "Addition of information about travel bans (\u2018Entry requirements\u2019 page).",
+    "update_reason": "Updated information about the risks of regional escalation (\u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Qatar/Warnings and insurance.md",
-            "update_date": "2026-02-10T11:27:49+00:00"
+            "update_date": "2026-02-27T22:31:09+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Qatar/Getting help.md"
         }
     ],
-    "update_date": "2026-02-10T11:27:49+00:00"
+    "update_date": "2026-02-27T22:31:09+00:00"
 }

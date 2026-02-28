@@ -28,7 +28,7 @@ The legal status and regulation of some medicines prescribed or purchased in the
 
 Read [best practice when travelling with medicines on TravelHealthPro](https://travelhealthpro.org.uk/factsheet/43/medicines-abroad).
 
-In the UAE, some UK prescribed and over-the-counter medicines are considered controlled substances. You must get approval in advance from the UAE Ministry of Health to bring medication. [Apply online to bring medication to the UAE](https://mohap.gov.ae/en/services/issue-of-permit-to-import-medicines-for-personal-use). The UAE authorities advise that applications are processed within 5 working days.
+In the UAE, some UK prescribed and over-the-counter medicines are considered controlled substances. You must get approval in advance from the UAE Ministry of Health to bring medication. [Apply online to bring medication to the UAE](https://www.ede.gov.ae/ar/w/%D8%A5%D8%B5%D8%AF%D8%A7%D8%B1-%D8%A5%D8%B0%D9%86-%D8%A7%D8%B3%D8%AA%D9%8A%D8%B1%D8%A7%D8%AF-%D8%A3%D8%AF%D9%88%D9%8A%D8%A9-%D8%B4%D8%AE%D8%B5%D9%8A%D8%A9). The UAE authorities advise that applications are processed within 5 working days.
 
 ## Healthcare in the UAE
 

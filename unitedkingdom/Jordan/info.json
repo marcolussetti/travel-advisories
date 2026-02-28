@@ -1,11 +1,11 @@
 {
     "name": "Jordan",
-    "update_reason": "New information about the registration process for stays of 14 days or more and removal of information about protests and tribal violence in Jordan ('Entry requirements' and 'Safety and security' pages).",
+    "update_reason": "Updated information about the risks of regional escalation (\u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Jordan/Warnings and insurance.md",
-            "update_date": "2026-02-20T14:17:23+00:00"
+            "update_date": "2026-02-27T22:30:10+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Jordan/Getting help.md"
         }
     ],
-    "update_date": "2026-02-20T14:17:23+00:00"
+    "update_date": "2026-02-27T22:30:10+00:00"
 }

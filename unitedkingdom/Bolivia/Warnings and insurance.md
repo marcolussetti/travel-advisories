@@ -1,18 +1,22 @@
 # Warnings and insurance
 
 Still current at:
-:   26 February 2026
+:   28 February 2026
 
 Updated:
-:   25 February 2026
+:   28 February 2026
 
 Latest update:
-:   New information about earthquakes (‘Safety and security’ page).
+:   New information about a cargo aircraft crash near El Alto International Airport (‘Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/672ccc5a62831268b0b1a328/FCDO__TA__098_-_Bolivia_Travel_Advice_Ed1__WEB_.jpg)
 
 
 [Download a more detailed map (PDF, 740 KB)](https://assets.publishing.service.gov.uk/media/672ccc5aeee595f5288bdc09/FCDO__TA__098_-_Bolivia_Travel_Advice_Ed1.pdf)
+
+## Closure of El Alto International Airport
+
+A cargo aircraft crashed while approaching El Alto International Airport on the evening of Friday 27 February. The airport is currently closed. Passengers are advised to check with their airline for the latest flight information before travelling to the airport.
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 

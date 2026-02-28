@@ -1,19 +1,15 @@
 # Warnings and insurance
 
 Still current at:
-:   7 February 2026
+:   28 February 2026
 
 Updated:
-:   6 February 2026
+:   27 February 2026
 
 Latest update:
-:   The St Helena Government has announced the airport is unable to operate as normal. (Warnings and insurance)
+:   Removal of information that the St Helena Government has announced the airport is unable to operate as normal.
 
 St Helena, Ascension and Tristan da Cunha are British Overseas Territories. There are no British Embassies, and the St Helena, Ascension and Tristan da Cunha governments will support you if you need emergency assistance.
-
-## Airport closure
-
-The St Helena Government has announced the airport is unable to operate as normal. See the [St Helena Government website (News – St Helena](https://www.sainthelena.gov.sh/st-helena/news/?category=news) for further updates.
 
 ## Before you travel
 

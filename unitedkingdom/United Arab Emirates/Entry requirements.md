@@ -83,7 +83,7 @@ You must have permission from UAE customs and the UAE Ministry of Defence to bri
 
 There are strict rules about what medications you can bring into the UAE. You will need approval from the UAE authorities to bring in medication that the UAE classes as narcotic, psychotropic, controlled or semi-controlled.
 
-You must get approval in advance from the UAE Ministry of Health to bring medication. [Apply online to bring medication to the UAE](https://mohap.gov.ae/en/services/issue-of-permit-to-import-medicines-for-personal-use). The UAE authorities advise that applications are normally processed within 5 working days.
+You must get approval in advance from the UAE Ministry of Health to bring medication. [Apply online to bring medication to the UAE](https://www.ede.gov.ae/ar/w/%D8%A5%D8%B5%D8%AF%D8%A7%D8%B1-%D8%A5%D8%B0%D9%86-%D8%A7%D8%B3%D8%AA%D9%8A%D8%B1%D8%A7%D8%AF-%D8%A3%D8%AF%D9%88%D9%8A%D8%A9-%D8%B4%D8%AE%D8%B5%D9%8A%D8%A9). The UAE authorities advise that applications are normally processed within 5 working days.
 
 If you arrive in the UAE without evidence of prior approval, the medication will not be allowed into the UAE, and you may be prosecuted. For information on controlled medicines or the process for obtaining permission, contact the UAE Ministry of Health. Email [info@moh.gov.ae](mailto:info@moh.gov.ae) or telephone +971 800 11111.
 

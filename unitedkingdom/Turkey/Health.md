@@ -48,7 +48,7 @@ Read [FCDO guidance on travel and mental health](https://www.gov.uk/guidance/for
 
 Medical tourism is when people travel to have medical, surgical or dental treatment abroad. Cosmetic surgery, dental procedures and cardiac surgery are the most common procedures for medical tourists.
 
-The standard of medical facilities and available treatments can vary widely globally and also within countries. We are aware of six British nationals having died in Turkey in 2024 following medical procedures. Some British nationals have also experienced complications and needed further treatment or surgery following their procedure.
+The standard of medical facilities and available treatments can vary widely globally and also within countries. We are aware of 7 British nationals having died in Turkey in 2025 following medical procedures. Some British nationals have also experienced complications and needed further treatment or surgery following their procedure.
 
 If you are considering travelling to Turkey for medical, surgical or dental treatment:
 

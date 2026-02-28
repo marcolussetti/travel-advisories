@@ -1,11 +1,11 @@
 {
     "name": "Saudi Arabia",
-    "update_reason": "There is a heightened risk of regional tension. Escalation could lead to travel disruption and other unanticipated impacts (\u2018Warnings and insurance\u2019 page).",
+    "update_reason": "Updated information about the risks of regional escalation\u202f(\u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Saudi Arabia/Warnings and insurance.md",
-            "update_date": "2026-01-14T21:27:07+00:00"
+            "update_date": "2026-02-27T22:31:42+00:00"
         },
         {
             "title": "Entry requirements",
@@ -38,5 +38,5 @@
             "file": "unitedkingdom/Saudi Arabia/Getting help.md"
         }
     ],
-    "update_date": "2026-01-14T21:27:07+00:00"
+    "update_date": "2026-02-27T22:31:42+00:00"
 }

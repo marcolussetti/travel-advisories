@@ -66,7 +66,7 @@ Seek urgent medical attention if you or someone you are travelling with show the
 
 ### Sexual assault
 
-Among the 4.4 million British travellers that visited Turkey in 2024, 56 cases of sexual assault, including rape, were reported to British consular staff. The majority of cases that have been reported took place during the tourist season in coastal resort areas. Often these crimes were committed by someone the victim may have met during the day, with a significant number being by hotel or spa staff. There have also been sexual attacks on minors visiting toilet facilities alone. Be extra vigilant in these situations.
+Among the 4.27 million British travellers that visited Turkey in 2025, 29 cases of sexual assault, including rape, were reported to British consular staff. The majority of cases that have been reported took place during the tourist season in coastal resort areas. Often these crimes were committed by someone the victim may have met during the day, with a significant number being by hotel or spa staff. There have also been sexual attacks on minors visiting toilet facilities alone. Be extra vigilant in these situations.
 
 Take extra precautions:
 
@@ -174,7 +174,7 @@ If you hire a moped you need a valid driving licence with at least category A1 -
 
 ### Jeep safaris
 
-Jeep safaris can be dangerous-there were a number of reported accidents in 2023. If you join a jeep safari, use a reputable company who have adequate health and safety procedures and equipment. Always check that activities are covered by your insurance.
+Jeep safaris can be dangerous - there have been a number of reported accidents in recent years. If you join a jeep safari, use a reputable company who have adequate health and safety procedures and equipment. Always check that activities are covered by your insurance.
 
 ### Water sports
 
@@ -192,7 +192,7 @@ Take care when swimming in the sea. Some beaches may have strong undercurrents.
 
 Hidden rocks or shallow depths can cause serious injury or death. Do not dive into unknown water.
 
-Follow local advice if jellyfish or urchins are present.
+Follow local advice if jellyfish or urchins are present. See further information on the [Turkish Marine Research Foundation’s page.](https://tudav.org/en/our-fields/marine-biodiversity/biological-invasions/press-release-warning-for-jellyfish-in-the-mediterranean-sea/)
 
 Many beaches have a flag system. Make sure you understand the system and follow any warnings (a red flag means you must not enter the water). Follow instructions from lifeguards. Take extra care and seek local advice if there are no lifeguards, flags, or signs.
 

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   30 December 2025
+:   28 February 2026
 
 Updated:
-:   29 December 2025
+:   27 February 2026
 
 Latest update:
-:   Updated information about the risks from air quality in Uzbekistan (‘Health’ page).
+:   Updated with information about the risks from terrorism (‘Safety and security’ page’).
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 

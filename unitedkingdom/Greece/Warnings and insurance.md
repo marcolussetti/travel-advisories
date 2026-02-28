@@ -1,13 +1,23 @@
 # Warnings and insurance
 
 Still current at:
-:   19 February 2026
+:   28 February 2026
 
 Updated:
-:   18 February 2026
+:   27 February 2026
 
 Latest update:
-:   Updated information on European Entry-Exit System (EES) (‘Entry requirements’ page).
+:   New information about mass demonstrations and widespread disruption to public services across Greece on 28 February ('Warnings and insurance' page).
+
+## Mass demonstrations and disruption to public services
+
+Mass demonstrations and widespread disruption to public services will take place across Greece on 28 February to mark the third anniversary of the 2023 Tempi Valley train collision (Thessaly region, central Greece).
+
+Public transport will face serious disruptions and suspension to services. Ferries and nationwide trains will conduct a 24-hour strike. Expect cancellations and delays.
+
+Public services, including hospitals, will face widespread disruptions and may only deal with emergency cases.
+
+For information on how to stay safe during demonstrations, see [Safety and security page](https://www.gov.uk/foreign-travel-advice/greece/safety-and-security).
 
 ## Before you travel
 

@@ -1,11 +1,11 @@
 {
     "name": "Greece",
-    "update_reason": "Updated information on European Entry-Exit System (EES) (\u2018Entry requirements\u2019 page).",
+    "update_reason": "New information about mass demonstrations and widespread disruption to public services across Greece on 28 February ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Greece/Warnings and insurance.md",
-            "update_date": "2026-02-18T11:31:26+00:00"
+            "update_date": "2026-02-27T11:12:24+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Greece/Getting help.md"
         }
     ],
-    "update_date": "2026-02-18T11:31:26+00:00"
+    "update_date": "2026-02-27T11:12:24+00:00"
 }

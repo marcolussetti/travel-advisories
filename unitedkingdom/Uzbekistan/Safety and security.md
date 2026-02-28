@@ -8,17 +8,11 @@ UK Counter Terrorism Policing has information and advice on [staying safe abroad
 
 ### Terrorism in Uzbekistan
 
-Terrorists are likely to try to carry out attacks in Uzbekistan.
+Terrorist attacks in Uzbekistan cannot be ruled out.
 
-Attacks could be indiscriminate and happen anywhere. They could affect western interests and places visited by foreigners, such as:
+Attacks could be indiscriminate and happen anywhere. They could affect western interests and places visited by foreigners.
 
-* transport hubs
-* embassies  and government buildings
-* religious sites and places of worship
-* sporting and cultural events
-* shopping centres and crowded places
-
-Examples of previous attacks include:
+Previous attacks include:
 
 * in 2022, rockets were fired from Afghanistan into southern Uzbekistan. Islamic State Khorasan Province (ISKP) claimed responsibility
 * in 2019, it was reported that 17 people were killed in an armed attack on a Tajik security checkpoint on the Uzbekistan-Tajikistan border. Islamic State Khorasan Province (ISKP) claimed responsibility

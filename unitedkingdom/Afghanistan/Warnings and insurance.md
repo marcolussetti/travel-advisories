@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   16 December 2025
+:   28 February 2026
 
 Updated:
-:   15 December 2025
+:   27 February 2026
 
 Latest update:
-:   Updated information on recent regional tension (‘Warnings and insurance’ and ‘Safety and security’ pages).
+:   New information about heightened tension between Afghanistan and Pakistan (‘Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/66447989993111924d9d348d/FCDO__TA__001_-_Afghanistan_Travel_Advice_Ed3__WEB_.jpg)
 
@@ -23,6 +23,10 @@ You should not travel to Afghanistan. The security situation is volatile and ten
 There is a heightened risk of British nationals being detained in Afghanistan. If you are a British national and you are detained in Afghanistan, you could face months or years of imprisonment. FCDO’s ability to help you is extremely limited and support in person is not possible in Afghanistan.
 
 For more details about the risks in Afghanistan, see [Safety and security](/foreign-travel-advice/afghanistan/safety-and-security).
+
+## Afghanistan-Pakistan tensions
+
+There are heighted tensions between Afghanistan and Pakistan, including clashes in border areas. FCDO advises against all travel to Afghanistan. Sign up to [get email notifications](https://www.gov.uk/foreign-travel-advice/afghanistan/email-signup) when this travel advice is updated.
 
 ## UK government support
 

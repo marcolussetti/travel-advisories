@@ -128,9 +128,64 @@ Organised criminals are likely to be suspicious of foreign nationals in rural Mi
 
 ### Jalisco
 
-FCDO advises against all but essential travel to the state of Jalisco.
+FCDO advises against all but essential travel to the areas south and south-west of Lake Chapala to the border state of Colima, specifically the municipalities of:
 
-Ongoing serious security incidents, including violence, roadblocks and disruption to transport and flight routes have been reported, following a federal law‑enforcement operation against organised crime on 22 February.
+* Acatlán de Juárez
+* Amacueca
+* Ameca
+* Atemajac de Brizuela
+* Atengo
+* Atenguillo
+* Atoyac
+* Autlán de Navarro
+* Ayutla
+* Casimiro Castillo
+* Chiquilistlán
+* Cocula
+* Cuautitlán de García Barragán
+* Cuautla
+* Ejutla
+* El Grullo
+* El Limón
+* Gómez Farias
+* Guachinango
+* Juchitlán
+* Mixtlán
+* San Gabriel
+* San Marcos
+* San Martín Hidalgo
+* Sayula
+* Tapalpa
+* Techaluta de Montenegro
+* Tecolotlán
+* Tenamaxtlán
+* Teocuitatlán de Corona
+* Tolimán
+* Tonaya
+* Tuxcacuesco
+* Tuxcueca
+* Unión de Tula
+* Villa Corona
+* Villa Purificación
+* Zacoalco de Torres
+* Zapotitlán de Vadill
+* Zapotlán el Grande
+
+FCDO advises against all but essential travel to the northern municipalities of:
+
+* Bolaños
+* Chimaltitán
+* Colotlán
+* Hostotipaquillo
+* Huejúcar
+* Huequilla el Alto
+* Mezquitic
+* San Martin de Bolaños
+* Santa Maria de los Ángeles
+* Totatiche
+* Villa Guerrero
+
+This is due to inaccessibility for security forces, lack of state control, drugs cultivation and high levels of violence between rival criminal groups.
 
 ### Colima
 

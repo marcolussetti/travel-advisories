@@ -1,11 +1,11 @@
 {
     "name": "Mexico",
-    "update_reason": "Updated information on the security situation in Mexico ('Warnings and insurance' page).",
+    "update_reason": "FCDO no longer advises against all but essential travel to the whole State of Jalisco. FCDO continues to advise against all but essential travel to parts of the State of Jalisco ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Mexico/Warnings and insurance.md",
-            "update_date": "2026-02-26T17:13:43+00:00"
+            "update_date": "2026-02-27T16:37:39+00:00"
         },
         {
             "title": "Entry requirements",
@@ -38,5 +38,5 @@
             "file": "unitedkingdom/Mexico/Getting help.md"
         }
     ],
-    "update_date": "2026-02-26T17:13:43+00:00"
+    "update_date": "2026-02-27T16:37:39+00:00"
 }

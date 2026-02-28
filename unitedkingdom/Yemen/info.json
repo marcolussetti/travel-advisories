@@ -1,11 +1,11 @@
 {
     "name": "Yemen",
-    "update_reason": "There is a heightened risk of regional tension. Escalation could lead to travel disruption and other unanticipated impacts (\u2018Warnings and insurance\u2019 page).",
+    "update_reason": "Updated information about the risks of regional\u202fescalation (\u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Yemen/Warnings and insurance.md",
-            "update_date": "2026-01-14T21:29:19+00:00"
+            "update_date": "2026-02-27T22:33:41+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Yemen/Getting help.md"
         }
     ],
-    "update_date": "2026-01-14T21:29:19+00:00"
+    "update_date": "2026-02-27T22:33:41+00:00"
 }

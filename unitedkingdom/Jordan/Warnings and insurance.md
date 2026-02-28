@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   21 February 2026
+:   28 February 2026
 
 Updated:
-:   20 February 2026
+:   27 February 2026
 
 Latest update:
-:   New information about the registration process for stays of 14 days or more and removal of information about protests and tribal violence in Jordan ('Entry requirements' and 'Safety and security' pages).
+:   Updated information about the risks of regional escalation (‘Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/65bbcf944965c50010e8a3f1/FCDO__TA__087_-_Jordan_Travel_Advice_Ed2__WEB_.jpg)
 
@@ -24,15 +24,17 @@ FCDO advises against all travel to within 3km of the border with Syria.
 
 ## Regional risks
 
-There is a heightened risk of regional tension. Escalation could lead to travel disruption and other unanticipated impacts.
+There is a heightened risk of regional tension. Escalation could lead to travel disruption and other unanticipated impacts.
 
 British nationals should take sensible precautions, considering their own individual circumstances. These include:
 
-* read [If you’re affected by a crisis abroad - GOV.UK](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas). This includes guidance on “how to prepare for a crisis” with suggestions on what you might include in your emergency supplies and “what to do in a crisis”
-* sign up to FCDO Travel Advice email alerts
+* read [If you’re affected by a crisis abroad - GOV.UK](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas). This includes guidance on “how to prepare for a crisis” with suggestions on what you might include in your emergency supplies and “what to do in a crisis”
+* follow advice from the local authorities
+* sign up to FCDO Travel Advice email alerts
 * monitor local and international media for the latest information
-* sign up to local information alerts/resources and follow the instructions of the local authorities
 * stay away from areas around security or military facilities
+* keep your departure plans under review, and ensure your travel documents are up to date
+* if you are advised to take shelter, stay indoors or find the nearest safe building or designated shelter. An interior stairwell or a room with as few external walls or windows as possible may provide additional protection
 
 ## Before you travel
 

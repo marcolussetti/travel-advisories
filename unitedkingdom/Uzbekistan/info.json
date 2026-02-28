@@ -1,11 +1,11 @@
 {
     "name": "Uzbekistan",
-    "update_reason": "Updated information about the risks from air quality in Uzbekistan (\u2018Health\u2019 page).",
+    "update_reason": "Updated with information about the risks from terrorism (\u2018Safety and security\u2019 page\u2019).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Uzbekistan/Warnings and insurance.md",
-            "update_date": "2025-12-29T10:54:56+00:00"
+            "update_date": "2026-02-27T13:18:22+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Uzbekistan/Getting help.md"
         }
     ],
-    "update_date": "2025-12-29T10:54:56+00:00"
+    "update_date": "2026-02-27T13:18:22+00:00"
 }

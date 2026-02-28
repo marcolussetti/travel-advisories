@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   27 January 2026
+:   28 February 2026
 
 Updated:
-:   26 January 2026
+:   27 February 2026
 
 Latest update:
-:   FCDO now advises against all travel to Jurf al-Sakr town in Babil province and within 5km of federal Iraq’s borders with Iran (in Wasit, Maysan and Basra provinces); Saudi Arabia and Kuwait. FCDO now advises against all but essential travel to Baghdad province, excluding Sadr City, Basra province excluding 5km from the borders with Iran and Kuwait but including Highway 1, Highway 8 and the Safwan-Kuwait border, and the road sections of Highway 34 between Baghdad and Baqubah, and Highway 2 between Baqubah and Erbil. FCDO continues to advise against all travel and all but essential travel to parts of Iraq. New information about landmines and land border crossings ('Warnings and insurance', 'Safety and security' and 'Regional risks' pages).
+:   Updated information about the risks of regional escalation (‘Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/69778f31f909df76c5e71f49/FCDO__TA__048_-_Iraq_Travel_Advice_Ed11__WEB_.jpg)
 
@@ -68,15 +68,17 @@ Consular support is severely limited in areas where FCDO advises against travel.
 
 ## Regional risks
 
-There is a heightened risk of regional tension. Escalation could lead to travel disruption and other unanticipated impacts.
+There is a heightened risk of regional tension. Escalation could lead to travel disruption and other unanticipated impacts.
 
 British nationals should take sensible precautions, considering their own individual circumstances. These include:
 
-* read [If you’re affected by a crisis abroad - GOV.UK](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas). This includes guidance on “how to prepare for a crisis” with suggestions on what you might include in your emergency supplies and “what to do in a crisis”
-* sign up to FCDO Travel Advice email alerts
+* read [If you’re affected by a crisis abroad - GOV.UK](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas). This includes guidance on “how to prepare for a crisis” with suggestions on what you might include in your emergency supplies and “what to do in a crisis”
+* follow advice from the local authorities and sign up to receive information and alerts
+* sign up to FCDO Travel Advice email alerts
 * monitor local and international media for the latest information
-* sign up to local information alerts/resources and follow the instructions of the local authorities
 * stay away from areas around security or military facilities
+* keep your departure plans under review, and ensure your travel documents are up to date
+* if you are advised to take shelter, stay indoors or find the nearest safe building or designated shelter. An interior stairwell or a room with as few external walls or windows as possible may provide additional protection
 
 ## Travel insurance
 
