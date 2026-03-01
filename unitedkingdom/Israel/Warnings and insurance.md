@@ -1,56 +1,37 @@
 # Warnings and insurance
 
 Still current at:
-:   28 February 2026
+:   1 March 2026
 
 Updated:
-:   27 February 2026
+:   1 March 2026
 
 Latest update:
-:   FCDO now advises against all but essential travel to Israel and Palestine. FCDO continues to advise against all travel to parts of Israel and Palestine. Updated information about the risks of regional escalation and new information about temporarily moving some of our staff and their dependents from Tel Aviv to another location within Israel (‘Warnings and insurance’ page).
+:   The FCDO now advises against all travel to Israel and Palestine. Register your presence if you're in Israel or Palestine. (Warnings and insurance)
 
-![](https://assets.publishing.service.gov.uk/media/69a18c5d286b6fdc85daeab2/FCDO__TA__022_-_Israel_Travel_Advice_Ed26__WEB_.jpg)
+![](https://assets.publishing.service.gov.uk/media/69a2c183a4d26cb233cd47d4/FCDO__TA__022_-_Israel_Travel_Advice_Ed27__WEB_.jpg)
 
 
-[Download a more detailed map (PDF, 397 KB)](https://assets.publishing.service.gov.uk/media/69a18c5d286b6fdc85daeab3/FCDO__TA__022_-_Israel_Travel_Advice_Ed26.pdf)
+[Download a more detailed map (PDF, 380 KB)](https://assets.publishing.service.gov.uk/media/69a2c18401cc32678a5bd736/FCDO__TA__022_-_Israel_Travel_Advice_Ed27.pdf)
 
-This travel advice covers Israel and Palestine.
-
-Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
-
-## Areas where FCDO advises against travel
-
-### Gaza
-
-* FCDO advises against all travel to Gaza
-
-### Areas near Gaza
-
-* FCDO advises against all travel within 500m of the border with Gaza
-
-### The West Bank
-
-FCDO advises against all travel to:
-
-* Tulkarm Governorate, Jenin Governorate, and Tubas Governorate except Route 90
-
-### Northern Israel and Occupied Golan Heights
-
-* FCDO advises against all travel within 500m of the Area of Separation in the occupied Golan Heights (the ‘Alpha line’). Do not attempt to enter the occupied Golan Heights through Syria
-* FCDO advises against all travel to the Sheba’a Farms and Ghajja
-
-FCDO advises against all but essential travel to the rest of Israel and Palestine.
+FCDO advises against all travel to Israel and Palestine.
 
 Find out more about [why FCDO advises against travel](https://www.gov.uk/foreign-travel-advice/israel/regional-risks).
 
+## Register your presence
+
+Let the UK government know you’re in Israel, [register your presence](https://www.register.service.csd.fcdo.gov.uk/israel-20260228/tell-the-uk-government-youre-in-israel) if you’re in Israel for further updates.
+
 ## Regional risks
 
-There is a heightened risk of regional tension. Escalation could lead to travel disruption and other unanticipated impacts.
+Due to the threat posed by escalation in the region, we recommend against all travel to Israel and Palestine.
+
+Israeli airspace has now closed.
 
 British nationals should take sensible precautions, considering their own individual circumstances. These include:
 
 * read [If you’re affected by a crisis abroad - GOV.UK](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas). This includes guidance on “how to prepare for a crisis” with suggestions on what you might include in your emergency supplies and “what to do in a crisis”
-* Follow advice from the local authorities and sign up to receive information and alerts. Read [Israel’s Home Front Command](https://www.oref.org.il/eng)
+* Follow advice from the local authorities and sign up to receive information and alerts. Visit [Israel’s Home Front Command](https://www.oref.org.il/eng)
 * sign up to FCDO Travel Advice email alerts
 * monitor local and international media for the latest information
 * stay away from areas around security or military facilities
@@ -58,8 +39,6 @@ British nationals should take sensible precautions, considering their own indivi
 * if you are advised to take shelter, [Israel’s Home Front Command provides guidance on how to find a protected space](https://www.oref.org.il/eng/emergencies/protection-guidelines). The best option is a residential protected space (Mamad, Mamak or Maman) or a communal shelter. If that is not possible, choose a stairwell without windows and exterior walls and stay at its centre
 
 ## If you are in Israel and Palestine
-
-Due to ongoing regional tensions, we recommend against all but essential travel to Israel and Palestine. We continue to recommend against all travel to parts of Israel and Palestine.
 
 We have taken the precautionary measure to temporarily move some of our staff and their dependents from Tel Aviv to another location within Israel. Our Embassy continues to operate as normal.
 

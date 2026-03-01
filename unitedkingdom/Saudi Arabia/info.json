@@ -1,11 +1,11 @@
 {
     "name": "Saudi Arabia",
-    "update_reason": "Updated information about the risks of regional escalation\u202f(\u2018Warnings and insurance\u2019 page).",
+    "update_reason": "Addition of information that due to reported missile activity in the region, British nationals in Saudi Arabia should stay at home.",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Saudi Arabia/Warnings and insurance.md",
-            "update_date": "2026-02-27T22:31:42+00:00"
+            "update_date": "2026-02-28T14:41:44+00:00"
         },
         {
             "title": "Entry requirements",
@@ -38,5 +38,5 @@
             "file": "unitedkingdom/Saudi Arabia/Getting help.md"
         }
     ],
-    "update_date": "2026-02-27T22:31:42+00:00"
+    "update_date": "2026-02-28T14:41:44+00:00"
 }

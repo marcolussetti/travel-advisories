@@ -1,11 +1,11 @@
 {
     "name": "Palestine",
-    "update_reason": "FCDO now advises against all but essential travel to Israel and Palestine. FCDO continues to advise against all travel to parts of Israel and Palestine. Updated information about the risks of regional escalation and new information about temporarily moving some of our staff and their dependents from Tel Aviv to another location within Israel (\u2018Warnings and insurance\u2019 page).",
+    "update_reason": "The FCDO now advises against all travel to Israel and Palestine.  Register your presence if you're in Israel or Palestine.  (Warnings and insurance)",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Palestine/Warnings and insurance.md",
-            "update_date": "2026-02-27T16:37:34+00:00"
+            "update_date": "2026-03-01T00:23:40+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Palestine/Getting help.md"
         }
     ],
-    "update_date": "2026-02-27T16:37:34+00:00"
+    "update_date": "2026-03-01T00:23:40+00:00"
 }

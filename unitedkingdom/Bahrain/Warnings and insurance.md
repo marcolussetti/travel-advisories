@@ -1,13 +1,28 @@
 # Warnings and insurance
 
 Still current at:
-:   28 February 2026
+:   1 March 2026
 
 Updated:
-:   27 February 2026
+:   28 February 2026
 
 Latest update:
-:   Updated information about the risks of regional escalation (‘Warnings and insurance’ page).
+:   The FCDO now advises against all but essential travel to Bahrain. Register your presence if you're in Bahrain (Warnings and insurance)
+
+![](https://assets.publishing.service.gov.uk/media/69a367d7286b6fdc85daeb02/Bahrain_Travel_Advice_Ed1__WEB_.jpg)
+
+
+[Download a more detailed map (PDF, 395 KB)](https://assets.publishing.service.gov.uk/media/69a367d7286b6fdc85daeb03/Bahrain_Travel_Advice_Ed1.pdf)
+
+## Register your presence
+
+Let the UK government know you’re in Bahrain, [register your presence](https://www.register.service.csd.fcdo.gov.uk/bahrain-20260227/tell-the-uk-government-youre-in-bahrain) if you’re in Bahrain for further updates.
+
+## Shelter in place
+
+Due to reported missile attacks, British nationals in Bahrain should immediately shelter in place.
+
+Remain indoors in a secure location, avoid all travel and follow instructions from the local authorities.
 
 ## Regional risks
 

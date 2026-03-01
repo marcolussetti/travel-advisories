@@ -1,18 +1,24 @@
 # Warnings and insurance
 
 Still current at:
-:   28 February 2026
+:   1 March 2026
 
 Updated:
-:   27 February 2026
+:   28 February 2026
 
 Latest update:
-:   Updated information about the risks of regional escalation (‘Warnings and insurance’ page).
+:   Addition of information that due to reported missile activity in the region, British nationals in Saudi Arabia should stay at home.
 
 ![](https://assets.publishing.service.gov.uk/media/681a1ee1fb59a222d4f17336/FCDO__TA__034_-_Saudi_Arabia_Travel_Advice_Ed3__WEB_.jpg)
 
 
 [Download a more detailed map (PDF, 1.02 MB)](https://assets.publishing.service.gov.uk/media/681a1ee2fb59a222d4f17337/FCDO__TA__034_-_Saudi_Arabia_Travel_Advice_Ed3.pdf)
+
+## Stay at Home
+
+Due to reports of missile activity in the region, we advise all British nationals to stay at home.
+
+Remain indoors in a secure location and follow instruction from the local authorities.
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 

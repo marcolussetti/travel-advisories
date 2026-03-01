@@ -1,13 +1,28 @@
 # Warnings and insurance
 
 Still current at:
-:   28 February 2026
+:   1 March 2026
 
 Updated:
-:   27 February 2026
+:   28 February 2026
 
 Latest update:
-:   Updated information about the risks of regional escalation (‘Warnings and insurance’ page).
+:   The FCDO now advises against all but essential travel to Qatar. Register your presence if you're in Qatar (Warnings and insurance).
+
+![](https://assets.publishing.service.gov.uk/media/69a36c48286b6fdc85daeb04/Qatar_Travel_Advice_Ed2__WEB_.jpg)
+
+
+[Download a more detailed map (PDF, 615 KB)](https://assets.publishing.service.gov.uk/media/69a36c48286b6fdc85daeb05/Qatar_Travel_Advice_Ed2.pdf)
+
+## Register your presence
+
+Let the UK government know you’re in Qatar, [register your presence](https://www.register.service.csd.fcdo.gov.uk/qatar-20260228/tell-the-uk-government-youre-in-qatar) if you’re in Qatar for further updates.
+
+## Shelter in place
+
+Due to reported missile attacks, British nationals in Qatar should immediately shelter in place.
+
+Remain indoors in a secure location, avoid all travel and follow instructions from the local authorities.
 
 ## Regional risks
 

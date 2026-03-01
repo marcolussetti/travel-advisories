@@ -1,13 +1,28 @@
 # Warnings and insurance
 
 Still current at:
-:   28 February 2026
+:   1 March 2026
 
 Updated:
-:   27 February 2026
+:   28 February 2026
 
 Latest update:
-:   Updated information about the risks of regional escalation (‘Warnings and insurance’ page).
+:   The FCDO now advises against all but essential travel to the United Arab Emirates. Register your presence if you're in the United Arab Emirates (Warnings and insurance).
+
+![](https://assets.publishing.service.gov.uk/media/69a36e57ec82ce45f05bd728/United_Arab_Emirates_Travel_Advice_Ed1__WEB_.jpg)
+
+
+[Download a more detailed map (PDF, 483 KB)](https://assets.publishing.service.gov.uk/media/69a36e58f534e7e99adaeafb/United_Arab_Emirates_Travel_Advice_Ed1.pdf)
+
+## Register your presence
+
+Let the UK government know you’re in the United Arab Emirates [register your presence](https://www.register.service.csd.fcdo.gov.uk/united-arab-emirates-20260228/tell-the-uk-government-youre-in-united-arab-emirates) if you’re in the United Arab Emirates for further updates.
+
+## Shelter in place
+
+Due to reported missile attacks, British nationals in UAE should immediately shelter in place.
+
+Remain indoors in a secure location, avoid all travel and follow instructions from the local authorities.
 
 ## Regional risks
 
@@ -22,6 +37,8 @@ British nationals should take sensible precautions, considering their own indivi
 * stay away from areas around security or military facilities
 * keep your departure plans under review, and ensure your travel documents are up to date
 * if you are advised to take shelter, stay indoors or find the nearest safe building or designated shelter. An interior stairwell or a room with as few external walls or windows as possible may provide additional protection
+
+$CTA
 
 ## Before you travel
 

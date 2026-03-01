@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   28 February 2026
+:   1 March 2026
 
 Updated:
-:   27 February 2026
+:   28 February 2026
 
 Latest update:
-:   Information on regional risks and that due to the security situation, UK staff have been temporarily withdrawn from Iran. Our embassy continues to operate remotely (‘Warnings and insurance’ page).
+:   Updated information that Iranian airspace has now closed ('Warnings and insurance' page)
 
 ![](https://assets.publishing.service.gov.uk/media/627e359b8fa8f53f99901991/FCDO__TA__021_-_Iran_Travel_Advice_Ed5__WEB_.jpg)
 
@@ -26,7 +26,9 @@ Find out more about [why FCDO advises against travel](https://www.gov.uk/foreign
 
 ## Regional risks
 
-There is a heightened risk of regional tension. Escalation could lead to travel disruption and other unanticipated impacts.
+Due to the threat posed by escalation in the region, we advise against all travel to Iran.
+
+Iranian airspace has now closed.
 
 British nationals should take sensible precautions, considering their own individual circumstances. These include:
 
