@@ -2,19 +2,17 @@
 
 ### **Security Status**
 
-Do Not Travel, with the exception of East Jerusalem, Bethlehem and Ramallah, where we advise Avoid Non-Essential Travel.
+Do Not Travel.
 
 ### **Travel Alert**
 
-**The Department of Foreign Affairs and Trade strongly advises against all travel to the Gaza Strip, and to all border areas between the Gaza Strip and Israel.**
+**The Department of Foreign Affairs and Trade strongly advises against all travel to Palestine. Irish citizens currently in Palestine should shelter in place, minimise unnecessary movement, and follow the advice and guidance of local authorities. Stay away from all military facilities.**
 
-We advise against travel to the West Bank, with the exception of East Jerusalem, Bethlehem and Ramallah, where we advise against non-essential travel. Israeli security operations continue across the West Bank, along with a high incidence of settler violence, in particular during the olive harvest season in October and November. We strongly advise against all travel to the northern governorates of the West Bank; Jenin, Tulkarem and Tubas.
+**Irish citizens currently in Palestine in need of consular assistance can contact the Representative Office of Ireland, Ramallah on +972 369 64166. If you have not already done so you are asked to register on the Department’s Citizens Registration platform** [**here**](https://www.ireland.ie/en/dfa/overseas-travel/citizens-registration/)**.**
 
-The security situation remains tense and unpredictable, with the potential for intense escalation. Please continue to exercise caution, monitor local media regularly, follow the advice of local authorities, and observe any additional security measures imposed.
+**Alternatively, you may contact the Duty Officer at the Department of Foreign Affairs and Trade in Dublin on +353 1 408 2000.**
 
-Irish citizens currently in Palestine who have not already done so, are asked to register on the Department’s Citizens Registration platform [**here**](https://www.ireland.ie/en/dfa/overseas-travel/citizens-registration/).
-
-For the latest updates, please follow our Representative Office in Ramallah [**here**](https://x.com/IrlRepRamallah).
+Israeli security operations continue across the West Bank, along with a high incidence of settler violence, in particular during the olive harvest season in October and November. We strongly advise against all travel to the northern governorates of the West Bank; Jenin, Tulkarem and Tubas.
 
 For urgent consular assistance, please contact: +972 369 64166 or +353 (1) 408 2000.
 

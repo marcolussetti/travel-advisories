@@ -2,9 +2,23 @@
 
 ### **Security Status**
 
-High Degree of Caution
+Avoid Non-Essential Travel
 
 ### **Travel Alert**
+
+#### **Security Situation in the Middle East and Gulf Region**
+
+**In light of the current security situation in the Middle East and Gulf region, the Department of Foreign Affairs and Trade strongly advises Irish citizens against all but essential travel to Saudi Arabia until further notice.**
+
+Irish citizens in Saudi Arabia are advised to shelter in place, avoid unnecessary movement and to follow the advice of the local authorities. Irish citizens are advised to avoid military and security force installations.
+
+We are aware that airspace in the region is closed. Citizens affected are advised to liaise directly with their airline and follow the guidance provided.
+
+Irish citizens in need of consular assistance should contact the Embassy of Ireland in Saudi Arabia on +966 550 543 386.
+
+Alternatively, you may contact the Duty Officer at the Department of Foreign Affairs and Trade in Dublin on +353 1 408 2000.
+
+For further updates, please monitor the Department’s travel advice and social media channels, as well as the Embassy of Ireland in Riyadh on X [@IrishEmbRiyadh](https://twitter.com/IrishEmbRiyadh?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
 
 #### **UK ETA**
 
@@ -16,11 +30,7 @@ You are advised to check your passport validity, and where necessary, apply for 
 
 Further information on the ETA is available at [Get an electronic travel authorisation (ETA) to visit the UK: Overview - GOV.UK](https://www.gov.uk/eta)
 
-### **Regional Tensions**
-
-Given ongoing regional tensions, airlines may choose to suspend flights and/or adjust their schedules to and from Saudi Arabia at short notice. If you plan on flying to or from the region in the coming days, please check your flight status with your airline directly in advance of travelling.
-
-Additionally, ongoing hostilities in Iran, Israel, Palestine and in Houthi controlled areas in Yemen may escalate leading to possible attacks on military installations and/or on strategic infrastructure. Debris from intercepted missiles or drones may cause localised damage over urban areas. The most immediate risk remains delay or cancellation of flights.
+### 
 
 ### **General Travel Advice**
 

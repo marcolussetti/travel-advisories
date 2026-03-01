@@ -2,15 +2,23 @@
 
 ### **Security Status**
 
-High Degree of Caution
+Avoid Non-Essential Travel
 
 ### **Travel Alert**
 
-#### **Regional Situation**
+#### **Security Situation in the Middle East and Gulf Region**
 
-Given ongoing regional tensions, airlines may choose to suspend flights and/or adjust their schedules to and from the United Arab Emirates at short notice. If you plan on flying to or from the region in the coming days, please check your flight status with your airline directly in advance of travelling.
+**In light of the current security situation in the Middle East and Gulf region, the Department of Foreign Affairs and Trade strongly advises Irish citizens against all but essential travel to the United Arab Emirates until further notice.**
 
-The Embassy of Ireland, Abu Dhabi is closely monitoring the current regional situation and advises that Irish citizens exercise a high degree of caution. For further updates, please monitor the Embassy’s social media channels on [**X**](https://x.com/IrelandEmbUAE), [**Instagram**](https://www.instagram.com/irelandembuae?igsh=bnRnYjQ0Mmt4OG50), and [**Facebook**](https://www.facebook.com/share/1Aek6yo4tR/?mibextid=wwXIfr).
+Irish citizens in the United Arab Emirates should shelter in place, avoid unnecessary movement, and follow the advice of the local authorities. Irish citizens are also advised to avoid military and security force installations.
+
+There is significant disruption to travel across the Middle East and Gulf regions. Citizens traveling through or to these regions should contact their airline directly.
+
+Irish citizens in need of consular assistance should contact the Embassy of Ireland in the United Arab Emirates on +971 024 958 200.
+
+Alternatively, you may contact the Duty Officer at the Department of Foreign Affairs and Trade in Dublin on +353 1 408 2000.
+
+For further updates, please monitor the Department’s travel advice and social media channels, as well as the Embassy of Ireland's social media channels on [**X**](https://x.com/IrelandEmbUAE), [**Instagram**](https://www.instagram.com/irelandembuae?igsh=bnRnYjQ0Mmt4OG50), and [**Facebook**](https://www.facebook.com/share/1Aek6yo4tR/?mibextid=wwXIfr).
 
 #### **UK ETA**
 

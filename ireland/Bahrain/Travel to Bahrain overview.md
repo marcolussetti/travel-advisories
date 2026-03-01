@@ -2,15 +2,23 @@
 
 ### **Security Status**
 
-High Degree of Caution
+Avoid Non-Essential Travel
 
 ### **Travel Alert**
 
-#### Regional Tensions
+**Security Situation in the Middle East and Gulf Region**
 
-Given ongoing regional tensions, airlines may choose to suspend flights and/or adjust their schedules to and from Bahrain at short notice. If you plan on flying to or from the region in the coming days, please check your flight status with your airline directly in advance of travelling.
+**In light of the current security situation in the Middle East and Gulf region, the Department of Foreign Affairs and Trade strongly advises Irish citizens against all but essential travel to Bahrain until further notice.**
 
-Additionally, ongoing hostilities in Iran, Israel, and Palestine may escalate leading to possible attacks on military installations; and/or on strategic infrastructure. Debris from intercepted missiles or drones may cause localised damage over urban areas. The most immediate risk remains delay or cancellation of flights.
+Irish citizens in Bahrain should shelter in place, avoid unnecessary movement, and follow the advice of the local authorities. Irish citizens are also advised to avoid military and security force installations.
+
+There is significant disruption to travel across the Middle East and Gulf regions. Citizens traveling through or to these regions should contact their airline directly.
+
+Irish citizens in need of consular assistance should contact the Embassy of Ireland in Saudi Arabia on +966 550 543 386.
+
+Alternatively, you may contact the Duty Officer at the Department of Foreign Affairs and Trade in Dublin on +353 1 408 2000.
+
+For further updates, please monitor the Department’s travel advice and social media channels, as well as the Embassy of Ireland in Saudi Arabia on X [@IrishEmbRiyadh](https://twitter.com/IrishEmbRiyadh?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor).
 
 ### **General Travel Advice**
 

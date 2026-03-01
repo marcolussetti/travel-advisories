@@ -2,7 +2,7 @@
 
 ### **Security status**
 
-Avoid Non Essential Travel
+Do Not Travel
 
 ### **Travel Alert**
 
@@ -10,19 +10,11 @@ Avoid Non Essential Travel
 
 The situation in Lebanon remains volatile, and events could escalate throughout the country with little warning.
 
-The Embassy of Ireland, Cairo is closely monitoring the current regional situation. Escalation could lead to travel disruption and other unanticipated impacts across the region.
+The Embassy of Ireland, Cairo is closely monitoring the evolving situation.
 
-#### **In addition, Irish citizens are strongly advised against all travel to:**
+Some international airlines have suspended or cancelled their flights to Beirut and Irish citizens in Lebanon should consider leaving the country while commercial options are available.
 
-* Areas south of the Litani River;
-* the Beqaa Valley;
-* the southern suburbs of Beirut (excluding highway 51 between the airport and central Beirut);
-* the [**12 Palestinian refugee camps**](https://www.unrwa.org/where-we-work/lebanon);
-* areas within 15km of the border with Syria;
-* the city of Tripoli; and
-* Akkar Governorate.
-
-For the rest of Lebanon, Irish citizens are advised to avoid non-essential travel.
+However, if you choose to remain, be prepared to leave quickly or to shelter in place for an extended period, keep yourself informed of what is going on around you by monitoring local media and staying in contact with your hotel and local contacts. Follow the advice of the local authorities and stock up on basic necessities such as water, food, fuel and medicines.
 
 Irish citizens in Lebanon should [**register**](https://www.ireland.ie/en/dfa/overseas-travel/citizens-registration/) with the Embassy of Ireland in Cairo. Citizens should be aware that, in the event that the political or security situation deteriorates, we do not have an Embassy in Beirut and the Embassy is likely to be very limited in the assistance that can be provided.
 
