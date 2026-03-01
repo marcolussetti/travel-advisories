@@ -16,6 +16,10 @@ The features in this map do not constitute an authoritative source of geographic
 
 The features in this map do not constitute an authoritative source of geographical information. This map is solely intended to assist Canadians by illustrating the risk levels contained in the Travel Advice and Advisories for this destination. The features in this map do not necessarily represent the views of the Canadian government on international boundaries, nomenclature or political status. The text under the Risk levels section takes precedence over this map.
 
-### Bahrain - Exercise a high degree of caution
+### BAHRAIN - AVOID ALL TRAVEL
 
-[Exercise a high degree of caution](#levels "Risk Levels") in Bahrain due to ongoing tensions in the region, demonstrations and the threat of terrorist attacks.
+[Avoid all travel](#levels "Risk Levels") to Bahrain due to the ongoing military activities.
+
+Follow the instructions of local authorities, including orders to shelter in place or to evacuate. The security situation can deteriorate rapidly.
+
+Bahrain airspace is closed. Make sure your travel documents and those of your spouse and children are up to date and secure at all times.

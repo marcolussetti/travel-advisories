@@ -2,20 +2,25 @@
 
 ## Safety and security
 
-### Heightened tensions in the Middle East
+### Ongoing hostilities in the Middle East
 
-There are heightened tensions in the region and the security situation could deteriorate significantly without notice. In the event of escalation, there could be disruptions to movement and transportation, including:
+There is ongoing military activity in the region. Missiles, drones and other projectiles could strike targets in the region. The security situation could deteriorate significantly without notice.
+
+Avoid the vicinity of military installations.
+
+There could be disruptions to movement and transportation, including:
 
 * border closures or restrictions
 * flight cancellations
 * airspace closures
 
-If you're in the region, you should:
+You should:
 
-* monitor local and international media to stay informed of the rapidly evolving situation
+* be prepared to shelter in place if instructed to by local authorities
 * be vigilant and follow the instructions of local authorities at all times, including any orders to shelter in place
-* sign up with the [Registration of Canadians Abroad](https://travel.gc.ca/travelling/registration) service to receive important information specific to your location
+* sign up with the [Registration of Canadians Abroad](https://travel.gc.ca/travelling/registration) service to receive important information about the crisis
 * ensure that your travel documents and those of your family are up to date
+* monitor local and international media to stay informed of the rapidly evolving situation
 
 ### Border areas
 

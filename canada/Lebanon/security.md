@@ -2,9 +2,9 @@
 
 ## Safety and security
 
-### Tensions in the Middle East
+### Ongoing hostilities in the Middle East
 
-There are ongoing tensions in the region. Hostilities could resume with little or no warning. On November 27, 2024, a ceasefire took effect between Israel and Lebanon. However, the security situation in Lebanon remains volatile and Israeli airstrikes continue to occur in:
+There is ongoing military activity in the region. Missiles, drones and other projectiles could strike targets in Lebanon. On November 27, 2024, a ceasefire took effect between Israel and Lebanon. However, the security situation in Lebanon remains volatile and Israeli airstrikes continue to occur in:
 
 * southern Lebanon
 * Beirut's southern suburbs
@@ -12,6 +12,8 @@ There are ongoing tensions in the region. Hostilities could resume with little o
 * Palestinian refugee camps
 
 Previous air strikes reached populated areas across Lebanon, including central Beirut. Our ability to provide consular services to Canadians during an active conflict is likely to be limited. If you are in Lebanon, prepare contingency plans that don’t rely on the Government of Canada’s assistance for evacuations or assisted departures. You should consider leaving while commercial options remain available.
+
+You may need to stock up on food, water and medications in the event of emergency situations.
 
 If you intend to travel to Lebanon despite the advisory in effect:
 
@@ -22,13 +24,12 @@ If you intend to travel to Lebanon despite the advisory in effect:
 
 If you are already in Lebanon:
 
-* be extremely vigilant and aware of your surroundings
+* be prepared to shelter in place if instructed to by local authorities
+* be vigilant and follow the instructions of local authorities at all times, including any orders to shelter in place
 * expect a heightened security presence
 * carry identification documents at all times
 * make sure your passport and [travel documents](https://www.canada.ca/en/immigration-refugees-citizenship/services/lebanon-2023.html) are up-to-date, including those of your family
 * register and update your contact information through the [Registration of Canadians Abroad](https://travel.gc.ca/travelling/registration) service and encourage other Canadian citizens in Lebanon to do so
-
-You may need to stock up on food, water and medications in the event of emergency situations.
 
 ### 2SLGBTQI+ persons
 

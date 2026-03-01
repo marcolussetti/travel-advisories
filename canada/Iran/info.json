@@ -1,7 +1,7 @@
 {
     "name": "Iran",
-    "update_reason": "Risk level \u2013 updated information on consular assistance",
-    "update_date": "2026-02-27T20:10:00",
+    "update_reason": "Risk level, Safety and security: updated information on the security situation in Iran following military strikes in the country",
+    "update_date": "2026-02-28T14:08:00",
     "sections": {
         "risk": "canada/Iran/risk.md",
         "security": "canada/Iran/security.md",

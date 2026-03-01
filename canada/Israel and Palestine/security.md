@@ -8,20 +8,22 @@ Verify the status of border crossings ahead of time.
 
 [For more information on travel to and from Jordan](#traveljordan)
 
-### Tensions in the Middle East
+### Ongoing hostilities in the Middle East
 
-There are ongoing tensions in the region. Hostilities could resume with little or no warning.
+Drones, missiles and other projectiles could strike targets in Israel and Palestine. The security situation could deteriorate significantly without notice. A nationwide state of emergency is currently in effect in Israel.
 
-During previous attacks, drones, missiles and other projectiles struck targets in Israel and Palestine, resulting in military debris falling in various locations.
+Avoid the vicinity of military installations.
 
-While Ben Gurion International Airport remains open to commercial flights, some international airlines have suspended their service to and from Tel Aviv. A significant resumption of tensions could result in:
+Ben Gurion International Airport is closed. All flights to and from Israel are cancelled until further notice.
 
-* further travel disruptions, including widespread and sudden flight cancellations and airspace closures
+There could be disruptions to movement and transportation, including:
+
+* widespread and sudden flight cancellations and airspace closures
 * military debris falling in various locations
 
 Land border crossings with Jordan and Egypt remain open, but could be impacted at short notice. For West Bank ID holders, the Allenby/King Hussein bridge near Jericho is the only available exit option. You must obtain a visa in advance before crossing.
 
-Our ability to provide consular services to Canadians during an active conflict is likely to be limited. If you are in Israel or Palestine, prepare contingency plans that don’t rely on the Government of Canada’s assistance for evacuations or assisted departures. You should consider leaving while commercial options remain available.
+Our ability to provide consular services to Canadians during an active conflict is likely to be limited. If you are in Israel or Palestine, prepare contingency plans that don't rely on the Government of Canada's assistance for evacuations or assisted departures.
 
 You should:
 
@@ -29,15 +31,10 @@ You should:
 * ensure that you have sufficient supplies of cash, medication, food, fuel and water in case you need to shelter in place
 * download mobile alert applications informing of incoming rocket or missile fire, such as Home Front Command or Red Alert
 * ensure your travel documents and those of your family members are up-to-date
-* keep the local emergency services’ contact information at hand
+* keep the local emergency services' contact information at hand
 * monitor local and international media to stay informed of the rapidly evolving situation
 * follow the instructions of local authorities at all times, including any orders to shelter in place
 * register or update your contact information with the [Registration of Canadians Abroad](https://travel.gc.ca/travelling/registration) service to receive additional important information specific to your location
-
-#### Useful links
-
-* [Registration of Canadians Abroad service](https://travel.gc.ca/travelling/registration)
-* [Canada's response to the situation in the Middle East](https://www.international.gc.ca/world-monde/issues_development-enjeux_developpement/response_conflict-reponse_conflits/crisis-crises/middle-east-moyen-orient.aspx?lang=eng)
 
 ### Security situation in the Gaza Strip
 
