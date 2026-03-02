@@ -8,14 +8,19 @@ The Government of Canada may not be in a position to provide consular assistance
 * the Government of Pakistan prohibits entry
 * advance permission is required for entry
 
-On May 7, 2025, the Indian military conducted air strikes on several targets in Pakistan-administered Kashmir and Punjab Province, resulting in casualties.
+### Tensions along the Pakistan–Afghanistan border
 
-On May 10, 2025, the Pakistani and Indian governments agreed to stop military action.
+On February 26, 2026, tensions between Pakistan and Afghanistan have escalated in coordinated cross border attacks.
 
-Pakistani authorities have reopened the airspace. However, flight disruptions may still occur.
+Pakistan carried out airstrikes on targets in Kabul and in multiple Afghan provinces. Pakistani authorities also reported that drones were intercepted and destroyed. Retaliatory terrorist attacks could also occur at any time in Pakistan.
 
-* Contact your airline for updated flight information
-* Monitor local media to stay informed
+The situation remains highly volatile, and further strikes may occur with no warning, including beyond border areas.
+
+If you decide to travel near the border with Afghanistan despite this advisory:
+
+* expect military activity, including airstrikes and the presence of drones
+* monitor local media, as the security situation may further deteriorate
+* follow the instructions of local authorities and be prepared to leave the area immediately if tensions escalate further
 
 ### Security situation
 
@@ -24,7 +29,7 @@ Security forces continue to be on high alert in the following cities:
 * Islamabad
 * Rawalpindi
 * Lahore
-* Karachi, including the port
+* Karachi, including the port and international airport
 
 The security situation is evolving and remains unpredictable.
 
@@ -46,6 +51,8 @@ If you are in Pakistan:
 The level of tension between Pakistan and India is susceptible to sudden changes. You could experience difficulties when travelling between the two countries and may be subject to scrutiny if officials from either country become aware that you have recently travelled to the other.
 
 The security situation in the Kashmir region, especially along the Line of Control (LoC), which separates India-administered Kashmir in the south from Pakistan-administered Kashmir in the north, and along the working boundary that continues south toward Sialkot, remains volatile. Since September 2016, cross-border gunfire and shelling have been occurring sporadically along the LoC.
+
+In May 2025, the Indian military conducted airstrikes on several targets in Pakistan-administered Kashmir and Punjab Province, resulting in casualties. After three days, the Pakistani and Indian governments agreed to stop military action.
 
 The Wagah border crossing is currently closed.
 

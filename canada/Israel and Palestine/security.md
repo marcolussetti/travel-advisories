@@ -2,26 +2,31 @@
 
 ## Safety and security
 
-Due to the ongoing security situation in Israel and Palestine, operations at land borders may be affected by reduced hours or closure on short notice.
-
-Verify the status of border crossings ahead of time.
-
-[For more information on travel to and from Jordan](#traveljordan)
-
 ### Ongoing hostilities in the Middle East
 
 Drones, missiles and other projectiles could strike targets in Israel and Palestine. The security situation could deteriorate significantly without notice. A nationwide state of emergency is currently in effect in Israel.
 
-Avoid the vicinity of military installations.
+Avoid the vicinity of military installations and critical infrastructure.
+
+There could be disruptions to movement and transportation due to military debris falling in various locations.
 
 Ben Gurion International Airport is closed. All flights to and from Israel are cancelled until further notice.
 
-There could be disruptions to movement and transportation, including:
+Land border crossings with Jordan and Egypt remain open but could be impacted at short notice. Sheltering in place may be your safest option, but if you wish to leave Israel via a land border crossing and believe you can do safety, the following options are available:
 
-* widespread and sudden flight cancellations and airspace closures
-* military debris falling in various locations
+* Jordan :
 
-Land border crossings with Jordan and Egypt remain open, but could be impacted at short notice. For West Bank ID holders, the Allenby/King Hussein bridge near Jericho is the only available exit option. You must obtain a visa in advance before crossing.
++ Jordan River/Sheikh Hussein Bridge, in the north of Israel
++ Allenby/King Hussein Bridge, near Jericho in the West Bank (Israeli passport holders are not permitted to cross at this border)
++ Yitzak/Aqaba, near Eilat in the south of Israel
+
+You must [obtain a visa online](https://moi.gov.jo/EN/Pages/Visa_E_Applications) before crossing into Jordan.
+
+For West Bank ID holders, the Allenby/King Hussein bridge near Jericho is the only available exit option.
+
+* To Egypt
+
++ Menahem Begin/Taba, from southern Israel into the Sinai Peninsula (visa available on-arrival)
 
 Our ability to provide consular services to Canadians during an active conflict is likely to be limited. If you are in Israel or Palestine, prepare contingency plans that don't rely on the Government of Canada's assistance for evacuations or assisted departures.
 
