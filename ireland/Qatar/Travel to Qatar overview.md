@@ -18,6 +18,8 @@ Irish citizens in need of consular assistance should contact the Embassy of Irel
 
 Alternatively, you may contact the Duty Officer at the Department of Foreign Affairs and Trade in Dublin on +353 1 408 2000.
 
+Irish citizens in Qatar should register with the Department via the [**Citizens Registration**](https://www.ireland.ie/en/dfa/overseas-travel/citizens-registration/) facility if they have not already done so.
+
 For further updates, please monitor the Department’s travel advice and social media channels, as well as the Embassy of Ireland's social media channels on [**X**](https://x.com/IrelandEmbUAE), [**Instagram**](https://www.instagram.com/irelandembuae?igsh=bnRnYjQ0Mmt4OG50), and [**Facebook**](https://www.facebook.com/share/1Aek6yo4tR/?mibextid=wwXIfr)**.**
 
 #### **UK ETA**

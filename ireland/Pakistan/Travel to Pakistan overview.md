@@ -12,6 +12,10 @@ Following recent cross-border clashes, travellers are reminded and strongly advi
 
 The security situation can deteriorate rapidly without warning, and government assistance in these regions may be limited or unavailable. Citizens should remain vigilant, monitor local media for updates, and strictly adhere to travel advisories issued by relevant authorities.
 
+**Political Protests**
+
+In view of recent regional and international developments, there is a heightened risk of protests in urban centres in Pakistan, which have the potential to lead to violent clashes. Citizens should take precautions, plan any movements carefully, avoid traditional protest or gathering spots, and strictly adhere to local security advisories.
+
 ### **General Travel Advice**
 
 Irish citizens require a valid passport (having minimum validity of 6 months) and a visa to enter Pakistan. It is advisable to take a few photocopies of your passport/valid ID’s during your stay in Pakistan. Please note that Irish Passport Cards are not accepted.

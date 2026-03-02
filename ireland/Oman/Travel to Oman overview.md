@@ -6,9 +6,17 @@ High Degree of Caution
 
 ### **Travel Alert**
 
-### Regional Tensions
+**Security Situation in the Middle East and Gulf Region**
 
-Ongoing hostilities in Iran, Israel, and Palestine may escalate leading to possible attacks on military installations; and/or on strategic infrastructure. Debris from intercepted missiles or drones may cause localised damage over urban areas. The most immediate risk remains delay or cancellation of flights.
+**The Department of Foreign Affairs and Trade is closely monitoring the security situation in the Middle East and Gulf Region.**
+
+We are aware of significant disruption to travel across the region. Citizens impacted by flight delays or cancellations should contact their airline directly.
+
+Irish citizens in need of consular assistance should contact the Embassy of Ireland in Saudi Arabia on +966 550 543 386.
+
+Alternatively, you may contact the Duty Officer at the Department of Foreign Affairs and Trade in Dublin on +353 1 408 2000.
+
+For further updates, please monitor the Department’s travel advice and social media channels, as well as the Embassy of Ireland's social media channels on [**X**](https://x.com/IrelandEmbUAE), [**Instagram**](https://www.instagram.com/irelandembuae?igsh=bnRnYjQ0Mmt4OG50), and [**Facebook**](https://www.facebook.com/share/1Aek6yo4tR/?mibextid=wwXIfr).
 
 ### **General Travel Advice**
 
