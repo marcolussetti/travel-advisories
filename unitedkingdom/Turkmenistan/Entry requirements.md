@@ -4,6 +4,16 @@ This information is for people travelling on a full [‘British citizen’ passp
 
 The authorities in Turkmenistan set and enforce entry rules. If you’re not sure how these requirements apply to you, contact the [Embassy of Turkmenistan in the UK](https://uk.tmembassy.gov.tm/en).
 
+## Entering Turkmenistan across the land border from Iran
+
+If you are a British national wanting to enter Turkmenistan from Iran, you will need special authorisation from the Government of Turkmenistan. This can be facilitated by the British Embassy in Ashgabat by [contacting the FCDO](https://www.contact.service.csd.fcdo.gov.uk/home) before you travel to the border, indicating whether you are contacting from Iran or from the UK on behalf of a relative.
+
+You will need to provide personal details (name, date of birth, passport information) of the person travelling and indicate which border crossing they intend to use . The authorisation process will likely take  about 48 hours but may be longer.   Normal visa fees may also be applied on arrival in Turkmenistan.
+
+Access to the internet and mobile phone networks is restricted in Turkmenistan. If you intend to leave Iran overland, you do so at your own risk. In Iran, holding a British passport or having perceived connections to the UK can be reason enough for the Iranian authorities to detain you.
+
+Read more FCDO advice [if you’re affected by a crisis abroad](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas).
+
 ## COVID-19 rules
 
 You do not require a COVID-19 vaccination to enter Turkmenistan. All travellers by air must undergo a COVID-19 test upon arrival at Ashgabat airport, which costs 31 US dollars cash. There is no test if you enter by land or sea.
@@ -96,12 +106,8 @@ You can exchange US dollars and euros at the official manat rate easily at a ban
 
 There are a limited number of international ATMs in Ashgabat, but they can run out of manat notes. There’s a 3% withdrawal charge for each transaction. You are strongly recommended to bring enough dollars for your entire trip.
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/turkmenistan)
+[Previous:Warnings and insurance](/foreign-travel-advice/turkmenistan)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/turkmenistan/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/turkmenistan/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/turkmenistan/print)

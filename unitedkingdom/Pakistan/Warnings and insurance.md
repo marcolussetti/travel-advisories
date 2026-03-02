@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   28 February 2026
+:   2 March 2026
 
 Updated:
-:   27 February 2026
+:   1 March 2026
 
 Latest update:
-:   New information about the security situation in Jinnah International airport and potential disruption (‘Warnings and insurance’ page).
+:   Updated information about regional tensions and limiting staff movements (Warnings and Insurance page)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
@@ -81,7 +81,7 @@ In Karachi, key infrastructure and transit routes, including Karachi Jinnah Inte
 
 ## Pakistan-Afghanistan tensions
 
-There are heighted tensions between Pakistan and Afghanistan, including clashes in border areas. FCDO already advises against all travel to within 10 miles of the border between Pakistan and Afghanistan. Sign up to [get email notifications](https://www.gov.uk/foreign-travel-advice/pakistan/email-signup) when this travel advice is updated.
+There are increased security risks in Pakistan because of tensions between Pakistan and Afghanistan and developments in Iran.  You should follow FCDO travel advice, which warns people about the risk of terrorism and to be careful around protests, demonstrations, rallies and religious gatherings.  Given the increasing risks we have instructed UK staff in Pakistan to restrict their movements at this time. Sign up to [get email notifications](https://www.gov.uk/foreign-travel-advice/pakistan/email-signup) when this travel advice is updated.
 
 ## Before you travel
 

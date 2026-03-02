@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   28 February 2026
+:   2 March 2026
 
 Updated:
-:   27 February 2026
+:   1 March 2026
 
 Latest update:
-:   Updated information about the risks of regional escalation (‘Warnings and insurance’ page).
+:   New information about entering Turkey across the land border from Iran (‘Entry requirements’ page)
 
 ![](https://assets.publishing.service.gov.uk/media/6703bc3c3b919067bb482cfb/FCDO__TA__043_-_Turkey_Travel_Advice_Ed4__WEB_.jpg)
 
@@ -28,11 +28,11 @@ Find out more about [why FCDO advises against travel](https://www.gov.uk/foreig
 
 While 24-hour consular assistance is available by phone or online, in-person consular support is severely limited in areas where we advise against travel.
 
-## Regional risks
+## Regional escalation
 
-There is a heightened risk of regional tension. Escalation could lead to travel disruption and other unanticipated impacts.
+Regional escalation poses significant security risks and has led to travel disruption.
 
-British nationals should take sensible precautions, considering their own individual circumstances. These include:
+British nationals should:
 
 * read [If you’re affected by a crisis abroad - GOV.UK](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas). This includes guidance on “how to prepare for a crisis” with suggestions on what you might include in your emergency supplies and “what to do in a crisis”
 * follow advice from the local authorities

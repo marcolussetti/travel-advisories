@@ -1,11 +1,11 @@
 {
     "name": "Pakistan",
-    "update_reason": "New information about the security situation in Jinnah International airport and potential disruption (\u2018Warnings and insurance\u2019 page).",
+    "update_reason": "Updated information about regional tensions and limiting staff movements  (Warnings and Insurance page)",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Pakistan/Warnings and insurance.md",
-            "update_date": "2026-02-27T16:12:21+00:00"
+            "update_date": "2026-03-01T10:43:53+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Pakistan/Getting help.md"
         }
     ],
-    "update_date": "2026-02-27T16:12:21+00:00"
+    "update_date": "2026-03-01T10:43:53+00:00"
 }

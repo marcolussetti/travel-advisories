@@ -1,11 +1,11 @@
 {
     "name": "Turkey",
-    "update_reason": "Updated information about the risks of regional escalation\u202f(\u2018Warnings and insurance\u2019 page).",
+    "update_reason": "New information about entering Turkey across the land border from Iran (\u2018Entry requirements\u2019 page)",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Turkey/Warnings and insurance.md",
-            "update_date": "2026-02-27T22:32:45+00:00"
+            "update_date": "2026-03-01T17:30:53+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Turkey/Getting help.md"
         }
     ],
-    "update_date": "2026-02-27T22:32:45+00:00"
+    "update_date": "2026-03-01T17:30:53+00:00"
 }

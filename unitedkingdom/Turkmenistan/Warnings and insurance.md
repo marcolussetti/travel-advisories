@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   11 December 2025
+:   2 March 2026
 
 Updated:
-:   10 December 2025
+:   1 March 2026
 
 Latest update:
-:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
+:   New information about entering Turkmenistan across the land border from Iran (‘Entry requirements’ page)
 
 ## Before you travel
 
@@ -37,8 +37,6 @@ Follow FCDO:
 * [travel advice on Facebook](https://www.facebook.com/FCDOTravel/)
 * [Travel Aware on Instagram](https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Ftravelaware%2F&is_from_rle)
 
-[Next
-:
-Entry requirements](/foreign-travel-advice/turkmenistan/entry-requirements)
+[Next:Entry requirements](/foreign-travel-advice/turkmenistan/entry-requirements)
 
 [View a printable version of the whole guide](/foreign-travel-advice/turkmenistan/print)

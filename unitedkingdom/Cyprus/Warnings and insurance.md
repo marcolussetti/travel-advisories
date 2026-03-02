@@ -1,13 +1,17 @@
 # Warnings and insurance
 
 Still current at:
-:   15 January 2026
+:   2 March 2026
 
 Updated:
-:   14 January 2026
+:   2 March 2026
 
 Latest update:
-:   There is a heightened risk of regional tension. Escalation could lead to travel disruption and other unanticipated impacts (‘Warnings and insurance’ page).
+:   “Information on a suspected drone impact at RAF Akrotiri (‘Warnings and insurance’ page).”
+
+## Suspected drone impact at RAF Akrotiri
+
+On 2 March 2026, the Sovereign Base Areas Administration confirmed a suspected drone impact at RAF Akrotiri.  British nationals in the Sovereign Base Areas should follow instructions from the Sovereign Base Areas Administration [British Bases Cyprus Facebook](https://www.facebook.com/BritishBasesCyprus/?locale=en_GB)  British nationals in the Republic of Cyprus should follow any instructions from Cypriot local authorities.
 
 ## Regional risks
 
@@ -19,7 +23,6 @@ British nationals should take sensible precautions, considering their own indivi
 * sign up to FCDO Travel Advice email alerts
 * monitor local and international media for the latest information
 * sign up to local information alerts/resources and follow the instructions of the local authorities
-* stay away from areas around security or military facilities
 
 ## Before you travel
 

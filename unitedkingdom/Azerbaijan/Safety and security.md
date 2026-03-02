@@ -151,12 +151,8 @@ Find out what you can do to [prepare for and respond to extreme weather and natu
 
 There is a risk of earthquakes across the Caucasus region, although there have been no recent serious earthquakes in Azerbaijan. The US Federal Emergency Management Agency website has advice about [what to do before, during and after an earthquake](https://www.ready.gov/earthquakes).
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/azerbaijan/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/azerbaijan/entry-requirements)
 
-[Next
-:
-Regional risks](/foreign-travel-advice/azerbaijan/regional-risks)
+[Next:Regional risks](/foreign-travel-advice/azerbaijan/regional-risks)
 
 [View a printable version of the whole guide](/foreign-travel-advice/azerbaijan/print)

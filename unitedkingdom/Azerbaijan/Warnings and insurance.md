@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   11 December 2025
+:   2 March 2026
 
 Updated:
-:   10 December 2025
+:   1 March 2026
 
 Latest update:
-:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
+:   New information about entering Azerbaijan across the land border from Iran (Entry requirements page)
 
 ![](https://assets.publishing.service.gov.uk/media/67efddbf27eb76c92cf7e567/FCDO__TA__004_-_Azerbaijan_Travel_Advice_Ed9__WEB_.jpg)
 
@@ -66,8 +66,6 @@ Follow  FCDO:
 * [travel advice on Facebook](https://www.facebook.com/FCDOTravel/)
 * [Travel Aware on Instagram](https://www.instagram.com/travelaware/)
 
-[Next
-:
-Entry requirements](/foreign-travel-advice/azerbaijan/entry-requirements)
+[Next:Entry requirements](/foreign-travel-advice/azerbaijan/entry-requirements)
 
 [View a printable version of the whole guide](/foreign-travel-advice/azerbaijan/print)

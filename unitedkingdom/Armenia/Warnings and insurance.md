@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   18 February 2026
+:   2 March 2026
 
 Updated:
-:   17 February 2026
+:   1 March 2026
 
 Latest update:
-:   This travel advice was reviewed for accuracy and there are no significant updates.
+:   New information about entering Armenia across the land border from Iran (‘Entry requirements’ page)
 
 ![](https://assets.publishing.service.gov.uk/media/615dcc368fa8f5297eda6658/FCDO__TA__003_-_Armenia_Travel_Advice_Ed3__WEB_.jpg)
 

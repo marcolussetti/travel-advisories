@@ -102,12 +102,8 @@ Turkmenistan is in an active seismic zone. There are regular tremors and there h
 
 The US Federal Emergency Management Agency has [advice about what to do before, during and after an earthquake](http://www.ready.gov/earthquakes).
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/turkmenistan/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/turkmenistan/entry-requirements)
 
-[Next
-:
-Health](/foreign-travel-advice/turkmenistan/health)
+[Next:Health](/foreign-travel-advice/turkmenistan/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/turkmenistan/print)

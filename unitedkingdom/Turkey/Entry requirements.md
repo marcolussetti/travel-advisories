@@ -4,6 +4,18 @@ This information is for people travelling on a full [‘British citizen’ passp
 
 The authorities in Turkey set and enforce entry rules. If you’re not sure how these requirements apply to you, contact the [Turkish Embassy in the UK](https://london-emb.mfa.gov.tr/Mission).
 
+## Entering Turkey across the land border from Iran
+
+The border remains open visa-free for people travelling on UK or Iranian passports (for stays of up to 90 days). If you are a British national intending to cross the land border from Iran into Turkey, you must request facilitation from the British Embassy in Ankara [by contacting the FCDO](https://www.contact.service.csd.fcdo.gov.uk/home) before travelling to the border. You must state which border point you intend to use and provide personal details (name, date of birth, details of travel document used to enter Turkey).  Also indicate whether you are contacting from Iran or from the UK on behalf of a relative.
+
+The Turkish authorities advise that the Iranians have closed the crossing point at Esendere-Serow on the Iranian side to daily traders entering and exiting over the course of a day.
+
+The usual [entry requirements](https://www.gov.uk/foreign-travel-advice/turkey/entry-requirements) will apply, including that British nationals can enter without a visa for up to 90 days in any 180-day period.
+
+If you intend to leave Iran overland, you do so at your own risk. In Iran, holding a British passport or having perceived connections to the UK can be reason enough for the Iranian authorities to detain you.
+
+Read more FCDO advice [If you’re affected by a crisis abroad - GOV.UK](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas).
+
 ## Passport validity requirements
 
 To enter Turkey, your passport must have an ‘expiry date’ at least 150 days after the date you arrive and at least 1 blank page.

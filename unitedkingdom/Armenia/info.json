@@ -1,11 +1,11 @@
 {
     "name": "Armenia",
-    "update_reason": "This travel advice was reviewed for accuracy and there are no significant updates.",
+    "update_reason": "New information about entering Armenia across the land border from Iran (\u2018Entry requirements\u2019 page)",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Armenia/Warnings and insurance.md",
-            "update_date": "2026-02-17T09:16:01+00:00"
+            "update_date": "2026-03-01T17:29:01+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Armenia/Getting help.md"
         }
     ],
-    "update_date": "2026-02-17T09:16:01+00:00"
+    "update_date": "2026-03-01T17:29:01+00:00"
 }

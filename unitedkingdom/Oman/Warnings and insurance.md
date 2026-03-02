@@ -1,19 +1,23 @@
 # Warnings and insurance
 
 Still current at:
-:   28 February 2026
+:   2 March 2026
 
 Updated:
-:   27 February 2026
+:   1 March 2026
 
 Latest update:
-:   Updated information about the risks of regional escalation (‘Warnings and insurance’ page).
+:   Addition of information that British nationals in the city of Duqm should shelter in place and that British nationals visiting Salalah should leave as soon as possible if commercial means allow. British residents in Salalah should follow the advice of local authorities (Warnings and Insurance page)
 
-## Regional risks
+## Shelter in place
 
-There is a heightened risk of regional tension. Escalation could lead to travel disruption and other unanticipated impacts.
+We advise that British nationals in the city of Duqm and surrounding area shelter in place. Any British nationals currently visiting Salalah, or within 100km, should look to leave as soon as possible if commercial means allow. British residents in Salalah should follow the advice of local authorities, sheltering in place as required.
 
-British nationals should take sensible precautions, considering their own individual circumstances. These include:
+## Regional escalation
+
+Regional escalation poses significant security risks and has led to travel disruption.
+
+British nationals should:
 
 * read [If you’re affected by a crisis abroad - GOV.UK](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas). This includes guidance on “how to prepare for a crisis” with suggestions on what you might include in your emergency supplies and “what to do in a crisis”
 * follow advice from the local authorities and sign up to receive information and alerts. Read [Oman News Agency](https://omannews.gov.om/)

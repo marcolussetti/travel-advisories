@@ -4,6 +4,16 @@ This information is for people travelling on a full [‘British citizen’ passp
 
 The authorities in Azerbaijan set and enforce entry rules. If you’re not sure how these requirements apply to you, contact the [Azerbaijani Embassy in the UK.](https://london.mfa.gov.az/en)
 
+## Entering Azerbaijan across the Land Border from Iran
+
+The border between Azerbaijan and Iran is closed. But British nationals might be able to cross at the Astara border crossing with special authorisation from the Government of Azerbaijan, which must be facilitated by the British Embassy in Baku. British nationals seeking entry into Azerbaijan should [contact the FCDO](https://www.contact.service.csd.fcdo.gov.uk/home) before travelling to the border crossing at Astara, indicating whether you are contacting from Iran or from the UK on behalf of a relative. Other border crossings to Azerbaijan remain closed.
+
+British nationals will need to provide personal details (name, date of birth, passport information). The British Embassy will provide confirmation and a code from the Azerbaijani authorities. This will take approximately 48 hours. You will need to show the code before crossing. You will also need to apply for a visa through the normal process. See ‘applying for a visa’.
+
+If you intend to leave Iran overland, you do so at your own risk. In Iran, holding a British passport or having perceived connections to the UK can be reason enough for the Iranian authorities to detain you.
+
+Read more FCDO advice [if you’re affected by a crisis abroad](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas).
+
 ## Passport validity requirements
 
 To enter Azerbaijan as a visitor, your passport must usually have an ‘expiry date’ at least 6 months after the date you arrive and at least 2 blank pages for entry stamps. See ‘visa requirements’ for more details.
@@ -35,6 +45,10 @@ You can only enter Azerbaijan via air travel without restrictions. Entry via a l
 ## Entering with a vehicle
 
 To enter Azerbaijan with a vehicle, you need to arrange for the vehicle to be shipped to Baku, where you have to arrange for collection at Customs. You need to provide Power of Attorney and pay fees as required.
+
+## Borders with Iran and Georgia
+
+The land borders between Iran and Azerbaijan, and Georgia and Azerbaijan are temporarily closed.
 
 ## Visa requirements
 
@@ -74,12 +88,8 @@ If you plan to use a local SIM card for more than 30 days, you must register it 
 
 You need an export certificate to take antiques or art like carpets, samovars, copperware or paintings out of Azerbaijan. Your vendor will give you a certificate, or they are available from the [Azerbaijan National Carpet Museum](https://azcarpetmuseum.az/en/contact).
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/azerbaijan)
+[Previous:Warnings and insurance](/foreign-travel-advice/azerbaijan)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/azerbaijan/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/azerbaijan/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/azerbaijan/print)

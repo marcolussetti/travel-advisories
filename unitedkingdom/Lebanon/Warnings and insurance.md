@@ -1,18 +1,18 @@
 # Warnings and insurance
 
 Still current at:
-:   28 February 2026
+:   2 March 2026
 
 Updated:
-:   27 February 2026
+:   1 March 2026
 
 Latest update:
-:   Updated information about the risks of regional escalation (‘Warnings and insurance’ page).
+:   FCDO now advises against all travel or all but essential travel to some areas of Lebanon ('Warnings and insurance' page).
 
-![](https://assets.publishing.service.gov.uk/media/68626c163464d9c0ad609cfa/FCDO__TA__023_-_Lebanon_Travel_Advice_Ed17__WEB_.jpg)
+![](https://assets.publishing.service.gov.uk/media/69a48527286b6fdc85daeb1b/FCDO__TA__023_-_Lebanon_Travel_Advice_Ed18__WEB_.jpg)
 
 
-[Download a more detailed map (PDF, 633 KB)](https://assets.publishing.service.gov.uk/media/68626c161c735341c2111ad4/FCDO__TA__023_-_Lebanon_Travel_Advice_Ed17.pdf)
+[Download a more detailed map (PDF, 631 KB)](https://assets.publishing.service.gov.uk/media/69a48527f534e7e99adaeb13/FCDO__TA__023_-_Lebanon_Travel_Advice_Ed18.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO). Consular support is also severely limited where FCDO advises against travel.
 
@@ -32,10 +32,6 @@ FCDO advises against all travel to the following areas of Beirut and its southe
 * all other areas west of the Camil Chamoun Boulevard (south of Forn el Chebbak) that becomes the Old Saida Road through Hadath to Beirut airport
 * the Area of Bir Hassan bordered by the following roads: West of Highway 51; East of Beirut Saida Highway; South of Ghobeiry Road; North of Abbas El Mousawi; but excluding the neighbourhood block containing the Rafiq Hariri hospital, Ministry of Public Health and Qatari Embassy (which is bordered by Ali Said al Khansa road in the west, Ghoberi Road in the north and Ghoberi Road south and Highway 51 in the East)
 
-FCDO advises against all but essential travel to:
-
-The area of Mount Lebanon Governorate south of (but not including) the road from Khiam El Damour in the west (and extending to the Mediterranean Sea), through Mghayreh, Kfar Him, Deir El Qamar, Maaser Beit Ed Dine, Batloun, Barouk and Maaser El Chouf, to where the Barouk-Joub Jannine Road crosses the Mount Lebanon-Beqaa Governorate boundary in the east.
-
 ### Areas in the South and Nabatiyeh Governorates
 
 FCDO advises against all travel to:
@@ -44,24 +40,11 @@ FCDO advises against all travel to:
 * The Governorate of Nabatiyeh.
 * The District of Jezzine
 
-FCDO advises against all but essential travel to:
-
-* All other areas of South Governorate north of the Litani river
-
 ### Areas in the Beqaa Governorate
 
 FCDO advises against all travel to:
 
 * Areas of Beqaa Governorate that lie east of (but not including) the Rachaiya-Marjaayoun Road, from where it crosses the Nabaityeh/Beqaa boundary, heading north-eastward along the Masnaa-Rachaiya Road, Beirut-Damascus International Highway, Bar Elias, and Houch Hala to (and including) Riyaq on the Baalbek-Hermel Governorate boundary. The towns of Khiam, Hasbaya, Rachaya, Al Masnaa, Aanjar and Riyaq are in this area
-
-FCDO advises against all but essential travel to:
-
-* The area of Beqaa Governorate north and east of (but not including) the Aintoura-Zahle Road, from Darh El Harf on the Mount Lebanon/Beqaa Governorate boundary to (but not including) Zahle, extending to the ‘Eastern Beqaa Governorate’ area
-* The rest of Beqaa Governorate, except for:
-
-  + The areas south and west of (and including) the Aintoura-Zahle Road, from Darh El Harf on the Mount Lebanon/Beqaa Governorate boundary to (and including) Zahle
-  + Zahle and the area that lies west of (and including) the Zahle-Baalbek Highway and Chtoura-Nabatiyeh Road, running southward from Zahle to the intersection with the Barouk-Joub Jannine Road
-  + The area north of (and including) the Barouk-Joub Jannine Road, from where it crosses the Mount Lebanon/Beqaa Governorate boundary to the intersection with the Chtoura-Nabatiyeh Road
 
 ### Areas in the Baalbek-Hermel Governorate
 
@@ -70,17 +53,9 @@ FCDO advises against all travel to:
 * The area of Baalbek-Hermel Governorate east of (and including) the Zahle-Baalbek and Baalbek-Qaa Highways, from where the Ali El Nahri Road joins the Zahle-Baalbek Highway near Riyaq, northward past Baalbek, and through Makneh and Laboueh to the intersection with the Hermel-Ras Baalbek Road, including the Baalbek Temple
 * The area of Baalbek-Hermel Governorate north and east of the roads between the intersection of the Baalbek-Qaa Highway and the Hermel-Ras Baalbek Road to the North Governorate boundary via (and including) Hermel and Zouaitini
 
-FCDO advises against all but essential travel to:
-
-* all other areas of Baalbek-Hermel Governorate
-
 ### Areas in the North Governorate
 
 FCDO advises against all travel to the city of Tripoli, within and along the city boundaries.
-
-FCDO advises against all but essential travel to:
-
-* The area of North Governorate north and east of the main roads from Bohssas to Ariz via Kousba, Ehden, and Kfarsghab, and north and east of the Ariz-Baalbeck Road until it meets the Baalbek-Hermel Governorate boundary,excluding  the city of Tripoli. This includes the areas south up to the Tripoli-Kousba road but not including the road or the towns which run along it stretching from Bohssas in the east, southwards to Kousba and then eastwards on the Amioun-Ehden Road to Ehden and on to Ariz and the cedar areas
 
 ### Areas in the Akkar Governorate
 
@@ -90,13 +65,13 @@ FCDO advises against all travel to Akkar Governorate.
 
 FCDO advises against all travel to the 12 Palestinian refugee camps. See [Palestinian refugee camp locations](https://www.unrwa.org/where-we-work/lebanon) on the UN Relief and Works Agency website.
 
-For further information on why we advise against travel, see [Conflict affecting Lebanon](https://www.gov.uk/foreign-travel-advice/lebanon#conflict-in-neighbouring-israel-and-the-occupied-palestinian-territories-opts) and [Regional risks.](https://www.gov.uk/foreign-travel-advice/lebanon/regional-risks).
+FCDO advises against all but essential travel to all other areas of Lebanon
 
-## Regional risks
+## Regional escalation
 
-There is a heightened risk of regional tension. Escalation could lead to travel disruption and other unanticipated impacts.
+Regional escalation poses significant security risks and has led to travel disruption.
 
-British nationals should take sensible precautions, considering their own individual circumstances. These include:
+British nationals should:
 
 * read [If you’re affected by a crisis abroad - GOV.UK](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas). This includes guidance on “how to prepare for a crisis” with suggestions on what you might include in your emergency supplies and “what to do in a crisis”
 * sign up to FCDO Travel Advice email alerts
