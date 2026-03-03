@@ -10,7 +10,10 @@ Avoid the vicinity of military installations and critical infrastructure.
 
 Our ability to provide consular services to Canadians during an active conflict is limited, with priority given to the provision of essential services. Prepare contingency plans that don’t rely on the Government of Canada’s assistance for departure.
 
-Emirati airspace is subject to a temporary and partial closure. Many flights have been cancelled. Verify with your airline before you travel to the airport.
+Emirati airspace is subject to intermittent, temporary and partial closures. Many flights have been cancelled, but some flights could resume on March 2, 2026.
+
+* Monitor flight availability and leave when commercial options are available
+* Verify with your airline before you travel to the airport
 
 Sheltering in place may be your safest option, but if you wish to leave the United Arab Emirates via a land border crossing and believe you can do safety, the following land border crossings are available:
 

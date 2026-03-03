@@ -4,7 +4,9 @@
 
 ### Enhanced security measures
 
-In response to renewed tensions in the Middle East, the Argentine government has put enhanced security measures in place for Jewish institutions. This includes schools, clubs, places of worship, and the Argentine Israelite Mutual Association (AMIA).
+Following renewed tensions in the Middle East, the Argentine government has raised the national security level. Enhanced security measures are in place for critical infrastructure, sensitive targets and Jewish institutions. This includes schools, clubs, places of worship, and the Argentine Israelite Mutual Association (AMIA).
+
+You should expect heightened security in public places as well as stricter checks at border crossings and points of entry.
 
 ### Crime
 

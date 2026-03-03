@@ -316,9 +316,9 @@ High-risk travellers include those visiting or working in prisons, refugee camps
 
 ### Medical services and facilities
 
-Heath care is inadequate.
+Health care is inadequate.
 
-Most medical staff don’t speak English or French. You may have to pay in advance, in cash, to obtain medical services.
+Most medical staff don't speak English or French. You may have to pay in advance, in cash, to obtain medical services.
 
 Medical evacuation can be very expensive and you may need it in case of serious illness or injury.
 

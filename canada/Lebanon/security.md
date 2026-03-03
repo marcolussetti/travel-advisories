@@ -4,32 +4,27 @@
 
 ### Ongoing hostilities in the Middle East
 
-There is ongoing military activity in the region. Missiles, drones and other projectiles could strike targets in Lebanon. On November 27, 2024, a ceasefire took effect between Israel and Lebanon. However, the security situation in Lebanon remains volatile and Israeli airstrikes continue to occur in:
+There is ongoing military activity in the region. Missiles, drones and other projectiles have struck targets in Lebanon. The security situation is volatile and airstrikes are occurring in:
 
 * southern Lebanon
 * Beirut's southern suburbs
 * the Beqaa Valley
 * Palestinian refugee camps
 
-Previous air strikes reached populated areas across Lebanon, including central Beirut. Our ability to provide consular services to Canadians during an active conflict is likely to be limited. If you are in Lebanon, prepare contingency plans that don’t rely on the Government of Canada’s assistance for evacuations or assisted departures. You should consider leaving while commercial options remain available.
+Previous air strikes reached populated areas across Lebanon, including central Beirut. Our ability to provide consular services to Canadians during an active conflict is limited, with priority given to the provision of essential services. Prepare contingency plans that don’t rely on the Government of Canada’s assistance for departure.
 
-You may need to stock up on food, water and medications in the event of emergency situations.
+You should leave while commercial options remain available.
 
-If you intend to travel to Lebanon despite the advisory in effect:
+You may need to stock up on food, water and medications in case the situation deteriorates.
 
-* consult local authorities and/or experienced local partners to seek their advice in the event of an attack
-* plan a secure route
-* monitor the security situation where you are travelling
-* consult your travel insurance policy
+You should:
 
-If you are already in Lebanon:
-
-* be prepared to shelter in place if instructed to by local authorities
 * be vigilant and follow the instructions of local authorities at all times, including any orders to shelter in place
-* expect a heightened security presence
-* carry identification documents at all times
-* make sure your passport and [travel documents](https://www.canada.ca/en/immigration-refugees-citizenship/services/lebanon-2023.html) are up-to-date, including those of your family
-* register and update your contact information through the [Registration of Canadians Abroad](https://travel.gc.ca/travelling/registration) service and encourage other Canadian citizens in Lebanon to do so
+* ensure that your travel documents and those of your family are up to date
+* monitor local and international media to stay informed of the rapidly evolving situation
+* sign up with the [Registration of Canadians Abroad](https://travel.gc.ca/travelling/registration) service to receive important information about the ongoing situation and any available travel option
+
+[Canada's response to the situation in the Middle East](https://www.international.gc.ca/world-monde/issues_development-enjeux_developpement/response_conflict-reponse_conflits/crisis-crises/middle-east-moyen-orient.aspx?lang=eng)
 
 ### 2SLGBTQI+ persons
 

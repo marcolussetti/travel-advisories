@@ -20,6 +20,6 @@ The features in this map do not constitute an authoritative source of geographic
 
 [Avoid all travel](#levels "Risk Levels") to the United Arab Emirates due to the ongoing military activities.
 
-Follow the instructions of local authorities, including orders to shelter in place or to evacuate. The security situation can deteriorate rapidly.
+Make sure your travel documents and those of your spouse and children are up to date and secure at all times.
 
-Emirati airspace is closed. Make sure your travel documents and those of your spouse and children are up to date and secure at all times.
+You should leave the United Arab Emirates by commercial flight as soon as you can secure an option.

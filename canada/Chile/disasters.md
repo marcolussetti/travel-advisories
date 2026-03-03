@@ -2,27 +2,6 @@
 
 ## Natural disasters and climate
 
-### Wildfires in central Chile
-
-Wildfires are burning in central Chile. Evacuation orders, curfews and warnings are in effect for multiple regions, including:
-
-* Ñuble
-* Biobío
-* La Araucanía
-* O’Higgins
-
-Road closures and poor visibility due to smoke are affecting travel. Air quality is significantly degraded in fire-affected zones.
-
-Stay away from impacted regions. If you are near a wildfire:
-
-* follow the instructions of local emergency services personnel, including evacuation orders
-* monitor local media for up-to-date information on the situation
-
-#### Useful links
-
-* [Latest updates (including curfew information)](https://web.senapred.cl/eventos/) – National Disaster and Prevention Response Service (SENAPRED) (in Spanish only)
-* [More information on wildfires](#wildfires)
-
 Chile is subject to various natural disasters such as:
 
 * volcanic eruptions
@@ -112,7 +91,7 @@ If you plan to travel near the coast:
 
 ### Wildfires
 
-Bush and forest fires are common during the summer months, from December to March. They can happen anywhere, but they usually occur between Santiago and Valparaíso, and in Magallanes.
+Bush and forest fires are common during the summer months, from December to March. They can happen anywhere, but they usually occur from the Valparaíso to the Araucanía regions.
 
 Heavy smoke may deteriorate the air quality in areas near active fires.
 

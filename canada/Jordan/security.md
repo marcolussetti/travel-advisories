@@ -12,11 +12,7 @@ There is ongoing military activity in the region. Missiles, drones and other pro
 
 Avoid the vicinity of military installations.
 
-There could be disruptions to movement and transportation, including:
-
-* border closures or restrictions
-* flight cancellations
-* airspace closures
+Jordanian airspace is subject to a temporary and partial closure, impacting all flights arriving and departing between 6 pm and 9 am, until further notice. Verify with your airline before you travel to the airport.
 
 You should:
 

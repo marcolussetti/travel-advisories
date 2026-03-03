@@ -2,6 +2,28 @@
 
 ## Safety and security
 
+### State of emergency
+
+A state of emergency is in effect in the provinces of Lima and Callao to curb a rise in violent crime.
+
+The Peruvian government frequently declares regional states of emergency and publishes the information in *El Peruano*. A state of emergency allows the military to assist police forces to respond to security incidents and natural disasters. When a state of emergency is in effect, security forces have increased rights to:
+
+* restrict freedom of movement
+* monitor correspondence
+* conduct search and seizures
+* detain persons of interest
+
+If you are in Peru during a state of emergency:
+
+* monitor local media for the latest information
+* follow the instructions of local authorities
+* avoid crowds
+
+#### Useful links
+
+* [El Peruano](https://www.elperuano.pe/) – Official newspaper (Spanish only)
+* [Official tourist information](http://www.peru.travel/en/useful-data/iperu) – Tourist Information and Assistance‎
+
 ### Valley of the Apurímac, Ene and Mantaro rivers (VRAEM)
 
 #### Drug trafficking
@@ -105,26 +127,6 @@ Express kidnappings involving tourists have occurred. Victims are usually abduct
 * Never leave your cellphone unattended
 * Be cautious when using cellphones and smart devices in public as they are often targeted by thieves, especially while people are using them
 * Ensure your phone is password protected
-
-### State of emergency
-
-The Peruvian government frequently declares regional states of emergency and publishes the information in *El Peruano*. A state of emergency allows the military to assist police forces to respond to security incidents and natural disasters. When a state of emergency is in effect, security forces have increased rights to:
-
-* restrict freedom of movement
-* monitor correspondence
-* conduct search and seizures
-* detain persons of interest
-
-If you are in Peru during a state of emergency:
-
-* monitor local media for the latest information
-* follow the instructions of local authorities
-* avoid crowds
-
-#### Useful links
-
-* [El Peruano](https://www.elperuano.pe/) – Official newspaper (Spanish only)
-* [Official tourist information](http://www.peru.travel/en/useful-data/iperu) – Tourist Information and Assistance‎
 
 ### Demonstrations
 

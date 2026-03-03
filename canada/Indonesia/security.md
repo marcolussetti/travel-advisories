@@ -2,18 +2,19 @@
 
 ## Safety and security
 
-### Demonstrations in Jakarta
+### Balinese New Year
 
-Significant demonstrations have been occurring in Jakarta since August 25, 2025. Violent incidents have occurred. Police have responded with tear gas and water cannons to disperse crowds.
+Balinese New Year (Nyepi), also known as the "Bali Day of Silence," will take place on March 19, 2026. Bali Island comes to a standstill for 24 hours. Lights, music and noise are prohibited. Transport is halted and everyone must stay home.
 
-If you are in Jakarta:
+Ngurah Rai International Airport in Bali will suspend operations from 6 am March 19 to 6 am March 20, 2026. Passengers who are in transit will be required to stay inside the airport. Harbours and businesses in Bali will also be closed.
 
-* stay away from demonstrations
-* expect road closures
-* follow the instructions of local authorities
-* monitor local media for information on ongoing demonstrations
+Prepare ahead to have adequate food and water supplies, as hotels may not offer food service during Balinese New Year.
 
-[Demonstrations](#demonstrations)
+During this period, you must:
+
+* observe 24 hours of silence
+* stay indoors and avoid overland travel
+* turn off all lights
 
 ### Indonesian Papua
 

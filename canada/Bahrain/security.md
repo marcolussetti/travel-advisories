@@ -8,13 +8,9 @@ There is ongoing military activity in the region. Missiles, drones and other pro
 
 Avoid the vicinity of military installations and critical infrastructure.
 
-Our ability to provide consular services to Canadians during an active conflict is limited, with priority given to the provision of essential services. Prepare contingency plans that don’t rely on the Government of Canada’s assistance for departure.
+Our ability to provide consular services to Canadians during an active conflict is limited, with priority given to the provision of essential services. Prepare contingency plans that don't rely on the Government of Canada's assistance for departure.
 
-Bahraini airspace is closed until further notice.
-
-Sheltering in place may be your safest option, but if you wish to leave Bahrain via a land border crossing and believe you can do safely, the King Fahd Causeway border crossing to Saudi Arabia is open. You should verify the status of the border crossing before you travel.
-
-You must have valid travel documents. Make sure you meet the [entry requirements](http://www.travel.gc.ca/destinations/saudi-arabia) of Saudi Arabia before you travel to the border.
+Bahraini airspace is closed until further notice. The King Fahd Causeway to Saudi Arabia may experience intermittent closures. You should verify the status of the border crossing before you travel. Sheltering in place may be your safest option.
 
 You should:
 
