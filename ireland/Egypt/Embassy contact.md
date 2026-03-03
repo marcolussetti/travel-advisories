@@ -1,10 +1,6 @@
 ## Embassy contact
 
-Irish citizens in need of emergency assistance outside of normal office hours, can contact us on the following emergency number: +20 1274443942.
-
-Monday to Friday 09:30-12:30
-
-### Embassy of Ireland, Egypt
+### Embassy of Ireland, Cairo
 
 18 Hassan Sabry Street   
 11561 Zamalek   
@@ -13,11 +9,15 @@ Egypt
 
 [Tel: +2 272 87100](tel:+2272 87100)
 
+[**Embassy Website**](/en/egypt/cairo/)
+
+In the case of emergencies, please call the Embassy main phone number [+202 272 87100](tel:+20227287100) and leave a message on the Out of Hours mailbox.  This mailbox is monitored regularly.
+
 ### Honorary Consul of Ireland, Alexandria
 
 Hisham G Helmy   
-30 Behind Partice Lumumba Street   
-El-Shalalat - Bab Sharky   
+30 Behind Partice Lumumba Street,   
+El-Shalalat - Bab Sharky,   
 Alexandria   
 Egypt
 

@@ -12,7 +12,7 @@ If you are in need of emergency assistance, please contact the Embassy of Irelan
 
 ### **Terrorism**
 
-The US Department of Homeland Security (DHS) provides public information about credible threats. For all current alerts within the USA and its territories, visit the [**DHS website**](https://www.dhs.gov/national-terrorism-advisory-system). You should expect stringent security checks at airports, transport stations and other public buildings.
+The US Department of Homeland Security (DHS) provides public information about credible threats. You should expect stringent security checks at airports, transport stations and other public buildings.
 
 ### **Crime**
 

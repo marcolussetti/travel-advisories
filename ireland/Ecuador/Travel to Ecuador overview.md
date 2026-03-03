@@ -25,11 +25,23 @@ Travellers to Ecuador arriving from Brazil, Uganda, or the Democratic Republic o
 
 The yellow fever vaccine must have been administered at least 10 days before entering Ecuador. The certificate may be requested when boarding by means of air, land, or sea transport to Ecuador.
 
-### **State of Emergency**
+#### **Heavy Rainfall**
 
-A state of emergency was renewed on 31 December 2025 for 60 days owing to ongoing internal unrest and armed violence. The current state of emergency applies to the following provinces:
+On 27 February 2026, a State of Emergency of 90 days was declared in the following regions owing to heavy rainfall:
 
 * Guayas
+* Santa Elena
+* Manabí
+* Esmeraldas
+* Chimborazo
+* El Oro
+* Los Ríos
+* Loja
+
+### **State of Emergency**
+
+A state of emergency was renewed on 28 February 2026 for 30 days owing to ongoing internal unrest and armed violence. The current state of emergency applies to the following provinces:
+
 * El Oro
 * Manabí
 * Los Ríos

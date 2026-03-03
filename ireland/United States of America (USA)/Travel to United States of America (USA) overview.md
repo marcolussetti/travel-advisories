@@ -6,7 +6,7 @@ Normal Precautions
 
 ### **Travel Alert**
 
-Irish citizens should exercise caution in the Minneapolis-St Paul area, where tensions are high following recent ICE activities. Citizens should follow the advice of local authorities and exercise caution. Visitors to the USA should follow the guidance of national and local authorities and stay fully informed of what is going on by monitoring local news and the social media accounts of the Embassy of Ireland and of the closest Consulate General of Ireland.
+Current events in the Middle East could heighten the threat of terrorist attacks in the US. Irish citizens should exercise extra vigilance and caution in public spaces. Citizens should keep up to date with local media reports and follow the advice of local authorities. In an emergency citizens should dial 911.
 
 ### **General Travel Advice**
 
@@ -40,4 +40,5 @@ You can contact the emergency services in US by dialling 911 Specific emergency 
 * [**Register**](https://www.ireland.ie/en/dfa/overseas-travel/citizens-registration/) your details with us so that we can contact you quickly if there’s an unforeseen crisis like a natural disaster or a family emergency.
 * Follow us on X [**@dfatravelwise**](https://www.x.com/DFATravelWise) and Instagram [**@dfatravelwise**](https://www.instagram.com/dfatravelwise/) for the latest travel updates.
 * Read our [**‘Know Before You Go’**](https://www.ireland.ie/en/dfa/overseas-travel/know-before-you-go/) guide.
-* Read our [**Consular Assistance Charter**](https://www.ireland.ie/en/dfa/overseas-travel/assistance-abroad/consular-assistance-charter/) that clearly sets out the assistance that can be provided to citizens in difficulty overseas, and the limits of what the Department can do.
+
+Read our [**Consular Assistance Charter**](https://www.ireland.ie/en/dfa/overseas-travel/assistance-abroad/consular-assistance-charter/) that clearly sets out the assistance that can be provided to citizens in difficulty overseas, and the limits of what the Department can do.
