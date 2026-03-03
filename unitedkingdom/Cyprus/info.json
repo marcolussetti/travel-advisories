@@ -1,11 +1,11 @@
 {
     "name": "Cyprus",
-    "update_reason": "\u201cInformation on a suspected drone impact at RAF Akrotiri (\u2018Warnings and insurance\u2019 page).\u201d",
+    "update_reason": "Updated information about regional risks ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Cyprus/Warnings and insurance.md",
-            "update_date": "2026-03-02T03:54:04+00:00"
+            "update_date": "2026-03-02T23:53:26+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Cyprus/Getting help.md"
         }
     ],
-    "update_date": "2026-03-02T03:54:04+00:00"
+    "update_date": "2026-03-02T23:53:26+00:00"
 }

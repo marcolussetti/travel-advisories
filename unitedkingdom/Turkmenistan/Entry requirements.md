@@ -6,9 +6,11 @@ The authorities in Turkmenistan set and enforce entry rules. If you’re not sur
 
 ## Entering Turkmenistan across the land border from Iran
 
-If you are a British national wanting to enter Turkmenistan from Iran, you will need special authorisation from the Government of Turkmenistan. This can be facilitated by the British Embassy in Ashgabat by [contacting the FCDO](https://www.contact.service.csd.fcdo.gov.uk/home) before you travel to the border, indicating whether you are contacting from Iran or from the UK on behalf of a relative.
+If you are a British national wanting to enter Turkmenistan from Iran, you will need special authorisation from the Government of Turkmenistan and confirmation of an onward flight.
 
-You will need to provide personal details (name, date of birth, passport information) of the person travelling and indicate which border crossing they intend to use . The authorisation process will likely take  about 48 hours but may be longer.   Normal visa fees may also be applied on arrival in Turkmenistan.
+Authorisation can be facilitated by the British Embassy in Ashgabat by [contacting the FCDO](https://www.contact.service.csd.fcdo.gov.uk/home) before you travel to the border, indicating whether you are contacting from Iran or from the UK on behalf of a relative.
+
+You will need to provide personal details (name, date of birth, passport information) of the person travelling and a copy of an onward flight reservation, and indicate which border crossing they intend to use. The authorisation process  will  likely  take  about  48 hours but may be longer.  Normal  visa fees of 70-100 US dollars will  be applied on arrival in Turkmenistan and must be paid in cash.
 
 Access to the internet and mobile phone networks is restricted in Turkmenistan. If you intend to leave Iran overland, you do so at your own risk. In Iran, holding a British passport or having perceived connections to the UK can be reason enough for the Iranian authorities to detain you.
 

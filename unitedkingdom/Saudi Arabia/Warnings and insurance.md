@@ -1,24 +1,18 @@
 # Warnings and insurance
 
 Still current at:
-:   1 March 2026
+:   3 March 2026
 
 Updated:
-:   28 February 2026
+:   3 March 2026
 
 Latest update:
-:   Addition of information that due to reported missile activity in the region, British nationals in Saudi Arabia should stay at home.
+:   Advice to stay inside (Warnings and insurance)
 
 ![](https://assets.publishing.service.gov.uk/media/681a1ee1fb59a222d4f17336/FCDO__TA__034_-_Saudi_Arabia_Travel_Advice_Ed3__WEB_.jpg)
 
 
 [Download a more detailed map (PDF, 1.02 MB)](https://assets.publishing.service.gov.uk/media/681a1ee2fb59a222d4f17337/FCDO__TA__034_-_Saudi_Arabia_Travel_Advice_Ed3.pdf)
-
-## Stay at Home
-
-Due to reports of missile activity in the region, we advise all British nationals to stay at home.
-
-Remain indoors in a secure location and follow instruction from the local authorities.
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
@@ -33,11 +27,15 @@ FCDO advises against:
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/saudi-arabia/regional-risks).
 
-## Regional risks
+## Stay inside
 
-There is a heightened risk of regional tension. Escalation could lead to travel disruption and other unanticipated impacts.
+Due to reports of missile and drone activity in the region, we advise British nationals to stay inside and exercise increased caution in Saudi Arabia. Where available, follow advice from local authorities on how to stay safe in your location as risks may vary across Saudi Arabia.
 
-British nationals should take sensible precautions, considering their own individual circumstances. These include:
+## Regional escalation
+
+Regional escalation poses significant security risks and has led to travel disruption.
+
+British nationals should:
 
 * read [If you’re affected by a crisis abroad - GOV.UK](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas). This includes guidance on “how to prepare for a crisis” with suggestions on what you might include in your emergency supplies and “what to do in a crisis”
 * follow advice from the local authorities and sign up to receive information and alerts

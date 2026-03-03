@@ -284,12 +284,8 @@ Several parts of India lie on highly active fault zones, including areas of the 
 
 The US Federal Emergency Management Agency website has advice about [what to do before, during and after an earthquake](http://www.ready.gov/earthquakes).
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/india/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/india/entry-requirements)
 
-[Next
-:
-Regional risks](/foreign-travel-advice/india/regional-risks)
+[Next:Regional risks](/foreign-travel-advice/india/regional-risks)
 
 [View a printable version of the whole guide](/foreign-travel-advice/india/print)

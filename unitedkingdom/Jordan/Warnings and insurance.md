@@ -1,18 +1,18 @@
 # Warnings and insurance
 
 Still current at:
-:   28 February 2026
+:   3 March 2026
 
 Updated:
-:   27 February 2026
+:   2 March 2026
 
 Latest update:
-:   Updated information about the risks of regional escalation (‘Warnings and insurance’ page).
+:   FCDO now advises against all but essential travel to Jordan. FCDO continues to advise against all travel to within 3km of the border with Syria. (‘Warnings and insurance’ page).
 
-![](https://assets.publishing.service.gov.uk/media/65bbcf944965c50010e8a3f1/FCDO__TA__087_-_Jordan_Travel_Advice_Ed2__WEB_.jpg)
+![](https://assets.publishing.service.gov.uk/media/69a5be6fa56a5482312c71a0/FCDO__TA__087_-_Jordan_Travel_Advice_Ed3__WEB_.jpg)
 
 
-[Download a more detailed map (PDF, 386 KB)](https://assets.publishing.service.gov.uk/media/65bbcf95cc6fd600145dbec4/FCDO__TA__087_-_Jordan_Travel_Advice_Ed2.pdf)
+[Download a more detailed map (PDF, 405 KB)](https://assets.publishing.service.gov.uk/media/69a58d0f46e50eda5c46b57b/FCDO__TA__087_-_Jordan_Travel_Advice_Ed3__1_.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
@@ -22,19 +22,23 @@ Your travel insurance could be invalidated if you travel against advice from the
 
 FCDO advises against all travel to within 3km of the border with Syria.
 
-## Regional risks
+FCDO advises against all but essential travel to all other areas of Jordan.
 
-There is a heightened risk of regional tension. Escalation could lead to travel disruption and other unanticipated impacts.
+## Regional escalation
 
-British nationals should take sensible precautions, considering their own individual circumstances. These include:
+Regional escalation poses significant security risks and has led to travel disruption.
+
+British nationals should:
 
 * read [If you’re affected by a crisis abroad - GOV.UK](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas). This includes guidance on “how to prepare for a crisis” with suggestions on what you might include in your emergency supplies and “what to do in a crisis”
 * follow advice from the local authorities
 * sign up to FCDO Travel Advice email alerts
 * monitor local and international media for the latest information
-* stay away from areas around security or military facilities
+* stay away from areas around security or military or US government facilities
 * keep your departure plans under review, and ensure your travel documents are up to date
-* if you are advised to take shelter, stay indoors or find the nearest safe building or designated shelter. An interior stairwell or a room with as few external walls or windows as possible may provide additional protection
+* when local sirens sound, follow local advice to stay indoors or find the nearest safe building or designated shelter. An interior stairwell or a room with as few external walls or windows as possible may provide additional protection
+* missiles travelling through Jordanian airspace have been intercepted, with debris falling in some urban areas.  Stay away from any debris. If anyone is injured, dial 911
+* the Jordanian authorities have announced a daily closure of airspace from 6pm until 9am local time until further notice. Contact your airline before you travel
 
 ## Before you travel
 

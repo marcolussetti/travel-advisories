@@ -1,11 +1,11 @@
 {
     "name": "India",
-    "update_reason": "Addition of information that when returning to the UK, British citizens must carry a valid British passport or certificate of entitlement ('Entry requirements' page).",
+    "update_reason": "New information about travel disruption ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/India/Warnings and insurance.md",
-            "update_date": "2025-12-10T13:13:00+00:00"
+            "update_date": "2026-03-02T17:45:53+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/India/Getting help.md"
         }
     ],
-    "update_date": "2025-12-10T13:13:00+00:00"
+    "update_date": "2026-03-02T17:45:53+00:00"
 }

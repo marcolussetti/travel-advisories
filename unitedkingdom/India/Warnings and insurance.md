@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   11 December 2025
+:   3 March 2026
 
 Updated:
-:   10 December 2025
+:   2 March 2026
 
 Latest update:
-:   Addition of information that when returning to the UK, British citizens must carry a valid British passport or certificate of entitlement ('Entry requirements' page).
+:   New information about travel disruption ('Warnings and insurance' page).
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
@@ -29,6 +29,17 @@ FCDO advises against all travel to the Union Territory of Jammu and Kashmir (inc
 FCDO advises against all but essential travel to the state of Manipur including the capital, Imphal. Curfews and restrictions continue in parts of Manipur following violent ethnic clashes that broke out in 2023. Intermittent violence continues, including during May to July 2025.
 
 Find out more about [why FCDO advises against travel to these regions](/foreign-travel-advice/india/regional-risks).
+
+## Global travel impacts due to escalation in the Middle East
+
+Escalation in the Middle East has caused widespread travel disruption, including airspace closures, delayed and cancelled flights.
+
+Your travel plans may be affected, even if your destination is not in the Middle East. British nationals should:
+
+* check for the latest updates from your airline or tour operator before travelling
+* review your travel insurance policy for coverage before you travel
+* monitor local and international media for the latest information and sign up for travel advice email alerts
+* If you have been impacted by travel disruption and need to review your Indian visa contact the nearest Foreigners Regional Registration Office (FRRO). See [Ministry of External Affairs](https://www.mea.gov.in/press-releases.htm?dtl/40836/Advisory)
 
 ## Before you travel
 
@@ -58,8 +69,6 @@ Follow FCDO:
 * [travel advice on Facebook](https://www.facebook.com/FCDOTravel/)
 * [Travel Aware on Instagram](https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Ftravelaware%2F&is_from_rle)
 
-[Next
-:
-Entry requirements](/foreign-travel-advice/india/entry-requirements)
+[Next:Entry requirements](/foreign-travel-advice/india/entry-requirements)
 
 [View a printable version of the whole guide](/foreign-travel-advice/india/print)

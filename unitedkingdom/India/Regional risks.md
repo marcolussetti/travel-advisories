@@ -66,12 +66,8 @@ There have been some serious incidents involving British nationals in recent yea
 
 It is illegal to drink alcohol in public places in Goa. If you drink alcohol outside the limits of a licensed premises, you could be fined or given a prison sentence. You can drink within the limits of a registered beach shack or bar, for example, but not on an open beach or road.
 
-[Previous
-:
-Safety and security](/foreign-travel-advice/india/safety-and-security)
+[Previous:Safety and security](/foreign-travel-advice/india/safety-and-security)
 
-[Next
-:
-Health](/foreign-travel-advice/india/health)
+[Next:Health](/foreign-travel-advice/india/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/india/print)

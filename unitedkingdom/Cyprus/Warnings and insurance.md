@@ -1,28 +1,29 @@
 # Warnings and insurance
 
 Still current at:
-:   2 March 2026
+:   3 March 2026
 
 Updated:
 :   2 March 2026
 
 Latest update:
-:   “Information on a suspected drone impact at RAF Akrotiri (‘Warnings and insurance’ page).”
+:   Updated information about regional risks ('Warnings and insurance' page).
 
 ## Suspected drone impact at RAF Akrotiri
 
 On 2 March 2026, the Sovereign Base Areas Administration confirmed a suspected drone impact at RAF Akrotiri.  British nationals in the Sovereign Base Areas should follow instructions from the Sovereign Base Areas Administration [British Bases Cyprus Facebook](https://www.facebook.com/BritishBasesCyprus/?locale=en_GB)  British nationals in the Republic of Cyprus should follow any instructions from Cypriot local authorities.
 
-## Regional risks
+## Regional escalation
 
-There is a heightened risk of regional tension. Escalation could lead to travel disruption and other unanticipated impacts.
+Regional escalation poses significant security risks and has led to travel disruption.
 
-British nationals should take sensible precautions, considering their own individual circumstances. These include:
+British nationals should:
 
-* read [If you’re affected by a crisis abroad - GOV.UK](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas). This includes guidance on “how to prepare for a crisis” with suggestions on what you might include in your emergency supplies and “what to do in a crisis”
-* sign up to FCDO Travel Advice email alerts
+* read [If you’re affected by a crisis abroad - GOV.UK](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas). This includes guidance on “how to prepare for a crisis” with suggestions on what you might include in your emergency supplies and “what to do in a crisis”
+* sign up to FCDO Travel Advice email alerts
 * monitor local and international media for the latest information
 * sign up to local information alerts/resources and follow the instructions of the local authorities
+* keep your departure plans under review, and ensure your travel documents are up to date
 
 ## Before you travel
 

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   2 March 2026
+:   3 March 2026
 
 Updated:
-:   1 March 2026
+:   2 March 2026
 
 Latest update:
-:   New information about entering Turkmenistan across the land border from Iran (‘Entry requirements’ page)
+:   Updated information about entering Turkmenistan across the land border from Iran (‘Entry requirements’ page)
 
 ## Before you travel
 

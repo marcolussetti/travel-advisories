@@ -116,12 +116,8 @@ You need to apply for permits 3 months before your arrival. You can submit your 
 * in the UK, the [High Commission of India in London](https://www.hcilondon.gov.in/) or [another Indian consulate](https://www.hcilondon.gov.in/page/consular-jurisdiction/)
 * in India, the liaison office of the state for which you need a permit or the [Foreigners Regional Registration Office (FRRO)](https://indianfrro.gov.in/efrro/home)
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/india)
+[Previous:Warnings and insurance](/foreign-travel-advice/india)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/india/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/india/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/india/print)
