@@ -4,6 +4,17 @@
 
 High Degree of Caution
 
+### **Travel Alert**
+
+There is significant disruption to travel across the Middle East and Gulf regions, including airspace closures, delayed and cancelled flights.
+
+Irish citizens are advised to:
+
+* Check for the latest updates from your airline or travel agent before travelling.
+* Monitor local and international news, airline communications and airport announcements closely.
+* Check if their Indian visa will need to be extended, and if so, contact the nearest [**Foreigners Regional Registration Office (FRRO)**](https://www.mea.gov.in/press-releases.htm?dtl/40836/Advisory).
+* Register their details and those of their dependents [**here**](https://www.ireland.ie/en/dfa/overseas-travel/citizens-registration/).
+
 ### **General Travel Advice**
 
 Irish citizens require a visa to travel to India unless you are an Overseas Citizen of India (OCI) cardholder. If you arrive in India without a visa, you will be refused entry and will likely be detained in police custody and deported. If you over-stay your visa, you will be fined and may be prosecuted or detained and later deported. If you over-stay your visa or if you lose your passport, you will have to obtain an [**exit visa**](https://indianfrro.gov.in/eservices/home.jsp) from the Indian government before you can leave India. This must be done [**online**](https://indianfrro.gov.in/eservices/home.jsp) and can take a considerable amount of time even for straightforward applications. Make sure to factor this into your timeframe to leave India if you are booking flights.

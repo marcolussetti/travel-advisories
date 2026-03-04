@@ -4,6 +4,16 @@
 
 High Degree of Caution
 
+### **Travel Alert**
+
+There is significant disruption to travel across the Middle East and Gulf regions, including airspace closures, delayed and cancelled flights. The Government of Maldives have announced that tourist visas will be extended for foreign visitors unable to leave the country due to flight cancellations linked to the ongoing crisis in the Middle East.
+
+Irish citizens are advised to:
+
+* Check for the latest updates from your airline or travel agent before travelling.
+* Monitor local and international news, airline communications and airport announcements closely.
+* Register their details and those of their dependents [**here**](https://www.ireland.ie/en/dfa/overseas-travel/citizens-registration/).
+
 ### **General Travel Advice**
 
 Irish citizens require a visa to enter Maldives and most travellers avail of the visa on arrival service.

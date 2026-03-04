@@ -6,9 +6,18 @@ High Degree of Caution
 
 ### **Travel Alert**
 
-Following the general election on 29 October, there were several days of country-wide unrest and violent outbreaks leading to fatalities and injuries.
+Due to the evolving situation in the Middle East, significant flight disruptions are currently being experienced. Several international airlines have suspended or cancelled their flights.
 
-The current situation is calm but unpredictable. Irish citizens are advised to stay alert to their surroundings, avoid any large crowds, rallies or demonstrations, and follow local and social media for any updates.
+Irish Citizens should anticipate delays, possible rerouting of flights and cancellations.
+
+Irish Citizens are advised to:
+
+* Contact their airline or travel agent directly for rebooking or rerouting their travel.
+* Regularly monitor the airline’s websites and official travel updates.
+* Ensure they have valid visas and sufficient funds in case of extended stays.
+* Keep copies of flight cancellation notices and travel documents.
+
+The Embassy is closely monitoring the situation and remains available to provide consular assistance to Irish citizens affected by these disruptions.
 
 If you are an Irish citizen in need of consular assistance, you can call the Embassy Duty Officer 24/7 on +255 754 783 455
 
