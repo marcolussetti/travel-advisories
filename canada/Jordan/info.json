@@ -1,7 +1,7 @@
 {
     "name": "Jordan",
-    "update_reason": "Safety and security \u2013 updated information on airspace partial closure",
-    "update_date": "2026-03-02T12:20:00",
+    "update_reason": "Safety and security \u2013 updated information on airspace status",
+    "update_date": "2026-03-03T17:23:00",
     "sections": {
         "risk": "canada/Jordan/risk.md",
         "security": "canada/Jordan/security.md",

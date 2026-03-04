@@ -4,7 +4,7 @@
 
 ### State of prevention
 
-A nationwide state of prevention is in effect until March 3, 2026. During this period, security forces have the authority to:
+A nationwide state of prevention is in effect until March 17, 2026. During this period, security forces have the authority to:
 
 * limit demonstrations and public and private gatherings
 * establish roadblocks and checkpoints

@@ -20,17 +20,13 @@ The features in this map do not constitute an authoritative source of geographic
 
 [Avoid all travel](#levels "Risk Levels") to Israel due to the ongoing military activities.
 
-Follow the instructions of local authorities, including orders to shelter in place or to evacuate. The security situation can deteriorate rapidly.
-
-Israeli airspace is closed. Make sure your travel documents and those of your spouse and children are up to date and secure at all times.
+You should shelter in place until commercial flights resume. At that point, if you assess that travelling to the airport is safe, you should leave at the earliest opportunity.
 
 ### PALESTINE - AVOID ALL TRAVEL
 
 [Avoid all travel](#levels "Risk Levels") to Palestine due to the ongoing military activities, the dire humanitarian conditions, the volatile and unpredictable security situation, and extensive damage to infrastructure in the Gaza Strip, and the volatile security situation in the West Bank.
 
 The security situation can deteriorate rapidly in both Israel and Palestine.
-
-Make sure your travel documents and those of your spouse and children are up to date and secure at all times.
 
 ### JERUSALEM - AVOID ALL TRAVEL
 

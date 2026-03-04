@@ -20,7 +20,7 @@ The features in this map do not constitute an authoritative source of geographic
 
 [Avoid non-essential travel](#levels "Risk Levels") to Saudi Arabia due to the risk of falling military debris from intercepted projectiles, airspace closure, and renewed regional tensions.
 
-Follow the instructions of local authorities, including orders to shelter in place or to evacuate. The security situation can deteriorate rapidly.
+You should shelter in place until the security situation improves.
 
 ### Border with Yemen - Avoid all travel
 

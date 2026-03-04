@@ -20,4 +20,4 @@ The features in this map do not constitute an authoritative source of geographic
 
 [Avoid all travel](#levels "Risk Levels") to Lebanon due to the ongoing military activities.
 
-The security situation could deteriorate further, and lead to additional airspace restrictions and flight disruptions. You should leave while commercial options remain available.
+The security situation could deteriorate further, and lead to additional airspace restrictions and flight disruptions. Commercial flights are operating. You should leave while these options remain available.

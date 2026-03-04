@@ -6,13 +6,13 @@
 
 Drones, missiles and other projectiles could strike targets in Israel and Palestine. The security situation could deteriorate significantly without notice. A nationwide state of emergency is currently in effect in Israel.
 
-Avoid the vicinity of military installations and critical infrastructure.
+Avoid the vicinity of military installations, critical infrastructure and stay away from US government facilities.
 
 There could be disruptions to movement and transportation due to military debris falling in various locations.
 
 Ben Gurion International Airport is closed. All flights to and from Israel are cancelled until further notice.
 
-Land border crossings with Jordan and Egypt remain open but could be impacted at short notice. Sheltering in place may be your safest option, but if you wish to leave Israel via a land border crossing and believe you can do safety, the following options are available:
+Land border crossings with Jordan and Egypt remain open but could be impacted at short notice. You should shelter in place, but if you wish to leave Israel via a land border crossing and believe you can do safely, the following options:
 
 * Jordan :
 
@@ -28,6 +28,8 @@ For West Bank ID holders, the Allenby/King Hussein bridge near Jericho is the on
 
 + Menahem Begin/Taba, from southern Israel into the Sinai Peninsula (visa available on-arrival)
 
+The Israeli Ministry of Tourism is operating buses from Herzliya, Haifa, Jerusalem and Tel Aviv to the Menachim Begin border crossing between Eilat and Taba in Egypt. If you want to take advantage of this opportunity to leave, you must register via the Ministry’s evacuation [form](https://govforms.gov.il/mw/forms/touristsevacuationdata@tourism.gov.il?displang=en).
+
 Our ability to provide consular services to Canadians during an active conflict is likely to be limited. If you are in Israel or Palestine, prepare contingency plans that don't rely on the Government of Canada's assistance for evacuations or assisted departures.
 
 You should:
@@ -39,7 +41,7 @@ You should:
 * keep the local emergency services' contact information at hand
 * monitor local and international media to stay informed of the rapidly evolving situation
 * follow the instructions of local authorities at all times, including any orders to shelter in place
-* register or update your contact information with the [Registration of Canadians Abroad](https://travel.gc.ca/travelling/registration) service to receive additional important information specific to your location
+* sign up with the [Registration of Canadians Abroad](https://travel.gc.ca/travelling/registration) service to receive additional important information specific to your location
 
 ### Security situation in the Gaza Strip
 

@@ -2,9 +2,9 @@
 
 ## Natural disasters and climate
 
-### Puracé Volcano
+### Mud volcano eruption in Antioquia
 
-An orange alert has been issued for the Puracé volcano near Popayán due to a recent increase in volcanic activity.
+On February 25, 2026, a mud volcano erupted near Urabá region in Antioquia Department. Local authorities evacuated residents of nearby villages.
 
 * Do not approach the volcano
 * Monitor the situation through official bulletins

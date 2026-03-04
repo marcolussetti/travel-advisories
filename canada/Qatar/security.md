@@ -6,13 +6,13 @@
 
 There is ongoing military activity in the region. Missiles, drones and other projectiles could strike targets at any time. The security situation could deteriorate significantly without notice.
 
-Avoid the vicinity of military installations and critical infrastructure.
+Avoid the vicinity of military installations, critical infrastructure and stay away from US government facilities.
 
 Our ability to provide consular services to Canadians during an active conflict is limited, with priority given to the provision of essential services. Prepare contingency plans that don’t rely on the Government of Canada’s assistance for departure.
 
 Qatari airspace is closed until further notice.
 
-Sheltering in place may be your safest option, but if you wish to leave Qatar via a land border crossing and believe you can do safely, the Abu Samra/Salwa border crossing to Saudi Arabia is open. You should verify the status of the border crossing before you travel.
+You should shelter in place, but if you wish to leave Qatar via a land border crossing and assess that you can do safely, the Abu Samra/Salwa border crossing to Saudi Arabia is open. You should verify the status of the border crossing before you travel.
 
 You must have valid travel documents. Make sure you meet the [entry requirements](http://www.travel.gc.ca/destinations/saudi-arabia) of Saudi Arabia before you travel to the border.
 

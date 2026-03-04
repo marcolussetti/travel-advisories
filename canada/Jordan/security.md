@@ -10,17 +10,18 @@ Verify the status of border crossings ahead of time.
 
 There is ongoing military activity in the region. Missiles, drones and other projectiles could strike targets in the region. The security situation could deteriorate significantly without notice.
 
-Avoid the vicinity of military installations.
+Avoid the vicinity of military installations, critical infrastructure and stay away from US government facilities.
 
-Jordanian airspace is subject to a temporary and partial closure, impacting all flights arriving and departing between 6 pm and 9 am, until further notice. Verify with your airline before you travel to the airport.
+Jordanian airspace is currently open, but it may close on short notice and flights could be disrupted. Verify with your airline before you travel to the airport.
 
 You should:
 
-* be prepared to shelter in place if instructed to by local authorities
 * be vigilant and follow the instructions of local authorities at all times, including any orders to shelter in place
-* sign up with the [Registration of Canadians Abroad](https://travel.gc.ca/travelling/registration) service to receive important information about the crisis
 * ensure that your travel documents and those of your family are up to date
 * monitor local and international media to stay informed of the rapidly evolving situation
+* sign up with the [Registration of Canadians Abroad](https://travel.gc.ca/travelling/registration) service to receive important information about the ongoing situation and any available travel options.
+
+[Canada's response to the situation in the Middle East](https://www.international.gc.ca/world-monde/issues_development-enjeux_developpement/response_conflict-reponse_conflits/crisis-crises/middle-east-moyen-orient.aspx?lang=eng)
 
 ### Areas within 5 km of the borders with Iraq and Syria, except the tourist site Umm Qais
 

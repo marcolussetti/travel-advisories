@@ -6,31 +6,24 @@
 
 There is ongoing military activity in the region. Missiles, drones and other projectiles could strike targets at any time. The security situation could deteriorate significantly without notice.
 
-Avoid the vicinity of military installations and critical infrastructure.
+Avoid the vicinity of military installations, critical infrastructure and stay away from US government facilities.
 
 Our ability to provide consular services to Canadians during an active conflict is limited, with priority given to the provision of essential services. Prepare contingency plans that don’t rely on the Government of Canada’s assistance for departure.
 
-Emirati airspace is subject to intermittent, temporary and partial closures. Many flights have been cancelled, but some flights could resume on March 2, 2026.
+Emirati airspace is subject to intermittent, temporary and partial closures. Many flights have been cancelled.
 
 * Monitor flight availability and leave when commercial options are available
 * Verify with your airline before you travel to the airport
 
-Sheltering in place may be your safest option, but if you wish to leave the United Arab Emirates via a land border crossing and believe you can do safety, the following land border crossings are available:
+You should shelter in place, but if you wish to leave the United Arab Emirates via a land border crossing and assess that you can do safely, the following land border crossings to Oman are available:
 
-* to Saudi Arabia:
-
-+ Al Batha/Al Ghuwaifat
-
-* to Oman:
-
-+ Hatta/Al Wajajah
-+ Khatma Malaha
-+ Sharjah/Fujairah
-+ Khatm Al Shikla (Al Ain)
+* Hatta/Al Wajajah
+* Khatma Malaha
+* Khatm Al Shikla (Al Ain)
 
 You should verify the status of the border crossing before you travel.
 
-You must have valid travel documents. Make sure you meet the [entry requirements](http://www.travel.gc.ca/destinations) of Saudi Arabia or Oman before you travel to the border.
+You must have valid travel documents. Make sure you meet the [entry requirements](http://www.travel.gc.ca/destinations) of Oman before you travel to the border.
 
 You should:
 

@@ -20,7 +20,7 @@ The features in this map do not constitute an authoritative source of geographic
 
 [Avoid non-essential travel](#levels "Risk Levels") to Oman due to the risk of falling military debris from intercepted projectiles, airspace closure, and renewed regional tensions.
 
-Follow the instructions of local authorities, including orders to shelter in place or to evacuate. The security situation can deteriorate rapidly.
+Shelter in place if instructed to by local authorities.
 
 ### Border with Yemen - Avoid non-essential travel
 

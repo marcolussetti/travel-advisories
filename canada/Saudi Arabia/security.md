@@ -6,7 +6,7 @@
 
 There is ongoing military activity in the region. Missiles, drones and other projectiles could strike targets at any time. The security situation could deteriorate significantly without notice.
 
-Avoid the vicinity of military installations and critical infrastructure.
+Avoid the vicinity of military installations, critical infrastructure and stay away from US government facilities.
 
 Our ability to provide consular services to Canadians during an active conflict is limited, with priority given to the provision of essential services. Prepare contingency plans that don’t rely on the Government of Canada’s assistance for departure.
 

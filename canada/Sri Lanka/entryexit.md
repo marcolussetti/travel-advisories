@@ -55,6 +55,20 @@ If you plan to visit Sri Lanka for medical treatment exceeding 30 days or for in
 
 Visas and ETAs may be extended at the Department of Immigration and Emigration in Colombo.
 
+As of February 28, 2026, Sri Lankan authorities are granting a free 14-day visa extension for stranded foreign nationals following the cancellation of all Middle East-bound flights.
+
+You may be able to extend your visa at the immigration office at the airport when you leave the country.
+
+Visa extensions are not guaranteed and are reviewed on a case by case basis. You must bring proof that you were unable to depart because your flight was cancelled.
+
+Acceptable proof includes:
+
+* boarding passes
+* airline cancellation notices
+* written confirmation from the airline
+
+The 14-day extension begins from the expiry date of your current visa.
+
 You cannot convert a visa status once in Sri Lanka. Non-compliance with visa restrictions may result in deportation.
 
 You will also need to fill out an online arrival card. You can complete the online form 3 days before arriving in Sri Lanka.

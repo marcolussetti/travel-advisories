@@ -20,6 +20,4 @@ The features in this map do not constitute an authoritative source of geographic
 
 [Avoid all travel](#levels "Risk Levels") to the United Arab Emirates due to the ongoing military activities.
 
-Make sure your travel documents and those of your spouse and children are up to date and secure at all times.
-
-You should leave the United Arab Emirates by commercial flight as soon as you can secure an option.
+You should shelter in place until commercial flights resume. At that point, if you assess that travelling to the airport is safe, you should consider leaving the UAE at the earliest opportunity.
