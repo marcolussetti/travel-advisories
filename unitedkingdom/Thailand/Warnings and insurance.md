@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   10 February 2026
+:   4 March 2026
 
 Updated:
-:   9 February 2026
+:   4 March 2026
 
 Latest update:
-:   Updated information on the status of cannabis on Thailand (see ‘Cannabis’ on the ‘Safety and security’ page).
+:   Information on options for British nationals affected in Thailand, due to the escalation in the Middle East (Warnings and Insurance" page).
 
 ![](https://assets.publishing.service.gov.uk/media/6980b4383915f7123658010e/FCDO__TA__040_-_Thailand_Travel_Advice_Ed8__WEB_.jpg)
 
@@ -36,6 +36,17 @@ This is due to regular attacks in the provinces by the border with Malaysia. See
 FCDO advises against all but essential travel to within 20km of the land border with Cambodia.
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/thailand/safety-and-security#terrorism).
+
+## Global travel impacts due to escalation in the Middle East
+
+Escalation in the Middle East has caused widespread travel disruption, including airspace closures, delayed and cancelled flights.
+
+Your travel plans may be affected, even if your destination is not in the Middle East. British nationals should:
+
+* check for the latest updates from your airline or tour operator before travelling
+* review your travel insurance policy for coverage before you travel
+* monitor local and international media for the latest information and sign up for travel advice email alerts
+* If you have been impacted by travel disruption and need to review your Thai Visa, please follow the guidance published by the Thai Immigration Bureau: [Immigration Bureau Facebook](https://www.facebook.com/100068925981064/posts/1222102076763980/?mibextid=wwXIfr&rdid=eOHccV0J1ePRNu9N)
 
 ## Thailand-Cambodia border
 

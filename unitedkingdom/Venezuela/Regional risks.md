@@ -4,25 +4,42 @@ This section has safety advice for regions of Venezuela. It only covers regions 
 
 You should also read [FCDO’s overall travel advice](/foreign-travel-advice/venezuela) and [safety and security advice](/foreign-travel-advice/venezuela/safety-and-security).
 
-### Within 80km of the Venezuela-Colombia border
+## Venezuela’s borders
 
-FCDO advises against all travel to within 80km (50 miles) of the border with Colombia. Drug traffickers and illegal armed groups are active along the border area with Colombia and there is a risk of criminal kidnapping. Crossing the border from Colombia can be a lengthy process.
+Drug traffickers and illegal armed groups are active along the border areas with Colombia, Brazil and Guyana.
 
-### Zulia State
+Avoid crossing between Venezuela and Colombia by land.
 
-FCDO advises against all travel to Zulia State, which borders Colombia and is subject to prolonged power cuts, water shortages, violence and local conflict.
+Crossing the border from Brazil can be a lengthy process.
 
-### Within 40km of the Venezuela-Brazil border
+There is no official land border crossing between Venezuela and Guyana, which is covered by dense jungle. Avoid crossing between Venezuela and Guyana by land.
 
-FCDO advises against all travel to within 40km (25 miles) of the border with Brazil. Drug traffickers and illegal armed groups are active along the border area with Brazil and there is a risk of criminal kidnapping. Crossing the border from Brazil can be a lengthy process.
+## Bolívar
 
-Check the situation ahead of any travel to Canaima National Park and the Gran Sabana area of Bolívar State. Occasionally, protests by locals have led to the closure, sometimes for days, of Canaima airport. Main road closures may include parts of Road 10 between El Callao and the Venezuela-Brazil border.
+FCDO advises against all travel to the Orinoco Mining Arc (‘Arco Minero’) region to the south of the Orinoco river. This includes:
+
+* all of Cedeño Municipality
+* the northern part of Sucre Municipality, from the Orinoco river to 80km south of the Troncal 19 road
+* all of Heres Municpality
+* the northern part of Raul Leoni Municipality, north of the Rio Paragua
+* all of Piar Municipality
+* all of Roscio Municipality
+* all of El Callo Municipality
+* all of Sifontes Municipality
+
+Illegal armed groups are active in the ‘Arco Minero’ and involved in criminal activities, particularly in remote areas.
+
+## Delta Amacuro
+
+FCDO advises against all travel to the area to the south of the Orinoco river, where drug traffickers and illegal armed groups are active.
+
+## Zulia
+
+FCDO advises against all travel to Zulia state due to the presence of illegal armed groups and ongoing crime and violence.
 
 ### All other areas of Venezuela
 
-FCDO advises against all but essential travel to the remaining areas of Venezuela. Almost all states outside Caracas are experiencing increased crime and instability, including prolonged power cuts as well as water and fuel shortages and a general lack of essential services.
-
-During power cuts or in an unstable security situation, the British Embassy may be limited in the assistance that it can provide.
+Almost all states outside Caracas are experiencing issues, including criminality, prolonged power cuts, water and fuel shortages and a general lack of essential services.
 
 [Previous:Safety and security](/foreign-travel-advice/venezuela/safety-and-security)
 

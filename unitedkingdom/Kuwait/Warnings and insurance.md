@@ -1,43 +1,57 @@
 # Warnings and insurance
 
 Still current at:
-:   1 March 2026
+:   4 March 2026
 
 Updated:
-:   28 February 2026
+:   3 March 2026
 
 Latest update:
-:   The FCDO now advises against all but essential travel to Kuwait. Register your presence if you're in Kuwait (Warnings and insurance)
+:   Updated information about regional escalation and leaving Kuwait ('Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/69a36b0da4d26cb233cd47da/Kuwait_Travel_Advice_Ed1__WEB_.jpg)
 
 
 [Download a more detailed map (PDF, 324 KB)](https://assets.publishing.service.gov.uk/media/69a36b0df534e7e99adaeafa/Kuwait_Travel_Advice_Ed1.pdf)
 
+Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
+
+## FCDO advises against all but essential travel to Kuwait
+
+Find out more about [why FCDO advises against travel.](https://www.gov.uk/foreign-travel-advice/kuwait/safety-and-security)
+
 ## Register your presence
 
 Let the UK government know you’re in Kuwait, [register your presence](https://www.register.service.csd.fcdo.gov.uk/kuwait-20260227/tell-the-uk-government-youre-in-kuwait) if you’re in Kuwait for further updates.
 
+## Regional escalation
+
+Regional escalation poses significant security risks and has led to travel disruption.
+
+Stay away from areas around security or military facilities.
+
+Follow the instructions of the local authorities and monitor local and international media for the latest information.  Download [Sahel app](https://www.e.gov.kw/sites/kgoenglish/Pages/ApplicationPages/Application-Sahel.aspx) for more information.
+
+Read [If you’re affected by a crisis abroad - GOV.UK](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas) this includes suggestions on what you might include in your emergency supplies.
+
+Sign up to [FCDO Travel Advice email alerts](https://www.gov.uk/foreign-travel-advice/kuwait/email-signup)
+
 ## Shelter in place
 
-Due to reported missile attacks, British nationals in Kuwait should immediately shelter in place.
+Follow the instructions of the local authorities. If you are advised to take shelter, stay indoors or find the nearest safe building or designated shelter. An interior stairwell or a room with as few external walls or windows as possible may provide additional protection.
 
-Remain indoors in a secure location, avoid all travel and follow instructions from the local authorities.
+Sign up to receive information and alerts. Download [Sahel app](https://www.e.gov.kw/sites/kgoenglish/Pages/ApplicationPages/Application-Sahel.aspx) for more information
 
-## Regional risks
+## Leaving Kuwait
 
-There is a heightened risk of regional tension. Escalation could lead to travel disruption and other unanticipated impacts.
+If you judge it is safe to leave Kuwait the following land border crossings into Saudi Arabia are currently open as of 3 March:
 
-British nationals should take sensible precautions, considering their own individual circumstances. These include:
+* Al Salmi / Ar – Ruqi
+* Al Nuwaisib / Al -Khafji
 
-* read [If you’re affected by a crisis abroad - GOV.UK](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas). This includes guidance on “how to prepare for a crisis” with suggestions on what you might include in your emergency supplies and “what to do in a crisis”
-* follow advice from the local authorities and sign up to receive information and alerts
-* Download [Sahel app](https://www.e.gov.kw/sites/kgoenglish/Pages/ApplicationPages/Application-Sahel.aspx) for more information
-* sign up to FCDO Travel Advice email alerts
-* monitor local and international media for the latest information
-* stay away from areas around security or military facilities
-* keep your departure plans under review, and ensure your travel documents are up to date
-* if you are advised to take shelter, stay indoors or find the nearest safe building or designated shelter. An interior stairwell or a room with as few external walls or windows as possible may provide additional protection
+Read  [Travel Advice for  Saudi Arabia](https://www.gov.uk/foreign-travel-advice/saudi-arabia) and ensure you have the correct paperwork, or you may be denied entry. If travelling by car, the vehicle must be wholly owned and registered in your name.  .If you plan to use commercial options to depart check for the latest updates from your airline or tour operator, as well as the instructions of local authorities and the status of any border crossings before you travel. Make sure you have access to emergency supplies and essential medication. Travel within or out of Kuwait is at your own risk.
+
+Keep your departure plans under review and ensure your travel documents are up to date, including any visas required for onward travel.
 
 ## Before you travel
 

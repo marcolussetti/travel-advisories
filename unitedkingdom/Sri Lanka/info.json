@@ -1,11 +1,11 @@
 {
     "name": "Sri Lanka",
-    "update_reason": "New information about the Sri Lankan Electronic Travel Authorisation (ETA) (\u2018Entry requirements\u2019 page).",
+    "update_reason": "New information about travel disruption ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Sri Lanka/Warnings and insurance.md",
-            "update_date": "2026-02-19T15:00:19+00:00"
+            "update_date": "2026-03-03T11:09:48+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Sri Lanka/Getting help.md"
         }
     ],
-    "update_date": "2026-02-19T15:00:19+00:00"
+    "update_date": "2026-03-03T11:09:48+00:00"
 }

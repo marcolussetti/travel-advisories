@@ -63,7 +63,7 @@ You must declare any goods, including personal luggage, worth more than 1,000 US
 
 Declare cash or travellers cheques worth 10,000 US dollars or more when entering Venezuela. You must pay tax on the excess.
 
-Local banknotes are in short supply. Most people use card payments, bank transfers and US dollars instead. You may need to attempt debit or credit card transactions several times due to poor connectivity.
+Most local businesses accept payment in local currency, US dollars or by international card. Some card machines do not work with international cards.
 
 If you find your bank cards do not work, you can arrange for friends and family overseas to deposit funds through Western Union and pick up the deposited funds at any [Grupo Zoom](https://zoom.red/remesas/) branch.
 

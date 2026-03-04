@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   15 January 2026
+:   4 March 2026
 
 Updated:
-:   14 January 2026
+:   3 March 2026
 
 Latest update:
-:   There is a heightened risk of regional tension. Escalation could lead to travel disruption and other unanticipated impacts (‘Warnings and insurance’ page).
+:   Updated information about entering Egypt from Israel (Entry requirements page)
 
 ![](https://assets.publishing.service.gov.uk/media/670e278f30536cb92748313c/FCDO__TA__015_-_Egypt_Travel_Advice_Ed10__WEB_.jpg)
 

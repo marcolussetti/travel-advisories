@@ -1,6 +1,6 @@
 # Regional risks
 
-This travel advice covers Israel and the Palestine.
+This travel advice covers Israel and Palestine.
 
 This section has safety advice for regions of Israel and Palestine. It only covers regions where FCDO has specific advice.
 

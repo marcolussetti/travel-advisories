@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   3 March 2026
+:   4 March 2026
 
 Updated:
-:   2 March 2026
+:   4 March 2026
 
 Latest update:
-:   FCDO now advises against all but essential travel to Jordan. FCDO continues to advise against all travel to within 3km of the border with Syria. (‘Warnings and insurance’ page).
+:   Information about Jordanian airspace, which has been affected by the regional conflict. FCDO continues to advise against all but essential travel to Jordan, and all travel to within 3km of the border with Syria. (Warnings and insurance)
 
 ![](https://assets.publishing.service.gov.uk/media/69a5be6fa56a5482312c71a0/FCDO__TA__087_-_Jordan_Travel_Advice_Ed3__WEB_.jpg)
 
@@ -38,7 +38,7 @@ British nationals should:
 * keep your departure plans under review, and ensure your travel documents are up to date
 * when local sirens sound, follow local advice to stay indoors or find the nearest safe building or designated shelter. An interior stairwell or a room with as few external walls or windows as possible may provide additional protection
 * missiles travelling through Jordanian airspace have been intercepted, with debris falling in some urban areas.  Stay away from any debris. If anyone is injured, dial 911
-* the Jordanian authorities have announced a daily closure of airspace from 6pm until 9am local time until further notice. Contact your airline before you travel
+* Jordanian airspace has been affected by the regional conflict. The Jordanian authorities may announce closures of airspace with little notice. Contact your airline before you travel.
 
 ## Before you travel
 

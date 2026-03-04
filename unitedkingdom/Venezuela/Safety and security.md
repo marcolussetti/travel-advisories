@@ -14,31 +14,42 @@ Terrorist attacks in Venezuela cannot be ruled out.
 
 ## Political and economic situation
 
-The UK does not accept the legitimacy of the current administration put in place by Nicolás Maduro.
+The UK does not accept the legitimacy of the current administration in Venezuela.
 
-The situation in Venezuela is currently tense. Consular access and support to British nationals in Venezuela may be severely limited.  If you choose to travel to Venezuela, monitor developments closely through local and international media and keep up to date with this travel advice.
+The political and security situation in Venezuela remains uncertain. Consular access and support to British nationals in Venezuela may be severely limited. If you choose to travel to Venezuela, monitor developments closely through local and international media and keep up to date with this travel advice.
 
-There is currently a more visible security presence across the country, including with Venezuelan military deployments in Venezuela’s territorial waters and along its borders.
+There is currently a visible security presence in major cities, including Caracas. Members of the security services are unlikely to speak English.
+
+There are regular police and security checkpoints throughout the country. Drive slowly through these and stop if asked. There have been reports of attempts by the police and security services to extract bribes at check points, including for traffic offences.
 
 There are strict controls at border crossings, both via land and at airports. Some foreigners, including British nationals, have been questioned extensively on the reasons for their visit. This can involve being held at the airport for hours or days and can result in deportation. Whilst checks are being carried out you may not be allowed to contact relatives, friends nor the British Embassy.
 
-Some foreign nationals, including Europeans, have been detained and accused of terrorism in Venezuela. In some cases, the relevant embassy has not been able to support those detained. Support from FCDO to any British nationals who are detained may be severely limited.
+Some foreign nationals, including Europeans, have been detained and accused of terrorism in Venezuela. In some cases, the relevant embassy has not been able to support those detained. Support from FCDO to any British nationals who are detained may be severely limited.
+
+Public services – including healthcare and security, and the supply of electricity, water and fuel – can be limited, particularly outside of Caracas. Prolonged power cuts can affect living conditions and cut mobile networks and internet. Consider storing tinned food and water.
+
+Some flights have previously been delayed or cancelled at short notice. Keep in close contact with your airline or travel agent to see if your flight is affected.
+
+## Protests and demonstrations
 
 Demonstrations and gatherings can turn violent and could be dispersed by the use of force, including with the use of rubber bullets and tear gas. Avoid political rallies, demonstrations and crowds, and do not cross security-force lines or barricades.
 
-Public services including health care and security, and the supply of electricity, water and fuel, can be limited. Prolonged power cuts can affect living conditions and cut mobile networks and internet. There are sometimes shortages of some everyday essentials. Consider storing tinned food and water.
-
-Caracas International Airport can be affected during power failures, causing flights to be delayed or cancelled. Keep in close contact with your airline or travel agent to see if your flight is affected.
-
 ## Crime
 
-Venezuela has one of the highest murder rates in the world. Armed robbery, mugging, carjacking and burglary are all very common and often accompanied by extreme violence. Do not resist an attacker. Remain alert and avoid displaying electronics or valuables while on the street or in a vehicle.
-
-Private security services are becoming standard for business and official visitors and residents. Armoured vehicles are commonly used in Caracas, especially after dark and for transport to and from the airport.
-
-Avoid public transport. A number of robberies at gunpoint have taken place on the Caracas metro. There are regular reports of passengers being robbed on public buses.
+Armed robbery, mugging, carjacking and burglary are common in parts of Venezuela and can be accompanied by extreme violence. Do not resist an attacker. Remain alert and avoid displaying electronics or valuables while on the street or in a vehicle. Avoid public transport. A number of robberies, including at gunpoint, have taken place on public transport.
 
 Use pre-booked taxis only. Hotels will normally book a taxi from a reputable company or supply their own service.
+
+### Crime in rural areas
+
+In many rural areas, the authority of the Venezuelan state is limited, and the British Embassy’s ability to help British nationals in trouble in these areas will also be limited. Mobile and internet connection in rural areas is often limited.
+
+### Armed groups
+
+Illegal armed groups and criminal gangs are active in states along Venezuela’s borders and where illegal mining or drugs trafficking is common. The risk is particularly significant in:
+
+* Zulia, Tachira and Apure states
+* the Orinoco Mining Arc area of Amazonas, Bolívar and Delta Amacuro states, including the Orinoco River
 
 ## Laws and cultural differences
 
@@ -56,7 +67,7 @@ It is illegal to photograph military or strategic installations, including milit
 
 ### Networks and internet
 
-Internet service is generally slow as high speed connections are not widely available. Mobile network operators run modern 4G (LTE) networks in most major cities, while they also operate slower legacy 3G (WCDMA) networks for their nationwide voice and data services.
+Internet service is generally slow outside of major cities. Mobile network operators run modern 4G (LTE) networks in most major cities, while they also operate slower legacy 3G (WCDMA) networks for their nationwide voice and data services.
 
 Power cuts can affect mobile signals and internet across the whole country, including Caracas. Keep in contact with your airline or travel agent as flights can be delayed or cancelled when there are power cuts.
 
@@ -82,9 +93,9 @@ See [water safety on holiday](https://www.rlss.org.uk/safety-on-holiday) from th
 
 ### Travelling to and from Maiquetia Airport, Caracas
 
-Be especially vigilant around Maiquetia airport as this is a known hotspot for criminal activity, from low-level pickpocketing to armed robberies. You could be targeted at the arrival or departure terminals, at the airport’s car park and during travel to or from the airport. If you show signs of wealth this could lead to targeting by criminals.
+Be especially vigilant around Maiquetia airport due to the risk of criminal activity. Some travellers have previously been targeted at the arrival or departure terminals, at the airport’s car park and during travel to or from the airport. If you show signs of wealth this could lead to targeting by criminals.
 
-You are at most risk when travelling to and from the airport at night. There have been armed robberies on buses on this route. Ideally, arrange for friends, business contacts or your tour operator to meet you at the airport. If that’s not possible, consider travelling by licensed taxi from the official taxi rank outside the arrivals hall. Do not accept offers of transport in the arrivals hall and do not get into a taxi if there are passengers already in the car.
+You are at most risk when travelling to and from the airport at night. There have previously been armed robberies on buses on this route. Ideally, arrange for friends, business contacts or your tour operator to meet you at the airport. If that’s not possible, consider travelling by licensed taxi from the official taxi rank outside the arrivals hall. Do not accept offers of transport in the arrivals hall and do not get into a taxi if there are passengers already in the car.
 
 The National Guard carries out random drug and security checks at Maiquetia Airport, particularly on departure. Departing passengers are sometimes asked to accompany an officer to a local hospital for an X-ray. Beware of fake security officials. If you’re in any doubt ask other airline or airport staff.
 
@@ -96,9 +107,7 @@ You can use a UK photocard driving licence to drive in Venezuela for up to one y
 
 Heavy rains and lack of maintenance can affect road conditions. Get local advice about your route before you set out, leave plenty of time for your journey and keep to the main roads. Avoid travelling after dark. All vehicles must carry a spare tyre, wheel block, jack and reflector triangle.
 
-Fuel shortages are common across all parts of the country. You must pay a set amount of US dollars for the amount of fuel you need, rather than simply filling up the tank. Pay the correct price, as petrol stations do not usually give any change. You should check the local situation ahead of any travel.
-
-Take particular care to check the local situation ahead of any travel to Canaima National Park and the Gran Sabana area of Bolivar State. There have been reports of increased criminal activity along the main road ‘Troncal 10’, particularly between El Callao and the Brazilian border.
+Fuel shortages are common across all parts of the country outside Caracas. Not all petrol stations accept international cards so you may need to pay with local currency or US dollars. Pay the correct price, as petrol stations do not usually give any change. You should check the local situation ahead of any travel.
 
 There are regular police and National Guard checkpoints throughout the country. Drive slowly through these and stop if asked. There have been reports of attempts by the police and National Guard to extract bribes at check points, including for traffic offences.
 
@@ -113,6 +122,8 @@ Availability of flights to and from Venezuela remains limited. Stay in contact w
 The [UK Air Safety List (ASL)](https://www.gov.uk/guidance/uk-air-safety-list) lists all known airlines in Venezuela that do not meet international safety standards and are banned from operating commercial air services to and from the UK. Check the ASL when considering which airlines to fly with. The list is maintained by the Department for Transport, based on advice from the [UK Civil Aviation Authority](https://www.caa.co.uk/Commercial-Industry/Airlines/Licensing/Requirements-and-guidance/Third-Country-Operator-Certificates). The [UK Civil Aviation Authority](https://www.gov.uk/guidance/uk-air-safety-list).
 
 Check whether your tour operator has concerns about airlines in Venezuela.
+
+Some flights have previously been delayed or cancelled at short notice. Keep in close contact with your airline or travel agent to see if your flight is affected.
 
 ### Sea travel
 

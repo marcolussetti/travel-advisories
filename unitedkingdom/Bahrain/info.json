@@ -1,11 +1,11 @@
 {
     "name": "Bahrain",
-    "update_reason": "The FCDO now advises against all but essential travel to Bahrain.   Register your presence if you're in Bahrain (Warnings and insurance)",
+    "update_reason": "Updated information about regional escalation and leaving Bahrain ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Bahrain/Warnings and insurance.md",
-            "update_date": "2026-02-28T23:43:09+00:00"
+            "update_date": "2026-03-03T21:04:27+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Bahrain/Getting help.md"
         }
     ],
-    "update_date": "2026-02-28T23:43:09+00:00"
+    "update_date": "2026-03-03T21:04:27+00:00"
 }

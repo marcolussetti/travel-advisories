@@ -1,42 +1,50 @@
 # Warnings and insurance
 
 Still current at:
-:   1 March 2026
+:   4 March 2026
 
 Updated:
-:   28 February 2026
+:   3 March 2026
 
 Latest update:
-:   The FCDO now advises against all but essential travel to Qatar. Register your presence if you're in Qatar (Warnings and insurance).
+:   Updated information about regional escalation and leaving Qatar
 
 ![](https://assets.publishing.service.gov.uk/media/69a36c48286b6fdc85daeb04/Qatar_Travel_Advice_Ed2__WEB_.jpg)
 
 
 [Download a more detailed map (PDF, 615 KB)](https://assets.publishing.service.gov.uk/media/69a36c48286b6fdc85daeb05/Qatar_Travel_Advice_Ed2.pdf)
 
+Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
+
+## FCDO advices against all but essential travel to Qatar
+
+Find out more about [why FCDO advises against travel](https://www.gov.uk/foreign-travel-advice/qatar/safety-and-security).
+
 ## Register your presence
 
 Let the UK government know you’re in Qatar, [register your presence](https://www.register.service.csd.fcdo.gov.uk/qatar-20260228/tell-the-uk-government-youre-in-qatar) if you’re in Qatar for further updates.
 
+## Regional escalation
+
+Regional escalation poses significant security risks and has led to travel disruption.
+
+Stay away from areas around security or military facilities.
+
+Follow the instructions of the local authorities and monitor local and international media for the latest information.
+
+Read [If you’re affected by a crisis abroad - GOV.UK](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas) this includes suggestions on what you might include in your emergency supplies.
+
+Sign up to FCDO [Travel Advice email alerts](https://www.gov.uk/foreign-travel-advice/qatar/email-signup)
+
 ## Shelter in place
 
-Due to reported missile attacks, British nationals in Qatar should immediately shelter in place.
+Follow the instructions of the local authorities. If you are advised to take shelter, stay indoors or find the nearest safe building or designated shelter. An interior stairwell or a room with as few external walls or windows as possible may provide additional protection.
 
-Remain indoors in a secure location, avoid all travel and follow instructions from the local authorities.
+## Leaving Qatar
 
-## Regional risks
+If you judge it is safe to do so and plan to use commercial options to depart check for the latest updates from your airline or tour operator, as well as the instructions of local authorities and the status of any border crossings before you travel. Make sure you have access to emergency supplies and essential medication. Travel within or out of Qatar is at your own risk.
 
-There is a heightened risk of regional tension. Escalation could lead to travel disruption and other unanticipated impacts.
-
-British nationals should take sensible precautions, considering their own individual circumstances. These include:
-
-* read [If you’re affected by a crisis abroad - GOV.UK](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas). This includes guidance on “how to prepare for a crisis” with suggestions on what you might include in your emergency supplies and “what to do in a crisis”
-* follow advice from the local authorities and sign up to receive information and alerts
-* sign up to FCDO Travel Advice email alerts
-* monitor local and international media for the latest information
-* stay away from areas around security or military facilities
-* keep your departure plans under review, and ensure your travel documents are up to date
-* if you are advised to take shelter, stay indoors or find the nearest safe building or designated shelter. An interior stairwell or a room with as few external walls or windows as possible may provide additional protection
+Keep your departure plans under review and ensure your travel documents are up to date, including any visas required for onward travel.
 
 ## Before you travel
 

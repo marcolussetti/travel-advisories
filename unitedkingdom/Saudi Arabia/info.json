@@ -1,11 +1,11 @@
 {
     "name": "Saudi Arabia",
-    "update_reason": "Advice to stay inside (Warnings and insurance)",
+    "update_reason": "Updated information about regional escalation and leaving Saudi Arabia",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Saudi Arabia/Warnings and insurance.md",
-            "update_date": "2026-03-03T02:13:00+00:00"
+            "update_date": "2026-03-03T21:05:26+00:00"
         },
         {
             "title": "Entry requirements",
@@ -38,5 +38,5 @@
             "file": "unitedkingdom/Saudi Arabia/Getting help.md"
         }
     ],
-    "update_date": "2026-03-03T02:13:00+00:00"
+    "update_date": "2026-03-03T21:05:26+00:00"
 }

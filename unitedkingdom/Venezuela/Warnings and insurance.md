@@ -1,24 +1,59 @@
 # Warnings and insurance
 
 Still current at:
-:   6 January 2026
+:   4 March 2026
 
 Updated:
-:   5 January 2026
+:   3 March 2026
 
 Latest update:
-:   Removal of information about sheltering in place, FCDO continues to advise against all travel to Venezuela (‘Warnings and insurance’ page).
+:   FCDO no longer advises against all travel to the whole of Venezuela. FCDO continues to advise against all travel to some regions, and all but essential travel to the rest of Venezuela ('Warnings and insurance' page).
 
-![](https://assets.publishing.service.gov.uk/media/6959091fa2fb6c15f98d1941/FCDO__TA__045_-_Venezuela_Travel_Advice_Ed2__WEB_.jpg)
+![](https://assets.publishing.service.gov.uk/media/69a6b088b9bd90e63a2521da/FCDO__TA__045_-_Venezuela_Travel_Advice_Ed4__WEB_.jpg)
 
 
-[Download a more detailed map (PDF, 726 KB)](https://assets.publishing.service.gov.uk/media/69590920a2fb6c15f98d1942/FCDO__TA__045_-_Venezuela_Travel_Advice_Ed2.pdf)
+[Download a more detailed map (PDF, 764 KB)](https://assets.publishing.service.gov.uk/media/69a6b009723a61518b9f1386/FCDO__TA__045_-_Venezuela_Travel_Advice_Ed4.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
-## The FCDO advises against all travel to Venezuela
+## Areas where FCDO advises against all travel
 
-FCDO advises against all travel to Venezuela. If you are a British National already living or travelling in Venezuela, you should be prepared to change your plans quickly if necessary. Regularly review your departure options and make sure your travel documents are valid and accessible. You should have a ‘personal emergency plan’, including practical steps for leaving the country or staying safe during a crisis, that does not depend on support from the UK government.
+### Border areas
+
+FCDO advises against all travel to:
+
+* within 80km (50 miles) of the border with Colombia
+* within 40km (25 miles) of the border with Brazil
+* within 40km (25 miles) of the border with Guyana
+
+### Bolívar
+
+FCDO advises against all travel to the Orinoco Mining Arc (‘Arco Minero’) region to the south of the Orinoco river. This includes:
+
+* all of Cedeño Municipality
+* the northern part of Sucre Municipality, from the Orinoco river to 80km south of the Troncal 19 road
+* all of Heres Municpality
+* the northern part of Raul Leoni Municipality, north of the Rio Paragua
+* all of Caroni Municipality
+* all of Piar Municipality
+* all of Padre Pedro Chien Municipality
+* all of Roscio Municipality
+* all of El Callo Municipality
+* all of Sifontes Municipality
+
+### Delta Amacuro
+
+FCDO advises against all travel to the area to the south of the Orinoco river.
+
+### Zulia
+
+FCDO advises against all travel to Zulia state.
+
+### The FCDO advises against all but essential travel to the remaining areas of Venezuela
+
+If you are a British national already living or travelling in Venezuela, you should be prepared to change your plans quickly if necessary. You should have a ‘personal emergency plan’, including practical steps for leaving the country or staying safe during a crisis, that does not depend on support from the UK government.
+
+Before you travel, [check the ‘Entry requirements’ section](https://www.gov.uk/foreign-travel-advice/venezuela/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19) for Venezuela’s current entry restrictions and requirements. These may change with little warning. Monitor local media and stay in contact with your travel provider.
 
 ## State of External Commotion
 

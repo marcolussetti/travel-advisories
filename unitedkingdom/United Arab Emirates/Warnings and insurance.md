@@ -1,44 +1,54 @@
 # Warnings and insurance
 
 Still current at:
-:   1 March 2026
+:   4 March 2026
 
 Updated:
-:   28 February 2026
+:   3 March 2026
 
 Latest update:
-:   The FCDO now advises against all but essential travel to the United Arab Emirates. Register your presence if you're in the United Arab Emirates (Warnings and insurance).
+:   Updated information about regional escalation and leaving United Arab Emirates
 
 ![](https://assets.publishing.service.gov.uk/media/69a36e57ec82ce45f05bd728/United_Arab_Emirates_Travel_Advice_Ed1__WEB_.jpg)
 
 
 [Download a more detailed map (PDF, 483 KB)](https://assets.publishing.service.gov.uk/media/69a36e58f534e7e99adaeafb/United_Arab_Emirates_Travel_Advice_Ed1.pdf)
 
+Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
+
+## FCDO advices against all but essential travel to United Arab Emirates
+
+Find out more about [why FCDO advises against travel](https://www.gov.uk/foreign-travel-advice/united-arab-emirates/safety-and-security).
+
 ## Register your presence
 
 Let the UK government know you’re in the United Arab Emirates [register your presence](https://www.register.service.csd.fcdo.gov.uk/united-arab-emirates-20260228/tell-the-uk-government-youre-in-united-arab-emirates) if you’re in the United Arab Emirates for further updates.
 
+## Regional escalation
+
+Regional escalation poses significant security risks and has led to travel disruption.
+
+Stay away from areas around security or military facilities.
+
+Follow the instructions of the local authorities and monitor local and international media for the latest information.
+
+Read [If you’re affected by a crisis abroad - GOV.UK](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas) this includes suggestions on what you might include in your emergency supplies.
+
+Sign up to FCDO Travel Advice email alerts [e.g. [UAE]](https://www.gov.uk/foreign-travel-advice/united-arab-emirates/email-signup)
+
 ## Shelter in place
 
-Due to reported missile attacks, British nationals in UAE should immediately shelter in place.
+Follow the instructions of the local authorities. If you are advised to take shelter, stay indoors or find the nearest safe building or designated shelter. An interior stairwell or a room with as few external walls or windows as possible may provide additional protection.
 
-Remain indoors in a secure location, avoid all travel and follow instructions from the local authorities.
+Sign up to receive information and alerts. [Read the National Emergency Crisis and Disaster Management Authority’s guidance across numerous emergencies](https://www.ncema.gov.ae/)
 
-## Regional risks
+## Leaving UAE
 
-There is a heightened risk of regional tension. Escalation could lead to travel disruption and other unanticipated impacts.
+There are a limited number of commercial options available, including by air from UAE and from Oman. If your presence in UAE is not essential, you may wish to consider departing - if you judge you can access these options safely. Check for the latest updates from your airline or tour operator, as well as the instructions from local authorities, and the status of any border crossings before you travel. If you are traveling by air do not travel to the airport unless your airline has confirmed your reservation.
 
-British nationals should take sensible precautions, considering their own individual circumstances. These include:
+Make sure you have access to emergency supplies and essential medication. Travel within or out of UAE is at your own risk.
 
-* read [If you’re affected by a crisis abroad - GOV.UK](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas). This includes guidance on “how to prepare for a crisis” with suggestions on what you might include in your emergency supplies and “what to do in a crisis”
-* follow advice from the local authorities and sign up to receive information and alerts. Read the [National Emergency Crisis and Disaster Management Authority’s guidance across numerous emergencies](https://www.ncema.gov.ae/)
-* sign up to FCDO Travel Advice email alerts
-* monitor local and international media for the latest information
-* stay away from areas around security or military facilities
-* keep your departure plans under review, and ensure your travel documents are up to date
-* if you are advised to take shelter, stay indoors or find the nearest safe building or designated shelter. An interior stairwell or a room with as few external walls or windows as possible may provide additional protection
-
-$CTA
+Keep your departure plans under review and ensure your travel documents are up to date, including any visas required for onward travel.
 
 ## Before you travel
 

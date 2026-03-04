@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   3 March 2026
+:   4 March 2026
 
 Updated:
 :   3 March 2026
 
 Latest update:
-:   Advice to stay inside (Warnings and insurance)
+:   Updated information about regional escalation and leaving Saudi Arabia
 
 ![](https://assets.publishing.service.gov.uk/media/681a1ee1fb59a222d4f17336/FCDO__TA__034_-_Saudi_Arabia_Travel_Advice_Ed3__WEB_.jpg)
 
@@ -35,15 +35,23 @@ Due to reports of missile and drone activity in the region, we advise British na
 
 Regional escalation poses significant security risks and has led to travel disruption.
 
-British nationals should:
+Stay away from areas around security or military facilities.
 
-* read [If you’re affected by a crisis abroad - GOV.UK](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas). This includes guidance on “how to prepare for a crisis” with suggestions on what you might include in your emergency supplies and “what to do in a crisis”
-* follow advice from the local authorities and sign up to receive information and alerts
-* sign up to FCDO Travel Advice email alerts
-* monitor local and international media for the latest information
-* stay away from areas around security or military facilities
-* keep your departure plans under review, and ensure your travel documents are up to date
-* if you are advised to take shelter, stay indoors or find the nearest safe building or designated shelter. An interior stairwell or a room with as few external walls or windows as possible may provide additional protection
+Follow the instructions of the local authorities and monitor local and international media for the latest information.
+
+Read [If you’re affected by a crisis abroad - GOV.UK](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas) this includes suggestions on what you might include in your emergency supplies.
+
+Sign up to FCDO Travel Advice email alerts.
+
+## Shelter in place
+
+Follow the instructions of the local authorities. If you are advised to take shelter, stay indoors or find the nearest safe building or designated shelter. An interior stairwell or a room with as few external walls or windows as possible may provide additional protection.
+
+## Leaving Saudi Arabia
+
+If you judge it is safe to do so and plan to use commercial options to depart check for the latest updates from your airline or tour operator, as well as the instructions of local authorities and the status of any border crossings before you travel. Make sure you have access to emergency supplies and essential medication. Travel within or out of Saudi Arabia is at your own risk.
+
+Keep your departure plans under review and ensure your travel documents are up to date, including any visas required for onward travel.
 
 ## Before you travel
 

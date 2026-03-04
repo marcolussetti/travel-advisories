@@ -1,11 +1,11 @@
 {
     "name": "Palestine",
-    "update_reason": "The FCDO now advises against all travel to Israel and Palestine.  Register your presence if you're in Israel or Palestine.  (Warnings and insurance)",
+    "update_reason": "Updated information about regional escalation and leaving Israel and Palestine ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Palestine/Warnings and insurance.md",
-            "update_date": "2026-03-01T00:23:40+00:00"
+            "update_date": "2026-03-03T21:04:46+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Palestine/Getting help.md"
         }
     ],
-    "update_date": "2026-03-01T00:23:40+00:00"
+    "update_date": "2026-03-03T21:04:46+00:00"
 }

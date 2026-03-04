@@ -1,13 +1,29 @@
 # Warnings and insurance
 
 Still current at:
-:   20 February 2026
+:   4 March 2026
 
 Updated:
-:   19 February 2026
+:   3 March 2026
 
 Latest update:
-:   New information about the Sri Lankan Electronic Travel Authorisation (ETA) (‘Entry requirements’ page).
+:   New information about travel disruption ('Warnings and insurance' page).
+
+## Global travel impacts due to escalation in the Middle East
+
+Escalation in the Middle East has caused widespread travel disruption, including airspace closures, delayed and cancelled flights.
+
+Your travel plans may be affected, even if your destination is not in the Middle East. British nationals should:
+
+* check for the latest updates from your airline or tour operator before travelling
+* review your travel insurance policy for coverage before you travel
+* monitor local and international media for the latest information and sign up for travel advice email alerts
+
+Many flights to the Middle East from Sri Lanka continue to be suspended. British nationals in Sri Lanka should contact their airlines for the latest updates.
+
+For further information, review [Media Notice from the Department of Immigration & Emigration](https://srilankahc.uk/2026/03/02/media-notice-from-the-department-of-immigration-emigration/).
+
+Additional assistance available: Sri Lankan Tourist Hotline: 1912
 
 ## Before you travel
 

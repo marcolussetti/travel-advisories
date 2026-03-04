@@ -46,8 +46,6 @@ Public health facilities are poor, with frequent shortages of medicines and fund
 
 FCDO has a list of [English-speaking doctors in Venezuela](https://www.gov.uk/government/publications/venezuela-list-of-medical-facilities-practitioners) where some staff will speak English.
 
-There is also [guidance on healthcare if you’re living in Venezuela](https://www.gov.uk/guidance/living-in-venezuela#healthcare-in-venezuela).
-
 ## Travel and mental health
 
 Read [FCDO guidance on travel and mental health](https://www.gov.uk/guidance/foreign-travel-advice-for-people-with-mental-health-issues). There is also [mental health guidance on TravelHealthPro](https://travelhealthpro.org.uk/factsheet/85/travelling-with-mental-health-conditions).
