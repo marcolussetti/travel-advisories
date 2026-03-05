@@ -6,6 +6,10 @@ High Degree of Caution
 
 ### **Travel Alert**
 
+#### **Conflict in the Middle East**
+
+Due to continued regional disruption to air travel, any Irish citizens planning to travel to or via the Gulf or Middle Eastern airport should contact with their airline or travel agent.
+
 #### **Demonstrations and Industrial Action**
 
 Demonstrations and industrial action are taking place on a rolling basis in Kenya. Irish citizens travelling to Kenya should always monitor local media and follow the advice of local authorities. Always avoid demonstrations, as they may turn violent.
