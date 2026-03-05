@@ -18,4 +18,8 @@ The features in this map do not constitute an authoritative source of geographic
 
 ### YEMEN - AVOID ALL TRAVEL
 
-[Avoid all travel](#levels "Risk Levels") to Yemen, including the Island of Socotra, due to ongoing tensions in the region, armed conflict, terrorist attacks, and kidnapping. If you’re in Yemen, you should leave the country if it’s safe to do so.
+[Avoid all travel](#levels "Risk Levels") to Yemen, including the Island of Socotra, due to ongoing tensions in the region, armed conflict, terrorist attacks, and kidnapping.
+
+If you’re in Yemen, you should leave the country if it’s safe to do so.
+
+Sign up with the [Registration of Canadians Abroad service](https://travel.gc.ca/travelling/registration?_ga=2.174113700.706610758.1771857040-226824260.1751485515) to receive important additional information, specific to your location, about the ongoing situation and any available departure options.

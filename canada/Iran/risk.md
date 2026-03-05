@@ -22,4 +22,6 @@ The features in this map do not constitute an authoritative source of geographic
 
 Our ability to provide consular services in Iran is extremely limited, especially during an active conflict. Don’t rely on the Government of Canada’s assistance for evacuations or assisted departures.
 
-We understand that there are connectivity problems in Iran. If possible, try to register or update your personal information through the [Registration of Canadians Abroad service](https://travel.gc.ca/travelling/registration) to receive the latest information about departure options. If you are unable to do so, try to contact Global Affairs Canada's 24/7 [Emergency Watch and Response Centre](https://travel.gc.ca/assistance/emergency-assistance?_ga=2.93069341.168187391.1696947682-2043183889.1686925125).
+We understand that there are connectivity problems in Iran. If possible, try to register or update your personal information through the [Registration of Canadians Abroad service](https://travel.gc.ca/travelling/registration) to receive important additional information, specific to your location, about the ongoing situation and any available departure options.
+
+If you are unable to do so, try to contact Global Affairs Canada's 24/7 [Emergency Watch and Response Centre](https://travel.gc.ca/assistance/emergency-assistance?_ga=2.93069341.168187391.1696947682-2043183889.1686925125).

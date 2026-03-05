@@ -28,7 +28,9 @@ For West Bank ID holders, the Allenby/King Hussein bridge near Jericho is the on
 
 + Menahem Begin/Taba, from southern Israel into the Sinai Peninsula (visa available on-arrival)
 
-The Israeli Ministry of Tourism is operating buses from Herzliya, Haifa, Jerusalem and Tel Aviv to the Menachim Begin border crossing between Eilat and Taba in Egypt. If you want to take advantage of this opportunity to leave, you must register via the Ministry’s evacuation [form](https://govforms.gov.il/mw/forms/touristsevacuationdata@tourism.gov.il?displang=en).
+Verify the status of border crossings before travelling there.
+
+The Israeli Ministry of Tourism is operating buses from Herzliya, Haifa, Jerusalem and Tel Aviv to the Menachim Begin border crossing between Eilat and Taba in Egypt. Seats are allocated on a first-come first-served basis. Visit their [website](https://www.gov.il/en/pages/mot-update-2026-03-01) for more information.
 
 Our ability to provide consular services to Canadians during an active conflict is likely to be limited. If you are in Israel or Palestine, prepare contingency plans that don't rely on the Government of Canada's assistance for evacuations or assisted departures.
 
@@ -41,7 +43,7 @@ You should:
 * keep the local emergency services' contact information at hand
 * monitor local and international media to stay informed of the rapidly evolving situation
 * follow the instructions of local authorities at all times, including any orders to shelter in place
-* sign up with the [Registration of Canadians Abroad](https://travel.gc.ca/travelling/registration) service to receive additional important information specific to your location
+* sign up with the [Registration of Canadians Abroad](https://travel.gc.ca/travelling/registration) service to receive important additional important information, specific to your location, about the ongoing situation and any available departure options
 
 ### Security situation in the Gaza Strip
 

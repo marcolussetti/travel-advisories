@@ -2,20 +2,29 @@
 
 ## Safety and security
 
-### Heightened tensions in the Middle East
+### Ongoing hostilities in the Middle East
 
-There are heightened tensions in the region and the security situation could deteriorate significantly without notice. In the event of escalation, there could be disruptions to movement and transportation, including:
+There is ongoing military activity in the region. Missiles, drones and other projectiles could strike targets in the region. The security situation could deteriorate significantly without notice.
 
-* border closures or restrictions
-* flight cancellations
-* airspace closures
+Avoid the vicinity of military installations and critical infrastructure.
 
-If you're in the region, you should:
+Our ability to provide consular services to Canadians during an active conflict is limited, with priority given to the provision of essential services. Prepare contingency plans that don’t rely on the Government of Canada’s assistance for departure.
 
-* monitor local and international media to stay informed of the rapidly evolving situation
+Yemen’s airspace is open.
+
+Commercial flights are operating, however availability may be limited.
+
+* Monitor flight availability
+* Verify with your airline before you travel to the airport
+
+You should:
+
 * be vigilant and follow the instructions of local authorities at all times, including any orders to shelter in place
-* sign up with the [Registration of Canadians Abroad](https://travel.gc.ca/travelling/registration) service to receive important information specific to your location
 * ensure that your travel documents and those of your family are up to date
+* monitor local and international media to stay informed of the rapidly evolving situation
+* sign up with the [Registration of Canadians Abroad](https://travel.gc.ca/travelling/registration "https://travel.gc.ca/travelling/registration") service to receive important additional information, specific to your location, about the ongoing situation and any available departure options.
+
+[Canada's response to the situation in the Middle East](https://www.international.gc.ca/world-monde/issues_development-enjeux_developpement/response_conflict-reponse_conflits/crisis-crises/middle-east-moyen-orient.aspx?lang=eng)
 
 ### State of emergency
 

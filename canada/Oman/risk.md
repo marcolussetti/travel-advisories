@@ -22,6 +22,4 @@ The features in this map do not constitute an authoritative source of geographic
 
 Shelter in place if instructed to by local authorities.
 
-### Border with Yemen - Avoid non-essential travel
-
-[Avoid non-essential travel](#levels "Risk Levels") to the area within 10 km of the border with Yemen, due to the ongoing conflict in that country.
+Sign up with the [Registration of Canadians Abroad service](https://travel.gc.ca/travelling/registration?_ga=2.174113700.706610758.1771857040-226824260.1751485515) to receive important additional information, specific to your location, about the ongoing situation and any available departure options.

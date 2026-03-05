@@ -22,6 +22,8 @@ The features in this map do not constitute an authoritative source of geographic
 
 You should shelter in place until the security situation improves.
 
+Sign up with the [Registration of Canadians Abroad](https://travel.gc.ca/travelling/registration) service to receive important additional information, specific to your location, about the ongoing situation and any available departure options.
+
 ### Border with Yemen - Avoid all travel
 
 [Avoid all travel](#levels "Risk Levels") to areas within 30 km of the border with Yemen, due to the ongoing armed conflict in Yemen and the risk of violent clashes and spillovers across the border.

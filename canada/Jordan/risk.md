@@ -22,6 +22,8 @@ The features in this map do not constitute an authoritative source of geographic
 
 Shelter in place if instructed to by local authorities.
 
+Sign up with the [Registration of Canadians Abroad](https://travel.gc.ca/travelling/registration) service to receive important additional information, specific to your location, about the ongoing situation and any available departure options.
+
 ### Borders with Iraq and Syria - Avoid all travel
 
 [Avoid all travel](#levels "Risk Levels") to within 5 km of the borders with Iraq and Syria, with the exception of the tourist site Umm Qais, due to the threat of terrorism, cross-border violence and crime.

@@ -22,6 +22,8 @@ The features in this map do not constitute an authoritative source of geographic
 
 You should shelter in place until commercial flights resume. At that point, if you assess that travelling to the airport is safe, you should leave at the earliest opportunity.
 
+Sign up with the [Registration of Canadians Abroad](https://travel.gc.ca/travelling/registration) service to receive important additional information, specific to your location, about the ongoing situation and any available departure options.
+
 ### PALESTINE - AVOID ALL TRAVEL
 
 [Avoid all travel](#levels "Risk Levels") to Palestine due to the ongoing military activities, the dire humanitarian conditions, the volatile and unpredictable security situation, and extensive damage to infrastructure in the Gaza Strip, and the volatile security situation in the West Bank.

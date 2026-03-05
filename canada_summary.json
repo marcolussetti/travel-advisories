@@ -104,7 +104,7 @@
     {
         "destination": "Bahrain",
         "risk_level": "Avoid all travel",
-        "last_updated": "2026-03-03T13:44:06",
+        "last_updated": "2026-03-04T13:03:02",
         "details_url": "https://travel.gc.ca/destinations/bahrain"
     },
     {
@@ -182,7 +182,7 @@
     {
         "destination": "Brazil",
         "risk_level": "Exercise a high degree of caution (with regional advisories)",
-        "last_updated": "2026-02-13T12:56:16",
+        "last_updated": "2026-03-04T14:19:26",
         "details_url": "https://travel.gc.ca/destinations/brazil"
     },
     {
@@ -302,7 +302,7 @@
     {
         "destination": "Cuba",
         "risk_level": "Avoid non-essential travel",
-        "last_updated": "2026-02-27T11:30:04",
+        "last_updated": "2026-03-04T12:54:14",
         "details_url": "https://travel.gc.ca/destinations/cuba"
     },
     {
@@ -356,7 +356,7 @@
     {
         "destination": "Dominican Republic",
         "risk_level": "Exercise a high degree of caution",
-        "last_updated": "2026-02-04T10:12:05",
+        "last_updated": "2026-03-04T10:47:26",
         "details_url": "https://travel.gc.ca/destinations/dominican-republic"
     },
     {
@@ -578,7 +578,7 @@
     {
         "destination": "Iran",
         "risk_level": "Avoid all travel",
-        "last_updated": "2026-03-03T17:32:43",
+        "last_updated": "2026-03-04T15:14:29",
         "details_url": "https://travel.gc.ca/destinations/iran"
     },
     {
@@ -596,7 +596,7 @@
     {
         "destination": "Israel and Palestine",
         "risk_level": "Avoid all travel",
-        "last_updated": "2026-03-03T13:10:12",
+        "last_updated": "2026-03-04T14:32:03",
         "details_url": "https://travel.gc.ca/destinations/israel-and-palestine"
     },
     {
@@ -614,13 +614,13 @@
     {
         "destination": "Japan",
         "risk_level": "Take normal security precautions",
-        "last_updated": "2026-03-02T07:11:49",
+        "last_updated": "2026-03-04T09:23:45",
         "details_url": "https://travel.gc.ca/destinations/japan"
     },
     {
         "destination": "Jordan",
         "risk_level": "Avoid non-essential travel (with regional advisories)",
-        "last_updated": "2026-03-03T17:23:45",
+        "last_updated": "2026-03-04T12:51:55",
         "details_url": "https://travel.gc.ca/destinations/jordan"
     },
     {
@@ -650,7 +650,7 @@
     {
         "destination": "Kuwait",
         "risk_level": "Avoid all travel",
-        "last_updated": "2026-03-03T18:45:31",
+        "last_updated": "2026-03-04T12:24:57",
         "details_url": "https://travel.gc.ca/destinations/kuwait"
     },
     {
@@ -668,13 +668,13 @@
     {
         "destination": "Latvia",
         "risk_level": "Take normal security precautions",
-        "last_updated": "2026-02-04T10:12:06",
+        "last_updated": "2026-03-04T09:36:48",
         "details_url": "https://travel.gc.ca/destinations/latvia"
     },
     {
         "destination": "Lebanon",
         "risk_level": "Avoid all travel",
-        "last_updated": "2026-03-03T12:15:05",
+        "last_updated": "2026-03-04T13:15:39",
         "details_url": "https://travel.gc.ca/destinations/lebanon"
     },
     {
@@ -931,8 +931,8 @@
     },
     {
         "destination": "Oman",
-        "risk_level": "Avoid non-essential travel (with regional advisories)",
-        "last_updated": "2026-03-03T19:04:57",
+        "risk_level": "Avoid non-essential travel",
+        "last_updated": "2026-03-04T12:16:48",
         "details_url": "https://travel.gc.ca/destinations/oman"
     },
     {
@@ -998,7 +998,7 @@
     {
         "destination": "Qatar",
         "risk_level": "Avoid all travel",
-        "last_updated": "2026-03-03T18:13:07",
+        "last_updated": "2026-03-04T12:46:40",
         "details_url": "https://travel.gc.ca/destinations/qatar"
     },
     {
@@ -1088,7 +1088,7 @@
     {
         "destination": "Saudi Arabia",
         "risk_level": "Avoid non-essential travel (with regional advisories)",
-        "last_updated": "2026-03-03T18:22:03",
+        "last_updated": "2026-03-04T12:36:43",
         "details_url": "https://travel.gc.ca/destinations/saudi-arabia"
     },
     {
@@ -1310,7 +1310,7 @@
     {
         "destination": "United Arab Emirates",
         "risk_level": "Avoid all travel",
-        "last_updated": "2026-03-03T15:24:23",
+        "last_updated": "2026-03-04T14:09:10",
         "details_url": "https://travel.gc.ca/destinations/united-arab-emirates"
     },
     {
@@ -1322,7 +1322,7 @@
     {
         "destination": "United States",
         "risk_level": "Take normal security precautions",
-        "last_updated": "2026-02-19T13:17:55",
+        "last_updated": "2026-03-04T14:12:02",
         "details_url": "https://travel.gc.ca/destinations/united-states"
     },
     {
@@ -1364,7 +1364,7 @@
     {
         "destination": "Yemen",
         "risk_level": "Avoid all travel",
-        "last_updated": "2026-02-28T03:51:50",
+        "last_updated": "2026-03-04T16:37:24",
         "details_url": "https://travel.gc.ca/destinations/yemen"
     },
     {
