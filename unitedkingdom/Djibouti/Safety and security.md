@@ -115,12 +115,8 @@ Stay away from flood areas and follow official advice.
 
 Earthquakes and volcanic eruptions are a risk in Djibouti. The US Federal Emergency Management Agency website has advice about [what to do before, during and after an earthquake](https://www.ready.gov/earthquakes).
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/djibouti/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/djibouti/entry-requirements)
 
-[Next
-:
-Regional risks](/foreign-travel-advice/djibouti/regional-risks)
+[Next:Regional risks](/foreign-travel-advice/djibouti/regional-risks)
 
 [View a printable version of the whole guide](/foreign-travel-advice/djibouti/print)

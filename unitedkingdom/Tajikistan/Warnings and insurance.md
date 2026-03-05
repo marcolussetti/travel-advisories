@@ -1,13 +1,25 @@
 # Warnings and insurance
 
 Still current at:
-:   26 February 2026
+:   5 March 2026
 
 Updated:
-:   25 February 2026
+:   4 March 2026
 
 Latest update:
-:   New information on travelling near the Tajikistan-Kyrgyzstan border (See ‘Tajikistan-Kyrgyzstan Border’ on the ‘Regional risks’ page).
+:   New information about travel disruption ('Warnings and insurance' page).
+
+## Global travel impacts due to escalation in the Middle East
+
+Escalation in the Middle East has caused widespread travel disruption, including airspace closures, delayed and cancelled flights.
+
+Your travel plans may be affected, even if your destination is not in the Middle East. British nationals should:
+
+* check for the latest updates from your airline or tour operator before travelling
+* review your travel insurance policy for coverage before you travel
+* monitor local and international media for the latest information and sign up for travel advice email alerts.
+
+If you have been impacted by travel disruption and need to review your Tajik visa, contact the Tajik [Ministry of Foreign Affairs.](https://mfa.tj/en)
 
 ## Before you travel
 

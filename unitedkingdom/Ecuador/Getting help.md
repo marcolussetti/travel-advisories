@@ -12,11 +12,11 @@ Quito has a tourism police unit with branches in the north, old town, airport an
 
 ### Reporting robbery and theft online
 
-You can [report robbery and theft online in English](https://www.fiscalia.gob.ec/denuncias-en-linea-para-turistas/) to the Ecuador Attorney General’s Office (‘Fiscalía General’).
+You can [report robbery and theft online in English](https://www.fiscalia.gob.ec/denuncias-en-linea-para-turistas/) to the Ecuador Attorney General’s Office (‘Fiscalía General’). This report is valid for insurance claims, however, once you leave Ecuador, following up a case report through this link may be complicated.
 
 ## Complaining about tourism services
 
-To complain about tourism services, email the Ministry of Tourism: denuncias@turismo.gob.ec.
+To complain about tourism services, email the Ministry of Tourism: denuncias@produccion.gob.ec.
 
 ## Contact your travel provider and insurer
 

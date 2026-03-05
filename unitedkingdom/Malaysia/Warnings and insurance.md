@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   11 December 2025
+:   5 March 2026
 
 Updated:
-:   10 December 2025
+:   4 March 2026
 
 Latest update:
-:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
+:   New information about travel disruption ('Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/6565efa562180b000dce830a/FCDO__TA__025_-_Malaysia_Travel_Advice_Ed3__WEB_.jpg)
 
@@ -23,6 +23,17 @@ Your travel insurance could be invalidated if you travel against advice from the
 FCDO advises against all but essential travel to all islands and dive sites off the coast of eastern Sabah from Sandakan to Tawau, including Lankayan Island, due to the threat of kidnapping. This does not apply to the mainland of Sabah.
 
 Find out more about [why FCDO advises against travel](https://www.gov.uk/foreign-travel-advice/malaysia/regional-risks).
+
+## Global travel impacts due to escalation in the Middle East
+
+Escalation in the Middle East has caused widespread travel disruption, including airspace closures, delayed and cancelled flights.
+
+Your travel plans may be affected, even if your destination is not in the Middle East. British nationals should:
+
+* check for the latest updates from your airline or tour operator before travelling
+* review your travel insurance policy for coverage before you travel
+* monitor local and international media for the latest information and sign up for travel advice email alerts.
+* be mindful of your permitted length of stay in Malaysia
 
 ## Before you travel
 
@@ -52,8 +63,6 @@ Follow FCDO:
 * [travel advice on Facebook](https://www.facebook.com/FCDOTravel/)
 * [Travel Aware on Instagram](https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Ftravelaware%2F&is_from_rle)
 
-[Next
-:
-Entry requirements](/foreign-travel-advice/malaysia/entry-requirements)
+[Next:Entry requirements](/foreign-travel-advice/malaysia/entry-requirements)
 
 [View a printable version of the whole guide](/foreign-travel-advice/malaysia/print)

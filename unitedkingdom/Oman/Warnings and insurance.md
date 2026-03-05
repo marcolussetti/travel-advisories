@@ -1,13 +1,17 @@
 # Warnings and insurance
 
 Still current at:
-:   2 March 2026
+:   5 March 2026
 
 Updated:
-:   1 March 2026
+:   4 March 2026
 
 Latest update:
-:   Addition of information that British nationals in the city of Duqm should shelter in place and that British nationals visiting Salalah should leave as soon as possible if commercial means allow. British residents in Salalah should follow the advice of local authorities (Warnings and Insurance page)
+:   Information on how to register interest in UK government flights from Oman (‘Warnings and insurance page’).
+
+## Register your interest in UK government flights from Oman
+
+If you have had travel plans disrupted, you can [register your interest in UK government flights from Oman](https://www.register.service.csd.fcdo.gov.uk/oman-20260304/register-your-interest-in-uk-government-flights-from-oman).
 
 ## Shelter in place
 

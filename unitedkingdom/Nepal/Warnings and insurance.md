@@ -1,30 +1,44 @@
 # Warnings and insurance
 
 Still current at:
-:   10 February 2026
+:   5 March 2026
 
 Updated:
-:   9 February 2026
+:   4 March 2026
 
 Latest update:
-:   Information added on risk of protests, political violence and travel disruption ahead of the general election on 5 March ('Warnings and insurance' page).
+:   Additional information on potential disruption during Nepal’s election on 5 March, including after polling day. Information on potential impact to travel and visas due to escalation in the Middle East (‘Warnings and insurance page’).
 
 ## General election
 
-There is a risk of protests, political violence and travel disruption ahead of the general election scheduled for 5 March 2026.
+There is a risk of protests, political violence and travel disruption around the general election on 5 March 2026.
 
-Protests can start at short notice and may lead to clashes between police and protestor groups.
+Protests can start at short notice and may lead to clashes.
 
-Before and during the election, there may be restrictions on travel across much of Nepal. On election day, only essential travel is likely to be allowed and businesses may close. International and domestic flights are expected to continue, but disruption is possible. It is likely that Nepal’s land border crossings will close in the lead up to the election and on 5 March.
+During the election, there may be restrictions on travel across much of Nepal. On election day, only essential travel is likely to be allowed and most businesses will close. International and domestic flights are expected to continue, but disruption is possible. Nepal’s land border crossings will close in the lead up to the election and on 5 March.
 
-Authorities may increase police presence and could impose curfews.
+The potential for protests and political violence will remain after the election, even though restrictions are likely to be lifted.
+
+Authorities may increase police presence and could impose curfews in different locations.
 
 You should:
 
-* stay away from polling stations, political rallies and demonstrations, including around political party offices, high profile government buildings and the Maitighar Mandala area of Kathmandu
+* stay away from polling stations (unless voting or participating in officially accredited observation), political rallies and demonstrations, including around political party offices, high profile government buildings and the Maitighar Mandala area of Kathmandu
 * check local media for updates
 * follow the direction of local authorities (including security forces deployed for elections)
 * check for messaging from your hotel, airline or tour operator on any potential disruption to travel plans on or around polling day
+
+## Global travel impacts due to escalation in the Middle East
+
+Escalation in the Middle East has caused widespread travel disruption, including airspace closures, delayed and cancelled flights.
+
+Your travel plans may be affected, even if your destination is not in the Middle East. British nationals should:
+
+* check for the latest updates from your airline or tour operator before travelling
+* review your travel insurance policy for coverage before you travel
+* monitor local and international media for the latest information and sign up for travel advice email alerts
+
+If your visa has expired as a result of travel disruption, the Nepal Immigration Department have indicated that affected foreign nationals will receive a visa extension without cost until flights are rescheduled. This should be arranged at the airport.
 
 ## Before you travel
 

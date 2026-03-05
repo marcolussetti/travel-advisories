@@ -194,12 +194,8 @@ Seasonal storms affect Malaysia. The timing of these storms depends on location 
 
 Earthquakes can happen in Malaysia but are rare.
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/malaysia/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/malaysia/entry-requirements)
 
-[Next
-:
-Regional risks](/foreign-travel-advice/malaysia/regional-risks)
+[Next:Regional risks](/foreign-travel-advice/malaysia/regional-risks)
 
 [View a printable version of the whole guide](/foreign-travel-advice/malaysia/print)

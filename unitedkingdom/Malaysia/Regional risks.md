@@ -12,12 +12,8 @@ Commercial shipping companies have been advised to adopt heightened vigilance wh
 
 The [Regional Co-operation Agreement on Combatting Piracy and Armed Robbery against Ships in Asia](http://www.recaap.org/) (ReCAAP) advises all ships to re-route from the area where possible.
 
-[Previous
-:
-Safety and security](/foreign-travel-advice/malaysia/safety-and-security)
+[Previous:Safety and security](/foreign-travel-advice/malaysia/safety-and-security)
 
-[Next
-:
-Health](/foreign-travel-advice/malaysia/health)
+[Next:Health](/foreign-travel-advice/malaysia/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/malaysia/print)

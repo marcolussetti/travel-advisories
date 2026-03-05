@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   4 March 2026
+:   5 March 2026
 
 Updated:
-:   3 March 2026
+:   4 March 2026
 
 Latest update:
-:   Updated information about regional escalation and leaving Kuwait ('Warnings and insurance' page).
+:   Updated with information about the risks from terrorism (‘Safety and security’ page). FCDO now advises against all but essential travel to Kuwait. Register your presence if you're in Kuwait (‘Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/69a36b0da4d26cb233cd47da/Kuwait_Travel_Advice_Ed1__WEB_.jpg)
 
@@ -49,7 +49,7 @@ If you judge it is safe to leave Kuwait the following land border crossings in
 * Al Salmi / Ar – Ruqi
 * Al Nuwaisib / Al -Khafji
 
-Read  [Travel Advice for  Saudi Arabia](https://www.gov.uk/foreign-travel-advice/saudi-arabia) and ensure you have the correct paperwork, or you may be denied entry. If travelling by car, the vehicle must be wholly owned and registered in your name.  .If you plan to use commercial options to depart check for the latest updates from your airline or tour operator, as well as the instructions of local authorities and the status of any border crossings before you travel. Make sure you have access to emergency supplies and essential medication. Travel within or out of Kuwait is at your own risk.
+Read [Travel Advice for  Saudi Arabia](https://www.gov.uk/foreign-travel-advice/saudi-arabia) and ensure you have the correct paperwork, or you may be denied entry. If travelling by car, the vehicle must be wholly owned and registered in your name. If you plan to use commercial options to depart, check for the latest updates from your airline or tour operator, as well as the instructions of local authorities and the status of any border crossings before you travel. Make sure you have access to emergency supplies and essential medication. Travel within or out of Kuwait is at your own risk.
 
 Keep your departure plans under review and ensure your travel documents are up to date, including any visas required for onward travel.
 

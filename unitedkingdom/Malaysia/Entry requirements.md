@@ -55,7 +55,7 @@ The Malaysian authorities could ask you to take a urine test on arrival if they 
 
 ## Customs rules
 
-There are strict rules about [goods you can take into or out of Malaysia](https://www.customs.gov.my/en/tp/Pages/tp_ppel.aspx). You must declare anything that may be prohibited or subject to tax or duty.
+There are strict rules about [goods you can take into or out of Malaysia](https://www.customs.gov.my/en/individu/pengembara/travelers-guide). You must declare anything that may be prohibited or subject to tax or duty.
 
 If you are not sure if it is legal to bring items, including medications, declare them on entry.
 
@@ -71,12 +71,8 @@ Before you travel, you must get approval to take ringgit worth 10,000 US dollars
 
 See the [Royal Malaysian Customs Department](http://www.customs.gov.my/en/tp/Pages/tp_ppel.aspx) website for more information.
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/malaysia)
+[Previous:Warnings and insurance](/foreign-travel-advice/malaysia)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/malaysia/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/malaysia/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/malaysia/print)

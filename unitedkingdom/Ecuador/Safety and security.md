@@ -14,6 +14,8 @@ Terrorist attacks in Ecuador cannot be ruled out.
 
 ## Political situation
 
+Due to the current State of Emergency, expect heightened police and military presence nationwide without previous notice, and potential travel disruptions due to extra security checks.
+
 Exercise caution around large gatherings. Street demonstrations, protests and strikes are common and can occur without warning. While most are peaceful, they can turn violent. You should:
 
 * stay alert and monitor local media
@@ -49,11 +51,11 @@ For more information on general travel safety in Ecuador, [check the Ministry of
 
 ### Violent crime and armed robbery
 
-On 14 October, a car bomb exploded near the Mall del Sol shopping centre and the Sheraton Hotel in northern Guayaquil, resulting in multiple injuries and at least one fatality. Secondary explosions were reported on 15 October on a road connecting the provinces of Guayas and El Oro.
+On 14 October 2025, a car bomb exploded near the Mall del Sol shopping centre and the Sheraton Hotel in northern Guayaquil, resulting in multiple injuries and at least one fatality. Secondary explosions were reported on 15 October 2025 on a road connecting the provinces of Guayas and El Oro.
 
 Armed robbery is a risk throughout Ecuador. Crimes with the threat of violence, such as gunpoint robbery and home invasion, can happen throughout Ecuador.
 
-Take particular care in Esmeraldas, Guayas and Manabi provinces and get local advice on where to visit. Armed thieves have stopped vehicles and threatened passengers.
+Take particular care in Esmeraldas, Guayas and Manabi provinces (currently the FCDO advises against all but essential travel to those provinces) and get local advice on where to visit. Armed thieves have stopped vehicles and threatened passengers.
 
 Most violent crime is gang-related, but tourists can be affected. The murder rate in Guayaquil is very high, but is mainly gang-related. Be particularly cautious in Guayaquil city centre, southern parts of the city and port areas.
 
@@ -73,9 +75,9 @@ There is a risk of robbery and pickpocketing on interstate transport and at bus 
 * keep valuables safe in a money belt or inside pocket
 * do not store bags in overhead luggage spaces or under your seat
 
-Criminals pose as uniformed bus inspectors in some Quito bus stations. They might insist you place your luggage overhead so an accomplice can steal it later. You do not have to place belongings overhead.
+Criminals can pose as uniformed bus inspectors in some Quito bus stations. They might insist you place your luggage overhead so an accomplice can steal it later. You do not have to place belongings overhead.
 
-If you’re robbed, do not resist attackers or do anything that puts you at greater risk. Report the incident to police as soon as possible.
+If you are robbed, do not resist attackers or do anything that puts you at greater risk. Report the incident to the police as soon as possible.
 
 ### Sexual assault
 
@@ -143,7 +145,7 @@ US dollars and 5, 10, 25 and 50 centavos coins minted in Ecuador are the only le
 
 If you join a volunteer or adventure expedition programme, make sure the UK organisation responsible for travel has an official agent in Ecuador able to handle an emergency. Be wary of unauthorised intermediaries (‘enganchadores’) trying to offer you cheap hotels or tour deals.
 
-British nationals have died while rafting, kayaking and on canopy walks and zip-lines. Make sure you’re fit enough for these activities and others like bungee jumping and quad biking. For water adventure sports, make sure the weather conditions and river currents are safe.
+British nationals have died while rafting, kayaking and on canopy walks and zip-lines. Make sure you’re fit enough for these activities and others such as bungee jumping and quad biking. For water adventure sports, make sure the weather conditions and river currents are safe.
 
 You should:
 
@@ -171,13 +173,13 @@ You should:
 * make sure someone knows where you’re going and when you plan to return
 * avoid walking alone
 
-For more information on climbing or mountaineering, see the [Ministry of Environment](https://www.ambiente.gob.ec/), [Ministry of Tourism](https://www.turismo.gob.ec/) and [Chimborazo Local Government](https://twitter.com/goberchimborazo).
+For more information on climbing or mountaineering, see the [Ministry of Environment](https://www.ambiente.gob.ec/), [Ecuador Tourism] (https://www.turismo.gob.ec/), and [Chimborazo Local Government](https://twitter.com/goberchimborazo).
 
 For accredited guides, check [the Ecuadorean Mountaineering Accredited Guides Association](https://aseguim.org/) (in Spanish).
 
 ### Climbing mountains with glaciers
 
-It is illegal to climb a glaciated mountain without an official accredited guide.
+It is illegal to do high mountaineering or climb a glaciated mountain without an official accredited guide.
 
 ### Pichincha volcano
 
@@ -187,28 +189,27 @@ Tourists take day trips to Pichincha volcano on the cable car (‘teleférico’
 * take warm, waterproof clothing and high-factor sunblock
 * go with an accredited specialised guide who knows the route
 * start early to reduce risks from unexpected heavy mist or storms
+* wear a helmet if climbing up the peak Rucu Pichincha
 
 Lightning has killed tourists climbing Pichincha. Watch the weather and reconsider your plans if conditions look bad.
 
 ### Cayambe Volcano
 
-The ‘Glaciar Hermoso’ and ‘Laguna Verde’ on the Cayambe volcano are currently closed until 20 September. The ‘Ruales Oleas Berges’ refuge remains open.
+There may be access restrictions for Cayambe volcano depending on the weather and glacier conditions. Comply with safety regulations.
 
 ### Chimborazo Reserve
 
-To visit Chimborazo National Reserve, you must email [chimborazo@ambiente.gob.ec](mailto:chimborazo@ambiente.gob.ec) at least 5 days in advance to register on the Biodiversity Information System (‘Sistema de Información de Biodiversidad’). The Chimborazo National Reserve is only open for tour operators and accredited mountaineering clubs after an avalanche killed 3 climbers in 2021. Foreign visitors cannot access the reserve until further notice.
+To visit Chimborazo National Reserve, you must email [chimborazo@ambiente.gob.ec](mailto:chimborazo@ambiente.gob.ec) at least 5 days in advance to register on the Biodiversity Information System (‘Sistema de Información de Biodiversidad’). The Chimborazo National Reserve is only open for tour operators and accredited mountaineering clubs after an avalanche killed 3 climbers in 2021.
 
 ### Cotopaxi National Park
 
 High mountaineering in Cotopaxi National Park is restricted. Since November 2023, tour operators, mountaineering clubs and individual visitors can go high mountaineering in Cotopaxi National Park. However, they must comply with mandatory national park rules and safety regulations.
 
-On 15 March, the Cotopaxi National Park closed temporarily due to an avalanche which affected 30 climbers. The park is now open as normal, but you should be aware of an increased risk of avalanches during the rainy season.
-
 For information, see the [Ecuadorean Ministry of Environment](https://twitter.com/ambiente_ec).
 
 If you’re visiting Cotopaxi National Park, carry:
 
-* a mask, sunglasses and hat
+* sunglasses and a hat
 * clothing that covers your skin
 * enough water and food
 * an emergency kit
@@ -219,7 +220,7 @@ If you’re visiting Cotopaxi National Park, carry:
 
 If you are planning to drive in Ecuador, see information on [driving abroad](https://www.gov.uk/driving-abroad).
 
-You can use a UK photocard driving licence to drive in Ecuador for the first 6 months after you arrive. If you still have a paper UK driving licence, you may need to [update it to a photocard licence](https://www.gov.uk/exchange-paper-driving-licence) or get the [correct version of the international driving permit (IDP)](https://www.gov.uk/driving-abroad/international-driving-permit) as well. After 6 months, you need to take an Ecuadorean driving test to continue to drive on your UK licence.
+You can use a UK photocard driving licence to drive in Ecuador for the first 6 months after you arrive. If you still have a paper UK driving licence, you may need to [update it to a photocard licence](https://www.gov.uk/exchange-paper-driving-licence) or get the [correct version of the international driving permit (IDP)](https://www.gov.uk/driving-abroad/international-driving-permit) as well. After 6 months, you need to take an Ecuadorean driving test to get an Ecuadorean driving licence or carry out the driving licence exchange process.
 
 Always carry your passport, driving licence and vehicle registration with you in the vehicle.
 
@@ -276,7 +277,7 @@ Landslides are common in Ecuador and can have a serious impact on travel. Heavy 
 
 ### Earthquakes
 
-There is a high risk of earthquakes across Ecuador, particularly in the province of Esmeraldas on the north-western coast. Earthquakes and aftershocks can cause landslides, which block roads.
+There is a high risk of earthquakes across Ecuador. Earthquakes and aftershocks can cause landslides, which block roads.
 
 Familiarise yourself with safety procedures and any instructions in your hotel. If there is an earthquake, follow instructions from the authorities and keep essential belongings, such as your passport and money, with you.
 

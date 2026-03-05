@@ -22,7 +22,15 @@ You can visit Georgia without a visa for up to one year.
 
 To stay longer or to travel for work or study, you must apply for a longer-term visa. Contact the [Georgian Ministry of Foreign Affairs](https://new.geoconsul.gov.ge/en) for more information.
 
-If you’re in Georgia for more than 183 days and do any paid employment, you’re automatically liable for income tax and must tell the [Revenue Service of Georgia](https://rs.ge/Home-en). This applies whether you are on a visitor’s permit or officially resident. You’ll be fined if you do not comply.
+The rules on who can work in Georgia were changed on 1 March 2026. If you are a foreign national and want to work in Georgia, including working remotely or running a business, you must have a work permit.
+
+A work permit is issued for one year and only for a specific job and a specific employer.
+
+Once the work permit is approved, you must then apply for the appropriate visa and/or a worker’s residence permit.
+
+To apply for a work permit or get more information, contact the [State Employment Support Agency](https://moh.gov.ge/) under the Ministry of Internally Displaced Persons from the Occupied Territories, Labour, Health and Social Affairs of Georgia.
+
+If you’re in Georgia for more than 183 days and do any paid employment, you’re automatically liable for income tax and must tell the [Revenue Service of Georgia](https://rs.ge/Home-en). You’ll be fined if you do not comply.
 
 ## Entering or leaving Georgia
 

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   3 January 2026
+:   5 March 2026
 
 Updated:
-:   2 January 2026
+:   4 March 2026
 
 Latest update:
-:   The 60-day state of emergency was renewed on 31 December 2025 (Warnings and insurance.)
+:   Addition of information that State of Emergency has been renewed, a curfew has been announced in four provinces, and land border with Colombia will be closed during Colombian elections ('Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/65a1082ce96df50014f8452c/FCDO__TA__014_-_Ecuador_Travel_Advice_Ed5__WEB_.jpg)
 
@@ -45,7 +45,7 @@ Find out more about [why FCDO advises against travel](/foreign-travel-advice/ecu
 
 ## Regional state of emergency declared (internal disturbance and armed violence)
 
-A 60-day state of emergency (SOE) was renewed on 31 December 2025 due to internal disturbance and armed violence, adding 4 extra provinces to the previous SOE. You should follow the instructions of police and local authorities. The SOE currently applies to the following provinces:
+A 30-day state of emergency (SOE) was renewed on 28 February 2026 due to internal disturbance and armed violence. You should follow the instructions of police and local authorities. The SOE currently applies to the following provinces:
 
 * Guayas
 * El Oro
@@ -53,11 +53,28 @@ A 60-day state of emergency (SOE) was renewed on 31 December 2025 due to interna
 * Los Ríos
 * Santa Elena
 * Pichincha
-* Santo Domingo
+* Santo Domingo de los Tsáchilas
 * Esmeraldas
 * Sucumbíos
 * Bolívar (cantones Echeandía and Las Naves)
 * Cotopaxi (cantón La Maná)
+
+Due to the current SOE, expect heightened police and military presence nationwide without previous notice, and potential travel disruptions due to extra security checks.
+
+## Curfew
+
+A curfew has been announced in four provinces:
+
+* Guayas
+* Los Ríos
+* Santo Domingo de los Tsáchilas
+* El Oro
+
+This curfew will apply between 11pm and 5am from 15 to 30 March.
+
+## Colombia-Ecuador border closure
+
+Colombia’s border with Ecuador will be closed from Saturday 7 March at 6pm until Monday 9 March at 6am. Travellers should plan ahead and expect potential travel disruptions due to closures.
 
 ## Before you travel
 

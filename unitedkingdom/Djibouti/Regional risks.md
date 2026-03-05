@@ -24,12 +24,8 @@ Take great care travelling on roads north of Tadjoura and Obock where there are 
 
 Respect advice given by those operating the roadblocks. If required, get formal military approval for your journey.
 
-[Previous
-:
-Safety and security](/foreign-travel-advice/djibouti/safety-and-security)
+[Previous:Safety and security](/foreign-travel-advice/djibouti/safety-and-security)
 
-[Next
-:
-Health](/foreign-travel-advice/djibouti/health)
+[Next:Health](/foreign-travel-advice/djibouti/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/djibouti/print)

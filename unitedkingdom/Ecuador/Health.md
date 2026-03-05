@@ -52,7 +52,7 @@ There is also [guidance on healthcare if you’re living in Ecuador](https://www
 
 ### Healthcare in the Galapagos Islands
 
-There are limited medical facilities in the Galapagos Islands. Make sure your insurance includes evacuation by air ambulance. If you travel to the Galapagos Islands by boat, you may be asked to supply information such as your blood group and emergency contacts when you board.
+There are limited medical facilities in the Galapagos Islands. Make sure your insurance includes air ambulance evacuation. If you travel to the Galapagos Islands by boat, you may be asked to supply information such as your blood group and emergency contacts when you board.
 
 San Cristóbal Island has a well-equipped public hospital. Santa Cruz Island has a basic hospital. Isabela Island has a very small and extremely basic health centre.
 

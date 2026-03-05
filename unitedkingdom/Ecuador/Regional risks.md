@@ -31,7 +31,7 @@ This is due to a high level of gang-related violence linked to the presence of o
 
 There are instances of express kidnapping, where individuals have been kidnapped for a short period of time, and are often driven to an ATM to withdraw money and then abandoned.
 
-There have been several security incidents in and around the city of Guayaquil in Guayas province in 2023 and 2024 including an increase in murders and small explosions. There have also been fatal armed attacks against the police and prosecutors.
+There have been several security incidents in and around the city of Guayaquil in Guayas province since 2023 including an increase in murders and small explosions. There have also been fatal armed attacks against the police and prosecutors.
 
 Tourists are not usually targeted. However, you could be a victim of violence due to mistaken identity or caught up in a security incident involving others.
 

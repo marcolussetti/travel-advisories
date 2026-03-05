@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   24 February 2026
+:   5 March 2026
 
 Updated:
-:   23 February 2026
+:   4 March 2026
 
 Latest update:
-:   Information on mandatory insurance for visitors upon entering Georgia (see ‘Insurance upon entry’ on the ‘Entry requirements’ page), and updated information on duration of protests ('Safety and security' page).
+:   New information about travel disruption and updated information about visa requirements ('Warnings and insurance' and 'Entry requirements' pages).
 
 ![](https://assets.publishing.service.gov.uk/media/690481e4823bdda9488b24cf/FCDO_TA_018_-_Georgia_Travel_Advice_Ed4_WEB.jpg)
 
@@ -30,6 +30,18 @@ FCDO also advises against all but essential travel to areas immediately next to 
 FCDO cannot provide face-to-face support to British nationals travelling in South Ossetia and Abkhazia, as UK government employees are restricted from travelling there.
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/georgia/regional-risks).
+
+## Global travel impacts due to escalation in the Middle East
+
+Escalation in the Middle East has caused widespread travel disruption, including airspace closures, delayed and cancelled flights.
+
+Your travel plans may be affected, even if your destination is not in the Middle East. British nationals should:
+
+* check for the latest updates from your airline or tour operator before travelling
+* review your travel insurance policy for coverage before you travel
+* monitor local and international media for the latest information and sign up for travel advice email alerts
+
+If you have been impacted by travel disruption and need to review your visa contact the [Ministry of Foreign Affairs of Georgia](https://new.geoconsul.gov.ge/en).
 
 ## Before you travel
 

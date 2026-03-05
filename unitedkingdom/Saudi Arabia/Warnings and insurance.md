@@ -1,18 +1,18 @@
 # Warnings and insurance
 
 Still current at:
-:   4 March 2026
+:   5 March 2026
 
 Updated:
-:   3 March 2026
+:   4 March 2026
 
 Latest update:
-:   Updated information about regional escalation and leaving Saudi Arabia
+:   FCDO now advises against all but essential travel to Eastern Province and Riyadh Province. FCDO continues to advise against all travel to within 10km of Saudi Arabia’s border with Yemen (‘Warnings and insurance’ page)
 
-![](https://assets.publishing.service.gov.uk/media/681a1ee1fb59a222d4f17336/FCDO__TA__034_-_Saudi_Arabia_Travel_Advice_Ed3__WEB_.jpg)
+![](https://assets.publishing.service.gov.uk/media/69a8bbce5fc94cfb71958fb9/FCDO__TA__034_-_Saudi_Arabia_Travel_Advice_Ed7__WEB_.jpg)
 
 
-[Download a more detailed map (PDF, 1.02 MB)](https://assets.publishing.service.gov.uk/media/681a1ee2fb59a222d4f17337/FCDO__TA__034_-_Saudi_Arabia_Travel_Advice_Ed3.pdf)
+[Download a more detailed map (PDF, 1.04 MB)](https://assets.publishing.service.gov.uk/media/69a8bbcf5fc94cfb71958fba/FCDO__TA__034_-_Saudi_Arabia_Travel_Advice_Ed7.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
@@ -24,6 +24,8 @@ FCDO advises against:
 
 * all travel to within 10km of the border with Yemen
 * all but essential travel to areas between 10km and 80km from the border with Yemen
+* all but essential travel to Eastern Province
+* all but essential travel to Riyadh Province
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/saudi-arabia/regional-risks).
 
@@ -41,7 +43,7 @@ Follow the instructions of the local authorities and monitor local and interna
 
 Read [If you’re affected by a crisis abroad - GOV.UK](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas) this includes suggestions on what you might include in your emergency supplies.
 
-Sign up to FCDO Travel Advice email alerts.
+Sign up to FCDO Travel Advice [email alerts](https://www.gov.uk/foreign-travel-advice/saudi-arabia/email-signup).
 
 ## Shelter in place
 

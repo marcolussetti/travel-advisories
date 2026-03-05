@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   4 March 2026
+:   5 March 2026
 
 Updated:
-:   3 March 2026
+:   4 March 2026
 
 Latest update:
-:   Updated information about regional escalation and leaving Bahrain ('Warnings and insurance' page).
+:   New information that we have taken the precautionary measure to temporarily withdraw some of our staff and their dependents from Bahrain. Our Embassy continues to operate (‘Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/69a367d7286b6fdc85daeb02/Bahrain_Travel_Advice_Ed1__WEB_.jpg)
 
@@ -45,6 +45,10 @@ Keep your departure plans under review and ensure your travel documents are up t
 ## Shelter in place
 
 If staying in the Kingdom, follow the instructions of the local authorities. If you are advised to take shelter, stay indoors or find the nearest safe building or designated shelter. An interior stairwell or a room with as few external walls or windows as possible may provide additional protection.
+
+## If you are in Bahrain
+
+Due to the ongoing security situation, we have taken the precautionary measure to temporarily withdraw some of our staff and their dependents from Bahrain. Our Embassy continues to operate.
 
 ## Before you travel
 
