@@ -1,6 +1,8 @@
 ## Safety and security
 
-The political situation in Azerbaijan is stable. Demonstrations occasionally take place, mainly in Baku. Opposition rallies are usually heavily policed and there has been violence on occasions. We advise that visitors avoid large demonstrations and public gatherings.
+The Department of Foreign Affairs and Trade is closely monitoring the current security situation across the region, which can have an impact on Azerbaijan. We advise visitors to follow the guidance of national and local authorities and stay fully informed of what is going on by monitoring local news and social media.
+
+The political situation in Azerbaijan is broadly stable. Demonstrations occasionally take place, mainly in Baku. Opposition rallies are usually heavily policed and there has been violence on occasions. We advise that visitors avoid large demonstrations and public gatherings.
 
 We strongly advise against all travel to some areas in south-western Azerbaijan, including districts in and around the region formerly known as “Nagorno-Karabakh”, as these areas are heavily land-mined, and unexploded devices may be encountered. Azerbaijan launched a military operation in the region formerly known as “Nagorno-Karabakh” in September 2023 which had been subject of a continuing dispute between Azerbaijan and Armenia. We strongly advise against all travel to within 5 km of the border with Armenia.
 

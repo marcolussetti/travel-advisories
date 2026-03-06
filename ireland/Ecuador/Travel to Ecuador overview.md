@@ -42,6 +42,7 @@ On 27 February 2026, a State of Emergency of 90 days was declared in the followi
 
 A state of emergency was renewed on 28 February 2026 for 30 days owing to ongoing internal unrest and armed violence. The current state of emergency applies to the following provinces:
 
+* Guayas
 * El Oro
 * Manabí
 * Los Ríos
@@ -61,7 +62,14 @@ The state of emergency allows the military and police to:
 * read private mail and phone records;
 * enter private properties without permission.
 
-To note, in some areas, a curfew from 10:00 to 05:00 may apply. Should you need to travel to or from the airport during curfew hours, this is permissible by presenting evidence of a flight booking reservation.
+To note, a curfew from 11:00 to 05:00 will apply from 15 to 30 March 2026 in the following provinces:
+
+* Guayas
+* Los Ríos
+* Santo Domingo de los Tsáchilas
+* El Oro
+
+Should you need to travel to or from the airport during curfew hours, this is permissible by presenting evidence of a flight booking reservation.
 
 The Embassy advises all Irish citizens in Ecuador to be particularly attentive to news and safety recommendations from the Ecuadorian authorities.
 
