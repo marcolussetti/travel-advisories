@@ -12,7 +12,7 @@ Our ability to provide consular services to Canadians during an active conflict 
 
 Qatari airspace is closed until further notice.
 
-You should shelter in place, but if you wish to leave Qatar via a land border crossing and assess that you can do safely, the Abu Samra/Salwa border crossing to Saudi Arabia is open. You should verify the status of the border crossing before you travel.
+You should shelter in place, but if you wish to leave Qatar via a land border crossing and assess that you can do so safely, the Abu Samra/Salwa border crossing to Saudi Arabia is open. You should verify the status of the border crossing before you travel.
 
 You must have valid travel documents. Make sure you meet the [entry requirements](http://www.travel.gc.ca/destinations/saudi-arabia) of Saudi Arabia before you travel to the border.
 

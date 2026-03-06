@@ -8,14 +8,14 @@ There is ongoing military activity in the region. Missiles, drones and other pro
 
 Avoid the vicinity of military installations, critical infrastructure and stay away from US government facilities.
 
-Our ability to provide consular services to Canadians during an active conflict is limited, with priority given to the provision of essential services. Prepare contingency plans that don’t rely on the Government of Canada’s assistance for departure.
+Our ability to provide consular services to Canadians during an active conflict is limited, with priority given to the provision of essential services. Prepare contingency plans that don't rely on the Government of Canada's assistance for departure.
 
 Emirati airspace is subject to intermittent, temporary and partial closures. Some commercial flights are scheduled to resume as of March 5, 2026.
 
 * Monitor flight availability and leave when commercial options are available
 * Verify with your airline before you travel to the airport
 
-You should shelter in place, but if you wish to leave the United Arab Emirates via a land border crossing and assess that you can do safely, the following land border crossings to Oman are available:
+You should shelter in place, but if you wish to leave the United Arab Emirates via a land border crossing and assess that you can do so safely, the following land border crossings to Oman are available:
 
 * Hatta/Al Wajajah
 * Khatma Malaha

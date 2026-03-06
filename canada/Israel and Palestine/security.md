@@ -12,7 +12,7 @@ There could be disruptions to movement and transportation due to military debris
 
 Ben Gurion International Airport is closed. All flights to and from Israel are cancelled until further notice.
 
-Land border crossings with Jordan and Egypt remain open but could be impacted at short notice. You should shelter in place, but if you wish to leave Israel via a land border crossing and believe you can do safely, the following options:
+Land border crossings with Jordan and Egypt remain open but could be impacted at short notice. You should shelter in place, but if you wish to leave Israel via a land border crossing and believe you can do so safely, the following options are available:
 
 * Jordan :
 

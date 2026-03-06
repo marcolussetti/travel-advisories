@@ -10,6 +10,8 @@ Avoid the vicinity of military installations, critical infrastructure and stay a
 
 The Iraqi airspace is closed until further notice.
 
+If you are in the Kurdistan Region of Iraq, you should shelter in place. However, if you wish to leave the Kurdistan Region for Türkiye via a land border crossing and assess that you can do so safely, the Ibrahim Khalil border crossing is available. There are no risk-free options for leaving Iraq, and the security situation can change quickly.
+
 You should:
 
 * be vigilant and follow the instructions of local authorities at all times, including any orders to shelter in place

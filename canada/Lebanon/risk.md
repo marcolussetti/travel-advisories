@@ -22,6 +22,6 @@ The features in this map do not constitute an authoritative source of geographic
 
 The security situation could deteriorate further, and lead to additional airspace restrictions and flight disruptions.
 
-Commercial flights are operating. You should leave while these options remain available.
+Commercial flights are operating. If you are in an area subject to an evacuation order, leave the area while it is safe to do so. If you find yourself in an area where strikes are occurring, shelter in place until it is safe to move. When possible, and only if you assess that it is safe to do so, depart Lebanon at the earliest opportunity while commercial flights remain available.
 
 Sign up with the [Registration of Canadians Abroad](https://travel.gc.ca/travelling/registration) service to receive important additional information, specific to your location, about the ongoing situation and any available departure options.

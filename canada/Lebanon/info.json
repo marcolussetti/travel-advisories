@@ -1,7 +1,7 @@
 {
     "name": "Lebanon",
-    "update_reason": "Risk level; Safety and security \u2013 sign up with the Registration of Canadians Abroad service to receive information on any available departure options",
-    "update_date": "2026-03-04T13:15:00",
+    "update_reason": "Risk level \u2013 If you are in an area subject to an evacuation order, leave the area while it is safe to do so",
+    "update_date": "2026-03-05T19:54:00",
     "sections": {
         "risk": "canada/Lebanon/risk.md",
         "security": "canada/Lebanon/security.md",

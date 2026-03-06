@@ -13,12 +13,11 @@ There is ongoing military activity in the region. Missiles, drones and other pro
 
 Previous air strikes reached populated areas across Lebanon, including central Beirut. Our ability to provide consular services to Canadians during an active conflict is limited, with priority given to the provision of essential services. Prepare contingency plans that don’t rely on the Government of Canada’s assistance for departure.
 
-Commercial flights are operating. You should leave while these options remain available.
-
 You may need to stock up on food, water and medications in case the situation deteriorates.
 
 You should:
 
+* follow evacuation orders
 * be vigilant and follow the instructions of local authorities at all times, including any orders to shelter in place
 * ensure that your travel documents and those of your family are up to date
 * monitor local and international media to stay informed of the rapidly evolving situation

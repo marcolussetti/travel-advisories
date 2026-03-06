@@ -2,11 +2,29 @@
 
 ## Safety and security
 
-### Land border crossing from Iran
+### Ongoing hostilities in the Middle East
 
-The Astara land border crossing between Azerbaijan and Iran is closed. However, the Embassy of Canada to Türkiye, in Ankara, can request special entry authorization for Canadians from the Government of Azerbaijan. If you assess that this is your safest option, contact the [Embassy of Canada in Ankara](https://www.international.gc.ca/country-pays/turkiye/ankara.aspx?lang=eng&_ga=2.207730970.909031257.1750038042-1748139045.1691506137) or Global Affairs Canada’s 24/7 [Emergency Watch and Response Centre](https://travel.gc.ca/assistance/emergency-assistance?_ga=2.93069341.168187391.1696947682-2043183889.1686925125). You must provide the information on your Canadian passport’s bio page (full name, date of birth, passport number). You must still [apply for a visa](https://evisa.gov.az/en/) from Azerbaijan authorities in advance.
+There is ongoing military activity in the region. Missiles, drones and other projectiles could strike targets at any time.
 
-You must have valid travel documents. If you have dual Canadian-Iranian citizenship, Iranian border officials may require you to exit Iran on your Iranian passport.
+There could be disruptions to air traffic, movement and transportation, including:
+
+* flight cancellations
+* airspace closures
+
+The Astara land border crossing between Azerbaijan and Iran is closed. However, the Embassy of Canada to Türkiye, in Ankara, can request special entry authorization for Canadians from the Government of Azerbaijan.
+
+If you assess that this is your safest option, contact the [Embassy of Canada in Ankara](https://www.international.gc.ca/country-pays/turkiye/ankara.aspx?lang=eng&_ga=2.207730970.909031257.1750038042-1748139045.1691506137) or Global Affairs Canada’s 24/7 [Emergency Watch and Response Centre](https://travel.gc.ca/assistance/emergency-assistance?_ga=2.93069341.168187391.1696947682-2043183889.1686925125). You must provide the details appearing on your Canadian passport’s bio page (full name, date of birth, document number) along with a photograph of the passport bio page. You must still [apply for a visa](https://evisa.gov.az/en/) from Azerbaijan authorities in advance.
+
+You must have valid travel documents. If you have dual Canadian-Iranian citizenship, Iranian border officials may require you to present your Iranian passport, and if they do, they may prevent you from leaving Iran.
+
+If you are denied departure by Iranian authorities, Canada is unable to communicate with them or intervene on your behalf.
+
+You should:
+
+* be vigilant and follow the instructions of local authorities at all times, including any orders to shelter in place
+* ensure that your travel documents and those of your family are up to date
+* monitor local and international media to stay informed of the rapidly evolving situation
+* sign up with the [Registration of Canadians Abroad](https://travel.gc.ca/travelling/registration "https://travel.gc.ca/travelling/registration") service to receive important information, specific to your location, about the ongoing situation.
 
 ### Districts in the western part of Azerbaijan
 

@@ -31,8 +31,10 @@ Security forces continue to be on high alert in the following cities:
 * Lahore
 * Karachi, including the port and international airport
 
-The security situation is evolving and remains unpredictable.
+The security situation is evolving and remains unpredictable. Protests linked to regional tensions have taken place and more are expected in major cities across Pakistan. Local authorities have heightened security measures around diplomatic areas in Islamabad, Karachi and Lahore.
 
+* Demonstrations may become violent with little warning
+* Movement restrictions or curfews could be imposed
 * Communication networks may be disrupted
 * Roadblocks could lead to significant disruptions to traffic and public transportation, including transit routes to airports
 
