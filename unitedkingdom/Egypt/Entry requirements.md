@@ -20,7 +20,9 @@ When returning to the UK, British citizens must carry a valid [British passport]
 
 British passport holders travelling to Egypt normally need a visa.
 
-If you are staying for less than 15 days at resorts in Sharm el Sheikh, Dahab, Nuweiba or Taba, you do not need a visa. You will get a free entry permission stamp on arrival. If you plan to travel outside the resorts or stay more than 15 days, you must get a visa. You can get a visa at Sharm el Sheikh airport or online.
+If you are staying for less than 15 days at resorts in Sharm el Sheikh, Dahab, Nuweiba or Taba, you do not need a visa. You will get a free entry permission stamp on arrival at Sharm El-Sheikh Airport. If you plan to travel outside the resorts or stay more than 15 days, you must get a visa. You can get a visa at Sharm El-Sheikh Airport or online.
+
+If you arrive in South Sinai by land through the Taba Border Crossing, you can get the same free entry permission stamp on arrival. You must also pay a ‘Sinai Tax’ of 25 US dollars to enter through the Taba Border Crossing  (see ‘Entering Egypt from Israel’ section).
 
 ### Applying for a visa
 
@@ -28,7 +30,7 @@ You can apply for a visa:
 
 * online – [getting an e-visa in advance](https://visa2egypt.gov.eg/eVisa/Home?VISTK=AMEV-QAST-XKKB-4X4J-LYML-KSS1-J4VF-B3V5-GO2U-AYIZ-4F82-1WR5-RW7O-0L87-4CZ8-9CFV) can help to prevent delays, tourist e-visas are valid for up to 3 months
 * in person or by post – apply through the [Egyptian Consulate General in the UK](https://egyptconsulate.co.uk/visas/)
-* on arrival in Egypt – approved airports have kiosks before you reach the immigration counters where you can buy a visa for 25 US dollars (cash only – Egyptian officials prefer dollars, but you may be able to pay in British pounds or euros). Visas on arrival are valid for up to 30 days.
+* on arrival in Egypt – approved airports have kiosks before you reach the immigration counters where you can buy a visa for 30 US dollars (cash only – Egyptian officials prefer dollars, but you may be able to pay in British pounds or euros). Visas on arrival are valid for up to 30 days.
 
 British passport holders from British Overseas Territories and Crown Dependencies cannot apply online.
 

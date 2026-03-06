@@ -1,10 +1,10 @@
 # Warnings and insurance
 
 Still current at:
-:   5 March 2026
+:   6 March 2026
 
 Updated:
-:   4 March 2026
+:   5 March 2026
 
 Latest update:
 :   Updated with information about the risks from terrorism (‘Safety and security’ page). FCDO now advises against all but essential travel to Kuwait. Register your presence if you're in Kuwait (‘Warnings and insurance’ page).

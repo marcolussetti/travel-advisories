@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   16 February 2026
+:   6 March 2026
 
 Updated:
-:   15 February 2026
+:   5 March 2026
 
 Latest update:
-:   We no longer advise against all but essential travel to the whole of Bangladesh. We continue to advise against all but essential travel to the Chittagong Hill Tracts ('Warnings and insurance' page)
+:   New information about global travel impacts due to the escalation in the Middle East (‘Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/6991cc717da91680ad7f4436/Bangladesh_map.jpg)
 
@@ -27,6 +27,16 @@ FCDO advises against all but essential travel to the Chittagong Hill Tracts, 
 Find out more about [why FCDO advises against travel](https://www.gov.uk/foreign-travel-advice/bangladesh/safety-and-security).
 
 See [how to get help from the UK government abroad](https://www.contact.service.csd.fcdo.gov.uk/posts/pakistan/british-high-commission-islamabad) including in an emergency.
+
+## Global travel impacts due to escalation in the Middle East
+
+Escalation in the Middle East has caused widespread travel disruption, including airspace closures, delayed and cancelled flights.
+
+Your travel plans may be affected, even if your destination is not in the Middle East. British nationals should:
+
+* check for the latest updates from your airline or tour operator before travelling
+* review your travel insurance policy for coverage before you travel
+* monitor local and international media for the latest information and sign up for travel advice email alerts.
 
 ## Before you travel
 

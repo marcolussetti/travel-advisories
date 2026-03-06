@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   4 March 2026
+:   6 March 2026
 
 Updated:
-:   4 March 2026
+:   5 March 2026
 
 Latest update:
-:   Information about Jordanian airspace, which has been affected by the regional conflict. FCDO continues to advise against all but essential travel to Jordan, and all travel to within 3km of the border with Syria. (Warnings and insurance)
+:   Change to language on likelihood of terrorism in Jordan see “safety and security” page
 
 ![](https://assets.publishing.service.gov.uk/media/69a5be6fa56a5482312c71a0/FCDO__TA__087_-_Jordan_Travel_Advice_Ed3__WEB_.jpg)
 

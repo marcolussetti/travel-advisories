@@ -1,11 +1,11 @@
 {
     "name": "Cyprus",
-    "update_reason": "Updated information about regional risks ('Warnings and insurance' page).",
+    "update_reason": "Updated assessment that terrorist attacks in Cyprus cannot be ruled out (\u2018Safety and security\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Cyprus/Warnings and insurance.md",
-            "update_date": "2026-03-02T23:53:26+00:00"
+            "update_date": "2026-03-05T13:54:37+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Cyprus/Getting help.md"
         }
     ],
-    "update_date": "2026-03-02T23:53:26+00:00"
+    "update_date": "2026-03-05T13:54:37+00:00"
 }

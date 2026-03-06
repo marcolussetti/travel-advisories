@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   2 March 2026
+:   6 March 2026
 
 Updated:
-:   1 March 2026
+:   5 March 2026
 
 Latest update:
-:   Updated information about regional tensions and limiting staff movements (Warnings and Insurance page)
+:   Updated information on regional escalation including on flight disruptions and protests (‘Warnings and insurance’ page).
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
@@ -79,9 +79,16 @@ Find out more about [why FCDO advises against travel to these regions](/foreign-
 
 In Karachi, key infrastructure and transit routes, including Karachi Jinnah International Airport, have recently been the subject of security threats and enhanced security presence. Exercise caution when using public transport and transport hubs, including airports.
 
-## Pakistan-Afghanistan tensions
+## Regional escalation
 
-There are increased security risks in Pakistan because of tensions between Pakistan and Afghanistan and developments in Iran.  You should follow FCDO travel advice, which warns people about the risk of terrorism and to be careful around protests, demonstrations, rallies and religious gatherings.  Given the increasing risks we have instructed UK staff in Pakistan to restrict their movements at this time. Sign up to [get email notifications](https://www.gov.uk/foreign-travel-advice/pakistan/email-signup) when this travel advice is updated.
+Regional escalation poses significant security risks and has led to travel disruption. There are increased security risks in Pakistan because of tensions between Pakistan and Afghanistan and developments in Iran.  Flights are being disrupted due to air space closures in the Middle East. Please check with your airline before travelling.
+
+Protests are planned in major cities in Pakistan. Given the increasing risks we have instructed UK staff in Pakistan to restrict their movements at this time.
+
+You should:
+
+* be aware of the risk of terrorism and to be careful around protests, demonstrations, rallies and religious gatherings
+* sign up to [FCDO Travel Advice email alerts](https://www.gov.uk/foreign-travel-advice/pakistan/email-signup)
 
 ## Before you travel
 

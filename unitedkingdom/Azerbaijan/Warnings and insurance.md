@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   2 March 2026
+:   6 March 2026
 
 Updated:
-:   1 March 2026
+:   5 March 2026
 
 Latest update:
-:   New information about entering Azerbaijan across the land border from Iran (Entry requirements page)
+:   As a result of drone strikes in Nakhchivan, Azerbaijan, we have updated information on regional risks (‘Warning and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/67efddbf27eb76c92cf7e567/FCDO__TA__004_-_Azerbaijan_Travel_Advice_Ed9__WEB_.jpg)
 
@@ -37,6 +37,23 @@ Find out more about [why FCDO advises against travel](/foreign-travel-advice/aze
 ## UK government support
 
 Help for British nationals is extremely limited in the areas where we advise against travel.
+
+## Drone impact at Nakhchivan International Airport
+
+On 5 March 2026, Azerbaijan confirmed two drone strike impacts at Nakhchivan International Airport in Azerbaijan’s southwestern exclave. British nationals should follow instructions of the Azerbaijani local authorities.
+
+## Regional escalation
+
+There is a heightened risk of regional tension. Escalation could lead to travel disruption, including airspace closures and other unanticipated impacts.
+
+British nationals should take sensible precautions, considering their own individual circumstances. These include:
+
+* read [if you’re affected by a crisis abroad - GOV.UK](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas). This includes guidance on “how to prepare for a crisis” with suggestions on what you might include in your emergency supplies and “what to do in a crisis”
+* sign up to FCDO Travel Advice email alerts
+* monitor local and international media for the latest information
+* follow the instructions of the local authorities
+
+For information on crossing the border from Iran into Azerbaijan, see [Entry requirements](https://www.gov.uk/foreign-travel-advice/azerbaijan/entry-requirements).
 
 ## Before you travel
 

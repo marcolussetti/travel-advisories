@@ -134,9 +134,9 @@ Egypt-Israel border crossing (opening times are subject to change):
 
 * Taba: Open 24 hours
 
-At the border crossing from Israel to Egypt at Taba, you must pay a ‘Sinai Tax’ of 720 Egyptian Pounds per person (not applicable to children 24 months old or younger). This is payable at the Taba Border Crossing in Egyptian Pounds (cash only). There is a bank and ATMs dispensing Egyptian Pounds available at the border and in hotels on the Egyptian side.
+If you cross the border from Israel into Egypt at Taba, you will have to pay a ‘Sinai Tax’ of 25 US dollars per person (not applicable to children under 24 months). This is payable at the Taba Border Crossing in US dollars, cash only. The border tax exempts you from requiring an entry visa for Egypt for up to 15 days, as long as you stay within the Sinai Peninsula.
 
-The ‘Sinai Tax’ exempts you from requiring an entry visa for Egypt for up to 15 days, as long as you stay within the Sinai Peninsula. If your stay in Sinai will exceed 15 days, or you are planning to leave the Sinai Peninsula, including to fly on from mainland airports e.g. Cairo or Hurghada, you will need an entry visa. This costs USD25 and can be purchased at the Taba Border Crossing on entry, or from the immigration office in Sharm El Sheikh.
+If your stay in Sinai will exceed 15 days, or you are planning to leave the Sinai Peninsula, including to fly on from mainland airports, for example Cairo or Hurghada, you will need an entry visa. This costs 30 US dollars and can be purchased at the Taba Border Crossing on entry or at Sharm El-Sheikh airport. This entry visa also requires a letter of guarantee, which can be obtained from the travel agents located in the arrivals hall at the Taba Border Crossing, at a cost of 25 US dollars. Please note that there are no ATMs dispensing US dollars at the Taba Border Crossing. Travellers should obtain USD before travelling or in Eilat before arriving at the crossing as all payments are required in cash.
 
 ## Entry to Jordan
 

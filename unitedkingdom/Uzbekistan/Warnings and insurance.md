@@ -1,15 +1,25 @@
 # Warnings and insurance
 
 Still current at:
-:   28 February 2026
+:   6 March 2026
 
 Updated:
-:   27 February 2026
+:   5 March 2026
 
 Latest update:
-:   Updated with information about the risks from terrorism (‘Safety and security’ page’).
+:   New information about global travel impacts due to escalation in the Middle East (‘Warnings and insurance’ page).
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
+
+## Global travel impacts due to escalation in the Middle East
+
+Escalation in the Middle East has caused widespread travel disruption, including airspace closures, delayed and cancelled flights.
+
+Your travel plans may be affected, even if your destination is not in the Middle East. British nationals should:
+
+* check for the latest updates from your airline or tour operator before travelling
+* review your travel insurance policy for coverage before you travel
+* monitor local and international media for the latest information and sign up for travel advice email alerts
 
 ## Before you travel
 

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   3 March 2026
+:   6 March 2026
 
 Updated:
-:   2 March 2026
+:   5 March 2026
 
 Latest update:
-:   Updated information about regional risks ('Warnings and insurance' page).
+:   Updated assessment that terrorist attacks in Cyprus cannot be ruled out (‘Safety and security’ page).
 
 ## Suspected drone impact at RAF Akrotiri
 

@@ -10,7 +10,7 @@ UK Counter Terrorism Policing has information and advice on [staying safe abroad
 
 ### Terrorism in Jordan
 
-Terrorists are likely to try to carry out attacks in Jordan.
+Terrorists are very likely to try to carry out attacks in Jordan.
 
 Terrorism attacks could be indiscriminate, including in places visited by foreign nationals, such as:
 

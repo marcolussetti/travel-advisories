@@ -10,7 +10,7 @@ UK Counter Terrorism Policing has information and advice on [staying safe abroa
 
 ### Terrorism in Cyprus
 
-Although there’s no recent history of terrorism in Cyprus, attacks cannot be ruled out.
+Terrorist attacks in Cyprus cannot be ruled out.
 
 Attacks could be indiscriminate, including in places visited by foreign nationals.
 

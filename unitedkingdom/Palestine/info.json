@@ -1,11 +1,11 @@
 {
     "name": "Palestine",
-    "update_reason": "Updated information about regional escalation and leaving Israel and Palestine ('Warnings and insurance' page).",
+    "update_reason": "Updated information about leaving Israel and Palestine (\u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Palestine/Warnings and insurance.md",
-            "update_date": "2026-03-03T21:04:46+00:00"
+            "update_date": "2026-03-05T22:39:04+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Palestine/Getting help.md"
         }
     ],
-    "update_date": "2026-03-03T21:04:46+00:00"
+    "update_date": "2026-03-05T22:39:04+00:00"
 }

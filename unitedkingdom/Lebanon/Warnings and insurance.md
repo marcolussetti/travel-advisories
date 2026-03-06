@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   5 March 2026
+:   6 March 2026
 
 Updated:
-:   4 March 2026
+:   5 March 2026
 
 Latest update:
-:   FCDO now advises against all travel or all but essential travel to all areas of Lebanon ('Warnings and insurance' page). Updated advice on conflict affecting Lebanon and increase scope of the area to which we advise against ‘all travel’.
+:   Register your presence if you’re in Lebanon (‘Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/69a8951f2f1252e55180d4f9/FCDO__TA__023_-_Lebanon_Travel_Advice_Ed21__WEB_.jpg)
 
@@ -63,6 +63,10 @@ FCDO advises against all travel to Akkar Governorate.
 ### Palestinian refugee camps
 
 FCDO advises against all travel to the 12 Palestinian refugee camps. See [Palestinian refugee camp locations](https://www.unrwa.org/where-we-work/lebanon) on the UN Relief and Works Agency website.
+
+## Register your presence
+
+Let the UK government know you’re in Lebanon, [register your presence](https://www.register.service.csd.fcdo.gov.uk/lebanon-20260305) if you’re in Lebanon for further updates.
 
 ## Regional escalation
 

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   4 March 2026
+:   6 March 2026
 
 Updated:
-:   3 March 2026
+:   5 March 2026
 
 Latest update:
-:   Updated information about regional escalation and leaving Israel and Palestine ('Warnings and insurance' page).
+:   Updated information about leaving Israel and Palestine (‘Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/69a2c80fec82ce45f05bd722/FCDO__TA__022_-_Israel_Travel_Advice_Ed27__WEB_.jpg)
 
@@ -32,7 +32,7 @@ Follow the instructions of the local authorities and monitor local and inter
 
 Read [If you’re affected by a crisis abroad - GOV.UK](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas) this includes suggestions on what you might include in your emergency supplies.
 
-Sign up to FCDO Travel Advice [email alerts.](https://www.gov.uk/foreign-travel-advice/israel/email-signup)
+Sign up to FCDO Travel Advice [email alerts.](https://www.gov.uk/foreign-travel-advice/palestine/email-signup)
 
 ## Shelter in place
 
@@ -44,13 +44,13 @@ Sign up to receive information and alerts. Visit [Israel’s Home Front Comm
 
 If you judge it is safe to do so and plan to use commercial options to depart check for the latest updates from your airline or tour operator, as well as the instructions of local authorities and the status of any border crossings before you travel. Make sure you have access to emergency supplies and essential medication. Travel within or out of Israel is at your own risk.
 
-Keep your departure plans under review and ensure your travel documents are up to date, including any visas required for onward travel. Details of Israel’s Land Borders operational hours can be found at the following link, under the “Land Borders” tab
+Commercial travel options are still available even while Israeli airspace remains closed. For those eligible to travel to Egypt via Taba border crossing, transport services continue to operate from major cities to Eilat. You can check ‘entry requirements’ below. The primary Israeli public transport service is [Egged](https://www.egged.co.il/en). There are regular buses to Eilat which you can book online. You can also download the app ‘Moovit’ for details of public transport (including from Eilat to Taba border crossing), or ‘Gett’ to book private taxis.
 
-[https://www.iaa.gov.il/en/](https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.iaa.gov.il%2Fen%2F&data=05%7C02%7CLouis.Merry%40fcdo.gov.uk%7C3c2cec688cbf4d9e69a408de793fd0ee%7Cd3a2d0d37cc84f52bbf985bd43d94279%7C0%7C0%7C639081512201396248%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=Xzl0px%2BlEPwOiZJ%2FqxTGjQ3EST8T3bO6s0p3sKJzhcU%3D&reserved=0)
+Make sure you have access to emergency supplies and essential medication. Travel within or out of Israel is at your own risk.
 
-The Israeli Ministry of Tourism is providing shuttle buses from Jerusalem and Tel Aviv to the Taba border (Egypt). British tourists that entered on a B2 tourist visa are eligible to register for this service. British Nationals who are resident in Israel or are dual Israeli nationals are not eligible for this service. To register for this service those eligible need to go to the below link:
+Keep your departure plans under review and ensure your travel documents are up to date, including any visas required for onward travel. See [Israel’s Land Borders operational hours](https://www.iaa.gov.il/en/) under the “Land Borders” tab.
 
-[https://govforms.gov.il/mw/forms/touristsevacuationdata@tourism.gov.il?displang=en&gbxid=0](https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgovforms.gov.il%2Fmw%2Fforms%2Ftouristsevacuationdata%40tourism.gov.il%3Fdisplang%3Den%26gbxid%3D0&data=05%7C02%7CLouis.Merry%40fcdo.gov.uk%7Ccb1f00508d864cc253d508de793032ca%7Cd3a2d0d37cc84f52bbf985bd43d94279%7C0%7C0%7C639081445070363304%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=FusUtZ5dQmWdcBLE2V7ka2pv7BwStKs8%2Fwg0qBI6HEM%3D&reserved=0)
+The Israeli Ministry of Tourism is providing shuttle buses from Jerusalem and Tel Aviv to the Taba border (Egypt). British tourists that entered on a B2 tourist visa are eligible to register for this service. British Nationals who are resident in Israel or are dual Israeli nationals are not eligible for this service. If you are eligible you can [register on the Tourist Evacuation from Israel form](https://govforms.gov.il/mw/forms/touristsevacuationdata@tourism.gov.il?displang=en&gbxid=0).
 
 A British Embassy team is present on the Egyptian side of the Taba border to point British Nationals to options for onward travel to Sharm El-Sheikh Airport.
 
