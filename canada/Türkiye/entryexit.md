@@ -16,7 +16,7 @@ Before you travel, check with your transportation company about passport require
 
 #### Regular Canadian passport
 
-Your passport must be valid for at least 60 days beyond the duration of stay indicated on your visa, e-Visa, visa exemption or residence permit.
+Your passport must be valid at least 150 days from the date you enter Türkiye.
 
 #### Passport for official travel
 

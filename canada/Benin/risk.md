@@ -20,18 +20,21 @@ The features in this map do not constitute an authoritative source of geographic
 
 [Exercise a high degree of caution](#levels "Risk Levels") in Benin due to crime.
 
-### Border areas with Burkina Faso, Niger and Nigeria - Avoid all travel
+### Border areas with Burkina Faso, Niger, Nigeria and Togo - Avoid all travel
 
-[Avoid all travel](#levels "Risk Levels") to within 50 km of the borders with Burkina Faso, Niger and Nigeria in the departments of Atacora, Alibori and Borgou, north of the city of Nikki, due to the threat of terrorism, banditry and the risk of kidnapping. This advisory includes the W National Park and the Pendjari National Park.
+[Avoid all travel](#levels "Risk Levels") to the following areas due to the threat of terrorism, banditry, and the risk of kidnapping:
 
-### North of National Interstate Highway 7 - Avoid all travel
+* along the border with Togo in the Atacora Department west of the Boukoumbé-Tanguiéta axis
+* within 50 km of the border with Burkina Faso
+* within 50 km of the border with Niger and all the area north of the Interstate 7 motorway
+* within 50 km of the border with Nigeria, north of the town of Nikki in Borgou Department
 
-[Avoid all travel](#levels "Risk Levels") to the area north of National Inter Highway 7, due to the threat of terrorism, banditry and the risk of kidnapping.
+This advisory includes the W National Park and the Pendjari National Park.
 
-### South of the Gouandé-Tanguiéta corridor to the Togo border - Avoid all travel
+### Northern departments - Avoid non-essential travel
 
-[Avoid all travel](#levels "Risk Levels") to south of the Gouandé-Tanguiéta corridor up to the border with Togo due to the threat of terrorism, banditry and the risk of kidnapping.
+[Avoid non-essential travel](#levels "Risk Levels") to the departments of Atacora and Alibori due to the threat of terrorism and the risk of kidnapping.
 
-### Portion of the Borgou region near the border with Nigeria - Avoid non-essential travel
+### Portion of the Borgou Department along the border with Nigeria - Avoid non-essential travel
 
-[Avoid non-essential travel](#levels "Risk Levels") to within 50 km of the Nigerian border south of the town of Nikki in the Borgou region.
+[Avoid non-essential travel](#levels "Risk Levels") to within 50 km of the Nigerian border south of the town of Nikki in the Borgou Department.

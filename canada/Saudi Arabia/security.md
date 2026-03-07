@@ -14,9 +14,11 @@ Saudi airspace is subject to a partial closure. Some flights have been cancelled
 
 You should:
 
-* be vigilant and follow the instructions of local authorities at all times, including any orders to shelter in place
+* be prepared to shelter in place if instructed by local authorities or if the situation deteriorates
+* follow the instructions of local authorities at all times
 * ensure that your travel documents and those of your family are up to date
 * monitor local and international media to stay informed of the rapidly evolving situation
+* make sure that you have access to water, food, medicine and essentials
 * sign up with the [Registration of Canadians Abroad](https://travel.gc.ca/travelling/registration) service to receive important additional information, specific to your location, about the ongoing situation and any available departure options
 
 [Canada's response to the situation in the Middle East](https://www.international.gc.ca/world-monde/issues_development-enjeux_developpement/response_conflict-reponse_conflits/crisis-crises/middle-east-moyen-orient.aspx?lang=eng)

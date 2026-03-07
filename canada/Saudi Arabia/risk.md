@@ -20,7 +20,7 @@ The features in this map do not constitute an authoritative source of geographic
 
 [Avoid non-essential travel](#levels "Risk Levels") to Saudi Arabia due to the risk of falling military debris from intercepted projectiles, airspace closure, and renewed regional tensions.
 
-You should shelter in place until the security situation improves.
+Be prepared to shelter in place if instructed by local authorities or if the situation deteriorates.
 
 Sign up with the [Registration of Canadians Abroad](https://travel.gc.ca/travelling/registration) service to receive important additional information, specific to your location, about the ongoing situation and any available departure options.
 

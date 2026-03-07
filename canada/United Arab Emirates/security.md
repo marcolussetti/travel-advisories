@@ -10,7 +10,7 @@ Avoid the vicinity of military installations, critical infrastructure and stay a
 
 Our ability to provide consular services to Canadians during an active conflict is limited, with priority given to the provision of essential services. Prepare contingency plans that don't rely on the Government of Canada's assistance for departure.
 
-Emirati airspace is subject to intermittent, temporary and partial closures. Some commercial flights are scheduled to resume as of March 5, 2026.
+Emirati airspace is subject to intermittent, temporary and partial closures. Some commercial flights resumed on March 5, 2026.
 
 * Monitor flight availability and leave when commercial options are available
 * Verify with your airline before you travel to the airport
