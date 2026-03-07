@@ -8,7 +8,7 @@ UK Counter Terrorism Policing has information and advice on [staying safe abroad
 
 ### Terrorism in Trinidad and Tobago
 
-Terrorist attacks in Trinidad and Tobago cannot be ruled out.
+Although there is no recent history of terrorism in Trinidad and Tobago, attacks cannot be ruled out.
 
 Attacks could be indiscriminate including in places visited by foreign nationals. Stay aware of your surroundings, keep up to date with local media reports and follow the advice of local authorities.
 

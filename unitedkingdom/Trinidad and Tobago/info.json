@@ -1,11 +1,11 @@
 {
     "name": "Trinidad and Tobago",
-    "update_reason": "Removal of information about the State of Emergency which ended on 31 January 2026 (\u2018Warnings and insurance\u2019 page).",
+    "update_reason": "Addition of information about State of Emergency and updated with information about the risks from terrorism ('Warnings and security' and \u2018Safety and security\u2019 pages).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Trinidad and Tobago/Warnings and insurance.md",
-            "update_date": "2026-02-04T16:57:50+00:00"
+            "update_date": "2026-03-06T10:24:58+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Trinidad and Tobago/Getting help.md"
         }
     ],
-    "update_date": "2026-02-04T16:57:50+00:00"
+    "update_date": "2026-03-06T10:24:58+00:00"
 }

@@ -63,12 +63,8 @@ There are strict rules about [goods and the amount of alcohol you can take into 
 
 You can complete a declaration through the Customs.BN app or on arrival at the airport. Download the app for [Android](https://play.google.com/store/apps/details?id=rced.egnc.customsbn&pli=1https://play.google.com/store/apps/details?id=rced.egnc.customsbn&pli=1) or [iOS](https://apps.apple.com/us/app/customs-bn/id6449696019).
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/brunei)
+[Previous:Warnings and insurance](/foreign-travel-advice/brunei)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/brunei/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/brunei/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/brunei/print)

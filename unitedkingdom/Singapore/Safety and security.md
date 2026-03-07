@@ -154,12 +154,8 @@ The Singaporean authorities will prosecute cases of drunken or antisocial behavi
 
 There have been incidents of [piracy and armed robbery](https://www.gov.uk/guidance/sea-river-and-piracy-safety) against ships in and around the waters of Singapore and the Malacca Strait. Set up secure areas on board and report all incidents to the coastal and flag state authorities.
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/singapore/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/singapore/entry-requirements)
 
-[Next
-:
-Health](/foreign-travel-advice/singapore/health)
+[Next:Health](/foreign-travel-advice/singapore/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/singapore/print)

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   17 February 2026
+:   7 March 2026
 
 Updated:
-:   16 February 2026
+:   6 March 2026
 
 Latest update:
-:   Addition of information that from 17 February until 31 December 2026, you can enter China visa free for stays of up to 30 days for business, tourism, family or friend visits, or transit ('Entry requirements' page).
+:   Updated information on crime and scams ('Safety and security' page).
 
 This travel advice covers mainland China. See travel advice for the Special Administrative Regions, [Hong Kong](https://www.gov.uk/foreign-travel-advice/hong-kong) and [Macao](https://www.gov.uk/foreign-travel-advice/macao).
 

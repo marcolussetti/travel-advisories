@@ -22,7 +22,7 @@ When returning to the UK, British citizens must carry a valid [British passport]
 
 You must have a visa to visit Laos.
 
-To work, study and travel for business or other reasons, you must meet the [Lao immigration department’s entry requirements](https://immigration.gov.la/require-for-working-investing-and-studying-in-lao/).
+To work, study and travel for business or other reasons, you must meet the [Lao immigration department’s entry requirements](https://immigration.gov.la/en/home).
 
 ### Applying for a visa
 

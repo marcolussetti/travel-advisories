@@ -1,11 +1,11 @@
 {
     "name": "New Zealand",
-    "update_reason": "New information about dual nationals returning to the UK (\u2018Entry requirements\u2019 page).",
+    "update_reason": "New information about travel disruption ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/New Zealand/Warnings and insurance.md",
-            "update_date": "2025-12-10T13:20:11+00:00"
+            "update_date": "2026-03-06T14:58:44+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/New Zealand/Getting help.md"
         }
     ],
-    "update_date": "2025-12-10T13:20:11+00:00"
+    "update_date": "2026-03-06T14:58:44+00:00"
 }

@@ -55,8 +55,6 @@ Follow FCDO:
 * [travel advice on X](https://x.com/fcdotravelgovuk)
 * [travel advice on Facebook](https://www.facebook.com/FCDOTravel/)
 
-[Previous
-:
-Health](/foreign-travel-advice/nauru/health)
+[Previous:Health](/foreign-travel-advice/nauru/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/nauru/print)

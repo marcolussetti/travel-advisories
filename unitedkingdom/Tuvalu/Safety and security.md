@@ -71,12 +71,8 @@ Monitor local and international weather updates from the [Tuvalu Meteorological 
 
 The US Federal Emergency Management Agency website has advice about [what to do before, during and after an earthquake](https://www.ready.gov/earthquakes) and resulting [tsunamis](https://www.ready.gov/tsunamis).
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/tuvalu/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/tuvalu/entry-requirements)
 
-[Next
-:
-Health](/foreign-travel-advice/tuvalu/health)
+[Next:Health](/foreign-travel-advice/tuvalu/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/tuvalu/print)

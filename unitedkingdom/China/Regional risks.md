@@ -38,7 +38,7 @@ The ability of the British Embassy to help British nationals in Xinjiang Uyghur 
 
 ### China-Myanmar border
 
-There is continuing violence on the Myanmar side of the China-Myanmar border, which has occasionally spilled over into China. In early 2024, the Chinese authorities reported artillery shells from Myanmar had injured residents and damaged structures within its territory in Yunnan province, prompting increased armed patrols along the border.
+There is continuing violence on the Myanmar side of the China-Myanmar border, which has occasionally spilled over into China.
 
 [Previous:Safety and security](/foreign-travel-advice/china/safety-and-security)
 

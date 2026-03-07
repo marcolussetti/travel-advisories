@@ -1,32 +1,28 @@
 # Warnings and insurance
 
 Still current at:
-:   5 March 2026
+:   7 March 2026
 
 Updated:
-:   4 March 2026
+:   6 March 2026
 
 Latest update:
-:   Additional information on potential disruption during Nepal’s election on 5 March, including after polling day. Information on potential impact to travel and visas due to escalation in the Middle East (‘Warnings and insurance page’).
+:   Addition of information that following Nepal’s election on 5 March restrictions on movement have been lifted, but the risk of travel disruption remains as the vote count and results are announced ('Warnings and insurance' page).
 
 ## General election
 
-There is a risk of protests, political violence and travel disruption around the general election on 5 March 2026.
+Following the general election on 5 March 2026 there remains a risk of protests, political violence and travel disruption – particularly related to vote counts, results and the formation of a new government.
 
 Protests can start at short notice and may lead to clashes.
 
-During the election, there may be restrictions on travel across much of Nepal. On election day, only essential travel is likely to be allowed and most businesses will close. International and domestic flights are expected to continue, but disruption is possible. Nepal’s land border crossings will close in the lead up to the election and on 5 March.
-
-The potential for protests and political violence will remain after the election, even though restrictions are likely to be lifted.
-
-Authorities may increase police presence and could impose curfews in different locations.
+Authorities may also increase police presence and could impose curfews in different locations at short notice.
 
 You should:
 
-* stay away from polling stations (unless voting or participating in officially accredited observation), political rallies and demonstrations, including around political party offices, high profile government buildings and the Maitighar Mandala area of Kathmandu
+* stay away from vote counts (unless involved in accredited observation), political rallies and demonstrations, including around political party offices and the Maitighar Mandala area of Kathmandu
 * check local media for updates
-* follow the direction of local authorities (including security forces deployed for elections)
-* check for messaging from your hotel, airline or tour operator on any potential disruption to travel plans on or around polling day
+* follow the direction of local authorities
+* check with your hotel, airline or tour operator on any potential disruption to travel plans
 
 ## Global travel impacts due to escalation in the Middle East
 

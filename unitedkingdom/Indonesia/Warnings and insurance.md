@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   13 February 2026
+:   7 March 2026
 
 Updated:
-:   12 February 2026
+:   6 March 2026
 
 Latest update:
-:   Addition of information that visa on arrival cannot be used to undertake volunteering, and addition of information about the risk of possible arrest for possessing CBD oil ('Entry requirements' and 'Safety and security' pages).
+:   New information about travel disruption ('Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/6745db6083f3d6d843be9719/FCDO__TA__020_-_Indonesia_Travel_Advice_Ed9__WEB_.jpg)
 
@@ -46,6 +46,16 @@ Your travel insurance could be invalidated if you travel against advice from the
 * to within 7km of the crater
 
 See [more details about why FCDO advises against travel](/foreign-travel-advice/indonesia/regional-risks).
+
+## Global travel impacts due to escalation in the Middle East
+
+Escalation in the Middle East has caused widespread travel disruption, including airspace closures, delayed and cancelled flights.
+
+Commercial options to leave Indonesia remain available, but your travel plans may be affected, even if your destination is not in the Middle East. British nationals should:
+
+* check for the latest updates from your airline or tour operator before travelling
+* review your travel insurance policy for coverage before you travel
+* monitor local and international media for the latest information and sign up for travel advice email alerts
 
 ## Before you travel
 

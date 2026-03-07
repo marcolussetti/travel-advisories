@@ -1,11 +1,11 @@
 {
     "name": "Indonesia",
-    "update_reason": "Addition of information that visa on arrival cannot be used to undertake volunteering, and addition of information about the risk of possible arrest for possessing CBD oil ('Entry requirements' and 'Safety and security' pages).",
+    "update_reason": "New information about travel disruption ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Indonesia/Warnings and insurance.md",
-            "update_date": "2026-02-12T12:03:18+00:00"
+            "update_date": "2026-03-06T16:12:05+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Indonesia/Getting help.md"
         }
     ],
-    "update_date": "2026-02-12T12:03:18+00:00"
+    "update_date": "2026-03-06T16:12:05+00:00"
 }

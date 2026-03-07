@@ -1,13 +1,26 @@
 # Warnings and insurance
 
 Still current at:
-:   31 January 2026
+:   7 March 2026
 
 Updated:
-:   30 January 2026
+:   6 March 2026
 
 Latest update:
-:   Removal of information about recent flooding in Botswana ('Safety and security' page).
+:   Addition of information about heavy rainfall between 6 and 10 March ('Warnings and insurance' page).
+
+## Heavy rainfall
+
+Heavy rainfall is expected across most areas of Botswana 6 to 10 March, bringing a risk of flash floods. [Botswana Meteorological Services](https://www.facebook.com/BotswanaMet) warn that the districts most likely to be affected are:
+
+* Kgalagadi
+* Ghanzi
+* Ngamiland
+* Chobe
+* Northern‑Central
+* North East
+
+Follow the advice of local authorities and stay away from flooded routes.
 
 ## Before you travel
 

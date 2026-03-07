@@ -130,12 +130,8 @@ Small boats carry passengers across to the water village in Bandar and along the
 
 If you’re taking a longer trip, for example, a wildlife cruise, get local recommendations and plan your trip in advance.
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/brunei/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/brunei/entry-requirements)
 
-[Next
-:
-Health](/foreign-travel-advice/brunei/health)
+[Next:Health](/foreign-travel-advice/brunei/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/brunei/print)

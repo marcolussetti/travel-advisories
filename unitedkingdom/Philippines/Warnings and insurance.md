@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   21 February 2026
+:   7 March 2026
 
 Updated:
-:   20 February 2026
+:   6 March 2026
 
 Latest update:
-:   Updated information about visa requirements ('Entry requirements' page).
+:   New information about travel disruption ('Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/616406778fa8f52980d9301c/FCDO__TA__033_-_Philippines_Travel_Advice_Ed2__WEB_.jpg)
 
@@ -31,6 +31,16 @@ FCDO also advises against all but essential travel to the remainder of Mindanao,
 This advice is due to terrorist activity and clashes between the military and insurgent groups in south Philippines.
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/philippines/safety-and-security#terrorism).
+
+## Global travel impacts due to escalation in the Middle East
+
+Escalation in the Middle East has caused widespread travel disruption, including airspace closures, delayed and cancelled flights.
+
+Commercial options to depart the Philippines remain available, but your travel plans may be affected, even if your destination is not in the Middle East. British nationals should:
+
+* check for the latest updates from your airline or tour operator before travelling
+* review your travel insurance policy for coverage before you travel
+* monitor local and international media for the latest information and sign up for travel advice email alerts
 
 ## Demonstrations
 

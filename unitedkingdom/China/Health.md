@@ -25,7 +25,7 @@ Altitude sickness is a risk in parts of China. Read more about [altitude sickne
 See [what health risks you’ll face in China](https://travelhealthpro.org.uk/country/49/china), including:
 
 * avian influenza
-* dengue – present in Guangdong Province and some parts of China, mainly during the rainy season from May to November
+* dengue – present in Guangdong Province and some other parts of China, mainly during the rainy season from May to November
 
 Tap water is generally not safe to drink. Only drink bottled water.
 

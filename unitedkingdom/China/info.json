@@ -1,11 +1,11 @@
 {
     "name": "China",
-    "update_reason": "Addition of information that from 17 February until 31 December 2026, you can enter China visa free for stays of up to 30 days for business, tourism, family or friend visits, or transit ('Entry requirements' page).",
+    "update_reason": "Updated information on crime and scams ('Safety and security' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/China/Warnings and insurance.md",
-            "update_date": "2026-02-16T17:00:18+00:00"
+            "update_date": "2026-03-06T10:29:41+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/China/Getting help.md"
         }
     ],
-    "update_date": "2026-02-16T17:00:18+00:00"
+    "update_date": "2026-03-06T10:29:41+00:00"
 }

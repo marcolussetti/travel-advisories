@@ -146,12 +146,8 @@ The tropical cyclone season normally runs from November to May. Monitor local ne
 
 Heavy rain and flooding can affect the Solomon Islands. Bridges are often washed away as a result. Check local weather forecasts and take care if you are travelling during the tropical cyclone season.
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/solomon-islands/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/solomon-islands/entry-requirements)
 
-[Next
-:
-Health](/foreign-travel-advice/solomon-islands/health)
+[Next:Health](/foreign-travel-advice/solomon-islands/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/solomon-islands/print)

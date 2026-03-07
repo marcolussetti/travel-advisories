@@ -90,12 +90,8 @@ Flooding and landslides can happen, resulting in road closures and infrastructur
 
 There are several active volcanoes on the North Island of New Zealand. Get local advice about where there might be volcanic activity.
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/new-zealand/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/new-zealand/entry-requirements)
 
-[Next
-:
-Health](/foreign-travel-advice/new-zealand/health)
+[Next:Health](/foreign-travel-advice/new-zealand/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/new-zealand/print)

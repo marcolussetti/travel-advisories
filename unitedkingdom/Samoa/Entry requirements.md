@@ -42,12 +42,8 @@ There are strict regulations covering the import of firearms, plant and animal p
 
 Declare cash or travellers cheques if the value is 20,000 talas or more. You will get a certified declaration to show you brought it with you.
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/samoa)
+[Previous:Warnings and insurance](/foreign-travel-advice/samoa)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/samoa/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/samoa/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/samoa/print)

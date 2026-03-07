@@ -66,12 +66,8 @@ It is illegal to import firearms, ammunition and drugs.
 
 You must declare cash in any currency worth more than 10,000 US dollars.
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/marshall-islands)
+[Previous:Warnings and insurance](/foreign-travel-advice/marshall-islands)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/marshall-islands/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/marshall-islands/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/marshall-islands/print)

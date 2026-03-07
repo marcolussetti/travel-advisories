@@ -54,7 +54,7 @@ Both male and female tourists have reported having their drink or food spiked wi
 
 There have been deaths and cases of serious illness caused by alcoholic drinks containing methanol in Laos.
 
-Laos authorities have issued an order prohibiting the sale and consumption of Tiger Vodka and Tiger Whisky due to concerns about them being a risk to health.
+Methanol poisoning cases have resulted from drinks purchased in licensed bars, shops and hotels in tourist areas. Laos authorities have issued an order prohibiting the sale and consumption of Tiger Vodka and Tiger Whisky due to concerns about them being a risk to health.
 
 Even small amounts of methanol can kill. It is not possible to identify methanol in alcoholic drinks by taste or smell. See [Travel Aware Spiking and methanol poisoning](https://travelaware.campaign.gov.uk/spiking-and-methanol-poisoning/) for information about how to reduce the risks.
 

@@ -14,9 +14,9 @@ Attacks could be indiscriminate, including in places visited by foreign national
 
 ## Civil disorder
 
-Political protests, demonstrations and strikes are fairly common in Nepal. Following protests and other violence in September 2025 an interim government was appointed, with elections planned for March 2026.
+Political protests, demonstrations and strikes are fairly common in Nepal.
 
-During this political transition, and particularly in the lead up to elections, further protests are possible. They can start at short notice and may lead to violent clashes between protesters and law enforcement. Protests cause disruption to transport and the authorities may increase the police presence or impose a curfew.
+These can start at short notice and may lead to violent clashes between protesters and law enforcement. Protests cause disruption to transport and the authorities may increase the police presence or impose a curfew.
 
 You should:
 

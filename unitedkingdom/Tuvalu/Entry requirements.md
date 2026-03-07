@@ -30,12 +30,8 @@ For details about medical entry requirements and recommended vaccinations, see [
 
 There are strict rules about [goods you can take into or out of Tuvalu](https://finance.gov.tv/customs/). You must declare anything that may be prohibited or subject to tax or duty.
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/tuvalu)
+[Previous:Warnings and insurance](/foreign-travel-advice/tuvalu)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/tuvalu/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/tuvalu/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/tuvalu/print)

@@ -62,12 +62,8 @@ If you need emotional support during your visit, you can call:
 * Samaritans of Singapore: 1800 221 4444
 * Mental Health Helpline (Institute of Mental Health): 6389 2222
 
-[Previous
-:
-Safety and security](/foreign-travel-advice/singapore/safety-and-security)
+[Previous:Safety and security](/foreign-travel-advice/singapore/safety-and-security)
 
-[Next
-:
-Getting help](/foreign-travel-advice/singapore/getting-help)
+[Next:Getting help](/foreign-travel-advice/singapore/getting-help)
 
 [View a printable version of the whole guide](/foreign-travel-advice/singapore/print)

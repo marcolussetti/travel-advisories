@@ -1,21 +1,24 @@
 # Warnings and insurance
 
 Still current at:
-:   11 December 2025
+:   7 March 2026
 
 Updated:
-:   10 December 2025
+:   6 March 2026
 
 Latest update:
-:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
+:   New information about travel disruption and updated information about visa requirements ('Warnings and insurance' and 'Entry requirements' pages).
 
-## Tropical storm season
+## Global travel impacts due to escalation in the Middle East
 
-The tropical storm season runs from May to November. Tropical storms can cause serious travel disruption, 2025 has seen higher than expected rainfall in Vietnam. Follow and monitor local and international weather updates from the [National Centre for Hydro-Meteorological Forecasting](https://nchmf.gov.vn/KttvsiteE/en-US/2/index.html) and [Japan Meteorological Agency](https://www.jma.go.jp/bosai/map.html#5/34.5/137/&elem=root&typhoon=all&contents=typhoon&lang=en) and follow the advice of local authorities.
+Escalation in the Middle East has caused widespread travel disruption, including airspace closures, delayed and cancelled flights.
 
-See [Extreme weather and natural disasters](https://www.gov.uk/foreign-travel-advice/vietnam/safety-and-security#extreme-weather-and-natural-disasters).
+Your travel plans may be affected, even if your destination is not in the Middle East. British nationals should:
 
-For more regular updates, English-news versions of local newspapers are available at [VNexpress](https://e.vnexpress.net/) and [Vietnam News](https://vietnamnews.vn/).
+* check for the latest updates from your airline or tour operator before travelling
+* review your travel insurance policy for coverage before you travel
+* monitor local and international media for the latest information and sign up for travel advice email alerts
+* be mindful of your permitted length of stay in Vietnam
 
 ## Before you travel
 
@@ -45,8 +48,6 @@ Follow FCDO:
 * [travel advice on Facebook](https://www.facebook.com/FCDOTravel/)
 * [Travel Aware on Instagram](https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Ftravelaware%2F&is_from_rle)
 
-[Next
-:
-Entry requirements](/foreign-travel-advice/vietnam/entry-requirements)
+[Next:Entry requirements](/foreign-travel-advice/vietnam/entry-requirements)
 
 [View a printable version of the whole guide](/foreign-travel-advice/vietnam/print)

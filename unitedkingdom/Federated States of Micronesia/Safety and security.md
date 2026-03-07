@@ -52,12 +52,8 @@ Your UK mobile phone will not work in the Federated States of Micronesia because
 
 The currency in the Federated States of Micronesia is the US dollar. Most hotels accept credit cards. ATM facilities are limited.
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/federated-states-of-micronesia/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/federated-states-of-micronesia/entry-requirements)
 
-[Next
-:
-Health](/foreign-travel-advice/federated-states-of-micronesia/health)
+[Next:Health](/foreign-travel-advice/federated-states-of-micronesia/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/federated-states-of-micronesia/print)

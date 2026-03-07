@@ -28,12 +28,8 @@ For details about medical entry requirements and recommended vaccinations, see [
 
 There are strict rules about [goods you can take into or out of Vanuatu](https://vanuatucustoms.gov.vu/index.php/customs). You must declare anything that may be prohibited or subject to tax or duty.
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/vanuatu)
+[Previous:Warnings and insurance](/foreign-travel-advice/vanuatu)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/vanuatu/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/vanuatu/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/vanuatu/print)

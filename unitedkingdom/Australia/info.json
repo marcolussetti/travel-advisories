@@ -1,11 +1,11 @@
 {
     "name": "Australia",
-    "update_reason": "Information about the terrorist attack at Bondi Beach in December 2025 (\u2018Safety and security\u2019 page).",
+    "update_reason": "New information about travel disruption ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Australia/Warnings and insurance.md",
-            "update_date": "2026-01-27T16:48:53+00:00"
+            "update_date": "2026-03-06T14:58:41+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Australia/Getting help.md"
         }
     ],
-    "update_date": "2026-01-27T16:48:53+00:00"
+    "update_date": "2026-03-06T14:58:41+00:00"
 }

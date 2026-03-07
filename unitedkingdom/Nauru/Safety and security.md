@@ -44,12 +44,8 @@ During the rainy season from November to May, there’s a risk of strong winds, 
 
 Nauru suffers from periods of severe drought. The authorities may impose water restrictions during these periods.
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/nauru/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/nauru/entry-requirements)
 
-[Next
-:
-Health](/foreign-travel-advice/nauru/health)
+[Next:Health](/foreign-travel-advice/nauru/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/nauru/print)

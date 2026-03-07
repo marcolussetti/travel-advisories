@@ -1,13 +1,23 @@
 # Warnings and insurance
 
 Still current at:
-:   28 January 2026
+:   7 March 2026
 
 Updated:
-:   27 January 2026
+:   6 March 2026
 
 Latest update:
-:   Information about the terrorist attack at Bondi Beach in December 2025 (‘Safety and security’ page).
+:   New information about travel disruption ('Warnings and insurance' page).
+
+## Global travel impacts due to escalation in the Middle East
+
+Escalation in the Middle East has caused widespread travel disruption, including airspace closures, delayed and cancelled flights.
+
+Your travel plans may be affected, even if your destination is not in the Middle East. British nationals should:
+
+* check for the latest updates from your airline or tour operator before travelling
+* review your travel insurance policy for coverage before you travel
+* monitor local and international media for the latest information and sign up for travel advice email alerts
 
 ## Bushfires in Australia
 

@@ -49,12 +49,8 @@ Declare cash in any currency worth 10,000 Fijian dollars or more. If you are fou
 
 Most tourist hotels and many restaurants accept credit cards. Not all ATMs accept the full range of credit cards. The Australian and New Zealand Bank (ANZ) and Westpac ATMs accept cards with the Visa, Mastercard, Maestro and Cirrus symbols.
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/fiji)
+[Previous:Warnings and insurance](/foreign-travel-advice/fiji)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/fiji/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/fiji/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/fiji/print)

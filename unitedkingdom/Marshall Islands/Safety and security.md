@@ -50,12 +50,8 @@ Monitor local and international weather updates from the [World Meteorological O
 
 Find out what you can do to prepare for and respond to [extreme weather and natural hazards](https://www.gov.uk/guidance/tropical-cyclones).
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/marshall-islands/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/marshall-islands/entry-requirements)
 
-[Next
-:
-Health](/foreign-travel-advice/marshall-islands/health)
+[Next:Health](/foreign-travel-advice/marshall-islands/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/marshall-islands/print)

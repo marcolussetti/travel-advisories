@@ -1,11 +1,11 @@
 {
     "name": "Saudi Arabia",
-    "update_reason": "FCDO now advises against all but essential travel to Eastern Province and Riyadh Province. FCDO continues to advise against all travel to within 10km of Saudi Arabia\u2019s border with Yemen (\u2018Warnings and insurance\u2019 page)",
+    "update_reason": "Updated information about missile and drone attacks in the Eastern Province and Riyadh Province, including the risk of shrapnel from intercepted missiles and drones (\u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Saudi Arabia/Warnings and insurance.md",
-            "update_date": "2026-03-04T23:13:18+00:00"
+            "update_date": "2026-03-06T21:13:25+00:00"
         },
         {
             "title": "Entry requirements",
@@ -38,5 +38,5 @@
             "file": "unitedkingdom/Saudi Arabia/Getting help.md"
         }
     ],
-    "update_date": "2026-03-04T23:13:18+00:00"
+    "update_date": "2026-03-06T21:13:25+00:00"
 }

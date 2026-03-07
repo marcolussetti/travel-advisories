@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   16 January 2026
+:   7 March 2026
 
 Updated:
-:   15 January 2026
+:   6 March 2026
 
 Latest update:
-:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
+:   New information about travel disruption ('Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/68b1908211b4ded2da19fc61/FCDO__TA__063_-_Papua_New_Guinea_Ed2__WEB_.jpg)
 
@@ -25,9 +25,19 @@ FCDO advises against all but essential travel to:
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/papua-new-guinea/regional-risks).
 
+## Global travel impacts due to escalation in the Middle East
+
+Escalation in the Middle East has caused widespread travel disruption, including airspace closures, delayed and cancelled flights.
+
+Your travel plans may be affected, even if your destination is not in the Middle East. British nationals should:
+
+* check for the latest updates from your airline or tour operator before travelling
+* review your travel insurance policy for coverage before you travel
+* monitor local and international media for the latest information and sign up for travel advice email alerts
+
 ## Enga Province
 
-Following wide-spread intercommunal violence in Wapenamanda area of Enga Province, the provincial government has declared all districts except Wabag District, which remains relatively safe, as ‘fighting zones’.  The authorities report deaths, destruction of property, and the closure of public services.  Checkpoints, random searches, and curfews have been introduced.
+Following wide-spread intercommunal violence in Wapenamanda area of Enga Province, the provincial government has declared all districts except Wabag District, which remains relatively safe, as ‘fighting zones’. The authorities report deaths, destruction of property, and the closure of public services. Checkpoints, random searches, and curfews have been introduced.
 
 ## Before you travel
 

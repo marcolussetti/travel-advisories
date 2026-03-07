@@ -1,11 +1,11 @@
 {
     "name": "Nepal",
-    "update_reason": "Additional information on potential disruption during Nepal\u2019s election on 5 March, including after polling day. Information on potential impact to travel and visas due to escalation in the Middle East (\u2018Warnings and insurance page\u2019).",
+    "update_reason": "Addition of information that following Nepal\u2019s election on 5 March restrictions on movement have been lifted, but the risk of travel disruption remains as the vote count and results are announced ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Nepal/Warnings and insurance.md",
-            "update_date": "2026-03-04T15:48:57+00:00"
+            "update_date": "2026-03-06T11:06:13+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Nepal/Getting help.md"
         }
     ],
-    "update_date": "2026-03-04T15:48:57+00:00"
+    "update_date": "2026-03-06T11:06:13+00:00"
 }

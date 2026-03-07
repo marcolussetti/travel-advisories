@@ -73,12 +73,8 @@ Some products, including wood and leather products, golf clubs, tents and fishin
 
 If you break any of these rules you could get a fine of up to 100,000 New Zealand dollars or a prison sentence.
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/new-zealand)
+[Previous:Warnings and insurance](/foreign-travel-advice/new-zealand)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/new-zealand/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/new-zealand/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/new-zealand/print)

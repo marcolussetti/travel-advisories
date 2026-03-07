@@ -56,8 +56,6 @@ Follow FCDO:
 * [travel advice on X](https://x.com/fcdotravelgovuk)
 * [travel advice on Facebook](https://www.facebook.com/FCDOTravel/)
 
-[Previous
-:
-Health](/foreign-travel-advice/kiribati/health)
+[Previous:Health](/foreign-travel-advice/kiribati/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/kiribati/print)

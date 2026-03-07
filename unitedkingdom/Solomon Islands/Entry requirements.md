@@ -44,12 +44,8 @@ For full details about medical entry requirements and recommended vaccinations, 
 
 There are strict rules about [goods you can take into or out of the Solomon Islands](http://www.mof.gov.sb/Customs/CustomsProhibitedGoods.aspx) . You must declare anything that may be prohibited or subject to tax or duty.
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/solomon-islands)
+[Previous:Warnings and insurance](/foreign-travel-advice/solomon-islands)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/solomon-islands/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/solomon-islands/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/solomon-islands/print)

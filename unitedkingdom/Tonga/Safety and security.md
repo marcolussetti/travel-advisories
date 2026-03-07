@@ -107,12 +107,8 @@ Tonga is part of the Pacific Ring of Fire, a zone of frequent earthquakes and vo
 
 The US Federal Emergency Management Agency website has advice about [what to do before, during and after an earthquake](https://www.ready.gov/earthquakes) or [tsunami](https://www.ready.gov/tsunamis).
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/tonga/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/tonga/entry-requirements)
 
-[Next
-:
-Health](/foreign-travel-advice/tonga/health)
+[Next:Health](/foreign-travel-advice/tonga/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/tonga/print)

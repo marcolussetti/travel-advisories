@@ -36,12 +36,8 @@ There are strict rules about goods you can take into or out of Nauru. You must d
 
 There are controls on [taking plants or animals into Nauru](https://justice.gov.nr/quarantine-division/).
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/nauru)
+[Previous:Warnings and insurance](/foreign-travel-advice/nauru)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/nauru/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/nauru/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/nauru/print)

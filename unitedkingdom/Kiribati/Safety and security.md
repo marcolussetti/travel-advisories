@@ -78,12 +78,8 @@ Monitor regional and international weather updates from the [World Meteorologica
 
 There can be severe droughts in Kiribati. The authorities may put water restrictions in place.
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/kiribati/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/kiribati/entry-requirements)
 
-[Next
-:
-Health](/foreign-travel-advice/kiribati/health)
+[Next:Health](/foreign-travel-advice/kiribati/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/kiribati/print)

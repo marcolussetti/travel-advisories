@@ -1,11 +1,11 @@
 {
     "name": "United Arab Emirates",
-    "update_reason": "Updated information about regional escalation and leaving United Arab Emirates",
+    "update_reason": "Updated information about sheltering in place (\u2018Warnings  and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/United Arab Emirates/Warnings and insurance.md",
-            "update_date": "2026-03-03T21:04:57+00:00"
+            "update_date": "2026-03-06T21:11:16+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/United Arab Emirates/Getting help.md"
         }
     ],
-    "update_date": "2026-03-03T21:04:57+00:00"
+    "update_date": "2026-03-06T21:11:16+00:00"
 }

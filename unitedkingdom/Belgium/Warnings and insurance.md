@@ -1,15 +1,17 @@
 # Warnings and insurance
 
 Still current at:
-:   19 February 2026
+:   7 March 2026
 
 Updated:
-:   18 February 2026
+:   6 March 2026
 
 Latest update:
-:   Updated information on European Entry-Exit System (EES) (‘Entry requirements’ page).
+:   Updated information about national strike action ('Warnings and insurance' page).
 
 ## National strike action
+
+Railway strikes are expected from 10pm on Sunday 8 March to the last train on Thursday 12 March. A general strike on 12 March is expected to cause severe travel disruption across public transport services. International flights are likely to be heavily affected, with potential cancellations at short notice. Consult the SNCB’s [Journey Planner](https://www.belgiantrain.be/en/travel-info/train-network-travel-info/strike) before any railway travel in Belgium during this period and always check with your travel operator for the latest updates.
 
 Strike action is an ongoing issue that can cause travel disruption. General strikes took place on 31 March, 29 April,14 October, 26 November and 15 December 2025. Strike action may be announced at short notice.
 

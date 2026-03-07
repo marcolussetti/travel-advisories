@@ -39,6 +39,8 @@ Serious crime against foreign nationals is relatively rare, but incidents can ha
 
 Indiscriminate attacks using vehicles as a weapon, and knife attacks, have occurred in public places including at schools, supermarkets and hospitals. Although rare, there have been isolated violent attacks that have impacted foreign nationals.
 
+Penalties for fighting and physical altercations can range from fines to short term detentions to longer-term criminal detentions, regardless of who was initially responsible. Compensation claims by injured parties are commonplace, again regardless of who was initially responsible.
+
 ### Drink spiking and sexual assault
 
 Do not leave drinks unattended or accept drinks from strangers. Personal attacks and sexual assaults are rare, but they can happen, including through drinks being spiked. Women, travelling alone or with female friends, could be at higher risk.
@@ -47,7 +49,7 @@ Do not leave drinks unattended or accept drinks from strangers. Personal attacks
 
 Beware of scams in popular tourist areas. A common example is the ‘tea tasting’ or ‘massage’ scam. Friendly strangers may invite you to visit a bar, to drink tea or have a massage, and the establishment then demands a large fee. This can be followed by threats, violence or credit card fraud.
 
-Inspect the QR code stickers on rental bicycles carefully before using them. The legitimate barcode can be replaced with a false code, which redirects money to a different account.
+Due to the prominence of QR code usage in China, travellers are recommended to familiarise themselves with the [risks of QR code phishing](https://www.ncsc.gov.uk/blog-post/qr-codes-whats-real-risk).
 
 ### Commercial disputes
 
@@ -71,6 +73,14 @@ China’s authorities have detained foreign nationals who break national securit
 
 If you’re detained on grounds of national security, you may be held for up to 6 months before formal arrest and denied legal representation before charges are brought.
 
+You may be at greater risk of surveillance, harassment or detention while in China if you are currently or have previously been linked to:
+
+* foreign governments
+* media outlets
+* NGOs
+
+This list is not exhaustive and may change over time. This is particularly relevant when travelling to areas with large ethnic minority populations, including but not limited to Xinjiang. See [Regional risks](https://www.gov.uk/foreign-travel-advice/china/regional-risks) for more information.
+
 ### Travelling to sensitive areas
 
 All foreign nationals travelling to or around ‘sensitive’ areas might attract more attention from the authorities, including when:
@@ -82,14 +92,6 @@ All foreign nationals travelling to or around ‘sensitive’ areas might attrac
 Sensitivities can change over time and may heighten around particular dates or events.
 
 There are restricted military areas, where foreigners can be detained, fined or deported if found without prior authorisation. Signs typically indicate where these areas are, but it may not always be clear.
-
-You may attract additional scrutiny while travelling around mainland China if you’re a current or former employee of:
-
-* foreign governments
-* media outlets
-* NGOs
-
-This list is not exhaustive and may change over time. This is particularly relevant when travelling to areas with large ethnic minority populations, including but not limited to Xinjiang. See [Regional risks](https://www.gov.uk/foreign-travel-advice/china/regional-risks) for more information.
 
 ### Religious activities and materials
 
@@ -120,6 +122,8 @@ If you’re suspected of a crime, the Chinese authorities can stop you from leav
 
 The thresholds for detention and prosecution in China differ from those in Hong Kong.
 
+You can be convicted in China of a crime committed against the Chinese State or a Chinese citizen, even if that crime was committed outside of China.
+
 ### Exit bans
 
 Foreign nationals can be subject to exit bans. Exit bans can:
@@ -132,7 +136,7 @@ An exit ban can last for months or years or until a legal process is complete. Y
 
 ### Money
 
-Cashless payments through smartphone apps such as WeChat Pay or Alipay are extremely common, especially in major cities.
+Cashless payments through smartphone apps such as WeChat or Alipay are almost universal.
 
 Outside major cities, credit cards are not always accepted and ATMs are limited. It is not possible to exchange Scottish or Northern Irish banknotes.
 

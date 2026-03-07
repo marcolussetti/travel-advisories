@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   5 March 2026
+:   7 March 2026
 
 Updated:
-:   4 March 2026
+:   6 March 2026
 
 Latest update:
-:   FCDO now advises against all but essential travel to Eastern Province and Riyadh Province. FCDO continues to advise against all travel to within 10km of Saudi Arabia’s border with Yemen (‘Warnings and insurance’ page)
+:   Updated information about missile and drone attacks in the Eastern Province and Riyadh Province, including the risk of shrapnel from intercepted missiles and drones (‘Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/69a8bbce5fc94cfb71958fb9/FCDO__TA__034_-_Saudi_Arabia_Travel_Advice_Ed7__WEB_.jpg)
 
@@ -24,14 +24,22 @@ FCDO advises against:
 
 * all travel to within 10km of the border with Yemen
 * all but essential travel to areas between 10km and 80km from the border with Yemen
-* all but essential travel to Eastern Province
-* all but essential travel to Riyadh Province
+
+### Eastern Province
+
+FCDO advises against all but essential travel to Eastern Province
+
+### Riyadh Province
+
+FCDO advises against all but essential travel to Riyadh Province
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/saudi-arabia/regional-risks).
 
 ## Stay inside
 
-Due to reports of missile and drone activity in the region, we advise British nationals to stay inside and exercise increased caution in Saudi Arabia. Where available, follow advice from local authorities on how to stay safe in your location as risks may vary across Saudi Arabia.
+Due to reports of missile and drone activity in the region, we advise British nationals already in Saudi Arabia to stay inside and exercise increased caution.  There are reports of continued missile and drone attacks in the Eastern Province and Riyadh Province. There is also a risk of shrapnel from intercepted missiles and drones falling across the region and causing further disruption. Where available, follow advice from local authorities on how to stay safe in your location as risks may vary across Saudi Arabia.
+
+If you are advised to take shelter, stay indoors or find the nearest safe building and take hard cover. An interior stairwell or a room with as few external walls or windows as possible may provide additional protection.
 
 ## Regional escalation
 
@@ -45,13 +53,11 @@ Read [If you’re affected by a crisis abroad - GOV.UK](https://www.gov.uk/gui
 
 Sign up to FCDO Travel Advice [email alerts](https://www.gov.uk/foreign-travel-advice/saudi-arabia/email-signup).
 
-## Shelter in place
-
-Follow the instructions of the local authorities. If you are advised to take shelter, stay indoors or find the nearest safe building or designated shelter. An interior stairwell or a room with as few external walls or windows as possible may provide additional protection.
+If you are a British national already living or travelling in Saudi Arabia, you should be prepared to change your plans quickly if necessary. You should have a ‘personal emergency plan’, including practical steps for leaving the country or staying safe during a crisis, that does not depend on support from the UK government.
 
 ## Leaving Saudi Arabia
 
-If you judge it is safe to do so and plan to use commercial options to depart check for the latest updates from your airline or tour operator, as well as the instructions of local authorities and the status of any border crossings before you travel. Make sure you have access to emergency supplies and essential medication. Travel within or out of Saudi Arabia is at your own risk.
+Commercial travel options remain widely available despite limited disruption and temporary closures of airspace across Saudi Arabia. If you judge it is safe to do so and plan to use commercial options to depart check for the latest updates from your airline or tour operator, as well as the instructions of local authorities and the status of any border crossings before you travel. Make sure you have access to emergency supplies and essential medication. Travel within or out of Saudi Arabia is at your own risk.
 
 Keep your departure plans under review and ensure your travel documents are up to date, including any visas required for onward travel.
 

@@ -1,11 +1,11 @@
 {
     "name": "Papua New Guinea",
-    "update_reason": "New information about dual nationals returning to the UK (\u2018Entry requirements\u2019 page).",
+    "update_reason": "New information about travel disruption ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Papua New Guinea/Warnings and insurance.md",
-            "update_date": "2026-01-15T16:18:15+00:00"
+            "update_date": "2026-03-06T16:40:48+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Papua New Guinea/Getting help.md"
         }
     ],
-    "update_date": "2026-01-15T16:18:15+00:00"
+    "update_date": "2026-03-06T16:40:48+00:00"
 }

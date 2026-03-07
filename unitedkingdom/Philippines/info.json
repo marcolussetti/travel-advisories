@@ -1,11 +1,11 @@
 {
     "name": "Philippines",
-    "update_reason": "Updated information about visa requirements ('Entry requirements' page).",
+    "update_reason": "New information about travel disruption ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Philippines/Warnings and insurance.md",
-            "update_date": "2026-02-20T11:26:45+00:00"
+            "update_date": "2026-03-06T11:30:05+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Philippines/Getting help.md"
         }
     ],
-    "update_date": "2026-02-20T11:26:45+00:00"
+    "update_date": "2026-03-06T11:30:05+00:00"
 }

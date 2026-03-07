@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   4 March 2026
+:   7 March 2026
 
 Updated:
-:   3 March 2026
+:   6 March 2026
 
 Latest update:
-:   Updated information about regional escalation and leaving United Arab Emirates
+:   Updated information about sheltering in place (‘Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/69a36e57ec82ce45f05bd728/United_Arab_Emirates_Travel_Advice_Ed1__WEB_.jpg)
 
@@ -16,7 +16,7 @@ Latest update:
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
-## FCDO advices against all but essential travel to United Arab Emirates
+## FCDO advises against all but essential travel to United Arab Emirates
 
 Find out more about [why FCDO advises against travel](https://www.gov.uk/foreign-travel-advice/united-arab-emirates/safety-and-security).
 
@@ -34,13 +34,17 @@ Follow the instructions of the local authorities and monitor local and interna
 
 Read [If you’re affected by a crisis abroad - GOV.UK](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas) this includes suggestions on what you might include in your emergency supplies.
 
-Sign up to FCDO Travel Advice email alerts [e.g. [UAE]](https://www.gov.uk/foreign-travel-advice/united-arab-emirates/email-signup)
+Sign up to FCDO Travel Advice [email alerts](https://www.gov.uk/foreign-travel-advice/united-arab-emirates/email-signup).
 
 ## Shelter in place
 
-Follow the instructions of the local authorities. If you are advised to take shelter, stay indoors or find the nearest safe building or designated shelter. An interior stairwell or a room with as few external walls or windows as possible may provide additional protection.
+If local authorities advise you to take shelter, stay indoors or move to the nearest safe building immediately. The greatest risk is from falling debris caused by intercepts, and you are safest inside a secure structure. Choose an interior stairwell or a room with as few external walls or windows as possible for additional protection.
 
-Sign up to receive information and alerts. [Read the National Emergency Crisis and Disaster Management Authority’s guidance across numerous emergencies](https://www.ncema.gov.ae/)
+Limit your movements to essential journeys only. When travel is unavoidable, aim to move during daylight hours and avoid crowded venues. Always let friends or family know where you are and when you are travelling, and keep your mobile phone with you and charged.
+
+If you are away from your home or hotel, and an attack occurs or you receive an alert from the official UAE warning system, seek shelter in the closest building immediately.
+
+Sign up to receive information and alerts. Read the [National Emergency Crisis and Disaster Management Authority’s guidance](https://www.ncema.gov.ae/) which covers a range of emergency situations.
 
 ## Leaving UAE
 

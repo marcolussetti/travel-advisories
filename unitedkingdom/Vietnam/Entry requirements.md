@@ -38,6 +38,8 @@ If you want to stay longer than 45 days, you can:
 
 E-visas restrict you to the entry and exit points you select when you apply. If you get an e-visa while in Vietnam, you must exit the country and re-enter to start your e-visa.
 
+If you wish to stay longer than 90 days, please visit the [Vietnamese Immigration Department](https://xuatnhapcanh.gov.vn/) (in vietnamese) for further information and contact details of your nearest office.
+
 The British Embassy will not assist with visa extensions.
 
 ### Work or study
@@ -89,12 +91,8 @@ If you’re leaving the country with more than these amounts, declare the money 
 * confirmation you’re carrying cash abroad, issued by an authorised credit institution
 * written approval to carry cash, issued by the State Bank of Vietnam
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/vietnam)
+[Previous:Warnings and insurance](/foreign-travel-advice/vietnam)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/vietnam/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/vietnam/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/vietnam/print)

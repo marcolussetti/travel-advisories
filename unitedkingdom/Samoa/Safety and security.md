@@ -88,12 +88,8 @@ The US Federal Emergency Management Agency website has advice about [what to do 
 
 The tropical cyclone season normally runs from November to the end of April, but most rain falls from December to March. Higher rainfall inland can cause flooding. Monitor local and international weather updates from the [World Meteorological Organization](https://severeweather.wmo.int/), the [Samoa Meteorology Division](http://www.samet.gov.ws) or the [Fiji Meteorological Service](http://www.met.gov.fj).
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/samoa/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/samoa/entry-requirements)
 
-[Next
-:
-Health](/foreign-travel-advice/samoa/health)
+[Next:Health](/foreign-travel-advice/samoa/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/samoa/print)

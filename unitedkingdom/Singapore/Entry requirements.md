@@ -71,12 +71,8 @@ The following items are also illegal to bring into Singapore:
 
 See the [complete list of prohibited items](https://www.customs.gov.sg/businesses/importing-goods/controlled-and-prohibited-goods-for-import) on the Singapore Customs website.
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/singapore)
+[Previous:Warnings and insurance](/foreign-travel-advice/singapore)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/singapore/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/singapore/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/singapore/print)

@@ -138,12 +138,8 @@ Tropical cyclone season normally runs from November to April, but cyclones occur
 
 Follow weather updates from [Fiji Meteorological Service](http://www.met.gov.fj/index.php), local newspapers and Radio Fiji GOLD. The [National Disaster Management Office](http://www.ndmo.gov.fj/index.php) has information on how to prepare.
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/fiji/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/fiji/entry-requirements)
 
-[Next
-:
-Health](/foreign-travel-advice/fiji/health)
+[Next:Health](/foreign-travel-advice/fiji/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/fiji/print)

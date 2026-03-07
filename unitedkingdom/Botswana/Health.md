@@ -47,8 +47,6 @@ Make sure you have adequate travel health insurance and accessible funds to cove
 
 FCDO has a [list of medical providers in Botswana](https://www.gov.uk/government/publications/botswana-list-of-medical-facilities/botswana-list-of-medical-facilities).
 
-There is also [guidance on healthcare if you’re living in Botswana](https://www.gov.uk/guidance/living-in-botswana#healthcare-in-botswana).
-
 ## Travel and mental health
 
 Read [FCDO guidance on travel and mental health](https://www.gov.uk/guidance/foreign-travel-advice-for-people-with-mental-health-issues). There is also [mental health guidance on TravelHealthPro](https://travelhealthpro.org.uk/factsheet/85/travelling-with-mental-health-conditions).

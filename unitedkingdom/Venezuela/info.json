@@ -1,11 +1,11 @@
 {
     "name": "Venezuela",
-    "update_reason": "FCDO no longer advises against all travel to the whole of Venezuela. FCDO continues to advise against all travel to some regions, and all but essential travel to the rest of Venezuela ('Warnings and insurance' page).",
+    "update_reason": "Addition of information that the land border with Colombia will be closed during Colombian elections ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Venezuela/Warnings and insurance.md",
-            "update_date": "2026-03-03T10:11:25+00:00"
+            "update_date": "2026-03-06T15:35:40+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Venezuela/Getting help.md"
         }
     ],
-    "update_date": "2026-03-03T10:11:25+00:00"
+    "update_date": "2026-03-06T15:35:40+00:00"
 }

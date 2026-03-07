@@ -47,12 +47,8 @@ Email: pps@spc.int
 
 Strict Australian or New Zealand import regulations may apply to some Kiribati handicrafts, including straw products and shells. Check [Australia travel advice](https://www.gov.uk/foreign-travel-advice/australia/entry-requirements) and [New Zealand travel advice](https://www.gov.uk/foreign-travel-advice/new-zealand/entry-requirements) for details. You can get a phyto-sanitary certificate in Kiribati, but the customs authorities may still confiscate items.
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/kiribati)
+[Previous:Warnings and insurance](/foreign-travel-advice/kiribati)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/kiribati/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/kiribati/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/kiribati/print)

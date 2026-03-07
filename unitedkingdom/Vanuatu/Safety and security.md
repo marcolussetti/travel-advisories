@@ -157,12 +157,8 @@ Before you travel to an area with volcanoes:
 
 For current volcano alert levels, see the [Vanuatu Meteorology and Geohazards Department](http://www.vmgd.gov.vu/vmgd/index.php).
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/vanuatu/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/vanuatu/entry-requirements)
 
-[Next
-:
-Health](/foreign-travel-advice/vanuatu/health)
+[Next:Health](/foreign-travel-advice/vanuatu/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/vanuatu/print)

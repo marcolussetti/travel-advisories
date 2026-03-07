@@ -72,7 +72,7 @@ Methanol poisoning
 
 There have been deaths and cases of serious illness caused by alcoholic drinks containing methanol in Vietnam.
 
-Even small amounts of methanol can kill. It is not possible to identify methanol in alcoholic drinks by taste or smell. See [Travel Aware Drink Spiking and Methanol Poisoning](https://travelaware.campaign.gov.uk/spiking-and-methanol-poisoning/) for information about how to reduce the risks.
+Methanol poisoning cases have resulted from drinks purchased in licensed bars, shops and hotels in tourist areas. Even small amounts of methanol can kill. It is not possible to identify methanol in alcoholic drinks by taste or smell. See [Travel Aware Drink Spiking and Methanol Poisoning](https://travelaware.campaign.gov.uk/spiking-and-methanol-poisoning/) for information about how to reduce the risks.
 
 Seek urgent medical attention if you or someone you are travelling with show the [signs of methanol poisoning](https://travelaware.campaign.gov.uk/spiking-and-methanol-poisoning/) after drinking.
 
@@ -292,12 +292,8 @@ Check the [Mekong Flood and Drought Forecasting and the Mekong River CommissionÂ
 
 Humid and heat may be severe, particularly during the rainy season. [Know the symptoms of dehydration and heatstroke](https://mail.travelhealthpro.org.uk/factsheet/110/extreme-heat), both of which can be fatal.
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/vietnam/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/vietnam/entry-requirements)
 
-[Next
-:
-Health](/foreign-travel-advice/vietnam/health)
+[Next:Health](/foreign-travel-advice/vietnam/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/vietnam/print)
