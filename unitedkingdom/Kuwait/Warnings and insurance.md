@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   6 March 2026
+:   8 March 2026
 
 Updated:
-:   5 March 2026
+:   7 March 2026
 
 Latest update:
-:   Updated with information about the risks from terrorism (‘Safety and security’ page). FCDO now advises against all but essential travel to Kuwait. Register your presence if you're in Kuwait (‘Warnings and insurance’ page).
+:   Updated with information about risks from terrorism in the context of regional escalation ('Safety and security' page).
 
 ![](https://assets.publishing.service.gov.uk/media/69a36b0da4d26cb233cd47da/Kuwait_Travel_Advice_Ed1__WEB_.jpg)
 
@@ -34,13 +34,13 @@ Follow the instructions of the local authorities and monitor local and inter
 
 Read [If you’re affected by a crisis abroad - GOV.UK](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas) this includes suggestions on what you might include in your emergency supplies.
 
-Sign up to [FCDO Travel Advice email alerts](https://www.gov.uk/foreign-travel-advice/kuwait/email-signup)
+Sign up to [FCDO Travel Advice email alerts](https://www.gov.uk/foreign-travel-advice/kuwait/email-signup).
 
 ## Shelter in place
 
 Follow the instructions of the local authorities. If you are advised to take shelter, stay indoors or find the nearest safe building or designated shelter. An interior stairwell or a room with as few external walls or windows as possible may provide additional protection.
 
-Sign up to receive information and alerts. Download [Sahel app](https://www.e.gov.kw/sites/kgoenglish/Pages/ApplicationPages/Application-Sahel.aspx) for more information
+Sign up to receive information and alerts. Download [Sahel app](https://www.e.gov.kw/sites/kgoenglish/Pages/ApplicationPages/Application-Sahel.aspx) for more information.
 
 ## Leaving Kuwait
 

@@ -1,11 +1,11 @@
 {
     "name": "Jordan",
-    "update_reason": "Change to language on likelihood of terrorism in Jordan see \u201csafety and security\u201d page",
+    "update_reason": "Updated with information about risks from terrorism in the context of regional escalation ('Safety and security' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Jordan/Warnings and insurance.md",
-            "update_date": "2026-03-05T20:28:03+00:00"
+            "update_date": "2026-03-07T12:28:10+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Jordan/Getting help.md"
         }
     ],
-    "update_date": "2026-03-05T20:28:03+00:00"
+    "update_date": "2026-03-07T12:28:10+00:00"
 }

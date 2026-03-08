@@ -242,12 +242,8 @@ The US Federal Emergency Management Agency has advice about [what to do before, 
 
 Although tsunamis are rare in Peru, higher tides often happen either after an earthquake or for other reasons throughout the year. See the [Peruvian Directorate of Hydrography and Navigation](http://www.dhn.mil.pe/) (in Spanish) for information.
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/peru/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/peru/entry-requirements)
 
-[Next
-:
-Regional risks](/foreign-travel-advice/peru/regional-risks)
+[Next:Regional risks](/foreign-travel-advice/peru/regional-risks)
 
 [View a printable version of the whole guide](/foreign-travel-advice/peru/print)

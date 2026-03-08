@@ -1,11 +1,11 @@
 {
     "name": "Israel",
-    "update_reason": "Updated information about leaving Israel and Palestine (\u2018Warnings and insurance\u2019 page).",
+    "update_reason": "Updated information about commercial travel options (\u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Israel/Warnings and insurance.md",
-            "update_date": "2026-03-05T22:40:01+00:00"
+            "update_date": "2026-03-07T16:25:16+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Israel/Getting help.md"
         }
     ],
-    "update_date": "2026-03-05T22:40:01+00:00"
+    "update_date": "2026-03-07T16:25:16+00:00"
 }

@@ -91,12 +91,8 @@ The sale of souvenirs made with wild animal parts, including condor feathers, is
 
 It is illegal to remove any archaeological artefacts from Peru without authorisation.
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/peru)
+[Previous:Warnings and insurance](/foreign-travel-advice/peru)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/peru/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/peru/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/peru/print)

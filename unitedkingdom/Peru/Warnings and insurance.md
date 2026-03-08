@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   11 December 2025
+:   8 March 2026
 
 Updated:
-:   10 December 2025
+:   7 March 2026
 
 Latest update:
-:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
+:   Emergency measures affecting Lima and Callao regions declared by Peruvian Government in response to natural gas shortage (See ’Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/6645e81e993111924d9d365a/FCDO__TA__093_-_Peru_Travel_Advice_Ed3__WEB_.jpg)
 
@@ -33,9 +33,13 @@ We advise against all but essential travel to these two areas for safety and sec
 
 Find out more about [why FCDO advises against travel](https://www.gov.uk/foreign-travel-advice/peru/regional-risks).
 
-## State of Emergency extended in Peru
+## State of Emergency in Peru
 
-The State of Emergency has been extended for a further 30 days from 22 November. It covers Ayacucho, Callao, Cusco, Junín, Huancavelica and Lima. Avoid large gatherings and protests. There will be increased security patrols and a visible presence of armed forces on the streets. Follow the instructions of police and local authorities.
+A State of Emergency is in place in Peru. Avoid large gatherings and protests. There will be increased security patrols and a visible presence of armed forces on the streets. Follow the instructions of police and local authorities.
+
+Emergency measures are in place following a rupture of the Camisea gas pipeline and the resultant natural gas shortage. Expect disruption and shortage of natural gas for vehicles (GNV).
+
+The Peruvian Government has announced temporary measures in Lima and Callao, including remote working for the public sector and remote classes for schools and universities, with similar guidance for the private sector. These measures are expected to remain in place for around 14 days.
 
 ## Before you travel
 
@@ -65,8 +69,6 @@ Follow FCDO:
 * [travel advice on Facebook](https://www.facebook.com/FCDOTravel/)
 * [Travel Aware on Instagram](https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Ftravelaware%2F&is_from_rle)
 
-[Next
-:
-Entry requirements](/foreign-travel-advice/peru/entry-requirements)
+[Next:Entry requirements](/foreign-travel-advice/peru/entry-requirements)
 
 [View a printable version of the whole guide](/foreign-travel-advice/peru/print)

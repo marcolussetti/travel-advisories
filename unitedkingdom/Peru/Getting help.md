@@ -62,8 +62,6 @@ Follow FCDO:
 
 The Overseas Business Risk service offers [information and advice for British companies operating in Peru](https://www.gov.uk/government/publications/overseas-business-risk-peru) on how to manage political, economic, and business security-related risks.
 
-[Previous
-:
-Health](/foreign-travel-advice/peru/health)
+[Previous:Health](/foreign-travel-advice/peru/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/peru/print)

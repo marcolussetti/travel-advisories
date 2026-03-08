@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   6 March 2026
+:   8 March 2026
 
 Updated:
-:   5 March 2026
+:   7 March 2026
 
 Latest update:
-:   Updated information about leaving Israel and Palestine (‘Warnings and insurance’ page).
+:   Updated information about commercial travel options (‘Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/69a2c183a4d26cb233cd47d4/FCDO__TA__022_-_Israel_Travel_Advice_Ed27__WEB_.jpg)
 
@@ -28,31 +28,31 @@ Regional escalation poses significant security risks and has led to travel disru
 
 Stay away from areas around security or military facilities.
 
-Follow the instructions of the local authorities and monitor local and international media for the latest information.  Visit [Israel’s Home Front Command](https://www.oref.org.il/eng)
+Follow the instructions of the local authorities and monitor local and international media for the latest information.  Visit [Israel’s Home Front Command](https://www.oref.org.il/eng).
 
 Read [If you’re affected by a crisis abroad - GOV.UK](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas) this includes suggestions on what you might include in your emergency supplies.
 
-Sign up to FCDO Travel Advice [email alerts.](https://www.gov.uk/foreign-travel-advice/israel/email-signup)
+Sign up to FCDO Travel Advice [email alerts](https://www.gov.uk/foreign-travel-advice/israel/email-signup).
 
 ## Shelter in place
 
-Follow the instructions of the local authorities. If you are advised to take shelter, [Israel’s Home Front Command provides guidance on how to find a protected space](https://www.oref.org.il/eng/emergencies/protection-guidelines). The best option is a residential protected space (Mamad, Mamak or Maman) or a communal shelter. If that is not possible, choose a stairwell without windows and exterior walls and stay at its centre
+Follow the instructions of the local authorities. If you are advised to take shelter, [Israel’s Home Front Command provides guidance on how to find a protected space](https://www.oref.org.il/eng/emergencies/protection-guidelines). The best option is a residential protected space (Mamad, Mamak or Maman) or a communal shelter. If that is not possible, choose a stairwell without windows and exterior walls and stay at its centre.
 
-Sign up to receive information and alerts. Visit [Israel’s Home Front Command](https://www.oref.org.il/eng)
+Sign up to receive information and alerts. Visit [Israel’s Home Front Command](https://www.oref.org.il/eng).
 
 ## Leaving Israel and Palestine
 
 If you judge it is safe to do so and plan to use commercial options to depart check for the latest updates from your airline or tour operator, as well as the instructions of local authorities and the status of any border crossings before you travel. Make sure you have access to emergency supplies and essential medication. Travel within or out of Israel is at your own risk.
 
-Commercial travel options are still available even while Israeli airspace remains closed. For those eligible to travel to Egypt via Taba border crossing, transport services continue to operate from major cities to Eilat. You can check ‘entry requirements’ below. The primary Israeli public transport service is [Egged](https://www.egged.co.il/en). There are regular buses to Eilat which you can book online. You can also download the app ‘Moovit’ for details of public transport (including from Eilat to Taba border crossing), or ‘Gett’ to book private taxis.
+The Ministry of Transport have announced that as of 8 March, Ben Gurion Airport will start the gradual operation of outbound flights. We understand operations are currently approved for the following airlines: El Al, Israir, Arkia, and Air Haifa, and that the maximum number of passengers permitted on each flight will initially be limited to meet Israel Home Front Command regulations. You should regularly check the websites of [El Al](https://www.elal.com/eng/israel), [Israir](https://www.israirairlines.com/), [Arkia](https://www.arkia.co.il/en), and [Air Haifa](https://airhaifa.com/), to stay updated on commercial flight options and to book tickets as and when they become available. Commercial airline options are subject to change at short notice, including should the security situation deteriorate and the Israeli government deem it too dangerous for commercial air travel in and out of the country.
+
+Other commercial travel options are still available. For those eligible to travel to Egypt via Taba border crossing, transport services continue to operate from major cities to Eilat. You can check ‘entry requirements’ below. The primary Israeli public transport service is [Egged](https://www.egged.co.il/en). There are regular buses to Eilat which you can book online. You can also download the app ‘Moovit’ for details of public transport (including from Eilat to Taba border crossing), or ‘Gett’ to book private taxis.
+
+A British Embassy team is present on the Egyptian side of the Taba border to point British Nationals to options for onward travel to Sharm El-Sheikh Airport.
 
 Make sure you have access to emergency supplies and essential medication. Travel within or out of Israel is at your own risk.
 
 Keep your departure plans under review and ensure your travel documents are up to date, including any visas required for onward travel. See [Israel’s Land Borders operational hours](https://www.iaa.gov.il/en/) under the “Land Borders” tab.
-
-The Israeli Ministry of Tourism is providing shuttle buses from Jerusalem and Tel Aviv to the Taba border (Egypt). British tourists that entered on a B2 tourist visa are eligible to register for this service. British Nationals who are resident in Israel or are dual Israeli nationals are not eligible for this service. If you are eligible you can [register on the Tourist Evacuation from Israel form](https://govforms.gov.il/mw/forms/touristsevacuationdata@tourism.gov.il?displang=en&gbxid=0).
-
-A British Embassy team is present on the Egyptian side of the Taba border to point British Nationals to options for onward travel to Sharm El-Sheikh Airport.
 
 ## Entry to Egypt
 
@@ -72,7 +72,7 @@ Political tension can cause demonstrations and clashes around anniversaries and 
 
 Keep up to date through local media and follow the instructions of Israeli Home Front Command. To find these:
 
-* visit the [Israeli Home Front Command website](http://www.oref.org.il/en) (available in Israel only)
+* visit the [Israeli Home Front Command website](http://www.oref.org.il/en) (available in Israel only).
 * call 104 if you are in Israel
 
 Before travelling within Israel or Palestine, check the local measures in place, that roads are open and, where appropriate, that scheduled train and bus services are operating.

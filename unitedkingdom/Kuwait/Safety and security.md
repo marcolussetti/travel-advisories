@@ -8,9 +8,9 @@ UK Counter Terrorism Policing has information and advice on [staying safe abroad
 
 ### Terrorism in Kuwait
 
-Terrorists are very likely to try to carry out attacks in Kuwait. In the context of the current regional escalation, we are aware of reports that Iraq-based Iranian aligned militia groups have threatened to target US military bases across the region. There is a significant US military presence in Kuwait.
+In the context of regional escalation, Iran-aligned militia groups have threatened to target US interests across the region and have claimed attacks in Jordan and Iraq. US bases in Kuwait have also been hit by missile and drone fire. These groups are very likely to continue to carry out these attacks in Kuwait.
 
-Terrorists have threatened to carry out attacks in the Gulf region, including on:
+As was the case before the recent regional escalation, terrorists may try to carry out attacks in Kuwait. Terrorists have threatened to carry out attacks in the Gulf region, including on:
 
 * residential compounds
 * restaurants and hotels

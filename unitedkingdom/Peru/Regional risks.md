@@ -87,12 +87,8 @@ If you are planning to fly over the Nazca Lines, check the airline company is li
 
 You can ask the [iPeru information service](https://www.peru.travel/en/useful-data/iperu) for advice about booking flights.
 
-[Previous
-:
-Safety and security](/foreign-travel-advice/peru/safety-and-security)
+[Previous:Safety and security](/foreign-travel-advice/peru/safety-and-security)
 
-[Next
-:
-Health](/foreign-travel-advice/peru/health)
+[Next:Health](/foreign-travel-advice/peru/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/peru/print)
