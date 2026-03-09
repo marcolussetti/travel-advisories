@@ -10,11 +10,15 @@ Avoid the vicinity of military installations, critical infrastructure and stay a
 
 There could be disruptions to movement and transportation due to military debris falling in various locations.
 
-Ben Gurion International Airport is closed. All flights to and from Israel are cancelled until further notice.
+Ben Gurion International Airport has reopened, and some outbound flights on Israeli airlines are expected to resume on March 8, 2026.
+
+* Monitor flight availability and leave when commercial options are available
+* Verify with your airline before you travel to the airport
+* Expect delays or cancellations on short notice should the situation deteriorate
 
 Land border crossings with Jordan and Egypt remain open but could be impacted at short notice. You should shelter in place, but if you wish to leave Israel via a land border crossing and believe you can do so safely, the following options are available:
 
-* Jordan :
+* to Jordan :
 
 + Jordan River/Sheikh Hussein Bridge, in the north of Israel
 + Allenby/King Hussein Bridge, near Jericho in the West Bank (Israeli passport holders are not permitted to cross at this border)
