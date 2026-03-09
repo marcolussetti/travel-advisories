@@ -40,7 +40,9 @@ You cannot start employment in Bahrain if you enter on a visit visa.
 
 If you overstay your visa, there could be penalties, legal issues and your work visa could be cancelled.
 
-You can apply to renew your visa at the [Nationality, Passports and Residential Affairs department](https://www.npra.gov.bh/en-inquiries-and-proposals/) at the Ministry of Interior.
+### Extending visas
+
+You can apply to renew your visa at the [Nationality, Passports and Residential Affairs department](https://www.npra.gov.bh/en/service-request/) at the Ministry of Interior.
 
 ### Applying for residency
 

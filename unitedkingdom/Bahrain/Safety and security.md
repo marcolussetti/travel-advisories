@@ -44,7 +44,7 @@ The risk of protest can increase around anniversaries of significant events in B
 * Adliya
 * Nuwaidrait
 
-You should leave the area if you see a large public gathering or demonstration. In the event of a protest:
+It has been announced that public gatherings in roads or public squares are temporarily banned to protect public safety. You should leave the area if you see a large public gathering or demonstration. In the event of a protest:
 
 * remain vigilant
 * follow the advice of the local authorities
@@ -66,6 +66,18 @@ Crime is low in most areas, but you should take normal precautions to protect yo
 Bahrain is a liberal country compared to others in the region, but there are still conservative social views.
 
 You should respect local traditions, customs, laws and religions and make sure your actions do not cause offence, especially during Ramadan and Shia religious festivals. Bahrainis observe some religious anniversaries that may not be celebrated in other Gulf countries.
+
+### Security sites and incidents
+
+Filming, photography, publishing or redistributing photos or videos of security and military sites, operations or incidents is prohibited. This includes the promotion of unverified or fabricated content pertaining to events, attacks or acts of aggression against Bahrain. Violation of this prohibition risks arrest and prosecution.
+
+### Social media
+
+Respect the local culture and public security rules when using social media. It could amount to a crime if you post online any message, video or photograph, that:
+
+* is critical of the Bahrain government or monarchy
+* appears to abuse, ridicule or criticise the country
+* is culturally insensitive
 
 ### Personal ID
 
@@ -115,14 +127,6 @@ You should also:
 ### Public offences
 
 Offensive language, spitting and aggressive behaviour (including ‘road rage’ hand gestures) are seen as seriously offensive and can result in a prison sentence and deportation.
-
-### Social media
-
-Respect the local culture and public security rules when using social media. It could amount to a crime if you post online any message, video or photograph, that:
-
-* is critical of the Bahrain government or monarchy
-* appears to abuse, ridicule or criticise the country
-* is culturally insensitive
 
 ## Alcohol laws and bans
 

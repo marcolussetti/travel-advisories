@@ -1,11 +1,11 @@
 {
     "name": "Bahrain",
-    "update_reason": "New information that we have taken the precautionary measure to temporarily withdraw some of our staff and their dependents from Bahrain. Our Embassy continues to operate (\u2018Warnings and insurance\u2019 page).",
+    "update_reason": "Updated information about the regional escalations and new information about extending your visa, public gatherings and security sites and incidents (\u2018Warnings and insurance\u2019, \u2018Entry requirements\u2019 and \u2018Safety and security\u2019 pages).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Bahrain/Warnings and insurance.md",
-            "update_date": "2026-03-04T17:07:25+00:00"
+            "update_date": "2026-03-08T17:18:11+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Bahrain/Getting help.md"
         }
     ],
-    "update_date": "2026-03-04T17:07:25+00:00"
+    "update_date": "2026-03-08T17:18:11+00:00"
 }

@@ -1,17 +1,17 @@
 # Warnings and insurance
 
 Still current at:
-:   5 March 2026
+:   9 March 2026
 
 Updated:
-:   4 March 2026
+:   8 March 2026
 
 Latest update:
-:   Information on how to register interest in UK government flights from Oman (‘Warnings and insurance page’).
+:   New information on returning to the UK ('Warning and Insurance' pages).
 
-## Register your interest in UK government flights from Oman
+## Travel Disruption
 
-If you have had travel plans disrupted, you can [register your interest in UK government flights from Oman](https://www.register.service.csd.fcdo.gov.uk/oman-20260304/register-your-interest-in-uk-government-flights-from-oman).
+Commercial flights are operating from Muscat to the UK.  If you are still in Oman and need to get back to the UK, please contact the airlines directly.   The Omani authorities are asking travellers only to travel to the airport when they have a confirmed onward flight.  Any British nationals in Oman who need consular support can contact us 24/7 by calling +968 2460 9000.
 
 ## Shelter in place
 

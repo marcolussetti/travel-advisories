@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   6 March 2026
+:   9 March 2026
 
 Updated:
-:   5 March 2026
+:   8 March 2026
 
 Latest update:
-:   Register your presence if you’re in Lebanon (‘Warnings and insurance’ page).
+:   New information that we have taken the precautionary measure to temporarily withdraw some of our staff and their dependents from Lebanon. Our embassy continues to operate as normal (‘Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/69a8951f2f1252e55180d4f9/FCDO__TA__023_-_Lebanon_Travel_Advice_Ed21__WEB_.jpg)
 
@@ -20,7 +20,7 @@ Your travel insurance could be invalidated if you travel against advice from the
 
 ### Areas in Beirut and Mount Lebanon Governorate
 
-FCDO advises against all travel to the following areas of Beirut and its southern suburbs, excluding Route 51 from central Beirut to and past Rafic International Airport:
+FCDO advises against all travel to the following areas of Beirut and its southern suburbs, excluding Route 51 from central Beirut to and past Rafic Hariri International Airport:
 
 * Tariq el Jdideh and the area south of (but not including) Saeb Salam street between Ramleh al Bayda and Omar Beyhum street on the northern side of Horsh park to Tayouneh roundabout
 * Ghobeiry and the area north of Ghobeiry but south of Yarmouk street, the war cemetery and Horsh park (not including Horsh park and the cemetery and Yarmouk street)
@@ -30,7 +30,7 @@ FCDO advises against all travel to the following areas of Beirut and its southe
 * Mraije
 * Laylaki
 * all other areas west of the Camil Chamoun Boulevard (south of Forn el Chebbak) that becomes the Old Saida Road through Hadath to Beirut airport
-* the Area of Bir Hassan bordered by the following roads: West of Highway 51; East of Beirut Saida Highway; South of Ghobeiry Road; North of Abbas El Mousawi; but excluding the neighbourhood block containing the Rafiq Hariri hospital, Ministry of Public Health and Qatari Embassy (which is bordered by Ali Said al Khansa road in the west, Ghoberi Road in the north and Ghoberi Road south and Highway 51 in the East)
+* the Area of Bir Hassan bordered by the following roads: West of Highway 51; East of Beirut Saida Highway; South of Ghobeiry Road; North of Abbas El Mousawi
 
 FCDO advises against all travel to:
 
@@ -91,7 +91,7 @@ Keep your departure plans under review and ensure your travel documents are up t
 
 ## Conflict affecting Lebanon
 
-Since 2 March, conflict in Lebanon has escalated in response to regional events. Airstrikes and rocket attacks between Israel and Lebanese Hizballah have increased. Widespread evacuation warnings have led to mass movement of people from conflict-affected areas. On 4 March, the IDF instructed people to leave all areas south of the Litani River.
+Since 2 March, conflict in Lebanon has escalated in response to regional events. Airstrikes and rocket attacks between Israel and Lebanese Hizballah have increased. Widespread evacuation warnings have led to mass movement of people from conflict-affected areas. On 4 March, the IDF instructed people to leave all areas south of the Litani River. On 5 March they instructed everyone to leave a large area encompassing Beirut’s southern suburbs.
 
 Israeli airstrikes have occurred primarily in areas south of the Litani River, Beirut’s southern suburbs and Baalbek-Hermel Governorate. The IDF regularly releases evacuation warnings before airstrikes, but many have taken place with no advance notice. The dynamic nature of the conflict means airstrikes have also taken place outside these areas. British nationals should follow local, international and social media to keep up to date with official alerts.
 
@@ -107,7 +107,7 @@ Celebratory gunfire is common in Lebanon and there is a risk from gunfire being 
 
 ### Local support
 
-The Embassy is open as normal and continues with essential work, including full services to British nationals.
+Due to the ongoing security situation, we have taken the precautionary measure to temporarily withdraw some of our staff and their dependents from Beirut. Our embassy continues to operate as normal.
 
 Keep up to date with local and international media including TV and radio stations such as Virgin Radio Lebanon (FM 89.5) and Voice of Lebanon / Sawt Lubnan (FM 100.3 - 100.5) which may be useful sources of information on any developments.
 

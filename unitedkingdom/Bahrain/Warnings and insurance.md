@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   5 March 2026
+:   9 March 2026
 
 Updated:
-:   4 March 2026
+:   8 March 2026
 
 Latest update:
-:   New information that we have taken the precautionary measure to temporarily withdraw some of our staff and their dependents from Bahrain. Our Embassy continues to operate (‘Warnings and insurance’ page).
+:   Updated information about the regional escalations and new information about extending your visa, public gatherings and security sites and incidents (‘Warnings and insurance’, ‘Entry requirements’ and ‘Safety and security’ pages).
 
 ![](https://assets.publishing.service.gov.uk/media/69a367d7286b6fdc85daeb02/Bahrain_Travel_Advice_Ed1__WEB_.jpg)
 
@@ -38,13 +38,15 @@ Sign up to FCDO Travel Advice [email alerts.](https://www.gov.uk/foreign-trav
 
 ## Leaving Bahrain
 
-If you judge it is safe to do so and you plan to travel by road read our [Travel Advice for  Saudi Arabia](https://www.gov.uk/foreign-travel-advice/saudi-arabia) for entry requirements to Saudi Arabia and ensure you have the correct paperwork, or you may be denied entry. If travelling by car, the vehicle must be wholly owned and registered in your name. If using commercial options to depart check for the latest updates from your airline or tour operator, as well as the instructions of local authorities and the status of any border crossings before you travel. Make sure you have access to emergency supplies and essential medication. Travel within or out of Bahrain is at your own risk.
+If your presence in Bahrain is not essential, you may wish to consider departing if you judge you can access these options safely. If you plan to travel by road, read our [Travel Advice for  Saudi Arabia](https://www.gov.uk/foreign-travel-advice/saudi-arabia) for the latest information, including entry requirements to Saudi Arabia and ensure you have the correct paperwork, or you may be denied entry. If travelling by car, the vehicle must be wholly owned and registered in your name. If using commercial options to depart check for the latest updates from your airline or tour operator, as well as the instructions of local authorities and the status of any border crossings before you travel. Make sure you have access to emergency supplies and essential medication. Travel within or out of Bahrain is at your own risk.
 
 Keep your departure plans under review and ensure your travel documents are up to date, including any visas required for onward travel.
 
 ## Shelter in place
 
-If staying in the Kingdom, follow the instructions of the local authorities. If you are advised to take shelter, stay indoors or find the nearest safe building or designated shelter. An interior stairwell or a room with as few external walls or windows as possible may provide additional protection.
+If staying in the Kingdom, follow the instructions of the local authorities. If you are advised to take shelter, stay indoors or find the nearest safe building or designated shelter. An interior stairwell or a room with as few external walls or windows as possible may provide additional protection. You should not approach or touch any drone or missile fragments or unusual objects.
+
+We advise British Nationals, wherever possible, to stay inside and limit movements to essential journeys only. Always let friends or family know where you are and when you are travelling and keep your mobile phone with you and charged.
 
 ## If you are in Bahrain
 
