@@ -4,9 +4,11 @@ If you are an Irish citizen in Iran and require urgent assistance in the case of
 
 Alternatively, you may contact the Duty Officer at the Department of Foreign Affairs and Trade in Dublin on +353 1 408 2000.
 
-A duty officer will respond as soon as possible. Phone lines and email are monitored 24/7.
+A duty officer will respond as soon as possible. Phone lines and email are monitored regularly.
 
 Please be aware that we are limited in the help we can offer in an emergency.
+
+Due to the ongoing security situation in Iran, Embassy staff have temporarily relocated, but continue to provide consular assistance remotely.
 
 ### Embassy of Ireland, Tehran
 

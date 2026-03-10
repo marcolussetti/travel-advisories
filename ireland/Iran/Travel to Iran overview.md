@@ -10,7 +10,7 @@ Do Not Travel
 
 **Air strikes have been launched against Iran, with reports of Tehran and other major Iranian cities being struck. Irish citizens who are in Iran should shelter in place and avoid unnecessary movements. Irish citizens should also avoid military and security force installations.**
 
-**Irish citizens should be prepared to shelter in place for an extended period. Make sure you have adequate supplies of water, food and medication.**
+**Irish citizens should be prepared to shelter in place for an extended period. Make sure you have adequate supplies of water, food and medication(if required).**
 
 **Iran’s airspace has been closed and all commercial flights are cancelled. This situation is likely to continue for some time. Land border crossings are likely to be significantly congested. You should only make plans to leave Iran overland if it is safe to do so and if you have the correct visa or travel documents to enter a neighbouring country.**
 
@@ -26,9 +26,11 @@ If you are an Irish citizen in Iran and require urgent assistance in the case of
 
 Alternatively, you may contact the Duty Officer at the Department of Foreign Affairs and Trade in Dublin on +353 1 408 2000.
 
-A duty officer will respond as soon as possible. Phone lines and email are monitored 24/7.
+A duty officer will respond as soon as possible. Phone lines and email are monitored regularly.
 
 Please be aware that we are very limited in the help we can offer in an emergency.
+
+Due to the ongoing security situation in Iran, Embassy staff have temporarily relocated, but continue to provide consular assistance remotely.
 
 ### **General Travel Advice**
 
@@ -47,8 +49,6 @@ Iran does not recognise dual nationality. If you are an Irish citizen with Irani
 Military service is mandatory for Iranian adult males. If you are an Iranian-Irish dual national man who has not completed military service, you may not be able to leave Iran without first completing your military service.
 
 For more information on visas and passports, please see the Entry requirements tab.
-
-Visitors to Iran are advised to follow the guidance of national and local authorities and stay fully informed of what is going on by monitoring local news and social media.
 
 Citizens can also follow the [**Department of Foreign Affairs and Trade on X**](https://x.com/dfatravelwise?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) to ensure access to relevant updates and alerts.
 
@@ -74,6 +74,8 @@ If you are an Irish citizen in Iran and require urgent assistance in the case of
 
 Alternatively, you may contact the Duty Officer at the Department of Foreign Affairs and Trade in Dublin on +353 1 408 2000.
 
-A duty officer will respond as soon as possible. Phone lines and email are monitored 24/7.
+A duty officer will respond as soon as possible. Phone lines and email are monitored regularly.
 
-Please be aware that we are limited in the help we can offer in an emergency
+Please be aware that we are limited in the help we can offer in an emergency.
+
+Due to the ongoing security situation in Iran, Embassy staff have temporarily relocated, but continue to provide consular assistance remotely.
