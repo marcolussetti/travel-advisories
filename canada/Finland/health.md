@@ -6,7 +6,6 @@
 
 * [Measles: Advice for travellers](https://travel.gc.ca/travelling/health-safety/travel-health-notices/504) - 13 November, 2025
 * [COVID-19 and International Travel](https://travel.gc.ca/travelling/health-safety/travel-health-notices/513) - 12 May, 2025
-* [Polio: Advice for travellers](https://travel.gc.ca/travelling/health-safety/travel-health-notices/508) - 21 November, 2025
 
 This section has information and advice about health risks you might face when travelling. Following this advice can help reduce your risk of getting sick. Not all risks are listed here.
 
@@ -111,9 +110,11 @@ Before travel, discuss rabies vaccination with a health care professional. It ma
 
 Polio 
 
-[Polio](https://travel.gc.ca/travelling/health-safety/diseases/polio) (poliomyelitis) is an infectious disease that can be prevented by vaccination. It is caused by poliovirus type 1, 2 or 3. Circulating vaccine-derived poliovirus 2 (cVDPV2) is present in this country.
+The World Health Organization (WHO), at the time of their last report, identified this country as no longer poliovirus-infected, but as having been previously infected within the last 24 months.
 
-Polio is spread from person to person and through contaminated food and water. Infection with the polio virus can cause paralysis and death in individuals of any age who are not immune.
+[Polio](https://travel.gc.ca/travelling/health-safety/diseases/polio) is spread from person to person and through contaminated food and water. Infection with polio virus can cause paralysis and death in individuals of any age who are not immune.
+
+Polio can be preventeed by vaccination.
 
 **Recommendations:**
 

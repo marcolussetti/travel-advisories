@@ -1,7 +1,7 @@
 {
     "name": "Spain",
-    "update_reason": "Natural disasters and climate \u2013 removed information on severe storms",
-    "update_date": "2026-02-23T12:15:00",
+    "update_reason": "Health \u2013 Travel health notice for polio removed",
+    "update_date": "2026-03-09T16:18:00",
     "sections": {
         "risk": "canada/Spain/risk.md",
         "security": "canada/Spain/security.md",

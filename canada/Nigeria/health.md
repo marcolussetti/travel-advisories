@@ -5,7 +5,7 @@
 ### Relevant Travel Health Notices
 
 * [Measles: Advice for travellers](https://travel.gc.ca/travelling/health-safety/travel-health-notices/504) - 13 November, 2025
-* [Polio: Advice for travellers](https://travel.gc.ca/travelling/health-safety/travel-health-notices/508) - 21 November, 2025
+* [Polio: Advice for travellers](https://travel.gc.ca/travelling/health-safety/travel-health-notices/508) - 9 March, 2026
 * [COVID-19 and International Travel](https://travel.gc.ca/travelling/health-safety/travel-health-notices/513) - 12 May, 2025
 * [Diphtheria: Advice for travellers](https://travel.gc.ca/travelling/health-safety/travel-health-notices/528) - 4 February, 2026
 

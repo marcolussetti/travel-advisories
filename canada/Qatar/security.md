@@ -10,7 +10,11 @@ Avoid the vicinity of military installations, critical infrastructure and stay a
 
 Our ability to provide consular services to Canadians during an active conflict is limited, with priority given to the provision of essential services. Prepare contingency plans that don’t rely on the Government of Canada’s assistance for departure.
 
-Qatari airspace is closed until further notice.
+Qatari airspace has partially reopened on March 7, 2026, and some commercial flights have resumed.
+
+* Monitor flight availability and consider leaving when commercial options are available
+* Verify with your airline before you travel to the airport
+* Expect delays or cancellations on short notice should the situation deteriorate
 
 You should shelter in place, but if you wish to leave Qatar via a land border crossing and assess that you can do so safely, the Abu Samra/Salwa border crossing to Saudi Arabia is open. You should verify the status of the border crossing before you travel.
 

@@ -10,7 +10,7 @@ Avoid the vicinity of military installations, critical infrastructure and stay a
 
 There could be disruptions to movement and transportation due to military debris falling in various locations.
 
-Ben Gurion International Airport has reopened, and some outbound flights on Israeli airlines are expected to resume on March 8, 2026.
+Ben Gurion International Airport has reopened, and some outbound flights on Israeli airlines have resumed as of March 8, 2026.
 
 * Monitor flight availability and leave when commercial options are available
 * Verify with your airline before you travel to the airport
@@ -33,8 +33,6 @@ For West Bank ID holders, the Allenby/King Hussein bridge near Jericho is the on
 + Menahem Begin/Taba, from southern Israel into the Sinai Peninsula (visa available on-arrival)
 
 Verify the status of border crossings before travelling there.
-
-The Israeli Ministry of Tourism is operating buses from Herzliya, Haifa, Jerusalem and Tel Aviv to the Menachim Begin border crossing between Eilat and Taba in Egypt. Seats are allocated on a first-come first-served basis. Visit their [website](https://www.gov.il/en/pages/mot-update-2026-03-01) for more information.
 
 Our ability to provide consular services to Canadians during an active conflict is likely to be limited. If you are in Israel or Palestine, prepare contingency plans that don't rely on the Government of Canada's assistance for evacuations or assisted departures.
 

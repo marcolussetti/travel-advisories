@@ -1,7 +1,7 @@
 {
     "name": "Chile",
-    "update_reason": "Natural disasters and climate \u2013 updated information on wildfires",
-    "update_date": "2026-03-02T13:11:00",
+    "update_reason": "The Need help? section was updated.",
+    "update_date": "2026-03-09T12:53:00",
     "sections": {
         "risk": "canada/Chile/risk.md",
         "security": "canada/Chile/security.md",

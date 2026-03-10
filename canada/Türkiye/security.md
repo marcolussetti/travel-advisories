@@ -2,6 +2,25 @@
 
 ## Safety and security
 
+### Ongoing hostilities in the Middle East
+
+There is ongoing military activity in the region. Missiles, drones and other projectiles could strike targets in the region.
+
+There could be disruptions to air traffic, including:
+
+* flight cancellations
+* airspace closures
+
+You should:
+
+* avoid the vicinity of military installations
+* be vigilant and follow the instructions of local authorities at all times, including any orders to shelter in place
+* ensure that your travel documents and those of your family are up to date
+* monitor local and international media to stay informed of the rapidly evolving situation
+* sign up with the [Registration of Canadians Abroad](https://travel.gc.ca/travelling/registration "https://travel.gc.ca/travelling/registration") service to receive important additional information, specific to your location, about the ongoing situation and any available departure options.
+
+[Canada's response to the situation in the Middle East](https://www.international.gc.ca/world-monde/issues_development-enjeux_developpement/response_conflict-reponse_conflits/crisis-crises/middle-east-moyen-orient.aspx?lang=eng)
+
 ### Borders with Iraq and Syria
 
 Despite counter-terrorism operations conducted by Turkish and Iraqi security forces, a risk of terrorism subsists at the border between Türkiye and Iraq. Violent attacks on sites held by terrorist groups or against Turkish and Iraqi security forces have occurred.
