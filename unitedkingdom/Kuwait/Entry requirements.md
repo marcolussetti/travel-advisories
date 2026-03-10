@@ -9,6 +9,16 @@ London, SW1X 7JU
 
 Telephone: 020 7590 3400
 
+## Crossing the Iraq - Kuwait (Safwan) border
+
+The border crossing from Iraq into Kuwait is closed. British nationals wishing to cross into Kuwait must contact the British Embassy in Kuwait 24 hours in advance. The British Embassy will share names and passport details with the Ministry of Foreign Affairs who will determine entry.
+
+FCDO advises against all travel to Iraq. See [FCDO travel advice for Iraq](https://www.gov.uk/foreign-travel-advice/iraq).
+
+## Entry to Saudi Arabia
+
+British nationals who are trying to leave Kuwait via Saudi Arabia and who are travelling on British Emergency Travel Documents, Emergency Passports, or passports with less than 6 months remaining validity, should call the helplines for British Embassy Riyadh +966 (0) 11481 9100 or British Consulate Jeddah +966 (0)126225550 for advice.
+
 ## Passport validity requirements
 
 To enter Kuwait, your passport must have an ‘expiry date’ at least 6 months after the date you arrive.

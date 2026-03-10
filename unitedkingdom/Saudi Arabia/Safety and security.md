@@ -60,7 +60,7 @@ If you live in Saudi Arabia, carry your residency card (‘Iqama’). Police als
 
 ### Ramadan
 
-Ramadan is a holy month for Muslims. The dates vary by year and country. Ramadan in Saudi Arabia will start around 28 February in 2025 and last for 30 days. During this time, do not:
+Ramadan is a holy month for Muslims. The dates vary by year and country. Ramadan in Saudi Arabia started on 18 February in 2026 and will last for 30 days. During this time, do not:
 
 * eat, drink, smoke or chew gum in public in the daytime, including in your car
 * play loud music or dance

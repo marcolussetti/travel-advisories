@@ -4,6 +4,12 @@ This information is for people travelling on a full [‘British citizen’ passp
 
 The authorities in Iraq set and enforce entry rules. If you’re not sure how these requirements apply to you, contact the [Iraqi Embassy in the UK](https://mofa.gov.iq/london/en/embassy-of-the-republic-of-iraq-in-london/).
 
+## Entry to Saudi Arabia
+
+British nationals who are trying to leave Iraq via Saudi Arabia and who are travelling on British Emergency Travel Documents, Emergency Passports, or passports with less than 6 months remaining validity, should call the helplines for British Embassy Riyadh +966 (0) 11481 9100 or British Consulate Jeddah +966 (0)126225550 for advice.
+
+See [‘Entry requirements’ for Saudi Arabia](https://draft-origin.publishing.service.gov.uk/foreign-travel-advice/saudi-arabia/entry-requirements).
+
 ## Passport validity requirements
 
 To enter Iraq, your passport must have an ‘expiry date’ at least 6 months after the date you arrive and have at least one blank page.

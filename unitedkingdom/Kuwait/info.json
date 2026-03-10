@@ -1,11 +1,11 @@
 {
     "name": "Kuwait",
-    "update_reason": "Updated with information about risks from terrorism in the context of regional escalation ('Safety and security' page).",
+    "update_reason": "New information about entry to Saudi Arabia (see \u2018Warnings and insurance\u2019 and \u2018Entry requirements\u2019 pages).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Kuwait/Warnings and insurance.md",
-            "update_date": "2026-03-07T12:58:12+00:00"
+            "update_date": "2026-03-09T17:16:43+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Kuwait/Getting help.md"
         }
     ],
-    "update_date": "2026-03-07T12:58:12+00:00"
+    "update_date": "2026-03-09T17:16:43+00:00"
 }

@@ -4,6 +4,10 @@ This information is for people travelling on a full [‘British citizen’ passp
 
 The authorities in Yemen set and enforce entry rules. If you’re not sure how these requirements apply to you, contact the [Yemeni Embassy in the UK](https://www.yemenembassy.co.uk/).
 
+## Entry to Saudi Arabia
+
+British nationals who are trying to leave Yemen via Saudi Arabia and who are travelling on British Emergency Travel Documents, Emergency Passports, or passports with less than 6 months remaining validity, should call the helplines for British Embassy Riyadh +966 (0) 11481 9100 or British Consulate Jeddah +966 (0)126225550 for advice.
+
 ## Passport validity requirements
 
 To enter Yemen, your passport must have an ‘expiry date’ at least 6 months after the date you arrive.

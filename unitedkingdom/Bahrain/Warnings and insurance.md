@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   9 March 2026
+:   10 March 2026
 
 Updated:
-:   8 March 2026
+:   9 March 2026
 
 Latest update:
-:   Updated information about the regional escalations and new information about extending your visa, public gatherings and security sites and incidents (‘Warnings and insurance’, ‘Entry requirements’ and ‘Safety and security’ pages).
+:   New information about entry to Saudi Arabia (see ‘Warnings and insurance’ and ‘Entry requirements’ pages).
 
 ![](https://assets.publishing.service.gov.uk/media/69a367d7286b6fdc85daeb02/Bahrain_Travel_Advice_Ed1__WEB_.jpg)
 
@@ -42,11 +42,17 @@ If your presence in Bahrain is not essential, you may wish to consider departi
 
 Keep your departure plans under review and ensure your travel documents are up to date, including any visas required for onward travel.
 
+## Entry to Saudi Arabia
+
+British nationals who are trying to leave Bahrain via Saudi Arabia and who are travelling on British Emergency Travel Documents, Emergency Passports, or passports with less than 6 months remaining validity, should call the helplines for British Embassy Riyadh +966 (0) 11481 9100 or British Consulate Jeddah +966 (0)126225550 for advice.
+
+See [‘Entry requirements’ for Saudi Arabia](https://www.gov.uk/foreign-travel-advice/saudi-arabia).
+
 ## Shelter in place
 
 If staying in the Kingdom, follow the instructions of the local authorities. If you are advised to take shelter, stay indoors or find the nearest safe building or designated shelter. An interior stairwell or a room with as few external walls or windows as possible may provide additional protection. You should not approach or touch any drone or missile fragments or unusual objects.
 
-We advise British Nationals, wherever possible, to stay inside and limit movements to essential journeys only. Always let friends or family know where you are and when you are travelling and keep your mobile phone with you and charged.
+We advise British nationals, wherever possible, to stay inside and limit movements to essential journeys only. Always let friends or family know where you are and when you are travelling and keep your mobile phone with you and charged.
 
 ## If you are in Bahrain
 

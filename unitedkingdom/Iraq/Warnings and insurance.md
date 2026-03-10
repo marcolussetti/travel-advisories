@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   2 March 2026
+:   10 March 2026
 
 Updated:
-:   1 March 2026
+:   9 March 2026
 
 Latest update:
-:   The FCDO now advises against all travel to Federal Iraq and the Kurdistan Region of Iraq. (Warnings and insurance)
+:   New information about entry to Saudi Arabia (see ‘Warnings and insurance’ and ‘Entry requirements’ pages).
 
 ![](https://assets.publishing.service.gov.uk/media/69a4b52ea4d26cb233cd47f0/FCDO__TA__048_-_Iraq_Travel_Advice_Ed1__WEB_.jpg)
 
@@ -41,6 +41,16 @@ British nationals should:
 * stay away from areas around security or military facilities
 * keep your departure plans under review, and ensure your travel documents are up to date
 * if you are advised to take shelter, stay indoors or find the nearest safe building or designated shelter. An interior stairwell or a room with as few external walls or windows as possible may provide additional protection
+
+## Entry to Saudi Arabia
+
+British nationals who are trying to leave Iraq via Saudi Arabia and who are travelling on British Emergency Travel Documents, Emergency Passports, or passports with less than 6 months remaining validity, should call the helplines for British Embassy Riyadh +966 (0) 11481 9100 or British Consulate Jeddah +966 (0)126225550 for advice.
+
+See [‘Entry requirements’ for Saudi Arabia](https://draft-origin.publishing.service.gov.uk/foreign-travel-advice/saudi-arabia/entry-requirements).
+
+## Crossing the Iraq - Kuwait (Safwan) border
+
+The border crossing from Iraq into Kuwait is closed. British nationals wishing to cross into Kuwait must contact the British Embassy in Kuwait 24 hours in advance. The British Embassy will share names and passport details with the Ministry of Foreign Affairs who will determine entry.
 
 ## Travel insurance
 

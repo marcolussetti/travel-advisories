@@ -4,6 +4,10 @@ This information is for people travelling on a full [‘British citizen’ passp
 
 The authorities in Qatar set and enforce entry rules. If you’re not sure how these requirements apply to you, [contact Qatar’s embassy in the UK](https://london.embassy.qa/en/).
 
+## Entry to Saudi Arabia
+
+British nationals who are trying leave Qatar via Saudi Arabia and who are travelling on British Emergency Travel Documents, Emergency Passports, or passports with less than 6 months remaining validity, should call the helplines for British Embassy Riyadh +966 (0) 11481 9100 or British Consulate Jeddah +966 (0)126225550 for advice.
+
 ## Passport validity requirements
 
 If you are visiting Qatar, your passport should be valid for at least 6 months from the date you arrive. You will be denied entry if you do not have a valid travel document or try to use a passport that has been reported lost or stolen.

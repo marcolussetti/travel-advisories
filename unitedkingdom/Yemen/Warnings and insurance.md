@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   28 February 2026
+:   10 March 2026
 
 Updated:
-:   27 February 2026
+:   9 March 2026
 
 Latest update:
-:   Updated information about the risks of regional escalation (‘Warnings and insurance’ page).
+:   New information about entry to Saudi Arabia (see ‘Warnings and insurance’ and ‘Entry requirements’ pages).
 
 ![](https://assets.publishing.service.gov.uk/media/5f4e3445e90e071c6f74664e/FCDO__TA__047_-_Yemen_Travel_Advice_Ed1__WEB_.jpg)
 
@@ -36,11 +36,11 @@ If you choose to remain in Yemen, you should minimise movement around the countr
 
 If you’re a British national in Yemen and need help from the UK government, you can call FCDO on 020 7008 5000 (24 hours).
 
-## Regional risks
+## Regional escalation
 
-There is a heightened risk of regional tension. Escalation could lead to travel disruption and other unanticipated impacts.
+Regional escalation poses significant security risks and has led to travel disruption.
 
-British nationals should take sensible precautions, considering their own individual circumstances. These include:
+British nationals should:
 
 * read [If you’re affected by a crisis abroad - GOV.UK](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas). This includes guidance on “how to prepare for a crisis” with suggestions on what you might include in your emergency supplies and “what to do in a crisis”
 * follow advice from the local authorities and sign up to receive information and alerts
@@ -48,6 +48,12 @@ British nationals should take sensible precautions, considering their own indivi
 * stay away from areas around security or military facilities
 * keep your departure plans under review, and ensure your travel documents are up to date
 * if you are advised to take shelter, stay indoors or find the nearest safe building or designated shelter. An interior stairwell or a room with as few external walls or windows as possible may provide additional protection
+
+## Entry to Saudi Arabia
+
+British nationals who are trying to leave Yemen via Saudi Arabia and who are travelling on British Emergency Travel Documents, Emergency Passports, or passports with less than 6 months remaining validity, should call the helplines for British Embassy Riyadh +966 (0) 11481 9100 or British Consulate Jeddah +966 (0)126225550 for advice.
+
+See [‘Entry requirements’ for Saudi Arabia](https://www.gov.uk/foreign-travel-advice/saudi-arabia).
 
 ## Travel insurance
 

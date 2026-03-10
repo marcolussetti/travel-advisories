@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   8 March 2026
+:   10 March 2026
 
 Updated:
-:   7 March 2026
+:   9 March 2026
 
 Latest update:
-:   Information on how to register interest in UK government flights from United Arab Emirates (‘Warnings and insurance page’).
+:   New information that as a precautionary measure the FCDO has decided to temporarily withdraw the dependants of British Embassy staff from the United Arab Emirates. Our embassies in Abu Dhabi and Dubai continue to operate as normal (‘Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/69a36e57ec82ce45f05bd728/United_Arab_Emirates_Travel_Advice_Ed1__WEB_.jpg)
 
@@ -54,15 +54,15 @@ Make sure you have access to emergency supplies and essential medication. Travel
 
 Keep your departure plans under review and ensure your travel documents are up to date, including any visas required for onward travel.
 
-## Before you travel
+## Entry to Saudi Arabia
 
-No travel can be guaranteed safe. Read all the advice in this guide. You may also find it helpful to:
+British nationals who are trying to leave the United Arab Emirates via Saudi Arabia and who are travelling on British Emergency Travel Documents, Emergency Passports, or passports with less than 6 months remaining validity, should call the helplines for British Embassy Riyadh +966 (0) 11481 9100 or British Consulate Jeddah +966 (0)126225550 for advice.
 
-* see [general advice for women travellers](https://www.gov.uk/guidance/advice-for-women-travelling-abroad)
-* read our [guide on disability and travel abroad](https://www.gov.uk/government/publications/disabled-travellers)
-* see [general advice for LGBT+ travellers](https://www.gov.uk/guidance/lesbian-gay-bisexual-and-transgender-foreign-travel-advice)
-* read about [safety for solo and independent travel](https://www.gov.uk/guidance/solo-and-independent-travel)
-* see [advice on volunteering and adventure travel abroad](https://www.gov.uk/guidance/safer-adventure-travel-and-volunteering-overseas)
+See [‘Entry requirements’ for Saudi Arabia](https://www.gov.uk/foreign-travel-advice/saudi-arabia).
+
+## If you are in the United Arab Emirates
+
+Due to the ongoing security situation, as a precautionary measure we have decided to temporarily withdraw the dependents of British Embassy staff from the United Arab Emirates. Our embassies in Abu Dhabi and Dubai continue to operate as normal.
 
 ### Travel insurance
 

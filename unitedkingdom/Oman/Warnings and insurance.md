@@ -1,17 +1,19 @@
 # Warnings and insurance
 
 Still current at:
-:   9 March 2026
+:   10 March 2026
 
 Updated:
-:   8 March 2026
+:   9 March 2026
 
 Latest update:
-:   New information on returning to the UK ('Warning and Insurance' pages).
+:   Updated information about travel disruption (Warnings and insurance)
 
-## Travel Disruption
+## Travel disruption
 
-Commercial flights are operating from Muscat to the UK.  If you are still in Oman and need to get back to the UK, please contact the airlines directly.   The Omani authorities are asking travellers only to travel to the airport when they have a confirmed onward flight.  Any British nationals in Oman who need consular support can contact us 24/7 by calling +968 2460 9000.
+Commercial flights are operating from Muscat to the UK. Internal flights continue from Salalah in Dhofar Governorate to Muscat. Commercial flights to and from Khasab airport in Musandam Governorate are currently suspended. If you are still in Oman and need to get back to the UK, check for availability with airlines or your travel provider. The Omani authorities are asking travellers only to travel to the airport when they have a confirmed onward flight.
+
+British nationals in Oman who need consular assistance can contact us 24/7 by calling +968 2460 9000.
 
 ## Shelter in place
 

@@ -1,11 +1,11 @@
 {
     "name": "Oman",
-    "update_reason": "New information on returning to the UK ('Warning and Insurance' pages).",
+    "update_reason": "Updated information about travel disruption (Warnings and insurance)",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Oman/Warnings and insurance.md",
-            "update_date": "2026-03-08T22:29:37+00:00"
+            "update_date": "2026-03-09T21:27:33+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Oman/Getting help.md"
         }
     ],
-    "update_date": "2026-03-08T22:29:37+00:00"
+    "update_date": "2026-03-09T21:27:33+00:00"
 }

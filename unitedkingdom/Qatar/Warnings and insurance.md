@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   4 March 2026
+:   10 March 2026
 
 Updated:
-:   3 March 2026
+:   9 March 2026
 
 Latest update:
-:   Updated information about regional escalation and leaving Qatar
+:   New information about entry to Saudi Arabia (see ‘Warnings and insurance’ and ‘Entry requirements’ pages).
 
 ![](https://assets.publishing.service.gov.uk/media/69a36c48286b6fdc85daeb04/Qatar_Travel_Advice_Ed2__WEB_.jpg)
 
@@ -16,7 +16,7 @@ Latest update:
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
-## FCDO advices against all but essential travel to Qatar
+## FCDO advises against all but essential travel to Qatar
 
 Find out more about [why FCDO advises against travel](https://www.gov.uk/foreign-travel-advice/qatar/safety-and-security).
 
@@ -45,6 +45,12 @@ Follow the instructions of the local authorities. If you are advised to take 
 If you judge it is safe to do so and plan to use commercial options to depart check for the latest updates from your airline or tour operator, as well as the instructions of local authorities and the status of any border crossings before you travel. Make sure you have access to emergency supplies and essential medication. Travel within or out of Qatar is at your own risk.
 
 Keep your departure plans under review and ensure your travel documents are up to date, including any visas required for onward travel.
+
+## Entering Saudi Arabia
+
+British nationals who are trying to leave Qatar via Saudi Arabia and who are travelling on British Emergency Travel Documents, Emergency Passports, or passports with less than 6 months remaining validity, should call the helplines for British Embassy Riyadh +966 (0) 11481 9100 or British Consulate Jeddah +966 (0)126225550 for advice.
+
+See [‘Entry requirements’ for Saudi Arabia](https://www.gov.uk/foreign-travel-advice/saudi-arabia/entry-requirements).
 
 ## Before you travel
 

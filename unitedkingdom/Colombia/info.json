@@ -1,11 +1,11 @@
 {
     "name": "Colombia",
-    "update_reason": "Addition of information about Colombian Elections on 8 March ('Warnings and insurance' page).",
+    "update_reason": "Removal of information about Colombian Elections on 8 March.",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Colombia/Warnings and insurance.md",
-            "update_date": "2026-03-03T09:41:06+00:00"
+            "update_date": "2026-03-09T15:20:28+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Colombia/Getting help.md"
         }
     ],
-    "update_date": "2026-03-03T09:41:06+00:00"
+    "update_date": "2026-03-09T15:20:28+00:00"
 }

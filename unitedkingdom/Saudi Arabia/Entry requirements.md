@@ -6,7 +6,11 @@ The authorities in Saudi Arabia set and enforce entry rules. If you’re not sur
 
 ## Passport validity requirements
 
-To enter Saudi Arabia, your passport must have an ‘expiry date’ at least 6 months after the date you arrive.
+### Leaving the region due to regional escalation via Saudi Arabia
+
+British nationals who are trying to leave the region via Saudi Arabia  and who are travelling on British Emergency Travel Documents, Emergency Passports, or passports with less than 6 months remaining validity, should call the helplines for British Embassy Riyadh +966 (0) 11481 9100 or British Consulate Jeddah +966 (0)126225550 for advice.
+
+For all other entry into Saudi Arabia, your passport must have an ‘expiry date’ at least 6 months after the date you arrive.
 
 Check with your travel provider that your passport and other travel documents meet requirements. [Renew your passport](https://www.gov.uk/renew-adult-passport/renew) if you need to.
 

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   8 March 2026
+:   10 March 2026
 
 Updated:
-:   7 March 2026
+:   9 March 2026
 
 Latest update:
-:   Updated with information about risks from terrorism in the context of regional escalation ('Safety and security' page).
+:   New information about entry to Saudi Arabia (see ‘Warnings and insurance’ and ‘Entry requirements’ pages).
 
 ![](https://assets.publishing.service.gov.uk/media/69a36b0da4d26cb233cd47da/Kuwait_Travel_Advice_Ed1__WEB_.jpg)
 
@@ -52,6 +52,18 @@ If you judge it is safe to leave Kuwait the following land border crossings in
 Read [Travel Advice for  Saudi Arabia](https://www.gov.uk/foreign-travel-advice/saudi-arabia) and ensure you have the correct paperwork, or you may be denied entry. If travelling by car, the vehicle must be wholly owned and registered in your name. If you plan to use commercial options to depart, check for the latest updates from your airline or tour operator, as well as the instructions of local authorities and the status of any border crossings before you travel. Make sure you have access to emergency supplies and essential medication. Travel within or out of Kuwait is at your own risk.
 
 Keep your departure plans under review and ensure your travel documents are up to date, including any visas required for onward travel.
+
+## Crossing the Iraq - Kuwait (Safwan) border
+
+The border crossing from Iraq into Kuwait is closed. British nationals wishing to cross into Kuwait must contact the British Embassy in Kuwait 24 hours in advance. The British Embassy will share names and passport details with the Ministry of Foreign Affairs who will determine entry.
+
+FCDO advises against all travel to Iraq. See [FCDO travel advice for Iraq](https://www.gov.uk/foreign-travel-advice/iraq).
+
+## Entry to Saudi Arabia
+
+British nationals who are trying to leave Kuwait via Saudi Arabia and who are travelling on British Emergency Travel Documents, Emergency Passports, or passports with less than 6 months remaining validity, should call the helplines for British Embassy Riyadh +966 (0) 11481 9100 or British Consulate Jeddah +966 (0)126225550 for advice.
+
+See [‘Entry requirements’ for Saudi Arabia](https://www.gov.uk/foreign-travel-advice/saudi-arabia).
 
 ## Before you travel
 

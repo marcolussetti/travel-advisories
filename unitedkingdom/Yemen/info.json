@@ -1,11 +1,11 @@
 {
     "name": "Yemen",
-    "update_reason": "Updated information about the risks of regional\u202fescalation (\u2018Warnings and insurance\u2019 page).",
+    "update_reason": "New information about entry to Saudi Arabia (see \u2018Warnings and insurance\u2019 and \u2018Entry requirements\u2019 pages).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Yemen/Warnings and insurance.md",
-            "update_date": "2026-02-27T22:33:41+00:00"
+            "update_date": "2026-03-09T17:16:38+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Yemen/Getting help.md"
         }
     ],
-    "update_date": "2026-02-27T22:33:41+00:00"
+    "update_date": "2026-03-09T17:16:38+00:00"
 }

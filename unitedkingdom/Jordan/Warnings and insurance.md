@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   8 March 2026
+:   10 March 2026
 
 Updated:
-:   7 March 2026
+:   9 March 2026
 
 Latest update:
-:   Updated with information about risks from terrorism in the context of regional escalation ('Safety and security' page).
+:   New information about entry to Saudi Arabia (see ‘Warnings and insurance’ and ‘Entry requirements’ pages).
 
 ![](https://assets.publishing.service.gov.uk/media/69a5be6fa56a5482312c71a0/FCDO__TA__087_-_Jordan_Travel_Advice_Ed3__WEB_.jpg)
 
@@ -39,6 +39,12 @@ British nationals should:
 * when local sirens sound, follow local advice to stay indoors or find the nearest safe building or designated shelter. An interior stairwell or a room with as few external walls or windows as possible may provide additional protection
 * missiles travelling through Jordanian airspace have been intercepted, with debris falling in some urban areas.  Stay away from any debris. If anyone is injured, dial 911
 * Jordanian airspace has been affected by the regional conflict. The Jordanian authorities may announce closures of airspace with little notice. Contact your airline before you travel
+
+## Entry to Saudi Arabia
+
+British nationals who are trying to leave Jordan via Saudi Arabia and who are travelling on British Emergency Travel Documents, Emergency Passports, or passports with less than 6 months remaining validity, should call the helplines for British Embassy Riyadh +966 (0) 11481 9100 or British Consulate Jeddah +966 (0)126225550 for advice.
+
+See [‘Entry requirements’ for Saudi Arabia](https://www.gov.uk/foreign-travel-advice/saudi-arabia).
 
 ## Before you travel
 

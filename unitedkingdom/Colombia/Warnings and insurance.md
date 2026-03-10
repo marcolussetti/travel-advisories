@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   4 March 2026
+:   10 March 2026
 
 Updated:
-:   3 March 2026
+:   9 March 2026
 
 Latest update:
-:   Addition of information about Colombian Elections on 8 March ('Warnings and insurance' page).
+:   Removal of information about Colombian Elections on 8 March.
 
 ![](https://assets.publishing.service.gov.uk/media/67c05135b0bb6528ee866b96/FCDO_TA_054_-_Colombia_Travel_Advice_Ed3_WEB.jpg)
 
@@ -61,14 +61,6 @@ FCDO advises against all but essential travel to within 5km of the border with E
 FCDO advises against all but essential travel to Orito, San Miguel, Valle del Guamuez, Puerto Caicedo, Puerto Guzmán, Puerto Asis and Puerto Leguizamo in Putumayo Department.
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/colombia/regional-risks).
-
-## Colombian elections
-
-Colombia will hold congressional elections and presidential primaries on Sunday 8 March. Expect busy polling stations, traffic disruption and increased security. Colombia’s borders with Brazil, Ecuador, Panama, Peru and Venezuela will be closed from Saturday 7 March at 6pm until Monday 9 March at 6am. Travellers should plan ahead and expect potential travel disruptions due to closures. Stay away from large gatherings and follow local guidance of authorities.
-
-## Tayrona National Park Closure
-
-The Colombian government has ordered the [temporary closure of Tayrona National Natural Park](https://www.parquesnacionales.gov.co/sala-prensa/noticias/parques-nacionales-naturales-de-colombia-anuncia-cierre-temporal-del-parque-tayrona-para-garantizar-condiciones-de-seguridad/), located within the jurisdiction of Santa Marta, over safety concerns. This will remain in effect until further notice. Monitor advice from local authorities.
 
 ## Before you travel
 

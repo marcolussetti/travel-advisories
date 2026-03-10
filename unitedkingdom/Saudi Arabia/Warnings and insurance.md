@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   7 March 2026
+:   10 March 2026
 
 Updated:
-:   6 March 2026
+:   9 March 2026
 
 Latest update:
-:   Updated information about missile and drone attacks in the Eastern Province and Riyadh Province, including the risk of shrapnel from intercepted missiles and drones (‘Warnings and insurance’ page).
+:   New information about entry to Saudi Arabia (see ‘Warnings and Insurance’ and ‘Entry requirements’ pages).
 
 ![](https://assets.publishing.service.gov.uk/media/69a8bbce5fc94cfb71958fb9/FCDO__TA__034_-_Saudi_Arabia_Travel_Advice_Ed7__WEB_.jpg)
 
@@ -37,7 +37,7 @@ Find out more about [why FCDO advises against travel](/foreign-travel-advice/sau
 
 ## Stay inside
 
-Due to reports of missile and drone activity in the region, we advise British nationals already in Saudi Arabia to stay inside and exercise increased caution.  There are reports of continued missile and drone attacks in the Eastern Province and Riyadh Province. There is also a risk of shrapnel from intercepted missiles and drones falling across the region and causing further disruption. Where available, follow advice from local authorities on how to stay safe in your location as risks may vary across Saudi Arabia.
+Due to reports of missile and drone activity in the region, we advise British nationals in Saudi Arabia to stay inside and exercise increased caution.  There are reports of continued missile and drone attacks in the Eastern Province and Riyadh Province. There is also a risk of shrapnel from intercepted missiles and drones falling across the region and causing further disruption. Where available, follow advice from local authorities on how to stay safe in your location as risks may vary across Saudi Arabia.
 
 If you are advised to take shelter, stay indoors or find the nearest safe building and take hard cover. An interior stairwell or a room with as few external walls or windows as possible may provide additional protection.
 
@@ -60,6 +60,12 @@ If you are a British national already living or travelling in Saudi Arabia, you 
 Commercial travel options remain widely available despite limited disruption and temporary closures of airspace across Saudi Arabia. If you judge it is safe to do so and plan to use commercial options to depart check for the latest updates from your airline or tour operator, as well as the instructions of local authorities and the status of any border crossings before you travel. Make sure you have access to emergency supplies and essential medication. Travel within or out of Saudi Arabia is at your own risk.
 
 Keep your departure plans under review and ensure your travel documents are up to date, including any visas required for onward travel.
+
+## Leaving the region via Saudi Arabia
+
+British nationals who are trying to leave the region via Saudi Arabia and who are travelling on British Emergency Travel Documents, Emergency Passports, or passports with less than 6 months remaining validity, should call the helplines for British Embassy Riyadh +966 (0) 11481 9100 or British Consulate Jeddah +966 (0)126225550 for advice.
+
+See [‘Entry requirements’ page](https://www.gov.uk/foreign-travel-advice/saudi-arabia/entry-requirements).
 
 ## Before you travel
 
