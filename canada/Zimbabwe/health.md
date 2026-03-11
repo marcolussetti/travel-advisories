@@ -113,14 +113,6 @@ Malaria
 • Use insecticide-treated bed nets if mosquitoes cannot be excluded from your living area.   
 • Wear permethrin-treated clothing. 
 
-Rabies 
-
-In this destination, [rabies](https://travel.gc.ca/travelling/health-safety/diseases/rabies) is commonly carried by dogs and some wildlife, including bats. Rabies is a deadly disease that spreads to humans primarily through bites or scratches from an infected animal. While travelling, take [precautions](https://www.canada.ca/en/public-health/services/diseases/rabies/prevention.html), including keeping your distance from animals (including free-roaming dogs), and closely supervising children.
-
-If you are bitten or scratched by a dog or other animal while travelling, immediately wash the wound with soap and clean water and see a health care professional. **In this destination, rabies treatment may be limited or may not be available, therefore you may need to return to Canada for treatment.**
-
-Before travel, discuss rabies vaccination with a health care professional. It may be recommended for travellers who are at high risk of exposure (e.g., occupational risk such as veterinarians and wildlife workers, children, adventure travellers and spelunkers, and others in close contact with animals).
-
 Polio 
 
 The World Health Organization (WHO), at the time of their last report, identified this country as no longer poliovirus-infected, but as having been previously infected within the last 24 months.
@@ -133,6 +125,17 @@ Polio can be preventeed by vaccination.
 
 * Be sure that your polio vaccinations are up to date before travelling. Polio is part of the [routine vaccine schedule](https://www.canada.ca/en/public-health/services/publications/healthy-living/canadian-immunization-guide-part-1-key-immunization-information/page-13-recommended-immunization-schedules.html#p1c12a2) for children in Canada.
 * One booster dose of the polio vaccine is recommended as an [adult](https://www.canada.ca/en/public-health/services/publications/healthy-living/canadian-immunization-guide-part-3-vaccination-specific-populations/page-9-immunization-travellers.html#a3).
+Rabies 
+
+In this destination, [rabies](https://travel.gc.ca/travelling/health-safety/diseases/rabies) is carried by dogs and some wildlife, including bats. Rabies is a deadly disease that spreads to humans primarily through bites or scratches from an infected animal.
+
+Before departing Canada, discuss rabies vaccination with a health care professional. It may be recommended for travellers who are at high risk of exposure (e.g., occupational risk such as veterinarians and wildlife workers, children, adventure travellers and spelunkers, and others in close contact with animals).
+
+While travelling, take [precautions](https://www.canada.ca/en/public-health/services/diseases/rabies/prevention.html), including keeping your distance from animals (including free-roaming dogs), and closely supervising children.
+
+If you are bitten or scratched by an animal while travelling, immediately wash the wound with soap and clean water and seek medical care. Upon returning home to Canada, travellers should follow up with their health care provider as soon as possible.
+
+**In this destination, rabies treatment may be limited or may not be available.** The circulation of counterfeit ABHAYRAB human rabies vaccine has been reported in Zimbabwe. Counterfeit vaccine may not be effective in the prevention of rabies and could contain harmful ingredients.
 
 ### Safe food and water precautions
 

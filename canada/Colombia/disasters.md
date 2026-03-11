@@ -2,16 +2,6 @@
 
 ## Natural disasters and climate
 
-### Mud volcano eruption in Antioquia
-
-On February 25, 2026, a mud volcano erupted near Urabá region in Antioquia Department. Local authorities evacuated residents of nearby villages.
-
-* Do not approach the volcano
-* Monitor the situation through official bulletins
-* Follow the instructions of local authorities
-
-[Latest information](https://www2.sgc.gov.co/Noticias/Paginas/Historico-de-noticias.aspx) – Colombian Geological Service (Spanish only)
-
 Colombia is subject to various natural disasters such as:
 
 * droughts

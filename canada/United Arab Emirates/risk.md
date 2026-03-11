@@ -20,6 +20,6 @@ The features in this map do not constitute an authoritative source of geographic
 
 [Avoid all travel](#levels "Risk Levels") to the United Arab Emirates due to the ongoing military activities.
 
-You should shelter in place until commercial flights resume. At that point, if you assess that travelling to the airport is safe, you should consider leaving the UAE at the earliest opportunity.
+You should shelter in place. However, if you decide to leave the country and assess that travel to the airport or to a land border crossing is safe, you should consider leaving the United Arab Emirates at the earliest opportunity.
 
 Sign up with the [Registration of Canadians Abroad](https://travel.gc.ca/travelling/registration) service to receive important additional information, specific to your location, about the ongoing situation and any available departure options.

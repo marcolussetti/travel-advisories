@@ -18,7 +18,7 @@ If you are currently in Moldova or are planning to visit in the future:
 
 ### Transnistria
 
-Transnistria is a separatist region outside the Moldovan government’s control. It is located in Eastern Moldova between the eastern bank of the Dnieper River and the Ukrainian border. The security situation is unstable and unpredictable, especially since the Russian invasion of Ukraine.
+Transnistria is a separatist region outside the Moldovan government’s control. It is located in Eastern Moldova between the eastern bank of the Dniester River and the Ukrainian border. The security situation is unstable and unpredictable, especially since the Russian invasion of Ukraine.
 
 The breakaway government in Transnistria exercises strict control over public assembly and demonstrations. Our ability to provide consular services in Transnistria is severely limited.
 

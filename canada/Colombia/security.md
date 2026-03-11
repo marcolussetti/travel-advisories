@@ -6,36 +6,6 @@
 
 Most land border crossings with Ecuador are closed until further notice. Only the Rumichaca International Bridge, near Ipiales-Tulcán, remains open.
 
-### Closure of Tayrona National Park
-
-Tayrona National Park has been temporarily closed due to roadblocks and threats from armed groups.
-
-If you’re nearby or planning to go there:
-
-* monitor local media for the latest information
-* follow the instructions of local authorities
-* do not pay anyone claiming to collect an entrance fee or offer a tour of the park
-
-### Elections
-
-Legislative elections will take place on March 8, 2026. Presidential elections will take place on May 31, 2026. Ahead of the elections, Colombian authorities will enforce restrictions aimed at preserving public order.
-
-The restrictions include:
-
-* the prohibition of alcohol sales (dry law) during the following periods:
-
-+ from 6 pm March 7 to 12 pm March 9
-+ from 6 pm May 30 to 12 pm June 1
-
-* closure of land and river border crossings during the following periods:
-
-+ from 6 pm March 7 to 6 am March 9
-+ from 6 am May 30 to 6 am June 1
-
-Local authorities may extend these restrictions. Monitor local media for the latest information.
-
-[Dry law and border closures](https://www.presidencia.gov.co/prensa/Paginas/Ley-seca-y-cierre-de-fronteras-medidas-del-Gobierno-para-garantizar-normal-260228.aspx) – Government of Colombia Press Office (PRENSA) (in Spanish only)
-
 ### Dating applications
 
 ### Online dating applications
