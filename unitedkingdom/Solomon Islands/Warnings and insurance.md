@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   7 March 2026
+:   11 March 2026
 
 Updated:
-:   6 March 2026
+:   10 March 2026
 
 Latest update:
-:   New information about travel disruption ('Warnings and insurance' page).
+:   Removal of information that you must have a certificate to prove you’ve had a measles vaccination if you’re travelling from Australia, New Zealand, American Samoa, Samoa, Fiji, Tonga, Kiribati, Papua New Guinea or the Philippines ('Entry requirements' page).
 
 ## Global travel impacts due to escalation in the Middle East
 

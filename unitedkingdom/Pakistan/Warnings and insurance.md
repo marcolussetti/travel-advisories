@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   6 March 2026
+:   11 March 2026
 
 Updated:
-:   5 March 2026
+:   10 March 2026
 
 Latest update:
-:   Updated information on regional escalation including on flight disruptions and protests (‘Warnings and insurance’ page).
+:   Updated information about areas where protests may happen ('Warnings and insurance' page).
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
@@ -83,11 +83,11 @@ In Karachi, key infrastructure and transit routes, including Karachi Jinnah Inte
 
 Regional escalation poses significant security risks and has led to travel disruption. There are increased security risks in Pakistan because of tensions between Pakistan and Afghanistan and developments in Iran.  Flights are being disrupted due to air space closures in the Middle East. Please check with your airline before travelling.
 
-Protests are planned in major cities in Pakistan. Given the increasing risks we have instructed UK staff in Pakistan to restrict their movements at this time.
+Protests are planned in major cities in Pakistan. Road access restrictions and curfews may be imposed at short notice. Given the increasing risks we have instructed UK staff in Pakistan to restrict their movements at this time.
 
 You should:
 
-* be aware of the risk of terrorism and to be careful around protests, demonstrations, rallies and religious gatherings
+* be aware of the risk of terrorism and to be careful around protests, demonstrations, rallies and religious gatherings, particularly around Karachi, Skardu, Lahore, Islamabad and other urban areas
 * sign up to [FCDO Travel Advice email alerts](https://www.gov.uk/foreign-travel-advice/pakistan/email-signup)
 
 ## Before you travel

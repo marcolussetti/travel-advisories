@@ -1,11 +1,11 @@
 {
     "name": "Solomon Islands",
-    "update_reason": "New information about travel disruption ('Warnings and insurance' page).",
+    "update_reason": "Removal of information that you must have a certificate to prove you\u2019ve had a measles vaccination if you\u2019re travelling from Australia, New Zealand, American Samoa, Samoa, Fiji, Tonga, Kiribati, Papua New Guinea or the Philippines ('Entry requirements' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Solomon Islands/Warnings and insurance.md",
-            "update_date": "2026-03-06T16:42:58+00:00"
+            "update_date": "2026-03-10T13:28:56+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Solomon Islands/Getting help.md"
         }
     ],
-    "update_date": "2026-03-06T16:42:58+00:00"
+    "update_date": "2026-03-10T13:28:56+00:00"
 }

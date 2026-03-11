@@ -20,7 +20,7 @@ We advise against all but essential travel due to criminal activity and terroris
 
 If you plan to travel in a 4-wheel-drive vehicle from mainland Egypt through the Suez crossing, you must get a permit from Travel Permits Department of the Egyptian Ministry of the Interior. You should book any activities outside of resort areas through approved agents or tour operators.
 
-Travel to Red Sea tourist areas in the southern part of the Sinai Peninsula is generally low risk. Security forces carry out routine checks on vehicles and at airports to protect resorts such as Sharm el Sheikh, Hurghada and Marsa Alam.
+Travel to Red Sea tourist areas in the southern part of the Sinai Peninsula is generally low risk. Security forces carry out routine checks on vehicles and at airports to protect resorts such as Sharm El Sheikh, Hurghada and Marsa Alam.
 
 ## Eastern part of Ismailiyah Governorate
 

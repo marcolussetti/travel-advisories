@@ -58,25 +58,49 @@ Failure to report within 14 days of arrival will result in a fine of JOD 200 to 
 
 ## Land border crossings
 
-There are three land border crossings from Israel and Palestine.  They are open most days from 8 or 8.30am. Closures may happen at no notice, including over the weekend.
+Jordan has  land borders  with Saudi Arabia, Israel, Palestine, Syria and Iraq.
+
+### Saudi Arabia
+
+Those travelling to and from Saudi Arabia should refer to [Saudi Arabia](https://www.gov.uk/foreign-travel-advice/saudi-arabia) travel advice for the latest travel information including safety and security and entry requirements.
+
+The following three land border crossings between Jordan with Saudi Arabia are open 24 hours a day:
+
+* Umari (AlOmari) Border Crossing: Primary crossing, approximately 155 km from Amman
+* Mudawara (AlMudawwara) Border Crossing: Located farther east, approximately 322 km from Amman
+* AlDurra Crossing (opposite Haql): Connecting Aqaba with the Saudi city of Haql
+
+### Israel and Palestine
+
+Those traveling from Israel or Palestine should refer to [Israel’s travel advice](https://www.gov.uk/foreign-travel-advice/israel) and [Palestine’s travel advice](https://www.gov.uk/foreign-travel-advice/palestine).
+
+The three land border crossings from Israel and Palestine  are open most days from 8 or 8.30am. Closures may happen at no notice, including over the weekend.
 
 * King Hussein/Allenby Bridge
 * The Northern (Sheikh Hussein/Jordan River Crossing) crossing
 * The Southern (Wadi Araba/Yitzhak Rabin) crossing
 
-Those traveling from Israel or Palestine should refer to [Israel’s travel advice](https://www.gov.uk/foreign-travel-advice/israel) and [Palestine’s travel advice](https://www.gov.uk/foreign-travel-advice/palestine).
-
-The King Hussein Bridge/Allenby crossing is not an international crossing between Jordan and Palestine or Israel. You cannot enter Jordan using the King Hussein Bridge/Allenby crossing without getting a visa beforehand. You can get a visa from the [Jordanian Ministry of Interior](https://eservices.moi.gov.jo/MOI_EVISA/faces/Pages/Runnables/login.jsf).
+The King Hussein Bridge/Allenby crossing is not an international crossing between Jordan and Palestine or Israel. You cannot enter Jordan using the King Hussein Bridge/Allenby crossing without getting a visa beforehand. You can get a visa from the [Jordanian Ministry of Interior](https://eservices.moi.gov.jo/MOI_EVISA/faces/Pages/Runnables/login.jsf).
 
 If you are travelling on a British passport, you do not need to prebook to leave Jordan via the King Hussein/Allenby Bridge.
 
-If you have entered Jordan using a non-British passport you may need to prebook to enter Israel or Palestine via the King Hussein/Allenby Bridge. Bookings are made via [Jordan Express Tourist Transport Company](https://jett-khb.com.jo/about), at busy times they can be booked up several days in advance.
+If you have entered Jordan using a non-British passport you may need to prebook to enter Israel or Palestine via the King Hussein/Allenby Bridge. Bookings are made via [Jordan Express Tourist Transport Company](https://jett-khb.com.jo/about), at busy times they can be booked up several days in advance.
 
-If you wish to combine travel to Jordan with a visit to Israel or Palestine, you can get a multiple-entry visa before you travel from the [Jordanian Ministry of Interior](https://eservices.moi.gov.jo/MOI_EVISA/faces/Pages/Runnables/login.jsf). You should also check the [Israel travel advice](https://www.gov.uk/foreign-travel-advice/israel) before using the land borders to enter Israel.
+If you wish to combine travel to Jordan with a visit to Israel or Palestine, you can get a multiple-entry visa before you travel from the [Jordanian Ministry of Interior](https://eservices.moi.gov.jo/MOI_EVISA/faces/Pages/Runnables/login.jsf). You should also check the [Israel travel advice](https://www.gov.uk/foreign-travel-advice/israel) before using the land borders to enter Israel.
 
-On the Jordanian side, board guards will stamp passports unless the traveller requests otherwise and tells them before they hand over their passport.
+On the Jordanian side, border guards will stamp passports unless the traveller requests otherwise and tells them before they hand over their passport.
 
-Photography and videography are not permitted on the border crossings.
+Photography and videography are not permitted on the border crossings.
+
+Syria – The FCDO advises against all travel to Syria.
+
+Iraq – The FCDO advises against all travel to Iraq .
+
+### Sea Crossing to Egypt
+
+Those traveling to and from Egypt should refer to [Egypt travel advice](https://www.gov.uk/foreign-travel-advice/egypt) for the latest travel information including safety and security and entry requirements.
+
+Ferry services operate between Aqaba and Egypt (Taba Heights and Nuweiba). Contact ferry operators directly for schedules and availability.
 
 ## Departure tax
 

@@ -1,18 +1,22 @@
 # Warnings and insurance
 
 Still current at:
-:   28 February 2026
+:   11 March 2026
 
 Updated:
-:   27 February 2026
+:   11 March 2026
 
 Latest update:
-:   FCDO no longer advises against all but essential travel to the whole State of Jalisco. FCDO continues to advise against all but essential travel to parts of the State of Jalisco ('Warnings and insurance' page).
+:   Addition of information on possible airport disruption in Mexico City (AICM) on 11 March (Warnings and Insurance)
 
 ![](https://assets.publishing.service.gov.uk/media/69a1c6c8ec82ce45f05bd70e/FCDO__TA__065_-_Mexico_Travel_Advice_Ed5__WEB_.jpg)
 
 
 [Download a more detailed map (PDF, 1.2 MB)](https://assets.publishing.service.gov.uk/media/69a1c6c801cc32678a5bd718/FCDO__TA__065_-_Mexico_Travel_Advice_Ed5.pdf)
+
+## Airport Disruption
+
+Taxi drivers in Mexico City have announced their intention to protest against digital transportation platforms (eg Uber, Didi). The protest is due to take place at Mexico City’s International Airport (AICM), Terminals 1 and 2, on 11 March at 09:00 local time. Transport links to and from the airport may face disruption and reaching the airport could take longer than usual. You should monitor local media and stay in touch with your airline or travel agent.
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth and Development Office (FCDO).
 

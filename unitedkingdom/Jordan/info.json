@@ -1,11 +1,11 @@
 {
     "name": "Jordan",
-    "update_reason": "New information about entry to Saudi Arabia (see \u2018Warnings and insurance\u2019 and \u2018Entry requirements\u2019 pages).",
+    "update_reason": "New information about the land border crossings with Saudi Arabia, Israel, Palestine, Syria and Iraq and sea crossing with Egypt (\u2018Entry requirements\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Jordan/Warnings and insurance.md",
-            "update_date": "2026-03-09T17:16:35+00:00"
+            "update_date": "2026-03-10T14:36:32+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Jordan/Getting help.md"
         }
     ],
-    "update_date": "2026-03-09T17:16:35+00:00"
+    "update_date": "2026-03-10T14:36:32+00:00"
 }

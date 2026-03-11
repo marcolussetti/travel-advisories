@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   10 March 2026
+:   11 March 2026
 
 Updated:
-:   9 March 2026
+:   10 March 2026
 
 Latest update:
-:   Updated information about travel disruption (Warnings and insurance)
+:   New information to exercise caution due to the regional escalation ('Warnings and insurance' page).
 
 ## Travel disruption
 
@@ -15,23 +15,21 @@ Commercial flights are operating from Muscat to the UK. Internal flights continu
 
 British nationals in Oman who need consular assistance can contact us 24/7 by calling +968 2460 9000.
 
-## Shelter in place
+## Exercise Caution
 
-We advise that British nationals in the city of Duqm and surrounding area shelter in place. Any British nationals currently visiting Salalah, or within 100km, should look to leave as soon as possible if commercial means allow. British residents in Salalah should follow the advice of local authorities, sheltering in place as required.
+We advise British nationals in Oman to exercise increased caution. Press reports have included some limited missile and drone activity in the commercial ports of Duqm and Salalah in Oman.
+
+Where available, follow advice from local authorities on how to stay safe in your location as risks may vary across Oman and the Gulf region. If you are advised to take shelter, stay indoors or find the nearest safe building or shelter. An interior stairwell or a room with as few external walls or windows as possible may provide additional protection.
 
 ## Regional escalation
 
-Regional escalation poses significant security risks and has led to travel disruption.
+Regional escalation poses significant security risks and has led to travel disruption
 
-British nationals should:
-
-* read [If you’re affected by a crisis abroad - GOV.UK](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas). This includes guidance on “how to prepare for a crisis” with suggestions on what you might include in your emergency supplies and “what to do in a crisis”
-* follow advice from the local authorities and sign up to receive information and alerts. Read [Oman News Agency](https://omannews.gov.om/)
-* sign up to FCDO Travel Advice email alerts
-* monitor local and international media for the latest information
-* stay away from areas around security or military facilities
-* keep your departure plans under review, and ensure your travel documents are up to date
-* if you are advised to take shelter, stay indoors or find the nearest safe building or designated shelter. An interior stairwell or a room with as few external walls or windows as possible may provide additional protection
+* stay away from areas around energy, security, or military facilities
+* follow the instructions of the local authorities and monitor local and international media for the latest information
+* keep your departure plans under review and ensure your travel documents are up to date
+* read [If you’re affected by a crisis abroad - GOV.UK](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas) this includes suggestions on what you might include in your emergency supplies and “what to do in a crisis”
+* sign up to FCDO Travel Advice [email alerts](https://www.gov.uk/foreign-travel-advice/oman/email-signup)
 
 ## Before you travel
 

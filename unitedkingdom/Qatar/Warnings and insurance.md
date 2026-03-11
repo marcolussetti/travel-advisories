@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   10 March 2026
+:   11 March 2026
 
 Updated:
-:   9 March 2026
+:   10 March 2026
 
 Latest update:
-:   New information about entry to Saudi Arabia (see ‘Warnings and insurance’ and ‘Entry requirements’ pages).
+:   Information about additional commercial flights departing Doha ('Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/69a36c48286b6fdc85daeb04/Qatar_Travel_Advice_Ed2__WEB_.jpg)
 
@@ -38,7 +38,11 @@ Sign up to FCDO [Travel Advice email alerts](https://www.gov.uk/foreign-travel-
 
 ## Shelter in place
 
-Follow the instructions of the local authorities. If you are advised to take shelter, stay indoors or find the nearest safe building or designated shelter. An interior stairwell or a room with as few external walls or windows as possible may provide additional protection.
+Follow the instructions of the local authorities. If you receive a warning alert, hear the sound of interceptions or are advised to take shelter, stay indoors or find the nearest safe building or designated shelter. An interior stairwell or a room with as few external walls or windows as possible may provide additional protection. Remain inside until the authorities confirm it is safe to resume normal activity.
+
+The Qatari Ministry of Interior publishes announcements on its social media channels.
+
+If you are moving around outdoors, take sensible precautions. Stay alert to developments.
 
 ## Leaving Qatar
 
@@ -46,7 +50,20 @@ If you judge it is safe to do so and plan to use commercial options to depart�
 
 Keep your departure plans under review and ensure your travel documents are up to date, including any visas required for onward travel.
 
-## Entering Saudi Arabia
+Qatari authorities have announced additional non-scheduled flights to depart Doha. Monitor flight availability directly with airlines and travel providers.
+
+The British Embassy is in regular contact with the Qatari authorities about availability of seats on flights departing Doha. We are prioritising assistance for the most vulnerable British nationals.
+
+## Entry to Saudi Arabia
+
+Qatar’s land border with Saudi Arabia at Abu Samra is currently open. Check the status of the crossing before you travel.
+
+If you do decide to travel:
+
+* make sure you have enough food, water, and essential medication
+* ensure you have the correct documentation, including valid passports, vehicle documents if needed, and any required visas
+* confirm your onward travel arrangements from the Saudi side, as commercial transport options may be limited and must be arranged directly with providers
+* you may wish to use a tour operator, bus service, or taxi company familiar with the Abu Samra crossing, as they are more likely to be aware of current conditions
 
 British nationals who are trying to leave Qatar via Saudi Arabia and who are travelling on British Emergency Travel Documents, Emergency Passports, or passports with less than 6 months remaining validity, should call the helplines for British Embassy Riyadh +966 (0) 11481 9100 or British Consulate Jeddah +966 (0)126225550 for advice.
 

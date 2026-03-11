@@ -26,20 +26,6 @@ You can visit the Solomon Islands without a pre-arranged visa for up to 30 days.
 
 To enter the Solomon Islands, you must have a certificate to prove that you’ve had a yellow fever vaccination, if you’re coming from a [country listed as a transmission risk](https://nathnacyfzone.org.uk/factsheet/65/countries-with-risk-of-yellow-fever-transmission).
 
-### Measles vaccination certificate
-
-You must have a certificate to prove you’ve had a measles vaccination if you’re travelling from Australia, New Zealand, American Samoa, Samoa, Fiji, Tonga, Kiribati, Papua New Guinea or the Philippines (excluding transit passengers).
-
-You must be vaccinated at least 15 days before you arrive in the Solomon Islands and provide one of these documents:
-
-* a yellow vaccine card
-* a medical vaccination certificate
-* a blood test that confirms the presence of measles antibodies
-
-These requirements do not apply to infants under 6 months, pregnant women and people with immune deficiencies and allergies.
-
-For full details about medical entry requirements and recommended vaccinations, see [TravelHealthPro’s Solomon Islands guide](https://travelhealthpro.org.uk/country/199/solomon-islands#Vaccine_Recommendations).
-
 ## Customs rules
 
 There are strict rules about [goods you can take into or out of the Solomon Islands](http://www.mof.gov.sb/Customs/CustomsProhibitedGoods.aspx) . You must declare anything that may be prohibited or subject to tax or duty.

@@ -1,11 +1,11 @@
 {
     "name": "Qatar",
-    "update_reason": "New information about entry to Saudi Arabia (see \u2018Warnings and insurance\u2019 and \u2018Entry requirements\u2019 pages).",
+    "update_reason": "Information about additional commercial flights departing Doha ('Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Qatar/Warnings and insurance.md",
-            "update_date": "2026-03-09T17:16:25+00:00"
+            "update_date": "2026-03-10T14:02:45+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Qatar/Getting help.md"
         }
     ],
-    "update_date": "2026-03-09T17:16:25+00:00"
+    "update_date": "2026-03-10T14:02:45+00:00"
 }

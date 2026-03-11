@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   6 March 2026
+:   11 March 2026
 
 Updated:
-:   5 March 2026
+:   10 March 2026
 
 Latest update:
-:   New information about global travel impacts due to the escalation in the Middle East (‘Warnings and insurance’ page).
+:   Addition of information about energy and fuel shortages ('Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/6991cc717da91680ad7f4436/Bangladesh_map.jpg)
 
@@ -37,6 +37,10 @@ Your travel plans may be affected, even if your destination is not in the Middle
 * check for the latest updates from your airline or tour operator before travelling
 * review your travel insurance policy for coverage before you travel
 * monitor local and international media for the latest information and sign up for travel advice email alerts.
+
+## Energy and fuel shortages
+
+Bangladesh is facing energy and fuel shortages linked to global supply disruptions. The authorities have announced measures including limits on fuel sales. This may lead to transport disruption and delays in some areas. You should plan ahead, allow extra time for travel and keep up to date with local media.
 
 ## Before you travel
 

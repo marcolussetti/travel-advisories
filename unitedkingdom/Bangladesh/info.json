@@ -1,11 +1,11 @@
 {
     "name": "Bangladesh",
-    "update_reason": "New information about global travel impacts due to the escalation in the Middle East (\u2018Warnings and insurance\u2019 page).",
+    "update_reason": "Addition of information about energy and fuel shortages ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Bangladesh/Warnings and insurance.md",
-            "update_date": "2026-03-05T16:09:48+00:00"
+            "update_date": "2026-03-10T14:22:17+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Bangladesh/Getting help.md"
         }
     ],
-    "update_date": "2026-03-05T16:09:48+00:00"
+    "update_date": "2026-03-10T14:22:17+00:00"
 }

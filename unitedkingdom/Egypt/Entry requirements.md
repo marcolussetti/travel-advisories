@@ -20,9 +20,9 @@ When returning to the UK, British citizens must carry a valid [British passport]
 
 British passport holders travelling to Egypt normally need a visa.
 
-If you are staying for less than 15 days at resorts in Sharm el Sheikh, Dahab, Nuweiba or Taba, you do not need a visa. You will get a free entry permission stamp on arrival at Sharm El-Sheikh Airport. If you plan to travel outside the resorts or stay more than 15 days, you must get a visa. You can get a visa at Sharm El-Sheikh Airport or online.
+If you are staying for less than 15 days at resorts in Sharm El Sheikh, Dahab, Nuweiba or Taba, you do not need a visa. You will get a free entry permission stamp on arrival at Sharm El-Sheikh Airport. If you plan to travel outside the resorts or stay more than 15 days, you must get a visa. You can get a visa at Sharm El-Sheikh Airport or online.
 
-If you arrive in South Sinai by land through the Taba Border Crossing, you can get the same free entry permission stamp on arrival. You must also pay a ‘Sinai Tax’ of 25 US dollars to enter through the Taba Border Crossing  (see ‘Entering Egypt from Israel’ section).
+If you arrive in South Sinai by land through the Taba Border Crossing, you can get a free entry permission stamp on arrival. You must also pay a ‘Sinai Tax’ of 25 US dollars to enter through the Taba Border Crossing. If you purchase an entry visa at Taba Border Crossing, you may also need to purchase a letter of guarantee (see ‘Entering Egypt from Israel’).
 
 ### Applying for a visa
 
@@ -40,7 +40,7 @@ You can apply for a visa extension at the Egyptian Passport and Immigration Offi
 
 ### Visa agents in airports
 
-You do not need to buy a visa from an agent. Agents often charge more than the required 25 US dollars. If an agent harasses you, report the incident to the tourist police in the airport terminal.
+You do not need to buy a visa from an agent. Agents often charge more than the required 30 US dollars. If an agent harasses you, report the incident to the tourist police in the airport terminal.
 
 ### Gender expression
 
@@ -48,15 +48,23 @@ You may be denied entry if your gender expression or physical appearance does no
 
 ### Entering Egypt from Israel
 
-If you cross the border from Israel into Egypt at Taba, you will have to pay a ‘Sinai Tax’ of 25 US dollars per person (not applicable to children under 24 months). This is payable at the Taba Border Crossing in US dollars, cash only. The border tax exempts you from requiring an entry visa for Egypt for up to 15 days, as long as you stay within the Sinai Peninsula.
+If you cross the border from Israel into Egypt at Taba, you will have to pay a ‘Sinai Tax’ of 25 US dollars per person (not applicable to children under 24 months). This is payable at the Taba Border Crossing in US dollars, cash only. The border tax allows you to obtain a free entry permission stamp on arrival, for a stay of up to 15 days within the Sinai Peninsula.
 
-If your stay in Sinai will exceed 15 days, or you are planning to leave the Sinai Peninsula, including to fly on from mainland airports, for example Cairo or Hurghada, you will need an entry visa. This costs 30 US dollars and can be purchased at the Taba Border Crossing on entry or at Sharm El-Sheikh airport. This entry visa also requires a letter of guarantee, which can be obtained from the travel agents located in the arrivals hall at the Taba Border Crossing, at a cost of 25 US dollars. Please note that there are no ATMs dispensing US dollars at the Taba Border Crossing. Travellers should obtain USD before travelling or in Eilat before arriving at the crossing as all payments are required in cash
+If your stay in Sinai will exceed 15 days, or you are planning to travel in Egypt beyond the Sinai Peninsula, including to fly on from mainland airports, for example Cairo or Hurghada, you will also need an entry visa, in addition to paying the Sinai Tax. The entry visa costs 30 US dollars and can be purchased at the Taba Border Crossing on entry or at Sharm El-Sheikh airport. This entry visa at the Taba Border Crossing may also require a letter of guarantee, which can be obtained from the travel agents located in the arrivals hall at the Taba Border Crossing, at a cost of around 25 US dollars.
+
+Please note that there are no ATMs dispensing US dollars at the Taba Border Crossing. Travellers should obtain USD before travelling or in Eilat before arriving at the crossing as all payments are required in cash.
+
+### Entering Egypt from Jordan
+
+Ferry services operate between Aqaba, Jordan and Taba Heights and Nuweiba in Egypt. Contact ferry operators directly for schedules and availability. Please check Travel Advice for Jordan for latest on exit requirements.
+
+If your stay in Sinai will exceed 15 days, or you are planning to travel in Egypt beyond the Sinai Peninsula, including to fly from mainland airports, for example Cairo or Hurghada, you will need an entry visa. If entering at Taba Heights, this costs 35 US dollars.  If entering at Nuweiba, this costs 30 US dollars. Visas can be purchased at the port terminals. Travellers should obtain USD in cash before travelling given payments are often required in cash.
 
 ### Entering Egypt from Sudan
 
-The situation at the Egypt-Sudan border remains unclear. There are 2 main land border crossings – Qustul and Argeen. There is almost no infrastructure at these crossings, and it is no longer possible to obtain a visa on arrival at these locations. The Egyptian consulate is based in Wadi Halfa, 30km from the border – applications for Egyptian visas can be made here, but visa approvals can take upwards of 6 months.
+The situation at the Egypt-Sudan border remains unclear. There are 2 main land border crossings, Qustul and Argeen. There is almost no infrastructure at these crossings, and it is no longer possible to obtain a visa on arrival at these locations. The Egyptian consulate is based in Wadi Halfa, 30km from the border, applications for Egyptian visas can be made here, but visa approvals can take upwards of 6 months.
 
-The UK Government is no longer evacuating people from Sudan. The British Embassy in Cairo does not have staff at the border and our ability to provide assistance is very limited. Travel in and from Sudan is at your own risk. See [Sudan travel advice](https://www.gov.uk/foreign-travel-advice/sudan).
+The British Embassy in Cairo does not have staff at the border and our ability to provide assistance is very limited. Travel in and from Sudan is at your own risk. See [Sudan travel advice](https://www.gov.uk/foreign-travel-advice/sudan).
 
 If you are a British national and have crossed into Egypt from Sudan without valid documents, contact the [British Embassy in Cairo](https://www.gov.uk/world/organisations/british-embassy-cairo) for support.
 

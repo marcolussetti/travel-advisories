@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   10 March 2026
+:   11 March 2026
 
 Updated:
-:   9 March 2026
+:   10 March 2026
 
 Latest update:
-:   New information about entry to Saudi Arabia (see ‘Warnings and insurance’ and ‘Entry requirements’ pages).
+:   New information about the land border crossings with Saudi Arabia, Israel, Palestine, Syria and Iraq and sea crossing with Egypt (‘Entry requirements’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/69a5be6fa56a5482312c71a0/FCDO__TA__087_-_Jordan_Travel_Advice_Ed3__WEB_.jpg)
 

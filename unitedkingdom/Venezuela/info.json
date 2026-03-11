@@ -1,11 +1,11 @@
 {
     "name": "Venezuela",
-    "update_reason": "Addition of information that the land border with Colombia will be closed during Colombian elections ('Warnings and insurance' page).",
+    "update_reason": "Removal of information about Colombia-Venezuela border closure ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Venezuela/Warnings and insurance.md",
-            "update_date": "2026-03-06T15:35:40+00:00"
+            "update_date": "2026-03-10T16:12:13+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Venezuela/Getting help.md"
         }
     ],
-    "update_date": "2026-03-06T15:35:40+00:00"
+    "update_date": "2026-03-10T16:12:13+00:00"
 }

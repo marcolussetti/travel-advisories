@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   6 March 2026
+:   11 March 2026
 
 Updated:
-:   5 March 2026
+:   10 March 2026
 
 Latest update:
-:   Updated information about visa requirements ('Entry requirements' page).
+:   Updated information on visa requirements and entering Egypt from Israel. New information about entering Egypt from Jordan ('Entry requirements' page).
 
 ![](https://assets.publishing.service.gov.uk/media/670e278f30536cb92748313c/FCDO__TA__015_-_Egypt_Travel_Advice_Ed10__WEB_.jpg)
 
@@ -70,7 +70,7 @@ British nationals should take sensible precautions, considering their own indivi
 * sign up to local information alerts/resources and follow the instructions of the local authorities
 * stay away from areas around security or military facilities
 
-## Conflict in Israel and the Palestine
+## Conflict in Israel and Palestine
 
 International borders in Israel and Palestine could close at short notice, including the Taba border crossing between Israel and Egypt. Check with local authorities and read [Israel travel advice](https://www.gov.uk/foreign-travel-advice/israel) and [Palestine travel advice](https://www.gov.uk/foreign-travel-advice/palestine) before trying to cross.
 

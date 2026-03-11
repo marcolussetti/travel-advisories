@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   7 March 2026
+:   11 March 2026
 
 Updated:
-:   6 March 2026
+:   10 March 2026
 
 Latest update:
-:   Addition of information that the land border with Colombia will be closed during Colombian elections ('Warnings and insurance' page).
+:   Removal of information about Colombia-Venezuela border closure ('Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/69a6b088b9bd90e63a2521da/FCDO__TA__045_-_Venezuela_Travel_Advice_Ed4__WEB_.jpg)
 
@@ -54,10 +54,6 @@ FCDO advises against all travel to Zulia state.
 If you are a British national already living or travelling in Venezuela, you should be prepared to change your plans quickly if necessary. You should have a ‘personal emergency plan’, including practical steps for leaving the country or staying safe during a crisis, that does not depend on support from the UK government.
 
 Before you travel, [check the ‘Entry requirements’ section](https://www.gov.uk/foreign-travel-advice/venezuela/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19) for Venezuela’s current entry restrictions and requirements. These may change with little warning. Monitor local media and stay in contact with your travel provider.
-
-## Colombia-Venezuela border closure
-
-Colombia’s border with Venezuela will be closed from Saturday 7 March at 6pm until Monday 9 March at 6am. Travellers should plan ahead and expect potential travel disruptions due to closures.
 
 ## State of External Commotion
 
