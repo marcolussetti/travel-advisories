@@ -1,11 +1,11 @@
 {
     "name": "Ecuador",
-    "update_reason": "Addition of information that State of Emergency has been renewed, a curfew has been announced in four provinces, and land border with Colombia will be closed during Colombian elections ('Warnings and insurance' page).",
+    "update_reason": "Removal of information on closure of the Colombia-Ecuador land border ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Ecuador/Warnings and insurance.md",
-            "update_date": "2026-03-04T11:41:23+00:00"
+            "update_date": "2026-03-11T09:09:41+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Ecuador/Getting help.md"
         }
     ],
-    "update_date": "2026-03-04T11:41:23+00:00"
+    "update_date": "2026-03-11T09:09:41+00:00"
 }

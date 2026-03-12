@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   8 March 2026
+:   12 March 2026
 
 Updated:
-:   7 March 2026
+:   11 March 2026
 
 Latest update:
-:   Updated information about commercial travel options (‘Warnings and insurance’ page).
+:   Addition of information about a dedicated assistance form for foreign nationals facing urgent or exceptional circumstances and needing help (‘Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/69a2c183a4d26cb233cd47d4/FCDO__TA__022_-_Israel_Travel_Advice_Ed27__WEB_.jpg)
 
@@ -46,6 +46,8 @@ If you judge it is safe to do so and plan to use commercial options to depart 
 
 The Ministry of Transport have announced that as of 8 March, Ben Gurion Airport will start the gradual operation of outbound flights. We understand operations are currently approved for the following airlines: El Al, Israir, Arkia, and Air Haifa, and that the maximum number of passengers permitted on each flight will initially be limited to meet Israel Home Front Command regulations. You should regularly check the websites of [El Al](https://www.elal.com/eng/israel), [Israir](https://www.israirairlines.com/), [Arkia](https://www.arkia.co.il/en), and [Air Haifa](https://airhaifa.com/), to stay updated on commercial flight options and to book tickets as and when they become available. Commercial airline options are subject to change at short notice, including should the security situation deteriorate and the Israeli government deem it too dangerous for commercial air travel in and out of the country.
 
+Foreign nationals facing urgent or exceptional circumstances and needing help in coordinating with airlines should submit a [dedicated assistance form](https://login.gov.il/nidp/saml2/sso?id=usernamePasswordSMSOtp&sid=0&option=credential&sid=0) to the Ministry of Transport. Eligibility information can be found on the [Ministry of Transport website](https://www.gov.il/en/service/safe-passage).
+
 Other commercial travel options are still available. For those eligible to travel to Egypt via Taba border crossing, transport services continue to operate from major cities to Eilat. You can check ‘entry requirements’ below. The primary Israeli public transport service is [Egged](https://www.egged.co.il/en). There are regular buses to Eilat which you can book online. You can also download the app ‘Moovit’ for details of public transport (including from Eilat to Taba border crossing), or ‘Gett’ to book private taxis.
 
 A British Embassy team is present on the Egyptian side of the Taba border to point British Nationals to options for onward travel to Sharm El-Sheikh Airport.
@@ -64,9 +66,9 @@ If your stay in Sinai will exceed 15 days, or you are planning to leave the Sina
 
 We have taken the precautionary measure to temporarily move some of our staff and their dependents from Tel Aviv to another location within Israel. Our Embassy continues to operate as normal.
 
- The situation could escalate quickly and poses significant risks. Regional tensions may cause international borders (air and land) to close.
+The situation could escalate quickly and poses significant risks. Regional tensions may cause international borders (air and land) to close.
 
-If you are in Israel and Palestine, be aware that whilst the frequency of missile and drone attacks has decreased, there is still a risk of rocket and drone attacks throughout Israel. There is a risk of shrapnel from intercepted missiles falling across Israel and Palestine, and possible disruption at Ben Gurion airport in Tel Aviv.
+There is a risk of rocket and drone attacks throughout Israel. There is a risk of shrapnel from intercepted missiles falling across Israel and Palestine, and possible disruption at Ben Gurion airport in Tel Aviv.
 
 Political tension can cause demonstrations and clashes around anniversaries and significant events.
 

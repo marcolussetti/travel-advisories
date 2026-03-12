@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   5 March 2026
+:   12 March 2026
 
 Updated:
-:   4 March 2026
+:   11 March 2026
 
 Latest update:
-:   Addition of information that State of Emergency has been renewed, a curfew has been announced in four provinces, and land border with Colombia will be closed during Colombian elections ('Warnings and insurance' page).
+:   Removal of information on closure of the Colombia-Ecuador land border ('Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/65a1082ce96df50014f8452c/FCDO__TA__014_-_Ecuador_Travel_Advice_Ed5__WEB_.jpg)
 
@@ -71,10 +71,6 @@ A curfew has been announced in four provinces:
 * El Oro
 
 This curfew will apply between 11pm and 5am from 15 to 30 March.
-
-## Colombia-Ecuador border closure
-
-Colombia’s border with Ecuador will be closed from Saturday 7 March at 6pm until Monday 9 March at 6am. Travellers should plan ahead and expect potential travel disruptions due to closures.
 
 ## Before you travel
 
