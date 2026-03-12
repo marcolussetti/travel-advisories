@@ -10,7 +10,7 @@ Avoid the vicinity of military installations, critical infrastructure and stay a
 
 There could be disruptions to movement and transportation due to military debris falling in various locations.
 
-Ben Gurion International Airport has reopened, and some outbound flights on Israeli airlines have resumed as of March 8, 2026.
+Ben Gurion International Airport has reopened. Some outbound flights on Israeli airlines have resumed as of March 8, 2026, however availability may be limited.
 
 * Monitor flight availability and leave when commercial options are available
 * Verify with your airline before you travel to the airport
@@ -18,19 +18,17 @@ Ben Gurion International Airport has reopened, and some outbound flights on Isra
 
 Land border crossings with Jordan and Egypt remain open but could be impacted at short notice. You should shelter in place, but if you wish to leave Israel via a land border crossing and believe you can do so safely, the following options are available:
 
-* to Jordan :
+* to Jordan:
 
 + Jordan River/Sheikh Hussein Bridge, in the north of Israel
-+ Allenby/King Hussein Bridge, near Jericho in the West Bank (Israeli passport holders are not permitted to cross at this border)
++ Allenby/King Hussein Bridge, near Jericho in the West Bank (Israeli passport holders are not permitted to cross at this border; only available exit option for West Bank ID holders)
 + Yitzak/Aqaba, near Eilat in the south of Israel
 
-You must [obtain a visa online](https://moi.gov.jo/EN/Pages/Visa_E_Applications) before crossing into Jordan.
-
-For West Bank ID holders, the Allenby/King Hussein bridge near Jericho is the only available exit option.
-
-* To Egypt
+* To Egypt:
 
 + Menahem Begin/Taba, from southern Israel into the Sinai Peninsula (visa available on-arrival)
+
+You must [obtain a visa online](https://moi.gov.jo/EN/Pages/Visa_E_Applications) before crossing into Jordan.
 
 Verify the status of border crossings before travelling there.
 

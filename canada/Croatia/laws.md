@@ -46,6 +46,12 @@ If you are a Canadian citizen, but also a citizen of Croatia, our ability to off
 
 [Dual citizens](http://travel.gc.ca/travelling/documents/dual-citizenship)
 
+### Mandatory military service
+
+Croatian men aged 18-30 are subject to mandatory military service. If you are a male aged 18-30 and citizen of Canada, but also a citizen of Croatia living in Croatia, you may be required to register with the Croatian Ministry of Defence.
+
+[Recruitment process](https://www.morh.hr/proces-novacenja-tvo/) ­– Ministry of Defence of the Republic of Croatia (in Croatian only)
+
 ### International Child Abduction
 
 The Hague Convention on the Civil Aspects of International Child Abduction is an international treaty. It can help parents with the return of children who have been removed to or retained in certain countries in violation of custody rights. The convention applies between Canada and Croatia.

@@ -8,7 +8,11 @@ Learn about what you should do and how we can help if you are [arrested or detai
 
 Martinique is an overseas department of France.
 
-Canada and France are signatories to the European Convention on the Transfer of Sentenced Persons. This enables a Canadian imprisoned in France or its overseas departments to request a transfer to a Canadian prison to complete a sentence. The transfer requires the agreement of both Canadian and French authorities.
+### Transfer to a Canadian prison
+
+Canada and France are signatories to the Convention on the Transfer of Sentenced Persons. This enables a Canadian imprisoned in France or its overseas departments to request a transfer to a Canadian prison to complete a sentence. The transfer requires the agreement of both Canadian and French authorities.
+
+This process can take a long time, and there is no guarantee that the transfer will be approved by either or both sides.
 
 ### Drugs
 
@@ -68,9 +72,10 @@ You may drive in Martinique with a valid Canadian driver’s licence for a short
 
 The legal driving age in France and its territories is 18. Car rental agencies may have specific requirements for the minimum age and/or years of experience required to rent a car. Check with your car rental agency in advance.
 
-[International Driving Permit](https://travel.gc.ca/travelling/documents/international-driving-permit)
+#### Useful links
 
-[Driving in France with a foreign license](https://www.martinique.gouv.fr/Vous-etes/Particulier#!/particuliers/page/F1459) – State services in Martinique (in French)
+* [International Driving Permit](https://travel.gc.ca/travelling/documents/international-driving-permit)
+* [Driving in France with a foreign license](https://www.martinique.gouv.fr/Vous-etes/Particulier#!/particuliers/page/F1459) – State services in Martinique (in French)
 
 ### Imports and exports
 
