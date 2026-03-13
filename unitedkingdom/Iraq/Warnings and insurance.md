@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   10 March 2026
+:   13 March 2026
 
 Updated:
-:   9 March 2026
+:   12 March 2026
 
 Latest update:
-:   New information about entry to Saudi Arabia (see ‘Warnings and insurance’ and ‘Entry requirements’ pages).
+:   New information that FCDO has taken the precautionary measure to temporarily withdraw some of our staff from Iraq. Our embassy continues to operate. (‘Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/69a4b52ea4d26cb233cd47f0/FCDO__TA__048_-_Iraq_Travel_Advice_Ed1__WEB_.jpg)
 
@@ -51,6 +51,10 @@ See [‘Entry requirements’ for Saudi Arabia](https://draft-origin.publishin
 ## Crossing the Iraq - Kuwait (Safwan) border
 
 The border crossing from Iraq into Kuwait is closed. British nationals wishing to cross into Kuwait must contact the British Embassy in Kuwait 24 hours in advance. The British Embassy will share names and passport details with the Ministry of Foreign Affairs who will determine entry.
+
+## If you are in Iraq
+
+Due to the ongoing security situation, we have taken the precautionary measure to temporarily withdraw some of our staff from Iraq. Our embassy continues to operate.
 
 ## Travel insurance
 

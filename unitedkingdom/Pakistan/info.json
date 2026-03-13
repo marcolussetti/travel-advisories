@@ -1,11 +1,11 @@
 {
     "name": "Pakistan",
-    "update_reason": "Updated information about areas where protests may happen ('Warnings and insurance' page).",
+    "update_reason": "FCDO now advises against all but essential travel to Gilgit-Baltistan due to reports of unrest and protests, intermittent movement restrictions, and reports of mobile and internet service outages ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Pakistan/Warnings and insurance.md",
-            "update_date": "2026-03-10T10:11:28+00:00"
+            "update_date": "2026-03-12T15:57:32+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Pakistan/Getting help.md"
         }
     ],
-    "update_date": "2026-03-10T10:11:28+00:00"
+    "update_date": "2026-03-12T15:57:32+00:00"
 }

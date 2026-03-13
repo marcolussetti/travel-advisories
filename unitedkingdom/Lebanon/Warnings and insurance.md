@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   9 March 2026
+:   13 March 2026
 
 Updated:
-:   8 March 2026
+:   12 March 2026
 
 Latest update:
-:   New information that we have taken the precautionary measure to temporarily withdraw some of our staff and their dependents from Lebanon. Our embassy continues to operate as normal (‘Warnings and insurance’ page).
+:   Addition of information about leaving Lebanon (see ‘Leaving Lebanon’ on ‘Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/69a8951f2f1252e55180d4f9/FCDO__TA__023_-_Lebanon_Travel_Advice_Ed21__WEB_.jpg)
 
@@ -83,11 +83,11 @@ British nationals should:
 
 ## Leaving Lebanon
 
-There are a limited number of commercial flight options available, from Beirut Airport. If your presence in Lebanon is not essential, you may wish to consider departing - if you judge you can access these options safely. Check for the latest updates from your airline or tour operator, as well as the instructions from local authorities. If you are traveling by air do not travel to the airport unless your airline has confirmed your reservation.
+Conflict in Lebanon has escalated in response to regional events and the situation is fast-moving. There are a limited number of commercial flight options available, from Beirut Airport. If your presence in Lebanon is not essential, you should consider departing now - if you judge you can access these options safely. Check for the latest updates from your airline or tour operator, as well as the instructions from local authorities. If you are travelling by air do not travel to the airport unless your airline has confirmed your reservation.
 
-Make sure you have access to emergency supplies and essential medication. Travel within or out of Lebanon is at your own risk.
+If you decide to stay, we cannot guarantee we will be able to help you. You should have a personal emergency plan that does not rely on the UK government. This may include the ability to leave quickly or to shelter in place if you judge it necessary and safe to do so.
 
-Keep your departure plans under review and ensure your travel documents are up to date, including any visas required for onward travel.
+Keep your departure plans under review and ensure your travel documents are up to date, including any visas required for onward travel. Make sure you have access to emergency supplies and essential medication. Travel to or within Lebanon is at your own risk.
 
 ## Conflict affecting Lebanon
 

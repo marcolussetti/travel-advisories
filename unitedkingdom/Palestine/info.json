@@ -1,11 +1,11 @@
 {
     "name": "Palestine",
-    "update_reason": "Addition of information about a dedicated assistance form for foreign nationals facing urgent or exceptional circumstances and needing help (\u2018Warnings and insurance\u2019 page).",
+    "update_reason": "Addition of information about British nationals, including those with dual nationality, facing urgent or exceptional circumstances and needing help (\u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Palestine/Warnings and insurance.md",
-            "update_date": "2026-03-11T15:08:38+00:00"
+            "update_date": "2026-03-12T14:15:10+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Palestine/Getting help.md"
         }
     ],
-    "update_date": "2026-03-11T15:08:38+00:00"
+    "update_date": "2026-03-12T14:15:10+00:00"
 }

@@ -1,11 +1,11 @@
 {
     "name": "Lebanon",
-    "update_reason": "New information that we have taken the precautionary measure to temporarily withdraw some of our staff and their dependents from Lebanon. Our embassy continues to operate as normal (\u2018Warnings and insurance\u2019 page).",
+    "update_reason": "Addition of information about leaving Lebanon (see \u2018Leaving Lebanon\u2019 on \u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Lebanon/Warnings and insurance.md",
-            "update_date": "2026-03-08T20:21:01+00:00"
+            "update_date": "2026-03-12T14:19:31+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Lebanon/Getting help.md"
         }
     ],
-    "update_date": "2026-03-08T20:21:01+00:00"
+    "update_date": "2026-03-12T14:19:31+00:00"
 }

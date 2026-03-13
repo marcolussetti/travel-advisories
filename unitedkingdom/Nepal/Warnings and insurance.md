@@ -1,28 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   7 March 2026
+:   13 March 2026
 
 Updated:
-:   6 March 2026
+:   12 March 2026
 
 Latest update:
-:   Addition of information that following Nepal’s election on 5 March restrictions on movement have been lifted, but the risk of travel disruption remains as the vote count and results are announced ('Warnings and insurance' page).
-
-## General election
-
-Following the general election on 5 March 2026 there remains a risk of protests, political violence and travel disruption – particularly related to vote counts, results and the formation of a new government.
-
-Protests can start at short notice and may lead to clashes.
-
-Authorities may also increase police presence and could impose curfews in different locations at short notice.
-
-You should:
-
-* stay away from vote counts (unless involved in accredited observation), political rallies and demonstrations, including around political party offices and the Maitighar Mandala area of Kathmandu
-* check local media for updates
-* follow the direction of local authorities
-* check with your hotel, airline or tour operator on any potential disruption to travel plans
+:   'Removal of information on restrictions and risks of disruption, following Nepal's election on 5 March ('Warnings and insurance' page).'
 
 ## Global travel impacts due to escalation in the Middle East
 

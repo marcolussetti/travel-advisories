@@ -68,6 +68,8 @@ There are high levels of lawlessness in the north of Sindh Province. There is a 
 
 ## Gilgit-Baltistan region
 
+FCDO advises against all but essential travel to Gilgit-Baltistan due to reports of unrest and protests, intermittent movement restrictions, and reports of mobile and internet service outages.
+
 Flight schedules to Gilgit and Skardu Airports in the north of Pakistan may be unreliable and may change at short notice. Check with your airline or travel agent.
 
 Road routes are also likely to be restricted by seasonal weather, with the Babusar Pass liable to close due to snowfall.
