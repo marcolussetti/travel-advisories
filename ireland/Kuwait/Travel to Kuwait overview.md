@@ -8,13 +8,13 @@ Avoid Non-Essential Travel
 
 #### **Security Situation in the Middle East and Gulf Region**
 
-**In light of the current security situation in the Middle East and Gulf region, the Department of Foreign Affairs and Trade strongly advises Irish citizens against all but essential travel to Kuwait until further notice.**
+#### **In light of the ongoing security situation in the Middle East and Gulf region, the Department of Foreign Affairs and Trade strongly advises Irish citizens against all but essential travel to Kuwait until further notice.**
 
-Irish citizens in Kuwait should shelter in place, avoid unnecessary movement, and follow the advice of the local authorities. Irish citizens are also advised to avoid military and security force installations.
+Irish citizens already in the region are advised to avoid unnecessary journeys, remain vigilant, closely monitor developments and local media, and follow the advice of local authorities, including when this is to shelter in place. Irish citizens should also avoid military and security force installations.
 
-There is significant disruption to travel across the Middle East and Gulf regions. Citizens traveling through or to these regions should contact their airline directly.
+With significant disruption to travel set to remain across the region, citizens traveling to or through Kuwait should contact their airline directly for the latest updates.
 
-Irish citizens in need of consular assistance should contact the Embassy of Ireland in the United Arab Emirates on +971 024 958 200.
+Irish citizens in need of consular assistance should contact the Embassy of Ireland in the United Arab Emirates on +971 2 495 8200. .
 
 Alternatively, you may contact the Duty Officer at the Department of Foreign Affairs and Trade in Dublin on +353 1 408 2000.
 
