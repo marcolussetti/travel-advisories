@@ -12,7 +12,7 @@ Avoid Non-Essential Travel
 
 Irish citizens already in the region are advised to avoid unnecessary journeys, remain vigilant, closely monitor developments and local media, and follow the advice of local authorities, including when this is to shelter in place. Irish citizens should also avoid military and security force installations.
 
-A limited number of flights are departing Doha Hamad International Airport with further commercial options expected to become available in the coming days. Transit through the airport for onward travel is currently limited and may be subject to change at short notice.
+A limited number of flights are departing Doha Hamad International Airport, including to some European capitals. There is currently no direct flight to Dublin but we remain in contact with Qatar Airways to evaluate options. Transit through Doha airport for onward travel is currently limited and may be subject to change at short notice.
 
 With significant disruption to travel set to remain across the region, citizens traveling to or through Qatar should contact their airline directly for the latest updates.
 
