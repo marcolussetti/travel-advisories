@@ -2,9 +2,15 @@
 
 This information is for people travelling on a full [‘British citizen’ passport](https://www.gov.uk/types-of-british-nationality) from the UK. It is based on the UK government’s understanding of the current rules for the most common types of travel.
 
-You should comply with all entry, visa and other conditions of entry. The authorities in the US set and enforce entry rules strictly. You may be liable to arrest, detention, or removal if you violate the rules or break the law. Even if you have a visa or visa waiver, the final decision on entry is made at the border by a US border official. If you’re not sure how these requirements apply to you, contact the [US Embassy or a consulate in the UK](https://uk.usembassy.gov/).
+You must have the correct approval prior to travel. This will be either a valid US visa or Electronic System for Travel Authorisation (ESTA), depending on your personal circumstances and purpose of travel.
 
-The US may change entry conditions at any time without prior notice.
+US authorities enforce entry rules strictly. If you do not have the correct immigration status, or if you breach the terms of your entry, there is a risk you may be detained, refused entry, or removed (deported). Overstaying your permitted time in the US can also lead to detention and future bans on re-entry.
+
+A valid ESTA or visa does not guarantee you will be allowed to enter the US. Authorities may refuse you entry if, for example, they believe you do not plan to stay longer than permitted or have provided inaccurate or incomplete information. The US may change the conditions to travel to the US at any time without prior notice.
+
+If you’re not sure how these requirements apply to you, contact the US Embassy or a consulate in the UK. See information from [US Customs and Border Protection](https://www.cbp.gov/travel/international-visitors) on entry for international visitors.
+
+For information specific to those coming to the US to attend the World Cup, see our [World Cup 2026 page](https://www.gov.uk/foreign-travel-advice/usa/world-cup-2026) and [US Customs and Border Protection information](https://www.cbp.gov/travel/cbp-welcomes-you-fifa-world-cup-2026).
 
 ## Passport validity requirements
 
@@ -56,6 +62,8 @@ You cannot normally apply for an ESTA visa waiver if you were in the following c
 
 You cannot apply for an ESTA visa waiver if you travelled to or were in Cuba on or after 12 January 2021.
 
+If your ESTA does not contain the required selfie photograph now required by US Customs and Border Protection, you may need to apply for a new ESTA. You should check your ESTA account before travelling to ensure your authorisation remains valid.
+
 An ESTA may not be sufficient for all types of business travel – particularly if you are travelling on behalf of a US company. Please check the rules on the [ESTA website](https://esta.cbp.dhs.gov/) carefully.
 
 If you are not eligible for an ESTA, you must instead apply for a US visa. Travelling on an ESTA when ineligible can lead to detention and deportation by the US authorities.
@@ -98,12 +106,8 @@ There are strict rules about [goods you can take into or out of the US](https://
 
 The US Customs and Border Protection Trusted Traveller Program (TTP) [Global Entry](http://www.cbp.gov/travel/trusted-traveler-programs/global-entry) allows pre-approved, low-risk travellers expedited clearance at some US airports. If you’re a British citizen, you can [register to get a UK background check](https://www.gov.uk/apply-faster-entry-usa). If you pass the background checks, you’ll be invited to apply for [Global Entry for UK Citizens](https://www.cbp.gov/travel/trusted-traveler-programs/global-entry/international-arrangements/UnitedKingdom/global-entry-UK-citizens). Check eligibility carefully.
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/usa)
+[Previous:Warnings and insurance](/foreign-travel-advice/usa)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/usa/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/usa/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/usa/print)

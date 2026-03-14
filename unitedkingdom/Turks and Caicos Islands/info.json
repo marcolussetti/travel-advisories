@@ -1,11 +1,11 @@
 {
     "name": "Turks and Caicos Islands",
-    "update_reason": "Removal of information about Hurricane Melissa.",
+    "update_reason": "Updated information about passport validity requirements ('Entry requirements' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Turks and Caicos Islands/Warnings and insurance.md",
-            "update_date": "2025-10-31T16:02:40+00:00"
+            "update_date": "2026-03-13T16:34:25+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Turks and Caicos Islands/Getting help.md"
         }
     ],
-    "update_date": "2025-10-31T16:02:40+00:00"
+    "update_date": "2026-03-13T16:34:25+00:00"
 }

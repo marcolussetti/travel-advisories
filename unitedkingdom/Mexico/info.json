@@ -1,11 +1,11 @@
 {
     "name": "Mexico",
-    "update_reason": "Addition of information on possible airport disruption in Mexico City (AICM) on 11 March (Warnings and Insurance)",
+    "update_reason": "Removal of information about possible Mexico City airport disruption and Jalisco security incident ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Mexico/Warnings and insurance.md",
-            "update_date": "2026-03-11T02:25:48+00:00"
+            "update_date": "2026-03-13T10:40:19+00:00"
         },
         {
             "title": "Entry requirements",
@@ -38,5 +38,5 @@
             "file": "unitedkingdom/Mexico/Getting help.md"
         }
     ],
-    "update_date": "2026-03-11T02:25:48+00:00"
+    "update_date": "2026-03-13T10:40:19+00:00"
 }

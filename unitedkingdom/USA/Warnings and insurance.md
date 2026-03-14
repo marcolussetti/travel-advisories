@@ -1,15 +1,19 @@
 # Warnings and insurance
 
 Still current at:
-:   11 December 2025
+:   14 March 2026
 
 Updated:
-:   10 December 2025
+:   13 March 2026
 
 Latest update:
-:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
+:   Additional information about existing entry requirements and new information on possible travel disruption ('Warnings and insurance' and 'Entry requirements' pages).
 
 This travel advice also covers American Samoa, Guam, Northern Mariana Islands, Puerto Rico, and United States Virgin Islands.
+
+## Travel disruption
+
+There could be longer than usual queues at some US airports due to a partial US government shutdown. Check with your travel provider, departure airport or airline for the latest guidance.
 
 ## World Cup 2026
 
@@ -45,8 +49,6 @@ Follow FCDO:
 * [travel advice on Facebook](https://www.facebook.com/FCDOTravel/)
 * [Travel Aware on Instagram](https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Ftravelaware%2F&is_from_rle)
 
-[Next
-:
-Entry requirements](/foreign-travel-advice/usa/entry-requirements)
+[Next:Entry requirements](/foreign-travel-advice/usa/entry-requirements)
 
 [View a printable version of the whole guide](/foreign-travel-advice/usa/print)

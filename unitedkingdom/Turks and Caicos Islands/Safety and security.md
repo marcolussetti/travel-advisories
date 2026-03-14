@@ -103,12 +103,8 @@ The hurricane season in the Turks and Caicos Islands normally runs from June to 
 
 Earthquakes could be a risk. See more information from the [Department of Disaster Management and Emergencies](https://gov.tc/ddme/hazards/earthquake).
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/turks-and-caicos-islands/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/turks-and-caicos-islands/entry-requirements)
 
-[Next
-:
-Health](/foreign-travel-advice/turks-and-caicos-islands/health)
+[Next:Health](/foreign-travel-advice/turks-and-caicos-islands/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/turks-and-caicos-islands/print)

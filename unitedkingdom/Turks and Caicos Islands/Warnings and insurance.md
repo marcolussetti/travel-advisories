@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   1 November 2025
+:   14 March 2026
 
 Updated:
-:   31 October 2025
+:   13 March 2026
 
 Latest update:
-:   Removal of information about Hurricane Melissa.
+:   Updated information about passport validity requirements ('Entry requirements' page).
 
 The Turks and Caicos Islands is a British Overseas Territory, so there is no British Embassy, and the Turks and Caicos Islands government will support you if you need help.
 
@@ -39,8 +39,6 @@ Follow FCDO:
 * [travel advice on Facebook](https://www.facebook.com/FCDOTravel/)
 * [Travel Aware on Instagram](https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Ftravelaware%2F&is_from_rle)
 
-[Next
-:
-Entry requirements](/foreign-travel-advice/turks-and-caicos-islands/entry-requirements)
+[Next:Entry requirements](/foreign-travel-advice/turks-and-caicos-islands/entry-requirements)
 
 [View a printable version of the whole guide](/foreign-travel-advice/turks-and-caicos-islands/print)

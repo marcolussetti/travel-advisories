@@ -63,12 +63,8 @@ See more advice on the [Safety and security page](https://www.gov.uk/foreign-tra
 
 Read the advice for LGBT+ travellers in the US on the [Safety and Security page](https://www.gov.uk/foreign-travel-advice/usa/safety-and-security#lgbt-travellers) and check the [entry requirements](https://www.gov.uk/foreign-travel-advice/usa/entry-requirements) which may apply to LGBT+ travellers.
 
-[Previous
-:
-Safety and security](/foreign-travel-advice/usa/safety-and-security)
+[Previous:Safety and security](/foreign-travel-advice/usa/safety-and-security)
 
-[Next
-:
-Health](/foreign-travel-advice/usa/health)
+[Next:Health](/foreign-travel-advice/usa/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/usa/print)

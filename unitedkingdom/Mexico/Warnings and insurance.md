@@ -1,22 +1,18 @@
 # Warnings and insurance
 
 Still current at:
-:   11 March 2026
+:   14 March 2026
 
 Updated:
-:   11 March 2026
+:   13 March 2026
 
 Latest update:
-:   Addition of information on possible airport disruption in Mexico City (AICM) on 11 March (Warnings and Insurance)
+:   Removal of information about possible Mexico City airport disruption and Jalisco security incident ('Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/69a1c6c8ec82ce45f05bd70e/FCDO__TA__065_-_Mexico_Travel_Advice_Ed5__WEB_.jpg)
 
 
 [Download a more detailed map (PDF, 1.2 MB)](https://assets.publishing.service.gov.uk/media/69a1c6c801cc32678a5bd718/FCDO__TA__065_-_Mexico_Travel_Advice_Ed5.pdf)
-
-## Airport Disruption
-
-Taxi drivers in Mexico City have announced their intention to protest against digital transportation platforms (eg Uber, Didi). The protest is due to take place at Mexico City’s International Airport (AICM), Terminals 1 and 2, on 11 March at 09:00 local time. Transport links to and from the airport may face disruption and reaching the airport could take longer than usual. You should monitor local media and stay in touch with your airline or travel agent.
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth and Development Office (FCDO).
 
@@ -110,12 +106,6 @@ FCDO advises against all but essential travel to within 40km of the Guatemalan b
 FCDO advises against all but essential travel on Federal Highway 199 (Carretera Federal 199) between Rancho Nuevo (just outside San Cristobal de las Casas) and the Chancalá junction just outside Palenque (where Federal Highway 199 meets Federal Highway 307).
 
 Find out more about [why FCDO advises against travel to these areas](/foreign-travel-advice/mexico/regional-risks).
-
-## Security incident that began in the State of Jalisco on 22 February
-
-On 22 February, serious security incidents were reported in the Mexican state of Jalisco, including in Guadalajara and Puerto Vallarta, following an operation by the Mexican army against organised crime. These incidents included roadblocks, arson attacks and clashes between criminal groups and Mexican security forces. Similar incidents were then reported in other states, including in Michoacán, Guerrero, Nayarit, Sinaloa, Baja California and Quintanta Roo (where Cancun, Tulum and Cozumel are located).
-
-The security situation has now stabilised. Read thoroughly the UK travel advice for Mexico, including on safety and security, and note that we advise against all but essential travel to specific areas of Mexico.
 
 ## World Cup 2026
 

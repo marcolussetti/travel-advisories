@@ -6,7 +6,7 @@ The authorities in the Turks and Caicos Islands set and enforce entry rules. If 
 
 ## Passport validity requirements
 
-To enter the Turks and Caicos Islands, your passport must have an ‘expiry date’ at least 6 months after the date you arrive and at least 2 blank pages.
+To enter the Turks and Caicos Islands, your passport must be valid for the duration of your stay.
 
 Check with your travel provider that your passport and other travel documents meet requirements. [Renew your passport](https://www.gov.uk/renew-adult-passport/renew) if you need to.
 
@@ -42,12 +42,8 @@ Importation of firearms, ammunition (including stray bullets) and other weapons 
 
 Search your luggage before you travel to the Turks and Caicos Islands to ensure you do not bring in forbidden items.
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/turks-and-caicos-islands)
+[Previous:Warnings and insurance](/foreign-travel-advice/turks-and-caicos-islands)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/turks-and-caicos-islands/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/turks-and-caicos-islands/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/turks-and-caicos-islands/print)

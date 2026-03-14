@@ -31,6 +31,10 @@ Take sensible precautions to protect your personal safety. You should:
 
 It is illegal to possess drugs. There are severe penalties for all drug offences. Pack all luggage yourself and do not carry anything through customs for anyone else.
 
+### Smoking
+
+It is illegal to smoke in public places. You may face arrest for doing so.
+
 ### Laws on clothing
 
 It is illegal for anyone, including children, to dress in camouflage clothing.

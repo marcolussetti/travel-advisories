@@ -52,7 +52,7 @@ Always carry a passport showing you have permission to enter or remain in the US
 
 ### Alcohol laws
 
-The national legal age for buying and drinking alcohol is 21. Some states have different laws. If you are aged 20 or under, check state laws before drinking or buying alcohol.
+The national legal age for buying and drinking alcohol is 21 across the US.
 
 ### Illegal drugs
 
@@ -185,12 +185,8 @@ Flash floods can cause travel disruption and damage to property and infrastructu
 
 Parts of the US are in the Arctic Circle, including some very remote areas of land and sea. Emergency medical assistance and search and rescue are limited in these areas. See [Arctic travel safety advice](https://www.gov.uk/guidance/arctic-travel-safety-advice).
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/usa/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/usa/entry-requirements)
 
-[Next
-:
-World Cup 2026](/foreign-travel-advice/usa/world-cup-2026)
+[Next:World Cup 2026](/foreign-travel-advice/usa/world-cup-2026)
 
 [View a printable version of the whole guide](/foreign-travel-advice/usa/print)

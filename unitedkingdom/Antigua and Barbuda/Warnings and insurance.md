@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   17 December 2025
+:   14 March 2026
 
 Updated:
-:   16 December 2025
+:   13 March 2026
 
 Latest update:
-:   Updated information on existing entry requirements (‘Entry requirements’ page).
+:   New information that it is illegal to smoke in public places ('Safety and security' page).
 
 ## Before you travel
 

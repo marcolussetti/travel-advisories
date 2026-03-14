@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   6 March 2026
+:   14 March 2026
 
 Updated:
-:   5 March 2026
+:   13 March 2026
 
 Latest update:
-:   Updated information about airport operations and flight suspensions ('Warnings and insurance' page).
+:   New information on protests (See “Warnings and Insurance” page)
 
 ![](https://assets.publishing.service.gov.uk/media/698cc89184cc2df4a87123d5/FCDO__TA__103_-_Cuba_Travel_Advice_Ed1__WEB_.jpg)
 
@@ -15,6 +15,10 @@ Latest update:
 [Download a more detailed map (PDF, 987 KB)](https://assets.publishing.service.gov.uk/media/698cdf66547c54ae7c02369a/FCDO__TA__103_-_Cuba_Travel_Advice_Ed1.pdf)
 
 ## FCDO advises against all but essential travel to Cuba
+
+### Protests in Cuba
+
+The ongoing situation in Cuba has led to a series of recent protests. To date these have remained peaceful but be aware that protests can escalate. You should avoid large gatherings, monitor the media for updates and follow the advice of the local authorities.
 
 ### Power outages and fuel shortages
 
