@@ -101,7 +101,7 @@ If you are involved in an accident, do not move your vehicle until authorized to
 
 All vehicles must have a first aid kit and emergency travel equipment.
 
-[Road rules and safety – Latvia](http://ec.europa.eu/transport/road_safety/going_abroad/latvia/index_en.htm) – Your Europe
+[Road rules and safety](https://europa.eu/youreurope/citizens/travel/driving-abroad/road-rules-and-safety/) – European Commission
 
 ### Reflective items
 

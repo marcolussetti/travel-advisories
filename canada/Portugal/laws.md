@@ -88,7 +88,7 @@ Children up to 135 cm tall or under 12 years old must ride in appropriate car se
 
 You must always keep a reflective vest and a warning triangle in your vehicle. In case of car trouble or an accident, switch on the hazard lights, wear the reflective vest and place the warning triangle at least 30 metres behind the vehicle.
 
-[Road rules and safety – Portugal](http://ec.europa.eu/transport/road_safety/going_abroad/portugal/index_en.htm) – Your Europe
+[Road rules and safety](https://europa.eu/youreurope/citizens/travel/driving-abroad/road-rules-and-safety/) – European Commission
 
 ### Photography
 

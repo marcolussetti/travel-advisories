@@ -1,7 +1,7 @@
 {
     "name": "Portugal",
-    "update_reason": "Natural disasters and climate \u2013 removed information on severe storms",
-    "update_date": "2026-02-23T12:13:00",
+    "update_reason": "Laws and culture \u2013 added information on road rules and safety",
+    "update_date": "2026-03-13T14:12:00",
     "sections": {
         "risk": "canada/Portugal/risk.md",
         "security": "canada/Portugal/security.md",

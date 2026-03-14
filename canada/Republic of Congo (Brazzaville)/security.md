@@ -2,6 +2,19 @@
 
 ## Safety and security
 
+### Presidential elections
+
+On March 15, 2026, presidential elections will be held in the Republic of Congo. Local authorities may strengthen security measures and limit movements.
+
+On election day, international borders will be closed from 6 am to 6 pm.
+
+If you are in the Republic of Congo:
+
+* avoid demonstrations and large gatherings
+* expect an increased presence of security forces
+* monitor local media to stay informed of developments
+* follow the instructions of local authorities
+
 ### Pool Department
 
 Congolese authorities occasionally carry out security operations against rebel militias in certain regions of Pool, a department in southeast Congo. Criminals often commit crimes and acts of banditry, especially kidnapping for ransom. Attacks on private and collective transportation vehicles are common, particularly on the roads linking Brazzaville–Kinkala–Mindouli and Mayama–Mindouli.

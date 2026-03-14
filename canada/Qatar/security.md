@@ -4,7 +4,7 @@
 
 ### Ongoing hostilities in the Middle East
 
-There is ongoing military activity in the region. Missiles, drones and other projectiles could strike targets at any time. The security situation could deteriorate significantly without notice.
+There is ongoing military activity in the region. Missiles, drones and other projectiles could strike targets at any time. The security situation could deteriorate further without notice.
 
 Avoid the vicinity of military installations, critical infrastructure and stay away from US government facilities.
 
@@ -12,17 +12,17 @@ Our ability to provide consular services to Canadians during an active conflict 
 
 Qatari airspace has partially reopened on March 7, 2026, and some commercial flights have resumed.
 
-* Monitor flight availability and consider leaving when commercial options are available
+* Monitor flight availability and leave Qatar while commercial options are still available
 * Verify with your airline before you travel to the airport
 * Expect delays or cancellations on short notice should the situation deteriorate
 
-You should shelter in place, but if you wish to leave Qatar via a land border crossing and assess that you can do so safely, the Abu Samra/Salwa border crossing to Saudi Arabia is open. You should verify the status of the border crossing before you travel.
+If you decide leave Qatar via a land border crossing and assess that you can do so safely, the Abu Samra/Salwa border crossing to Saudi Arabia is open. You should verify the status of the border crossing before you travel.
 
 You must have valid travel documents. Make sure you meet the [entry requirements](http://www.travel.gc.ca/destinations/saudi-arabia) of Saudi Arabia before you travel to the border.
 
 You should:
 
-* be vigilant and follow the instructions of local authorities at all times, including any orders to shelter in place
+* be vigilant and follow the instructions of local authorities at all times, including any orders to shelter in place or evacuate
 * ensure that your travel documents and those of your family are up to date
 * monitor local and international media to stay informed of the rapidly evolving situation
 * sign up with the [Registration of Canadians Abroad](https://travel.gc.ca/travelling/registration) service to receive important additional information, specific to your location, about the ongoing situation and any available departure options.

@@ -4,11 +4,30 @@
 
 ### Heavy rainfall
 
-Heavy rainfall across Ecuador’s Sierra and Amazon regions has triggered flooding, landslides, and significant damage to the national road network, especially in the provinces of Azuay, Napo, Sucumbíos, Zamora Chinchipe, Loja, and Chimborazo.
+Heavy rainfall across Ecuador has triggered flooding, landslides, and significant damage to roads and infrastructure.
 
-In several areas, landslides have completely blocked vehicle access, making travel to the Amazon difficult. The provinces of Napo and Zamora Chinchipe are among the most affected by the heavy rains, and the government declared a road emergency there for 60 and 45 days respectively, on July 4.
+A nationwide state of emergency has been declared, along with regional states of emergency in the following provinces:
 
-[Road Conditions and Closures](https://www.ecu911.gob.ec/consulta-de-vias/) – ECU911 (in Spanish only)
+* Chimborazo
+* El Oro
+* Esmeraldas
+* Guayas
+* Loja
+* Los Ríos
+* Manabí
+* Santa Elena
+
+If you’re in Ecuador:
+
+* monitor local media and government websites for the latest updates, including those on road conditions and closures
+* identify safe locations to shelter in during heavy rains
+* stay away from areas that are flooded, under red alert or prone to landslides
+* follow the instructions of local authorities, including evacuation orders
+
+#### Useful links
+
+* [Ecuador alerts](https://alertasecuador.gob.ec/) – National Secretariat on Risk Management (Spanish only)
+* [Road conditions and closures](https://www.ecu911.gob.ec/consulta-de-vias/) – ECU911 (Spanish only)
 
 ### Climate change
 
@@ -35,8 +54,8 @@ Seasonal flooding can hamper overland travel and reduce the provision of essenti
 
 #### Useful links
 
-* [National Institute of Meteorology and Hydrology](https://www.inamhi.gob.ec/) – Government of Ecuador (in Spanish only)
-* [Road Conditions and Closures](https://www.ecu911.gob.ec/consulta-de-vias/) – ECU911 (in Spanish only)
+* [National Institute of Meteorology and Hydrology](https://www.inamhi.gob.ec/) – Government of Ecuador (Spanish only)
+* [Road conditions and closures](https://www.ecu911.gob.ec/consulta-de-vias/) – ECU911 (Spanish only)
 
 ### El Niño
 
@@ -57,7 +76,7 @@ If you’re staying on the coast, familiarize yourself with the region’s evacu
 
 #### Useful links
 
-* [Alerts Ecuador](https://alertasecuador.gob.ec/) – Risk Management Secretariat (in Spanish only)
+* [Alerts Ecuador](https://alertasecuador.gob.ec/) – National Secretariat on Risk Management (in Spanish only)
 * [Tsunami Early Warning System](https://www.gestionderiesgos.gob.ec/tsunami/) – Government of Ecuador (in Spanish only)
 * [Latest earthquakes](https://earthquake.usgs.gov/earthquakes/map/) – U.S. Geological Survey
 * [Tsunami alerts](https://www.tsunami.gov/) – U.S. Tsunami Warning System
@@ -98,8 +117,8 @@ In the event of a volcanic eruption:
 
 #### Useful links
 
-* [Alerts Ecuador](https://alertasecuador.gob.ec/) – Risk Management Secretariat (in Spanish only)
-* [Instituto Geofisico](http://www.igepn.edu.ec/) – Ecuador’s geophysical institute (in Spanish only)
+* [Ecuador Alerts](https://alertasecuador.gob.ec/) – National Secretariat on Risk Management (in Spanish only)
+* [Instituto Geofisico](http://www.igepn.edu.ec/) – Ecuador’s Geophysical Institute (in Spanish only)
 
 ### Wildfires
 

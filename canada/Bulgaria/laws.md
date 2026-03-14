@@ -94,11 +94,12 @@ You can drive with a Canadian driver’s licence for up to 90 days after your ar
 * Winter tires are mandatory during winter months
 * All vehicle occupants must wear a seatbelt
 * Children under 10 may ride in the front passenger seat if they’re secured in a child car seat and the airbag has been disabled
-* It’s illegal to use a cellular telephone while driving, unless the phone includes a hands-free device
 * You must carry a fire extinguisher, first aid kit and warning triangle in your car, as well as a reflective vest. You must always wear this vest when leaving a vehicle that is stranded or involved in an accident
 * Carry all related documents, such as ownership, registration and proof of Bulgarian car insurance, in your vehicle
 
 Follow speed limits on all roads. Police conduct frequent checks and may collect fines on the spot. Depending on the offence, they may also confiscate your driver’s licence at the scene.
+
+[Road rules and safety](https://europa.eu/youreurope/citizens/travel/driving-abroad/road-rules-and-safety/) – European Commission
 
 ### 2SLGBTQI+ persons
 

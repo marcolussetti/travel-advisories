@@ -18,8 +18,8 @@ The features in this map do not constitute an authoritative source of geographic
 
 ### UNITED ARAB EMIRATES - AVOID ALL TRAVEL
 
-[Avoid all travel](#levels "Risk Levels") to the United Arab Emirates due to the ongoing military activities.
+[Avoid all travel](#levels "Risk Levels") to the United Arab Emirates due to the ongoing military activities. The security situation could deteriorate further without notice.
 
-You should shelter in place. However, if you decide to leave the country and assess that travel to the airport or to a land border crossing is safe, you should consider leaving the United Arab Emirates at the earliest opportunity.
+Shelter in place if instructed to by local authorities. However, if you assess that travel to the airport or to a land border crossing is safe, you should leave the United Arab Emirates at the earliest opportunity while commercial options remain available.
 
 Sign up with the [Registration of Canadians Abroad](https://travel.gc.ca/travelling/registration) service to receive important additional information, specific to your location, about the ongoing situation and any available departure options.

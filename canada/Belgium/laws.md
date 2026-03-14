@@ -79,7 +79,7 @@ You can exchange the license in the municipality where you reside.
 
 #### Useful links
 
-* [Driving in Belgium](https://ec.europa.eu/transport/road_safety/going_abroad/belgium/index_en.htm) - European Commission
+* [Road rules and safety](https://europa.eu/youreurope/citizens/travel/driving-abroad/road-rules-and-safety/) – European Commission
 * [International Driving Permit](https://travel.gc.ca/travelling/documents/international-driving-permit)
 * [Recognized Canadian driver's licenses](https://mobilit.belgium.be/fr/publications/chapitre-36-canada) - Service public fédéral Mobilité et Transports (in French)
 

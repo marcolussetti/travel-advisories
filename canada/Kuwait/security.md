@@ -4,7 +4,7 @@
 
 ### Ongoing hostilities in the Middle East
 
-There is ongoing military activity in the region. Missiles, drones and other projectiles could strike targets at any time. The security situation could deteriorate significantly without notice.
+There is ongoing military activity in the region. Missiles, drones and other projectiles could strike targets at any time. The security situation could deteriorate further without notice.
 
 Avoid the vicinity of military installations, critical infrastructure and stay away from US government facilities.
 
@@ -12,7 +12,7 @@ Our ability to provide consular services to Canadians during an active conflict 
 
 Kuwaiti airspace is closed until further notice.
 
-You should shelter in place, but if you wish to leave Kuwait via a land border crossing and assess that you can do safely, the following border crossings to Saudi Arabia are open:
+If you decide to leave Kuwait via a land border crossing and assess that you can do safely, the following border crossings to Saudi Arabia are open:
 
 * Al-Khafji
 * Ar-Ruqi

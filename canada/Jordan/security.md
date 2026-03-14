@@ -8,11 +8,11 @@ Verify the status of border crossings ahead of time.
 
 ### Ongoing hostilities in the Middle East
 
-There is ongoing military activity in the region. Missiles, drones and other projectiles could strike targets in the region. The security situation could deteriorate significantly without notice.
+There is ongoing military activity in the region. Missiles, drones and other projectiles could strike targets in the region. The security situation could deteriorate further without notice.
 
 Avoid the vicinity of military installations, critical infrastructure and stay away from US government facilities.
 
-Jordanian airspace is currently open, but it may close on short notice and flights could be disrupted. If you decide to depart via commercial options, contact your airline or travel agent for information on available flights.
+Jordanian airspace is currently open, but it may close on short notice and flights could be disrupted. You should consider leaving Jordan while commercial options remain available.
 
 You should:
 

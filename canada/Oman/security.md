@@ -4,7 +4,7 @@
 
 ### Ongoing hostilities in the Middle East
 
-There is ongoing military activity in the region. Missiles, drones and other projectiles could strike targets at any time. The security situation could deteriorate significantly without notice.
+There is ongoing military activity in the region. Missiles, drones and other projectiles could strike targets at any time. The security situation could deteriorate further without notice.
 
 Avoid the vicinity of military installations, critical infrastructure and stay away from US government facilities.
 
@@ -14,7 +14,7 @@ Omani airspace is open, with some regional restrictions.
 
 Commercial flights are operating, however availability may be limited.
 
-* Monitor flight availability
+* Monitor flight availability and consider leaving Oman while commercial options are still available
 * Verify with your airline before you travel to the airport
 
 You should:

@@ -85,7 +85,7 @@ A vignette (toll sticker) is required to travel on highways. You can buy them at
 
 Fines for traffic violations must be paid on the spot.
 
-* [Driving in Slovakia](http://ec.europa.eu/transport/road_safety/going_abroad/slovakia/index_en.htm) – European Commission
+* [Road rules and safety](https://europa.eu/youreurope/citizens/travel/driving-abroad/road-rules-and-safety/) – European Commission
 * [Electronic vignette](https://eznamka.sk/selfcare/purchase) – Eznamka, Slovak National Motorway Company
 * [More about the International Driving Permit](https://travel.gc.ca/travelling/documents/international-driving-permit)
 

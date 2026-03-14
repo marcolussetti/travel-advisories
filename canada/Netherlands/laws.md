@@ -91,7 +91,7 @@ Traffic offences and parking violations can carry heavy, on-the-spot fines. If y
 #### Useful links
 
 * [More about the International Driving Permit](https://travel.gc.ca/travelling/documents/international-driving-permit)
-* [More information about driving in the Netherlands](http://ec.europa.eu/transport/road_safety/going_abroad/netherlands/index_en.htm) - European Commission
+* [Road rules and safety](https://europa.eu/youreurope/citizens/travel/driving-abroad/road-rules-and-safety/) – European Commission
 
 ### Money
 

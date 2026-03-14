@@ -86,7 +86,7 @@ Children below 135 cm must sit in an approved car seat designed for their height
 
 #### Useful links
 
-* [More information about driving in Sweden](http://ec.europa.eu/transport/road_safety/going_abroad/sweden/index_en.htm) - European Commission
+* [Road rules and safety](https://europa.eu/youreurope/citizens/travel/driving-abroad/road-rules-and-safety/) – European Commission
 * [More about the International Driving Permit](https://travel.gc.ca/travelling/documents/international-driving-permit)
 
 ### Money

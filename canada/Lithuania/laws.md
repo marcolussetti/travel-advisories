@@ -97,7 +97,7 @@ The police are not required to respond to minor road accidents where there are n
 
 Car insurance is mandatory. Border officials may request that you show them original documents.
 
-[Driving in Lithuania](http://ec.europa.eu/transport/road_safety/going_abroad/lithuania/index_en.htm) - European Commission
+[Road rules and safety](https://europa.eu/youreurope/citizens/travel/driving-abroad/road-rules-and-safety/) – European Commission
 
 ### Money
 

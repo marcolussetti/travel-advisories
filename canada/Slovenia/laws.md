@@ -106,7 +106,7 @@ Police can collect on-the-spot traffic fines from non-residents. They may also r
 #### Useful links
 
 * [E-vignettes](https://evinjeta.dars.si/en) - DARS Motorway Company in the Republic of Slovenia
-* [Driving in Slovenia](https://ec.europa.eu/transport/road_safety/going_abroad/slovenia/index_en.htm) - European Commission
+* [Road rules and safety](https://europa.eu/youreurope/citizens/travel/driving-abroad/road-rules-and-safety/) – European Commission
 * [More about the International Driving Permit](https://travel.gc.ca/travelling/documents/international-driving-permit)
 
 ### Money

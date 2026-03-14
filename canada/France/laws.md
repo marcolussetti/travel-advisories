@@ -118,7 +118,7 @@ Access to these zones is restricted to vehicles that meet certain environmental 
 
 #### Useful links
 
-* [More information about road travel in France](http://ec.europa.eu/transport/road_safety/going_abroad/france/index_en.htm) – European Commission
+* [Road rules and safety](https://europa.eu/youreurope/citizens/travel/driving-abroad/road-rules-and-safety/) – European Commission
 * [Obligations to equip vehicles in winter](https://www.service-public.fr/particuliers/actualites/A14389?lang=en) – French administration services (in French)
 * [Air quality certificates: Crit'Air](https://www.ecologie.gouv.fr/certificats-qualite-lair-critair) – Ministry of Ecological Transition (in French)
 

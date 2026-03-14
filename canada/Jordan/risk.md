@@ -18,9 +18,9 @@ The features in this map do not constitute an authoritative source of geographic
 
 ### JORDAN - AVOID NON-ESSENTIAL TRAVEL
 
-[Avoid non-essential travel](#levels "Risk Levels") to Jordan due to the risk of falling military debris from intercepted projectiles, airspace closure, and renewed regional tensions.
+[Avoid non-essential travel](#levels "Risk Levels") to Jordan due to the risk of falling military debris from intercepted projectiles, airspace closure, and renewed regional tensions. The security situation could deteriorate further without notice.
 
-Shelter in place if instructed to by local authorities.
+Shelter in place if instructed to by local authorities. Commercial flights remain available; however, they may become limited on short notice. You should consider leaving Jordan while commercial options remain available.
 
 Sign up with the [Registration of Canadians Abroad](https://travel.gc.ca/travelling/registration) service to receive important additional information, specific to your location, about the ongoing situation and any available departure options.
 

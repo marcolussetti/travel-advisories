@@ -94,7 +94,7 @@ Make sure you are aware of the regulation in effect.
 
 #### Useful links
 
-* [Driving in Norway](http://ec.europa.eu/transport/road_safety/going_abroad/norway/index_en.htm) - European Commission
+* [Road rules and safety](https://europa.eu/youreurope/citizens/travel/driving-abroad/road-rules-and-safety/) – European Commission
 * [Norwegian traffic rules](https://www.vegvesen.no/en/traffic-information/along-the-road/norwegian-traffic-rules/) - The Norwegian Public Roads Administration
 * [International Driving Permit](https://travel.gc.ca/travelling/documents/international-driving-permit)
 

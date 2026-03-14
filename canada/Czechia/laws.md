@@ -86,7 +86,7 @@ There is zero tolerance for driving under the influence of alcohol or drugs. Pen
 #### Useful links
 
 * [International Driving Permit](https://travel.gc.ca/travelling/documents/international-driving-permit)
-* [Driving in Czechia](https://ec.europa.eu/transport/road_safety/going_abroad/czech_republic/index_en.htm) - European Commission
+* [Road rules and safety](https://europa.eu/youreurope/citizens/travel/driving-abroad/road-rules-and-safety/) – European Commission
 * [Electronic vignette](https://edalnice.cz/en/index.html#/validation) - State Fund for Transport Infrastructure
 
 ### Pedestrian traffic laws

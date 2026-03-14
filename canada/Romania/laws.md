@@ -82,7 +82,10 @@ The use of a cellular telephone while driving is prohibited, unless it is fitted
 
 Children under 12 cannot sit in the front seat of a vehicle.
 
-[International Driving Permit](https://travel.gc.ca/travelling/documents/international-driving-permit)
+#### Useful links
+
+* [Road rules and safety](https://europa.eu/youreurope/citizens/travel/driving-abroad/road-rules-and-safety/) – European Commission
+* [International Driving Permit](https://travel.gc.ca/travelling/documents/international-driving-permit)
 
 ### 2SLGBTQI+ persons
 

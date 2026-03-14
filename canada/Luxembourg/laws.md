@@ -91,7 +91,7 @@ Luxembourg authorities strictly enforce all road traffic laws, and police regula
 
 #### Useful links
 
-* [Road rules and safety – Luxembourg](http://ec.europa.eu/transport/road_safety/going_abroad/luxembourg/index_en.htm) – Your Europe
+* [Road rules and safety](https://europa.eu/youreurope/citizens/travel/driving-abroad/road-rules-and-safety/) – European Commission
 * [Criminal record check](https://rcmp.ca/en/criminal-records/criminal-record-checks) – Royal Canadian Mounted Police
 * [International Driving Permit](https://travel.gc.ca/travelling/documents/international-driving-permit)
 

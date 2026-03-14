@@ -18,8 +18,8 @@ The features in this map do not constitute an authoritative source of geographic
 
 ### OMAN - AVOID NON-ESSENTIAL TRAVEL
 
-[Avoid non-essential travel](#levels "Risk Levels") to Oman due to the risk of falling military debris from intercepted projectiles, airspace closure, and renewed regional tensions.
+[Avoid non-essential travel](#levels "Risk Levels") to Oman due to the risk of falling military debris from intercepted projectiles, airspace closure, and renewed regional tensions. The security situation could deteriorate further without notice.
 
-Shelter in place if instructed to by local authorities.
+Shelter in place if instructed by local authorities. Commercial flights remain available; however, they may become limited on short notice. You should consider leaving while commercial options remain available.
 
 Sign up with the [Registration of Canadians Abroad service](https://travel.gc.ca/travelling/registration?_ga=2.174113700.706610758.1771857040-226824260.1751485515) to receive important additional information, specific to your location, about the ongoing situation and any available departure options.

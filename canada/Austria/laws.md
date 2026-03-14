@@ -99,7 +99,7 @@ If you do not purchase and display a vignette, you will be fined on the spot.
 
 * [More about the International Driving Permit](https://travel.gc.ca/travelling/documents/international-driving-permit)
 * [Digital Vignette](https://www.asfinag.at/en/toll/vignette/digital-vignette/) – ASFiNAG
-* [Driving in Austria](http://ec.europa.eu/transport/road_safety/going_abroad/index_en.htm) - European Commission
+* [Road rules and safety](https://europa.eu/youreurope/citizens/travel/driving-abroad/road-rules-and-safety/) – European Commission
 
 ### Drones
 

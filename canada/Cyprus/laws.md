@@ -107,7 +107,7 @@ Liability insurance is mandatory. Vehicle insurance purchased in the Republic of
 
 #### Useful links
 
-* [Driving in Cyprus](https://ec.europa.eu/transport/road_safety/going_abroad/cyprus/index_en.htm) - European Commission
+* [Road rules and safety](https://europa.eu/youreurope/citizens/travel/driving-abroad/road-rules-and-safety/) – European Commission
 * [International Driving Permit](https://travel.gc.ca/travelling/documents/international-driving-permit)
 
 ### Money

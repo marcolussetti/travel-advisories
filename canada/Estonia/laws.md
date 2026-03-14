@@ -93,7 +93,7 @@ If you are involved in an accident, you must contact the police to file an offic
 
 Police sometimes set up checkpoints on major roads. Foreign-registered vehicles are subject to strict regulations. When driving, you should always carry your original registration documents.
 
-[Road rules and safety – Estonia](http://ec.europa.eu/transport/road_safety/going_abroad/estonia/index_en.htm) – Your Europe
+[Road rules and safety](https://europa.eu/youreurope/citizens/travel/driving-abroad/road-rules-and-safety/) – European Commission
 
 ### Money
 

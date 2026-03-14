@@ -65,7 +65,7 @@ You should carry an International Driving Permit.
 #### Useful links
 
 * [More about the International Driving Permit](https://travel.gc.ca/travelling/documents/international-driving-permit)
-* [Driving in Ireland](http://ec.europa.eu/transport/road_safety/going_abroad/ireland/index_en.htm) - European Commission
+* [Road rules and safety](https://europa.eu/youreurope/citizens/travel/driving-abroad/road-rules-and-safety/) – European Commission
 * [How to obtain a driver licence in Ireland](https://www.ndls.ie/how-to-apply/applying-online.html) - National Driver Licence Service
 
 ### Money

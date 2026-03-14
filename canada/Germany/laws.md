@@ -108,7 +108,7 @@ You cannot drive on pedestrian walkways and in pedestrian zones.
 
 #### Useful links
 
-* [More about driving in Germany](https://ec.europa.eu/transport/road_safety/going_abroad/germany/index_en.htm) - European Commission
+* [Road rules and safety](https://europa.eu/youreurope/citizens/travel/driving-abroad/road-rules-and-safety/) – European Commission
 * [Low-emission zones in Germany](https://www.umweltbundesamt.de/en/topics/air/particulate-matter-pm10/low-emission-zones-in-germany) - German Environment Agency
 * [Personal Light Electric Vehicles](https://www.bmvi.de/SharedDocs/EN/Articles/StV/Roadtraffic/light-electric-vehicles-faq.html) - Federal Ministry of Transport and Digital Infrastructure
 

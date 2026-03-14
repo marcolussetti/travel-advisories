@@ -4,15 +4,15 @@
 
 ### Ongoing hostilities in the Middle East
 
-There is ongoing military activity in the region. Missiles, drones and other projectiles could strike targets at any time. The security situation could deteriorate significantly without notice.
+There is ongoing military activity in the region. Missiles, drones and other projectiles could strike targets at any time. The security situation could deteriorate further without notice.
 
 Avoid the vicinity of military installations, critical infrastructure and stay away from US government facilities.
 
 Our ability to provide consular services to Canadians during an active conflict is limited, with priority given to the provision of essential services. Prepare contingency plans that don’t rely on the Government of Canada’s assistance for departure.
 
-Saudi airspace is open, with some regional restrictions. Commercial flights are operating, however availability may be limited.
+Saudi airspace is open, with some regional restrictions. Commercial flights are operating; however, availability may be limited.
 
-* Monitor flight availability
+* Monitor flight availability and consider leaving Saudi Arabia while commercial options are still available
 * Verify with your airline before you travel to the airport
 
 You should:

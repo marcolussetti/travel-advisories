@@ -148,7 +148,7 @@ You must wear a helmet when driving or as a passenger of a motorcycle, a scooter
 
 Carrying an individual in an irregular migration situation in your vehicle, even without your knowledge, is a criminal offence. Don’t pick up hitchhikers.
 
-[Driving in Greece](https://ec.europa.eu/transport/road_safety/going_abroad/greece/index_en.htm) - European Commission
+[Road rules and safety](https://europa.eu/youreurope/citizens/travel/driving-abroad/road-rules-and-safety/) – European Commission
 
 ### Money
 

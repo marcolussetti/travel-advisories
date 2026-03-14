@@ -155,7 +155,7 @@ On route 163 of the Amalfi Coast, between Positano and Vietri sul Mare, it’s p
 
 #### Useful links
 
-* [Driving in Italy](https://ec.europa.eu/transport/road_safety/going_abroad/italy/index_en.htm) – European Commission
+* [Road rules and safety](https://europa.eu/youreurope/citizens/travel/driving-abroad/road-rules-and-safety/) – European Commission
 * [International Driving Permit](https://travel.gc.ca/travelling/documents/international-driving-permit)
 
 

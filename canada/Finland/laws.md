@@ -58,7 +58,7 @@ You must be at least 18 years of age to drive a car in Finland.
 
 Low-beam headlights are required. Winter tires are mandatory between November 1 and March 31.
 
-[More information about driving in Finland](http://ec.europa.eu/transport/road_safety/going_abroad/index_en.htm) - European Commission
+[Road rules and safety](https://europa.eu/youreurope/citizens/travel/driving-abroad/road-rules-and-safety/) – European Commission
 
 
 

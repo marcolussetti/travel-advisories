@@ -86,7 +86,7 @@ You should carry an international driving permit.
 
 #### Useful links
 
-* [More about driving in Hungary](http://ec.europa.eu/transport/road_safety/going_abroad/hungary/index_en.htm) - European Commission
+* [Road rules and safety](https://europa.eu/youreurope/citizens/travel/driving-abroad/road-rules-and-safety/) – European Commission
 * [More about the International Driving Permit](https://travel.gc.ca/travelling/documents/international-driving-permit)
 
 #### Vignettes

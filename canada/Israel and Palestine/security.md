@@ -4,7 +4,7 @@
 
 ### Ongoing hostilities in the Middle East
 
-Drones, missiles and other projectiles could strike targets in Israel and Palestine. The security situation could deteriorate significantly without notice. A nationwide state of emergency is currently in effect in Israel.
+Drones, missiles and other projectiles could strike targets in Israel and Palestine. The security situation could deteriorate further without notice. A nationwide state of emergency is currently in effect in Israel.
 
 Avoid the vicinity of military installations, critical infrastructure and stay away from US government facilities.
 
@@ -12,7 +12,7 @@ There could be disruptions to movement and transportation due to military debris
 
 Ben Gurion International Airport has reopened. Some outbound flights on Israeli airlines have resumed as of March 8, 2026, however availability may be limited.
 
-* Monitor flight availability and leave when commercial options are available
+* Monitor flight availability and leave while commercial options remain available
 * Verify with your airline before you travel to the airport
 * Expect delays or cancellations on short notice should the situation deteriorate
 

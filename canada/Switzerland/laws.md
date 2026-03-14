@@ -100,7 +100,7 @@ In winter, winter tires are mandatory and snow chains may be required in some mo
 #### Useful links
 
 * [Driving in Switzerland on a foreign licence](https://www.eda.admin.ch/countries/canada/en/home/services/driving-and-vehicles/driving-ch-foreign-licence.html) - Embassy of Switzerland to Canada
-* [Driving in Switzerland](https://ec.europa.eu/transport/road_safety/going_abroad/switzerland/index_en.htm) - European Commission
+* [Road rules and safety](https://europa.eu/youreurope/citizens/travel/driving-abroad/road-rules-and-safety/) – European Commission
 * [Motorway windscreen stickers](https://shop.post.ch/shop/ui/en/gifts/mobility/c/mobility) - Swiss Post
 
 ### Money

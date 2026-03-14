@@ -11,14 +11,14 @@ There is ongoing military activity in the region. Missiles, drones and other pro
 * the Beqaa Valley
 * Palestinian refugee camps
 
-Previous air strikes reached populated areas across Lebanon, including central Beirut. Our ability to provide consular services to Canadians during an active conflict is limited, with priority given to the provision of essential services. Prepare contingency plans that don’t rely on the Government of Canada’s assistance for departure.
-
-You may need to stock up on food, water and medications in case the situation deteriorates.
+Air strikes reached populated areas across Lebanon, including central Beirut. Our ability to provide consular services to Canadians during an active conflict is limited, with priority given to the provision of essential services. Prepare contingency plans that don’t rely on the Government of Canada’s assistance for departure.
 
 You should:
 
 * follow evacuation orders
 * be vigilant and follow the instructions of local authorities at all times, including any orders to shelter in place
+* if you assess that it is safe to do so, leave Lebanon at the earliest opportunity while commercial flights remain available
+* stock up on food, water and medications in case the situation deteriorates further
 * ensure that your travel documents and those of your family are up to date
 * monitor local and international media to stay informed of the rapidly evolving situation
 * sign up with the [Registration of Canadians Abroad](https://travel.gc.ca/travelling/registration) service to receive important additional information, specific to your location, about the ongoing situation and any available departure options
