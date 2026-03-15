@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   10 March 2026
+:   15 March 2026
 
 Updated:
-:   9 March 2026
+:   14 March 2026
 
 Latest update:
-:   New information that as a precautionary measure the FCDO has decided to temporarily withdraw the dependants of British Embassy staff from the United Arab Emirates. Our embassies in Abu Dhabi and Dubai continue to operate as normal (‘Warnings and insurance’ page).
+:   Updated information about regional escalation and information about risks from posting online (‘Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/69a36e57ec82ce45f05bd728/United_Arab_Emirates_Travel_Advice_Ed1__WEB_.jpg)
 
@@ -28,7 +28,9 @@ If you have had travel plans disrupted, you can [register your interest in UK g
 
 Regional escalation poses significant security risks and has led to travel disruption.
 
-Stay away from areas around security or military facilities.
+Stay away from areas around security or military facilities and US or Israeli government facilities.
+
+Iran continues to strike civilian infrastructure across the region such as hotels, roads, bridges, energy facilities, financial institutions, oil production sites, water systems, and airports.
 
 Follow the instructions of the local authorities and monitor local and international media for the latest information.
 
@@ -45,6 +47,10 @@ Limit your movements to essential journeys only. When travel is unavoidable, aim
 If you are away from your home or hotel, and an attack occurs or you receive an alert from the official UAE warning system, seek shelter in the closest building immediately.
 
 Sign up to receive information and alerts. Read the [National Emergency Crisis and Disaster Management Authority’s guidance](https://www.ncema.gov.ae/) which covers a range of emergency situations.
+
+## Posting online
+
+It is illegal to post material, including videos and photographs, online that is critical of the UAE government, companies or individuals, or which relates to incidents in the UAE. This includes material which appears to abuse, ridicule or criticise the country or its authorities. Material that is culturally insensitive may also be considered illegal.
 
 ## Leaving UAE
 

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   10 March 2026
+:   15 March 2026
 
 Updated:
-:   9 March 2026
+:   14 March 2026
 
 Latest update:
-:   New information about entry to Saudi Arabia (see ‘Warnings and Insurance’ and ‘Entry requirements’ pages).
+:   Updated information about regional escalation (‘Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/69a8bbce5fc94cfb71958fb9/FCDO__TA__034_-_Saudi_Arabia_Travel_Advice_Ed7__WEB_.jpg)
 
@@ -45,7 +45,7 @@ If you are advised to take shelter, stay indoors or find the nearest safe buildi
 
 Regional escalation poses significant security risks and has led to travel disruption.
 
-Stay away from areas around security or military facilities.
+Stay away from areas around oil infrastructure, security or military facilities and US government facilities.
 
 Follow the instructions of the local authorities and monitor local and international media for the latest information.
 

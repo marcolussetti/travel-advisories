@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   13 March 2026
+:   15 March 2026
 
 Updated:
-:   12 March 2026
+:   14 March 2026
 
 Latest update:
-:   FCDO now advises against all but essential travel to Gilgit-Baltistan due to reports of unrest and protests, intermittent movement restrictions, and reports of mobile and internet service outages ('Warnings and insurance' page).
+:   Updated information about regional escalation, including possible fuel shortages and transport disruption ('Warnings and insurance' page).
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
@@ -77,22 +77,19 @@ FCDO advises against all but essential travel to Dera Ghazi Khan.
 
 Find out more about [why FCDO advises against travel to these regions](/foreign-travel-advice/pakistan/regional-risks).
 
-## Security situation in Jinnah International Airport and potential disruption
-
-In Karachi, key infrastructure and transit routes, including Karachi Jinnah International Airport, have recently been the subject of security threats and enhanced security presence. Exercise caution when using public transport and transport hubs, including airports.
-
 ## Regional escalation
 
-Regional escalation poses significant security risks and has led to travel disruption. There are increased security risks in Pakistan because of tensions between Pakistan and Afghanistan and developments in Iran.  Flights are being disrupted due to air space closures in the Middle East. Please check with your airline before travelling.
+Regional escalation poses significant security and economic risks and has led to travel disruption. There are increased security risks in Pakistan because of tensions between Pakistan and Afghanistan and developments in Iran.  Flights are being disrupted due to air space closures in the Middle East. Please check with your airline before travelling. There are reports of drone activity in some cities.
 
-Protests have taken place in some parts of Pakistan and may persist, including in major cities. Road access restrictions and curfews may be imposed at short notice. Given the increasing risks we have instructed UK staff in Pakistan to restrict their movements at this time.
+Protests have taken place in some parts of Pakistan and may persist, including in major cities. Road access restrictions and curfews may be imposed at short notice. Global supply routes could affect Pakistan’s fuel availability and pricing. This may lead to transport disruption and delays, in some areas. Given the increasing risks we have instructed UK staff in Pakistan to restrict their movements at this time.
 
 You should:
 
-* be aware of the risk of terrorism and be careful around protests, demonstrations, rallies and religious gatherings, particularly around Karachi, Skardu, Lahore, Islamabad and other urban areas
+* be aware of the risk of terrorism and be careful around protests, demonstrations, rallies and religious gatherings, particularly in urban areas across Pakistan
 * be aware the FCDO now advises against all but essential travel to Gilgit-Baltistan due to reports of unrest and protests, intermittent movement restrictions, and reports of mobile and internet service outages
-* follow the advice of local authorities
+* follow the advice of local authorities and plan ahead to allow extra time for travel and keep up to date with local and international media
 * monitor local and international media for the latest information
+* be prepared to take shelter, stay indoors, or move to a safe building immediately if the local authorities instruct you to do so
 * sign up to [FCDO Travel Advice email alerts](https://www.gov.uk/foreign-travel-advice/pakistan/email-signup)
 
 ## Before you travel

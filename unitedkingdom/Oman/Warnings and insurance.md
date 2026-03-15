@@ -1,25 +1,25 @@
 # Warnings and insurance
 
 Still current at:
-:   11 March 2026
+:   15 March 2026
 
 Updated:
-:   10 March 2026
+:   14 March 2026
 
 Latest update:
-:   New information to exercise caution due to the regional escalation ('Warnings and insurance' page).
+:   Updated information to exercise caution due to the regional escalation ('Warnings and insurance' page).
+
+## Exercise Caution
+
+We advise British nationals in Oman to exercise increased caution. Press reports have included some limited missile and drone activity in the commercial ports and industrial areas of Duqm, Salalah and Sohar.
+
+Where available, follow advice from local authorities on how to stay safe in your location as risks may vary across Oman and the Gulf region. If you are advised to take shelter, stay indoors or find the nearest safe building or shelter. An interior stairwell or a room with as few external walls or windows as possible may provide additional protection.
 
 ## Travel disruption
 
 Commercial flights are operating from Muscat to the UK. Internal flights continue from Salalah in Dhofar Governorate to Muscat. Commercial flights to and from Khasab airport in Musandam Governorate are currently suspended. If you are still in Oman and need to get back to the UK, check for availability with airlines or your travel provider. The Omani authorities are asking travellers only to travel to the airport when they have a confirmed onward flight.
 
 British nationals in Oman who need consular assistance can contact us 24/7 by calling +968 2460 9000.
-
-## Exercise Caution
-
-We advise British nationals in Oman to exercise increased caution. Press reports have included some limited missile and drone activity in the commercial ports of Duqm and Salalah in Oman.
-
-Where available, follow advice from local authorities on how to stay safe in your location as risks may vary across Oman and the Gulf region. If you are advised to take shelter, stay indoors or find the nearest safe building or shelter. An interior stairwell or a room with as few external walls or windows as possible may provide additional protection.
 
 ## Regional escalation
 

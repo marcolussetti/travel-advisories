@@ -101,10 +101,6 @@ Some venues, events or buildings may have specific dress codes.
 
 It is illegal to swear and make rude gestures, including online, as they are considered obscene acts. You could be jailed or deported. Take particular care when dealing with the police and other officials.
 
-### Posting online
-
-It is illegal to post material, including videos and photographs, online that is critical of the UAE government, companies or individuals, or which relates to incidents in the UAE. This includes material which appears to abuse, ridicule or criticise the country or its authorities. Material that is culturally insensitive may also be considered illegal.
-
 ### Showing affection in public
 
 Showing affection in public is frowned upon. You can be arrested for kissing in public.
