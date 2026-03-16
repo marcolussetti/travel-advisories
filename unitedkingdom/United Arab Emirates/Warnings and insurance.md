@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   15 March 2026
+:   16 March 2026
 
 Updated:
-:   14 March 2026
+:   15 March 2026
 
 Latest update:
-:   Updated information about regional escalation and information about risks from posting online (‘Warnings and insurance’ page).
+:   Updated information about registering your presence
 
 ![](https://assets.publishing.service.gov.uk/media/69a36e57ec82ce45f05bd728/United_Arab_Emirates_Travel_Advice_Ed1__WEB_.jpg)
 
@@ -20,9 +20,9 @@ Your travel insurance could be invalidated if you travel against advice from the
 
 Find out more about [why FCDO advises against travel](https://www.gov.uk/foreign-travel-advice/united-arab-emirates/safety-and-security).
 
-## Register your interest in UK government flights from United Arab Emirates
+## Register your presence
 
-If you have had travel plans disrupted, you can [register your interest in UK government flights from United Arab Emirates.](https://www.register.service.csd.fcdo.gov.uk/united-arab-emirates-20260306)
+With commercial flights resuming to the UK from United Arab Emirates (UAE), we are pausing our ‘register your interest in flights from UAE’ scheme. If you are still in UAE and need to get back to the UK, please check availability with the commercial airlines. You can still [register your presence](https://www.register.service.csd.fcdo.gov.uk/united-arab-emirates-20260228/tell-the-uk-government-youre-in-united-arab-emirates) if you are in UAE for further updates.
 
 ## Regional escalation
 

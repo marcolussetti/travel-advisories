@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   13 March 2026
+:   16 March 2026
 
 Updated:
-:   12 March 2026
+:   15 March 2026
 
 Latest update:
-:   New information that FCDO has taken the precautionary measure to temporarily withdraw some of our staff from Iraq. Our embassy continues to operate. (‘Warnings and insurance’ page).
+:   Updated information about regional escalation and new information about drones (‘Warnings and insurance’ and ‘Safety and security’ pages).
 
 ![](https://assets.publishing.service.gov.uk/media/69a4b52ea4d26cb233cd47f0/FCDO__TA__048_-_Iraq_Travel_Advice_Ed1__WEB_.jpg)
 
@@ -32,13 +32,15 @@ Consular support is severely limited in areas where FCDO advises against travel.
 
 Regional escalation poses significant security risks and has led to travel disruption.
 
+Iran continues to strike civilian infrastructure across the region such as hotels, roads, bridges, energy facilities, oil production sites, water systems, and airports.
+
 British nationals should:
 
 * read [If you’re affected by a crisis abroad - GOV.UK](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas). This includes guidance on “how to prepare for a crisis” with suggestions on what you might include in your emergency supplies and “what to do in a crisis”
 * follow advice from the local authorities and sign up to receive information and alerts
 * sign up to FCDO Travel Advice email alerts
 * monitor local and international media for the latest information
-* stay away from areas around security or military facilities
+* stay away from areas around security or military facilities and US government facilities
 * keep your departure plans under review, and ensure your travel documents are up to date
 * if you are advised to take shelter, stay indoors or find the nearest safe building or designated shelter. An interior stairwell or a room with as few external walls or windows as possible may provide additional protection
 

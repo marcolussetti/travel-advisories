@@ -152,6 +152,10 @@ Iraq continues to practise the death penalty for a range of crimes including:
 * terrorism
 * war crimes
 
+### Drones
+
+The Kurdistan Regional Government (KRG) prohibits sharing footage of drones being launched or target locations with media outlets or on social media, and violations may result in legal action.
+
 ### LGBT+ travellers
 
 In July 2024, the Iraqi Parliament updated its Anti-Prostitution and Homosexuality Law which criminalises same-sex relationships, any promotion of same-sex relationships or behaviours, and bans people from changing gender. Under the amendment, same-sex relationships are now illegal and sexual acts could lead to a prison sentence between 10 to 15 years. If the Iraqi authorities consider your actions, clothing or other items to promote LGBT+ identities or prostitution,  you could be imprisoned for up to seven years and fined between 10 to 15 million Iraqi dinars.
