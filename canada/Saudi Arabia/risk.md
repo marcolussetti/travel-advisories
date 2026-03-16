@@ -18,7 +18,7 @@ The features in this map do not constitute an authoritative source of geographic
 
 ### SAUDI ARABIA - AVOID NON-ESSENTIAL TRAVEL
 
-[Avoid non-essential travel](#levels "Risk Levels") to to Saudi Arabia due to the risk of falling military debris from intercepted projectiles, airspace closure, and renewed regional tensions. The security situation could deteriorate further without notice.
+[Avoid non-essential travel](#levels "Risk Levels") to Saudi Arabia due to the risk of falling military debris from intercepted projectiles, airspace closure, and renewed regional tensions. The security situation could deteriorate further without notice.
 
 Shelter in place if instructed to by local authorities. Commercial flights remain available; however, they may become limited on short notice. You should consider leaving Saudi Arabia while commercial options remain available.
 
