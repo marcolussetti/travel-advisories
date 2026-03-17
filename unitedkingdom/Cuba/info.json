@@ -1,11 +1,11 @@
 {
     "name": "Cuba",
-    "update_reason": "New information on protests (See \u201cWarnings and Insurance\u201d page)",
+    "update_reason": "Updated information on protests (See 'Warnings and Insurance' page)",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Cuba/Warnings and insurance.md",
-            "update_date": "2026-03-13T21:23:47+00:00"
+            "update_date": "2026-03-16T19:11:40+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Cuba/Getting help.md"
         }
     ],
-    "update_date": "2026-03-13T21:23:47+00:00"
+    "update_date": "2026-03-16T19:11:40+00:00"
 }

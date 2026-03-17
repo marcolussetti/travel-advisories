@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   14 March 2026
+:   17 March 2026
 
 Updated:
-:   13 March 2026
+:   16 March 2026
 
 Latest update:
-:   New information on protests (See “Warnings and Insurance” page)
+:   Updated information on protests (See 'Warnings and Insurance' page)
 
 ![](https://assets.publishing.service.gov.uk/media/698cc89184cc2df4a87123d5/FCDO__TA__103_-_Cuba_Travel_Advice_Ed1__WEB_.jpg)
 
@@ -18,7 +18,7 @@ Latest update:
 
 ### Protests in Cuba
 
-The ongoing situation in Cuba has led to a series of recent protests. To date these have remained peaceful but be aware that protests can escalate. You should avoid large gatherings, monitor the media for updates and follow the advice of the local authorities.
+The ongoing situation in Cuba has led to a series of recent protests. To date most of these have remained peaceful but be aware that protests can escalate. You should avoid large gatherings, monitor the media for updates and follow the advice of the local authorities.
 
 ### Power outages and fuel shortages
 

@@ -1,11 +1,11 @@
 {
     "name": "United Arab Emirates",
-    "update_reason": "Updated information about registering your presence",
+    "update_reason": "Updated information about registering your presence (\u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/United Arab Emirates/Warnings and insurance.md",
-            "update_date": "2026-03-15T15:34:41+00:00"
+            "update_date": "2026-03-16T18:57:20+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/United Arab Emirates/Getting help.md"
         }
     ],
-    "update_date": "2026-03-15T15:34:41+00:00"
+    "update_date": "2026-03-16T18:57:20+00:00"
 }

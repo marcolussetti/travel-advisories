@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   16 March 2026
+:   17 March 2026
 
 Updated:
-:   15 March 2026
+:   16 March 2026
 
 Latest update:
-:   Updated information about registering your presence
+:   Updated information about registering your presence (‘Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/69a36e57ec82ce45f05bd728/United_Arab_Emirates_Travel_Advice_Ed1__WEB_.jpg)
 
@@ -28,9 +28,9 @@ With commercial flights resuming to the UK from United Arab Emirates (UAE), we 
 
 Regional escalation poses significant security risks and has led to travel disruption.
 
-Stay away from areas around security or military facilities and US or Israeli government facilities.
+Stay away from areas around security or military facilities and US or Israeli  facilities and institutions.
 
-Iran continues to strike civilian infrastructure across the region such as hotels, roads, bridges, energy facilities, financial institutions, oil production sites, water systems, and airports.
+Iran continues to strike civilian infrastructure across the region such as ports, hotels, roads, bridges, energy facilities, financial institutions, oil production sites, water systems, and airports.
 
 Follow the instructions of the local authorities and monitor local and international media for the latest information.
 
