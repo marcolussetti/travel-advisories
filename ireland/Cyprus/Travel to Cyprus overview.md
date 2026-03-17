@@ -8,8 +8,6 @@ Normal Precautions
 
 #### **Regional Security Situation**
 
-The Embassy is aware of a drone attack on the UK's Royal Air Force base in Akrotiri on 2 March.
-
 In light of the current regional security situation, Irish citizens concerned about flight disruption and airspace closures should contact their airline or travel agent directly.
 
 Irish citizens in Cyprus are advised to remain vigilant, and to closely follow any safety protocols issued by Cypriot authorities. If you have not already done so you are asked to register on the Department’s Citizens Registration platform here and to monitor our official social media channels and travel advice for updates.
