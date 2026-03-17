@@ -1,7 +1,7 @@
 {
     "name": "Colombia",
-    "update_reason": "Safety and security \u2013 removed information on elections and the closure of Tayrona National Park; Natural disasters and climate \u2013 removed information on a mud volcano eruption in Antioquia",
-    "update_date": "2026-03-10T14:25:00",
+    "update_reason": "Health \u2013 editorial change",
+    "update_date": "2026-03-16T15:48:00",
     "sections": {
         "risk": "canada/Colombia/risk.md",
         "security": "canada/Colombia/security.md",

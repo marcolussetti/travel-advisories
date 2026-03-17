@@ -2,28 +2,6 @@
 
 ## Safety and security
 
-### Paralympic Winter Games
-
-The Milano Cortina Paralympic Winter Games are taking place across several destinations in northern Italy from March 6-15, 2026.
-
-Demonstrations could take place during the Games. Follow the instructions of local authorities and avoid areas where demonstrations are taking place.
-
-Always carry valid identification. Local authorities may request to see your identification, including your passport, at any time. Make sure you keep a copy of your passport in case it’s lost or stolen.
-
-During the Games, especially in areas near the event centres, you should expect:
-
-* an increased presence of security forces
-* major disruptions to traffic and movement
-* large crowds and public gatherings
-
-### Useful links
-
-* [Milano Cortina 2026 Winter Olympic Games and Winter Paralympic Games](https://travel.gc.ca/campaigns/olympics-paralympics-2026?_ga=2.109171906.69752942.1769090817-833740108.1769090808) – Government of Canada
-* [Milano Cortina 2026](https://www.olympics.com/en/milano-cortina-2026) – Official site
-* [Lost or stolen belongings outside Canada](https://travel.gc.ca/assistance/emergency-info/stolen-belongings)
-* [Register as a Canadian abroad](https://travel.gc.ca/travelling/registration)
-* [More information on medical services and facilities](https://travel.gc.ca/destinations/italy#medical-services)
-
 ### Crime
 
 #### Petty crime

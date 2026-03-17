@@ -17,6 +17,10 @@ Penalties for possession, use or trafficking of illegal drugs are severe. Convic
 
 [Drugs, alcohol and travel](https://travel.gc.ca/travelling/health-safety/drugs)
 
+### Public smoking ban
+
+Smoking tobacco, cannabis and other controlled substances in public places is illegal. If you’re caught smoking in public, you could face arrest and a court hearing.
+
 ### Dual citizenship
 
 Dual citizenship is legally recognized in Antigua and Barbuda.

@@ -21,6 +21,7 @@ You should:
 * follow the instructions of local authorities at all times
 * ensure that your travel documents and those of your family are up to date
 * monitor local and international media to stay informed of the rapidly evolving situation
+* avoid taking or sharing videos or photos of any military activity or damage, including missiles or drones, as possessing or sharing such content could lead to fines, imprisonment or deportation
 * make sure that you have access to water, food, medicine and essentials
 * sign up with the [Registration of Canadians Abroad](https://travel.gc.ca/travelling/registration) service to receive important additional information, specific to your location, about the ongoing situation and any available departure options
 

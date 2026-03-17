@@ -2,19 +2,6 @@
 
 ## Safety and security
 
-### Elections
-
-There is still a risk of political violence and extremist attacks at rallies, demonstrations and other public events.
-
-Even peaceful gatherings can occasionally lead to disruptions or affect traffic and transportation, including in Dhaka and other major cities. Keep this in mind if you are planning to travel outside urban areas, as your travel plans may be disrupted.
-
-If you are in Bangladesh:
-
-* avoid demonstrations, large gatherings and areas where police or security forces are present
-* expect an increased presence of security forces
-* monitor local and international media for the latest information
-* follow the instructions of local authorities
-
 ### Security situation
 
 Since July 2024, the security situation has been volatile in Bangladesh.

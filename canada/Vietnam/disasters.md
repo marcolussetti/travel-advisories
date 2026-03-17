@@ -8,24 +8,6 @@ Climate change is affecting Vietnam. Extreme and unusual weather events are beco
 
 ### Typhoons and monsoons
 
-### Flooding and landslides
-
-Recent typhoons and heavy rainfall have caused severe flooding across the central and northern provinces of Vietnam which has resulted in significant casualties and damage to infrastructure.
-
-The mountain passes near Da Lat city have reopened but local authorities are advising drivers in the area to:
-
-* avoid driving at night
-* drive at reduced speeds
-* obey all traffic signs
-
-Heavy rains continue to pose a flooding risk in areas that are low-lying and close to rivers.
-
-If you are in an affected area:
-
-* monitor local news and weather reports
-* confirm your flight before going to the airport
-* follow the instructions of local authorities
-
 #### Typhoons
 
 Typhoons usually occur from June to December. During this period, even small tropical storms can quickly develop into major typhoons.

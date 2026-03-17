@@ -2,23 +2,6 @@
 
 ## Safety and security
 
-### Demonstrations in Nepal
-
-In September 2025, violent clashes between demonstrators and security forces resulted in hundreds of casualties, including several deaths.
-
-Although the situation in Nepal is currently calm, it is evolving and could deteriorate quickly. Curfews could be reinstated with little notice.
-
-General elections are scheduled for March 5, 2026. Demonstrations may occur, especially before, during and after elections.
-
-If you are in Nepal:
-
-* avoid demonstrations and areas around government buildings, especially near the Nepali Parliament
-* expect heavy security measures and an increased security presence in major cities
-* monitor local media for the latest information
-* follow the instructions of local authorities, including curfew orders
-
-[More on demonstrations](https://travel.gc.ca/destinations/nepal#demonstrations)
-
 ### Crime
 
 Petty theft, such as pickpocketing and bag snatching, is common, particularly near tourist sites in airports and on crowded buses.

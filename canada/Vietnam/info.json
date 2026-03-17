@@ -1,7 +1,7 @@
 {
     "name": "Vietnam",
-    "update_reason": "Health \u2013 Travel health notice for Lunar New Year removed",
-    "update_date": "2026-03-10T09:46:00",
+    "update_reason": "Health \u2013 Travel health notice for dengue removed",
+    "update_date": "2026-03-16T14:02:00",
     "sections": {
         "risk": "canada/Vietnam/risk.md",
         "security": "canada/Vietnam/security.md",
