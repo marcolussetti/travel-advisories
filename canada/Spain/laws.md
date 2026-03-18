@@ -87,9 +87,9 @@ Be aware that Canadian consular officials cannot interfere in private legal matt
 
 You can drive in Spain with your valid Canadian driver’s licence and an international driving permit for up to 6 months. For stays longer than 6 months, you must obtain a local driver’s licence.
 
-Vehicles must be equipped for emergency situations. You must carry the following items:
+Vehicles must be equipped with the following items in case of emergencies:
 
-* 2 red warning triangles, of which one must be placed in front of the vehicle and one behind in case of accident or breakdown
+* a V16 emergency beacon and light, kept inside the glove compartment, that you must place on top of your vehicle in case of accident or breakdown
 * a reflective jacket, kept inside the car (not in the trunk), that you must wear when leaving a vehicle stranded or involved in a highway accident
 * a spare tire and a repair kit
 * a full set of spare light bulbs, plus the tools to change them

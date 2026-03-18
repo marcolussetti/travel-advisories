@@ -2,6 +2,27 @@
 
 ## Natural disasters and climate
 
+### Tropical Cyclone Narelle
+
+Tropical Cyclone Narelle is expected to sweep Far North Queensland on March 19, 2026, before crossing the Gulf of Carpentaria and making landfall again in the Northern Territory on March 21.
+
+The storm is likely to bring excessive rainfall and violent winds. It may cause flash flooding and landslides and could severely disrupt the following essential services:
+
+* transportation
+* power distribution
+* water and food supply
+* telecommunications networks
+* emergency services
+* medical care
+
+If you are in the affected areas:
+
+* exercise caution
+* monitor local news and weather reports
+* follow the instructions of local authorities
+
+[Warnings and incidents](https://www.bom.gov.au/warning/tropical-cyclone-advice/IDW24100) – Department of Fire and Emergency Services
+
 ### Climate change
 
 Climate change is affecting Australia. Extreme and unusual weather events are becoming more frequent and may affect your travel plans. Monitor local media for the latest information.

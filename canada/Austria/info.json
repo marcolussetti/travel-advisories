@@ -1,7 +1,7 @@
 {
     "name": "Austria",
-    "update_reason": "Laws and culture \u2013 updated information on driving",
-    "update_date": "2026-03-13T12:57:00",
+    "update_reason": "Editorial change",
+    "update_date": "2026-03-17T13:22:00",
     "sections": {
         "risk": "canada/Austria/risk.md",
         "security": "canada/Austria/security.md",

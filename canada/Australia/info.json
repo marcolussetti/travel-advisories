@@ -1,7 +1,7 @@
 {
     "name": "Australia",
-    "update_reason": "Editorial change",
-    "update_date": "2026-03-05T09:16:00",
+    "update_reason": "Risk levels \u2013 avoid non-essential travel to Far North Queensland; Natural disasters and climate \u2013 added information on Tropical Cyclone Narelle",
+    "update_date": "2026-03-17T17:07:00",
     "sections": {
         "risk": "canada/Australia/risk.md",
         "security": "canada/Australia/security.md",

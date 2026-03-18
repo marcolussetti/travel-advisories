@@ -2,6 +2,26 @@
 
 ## Safety and security
 
+### Availability of fuel and public services
+
+Fuel availability for personal motor vehicles in Sri Lanka is limited.
+
+Special arrangements are in place to ensure fuel access for service providers within the tourism sector.
+
+To manage fuel supply, non essential government services are not operational on Wednesdays, which may affect access to public services.
+
+If you are in Sri Lanka:
+
+* Monitor local media and government announcements for updates
+* In case of emergency tourism-related assistance, contact the Sri Lanka Tourism Development Authority hotline at 1912
+
+#### 
+
+#### Useful links
+
+* [Fuel purchase registration system](https://www.fuelpass.gov.lk/register) – Government of Sri Lanka
+* [Fuel rationing programme](https://ceypetco.gov.lk/) – Ceylon Petroleum Corporation
+
 ### Demonstrations
 
 Demonstrations occur frequently in Colombo, and occasionally elsewhere in the country. Security forces may use tear gas and water cannons during violent protests.

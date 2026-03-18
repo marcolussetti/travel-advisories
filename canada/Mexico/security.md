@@ -2,14 +2,6 @@
 
 ## Safety and security
 
-### Recent violent incidents in various parts of Mexico
-
-On February 22, 2026, criminal groups set up roadblocks with burning vehicles in various cities across Mexico. There were shootouts with security forces and explosions, including on roads and highways connecting affected areas to Mexico City.
-
-The security situation has since stabilized.
-
-If your travel plans have been disrupted, contact your airline or travel agent for more information.
-
 ### FIFA World Cup 2026™
 
 Canada, Mexico and the United States will be hosting the FIFA World Cup from June 11 to July 19, 2026. If you plan on travelling to Mexico for the tournament, consult our [Advice for Canadians travelling to Mexico – FIFA World Cup 2026™](https://travel.gc.ca/travelling/campaigns/soccer-2026-mexico).

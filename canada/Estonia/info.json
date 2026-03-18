@@ -1,7 +1,7 @@
 {
     "name": "Estonia",
-    "update_reason": "Laws and culture \u2013 added information on road rules and safety",
-    "update_date": "2026-03-13T14:02:00",
+    "update_reason": "Editorial change",
+    "update_date": "2026-03-17T13:18:00",
     "sections": {
         "risk": "canada/Estonia/risk.md",
         "security": "canada/Estonia/security.md",
