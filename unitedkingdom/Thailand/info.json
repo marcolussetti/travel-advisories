@@ -1,11 +1,11 @@
 {
     "name": "Thailand",
-    "update_reason": "Information on options for British nationals affected in Thailand, due to the escalation in the Middle East (Warnings and Insurance\" page).",
+    "update_reason": "New information about smoking and e-cigarettes and updated information about cannabis ('Warnings and insurance' and 'Safety and security' pages).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Thailand/Warnings and insurance.md",
-            "update_date": "2026-03-04T03:34:24+00:00"
+            "update_date": "2026-03-17T16:39:28+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Thailand/Getting help.md"
         }
     ],
-    "update_date": "2026-03-04T03:34:24+00:00"
+    "update_date": "2026-03-17T16:39:28+00:00"
 }

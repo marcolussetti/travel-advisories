@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   4 March 2026
+:   18 March 2026
 
 Updated:
-:   4 March 2026
+:   17 March 2026
 
 Latest update:
-:   Information on options for British nationals affected in Thailand, due to the escalation in the Middle East (Warnings and Insurance" page).
+:   New information about smoking and e-cigarettes and updated information about cannabis ('Warnings and insurance' and 'Safety and security' pages).
 
 ![](https://assets.publishing.service.gov.uk/media/6980b4383915f7123658010e/FCDO__TA__040_-_Thailand_Travel_Advice_Ed8__WEB_.jpg)
 
@@ -33,7 +33,7 @@ This is due to regular attacks in the provinces by the border with Malaysia. See
 
 ## Thailand-Cambodia border
 
-FCDO advises against all but essential travel to within 20km of the land border with Cambodia.
+FCDO advises against all but essential travel to areas within 20km of the land border with Cambodia.
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/thailand/safety-and-security#terrorism).
 
@@ -54,9 +54,9 @@ In July 2025, Thailand and Cambodia fought along parts of the border. The fighti
 
 There are also unexploded landmines in the border area.
 
-We advise against all travel to the affected land border areas.
+FCDO advises against all but essential travel to areas within 20km of the land border with Cambodia.
 
-## Do not carry cannabis out of Thailand
+## It is illegal to carry cannabis out of Thailand
 
 British nationals have been caught carrying cannabis out of Thailand. There have been arrests of British nationals caught transiting through airports in other countries. Many international airports have excellent technology and security for detecting illegal items, which may be used to scan the baggage of transiting passengers.
 

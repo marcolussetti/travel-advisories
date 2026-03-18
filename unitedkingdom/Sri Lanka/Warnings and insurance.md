@@ -1,15 +1,17 @@
 # Warnings and insurance
 
 Still current at:
-:   4 March 2026
+:   18 March 2026
 
 Updated:
-:   3 March 2026
+:   17 March 2026
 
 Latest update:
-:   New information about travel disruption ('Warnings and insurance' page).
+:   Additional information about fuel restrictions in Sri Lanka due to escalation in the Middle East ('Warnings and insurance' page).
 
 ## Global travel impacts due to escalation in the Middle East
+
+### Travel
 
 Escalation in the Middle East has caused widespread travel disruption, including airspace closures, delayed and cancelled flights.
 
@@ -22,6 +24,12 @@ Your travel plans may be affected, even if your destination is not in the Middle
 Many flights to the Middle East from Sri Lanka continue to be suspended. British nationals in Sri Lanka should contact their airlines for the latest updates.
 
 For further information, review [Media Notice from the Department of Immigration & Emigration](https://srilankahc.uk/2026/03/02/media-notice-from-the-department-of-immigration-emigration/).
+
+### Fuel
+
+The Government of Sri Lanka is limiting purchases of fuel in response to the situation in the Middle East. All vehicles will be allocated a weekly fuel quota. The Government has announced that special arrangements will be implemented for tour operators and hotels to minimise disruption to tourism.
+
+Additionally, the Government of Sri Lanka has implemented a four-day working week for all government officials except those operating essential services (health, ports, water supply and customs). As a result, non-essential government services will not be available on Wednesdays.
 
 Additional assistance available: Sri Lankan Tourist Hotline: 1912
 

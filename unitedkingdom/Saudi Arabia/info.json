@@ -1,11 +1,11 @@
 {
     "name": "Saudi Arabia",
-    "update_reason": "Updated information about\u202fregional\u202fescalation\u202f(\u2018Warnings\u202fand insurance\u2019\u202fpage).",
+    "update_reason": "Updated information about exercising increased caution ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Saudi Arabia/Warnings and insurance.md",
-            "update_date": "2026-03-14T10:01:20+00:00"
+            "update_date": "2026-03-17T17:23:19+00:00"
         },
         {
             "title": "Entry requirements",
@@ -38,5 +38,5 @@
             "file": "unitedkingdom/Saudi Arabia/Getting help.md"
         }
     ],
-    "update_date": "2026-03-14T10:01:20+00:00"
+    "update_date": "2026-03-17T17:23:19+00:00"
 }

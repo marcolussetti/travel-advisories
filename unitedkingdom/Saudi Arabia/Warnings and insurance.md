@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   15 March 2026
+:   18 March 2026
 
 Updated:
-:   14 March 2026
+:   17 March 2026
 
 Latest update:
-:   Updated information about regional escalation (‘Warnings and insurance’ page).
+:   Updated information about exercising increased caution ('Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/69a8bbce5fc94cfb71958fb9/FCDO__TA__034_-_Saudi_Arabia_Travel_Advice_Ed7__WEB_.jpg)
 
@@ -35,11 +35,13 @@ FCDO advises against all but essential travel to Riyadh Province
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/saudi-arabia/regional-risks).
 
-## Stay inside
+## Exercise increased caution
 
-Due to reports of missile and drone activity in the region, we advise British nationals in Saudi Arabia to stay inside and exercise increased caution.  There are reports of continued missile and drone attacks in the Eastern Province and Riyadh Province. There is also a risk of shrapnel from intercepted missiles and drones falling across the region and causing further disruption. Where available, follow advice from local authorities on how to stay safe in your location as risks may vary across Saudi Arabia.
+There are reports of continued missile and drone attacks in the Eastern Province and Riyadh Province. There is a risk of shrapnel from intercepted missiles and drones falling across the region and causing further disruption.
 
-If you are advised to take shelter, stay indoors or find the nearest safe building and take hard cover. An interior stairwell or a room with as few external walls or windows as possible may provide additional protection.
+We advise British nationals in Saudi Arabia to exercise increased caution.
+
+If you are advised to take shelter, stay indoors or find the nearest safe building and take hard cover. An interior stairwell or a room with as few external walls or windows as possible may provide additional protection. Where available, follow advice from local authorities on how to stay safe in your location as risks may vary across Saudi Arabia.
 
 ## Regional escalation
 
@@ -47,7 +49,7 @@ Regional escalation poses significant security risks and has led to travel disru
 
 Stay away from areas around oil infrastructure, security or military facilities and US government facilities.
 
-Follow the instructions of the local authorities and monitor local and international media for the latest information.
+Monitor local and international media for the latest information.
 
 Read [If you’re affected by a crisis abroad - GOV.UK](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas) this includes suggestions on what you might include in your emergency supplies.
 
@@ -63,7 +65,7 @@ Keep your departure plans under review and ensure your travel documents are up t
 
 ## Leaving the region via Saudi Arabia
 
-British nationals who are trying to leave the region via Saudi Arabia and who are travelling on British Emergency Travel Documents, Emergency Passports, or passports with less than 6 months remaining validity, should call the helplines for British Embassy Riyadh +966 (0) 11481 9100 or British Consulate Jeddah +966 (0)126225550 for advice.
+British nationals who are trying to leave the region via Saudi Arabia and who are travelling on British Emergency Travel Documents, Emergency Passports, or passports with less than 6 months remaining validity, should call the helplines for British Embassy Riyadh +966 (0) 11481 9100 or British Consulate General Jeddah +966 (0)126225550 for advice.
 
 See [‘Entry requirements’ page](https://www.gov.uk/foreign-travel-advice/saudi-arabia/entry-requirements).
 

@@ -116,7 +116,7 @@ Police may ask to check your passport. If you do not have it with you, you could
 
 ### Smoking and e-cigarette bans
 
-It’s illegal to smoke in public with a fine of up to 5,000 Thai baht. E-cigarettes are illegal. You could be fined or imprisoned for carrying or using them.
+It’s illegal to smoke in public with a fine of up to 5,000 Thai baht. It is illegal to possess or use any vape, e-cigarette, pod, e-liquid, or heat-not-burn device in Thailand. Offences can lead to confiscation, heavy fines (typically 5,000–30,000 Thai bhat), detention, and court proceedings. You may be required to remain in Thailand until the case has been finalised. There are no exceptions for tourists or for personal use.
 
 ### Alcohol sale restrictions
 
@@ -134,7 +134,7 @@ Some British nationals have suffered severe psychiatric problems because of drug
 
 Cannabis use in Thailand is restricted to medical purposes only. You must not buy, possess or use it without a Thai-issued medical prescription, which is limited to a 30-day supply. Recreational use remains illegal.
 
-Do not carry cannabis out of Thailand. Cannabis of any strength may be illegal in other countries you travel to.
+It is illegal to carry cannabis out of Thailand. Cannabis of any strength may be illegal in other countries you travel to.
 
 Criminal gangs are known to pressure people into carrying drugs. Always pack your own luggage and do not carry anything through customs for someone else. British nationals have been caught carrying cannabis out of Thailand.
 
