@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   13 March 2026
+:   19 March 2026
 
 Updated:
-:   12 March 2026
+:   18 March 2026
 
 Latest update:
-:   Addition of information about British nationals, including those with dual nationality, facing urgent or exceptional circumstances and needing help (‘Warnings and insurance’ page).
+:   Updated information on entry to Egypt ('Warnings and insurance' and 'Entry requirements' pages).
 
 ![](https://assets.publishing.service.gov.uk/media/69a2c80fec82ce45f05bd722/FCDO__TA__022_-_Israel_Travel_Advice_Ed27__WEB_.jpg)
 
@@ -48,9 +48,9 @@ The Ministry of Transport have announced that as of 8 March, Ben Gurion Airport 
 
 British nationals, including those with dual nationality, facing urgent or exceptional circumstances and needing help in coordinating with airlines should submit a dedicated assistance form to the Ministry of Transport. You must use your British passport to apply. Further eligibility information can be found on the [Ministry of Transport website](https://www.gov.il/en/service/safe-passage).
 
-Other commercial travel options are still available. For those eligible to travel to Egypt via Taba border crossing, transport services continue to operate from major cities to Eilat. You can check ‘entry requirements’ below. The primary Israeli public transport service is [Egged](https://www.egged.co.il/en). There are regular buses to Eilat which you can book online. You can also download the app ‘Moovit’ for details of public transport (including from Eilat to Taba border crossing), or ‘Gett’ to book private taxis.
+Other commercial travel options are still available through Jordan and Egypt. For those eligible to travel to Egypt via Taba Border Crossing, transport services continue to operate from major cities to Eilat. You can check ‘entry requirements’ below. The primary Israeli public transport service is [Egged](https://www.egged.co.il/en). There are regular buses to Eilat which you can book online. You can also download the app ‘Moovit’ for details of public transport (including from Eilat to Taba border crossing), or ‘Gett’ to book private taxis.
 
-A British Embassy team is present on the Egyptian side of the Taba border to point British Nationals to options for onward travel to Sharm El-Sheikh Airport.
+UK Government officials are present on the Egyptian side of the Taba border to point British Nationals to options for onward travel.
 
 Make sure you have access to emergency supplies and essential medication. Travel within or out of Israel is at your own risk.
 
@@ -58,9 +58,17 @@ Keep your departure plans under review and ensure your travel documents are up t
 
 ## Entry to Egypt
 
-If you cross the border from Israel into Egypt at Taba, you will have to pay a ‘Sinai Tax’ of 25 US dollars per person (not applicable to children under 24 months). This is payable at the Taba Border Crossing in US dollars, cash only. The border tax exempts you from requiring an entry visa for Egypt for up to 15 days, as long as you stay within the Sinai Peninsula.
+If you plan to cross the border from Israel into Egypt at Taba, we recommend you bring at least 110 US dollars (cash) per person, with some extra US dollars in cash to cover any further expenses. Since early March 2026, border crossing charges at Taba have been subject to increases at short notice.
 
-If your stay in Sinai will exceed 15 days, or you are planning to leave the Sinai Peninsula, including to fly on from mainland airports, for example Cairo or Hurghada, you will need an entry visa. This costs 30 US dollars and can be purchased at the Taba Border Crossing on entry or at Sharm El-Sheikh airport. This entry visa also requires a letter of guarantee, which can be obtained from the travel agents located in the arrivals hall at the Taba Border Crossing, at a cost of 25 US dollars. Please note that there are no ATMs dispensing US dollars at the Taba Border Crossing. Travellers should obtain USD before travelling or in Eilat before arriving at the crossing as all payments are required in cash.
+* If staying in Taba, travellers will need to pay a border tax of 10 US dollars. The border tax allows you to obtain an entry permission stamp for a stay of up to 15 days
+* If travelling further than Taba, including to Sharm El-Sheikh, but remaining within the Sinai Peninsula, travellers will need to pay a border tax of 60 US dollars. The border tax allows you to obtain an entry permission stamp for a stay of up to 15 days
+* If travelling beyond the Sinai Peninsula, including to fly from airports such as Cairo and Hurghada, travellers will need to pay a border tax of 60 US dollars and purchase a standard entry visa for 30 US dollars. At Taba, this entry visa also requires a “letter of guarantee”, provided by travel agents and costing around 20 USD. Both the visa and the “letter of guarantee” can be purchased at the Border Crossing
+
+If travelling by car through the Taba Border Crossing you may also be required to pay 50 US dollars and additional amounts for parking.
+
+Please note that ATMs at the Taba Border Crossing are unreliable and frequently run out of cash. Travellers should obtain USD before travelling or in Eilat before arriving at the Crossing as all payments are required in cash.
+
+Border officials may ask travellers to remove hats, coats or other items of clothing, including religious clothing, as they pass through the Taba Border Crossing terminal.
 
 ## If you are in Israel and Palestine
 

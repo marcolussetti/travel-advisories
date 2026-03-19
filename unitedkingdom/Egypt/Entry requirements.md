@@ -20,9 +20,9 @@ When returning to the UK, British citizens must carry a valid [British passport]
 
 British passport holders travelling to Egypt normally need a visa.
 
-If you are staying for less than 15 days at resorts in Sharm El Sheikh, Dahab, Nuweiba or Taba, you do not need a visa. You will get a free entry permission stamp on arrival at Sharm El-Sheikh Airport. If you plan to travel outside the resorts or stay more than 15 days, you must get a visa. You can get a visa at Sharm El-Sheikh Airport or online.
+If you are arriving by air to Sharm El-Sheikh and staying for less than 15 days at resorts in Sharm El Sheikh, Dahab, Nuweiba or Taba, you do not need a visa. You will get a free entry permission stamp on arrival at Sharm El-Sheikh Airport. If you plan to travel outside the resorts or stay more than 15 days, you must get a visa. You can get a visa at Sharm El-Sheikh Airport or online.
 
-If you arrive in South Sinai by land through the Taba Border Crossing, you can get a free entry permission stamp on arrival. You must also pay a ‘Sinai Tax’ of 25 US dollars to enter through the Taba Border Crossing. If you purchase an entry visa at Taba Border Crossing, you may also need to purchase a letter of guarantee (see ‘Entering Egypt from Israel’).
+If you arrive in South Sinai by land through the Taba Border Crossing, see ‘Entering Egypt from Israel’.
 
 ### Applying for a visa
 
@@ -30,7 +30,7 @@ You can apply for a visa:
 
 * online – [getting an e-visa in advance](https://visa2egypt.gov.eg/eVisa/Home?VISTK=AMEV-QAST-XKKB-4X4J-LYML-KSS1-J4VF-B3V5-GO2U-AYIZ-4F82-1WR5-RW7O-0L87-4CZ8-9CFV) can help to prevent delays, tourist e-visas are valid for up to 3 months
 * in person or by post – apply through the [Egyptian Consulate General in the UK](https://egyptconsulate.co.uk/visas/)
-* on arrival in Egypt – approved airports have kiosks before you reach the immigration counters where you can buy a visa for 30 US dollars (cash only – Egyptian officials prefer dollars, but you may be able to pay in British pounds or euros). Visas on arrival are valid for up to 30 days.
+* on arrival in Egypt – approved airports have kiosks before you reach the immigration counters where you can buy a visa for 30 US dollars (cash only). Visas on arrival are valid for up to 30 days.
 
 British passport holders from British Overseas Territories and Crown Dependencies cannot apply online.
 
@@ -48,11 +48,17 @@ You may be denied entry if your gender expression or physical appearance does no
 
 ### Entering Egypt from Israel
 
-If you cross the border from Israel into Egypt at Taba, you will have to pay a ‘Sinai Tax’ of 25 US dollars per person (not applicable to children under 24 months). This is payable at the Taba Border Crossing in US dollars, cash only. The border tax allows you to obtain a free entry permission stamp on arrival, for a stay of up to 15 days within the Sinai Peninsula.
+If you plan to cross the border from Israel into Egypt at Taba, we recommend you bring at least 110 US dollars (cash) per person, with some extra US dollars in cash to cover any further expenses. Since early March 2026, border crossing charges at Taba have been subject to increases at short notice.
 
-If your stay in Sinai will exceed 15 days, or you are planning to travel in Egypt beyond the Sinai Peninsula, including to fly on from mainland airports, for example Cairo or Hurghada, you will also need an entry visa, in addition to paying the Sinai Tax. The entry visa costs 30 US dollars and can be purchased at the Taba Border Crossing on entry or at Sharm El-Sheikh airport. This entry visa at the Taba Border Crossing may also require a letter of guarantee, which can be obtained from the travel agents located in the arrivals hall at the Taba Border Crossing, at a cost of around 25 US dollars.
+* If staying in Taba, travellers will need to pay a border tax of 10 US dollars. The border tax allows you to obtain an entry permission stamp for a stay of up to 15 days
+* If travelling further than Taba, including to Sharm El-Sheikh, but remaining within the Sinai Peninsula, travellers will need to pay a border tax of 60 US dollars. The border tax allows you to obtain an entry permission stamp for a stay of up to 15 days
+* If travelling beyond the Sinai Peninsula, including to fly from airports such as Cairo and Hurghada, travellers will need to pay a border tax of 60 US dollars and purchase a standard entry visa for 30 US dollars. At Taba, this entry visa also requires a “letter of guarantee”, provided by travel agents and costing around 20 USD. Both the visa and the “letter of guarantee” can be purchased at the Border Crossing
 
-Please note that there are no ATMs dispensing US dollars at the Taba Border Crossing. Travellers should obtain USD before travelling or in Eilat before arriving at the crossing as all payments are required in cash.
+If travelling by car through the Taba Border Crossing, you may also be required to pay 50 US dollars, with additional charges for parking.
+
+Please note that ATMs at the Taba Border Crossing are unreliable and frequently run out of cash. Travellers should obtain US dollars before travelling or in Eilat before arriving at the Crossing as all payments are required in cash.
+
+Border officials may ask travellers to remove hats, coats or other items of clothing, including religious clothing, as they pass through the Taba Border Crossing terminal.
 
 ### Entering Egypt from Jordan
 

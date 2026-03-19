@@ -1,13 +1,19 @@
 # Warnings and insurance
 
 Still current at:
-:   31 December 2025
+:   19 March 2026
 
 Updated:
-:   30 December 2025
+:   18 March 2026
 
 Latest update:
-:   Updated information on K-ETA exemptions and entry declaration forms (‘Entry requirements’ page).
+:   Addition of information about a large-scale public event ('Warnings and insurance’ page).
+
+## Large-scale public event
+
+A large-scale public concert is scheduled to be held in Gwanghwamun Square on Saturday 21 March from 8pm to 9pm with large crowds and significant local disruptions expected. The Korean government has issued a “caution” (level 2) crisis alert from midnight on Wednesday 18 March until midnight on Saturday 21 March in the Jongro-gu and Jung-gu areas due to increased risks associated with mass crowds gathering. Visitors should pay attention to media reporting and follow the advice of local authorities.
+
+Sejong-daero will be closed to vehicles from 9pm Friday 20 March until 6am Sunday 22 March. Pedestrian access will remain open, but movement may be very restricted due to crowd control measures and crowd density. City Hall, Gwanghwamun, and Gyeongbokgung subway stations will be closed from 3pm until 10pm on Saturday 21 March. Bus routes through the area will be suspended or rerouted from Friday evening until Sunday.
 
 ## Before you travel
 

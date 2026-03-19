@@ -93,7 +93,10 @@ Find out what you can do to [prepare for and respond to extreme weather and natu
 
 ### Flooding
 
-Botswana experiences significant flooding during the rainy season from November to March. Some parts of the country become inaccessible except by 4-wheel-drive vehicles. Get local advice or hire a local driver who knows the water levels and which roads to use.
+Botswana’s rainy season, runs from November to March, bringing heavy rainfalls and risk of flash flooding. Road conditions throughout the country may be unsafe. Follow the advice of [Botswana’s Meteorological Services](https://www.facebook.com/BotswanaMet)
+and from the local authorities at [Ministry of Environment and Tourism](https://www.facebook.com/people/Ministry-of-Environment-and-Tourism-Botswana/61569658071888/).
+
+Floodings may also impact border crossings with closure at short notice. Follow the advice of [Botswana’s Unified Revenue Services](https://www.facebook.com/BotswanaUnifiedRevenueService) for latest updates on road accessibility and border opening and closure status.
 
 [Previous:Entry requirements](/foreign-travel-advice/botswana/entry-requirements)
 

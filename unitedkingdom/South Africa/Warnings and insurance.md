@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   10 February 2026
+:   19 March 2026
 
 Updated:
-:   9 February 2026
+:   18 March 2026
 
 Latest update:
-:   Removal of information about risks from flooding in Mpumalanga and Limpopo provinces, including Kruger National Park (‘Warnings and insurance’ page).
+:   Updated information on fraud and scams, nightlife and dating, driving rules and pedestrian safety and Table Mountain National Park (‘Safety and security’ page).
 
 ## Before you travel
 

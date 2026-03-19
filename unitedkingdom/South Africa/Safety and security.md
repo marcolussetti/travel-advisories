@@ -158,9 +158,9 @@ Solo and women travellers have received unwanted attention and have been assault
 
 ### Fraud and scams
 
-Be alert to the risk of scams, including through business or job opportunities, visa services or offers of romance and friendships, including on dating apps.
+Be alert to the risk of scams, including through business or job opportunities, visa services or offers of romance and friendships, including on dating apps. Do not meet up with or send money to someone you do not know or have not met in person.
 
-Card skimming and confidence scams are widespread. There has been an increase in cybercrime and internet scamming. Do not meet up with or send money to someone you do not know.
+Card skimming and confidence scams are widespread. There has been an increase in cybercrime and internet scamming, such as online shopping.
 
 If you use a visa agent, be wary of fraud. Always follow the correct visa application process through the [Department of Home Affairs](https://www.dha.gov.za/index.php/applying-for-sa-visa). Fraudsters often use embassy or other government details – check they are authentic before responding. Visa scams come in many forms and can cause great financial loss.
 
@@ -173,7 +173,7 @@ Criminals may pose as officials for financial or personal gain. If in doubt, ask
 
 Criminals use dating apps to rob, rape or sexually assault victims. Be cautious using dating apps and meet in well-lit, public places. Always tell friends or family your plans.
 
-There have been instances of drink spiking involving robbery and sexual assault with both male and female victims. Do not leave drinks unattended or accept drinks from strangers. If you think your drink has been spiked, seek immediate medical help and contact the police.
+Be wary when dealing with strangers who offer free drinks, rides or unexpected personal attention. There have been instances of drink spiking involving robbery and sexual assault with both male and female victims. If you think your drink has been spiked, seek immediate medical help and contact the police.
 
 If you have been sexually assaulted, read our advice for [survivors of rape and sexual assault in South Africa.](https://www.gov.uk/government/publications/south-africa-information-for-survivors-of-rape-and-sexual-assault/information-for-survivors-of-rape-and-sexual-assault-in-south-africa)
 
@@ -196,8 +196,6 @@ You should:
 * go on popular days such as weekends
 * not hike alone
 
-Some Cape Town residents coordinate group hikes on social media, for example [The Hikers Network](https://hikersnetwork.co.za/) and [Facebook](https://www.facebook.com/groups/hikecapetown/). The Hikers Network offer a [free safety tracking service](https://hikersnetwork.co.za/safetymountain/).
-
 ## Transport risks
 
 ### Road travel
@@ -214,7 +212,7 @@ See [Crime](/foreign-travel-advice/south-africa/safety-and-security#crime) for a
 
 ### Air Travel
 
-There have been travel delays and disruptions at airports due to power outages and, refuelling disruptions and immigration queues. Allow for adequate time when travelling Check the [Airports Company South Africa (ACSA)](https://x.com/Airports_ZA) ‘X’ feed for the latest updates.
+There have been travel delays and disruptions at airports due to power outages, refuelling disruptions and immigration queues. Allow for adequate time when travelling. Check the [Airports Company South Africa (ACSA)](https://x.com/Airports_ZA) social media pages for the latest updates or download the app.
 
 ### Driving rules and standards
 
@@ -226,17 +224,19 @@ Drive cautiously and:
 * avoid unfamiliar areas and be extra vigilant at night
 * keep fuel levels above half a tank to avoid running out
 
+In most cases, speed limits are 120km/h for highways and 60km/h on major roads.
+
 On highways, drivers overtake or undertake in any lane including the hard shoulder.
 
 On single-lane roads, trucks and slower vehicles sometimes use the hard shoulder to allow faster vehicles to overtake.
 
-At most intersections, including 4-way stops and where traffic lights are out of service, the first vehicle to arrive generally has priority. Small roundabouts (called circles) are treated the same as a 4-way stop.
+At most intersections, including crossroads (4-way stops) and where traffic lights are out of service, the first vehicle to arrive generally has priority. Small roundabouts (called circles) are treated the same as a 4-way stop.
 
 On larger roundabouts, you should give way to the right, although drivers often do not do this.
 
 ### Road conditions
 
-Road conditions are mostly very good but some roads in remote areas are less well maintained and may have potholes.
+Road conditions are generally very good but some roads in remote areas are less well maintained and may have potholes.
 
 If you are travelling to a lodge in a remote area, check road conditions with the lodge management as you may need a car with good ground clearance.
 
@@ -244,7 +244,7 @@ If you rent a car, save the emergency roadside assistance numbers. Download an o
 
 ### Pedestrian safety
 
-Pedestrian deaths account for a high number of road deaths every year in South Africa. This can happen anywhere, and the risk is higher if you cross a road away from marked crossings (jaywalking). If possible, cross at a marked crossing when it’s safe to do so.
+Pedestrian deaths account for a high number of road deaths every year in South Africa. Pedestrians often cross or walk on major roads and highways. This can happen anywhere, and the risk is higher if you cross a road away from marked crossings (jaywalking). If possible, cross at a marked crossing when it’s safe to do so.
 
 ### Public transport
 
@@ -270,20 +270,15 @@ To reduce your risk:
 
 ### Hiking and walking
 
-To stay safe while hiking, [South African National Parks (SANParks)](https://www.sanparks.org/travel) advise you:
+Do not take unnecessary risks when participating in outdoor activities and adventure tourism. Health and safety standards vary globally and may not be the same as in the UK.
 
-* save [emergency numbers](https://mcsa.org.za/activities/mountain-rescue/emergency-phone-numbers/) before you hike
-* not hike alone – go in groups of 4 or more if possible
-* choose a route that matches your ability
-* stay on busy, marked trails on popular days such as weekends
-* plan your route and allow enough time
-* carry water, food and a fully charged phone
-* dress appropriately and prepare for weather changes
-* tell someone your route and when you expect to return
+Check with the local tourism office for safe and licenced operators and consider hiring a registered guide.
+
+Where possible, insist on a receiving a safety briefing.
 
 ### Table Mountain National Park
 
-Some Table Mountain trails are strenuous, and mountain rescuers get regular calls to help hikers. Know your limits, research possible trails and select a route suitable to your fitness level. Check [SANPARKS](https://www.sanparks.org/parks/table-mountain) for the latest guidance including hazards such as wildfires. Always check the availability of the cable car if you are planning to use it.
+Table Mountain trails are strenuous, and mountain rescuers get regular calls to help hikers. Know your limits and research a route that matches  your fitness level. Plan your timing carefully; start early to avoid peak summer heat and finish before dark. Check [SANPARKS](https://www.sanparks.org/parks/table-mountain) for the latest guidance including hazards such as wildfires. Always check the availability of the cable car if you are planning to use it.  For emergencies, contact [Wilderness Search and Rescue](https://wsar.org.za) (WSAR) on +27 21 937 0300.
 
 See [Crime](/foreign-travel-advice/south-africa/safety-and-security#crime) for information on violent attacks in Table Mountain National Park.
 
@@ -298,12 +293,6 @@ If you stay outside the park, contact your lodge in advance to find out if any d
 ### Addo Elephant Park
 
 South African National Parks advise visitors travelling from Gqeberha (formerly Port Elizabeth) to Addo Elephant Park to use the N2 via Colchester, rather than the R335 via Motherwell due to crime, including vehicle high jackings. Recommended routes can be found on the [South African National Parks Website](https://www.sanparks.org/parks/addo-elephant/travel/directions-distances).
-
-Do not take unnecessary risks when participating in outdoor activities and adventure tourism. Health and safety standards vary globally and may not be the same as in the UK.
-
-Check with the local tourism office for safe and licenced operators and consider hiring a registered guide.
-
-Where possible, insist on a receiving a safety briefing.
 
 ### Swimming safety
 

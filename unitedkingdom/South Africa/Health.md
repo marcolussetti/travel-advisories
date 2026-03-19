@@ -60,7 +60,7 @@ Private rehabilitation centres are widely accessible to foreign visitors. You sh
 You should also:
 
 * do extensive research beforehand
-* choose a reputable facility that is registered with the South African [Department of Social Development](https://www.dsd.gov.za/) or the [Western Cape’s Substance Use Disorder Service](https://www.westerncape.gov.za/substance-abuse/)
+* choose a reputable facility that is registered with the South African [Department of Social Development](https://www.dsd.gov.za/) or the [Western Cape’s Substance Use Disorder Service](https://www.westerncape.gov.za/service/substance-use-disorder)
 * get the right visa for your stay
 * get the right travel insurance, including medical cover suitable for a rehabilitation stay and your particular circumstances
 

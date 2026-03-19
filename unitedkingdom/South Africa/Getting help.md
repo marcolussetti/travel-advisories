@@ -12,7 +12,7 @@ Police: 10111
 
 National Sea and Rescue Institute: 112 or +27 87 094 9774
 
-Search and Rescue: 10177 or 10111
+Wilderness Search and Rescue: +27 21 937 0300
 
 There may be other regional emergency numbers available, check locally.
 

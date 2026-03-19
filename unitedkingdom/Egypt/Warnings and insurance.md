@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   11 March 2026
+:   19 March 2026
 
 Updated:
-:   10 March 2026
+:   18 March 2026
 
 Latest update:
-:   Updated information on visa requirements and entering Egypt from Israel. New information about entering Egypt from Jordan ('Entry requirements' page).
+:   Updated information on entering Egypt from Israel (‘Entry requirements’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/670e278f30536cb92748313c/FCDO__TA__015_-_Egypt_Travel_Advice_Ed10__WEB_.jpg)
 
