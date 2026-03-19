@@ -145,6 +145,17 @@ There is a risk of [schistosomiasis](https://www.who.int/news-room/fact-sheets/d
 
 Most travellers are at low risk. Travellers should avoid contact with untreated freshwater such as lakes, rivers, and ponds (e.g., swimming, bathing, wading, ingesting). There is no vaccine or medication available to prevent infection.
 
+Travellers' diarrhea
+
+Travellers' diarrhea is the most common illness that affects travellers. Travellers are at higher risk when going to destinations with poor standards of hygiene and sanitation and/or eating at places with poor food handling practices. Young children, the elderly, and people with existing health problems are more at risk.
+
+Travellers’ diarrhea is caused by many different bacteria, viruses, and parasites. It’s easily spread from person-to-person or by consuming contaminated food or water. Besides diarrhea, symptoms usually include fever, nausea, vomiting, and stomach pain.
+
+Frequent handwashing and making careful food and beverage choices can reduce your risk of developing travellers’ diarrhea. If you become sick, the most important thing to do is to maintain hydration by drinking lots of fluids.
+
+**Learn more:**[Travellers’ diarrhea](https://www.canada.ca/en/public-health/services/diseases/diarrhea.html)  
+[Eat and drink safely outside Canada](https://travel.gc.ca/travelling/health-safety/food-water)
+
 ### Tick and insect bite prevention
 
 Many diseases are spread by bites from infected ticks and insects like mosquitoes, fleas, or flies. Before you travel, find out what types of ticks or insects are in the area, when they’re most active, and what diseases they can spread.

@@ -2,6 +2,23 @@
 
 ## Safety and security
 
+### Large public concert in Gwanghwamun Square
+
+A public concert in Gwanghwamun Square, Seoul, is scheduled for the evening of March 21, 2026. Up to 250,000 people are expected to attend. Officials have issued a “caution” level crisis alert.
+
+There will be road closures from the evening on March 20 to the morning of March 22, as well as disruptions to public transportation the day of the concert.
+
+If you’re in the affected area:
+
+* expect a heightened security presence
+* always be aware of your surroundings, including the closest exit routes
+* follow the instructions of local authorities
+
+#### Useful links
+
+* [Event overview](https://english.seoul.go.kr/welcome2026/) – Seoul Metropolitan Government
+* [Mass gatherings (large-scale events)](https://travel.gc.ca/travelling/health-safety/mass-gatherings)
+
 ### Tensions on the Korean Peninsula
 
 Tensions on the Korean Peninsula could escalate with little notice and the security situation could deteriorate suddenly. Tensions may increase before, during and after North Korean nuclear and missile tests, military exercises or as the result of incidents or military activities at or near the inter-Korean border.

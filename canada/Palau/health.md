@@ -116,14 +116,6 @@ Eating or drinking unsafe food or water, or swimming in contaminated water can m
 
 [Eat and drink safely abroad](https://travel.gc.ca/travelling/health-safety/food-water)
 
-Travellers' diarrhea
-
-[Travellers' diarrhea](https://www.canada.ca/en/public-health/services/diseases/diarrhea.html) is the most common illness affecting travellers. It is spread from eating or drinking contaminated food or water.
-
-Risk of developing travellers' diarrhea increases when travelling in regions with poor standards of hygiene and sanitation. Practise safe food and water precautions.
-
-The most important treatment for travellers' diarrhea is rehydration (drinking lots of fluids). Carry oral rehydration salts when travelling.
-
 ### Tick and insect bite prevention
 
 Many diseases are spread by bites from infected ticks and insects like mosquitoes, fleas, or flies. Before you travel, find out what types of ticks or insects are in the area, when they’re most active, and what diseases they can spread.

@@ -4,7 +4,7 @@
 
 ### Tropical Cyclone Narelle
 
-Tropical Cyclone Narelle is expected to sweep Far North Queensland on March 19, 2026, before crossing the Gulf of Carpentaria and making landfall again in the Northern Territory on March 21.
+Tropical Cyclone Narelle is expected to sweep across Far North Queensland on March 20, 2026, before crossing the Gulf of Carpentaria and making landfall again in the Northern Territory on March 21.
 
 The storm is likely to bring excessive rainfall and violent winds. It may cause flash flooding and landslides and could severely disrupt the following essential services:
 
@@ -21,7 +21,7 @@ If you are in the affected areas:
 * monitor local news and weather reports
 * follow the instructions of local authorities
 
-[Warnings and incidents](https://www.bom.gov.au/warning/tropical-cyclone-advice/IDW24100) – Department of Fire and Emergency Services
+[Warnings and alerts](https://www.bom.gov.au/weather-and-climate/warnings-and-alerts) – Bureau of Meteorology
 
 ### Climate change
 

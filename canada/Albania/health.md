@@ -63,14 +63,6 @@ Hepatitis B
 
 Hepatitis B vaccination is recommended for all travellers. [Prevent hepatitis B](https://www.canada.ca/en/public-health/services/diseases/hepatitis-b/prevention-risks.html#a2) infection by practicing safe sex, only using new and sterile drug equipment, and only getting tattoos and piercings in settings that follow public health regulations and standards.
 
-Rabies 
-
-In this destination, [rabies](https://travel.gc.ca/travelling/health-safety/diseases/rabies) may be present in some wildlife species, including bats. Rabies is a deadly disease that spreads to humans primarily through bites or scratches from an infected animal.
-
-If you are bitten or scratched by an animal while travelling, immediately wash the wound with soap and clean water and see a health care professional.
-
-Before travel, discuss rabies vaccination with a health care professional. It may be recommended for travellers who will be working directly with wildlife.
-
 Measles 
 
 Measles is a serious viral infection that spreads easily. It spreads through the air, and can stay in the air for up to 2 hours. You can also get measles by direct contact with an infected person or by touching a surface with the virus on it and then touching your eyes, nose, or mouth before washing your hands.
@@ -108,6 +100,14 @@ The flu vaccine available in one hemisphere may only offer partial protection ag
 
 The flu virus spreads from person to person when they cough or sneeze or by touching objects and surfaces that have been contaminated with the virus. Clean your hands often and wear a mask if you have a fever or respiratory symptoms.
 
+Rabies 
+
+In this destination, [rabies](https://travel.gc.ca/travelling/health-safety/diseases/rabies) may be present in some wildlife species, including bats. Rabies is a deadly disease that spreads to humans primarily through bites or scratches from an infected animal.
+
+If you are bitten or scratched by an animal while travelling, immediately wash the wound with soap and clean water and see a health care professional.
+
+Before travel, discuss rabies vaccination with a health care professional. It may be recommended for travellers who will be working directly with wildlife.
+
 ### Safe food and water precautions
 
 Eating or drinking unsafe food or water, or swimming in contaminated water can make you sick while travelling. Take precautions by following these tips:
@@ -120,11 +120,14 @@ Eating or drinking unsafe food or water, or swimming in contaminated water can m
 
 Travellers' diarrhea
 
-[Travellers' diarrhea](https://www.canada.ca/en/public-health/services/diseases/diarrhea.html) is the most common illness affecting travellers. It is spread from eating or drinking contaminated food or water.
+Travellers' diarrhea is the most common illness that affects travellers. Travellers are at higher risk when going to destinations with poor standards of hygiene and sanitation and/or eating at places with poor food handling practices. Young children, the elderly, and people with existing health problems are more at risk.
 
-Risk of developing travellers' diarrhea increases when travelling in regions with poor standards of hygiene and sanitation. Practise safe food and water precautions.
+Travellers’ diarrhea is caused by many different bacteria, viruses, and parasites. It’s easily spread from person-to-person or by consuming contaminated food or water. Besides diarrhea, symptoms usually include fever, nausea, vomiting, and stomach pain.
 
-The most important treatment for travellers' diarrhea is rehydration (drinking lots of fluids). Carry oral rehydration salts when travelling.
+Frequent handwashing and making careful food and beverage choices can reduce your risk of developing travellers’ diarrhea. If you become sick, the most important thing to do is to maintain hydration by drinking lots of fluids.
+
+**Learn more:**[Travellers’ diarrhea](https://www.canada.ca/en/public-health/services/diseases/diarrhea.html)  
+[Eat and drink safely outside Canada](https://travel.gc.ca/travelling/health-safety/food-water)
 
 ### Tick and insect bite prevention
 

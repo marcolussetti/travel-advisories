@@ -169,11 +169,14 @@ Vaccination may be recommended for high-risk travellers, and should be discussed
 
 Travellers' diarrhea
 
-[Travellers' diarrhea](https://www.canada.ca/en/public-health/services/diseases/diarrhea.html) is the most common illness affecting travellers. It is spread from eating or drinking contaminated food or water.
+Travellers' diarrhea is the most common illness that affects travellers. Travellers are at higher risk when going to destinations with poor standards of hygiene and sanitation and/or eating at places with poor food handling practices. Young children, the elderly, and people with existing health problems are more at risk.
 
-Risk of developing travellers' diarrhea increases when travelling in regions with poor standards of hygiene and sanitation. Practise safe food and water precautions.
+Travellers’ diarrhea is caused by many different bacteria, viruses, and parasites. It’s easily spread from person-to-person or by consuming contaminated food or water. Besides diarrhea, symptoms usually include fever, nausea, vomiting, and stomach pain.
 
-The most important treatment for travellers' diarrhea is rehydration (drinking lots of fluids). Carry oral rehydration salts when travelling.
+Frequent handwashing and making careful food and beverage choices can reduce your risk of developing travellers’ diarrhea. If you become sick, the most important thing to do is to maintain hydration by drinking lots of fluids.
+
+**Learn more:**[Travellers’ diarrhea](https://www.canada.ca/en/public-health/services/diseases/diarrhea.html)  
+[Eat and drink safely outside Canada](https://travel.gc.ca/travelling/health-safety/food-water)
 
 Typhoid 
 
@@ -238,7 +241,8 @@ Dengue
 * Protect yourself from mosquito bites. There is no vaccine or medication available in Canada to prevent dengue.
 
 **Learn more:**  
-[Dengue](https://www.canada.ca/en/public-health/services/infectious-diseases/viral-haemorrhagic-fevers/dengue-fever.html)
+[Dengue](https://www.canada.ca/en/public-health/services/infectious-diseases/viral-haemorrhagic-fevers/dengue-fever.html)  
+[Insect bite and pest prevention](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html)
 
 Rift Valley fever
 
