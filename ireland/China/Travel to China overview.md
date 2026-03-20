@@ -6,23 +6,29 @@ High Degree of Caution
 
 ### **General Travel Advice**
 
-Any Irish citizen planning to travel to China should carefully read all relevant notices on their local Chinese Embassy or Consulate website.
-
 China has announced that until 31 December 2026, citizens of Ireland holding an ordinary Irish passport travelling to China for business, tourism, family or friends visit, exchange and transit are eligible for visa-free entry, for a duration not exceeding 30 days. Individuals who do not meet the visa-free conditions or who are official passport holders still need to apply for a visa or a visa free certificate before entering China.
 
-A valid passport is required for travel to China. Irish passports should have a minimum validity of 6 months. Passport cards cannot be used.
+A valid passport is required for travel to China, with an expiry date at least six months beyond the end of the intended period of stay. Passport cards cannot be used.
 
-Further information and relevant announcements can be found on the website of the [**Embassy of China in Dublin**](http://ie.china-embassy.gov.cn/eng/qzfw/) or obtained by contacting nearest Chinese Embassy or Consulate. See also the Entry Requirements tab on this webpage
+An online Entry Declaration, Arrival Card, must be completed within 24 hours of arrival to China. This can be done online on the [National Immigration Administration Government Service Platform](https://s.nia.gov.cn/ArrivalCardFillingPC/entry-registation-home). Alternatively, you may apply with the NIA 12367 app, which can be obtained through AliPay by typing “NIA 12367” into the search bar. If completing in advance of arrival, you should screenshot the QR Code to show on arrival.
+
+A paper version of the form is still available at the airport on arrival if needed.
+
+Further information on entry requirements and visas for China can be found on the website of the [**Embassy of China in Dublin**](http://ie.china-embassy.gov.cn/eng/qzfw/) or obtained by contacting nearest Chinese Embassy or Consulate. See also the Entry Requirements tab on this webpage.
 
 Additional information regarding visa policy can be found on the website of China’s [**National Immigration Administration**](https://en.nia.gov.cn/index.html).
 
-To restrict the spread of infectious diseases, China implements monitoring measures at ports of entry and in some cases imposes quarantine measures. People arriving to China may be tested for infectious diseases and required to undergo medical treatment directly or advised to seek medical treatment.
+Useful information on travel to China, working, studying, living, public transport and payment methods can be found on the [BEIJING CHINA-International Web Portal of Beijing](https://english.beijing.gov.cn/).
 
-Foreigners must be registered with the local Public Security Bureau (police station) **within 24 hours** of arrival in China. If staying in a hotel or hostel, they will carry out this procedure on your behalf. If staying with friends or family, you must register personally.
+Arrivals to China may be randomly tested for infectious diseases and required to undergo immediate medical treatment or advised to seek medical treatment.
 
-China can experience different degrees of severe weather throughout the year. Irish citizens are advised to check the weather for the places that they plan to travel to. They may consult [**https://severeweather.wmo.int/**](https://severeweather.wmo.int/) for up-to-date weather information.
+All visitors to China must be registered with the local Public Security Bureau (police station) **within 24 hours** of arrival in China. If staying in a hotel or hostel, they will carry out this procedure on your behalf. If staying with friends or family, you must register personally at the nearest local police station, or online via the following link: [**Accommodation Registration for Foreigners**](https://english.beijing.gov.cn/livinginbeijing/applicationfordocuments/202107/t20210719_2439278.html). Please be aware you will require a Chinese mobile number to register online.
 
-Intending visitors to China should note that English is not widely spoken in China, even in major cities.
+It is a legal requirement to carry your passport at all times when travelling in China and, if living in China, your residency card.
+
+China can experience different degrees of severe weather throughout the year. Irish citizens are advised to check the weather for the places they plan to visit. It is advised to consult [China | World Weather Information Service](https://worldweather.wmo.int/en/country.html?countryCode=1) for up-to-date weather information.
+
+Intending visitors to China should note that English is not widely spoken in China, even in major cities, visitors are advised to obtain a good translator app to assist with communication while in China.
 
 ### **Emergency Assistance**
 
@@ -36,33 +42,7 @@ Fire service 119
 
 Ambulance service 120
 
-Citizens can contact the Irish Embassy in Beijing at +86 10 85316200. For emergency consular assistance outside office hours, the duty officer in the Irish Embassy in Beijing can be contacted on +86 13801056774.
-
-Irish citizens in Shanghai and the provinces of Anhui, Jiangsu, Jiangxi and Zhejiang should contact the Consulate General in Shanghai at +86 21 60101360. For emergency consular assistance outside office hours, the duty officer in the Irish Consulate in Shanghai can be contacted on +86 13601676870.
-
-Irish citizens in Hong Kong and Macau can contact our Consulate General in Hong Kong at +852 2535 0700.
-
 Visitors may also wish to follow the Irish Embassy in China on Twitter or on the Embassy’s Chinese social media channels on Weibo and WeChat. In the event of a crisis, we will issue travel advice from [**@IrlEmbChina**](https://twitter.com/IrlEmbChina), based on updates issued by the authorities in Ireland and China.
-
-Please note in order to work in China a valid Z-visa and a valid work permit is required. You cannot work with a business, tourist or other short-stay visa. Never overstay your visa or work illegally. Immigration laws in China are strictly policed and enforced. Violations can result in severe penalties, including arrest, detention, substantial fines, deportation and a ban on re-entry to China.
-
-### **Lost Passports and Visa Overstays**
-
-Any citizen who has lost their passport must report the loss to the police, and then obtain an Emergency Travel Certificate (ETC) from the Embassy. In order to leave China, it may be necessary to have an exit visa placed in your ETC. This must be obtained from the Local Entry Exit Bureau. The estimated processing time for an exit visa is seven days.
-
-Should a foreign citizen overstay their visa, it can take up to 30 days or longer for the local authorities to process the visa overstay fine. Again, the person must be able to pay for accommodation and support themselves during this time.
-
-Irish citizens in China are advised to exercise great caution in protecting their passports from loss, theft, or damage, and to be mindful of the periods of stay allowed by their visa.
-
-### **Exit Bans in China**
-
-Chinese authorities may place an exit ban on an individual to prevent them from leaving the country. An exit ban may be placed on an individual in connection with an investigation into that individual, their family or an employer; or in a criminal or civil matter, including a business dispute. Such bans, which are distinct from detention or imprisonment, are part of the Chinese legal process and may endure for months, or longer. They are linked to the resolution of the legal process in question and it is not always evident that you are the subject of an exit ban until you try to leave the country. If you are prevented from leaving the country because of an exit ban, seek legal advice immediately. Please also contact the Irish Embassy or Consulate General for consular assistance.
-
-### **Teaching English in China**
-
-The Embassy strongly recommends that anyone who is considering teaching in China should research prospective employing schools and language centres thoroughly and ensure their bona fides. All prospective teachers should also ensure that they have the correct visa to work in a Chinese school. It is the Irish citizen and not the school who will be held responsible by the Chinese authorities if they violate the terms of their visa.
-
-When taking-up employment at a school (public or private) please ensure that your work visa (Z-visa) and work permit allow you to work in that particular establishment. If changing employer, or location, or take up any form of additional part-time employment check with the Chinese authorities whether a new visa and work permit are required.
 
 ### **Our Tips for Safe Travels:**
 

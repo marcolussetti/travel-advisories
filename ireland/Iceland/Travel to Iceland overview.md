@@ -16,10 +16,6 @@ Air travel to Iceland and operations at Keflavík International Airport remain u
 
 Visitors to the Blue Lagoon should be aware that access to the area may change at short notice. For information on access please check directly here: [**Seismic Activity | Blue Lagoon Iceland**](https://www.bluelagoon.com/seismic-activity)
 
-### **Grindavík**
-
-The town of Grindavík has reopened. Emergency responders and incident management teams continue to operate in the town to monitor the situation. Should the risk assessment of the town be changed in the future, the town may be evacuated. Police in Suðurnes underline that children must not be left unsupervised in the area. Please follow the directions of police and local authorities at all times.
-
 For the latest information and updates from authorities in English please see:
 
 * [**RÚV National News in English**](https://www.ruv.is/english)

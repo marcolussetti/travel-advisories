@@ -8,7 +8,7 @@ Latest tsunami warnings can be found on the [**South China Sea Tsunami Advisory 
 
 ### **Flooding**
 
-Flooding is common in some parts of China, particularly along the Yangtze River Basin, during the wet season (May to November). In cases of flooding, move to higher ground and wait for the flooding to abate. The Chinese military play a role in evacuating flooded areas; if affected, follow their instructions closely for your own safety. Citizens should, however, be aware, that flooding can occur in other areas as well, as was the case with the Zhengzhou floods (Henan Province) in July 2021.
+Flooding is common in some parts of China, particularly along the Yangtze River Basin, during the wet season (May to November). In cases of flooding, move to higher ground and wait for the flooding to abate. The Chinese military play a role in evacuating flooded areas; if affected, follow their instructions closely for your own safety. Citizens should, however, be aware, that flooding can occur in other areas as well, and should follow the advice of local authorities.
 
 ### **Typhoons**
 

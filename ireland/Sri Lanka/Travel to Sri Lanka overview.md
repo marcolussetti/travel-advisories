@@ -6,9 +6,19 @@ High Degree of Caution
 
 ### **Travel Alert**
 
+#### **Fuel Shortage**
+
+**As a result of the ongoing conflict in the Middle East and Gulf region, Sri Lanka is experiencing significant fuel shortages. To manage fuel supply, non-essential government services are not operational on Wednesdays, which may affect access to public services.**
+
+**The Sri Lankan government has implemented special arrangements to ensure fuel access for service providers in the tourist sector.**
+
+**Irish Citizens in Sri Lanka are advised to monitor local media and government announcements for updates.**
+
+**The Sri Lankan Tourist Hotline number is 1912.**
+
 #### **Air Travel Disruption**
 
-There is significant disruption to travel across the Middle East and Gulf regions, including airspace closures, delayed and cancelled flights. The Sri Lankan government have announced a free seven-day visa extension for foreign visitors who are unable to leave the country due to flight cancellations linked to the ongoing crisis in the Middle East.
+There is significant disruption to travel across the Middle East and Gulf regions, including airspace closures, delayed and cancelled flights. The Sri Lankan government have announced a free fourteen-day visa extension for foreign visitors who are unable to leave the country due to flight cancellations linked to the ongoing crisis in the Middle East.
 
 Irish citizens are advised to:
 
@@ -34,10 +44,6 @@ The south coast of Sri Lanka remains largely unaffected and is operating as norm
 Sri Lanka Tourism has a 24-hour hotline available on 1912 and Disaster Management Centre (DMC) for road related issues (landslides) is 177.
 
 Irish citizens are advised to monitor local news updates, follow the instructions of local authorities and contact their airlines or tour operators for up to date information.
-
-#### **Honorary Consulate in Colombo**
-
-We regret that our Honorary Consulate in Colombo is temporarily closed and cannot provide consular services. Irish citizens in Sri Lanka in need of assistance are advised to contact the Embassy of Ireland in New Delhi.
 
 #### **Political and Economic Situation**
 
