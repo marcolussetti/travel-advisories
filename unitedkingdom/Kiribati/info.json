@@ -1,11 +1,11 @@
 {
     "name": "Kiribati",
-    "update_reason": "New information about travel disruption ('Warnings and insurance' page).",
+    "update_reason": "Updated information about global travel impacts due to escalation in the Middle East (\u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Kiribati/Warnings and insurance.md",
-            "update_date": "2026-03-06T16:42:29+00:00"
+            "update_date": "2026-03-19T14:02:38+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Kiribati/Getting help.md"
         }
     ],
-    "update_date": "2026-03-06T16:42:29+00:00"
+    "update_date": "2026-03-19T14:02:38+00:00"
 }

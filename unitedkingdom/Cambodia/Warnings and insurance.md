@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   3 February 2026
+:   20 March 2026
 
 Updated:
-:   2 February 2026
+:   19 March 2026
 
 Latest update:
-:   FCDO now advises against all but essential travel to within 20km from the land border with Thailand.
+:   New information about global travel impacts due to escalation in the Middle East (‘Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/6980b459ec71a16669612e19/FCDO__TA__085_-_Cambodia_Travel_Advice_Ed7__WEB_.jpg)
 
@@ -22,6 +22,17 @@ FCDO advises against all but essential travel to within 20km from the lan
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/cambodia/safety-and-security#terrorism).
 
+## Global travel impacts due to escalation in the Middle East
+
+Escalation in the Middle East has caused widespread travel disruption, including airspace closures, delayed and cancelled flights.
+
+Your travel plans may be affected, even if your destination is not in the Middle East. Before you travel:
+
+* check travel advice for any countries or territories you are transiting through
+* check for the latest updates from your airline or tour operator before travelling
+* review your travel insurance policy for coverage before you travel
+* monitor local and international media for the latest information and sign up for travel advice email alerts
+
 ## Border with Thailand
 
 Heavy fighting along parts of the Thailand and Cambodia border, including the use of airstrikes, rocket and artillery fire is ongoing. While most military activity is focused in the contested areas, strikes have happened more than 50km from the border. Targets have been military but have also included infrastructure such as bridges.
@@ -30,7 +41,7 @@ Land borders and crossings between Cambodia and Thailand continue to be suspende
 
 There are also unexploded landmines in the border area.
 
-We advise against travel to the affected land border areas. All travellers to Cambodia should remain alert and follow advice of local authorities.
+FCDO advises against all but essential travel to within 20km from the land border with Thailand. All travellers to Cambodia should remain alert and follow advice of local authorities.
 
 ## Before you travel
 

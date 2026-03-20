@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   18 March 2026
+:   20 March 2026
 
 Updated:
-:   17 March 2026
+:   19 March 2026
 
 Latest update:
-:   New information about smoking and e-cigarettes and updated information about cannabis ('Warnings and insurance' and 'Safety and security' pages).
+:   Updated information about global travel impacts due to escalation in the Middle East (‘Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/6980b4383915f7123658010e/FCDO__TA__040_-_Thailand_Travel_Advice_Ed8__WEB_.jpg)
 
@@ -41,8 +41,9 @@ Find out more about [why FCDO advises against travel](/foreign-travel-advice/tha
 
 Escalation in the Middle East has caused widespread travel disruption, including airspace closures, delayed and cancelled flights.
 
-Your travel plans may be affected, even if your destination is not in the Middle East. British nationals should:
+Your travel plans may be affected, even if your destination is not in the Middle East. Before you travel:
 
+* check travel advice for any countries or territories you are transiting through
 * check for the latest updates from your airline or tour operator before travelling
 * review your travel insurance policy for coverage before you travel
 * monitor local and international media for the latest information and sign up for travel advice email alerts

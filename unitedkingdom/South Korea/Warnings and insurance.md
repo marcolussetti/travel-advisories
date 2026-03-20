@@ -1,19 +1,30 @@
 # Warnings and insurance
 
 Still current at:
-:   19 March 2026
+:   20 March 2026
 
 Updated:
-:   18 March 2026
+:   19 March 2026
 
 Latest update:
-:   Addition of information about a large-scale public event ('Warnings and insurance’ page).
+:   New information about global travel impacts due to escalation in the Middle East (‘Warnings and insurance’ page).
 
 ## Large-scale public event
 
 A large-scale public concert is scheduled to be held in Gwanghwamun Square on Saturday 21 March from 8pm to 9pm with large crowds and significant local disruptions expected. The Korean government has issued a “caution” (level 2) crisis alert from midnight on Wednesday 18 March until midnight on Saturday 21 March in the Jongro-gu and Jung-gu areas due to increased risks associated with mass crowds gathering. Visitors should pay attention to media reporting and follow the advice of local authorities.
 
 Sejong-daero will be closed to vehicles from 9pm Friday 20 March until 6am Sunday 22 March. Pedestrian access will remain open, but movement may be very restricted due to crowd control measures and crowd density. City Hall, Gwanghwamun, and Gyeongbokgung subway stations will be closed from 3pm until 10pm on Saturday 21 March. Bus routes through the area will be suspended or rerouted from Friday evening until Sunday.
+
+## Global travel impacts due to escalation in the Middle East
+
+Escalation in the Middle East has caused widespread travel disruption, including airspace closures, delayed and cancelled flights.
+
+Your travel plans may be affected, even if your destination is not in the Middle East. Before you travel:
+
+* check travel advice for any countries or territories you are transiting through
+* check for the latest updates from your airline or tour operator before travelling
+* review your travel insurance policy for coverage before you travel
+* monitor local and international media for the latest information and sign up for travel advice email alerts
 
 ## Before you travel
 

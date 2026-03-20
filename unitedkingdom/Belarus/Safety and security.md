@@ -41,7 +41,7 @@ Mobile phones and other personal items may be seized and inspected by the author
 
 ## Dual nationals
 
-Belarus does not recognise dual nationality. Even if you have both Belarusian and British passports, the authorities will consider you Belarusian. In the event of arrest or detention, Belarusian authorities are unlikely to allow FCDO consular access. This limits the UK government’s ability to help you.
+Belarus does not recognise dual nationality. Even if you have both Belarusian and British passports, the authorities will consider you Belarusian. Dual British-Belarusian nationality will not reduce your risk of arrest, questioning, or detention if you have engaged in any political activity related to Belarus. In the event of arrest or detention, Belarusian authorities are unlikely to allow FCDO consular access. This limits the UK government’s ability to help you.
 
 ### Military service
 
@@ -130,7 +130,7 @@ Driving standards in Belarus are unpredictable and road conditions vary. M-class
 
 There are no direct flights between Belarus and the UK.
 
-Since mid-2021 all Belarusian airlines have been banned from flying into the UK. The EU has closed its airspace to Belarusian registered aircraft and has sanctioned Belavia the Belarusian state-owned carrier.
+Since mid-2021 all Belarusian airlines have been banned from flying into the UK. The EU has closed its airspace to Belarusian registered aircraft and has sanctioned Belavia, the Belarusian state-owned carrier.
 
 Due to international restrictions on Belavia, they may not have access to components which are needed for the safe maintenance of their aircraft.
 

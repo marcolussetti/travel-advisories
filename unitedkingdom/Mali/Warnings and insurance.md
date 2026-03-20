@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   9 January 2026
+:   20 March 2026
 
 Updated:
-:   8 January 2026
+:   19 March 2026
 
 Latest update:
-:   Updated with information about risks of terrorism ('Safety and security' page).
+:   Information about risks of terrorism (‘Warning and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/690369fee2ebc0fb39a51ffc/FCDO_TA_026_-_Mali_Travel_Advice_Ed7_WEB.jpg)
 
@@ -35,6 +35,10 @@ For more detail see [Fuel shortages](https://www.gov.uk/foreign-travel-advice/ma
 If you are a British national already in Mali, either resident or visitor, carefully consider your presence there and the risks you take by staying.
 
 Find out more about [why FCDO advises against travel](https://www.gov.uk/foreign-travel-advice/mali/safety-and-security).
+
+## Risks of terrorism
+
+There is a high threat of terrorist attack across Mali. Take particular care during elections and public holidays, and periods of national or religious significance.
 
 ## UK government support
 

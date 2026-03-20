@@ -1,11 +1,11 @@
 {
     "name": "South Korea",
-    "update_reason": "Addition of information about a large-scale public event ('Warnings and insurance\u2019 page).",
+    "update_reason": "New information about global travel impacts due to escalation in the Middle East (\u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/South Korea/Warnings and insurance.md",
-            "update_date": "2026-03-18T10:56:00+00:00"
+            "update_date": "2026-03-19T14:03:28+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/South Korea/Getting help.md"
         }
     ],
-    "update_date": "2026-03-18T10:56:00+00:00"
+    "update_date": "2026-03-19T14:03:28+00:00"
 }

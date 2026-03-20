@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   3 March 2026
+:   20 March 2026
 
 Updated:
-:   2 March 2026
+:   19 March 2026
 
 Latest update:
-:   New information about travel disruption ('Warnings and insurance' page).
+:   Updated information about global travel impacts due to escalation in the Middle East (‘Warnings and insurance’ page).
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
@@ -34,12 +34,13 @@ Find out more about [why FCDO advises against travel to these regions](/foreign-
 
 Escalation in the Middle East has caused widespread travel disruption, including airspace closures, delayed and cancelled flights.
 
-Your travel plans may be affected, even if your destination is not in the Middle East. British nationals should:
+Your travel plans may be affected, even if your destination is not in the Middle East. Before you travel:
 
+* check travel advice for any countries or territories you are transiting through
 * check for the latest updates from your airline or tour operator before travelling
 * review your travel insurance policy for coverage before you travel
 * monitor local and international media for the latest information and sign up for travel advice email alerts
-* If you have been impacted by travel disruption and need to review your Indian visa contact the nearest Foreigners Regional Registration Office (FRRO). See [Ministry of External Affairs](https://www.mea.gov.in/press-releases.htm?dtl/40836/Advisory)
+* If you have been impacted by travel disruption and need to review your Indian visa contact the nearest Foreigners Regional Registration Office (FRRO). See [e-FRRO Home](https://indianfrro.gov.in/eservices/) (website not accessible outside India).
 
 ## Before you travel
 

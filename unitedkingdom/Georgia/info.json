@@ -1,11 +1,11 @@
 {
     "name": "Georgia",
-    "update_reason": "New information about travel disruption and updated information about visa requirements ('Warnings and insurance' and 'Entry requirements' pages).",
+    "update_reason": "Updated information about global travel impacts due to escalation in the Middle East (\u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Georgia/Warnings and insurance.md",
-            "update_date": "2026-03-04T14:33:17+00:00"
+            "update_date": "2026-03-19T14:05:01+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Georgia/Getting help.md"
         }
     ],
-    "update_date": "2026-03-04T14:33:17+00:00"
+    "update_date": "2026-03-19T14:05:01+00:00"
 }

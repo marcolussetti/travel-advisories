@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 February 2026
+:   20 March 2026
 
 Updated:
-:   25 February 2026
+:   19 March 2026
 
 Latest update:
-:   FCDO now advises against all but essential travel to Bangoka International Airport in Kisangani. FDCO no longer advises against all but essential travel to the district of Kasa Vubu in Kinshasa city bordered by the N1 Triumphal Road (Stadium), Barumbu District, Lingwala district and south of the Botanical Garden ('Warnings and insurance' page).
+:   Removal of information that the Kavimvira border crossing between DRC and Burundi remains closed ('Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/699f2b9b532c9ad91ebbcd03/FCDO__TA__012_-_Democratic_Repbulic_of_the_Congo_Travel_Advice_Ed17__WEB_.jpg)
 
@@ -62,15 +62,11 @@ See details about [why FCDO advises against travel](/foreign-travel-advice/democ
 
 If you are in North or South Kivu and judge it safe to do so, and if routes are available, you should leave.
 
-M23 rebels and Rwanda Defence Forces (RDF) have captured the cities of Goma and Bukavu and the surrounding areas in North and South Kivu. The situation remains highly unstable and unpredictable. Routes to depart Goma and Bukavu are limited and may change at short notice.
-
-M23 rebels and RDF captured the city of Uvira, and then announced their withdrawal from the city in early December. As of the end of December, this remains disputed.
+M23 rebels and Rwanda Defence Forces (RDF) have captured the cities of Goma and Bukavu and the surrounding areas in North and South Kivu. M23 rebels and RDF captured the city of Uvira in December 2025, and then withdrew from the city in January 2026, though clashes continue in the surrounding areas. The situation remains highly unstable and unpredictable. Routes to depart Uvira, Goma and Bukavu are limited and may change at short notice.
 
 The border crossings between Rwanda and the DRC at Gisenyi-Goma and Ruzizi-Bukavu could close at short notice.
 
 Goma and Bukavu airports have been attacked and commercial flights are no longer operating from the airports.
-
-The Kavimvira border crossing between DRC and Burundi remains closed.
 
 Support from the UK government is severely limited outside Kinshasa. You should not assume that FCDO will be able to provide assistance to leave the country in the event of serious unrest or crisis.
 

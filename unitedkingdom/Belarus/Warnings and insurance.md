@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   16 December 2025
+:   20 March 2026
 
 Updated:
-:   15 December 2025
+:   19 March 2026
 
 Latest update:
-:   Updated information on Belarus-Poland and Belarus-Lithuania borders ('Safety and security' page).
+:   Updated information for dual British-Belarus nationals intending to travel to Belarus ('Warnings and insurance' and 'Safety and security' pages).
 
 ![](https://assets.publishing.service.gov.uk/media/621a51bb8fa8f54916f45f67/FCDO_TA_057_-_Belarus_Travel_Advice_Ed2_WEB.jpg)
 
@@ -28,7 +28,7 @@ In the unlikely event that conflict starts, FCDO’s ability to support British
 
 ### Dual nationals
 
-Belarus does not recognise dual nationality. If you have both Belarusian and British passports, the authorities will consider you Belarusian, even if you enter the country on your British passport. This limits the UK government’s ability to help you. See [Safety and security](/foreign-travel-advice/belarus/safety-and-security#dual-nationals).
+Belarus does not recognise dual nationality. If you have both Belarusian and British passports, the authorities will consider you Belarusian, even if you enter the country on your British passport. Dual British-Belarusian nationality will not reduce your risk of arrest, questioning, or detention if you have engaged in any political activity related to Belarus. This limits the UK government’s ability to help you. See [Safety and security](https://www.gov.uk/foreign-travel-advice/belarus/safety-and-security#dual-nationals).
 
 ## Travel insurance
 

@@ -65,17 +65,17 @@ Make sure the border control officer puts a stamp in your passport when you arri
 
 ## Registering with the authorities
 
-Hotels, hostels and other accommodation providers must register foreign guests with the [Foreigners Regional Registration Office](https://indianfrro.gov.in/efrro/home). Make sure your accommodation provider registers you [using the online C-form](https://indianfrro.gov.in/frro/FormC).
+Hotels, hostels and other accommodation providers must register foreign guests with the [Foreigners Regional Registration Office](https://indianfrro.gov.in/efrro/home). Make sure your accommodation provider registers you [using the online C-form](https://indianfrro.gov.in/frro/FormC). (Web pages not accessible outside India.)
 
 You will need your passport with a valid visa to get accommodation in country. British nationals who have overstayed their Indian visa have found it difficult to find accommodation.
 
-If you plan to stay in India for more than 180 days and do not hold an OCI card, you must register within 14 days of arrival with the [Foreigners Regional Registration Office](https://indianfrro.gov.in/efrro/home). You could be denied permission to leave if you do not do this.
+If you plan to stay in India for more than 180 days and do not hold an OCI card, you must register within 14 days of arrival with the [Foreigners Regional Registration Office](https://indianfrro.gov.in/efrro/home) (website not accessible outside India). You could be denied permission to leave if you do not do this.
 
 You may need to register your stay depending on the type of visa you hold, check if you need to.
 
 ## Exit requirements
 
-When you leave India, officials will check when you entered the country. If you do not have an entry stamp, for example if you have a newly issued passport or an emergency travel document, you must [apply for a special exit permit before you travel](https://boi.gov.in/boi/public/content/pages/c1c55e3a-0317-478e-8591-b1c8effc5fab). If you need to apply for an exit permit, you can only apply on the [Foreigners Regional Registration Office](https://indianfrro.gov.in/) from within India. It can take between 5 and 15 working days for straightforward applications. Factor this into your timeframe to leave India when you are booking flights.
+When you leave India, officials will check when you entered the country. If you do not have an entry stamp, for example if you have a newly issued passport or an emergency travel document, you must [apply for a special exit permit before you travel](https://boi.gov.in/boi/public/content/pages/c1c55e3a-0317-478e-8591-b1c8effc5fab). If you need to apply for an exit permit, you can only apply on the [Foreigners Regional Registration Office](https://indianfrro.gov.in/) from within India (website not accessible outside India). It can take between 5 and 15 working days for straightforward applications. Factor this into your timeframe to leave India when you are booking flights.
 
 ## Vaccine requirements
 
@@ -114,7 +114,7 @@ Information is available from:
 You need to apply for permits 3 months before your arrival. You can submit your application:
 
 * in the UK, the [High Commission of India in London](https://www.hcilondon.gov.in/) or [another Indian consulate](https://www.hcilondon.gov.in/page/consular-jurisdiction/)
-* in India, the liaison office of the state for which you need a permit or the [Foreigners Regional Registration Office (FRRO)](https://indianfrro.gov.in/efrro/home)
+* in India, the liaison office of the state for which you need a permit or the [Foreigners Regional Registration Office (FRRO)](https://indianfrro.gov.in/efrro/home) (website not accessible outside India)
 
 [Previous:Warnings and insurance](/foreign-travel-advice/india)
 

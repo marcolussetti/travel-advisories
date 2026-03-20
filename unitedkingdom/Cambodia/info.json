@@ -1,11 +1,11 @@
 {
     "name": "Cambodia",
-    "update_reason": "FCDO now advises against all but essential travel to within 20km from the land border with Thailand.",
+    "update_reason": "New information about global travel impacts due to escalation in the Middle East (\u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Cambodia/Warnings and insurance.md",
-            "update_date": "2026-02-02T14:49:28+00:00"
+            "update_date": "2026-03-19T14:03:23+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Cambodia/Getting help.md"
         }
     ],
-    "update_date": "2026-02-02T14:49:28+00:00"
+    "update_date": "2026-03-19T14:03:23+00:00"
 }

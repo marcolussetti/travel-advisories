@@ -1,27 +1,24 @@
 # Warnings and insurance
 
 Still current at:
-:   6 March 2026
+:   20 March 2026
 
 Updated:
-:   5 March 2026
+:   19 March 2026
 
 Latest update:
-:   New information about travel disruption ('Warnings and insurance' page).
+:   Updated information about global travel impacts due to escalation in the Middle East (‘Warnings and insurance’ page).
 
-## Global travel impacts related to the situation in the Middle East
+## Global travel impacts due to the situation in the Middle East
 
-Recent developments in the Middle East have led to airspace restrictions and widespread disruption to international flight schedules, including delays, cancellations, and rerouting. These disruptions may affect your travel plans even if your journey does not transit the Middle East. This includes travel to and from the Maldives.
+Escalation in the Middle East has caused widespread travel disruption, including airspace closures, delayed and cancelled flights. This may impact connections to and from the Maldives.
 
-British nationals should:
+Your travel plans may be affected, even if your destination is not in the Middle East. Before you travel:
 
-* Check for the latest updates from your airline or tour operator before travelling.
-* Review your travel insurance policy to confirm what is covered.
-* Monitor local and international media and sign up for FCDO travel advice email alerts.
-
-Large numbers of flights that transit Middle Eastern airspace have been cancelled, rerouted, or significantly delayed. This may impact connections to and from the Maldives.
-
-British nationals currently in the Maldives should contact their airline directly for the latest information.
+* check travel advice for any countries or territories you are transiting through
+* check for the latest updates from your airline or tour operator before travelling
+* review your travel insurance policy to confirm what is covered
+* monitor local and international media and sign up for FCDO travel advice email alerts
 
 Hotline number Ministry of Tourism and Environment: +9609423131
 

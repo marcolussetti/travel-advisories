@@ -37,7 +37,7 @@ Make sure your visa is approved before arriving in Indonesia, otherwise you may 
 
 ### All Indonesia Declaration Form
 
-Before travelling to Indonesia, fill out the online customs and health declaration on the [All Indonesia arrival card website](https://www.gov.uk/guidance/indonesia-visa-overstay-and-deportation) or app within 72 hours of arrival. After completing the form, you can use the All Indonesia app to apply for a visa.
+Before travelling to Indonesia, fill out the online customs and health declaration on the [All Indonesia arrival card website](https://allindonesia.imigrasi.go.id/) or app within 72 hours of arrival. After completing the form, you can use the All Indonesia app to apply for a visa.
 
 ### Extending your visa or residence permit
 
