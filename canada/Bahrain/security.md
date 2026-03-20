@@ -8,6 +8,8 @@ There is ongoing military activity in the region. Missiles, drones and other pro
 
 Avoid the vicinity of military installations, critical infrastructure, and stay away from US government facilities.
 
+Filming, taking photos and online sharing of images of military installations, activity or damage could lead to severe penalties pursuant to the enforcement of local laws and regulations across the region.
+
 Our ability to provide consular services to Canadians during an active conflict is limited, with priority given to the provision of essential services. Prepare contingency plans that don't rely on the Government of Canada's assistance for departure.
 
 Bahraini airspace is closed until further notice. If you assess that you can safely leave Bahrain via the King Fahd Causeway to Saudi Arabia, you should do so at the earliest opportunity. The Causeway may experience intermittent closures. Verify the status of the border crossing before you travel.
@@ -17,7 +19,6 @@ You should:
 * be vigilant and follow the instructions of local authorities at all times, including any orders to shelter in place
 * ensure that your travel documents and those of your family are up to date
 * monitor local and international media to stay informed of the rapidly evolving situation
-* avoid taking or sharing videos or photos of any military activity or damage, including missiles or drones, as possessing or sharing such content could lead to fines, imprisonment or deportation
 * sign up with the [Registration of Canadians Abroad](https://travel.gc.ca/travelling/registration) service to receive important additional information, specific to your location, about the ongoing situation and any available departure options
 
 [Canada's response to the situation in the Middle East](https://www.international.gc.ca/world-monde/issues_development-enjeux_developpement/response_conflict-reponse_conflits/crisis-crises/middle-east-moyen-orient.aspx?lang=eng)

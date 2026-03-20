@@ -54,11 +54,21 @@ Tourist visa: required
 Business visa: required  
 Student visa: required
 
-Canadian passport holders can obtain an electronic visa prior to travel or upon arrival in Egypt.
+Canadian passport holders can obtain an electronic visa prior to travel or a 30-day tourist visa on arrival in Egypt, paid in cash in U.S. dollars.
+
+If you plan to enter Egypt via the Taba land border crossing:
+
+* you can get a 14-day, visa-free entry stamp if you plan on staying within the Sinai Peninsula, which includes Sharm El Sheikh
+* if you plan on travelling outside of the Sinai, you may either apply for an electronic visa prior to your arrival or obtain a 30-day visa on arrival directly at the Taba land border crossing
+
+All visas issued on arrival must be paid in cash, in U.S. dollars only. Entry may cost between $60 and $100 in USD per person depending on your travel plans.
 
 If you wish to extend your stay in Egypt, contact the Immigration Authority of Egypt. You may be fined upon departure if you overstay your 30-day visa period without proper authorization.
 
-[Foreign Representatives in Canada](https://www.international.gc.ca/protocol-protocole/reps.aspx?lang=eng&_ga=2.139854768.2040528142.1696379474-967478128.1673447843)
+#### Useful links
+
+* [Obtain an electronic visa](https://visa2egypt.gov.eg/eVisa/Home?VISTK=20XI-3MO4-4B66-97OS-NQQ4-Z0JK-F7G3-TVNK-WCH7-D7IV-7ZGE-ZAZL-DYFV-OM85-8BYG-6UGB) – Egypt e-visa portal
+* [Foreign Representatives in Canada](https://www.international.gc.ca/protocol-protocole/reps.aspx?lang=eng&_ga=2.139854768.2040528142.1696379474-967478128.1673447843)
 
 ### Entry and exit stamps
 

@@ -32,9 +32,16 @@ The Philippines is located on the Pacific Ring of Fire and experiences regular s
 
 #### Volcanoes
 
-There are several active and potentially active volcanoes in the Philippines, mainly on Luzon island.
+The Philippine Institute of Volcanology and Seismology (PHIVOLCS) monitors several active and potentially active volcanoes in the Philippines that show signs of a possible eruption.
 
-Taal is one of the main active volcanoes in Batangas on Luzon Island. It continuously shows signs of a possible eruption. The Philippine Institute of Volcanology and Seismology is constantly monitoring the Taal Volcano. Local authorities may raise alert levels and issue evacuation orders on short notice.
+PHIVOLCS has set up permanent danger zones (PDZs) within a specified radius of the summits of several volcanoes:
+
+* the entire volcanic island of Taal in Batangas, Luzon Island (no entry)
+* Kanlaon volcano in Negros Occidental and Negros Oriental Provinces (4 km)
+* Mayon volcano in Albay Province (6 km)
+* Bulusan volcano in Sorsogon Province (4 km)
+
+Local authorities may raise alert levels and issue evacuation orders on short notice.
 
 Volcanic activity may escalate suddenly. Volcanic ash clouds may cause disruptions to domestic and international flights.
 

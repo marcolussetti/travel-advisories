@@ -10,6 +10,8 @@ Drones, missiles and other projectiles have struck targets in Iran. Further atta
 
 You should shelter in a hardened structure away from windows in case air raid sirens activate.
 
+Filming, taking photos and online sharing of images of military installations, activity or damage could lead to severe penalties pursuant to the enforcement of local laws and regulations across the region.
+
 Iranian airspace is closed until further notice. If you travel to one of Iran's border crossings to leave the country, you do so at your own risk.
 
 The following border crossing options are available:
@@ -37,6 +39,15 @@ If you’re a Canadian passport holder seeking to enter Türkiye visa-free (for 
 You must have valid travel documents. If you have dual Canadian-Iranian citizenship, Iranian border officials may require you to present your Iranian passport, and if they do, they may prevent you from leaving Iran.
 
 If you are denied departure by Iranian authorities, Canada is unable to communicate with them or intervene on your behalf.
+
+You should also:
+
+* be vigilant and follow any orders to shelter in place or evacuate
+* ensure that your travel documents and those of your family are up to date
+* monitor local and international media to stay informed of the rapidly evolving situation
+* sign up with the [Registration of Canadians Abroad](https://travel.gc.ca/travelling/registration) to receive important additional information, specific to your location, about the ongoing situation and any available departure options
+
+[Canada's response to the situation in the Middle East](https://www.international.gc.ca/world-monde/issues_development-enjeux_developpement/response_conflict-reponse_conflits/crisis-crises/middle-east-moyen-orient.aspx?lang=eng)
 
 ### Demonstrations
 

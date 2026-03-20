@@ -8,6 +8,8 @@ Drones, missiles and other projectiles could strike targets in Israel and Palest
 
 Avoid the vicinity of military installations, critical infrastructure and stay away from US government facilities.
 
+Filming, taking photos and online sharing of images of military installations, activity or damage could lead to severe penalties pursuant to the enforcement of local laws and regulations across the region.
+
 There could be disruptions to movement and transportation due to military debris falling in various locations.
 
 Ben Gurion International Airport has reopened. Some outbound flights on Israeli airlines have resumed as of March 8, 2026, however availability may be limited.
@@ -30,7 +32,7 @@ Land border crossings with Jordan and Egypt remain open but could be impacted at
 
 You must [obtain a visa online](https://moi.gov.jo/EN/Pages/Visa_E_Applications) before crossing into Jordan.
 
-Verify the status of border crossings before travelling there.
+Verify the status of border crossings and make sure you meet the entry requirements of [Egypt](https://travel.gc.ca/destinations/egypt#entryexit) or [Jordan](https://travel.gc.ca/destinations/jordan#entryexit) before travelling there.
 
 Our ability to provide consular services to Canadians during an active conflict is likely to be limited. If you are in Israel or Palestine, prepare contingency plans that don't rely on the Government of Canada's assistance for evacuations or assisted departures.
 

@@ -12,6 +12,8 @@ There is ongoing military activity in the region. Missiles, drones and other pro
 
 Avoid the vicinity of military installations, critical infrastructure and stay away from US government facilities.
 
+Filming, taking photos and online sharing of images of military installations, activity or damage could lead to severe penalties pursuant to the enforcement of local laws and regulations across the region.
+
 Jordanian airspace is currently open, but it may close on short notice and flights could be disrupted. You should consider leaving Jordan while commercial options remain available.
 
 You should:

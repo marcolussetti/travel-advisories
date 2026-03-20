@@ -8,6 +8,8 @@ There is ongoing military activity in the region. Missiles, drones and other pro
 
 Avoid the vicinity of military installations, critical infrastructure and stay away from US government facilities.
 
+Filming, taking photos and online sharing of images of military installations, activity or damage could lead to severe penalties pursuant to the enforcement of local laws and regulations across the region.
+
 Our ability to provide consular services to Canadians during an active conflict is limited, with priority given to the provision of essential services. Prepare contingency plans that don’t rely on the Government of Canada’s assistance for departure.
 
 Saudi airspace is open, with some regional restrictions. Commercial flights are operating; however, availability may be limited.
@@ -21,7 +23,6 @@ You should:
 * follow the instructions of local authorities at all times
 * ensure that your travel documents and those of your family are up to date
 * monitor local and international media to stay informed of the rapidly evolving situation
-* avoid taking or sharing videos or photos of any military activity or damage, including missiles or drones, as possessing or sharing such content could lead to fines, imprisonment or deportation
 * make sure that you have access to water, food, medicine and essentials
 * sign up with the [Registration of Canadians Abroad](https://travel.gc.ca/travelling/registration) service to receive important additional information, specific to your location, about the ongoing situation and any available departure options
 

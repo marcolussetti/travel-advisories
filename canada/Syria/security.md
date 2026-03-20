@@ -8,6 +8,8 @@ There is ongoing military activity in the region. Missiles, drones and other pro
 
 Avoid the vicinity of military installations.
 
+Filming, taking photos and online sharing of images of military installations, activity or damage could lead to severe penalties pursuant to the enforcement of local laws and regulations across the region.
+
 There could be disruptions to movement and transportation, including:
 
 * border closures or restrictions

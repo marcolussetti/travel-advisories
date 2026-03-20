@@ -8,6 +8,8 @@ There is ongoing military activity in the region. Missiles, drones and other pro
 
 Avoid the vicinity of military installations and critical infrastructure.
 
+Filming, taking photos and online sharing of images of military installations, activity or damage could lead to severe penalties pursuant to the enforcement of local laws and regulations across the region.
+
 Our ability to provide consular services to Canadians during an active conflict is limited, with priority given to the provision of essential services. Prepare contingency plans that don’t rely on the Government of Canada’s assistance for departure.
 
 Yemen’s airspace is open.
