@@ -119,7 +119,7 @@ If you’re an unmarried woman who gives birth in Saudi Arabia, you may have dif
 
 ### Filming, photography and other media restrictions
 
-It is illegal to film or photograph government buildings, military installations and palaces.
+It is illegal to film or photograph government buildings, diplomatic premises, military installations and palaces.
 
 If you produce, transmit or distribute printed, digital, audio or video information, you must get permission from the [General Authority of Media Regulation (GCAM)](https://www.gcam.gov.sa/) in advance. If you do not, you could get a large fine and a prison sentence.
 

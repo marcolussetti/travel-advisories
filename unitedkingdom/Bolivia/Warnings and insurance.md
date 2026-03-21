@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   1 March 2026
+:   21 March 2026
 
 Updated:
-:   28 February 2026
+:   20 March 2026
 
 Latest update:
-:   Removal of information about a cargo aircraft crash near El Alto International Airport (‘Warnings and insurance’ page).
+:   Addition of information about Local Elections on Sunday 22 March with transport restrictions and temporary ban on drinking alcohol until midnight on Sunday 22 March (‘Warnings and insurance’ Page)
 
 ![](https://assets.publishing.service.gov.uk/media/672ccc5a62831268b0b1a328/FCDO__TA__098_-_Bolivia_Travel_Advice_Ed1__WEB_.jpg)
 
@@ -21,6 +21,14 @@ Your travel insurance could be invalidated if you travel against advice from the
 FCDO advises against all but essential travel to the Chapare region of Cochabamba Department including Villa Tunari and highway routes 4 and 24 that pass through Chapare.
 
 Find out more about [why FCDO advises against travel](https://www.gov.uk/foreign-travel-advice/bolivia/safety-and-security).
+
+## Local Elections
+
+Local Elections will be held on Sunday 22 March.  Follow the advice of local authorities.
+
+Domestic flights have been cancelled and there will be no transport until 6pm on Sunday evening.  Some taxis will have special permits to travel to the airport.  International flights will not be affected.
+
+It is forbidden to drink alcohol from Friday 20 March until Midnight on Sunday 22 March.
 
 ## Before you travel
 

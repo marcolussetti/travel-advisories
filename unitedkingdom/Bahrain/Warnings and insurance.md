@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   15 March 2026
+:   21 March 2026
 
 Updated:
-:   14 March 2026
+:   20 March 2026
 
 Latest update:
-:   Updated information about regional escalation (‘Warnings and insurance’ page).
+:   Addition of information about regional escalation (‘Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/69a367d7286b6fdc85daeb02/Bahrain_Travel_Advice_Ed1__WEB_.jpg)
 
@@ -28,9 +28,9 @@ Let the UK government know you’re in Bahrain, [register your presence](https:/
 
 Regional escalation poses significant security risks and has led to travel disruption.
 
-Stay away from areas around security or military facilities and US government facilities.
+Stay away from areas around security or military facilities and US facilities and institutions.
 
-Iran continues to strike civilian infrastructure across the region such as hotels, roads, bridges, energy facilities, oil production sites, water systems, and airports.
+Iran continues to strike civilian infrastructure across the region such as ports, hotels, roads, bridges, energy facilities, oil production sites, water systems, and airports.
 
 Follow the instructions of the local authorities and monitor local and international media for the latest information.
 

@@ -1,11 +1,11 @@
 {
     "name": "Bolivia",
-    "update_reason": "Removal of information about a cargo aircraft crash near El Alto International Airport (\u2018Warnings and insurance\u2019 page).",
+    "update_reason": "Addition of information about Local Elections on Sunday 22 March with transport restrictions and temporary ban on drinking alcohol until midnight on Sunday 22 March  (\u2018Warnings and insurance\u2019 Page)",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Bolivia/Warnings and insurance.md",
-            "update_date": "2026-02-28T16:11:02+00:00"
+            "update_date": "2026-03-20T18:48:40+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Bolivia/Getting help.md"
         }
     ],
-    "update_date": "2026-02-28T16:11:02+00:00"
+    "update_date": "2026-03-20T18:48:40+00:00"
 }

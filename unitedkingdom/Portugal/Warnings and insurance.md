@@ -1,27 +1,15 @@
 # Warnings and insurance
 
 Still current at:
-:   20 February 2026
+:   21 March 2026
 
 Updated:
-:   19 February 2026
+:   20 March 2026
 
 Latest update:
-:   Updated information about ongoing risks following a period of severe weather conditions across Portugal (‘Warnings and insurance’ page).
+:   Updated information on staying in Portugal for longer than 90 days in exceptional circumstances (‘Entry requirements’ page).
 
 This travel advice also covers Madeira, Porto Santo and the Azores.
-
-## Potential disruption
-
-The persistent and heavy rainfall which has caused flooding in Portugal over the last few weeks has stopped. Some areas, particularly in central Portugal, continue to experience disruption, with ongoing risks from landslides, debris and damaged infrastructure. Be prepared for road closures and traffic diversions.
-
-You should:
-
-* follow the advice of local authorities
-* check the latest weather updates on the [Portuguese](https://www.ipma.pt/pt/otempo/prev.significativa/) and [European Meteorological Service website](https://www.meteoalarm.org/en/)
-* allow extra time for your journey
-
-See further information on what you can do to [prepare for and respond to extreme weather and natural hazards.](https://www.gov.uk/guidance/extreme-weather-and-natural-hazards)
 
 ## Before you travel
 

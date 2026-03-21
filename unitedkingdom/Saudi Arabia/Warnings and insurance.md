@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   18 March 2026
+:   21 March 2026
 
 Updated:
-:   17 March 2026
+:   20 March 2026
 
 Latest update:
-:   Updated information about exercising increased caution ('Warnings and insurance' page).
+:   Updated information about exercising increased caution and filming and taking photographs, and other media restrictions (‘Warnings and insurance’ and ‘Safety and security’ pages).
 
 ![](https://assets.publishing.service.gov.uk/media/69a8bbce5fc94cfb71958fb9/FCDO__TA__034_-_Saudi_Arabia_Travel_Advice_Ed7__WEB_.jpg)
 
@@ -37,11 +37,13 @@ Find out more about [why FCDO advises against travel](/foreign-travel-advice/sau
 
 ## Exercise increased caution
 
-There are reports of continued missile and drone attacks in the Eastern Province and Riyadh Province. There is a risk of shrapnel from intercepted missiles and drones falling across the region and causing further disruption.
+There are continued missile and drone attacks across Saudi Arabia. There is a risk of debris from intercepted missiles and drones falling across the region and causing further disruption. You should not approach any debris or sites that have been impacted.
 
 We advise British nationals in Saudi Arabia to exercise increased caution.
 
-If you are advised to take shelter, stay indoors or find the nearest safe building and take hard cover. An interior stairwell or a room with as few external walls or windows as possible may provide additional protection. Where available, follow advice from local authorities on how to stay safe in your location as risks may vary across Saudi Arabia.
+If you are advised to take shelter, stay indoors or find the nearest safe building and take hard cover. An interior stairwell or a room with as few external walls or windows as possible may provide additional protection. Where available, follow advice from local authorities on how to stay safe in your location, including warnings from Civil Defence authorities, as risks may vary across Saudi Arabia.
+
+It is illegal to film or photograph government buildings, diplomatic premises, military installations and palaces. You should not photograph, film or post on social media any footage of missiles, drones, interceptions or shrapnel you may see.
 
 ## Regional escalation
 
