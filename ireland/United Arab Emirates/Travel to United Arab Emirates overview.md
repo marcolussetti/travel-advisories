@@ -10,11 +10,11 @@ Avoid Non-Essential Travel
 
 **In light of the ongoing security situation in the Middle East and Gulf region, the Department of Foreign Affairs and Trade strongly advises Irish citizens against all but essential travel to the United Arab Emirates until further notice.**
 
-**Irish citizens already in the region are advised to avoid unnecessary journeys, remain vigilant, closely monitor developments and local media, and follow the advice of local authorities, including when this is to shelter in place. Irish citizens should also avoid military and security force installations.**
+**Irish citizens already in the region are advised to avoid unnecessary journeys, remain vigilant, closely monitor developments and local media, and follow the advice of local authorities. In particular, if local authorities advise you to take shelter, stay indoors or move to the nearest safe building immediately. Falling debris caused by intercepts is a significant risk, and you are safest inside a secure structure. Irish citizens should also avoid military and security force installations.**
 
-**While UAE airspace remains officially closed, a limited number of flights are departing Abu Dhabi Zayed International Airport and Dubai DXB. Further commercial options are expected to become available in the coming days, including directly to Dublin. Transit through UAE airports for onward travel is currently limited and may be subject to change at short notice.**
+**While UAE airspace remains limited, a number of flights are departing Abu Dhabi Zayed International Airport and Dubai DXB direct to Dublin. Transit through UAE airports for onward travel is currently limited and may be subject to change at short notice. Citizens should contact their airline directly for the latest updates.**
 
-**With significant disruption to travel set to remain across the region, citizens traveling to or through the UAE should contact their airline directly for the latest updates.**
+**With significant disruption to travel set to remain across the region, citizens are advised to avoid all but essential travel to or transit through the UAE or Qatar.**
 
 Irish citizens in need of consular assistance should contact the Embassy of Ireland in the United Arab Emirates on +971 2 495 8200.
 

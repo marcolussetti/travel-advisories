@@ -4,7 +4,7 @@ Remember, the local laws apply to you as a visitor and it is your responsibility
 
 ### **Muslim Culture**
 
-Pakistan is an Islamic Republic and you should respect local traditions, customs, laws and religions. Dress conservatively; men and women should cover their shoulders and legs when in public. Women should cover their heads when entering mosques or other holy places, and when travelling in more rural areas.
+Pakistan is an Islamic Republic, and you should respect local traditions, customs, laws and religions. Dress conservatively; men and women should cover their shoulders and legs when in public. Women should cover their heads when entering mosques or other holy places, and when travelling in more rural areas.
 
 ### **Ramadan**
 

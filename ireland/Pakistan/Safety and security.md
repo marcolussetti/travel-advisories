@@ -1,26 +1,12 @@
 ## Safety and security
 
-Following a conflict in May 2025 a ceasefire was announced between Pakistan and India. However, the security situation remains potentially unstable and unpredictable. The Embassy’s travel advice advises against travel to specific parts of the country and in particular to border areas.
-
 There is a high risk of terrorism in Pakistan, including in major cities.
 
-There is an ongoing risk of regular, serious terrorism incidents throughout the provinces of Balochistan and many parts of Khyber Pakhtunkhwa, including recent large-scale terrorism incidents. Public transport hubs and areas with large gatherings should be avoided. These incidents can include sectarian violence which can be particularly prominent in Balochistan, parts of Khyber-Pakhtunkhwa and Gilgit Baltistan. Caution should always be exercised around public gatherings, around major religious festivals and during peak prayer times on Fridays. Public transport (trains / busses) should be completely avoided.
+There is an ongoing risk of regular, serious terrorism incidents throughout the provinces of Balochistan and many parts of Khyber Pakhtunkhwa, and large urban centres in Pakistan. Public transport hubs and areas with large gatherings should be avoided. These incidents can include sectarian violence which can be particularly prominent in Balochistan, parts of Khyber-Pakhtunkhwa and Gilgit Baltistan. Caution should always be exercised around public gatherings, around major religious festivals and during peak prayer times on Fridays. Public transport (trains / busses) should be completely avoided.
 
-Irish citizens in Pakistan should always exercise vigilance and caution and avoid large public gatherings. While many public demonstrations take place in Pakistan without incident, large gatherings can potentially become violent quickly.
+Irish citizens in Pakistan should always exercise vigilance and caution and avoid large public gatherings. Major political demonstrations can be called at short notice, particularly within Islamabad and other major cities. While many public demonstrations take place in Pakistan without incident, large gatherings can potentially become violent quickly. Keep informed of what is going on around you by monitoring local media and staying in contact with your local contact, hotel or tour organizer. Be aware that mobile data and internet access may be curtailed during periods of civil unrest and road networks in cities, including airport routes.may be blocked. You should make contingency plans accordingly.
 
-Major political demonstrations can be called at short notice, particularly within Islamabad and other major cities. These protests can turn violent. Protests also frequently involve significant closure of road networks in cities and including airport routes. Major road networks in and around cities and to airports may be blocked. Mobile data coverage and internet connectivity may be cut without warning.
-
-### **Unrest**
-
-The security situation in Pakistan is unstable and dangerous. Avoid all large gatherings and areas which are known to be vulnerable to unrest.
-
-### **Demonstrations**
-
-Avoid political demonstrations and large crowds assembled for political or religious purposes as there is a risk that these gatherings may turn violent. Keep informed of what is going on around you by monitoring local media and staying in contact with local contact, hotel or tour organizer. Be aware that mobile data and internet access may be curtailed during periods of civil unrest and major road networks may be blocked. You should make contingency plans accordingly.
-
-### **Terrorism**
-
-There is a high risk of terrorism in Pakistan. In addition to an established pattern of terrorist attacks on military and Government installations, there have been indiscriminate terrorist attacks on public places and these have resulted in large numbers of casualties. Locations frequented by Western nationals - hotels, restaurants, shopping centres and diplomatic Missions – have been targeted.
+Following a conflict in May 2025 a ceasefire was announced between Pakistan and India. The potential for a future escalation in hostilities persists, particularly in border regions and in the Pakistan-administered Kashmir region. Conflict between Afghanistan and Pakistan has also resulted in periods of serious cross-border clashes and violence. Except for official border crossing points, foreign nationals are not allowed to travel within certain distances of Pakistan’s international borders.
 
 ### **Kidnapping**
 
@@ -35,7 +21,7 @@ The threat of kidnap of foreign nationals across Pakistan remains high. Kidnappe
 
 ### **Crime**
 
-Crime levels in Pakistan are high, especially in Karachi and much of Baluchistan, rural Sindh and the Khyber Pakhtunkhwa, including the former FATA (Federally-Administered Tribal Areas), have a high incidence of lawlessness.
+Crime levels in Pakistan are high, especially in Karachi and much of Baluchistan, rural Sindh and Khyber Pakhtunkhwa, including the former FATA (Federally-Administered Tribal Areas), have a high incidence of lawlessness.
 
 Fraud with payment cards and robberies at ATMs are widespread. Do not use an ATM if you see anything suspicious nearby. If you use Wi-Fi from open networks, e.g. at the airport, in cafes or in hotels, you may be exposed to hacking.
 

@@ -2,9 +2,7 @@
 
 ### **Visa**
 
-Irish citizens require a visa to enter Pakistan. Irish citizens may apply for a visa online through the Pakistani Government’s Official Visa Portal: [**https://visa.nadra.gov.pk/**](https://visa.nadra.gov.pk/)
-
-Irish passports must have six months validity.
+Irish citizens require a visa to enter Pakistan. Irish citizens may apply for a visa online through the Pakistani Government’s Official Visa Portal: [**https://visa.nadra.gov.pk/**Irish](https://visa.nadra.gov.pk/Irish) passports must have six months validity.
 
 ### **Passport**
 

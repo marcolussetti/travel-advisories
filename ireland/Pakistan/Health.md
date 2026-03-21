@@ -10,7 +10,7 @@ Check with a doctor well in advance of travelling to see if any vaccinations are
 
 ### **Typhoid**
 
-Typhoid vaccination is recommend for all travellers from Ireland to typhoid-endemic countries, including Pakistan. In addition, travellers should be aware of precautions to take to reduce their risk of acquiring typhoid infection including:
+Typhoid vaccination is recommended for all travellers from Ireland to typhoid-endemic countries, including Pakistan. In addition, travellers should be aware of precautions to take to reduce their risk of acquiring typhoid infection including:
 
 * wash hands before eating
 * avoid ice and drink only bottled water
