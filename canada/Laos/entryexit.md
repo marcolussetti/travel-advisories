@@ -46,11 +46,20 @@ Tourist visa: required 
  Business visa: required   
  Student visa: required
 
-If you plan to enter Laos through Wattay International Airport or the First Lao-Thai Friendship Bridge, you can obtain an electronic tourist visa in advance for a fee.
+A Lao electronic visa (eVisa) can be used to enter the country at 9 different ports of entry. You can apply for one within 60 days of your date of entry.
 
-You can obtain a tourist visa upon arrival at Wattay International Airport, Luang Prabang International Airport, Pakse International Airport and some “international” (that is, open to all foreign nationals) border crossings. Contact the nearest Lao embassy or consulate to confirm where you can get a tourist visa. You must provide a passport photo and pay a fee to obtain a visa upon arrival.
+You can also obtain a tourist visa upon arrival at Wattay International Airport, Luang Prabang International Airport, Pakse International Airport and some “international” (that is, open to all foreign nationals) border crossings. Contact the nearest Lao embassy or consulate to confirm where you can get a tourist visa. You must provide a passport photo and pay a fee to obtain a visa upon arrival.
 
-[Electronic tourist visa](https://laoevisa.gov.la/index) – Lao Ministry of Foreign Affairs
+[Lao eVisa](https://laoevisa.gov.la/index) – Lao Ministry of Foreign Affairs
+
+### Immigration arrival and departure forms
+
+You can complete a paper immigration form upon arrival or departure, or submit an online form in advance. If you choose to complete the online form, you must submit it within 3 days before entering or exiting Laos.
+
+***Useful links***
+
+* [Immigration Arrival Register](https://www.immigration.gov.la/en/registration/arrival/arrival-info) – The Department of Immigration of Lao PDR
+* [Immigration Departure Register](https://www.immigration.gov.la/en/registration/departure/departure-info) – The Department of Immigration of Lao PDR
 
 ### Entry stamp
 

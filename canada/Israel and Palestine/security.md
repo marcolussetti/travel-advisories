@@ -12,25 +12,31 @@ Filming, taking photos and online sharing of images of military installations, a
 
 There could be disruptions to movement and transportation due to military debris falling in various locations.
 
-Ben Gurion International Airport has reopened. Some outbound flights on Israeli airlines have resumed as of March 8, 2026, however availability may be limited.
+Ben Gurion International Airport has reopened. Some outbound flights on Israeli airlines have resumed as of March 8, 2026; however availability and destinations may be limited.
 
 * Monitor flight availability and leave while commercial options remain available
 * Verify with your airline before you travel to the airport
 * Expect delays or cancellations on short notice should the situation deteriorate
 
-Land border crossings with Jordan and Egypt remain open but could be impacted at short notice. You should shelter in place, but if you wish to leave Israel via a land border crossing and believe you can do so safely, the following options are available:
+Israeli authorities reserve a number of outbound seats for foreign nationals and tourists in emergency situations. Visit their [website](https://www.gov.il/en/service/safe-passage) for more information.
+
+Land border crossings with Jordan and Egypt remain open but could be impacted at short notice. Commercial transportation options are available between major Israeli cities and Eilat, from where you can cross into Aqaba, Jordan or Taba, Egypt. Flights are operating out of both these cities as well as from Sharm El-Sheikh, Egypt.
+
+You should shelter in place, but if you wish to leave Israel via a land border crossing and believe you can do so safely, the following options are available:
 
 * to Jordan:
 
 + Jordan River/Sheikh Hussein Bridge, in the north of Israel
 + Allenby/King Hussein Bridge, near Jericho in the West Bank (Israeli passport holders are not permitted to cross at this border; only available exit option for West Bank ID holders)
-+ Yitzak/Aqaba, near Eilat in the south of Israel
-
-* To Egypt:
-
-+ Menahem Begin/Taba, from southern Israel into the Sinai Peninsula (visa available on-arrival)
++ Yitzhak/Aqaba, near Eilat in the south of Israel
 
 You must [obtain a visa online](https://moi.gov.jo/EN/Pages/Visa_E_Applications) before crossing into Jordan.
+
+* to Egypt:
+
++ Menahem Begin/Taba, from southern Israel into the Sinai Peninsula
+
+You can obtain an electronic visa before travelling to Egypt or get a visa on arrival directly at the Taba border crossing.
 
 Verify the status of border crossings and make sure you meet the entry requirements of [Egypt](https://travel.gc.ca/destinations/egypt#entryexit) or [Jordan](https://travel.gc.ca/destinations/jordan#entryexit) before travelling there.
 
@@ -45,7 +51,7 @@ You should:
 * keep the local emergency services' contact information at hand
 * monitor local and international media to stay informed of the rapidly evolving situation
 * follow the instructions of local authorities at all times, including any orders to shelter in place
-* sign up with the [Registration of Canadians Abroad](https://travel.gc.ca/travelling/registration) service to receive important additional important information, specific to your location, about the ongoing situation and any available departure options
+* sign up with the [Registration of Canadians Abroad](https://travel.gc.ca/travelling/registration) service to receive important additional information, specific to your location, about the ongoing situation and any available departure options
 
 ### Security situation in the Gaza Strip
 

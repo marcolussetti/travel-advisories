@@ -73,8 +73,8 @@
     },
     {
         "destination": "Australia",
-        "risk_level": "Take normal security precautions (with regional advisories)",
-        "last_updated": "2026-03-18T11:19:04",
+        "risk_level": "Take normal security precautions",
+        "last_updated": "2026-03-20T11:54:51",
         "details_url": "https://travel.gc.ca/destinations/australia"
     },
     {
@@ -302,7 +302,7 @@
     {
         "destination": "Cuba",
         "risk_level": "Avoid non-essential travel",
-        "last_updated": "2026-03-18T13:13:26",
+        "last_updated": "2026-03-20T11:06:22",
         "details_url": "https://travel.gc.ca/destinations/cuba"
     },
     {
@@ -512,7 +512,7 @@
     {
         "destination": "Guatemala",
         "risk_level": "Exercise a high degree of caution (with regional advisories)",
-        "last_updated": "2026-03-18T13:13:26",
+        "last_updated": "2026-03-20T14:58:16",
         "details_url": "https://travel.gc.ca/destinations/guatemala"
     },
     {
@@ -572,7 +572,7 @@
     {
         "destination": "Indonesia",
         "risk_level": "Exercise a high degree of caution (with regional advisories)",
-        "last_updated": "2026-03-18T13:13:26",
+        "last_updated": "2026-03-20T10:59:35",
         "details_url": "https://travel.gc.ca/destinations/indonesia"
     },
     {
@@ -596,7 +596,7 @@
     {
         "destination": "Israel and Palestine",
         "risk_level": "Avoid all travel",
-        "last_updated": "2026-03-19T14:45:37",
+        "last_updated": "2026-03-20T16:22:12",
         "details_url": "https://travel.gc.ca/destinations/israel-and-palestine"
     },
     {
@@ -662,7 +662,7 @@
     {
         "destination": "Laos",
         "risk_level": "Exercise a high degree of caution (with regional advisories)",
-        "last_updated": "2026-03-18T13:13:26",
+        "last_updated": "2026-03-20T14:50:11",
         "details_url": "https://travel.gc.ca/destinations/laos"
     },
     {
@@ -1322,7 +1322,7 @@
     {
         "destination": "United States",
         "risk_level": "Take normal security precautions",
-        "last_updated": "2026-03-04T14:12:02",
+        "last_updated": "2026-03-20T15:59:00",
         "details_url": "https://travel.gc.ca/destinations/united-states"
     },
     {

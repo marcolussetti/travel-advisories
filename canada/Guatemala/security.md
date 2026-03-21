@@ -4,7 +4,16 @@
 
 ### State of prevention
 
-A nationwide state of prevention is in effect until March 17, 2026. During this period, security forces have the authority to:
+A state of prevention is in effect in the following departments:
+
+* Guatemala
+* Petén
+* Escuintla
+* Izabal
+* San Marcos
+* Huehuetenango
+
+During the state of prevention, security forces have the authority to:
 
 * limit demonstrations and public and private gatherings
 * establish roadblocks and checkpoints
@@ -13,7 +22,7 @@ A nationwide state of prevention is in effect until March 17, 2026. During this 
 * dissolve gatherings or demonstrations that are not authorized or that involve weapons or violence
 * request that media outlets avoid publications that, in the authority’s judgement, encourage disruption of public order
 
-If you’re in Guatemala:
+If you’re in an affected department:
 
 * follow the instructions of local authorities
 * monitor local media to stay informed on the evolving situation

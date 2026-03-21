@@ -19,7 +19,3 @@ The features in this map do not constitute an authoritative source of geographic
 ### Australia - Take normal security precautions
 
 [Take normal security precautions](#levels "Risk Levels") in Australia.
-
-### Far North Queensland - Avoid non-essential travel
-
-[Avoid non-essential travel](#levels "Risk Levels") to Far North Queensland, from Lockhart River to Port Douglas on the east coast of Cape York Peninsula, extending westward to the Gulf of Carpentaria, due to Tropical Cyclone Narelle.

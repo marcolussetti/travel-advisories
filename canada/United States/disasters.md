@@ -2,6 +2,15 @@
 
 ## Natural disasters and climate
 
+### Flash Flood Warning in Hawaii
+
+Due to an expected imminent failure at Wahiawa Dam, a flash flood warning has been issued for Oahu. Evacuation orders are in effect for areas downstream of Wahiawa Dam, including parts of Haleiwa and Waialua.
+
+#### Useful links
+
+* [Evacuation map](https://veoci.com/v/p/dashboard/zncjcrf9pn) – Department of Emergency Management, Oahu
+* [Latest updates](https://alert.hnlalert.gov/) – Official Notification System of the City and County of Honolulu
+
 Natural disasters can occur at any time.
 
 [Plan Ahead for Disasters](https://www.ready.gov/) – U.S. Department of Homeland Security
