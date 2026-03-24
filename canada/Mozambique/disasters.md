@@ -2,23 +2,6 @@
 
 ## Natural disasters and climate
 
-Since January 2026, heavy rains have caused severe flooding and landslides, resulting in casualties and significant damage to buildings and infrastructure.
-
-Essential services are disrupted across several central and southern provinces, particularly Gaza and Maputo, including:
-
-* transportation
-* power distribution
-* telecommunication networks
-
-If you're in or around an affected area:
-
-* exercise caution and avoid flooded roads and low-lying areas
-* monitor local news and weather reports
-* confirm the status of roads with local authorities before travelling
-* follow the instructions of local authorities, including evacuation orders
-
-[Mozambique National Meteorology Institute (INAM)](https://www.inam.gov.mz/index.php/pt/) – Government of Mozambique (Portuguese only)
-
 ### Rainy season
 
 The rainy season extends from November to April. Seasonal flooding can hamper overland travel and reduce the provision of essential services. Roads may become impassable and bridges, damaged.

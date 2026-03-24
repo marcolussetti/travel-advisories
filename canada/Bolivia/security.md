@@ -2,20 +2,6 @@
 
 ## Safety and security
 
-### Departmental and municipal elections
-
-Country-wide departmental and municipal elections are scheduled for March 22, 2026.
-
-Certain restrictions will be imposed and strictly enforced before, during and after the elections. Penalties for breaking these rules may be severe, including detention until the end of the elections.
-
-These restrictions include:
-
-* a ban on public demonstrations from midnight on March 19 until 6 pm on March 22
-* prohibitions on the sale and consumption of alcohol from midnight on March 20 until noon on March 23
-* suspensions of public gatherings; vehicle traffic, including public transportation; and domestic flights on March 22
-
-While international flights will still operate on March 22, there will be a limited number of taxis authorized to drive to and from the airport.
-
 ### Roadblocks
 
 Since December 19, 2025, there is an increased risk of roadblocks in La Paz, Santa Cruz, Cochabamba and other areas due to transport strikes and demonstrations.

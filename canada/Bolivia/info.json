@@ -1,7 +1,7 @@
 {
     "name": "Bolivia",
-    "update_reason": "Safety and security \u2013 added information on departmental and municipal elections",
-    "update_date": "2026-03-19T16:43:00",
+    "update_reason": "Safety and security \u2013 removed information on departmental and municipal elections",
+    "update_date": "2026-03-23T14:53:00",
     "sections": {
         "risk": "canada/Bolivia/risk.md",
         "security": "canada/Bolivia/security.md",
