@@ -4,9 +4,9 @@
 
 The overall security situation in Tajikistan is currently stable. However, visitors should remain vigilant in public places and be alert to any security-related announcements by the police.
 
-We advise against travel to the Gorno-Badakhshan region, including the city of Khorog. The Gorno-Badakhshan region is located about 500km south-east of Dunshanbe, the capital of Tajikistan and is a restricted region for non-Tajik citizens, requiring a travel permit from the Tajik authorities. There is an ongoing risk of civil unrest in this region and the security situation can change at short notice.
+We advise travellers to be cautious while visiting to the Gorno-Badakhshan region, including the city of Khorog. The Gorno-Badakhshan region is located about 500km south-east of Dunshanbe, the capital of Tajikistan and is a restricted region for non-Tajik citizens, requiring a travel permit from the Tajik authorities. There is an ongoing risk of civil unrest in this region and the security situation can change at short notice.
 
-We advise against travel to the Tajikistan-Afghanistan border area. Armed incidents can occur between border forces and drug traffickers along the Afghan border. Neighbouring countries may unilaterally close borders temporarily.
+We strongly advise against travel to the Tajikistan-Afghanistan border area. Armed incidents can occur between border forces and drug traffickers along the Afghan border, and there has been a significant increase in terrorist attacks that have resulted in foreign nationals dying. Neighbouring countries may unilaterally close borders temporarily and without notice, affecting travel plans.
 
 ### **Demonstrations**
 
@@ -14,7 +14,11 @@ Visitors should avoid any demonstrations or large gatherings of people. If you b
 
 ### **Terrorism**
 
-Tajikistan shares a continuing threat from terrorism with other countries in Central Asia. Be vigilant in public places and look out for any security-related announcements by the police. Attacks in recent years have been indiscriminate, including in places visited by expatriates and foreign travellers.
+Tajikistan shares threats of terrorism as with other countries in Central Asia. However, the risk in Tajikistan is higher due to its proximity to Taliban-controlled Afghanistan.
+
+Terrorist groups present in Afghanistan use their location to launch external attacks on neighbouring region. In Tajikistan, recent attacks have occurred along the Afghan border, but there is also risk of an attack in public, crowded places.
+
+Be vigilant in public places and look out for any security-related announcements by the police. Attacks have been indiscriminate, including in places visited by expatriates and foreign travellers.
 
 ### **Landmines**
 
@@ -22,21 +26,21 @@ Do not venture off-road in areas immediately adjoining the Afghan, Uzbek and Kyr
 
 ### **Local Liaison**
 
-Tajikistan has not yet developed a tourist infrastructure so visitors should arrange to be met on arrival and guided by a responsible local business, NGO, tourist or other organisation.
+Tajikistan’s tourism infrastructure is less developed, so visitors should arrange to be met on arrival and guided by a tour operator, responsible local hotel, NGO, or other organisations.
 
 ### **Crime**
 
-There have been occasional muggings and petty crime against foreigners but Tajikistan’s capital city Dushanbe is relatively safe and there is little evidence of criminality directed against foreigners throughout the country. However, visitors should always take sensible precautions:
+There have been occasional muggings and petty crime against foreigners but Tajikistan’s capital city Dushanbe is relatively safe. There is little evidence of criminality directed against foreigners throughout the country. However, visitors should always take sensible precautions:
 
-* Do not carry credit cards, travel tickets and money together - leave spare cash and valuables in a safe place
-* Do not carry your passport unless absolutely necessary and leave a copy of your passport (as well as travel and insurance documents) with family or friends at home
+* Do not carry credit cards, travel tickets and money together - leave spare cash and valuables in a safe place. Avoid travelling with all your cash in one place, even on your person.
+* Do not carry your passport unless absolutely necessary and leave a copy of your passport (as well as travel and insurance documents) with family or friends at home. Travel with a copy of your passport.
 * Never leave drinks unattended in local bars and restaurants or accepted from strangers
 * Get advice from your local contacts about staying safe
 * Avoid travelling at night, particularly inter-city
 * Avoid travelling alone
 * When driving, ensure all car doors are locked
 * Lone visitors, in particular, should never accept lifts from strangers
-* In rural areas, single women should avoid going out alone at night, and may suffer harassment even during the day.
+* Single women should avoid going out alone at night, and may suffer harassment even during the day.
 
 ### **Reporting Crime**
 
@@ -62,7 +66,3 @@ Conditions are particularly treacherous in spring due to the risk of avalanches 
 If hiring a vehicle, we advise not to hand over your passport as a form of security. If allowing your passport to be photocopied, keep it in your sight at all times.
 
 Check that you have adequate insurance and read the small print of the vehicle hire contract (particularly any waiver that will come into effect if the vehicle is damaged).
-
-### **Air Safety**
-
-If planning to travel to, from and/or within Tajikistan, avoid flying on [**airlines listed under the EU operating ban**](https://transport.ec.europa.eu/transport-themes/eu-air-safety-list_en). No Western airlines fly to Tajikistan and most international flights to Dushanbe are by the state airline Tajik Air. It is not known whether maintenance procedures are always properly observed or whether passengers are covered by insurance. Tajik Air is not a member of IATA. Only two of their current aircraft (Tupolevs) are allowed to fly into EU airspace (Munich). Flights in Tajikistan may be cancelled at short notice or substantially delayed. Overloading on local flights is not uncommon.

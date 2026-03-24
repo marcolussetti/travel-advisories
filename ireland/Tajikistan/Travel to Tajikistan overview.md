@@ -10,17 +10,17 @@ Irish citizens may enter Tajikistan without a visa for up to 30 days. For more i
 
 A valid passport is required for travel to Tajikistan. Irish passports should have a minimum validity of 6 months. Passport cards cannot be used.
 
-Conflict can occur along the disputed Tajik-Kyrgyz border. Previous incidents have involved both civilians and border guards and several have involved firearms.
+There have been several incidences of violent conflict along the Tajik-Afghan border in recent months, with more than a dozen people killed. Travel to the Tajik-Afghan border region is not recommended due to the heightened risk of violence.
 
-We advise against all travel to the Gorno-Badakhshan region, including the city of Khorog, and the Kamarob Gorge in the Rasht region.
+We advise travellers to be cautious while visiting the Gorno-Badakhshan region, including the city of Khorog, and the Kamarob Gorge in the Rasht region, as there is an increased risk of civil unrest. Travellers should also be aware that this region requires a special travel permit to visit, which must be arranged for separately.
 
-Visitors to Tajikistan are advised to follow the guidance of national and local authorities and stay fully informed of what is going on by monitoring local news and social media.
+Visitors to Tajikistan are advised to follow the guidance of national and local authorities and stay fully informed of developments by monitoring local news and social media.
 
-Citizens are highly encouraged to [**register**](https://www.ireland.ie/en/dfa/overseas-travel/citizens-registration/) their travel with the Irish Embassy in Moscow, which is operating with reduced staffing at the current time.
+Citizens are highly encouraged to [**register**](https://www.ireland.ie/en/dfa/overseas-travel/citizens-registration/) their travel with the Irish Embassy in Moscow, which continues to operate with reduced staff.
 
 ### **Emergency Assistance**
 
-The best help is often close at hand so if a problem arises, try talking to your local contacts, tour operator representative or hotel management.
+The best help is often close at hand. If you encounter problems your local contacts, tour guide or hotel management should be able to assist you.
 
 Visitors can contact the emergency services in Tajikistan by dialling:
 

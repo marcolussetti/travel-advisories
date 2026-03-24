@@ -16,19 +16,19 @@ Lengthy prison sentences are imposed on those found guilty of drug possession an
 
 ### **Smoking**
 
-It is illegal to smoke in many public establishments.
+It is illegal to smoke on the street in Tajikistan.
 
 ### **Photography**
 
 Avoid taking photographs of anything that could be perceived as being of military or security interest as this could result in problems with the authorities.
 
-### **LGBT**
+### **LGBTQI+**
 
-Homosexuality is not illegal under Tajik law but is still very much frowned upon socially. Be discreet and avoid public displays of affection.
+Although same-sex relations are not illegal under Tajik law, it is still very much frowned upon socially. Be discreet and avoid public displays of affection.
 
 ### **Money**
 
-Tajikistan is a cash-only economy. Visitors should only change money at officially authorised currency exchanges. Very few establishments accept credit cards and none accept travellers’ cheques. There are only a handful of ATM machines, and none in rural areas. US dollars are the most widely accepted foreign currency; others may be difficult to exchange.
+Tajikistan is a cash-only economy. Visitors should only change money at officially authorised currency exchanges. Very few establishments accept credit cards and none accept travellers’ cheques. ATM machines are mainly found in major cities, and with close to none in rural areas. US dollars are the most widely accepted foreign currency; Euros or Russian roubles are also easy to exchange.
 
 ### **Currency**
 
