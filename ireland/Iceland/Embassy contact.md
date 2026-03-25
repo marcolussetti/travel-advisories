@@ -25,7 +25,7 @@ Fax: +47 2201 7201
 ### Honorary Consul of Ireland, Iceland
 
 Jens Thordarson   
-Tónahvarf 3, 201 Kópavogur   
+The Ocean Cluster Grandagarður 16 101   
 Reykjavík   
 Iceland
 
