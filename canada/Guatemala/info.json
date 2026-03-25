@@ -1,7 +1,7 @@
 {
     "name": "Guatemala",
-    "update_reason": "Safety and security \u2013 updated information on the state of prevention",
-    "update_date": "2026-03-20T14:58:00",
+    "update_reason": "Health \u2013 information on cutaneous and mucocutaneous leishmaniasis added",
+    "update_date": "2026-03-24T09:43:00",
     "sections": {
         "risk": "canada/Guatemala/risk.md",
         "security": "canada/Guatemala/security.md",

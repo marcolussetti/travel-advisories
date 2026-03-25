@@ -4,8 +4,8 @@
 
 ### Relevant Travel Health Notices
 
-* [Measles: Advice for travellers](https://travel.gc.ca/travelling/health-safety/travel-health-notices/504) - 13 November, 2025
-* [COVID-19 and International Travel](https://travel.gc.ca/travelling/health-safety/travel-health-notices/513) - 12 May, 2025
+* [Measles: Advice for travellers](https://travel.gc.ca/travelling/health-safety/travel-health-notices/504)
+* [COVID-19 and International Travel](https://travel.gc.ca/travelling/health-safety/travel-health-notices/513)
 
 This section has information and advice about health risks you might face when travelling. Following this advice can help reduce your risk of getting sick. Not all risks are listed here.
 
@@ -225,6 +225,18 @@ Protect yourself from midge and mosquito bites at all times. There is no vaccine
 Most travellers are at low risk. There are concerns that the Oropouche virus could be passed from a pregnant woman or pregnant person to their unborn baby, which might lead to serious problems like stillbirth or issues with the baby’s head and brain development. Pregnant women, pregnant people, or anyone planning a pregnancy should discuss the possible risks of travelling to areas with Oropouche virus with their healthcare provider. The healthcare provider may advise you to avoid nonessential travel to areas experiencing an OVD outbreak.
 
 * To find out if your destination is experiencing an ongoing OVD outbreak, check the top of the Health section for any travel health notices or outbreak monitoring alerts.
+Leishmaniasis – Cutaneous and mucocutaneous
+
+Cutaneous and mucocutaneous leishmaniasis can occur in this destination, though the risk is low for most travellers.
+
+The infection spreads through the bite of an infected sandfly. Cutaneous symptoms usually appear weeks or months after infection, and may include swollen lymph nodes and persistent skin sores and ulcers. Mucocutaneous symptoms can develop at the same time, or years later, causing nasal congestion, frequent nose bleeds, and sores in the nose or mouth.
+
+To lower your risk, protect yourself from sandfly bites. Sandflies are most active between sunset and sunrise in rural, forested and some urban areas.
+
+There is no vaccine or medication to prevent infection with the parasite that causes leishmaniasis.
+
+**Learn more:**   
+[Leishmaniasis](https://www.canada.ca/en/public-health/services/diseases/leishmaniasis.html)
 
 ### Animal precautions
 

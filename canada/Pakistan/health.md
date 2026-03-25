@@ -4,11 +4,11 @@
 
 ### Relevant Travel Health Notices
 
-* [Extensively drug-resistant typhoid in Pakistan](https://travel.gc.ca/travelling/health-safety/travel-health-notices/503) - 27 October, 2025
-* [Measles: Advice for travellers](https://travel.gc.ca/travelling/health-safety/travel-health-notices/504) - 13 November, 2025
-* [COVID-19 and International Travel](https://travel.gc.ca/travelling/health-safety/travel-health-notices/513) - 12 May, 2025
-* [Polio: Advice for travellers](https://travel.gc.ca/travelling/health-safety/travel-health-notices/508) - 9 March, 2026
-* [Dengue: Advice for travellers](https://travel.gc.ca/travelling/health-safety/travel-health-notices/517) - 16 March, 2026
+* [Extensively drug-resistant typhoid in Pakistan](https://travel.gc.ca/travelling/health-safety/travel-health-notices/503)
+* [Measles: Advice for travellers](https://travel.gc.ca/travelling/health-safety/travel-health-notices/504)
+* [COVID-19 and International Travel](https://travel.gc.ca/travelling/health-safety/travel-health-notices/513)
+* [Polio: Advice for travellers](https://travel.gc.ca/travelling/health-safety/travel-health-notices/508)
+* [Dengue: Advice for travellers](https://travel.gc.ca/travelling/health-safety/travel-health-notices/517)
 
 This section has information and advice about health risks you might face when travelling. Following this advice can help reduce your risk of getting sick. Not all risks are listed here.
 
@@ -245,11 +245,18 @@ Crimean-Congo haemorrhagic fever
 
 Protect yourself from tick bites and wear gloves or other protective clothing if you are in contact with the blood and tissues of  animals, particularly livestock. There is no vaccine available for Crimean-Congo haemorrhagic fever.
 
-Cutaneous and mucosal Leishmaniasis 
+Leishmaniasis – Cutaneous and mucocutaneous
 
-Cutaneous and mucosal [leishmaniasis]( https://www.canada.ca/en/public-health/services/diseases/leishmaniasis.html) causes skin sores and ulcers. It is caused by a parasite spread through the bite of a female sandfly.
+Cutaneous and mucocutaneous leishmaniasis can occur in this destination, though the risk is low for most travellers.
 
-Risk is generally low for most travellers. Protect yourself from sandfly bites, which typically occur after sunset in rural and forested areas and in some urban centres. There is no vaccine or medication to protect against leishmaniasis.
+The infection spreads through the bite of an infected sandfly. Cutaneous symptoms usually appear weeks or months after infection, and may include swollen lymph nodes and persistent skin sores and ulcers. Mucocutaneous symptoms can develop at the same time, or years later, causing nasal congestion, frequent nose bleeds, and sores in the nose or mouth.
+
+To lower your risk, protect yourself from sandfly bites. Sandflies are most active between sunset and sunrise in rural, forested and some urban areas.
+
+There is no vaccine or medication to prevent infection with the parasite that causes leishmaniasis.
+
+**Learn more:**   
+[Leishmaniasis](https://www.canada.ca/en/public-health/services/diseases/leishmaniasis.html)
 
 Dengue 
 

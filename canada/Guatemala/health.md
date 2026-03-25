@@ -215,6 +215,19 @@ American trypanosomiasis
 
 Risk is generally low for most travellers. Protect yourself from triatomine bugs, which are active at night, by using mosquito nets if staying in poorly-constructed housing. There is no vaccine available for Chagas disease.
 
+Leishmaniasis – Cutaneous and mucocutaneous
+
+Cutaneous and mucocutaneous leishmaniasis can occur in this destination, though the risk is low for most travellers.
+
+The infection spreads through the bite of an infected sandfly. Cutaneous symptoms usually appear weeks or months after infection, and may include swollen lymph nodes and persistent skin sores and ulcers. Mucocutaneous symptoms can develop at the same time, or years later, causing nasal congestion, frequent nose bleeds, and sores in the nose or mouth.
+
+To lower your risk, protect yourself from sandfly bites. Sandflies are most active between sunset and sunrise in rural, forested and some urban areas.
+
+There is no vaccine or medication to prevent infection with the parasite that causes leishmaniasis.
+
+**Learn more:**   
+[Leishmaniasis](https://www.canada.ca/en/public-health/services/diseases/leishmaniasis.html)
+
 ### Animal precautions
 
 Some infections can spread directly from animals to people, like rabies or bird flu (avian influenza). Others don’t spread directly from animals but can infect people who visit areas animals have contaminated with their droppings or body fluids.

@@ -4,8 +4,8 @@
 
 ### Relevant Travel Health Notices
 
-* [Measles: Advice for travellers](https://travel.gc.ca/travelling/health-safety/travel-health-notices/504) - 13 November, 2025
-* [COVID-19 and International Travel](https://travel.gc.ca/travelling/health-safety/travel-health-notices/513) - 12 May, 2025
+* [Measles: Advice for travellers](https://travel.gc.ca/travelling/health-safety/travel-health-notices/504)
+* [COVID-19 and International Travel](https://travel.gc.ca/travelling/health-safety/travel-health-notices/513)
 
 This section has information and advice about health risks you might face when travelling. Following this advice can help reduce your risk of getting sick. Not all risks are listed here.
 
@@ -238,6 +238,18 @@ During your trip:
 If you are pregnant or planning a pregnancy, you should discuss the potential risks of travelling to this destination with your health care provider. You may choose to avoid or postpone travel.
 
 For more information, see [Zika virus: Pregnant or planning a pregnancy.](https://www.canada.ca/en/public-health/services/diseases/zika-virus/pregnant-planning-pregnancy.html)
+
+Leishmaniasis - Visceral
+
+Visceral leishmaniasis, also called kala azar, can occur in this destination, though the risk is low for most travellers.
+
+The infection spreads through the bite of an infected sandfly. Symptoms can appear weeks or months after infection and may include fever, weight loss, an enlarged liver or spleen, and anaemia. Without treatment, visceral leishmaniasis can be fatal. If you think you might have visceral leishmaniasis, it’s important to speak to a health care provider as soon as possible.
+
+To lower your risk, protect yourself from sandfly bites. Sandflies are most active between sunset and sunrise in rural, forested and some urban areas.
+
+There is no vaccine or medication to prevent infection with the parasite that causes leishmaniasis.
+
+**Learn more:**[Leishmaniasis](https://www.canada.ca/en/public-health/services/diseases/leishmaniasis.html)
 
 ### Animal precautions
 

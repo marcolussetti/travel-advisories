@@ -1,7 +1,7 @@
 {
     "name": "Equatorial Guinea",
-    "update_reason": "Health \u2013 information on travellers' diarrhea added",
-    "update_date": "2026-03-18T13:59:00",
+    "update_reason": "Health \u2013 information on onchocerciasis removed",
+    "update_date": "2026-03-24T09:46:00",
     "sections": {
         "risk": "canada/Equatorial Guinea/risk.md",
         "security": "canada/Equatorial Guinea/security.md",

@@ -4,8 +4,8 @@
 
 ### Relevant Travel Health Notices
 
-* [Measles: Advice for travellers](https://travel.gc.ca/travelling/health-safety/travel-health-notices/504) - 13 November, 2025
-* [COVID-19 and International Travel](https://travel.gc.ca/travelling/health-safety/travel-health-notices/513) - 12 May, 2025
+* [Measles: Advice for travellers](https://travel.gc.ca/travelling/health-safety/travel-health-notices/504)
+* [COVID-19 and International Travel](https://travel.gc.ca/travelling/health-safety/travel-health-notices/513)
 
 This section has information and advice about health risks you might face when travelling. Following this advice can help reduce your risk of getting sick. Not all risks are listed here.
 
@@ -203,10 +203,6 @@ Dengue
 **Learn more:**  
 [Dengue](https://www.canada.ca/en/public-health/services/infectious-diseases/viral-haemorrhagic-fevers/dengue-fever.html)  
 [Insect bite and pest prevention](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html)
-
-Onchoceriasis
-
-[Onchocerciasis (river blindness)](https://www.who.int/news-room/fact-sheets/detail/onchocerciasis)is an eye and skin disease caused by a parasite spread through the bite of an infected female blackfly.  Onchocerciasis often leads to blindness if left untreated. Risk is generally low for most travellers. Protect yourself from blackfly bites, which are most common close to fast-flowing rivers and streams. There is no vaccine available for onchocerciasis although drug treatments exist.
 
 African trypanosomiasis
 

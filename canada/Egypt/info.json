@@ -1,7 +1,7 @@
 {
     "name": "Egypt",
-    "update_reason": "Entry and exit requirements \u2013 added information on entry requirements via the Taba land border crossing",
-    "update_date": "2026-03-19T14:37:00",
+    "update_reason": "Health \u2013 information on cutaneous and mucocutaneous leishmaniasis added",
+    "update_date": "2026-03-24T09:43:00",
     "sections": {
         "risk": "canada/Egypt/risk.md",
         "security": "canada/Egypt/security.md",

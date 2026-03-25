@@ -4,10 +4,10 @@
 
 ### Relevant Travel Health Notices
 
-* [Measles: Advice for travellers](https://travel.gc.ca/travelling/health-safety/travel-health-notices/504) - 13 November, 2025
-* [Polio: Advice for travellers](https://travel.gc.ca/travelling/health-safety/travel-health-notices/508) - 9 March, 2026
-* [COVID-19 and International Travel](https://travel.gc.ca/travelling/health-safety/travel-health-notices/513) - 12 May, 2025
-* [Diphtheria: Advice for travellers](https://travel.gc.ca/travelling/health-safety/travel-health-notices/528) - 4 February, 2026
+* [Measles: Advice for travellers](https://travel.gc.ca/travelling/health-safety/travel-health-notices/504)
+* [Polio: Advice for travellers](https://travel.gc.ca/travelling/health-safety/travel-health-notices/508)
+* [COVID-19 and International Travel](https://travel.gc.ca/travelling/health-safety/travel-health-notices/513)
+* [Diphtheria: Advice for travellers](https://travel.gc.ca/travelling/health-safety/travel-health-notices/528)
 
 This section has information and advice about health risks you might face when travelling. Following this advice can help reduce your risk of getting sick. Not all risks are listed here.
 
@@ -221,9 +221,17 @@ A vaccine for the prevention of chikungunya is approved in Canada. Talk to your 
 
 [Chikungunya](https://www.canada.ca/en/public-health/services/diseases/chikungunya.html)
 
-Visceral Leishmaniasis
+Leishmaniasis - Visceral
 
-Visceral [leishmaniasis](https://www.canada.ca/en/public-health/services/diseases/leishmaniasis.html)(or kala azar) affects the bone marrow and internal organs. It is caused by a parasite spread through the bite of a female sandfly. It can also be transmitted by blood transfusion or sharing contaminated needles. If left untreated it can cause death. Risk is generally low for most travellers. Protect yourself from sandfly bites, which typically occur after sunset in rural and forested areas and in some urban centres. There is no vaccine or medication to protect against leishmaniasis.
+Visceral leishmaniasis, also called kala azar, can occur in this destination, though the risk is low for most travellers.
+
+The infection spreads through the bite of an infected sandfly. Symptoms can appear weeks or months after infection and may include fever, weight loss, an enlarged liver or spleen, and anaemia. Without treatment, visceral leishmaniasis can be fatal. If you think you might have visceral leishmaniasis, it’s important to speak to a health care provider as soon as possible.
+
+To lower your risk, protect yourself from sandfly bites. Sandflies are most active between sunset and sunrise in rural, forested and some urban areas.
+
+There is no vaccine or medication to prevent infection with the parasite that causes leishmaniasis.
+
+**Learn more:**[Leishmaniasis](https://www.canada.ca/en/public-health/services/diseases/leishmaniasis.html)
 
 Dengue 
 

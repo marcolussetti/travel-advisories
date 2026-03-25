@@ -4,9 +4,9 @@
 
 ### Relevant Travel Health Notices
 
-* [Measles: Advice for travellers](https://travel.gc.ca/travelling/health-safety/travel-health-notices/504) - 13 November, 2025
-* [COVID-19 and International Travel](https://travel.gc.ca/travelling/health-safety/travel-health-notices/513) - 12 May, 2025
-* [Mpox: Advice for travellers](https://travel.gc.ca/travelling/health-safety/travel-health-notices/515) - 3 February, 2026
+* [Measles: Advice for travellers](https://travel.gc.ca/travelling/health-safety/travel-health-notices/504)
+* [COVID-19 and International Travel](https://travel.gc.ca/travelling/health-safety/travel-health-notices/513)
+* [Mpox: Advice for travellers](https://travel.gc.ca/travelling/health-safety/travel-health-notices/515)
 
 This section has information and advice about health risks you might face when travelling. Following this advice can help reduce your risk of getting sick. Not all risks are listed here.
 
@@ -248,10 +248,6 @@ Rift Valley fever
 
 [Rift Valley fever](http://www.who.int/mediacentre/factsheets/fs207/en/) is a viral disease that can cause severe flu-like symptoms. In some cases, it can be fatal. It is spread to humans through contact with infected animal blood or tissues, from the bite of an infected mosquito, or eating or drinking unpasteurized dairy. Risk is generally low for most travellers. Protect yourself from insect bites and avoid animals, particularly livestock, and unpasteurized dairy. There is no vaccine available for Rift Valley fever.
 
-Onchoceriasis
-
-[Onchocerciasis (river blindness)](https://www.who.int/news-room/fact-sheets/detail/onchocerciasis)is an eye and skin disease caused by a parasite spread through the bite of an infected female blackfly.  Onchocerciasis often leads to blindness if left untreated. Risk is generally low for most travellers. Protect yourself from blackfly bites, which are most common close to fast-flowing rivers and streams. There is no vaccine available for onchocerciasis although drug treatments exist.
-
 Zika virus 
 
 [Zika virus](https://www.canada.ca/en/public-health/services/diseases/zika-virus.html) is a risk in this country.
@@ -270,6 +266,18 @@ For more information, see [Zika virus: Pregnant or planning a pregnancy.](https:
 African trypanosomiasis
 
 [African trypanosomiasis (sleeping sickness)](https://www.canada.ca/en/public-health/services/diseases/trypanosomiasis.html) is caused by a parasite spread through the bite of a tsetse fly. Tsetse flies usually bite during the day and the bites are usually painful. If untreated, the disease is eventually fatal. Risk is generally low for most travellers. Protect yourself from bites especially in game parks and rural areas. Avoid wearing bright or dark-coloured clothing as these colours attract tsetse flies. There is no vaccine available for this disease.
+
+Leishmaniasis - Visceral
+
+Visceral leishmaniasis, also called kala azar, can occur in this destination, though the risk is low for most travellers.
+
+The infection spreads through the bite of an infected sandfly. Symptoms can appear weeks or months after infection and may include fever, weight loss, an enlarged liver or spleen, and anaemia. Without treatment, visceral leishmaniasis can be fatal. If you think you might have visceral leishmaniasis, it’s important to speak to a health care provider as soon as possible.
+
+To lower your risk, protect yourself from sandfly bites. Sandflies are most active between sunset and sunrise in rural, forested and some urban areas.
+
+There is no vaccine or medication to prevent infection with the parasite that causes leishmaniasis.
+
+**Learn more:**[Leishmaniasis](https://www.canada.ca/en/public-health/services/diseases/leishmaniasis.html)
 
 ### Animal precautions
 

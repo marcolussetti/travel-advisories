@@ -4,9 +4,9 @@
 
 ### Relevant Travel Health Notices
 
-* [Measles: Advice for travellers](https://travel.gc.ca/travelling/health-safety/travel-health-notices/504) - 13 November, 2025
-* [COVID-19 and International Travel](https://travel.gc.ca/travelling/health-safety/travel-health-notices/513) - 12 May, 2025
-* [Polio: Advice for travellers](https://travel.gc.ca/travelling/health-safety/travel-health-notices/508) - 9 March, 2026
+* [Measles: Advice for travellers](https://travel.gc.ca/travelling/health-safety/travel-health-notices/504)
+* [COVID-19 and International Travel](https://travel.gc.ca/travelling/health-safety/travel-health-notices/513)
+* [Polio: Advice for travellers](https://travel.gc.ca/travelling/health-safety/travel-health-notices/508)
 
 This section has information and advice about health risks you might face when travelling. Following this advice can help reduce your risk of getting sick. Not all risks are listed here.
 
@@ -262,6 +262,20 @@ During your trip:
 If you are pregnant or planning a pregnancy, you should discuss the potential risks of travelling to this destination with your health care provider. You may choose to avoid or postpone travel.
 
 For more information, see [Zika virus: Pregnant or planning a pregnancy.](https://www.canada.ca/en/public-health/services/diseases/zika-virus/pregnant-planning-pregnancy.html)
+
+Onchoceriasis
+
+Onchocerciasis, also called river blindness, can occur in this destination. The risk is low for most travellers, but increases for people who stay for long periods, especially in rural regions near fast-moving rivers and streams where blackflies live.
+
+The infection spreads through repeated bites from infected blackflies. Symptoms usually appear one to two years after infection and may include severe itching, vision problems, and changes to the skin. Without treatment, it can lead to permanent blindness.
+
+To lower your risk, protect yourself from blackfly bites. These flies are most active during the day in rural areas near fast-flowing rivers and streams.
+
+There is no vaccine or medication to prevent onchocerciasis.
+
+**Learn more:**  
+[Onchocerciasis](https://www.who.int/news-room/fact-sheets/detail/onchocerciasis)  
+[Insect bite and pest prevention](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html)
 
 ### Animal precautions
 

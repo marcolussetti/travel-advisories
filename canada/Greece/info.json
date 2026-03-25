@@ -1,7 +1,7 @@
 {
     "name": "Greece",
-    "update_reason": "Laws and culture \u2013 updated information on driving",
-    "update_date": "2026-03-13T13:25:00",
+    "update_reason": "Health \u2013 information on visceral leishmaniasis added",
+    "update_date": "2026-03-24T10:23:00",
     "sections": {
         "risk": "canada/Greece/risk.md",
         "security": "canada/Greece/security.md",
