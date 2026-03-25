@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   11 December 2025
+:   25 March 2026
 
 Updated:
-:   10 December 2025
+:   24 March 2026
 
 Latest update:
-:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
+:   New information about protests (‘Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/675319b87e5323915d6a0428/FCDO__TA__027_-_Mauritania_Travel_Advice_Ed6__WEB_.jpg)
 
@@ -46,6 +46,16 @@ Find out more about [why FCDO advises against travel](/foreign-travel-advice/mau
 
 The British Embassy in Nouakchott cannot provide consular services in person. British nationals in Mauritania should contact the [British Embassy in Dakar, Senegal](https://www.gov.uk/world/organisations/british-embassy-dakar), for support.
 
+## Protests
+
+There have been periodic protests in Mauritania relating to developments in the Middle East. Demonstrations can take place with little or no warning.
+
+You should:
+
+* avoid all demonstrations and larger gatherings
+* monitor local media for updates
+* follow the advice of local authorities
+
 ## Before you travel
 
 No travel can be guaranteed safe. Read all the advice in this guide. You may also find it helpful to:
@@ -74,8 +84,6 @@ Follow FCDO:
 * [travel advice on Facebook](https://www.facebook.com/FCDOTravel/)
 * [Travel Aware on Instagram](https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Ftravelaware%2F&is_from_rle)
 
-[Next
-:
-Entry requirements](/foreign-travel-advice/mauritania/entry-requirements)
+[Next:Entry requirements](/foreign-travel-advice/mauritania/entry-requirements)
 
 [View a printable version of the whole guide](/foreign-travel-advice/mauritania/print)

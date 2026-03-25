@@ -1,11 +1,11 @@
 {
     "name": "Israel",
-    "update_reason": "Updated information on entry to Egypt ('Warnings and insurance' and 'Entry requirements' pages).",
+    "update_reason": "Updated information that Ben Gurion Airport is operating a limited schedule of outbound flights (see 'Leaving Israel and Palestine' on the 'Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Israel/Warnings and insurance.md",
-            "update_date": "2026-03-18T17:12:01+00:00"
+            "update_date": "2026-03-24T09:48:11+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Israel/Getting help.md"
         }
     ],
-    "update_date": "2026-03-18T17:12:01+00:00"
+    "update_date": "2026-03-24T09:48:11+00:00"
 }

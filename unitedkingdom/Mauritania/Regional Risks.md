@@ -34,12 +34,8 @@ FCDO advises against all but essential travel to the rest of the province of T
 
 This is due to risks of instability extending from eastern Mauritania as a result of the conflict in Mali, including from organised crime.
 
-[Previous
-:
-Safety and security](/foreign-travel-advice/mauritania/safety-and-security)
+[Previous:Safety and security](/foreign-travel-advice/mauritania/safety-and-security)
 
-[Next
-:
-Health](/foreign-travel-advice/mauritania/health)
+[Next:Health](/foreign-travel-advice/mauritania/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/mauritania/print)

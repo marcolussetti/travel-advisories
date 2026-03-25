@@ -36,12 +36,8 @@ For full details about health entry requirements and recommended vaccinations, s
 
 There are strict rules about [goods you can take into or out of Senegal](https://www.douanes.sn/ndn69/) (in French). You must declare anything that may be prohibited or subject to tax or duty.
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/senegal)
+[Previous:Warnings and insurance](/foreign-travel-advice/senegal)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/senegal/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/senegal/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/senegal/print)

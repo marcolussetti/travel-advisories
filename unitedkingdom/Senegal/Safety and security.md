@@ -95,9 +95,13 @@ Larger or more upmarket establishments that cater for tourists usually accept fo
 
 ### LGBT+ travellers
 
-Same-sex sexual activity is illegal. Same-sex relationships are generally not tolerated in Senegal’s conservative society.
+Same-sex sexual acts are illegal in Senegal. The law is enforced and has led to arrests.
 
-Read more [advice for LGBT+ travellers](https://www.gov.uk/lesbian-gay-bisexual-and-transgender-foreign-travel-advice).
+A bill passed by Parliament on 11 March 2026, but not yet signed into law, would increase prison sentences for same-sex relations to 5–10 years and criminalise the “promotion, support or funding” of homosexuality, bisexuality and transsexuality.
+
+Same-sex relationships are generally not tolerated in Senegalese society. There is a risk of discrimination or harassment against individuals thought to be part of the LGBT+ community or perceived to be supporting their rights.
+
+Read more [advice for LGBT+ travellers](https://www.gov.uk/lesbian-gay-bisexual-and-transgender-foreign-travel-advice).
 
 ## Transport risks
 
@@ -117,12 +121,8 @@ Traffic congestion gets worse in the run-up to and during religious festivals.
 
 If you have an accident, you must contact the police on 17 and wait for them to arrive at the scene. Do not move your car until a police officer gives you permission. In remote areas, go to the nearest police station to report the accident.
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/senegal/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/senegal/entry-requirements)
 
-[Next
-:
-Regional risks](/foreign-travel-advice/senegal/regional-risks)
+[Next:Regional risks](/foreign-travel-advice/senegal/regional-risks)
 
 [View a printable version of the whole guide](/foreign-travel-advice/senegal/print)

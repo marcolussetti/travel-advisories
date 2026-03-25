@@ -102,12 +102,8 @@ Public transport vehicles are poorly maintained, especially in the interior of t
 
 Crossing the border into Mauritania can be time-consuming, and officials may ask for payments before they allow you to cross. Check local advice before travelling to neighbouring countries in case border crossings are closed or congested.
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/mauritania/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/mauritania/entry-requirements)
 
-[Next
-:
-Regional Risks](/foreign-travel-advice/mauritania/regional-risks)
+[Next:Regional Risks](/foreign-travel-advice/mauritania/regional-risks)
 
 [View a printable version of the whole guide](/foreign-travel-advice/mauritania/print)

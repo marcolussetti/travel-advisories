@@ -1,11 +1,11 @@
 {
     "name": "Senegal",
-    "update_reason": "New information about dual nationals returning to the UK (\u2018Entry requirements\u2019 page).",
+    "update_reason": "New information for LGBT+ travellers (see \u2018LGBT+ travellers\u2019 on the \u2018Safety and security page\u2019).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Senegal/Warnings and insurance.md",
-            "update_date": "2025-12-10T13:35:01+00:00"
+            "update_date": "2026-03-24T10:51:38+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Senegal/Getting help.md"
         }
     ],
-    "update_date": "2025-12-10T13:35:01+00:00"
+    "update_date": "2026-03-24T10:51:38+00:00"
 }

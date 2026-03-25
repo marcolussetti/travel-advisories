@@ -24,12 +24,8 @@ When driving:
 
 Senegalese forces carry out minor operations near the border with The Gambia to combat wood trafficking.
 
-[Previous
-:
-Safety and security](/foreign-travel-advice/senegal/safety-and-security)
+[Previous:Safety and security](/foreign-travel-advice/senegal/safety-and-security)
 
-[Next
-:
-Health](/foreign-travel-advice/senegal/health)
+[Next:Health](/foreign-travel-advice/senegal/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/senegal/print)
