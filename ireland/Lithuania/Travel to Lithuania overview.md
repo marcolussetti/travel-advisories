@@ -28,7 +28,7 @@ Irish citizens do not require a visa to enter Lithuania. However, if you are sta
 
 Visitors to Lithuania are advised to follow the guidance of national and local authorities and stay fully informed of what's going on by monitoring local news and social media.
 
-Citizens can also follow the Irish Embassy in Vilnius on social media (X [**@IrishEmbVilnius**](https://twitter.com/IrishEmbVilnius) and [**Facebook**](https://www.facebook.com/EmbassyofIrelandVilnius/)) to ensure access to relevant updates and alerts.
+Citizens can also follow the Irish Embassy in Vilnius on social media (X [**@IrishEmbVilnius**](https://twitter.com/IrishEmbVilnius) and [**Facebook**](https://www.facebook.com/profile.php?id=61582057932657)) to ensure access to relevant updates and alerts.
 
 ### **Emergency Assistance**
 
