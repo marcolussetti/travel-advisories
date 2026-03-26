@@ -2,9 +2,9 @@
 
 ## Natural disasters and climate
 
-### Tropical Cyclone Narelle
+### Severe Tropical Cyclone Narelle
 
-Tropical Cyclone Narelle is gradually weakening as it is moving westward, but it will continue to bring heavy rainfall and violent winds.
+Severe Tropical Cyclone Narelle is moving west along the northern coast of Australia and will continue to bring heavy rainfall and violent winds. The storm is expected to intensify and curve toward the Exmouth coast, potentially making landfall on March 26, 2026.
 
 It may cause flash flooding and landslides and could severely disrupt the following essential services:
 

@@ -1,7 +1,7 @@
 {
     "name": "Switzerland",
-    "update_reason": "Laws and culture \u2013 added information on road rules and safety",
-    "update_date": "2026-03-13T14:18:00",
+    "update_reason": "The Need help? section was updated.",
+    "update_date": "2026-03-25T10:00:00",
     "sections": {
         "risk": "canada/Switzerland/risk.md",
         "security": "canada/Switzerland/security.md",
