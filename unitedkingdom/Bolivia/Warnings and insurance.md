@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   21 March 2026
+:   27 March 2026
 
 Updated:
-:   20 March 2026
+:   26 March 2026
 
 Latest update:
-:   Addition of information about Local Elections on Sunday 22 March with transport restrictions and temporary ban on drinking alcohol until midnight on Sunday 22 March (‘Warnings and insurance’ Page)
+:   New information about indefinite strike affecting public transport across the city and department of La Paz (‘Warnings and insurance’ and ‘Safety and security’ pages).
 
 ![](https://assets.publishing.service.gov.uk/media/672ccc5a62831268b0b1a328/FCDO__TA__098_-_Bolivia_Travel_Advice_Ed1__WEB_.jpg)
 
@@ -22,13 +22,9 @@ FCDO advises against all but essential travel to the Chapare region of Cochaba
 
 Find out more about [why FCDO advises against travel](https://www.gov.uk/foreign-travel-advice/bolivia/safety-and-security).
 
-## Local Elections
+## Strike of public transport
 
-Local Elections will be held on Sunday 22 March.  Follow the advice of local authorities.
-
-Domestic flights have been cancelled and there will be no transport until 6pm on Sunday evening.  Some taxis will have special permits to travel to the airport.  International flights will not be affected.
-
-It is forbidden to drink alcohol from Friday 20 March until Midnight on Sunday 22 March.
+There is currently an indefinite strike affecting public transport across the city and department of La Paz. Access to the airport is disrupted, and the cable car is the only form of public transport operating. Queues are extremely long. The main bus terminal is also closed, and intercity transport to other parts of Bolivia is suspended.
 
 ## Before you travel
 

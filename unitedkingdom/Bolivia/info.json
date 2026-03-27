@@ -1,11 +1,11 @@
 {
     "name": "Bolivia",
-    "update_reason": "Addition of information about Local Elections on Sunday 22 March with transport restrictions and temporary ban on drinking alcohol until midnight on Sunday 22 March  (\u2018Warnings and insurance\u2019 Page)",
+    "update_reason": "New information about indefinite strike affecting public transport across the city and department of La Paz (\u2018Warnings and insurance\u2019 and \u2018Safety and security\u2019 pages).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Bolivia/Warnings and insurance.md",
-            "update_date": "2026-03-20T18:48:40+00:00"
+            "update_date": "2026-03-26T16:25:49+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Bolivia/Getting help.md"
         }
     ],
-    "update_date": "2026-03-20T18:48:40+00:00"
+    "update_date": "2026-03-26T16:25:49+00:00"
 }
