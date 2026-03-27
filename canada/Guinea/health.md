@@ -263,7 +263,7 @@ If you are pregnant or planning a pregnancy, you should discuss the potential ri
 
 For more information, see [Zika virus: Pregnant or planning a pregnancy.](https://www.canada.ca/en/public-health/services/diseases/zika-virus/pregnant-planning-pregnancy.html)
 
-Onchoceriasis
+Onchocerciasis
 
 Onchocerciasis, also called river blindness, can occur in this destination. The risk is low for most travellers, but increases for people who stay for long periods, especially in rural regions near fast-moving rivers and streams where blackflies live.
 
