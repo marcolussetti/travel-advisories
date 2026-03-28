@@ -6,6 +6,21 @@ High Degree of Caution
 
 ### **Travel Alert**
 
+#### **Ongoing Travel Disruptions**
+
+Due to the evolving situation in the Middle East, significant flight disruptions are currently being experienced. Several international airlines have suspended or cancelled their flights.
+
+Irish Citizens should anticipate delays, possible rerouting of flights and cancellations.
+
+Irish Citizens are advised to:
+
+* Contact their airline or travel agent directly for rebooking or rerouting their travel.
+* Regularly monitor the airline’s websites and official travel updates.
+* Ensure they have valid visas and sufficient funds in case of extended stays.
+* Keep copies of flight cancellation notices and travel documents.
+
+The Embassy is closely monitoring the situation and remains available to provide consular assistance to Irish citizens affected by these disruptions.
+
 #### **Kafue River Pollution**
 
 In February 2025, a large amount of toxic waste, including heavy metals, was released into the Mwambashi stream in the Copperbelt Province when a tailing dam collapsed at a local leach mine. The Mwambashi stream flows into the Kafue river which is a major water source for the region and country. This incident has posed a serious health risk for the surrounding area, potentially affecting local ground water sources. A fishing ban has been put in place on the Kafue river in the Central and Copperbelt Provinces.

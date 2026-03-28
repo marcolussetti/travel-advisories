@@ -4,6 +4,23 @@
 
 Normal Precautions
 
+### **Travel Alert**
+
+#### **Ongoing Travel Disruptions**
+
+Due to the evolving situation in the Middle East, significant flight disruptions are currently being experienced. Several international airlines have suspended or cancelled their flights.
+
+Irish Citizens should anticipate delays, possible rerouting of flights and cancellations.
+
+Irish Citizens are advised to:
+
+* Contact their airline or travel agent directly for rebooking or rerouting their travel.
+* Regularly monitor the airline’s websites and official travel updates.
+* Ensure they have valid visas and sufficient funds in case of extended stays.
+* Keep copies of flight cancellation notices and travel documents.
+
+The Embassy is closely monitoring the situation and remains available to provide consular assistance to Irish citizens affected by these disruptions.
+
 ### **General Travel Advice**
 
 As with all international travel, Irish citizens are encouraged to [**register**](https://www.ireland.ie/en/dfa/overseas-travel/citizens-registration/) their details and travel plans with the Embassy when visiting Namibia, and to share these details with family and friends in advance of traveling.

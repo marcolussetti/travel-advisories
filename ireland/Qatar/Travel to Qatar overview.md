@@ -10,11 +10,29 @@ Avoid Non-Essential Travel
 
 **In light of the current security situation in the Middle East and Gulf region, the Department of Foreign Affairs and Trade strongly advises Irish citizens against all but essential travel to Qatar until further notice.**
 
-Irish citizens already in the region are advised to avoid unnecessary journeys, remain vigilant, closely monitor developments and local media, and follow the advice of local authorities, including when this is to shelter in place. Irish citizens should also avoid military and security force installations.
+**The security situation across the region remains volatile and uncertain, with the potential for further escalation.**
 
-A limited number of flights are departing Doha Hamad International Airport, including to some European capitals. There is currently no direct flight to Dublin but we remain in contact with Qatar Airways to evaluate options. Transit through Doha airport for onward travel is currently limited and may be subject to change at short notice.
+#### **In Qatar**
 
-With significant disruption to travel set to remain across the region, citizens traveling to or through Qatar should contact their airline directly for the latest updates.
+Irish citizens already in the region are advised to avoid unnecessary journeys, remain vigilant, closely monitor developments and local media, and follow the advice of local authorities.
+
+In particular, if local authorities advise you to take shelter, stay indoors or move to the nearest safe building immediately. Falling debris caused by intercepts is a significant risk, and you are safest inside a secure structure.
+
+Irish citizens should also avoid military and security force installations.
+
+#### **Transit through Qatar**
+
+With significant disruption to travel set to remain across the region, citizens should note that transiting through Qatari airports for onward travel is currently limited.
+
+Due to limited Qatari airspace operations and the potential for flights to be cancelled at late notice, Irish citizens should avoid transiting through Qatar where possible. If in transit, citizens should remain airside and not leave the airport.
+
+#### **Leaving Qatar**
+
+If you wish to leave Qatar, it is currently possible to do so via commercial flights.
+
+While Qatari airspace operations remain limited, some flights are operating out of Hamad International Airport in Doha, including to some European capitals. There is currently no direct flight to Dublin but we remain in contact with Qatar Airways to evaluate options.
+
+**Citizens should note that travel may be subject to change at short notice. Check for the latest updates from your airline directly.**
 
 Irish citizens in need of consular assistance should contact the Embassy of Ireland in the United Arab Emirates on +971 2 495 8200.
 
@@ -33,8 +51,6 @@ The UK has introduced a new Electronic Travel Authorisation (ETA) for people tra
 You are advised to check your passport validity, and where necessary, apply for an Irish passport, well in advance of any travel. Where travel is required owing to an emergency, Irish citizens, including Irish dual citizens, who are not in possession of a valid Irish passport can contact the Embassy of Ireland in Abu Dhabi for advice.
 
 Further information on the ETA is available at [Get an electronic travel authorisation (ETA) to visit the UK: Overview - GOV.UK](https://www.gov.uk/eta)
-
-#### 
 
 ### **General Travel Advice**
 

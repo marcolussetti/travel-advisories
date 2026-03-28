@@ -1,8 +1,14 @@
 ## Safety and security
 
-### **Political Situation**
+### **Security Situation**
 
-There are ongoing regional tensions and, in the event of any incident, you should monitor local media reports and follow the advice of the local authorities. The political situation in Qatar is generally stable.
+The security situation across the region remains volatile and uncertain, with the potential for further escalation. Irish citizens are advised against all but essential travel to Qatar until further notice.
+
+Irish citizens already in Qatar are advised to avoid unnecessary journeys, remain vigilant, closely monitor developments and local media, and follow the advice of local authorities.
+
+In particular, if local authorities advise you to take shelter, stay indoors or move to the nearest safe building immediately. Falling debris caused by intercepts is a significant risk, and you are safest inside a secure structure.
+
+Irish citizens should also avoid military and security force installations.
 
 ### **Terrorism**
 

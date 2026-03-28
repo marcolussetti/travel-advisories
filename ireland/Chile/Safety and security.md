@@ -30,7 +30,7 @@ There have been reports of people having their drinks ‘spiked’ in nightclubs
 
 Many foreign visitors have been scammed for large amounts of money by unlicensed taxi drivers, including in airport taxis.
 
-You should only book taxis at the desk inside the airport after collecting your luggage and **before you enter the arrivals hall** – please refer to [this page](https://www.mtt.gob.cl/viaja-seguro-en-taxis.html) in order to learn more about how to safely order a taxi (in Spanish). You should be able to book and pay in advance at these desks inside the airport. If you cannot pay beforehand, request and approximate amount for the journey at the taxi desk.
+You should only book taxis or airport transfers at a desk inside the airport (airside) after collecting your luggage and **before you enter the arrivals hall** – please refer to [this page](https://www.mtt.gob.cl/viaja-seguro-en-taxis.html) in order to learn more about how to safely order a taxi (in Spanish). You should be able to book and pay in advance at these desks inside the airport. If you cannot pay beforehand, request and approximate amount for the journey at the taxi desk.
 
 Be wary of people impersonating authorised taxi drivers. There are criminals who dress up as authorised taxi drivers, including people inside the airport arrival hall wearing official-looking lanyards and jackets.
 
@@ -49,7 +49,7 @@ Read information about the official transportation options at Santiago airport:
 * [transfers](https://www.nuevopudahuel.cl/fromairport?language=en&target=transfer)
 * [car rental](https://www.nuevopudahuel.cl/fromairport?language=en&target=arriendo-vehiculos) (read the section ‘Vehicle crime’ below if you are planning on renting a car.
 
-There are two companies operating in both terminals at the airport. Taxi Oficial Basico operates with black and yellow vehicles, and Taxi Oficial operates with blue vehicles.
+There are two official taxi companies operating in both terminals at the airport. Taxi Oficial Basico operates with black and yellow vehicles, and Taxi Oficial operates with blue vehicles.
 
 We advise that you book taxis in advance rather than hailing one from the street, especially late at night.
 
@@ -77,7 +77,7 @@ If your passport is lost or stolen, it can take up to three weeks to get a repla
 
 ### **Landmines**
 
-Chile has a small but significant landmine problem. Landmine accidents mainly affect livestock and small numbers of local people crossing the borders at unauthorised crossing points. Minefields are located primarily in border areas adjacent to Peru and Bolivia in the extreme north of Chile Regions I and II, and Argentina in the south in Region XII.
+Chile has a small but significant landmine problem. Landmine accidents mainly affect livestock and small numbers of local people crossing the borders at unauthorised crossing points. Minefields are located primarily in border areas adjacent to Peru and Bolivia in the extreme north of Chile in Regions I and II, and Argentina in the south in Region XII.
 
 Although most minefields are clearly marked, some signs and fences have been damaged by weather or vandalism and may be hard to recognise, particularly in the north of the country. Minefields are, in some cases, laid right up to the edge of highways.
 
