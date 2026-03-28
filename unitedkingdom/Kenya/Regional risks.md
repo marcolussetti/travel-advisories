@@ -36,9 +36,13 @@ For travel between Jomo Kenyatta International Airport and Nairobi City, you sho
 
 Rural areas, particularly in the north and north-east of Kenya, occasionally experience cattle rustling, banditry and ethnic clashes. Foreign nationals are not usually the target, but you should take great care.
 
-### Turkana, West Pokot, Elgeyo-Marakwet, Baringo, Laikipia and Samburu counties
+### Turkana, West Pokot, Elgeyo-Marakwet, Baringo and Samburu counties
 
-Security operations continue in parts of these counties due to banditry and intercommunal violence. While previous dusk-to-dawn curfews have largely been lifted, movement restrictions may still be introduced during security operations, particularly in hotspots such as the Turkana–West Pokot border, Kerio Valley (Elgeyo-Marakwet) and remote areas of Laikipia, Samburu, and Baringo. Follow local security measures and use caution.
+Security operations continue in parts of these counties due to banditry and intercommunal violence. While previous dusk-to-dawn curfews have largely been lifted, movement restrictions may still be introduced during security operations, particularly in hotspots such as the Turkana–West Pokot border, Kerio Valley (Elgeyo-Marakwet) and remote areas of Samburu, and Baringo. Follow local security measures and use caution.
+
+### Laikipia, Meru and Isiolo counties
+
+On 26 March 2026, the Government of Kenya announced a 30-day security operation in Laikipia, Meru, and Isiolo counties following rising banditry, cattle rustling, and land related conflict. It is possible that curfews or movement restrictions may be introduced during security operations. Follow local security measures and use caution.
 
 ## Kenya-Ethiopia border
 

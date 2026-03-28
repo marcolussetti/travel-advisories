@@ -131,7 +131,7 @@ All captains must have an [International Certificate of Competence](https://www
 
 ## Extreme weather and natural disasters
 
-Find out what you can do to [prepare for and respond to extreme weather and natural hazards](https://www.gov.uk/guidance/tropical-cyclones).
+Find out what you can do to [prepare for and respond to extreme weather and natural hazards](https://www.gov.uk/guidance/tropical-cyclones).  Please follow advice from local authorities and monitor [Croatian Meteorological and Hydrological Service](https://meteo.hr/index_en.php) forecasts.
 
 ### Wildfires
 
@@ -157,7 +157,7 @@ Small tremors also happen several times a month throughout the year. Most pass w
 
 ### Floods
 
-Flash floods can happen with very little warning and lead to dangerous water flows and disruption to transport and other networks. There is the highest risk of flooding in central Croatia, between Karlovac and Slavonski Brod. Monitor [Croatian Meteorological and Hydrological Service](https://meteo.hr/index_en.php) forecasts and follow the advice of local authorities.
+Flash floods can happen with very little warning and lead to dangerous water flows and disruption to transport and other networks. There is the highest risk of flooding in central Croatia, between Karlovac and Slavonski Brod. Monitor [Croatian Meteorological and Hydrological Service](https://meteo.hr/index_en.php) forecasts, as well as traffic conditions with the [Croatian Automobile authority](http://www.hak.hr) and follow the advice of local authorities.
 
 [Previous:Entry requirements](/foreign-travel-advice/croatia/entry-requirements)
 

@@ -1,11 +1,11 @@
 {
     "name": "Colombia",
-    "update_reason": "Removal of information about Colombian Elections on 8 March.",
+    "update_reason": "Updated information about yellow fever (See 'Vaccine recommendations and health risks' on the 'Health' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Colombia/Warnings and insurance.md",
-            "update_date": "2026-03-09T15:20:28+00:00"
+            "update_date": "2026-03-27T16:32:13+00:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Colombia/Getting help.md"
         }
     ],
-    "update_date": "2026-03-09T15:20:28+00:00"
+    "update_date": "2026-03-27T16:32:13+00:00"
 }

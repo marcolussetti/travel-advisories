@@ -115,7 +115,7 @@ If you’re mountain biking on the so-called ‘Death Road’, from La Paz to Co
 
 ### Road travel
 
-There is an indefinite strike of public transport in the city and department of La Paz. Access to the airport is affected and the cable car is the only transport that is open, but the queues are extremely long. The bus station is also closed for transport to other cities in Bolivia.
+There is an indefinite strike of public transport in the city and department of La Paz. Access to the airport is affected and the cable car is the only transport that is open, but the queues are extremely long. The bus station is also closed for transport to other cities in Bolivia.
 
 There are regular petrol and diesel shortages across the country with long queues forming at service stations in anticipation of deliveries. Bus services between cities may be affected due to lack of fuel and there may be less available public transport in La Paz and other major cities.
 

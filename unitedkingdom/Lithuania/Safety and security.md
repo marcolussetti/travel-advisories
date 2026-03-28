@@ -59,6 +59,10 @@ Check if you need a [UK sticker to drive your car outside the UK](https://www.go
 
 It is safer to use a recognised taxi app or to phone for a registered taxi that uses a meter. Make sure the meter is switched on to avoid arguments about the fare.
 
+### Drone activity
+
+Some Ukrainian drones aimed at Russia have crossed into Lithuanian airspace. Follow official guidance as necessary.
+
 ## Curonian Spit, Klaipeda
 
 The Spit, a UNESCO World Heritage Site, is divided between Lithuania and Russia – the northern half is in Lithuania and the southern half is part of Kaliningrad, Russia. Visitors should be aware that the walk along the Curonian Spit in Lithuanian territory will eventually reach Russian territory. See [Russia travel advice](https://www.gov.uk/foreign-travel-advice/russia).

@@ -81,6 +81,10 @@ Do not hail unmarked taxis – they’re illegal. Make sure the taxi has:
 
 You can also use taxi apps like Bolt, Forus and Uber.
 
+### Drone incidents
+
+Some Ukrainian drones aimed at Russia have crossed into Estonian airspace. Follow official guidance as necessary.
+
 [Previous:Entry requirements](/foreign-travel-advice/estonia/entry-requirements)
 
 [Next:Health](/foreign-travel-advice/estonia/health)

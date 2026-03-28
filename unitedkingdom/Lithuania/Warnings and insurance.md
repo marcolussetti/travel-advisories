@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   19 February 2026
+:   28 March 2026
 
 Updated:
-:   18 February 2026
+:   27 March 2026
 
 Latest update:
-:   Updated information on European Entry-Exit System (EES) (‘Entry requirements’ page).
+:   New information about drones entering Lithuanian airspace linked to Russia’s invasion of Ukraine (‘Safety and security’ page).
 
 ## Before you travel
 

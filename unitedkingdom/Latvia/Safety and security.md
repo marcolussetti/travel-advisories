@@ -104,6 +104,10 @@ To reduce the risk of being charged inflated fares:
 * hail or go to a taxi rank to find an official registered vehicle with yellow licence plates
 * agree the approximate price of the journey before setting off – some visitors have reported meters being adapted to clock up higher rates
 
+### Drone activity
+
+Some Ukrainian drones aimed at Russia have crossed into Latvian airspace. Follow official guidance as necessary.
+
 ## Extreme weather
 
 ### Winter

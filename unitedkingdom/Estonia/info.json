@@ -1,11 +1,11 @@
 {
     "name": "Estonia",
-    "update_reason": "Updated information on European Entry-Exit System (EES) (\u2018Entry requirements\u2019 page).",
+    "update_reason": "New information about drones entering Estonian airspace linked to Russia\u2019s invasion of Ukraine (\u2018Safety and security\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Estonia/Warnings and insurance.md",
-            "update_date": "2026-02-18T11:29:58+00:00"
+            "update_date": "2026-03-27T14:41:46+00:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Estonia/Getting help.md"
         }
     ],
-    "update_date": "2026-02-18T11:29:58+00:00"
+    "update_date": "2026-03-27T14:41:46+00:00"
 }

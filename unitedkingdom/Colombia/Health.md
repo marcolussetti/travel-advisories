@@ -22,9 +22,10 @@ At least 8 weeks before your trip:
 
 See [what health risks you’ll face in Colombia](https://travelhealthpro.org.uk/country/53/colombia), including:
 
-* Yellow fever, especially in the Departments of Tolima and Cundinamarca
+* Yellow fever
 * Zika
-* Malaria and Dengue
+* Malaria
+* Dengue
 * Chikungunya
 
 Altitude sickness is a risk in parts of Colombia, including Bogotá and areas in the Departments of Cundinamarca, Boyacá, Nariño and Antioquia. Read more about [altitude sickness on TravelHealthPro](https://travelhealthpro.org.uk/factsheet/26/altitude-illness).

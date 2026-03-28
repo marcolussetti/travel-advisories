@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   10 March 2026
+:   28 March 2026
 
 Updated:
-:   9 March 2026
+:   27 March 2026
 
 Latest update:
-:   Removal of information about Colombian Elections on 8 March.
+:   Updated information about yellow fever (See 'Vaccine recommendations and health risks' on the 'Health' page).
 
 ![](https://assets.publishing.service.gov.uk/media/67c05135b0bb6528ee866b96/FCDO_TA_054_-_Colombia_Travel_Advice_Ed3_WEB.jpg)
 
@@ -33,7 +33,7 @@ FCDO currently advises against all travel to [Venezuela’s border regions wit
 
 FCDO advises against all but essential travel to:
 
-* Chocó Department, except for the department capital Quibdó, the whale-watching towns of Nuquí and Bahía Solano and the tourist site of Capurganá
+* Chocó Department, except for the department capital Quibdó, the towns of Nuquí and Bahía Solano and Capurganá
 * the western part of Valle del Cauca Department, including Buenaventura
 * the western part of Cauca Department
 * the South Pacific, Sanquianga and Telembi regions of Nariño Department

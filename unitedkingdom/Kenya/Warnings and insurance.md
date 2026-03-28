@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   20 February 2026
+:   28 March 2026
 
 Updated:
-:   19 February 2026
+:   27 March 2026
 
 Latest update:
-:   Removal of information on travel disruption at Jomo Kenyatta International airport.
+:   Information on security operation in Laikipia, Meru, and Isiolo counties (‘Regional risks’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/696a6280448fedc1eb4248f0/FCDO__TA__055_-_Kenya_Travel_Advice_Ed7__WEB_.jpg)
 
