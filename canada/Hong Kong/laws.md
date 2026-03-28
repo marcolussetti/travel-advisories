@@ -19,7 +19,11 @@ The 2024 Safeguarding National Security Ordinance and the 2020 National Security
 * collusion with a foreign country or with external elements that endanger national security
 * support to someone accused of endangering national security
 
-They could also include activities that are not considered illegal in Canada and that occurred outside of Hong Kong, and could include social media posts. The Hong Kong SAR Government has issued arrest warrants for individuals outside of Hong Kong they identified as criminals who committed acts endangering national security. If you are suspected of endangering national security, you could be detained without charge for up to 16 days and denied access to a legal representative for up to 48 hours.
+They could also include activities that are not considered illegal in Canada and that occurred outside of Hong Kong, and could include social media posts.
+
+Recent changes to national security laws may require you to provide your password or unlock electronic devices such as a laptop or phone during an investigation. Refusing to comply, or providing false or misleading information, is a criminal offence and may result in imprisonment or fines.
+
+The Hong Kong SAR Government has issued arrest warrants for individuals outside of Hong Kong they identified as criminals who committed acts endangering national security. If you are suspected of endangering national security, you could be detained without charge for up to 16 days and denied access to a legal representative for up to 48 hours.
 
 You risk being arbitrarily detained on national security grounds, even while you are transiting through Hong Kong. You could be subject to transfer to mainland China for prosecution. Penalties are severe and include life imprisonment.
 

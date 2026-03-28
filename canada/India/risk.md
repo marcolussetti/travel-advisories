@@ -20,12 +20,9 @@ The features in this map do not constitute an authoritative source of geographic
 
 [Exercise a high degree of caution](#levels "Risk Levels") in India due to the threat of terrorist attacks throughout the country.
 
-### Parts of Northeastern India - Avoid non-essential travel
+### Manipur - Avoid non-essential travel
 
-[Avoid non-essential travel](#levels "Risk Levels") to the following states due to the risk of terrorism and insurgency:
-
-* Assam
-* Manipur
+[Avoid non-essential travel](#levels "Risk Levels") to Manipur due to the risk of terrorism and insurgency.
 
 ### Union Territory of Jammu and Kashmir - Avoid all travel
 

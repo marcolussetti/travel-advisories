@@ -19,12 +19,3 @@ The features in this map do not constitute an authoritative source of geographic
 ### Australia - Take normal security precautions
 
 [Take normal security precautions](#levels "Risk Levels") in Australia.
-
-### Parts of Western Australia - Avoid non-essential travel
-
-[Avoid non-essential travel](#levels "Risk Levels") to the following areas of Western Australia due to Severe Tropical Cyclone Narelle:
-
-* the coast from Pardoo to Denham and the area extending inland to Highway 1
-* Barrow Island and the coastal islands between Pardoo and Denham
-
-[Natural disasters and climate](#disasters)

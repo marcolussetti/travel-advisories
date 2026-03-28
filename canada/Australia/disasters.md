@@ -2,11 +2,18 @@
 
 ## Natural disasters and climate
 
-### Severe Tropical Cyclone Narelle
+### Tropical Cyclone Narelle
 
-Severe Tropical Cyclone Narelle is moving west along the northern coast of Australia and will continue to bring heavy rainfall and violent winds. The storm is expected to intensify and curve toward the Exmouth coast, potentially making landfall on March 26, 2026.
+Between March 19 and 26, 2026, Tropical Cyclone Narelle made multiple landfalls across northern Queensland, the Northern Territory and Western Australia. It caused significant damage to buildings and infrastructure. The storm brought excessive rainfall and violent winds. There are reports of hundreds of displaced persons.
 
-It may cause flash flooding and landslides and could severely disrupt the following essential services:
+Warnings are still in effect for areas along the coast, from Pardoo to Jurien Bay, and extend inland for:
+
+* Pannawonica
+* Gascoyne Junction
+* Paynes Find
+* Dalwallinu
+
+The storm may cause flash flooding and landslides and could severely disrupt the following essential services:
 
 * transportation
 * power distribution

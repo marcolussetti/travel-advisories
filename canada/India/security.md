@@ -23,11 +23,11 @@ The security situation along the border with Pakistan, especially along the Line
 
 The Attari-Wagah border crossing is currently closed.
 
-### Parts of Northeastern India
+### Manipur
 
-Several extremist and insurgent groups are active in the northeastern states of Assam and Manipur. They regularly target local government and security forces and may use various criminal activities to finance their activities.
+Several extremist and insurgent groups are active in the northeastern state of Manipur. They regularly target local government and security forces and may use various criminal activities to finance their activities.
 
-Ethnic tensions in the State can also lead to conflict and civil unrest.
+Ethnic tensions can also lead to conflict and civil unrest.
 
 ### Terrorism
 
@@ -35,7 +35,6 @@ There is a threat of terrorism in India, particularly in:
 
 * the Union territory of Jammu and Kashmir
 * the State of Manipur
-* the State of Assam
 * areas of East India where Naxalites groups are active
 
 Maoist extremist insurgents, known as Naxalites, are responsible for the majority of terrorist attacks in India. These groups are usually based in rural and forested areas within zones of concerns, as defined by the Government of India, which include:
