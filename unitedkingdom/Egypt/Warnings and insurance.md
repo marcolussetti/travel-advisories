@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   19 March 2026
+:   29 March 2026
 
 Updated:
-:   18 March 2026
+:   28 March 2026
 
 Latest update:
-:   Updated information on entering Egypt from Israel (‘Entry requirements’ page).
+:   Updated information on border crossing charges at Taba ( 'Entry requirements')
 
 ![](https://assets.publishing.service.gov.uk/media/670e278f30536cb92748313c/FCDO__TA__015_-_Egypt_Travel_Advice_Ed10__WEB_.jpg)
 

@@ -134,13 +134,13 @@ Egypt-Israel border crossing (opening times are subject to change):
 
 * Taba: Open 24 hours
 
-If you plan to cross the border from Israel into Egypt at Taba, we recommend you bring at least 110 US dollars (cash) per person, with some extra US dollars in cash to cover any further expenses. Since early March 2026, border crossing charges at Taba have been subject to increases at short notice.
+If you plan to cross the border from Israel into Egypt at Taba, we recommend you bring at least 170 US dollars (cash) per person, with some extra US dollars in cash to cover any further expenses. Since early March 2026, border crossing charges at Taba have been subject to increases at short notice.
 
-* If staying in Taba, travellers will need to pay a border tax of 10 US dollars. The border tax allows you to obtain an entry permission stamp for a stay of up to 15 days
-* If travelling further than Taba, including to Sharm El-Sheikh, but remaining within the Sinai Peninsula, travellers will need to pay a border tax of 60 US dollars. The border tax allows you to obtain an entry permission stamp for a stay of up to 15 days
-* If travelling beyond the Sinai Peninsula, including to fly from airports such as Cairo and Hurghada, travellers will need to pay a border tax of 60 US dollars and purchase a standard entry visa for 30 US dollars. At Taba, this entry visa also requires a “letter of guarantee”, provided by travel agents and costing around 20 USD. Both the visa and the “letter of guarantee” can be purchased at the Border Crossing
+* If staying in Taba, travellers will need to pay a border tax of 20 US dollars. The border tax allows you to obtain an entry permission stamp for a stay of up to 15 days
+* If travelling further than Taba, including to Sharm El-Sheikh, but remaining within the Sinai Peninsula, travellers will need to pay a border tax of 120 US dollars. The border tax allows you to obtain an entry permission stamp for a stay of up to 15 days
+* If travelling beyond the Sinai Peninsula, including to fly from airports such as Cairo and Hurghada, travellers will need to pay a border tax of 120 US dollars and purchase a standard entry visa for 30 US dollars. At Taba, this entry visa also requires a “letter of guarantee”, provided by travel agents and costing around 20 USD. Both the visa and the “letter of guarantee” can be purchased at the Border Crossing
 
-If travelling by car through the Taba Border Crossing you may also be required to pay 50 US dollars and additional amounts for parking.
+If travelling by car through the Taba Border Crossing you may also be required to pay 100 US dollars and additional amounts for parking.
 
 Please note that ATMs at the Taba Border Crossing are unreliable and frequently run out of cash. Travellers should obtain USD before travelling or in Eilat before arriving at the Crossing as all payments are required in cash.
 
