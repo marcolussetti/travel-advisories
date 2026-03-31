@@ -63,7 +63,7 @@ The majority of the population is Muslim. Exercise common sense and discretion i
 
 ### Ramadan
 
-In 2026, the lunar month of Ramadan is expected to begin on or around February 17.
+In 2027, the lunar month of Ramadan is expected to begin on or around February 7.
 
 In public, between sunrise and sunset, be discreet when:
 

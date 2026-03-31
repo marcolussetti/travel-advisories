@@ -4,16 +4,11 @@
 
 ### Tropical Cyclone Narelle
 
-Between March 19 and 26, 2026, Tropical Cyclone Narelle made multiple landfalls across northern Queensland, the Northern Territory and Western Australia. It caused significant damage to buildings and infrastructure. The storm brought excessive rainfall and violent winds. There are reports of hundreds of displaced persons.
+Between March 19 and 26, 2026, Tropical Cyclone Narelle made multiple landfalls across northern Queensland, the Northern Territory and Western Australia.
 
-Warnings are still in effect for areas along the coast, from Pardoo to Jurien Bay, and extend inland for:
+The storm brought excessive rainfall and violent winds, resulting in significant damage to buildings and infrastructure. There are reports of hundreds of displaced persons.
 
-* Pannawonica
-* Gascoyne Junction
-* Paynes Find
-* Dalwallinu
-
-The storm may cause flash flooding and landslides and could severely disrupt the following essential services:
+The following essential services could be disrupted:
 
 * transportation
 * power distribution
@@ -22,7 +17,7 @@ The storm may cause flash flooding and landslides and could severely disrupt the
 * emergency services
 * medical care
 
-If you are in the affected areas:
+If you are in an affected area:
 
 * exercise caution
 * monitor local news and weather reports

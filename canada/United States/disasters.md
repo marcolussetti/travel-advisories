@@ -2,18 +2,6 @@
 
 ## Natural disasters and climate
 
-### Flash floods in Hawaii
-
-Parts of Hawaii have experienced flash floods, landslides and infrastructure damage from heavy rains that have hit the islands. Additional heavy rain in the coming days could result in more flooding. Flood watches are in effect for some areas, and flood warnings and evacuation orders could be issued on short notice.
-
-#### 
-
-#### Useful links
-
-* [Active Watches, Warnings and Advisories for Hawaii](https://www.weather.gov/hfo/watchwarn) – National Weather Service
-* [Public evacuation and shelter map](https://veoci.com/v/p/dashboard/zncjcrf9pn) – Department of Emergency Management, Oahu
-* [Latest updates](https://alert.hnlalert.gov/) – Official Notification System of the City and County of Honolulu
-
 Natural disasters can occur at any time.
 
 [Plan Ahead for Disasters](https://www.ready.gov/) – U.S. Department of Homeland Security

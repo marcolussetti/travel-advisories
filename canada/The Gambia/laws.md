@@ -75,7 +75,7 @@ Islamic practices and beliefs are closely adhered to in the country’s customs,
 
 ### Ramadan
 
-In 2026, the lunar month of Ramadan is expected to begin on or around February 17.
+In 2027, the lunar month of Ramadan is expected to begin on or around February 7.
 
 In public, between sunrise and sunset, be discreet when:
 

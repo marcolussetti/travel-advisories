@@ -38,7 +38,7 @@ You must [obtain a visa online](https://moi.gov.jo/EN/Pages/Visa_E_Applications)
 
 You can obtain an electronic visa before travelling to Egypt or get a visa on arrival directly at the Taba border crossing.
 
-Verify the status of border crossings and make sure you meet the entry requirements of [Egypt](https://travel.gc.ca/destinations/egypt#entryexit) or [Jordan](https://travel.gc.ca/destinations/jordan#entryexit) before travelling there.
+Due to the current security situation, verify the status of border crossings, especially during the Passover holiday, and make sure you meet the entry requirements of [Egypt](https://travel.gc.ca/destinations/egypt#entryexit) or [Jordan](https://travel.gc.ca/destinations/jordan#entryexit) before travelling there.
 
 Our ability to provide consular services to Canadians during an active conflict is likely to be limited. If you are in Israel or Palestine, prepare contingency plans that don't rely on the Government of Canada's assistance for evacuations or assisted departures.
 

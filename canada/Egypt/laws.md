@@ -123,7 +123,7 @@ The work week is Sunday through Thursday. Egypt’s customs, laws and regulation
 
 Dress conservatively: for women, knee-length or longer dresses and long sleeves are preferable, and men should not wear shorts outside tourist areas. Respect religious and social traditions to avoid offending local sensitivities. Overt public displays of intimate affection are frowned upon in Egyptian culture.
 
-In 2026, the lunar month of Ramadan is expected to begin on or around February 17.
+In 2027, the lunar month of Ramadan is expected to begin on or around February 7.
 
 In public, between sunrise and sunset, be discreet when:
 

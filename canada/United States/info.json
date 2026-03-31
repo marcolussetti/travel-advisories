@@ -1,7 +1,7 @@
 {
     "name": "United States",
-    "update_reason": "Natural disasters and climate \u2013 updated information on flash floods in Hawaii",
-    "update_date": "2026-03-23T16:23:00",
+    "update_reason": "Natural disasters and climate \u2013 removed information on flash floods in Hawaii",
+    "update_date": "2026-03-30T13:33:00",
     "sections": {
         "risk": "canada/United States/risk.md",
         "security": "canada/United States/security.md",
