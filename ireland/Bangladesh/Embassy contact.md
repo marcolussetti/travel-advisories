@@ -1,6 +1,6 @@
 ## Embassy contact
 
-As Ireland does not have an Embassy or Consulate in Bangladesh, consular assistance is provided via the Embassy of Ireland in India.
+As Ireland does not have an Embassy or Consulate in Bangladesh, consular assistance is provided via the Embassy of Ireland in India and our Honorary Consul in Dhaka.
 
 If you require emergency assistance from the Embassy, please contact us on: +91 (11) 49403200.
 
@@ -20,3 +20,14 @@ India
 Fax: +91 11 4059 1898
 
 [**Contact us**](/en/india/newdelhi/contact-us/)
+
+### Honorary Consul of Ireland, Dhaka, Bangladesh
+
+Masud Jamil Khan   
+Cosmos Centre   
+Malibagh, Dhaka-1217   
+Bangladesh
+
+[Tel: +880 2 41030442](tel:+8802 41030442)
+
+**Email:** [masudj.khan@honoraryconsul.ie](mailto:masudj.khan@honoraryconsul.ie)

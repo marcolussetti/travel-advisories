@@ -6,9 +6,7 @@ Normal Precautions
 
 ### **Travel Alert**
 
-We advise against all travel to the entirety of the border region between Thailand and Cambodia, where armed clashes have taken place between Thai and Cambodian armed forces. The clashes have resulted in fatalities including civilian fatalities, and land mines remain present in the disputed border regions. Border crossings are subject to restrictions and closures, and there is a possibility of disruption to air travel between the two countries. While a ceasefire has been agreed, the situation remains fluid and Irish citizens in Thailand and Cambodia or intending to visit should pay close attention to authoritative sources of information and advice, and remain vigilant at all times.
-
-The Thai government has announced a national mourning period beginning on 25 October following the death of Her Majesty Queen Sirikit The Queen Mother. Entertainment activities may be restricted or scaled back during this time, and members of the public have been asked to wear black or dark coloured clothing for a period of 90 days. Irish citizens travelling to Thailand during this time are advised to inform themselves of the local situation and to remain respectful at all times.
+We advise against all travel to the entirety of the border region between Thailand and Cambodia, where armed clashes between Thai and Cambodian armed forces broke out in July 2025 and again in December. The clashes resulted in fatalities, including among civilians. Tensions along the border region remain, and unexploded land mines are present in the disputed border regions. Border crossings are subject to restrictions and closures. The situation remains fluid and Irish citizens in Thailand and Cambodia or intending to visit should pay close attention to authoritative sources of information and advice, and remain vigilant at all times.
 
 ### **General Travel Advice**
 

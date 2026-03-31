@@ -6,6 +6,16 @@ High Degree of Caution
 
 ### **Travel Alert**
 
+#### **Fuel Shortages**
+
+As a result of the ongoing conflict in the Middle East and Gulf region, Bangladesh is experiencing significant fuel shortages.
+
+Measures such as limits on fuel sales have been implemented by the authorities. This may lead to transport disruption and delays in some areas.
+
+Irish Citizens in Bangladesh are advised to monitor local media and government announcements for updates, and allow extra time for travel.
+
+#### **National Elections**
+
 National elections took place in Bangladesh on 12 February 2026. While the election period has passed peacefully, there is still a chance for political gatherings or demonstrations to occur.
 
 Irish citizens travelling to or located in Bangladesh are recommended to exercise a high degree of caution, avoid demonstrations and monitor the advice of local authorities. Those who have not already done so should register their details and those of their dependents [here](https://www.ireland.ie/en/dfa/overseas-travel/citizens-registration/).
