@@ -1,11 +1,11 @@
 {
     "name": "Oman",
-    "update_reason": "Updated information to exercise caution due to the regional escalation ('Warnings and insurance' page).",
+    "update_reason": "New information about flooding ('Warnings and insurance' and 'Safety and security' pages).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Oman/Warnings and insurance.md",
-            "update_date": "2026-03-14T10:00:37+00:00"
+            "update_date": "2026-03-30T16:22:43+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Oman/Getting help.md"
         }
     ],
-    "update_date": "2026-03-14T10:00:37+00:00"
+    "update_date": "2026-03-30T16:22:43+01:00"
 }

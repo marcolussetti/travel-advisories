@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   15 March 2026
+:   31 March 2026
 
 Updated:
-:   14 March 2026
+:   30 March 2026
 
 Latest update:
-:   Updated information to exercise caution due to the regional escalation ('Warnings and insurance' page).
+:   New information about flooding ('Warnings and insurance' and 'Safety and security' pages).
 
 ## Exercise Caution
 
@@ -30,6 +30,10 @@ Regional escalation poses significant security risks and has led to travel disru
 * keep your departure plans under review and ensure your travel documents are up to date
 * read [If you’re affected by a crisis abroad - GOV.UK](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas) this includes suggestions on what you might include in your emergency supplies and “what to do in a crisis”
 * sign up to FCDO Travel Advice [email alerts](https://www.gov.uk/foreign-travel-advice/oman/email-signup)
+
+## Flooding
+
+Oman has experienced extensive and unprecedented flooding in recent days. Some roads are closed, and others may have restrictions in place due to debris or damaged bridges. Please exercise extra vigilance and follow the advice of the Royal Oman Police and the Civil Defence and Ambulance Authority of Oman.
 
 ## Before you travel
 

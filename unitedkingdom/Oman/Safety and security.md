@@ -18,7 +18,7 @@ Terrorists have threatened to carry out attacks in the Gulf region, including on
 * Military, oil, transport and aviation interests
 * Public places, including restaurants, hotels, beaches, shopping centres and places of worship
 
-Stay aware of your surroundings, keep up to date with local media reports and follow the advice of local authorities.
+Stay aware of your surroundings, keep up to date with local media reports, including official messaging from [Oman’s Government Communication Centre](https://x.com/Oman_GC), and follow the advice of the local authorities, including the [Royal Oman Police](https://www.rop.gov.om/english/).
 
 Examples of significant incidents include:
 
@@ -28,7 +28,7 @@ Examples of significant incidents include:
 
 Developments in the Middle East continue to affect public opinion in Oman. In October 2023, there was a small, peaceful demonstration outside the British Embassy. Further unannounced demonstrations are possible throughout the country. Stay alert and avoid large crowds.
 
-Be aware of local sensitivities on these issues and follow the advice of the Omani authorities. Follow news reports and be alert to local and regional developments, which might trigger public disturbances.
+Be aware of local sensitivities on these issues and follow the advice of the Omani authorities, including the [Royal Oman Police](https://www.rop.gov.om/english/). Follow news reports and be alert to local and regional developments, which might trigger public disturbances.
 
 ## Crime
 
@@ -246,7 +246,7 @@ Tropical cyclones from the Indian Ocean sometimes affect Oman in July and August
 You should:
 
 * follow official weather warnings
-* check local weather forecasts and [World Meteorological Organization reports for Oman](https://severeweather.wmo.int/tc/in/)
+* check local weather forecasts, weathers warnings from Oman’s [civil aviation authority](https://www.caa.gov.om/en) and the [World Meteorological Organization reports for Oman](https://severeweather.wmo.int/tc/in/)
 * get advice about travelling conditions, particularly if you’re planning off-road travel or adventure tourism
 
 ### Flash floods
@@ -261,7 +261,7 @@ If you’re caught in a flash flood:
 * do not try to cross the water
 * drive to a dry spot if you’re in a vehicle
 
-Follow any instructions or guidance from the Royal Oman Police.
+Follow any instructions or guidance from the Royal Oman Police and the [Civil Defence & Ambulance Authority](https://cdaa.gov.om/).bYou can also use the Nidaa/CDAA to stay up to date with any emergency updates.
 
 [Previous:Entry requirements](/foreign-travel-advice/oman/entry-requirements)
 

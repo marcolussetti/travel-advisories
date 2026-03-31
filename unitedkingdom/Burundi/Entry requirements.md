@@ -36,12 +36,8 @@ For more details about health entry requirements and recommended vaccinations, s
 
 There are strict rules about goods you can take into or out of Burundi. You must declare anything that may be prohibited or subject to tax or duty.
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/burundi)
+[Previous:Warnings and insurance](/foreign-travel-advice/burundi)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/burundi/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/burundi/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/burundi/print)

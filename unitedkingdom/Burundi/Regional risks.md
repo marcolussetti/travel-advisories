@@ -24,12 +24,8 @@ Burundi closed its land borders with Rwanda on 11 January 2024 because of escala
 
 There have previously been armed attacks in the border region with Rwanda. If you’re travelling near the border with Rwanda, check local media for the latest developments and stay up to date with this travel advice page.
 
-[Previous
-:
-Safety and security](/foreign-travel-advice/burundi/safety-and-security)
+[Previous:Safety and security](/foreign-travel-advice/burundi/safety-and-security)
 
-[Next
-:
-Health](/foreign-travel-advice/burundi/health)
+[Next:Health](/foreign-travel-advice/burundi/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/burundi/print)

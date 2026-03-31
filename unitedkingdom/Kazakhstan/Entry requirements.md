@@ -64,6 +64,12 @@ It is not permitted to export any foreign currency in cash of a value greater th
 
 Contact the [State Revenue Department](https://kgd.gov.kz/en/node/66966) if you have specific questions.
 
+### IMEI registration
+
+To use a local SIM card, you must verify your device’s IMEI at [imei.kz portal](https://kz-imei.kz/landing-page). This requires a border‑crossing certificate obtained from the [QazETA mobile app](https://www.vmp.gov.kz/en/) and a Kazakh Individual Identification Number (IIN). If you do not verify, your local SIM card will be blocked after 30 days, and you will not be able to activate another one.
+
+If you cannot verify your device’s IMEI and your stay exceeds 30 days, consider using a global eSIM instead.
+
 [Previous:Warnings and insurance](/foreign-travel-advice/kazakhstan)
 
 [Next:Safety and security](/foreign-travel-advice/kazakhstan/safety-and-security)

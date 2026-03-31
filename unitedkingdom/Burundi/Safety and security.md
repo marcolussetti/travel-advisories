@@ -125,12 +125,8 @@ The rainy season in Burundi runs from October to May and can result in flash flo
 
 Earthquakes in the region can be felt in Burundi. The US Federal Emergency Management Agency website has advice about [what to do before, during and after an earthquake](https://www.ready.gov/earthquakes).
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/burundi/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/burundi/entry-requirements)
 
-[Next
-:
-Regional risks](/foreign-travel-advice/burundi/regional-risks)
+[Next:Regional risks](/foreign-travel-advice/burundi/regional-risks)
 
 [View a printable version of the whole guide](/foreign-travel-advice/burundi/print)
