@@ -82,7 +82,7 @@ You should:
 
 ### Cape Town airport road attacks
 
-There have been recent attacks and violent crime on secondary roads to and from Cape Town airport.
+There has been an increase in violent crime and targeted attacks to and from Cape Town airport, including incidents involving visitors driving hired cars. See ‘vehicle crime’.
 
 You should:
 
@@ -373,9 +373,9 @@ Always carry a copy of your passport photo page and the page with your visitors 
 
 ### Illegal drugs and cannabis laws
 
-Illegal drugs, including cannabis, carry severe penalties. Using cannabis in private is legal. Public and private use of cannabidiol oils (CBD oils) is also legal.
+Illegal drugs, including cannabis, carry severe penalties. Whilst the personal consumption of cannabis is considered legal, all other drug possession, use or smuggling illegal drugs, including when transiting through the airport is illegal.
 
-You should expect a long jail sentence and heavy fines for possessing, using or smuggling illegal drugs, including when transiting through the airport.
+British nationals have been arrested for attempting to carry illegal drugs, including cocaine, cannabis and khat, to the UK. You should expect a long jail sentence and heavy fines for possessing, using or smuggling illegal drugs, including when transiting through the airport.
 
 Airports in South Africa have excellent technology and security for detecting illegal items. This is also used to scan the baggage of transiting passengers.
 

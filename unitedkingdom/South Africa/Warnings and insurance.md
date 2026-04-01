@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   19 March 2026
+:   1 April 2026
 
 Updated:
-:   18 March 2026
+:   31 March 2026
 
 Latest update:
-:   Updated information on fraud and scams, nightlife and dating, driving rules and pedestrian safety and Table Mountain National Park (‘Safety and security’ page).
+:   Updated information about road attacks to and from Cape Town airport and illegal drugs and cannabis laws (‘Safety and security’ page).
 
 ## Before you travel
 
