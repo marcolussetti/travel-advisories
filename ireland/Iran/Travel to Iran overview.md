@@ -8,13 +8,13 @@ Do Not Travel
 
 #### **Do not travel to Iran.**
 
-**Air strikes have been launched against Iran, with reports of Tehran and other major Iranian cities being struck. Irish citizens who are in Iran should shelter in place and avoid unnecessary movements. Irish citizens should also avoid military and security force installations.**
+**Israel and the US continue to target Iran with airstrikes. No commercial flights are in operation and Iran’s airspace is closed. Irish citizens who are in Iran should leave the country overland if it is safe to do so and if they have the correct entry permission for a neighbouring country.**
 
-**Irish citizens should be prepared to shelter in place for an extended period. Make sure you have adequate supplies of water, food and medication(if required).**
+**The Travel Advice for neighbouring countries is here:** [**Türkiye**](https://www.ireland.ie/en/dfa/overseas-travel/advice/turkiye/)**;** [**Armenia**](https://www.ireland.ie/en/dfa/overseas-travel/advice/armenia/)**;** [**Azerbaijan**](https://www.ireland.ie/en/dfa/overseas-travel/advice/azerbaijan/)**;** [**Turkmenistan**](https://www.ireland.ie/en/dfa/overseas-travel/advice/turkmenistan/)**. Please advise the Embassy of Ireland if you plan to leave Iran to ensure that you have the appropriate entry permission (see contact details below).**
 
-**Iran’s airspace has been closed and all commercial flights are cancelled. This situation is likely to continue for some time. Land border crossings are likely to be significantly congested. You should only make plans to leave Iran overland if it is safe to do so and if you have the correct visa or travel documents to enter a neighbouring country.**
+**Citizens who do not leave Iran should shelter in place and avoid unnecessary movements. Irish citizens should also avoid military and security force installations, as well as Iranian energy infrastructure including power plants and oil and gas facilities. You should be prepared to shelter in place for an extended period. Make sure you have adequate supplies of water, food and medication (if required).**
 
-**Communications in Iran are disrupted at present, with possible further disruptions to internet, phone and SMS services.**
+**Communications in Iran are severely disrupted at present, with possible further disruptions to internet, phone and SMS services.**
 
 In addition, foreign travellers - including Irish citizens - in Iran are at risk of arbitrary detention by the Iranian authorities, including on charges of espionage. There has been an increase in the number of detentions of foreign nationals recently.
 
