@@ -4,7 +4,7 @@
 
 ### State of emergency
 
-A state of emergency is in effect in the following provinces:
+A state of emergency, in response to gang violence, is in effect in the following provinces:
 
 * Bolívar, in Echeandía and Las Naves cantons only
 * Cotopaxi, in La Maná canton only
@@ -18,14 +18,7 @@ A state of emergency is in effect in the following provinces:
 * Santo Domingo de los Tsáchilas
 * Sucumbíos
 
-A curfew will be in effect between 11 pm and 5 am from March 15 to 30, 2026, in the following provinces:
-
-* Guayas
-* Los Ríos
-* Santo Domingo de los Tsáchilas
-* El Oro
-
-The state of emergency and curfew are in response to gang violence. While the state of emergency is in effect, security forces have the power to:
+While the state of emergency is in effect, security forces have the power to:
 
 * enter private homes
 * read private mail and phone records

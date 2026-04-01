@@ -48,7 +48,7 @@ The Sharia penal code applies regardless of a person’s religion or nationality
 
 ### Ramadan
 
-In 2026, the lunar month of Ramadan is expected to begin on or around February 17.
+In 2027, the lunar month of Ramadan is expected to begin on or around February 7.
 
 In public, between sunrise and sunset, refrain from:
 

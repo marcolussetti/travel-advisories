@@ -2,6 +2,17 @@
 
 ## Safety and security
 
+### Explosions in Bujumbura
+
+On March 31, 2026 explosions were reported at an ammunition warehouse in Bujumbura due to an electrical accident.  
+   
+ If you are in Bujumbura:
+
+* avoid affected areas
+* shelter in place and stay away from windows if explosions occur
+* follow the instructions of local authorities
+* monitor local media for up-to-date information on the situation
+
 ### Security situation in Bujumbura Mairie Province
 
 The security situation in Bujumbura Mairie Province is volatile and unpredictable due to the ongoing conflict in the Democratic Republic of the Congo.

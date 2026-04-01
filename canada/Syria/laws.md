@@ -38,7 +38,7 @@ To avoid offending local sensitivities, particularly when visiting religious sit
 
 ### Ramadan
 
-In 2026, the lunar month of Ramadan is expected to begin on or around February 17.
+In 2027, the lunar month of Ramadan is expected to begin on or around February 7.
 
 In public, between sunrise and sunset, refrain from:
 

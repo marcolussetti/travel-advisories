@@ -130,7 +130,7 @@ To avoid offending local sensitivities:
 * seek permission from locals before photographing them
 * avoid public displays of affection, including holding hands
 
-In 2026, the lunar month of Ramadan is expected to begin on or around February 17.
+In 2027, the lunar month of Ramadan is expected to begin on or around February 7.
 
 In public, between sunrise and sunset, refrain from:
 
