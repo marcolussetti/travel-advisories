@@ -10,9 +10,17 @@ Avoid Non-Essential Travel
 
 **In light of the current security situation in the Middle East and Gulf region, the Department of Foreign Affairs and Trade strongly advises Irish citizens against all but essential travel to Saudi Arabia until further notice.**
 
-Irish citizens in Saudi Arabia are advised to shelter in place, avoid unnecessary movement and to follow the advice of the local authorities. Irish citizens are advised to avoid military and security force installations.
+Irish citizens in Saudi Arabia are advised to shelter in place, avoid unnecessary movement and to follow the advice of the local authorities, including when so advised, to shelter in place. Irish citizens are advised to avoid military and security force installations as well as other sites of strategic economic importance including ports and energy facilities.
 
-We are aware that airspace in the region is closed. Citizens affected are advised to liaise directly with their airline and follow the guidance provided.
+Airspace in Saudi Arabia may close for limited periods at short notice. Citizens affected are advised to liaise directly with their airline before travelling to the airport and to follow the guidance provided.
+
+#### In Saudi Arabia
+
+Irish citizens already in the region are advised to avoid unnecessary journeys, remain vigilant, closely monitor developments and local media, and follow the advice of local authorities. In particular, if local authorities advise you to take shelter, stay indoors or move to the nearest safe building immediately. Falling debris caused by intercepts is a significant risk, and you are safest inside a secure structure.
+
+#### Leaving Saudi Arabia
+
+If you wish to leave Saudi Arabia, it is possible to do so via commercial means.
 
 Irish citizens in need of consular assistance should contact the Embassy of Ireland in Saudi Arabia on +966 550 543 386.
 
@@ -20,7 +28,7 @@ Alternatively, you may contact the Duty Officer at the Department of Foreign Aff
 
 Irish citizens in Saudi Arabia should register with the Department via the [**Citizens Registration**](https://www.ireland.ie/en/dfa/overseas-travel/citizens-registration/) facility if they have not already done so.
 
-For further updates, please monitor the Department’s travel advice and social media channels, as well as the Embassy of Ireland in Riyadh on X [@IrishEmbRiyadh](https://twitter.com/IrishEmbRiyadh?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
+For further updates, please monitor the Department’s travel advice and social media channels, as well as the Embassy of Ireland in Riyadh on X [**@IrishEmbRiyadh**](https://twitter.com/IrishEmbRiyadh?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
 
 #### **UK ETA**
 

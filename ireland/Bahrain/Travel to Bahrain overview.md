@@ -10,9 +10,17 @@ Avoid Non-Essential Travel
 
 **In light of the current security situation in the Middle East and Gulf region, the Department of Foreign Affairs and Trade strongly advises Irish citizens against all but essential travel to Bahrain until further notice.**
 
-Irish citizens in Bahrain should shelter in place, avoid unnecessary movement, and follow the advice of the local authorities. Irish citizens are also advised to avoid military and security force installations.
+Irish citizens in Bahrain should shelter in place, avoid unnecessary movement, and follow the advice of the local authorities, including when so advised, to shelter in place. Irish citizens are also advised to avoid military and security force installations as well as other sites of strategic economic importance including ports and energy facilities. Airspace in Bahrain is closed until further notice but commercial flights are available from Saudi Arabia.
 
-There is significant disruption to travel across the Middle East and Gulf regions. Citizens traveling through or to these regions should contact their airline directly.
+In light of the ongoing security situation in the Middle East and Gulf region, the Department of Foreign Affairs and Trade strongly advises Irish citizens against all but essential travel to Bahrain until further notice. The security situation across the region remains volatile and uncertain, with the potential for further escalation.
+
+#### **In Bahrain**
+
+Irish citizens already in the region are advised to avoid unnecessary journeys, remain vigilant, closely monitor developments and local media, and follow the advice of local authorities. In particular, if local authorities advise you to take shelter, stay indoors or move to the nearest safe building immediately. Falling debris caused by intercepts is a significant risk, and you are safest inside a secure structure.
+
+#### **Leaving Bahrain**
+
+If you wish to leave Bahrain, you should note that while airspace in Bahrain currently remains closed, commercial flights are available from Saudi Arabia. The King Fahd Causeway remains open as normal.
 
 Irish citizens in need of consular assistance should contact the Embassy of Ireland in Saudi Arabia on +966 550 543 386.
 
