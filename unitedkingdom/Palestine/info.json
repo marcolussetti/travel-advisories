@@ -1,11 +1,11 @@
 {
     "name": "Palestine",
-    "update_reason": "Updated information about border crossing charges ('Warnings and insurance' and 'Entry requirements')",
+    "update_reason": "Updated information about regional escalation (\u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Palestine/Warnings and insurance.md",
-            "update_date": "2026-03-28T19:06:32+00:00"
+            "update_date": "2026-04-01T16:11:16+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Palestine/Getting help.md"
         }
     ],
-    "update_date": "2026-03-28T19:06:32+00:00"
+    "update_date": "2026-04-01T16:11:16+01:00"
 }

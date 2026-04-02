@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   24 February 2026
+:   2 April 2026
 
 Updated:
-:   23 February 2026
+:   1 April 2026
 
 Latest update:
-:   Removal of information on potential travel disruption during elections taking place in the Federal Capital Territory (including Abuja) on 21 February.
+:   Updated information about risks from kidnapping for ransom and terrorist kidnap ('Safety and security' page).
 
 ![](https://assets.publishing.service.gov.uk/media/68b5a5683f3e5483efdba88a/FCDO__TA__030_-_Nigeria_Travel_Advice_map__WEB_.jpg)
 

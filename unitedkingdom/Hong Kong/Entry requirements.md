@@ -4,6 +4,8 @@ This information is for people travelling on a full [‘British citizen’ passp
 
 The authorities in Hong Kong set and enforce entry rules. If you’re not sure how these requirements apply to you, contact [Hong Kong’s Economic and Trade Office in the UK](https://www.hketolondon.gov.hk/).
 
+The authorities in Hong Kong no longer accept BN(O) passports for immigration clearance and do not recognise them as valid proof of identity.
+
 ## Passport validity requirements
 
 Your passport must be valid for at least one month after the date you plan to leave Hong Kong.
@@ -50,7 +52,11 @@ You could be fined or given a prison sentence. See further information from the 
 
 ### E-cigarettes
 
-It’s illegal to bring e-cigarettes or other smoking products, such as heated tobacco products and herbal cigarettes, into Hong Kong. If you are travelling through Hong Kong and do not pass immigration control, you’re exempt.
+It is prohibited to bring e-cigarettes, heated tobacco products, herbal cigarettes, or related devices into Hong Kong, including in personal luggage. From 30 April 2026, possessing any e-cigarette or “Alternative Smoking Product” (ASP) in a public place will be illegal, regardless of whether it is in use. Offences also include selling, manufacturing, promoting, advertising, or possessing e-cigarettes for commercial purposes. Possession of these items or their components can result in imprisonment and substantial fines. Travellers transiting through Hong Kong without passing immigration control are exempt from these restrictions.
+
+### CBD (cannabidiol)
+
+Hong Kong classifies CBD as a dangerous drug. All cannabis products are illegal in Hong Kong, including CBD (cannabidiol) items such as oils, creams, capsules, and food products.
 
 ### Powdered baby formula
 

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   21 March 2026
+:   2 April 2026
 
 Updated:
-:   20 March 2026
+:   1 April 2026
 
 Latest update:
-:   Updated information about exercising increased caution and filming and taking photographs, and other media restrictions (‘Warnings and insurance’ and ‘Safety and security’ pages).
+:   Updated information about regional escalation (‘Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/69a8bbce5fc94cfb71958fb9/FCDO__TA__034_-_Saudi_Arabia_Travel_Advice_Ed7__WEB_.jpg)
 
@@ -49,7 +49,11 @@ It is illegal to film or photograph government buildings, diplomatic premises, m
 
 Regional escalation poses significant security risks and has led to travel disruption.
 
-Stay away from areas around oil infrastructure, security or military facilities and US government facilities.
+The Iranian regime has publicly stated its intention to target locations associated with the United States and Israel. This includes US-linked organisations, businesses, facilities and institutions.
+
+Stay away from areas around security or military facilities, and US-linked locations.
+
+Iran continues to strike civilian infrastructure across the region such as ports, hotels, roads, bridges, energy facilities, oil production sites, water systems, and airports.
 
 Monitor local and international media for the latest information.
 

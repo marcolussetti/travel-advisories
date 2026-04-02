@@ -1,11 +1,11 @@
 {
     "name": "Saudi Arabia",
-    "update_reason": "Updated information about exercising increased caution and filming and taking photographs, and other media restrictions (\u2018Warnings and insurance\u2019 and \u2018Safety and security\u2019 pages).",
+    "update_reason": "Updated information about regional escalation (\u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Saudi Arabia/Warnings and insurance.md",
-            "update_date": "2026-03-20T18:18:42+00:00"
+            "update_date": "2026-04-01T16:10:42+01:00"
         },
         {
             "title": "Entry requirements",
@@ -38,5 +38,5 @@
             "file": "unitedkingdom/Saudi Arabia/Getting help.md"
         }
     ],
-    "update_date": "2026-03-20T18:18:42+00:00"
+    "update_date": "2026-04-01T16:10:42+01:00"
 }

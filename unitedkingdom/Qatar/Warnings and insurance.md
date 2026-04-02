@@ -1,10 +1,10 @@
 # Warnings and insurance
 
 Still current at:
-:   17 March 2026
+:   2 April 2026
 
 Updated:
-:   16 March 2026
+:   1 April 2026
 
 Latest update:
 :   Updated information about regional escalation (‘Warnings and insurance’ page).
@@ -28,9 +28,11 @@ Let the UK government know you’re in Qatar, [register your presence](https://w
 
 Regional escalation poses significant security risks and has led to travel disruption.
 
-Stay away from areas around security or military facilities and US facilities and institutions.
+The Iranian regime has publicly stated its intention to target locations associated with the United States and Israel. This includes US-linked organisations, businesses, facilities and institutions.
 
-Iran continues to strike civilian infrastructure across the region such as ports, hotels, roads, bridges, energy facilities, oil production sites, water systems, and airports.
+Stay away from areas around security or military facilities, and US-linked locations.
+
+Iran continues to strike civilian infrastructure across the region such as ports, hotels, roads, bridges, energy facilities, oil production sites, water systems, and airports.
 
 Follow the instructions of the local authorities and monitor local and international media for the latest information.
 

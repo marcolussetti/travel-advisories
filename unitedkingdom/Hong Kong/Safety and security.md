@@ -48,7 +48,7 @@ The [2024 Safeguarding National Security Ordinance](https://www.sb.gov.hk/eng/bl
 * unlawful disclosure of state secrets
 * external interference endangering national security
 
-National security laws can be interpreted broadly and some offences can lead to a maximum penalty of life imprisonment. Individuals and organisations can be prosecuted.
+National security laws can be interpreted broadly and some offences can lead to a maximum penalty of life imprisonment. Individuals and organisations can be prosecuted and are required to comply with national security investigations, including sharing full access to electronic devices.
 
 The national security laws apply to activities taking place inside and outside Hong Kong, including in the UK. The national security laws apply to all individuals regardless of nationality or residency.
 
@@ -74,9 +74,11 @@ It is illegal to import and re-export elephant ivory and its products, including
 
 ### Illegal drugs
 
-Illegal drugs, including cannabis and cannabidiol (CBD), carry severe penalties.
+Avoid any involvement with illegal drugs, including cannabis. All cannabis products are illegal in Hong Kong, including CBD (cannabidiol) items such as oils, creams, capsules, and food products.
 
-You should expect a long jail sentence and heavy fines for possessing, using or smuggling illegal drugs, including cannabis, when transiting through the airport.
+Criminal gangs and individuals in the UK and overseas have been known to coerce people into carrying drugs.  Do not allow yourself to be persuaded.
+
+Hong Kong enforces a zero‑tolerance policy toward dangerous drugs and will not tolerate drug‑related activities. If you are found guilty of smuggling, trafficking, possessing, or using illegal narcotics, including while transiting through the airport, you should expect a severe prison sentence.
 
 Airports in Hong Kong have excellent technology and security for detecting illegal items. This is also used to scan the baggage of transiting passengers.
 
@@ -100,7 +102,7 @@ Find out what you can do to [prepare for and respond to extreme weather and natu
 
 ### Typhoons
 
-Typhoon season runs from April to October in Hong Kong and may cause flooding and landslides. Follow any local warnings issued in advance. Public offices and public transport will shut down when there is a ‘Typhoon 8’ storm signal.
+Typhoon season runs from May to November in Hong Kong and may cause flooding and landslides. Follow any local warnings issued in advance. Public offices and public transport will shut down when there is a ‘Typhoon 8’ storm signal.
 
 Monitor local news and check the [World Meteorological Organization](https://severeweather.wmo.int/tc/wnp/index.html) and [Hong Kong Observatory](https://www.hko.gov.hk/en/index.html).
 

@@ -47,11 +47,13 @@ Recent significant attacks include:
 
 ### Terrorist kidnap
 
-Terrorist groups are highly likely to carry out kidnaps in Nigeria. Kidnappings are widespread and could occur anywhere. Foreign nationals and humanitarian workers have been kidnapped in the North, including in the states of Adamawa, Bauchi, Borno, Katsina, Kano and Kebbi. There may be an increased risk of kidnap, particularly to NGO workers, in Borno State.
+Terrorist groups are highly likely to carry out kidnaps in Nigeria. Kidnappings are widespread and could occur anywhere. Foreign nationals and humanitarian workers have been kidnapped in the North, including in the states of Adamawa, Bauchi, Borno, Katsina, Kano and Kebbi. There may be an increased risk of terrorist kidnap, particularly to NGO workers, in Borno State.
 
 British nationals are seen as legitimate targets, including tourists, humanitarian aid workers, journalists and business travellers. If you are kidnapped, the reason for your presence is unlikely to protect you or secure your safe release.
 
 The long-standing policy of the British government is not to make substantive concessions to hostage takers. The British government considers that paying ransoms and releasing prisoners builds the capability of terrorist groups and finances their activities. This can, in turn, increase the risk of further hostage-taking. The Terrorism Act (2000) makes payments to terrorists illegal.
+
+When arranging meetings, use a secure location. Avoid regular patterns of travel and aim to only travel during daylight hours.
 
 ## Political situation
 
@@ -103,16 +105,16 @@ The UK has restricted [overseas adoption of children](https://www.gov.uk/child-a
 
 ### Kidnapping for ransom
 
-Kidnapping is widespread across Nigeria, and particularly severe in the north west. There has been an increase in kidnappings in the Abuja Federal Capital Territory area.
+Kidnapping is widespread across Nigeria and criminal kidnaps can occur anywhere. The issue is particularly severe in the northwest (including Zamfara, Katsina, Kaduna, Borno, Sokoto) but is also high in many central and southern states (including Niger, Kogi, Kwara, and the Abuja Federal Capital Territory).
 
 Criminal groups may kidnap victims by stopping cars on major highways, including the:
 
 * Abuja-Kaduna highway
 * Enugu-Awka-Onitsha expressway in Anambra
 
-There is a high threat of kidnapping and other armed attacks at oil and gas facilities in the Niger Delta region. This also applies to facilities at sea.
+There is also a high threat of kidnapping and other armed attacks at oil and gas facilities in the Niger Delta region including to facilities at sea.
 
-Possible targets for kidnap include British nationals of Nigerian origin visiting friends and relatives, and British nationals working for international corporations. They will have connections in the country with ready access to funds. There is a possibility that criminal groups could sell people they kidnap as hostages to terrorist organisations.
+Possible targets for kidnap include British nationals of Nigerian origin visiting friends and relatives, and British nationals working for international corporations. They will have connections in the country with ready access to funds. There is a possibility that criminal groups could sell people they kidnap as hostages to terrorist organisations (see ‘Terrorist kidnap’ section above).
 
 When arranging meetings, use a secure location. Avoid regular patterns of travel and aim to only travel during daylight hours.
 

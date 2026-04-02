@@ -1,15 +1,15 @@
 # Warnings and insurance
 
 Still current at:
-:   31 March 2026
+:   2 April 2026
 
 Updated:
-:   30 March 2026
+:   1 April 2026
 
 Latest update:
-:   New information about flooding ('Warnings and insurance' and 'Safety and security' pages).
+:   Updated information about regional escalation (‘Warnings and insurance’ page).
 
-## Exercise Caution
+## Exercise caution
 
 We advise British nationals in Oman to exercise increased caution. Press reports have included some limited missile and drone activity in the commercial ports and industrial areas of Duqm, Salalah and Sohar.
 
@@ -23,7 +23,13 @@ British nationals in Oman who need consular assistance can contact us 24/7 by ca
 
 ## Regional escalation
 
-Regional escalation poses significant security risks and has led to travel disruption
+Regional escalation poses significant security risks and has led to travel disruption.
+
+The Iranian regime has publicly stated its intention to target locations associated with the United States and Israel. This includes US-linked organisations, businesses, facilities and institutions.
+
+Stay away from areas around security or military facilities, and US-linked locations.
+
+Iran continues to strike civilian infrastructure across the region such as ports, hotels, roads, bridges, energy facilities, oil production sites, water systems, and airports.
 
 * stay away from areas around energy, security, or military facilities
 * follow the instructions of the local authorities and monitor local and international media for the latest information

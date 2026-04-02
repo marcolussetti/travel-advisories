@@ -1,11 +1,11 @@
 {
     "name": "Iraq",
-    "update_reason": "Updated information about regional escalation and new information about drones (\u2018Warnings and insurance\u2019 and \u2018Safety and security\u2019 pages).",
+    "update_reason": "Updated information about regional escalation (\u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Iraq/Warnings and insurance.md",
-            "update_date": "2026-03-15T10:02:30+00:00"
+            "update_date": "2026-04-01T16:11:29+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Iraq/Getting help.md"
         }
     ],
-    "update_date": "2026-03-15T10:02:30+00:00"
+    "update_date": "2026-04-01T16:11:29+01:00"
 }

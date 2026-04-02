@@ -1,11 +1,11 @@
 {
     "name": "Hong Kong",
-    "update_reason": "New information about dual nationals returning to the UK (\u2018Entry requirements\u2019 page).",
+    "update_reason": "Updated information on dual Chinese-British nationality, E-cigarettes and illegal drugs including CBD (cannabidiol) (\u2018Warnings and insurance\u2019, \u2018Entry requirements\u2019 and \u2018Safety and security\u2019 pages).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Hong Kong/Warnings and insurance.md",
-            "update_date": "2025-12-11T11:32:21+00:00"
+            "update_date": "2026-04-01T16:59:28+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Hong Kong/Getting help.md"
         }
     ],
-    "update_date": "2025-12-11T11:32:21+00:00"
+    "update_date": "2026-04-01T16:59:28+01:00"
 }

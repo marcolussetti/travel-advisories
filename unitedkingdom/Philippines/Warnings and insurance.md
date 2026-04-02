@@ -1,10 +1,10 @@
 # Warnings and insurance
 
 Still current at:
-:   20 March 2026
+:   2 April 2026
 
 Updated:
-:   19 March 2026
+:   1 April 2026
 
 Latest update:
 :   Updated information about global travel impacts due to escalation in the Middle East (‘Warnings and insurance’ page).
@@ -42,7 +42,7 @@ Commercial options to depart the Philippines remain available, but your travel p
 * check for the latest updates from your airline or tour operator before travelling
 * review your travel insurance policy for coverage before you travel
 * monitor local and international media for the latest information and sign up for travel advice email alerts
-* The Philippines Bureau of Immigration has advised that affected foreign nationals whose valid stay expired on 28 February 2026 onwards can legally remain in the Philippines until 1 April 2026 without payment of any fees, fines and penalties
+* The Philippines Bureau of Immigration has advised that affected foreign nationals whose valid stay expired on 28 February 2026 onwards, can legally remain in the Philippines until 1 May 2026 without payment of any fees, fines and penalties
 
 ## Demonstrations
 

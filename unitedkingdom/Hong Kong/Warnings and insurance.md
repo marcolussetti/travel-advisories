@@ -1,29 +1,23 @@
 # Warnings and insurance
 
 Still current at:
-:   12 December 2025
+:   2 April 2026
 
 Updated:
-:   11 December 2025
+:   1 April 2026
 
 Latest update:
-:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
+:   Updated information on dual Chinese-British nationality, E-cigarettes and illegal drugs including CBD (cannabidiol) (‘Warnings and insurance’, ‘Entry requirements’ and ‘Safety and security’ pages).
 
 This travel advice covers the Hong Kong Special Administrative Region (SAR). For mainland China, see [travel advice for China](https://www.gov.uk/foreign-travel-advice/china) and for Macao SAR, see [Macao travel advice](https://www.gov.uk/foreign-travel-advice/macao).
 
 ## Dual Chinese-British nationality
 
-Hong Kong does not recognise dual nationality. If you have both British and Chinese nationality, the local authorities may treat you as a Chinese citizen, even if you enter Hong Kong on a full “British citizen” passport or hold a British National (Overseas) passport. If this is the case, the British Consulate-General may not be able to offer you consular help.
+Hong Kong does not recognise dual nationality, and does not recognise the BN(O) passport as a valid travel document or proof of identity. If you hold both British and Chinese nationality, local authorities may treat you solely as a Chinese citizen, even if you enter Hong Kong on a full “British citizen” passport or hold a British National (Overseas) passport. In such circumstances, the British Consulate-General may not be able to offer you consular assistance.
 
 If you have formally renounced Chinese citizenship, carry evidence that you have done so.
 
 See guidance on [nationality in China](https://www.gov.uk/government/publications/nationality-in-china).
-
-## Typhoons
-
-Typhoon season runs from April to October in Hong Kong and may cause flooding and landslides. Follow any local warnings issued in advance. Public offices and public transport will shut down when there is a ‘Typhoon 8’ storm signal.
-
-Monitor local news and check the [World Meteorological Organization](https://severeweather.wmo.int/tc/wnp/index.html) and [Hong Kong Observatory](https://www.hko.gov.hk/en/index.html).
 
 ## Before you travel
 

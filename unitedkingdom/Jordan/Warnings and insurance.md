@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   11 March 2026
+:   2 April 2026
 
 Updated:
-:   10 March 2026
+:   1 April 2026
 
 Latest update:
-:   New information about the land border crossings with Saudi Arabia, Israel, Palestine, Syria and Iraq and sea crossing with Egypt (‘Entry requirements’ page).
+:   Updated information about regional escalation (‘Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/69a5be6fa56a5482312c71a0/FCDO__TA__087_-_Jordan_Travel_Advice_Ed3__WEB_.jpg)
 
@@ -28,13 +28,17 @@ FCDO advises against all but essential travel to all other areas of Jordan.
 
 Regional escalation poses significant security risks and has led to travel disruption.
 
+The Iranian regime has publicly stated its intention to target locations associated with the United States and Israel. This includes US or Israeli-linked organisations, businesses, facilities and institutions.
+
+Iran continues to strike civilian infrastructure across the region such as ports, hotels, roads, bridges, energy facilities, oil production sites, water systems, and airports.
+
 British nationals should:
 
 * read [If you’re affected by a crisis abroad - GOV.UK](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas). This includes guidance on “how to prepare for a crisis” with suggestions on what you might include in your emergency supplies and “what to do in a crisis”
 * follow advice from the local authorities
 * sign up to FCDO Travel Advice email alerts
 * monitor local and international media for the latest information
-* stay away from areas around security or military or US government facilities
+* stay away from areas around security or military facilities, and US or Israeli-linked locations
 * keep your departure plans under review, and ensure your travel documents are up to date
 * when local sirens sound, follow local advice to stay indoors or find the nearest safe building or designated shelter. An interior stairwell or a room with as few external walls or windows as possible may provide additional protection
 * missiles travelling through Jordanian airspace have been intercepted, with debris falling in some urban areas.  Stay away from any debris. If anyone is injured, dial 911

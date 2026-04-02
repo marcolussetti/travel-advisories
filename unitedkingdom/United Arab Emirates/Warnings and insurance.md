@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   17 March 2026
+:   2 April 2026
 
 Updated:
-:   16 March 2026
+:   1 April 2026
 
 Latest update:
-:   Updated information about registering your presence (‘Warnings and insurance’ page).
+:   Updated information about regional escalation (‘Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/69a36e57ec82ce45f05bd728/United_Arab_Emirates_Travel_Advice_Ed1__WEB_.jpg)
 
@@ -28,9 +28,11 @@ With commercial flights resuming to the UK from United Arab Emirates (UAE), we 
 
 Regional escalation poses significant security risks and has led to travel disruption.
 
-Stay away from areas around security or military facilities and US or Israeli  facilities and institutions.
+The Iranian regime has publicly stated its intention to target locations associated with the United States and Israel. This includes US or Israeli-linked organisations, businesses, facilities and institutions.
 
-Iran continues to strike civilian infrastructure across the region such as ports, hotels, roads, bridges, energy facilities, financial institutions, oil production sites, water systems, and airports.
+Stay away from areas around security or military facilities, and US or Israeli-linked locations.
+
+Iran continues to strike civilian infrastructure across the region such as ports, hotels, roads, bridges, energy facilities, oil production sites, water systems, and airports.
 
 Follow the instructions of the local authorities and monitor local and international media for the latest information.
 
@@ -54,7 +56,7 @@ It is illegal to post material, including videos and photographs, online that is
 
 ## Leaving UAE
 
-There are a limited number of commercial options available, including by air from UAE and from Oman. If your presence in UAE is not essential, you may wish to consider departing - if you judge you can access these options safely. Check for the latest updates from your airline or tour operator, as well as the instructions from local authorities, and the status of any border crossings before you travel. If you are traveling by air do not travel to the airport unless your airline has confirmed your reservation.
+If your presence in UAE is not essential, you may wish to consider departing - if you judge you can access these options safely. Check for the latest updates from your airline or tour operator, as well as the instructions from local authorities, and the status of any border crossings before you travel. If you are traveling by air do not travel to the airport unless your airline has confirmed your reservation.
 
 Make sure you have access to emergency supplies and essential medication. Travel within or out of UAE is at your own risk.
 
