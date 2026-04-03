@@ -1,7 +1,7 @@
 {
     "name": "Hungary",
-    "update_reason": "Health \u2013 information on travellers' diarrhea removed",
-    "update_date": "2026-03-18T14:00:00",
+    "update_reason": "Safety and security \u2013 added information on parliamentary elections",
+    "update_date": "2026-04-02T11:50:00",
     "sections": {
         "risk": "canada/Hungary/risk.md",
         "security": "canada/Hungary/security.md",

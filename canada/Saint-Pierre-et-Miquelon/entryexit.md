@@ -53,7 +53,7 @@ Student visa: not required for stays of up to 90 days
 
 Visas are not issued on site. If you plan to stay longer than 90 days in Saint Pierre and Miquelon, you must obtain your visa in Canada before going there.
 
-[Do I need a visa?](https://france-visas.gouv.fr/en/web/france-visas/visa-wizard) – Government of France
+[Check your visa need](https://france-visas.gouv.fr/en/web/france-visas/assistant-visa) – Government of France
 
 ### Children and travel
 

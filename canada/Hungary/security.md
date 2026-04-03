@@ -2,6 +2,21 @@
 
 ## Safety and security
 
+### Parliamentary elections
+
+On April 12, 2026, parliamentary elections will be held in Hungary.
+
+There could be political rallies and other mass gatherings, including demonstrations, before and after the elections. Local authorities may strengthen security measures and limit movement.
+
+If you are in Hungary:
+
+* avoid demonstrations and large gatherings
+* expect an increased presence of security forces
+* monitor local media to stay informed of developments
+* follow the instructions of local authorities
+
+[More on demonstrations and mass gatherings](#demonstrations)
+
 ### Crime
 
 #### Petty crime
