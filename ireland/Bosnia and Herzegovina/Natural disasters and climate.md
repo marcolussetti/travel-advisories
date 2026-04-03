@@ -2,4 +2,4 @@
 
 ### **Earthquakes**
 
-Earthquakes are not uncommon in Bosnia and Herzegovina and small tremors are recorded throughout the year without consequences.
+Earthquakes are not uncommon in Bosnia and Herzegovina and small tremors are recorded throughout the year.

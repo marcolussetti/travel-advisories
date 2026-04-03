@@ -8,7 +8,7 @@ Illegal drug use (no matter what the drug) carries stiff penalties, including fi
 
 ### **Money**
 
-Most transactions in Bosnia and Herzegovina are made in cash. The local currency is the Konvertible Mark, and although some businesses may accept Euro notes in place of these, the Euro is not legal tender in Bosnia and Herzegovina.
+Most transactions in Bosnia and Herzegovina are made in cash. The local currency is the convertible Mark, and although some businesses may accept Euro notes in place of these, the Euro is not the official currency in Bosnia and Herzegovina.
 
 It is also possible to cash travellers’ cheques at most banks. However, it is still advisable to bring enough cash with you if travelling outside large cities.
 

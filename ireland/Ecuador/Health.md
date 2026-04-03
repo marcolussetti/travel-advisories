@@ -4,7 +4,7 @@ Check with your doctor well in advance of travelling (8 weeks) to see if any vac
 
 ### **Yellow Fever**
 
-Travellers to Ecuador arriving from Brazil, Uganda, or the Democratic Republic of the Congo, or who have transited through airports in these countries, require a **yellow fever vaccination certificate**.
+Travellers to Ecuador arriving from Uganda or the Democratic Republic of the Congo, or who have transited through airports in these countries, require a **yellow fever vaccination certificate**.
 
 The yellow fever vaccine must have been administered at least 10 days before entering Ecuador. The certificate may be requested when boarding by means of air, land, or sea transport to Ecuador.
 

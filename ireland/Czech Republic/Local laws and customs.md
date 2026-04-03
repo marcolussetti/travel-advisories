@@ -4,7 +4,7 @@ Remember, the local laws apply to you as a visitor and it’s your responsibilit
 
 ### **Illegal Drugs**
 
-Illegal drug use (no matter what the drug) carries stiff penalties, including fines and long prison terms.
+Illegal drug use (no matter what the drug) carries stiff penalties, including fines and long prison terms. It is strongly advised not to consume any ‘cannabis products’ sold in souvenir or ‘cannabis’ shops, as products are often marked as not intended for consumption, and may not be what they purport to be.
 
 ### **Identification**
 
@@ -13,6 +13,8 @@ Visitors and Czech nationals are required by law to carry ID in public at all ti
 Tourists are obliged to carry their passport card or passport at all times for identification purposes. A driving licence won’t suffice and a photocopy of the passport is not sufficient either.
 
 ### **Currency Exchange**
+
+Czech crowns are used in the Czech Republic, and there are some businesses which only accept cash. It is always good to check whether card payments are accepted in advance.
 
 Never exchange money with vendors on the street as this money is often counterfeit. Money can be withdrawn from ATMs or exchanged at a bank or currency exchange office.
 

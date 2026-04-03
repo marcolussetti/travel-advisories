@@ -6,42 +6,6 @@ Normal Precautions
 
 ### **Travel Alert**
 
-#### **World Cup Qualifying Match on 26 March**
-
-We have included some general guidance for Irish fans travelling to the Czech Republic for the World Cup play-off match. Citizens travelling are advised to register their contact details with the Embassy of Ireland to the Czech Republic using [**Citizens Registration**](https://citizensregistration.dfa.ie/).
-
-#### **Access to the Stadium**
-
-Useful information on getting to the Fortuna Arena can be found here: [**About Fortuna Arena » Fortuna Arena » Klub » SK Slavia Praha**](https://en.slavia.cz/zobraz.asp?t=klub-fortuna-arena).
-
-It is not advisable to purchase tickets from third parties, as these may not be accepted for entry into the stadium. Irish fans who have purchased tickets for the Czech sections of the stadium may be denied entry and/or removed from the stadium.
-
-#### **Transport**
-
-Trams always have right of way, even at pedestrian crossings. There are a number of accidents involving trams every year and it is important to take extra care if you are in the vicinity of tram tracks.
-
-You must buy tickets for public transport before travelling and validate them at the start of your journey at the yellow machines, which are located at the top of the escalators/stairs in metro stations, or on trams and buses.
-
-There is usually an option to purchase tickets onboard trams, using the touchscreen machines. These tickets will have a timestamp and do not need to be validated.
-
-Be aware that there are regular ticket inspections and fines are imposed for those without a valid ticket.
-
-#### **Safety and Security**
-
-Crime remains relatively low in the Czech Republic, but petty theft and pickpocketing can be an issue, and it is important to remain aware of your surroundings.
-
-Do not get involved with drugs in any way. The penalties for smuggling, possession and use of drugs are severe. It is strongly advised not to consume any ‘cannabis products’ sold in souvenir or ‘cannabis’ shops, as products are often marked as not intended for consumption, and may not be what they purport to be.
-
-The central Lost and Found Office for Prague city is located at Karolíny Světlé 5, Prague 1. The office can be called on +420 224 235 085.
-
-#### **ID**
-
-There is a requirement to carry photographic ID when in the Czech Republic, and a driving licence would not be considered sufficient. Anyone failing to present photographic ID may be fined or brought to the nearest police station to have their identity verified.
-
-#### **Currency**
-
-Czech crowns are used in the Czech Republic, and there are some businesses which only accept cash. It is always good to check whether card payments are accepted in advance.
-
 #### **UK ETA**
 
 **Exemption for Irish Citizens, including Irish dual citizens, travelling to, or transiting through, the UK, the Channel Islands or the Isle of Man from outside the Common Travel Area:**

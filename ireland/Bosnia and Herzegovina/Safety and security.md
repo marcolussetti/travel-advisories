@@ -24,7 +24,7 @@ Crime remains relatively low in Bosnia and Herzegovina but take sensible precaut
 
 ### **Reporting Crime**
 
-If a victim of a crime while in Bosnia and Herzegovina, report it to the local police immediately and get a report. Call the police on 122, and citizens can contact the Irish Embassy in Ljubljana on +386 1 300 8970 if assistance is required.
+If a victim of a crime while in Bosnia and Herzegovina, report it to the local police immediately and get a report. Call the police on 122, If a victim of a crime while in Bosnia and Herzegovina, report it to the local police immediately and get a report. Call the police on 122, and citizens can contact the Irish Embassy in **Sarajevo at +387 33 223 200** if assistance is required.
 
 ### **Driving**
 
@@ -51,7 +51,7 @@ Check that you have adequate insurance and read the small print of the vehicle h
 
 ### **Public Transport**
 
-Local rail, bus and tram services are generally reliable, but are currently not operating or severely restricted.
+Local rail, bus and tram services are generally reliable, but services may be limited.
 
 ### **Taxis**
 

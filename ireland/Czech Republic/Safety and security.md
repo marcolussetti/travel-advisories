@@ -13,6 +13,8 @@ Crime remains relatively low in the Czech Republic but you should take sensible 
 * If approached by an individual claiming to be a police officer, decline to show your money but offer instead to go with him or her to the nearest police station or call 158 or 112 to check their identity.
 * Czech authorities have reported several incidents of deaths and hospitalisations resulting from the consumption of tainted spirits. You should take extra care when drinking or buying spirits in the Czech Republic as instances of methanol poisoning have been reported. We recommend that you only buy alcohol from legitimate vendors and ensure the seal around the cap or cork has not been broken.
 
+The central Lost and Found Office for Prague city is located at Karolíny Světlé 5, Prague 1. The office can be called on +420 224 235 085.
+
 ### **Reporting Crime**
 
 If you’re the victim of a crime while in the Czech Republic, report it in-person at a local police station, and get a police report (‘policejní zpráva’) and police report crime number.
@@ -59,7 +61,7 @@ On-the-spot fines are imposed for failure to produce a valid ticket. If you can�
 
 For safety and economic reasons, we advise you to use major taxi companies, such as AAA (Tel: 14014 or 222 333 222) or Profitaxi (Tel: 261 314 151). Taxi companies such as Uber and Bolt also operate in the Czech Republic.
 
-These companies are usually able to inform you in advance of the type, number and colour of the car that will collect you. Despite improvements in recent years, overcharging by taxi drivers remains a problem, especially for foreign tourists. Beware of taxis which are not properly marked and which are not at legal taxi ranks. All taxis have meters and must use the shortest route to your destination
+These companies are usually able to inform you in advance of the type, number and colour of the car that will collect you. Despite improvements in recent years, overcharging by taxi drivers remains a problem, especially for foreign tourists. Beware of taxis which are not properly marked and which are not at legal taxi ranks. All taxis have meters and must use the shortest route to your destination.
 
 **Driving**
 

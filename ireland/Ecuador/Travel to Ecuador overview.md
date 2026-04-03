@@ -19,13 +19,7 @@ Owing to civil unrest, violent crime, and kidnapping, the security status of ‘
 * **Minefields** near the southern portion of the border with Peru, in particular Chinchipe, El Pangui, Nangaritza, and Yantzaza;
 * **Esmeraldas**, **El Oro**, **Guayas**, and **Los Ríos** provinces.
 
-### **Yellow Fever**
-
-Travellers to Ecuador arriving from Brazil, Uganda, or the Democratic Republic of the Congo, or who have transited through airports in these countries, require a **yellow fever vaccination certificate**.
-
-The yellow fever vaccine must have been administered at least 10 days before entering Ecuador. The certificate may be requested when boarding by means of air, land, or sea transport to Ecuador.
-
-#### **Heavy Rainfall**
+### **Heavy Rainfall**
 
 On 27 February 2026, a State of Emergency of 90 days was declared in the following regions owing to heavy rainfall:
 
