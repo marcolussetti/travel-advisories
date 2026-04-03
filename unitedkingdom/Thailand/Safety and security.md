@@ -201,7 +201,7 @@ If you live in Thailand, you can apply for a Thai driving licence using your UK 
 
 ### Car and motorcycle hire
 
-Motorcycles and scooters for hire in beach resorts are often unregistered and cannot be used legally on a public road. Before you hire a vehicle, make sure your travel insurance covers you and check the small print of the lease agreement. Do not hand over your passport as a guarantee against returning a motorcycle or scooter.
+Motorcycles and scooters for hire in tourist areas are often unregistered and cannot be used legally on a public road. Before you hire a vehicle, make sure your travel insurance covers you and check the small print of the lease agreement, paying particular attention to any limits on engine size and necessary licenses. Many travel insurance policies expect you to hold the correct UK licence for the type of car, motorbike or scooter you intend to drive abroad. This means that if you wouldn’t be legally permitted to drive it in the UK, your insurer may not cover you for driving it in Thailand.
 
 By law, you must wear a helmet when riding a motorcycle.
 

@@ -33,7 +33,7 @@ You can find more information on:
 
 ## Visa requirements
 
-British Citizen passport holders can enter Ukraine without a visa for visits of up to 90 days within a 180-day period. Ukraine has confirmed that this policy will continue to apply to British citizens until 30 January 2026.
+British Citizen passport holders can enter Ukraine without a visa for visits of up to 90 days within a 180-day period. Ukraine has confirmed that this policy will continue to apply to British citizens until 30 January 2027.
 
 If you’re planning to stay in Ukraine for longer than 90 days in a 180 day period, you need to get a visa. For more advice contact the [Ukrainian Embassy in London](https://mfa.gov.ua/en/embassies/velika-britaniya) or [Consulate General in Edinburgh](https://edinburgh.mfa.gov.ua/en).
 

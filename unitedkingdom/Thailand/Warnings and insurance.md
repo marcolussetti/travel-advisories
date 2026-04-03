@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   20 March 2026
+:   3 April 2026
 
 Updated:
-:   19 March 2026
+:   2 April 2026
 
 Latest update:
-:   Updated information about global travel impacts due to escalation in the Middle East (‘Warnings and insurance’ page).
+:   Updated information about insurance for car and motorcycle hire (‘Safety and security’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/6980b4383915f7123658010e/FCDO__TA__040_-_Thailand_Travel_Advice_Ed8__WEB_.jpg)
 
@@ -35,7 +35,9 @@ This is due to regular attacks in the provinces by the border with Malaysia. See
 
 FCDO advises against all but essential travel to areas within 20km of the land border with Cambodia.
 
-Find out more about [why FCDO advises against travel](/foreign-travel-advice/thailand/safety-and-security#terrorism).
+Fighting occurred along parts of the border in July 2025, and further clashes took place in early December, involving rocket and artillery fire. Land borders and crossings between Thailand and Cambodia remain suspended. Tourist sites close to the border, including the Khao Phra Wihan Preah Vihear temple, the Ta Kwai Ta Krabey temple and the Ta Muen Thom Tamone Thom temple, are closed. There are unexploded landmines in the area. Travel to affected border regions should be avoided.
+
+Find out more about [why FCDO advises against travel](/foreign-travel-advice/thailand/regional-risks).
 
 ## Global travel impacts due to escalation in the Middle East
 
@@ -48,14 +50,6 @@ Your travel plans may be affected, even if your destination is not in the Middle
 * review your travel insurance policy for coverage before you travel
 * monitor local and international media for the latest information and sign up for travel advice email alerts
 * If you have been impacted by travel disruption and need to review your Thai Visa, please follow the guidance published by the Thai Immigration Bureau: [Immigration Bureau Facebook](https://www.facebook.com/100068925981064/posts/1222102076763980/?mibextid=wwXIfr&rdid=eOHccV0J1ePRNu9N)
-
-## Thailand-Cambodia border
-
-In July 2025, Thailand and Cambodia fought along parts of the border. The fighting included the use of rocket and artillery fire. Tensions remain and fighting erupted again at various points along the border in early December. Land borders and crossings between Thailand and Cambodia continue to be suspended. Some tourist destinations in border areas such as the Khao Phra Wihan/Preah Vihear temple, the Ta Kwai/Ta Krabey temple and the Ta Muen Thom/Tamone Thom temple are closed.
-
-There are also unexploded landmines in the border area.
-
-FCDO advises against all but essential travel to areas within 20km of the land border with Cambodia.
 
 ## It is illegal to carry cannabis out of Thailand
 

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   16 January 2026
+:   3 April 2026
 
 Updated:
-:   15 January 2026
+:   2 April 2026
 
 Latest update:
-:   New information on the energy situation in Ukraine (' Warnings and insurance' page).
+:   Updated information about the Russian invasion of Ukraine and visa requirements ('Warnings and insurance' and 'Entry requirements' pages).
 
 ![](https://assets.publishing.service.gov.uk/media/663398524d8bb7378fb6c167/FCDO__TA__044_-_Ukraine_Travel_Advice_Ed12__WEB___1_.jpg)
 
@@ -58,7 +58,9 @@ FCDO advises against all but essential travel to the following regions in weste
 
 ## Russian invasion of Ukraine
 
-The Russian invasion of Ukraine is ongoing, with frequent missile and drone attacks across the country, which injure and kill civilians and cause significant damage to civilian infrastructure, including residential areas, energy, rail and industrial facilities. Russian Military activity against Ukraine has risen over the last year, with the total number of drone and missile strikes increasing in size in 2025 compared with 2024. Between September and December 2025, Russia launched on average around 5,200 missiles and drones per month, up from 3,900 in February 2025 and 1,000 in August 2024. From January to September 2025, civilian casualties in Ukraine increased by 31% compared to the same period in 2024, with a notable rise in civilian injuries occurring away from the front lines. British nationals are advised to exercise heightened awareness and be prepared to immediately shelter in the event an air alert is announced. Be extra vigilant whilst travelling in urban centres.
+The Russian invasion of Ukraine is ongoing, with frequent missile and drone attacks across the country, which injure and kill civilians and cause significant damage to civilian infrastructure, including residential areas, energy, rail and industrial facilities. Russian Military activity against Ukraine has risen over the last year, with the total number of drone and missile strikes increasing. In March 2026, Russia launched the largest number of long-range drone attacks at Ukraine to date (6,462), while February 2026 saw the largest amount of missile attacks since the beginning of 2025 (306).
+
+British nationals are advised to exercise heightened awareness and be prepared to immediately shelter in the event an air alert is announced. Be extra vigilant whilst travelling in urban centres.
 
 There is an ongoing risk of harm to British nationals from Russian attacks across all of Ukraine, including from missiles and drones that hit unintended targets or from falling debris. While these are more frequent where FCDO advises against all travel, they can and do also happen in the western regions, where FCDO advice is against all but essential travel.
 
@@ -145,10 +147,6 @@ Since 18 May 2024, British nationals who join the International Legion or Ukrain
 British nationals fighting in Ukraine have been killed or captured. British nationals undertaking humanitarian work have also been detained by Russian authorities. The risk to life, or of maltreatment, is high.
 
 The British Government’s ability to support you in these circumstances is very limited. It cannot facilitate your departure from Ukraine, your medical repatriation, or termination of your military contract. Find out more about [FCDO consular assistance](https://www.gov.uk/guidance/consular-assistance-how-the-foreign-commonwealth-development-office-provides-support).
-
-## Supporting Ukraine
-
-There are many ways to support Ukraine from the UK. For further information, see [Ukraine: what you can do to help](https://www.gov.uk/government/news/ukraine-what-you-can-do-to-help).
 
 ## Travel insurance
 

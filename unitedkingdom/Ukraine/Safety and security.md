@@ -138,7 +138,7 @@ You can leave Ukraine by car through most border crossing points, but Ukraine’
 
 There could be long queues at the border crossing points with EU member states and Moldova. Have a good supply of food, water, warm clothing, medication and fuel.
 
-The State Border Guard Service of Ukraine (SBGSU) website has a [map showing the border crossing locations](https://dpsu.gov.ua/en/map). The State Customs Service lists [waiting times at border crossing points](https://kordon.customs.gov.ua/en).
+The State Border Guard Service of Ukraine (SBGSU) website has a [map showing the border crossing locations](https://dpsu.gov.ua/en/map). The State Customs Service lists [waiting times at border crossing points](https://kordon.live/index_en.html).
 
 At the border crossing, the SBGSU will check:
 

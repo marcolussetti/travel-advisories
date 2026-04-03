@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   17 March 2026
+:   3 April 2026
 
 Updated:
-:   16 March 2026
+:   2 April 2026
 
 Latest update:
-:   Updated information on protests (See 'Warnings and Insurance' page)
+:   Updated information about ongoing travel disruption ('Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/698cc89184cc2df4a87123d5/FCDO__TA__103_-_Cuba_Travel_Advice_Ed1__WEB_.jpg)
 
@@ -24,11 +24,13 @@ The ongoing situation in Cuba has led to a series of recent protests. To date mo
 
 Cuba is experiencing severe and worsening disruption to essential infrastructure, persistent power outages across the country and fuel shortages. These conditions are significantly affecting the ability of visitors to access reliable transport, medical care, communications, and basic services. Authorities have introduced fuel rationing, scaled back public services, and made temporary changes to healthcare, education, transport and tourism operations to conserve severely limited energy supplies.
 
-Cuban authorities have announced that all of its international airports are without aviation fuel. Terminal 2 at José Martí International Airport, which services flights to the USA and some charter flights, has been closed with flights diverted to Terminal 3. Some airlines, including all Canadian airlines and LATAM, have suspended flights to and from Cuba, with others reviewing routes. Air France has announced the suspension of flights between Paris and Havana from 29 March to 14 June with the last departure from Havana to Paris Charles de Gaulle scheduled for 28 March. Options for leaving the country could reduce further if the situation worsens.
-
-The situation has the potential to deteriorate quickly and without warning. Make sure you are ready to change your plans quickly if needed. If you are considering leaving Cuba, check for messaging from your airline or tour operator for up to date information. Ensure your travel documents remain valid and confirm you have any required visas for onward travel.
-
 If you are currently in Cuba, carefully consider if your presence is essential. Take precautions by conserving fuel, water, food and mobile phone charge, and be prepared for significant disruption.
+
+### Travel disruption
+
+Cuban authorities have announced that all of its international airports are without aviation fuel. Terminal 2 at José Martí International Airport, which services flights to the USA and some charter flights, has been closed with flights diverted to Terminal 3. Some airlines, including all Canadian airlines, Air France and LATAM, have suspended flights to and from Cuba.  Iberia and Air Europa are reducing the number of weekly flights between Havana and Madrid and other airlines are keeping their routes under review.  Options for leaving the country could reduce further if the situation worsens.
+
+The situation has the potential to deteriorate quickly and without warning. Make sure you are ready to change your plans quickly if needed. If you are considering leaving Cuba, check for messaging from your airline or tour operator for up to date information. Ensure your travel documents remain valid and confirm you have any required visas for onward travel.
 
 Continue to monitor local media and follow the instructions of local authorities. Subscribe to [FCDO email alerts](https://www.gov.uk/foreign-travel-advice/cuba/email-signup) and read our [guidance on how to deal with a crisis overseas](https://www.gov.uk/government/collections/support-for-british-nationals-abroad#help-in-a-crisis).
 
