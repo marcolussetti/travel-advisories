@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   20 March 2026
+:   5 April 2026
 
 Updated:
-:   19 March 2026
+:   5 April 2026
 
 Latest update:
-:   Updated information about global travel impacts due to escalation in the Middle East (‘Warnings and insurance’ page).
+:   Updated information about Tropical Cyclone Maila, affecting parts of the Solomon Islands, moving towards Papua New Guinea (‘Warnings and Insurance’ page)
 
 ![](https://assets.publishing.service.gov.uk/media/68b1908211b4ded2da19fc61/FCDO__TA__063_-_Papua_New_Guinea_Ed2__WEB_.jpg)
 
@@ -24,6 +24,12 @@ FCDO advises against all but essential travel to:
 * Enga Province in the Highlands, except Wabag District
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/papua-new-guinea/regional-risks).
+
+## Cyclone Maila
+
+Tropical Cyclone Maila (Category 1) is affecting parts of the Solomon Islands with heavy rain, thunderstorms, strong winds and hazardous sea conditions. The cyclone is located west of the Solomon Islands and is moving towards Papua New Guinea.  Western Province Islands are most affected followed by Choiseul and Isabel Provinces but severe weather is predicted across all provinces.
+
+You should monitor local weather updates, follow the advice of the [Solomon Islands Meteorological Service](https://met.gov.sb/tropical-cyclone-warning/) and local authorities, and be prepared for disruption.  The latest information for Papua New Guinea can be found on the [PNG Weather Service Homepage](https://www.pngmet.gov.pg/) and on the [PNG Weather Service Facebook page](https://www.facebook.com/100068975117254/posts/pfbid0aic6b2VjEkQPg7eC1Ya28httV1pj9okbYKC6NLZoca36QrnNqptJgAqDRaeKWwKEl/).
 
 ## Global travel impacts due to escalation in the Middle East
 

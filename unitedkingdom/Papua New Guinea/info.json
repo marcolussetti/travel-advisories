@@ -1,11 +1,11 @@
 {
     "name": "Papua New Guinea",
-    "update_reason": "Updated information about global travel impacts due to escalation in the Middle East (\u2018Warnings and insurance\u2019 page).",
+    "update_reason": "Updated information about Tropical Cyclone Maila, affecting parts of the Solomon Islands, moving towards Papua New Guinea (\u2018Warnings and Insurance\u2019 page)",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Papua New Guinea/Warnings and insurance.md",
-            "update_date": "2026-03-19T14:03:18+00:00"
+            "update_date": "2026-04-05T01:30:18+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Papua New Guinea/Getting help.md"
         }
     ],
-    "update_date": "2026-03-19T14:03:18+00:00"
+    "update_date": "2026-04-05T01:30:18+01:00"
 }

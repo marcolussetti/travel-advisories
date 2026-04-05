@@ -1,13 +1,19 @@
 # Warnings and insurance
 
 Still current at:
-:   20 March 2026
+:   5 April 2026
 
 Updated:
-:   19 March 2026
+:   5 April 2026
 
 Latest update:
-:   Updated information about global travel impacts due to escalation in the Middle East (‘Warnings and insurance’ page).
+:   Updated information about Tropical Cyclone Maila, affecting parts of the Solomon Islands, moving towards Papua New Guinea (‘Warnings and Insurance’ page)
+
+## Cyclone Maila
+
+Tropical Cyclone Maila (Category 1) is affecting parts of the Solomon Islands with heavy rain, thunderstorms, strong winds and hazardous sea conditions. The cyclone is located west of the Solomon Islands and is moving towards Papua New Guinea.  Western Province Islands are most affected followed by Choiseul and Isabel Provinces but severe weather is predicted across all provinces.
+
+You should monitor local weather updates, follow the advice of the [Solomon Islands Meteorological Service](https://met.gov.sb/tropical-cyclone-warning/) and local authorities, and be prepared for disruption.  Updates are published every 6 hours.
 
 ## Global travel impacts due to escalation in the Middle East
 
