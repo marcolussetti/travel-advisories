@@ -1,13 +1,17 @@
 # Warnings and insurance
 
 Still current at:
-:   20 March 2026
+:   7 April 2026
 
 Updated:
-:   19 March 2026
+:   6 April 2026
 
 Latest update:
-:   Updated information about global travel impacts due to escalation in the Middle East (‘Warnings and insurance’ page).
+:   Updated information about Tropical Cyclone Vaianu affecting parts of Fiji (‘Warnings and Insurance’ page)
+
+Tropical Cyclone Vaianu is affecting parts of Fiji with heavy rain, strong winds, hazardous sea conditions and the risk of flash flooding. The cyclone is located to the west of the main island of Viti Levu and is moving southwest. Severe weather is predicted particularly in the west and on outer islands but will affect all provinces.
+
+You should monitor local weather updates and follow the advice of [Weather - Fiji Meteorological and Hydrological Services](https://www.met.gov.fj/fiji-weather/) and local authorities.
 
 ## Global travel impacts due to escalation in the Middle East
 

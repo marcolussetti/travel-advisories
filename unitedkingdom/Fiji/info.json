@@ -1,11 +1,11 @@
 {
     "name": "Fiji",
-    "update_reason": "Updated information about global travel impacts due to escalation in the Middle East (\u2018Warnings and insurance\u2019 page).",
+    "update_reason": "Updated information about Tropical Cyclone Vaianu affecting parts of Fiji (\u2018Warnings and Insurance\u2019 page)",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Fiji/Warnings and insurance.md",
-            "update_date": "2026-03-19T14:02:43+00:00"
+            "update_date": "2026-04-06T10:48:24+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Fiji/Getting help.md"
         }
     ],
-    "update_date": "2026-03-19T14:02:43+00:00"
+    "update_date": "2026-04-06T10:48:24+01:00"
 }
