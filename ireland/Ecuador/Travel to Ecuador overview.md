@@ -11,7 +11,7 @@ Ecuador is in a state of **“internal armed conflict”**. There is an increase
 Owing to civil unrest, violent crime, and kidnapping, the security status of ‘**Avoid Non-Essential Travel’** **currently applies to most of Ecuador, with the following exceptions:**
 
 * **The Galápagos Islands,** where the Embassy advises citizens to **take normal precautions.** This also applies to citizens transiting through the airports of Quito or Guayaquil for onward travel to the Galapagos Islands;
-* **Quito and surround Pichincha province,** where we advise citizens to **exercise a high degree of caution.**
+* **Quito and the surrounding Pichincha province,** where we advise citizens to **exercise a high degree of caution.**
 
 **Owing to significant criminal activity drug trafficking, and high risk of violence, the Embassy advises to avoid all travel to:**
 
@@ -34,14 +34,14 @@ On 27 February 2026, a State of Emergency of 90 days was declared in the followi
 
 ### **State of Emergency**
 
-A state of emergency was renewed on 28 February 2026 for 30 days owing to ongoing internal unrest and armed violence. The current state of emergency applies to the following provinces:
+A state of emergency was renewed on 03 April 2026 for 60 days owing to ongoing internal unrest and armed violence. The current state of emergency applies to the following provinces:
 
-* Guayas
+* Guayas (Guayaquil is in this province)
 * El Oro
 * Manabí
 * Los Ríos
 * Santa Elena
-* Pichincha
+* Pichincha (Quito is the capital of this province)
 * Santo Domingo
 * Esmeraldas
 * Sucumbíos
@@ -56,12 +56,7 @@ The state of emergency allows the military and police to:
 * read private mail and phone records;
 * enter private properties without permission.
 
-To note, a curfew from 11:00 to 05:00 will apply from 15 to 30 March 2026 in the following provinces:
-
-* Guayas
-* Los Ríos
-* Santo Domingo de los Tsáchilas
-* El Oro
+To note, a curfew may will apply in some provinces.
 
 Should you need to travel to or from the airport during curfew hours, this is permissible by presenting evidence of a flight booking reservation.
 
@@ -75,7 +70,7 @@ For all entry, including via land, airports and seaports, you may be asked to pr
 
 Irish citizens **do not require** a visa to enter Ecuador for stays up to **90 days**.
 
-A valid passport is required for travel to Ecuador. Irish passports should have a **minimum validity** of 6 months. Passport cards **cannot be used**.
+A valid passport is required for travel to Ecuador. Irish passports should have a **minimum validity** of 6 months beyond the date of arrival. Passport cards **cannot be used**. The passport must have at least one blank page for entry stamps. Citizens must provide proof of return or onward travel and sufficient funds.
 
 For more information on visas and passports, please see the **Entry Requirements tab**.
 
