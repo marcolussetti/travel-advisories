@@ -2,16 +2,6 @@
 
 ## Safety and security
 
-On March 27, 2026, the Australian government issued the following warning to its citizens in the United Arab Emirates:
-
-“We have reason to believe there are heightened risks around hotels in Dubai, including an ongoing threat in the vicinity of Le Meridien hotel on Airport Road, Dubai.”
-
-* Avoid areas near hotels
-* Exercise caution
-* Follow the instructions of local authorities
-
-[United Arab Emirates Travel Advice & Safety](https://www.smartraveller.gov.au/destinations/middle-east/united-arab-emirates) – Australian Department of Foreign Affairs and Trade
-
 ### Ongoing hostilities in the Middle East
 
 There is ongoing military activity in the region. Missiles, drones and other projectiles could strike targets at any time. The security situation could deteriorate further without notice.

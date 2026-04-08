@@ -7,6 +7,7 @@
 A state of emergency, in response to gang violence, is in effect in the following provinces:
 
 * Bolívar, in Echeandía and Las Naves cantons only
+* Cañar, in La Troncal canton only
 * Cotopaxi, in La Maná canton only
 * El Oro
 * Esmeraldas

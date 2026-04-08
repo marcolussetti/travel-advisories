@@ -6,6 +6,7 @@
 
 * [Measles: Advice for travellers](https://travel.gc.ca/travelling/health-safety/travel-health-notices/504)
 * [COVID-19 and International Travel](https://travel.gc.ca/travelling/health-safety/travel-health-notices/513)
+* [Hajj 2026](https://travel.gc.ca/travelling/health-safety/travel-health-notices/548)
 
 This section has information and advice about health risks you might face when travelling. Following this advice can help reduce your risk of getting sick. Not all risks are listed here.
 
@@ -55,28 +56,6 @@ Hepatitis A
 There is a risk of [hepatitis A](https://www.canada.ca/en/public-health/services/diseases/hepatitis-a.html) in this destination. It is a disease of the liver. People can get hepatitis A if they ingest contaminated food or water, eat foods prepared by an infectious person, or if they have close physical contact (such as oral-anal sex) with an infectious person, although casual contact among people does not spread the virus.
 
 Practise [safe food and water precautions](https://travel.gc.ca/travelling/health-safety/food-water) and wash your hands often. Vaccination is recommended for all travellers to areas where hepatitis A is present.
-
-Hajj and Umrah vaccination entry requirements
-
-There are vaccination entry requirements in place for travellers entering Saudi Arabia for Umrah, Hajj or for seasonal work in Hajj zones.
-
-These include vaccinations for COVID-19, polio, meningococcal meningitis, and yellow fever. Before travelling, make sure you meet all requirements for participating in Hajj or Umrah.
-
-For more information, visit the Saudi Arabia Ministry of Health’s page for Hajj and Umrah health regulations.
-
-[Hajj and Umrah Health Regulations - Ministry of Health in the Kingdom of Saudi Arabia](https://www.moh.gov.sa/en/HealthAwareness/Pilgrims-Health/Pages/default.aspx) (external)
-
-Large numbers of people in small areas can enable the spread of infectious diseases and increase the risk of injury. Take the time to prepare for your trip and know how to reduce the risks.
-
-[Mass gatherings (large-scale events)](https://travel.gc.ca/travelling/health-safety/mass-gatherings)
-
-Rabies 
-
-In this destination, [rabies](https://travel.gc.ca/travelling/health-safety/diseases/rabies) may be present in some wildlife species, including bats. Rabies is a deadly disease that spreads to humans primarily through bites or scratches from an infected animal.
-
-If you are bitten or scratched by an animal while travelling, immediately wash the wound with soap and clean water and see a health care professional.
-
-Before travel, discuss rabies vaccination with a health care professional. It may be recommended for travellers who will be working directly with wildlife.
 
 Measles 
 
@@ -134,6 +113,28 @@ Malaria
 • Exclude mosquitoes from your living area with screening and/or closed, well-sealed doors and windows.  
 • Use insecticide-treated bed nets if mosquitoes cannot be excluded from your living area. 
 
+Hajj and Umrah vaccination entry requirements
+
+There are vaccination entry requirements in place for travellers entering Saudi Arabia for Umrah, Hajj or for seasonal work in Hajj zones.
+
+These include vaccinations for polio, meningococcal meningitis, and yellow fever. Before travelling, make sure you meet all requirements for participating in Hajj or Umrah.
+
+**Hajj health requirements:** [Official Nusuk Hajj platform](https://hajj.nusuk.sa/nusuk/health/guidelines)
+
+**Umrah health requirements:** [Official Nusuk Umrah platform](https://umrah.nusuk.sa/nusuk/guidelines)
+
+Large numbers of people in small areas can enable the spread of infectious diseases and increase the risk of injury. Take the time to prepare for your trip and know how to reduce the risks.
+
+[Mass gatherings (large-scale events)](https://travel.gc.ca/travelling/health-safety/mass-gatherings)
+
+Rabies 
+
+In this destination, [rabies](https://travel.gc.ca/travelling/health-safety/diseases/rabies) may be present in some wildlife species, including bats. Rabies is a deadly disease that spreads to humans primarily through bites or scratches from an infected animal.
+
+If you are bitten or scratched by an animal while travelling, immediately wash the wound with soap and clean water and see a health care professional.
+
+Before travel, discuss rabies vaccination with a health care professional. It may be recommended for travellers who will be working directly with wildlife.
+
 ### Safe food and water precautions
 
 Eating or drinking unsafe food or water, or swimming in contaminated water can make you sick while travelling. Take precautions by following these tips:
@@ -186,6 +187,21 @@ A vaccine for the prevention of chikungunya is approved in Canada. Talk to your 
 
 [Chikungunya](https://www.canada.ca/en/public-health/services/diseases/chikungunya.html)
 
+Dengue 
+
+* In this country, dengue is a risk to travellers. It is a viral disease spread to humans by mosquito bites.
+* Dengue can cause flu-like symptoms. In some cases, it can lead to severe dengue, which can be fatal.
+* The level of risk of dengue changes seasonally, and varies from year to year. The level of risk also varies between regions in a country and can depend on the elevation in the region.
+* Mosquitoes carrying dengue typically bite during the daytime, particularly around sunrise and sunset.
+* Protect yourself from mosquito bites. There is no vaccine or medication available in Canada to prevent dengue.
+
+**Learn more:**  
+[Dengue](https://www.canada.ca/en/public-health/services/infectious-diseases/viral-haemorrhagic-fevers/dengue-fever.html)
+
+Rift Valley fever
+
+[Rift Valley fever](http://www.who.int/mediacentre/factsheets/fs207/en/) is a viral disease that can cause severe flu-like symptoms. In some cases, it can be fatal. It is spread to humans through contact with infected animal blood or tissues, from the bite of an infected mosquito, or eating or drinking unpasteurized dairy. Risk is generally low for most travellers. Protect yourself from insect bites and avoid animals, particularly livestock, and unpasteurized dairy. There is no vaccine available for Rift Valley fever.
+
 Leishmaniasis – Cutaneous and mucocutaneous
 
 Cutaneous and mucocutaneous leishmaniasis can occur in this destination, though the risk is low for most travellers.
@@ -198,22 +214,6 @@ There is no vaccine or medication to prevent infection with the parasite that ca
 
 **Learn more:**   
 [Leishmaniasis](https://www.canada.ca/en/public-health/services/diseases/leishmaniasis.html)
-
-Dengue 
-
-* In this country, dengue is a risk to travellers. It is a viral disease spread to humans by mosquito bites.
-* Dengue can cause flu-like symptoms. In some cases, it can lead to severe dengue, which can be fatal.
-* The level of risk of dengue changes seasonally, and varies from year to year. The level of risk also varies between regions in a country and can depend on the elevation in the region.
-* Mosquitoes carrying dengue typically bite during the daytime, particularly around sunrise and sunset.
-* Protect yourself from mosquito bites. There is no vaccine or medication available in Canada to prevent dengue.
-
-**Learn more:**  
-[Dengue](https://www.canada.ca/en/public-health/services/infectious-diseases/viral-haemorrhagic-fevers/dengue-fever.html)  
-[Insect bite and pest prevention](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html)
-
-Rift Valley fever
-
-[Rift Valley fever](http://www.who.int/mediacentre/factsheets/fs207/en/) is a viral disease that can cause severe flu-like symptoms. In some cases, it can be fatal. It is spread to humans through contact with infected animal blood or tissues, from the bite of an infected mosquito, or eating or drinking unpasteurized dairy. Risk is generally low for most travellers. Protect yourself from insect bites and avoid animals, particularly livestock, and unpasteurized dairy. There is no vaccine available for Rift Valley fever.
 
 ### Animal precautions
 

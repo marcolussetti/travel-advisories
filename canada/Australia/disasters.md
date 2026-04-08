@@ -2,29 +2,6 @@
 
 ## Natural disasters and climate
 
-### Tropical Cyclone Narelle
-
-Between March 19 and 26, 2026, Tropical Cyclone Narelle made multiple landfalls across northern Queensland, the Northern Territory and Western Australia.
-
-The storm brought excessive rainfall and violent winds, resulting in significant damage to buildings and infrastructure. There are reports of hundreds of displaced persons.
-
-The following essential services could be disrupted:
-
-* transportation
-* power distribution
-* water and food supply
-* telecommunications networks
-* emergency services
-* medical care
-
-If you are in an affected area:
-
-* exercise caution
-* monitor local news and weather reports
-* follow the instructions of local authorities
-
-[Warnings and alerts](https://www.bom.gov.au/weather-and-climate/warnings-and-alerts) – Bureau of Meteorology
-
 ### Climate change
 
 Climate change is affecting Australia. Extreme and unusual weather events are becoming more frequent and may affect your travel plans. Monitor local media for the latest information.

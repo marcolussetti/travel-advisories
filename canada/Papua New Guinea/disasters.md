@@ -2,6 +2,27 @@
 
 ## Natural disasters and climate
 
+### Severe Tropical Cyclone Maila
+
+Severe Tropical Cyclone Maila is expected to sweep across the islands of Milne Bay province and Bougainville on April 9, 2026.
+
+The storm is likely to bring excessive rainfall and violent winds. It may cause flash flooding and landslides and could severely disrupt the following essential services:
+
+* transportation
+* power distribution
+* water and food supply
+* telecommunications networks
+* emergency services
+* medical care
+
+If you are in the affected area:
+
+* exercise caution
+* monitor local news and weather reports
+* follow the instructions of local authorities
+
+[PNGNWS warnings](https://www.facebook.com/pngmet) – Papua New Guinea National Weather Service
+
 ### Climate change
 
 Climate change is affecting Papua New Guinea. Extreme and unusual weather events are becoming more frequent and may affect your travel plans. Monitor local news to stay informed on the current situation.

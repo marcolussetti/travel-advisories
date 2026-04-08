@@ -4,8 +4,8 @@
 
 ### Relevant Travel Health Notices
 
-* [Measles: Advice for travellers](https://travel.gc.ca/travelling/health-safety/travel-health-notices/504) - 13 November, 2025
-* [COVID-19 and International Travel](https://travel.gc.ca/travelling/health-safety/travel-health-notices/513) - 12 May, 2025
+* [Measles: Advice for travellers](https://travel.gc.ca/travelling/health-safety/travel-health-notices/504)
+* [COVID-19 and International Travel](https://travel.gc.ca/travelling/health-safety/travel-health-notices/513)
 
 This section has information and advice about health risks you might face when travelling. Following this advice can help reduce your risk of getting sick. Not all risks are listed here.
 
@@ -297,9 +297,9 @@ Good health care is limited. The quality of care varies greatly throughout the c
 
 Both medical facilities and supplies are limited outside of Hanoi and Ho Chi Minh City.
 
-Private clinics and hospitals are usually better equipped. Services can be expensive, but they usually have qualified medical staff who speak English or French well.   
-   
- Emergency and ambulance services response times may be slow du to traffic congestion. In case of emergency, you may consider taking a taxi or private vehicle to go to the hospital rather than wait for an ambulance.
+Private clinics and hospitals are usually better equipped. Services can be expensive, but they usually have qualified medical staff who speak English or French well.
+
+Emergency and ambulance services response times may be slow due to traffic congestion. In case of emergency, you may consider taking a taxi or private vehicle to go to the hospital rather than wait for an ambulance.
 
 Medical evacuation is very expensive. You may need it to neighbouring countries in case of serious illness or injury.
 
@@ -309,7 +309,7 @@ Make sure you get travel insurance that includes coverage for medical evacuation
 
 ### Medication
 
-If you take prescription medication, you’re responsible for determining their legality in Vietnam.
+If you take prescription medication, you're responsible for determining their legality in Vietnam.
 
 * Bring sufficient quantities of your medication with you
 * Always keep your medication in the original container
