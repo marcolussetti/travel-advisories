@@ -1,18 +1,18 @@
 # Warnings and insurance
 
 Still current at:
-:   1 February 2026
+:   8 April 2026
 
 Updated:
-:   31 January 2026
+:   7 April 2026
 
 Latest update:
-:   The FCDO now advises against all travel to all parts of Tigray region following renewed violence between Tigray People’s Liberation Front (TPLF) aligned forces and the Ethiopian military (‘Warnings and insurance’, ‘Safety and Security’ and ‘Regional Risks’ pages).
+:   Addition of information about fuel shortages ('Safety and security' page).
 
-![](https://assets.publishing.service.gov.uk/media/697e532701dffa6465580074/FCDO__TA__017_-_Ethiopia_Travel_Advice_Ed41__WEB_.jpg)
+![](https://assets.publishing.service.gov.uk/media/6983415b20fe1bb69ac243ed/FCDO__TA__017_-_Ethiopia_Travel_Advice_Ed42__WEB_.jpg)
 
 
-[Download a more detailed map (PDF, 819 KB)](https://assets.publishing.service.gov.uk/media/697e54a884f2153b112452b0/FCDO_TA_017_-_Ethiopia_Travel_Advice_Ed41.pdf)
+[Download a more detailed map (PDF, 819 KB)](https://assets.publishing.service.gov.uk/media/6983415b13622473b51ca9d7/FCDO__TA__017_-_Ethiopia_Travel_Advice_Ed42__1_.pdf)
 
 ## Areas where FCDO advises against travel
 

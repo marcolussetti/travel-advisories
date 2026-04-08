@@ -1,11 +1,11 @@
 {
     "name": "Ethiopia",
-    "update_reason": "The FCDO now advises against all travel to all parts of Tigray region following renewed violence between Tigray People\u2019s Liberation Front (TPLF) aligned forces and the Ethiopian military (\u2018Warnings and insurance\u2019, \u2018Safety and Security\u2019 and \u2018Regional Risks\u2019 pages).",
+    "update_reason": "Addition of information about fuel shortages ('Safety and security' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Ethiopia/Warnings and insurance.md",
-            "update_date": "2026-01-31T19:30:05+00:00"
+            "update_date": "2026-04-07T16:30:08+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Ethiopia/Getting help.md"
         }
     ],
-    "update_date": "2026-01-31T19:30:05+00:00"
+    "update_date": "2026-04-07T16:30:08+01:00"
 }

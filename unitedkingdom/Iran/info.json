@@ -1,11 +1,11 @@
 {
     "name": "Iran",
-    "update_reason": "Updated information for British nationals in Iran (Warnings and Insurance page)",
+    "update_reason": "Updated information about regional escalation (\u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Iran/Warnings and insurance.md",
-            "update_date": "2026-03-01T17:27:32+00:00"
+            "update_date": "2026-04-07T17:53:02+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Iran/Getting help.md"
         }
     ],
-    "update_date": "2026-03-01T17:27:32+00:00"
+    "update_date": "2026-04-07T17:53:02+01:00"
 }

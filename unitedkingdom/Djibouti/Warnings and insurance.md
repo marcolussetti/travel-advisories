@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   5 March 2026
+:   8 April 2026
 
 Updated:
-:   4 March 2026
+:   7 April 2026
 
 Latest update:
-:   New information about wider regional developments (‘Warnings and insurance’ page).
+:   Addition of information about presidential elections taking place on 10 April ('Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/615dd2368fa8f5297a62a0bc/FCDO__TA__013_-_Djibouti_Travel_Advice_Ed2__WEB_.jpg)
 
@@ -21,6 +21,10 @@ Your travel insurance could be invalidated if you travel against advice from the
 ### Djibouti-Eritrea border
 
 FCDO advises against all travel to the Djibouti-Eritrea border.
+
+## Presidential elections
+
+Presidential elections will take place on Friday 10 April. Stay away from large gatherings and demonstrations, and follow the advice of the local authorities.
 
 ## Wider regional developments
 

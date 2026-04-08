@@ -1,11 +1,11 @@
 {
     "name": "Bahrain",
-    "update_reason": "Updated information about regional escalation (\u2018Warnings and insurance\u2019 page).",
+    "update_reason": "Updated information about leaving Bahrain (\u2018Warnings and insurance page\u2019)",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Bahrain/Warnings and insurance.md",
-            "update_date": "2026-04-01T16:11:02+01:00"
+            "update_date": "2026-04-07T19:58:41+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Bahrain/Getting help.md"
         }
     ],
-    "update_date": "2026-04-01T16:11:02+01:00"
+    "update_date": "2026-04-07T19:58:41+01:00"
 }

@@ -202,6 +202,10 @@ The use of drones is subject to permission from the Ethiopian Civil Aviation Aut
 
 ## Transport risks
 
+### Fuel shortages
+
+Fuel availability is currently limited across Ethiopia, with long queues and shortages at petrol stations reported nationwide. This may cause transport disruption and delays, particularly for travel outside Addis Ababa. If you are planning to travel within Ethiopia, check arrangements carefully with your tour operator or transport provider and allow extra time for journeys.
+
 ### Road travel
 
 If you are planning to drive in Ethiopia, see [information on driving abroad](https://www.gov.uk/driving-abroad).

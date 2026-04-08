@@ -21,6 +21,7 @@ FCDO advises against all but essential travel to:
 
 * Chocó Department, except for the department capital Quibdó, the whale-watching towns of Nuquí and Bahía Solano and the tourist site of Capurganá
 * the western part of Valle del Cauca Department, including Buenaventura
+* the municipality of Jamundí, Valle del Cauca
 * the western part of Cauca Department
 * the South Pacific, Sanquianga and Telembi regions of Nariño Department
 * the southern part of Córdoba Department

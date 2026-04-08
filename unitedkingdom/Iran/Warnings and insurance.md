@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   2 March 2026
+:   8 April 2026
 
 Updated:
-:   1 March 2026
+:   7 April 2026
 
 Latest update:
-:   Updated information for British nationals in Iran (Warnings and Insurance page)
+:   Updated information about regional escalation (‘Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/627e359b8fa8f53f99901991/FCDO__TA__021_-_Iran_Travel_Advice_Ed5__WEB_.jpg)
 
@@ -39,7 +39,9 @@ British nationals should:
 
 ## If you are in Iran
 
-Air, sea and land routes are under the control of the Iranian authorities. Ports and borders may close at short notice.
+Air, sea and land routes are under the control of the Iranian authorities. Ports and borders may close at short notice. There is ongoing disruption to communications across Iran, with severe limitations on internet access.
+
+The US and Israel continue to strike infrastructure across Iran. There are reports that suggest ports, roads, railways, bridges, energy facilities, oil production sites, water systems, and airports have been affected.
 
 British nationals and British-Iranian dual nationals face a very high risk of arrest, detention and questioning.
 
@@ -53,9 +55,9 @@ Iranian airspace remains closed.
 
 ### Travel by land
 
-Iran’s borders with neighbouring countries may have restrictions for foreign travellers and may close at short notice. If you plan to depart Iran across a land border and consider it safe to do so, check the travel advice of the country you intend to enter before travelling to the border, including visa requirements.
+Iran’s borders with neighbouring countries may have restrictions for foreign travellers and may close at short notice. If you plan to depart Iran across a land border and consider it safe to do so, check the travel advice of the country you intend to enter before travelling to the border, including visa requirements. Entry requirements may change at short notice.
 
-Entry to countries bordering Iran is not straightforward, and some countries will ask for additional paperwork for British passport holders. If you intend to leave overland you do so at your own risk. Should you require assistance, including with additional paperwork, [contact the FCDO](https://www.contact.service.csd.fcdo.gov.uk/home).
+Entry to countries bordering Iran is not straightforward, and some countries will ask for additional paperwork for British passport holders. If you intend to leave overland you do so at your own risk. Should you require assistance, including with additional paperwork, [contact the FCDO](https://www.contact.service.csd.fcdo.gov.uk/home).
 
 ### Armenia-Iran border crossing
 
@@ -65,23 +67,31 @@ British nationals do not need a visa for Armenia for stays of up to 180 days per
 
 To cross this border, FCDO must register your details with the Azerbaijani authorities in advance so that we can provide you with a registration code. You will also require a visa to enter Azerbaijan. Read [travel advice for Azerbaijan](https://www.gov.uk/foreign-travel-advice/azerbaijan) for the latest information.
 
-### Turkey-Iran
+### Turkey-Iran border crossing
 
 The border remains open visa-free for people travelling on UK or Iranian passports (for stays of up to 90 days). If you are a British national intending to cross the land border from Iran into Turkey, you must request facilitation from the British Embassy in Ankara [by contacting the FCDO](https://www.contact.service.csd.fcdo.gov.uk/home) before travelling to the border. You must state which border point you intend to use and provide personal details (name, date of birth, details of travel document used to enter Turkey).  Also indicate whether you are contacting from Iran or from the UK on behalf of a relative.
 
 The Turkish authorities advise that the Iranians have closed the crossing point at Esendere-Serow on the Iranian side to daily traders entering and exiting over the course of a day.
 
+Check our [travel advice for Turkey](https://www.gov.uk/foreign-travel-advice/turkey) for the latest information.
+
 ### Turkmenistan-Iran border crossing
 
-To cross this border, you require special permission from the Turkmenistan authorities in advance. This can be facilitated by the British Embassy in Ashgabat by [contacting the FCDO](https://www.contact.service.csd.fcdo.gov.uk/home). Without their prior approval, you will not be allowed to cross the border. Check our [travel advice for Turkmenistan](https://www.gov.uk/foreign-travel-advice/turkmenistan) for the latest information.
+To cross this border, you require special permission from the Turkmenistan authorities in advance. This can be facilitated by the British Embassy in Ashgabat by [contacting the FCDO before you travel to the border](https://www.contact.service.csd.fcdo.gov.uk/home). Without their prior approval, you will not be allowed to cross the border. You will also need a confirmed onward flight.
 
-## Protests
+Check our [travel advice for Turkmenistan](https://www.gov.uk/foreign-travel-advice/turkmenistan) for the more information.
 
-Protests have been taking place in a number of locations across Iran. There are reports of violence and fatalities, as well as the arrest and detention of protesters by the Iranian authorities.
+### Afghanistan border crossing
 
-There is ongoing disruption to communications across Iran, with severe limitations on internet access. Some international flights have also been cancelled. Check with your airline for further information.
+The FCDO [travel advice for Afghanistan](https://www.gov.uk/foreign-travel-advice/afghanistan) advises against all travel to Afghanistan.
 
-If you are at or near a protest, you are at serious risk of arrest. Even if you avoid protests and crowds, British nationals face a very high risk of arrest, questioning and detention in Iran. Monitor media for further updates.
+### Iraq border crossing
+
+The FCDO’s [travel advice for Iraq](https://www.gov.uk/foreign-travel-advice/iraq) advises against all travel to Iraq.
+
+### Pakistan border crossing
+
+The FCDO’s [travel advice for Pakistan](https://www.gov.uk/foreign-travel-advice/pakistan) advises against all travel to Balochistan Province bordering Iran.
 
 ## Limited UK government support
 

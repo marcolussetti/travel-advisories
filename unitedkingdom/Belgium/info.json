@@ -1,11 +1,11 @@
 {
     "name": "Belgium",
-    "update_reason": "Updated information about national strike action ('Warnings and insurance' page).",
+    "update_reason": "Updated information about general strike action ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Belgium/Warnings and insurance.md",
-            "update_date": "2026-03-06T09:37:57+00:00"
+            "update_date": "2026-04-07T09:46:52+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Belgium/Getting help.md"
         }
     ],
-    "update_date": "2026-03-06T09:37:57+00:00"
+    "update_date": "2026-04-07T09:46:52+01:00"
 }

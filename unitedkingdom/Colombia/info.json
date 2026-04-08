@@ -1,11 +1,11 @@
 {
     "name": "Colombia",
-    "update_reason": "Updated information about yellow fever (See 'Vaccine recommendations and health risks' on the 'Health' page).",
+    "update_reason": "FCDO now advises against all but essential travel to the municipality of Jamund\u00ed, Valle del Cauca. FCDO continues to advise against all but essential travel to other parts of Colombia ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Colombia/Warnings and insurance.md",
-            "update_date": "2026-03-27T16:32:13+00:00"
+            "update_date": "2026-04-07T14:58:12+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Colombia/Getting help.md"
         }
     ],
-    "update_date": "2026-03-27T16:32:13+00:00"
+    "update_date": "2026-04-07T14:58:12+01:00"
 }

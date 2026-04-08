@@ -1,18 +1,15 @@
 # Warnings and insurance
 
 Still current at:
-:   28 March 2026
+:   8 April 2026
 
 Updated:
-:   27 March 2026
+:   7 April 2026
 
 Latest update:
-:   Updated information about yellow fever (See 'Vaccine recommendations and health risks' on the 'Health' page).
+:   FCDO now advises against all but essential travel to the municipality of Jamundí, Valle del Cauca. FCDO continues to advise against all but essential travel to other parts of Colombia ('Warnings and insurance' page).
 
-![](https://assets.publishing.service.gov.uk/media/67c05135b0bb6528ee866b96/FCDO_TA_054_-_Colombia_Travel_Advice_Ed3_WEB.jpg)
-
-
-[Download a more detailed map (PDF, 1010 KB)](https://assets.publishing.service.gov.uk/media/67c0513672e83aab48866ba1/FCDO_TA_054_-_Colombia_Travel_Advice_Ed3.pdf)
+![](https://assets.publishing.service.gov.uk/media/69d509b9019a4faf2745b3c6/FCDO__TA__054_-_Colombia_Travel_Advice_Ed4__WEB___1_.jpg)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
@@ -35,6 +32,7 @@ FCDO advises against all but essential travel to:
 
 * Chocó Department, except for the department capital Quibdó, the towns of Nuquí and Bahía Solano and Capurganá
 * the western part of Valle del Cauca Department, including Buenaventura
+* the municipality of Jamundí, Valle del Cauca
 * the western part of Cauca Department
 * the South Pacific, Sanquianga and Telembi regions of Nariño Department
 * the southern part of Córdoba Department
