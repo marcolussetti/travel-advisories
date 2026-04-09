@@ -10,8 +10,6 @@ Avoid the vicinity of military installations, critical infrastructure and stay a
 
 Filming, taking photos and online sharing of images of military installations, activity or damage could lead to severe penalties pursuant to the enforcement of local laws and regulations across the region.
 
-The Iraqi airspace is closed until further notice.
-
 If you are in the Kurdistan Region of Iraq, you should shelter in place. However, if you decide to leave the Kurdistan Region for Türkiye via a land border crossing and assess that you can do so safely, the Ibrahim Khalil border crossing is available. Before travelling to the border, verify the status of the border crossing and ensure that you have valid travel documents and meet Türkiye’s [entry requirements](https://travel.gc.ca/destinations/turkiye#entryexit).
 
 You should:

@@ -21,3 +21,5 @@ The features in this map do not constitute an authoritative source of geographic
 [Avoid all travel](#levels "Risk Levels") to Iraq due to the ongoing military activities.
 
 Shelter in place if instructed to by local authorities.
+
+You should leave Iraq at the earliest opportunity while commercial options are available.

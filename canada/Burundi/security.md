@@ -4,12 +4,12 @@
 
 ### Explosions in Bujumbura
 
-On March 31, 2026 explosions were reported at an ammunition warehouse in Bujumbura due to an electrical accident.  
+On March 31, 2026, explosions were reported at an ammunition warehouse in Bujumbura’s Musaga neighbourhood due to an electrical accident. As a result, unexploded ordnance was found in various locations in the city.   
    
  If you are in Bujumbura:
 
 * avoid affected areas
-* shelter in place and stay away from windows if explosions occur
+* move away immediately and contact local authorities if you encounter unexploded ordnance, military debris or fragments
 * follow the instructions of local authorities
 * monitor local media for up-to-date information on the situation
 

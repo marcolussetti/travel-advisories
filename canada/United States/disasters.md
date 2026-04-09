@@ -2,6 +2,16 @@
 
 ## Natural disasters and climate
 
+### Flood watch in Hawaii
+
+A statewide flood watch is in effect for Hawaii  due to heavy rainfall from a severe Kona storm. Some areas are at increased risk of flooding following heavy rainfall in March. Flood warnings and evacuation orders could be issued on short notice.
+
+#### Useful links
+
+* [Active Watches, Warnings and Advisories for Hawaii](https://www.weather.gov/hfo/watchwarn "https://www.weather.gov/hfo/watchwarn") – National Weather Service
+* [Public evacuation and shelter map](https://veoci.com/v/p/dashboard/zncjcrf9pn "https://veoci.com/v/p/dashboard/zncjcrf9pn") – Department of Emergency Management, Oahu
+* [Latest updates](https://alert.hnlalert.gov/ "https://alert.hnlalert.gov/") – Official Notification System of the City and County of Honolulu
+
 Natural disasters can occur at any time.
 
 [Plan Ahead for Disasters](https://www.ready.gov/) – U.S. Department of Homeland Security
