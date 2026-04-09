@@ -22,7 +22,7 @@ Petty Crime is common in Cambodia, particularly in urban areas visitors should t
 
 * The Embassy is aware of a number of cases of tourists being lured into private homes under the pretext of discovering a new bar, and assaulted or robbed. We recommend that tourists exercise caution if invited by locals to visit a bar outside tourist areas, or to visit someone’s home for a game of cards or other form of gambling;
 * The Embassy has received a number of reports of citizens suspecting that their drinks have been spiked in bars in Cambodia. Always be vigilant and never accept a drink off a stranger.
-* Do not carry your passport unless absolutely necessary and leave a copy of your passport and original birth certificate (as well as travel insurance documents and other important documents) with family or friends at home;
+* Do not carry your passport unless absolutely necessary and leave a copy of your passport and birth certificate (as well as travel insurance documents and other important documents) with family or friends at home;
 * Do not carry your credit card, travel tickets and money together, leave spare cash and valuables in a safe place;
 * Be aware that bag snatching occurs frequently and there is a significant increase in theft in the lead up to local festivals;
 * Avoid placing bags in the front basket of bicycles;
@@ -34,7 +34,7 @@ Petty Crime is common in Cambodia, particularly in urban areas visitors should t
 
 ### **Lost or Stolen Passport**
 
-If your passport is lost or stolen, report this to the Police immediately and obtain a Police Report. Irish Citizens should be aware that if this occurs, it will delay your travel plans considerably, and cost you money. Along with the time taken to arrange a new travel document, you will subsequently need to get a replacement visa and an exit visa from immigration and this can take at least three working days and may delay your onward travel plans considerably. Please be aware that the nearest Irish Embassy is in Hanoi, Vietnam and dealing with a lost or stolen passport can be extremely inconvenient for you and can take time to resolve.
+If your passport is lost or stolen, report this to the Police immediately and obtain a Police Report. Irish Citizens should be aware that if this occurs, it will delay your travel plans considerably, and cost you money. Along with the time taken to arrange a new travel document, you will subsequently need to get a replacement visa and an exit visa from immigration and this may delay your onward travel plans considerably. Please be aware that the nearest Irish Embassy is in Hanoi, Vietnam and dealing with a lost or stolen passport can be extremely inconvenient for you and can take time to resolve.
 
 ### **Reporting Crime**
 
@@ -43,13 +43,17 @@ If a victim of a crime while in Cambodia, report it to the local police immediat
 To report a crime in Phnom Penh, go to the Central Security Office at Number 13, Street 158, near Wat Koh.  
  To report a crime in Siem Reap, the Tourist Police office is next to the Angkor Wat ticket booth.
 
+### **Employment / Scam Centres**
+
+Be aware of fake employment or business offers, especially those advertised on social media. Foreign nationals have been trafficked into Cambodia and forced to work in fraudulent activity, with poor pay and living conditions, restrictions on movement, and severe mistreatment. There are reports of 'scam centres' operated by organised crime organisations, where foreign victims are tricked into coming to Cambodia and other destinations in Southeast Asia and forced to work in online scamming
+
 ### **Driving**
 
 If planning to drive in Cambodia, visitors should be extremely careful as driving standards can be erratic and sometimes dangerous. If visitors want to drive, even a motorcycle, they will need a Cambodian driving licence. Make sure to have adequate and appropriate insurance. Be aware that driving without a licence may invalidate your travel insurance if you have an accident.
 
 ### **Motorbikes and Scooters**
 
-Roads in Cambodia are extremely dangerous, and accidents involving motorbikes or scooters, often causing serious injury, long-term brain damage or death, are a common occurrence in Cambodia. If deciding to rent or buy a motorbike or scooter please take the same precautions as you would at home. These include having an appropriate license, wearing a helmet, observing speed limits and obeying the rules of the road.
+Roads in Cambodia are extremely dangerous, and accidents involving motorbikes or scooters, often causing serious injury or death, are a common occurrence in Cambodia. If deciding to rent or buy a motorbike or scooter please take the same precautions as you would at home. These include having an appropriate license, wearing a helmet, observing speed limits and obeying the rules of the road.
 
 Never drive under the influence of drugs or alcohol. Please note that the use of crash helmets is compulsory for motorbike users and passengers in Cambodia. Failure to follow this advice is likely to invalidate your insurance coverage if you are involved in an accident.
 
@@ -66,6 +70,16 @@ Check that you have adequate insurance and read the small print of the vehicle h
 ### **Pedestrians**
 
 Pedestrians should take particular care when crossing roads in major cities as driving in Cambodia can be erratic and sometimes dangerous.
+
+### **Alcohol**
+
+Homemade alcohol may be contaminated with methanol, bacteria or with toxic chemicals from pesticides and should be avoided.
+
+Even small amounts of methanol can kill or cause serious harm. It is not possible to identify methanol in alcoholic drinks by taste or smell. Early symptoms of methanol poisoning include vomiting, poor judgement, loss of balance and drowsiness. 12-48 hours after drinking: abdominal pain, vertigo, hyperventilation, breathlessness, blurred vision and/or blindness, coma and convulsions .
+
+Seek urgent medical attention if you or someone you are travelling with show the [signs of methanol poisoning](https://travelaware.campaign.gov.uk/spiking-and-methanol-poisoning/) after drinking.
+
+Be aware of spiked drinks, food and cigarettes, particularly late at night in bars. Don’t leave food or drink unattended or accept food, drink or cigarettes from strangers.
 
 ### **Energy Drinks**
 

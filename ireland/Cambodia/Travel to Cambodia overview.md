@@ -8,7 +8,7 @@ Normal Precautions
 
 **Thailand Border Region**
 
-We advise against all travel to the entirety of the border region between Thailand and Cambodia, where armed clashes have taken place between Thai and Cambodian armed forces. The clashes have resulted in fatalities including civilian fatalities, and land mines remain present in the disputed border regions. Border crossings are subject to restrictions and closures, and there is a possibility of disruption to air travel between the two countries. While a ceasefire has been agreed, the situation remains fluid and Irish citizens in Thailand and Cambodia or intending to visit should pay close attention to authoritative sources of information and advice, and remain vigilant at all times. As there is no Irish Embassy in Cambodia, we are limited in the help we can offer in an emergency there. However, if assistance is required, please contact the Irish Embassy in Vietnam.
+We advise against all travel within 50km of the border region between Thailand and Cambodia, where armed clashes have taken place between Thai and Cambodian armed forces. The clashes have resulted in fatalities including civilian fatalities, and land mines remain present in the disputed border regions. Border crossings are subject to restrictions and closures, and there is a possibility of disruption to air travel between the two countries. While a ceasefire has been agreed, the situation remains fluid and Irish citizens in Thailand and Cambodia or intending to visit should pay close attention to authoritative sources of information and advice, and remain vigilant at all times. As there is no Irish Embassy in Cambodia, we are limited in the help we can offer in an emergency there. However, if assistance is required, please contact the Irish Embassy in Vietnam.
 
 ### **General Travel Advice**
 
@@ -22,7 +22,7 @@ For more information on visas and passports, please see the Entry requirements t
 
 Visitors to Cambodia are advised to follow the guidance of national and local authorities and stay fully informed of what is going on by monitoring local news and social media.
 
-Citizens can also follow the Irish Embassy in Vietnam on social media (X [**irlembvietnam**](https://twitter.com/irlembvietnam) and [**Facebook**](https://www.facebook.com/irishembassyinvietnam/)) to ensure access to relevant updates and alerts.
+Citizens can also follow the Irish Embassy in Vietnam on social media ([**Instagram**](https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Firelandinvietnam%2F&is_from_rle) , [**Facebook**](https://www.facebook.com/irishembassyinvietnam/) and [**LinkedIn**](https://www.linkedin.com/company/embassy-of-ireland-vietnam)) to ensure access to relevant updates and alerts.
 
 ### **Emergency Assistance**
 

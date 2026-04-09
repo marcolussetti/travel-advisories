@@ -4,13 +4,11 @@ Remember, the local laws apply to you as a visitor and it is your responsibility
 
 ### **Illegal Drugs**
 
-Visitors should not engage in any illegal activity. Illegal drug use (no matter what the drug) carries stiff penalties, including fines and long prison terms. Illegal drugs procured in Cambodia are likely to have been tampered with or spiked.
+You should avoid any involvement with illegal drugs, including cannabis, while in Cambodia.
 
-### **Alcohol**
+Illegal drug use (no matter what the drug) carries stiff penalties, including the death penalty, which is enforced.
 
-Visitors should be aware of spiked drinks, particularly late at night in bars. Do not leave food or drink unattended or accept food or drink from strangers.
-
-Home-made alcohol may be contaminated with bacteria or with toxic chemicals from pesticides and should be avoided.
+Recreational drugs available in Cambodia can be extremely dangerous and can result in death. Drugs sold in Cambodia may be fake, synthetic, or laced with toxic ingredients undetectable to the buyer, and can result in severe psychiatric problems.
 
 ### **Law Enforcement**
 
@@ -43,3 +41,7 @@ Credit cards are accepted in some hotels and by some businesses in larger cities
 ### **Travellers’ Cheques**
 
 Visitors can cash travellers’ cheques in many banks and bureaux de change.
+
+### **Dress code**
+
+You may be refused admission to religious sites, including Angkor Wat, if you wear skirts or shorts above the knee. Cover bare shoulders.

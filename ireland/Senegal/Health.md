@@ -22,11 +22,11 @@ Exclusions: Most insurance policies will not cover drink or drug-related inciden
 
 ### **Vaccinations**
 
-Senegalese authorities recommend vaccination against Measles, Hepatitis A and B, and Polio, Diphtheria and Tetanus. Please consult a doctor at least 8 weeks in advance of travel for advice on health care.
+Vaccination certificates are not mandatory for entry to Senegal: vaccination against yellow fever, DPT, measles, and hepatitis A and B is only recommended by the Senegalese authorities for those travelling from Ireland or other countries not experiencing epidemics or disease outbreaks
 
-Confirmation of vaccination against yellow fever is required for entry and may be inspected on arrival in Senegal.
+Please consult a doctor at least eight weeks in advance of travel for advice on health care.
 
-You can find out more information about vaccinations on the [**HSE’s website**](http://www.hse.ie/portal/eng/health/az/V/Vaccinations,-travel/).
+You can find out more information about vaccinations on the [**HSE's website**](http://www.hse.ie/portal/eng/health/az/V/Vaccinations,-travel/)**.**
 
 ### **Medical Care**
 

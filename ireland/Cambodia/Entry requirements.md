@@ -10,7 +10,7 @@ Vistors can get a visa on arrival at the Cambodian border. They will need to bri
 
 ### **e-Visa**
 
-The Cambodian Ministry of Foreign Affairs operates an electronic visa (e-Visa) facility for tourist visas only. The e-Visa costs US $30 and can only be used at the main entry crossings with the immigration IT system. Tourists can [**apply for an e-Visa online**](https://www.evisa.gov.kh/) to the Cambodian Ministry of Foreign Affairs, where full terms and conditions are also listed, with information on which border entry points accept the e-Visa.
+The Cambodian Ministry of Foreign Affairs operates an electronic visa (e-Visa) facility for tourist visas only. The e-Visa costs US $30 and can only be used at the main entry crossings with the immigration IT system. Tourists can [**apply for an e-Visa online**](https://www.evisa.gov.kh/) to the Cambodian Ministry of Foreign Affairs, where full terms and conditions are also listed, with information on which border entry points accept the e-Visa. Travellers should apply for an e-Visa at least four days in advance of travel.
 
 All passengers arriving into Phnom Penh or Siem Reap airports must also submit [**an e-Arrival Card (CeA)**](https://arrival.gov.kh/) within seven days of arrival date. This system replaces the paper-based arrival card previously in use. Passengers are advised to submit the required information through the [**online website**](https://arrival.gov.kh/) or via the new app, available on the Google Play Store and the Apple Store. This process is free of charge.
 

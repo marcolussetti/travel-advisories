@@ -16,8 +16,8 @@ During Ramadan, Muslims are not permitted to eat, drink, or smoke during dayligh
 
 ### **LGBTIQ+**
 
-Same-sex sexual activity is illegal in Senegal, and is punishable by up to five years’ imprisonment. Laws criminalising same-sex sexual activity are actively enforced.
+Same-sex sexual activity is illegal in Senegal, and is punishable by up to ten years’ imprisonment. Under recent legislation, any acts financing or “promoting” same sex relationships or LGBTQI+ rights are also illegal, and are punishable by up to seven year's imprisonment. The laws criminalising same-sex sexual activity are actively enforced.
 
-Same-sex relationships and public displays of affection are not tolerated, and same-sex marriages are not recognised. LGBTQI+ rights activism is also not tolerated. Travellers are advised to exercise caution and discretion.
+Same-sex relationships and public displays of affection are not tolerated, and same-sex marriages are not recognised. Travellers are advised to exercise caution and discretion.
 
-More information for LGBTIQ+ travellers is available at the following link: [LGBTIQ+ | Travel | Department of Foreign Affairs | Ireland.ie](https://www.ireland.ie/en/dfa/overseas-travel/know-before-you-go/lgbtiq/)
+More information for LGBTIQ+ travellers is available at the following link: [**LGBTIQ+ | Travel | Department of Foreign Affairs | Ireland.ie**](https://www.ireland.ie/en/dfa/overseas-travel/know-before-you-go/lgbtiq/)

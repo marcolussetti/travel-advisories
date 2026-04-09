@@ -25,3 +25,13 @@ There is currently no medication or vaccination available for travellers to prev
 ### **Other Diseases**
 
 Malaria and Japanese encephalitis occur in rural areas of Cambodia and are transmitted by mosquitoes. Your doctor will advise as to appropriate prophylactic measures or vaccines, depending on the length of your stay and the areas you intend to visit. Before travelling, get up-to-date medical advice as to whether you will need anti-malarial medication.
+
+### **Advice on mental health and medication**
+
+#### **Mental health**
+
+Visitors should be aware that the standard of mental healthcare in Cambodia differs from Ireland. It can be difficult if not impossible to access appropriate medical facilities with mental healthcare professionals who can speak English. Pre-existing mental health issues should be declared when purchasing travel insurance as otherwise the policy may not cover treatment or hospital costs.
+
+Travellers with mental health issues should consult a doctor before travelling to Cambodia. Ensure you have sufficient medication for your trip, along with an up-to-date prescription and letter from your doctor. Be aware that heat and hot weather can impact mental health and the effectiveness of certain medication.
+
+If you become concerned for your mental health (or the mental health of a friend / family member) while in Cambodia please contact the Embassy of Ireland in Hanoi (+842439743291) or if calling from Ireland - the Consular Assistance team in Dublin (+35314082000). The Embassy cannot provide medical advice or funds to return home.

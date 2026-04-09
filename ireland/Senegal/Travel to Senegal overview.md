@@ -20,13 +20,13 @@ Irish citizens do not need a visa to travel to Senegal. If intending to stay in 
 
 A valid passport is required for travel to Senegal Irish passports should have a minimum validity of 6 months.
 
-Irish citizens may be required to provide confirmation of vaccination against yellow fever on arrival in Senegal.
+Vaccination certificates are not mandatory for entry to Senegal: vaccination against yellow fever, DPT, measles, and hepatitis A and B is only recommended by the Senegalese authorities for those travelling from Ireland or other countries not experiencing epidemics or disease outbreaks Irish citizens are advised consult a doctor at least 8 weeks in advance of travel for advice on vaccinations and health care.
 
 More information on visas and passports can be found [**here**](https://www.aeroport-dakar.com/visa_on_arrival_senegal.php).
 
 Visitors to Senegal are advised to follow the guidance of national and local authorities and stay fully informed of what is going on by monitoring local news and social media.
 
-Citizens can also follow the Embassy on X [**@IrlEmbDakar**](https://twitter.com/IrlEmbDakar/status/1693966463952883724)and [**irlande\_sn**](https://www.instagram.com/irlande_sn/) on Instagram to ensure access to relevant updates and alerts.
+Citizens can also follow the Embassy on X [**@IrlEmbDakar**](https://twitter.com/IrlEmbDakar/status/1693966463952883724) and [**irlande\_sn**](https://www.instagram.com/irlande_sn/) on Instagram to ensure access to relevant updates and alerts.
 
 ### **Emergency Assistance**
 
