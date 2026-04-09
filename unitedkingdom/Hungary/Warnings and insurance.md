@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   19 February 2026
+:   9 April 2026
 
 Updated:
-:   18 February 2026
+:   8 April 2026
 
 Latest update:
-:   Updated information on European Entry-Exit System (EES) (‘Entry requirements’ page).
+:   Addition of information that national elections will be held on 12 April 2026 (see ‘Political situation’ on ‘Safety and security’ page).
 
 ## Before you travel
 

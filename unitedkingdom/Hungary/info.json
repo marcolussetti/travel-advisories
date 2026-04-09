@@ -1,11 +1,11 @@
 {
     "name": "Hungary",
-    "update_reason": "Updated information on European Entry-Exit System (EES) (\u2018Entry requirements\u2019 page).",
+    "update_reason": "Addition of information that national elections will be held on 12 April 2026 (see \u2018Political situation\u2019 on \u2018Safety and security\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Hungary/Warnings and insurance.md",
-            "update_date": "2026-02-18T11:32:29+00:00"
+            "update_date": "2026-04-08T15:08:25+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Hungary/Getting help.md"
         }
     ],
-    "update_date": "2026-02-18T11:32:29+00:00"
+    "update_date": "2026-04-08T15:08:25+01:00"
 }

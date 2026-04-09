@@ -48,8 +48,6 @@ FCDO has a list of [medical providers in Ecuador](https://www.gov.uk/government/
 
 See [hospitalisation information pack](https://www.gov.uk/government/publications/ecuador-hospitalisation-information-pack) for further details on healthcare in Ecuador, including a [list of hospitals](https://www.gov.uk/government/publications/ecuador-list-of-hospitals).
 
-There is also [guidance on healthcare if you’re living in Ecuador](https://www.gov.uk/guidance/living-in-ecuador).
-
 ### Healthcare in the Galapagos Islands
 
 There are limited medical facilities in the Galapagos Islands. Make sure your insurance includes air ambulance evacuation. If you travel to the Galapagos Islands by boat, you may be asked to supply information such as your blood group and emergency contacts when you board.

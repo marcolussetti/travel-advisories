@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   12 March 2026
+:   9 April 2026
 
 Updated:
-:   11 March 2026
+:   8 April 2026
 
 Latest update:
-:   Removal of information on closure of the Colombia-Ecuador land border ('Warnings and insurance' page).
+:   Updated information that the State of Emergency has been renewed for 60 days ('Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/65a1082ce96df50014f8452c/FCDO__TA__014_-_Ecuador_Travel_Advice_Ed5__WEB_.jpg)
 
@@ -45,7 +45,7 @@ Find out more about [why FCDO advises against travel](/foreign-travel-advice/ecu
 
 ## Regional state of emergency declared (internal disturbance and armed violence)
 
-A 30-day state of emergency (SOE) was renewed on 28 February 2026 due to internal disturbance and armed violence. You should follow the instructions of police and local authorities. The SOE currently applies to the following provinces:
+A 60-day state of emergency (SOE) was renewed on 2 April 2026 due to internal disturbance and armed violence. You should follow the instructions of police and local authorities. The SOE currently applies to the following provinces:
 
 * Guayas
 * El Oro
@@ -58,19 +58,9 @@ A 30-day state of emergency (SOE) was renewed on 28 February 2026 due to interna
 * Sucumbíos
 * Bolívar (cantones Echeandía and Las Naves)
 * Cotopaxi (cantón La Maná)
+* Cañar (cantón La Troncal)
 
 Due to the current SOE, expect heightened police and military presence nationwide without previous notice, and potential travel disruptions due to extra security checks.
-
-## Curfew
-
-A curfew has been announced in four provinces:
-
-* Guayas
-* Los Ríos
-* Santo Domingo de los Tsáchilas
-* El Oro
-
-This curfew will apply between 11pm and 5am from 15 to 30 March.
 
 ## Before you travel
 

@@ -10,7 +10,7 @@ Terrorist attacks in Hungary cannot be ruled out.
 
 ## Political situation
 
-Political demonstrations can be held in Budapest and across Hungary. Rallies often take place on important national holidays, such as 15 March (anniversary of 1848 Revolution) and 23 October (anniversary of 1956 anti-Soviet Uprising). Peaceful demonstrations have sometimes turned violent. Move away from large crowds and monitor local media to help you avoid organised demonstrations.
+Political demonstrations can be held in Budapest and across Hungary. Rallies often take place on important national holidays, such as 15 March (anniversary of 1848 Revolution) and 23 October (anniversary of 1956 anti-Soviet Uprising). National elections will be held on 12 April 2026. Peaceful demonstrations have sometimes turned violent. Move away from large crowds and monitor local media to help you avoid organised demonstrations.
 
 ## Crime
 
