@@ -18,7 +18,7 @@ The features in this map do not constitute an authoritative source of geographic
 
 ### ETHIOPIA - AVOID NON-ESSENTIAL TRAVEL
 
-[Avoid non-essential travel](#levels "Risk Levels") to Ethiopia due to civil unrest, violence, armed conflict and crime. The security situation can deteriorate without warning.
+[Avoid non-essential travel](#levels "Risk Levels") to Ethiopia due to civil unrest, violence, fuel shortages, armed conflict and crime. The security situation can deteriorate without warning.
 
 This advisory **excludes** Addis Ababa where you should exercise a high degree of caution.
 

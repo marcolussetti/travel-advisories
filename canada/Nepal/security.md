@@ -81,7 +81,21 @@ Emergency services such as evacuations and rescues from remote areas are availab
 * lack of a response from clients' insurance companies
 * limited access to regular phone service in many trekking areas
 
-There have been helicopter rescue scams in the past. Ensure that you are dealing with reputable helicopter companies. Check with your trekking agency for updates on the security situation in the area.
+There have been documented cases of helicopter rescue and insurance scams in Nepal. These scams have involved:
+
+* unnecessary helicopter evacuations
+* pressure to be evacuated without a medical assessment
+* falsified medical or evacuation documents
+* inflated billing to travellers and insurance companies
+
+To reduce your risk:
+
+* ensure that you are dealing with registered and reputable helicopter companies and trekking agencies
+* ask your trekking agency for up-to-date information on security conditions in the region
+* avoid trekking packages that appear unusually inexpensive
+* select insurance coverage for high altitude trekking and medical evacuation
+* request a medical evaluation before consenting to a helicopter evacuation, if possible
+* keep copies of all medical, insurance and evacuation documents
 
 #### Rafting
 
@@ -94,7 +108,7 @@ Organize white-water rafting excursions only through reputable agencies.
 
 ### Power cuts
 
-Due to an energy shortage, electric power cuts, termed “load shedding,” are a year-round occurrence. They occur frequently for short periods and without advance notice.
+Due to an energy shortage, electric power cuts, termed "load shedding," are a year-round occurrence. They occur frequently for short periods and without advance notice.
 
 ### Public transportation
 

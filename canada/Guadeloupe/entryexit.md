@@ -18,7 +18,7 @@ Before you travel, check with your transportation company about passport require
 
 #### Regular Canadian passport
 
-Your passport must be valid for the duration of your stay.
+Your passport must be valid for at least 3 months beyond the date you expect to leave Guadeloupe.
 
 #### Passport for official travel
 
@@ -44,15 +44,23 @@ Different entry rules may apply when travelling with a temporary passport or an 
 
 ### Visas
 
-Tourist visa: not required for stays up to 90 days   
-Residence visa: required   
-Work visa: required   
-Business visa: required   
+Tourist visa: not required for stays of up to 90 days  
+Business visa: not required for stays of up to 90 days  
+Work permit: required  
 Student visa: required
+
+[Check your visa need](https://france-visas.gouv.fr/en/web/france-visas/assistant-visa) – Government of France
 
 ### Other entry requirements
 
-Customs officials may ask you to show them a return or onward ticket and proof of sufficient funds to cover your stay.
+Customs officials may ask you to show them:
+
+* a return or onward ticket
+* proof of accommodation
+* proof of sufficient funds to cover your stay
+* proof of health insurance coverage
+
+[Your arrival in France](https://france-visas.gouv.fr/en/web/france-visas/votre-arrivee-en-france) – Government of France
 
 ### Children and travel
 

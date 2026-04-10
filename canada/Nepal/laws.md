@@ -10,6 +10,9 @@ Learn about what you should do and how we can help if you are [arrested or detai
 
 Penalties for possession, use or trafficking of illegal drugs are severe. Convicted offenders can expect jail sentences, including life imprisonment, and heavy fines.
 
+* Pack your own luggage and monitor it closely at all times
+* Never transport other people’s packages, bags or suitcases
+
 [Drugs, alcohol and travel](https://travel.gc.ca/travelling/health-safety/drugs)
 
 ### Photography

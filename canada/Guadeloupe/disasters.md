@@ -2,6 +2,10 @@
 
 ## Natural disasters and climate
 
+### Climate change
+
+Climate change is affecting Guadeloupe. Extreme and unusual weather events are becoming more frequent and may affect your travel plans. Monitor local media for the latest information.
+
 ### Hurricane season
 
 The hurricane season is from early June to the end of November in the Atlantic, Caribbean Sea and Gulf of Mexico. During this period, even small tropical storms can quickly develop into major hurricanes.
@@ -21,10 +25,10 @@ If you decide to travel to a coastal area during the hurricane season despite th
 * [Large-scale emergencies outside Canada](https://travel.gc.ca/assistance/emergency-info/large-scale-emergencies-abroad)
 * [Active storm tracking and hurricane watches and warnings](http://www.nhc.noaa.gov/) – U.S. National Hurricane Center
 
-### Volcanoes and earthquakes
+### Earthquakes and volcanoes
 
-Guadeloupe is located in an active seismic zone. Earthquakes and tremors occur.
+Guadeloupe is located in an active seismic zone. Earthquakes and tremors occur regularly.
 
-The Grande Soufrière volcano is active. It is located on the south side of Basse-Terre Island.
+La Soufrière is an active volcano. It is located on the southern flank of the island of Basse-Terre.
 
-[Volcano plan](http://www.guadeloupe.gouv.fr/Politiques-publiques/Risques-naturels-technologiques-et-sanitaires/Activite-volcanique-de-la-Soufriere-de-Guadeloupe-et-sismicite-regionale/Le-plan-ORSEC-Volcan) – Préfet de la région Guadeloupe (in French)
+[Volcanological and Seismological Observatory of Guadeloupe](https://www.ipgp.fr/en/observation/ovs/ovsg/) – Paris Institute of Planetary Physics

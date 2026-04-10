@@ -6,13 +6,12 @@ You must abide by local laws.
 
 Learn about what you should do and how we can help if you are [arrested or detained abroad](http://travel.gc.ca/assistance/emergency-info/arrest-detention).
 
-Guadeloupe is a French overseas department.
-
-Canada and France are signatories to the European Convention on the Transfer of Sentenced Persons. This enables a Canadian imprisoned in France to request a transfer to a Canadian prison to complete a sentence. The transfer requires the agreement of both Canadian and French authorities.
-
 ### Drugs
 
-Penalties for possession, use or trafficking of illegal drugs are severe. Convicted offenders can expect jail sentences and heavy fines.
+Penalties for possession, use or trafficking of illegal drugs can be severe. Convicted offenders could expect jail sentences and fines.
+
+* Pack your own luggage and monitor it closely at all times
+* Never transport other people’s packages, bags or suitcases
 
 [Drugs, alcohol and travel](https://travel.gc.ca/travelling/health-safety/drugs)
 
@@ -50,32 +49,24 @@ Be aware that Canadian consular officials cannot interfere in private legal matt
 * [Canadian embassies and consulates by destination](https://travel.gc.ca/assistance/embassies-consulates)
 * [Request emergency assistance](https://travel.gc.ca/assistance/emergency-assistance?_ga)
 
-### Marriages
-
-If you wish to marry in Guadeloupe, you should consult local authorities at the City hall to obtain appropriate information. The Embassy of France in Canada can also provide you with the requested documents.
-
-#### Useful links
-
-* [Foreign diplomatic missions and consulates in Canada](http://www.international.gc.ca/protocol-protocole/reps.aspx?lang=eng)
-* [Get married in France](https://www.international.gc.ca/country-pays/france/paris-info.aspx?lang=eng#MA) – Embassy of Canada in France
-* [Marriage abroad](https://travel.gc.ca/travelling/documents/marriage-overseas)
-
-### Investments
-
-If you plan on buying property, or making other investments in Guadeloupe, seek legal advice in Canada and in Guadeloupe. Do so before making commitments. Related disputes could take time and be costly to resolve.
-
-### Imports and exports
-
-French customs authorities may enforce strict regulations in Guadeloupe concerning temporary import or export of items such as firearms, medications or animals.
-
 ### Driving
 
-You may drive in Guadeloupe with a valid Canadian driver's license for up to 20 days. After that period, you must have an international driving permit.
+You must be at least 18 years old to drive a car in Guadeloupe. However, the minimum age to rent a car is 21, and the driver must have held a driver’s licence for at least 2 years.
 
-The legal driving age in France and its territories is 18. However, many rental car companies require drivers to be at least 25 years of age and have two years of driving experience.
+You can drive in Guadeloupe with a valid Canadian driver’s licence for up to 6 months.
+
+You must carry an International Driving Permit.
 
 [International Driving Permit](https://travel.gc.ca/travelling/documents/international-driving-permit)
 
+### Right of way
+
+The “right of way” system is in effect in Guadeloupe. Drivers must give way to vehicles approaching from the right at intersections, even on secondary roads. This often comes as a surprise to unaccustomed foreign drivers.
+
+Vehicles already in a roundabout have priority over those trying to enter it. In this case, priority is given to the left rather than the right.
+
+Pay attention when driving in Guadeloupe.
+
 ### Money
 
-The currency in Guadeloupe is the euro (EUR).
+The currency of Guadeloupe is the euro (EUR).

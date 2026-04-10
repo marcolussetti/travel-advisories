@@ -4,8 +4,8 @@
 
 ### Relevant Travel Health Notices
 
-* [Measles: Advice for travellers](https://travel.gc.ca/travelling/health-safety/travel-health-notices/504) - 13 November, 2025
-* [COVID-19 and International Travel](https://travel.gc.ca/travelling/health-safety/travel-health-notices/513) - 12 May, 2025
+* [Measles: Advice for travellers](https://travel.gc.ca/travelling/health-safety/travel-health-notices/504)
+* [COVID-19 and International Travel](https://travel.gc.ca/travelling/health-safety/travel-health-notices/513)
 
 This section has information and advice about health risks you might face when travelling. Following this advice can help reduce your risk of getting sick. Not all risks are listed here.
 
@@ -246,17 +246,30 @@ To lower your risk of getting sexually transmissible infections (STIs), HIV, and
 
 ### Medical services and facilities
 
-A fire significantly damaged the Centre Hospitalier Universitaire in Pointe-à-Pitre/Abymes in November 2017. Since then, health care services have been importantly reduced. Serious medical cases will likely require medical evacuation to Martinique or mainland France for treatment.
+Health care is very good and available throughout the territory.
 
-Construction of the new hospital is underway and the delivery is planned for 2023.
+At clinics, you are often asked to pay the bill in advance.
 
-In clinics, payment in advance is often expected.
-
-Not all doctors speak or understand English.
+Not all doctors or health care providers speak or understand English.
 
 Make sure you get travel insurance that includes coverage for medical evacuation and hospital stays.
 
 [Health and safety outside Canada](https://travel.gc.ca/travelling/health-safety)
+
+### Medication
+
+Some prescription medications may not be available in Guadeloupe.
+
+If you take prescription medications, you’re responsible for determining their legality in Guadeloupe.
+
+* Bring enough medication for your stay
+* Always keep your medication in the original container and carry a copy of your prescriptions
+* Pack your medication in your carry-on luggage
+
+#### Useful links
+
+* [Travelling with medication](https://travel.gc.ca/travelling/health-safety/medication)
+* [You are traveling with medicines](https://www.douane.gouv.fr/en/demarche/you-are-traveling-medicines) – Government of France
 
 ### Keep in Mind...
 

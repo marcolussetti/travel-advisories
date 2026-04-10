@@ -4,9 +4,11 @@
 
 ### Severe Tropical Cyclone Maila
 
-Severe Tropical Cyclone Maila is expected to pass the Western, Choiseul, and Isabel provinces of the Solomon Islands on April 7 and 8, 2026.
+On April 7 and 8, 2026, Severe Tropical Cyclone Maila passed the Western, Choiseul, and Isabel provinces of the Solomon Islands.
 
-The storm is likely to bring excessive rainfall and violent winds. It may cause flash flooding and landslides and could severely disrupt the following essential services:
+The cyclone is moving southeast away from the country, but it will continue to affect the Western Province with heavy rainfall and violent winds.
+
+It may cause flash flooding and landslides and could severely disrupt the following essential services:
 
 * transportation
 * power distribution

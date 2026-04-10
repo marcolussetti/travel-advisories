@@ -2,6 +2,22 @@
 
 ## Safety and security
 
+### Fuel shortages
+
+Ethiopia is experiencing fuel shortages of fuel. There are long wait times at gas stations across the country.
+
+These shortages may affect a wide range of services, including but not limited to:
+
+* ground and air transportation
+* electricity
+* telecommunication, including internet
+
+Travelling across the country could be increasingly challenging. Public transportation services, including taxis, are disrupted, leaving travellers with few options for local travel.
+
+* Expect disruptions and delays to transportation
+* Allow additional time to travel between locations
+* Always keep your gas tank at least half full
+
 The situation is volatile and unpredictable in several areas throughout the country due to ethnic conflicts. Violent clashes occur, especially near regional borders.
 
 Frequent incidents of civil unrest can lead to violence. Sporadic roadblocks, curfews and disruptions to telecommunications services are possible throughout the country.
