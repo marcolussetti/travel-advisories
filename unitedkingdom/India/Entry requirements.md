@@ -47,9 +47,9 @@ If you hold a valid Overseas Citizen of India (OCI) card, you can use this, alon
 
 ### E-arrival card
 
-Foreign nationals arriving in India must complete an [e-arrival card](https://indianvisaonline.gov.in/earrival/) online before reaching immigration. This digital disembarkation form replaces the paper-based arrival card, although paper forms will continue to be accepted until March 2026.
+Foreign nationals arriving in India must complete an [e-arrival card](https://indianvisaonline.gov.in/earrival/) online before reaching immigration. The online e-arrival card can be completed up to 72 hours before you arrive. You should complete the online process in advance to avoid delays at the airport.
 
-The online e-arrival card can be completed up to 72 hours before you arrive. More details are available on the [Indian visa website](https://indianvisaonline.gov.in/). The e-arrival card is not a visa, and you will still need a separate valid visa or OCI card to enter India.
+More details are available on the [Indian visa website](https://indianvisaonline.gov.in/). The e-arrival card is not a visa, and you will still need a separate valid visa or OCI card to enter India.
 
 ### Extending your visa
 

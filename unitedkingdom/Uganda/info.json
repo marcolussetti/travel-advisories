@@ -1,11 +1,11 @@
 {
     "name": "Uganda",
-    "update_reason": "Updated information about internet access and ongoing elections following Uganda\u2019s Presidential election (\u2018Warnings and insurance\u2019).",
+    "update_reason": "Removal of information about Presidential, Parliamentary and local elections ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Uganda/Warnings and insurance.md",
-            "update_date": "2026-01-19T17:00:32+00:00"
+            "update_date": "2026-04-09T14:09:13+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Uganda/Getting help.md"
         }
     ],
-    "update_date": "2026-01-19T17:00:32+00:00"
+    "update_date": "2026-04-09T14:09:13+01:00"
 }

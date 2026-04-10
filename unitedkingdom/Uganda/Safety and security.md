@@ -41,7 +41,7 @@ Recent significant attacks include:
 
 ## Political situation
 
-Presidential and Parliamentary elections took place in Uganda on 15 January 2026.
+Presidential and Parliamentary elections took place in Uganda on 15 January 2026. The Presidential Inauguration Ceremony will take place on 12 May 2026.
 
 Elections and political events have led to protests and violence, including fatalities. There has also been disruption to the internet and social media.
 

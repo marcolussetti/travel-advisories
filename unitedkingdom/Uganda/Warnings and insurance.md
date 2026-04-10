@@ -1,25 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   20 January 2026
+:   10 April 2026
 
 Updated:
-:   19 January 2026
+:   9 April 2026
 
 Latest update:
-:   Updated information about internet access and ongoing elections following Uganda’s Presidential election (‘Warnings and insurance’).
-
-## Presidential, Parliamentary and local elections
-
-Presidential and Parliamentary elections took place in Uganda on 15 January 2026 and results were announced on the afternoon of 17 January. Local government and special interest group elections are scheduled in January and February 2026.
-
-Previous election campaigns and result announcements have led to protests and violence, including fatalities. There have been some reports of violent incidents over this election period, including in Kampala.
-
-Stay away from political gatherings and large crowds and monitor local media to see when and where major protests may occur. Follow local news and the instructions of local authorities.
-
-Public internet access was restored on Sunday 17 January following a 4-day suspension though some social media and messaging platforms remain restricted.
-
-Consular assistance can be reached 24/7 on +256 (0) 312 312 000 or +44 (0) 20 7008 5000.
+:   Removal of information about Presidential, Parliamentary and local elections ('Warnings and insurance' page).
 
 ## Before you travel
 

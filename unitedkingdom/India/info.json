@@ -1,11 +1,11 @@
 {
     "name": "India",
-    "update_reason": "Updated information about global travel impacts due to escalation in the Middle East (\u2018Warnings and insurance\u2019 page).",
+    "update_reason": "Removal of information about paper forms being available for the e-arrival card ('Entry requirements' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/India/Warnings and insurance.md",
-            "update_date": "2026-03-19T14:03:38+00:00"
+            "update_date": "2026-04-09T11:20:37+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/India/Getting help.md"
         }
     ],
-    "update_date": "2026-03-19T14:03:38+00:00"
+    "update_date": "2026-04-09T11:20:37+01:00"
 }
