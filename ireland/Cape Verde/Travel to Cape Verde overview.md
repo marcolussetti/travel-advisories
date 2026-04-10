@@ -4,6 +4,10 @@
 
 High Degree of Caution
 
+### **Travel Alert**
+
+The [European Centre for Disease Prevention and Control (ECDC)](https://www.ecdc.europa.eu/en/news-events/epidemiological-update-shigellosis-and-other-gastrointestinal-infections-travellers) have announced a moderate risk for gastrointestinal infections in Santa Maria, Sal Island due to recent cases of Shigella sonnei and Salmonella. The ECDC recommends that travellers practice rigorous hand hygiene, especially before cooking, eating, and after using the toilet and consume food that is well-cooked and served hot. Ready-to-eat foods, including unwashed fruits and vegetables, salads, and products containing ice, should be avoided, and water should be bottled or boiled. If symptoms such as diarrhoea, fever or stomach cramps occur during or after travel, seek prompt medical attention.
+
 ### **General Travel Advice**
 
 Irish citizens do not require a visa to enter Cape Verde for stays up to 30 days.
