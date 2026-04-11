@@ -2,14 +2,26 @@
 
 ## Natural disasters and climate
 
-A tsunami threat is in effect for Guam.
+### Tropical Storm Sinlaku
 
-If you’re in or around the affected areas:
+Tropical Storm Sinlaku is expected to strengthen as it approaches Guam. It is expected to will make landfall, as a very strong typhoon, on April 13, 2026.
 
+The storm is likely to bring excessive rainfall and violent winds. It may cause flash flooding and landslides and could severely disrupt the following essential services:
+
+* transportation
+* power distribution
+* water and food supply
+* telecommunications networks
+* emergency services
+* medical care
+
+If you are in the affected area:
+
+* exercise caution
+* monitor local news and weather reports
 * follow the instructions of local authorities
-* monitor local news for information on the tsunami’s progress
 
-[Tsunami threat](http://www.tsunami.gov/ "http://www.tsunami.gov/") – U.S. Tsunami Warning System
+[Guam Forecast Office](https://www.weather.gov/gum/) – National Weather Service
 
 ### Climate change
 
