@@ -30,7 +30,7 @@ There have been reports of people having their drinks ‘spiked’ in nightclubs
 
 Many foreign visitors have been scammed for large amounts of money by unlicensed taxi drivers, including in airport taxis.
 
-You should only book taxis or airport transfers at a desk inside the airport (airside) after collecting your luggage and **before you enter the arrivals hall** – please refer to [this page](https://www.mtt.gob.cl/viaja-seguro-en-taxis.html) in order to learn more about how to safely order a taxi (in Spanish). You should be able to book and pay in advance at these desks inside the airport. If you cannot pay beforehand, request and approximate amount for the journey at the taxi desk.
+You should only book taxis or airport transfers at a desk inside the airport (airside) after collecting your luggage and **before you enter the arrivals hall** – please refer to [**this page**](https://www.subturismo.gob.cl/2022/08/24/ministro-de-transportes-y-subsecretaria-de-turismo-presentan-plataforma-tecnologica-que-hara-mas-transparentes-y-seguros-los-viajes-en-taxi/) in order to learn more about how to safely order a taxi (in Spanish). You should be able to book and pay in advance at these desks inside the airport. If you cannot pay beforehand, request and approximate amount for the journey at the taxi desk.
 
 Be wary of people impersonating authorised taxi drivers. There are criminals who dress up as authorised taxi drivers, including people inside the airport arrival hall wearing official-looking lanyards and jackets.
 
@@ -44,10 +44,10 @@ If the taxi takes you to an ATM to withdraw cash for payment, do not let the dri
 
 Read information about the official transportation options at Santiago airport:
 
-* [taxis](https://www.nuevopudahuel.cl/fromairport?language=en&target=taxis)
-* [buses](https://www.nuevopudahuel.cl/fromairport?language=en&target=buses)
-* [transfers](https://www.nuevopudahuel.cl/fromairport?language=en&target=transfer)
-* [car rental](https://www.nuevopudahuel.cl/fromairport?language=en&target=arriendo-vehiculos) (read the section ‘Vehicle crime’ below if you are planning on renting a car.
+* [**taxis**](https://www.nuevopudahuel.cl/fromairport?language=en&target=taxis)
+* [**buses**](https://www.nuevopudahuel.cl/fromairport?language=en&target=buses)
+* [**transfers**](https://www.nuevopudahuel.cl/fromairport?language=en&target=transfer)
+* [**car rental**](https://www.nuevopudahuel.cl/fromairport?language=en&target=arriendo-vehiculos) (read the section ‘Vehicle crime’ below if you are planning on renting a car.
 
 There are two official taxi companies operating in both terminals at the airport. Taxi Oficial Basico operates with black and yellow vehicles, and Taxi Oficial operates with blue vehicles.
 
@@ -67,13 +67,13 @@ If hiring a vehicle, we advise you not to hand over your passport as a form of s
 
 Check that you have adequate insurance and read the small print of the vehicle hire contract (particularly any waiver that will come into effect if the vehicle is damaged).
 
-There have been a number of incidents in major cities where those driving rental cars have been a victim of crime. Thieves have punctured tires in order to distract foreigners and steal their belongings from the vehicle. Keep windows closed and doors locked at all times. Do not leave bags, luggage or other valuable items in the car, and never in plain view. Cars that are parked on the street and left unattended are often broken into, even in affluent areas.
+There have been a number of incidents in major cities, such as Valparaíso, and at petrol stations along the motorway, where those driving rental cars have been a victim of crime. Thieves have punctured tires in order to distract foreigners and steal their belongings from the vehicle. Keep windows closed and doors locked at all times. Do not leave bags, luggage or other valuable items in the car, and never in plain view. Cars that are parked on the street and left unattended are often broken into, even in affluent areas.
 
 If you are robbed, hand over your cash and valuables without resistance. If you are carjacked, local authorities note that it is best to raise your hands and get out of the vehicle to avoid violence.
 
 ### **Lost or Stolen Passports**
 
-If your passport is lost or stolen, it can take up to three weeks to get a replacement, due to time and distance factors, so please take extreme care with your passport and other personal documentation. Getting a replacement passport will be easier if you are able to provide a copy of the lost or stolen one, so keep photocopies of your passport.
+If your passport is lost or stolen, it can take **up to three weeks** to get a replacement, due to time and distance factors, so please take extreme care with your passport and other personal documentation. Getting a replacement passport will be easier if you are able to provide a copy of the lost or stolen one, so keep photocopies of your passport.
 
 ### **Landmines**
 

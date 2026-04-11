@@ -10,11 +10,11 @@ Irish citizens do not require a visa to enter El Salvador. Visitors should note 
 
 A valid passport is required for travel to El Salvador. Irish passports should have a minimum validity of 6 months. Passport cards cannot be used.
 
-Until 2022, El Salvador had one of the highest crime rates in Latin America, but the security situation has improved significantly since then, with the homicide rate falling to less than 2 per 100,000, a figure lower than any other country in Central America. Reports indicate that the incidence of most other forms of violent crime has also reduced, but that sexual and gender based violence remains a concern. As is the case in other countries, there is a risk of petty and opportunistic crime.
+The security situation in El Salvador has improved dramatically in recent years, with the homicide rate falling to less than 2 per 100,000, a figure lower than any other country in Central America. The incidence of most other forms of violent crime has also reduced significantly. Travellers should be sensitive to the risk of sexual and gender based violence and, as in most countries, to that of petty and opportunistic crime.
 
-On 27 March 2022, a nationwide state of emergency was declared by the government in response to a surge in gang-related violence and homicides. The state of emergency has been extended several times since then, and remains in place. The state of emergency places restrictions on gatherings, allows arrests without a warrant, and the monitoring of communications, among other measures. Irish citizens in El Salvador should monitor local media to stay informed and follow the instructions of local authorities. For more information, please consult our safety and security section.
+A nationwide state of emergency has been in place since March 2022, placing restrictions on gatherings, allowing arrest without a warrant, and the monitoring of communications, among other measures. These measures are unlikely to impact negatively on the tourist experience; nonetheless, Irish citizens in El Salvador should monitor local media to stay informed and follow the instructions of local authorities. For more information, please consult our safety and security section.
 
-Citizens can also follow the Irish Embassy in Mexico on social media (X @[**IrishEmbMexico**](https://twitter.com/IrishEmbMexico/status/1585702058497232896/photo/3) and [**Facebook**](https://www.facebook.com/IrishEmbMexico)) to ensure access to relevant updates and alerts.
+Citizens can also follow the Embassy of Ireland in Mexico, which is accredited to El Salvador, on social media (X @[**IrishEmbMexico**](https://twitter.com/IrishEmbMexico/status/1585702058497232896/photo/3) and [**Facebook**](https://www.facebook.com/IrishEmbMexico)) to ensure access to relevant updates and alerts.
 
 ### **Emergency Assistance**
 

@@ -6,11 +6,11 @@ The El Salvador Constitution prohibits political activities by foreign nationals
 
 ### **Crime**
 
-Until 2022, El Salvador had one of the highest crime rates in Latin America, but since then the homicide rate has reduced significantly. The incidence of other forms of violent crime, once common, has also decreased. The risk of petty and opportunistic crime remains.
+Until 2022, El Salvador had one of the highest crime rates in Latin America, but since then the homicide rate has reduced significantly. The incidence of other forms of violent crime, once common, has also decreased significantly. The risk of petty and opportunistic crime remains.
 
-Most visits to El Salvador are uneventful, but violent crime, including robberies and assaults, may still occur. Sexual and gender-based violence also remains an issue. Visitors should take personal security seriously, be aware of surroundings at all times, and avoid obvious displays of wealth.
+Most visits to El Salvador are uneventful, but crime, including robberies and assaults, may still occur. Sexual and gender-based violence also remains an issue. Visitors should take personal security seriously, be aware of surroundings at all times, and avoid obvious displays of wealth.
 
-On 27 March 2022, a nationwide state of emergency was declared by the government in response to a surge in gang-related violence and homicides. The state of emergency has been extended several times since then, and remains in place. The state of emergency places restrictions on gatherings, allows arrests without a warrant, and the monitoring of communications, among other measures. Irish citizens in El Salvador should monitor local media to stay informed, and follow the instructions of local authorities. A heightened security presence is to be expected, and Irish citizens should avoid security operations, which continue to take place across the country, particularly in urban areas, including in San Salvador.
+A nationwide state of emergency has been in place since March 2022. The state of emergency places restrictions on gatherings, allows arrests without a warrant, and the monitoring of communications, among other measures. While these measures are unlikely to impact negatively on the tourist experience, Irish citizens in El Salvador should monitor local media to stay informed, and follow the instructions of local authorities. A heightened security presence is to be expected, and Irish citizens should avoid security operations, which continue to take place across the country, particularly in urban areas, including in San Salvador.
 
 Visitors to the country should exercise caution:
 
@@ -29,7 +29,7 @@ Pay attention to security in the border areas with Guatemala and Honduras. Visit
 Foreign nationals can be kidnapping targets either for political or financial reasons. If planning to visit the country, follow these basic precautions:
 
 * Get advice from local contacts about staying safe
-* Avoid travelling at night, particularly inter-city
+* Avoid travelling at night (unless to the airport), particularly inter-city
 * Avoid travelling alone
 * When driving, ensure all car doors are locked
 * Vary routes and departure times – avoid patterns which could be tracked
@@ -41,13 +41,13 @@ Unexploded ordnance such as landmines is a danger in the El Salvador countryside
 
 ### **Local Travel**
 
-Try to avoid travelling anywhere in El Salvador at night and avoid travelling alone. Take particular care if you need to go to downtown San Salvador, other towns or cities, or travel on roads outside of major towns and cities after dark. Where possible, travel as part of a group and with a reputable travel company. Avoid travelling on public buses.
+Try to avoid travelling anywhere in El Salvador (unless to the airport) at night and avoid travelling alone. Take particular care if you need to go to downtown San Salvador, other towns or cities, or travel on roads outside of major towns and cities after dark. Where possible, travel as part of a group and with a reputable travel company. Avoid travelling on public buses.
 
-There have been instances of armed attacks on vehicles travelling throughout El Salvador and attacks have taken place on the road between El Salvador and Guatemala. Avoid travelling on unpaved roads as there is a greater risk of attack in remote areas with fewer police patrols.
+There have not been any recent instances of armed attacks on vehicles travelling throughout El Salvador, but Irish citizens should exercise caution when driving at night or in remote areas. Avoid travelling on unpaved roads.
 
 ### **Taxis**
 
-For shorter trips within towns and cities it is safer to take radio or hotel taxis rather than public buses or unofficial taxis.
+For shorter trips within towns and cities it is safer to take radio or hotel taxis rather than public buses or unofficial taxis. Uber is generally considered safe.
 
 ### **Lost or Stolen Passports**
 

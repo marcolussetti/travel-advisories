@@ -14,7 +14,7 @@ Irish citizens do not require a visa to enter Chile for stays up to 90 days.
 
 A valid passport is required for travel to Chile. Irish passports must have a minimum validity of 6 months upon entry to Chile. Passport cards cannot be used.
 
-Special entry requirements exist for travel to [Easter Island](https://www.gob.cl/rapanuiprotegida/en/requirements/) (Rapa Nui). All travellers will have to comply with the following requirements:
+Special entry requirements exist for travel to [**Easter Island**](https://www.gob.cl/rapanuiprotegida/en/requirements/) (Rapa Nui). All travellers will have to comply with the following requirements:
 
 * Complete a [**Single Entry Form (FUI)**](https://ingresorapanui.interior.gob.cl/) ahead of travel.
 * Book a return ticket ahead of entry to Rapa Nui.
@@ -24,7 +24,7 @@ For more information on visas and passports, please see the Entry Requirements t
 
 Visitors to Chile are advised to follow the guidance of national and local authorities and stay fully informed of what is going on by monitoring local news and social media.
 
-Citizens can also follow the Embassy on [X](https://x.com/irlembchile) to ensure access to relevant updates and alerts.
+Citizens can also follow the Embassy on [**X**](https://x.com/irlembchile) to ensure access to relevant updates and alerts.
 
 ### **Emergency Assistance**
 
