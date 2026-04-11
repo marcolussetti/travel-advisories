@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   8 April 2026
+:   11 April 2026
 
 Updated:
-:   7 April 2026
+:   10 April 2026
 
 Latest update:
-:   Updated information about general strike action ('Warnings and insurance' page).
+:   Updated information on European Entry-Exit System (EES) (‘Entry requirements’ page).
 
 ## Strike action
 

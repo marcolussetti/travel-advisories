@@ -200,6 +200,6 @@ Read [what to do in the event of a volcanic eruption](https://rischi.protezionec
 
 [Previous:Entry requirements](/foreign-travel-advice/italy/entry-requirements)
 
-[Next:Winter Olympics](/foreign-travel-advice/italy/winter-olympics)
+[Next:Health](/foreign-travel-advice/italy/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/italy/print)

@@ -1,21 +1,15 @@
 # Warnings and insurance
 
 Still current at:
-:   19 February 2026
+:   11 April 2026
 
 Updated:
-:   18 February 2026
+:   10 April 2026
 
 Latest update:
 :   Updated information on European Entry-Exit System (EES) (‘Entry requirements’ page).
 
 This travel advice also covers Vatican City.
-
-## Winter Olympics (Milano Cortina) 2026
-
-The Winter Olympics and Paralympics will take place in Italy from 6 to 22 February and 6 to 15 March 2026.
-
-If you are planning to travel to Italy during these times, see the [Winter Olympics page](https://www.gov.uk/foreign-travel-advice/italy/winter-olympics) for more information.
 
 ## Before you travel
 

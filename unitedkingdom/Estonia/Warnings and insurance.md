@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   28 March 2026
+:   11 April 2026
 
 Updated:
-:   27 March 2026
+:   10 April 2026
 
 Latest update:
-:   New information about drones entering Estonian airspace linked to Russia’s invasion of Ukraine (‘Safety and security’ page).
+:   Updated information on European Entry-Exit System (EES) (‘Entry requirements’ page).
 
 ## Before you travel
 

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   6 March 2026
+:   11 April 2026
 
 Updated:
-:   5 March 2026
+:   10 April 2026
 
 Latest update:
-:   Removal of information about mass demonstrations and widespread disruption to public services across Greece on 28 February.
+:   Updated information on European Entry-Exit System (EES) (‘Entry requirements’ page).
 
 ## Before you travel
 

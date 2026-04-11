@@ -1,18 +1,18 @@
 # Warnings and insurance
 
 Still current at:
-:   2 April 2026
+:   11 April 2026
 
 Updated:
-:   1 April 2026
+:   10 April 2026
 
 Latest update:
-:   Updated information about regional escalation (‘Warnings and insurance’ page).
+:   FCDO now advises against all travel to parts of Lebanon. FCDO continues to advise against all travel and all but essential travel to other parts of Lebanon. Updated information about conflict affecting Lebanon ('Warnings and insurance' page).
 
-![](https://assets.publishing.service.gov.uk/media/69a8951f2f1252e55180d4f9/FCDO__TA__023_-_Lebanon_Travel_Advice_Ed21__WEB_.jpg)
+![](https://assets.publishing.service.gov.uk/media/69d8ca53eb7e7bc565170210/FCDO__TA__023_-_Lebanon_Travel_Advice_Ed22__WEB___1_.jpg)
 
 
-[Download a more detailed map (PDF, 617 KB)](https://assets.publishing.service.gov.uk/media/69a8951f2f1252e55180d4fa/FCDO__TA__023_-_Lebanon_Travel_Advice_Ed21.pdf)
+[Download a more detailed map (PDF, 617 KB)](https://assets.publishing.service.gov.uk/media/69d8ca53d3e08b8871b6658c/FCDO__TA__023_-_Lebanon_Travel_Advice_Ed22__1_.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO). Consular support is also severely limited where FCDO advises against travel.
 
@@ -20,7 +20,7 @@ Your travel insurance could be invalidated if you travel against advice from the
 
 ### Areas in Beirut and Mount Lebanon Governorate
 
-FCDO advises against all travel to the following areas of Beirut and its southern suburbs, excluding Route 51 from central Beirut to and past Rafic Hariri International Airport:
+FCDO advises against all travel to the following areas of Beirut and its southern suburbs, excluding Route 51 from central Beirut to Rafic Hariri International Airport:
 
 * Tariq el Jdideh and the area south of (but not including) Saeb Salam street between Ramleh al Bayda and Omar Beyhum street on the northern side of Horsh park to Tayouneh roundabout
 * Ghobeiry and the area north of Ghobeiry but south of Yarmouk street, the war cemetery and Horsh park (not including Horsh park and the cemetery and Yarmouk street)
@@ -29,12 +29,19 @@ FCDO advises against all travel to the following areas of Beirut and its southe
 * Burj Al Barajneh
 * Mraije
 * Laylaki
+* Basta
+* Bachoura
+* Zekak Al Blat
+* Barbour
+* Khandak El Ghamik
+* Jnah
+* The Golf Club of Lebanon
 * all other areas west of the Camil Chamoun Boulevard (south of Forn el Chebbak) that becomes the Old Saida Road through Hadath to Beirut airport
 * the Area of Bir Hassan bordered by the following roads: West of Highway 51; East of Beirut Saida Highway; South of Ghobeiry Road; North of Abbas El Mousawi
 
 FCDO advises against all travel to:
 
-The area of Mount Lebanon Governorate south of (but not including) the road from Khiam El Damour in the west (and extending to the Mediterranean Sea), which travels through the villages of, Kfar Him, Deir El Qamar, Barouk and Maaser El Chouf, to where the Barouk-Joub Jannine Road crosses the Mount Lebanon-Beqaa Governorate boundary in the east.
+The area of Mount Lebanon Governorate south of (including) the road from Quobbeh in the west (and extending to the Mediterranean Sea), which travels through the villages of Yanar, Bechamoun, Ain El Remmah and Aley and south of (excluding) Highway 30 to Dahr El Baydar, at the Mount Lebanon-Beqaa Governorate boundary in the east.
 
 FCDO advises against all but essential travel to the rest of Beirut and Mount Lebanon Governorate.
 
@@ -72,7 +79,7 @@ Let the UK government know you’re in Lebanon, [register your presence](https:
 
 Regional escalation poses significant security risks and has led to travel disruption.
 
-The Iranian regime has publicly stated its intention to target locations associated with the United States and Israel. This includes US-linked organisations, businesses, facilities and institutions.
+The Iranian regime has publicly stated its intentions to target locations across the region associated with the US. This includes US-linked organisations, businesses and institutions.
 
 Stay away from areas around security or military facilities, and US-linked locations.
 
@@ -97,7 +104,7 @@ Keep your departure plans under review and ensure your travel documents are up t
 
 ## Conflict affecting Lebanon
 
-Since 2 March, conflict in Lebanon has escalated in response to regional events. Airstrikes and rocket attacks between Israel and Lebanese Hizballah have increased. Widespread evacuation warnings have led to mass movement of people from conflict-affected areas. On 4 March, the IDF instructed people to leave all areas south of the Litani River. On 5 March they instructed everyone to leave a large area encompassing Beirut’s southern suburbs.
+Since 2 March, conflict in Lebanon has escalated in response to regional events. Airstrikes and rocket attacks between Israel and Lebanese Hizballah have increased. Widespread evacuation warnings have led to mass movement of people from conflict-affected areas. On 4 March, the IDF instructed people to leave all areas south of the Litani River. On 5 March they instructed everyone to leave a large area encompassing Beirut’s southern suburbs. On 8 April, Israel carried out strikes on over 100 sites across Lebanon, including the South Litani Sector, Beqaa Valley and some areas of Beirut.
 
 Israeli airstrikes have occurred primarily in areas south of the Litani River, Beirut’s southern suburbs and Baalbek-Hermel Governorate. The IDF regularly releases evacuation warnings before airstrikes, but many have taken place with no advance notice. The dynamic nature of the conflict means airstrikes have also taken place outside these areas. British nationals should follow local, international and social media to keep up to date with official alerts.
 

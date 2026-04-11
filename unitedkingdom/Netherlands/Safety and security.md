@@ -12,8 +12,6 @@ Terrorists are likely to try to carry out attacks in the Netherlands.
 
 Attacks could be indiscriminate, including in places visited by foreign nationals. You should remain aware of your surroundings, keep up to date with local media reports and follow the advice of local authorities.
 
-On 12 December 2023 the Netherlands raised its National Terrorist Threat Level. This means that they assess there is a heightened risk of a terrorist attack in the Netherlands.
-
 ## Crime
 
 ### Protecting your belongings

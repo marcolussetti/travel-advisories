@@ -44,7 +44,7 @@ There is a risk of drink spiking in bars and clubs. Be careful not to take drink
 
 ### Scams
 
-Beware of criminals pretending to be plainclothes policemen who ask to see your foreign currency and passport. Czechia police officers do not have the right to do this. Do not show them your money. Instead, offer to go with them to the nearest police station. You can also call 112 to check their identity.
+Beware of criminals pretending to be plainclothes policemen who ask to see your foreign currency and passport. Czech police officers do not have the right to do this. Do not show them your money. Instead, offer to go with them to the nearest police station. You can also call 112 to check their identity.
 
 ## Travelling in groups
 
