@@ -2,9 +2,9 @@
 
 ## Natural disasters and climate
 
-### Tropical Storm Sinlaku
+### Typhoon Sinlaku
 
-Tropical Storm Sinlaku is expected to strengthen as it approaches Guam. It is expected to will make landfall, as a very strong typhoon, on April 13, 2026.
+Typhoon Sinlaku is expected to pass to the north of Guam as a super typhoon, on April 14, 2026.
 
 The storm is likely to bring excessive rainfall and violent winds. It may cause flash flooding and landslides and could severely disrupt the following essential services:
 

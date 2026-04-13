@@ -505,8 +505,8 @@
     },
     {
         "destination": "Guam",
-        "risk_level": "Avoid non-essential travel",
-        "last_updated": "2026-04-10T16:36:03",
+        "risk_level": "Take normal security precautions",
+        "last_updated": "2026-04-12T13:15:31",
         "details_url": "https://travel.gc.ca/destinations/guam"
     },
     {
@@ -919,8 +919,8 @@
     },
     {
         "destination": "Northern Marianas",
-        "risk_level": "Avoid non-essential travel",
-        "last_updated": "2026-04-10T16:59:40",
+        "risk_level": "Avoid all travel",
+        "last_updated": "2026-04-12T13:24:25",
         "details_url": "https://travel.gc.ca/destinations/northern-marianas"
     },
     {

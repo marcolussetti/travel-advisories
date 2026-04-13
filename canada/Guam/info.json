@@ -1,7 +1,7 @@
 {
     "name": "Guam",
-    "update_reason": "Risk levels \u2013 avoid non-essential travel to Guam; Natural disasters and climate \u2013 added information on Tropical Storm Sinlaku",
-    "update_date": "2026-04-10T16:36:00",
+    "update_reason": "Risk level \u2013 take normal security precautions in Guam; Natural disasters and climate \u2013 updated information on Typhoon Sinlaku",
+    "update_date": "2026-04-12T13:15:00",
     "sections": {
         "risk": "canada/Guam/risk.md",
         "security": "canada/Guam/security.md",
