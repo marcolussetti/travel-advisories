@@ -59,9 +59,9 @@ If you are a resident of Saint Pierre and Miquelon, you can drive with a valid 
 
 If you are travelling to Saint Pierre and Miquelon by car, make sure your vehicle is covered by your insurance policy, as the archipelago is not considered to be in North America.
 
-#### Right of way
+#### Priority to the right
 
-The “right of way” system is in effect in Saint Pierre and Miquelon. Drivers must give way to vehicles approaching from the right at intersections, even on secondary roads. This often comes as a surprise to unaccustomed foreign drivers.
+The “priority to the right” system is in effect in Saint Pierre and Miquelon. Drivers must give way to vehicles approaching from the right at intersections, even on secondary roads. This often comes as a surprise to unaccustomed foreign drivers.
 
 Vehicles already in a roundabout have priority over those trying to enter it. In this case, priority is given to the left rather than the right.
 

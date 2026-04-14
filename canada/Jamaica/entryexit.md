@@ -42,29 +42,31 @@ Different entry rules may apply when travelling with a temporary passport or an 
 
 ### Visas
 
-Tourist visa: not required  
-Work visa: not required  
-Business visa: not required   
-Student visa: not required
+Tourist visa: not required for stays of up to 90 days  
+ Work visa: not required for stays of up to 90 days  
+ Business visa: not required for stays of up to 90 days  
+ Student visa: not required for stays of up to 90 days
 
-Immigration officers will generally grant visitors to Jamaica visitor landed status for 90 days. You must seek an extension if you are planning to stay up to an additional 90 days. You may request an extension at any immigration office. For stays beyond 90 days, you will require a visa.
+Immigration officers will generally grant visitors to Jamaica visitor landed status for 90 days. You must seek an extension (visa) if you are planning to stay up to an additional 90 days. You may request an extension at any immigration office.
 
 Overstaying a visa or entry stamp is a criminal offence and can lead to prison time, heavy fines and deportation.
 
 Persons found working illegally may be held in a local prison until arrangements for their return to Canada are made at their own cost.
 
-[Passport, Immigration & Citizenship Agency](http://www.pica.gov.jm/) – Government of Jamaica
+[Immigration](https://www.pica.gov.jm/immigration) – Passport, Immigration and Citizenship Agency
 
 ### Other entry requirements
 
 Customs officials may ask you to show them a return or onward ticket and proof of sufficient funds to cover your stay.
 
-You must provide certain information to immigration officials. You can do this online before arriving in Jamaica, or complete and sign a Jamaican immigration landing card, usually given to travellers upon arrival at the airport or during the flight. If you complete the immigration landing card:
+You must provide certain information to immigration officials. You can do this online before arriving in Jamaica, or complete and sign a Jamaican immigration landing card, usually given to travellers upon arrival at the airport or during the flight.
+
+If you complete the immigration landing card:
 
 * present it to an immigration official at the airport
-* retain the card and present it to immigration officials upon departure from Jamaica
+* keep it and present it to an immigration official upon departure from Jamaica
 
-[Immigration/Customs C5 card](https://enterjamaica.com) – Passport, Immigration and Citizenship Agency
+[Immigration/Customs C5 card](https://enterjamaica.com/) – Passport, Immigration and Citizenship Agency
 
 ### Children and travel
 

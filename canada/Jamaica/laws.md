@@ -10,16 +10,16 @@ Learn about what you should do and how we can help if you are [arrested or detai
 
 Penalties for possession, use or trafficking of illegal drugs are severe. Convicted offenders can expect lengthy prison sentences.
 
-Departing visitors are thoroughly screened for drug possession. Many Canadians are serving prison sentences for drug crimes, in some cases committed unwittingly. When leaving Ocho Rios and Montego Bay by cruise ship, you may be searched for drugs by local authorities. You should have a witness accompany you if you undergo such procedures.
+Departing visitors are thoroughly screened for drug possession. Many Canadians are serving prison sentences for drug crimes, in some cases, committed unwittingly. When leaving Ocho Rios and Montego Bay by cruise ship, you may be searched for drugs by local authorities. You should have a witness accompany you if you undergo such procedures.
 
-* Pack all luggage yourself
-* Don’t carry anything through customs for anyone else
+* Pack your own luggage and monitor it closely at all times
+* Never transport other people’s packages, bags or suitcases
 
 #### Cannabis
 
-Jamaica decriminalized the possession of up to two ounces of cannabis, which will be punishable by a fine and will not result in a criminal record. Smoking cannabis in public places, however, remains prohibited. Jamaican authorities continue to enforce strict laws against the possession and trafficking of narcotics, in accordance with international agreements to combat drug trafficking.
+Jamaica decriminalized the possession of up to 2 ounces of cannabis, which is punishable by a fine and will not result in a criminal record. However, smoking cannabis in public places remains prohibited.
 
-Don’t attempt to depart Jamaica and cross international borders with any amount of cannabis.
+Do not attempt to enter or depart Jamaica and cross international borders with any amount of cannabis.
 
 [Drugs, alcohol and travel](https://travel.gc.ca/travelling/health-safety/drugs)
 
@@ -28,8 +28,8 @@ Don’t attempt to depart Jamaica and cross international borders with any amoun
 It’s illegal to:
 
 * wear, buy or sell army or police camouflage clothing
-* nudist bathing in non-designated areas
-* use of indecent language
+* sunbathe nude in non-designated areas
+* use indecent language
 
 ### Imports and exports
 
@@ -80,17 +80,19 @@ Be aware that Canadian consular officials cannot interfere in private legal matt
 
 Traffic drives on the left.
 
-You can drive in Jamaica with a valid Canadian driver’s licence for up to six months. After 6 months, you must obtain a Jamaican driver’s licence.
+You can drive in Jamaica with a valid Canadian driver’s licence for up to 6 months. After 6 months, you must obtain a Jamaican driver’s licence.
 
 It is mandatory to wear a helmet on mopeds, motor scooters and motorcycles, and to wear a seatbelt in cars and taxis. There are heavy fines for non-compliance.
 
-You should carry an international driving permit.
-
-[International Driving Permit](https://travel.gc.ca/travelling/documents/international-driving-permit)
-
 ### Investments
 
-If you plan on buying property or making other investments in Jamaica, seek legal advice in Canada and in Jamaica. Do so before making commitments. Related disputes could take time and be costly to resolve.
+Disputes related to property acquisition or other investments are costly and take time to resolve.
+
+If you plan to buy property or make other investments in Jamaica:
+
+* seek legal advice in Canada and Jamaica before making commitments
+* choose your own lawyer
+* avoid hiring a lawyer recommended by a seller
 
 ### Money
 

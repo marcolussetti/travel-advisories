@@ -4,9 +4,11 @@
 
 ### Severe Tropical Cyclone Maila
 
-Severe Tropical Cyclone Maila is expected to sweep across the islands of Milne Bay province and Bougainville on April 9, 2026.
+On April 9, 2026, Severe Tropical Cyclone Maila swept across the islands of Milne Bay Province and Bougainville.
 
-The storm is likely to bring excessive rainfall and violent winds. It may cause flash flooding and landslides and could severely disrupt the following essential services:
+The cyclone caused significant damage to buildings and infrastructure, with multiple communities cut off due to landslides and washed out roads and bridges.
+
+The storm brought excessive rainfall and violent winds. There are casualties and displaced persons. Cyclone Maila caused severe flooding and there are significant disruptions to the following essential services:
 
 * transportation
 * power distribution
@@ -15,7 +17,7 @@ The storm is likely to bring excessive rainfall and violent winds. It may cause 
 * emergency services
 * medical care
 
-If you are in the affected area:
+If you are in the affected area, such as Bougainville:
 
 * exercise caution
 * monitor local news and weather reports

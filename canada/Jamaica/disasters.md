@@ -2,10 +2,6 @@
 
 ## Natural disasters and climate
 
-### Hurricane Melissa
-
-Infrastructure in the western parishes of Jamaica (St. Elizabeth, Westmoreland, Trelawny, St. James and Hanover) was severely damaged following the passage of Hurricane Melissa in October 2025. In some communities, you may not be able to access essential services such electricity or running water. There is a risk of waterborne and mosquito-borne diseases due to standing water. Health care services may be limited in some areas. Exercise a high degree of caution if travelling to the affected parishes.
-
 ### Hurricane season
 
 The hurricane season is from early June to the end of November in the Atlantic, Caribbean Sea and Gulf of Mexico. During this period, even small tropical storms can quickly develop into major hurricanes.
@@ -29,7 +25,7 @@ If you decide to travel to a coastal area during the hurricane season despite th
 
 Jamaica is located in an active seismic zone. It is subject to earthquakes and is at risk of tsunamis.
 
-A tsunami can occur within minutes of a nearby earthquake. However, the risk of tsunami can remain for several hours following the first tremor. If you’re staying on the coast, familiarize yourself with the region’s evacuation plans in the event of a tsunami warning.
+A tsunami can occur within minutes of a nearby earthquake. However, the risk of a tsunami can remain for several hours following the first tremor. If you’re staying on the coast, familiarize yourself with the region’s evacuation plans in the event of a tsunami warning.
 
 In the event of an earthquake:
 
@@ -39,4 +35,4 @@ In the event of an earthquake:
 #### Useful links
 
 * [Latest earthquakes](https://earthquake.usgs.gov/earthquakes/map/) – U.S. Geological Survey
-* [Tsunami warning system](http://tsunami.gov/) – U.S. National Weather Service
+* [Tsunami alerts](https://www.tsunami.gov/) – U.S. Tsunami Warning System

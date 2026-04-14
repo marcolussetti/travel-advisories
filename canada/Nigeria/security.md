@@ -16,7 +16,7 @@ Demonstrations occur frequently, especially in major cities. Even peaceful demon
 
 ### Northwestern and Northeastern states
 
-There is a threat of terrorism, banditry and kidnapping in the following northwestern and northeastern states:
+There is a threat of terrorism, banditry and kidnapping in the following northwestern and northeastern states:
 
 * Adamawa
 * Bauchi
@@ -36,9 +36,9 @@ Criminal groups continue to be active in the northwest, including in Kaduna stat
 * transportation hubs and networks
 * local communities
 
-### States of Plateau, Niger, Kogi and Taraba
+### States of Plateau, Niger, Kwara, Kogi and Taraba
 
-Violent incidents, including bomb attacks resulting in many casualties, occur in the Plateau, Taraba, Niger and Kogi states. Sporadic episodes of inter-communal and sectarian violence occur in the states of Plateau and Taraba. There has also been an increase in kidnapping cases in Niger State. Further indiscriminate attacks and kidnappings are likely.
+Violent incidents, including bomb attacks resulting in many casualties, occur in the Plateau, Taraba, Niger, Kwara and Kogi states. Sporadic episodes of inter-communal and sectarian violence occur in the states of Plateau and Taraba. There has also been an increase in kidnapping cases in Niger State. Further indiscriminate attacks and kidnappings are likely.
 
 ### Niger Delta states
 
@@ -85,7 +85,7 @@ Petty crime, such as pickpocketing and purse snatching, occurs frequently, parti
 * Do not show signs of affluence or wear expensive jewellery
 * Avoid all unnecessary travel after dark
 * Do not leave valuables or bags unattended
-* Be extra cautious when withdrawing cash from ATMs or travelling to and from banks
+* Be extra cautious when withdrawing cash from ATMs or travelling to and from banks
 * Only go to beaches during daylight and in groups, especially Lekki and Bar beaches on Victoria Island
 * Be wary of tourist excursions and only sign up with a reputable tour company
 
