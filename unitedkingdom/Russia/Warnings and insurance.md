@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   31 January 2026
+:   14 April 2026
 
 Updated:
-:   30 January 2026
+:   13 April 2026
 
 Latest update:
-:   New information on customs rules ('Entry requirements' page).
+:   Additional information for dual British-Russian nationals ('Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/621cd8428fa8f54915f43831/FCDO__TA__059_-_Russia_Travel_Advice_Ed1__WEB_.jpg)
 
@@ -43,6 +43,8 @@ Contact the Russian emergency services on 112.
 ### Dual nationals
 
 If you hold both British and Russian nationality, Russian authorities will treat you as a Russian citizen. This limits the consular assistance the UK government can provide. If you are arrested or detained, Russian authorities are unlikely to allow UK consular staff to visit or assist you.
+
+Russian nationals are required to notify Russian authorities of any second nationality, including British, within 60 days of acquiring that nationality, or within 60 days of returning to Russia if the British/ foreign nationality was obtained outside of Russia. Parents are responsible for notification on behalf of their children aged under 18.  Failure to comply can result in criminal liability. Penalties can include a fine of up to 200,000 Russian rubles (or up to one year of income) and/or compulsory work for up to 400 hours.
 
 ### Military Service
 

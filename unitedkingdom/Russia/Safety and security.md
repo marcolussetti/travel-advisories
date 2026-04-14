@@ -38,7 +38,7 @@ Examples of recent attacks include:
 
 ## Security situation in Russia
 
-The Russian invasion of Ukraine continues. There are reports of drone attacks and explosions in areas in western and southern Russia, particularly near the Russian border with Ukraine, Moscow and St Petersburg.  Associated Russian air defence activity may pose a threat to civilian aviation.
+The Russian invasion of Ukraine continues. There are reports of drone attacks and explosions in areas in western and southern Russia, particularly near the Russian border with Ukraine, Moscow and St Petersburg.  Associated Russian air defence activity may pose a threat to civilian aviation. There have been several shootings in Moscow, often near to apartment blocks. There has also been a bombing near to a Moscow railway station.
 
 Check local media for the latest information. Be vigilant and avoid any political demonstrations or gatherings.
 
