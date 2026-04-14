@@ -6,7 +6,7 @@ High Degree of Caution
 
 ### **Travel Alert**
 
-All flights to Tigray Regional State are currently suspended. Irish citizens are advised against all travel to Tigray until further notice.
+The Ethiopian authorities may implement travel restrictions anywhere in the country at short notice. Always check with your operator before travel.
 
 ### **General Travel Advice**
 
@@ -31,7 +31,7 @@ Citizens can also follow the Embassy on X[**@IrlEmbEthiopia**](https://twitter.c
 * The East and West Guji, East and West Wellega, Kelam Wellega and Horo Gudru Wellega zones of Oromia.
 * The Gedeo zone of South Ethiopia Regional State.
 * Parts of Afar Regional state within 10km of border with Eritrea.
-* Land within 10km of the borders with Border areas with Sudan, South Sudan and Kenya.
+* Land within 20km of the borders with Border areas with Sudan, South Sudan and Kenya.
 * Land within 100km of the borders of Somalia and Somaliland excluding the city of Jijiga.
 
 #### **The Department of Foreign Affairs and Trade advises against all but essential travel to:**

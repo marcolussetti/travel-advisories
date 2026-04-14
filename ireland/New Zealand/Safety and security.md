@@ -11,7 +11,7 @@
 
 ### **Lost or Stolen Passport**
 
-If your passport is lost or stolen while you are in New Zealand please report it to the police as soon as possible and to the Embassy [**New Zealand - Department of Foreign Affairs (dfa.ie)**](/en/dfa/overseas-travel/advice/new-zealand/) on the next working day.
+If your passport is lost or stolen while you are in New Zealand please report it to the police as soon as possible and to the Embassy [**Embassy of Ireland in Wellington**](https://www.ireland.ie/en/new-zealand/wellington/) on the next working day.
 
 Emergency arrangements are available for those who need to travel but the Embassy will not issue an emergency travel document for purposes other than urgent travel.
 

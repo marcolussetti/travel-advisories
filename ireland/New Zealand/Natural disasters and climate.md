@@ -2,7 +2,7 @@
 
 ### **Earthquake**
 
-New Zealand lies along a seismically active area and as such is prone to earthquakes and volcanic activity. For advice on what to do in an earthquake, please check the [**Get Thru**](https://getthru.govt.nz/) website for more information.
+New Zealand lies along a seismically active area and as such is prone to earthquakes and volcanic activity. For advice on what to do in an earthquake, please check the [**Get Ready**](https://getready.govt.nz/) website for more information.
 
 ### **Extreme Weather**
 

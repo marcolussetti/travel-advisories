@@ -14,7 +14,7 @@ There are several private hospitals and clinics in Cyprus that operate private a
 
 We advise you to get a European Health Insurance Card (EHIC) before travel to Cyprus. This card replaces the E111 form and entitles you to emergency medical treatment on the same terms as Cypriot nationals.
 
-The EHIC is not a substitute for travel insurance and does not cover medical repatriation, ongoing medical treatment or treatment of a non-urgent nature. You can apply for an EHIC online at [**www.ehic.ie**](http://www.ehic.ie/)
+The EHIC is not a substitute for travel insurance and does not cover medical repatriation, ongoing medical treatment or treatment of a non-urgent nature. You can apply for an EHIC online at [**www.ehic.ie**](https://www2.hse.ie/services/schemes-allowances/ehic/)**.**
 
 The EHIC is not valid in north Cyprus.
 
