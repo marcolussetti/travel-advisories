@@ -1,11 +1,11 @@
 {
     "name": "Palestine",
-    "update_reason": "Updated information about regional escalation (\u2018Warnings and insurance\u2019 page).",
+    "update_reason": "Updated information that, as a precautionary measure, the dependants of UK staff have been temporarily withdrawn from Tel Aviv, and update to information regarding regional escalation (\u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Palestine/Warnings and insurance.md",
-            "update_date": "2026-04-01T16:11:16+01:00"
+            "update_date": "2026-04-14T16:34:10+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Palestine/Getting help.md"
         }
     ],
-    "update_date": "2026-04-01T16:11:16+01:00"
+    "update_date": "2026-04-14T16:34:10+01:00"
 }

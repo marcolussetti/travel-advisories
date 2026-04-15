@@ -1,11 +1,11 @@
 {
     "name": "Kuwait",
-    "update_reason": "Addition of information about crossing the Saudi-Kuwait border ('Warnings and insurance' page).",
+    "update_reason": "Update to information regarding regional escalation (\u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Kuwait/Warnings and insurance.md",
-            "update_date": "2026-04-08T17:02:49+01:00"
+            "update_date": "2026-04-14T16:33:13+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Kuwait/Getting help.md"
         }
     ],
-    "update_date": "2026-04-08T17:02:49+01:00"
+    "update_date": "2026-04-14T16:33:13+01:00"
 }

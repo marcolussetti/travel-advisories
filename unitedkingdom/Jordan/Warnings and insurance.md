@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   2 April 2026
+:   15 April 2026
 
 Updated:
-:   1 April 2026
+:   14 April 2026
 
 Latest update:
-:   Updated information about regional escalation (‘Warnings and insurance’ page).
+:   Update to information regarding regional escalation (‘Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/69a5be6fa56a5482312c71a0/FCDO__TA__087_-_Jordan_Travel_Advice_Ed3__WEB_.jpg)
 
@@ -30,7 +30,7 @@ Regional escalation poses significant security risks and has led to travel disru
 
 The Iranian regime has publicly stated its intention to target locations associated with the United States and Israel. This includes US or Israeli-linked organisations, businesses, facilities and institutions.
 
-Iran continues to strike civilian infrastructure across the region such as ports, hotels, roads, bridges, energy facilities, oil production sites, water systems, and airports.
+Iranian strikes against civilian infrastructure across the region such as ports, hotels, roads, bridges, energy facilities, oil production sites, water systems, and airports, have decreased. However, the risk of renewed strikes remains, and further attacks could occur at short notice.
 
 British nationals should:
 

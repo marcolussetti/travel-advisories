@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   2 April 2026
+:   15 April 2026
 
 Updated:
-:   1 April 2026
+:   14 April 2026
 
 Latest update:
-:   Updated information about regional escalation (‘Warnings and insurance’ page).
+:   Updated information that, as a precautionary measure, the dependants of UK staff have been temporarily withdrawn from Tel Aviv, and update to information regarding regional escalation (‘Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/69a2c80fec82ce45f05bd722/FCDO__TA__022_-_Israel_Travel_Advice_Ed27__WEB_.jpg)
 
@@ -30,7 +30,7 @@ The Iranian regime has publicly stated its intention to target locations associa
 
 Stay away from areas around security or military facilities, and US-linked locations.
 
-Iran continues to strike civilian infrastructure across the region such as ports, hotels, roads, bridges, energy facilities, oil production sites, water systems, and airports.
+Iranian strikes against civilian infrastructure across the region such as ports, hotels, roads, bridges, energy facilities, oil production sites, water systems, and airports, have decreased. However, the risk of renewed strikes remains, and further attacks could occur at short notice.
 
 Follow the instructions of the local authorities and monitor local and international media for the latest information.  Visit [Israel’s Home Front Command](https://www.oref.org.il/eng).
 
@@ -74,7 +74,7 @@ Border officials may ask travellers to remove hats, coats or other items of clot
 
 ## If you are in Israel and Palestine
 
-We have taken the precautionary measure to temporarily move some of our staff and their dependents from Tel Aviv to another location within Israel. Our Embassy continues to operate as normal.
+We have taken the precautionary measure temporarily to withdraw dependants of UK staff from Tel Aviv. Our Embassy continues to operate as normal.
 
 The situation could escalate quickly and poses significant risks. Regional tensions may cause international borders (air and land) to close.
 

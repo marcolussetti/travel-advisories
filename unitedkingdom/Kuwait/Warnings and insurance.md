@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   9 April 2026
+:   15 April 2026
 
 Updated:
-:   8 April 2026
+:   14 April 2026
 
 Latest update:
-:   Addition of information about crossing the Saudi-Kuwait border ('Warnings and insurance' page).
+:   Update to information regarding regional escalation (‘Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/69a36b0da4d26cb233cd47da/Kuwait_Travel_Advice_Ed1__WEB_.jpg)
 
@@ -32,7 +32,7 @@ The Iranian regime has publicly stated its intention to target locations associa
 
 Stay away from areas around security or military facilities, and US-linked locations.
 
-Iran continues to strike civilian infrastructure across the region such as ports, hotels, roads, bridges, energy facilities, oil production sites, water systems, and airports.
+Iranian strikes against civilian infrastructure across the region such as ports, hotels, roads, bridges, energy facilities, oil production sites, water systems, and airports, have decreased. However, the risk of renewed strikes remains, and further attacks could occur at short notice.
 
 Follow the instructions of the local authorities and monitor local and international media for the latest information.  Download [Sahel app](https://www.e.gov.kw/sites/kgoenglish/Pages/ApplicationPages/Application-Sahel.aspx) for more information.
 

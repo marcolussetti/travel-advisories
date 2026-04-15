@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   2 April 2026
+:   15 April 2026
 
 Updated:
-:   1 April 2026
+:   14 April 2026
 
 Latest update:
-:   Updated information about regional escalation (‘Warnings and insurance’ page).
+:   Update to information regarding regional escalation (‘Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/69a8bbce5fc94cfb71958fb9/FCDO__TA__034_-_Saudi_Arabia_Travel_Advice_Ed7__WEB_.jpg)
 
@@ -53,7 +53,7 @@ The Iranian regime has publicly stated its intention to target locations associa
 
 Stay away from areas around security or military facilities, and US-linked locations.
 
-Iran continues to strike civilian infrastructure across the region such as ports, hotels, roads, bridges, energy facilities, oil production sites, water systems, and airports.
+Iranian strikes against civilian infrastructure across the region such as ports, hotels, roads, bridges, energy facilities, oil production sites, water systems, and airports, have decreased. However, the risk of renewed strikes remains, and further attacks could occur at short notice.
 
 Monitor local and international media for the latest information.
 
