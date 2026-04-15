@@ -50,7 +50,7 @@ Canadians entering Australia without a visa need to get an electronic travel aut
 
 A health examination might be necessary to obtain certain visas.
 
-* [Electronic Travel Authority](http://www.eta.immi.gov.au/) – Government of Australia
+* [Electronic Travel Authority](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/electronic-travel-authority-601) – Government of Australia
 * [Department of Home Affairs](https://www.homeaffairs.gov.au/) – Government of Australia
 
 ### Children and travel

@@ -26,6 +26,30 @@ When travelling in this destination, you might be at risk for diseases that can 
 
 The highlights below will also tell you if your destination may require that vaccine for entering or exiting.
 
+Yellow Fever - Country Entry Requirements 
+
+[Yellow fever](https://www.canada.ca/en/public-health/services/diseases/yellow-fever.html) is a disease caused by a flavivirus from the bite of an infected mosquito.
+
+Travellers get vaccinated either because it is required to enter a country or because it is recommended for their protection.
+
+**Risk**
+
+* There is no risk of yellow fever in this country.
+
+**Country Entry Requirement\***
+
+* Proof of vaccination is not required to enter this country.
+
+**Recommendation**
+
+* Vaccination is not recommended.
+
+\* It is important to note that [country entry requirements](https://www.who.int/publications/m/item/vaccination-requirements-and-recommendations-for-international-travellers-and-malaria-situation-per-country-2022-edition) may not reflect your risk of yellow fever at your destination. It is recommended that you contact the nearest [diplomatic or consular office](http://www.international.gc.ca/protocol-protocole/reps.aspx?view=d) of the destination(s) you will be visiting to verify any additional entry requirements.
+
+[About Yellow Fever](https://www.canada.ca/en/public-health/services/diseases/yellow-fever.html)
+
+[Yellow Fever Vaccination Centres in Canada]( https://www.canada.ca/en/public-health/services/travel-health/yellow-fever.html#select-centre)
+
 Measles 
 
 Measles is a serious viral infection that spreads easily. It spreads through the air, and can stay in the air for up to 2 hours. You can also get measles by direct contact with an infected person or by touching a surface with the virus on it and then touching your eyes, nose, or mouth before washing your hands.
@@ -68,30 +92,6 @@ In addition to vaccination, use personal protective measures to help protect you
 
 [Vaccine for COVID-19: How to get vaccinated](https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19/vaccines/how-vaccinated.html)  
 [COVID-19: Spread, prevention and risks](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html#p)
-
-Yellow Fever - Country Entry Requirements 
-
-[Yellow fever](https://www.canada.ca/en/public-health/services/diseases/yellow-fever.html) is a disease caused by a flavivirus from the bite of an infected mosquito.
-
-Travellers get vaccinated either because it is required to enter a country or because it is recommended for their protection.
-
-**Risk**
-
-* There is no risk of yellow fever in this country.
-
-**Country Entry Requirement\***
-
-* Proof of vaccination is not required to enter this country.
-
-**Recommendation**
-
-* Vaccination is not recommended.
-
-\* It is important to note that [country entry requirements](https://www.who.int/publications/m/item/vaccination-requirements-and-recommendations-for-international-travellers-and-malaria-situation-per-country-2022-edition) may not reflect your risk of yellow fever at your destination. It is recommended that you contact the nearest [diplomatic or consular office](http://www.international.gc.ca/protocol-protocole/reps.aspx?view=d) of the destination(s) you will be visiting to verify any additional entry requirements.
-
-[About Yellow Fever](https://www.canada.ca/en/public-health/services/diseases/yellow-fever.html)
-
-[Yellow Fever Vaccination Centres in Canada]( https://www.canada.ca/en/public-health/services/travel-health/yellow-fever.html#select-centre)
 
 Rabies 
 

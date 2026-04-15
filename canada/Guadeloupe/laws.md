@@ -59,9 +59,9 @@ You must carry an International Driving Permit.
 
 [International Driving Permit](https://travel.gc.ca/travelling/documents/international-driving-permit)
 
-### Right of way
+#### Priority to the right
 
-The “right of way” system is in effect in Guadeloupe. Drivers must give way to vehicles approaching from the right at intersections, even on secondary roads. This often comes as a surprise to unaccustomed foreign drivers.
+The “priority to the right” system is in effect in Guadeloupe. Drivers must give way to vehicles approaching from the right at intersections, even on secondary roads. This often comes as a surprise to unaccustomed foreign drivers.
 
 Vehicles already in a roundabout have priority over those trying to enter it. In this case, priority is given to the left rather than the right.
 
