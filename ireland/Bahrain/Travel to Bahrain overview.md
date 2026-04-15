@@ -22,6 +22,8 @@ Irish citizens already in the region are advised to avoid unnecessary journeys, 
 
 If you wish to leave Bahrain, you should note that while airspace in Bahrain currently remains closed, commercial flights are available from Saudi Arabia. The King Fahd Causeway remains open as normal.
 
+#### **Contact information and Embassy updates**
+
 Irish citizens in need of consular assistance should contact the Embassy of Ireland in Saudi Arabia on +966 550 543 386.
 
 Alternatively, you may contact the Duty Officer at the Department of Foreign Affairs and Trade in Dublin on +353 1 408 2000.

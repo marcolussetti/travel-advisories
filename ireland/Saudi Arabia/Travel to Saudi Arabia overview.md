@@ -14,13 +14,15 @@ Irish citizens in Saudi Arabia are advised to shelter in place, avoid unnecessar
 
 Airspace in Saudi Arabia may close for limited periods at short notice. Citizens affected are advised to liaise directly with their airline before travelling to the airport and to follow the guidance provided.
 
-#### In Saudi Arabia
+#### **In Saudi Arabia**
 
 Irish citizens already in the region are advised to avoid unnecessary journeys, remain vigilant, closely monitor developments and local media, and follow the advice of local authorities. In particular, if local authorities advise you to take shelter, stay indoors or move to the nearest safe building immediately. Falling debris caused by intercepts is a significant risk, and you are safest inside a secure structure.
 
-#### Leaving Saudi Arabia
+#### **Leaving Saudi Arabia**
 
 If you wish to leave Saudi Arabia, it is possible to do so via commercial means.
+
+#### **Contact information and Embassy updates**
 
 Irish citizens in need of consular assistance should contact the Embassy of Ireland in Saudi Arabia on +966 550 543 386.
 
