@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   20 March 2026
+:   16 April 2026
 
 Updated:
-:   19 March 2026
+:   15 April 2026
 
 Latest update:
-:   Updated information about global travel impacts due to escalation in the Middle East (‘Warnings and insurance’ page).
+:   Updated information on Ramadan and swimming safety (see 'Laws and cultural differences' and 'Outdoor activities and adventure tourism' on the 'Safety and security' page).
 
 ## Global travel impacts due to the situation in the Middle East
 

@@ -40,7 +40,7 @@ Maldives is an Islamic country. It is illegal to publicly observe a religion oth
 
 ### Ramadan
 
-Ramadan is a holy month for Muslims. The dates vary by year and country. In 2025, Ramadan began on 1 March and finished on 29 March. In 2026, it may start on 18 or 19 February and last for 29 or 30 days.
+Ramadan is a holy month for Muslims. The dates vary by year and country. In 2026, it began on 17 February and finished on 19 March. In 2027, it may start on 7 February and last for 29 or 30 days.
 
 During this time, do not eat, drink or smoke in public in the daytime, outside of holiday resorts.
 
@@ -95,13 +95,15 @@ Nudism and topless sunbathing are not allowed anywhere, including on resort isla
 
 ### Swimming safety
 
-The sea around Maldives can have strong tidal currents  that can drag you away from the shoreline. Over 8 British tourists have drowned since 2021.  It is important that you know the risks and what you can do to minimise them.
+The sea around Maldives can have strong tidal currents that can drag you away from the shoreline. Over 8 British tourists have drowned since 2021.  It is important that you know the risks and what you can do to minimise them.
 
 You should read the security information provided by your tour operator and make yourself aware of local swimming conditions on arrival at the resort.  Keep in regular contact with resort staff to see if these conditions change.
 
 Only swim in well supervised areas, areas designated as safe for tourists, or where lifeguards are available.  Pay attention to warning signs or flags and avoid swimming in areas with strong currents, high waves or dangerous underwater conditions.  If something does not feel right, get out of the water at the earliest opportunity.
 
 Being aware of the potential dangers will help you to stay safe. Always take local advice before going into the sea.
+
+There have been fatal accidents involving boat propellers in the South Ari Marine Protected Area (SAMPA) and nearby whale shark tourism sites. Regulations requiring propeller guards are not yet fully enforced. Take extra care when swimming or snorkelling near boats and follow local safety instructions.
 
 See [water safety on holiday](https://www.rlss.org.uk/safety-on-holiday%22%20/t%20%22_blank) from the Royal Life Saving Society.
 

@@ -68,7 +68,7 @@ There are high levels of lawlessness in the north of Sindh Province. There is a 
 
 ## Gilgit-Baltistan region
 
-FCDO advises against all but essential travel to Gilgit-Baltistan due to reports of unrest and protests, intermittent movement restrictions, and reports of mobile and internet service outages.
+Gilgit‑Baltistan Assembly elections are scheduled for 7 June 2026, with local government elections expected on 14 June. Political activity around election periods in Pakistan can lead to protests, demonstrations, and transport disruption at short notice.
 
 Flight schedules to Gilgit and Skardu Airports in the north of Pakistan may be unreliable and may change at short notice. Check with your airline or travel agent.
 

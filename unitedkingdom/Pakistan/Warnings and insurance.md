@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   15 March 2026
+:   16 April 2026
 
 Updated:
-:   14 March 2026
+:   15 April 2026
 
 Latest update:
-:   Updated information about regional escalation, including possible fuel shortages and transport disruption ('Warnings and insurance' page).
+:   FCDO no longer advises against all but essential travel to Gilgit-Baltistan. Updated information about regional tensions and upcoming elections in Gilgit-Baltistan region ('Warnings and insurance' and ‘Regional risks’ pages).
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
@@ -65,8 +65,6 @@ FCDO advises against all but essential travel within 5 miles of the internationa
 
 FCDO advises against all travel to within 10 miles of the Line of Control.
 
-FCDO advises against all but essential travel to Gilgit-Baltistan.
-
 ### Sindh Province
 
 FCDO advises against all but essential travel to all areas of Sindh Province north of and including the city of Nawabshah.
@@ -77,16 +75,17 @@ FCDO advises against all but essential travel to Dera Ghazi Khan.
 
 Find out more about [why FCDO advises against travel to these regions](/foreign-travel-advice/pakistan/regional-risks).
 
-## Regional escalation
+## Regional tensions
 
-Regional escalation poses significant security and economic risks and has led to travel disruption. There are increased security risks in Pakistan because of tensions between Pakistan and Afghanistan and developments in Iran.  Flights are being disrupted due to air space closures in the Middle East. Please check with your airline before travelling. There are reports of drone activity in some cities.
+Ongoing regional tensions pose significant security and economic risks and has led to travel disruption. Please check with your airline before travelling.
 
-Protests have taken place in some parts of Pakistan and may persist, including in major cities. Road access restrictions and curfews may be imposed at short notice. Global supply routes could affect Pakistan’s fuel availability and pricing. This may lead to transport disruption and delays, in some areas. Given the increasing risks we have instructed UK staff in Pakistan to restrict their movements at this time.
+Global supply routes could affect Pakistan’s fuel availability and pricing. This may lead to transport disruption and delays, in some areas.
+
+The regional situation remains tense and can change without warning.
 
 You should:
 
 * be aware of the risk of terrorism and be careful around protests, demonstrations, rallies and religious gatherings, particularly in urban areas across Pakistan
-* be aware the FCDO now advises against all but essential travel to Gilgit-Baltistan due to reports of unrest and protests, intermittent movement restrictions, and reports of mobile and internet service outages
 * follow the advice of local authorities and plan ahead to allow extra time for travel and keep up to date with local and international media
 * monitor local and international media for the latest information
 * be prepared to take shelter, stay indoors, or move to a safe building immediately if the local authorities instruct you to do so

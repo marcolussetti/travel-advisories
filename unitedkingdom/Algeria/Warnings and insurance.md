@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   14 April 2026
+:   16 April 2026
 
 Updated:
-:   13 April 2026
+:   15 April 2026
 
 Latest update:
-:   Updated with information following an explosion in the town of Blida (‘Warnings and insurance’ page).
+:   Removal of information following reports of an explosion in the town of Blida (‘Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/615dcb70d3bf7f55fd843aea/FCDO__TA__002_-_Algeria_Travel_Advice_Ed3__WEB_.jpg)
 
@@ -33,10 +33,6 @@ FCDO advises against all travel to within 30km of Algeria’s borders with:
 FCDO advises against all but essential travel to within 30km of the rest of Algeria’s border with Tunisia.
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/algeria/safety-and-security).
-
-## Explosion in the town of Blida
-
-We are aware of reports of an explosion on 13 April in the town of Blida. British nationals in the area should remain vigilant at all times and follow the advice of the local security authorities.
 
 ## Before you travel
 

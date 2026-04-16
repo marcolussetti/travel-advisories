@@ -1,11 +1,11 @@
 {
     "name": "Algeria",
-    "update_reason": "Updated with information following an explosion in the town of Blida (\u2018Warnings and insurance\u2019 page).",
+    "update_reason": "Removal of information following reports of an explosion in the town of Blida (\u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Algeria/Warnings and insurance.md",
-            "update_date": "2026-04-13T17:00:46+01:00"
+            "update_date": "2026-04-15T14:50:05+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Algeria/Getting help.md"
         }
     ],
-    "update_date": "2026-04-13T17:00:46+01:00"
+    "update_date": "2026-04-15T14:50:05+01:00"
 }
