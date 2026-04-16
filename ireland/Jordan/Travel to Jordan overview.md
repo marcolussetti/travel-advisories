@@ -6,17 +6,15 @@ Avoid Non-Essential Travel
 
 ### **Travel Alert**
 
-There has been an ongoing threat of drone and missile strikes from Iran entering Jordanian airspace. Irish citizens can expect disruption to air travel, with Jordanian authorities closing the airspace at short notice and airlines cancelling flights to and from the region.
-
-We recommend that you postpone travel to Jordan at this time unless your travel is deemed absolutely necessary.
+In light of the prevailing regional security situation, Irish citizens can expect disruption to air travel, with Jordanian authorities closing the airspace at short notice and airlines cancelling flights to and from the region.
 
 Irish citizens currently in Jordan are advised to remain vigilant, and to closely follow any security protocols issued by Jordanian authorities. This includes adherence to any warning sirens when activated.
 
-The activation signal consists of three separate alarms, each lasting 30 seconds, and indicates the onset of an emergency. Upon hearing this siren, you are advised to shelter in place. The de-activation signal consists of a continuous alarm for more than 1 minute, which indicates that the emergency has passed.
+The activation signal consists of three sequential alarms and indicates the onset of an emergency. During which you are advised to shelter in place. The de-activation signal consists of a continuous alarm for more than one minute, which indicates that the emergency has passed.
 
 Please be advised that the three land border crossings between Jordan and Israel (Allenby /King Hussein Bridge, Jordan River/ Sheikh Hussein Crossing, and Yitzhak Rabin / Wadi Araba Crossing) continue to be affected by long delays, reduced hours, and unforeseen closures without prior notification.
 
-In general, travellers to Jordan should exercise a high degree of caution, monitor local media, and follow the instructions of local authorities at all times and avoid all demonstrations and large crowds. If you find yourself in immediate danger, please contact the Jordanian police by dialling 911.
+In general, travellers to Jordan should exercise a high degree of caution, monitor local media, and follow the instructions of local authorities at all times. Citizens are advised to avoid all demonstrations and large crowds. If you find yourself in immediate danger, please contact the Jordanian police by dialling 911.
 
 **We recommend that all Irish citizens travelling to or residing in Jordan register on our** [**Citizens Registration portal**](https://citizensregistration.dfa.ie/)**.**
 
