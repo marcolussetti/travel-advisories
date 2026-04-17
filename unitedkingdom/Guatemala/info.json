@@ -1,11 +1,11 @@
 {
     "name": "Guatemala",
-    "update_reason": "New information on the \u2018State of Prevention' currently in effect in Guatemala ('Warnings and insurance' page).",
+    "update_reason": "Updated information on the \u2018State of Prevention' currently in effect in Guatemala ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Guatemala/Warnings and insurance.md",
-            "update_date": "2026-02-17T16:34:36+00:00"
+            "update_date": "2026-04-16T15:16:29+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Guatemala/Getting help.md"
         }
     ],
-    "update_date": "2026-02-17T16:34:36+00:00"
+    "update_date": "2026-04-16T15:16:29+01:00"
 }

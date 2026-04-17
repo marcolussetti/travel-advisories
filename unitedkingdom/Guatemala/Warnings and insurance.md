@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   18 February 2026
+:   17 April 2026
 
 Updated:
-:   17 February 2026
+:   16 April 2026
 
 Latest update:
-:   New information on the ‘State of Prevention' currently in effect in Guatemala ('Warnings and insurance' page).
+:   Updated information on the ‘State of Prevention' currently in effect in Guatemala ('Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/65fac0c89316f5001d64c3c0/FCDO__TA__095_-_Guatemala_Travel_Advice_Ed1__WEB_.jpg)
 
@@ -27,7 +27,15 @@ Find out more about [why FCDO advises against travel to these areas](https://ww
 
 ## State of Prevention
 
-Guatemalan authorities have announced that the ‘State of Siege’ ended on 16 February 2026. A ‘State of Prevention’ will be in place from 17 February 2026 for 15 days. Under this measure, the Government may deploy military support to certain services, disperse protests, restrict public or private gatherings, and impose limits on freedom of movement in specific circumstances. Follow the guidance of local authorities, remain alert to news reports, and limit late night travel where possible.
+On 6 April 2026, Guatemalan authorities announced a 15-day State of Prevention in the departments of Guatemala (City), Sacatepéquez, Escuintla, Petén, Izabal, San Marcos, and Huehuetenango.
+
+Under this measure, the Government can restrict outdoor gatherings, public demonstrations, and other public events, and disperse these by force in the event of outbreaks of violence. Authorities may also restrict parking and access of vehicles and subject them to inspection.
+
+You should:
+
+* follow the instructions of local authorities
+* stay informed through official channels
+* travel during daylight hours whenever possible
 
 ## Before you travel
 
