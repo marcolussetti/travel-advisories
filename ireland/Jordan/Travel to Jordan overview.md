@@ -12,7 +12,7 @@ Irish citizens currently in Jordan are advised to remain vigilant, and to closel
 
 The activation signal consists of three sequential alarms and indicates the onset of an emergency. During which you are advised to shelter in place. The de-activation signal consists of a continuous alarm for more than one minute, which indicates that the emergency has passed.
 
-Please be advised that the three land border crossings between Jordan and Israel (Allenby /King Hussein Bridge, Jordan River/ Sheikh Hussein Crossing, and Yitzhak Rabin / Wadi Araba Crossing) continue to be affected by long delays, reduced hours, and unforeseen closures without prior notification.
+Please be advised that the three land border crossings between Jordan and Israel (Allenby/King Hussein Bridge, Jordan River/Sheikh Hussein Crossing, and Yitzhak Rabin/Wadi Araba Crossing) continue to be affected by long delays, reduced hours, and unforeseen closures without prior notification.
 
 In general, travellers to Jordan should exercise a high degree of caution, monitor local media, and follow the instructions of local authorities at all times. Citizens are advised to avoid all demonstrations and large crowds. If you find yourself in immediate danger, please contact the Jordanian police by dialling 911.
 
