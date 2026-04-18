@@ -1,11 +1,11 @@
 {
     "name": "Bahrain",
-    "update_reason": "Update to information regarding regional escalation (\u2018Warnings and insurance\u2019 page).",
+    "update_reason": "Updated information about shelter in place ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Bahrain/Warnings and insurance.md",
-            "update_date": "2026-04-14T16:33:59+01:00"
+            "update_date": "2026-04-17T12:02:30+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Bahrain/Getting help.md"
         }
     ],
-    "update_date": "2026-04-14T16:33:59+01:00"
+    "update_date": "2026-04-17T12:02:30+01:00"
 }

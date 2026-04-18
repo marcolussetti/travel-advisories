@@ -1,11 +1,11 @@
 {
     "name": "Pakistan",
-    "update_reason": "FCDO no longer advises against all but essential travel to Gilgit-Baltistan. Updated information about regional tensions and upcoming elections in Gilgit-Baltistan region ('Warnings and insurance' and \u2018Regional risks\u2019 pages).",
+    "update_reason": "New information about the security situation in Islamabad ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Pakistan/Warnings and insurance.md",
-            "update_date": "2026-04-15T15:30:41+01:00"
+            "update_date": "2026-04-17T16:17:09+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Pakistan/Getting help.md"
         }
     ],
-    "update_date": "2026-04-15T15:30:41+01:00"
+    "update_date": "2026-04-17T16:17:09+01:00"
 }

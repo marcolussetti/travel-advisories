@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   28 March 2026
+:   18 April 2026
 
 Updated:
-:   27 March 2026
+:   17 April 2026
 
 Latest update:
-:   New information about an indefinite strike affecting public transport across the city and department of La Paz (‘Warnings and insurance’ and ‘Safety and security’ pages).
+:   Addition of information about local elections being held on 19 April ('Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/672ccc5a62831268b0b1a328/FCDO__TA__098_-_Bolivia_Travel_Advice_Ed1__WEB_.jpg)
 
@@ -22,9 +22,11 @@ FCDO advises against all but essential travel to the Chapare region of Cochaba
 
 Find out more about [why FCDO advises against travel](https://www.gov.uk/foreign-travel-advice/bolivia/safety-and-security).
 
-## Strike of public transport
+## Local elections
 
-There is currently an indefinite strike affecting public transport across the city and department of La Paz. Access to the airport is disrupted, and the cable car is the only form of public transport operating. Queues are extremely long. The main bus terminal is also closed, and intercity transport to other parts of Bolivia is suspended.
+Local elections will be held in the regions of Beni, Santa Cruz, Tarija, Oruro and Sucre on Sunday 19 April. There will be no transport from midnight on Saturday 18 April, until 6pm on Sunday 19 April. Some taxis in Santa Cruz will have permits to travel to and from the airport. It is prohibited to drink alcohol from midnight on Thursday 17 April, until midnight on Monday 20 April in the regions that are holding elections.
+
+La Paz, Cochabamba, and Potosí will not be affected by any of these restrictions. Check local advice before travelling.
 
 ## Before you travel
 

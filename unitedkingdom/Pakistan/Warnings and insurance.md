@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   16 April 2026
+:   18 April 2026
 
 Updated:
-:   15 April 2026
+:   17 April 2026
 
 Latest update:
-:   FCDO no longer advises against all but essential travel to Gilgit-Baltistan. Updated information about regional tensions and upcoming elections in Gilgit-Baltistan region ('Warnings and insurance' and ‘Regional risks’ pages).
+:   New information about the security situation in Islamabad ('Warnings and insurance' page).
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
@@ -74,6 +74,12 @@ FCDO advises against all but essential travel to all areas of Sindh Province nor
 FCDO advises against all but essential travel to Dera Ghazi Khan.
 
 Find out more about [why FCDO advises against travel to these regions](/foreign-travel-advice/pakistan/regional-risks).
+
+## Security presence around Islamabad
+
+There is an increased security presence and there are new checkpoints in and around Islamabad which may impact movement around the city and travel times.
+
+There remains an ongoing risk of terrorism. You should be careful around religious sites and gatherings, security checkpoints and tourist sites, and sign up to [FCDO Travel Advice email alerts](https://www.gov.uk/foreign-travel-advice/pakistan/email-signup).
 
 ## Regional tensions
 

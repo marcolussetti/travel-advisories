@@ -1,10 +1,10 @@
 # Warnings and insurance
 
 Still current at:
-:   15 April 2026
+:   18 April 2026
 
 Updated:
-:   14 April 2026
+:   17 April 2026
 
 Latest update:
 :   Update to information regarding regional escalation (‘Warnings and insurance’ page).
@@ -37,8 +37,6 @@ Find out more about [why FCDO advises against travel](/foreign-travel-advice/sau
 
 ## Exercise increased caution
 
-There are continued missile and drone attacks across Saudi Arabia. There is a risk of debris from intercepted missiles and drones falling across the region and causing further disruption. You should not approach any debris or sites that have been impacted.
-
 We advise British nationals in Saudi Arabia to exercise increased caution.
 
 If you are advised to take shelter, stay indoors or find the nearest safe building and take hard cover. An interior stairwell or a room with as few external walls or windows as possible may provide additional protection. Where available, follow advice from local authorities on how to stay safe in your location, including warnings from Civil Defence authorities, as risks may vary across Saudi Arabia.
@@ -53,7 +51,7 @@ The Iranian regime has publicly stated its intention to target locations associa
 
 Stay away from areas around security or military facilities, and US-linked locations.
 
-Iranian strikes against civilian infrastructure across the region such as ports, hotels, roads, bridges, energy facilities, oil production sites, water systems, and airports, have decreased. However, the risk of renewed strikes remains, and further attacks could occur at short notice.
+Iranian strikes against civilian infrastructure across the region such as ports, hotels, roads, bridges, energy facilities, oil production sites, water systems, and airports, have decreased. However, the risk of renewed strikes remains, and further attacks could occur at short notice. You should not approach any debris or sites that have been impacted.
 
 Monitor local and international media for the latest information.
 

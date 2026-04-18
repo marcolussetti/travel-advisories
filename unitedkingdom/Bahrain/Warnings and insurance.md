@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   15 April 2026
+:   18 April 2026
 
 Updated:
-:   14 April 2026
+:   17 April 2026
 
 Latest update:
-:   Update to information regarding regional escalation (‘Warnings and insurance’ page).
+:   Updated information about shelter in place ('Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/69a367d7286b6fdc85daeb02/Bahrain_Travel_Advice_Ed1__WEB_.jpg)
 
@@ -55,8 +55,6 @@ See [‘Entry requirements’ for Saudi Arabia](https://www.gov.uk/foreign-trav
 ## Shelter in place
 
 If staying in the Kingdom, follow the instructions of the local authorities. If you are advised to take shelter, stay indoors or find the nearest safe building or designated shelter. An interior stairwell or a room with as few external walls or windows as possible may provide additional protection. You should not approach or touch any drone or missile fragments or unusual objects.
-
-We advise British nationals, wherever possible, to stay inside and limit movements to essential journeys only. Always let friends or family know where you are and when you are travelling and keep your mobile phone with you and charged.
 
 ## If you are in Bahrain
 

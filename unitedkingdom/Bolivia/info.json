@@ -1,11 +1,11 @@
 {
     "name": "Bolivia",
-    "update_reason": "New information about an indefinite strike affecting public transport across the city and department of La Paz (\u2018Warnings and insurance\u2019 and \u2018Safety and security\u2019 pages).",
+    "update_reason": "Addition of information about local elections being held on 19 April ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Bolivia/Warnings and insurance.md",
-            "update_date": "2026-03-27T16:48:24+00:00"
+            "update_date": "2026-04-17T16:05:27+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Bolivia/Getting help.md"
         }
     ],
-    "update_date": "2026-03-27T16:48:24+00:00"
+    "update_date": "2026-04-17T16:05:27+01:00"
 }
