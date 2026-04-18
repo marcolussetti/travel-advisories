@@ -12,7 +12,7 @@ Travellers should ensure that their **passport is not damaged** **in any way, ot
 
 It is strongly advised to purchase comprehensive travel insurance that covers all planned activities.
 
-Irish citizens require a visa to enter Indonesia. Travellers to Indonesia can apply for a [**Visa on Arrival (VoA)**](https://evisa.imigrasi.go.id/)at a cost of IDR 500,000, either online or in-person upon arrival.
+Irish citizens require a visa to enter Indonesia. Travellers to Indonesia can apply for a [**Visa on Arrival (VoA)**](https://evisa.imigrasi.go.id/) at a cost of IDR 500,000, either online or in-person upon arrival.
 
 Travellers should ensure that they have an exit ticket from Indonesia booked prior to entry. Travellers presenting a one-way ticket only for a short stay visa will be denied entry.
 

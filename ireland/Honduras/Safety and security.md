@@ -1,12 +1,16 @@
 ## Safety and security
 
-Local authorities periodically declare a state of emergency in various municipalities to fight against gang-related crime and extortion. One such measure was announced nationwide in December 2022 for 30 days by the national government, and continues to be applied in a range of municipalities. Visitors to the country should research their destinations thoroughly before undertaking travel to the country to see if a state of emergency is in place.
+Local authorities periodically declare a state of emergency in various municipalities to fight against gang-related crime and extortion.
 
-Under the State of Exception additional patrols and security checkpoints have been implemented. Enhanced security can be expected in urban centres where criminal gangs have a wider presence, such as Tegucigalpa, San Pedro Sula, Choloma (Cortes), La Ceiba and Tela (both Atlantida department), as well as border areas. During this time there may be restrictions on freedom of movement and other rights in the affected municipalities. Visitors must carry a valid ID at all times and be prepared for various checkpoints; allow extra time to reach your destination; monitor local media for updates and information on the current situation and restrictions in specific municipalities. Avoid crowds or demonstrations. Always cooperate with military and police officers.
+One such measure was announced nationwide in December 2022 for an initial 30 days by the national government and was extended in particular municipalities until expiring on 26 January 2026.
+
+Visitors to the country should research their destinations thoroughly before undertaking travel to the country to see if a state of emergency is in place.
+
+Under Honduran emergency measures, additional patrols and security checkpoints can be implemented. Enhanced security can be expected in urban centres where criminal gangs have a wider presence, such as Tegucigalpa, San Pedro Sula, Choloma (Cortes), La Ceiba and Tela (both Atlantida department), as well as border areas. During these times there may be restrictions on freedom of movement and other rights in the affected municipalities. Visitors are advised to carry a valid ID at all times and be prepared for various checkpoints; allow extra time to reach your destination; monitor local media for updates and information on the current situation and restrictions in specific municipalities. Avoid crowds or demonstrations. Always cooperate with military and police officers.
 
 ### **Political Situation**
 
-The political situation can be unpredictable in Honduras, and while protests are normally peaceful, they can turn rapidly violent. Visitors should remain vigilant and avoid large gatherings. In the event of any unrest, follow the advice and instructions of the local authorities, monitor local news channels and be prepared to amend travel plans accordingly. All Irish citizens should avoid participation in political discussions or protests online or offline. The Honduran Constitution prohibits political activities by foreigners, and may detain and deport them for such activity.
+The political situation can be unpredictable in Honduras, and while protests are normally peaceful, they can turn rapidly violent. Visitors should remain vigilant and avoid large gatherings. In the event of any unrest, follow the advice and instructions of the local authorities, monitor local news channels and be prepared to amend travel plans accordingly. All Irish citizens should avoid participation in political discussions or protests online or offline. The Honduran Constitution prohibits political activities by foreigners, who may be detained and deported for such activity.
 
 ### **Crime**
 
@@ -20,7 +24,7 @@ There are high levels of crime in Honduras, and the security situation poses a r
 * Keep a close eye on personal belongings and hold on to them in public places such as internet cafés, train and bus stations.
 * Avoid travelling alone, particularly in remote areas.
 
-Travellers should avoid walking in cities and towns across mainland Honduras including Tegucigalpa, San Pedro Sula and la Ceiba. Be particularly careful at bus stations, airports, isolated beaches, tourist sites and on public transport.
+Travellers should avoid walking in cities and towns across mainland Honduras including Tegucigalpa, San Pedro Sula and la Ceiba. Be particularly careful at bus stations, airports, isolated beaches, tourist sites and on public transport. It is recommended to use a reliable taxi company recommended by your hotel.
 
 Violent crime does not usually target business travellers and foreign nationals directly. However, shoot-outs between gang members and the security forces in public places can pose significant incidental risk to bystanders.
 
@@ -40,11 +44,11 @@ Check that you have adequate insurance and read the small print of the vehicle h
 
 ### **Local Travel**
 
-Take care travelling in Honduras as there have been reports of violent attacks on cars and buses. Particular care should be taken if travelling on microbuses (‘colectivos’) in large cities such as Tegucigalpa and San Pedro Sula for security reasons. Travelling on major roads between large towns/cities is safer than travelling on more remote routes. Do not travel between towns/cities after dark as you greatly increase the risk of attack.
+Take care travelling in Honduras as there have been reports of violent attacks on cars and buses. It is not recommended to travel on microbuses (‘colectivos’) in large cities such as Tegucigalpa and San Pedro Sula for security reasons. Travelling on major roads between large towns/cities is safer than travelling on more remote routes. Do not travel between towns/cities after dark as you greatly increase the risk of attack.
 
 ### **Border Crossings**
 
-Exercise extreme caution near the borders with Guatemala, El Salvador and Nicaragua given the elevated risk of crime. Travellers should cross borders in the morning as they sometimes close in the early evening or remain unmanned at nights. It also allows time for you to reach your destination before dark. Visitors should avoid dealing with anyone suggesting that they can obtain your documents more quickly or more cheaply. Border fee crossings are US$3, or its equivalent in lempira, and the receipt should be retained. There are unmarked minefields in/around the border with Nicaragua. Take care and avoid walking on unmarked paths or off main roads in these areas.
+Exercise extreme caution near the borders with Guatemala, El Salvador and Nicaragua, where there is an elevated risk of crime. Travellers should cross borders in the morning as they sometimes close in the early evening or remain unmanned at nights. It also allows time for you to reach your destination before dark. Visitors should avoid dealing with anyone suggesting that they can obtain your documents more quickly or more cheaply. Border fee crossings are US$3, or its equivalent in lempira, and the receipt should be retained. There are unmarked minefields in/around the border with Nicaragua. Take care and avoid walking on unmarked paths or off main roads in these areas.
 
 ### **Hurricane Season**
 

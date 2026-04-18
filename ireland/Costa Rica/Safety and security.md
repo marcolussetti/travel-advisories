@@ -4,9 +4,9 @@
 
 Visitors should remain vigilant and aware, including when using ATMs. Petty theft of passports and other personal belongings is common. Visitors should be particularly aware when on the beach, particularly in remote or poorly lit areas, and when travelling on public transport as bags left in overhead compartments can be stolen.
 
-Only use official taxis and avoid poorly lit or remote areas.
+Use official taxis and avoid poorly lit or remote areas. Uber is generally considered safe.
 
-The rate of violence crime has risen in recent years. Visitors should exercise caution, particularly whilst traveling in the Puntarenas and Limon regions.
+The rate of violence crime has risen in recent years. Visitors should exercise caution, particularly whilst travelling in the provinces of Puntarenas and Limon. Visitors should also exercise caution in the capital, San José.
 
 Exercise caution when purchasing spirit-based drinks as there have been a number of cases of serious illness or death caused by alcoholic drinks containing methanol. If travellers shows symptoms of alcohol-induced methanol poisoning (including headache, dizziness, nausea and vomiting), seek medical attention immediately. Tourists should not leave drinks unattended, and women travelling alone should exercise increased vigilance.
 

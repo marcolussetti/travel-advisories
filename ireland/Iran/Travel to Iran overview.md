@@ -8,7 +8,7 @@ Do Not Travel
 
 #### **Do not travel to Iran.**
 
-**Israel and the US continue to target Iran with airstrikes. No commercial flights are in operation and Iran’s airspace is closed. Irish citizens who are in Iran should leave the country overland if it is safe to do so and if they have the correct entry permission for a neighbouring country.**
+**A two-week ceasefire between the US/Israel and Iran was announced on 8 April. However, the security situation remains highly volatile. Hostilities including airstrikes on cities and key infrastructure could resume at any time and the situation may deteriorate rapidly and without warning. Irish citizens who are in Iran should leave the country overland if it is safe to do so and if they have the correct entry permission for a neighbouring country.**
 
 **The Travel Advice for neighbouring countries is here:** [**Türkiye**](https://www.ireland.ie/en/dfa/overseas-travel/advice/turkiye/)**;** [**Armenia**](https://www.ireland.ie/en/dfa/overseas-travel/advice/armenia/)**;** [**Azerbaijan**](https://www.ireland.ie/en/dfa/overseas-travel/advice/azerbaijan/)**;** [**Turkmenistan**](https://www.ireland.ie/en/dfa/overseas-travel/advice/turkmenistan/)**. Please advise the Embassy of Ireland if you plan to leave Iran to ensure that you have the appropriate entry permission (see contact details below).**
 

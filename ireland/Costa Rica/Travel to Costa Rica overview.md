@@ -20,7 +20,7 @@ Citizens can also follow the Irish Embassy in Mexico on social media X @[**Irish
 
 The best help is often close at hand so if a problem arises, try talking to local contacts, tour operator representative or hotel management.
 
-For tourist advice, including on accommodation and travel, call +506-2299-5827 or via WhatsApp on+506-8628-3247.
+For tourist advice, including on accommodation and travel, call the Costa Rican Tourism Board at +506-2299-5800 or via WhatsApp on+506-8628-3247.
 
 Visitors can contact the emergency services in Costa Rica by dialling 911. Specific emergency numbers are:
 

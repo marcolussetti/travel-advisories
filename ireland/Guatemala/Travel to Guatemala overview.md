@@ -8,15 +8,21 @@ High Degree of Caution
 
 #### **State of Emergency**
 
-**The Guatemalan government declared an end to the 30‑day nationwide State of Emergency (sometimes translated as ‘State of Siege’) on 16 February. A less restrictive ‘State of Prevention’ will be in pace from 17 February for 15 days. The State of Prevention is in response to the threat of organised crime and gang activity. Irish citizens should exercise caution. Under the measure, authorities will maintain an increased security presence but with less severe restrictions on civil liberties. Irish citizens should follow guidance of local authorities, and monitor local media for any new information.**
+**The Guatemalan government is maintaining localised states of prevention – a form of state of emergency - in six Departments (similar to an Irish county), namely Guatemala, Petén, Escuintla, Izabal, San Marcos, Huehuetenango and Sacatepéquez. This is in response to the threat of organised crime and gang activity.**
 
-Recently, Guatemala has been subject to earthquakes of varying severity, from 3.0 to 5.7 magnitude. Earthquakes and their aftershocks can also cause landslides in some parts of the country. If travelling through Guatemala, please make sure you know what to do in case of an earthquake. Earthquakes may also cause road blockages and temporary disruptions.
+**Irish citizens should be alert to the ongoing threat of violent crime in these six Departments specifically, as well as more generally.** **Check for the guidance of local authorities, and monitor local media for any new information.**
+
+Earthquakes are frequent in Guatemala, and can be severe in both magnitude and impact, including landslides. If travelling through Guatemala, please make sure you know what to do in case of an earthquake. Earthquakes may also cause road blockages and temporary disruptions.
 
 ### **General Travel Advice**
 
-Irish citizens do not require a visa to enter Guatemala. Visitors should note that Guatemala is party to the Central America Border Control Agreement (CA-4) signed between Guatemala, Honduras, Nicaragua and El Salvador. Upon arriving in any of the CA-4 countries, visitors may travel to the other three member states, and stay for up to 90 days within the CA-4 region, without undergoing any entry and exit formalities. This period begins at the first point of entry in to any of the CA-4 countries. Fines are applied for travellers who exceed this 90-day limit, though a request for a 30-day extension can be made before the 90 days limit expires.
+Irish citizens do not require a visa to enter Guatemala.
+
+Visitors should note that Guatemala is party to the Central America Border Control Agreement (CA-4) signed between Guatemala, Honduras, Nicaragua and El Salvador. Upon arriving in any of the CA-4 countries, visitors may travel to the other three member states, and stay for up to 90 days within the CA-4 region, without undergoing any entry and exit formalities. This period begins at the first point of entry in to any of the CA-4 countries. Travellers who exceed this 90-day limit will be fined. Requests for a 30-day extension can be made before the 90 days limit expires.
 
 A valid passport is required for travel to Guatemala. Irish passports should have a minimum validity of 6 months. Passport cards cannot be used.
+
+Prior to entry to, and exit from, Guatemala, all travellers are required to complete an online customs declaration form, called a Regional Travel Affidavit or Declaración Jurada Regional de Viajero. Once completed, a QR code will be sent to the traveller’s phone. This QR code must be shown to customs officials before travellers are permitted to enter Guatemala. Some airlines will not allow passengers to board flights to Guatemala unless they can show the QR code.
 
 We advise a high degree of caution while crossing Guatemala’s land borders. Disruption and closures are common, so you are advised to check with local authorities before attempting to cross. Passengers should avoid crossing at night, and take extra care at walking border crossings.
 

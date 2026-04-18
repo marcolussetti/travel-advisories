@@ -20,6 +20,22 @@ Visitors should always take sensible precautions while in Indonesia:
 * Do not carry your passport unless absolutely necessary and leave a copy (and travel and insurance documents) with family or friends at home.
 * Make sure that you are comfortable with, and regularly review, your security arrangements.
 
+### **Sexual assault**
+
+Reported cases of rape and sexual assault are increasing in Bali and Lombok. Be alert when out at night and avoid areas that are poorly lit. Walking alone after dark should be avoided.
+
+If you call a taxi car or motorbike, use only registered companies, such as Bluebird, Silverbird or Express.
+
+If you book with a mobile app, try to utilise app features such as checking the driver is the same as the person on the app, and sharing your journey with a friend.
+
+Be wary of drivers claiming to be registered with app companies and trying to pick up passengers on the street or at airports.
+
+### **Drink spiking**
+
+There have been reports of drink spiking linked to sexual assault, assault and robbery in Bali, Lombok and the Gili Islands.
+
+Watch your drinks being prepared, and do not leave them unattended. Drinks accepted from strangers at clubs or parties may not be safe.
+
 ### **Reporting Crime**
 
 If a victim of a crime while in Indonesia, report it to the local police immediately. If in need of consular assistance, please contact the [**Embassy of Ireland in Jakarta.**](https://www.ireland.ie/en/indonesia/jakarta/)
