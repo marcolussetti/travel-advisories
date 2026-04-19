@@ -4,9 +4,9 @@
 
 ### Typhoon Sinlaku
 
-Typhoon Sinlaku is expected to pass to the north of Guam as a super typhoon, on April 14, 2026.
+On April 14, 2026, Typhoon Sinlaku passed north of Guam.
 
-The storm is likely to bring excessive rainfall and violent winds. It may cause flash flooding and landslides and could severely disrupt the following essential services:
+Typhoon Sinlaku caused severe flooding and there are significant disruptions to the following essential services:
 
 * transportation
 * power distribution

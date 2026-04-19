@@ -134,7 +134,7 @@
     {
         "destination": "Belize",
         "risk_level": "Exercise a high degree of caution (with regional advisories)",
-        "last_updated": "2026-03-18T13:13:26",
+        "last_updated": "2026-04-17T14:20:10",
         "details_url": "https://travel.gc.ca/destinations/belize"
     },
     {
@@ -158,7 +158,7 @@
     {
         "destination": "Bolivia",
         "risk_level": "Exercise a high degree of caution (with regional advisories)",
-        "last_updated": "2026-03-25T11:34:06",
+        "last_updated": "2026-04-17T13:43:52",
         "details_url": "https://travel.gc.ca/destinations/bolivia"
     },
     {
@@ -506,13 +506,13 @@
     {
         "destination": "Guam",
         "risk_level": "Take normal security precautions",
-        "last_updated": "2026-04-12T13:15:31",
+        "last_updated": "2026-04-17T13:40:03",
         "details_url": "https://travel.gc.ca/destinations/guam"
     },
     {
         "destination": "Guatemala",
         "risk_level": "Exercise a high degree of caution (with regional advisories)",
-        "last_updated": "2026-03-24T09:43:45",
+        "last_updated": "2026-04-17T14:17:37",
         "details_url": "https://travel.gc.ca/destinations/guatemala"
     },
     {
@@ -919,8 +919,8 @@
     },
     {
         "destination": "Northern Marianas",
-        "risk_level": "Avoid all travel",
-        "last_updated": "2026-04-12T13:24:25",
+        "risk_level": "Avoid non-essential travel",
+        "last_updated": "2026-04-17T13:23:47",
         "details_url": "https://travel.gc.ca/destinations/northern-marianas"
     },
     {
@@ -950,7 +950,7 @@
     {
         "destination": "Panama",
         "risk_level": "Take normal security precautions (with regional advisories)",
-        "last_updated": "2026-04-02T11:31:41",
+        "last_updated": "2026-04-17T10:09:12",
         "details_url": "https://travel.gc.ca/destinations/panama"
     },
     {

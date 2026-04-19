@@ -4,9 +4,11 @@
 
 ### Typhoon Sinlaku
 
-Typhoon Sinlaku is expected sweep across the Northern Mariana Islands, especially Rota, Tinian and Saipan, as a super typhoon, on April 14, 2026.
+On April 14, 2026, Typhoon Sinlaku swept across the Northern Mariana Islands, especially Rota, Tinian and Saipan.
 
-The storm is likely to bring excessive rainfall and violent winds. It may cause flash flooding and landslides and could severely disrupt the following essential services:
+The storm brought excessive rainfall and violent winds. It caused significant damage to buildings and infrastructure.
+
+Typhoon Sinlaku caused severe flooding and there are significant disruptions to the following essential services:
 
 * transportation
 * power distribution
@@ -14,8 +16,6 @@ The storm is likely to bring excessive rainfall and violent winds. It may cause 
 * telecommunications networks
 * emergency services
 * medical care
-
-Avoid all travel to the Northern Marianas Islands.
 
 If you are in the affected area:
 

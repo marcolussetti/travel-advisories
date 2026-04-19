@@ -1,7 +1,7 @@
 {
     "name": "Northern Marianas",
-    "update_reason": "Risk level \u2013 avoid all travel to the Northern Marianas Islands due to Typhoon Sinlaku; Natural disasters and climate \u2013 updated information on Typhoon Sinlaku",
-    "update_date": "2026-04-12T13:24:00",
+    "update_reason": "Risk level \u2013 avoid non-essential travel to the Northern Marianas; Natural disasters and climate \u2013 updated information on Tropical Storm Sinlaku",
+    "update_date": "2026-04-17T13:23:00",
     "sections": {
         "risk": "canada/Northern Marianas/risk.md",
         "security": "canada/Northern Marianas/security.md",

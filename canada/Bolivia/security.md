@@ -2,6 +2,23 @@
 
 ## Safety and security
 
+### Regional elections
+
+Run-off elections are scheduled for April 19, 2026, in the regions of:
+
+* Beni
+* Santa Cruz
+* Tarija
+* Oruro
+* Chuquisaca
+
+Certain restrictions will be strictly enforced before, during and after the elections in these regions.
+
+These restrictions include:
+
+* prohibitions on the sale and consumption of alcohol from midnight on April 17 until midnight on April 20
+* suspension of transportation from midnight on April 18 until 6 pm on April 19. A limited number of taxis in Santa Cruz will have permits to travel to and from the airport.
+
 ### Roadblocks
 
 Since December 19, 2025, there is an increased risk of roadblocks in La Paz, Santa Cruz, Cochabamba and other areas due to transport strikes and demonstrations.
