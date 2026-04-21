@@ -1,7 +1,7 @@
 {
     "name": "Malaysia",
-    "update_reason": "Laws and culture \u2013 updated information on Ramadan 2027",
-    "update_date": "2026-03-30T16:04:00",
+    "update_reason": "Natural disasters and climate \u2013 removed information on flooding and landslides",
+    "update_date": "2026-04-20T14:32:00",
     "sections": {
         "risk": "canada/Malaysia/risk.md",
         "security": "canada/Malaysia/security.md",

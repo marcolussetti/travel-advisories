@@ -2,29 +2,24 @@
 
 ## Safety and security
 
-### Regional elections
+### Demonstrations
 
-Run-off elections are scheduled for April 19, 2026, in the regions of:
+Demonstrations occur frequently, often with little or no notice. Even peaceful demonstrations can turn violent at any time. They can also lead to disruptions to traffic and public transportation. Protesters may also use dynamite during protests. The police often respond with tear gas to disperse crowds.
 
-* Beni
-* Santa Cruz
-* Tarija
-* Oruro
-* Chuquisaca
+* Avoid areas where demonstrations and large gatherings are taking place
+* Follow the instructions of local authorities
+* Monitor local media for information on ongoing demonstrations
 
-Certain restrictions will be strictly enforced before, during and after the elections in these regions.
+[Mass gatherings (large-scale events)](https://travel.gc.ca/travelling/health-safety/mass-gatherings)
 
-These restrictions include:
+### Strikes
 
-* prohibitions on the sale and consumption of alcohol from midnight on April 17 until midnight on April 20
-* suspension of transportation from midnight on April 18 until 6 pm on April 19. A limited number of taxis in Santa Cruz will have permits to travel to and from the airport.
+Strikes occur frequently and often take place nationwide. Roadblocks are frequently erected during strikes, which can complicate travel plans.
+
+* Consult local media to be aware of strikes that may affect your stay or travel plans
+* In the event of a transport strike, plan extra time to get to your destination
 
 ### Roadblocks
-
-Since December 19, 2025, there is an increased risk of roadblocks in La Paz, Santa Cruz, Cochabamba and other areas due to transport strikes and demonstrations.
-
-* Monitor local media for the latest information
-* Follow the instructions of local authorities
 
 Roadblocks are common throughout the country. They can lead to significant disruptions to traffic and public transportation. Roadblocks can also restrict the flow of goods and services throughout the country. The following are particularly vulnerable to blockades:
 
@@ -54,23 +49,6 @@ Don’t cross roadblocks, even if they appear unattended. This may aggravate the
 * returning to your place of departure
 
 [Road closures and blockages](http://transitabilidad.abc.gob.bo/mapa) – Bolivian Highway Administrator (in Spanish)
-
-### Demonstrations
-
-Demonstrations occur frequently, often with little or no notice. Even peaceful demonstrations can turn violent at any time. They can also lead to disruptions to traffic and public transportation. Protesters may also use dynamite during protests. The police often respond with tear gas to disperse crowds.
-
-* Avoid areas where demonstrations and large gatherings are taking place
-* Follow the instructions of local authorities
-* Monitor local media for information on ongoing demonstrations
-
-[Mass gatherings (large-scale events)](https://travel.gc.ca/travelling/health-safety/mass-gatherings)
-
-### Strikes
-
-Strikes occur frequently and often take place nationwide. Roadblocks are frequently erected during strikes, which can complicate travel plans.
-
-* Consult local media to be aware of strikes that may affect your stay or travel plans
-* In the event of a transport strike, plan extra time to get to your destination
 
 ### Crime
 

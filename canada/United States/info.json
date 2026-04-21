@@ -1,7 +1,7 @@
 {
     "name": "United States",
-    "update_reason": "Natural disasters and climate \u2013 removed information on a flood watch in Hawaii",
-    "update_date": "2026-04-14T10:41:00",
+    "update_reason": "Editorial change",
+    "update_date": "2026-04-20T15:54:00",
     "sections": {
         "risk": "canada/United States/risk.md",
         "security": "canada/United States/security.md",

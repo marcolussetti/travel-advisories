@@ -2,21 +2,6 @@
 
 ## Natural disasters and climate
 
-### Flooding and landslides
-
-Sarawak and Sabah states, on the island of Borneo in East Malaysia, are experiencing heavy rains and flooding.
-
-The 2025-2026 Northeast Monsoon is affecting many parts of Peninsular Malaysia.
-
-Rain storms have resulted in flash floods, significant damage to infrastructure and casualties. Roadways may be blocked by landslides or flood water.
-
-If you are in an affected area:
-
-* move to higher ground, away from rivers and low-lying areas
-* monitor local news and weather reports
-* confirm your flight before going to the airport
-* follow the instructions of local authorities, including evacuation orders
-
 ### Climate change
 
 Climate change is affecting Malaysia. Extreme and unusual weather events are becoming more frequent and may affect your travel plans. Monitor local media for the latest information.
