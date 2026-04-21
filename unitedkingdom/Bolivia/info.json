@@ -1,11 +1,11 @@
 {
     "name": "Bolivia",
-    "update_reason": "Addition of information about local elections being held on 19 April ('Warnings and insurance' page).",
+    "update_reason": "Removal of information about local elections.",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Bolivia/Warnings and insurance.md",
-            "update_date": "2026-04-17T16:05:27+01:00"
+            "update_date": "2026-04-20T16:18:38+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Bolivia/Getting help.md"
         }
     ],
-    "update_date": "2026-04-17T16:05:27+01:00"
+    "update_date": "2026-04-20T16:18:38+01:00"
 }

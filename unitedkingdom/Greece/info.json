@@ -1,11 +1,11 @@
 {
     "name": "Greece",
-    "update_reason": "Updated information on European Entry-Exit System (EES) (\u2018Entry requirements\u2019 page).",
+    "update_reason": "Updated information about Greek implementation of European Entry-Exit System (EES) (\u2018Entry requirements\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Greece/Warnings and insurance.md",
-            "update_date": "2026-04-10T10:29:07+01:00"
+            "update_date": "2026-04-20T14:27:51+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Greece/Getting help.md"
         }
     ],
-    "update_date": "2026-04-10T10:29:07+01:00"
+    "update_date": "2026-04-20T14:27:51+01:00"
 }

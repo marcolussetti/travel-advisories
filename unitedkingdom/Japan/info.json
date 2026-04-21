@@ -1,11 +1,11 @@
 {
     "name": "Japan",
-    "update_reason": "Updated information about global travel impacts due to escalation in the Middle East (\u2018Warnings and insurance\u2019 page).",
+    "update_reason": "Updated information about 7.7 magnitude earthquake ('Warnings and insurance' page)",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Japan/Warnings and insurance.md",
-            "update_date": "2026-03-19T14:05:40+00:00"
+            "update_date": "2026-04-21T02:27:59+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Japan/Getting help.md"
         }
     ],
-    "update_date": "2026-03-19T14:05:40+00:00"
+    "update_date": "2026-04-21T02:27:59+01:00"
 }

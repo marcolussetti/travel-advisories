@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   18 April 2026
+:   21 April 2026
 
 Updated:
-:   17 April 2026
+:   20 April 2026
 
 Latest update:
-:   Addition of information about local elections being held on 19 April ('Warnings and insurance' page).
+:   Removal of information about local elections.
 
 ![](https://assets.publishing.service.gov.uk/media/672ccc5a62831268b0b1a328/FCDO__TA__098_-_Bolivia_Travel_Advice_Ed1__WEB_.jpg)
 
@@ -21,12 +21,6 @@ Your travel insurance could be invalidated if you travel against advice from the
 FCDO advises against all but essential travel to the Chapare region of Cochabamba Department including Villa Tunari and highway routes 4 and 24 that pass through Chapare.
 
 Find out more about [why FCDO advises against travel](https://www.gov.uk/foreign-travel-advice/bolivia/safety-and-security).
-
-## Local elections
-
-Local elections will be held in the regions of Beni, Santa Cruz, Tarija, Oruro and Sucre on Sunday 19 April. There will be no transport from midnight on Saturday 18 April, until 6pm on Sunday 19 April. Some taxis in Santa Cruz will have permits to travel to and from the airport. It is prohibited to drink alcohol from midnight on Thursday 17 April, until midnight on Monday 20 April in the regions that are holding elections.
-
-La Paz, Cochabamba, and Potosí will not be affected by any of these restrictions. Check local advice before travelling.
 
 ## Before you travel
 
