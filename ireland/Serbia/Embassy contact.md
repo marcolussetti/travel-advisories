@@ -1,33 +1,14 @@
 ## Embassy contact
 
-As Ireland does not have an Embassy or Consulate in Serbia, consular assistance is provided via the [**Embassy of Ireland in Athens, Greece**](https://www.ireland.ie/en/greece/athens/).
+Please note if urgent assistance is required while the Embassy is closed, please contact the Embassy Duty Officer on +370 6551 5235. Please note this number is monitored outside of office hours only.
 
-Where emergency consular assistance is required for Irish citizens outside of opening hours, please leave a message at: +30 210 7232771. This mailbox is monitored regularly. Alternatively, citizens can contact the Duty Officer at the Department of Foreign Affairs and Trade in Dublin at: +353 1 478 0822.
+Office hours: 10.00 – 12.00 and 14.00 – 16.00 Monday to Friday
 
-Monday to Friday 09:00-13:00
+### Embassy of Ireland, Serbia
 
-### Embassy of Ireland, Greece
+Avenija 19a   
+Vladimira Popovića 40/V   
+Belgrade   
+11073
 
-7 Leoforos Vasileos Konstantinou   
-106 74   
-Athens   
-Greece
-
-[Tel: +30 210 723 2771](tel:+30210 723 2771)
-
-Fax: +30 210 729 3383
-
-[**Contact us**](/en/greece/athens/contact/)
-
-### Honorary Consul of Ireland, Serbia
-
-Ann Pesic   
-Kosancicev venac 2/1   
-11000 Belgrade   
-Serbia
-
-[Tel: +38 111 263 7667](tel:+38111 263 7667)
-
-Fax: +38 111 303 6096
-
-**Email:** [ann.pesic@honoraryconsul.ie](mailto:ann.pesic@honoraryconsul.ie)
+[Contact us](/en/serbia/belgrade/contact/)

@@ -22,7 +22,7 @@ Public transport tickets can be purchased at ticket machines located at main bus
 
 ### **LGBT Travellers**
 
-Homosexuality is legal in Poland, but there is still a degree of intolerance among some sections of the population. Visitors can find general guidance on travel for the LGBT+ community [**here**](https://www.ireland.ie/en/dfa/overseas-travel/know-before-you-go/lgbtqi/).
+Homosexuality is legal in Poland, but there is still a degree of intolerance among some sections of the population. Visitors can find general guidance on travel for the LGBT+ community [**in our advice section**](/en/dfa/overseas-travel/know-before-you-go/lgbtiq/).
 
 Poland does not recognise marriage or civil partnership between two persons of the same sex. This can have implications should you or your spouse become ill as you may not be recognised as the next of kin. We advise visitors to explore the possibility of bringing written consent for you and your spouse, to authorise them to access your medical information should visitors become ill or require hospitalisation. The Embassy can help to find English-speaking lawyers in Poland.
 

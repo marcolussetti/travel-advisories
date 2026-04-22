@@ -40,7 +40,7 @@ Incidents of assault, rape and sexual aggression against foreigners have occurre
 * If carrying a bag when walking it is safer to hold it loosely by the handle or hanging off your shoulder rather than by securing the strap across your chest
 * Avoid dark and unlit streets and stairways, arrange to be picked up or dropped off as close to your hotel or apartment entrance as possible
 * Be alert to the risk of thefts of personal property from cars and taxis stationary in traffic. If attacked or if someone grabs your bag, do not resist
-* Citizens may wish to be guided by our Know Before You Go advice to for [**Female Travellers**](https://www.ireland.ie/en/dfa/overseas-travel/know-before-you-go/female-travellers/) and [**LGBTQI+ Travellers**](https://www.ireland.ie/en/dfa/overseas-travel/know-before-you-go/lgbtqi/).
+* Citizens may wish to be guided by our Know Before You Go advice to for [**Female Travellers**](/en/dfa/overseas-travel/know-before-you-go/female-travellers/) and [**LGBTQI+ Travellers**](/en/dfa/overseas-travel/know-before-you-go/lgbtiq/).
 
 ### **Taxis, Buses and Motorbikes**
 
