@@ -1,7 +1,7 @@
 {
     "name": "Bahrain",
-    "update_reason": "Risk level \u2013 you should leave Bahrain while commercial options are available",
-    "update_date": "2026-04-09T11:06:00",
+    "update_reason": "The Need help? section was updated.",
+    "update_date": "2026-04-21T09:30:00",
     "sections": {
         "risk": "canada/Bahrain/risk.md",
         "security": "canada/Bahrain/security.md",

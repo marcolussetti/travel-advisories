@@ -1,7 +1,7 @@
 {
     "name": "Jamaica",
-    "update_reason": "Thorough review and update of the entire content",
-    "update_date": "2026-04-13T11:30:00",
+    "update_reason": "Editorial change",
+    "update_date": "2026-04-21T10:00:00",
     "sections": {
         "risk": "canada/Jamaica/risk.md",
         "security": "canada/Jamaica/security.md",

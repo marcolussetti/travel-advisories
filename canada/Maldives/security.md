@@ -49,9 +49,17 @@ Credit card and ATM fraud occurs. Be cautious when using debit or credit cards:
 
 Coastal waters can be dangerous. Riptides are common. Several drownings occur each year.
 
+To minimize safety risks, ask resort staff and/or tour operators for:
+
+* information on possible hazards
+* location of safe swimming areas
+* updates on changing sea conditions
+
 #### Diving
 
 Rescue services may not be consistent with international standards. There have been several diving injuries due to poor equipment and poor compliance to safety standards by local dive operators.
+
+There have been fatal accidents in the South Ari Marine Protected Area (SAMPA) and whale shark tourism sites.
 
 [Adventure travel health and safety](https://travel.gc.ca/travelling/health-safety/adventure-travellers)
 

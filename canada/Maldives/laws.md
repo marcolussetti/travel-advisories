@@ -46,6 +46,8 @@ Maldivian laws prohibit sexual acts between individuals of the same sex.
 
 ### Dress and behaviour
 
+It is illegal to publicly observe any religion other than Islam. Breaking local laws could result in criminal charges, including imprisonment, fines and deportation.
+
 To avoid offending local sensitivities:
 
 * dress conservatively, especially outside major cities and coastal resorts
@@ -62,9 +64,15 @@ In public, between sunrise and sunset, refrain from:
 * eating
 * smoking
 
+Consult with your resort to ask if and where you may eat, drink or smoke during this period.
+
 ### Religious proselytism
 
 It is illegal to import non-Islamic religious materials or to promote religions other than Islam.
+
+Do not bring religious items, like bibles or statues, or pork products into the Maldives.
+
+[Prohibited & Restricted Items for import](https://www.customs.gov.mv/Individuals/Items%20for%20Personal%20Use/Individual-Prohibited-and-Restricted-Items-for-Import) – Maldives Customs Service
 
 ### Dual citizenship
 

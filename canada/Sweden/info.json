@@ -1,7 +1,7 @@
 {
     "name": "Sweden",
-    "update_reason": "Laws and culture \u2013 updated information on driving",
-    "update_date": "2026-03-13T13:55:00",
+    "update_reason": "Editorial change",
+    "update_date": "2026-04-21T10:58:00",
     "sections": {
         "risk": "canada/Sweden/risk.md",
         "security": "canada/Sweden/security.md",

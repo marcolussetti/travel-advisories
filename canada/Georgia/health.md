@@ -215,13 +215,15 @@ High-risk travellers include those visiting or working in prisons, refugee camps
 
 ### Medical services and facilities
 
-High quality medical services and facilities are generally available in major cities, such as Tbilisi and Batumi.
+High-quality medical services and facilities are generally available in major cities, such as Tbilisi and Batumi.
 
-In rural areas, there are shortages of medical supplies and personnel. Facilities may not meet the quality standards you may be used to in Canada.
+In rural areas, there are shortages of medical supplies and personnel. Facilities may not meet the quality standards you may be used to in Canada. First responders may not be able to access rural areas.
+
+Medical personnel may not speak English.
 
 Medical services can be expensive, and immediate up-front cash payment is often required.
 
-Medical evacuation, which can be very expensive, may be necessary in the event of serious illness or injury.
+Medical evacuation can be very expensive and you may need it in case of serious illness or injury.
 
 Make sure you get travel insurance that includes coverage for medical evacuation and hospital stays.
 

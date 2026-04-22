@@ -1,7 +1,7 @@
 {
     "name": "Cambodia",
-    "update_reason": "Health \u2013 editorial change",
-    "update_date": "2026-04-20T10:23:00",
+    "update_reason": "The Health section was updated - travel health information (Public Health Agency of Canada)",
+    "update_date": "2026-04-21T10:27:00",
     "sections": {
         "risk": "canada/Cambodia/risk.md",
         "security": "canada/Cambodia/security.md",

@@ -6,17 +6,13 @@ You must abide by local laws.
 
 Learn about what you should do and how we can help if you are [arrested or detained abroad](http://travel.gc.ca/assistance/emergency-info/arrest-detention).
 
-### Transfer to a Canadian prison
+### Identification
 
-Canada and Georgia are signatories to the Convention on the Transfer of Sentenced Persons. This enables a Canadian imprisoned in Georgia to request a transfer to a Canadian prison to complete a sentence. The transfer requires the agreement of both Canadian and Georgian authorities.
-
-This process can take a long time, and there is no guarantee that the transfer will be approved by either or both sides.
-
-Reforms are underway to improve the efficiency and the transparency of the judicial system, but if you are arrested in Georgia, you could be detained for several months and there could be long delays to resolve your case.
+If the police or a service provider, such as a hotel or bank employee, asks you for identification, you are expected to show your passport.
 
 ### Drugs
 
-In 2017, Georgia decriminalized cannabis and various cannabis-based products for personal use. Production, distribution and sale remain illegal. Penalties for possession, use or trafficking of illegal drugs are severe. Convicted offenders can expect jail sentences and heavy fines.
+Penalties for possession, use or trafficking of illegal drugs are severe, including when transiting through the airport. Convicted offenders can expect long jail sentences and heavy fines. Possession of even small amounts of cannabis can be punished with imprisonment.
 
 [Drugs, alcohol and travel](https://travel.gc.ca/travelling/health-safety/drugs)
 
@@ -24,44 +20,42 @@ In 2017, Georgia decriminalized cannabis and various cannabis-based products for
 
 Some prescription medication may not be available in Georgia.
 
-If you take prescription medication, you’re responsible for determining their legality in the country.
+If you take prescription medications, you are responsible for determining their legality in Georgia. Georgian authorities strictly regulate the possession and import of prescription medication under special control, including narcotic drugs and psychotropic substances, and some over-the-counter medication that is commonly available in Canada.
 
-Georgian authorities strictly regulate the possession and import of prescription medication under special control, including narcotic drugs and psychotropic substances, and some over-the-counter medication that is commonly available in Canada.
-
-* Bring a sufficient supply of your medication
-* Carry a copy of your prescriptions along with an English translation
+* Bring enough medication for your stay
+* Always keep your medication in the original container and carry a copy of your prescriptions in English
 * Declare all medications in your possession to customs officials upon entry
-* Always keep your medication in the original container
 * Pack your medication in your carry-on luggage
 
-If you carry illegal prescription medication according to Georgian Law, you could face deportation and jail sentences.
+If you carry prescription medication that is illegal under Georgian law, you could face deportation or a jail sentence.
 
-Contact the nearest diplomatic representation of Georgia for more information on imports of medication.
+Contact the nearest Georgian embassy or consulate for more information on imports of medication.
 
 #### Useful links
 
-* [Medicinal products subject to special control](https://www.rs.ge/BorderCrossing-en?cat=11&tab=1) – Revenue service of Georgia
+* [Medicinal products subject to special control](https://www.rs.ge/BorderCrossing-en?cat=11&tab=1) – Revenue service of Georgia
 * [Foreign Representatives in Canada](https://www.international.gc.ca/protocol-protocole/reps.aspx?lang=eng&_ga=2.118193358.615532646.1689607075-759789708.1683157397)
+
+### Knives
+
+It’s illegal to carry certain types of knives in Georgia. If you are caught carrying one, you could be detained or fined.
 
 ### Imports and exports
 
-You may need to obtain a permit from the Ministry of Education, Science, Culture and Sports of Georgia to import or export cultural valuables.
-
-Cultural valuables include:
+You may need to obtain a permit from the Ministry of Education, Science, Culture and Sports of Georgia to import or export cultural valuables. These include:
 
 * archeological items
 * coins, old inscriptions and seals
 * handmade canvas, paintings and drawings
 * sculptures
-* postal stamps removed from circulation
 
-[Cultural valuables](https://www.rs.ge/LegalEntityNonTariffControl-en?cat=13&tab=1) – Revenue service of Georgia
+[Cultural valuables](https://www.rs.ge/LegalEntityNonTariffControl-en?cat=13&tab=1) – Revenue service of Georgia
 
 ### Photography
 
-Taking photographs of military installations or government buildings may result in a penalty.
+Taking photographs of military installations, airports or government buildings may result in a penalty.
 
-You should seek permission from local authorities before taking photographs.
+You should seek permission from local authorities before taking photographs of these facilities.
 
 ### Dual citizenship
 
@@ -73,7 +67,7 @@ If you are a Canadian citizen, but also a citizen of Georgia, our ability to off
 
 ### Military service
 
-Georgian-Canadian dual citizens may be subject to military service.
+Male Canadian citizens who are also citizens of Georgia and are between the ages of 18 and 27 may be subject to military service.
 
 ### International Child Abduction
 
@@ -111,25 +105,27 @@ Penalties for drinking and driving include:
 * detention
 * prohibition from driving for several months or years
 
-You must carry an International Driving Permit.
+Although you can drive with your Canadian driver’s licence in Georgia, an International Driving Permit is recommended since some car rental agencies and insurance providers may require you to have one.
 
 [International Driving Permit](https://travel.gc.ca/travelling/documents/international-driving-permit)
 
-### Surrogacy
+#### Right of way
 
-In 2023, the government of Georgia proposed a law to prohibit surrogacy arrangements to foreigners.
+The right of way system is in effect in Georgia.
+
+Drivers must yield to vehicles coming from the right at intersections if they are not in a priority lane, and to vehicles entering roundabouts.
+
+### Surrogacy
 
 If you’re planning to visit Georgia for the purpose of commissioning surrogacy arrangements, you should consider the potential challenges involved in pursuing international surrogacy and seek legal advice on Georgian and Canadian laws and citizenship procedures prior to making any arrangements.
 
-Same-sex couples may encounter issues when engaging in surrogacy arrangements in Georgia.
+Only married heterosexual couples are allowed to use surrogacy services in Georgia; same-sex couples and single individuals are not permitted.
 
-The Embassy of Canada to Türkiye in Ankara is unable to provide recommendations on surrogacy arrangements.
+The timelines to receive a birth certification may be long. The Embassy of Canada to Türkiye in Ankara and Consulate of Canada to Georgia in Tbilisi are unable to provide recommendations on surrogacy arrangements or intervene with local authorities on your behalf.
 
 ### Money
 
 The currency of Georgia is the lari (GEL).
-
-U.S. dollars and euros are widely accepted and exchanged for local currency.
 
 Credit cards may not be widely accepted in rural areas.
 
@@ -138,14 +134,14 @@ Credit cards may not be widely accepted in rural areas.
 
 ### Currency declaration
 
-There are restrictions on the import and export of currency. You must declare to customs officials if you have more than 30 000 GEL or its equivalent in your possession.
+There are restrictions on the import and export of currency. You must declare to customs officials if you have more than 30,000 GEL or its equivalent in your possession.
 
 This requirement applies to:
 
 * cash
-* checks
+* traveller's cheques
 * any other type of financial instrument
 
 Failure to comply with this requirement could result in fines and confiscation.
 
-[Movement of currency](https://www.rs.ge/BorderCrossing-en?cat=12&tab=1) – Revenue service of Georgia
+[Movement of currency](https://www.rs.ge/BorderCrossing-en?cat=12&tab=1) – Revenue service of Georgia
