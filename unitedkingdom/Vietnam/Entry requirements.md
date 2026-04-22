@@ -4,6 +4,12 @@ This information is for people travelling on a full [‘British citizen’ passp
 
 The authorities in Vietnam set and enforce entry rules. If you’re not sure how these requirements apply to you, contact the [Vietnamese Embassy in the UK](https://vietnamembassy.org.uk/).
 
+## Digital Arrival Card
+
+From 15 April 2026, all foreign nationals entering Vietnam via Tan Son Nhat Airport (SGN), Ho Chi Minh City, are encouraged by the Vietnamese Government to complete a [digital arrival card online](https://prearrival.immigration.gov.vn/) before arrival.
+
+The digital arrival card system is not currently a mandatory requirement for entry into Vietnam via Tan Son Nhat airport, but this may change, or be rolled out to other airports in Vietnam with limited notice.
+
 ## Passport validity requirements
 
 To enter Vietnam, your passport must have:

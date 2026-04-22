@@ -1,11 +1,11 @@
 {
     "name": "Vietnam",
-    "update_reason": "Updated information about global travel impacts due to escalation in the Middle East (\u2018Warnings and insurance\u2019 page).",
+    "update_reason": "Addition of information about digital arrival card and updated information about road travel ('Entry requirements' and 'Safety and security' pages).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Vietnam/Warnings and insurance.md",
-            "update_date": "2026-03-19T14:07:48+00:00"
+            "update_date": "2026-04-21T14:35:38+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Vietnam/Getting help.md"
         }
     ],
-    "update_date": "2026-03-19T14:07:48+00:00"
+    "update_date": "2026-04-21T14:35:38+01:00"
 }

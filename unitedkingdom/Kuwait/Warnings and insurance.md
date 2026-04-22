@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   15 April 2026
+:   22 April 2026
 
 Updated:
-:   14 April 2026
+:   21 April 2026
 
 Latest update:
-:   Update to information regarding regional escalation (‘Warnings and insurance’ page).
+:   Addition of information about crossing the Saudi-Kuwait border ('Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/69a36b0da4d26cb233cd47da/Kuwait_Travel_Advice_Ed1__WEB_.jpg)
 
@@ -67,7 +67,7 @@ FCDO advises against all travel to Iraq. See [FCDO travel advice for Iraq](https
 
 ## Crossing the Saudi- Kuwait border
 
-British nationals wishing to cross into Kuwait must contact the British Embassy in Kuwait 24 hours in advance. The British Embassy will share names and passport details with the Ministry of Foreign Affairs who will determine entry.
+British nationals wishing to cross into Kuwait, who do not have residency there and intend to make use of the visa on arrival facility, must contact the British Embassy in Kuwait 24 hours in advance. The British Embassy will share names and passport details with the Kuwaiti Ministry of Foreign Affairs, who will determine entry.
 
 ## Entry to Saudi Arabia
 

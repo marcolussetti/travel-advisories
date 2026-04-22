@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   20 March 2026
+:   22 April 2026
 
 Updated:
-:   19 March 2026
+:   21 April 2026
 
 Latest update:
-:   Updated information about global travel impacts due to escalation in the Middle East (‘Warnings and insurance’ page).
+:   Addition of information about digital arrival card and updated information about road travel ('Entry requirements' and 'Safety and security' pages).
 
 ## Global travel impacts due to escalation in the Middle East
 

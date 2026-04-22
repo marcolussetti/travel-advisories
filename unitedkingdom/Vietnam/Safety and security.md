@@ -68,8 +68,6 @@ If you are a victim of a sexual assault, you can reach out to the British Embass
 
 ### Methanol poisoning
 
-Methanol poisoning
-
 There have been deaths and cases of serious illness caused by alcoholic drinks containing methanol in Vietnam.
 
 Methanol poisoning cases have resulted from drinks purchased in licensed bars, shops and hotels in tourist areas. Even small amounts of methanol can kill. It is not possible to identify methanol in alcoholic drinks by taste or smell. See [Travel Aware Drink Spiking and Methanol Poisoning](https://travelaware.campaign.gov.uk/spiking-and-methanol-poisoning/) for information about how to reduce the risks.
@@ -202,7 +200,7 @@ If you take part in leisure activities involving firearms, make sure a reputable
 
 If you are planning to drive in Vietnam, see [information on driving abroad](https://www.gov.uk/driving-abroad) and [driving rules in Vietnam](https://internationaldriversassociation.com/vietnam-driving-guide/).
 
-You’ll need to have both the [1968 version of the international driving permit](https://www.gov.uk/driving-abroad/international-driving-permit) and your UK driving licence with you in the car. It is illegal to drive without third-party insurance.
+You’ll need to have both the [1968 version of the international driving permit](https://www.gov.uk/driving-abroad/international-driving-permit) and your UK driving licence with you whilst driving a car or motorbike in Vietnam. It is illegal to drive without third-party insurance.
 
 Do not use your passport as a deposit for hiring vehicles or as a guarantee you will pay a fine for a traffic offence.
 
