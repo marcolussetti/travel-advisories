@@ -10,6 +10,8 @@ All Irish passport holders are required to hold a visa before travelling to Viet
 
 Please ensure that you leave yourself ample time when applying for your visa. Ensure also that you carefully enter all your details exactly as they appear on your passport (including middle names), and check the portal regularly for updates on your application. The Embassy of Ireland cannot intervene on your behalf if you do not meet Vietnam’s entry requirements
 
+If you enter Vietnam at Tân Sơn Nhất International Airport (Ho Chi Minh City), you are required to complete a [**Digital Pre-Arrival Form**](https://prearrival.immigration.gov.vn/). This Pre-Arrival Form is additional to the requirement for an eVisa for Vietnam and can be completed up to 48 hours before entry, or upon arrival.
+
 If you hold a temporary passport, please contact your nearest Vietnamese Embassy for advice before travelling as you may not be able to obtain a visa.
 
 Passport cards cannot be used.

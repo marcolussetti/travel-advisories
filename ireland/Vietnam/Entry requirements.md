@@ -17,3 +17,7 @@ You may need to check with your nearest Vietnamese Embassy the duration for whi
 If you hold a temporary passport, please contact your nearest Vietnamese Embassy for advice before travelling as you may not be able to obtain a visa.
 
 While tourists may enter the Phu Quoc special zone without a visa for a stay of up to 15 days, please note that if you are intending to travel onwards to other parts of Vietnam, you must obtain a visa before travelling. Tourists arriving in Ho Chi Minh City or other domestic airports from Phu Quoc without the necessary visa may be detained by the immigration authorities.
+
+### **Digital Pre-Arrival Form (Tân Sơn Nhất International Airport, Ho Chi Minh City)**
+
+If you enter Vietnam at Tân Sơn Nhất International Airport (Ho Chi Minh City), you are required to complete a [**Digital Pre-Arrival Form**](https://prearrival.immigration.gov.vn/). This Pre-Arrival Form is additional to the requirement for an eVisa for Vietnam and can be completed up to 48 hours before entry, or upon arrival.

@@ -22,9 +22,7 @@ Irish citizens should also avoid military and security force installations.
 
 **Transit through the UAE**
 
-With significant disruption to travel set to remain across the region, citizens should note that transiting through UAE airports for onward travel is currently limited.
-
-Citizens in transit should remain airside, and not leave the airport.
+Irish citizens transiting through the Gulf should be aware that flights can be subject to change at short notice. Citizens should remain in contact with their airlines and follow their advice.
 
 **Leaving the UAE**
 
