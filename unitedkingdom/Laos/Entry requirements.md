@@ -18,6 +18,14 @@ You will be denied entry if you do not have a valid travel document or try to us
 
 When returning to the UK, British citizens must carry a valid [British passport](https://www.gov.uk/browse/abroad/passports) or [certificate of entitlement](https://www.gov.uk/right-of-abode/apply-for-a-certificate-of-entitlement). See [Dual citizenship](https://www.gov.uk/dual-citizenship).
 
+## Digital Arrival/Departure Cards - Lao Digital Immigration Form (LDIF)
+
+All foreign nationals entering Laos are required to complete the [LDIF](https://www.immigration.gov.la/en/home) digitally within 3 days before arrival and 3 days before departure.
+
+The LDIF applies at Wattay International Airport (Vientiane), Luang Prabang International Airport, Pakse International Airport and Lao-Thai Friendship Bridge I. At these checkpoints, the LDIF replaces paper arrival and departure cards.
+
+The LDIF does not replace visa requirements.
+
 ## Visa requirements
 
 You must have a visa to visit Laos.
@@ -34,7 +42,7 @@ You can also get a visa on arrival (single entry) at many entry points, includin
 
 * Vientiane Wattay airport
 * Luang Prabang airport
-* Paske airport
+* Pakske airport
 
 See a full [list of the entry points that accept e-visas and visas on arrival](https://immigration.gov.la/en/checkpoints/category/category/?limit=12&offset=0&category=international-border-checkpoint).
 
