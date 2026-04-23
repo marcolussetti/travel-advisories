@@ -101,7 +101,7 @@ If you hike, dive or boat in the Solomon Islands:
 
 * avoid doing so after daylight hours
 * don’t venture off marked trails
-* avoid areas where sunken vessels or planes haven been reported
+* avoid areas where sunken vessels or planes have been reported
 * don’t touch war remnants and unknown items and report these to local authorities
 
 ### Road safety

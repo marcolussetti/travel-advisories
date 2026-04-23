@@ -38,7 +38,7 @@ Local authorities may request to see your identification at any time.
 
 ### Reporting a crime
 
-Victims of crime, including foreigners, are responsible for reporting incidents to police in the Dominican Republic. If you are the victim of a crime, you should contact the local tourist police and the embassy of Canada to the Dominican Republic, in San Domingo. If you wish to pursue prosecution or seek compensation, you will have to hire a lawyer in the Dominican Republic to file a formal complaint to the police and to pursue the case through the justice system. The Embassy of Canada can provide a list of attorneys.
+Victims of crime, including foreigners, are responsible for reporting incidents to police in the Dominican Republic. If you are the victim of a crime, you should contact the local tourist police and the Embassy of Canada to the Dominican Republic, in Santo Domingo. If you wish to pursue prosecution or seek compensation, you will have to hire a lawyer in the Dominican Republic to file a formal complaint to the police and to pursue the case through the justice system. The Embassy of Canada can provide a list of attorneys.
 
 ### Reporting a car accident
 

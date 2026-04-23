@@ -16,6 +16,6 @@ The features in this map do not constitute an authoritative source of geographic
 
 The features in this map do not constitute an authoritative source of geographical information. This map is solely intended to assist Canadians by illustrating the risk levels contained in the Travel Advice and Advisories for this destination. The features in this map do not necessarily represent the views of the Canadian government on international boundaries, nomenclature or political status. The text under the Risk levels section takes precedence over this map.
 
-### NORTHERN MARIANAS - AVOID NON-ESSENTIAL TRAVEL
+### Northern Mariana Islands - Take normal security precautions
 
-[Avoid non-essential travel](#levels "Risk Levels") to the Northern Marianas due to the impacts of Typhoon Sinlaku.
+[Take normal security precautions](#levels "Risk Levels") in the Northern Mariana Islands.

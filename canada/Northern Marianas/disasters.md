@@ -8,7 +8,7 @@ On April 14, 2026, Typhoon Sinlaku swept across the Northern Mariana Islands, es
 
 The storm brought excessive rainfall and violent winds. It caused significant damage to buildings and infrastructure.
 
-Typhoon Sinlaku caused severe flooding and there are significant disruptions to the following essential services:
+Typhoon Sinlaku caused severe flooding, and disruptions to the following essential services are possible:
 
 * transportation
 * power distribution
@@ -22,8 +22,6 @@ If you are in the affected area:
 * exercise caution
 * monitor local news and weather reports
 * follow the instructions of local authorities
-
-[Marianas Forecast Office](https://www.weather.gov/gum/) – National Weather Service
 
 ### Climate change
 

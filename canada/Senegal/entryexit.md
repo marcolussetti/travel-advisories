@@ -42,19 +42,22 @@ Different entry rules may apply when travelling with a temporary passport or an 
 
 ### Visas
 
-Tourist visa: not required for stays of less than 90 days  
-Business visa: not required for stays of less than 90 days  
-Student visa: not required for stays of less than 90 days
+Tourist visa: not required for stays 90 days or less  
+ Business visa: not required for stays of 90 days or less  
+ Student visa: not required for stays of 90 days or less
 
-Canadians can enter Senegal without a visa for stays of less than 90 days. A traveller arriving in Senegal without a visa who wishes to extend his or her stay will have to leave the country and re-enter afterwards or contact the Foreigner’s Bureau of the Ministry of the Interior and Public Security to obtain a long-stay visa.
+Canadians do not need a visa for stays of less than 90 days.
 
-Canadians planning on staying in Senegal for more than 90 days must apply for a visa at the nearest Senegalese embassy or consulate. The visa allows the holder to stay in Senegal for 90 days so that steps can be taken to obtain a “carte d’identité d’étranger” (foreign national identity card) before the end of the period.
+### Extending your stay
 
-### Foreign national identity card
+If you need to extend your stay beyond 90 days, you must either:
 
-To stay in Senegal for more than 90 days, you must obtain a foreign national identity card from the Direction de la Police des étrangers et des titres de voyage.
+* leave the country and return at a later date
+* apply for a “foreign identity card”
 
-[Direction de la police des étrangers et des titres de voyage](http://www.policenationale.gouv.sn/direction-de-la-police-des-etrangers-et-des-titres-de-voyages-dpetv/) – Ministère de l’Intérieur et de la Sécurité Publique (en français)
+To obtain a “foreign identity card,” you must submit an application to the Direction de la police des étrangers et des titres de voyage before your 90‑day stay authorization expires
+
+[Direction de la police des étrangers et des titres de voyage](http://www.policenationale.gouv.sn/direction-de-la-police-des-etrangers-et-des-titres-de-voyages-dpetv/) – Ministry of Interior and Public Safety (in French)
 
 ### Children and travel
 

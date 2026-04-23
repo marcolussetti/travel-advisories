@@ -57,7 +57,7 @@ Theft occurs in crowded public areas such as:
 * nightclubs and cinemas
 * shopping centres
 
-Snatching from passing motorcycles or cars is frequent. Common targets are bags, jewelry, and electronics.
+Snatching from passing motorcycles or cars is frequent. Common targets are bags, jewelry, and electronics. Avoid carrying your bag with the strap across your body when walking on the street.
 
 In Dar es Salaam, exercise a high degree of caution in and around:
 
@@ -78,7 +78,6 @@ During your trip:
 * don’t show signs of affluence, wear expensive jewellery or visibly display electronics
 * don’t carry large sums of cash or valuables unnecessarily
 * seek local advice on the security situation prior to visiting beaches
-* when walking along the street, do not carry your bag with the strap across your body
 * walk towards the traffic so you can see the vehicles approaching
 * Avoid walking outside after dark
 * be aware of your surroundings at all times and avoid distractions through actions such as wearing headphones

@@ -1,7 +1,7 @@
 {
     "name": "Italy",
-    "update_reason": "Health \u2013 information on visceral leishmaniasis added",
-    "update_date": "2026-03-24T10:25:00",
+    "update_reason": "Editorial change",
+    "update_date": "2026-04-22T09:24:00",
     "sections": {
         "risk": "canada/Italy/risk.md",
         "security": "canada/Italy/security.md",

@@ -12,31 +12,35 @@ Penalties for possession, use or trafficking of illegal drugs are severe. Convic
 
 [Drugs, alcohol and travel](https://travel.gc.ca/travelling/health-safety/drugs)
 
+### Identification
+
+You should always carry photo identification and a certified copy of your passport, as authorities may conduct identity checks at any time.
+
+Keep a photocopy of your passport in a safe place in case you lose it or it is confiscated.
+
 ### Photography
 
-It is prohibited to photograph government buildings, airports or other official facilities.
+Photography of sensitive installations and personnel is prohibited. This includes:
 
-### Senegal River
+* airports
+* ports
+* military sites
+* government buildings
+* people in uniform
 
-It is illegal and dangerous to cross the Senegal River by private pirogue.
+Seek permission before taking photos of official buildings or individuals.
 
 ### Child sex tourism
 
-Canadians travelling to Senegal for the express purpose of having sex with children or prostitutes should know that such activities are punishable with fines and prison sentences of up to 10 years.
+In Senegal, having sex with a minor or with persons engaged in prostitution is a criminal offence punishable by heavy fines and prison sentences of up to 10 years.
+
+Canadians may also be subject to criminal proceedings in Canada for acts of this nature committed while abroad.
 
 [Child Sex Tourism: It’s a Crime](https://travel.gc.ca/travelling/publications/child-crime)
 
 ### Pornography
 
 Possession and importation of pornographic material is forbidden.
-
-### 2SLGBTQI+ persons
-
-The laws of Senegal prohibit sexual acts between individuals of the same sex.
-
-2SLGBTQI+ persons should carefully consider the risks of travelling to Senegal.
-
-[Travel and your sexual orientation, gender identity, gender expression and sex characteristics](https://travel.gc.ca/travelling/health-safety/lgbt-travel)
 
 ### Dress and behaviour
 
@@ -92,7 +96,6 @@ Some items are subject to strict customs regulations, including:
 * auto parts
 * computers and computer parts
 * stereo equipment
-* tape players
 * tools
 * video cameras and players
 
@@ -100,14 +103,20 @@ These items cannot be brought into the country without clearance by Senegalese a
 
 ### Driving
 
-You must carry an international driving permit.
+You can drive with a valid Canadian driver's licence for a period of 90 days.
+
+Beyond this period, you must have an international driver's licence, accompanied by your valid Canadian driver's licence.
 
 [International Driving Permit](https://travel.gc.ca/travelling/documents/international-driving-permit)
+
+#### Traffic violations
+
+If a police officer asks you to pay a fine on the spot for a traffic violation, ask for a written copy of the fine, which can be paid later at a local courthouse or police station.
 
 ### Money
 
 The currency in Senegal is the CFA franc (XOF).
 
-Avoid exchanging large quantities of CFA francs for foreign currency at other than reputable exchange bureaus.
+Credit cards are accepted in large hotels, some restaurants, and stores. ATMs are available in Dakar and most major cities. However, it is not possible to withdraw large amounts of cash from them.
 
-ATMs are widespread and reliable in Dakar, although withdrawal limits may be quite low.
+Avoid exchanging large quantities of CFA francs for foreign currency at places other than reputable exchange bureaus or banks.
