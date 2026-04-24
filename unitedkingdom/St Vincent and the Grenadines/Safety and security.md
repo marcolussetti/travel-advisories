@@ -16,12 +16,16 @@ Although there’s no recent history of terrorism in St Vincent and the Grenadin
 
 Most visits are trouble-free, but there have been crimes including murder, armed robbery and assault.
 
+There has been an increase in gang-related murders involving guns. Some incidents have taken place in populated and public areas.
+
 Take precautions such as:
 
 * avoiding isolated areas, including beaches, after dark
 * take particular care around large gatherings, including street and beach parties, especially after dark or during the festival season
 * keeping valuables secure and out of sight
 * making sure your accommodation is secure, including if you’re staying on a yacht
+* take care when walking alone off main roads and taking money from ATMs
+* only use licensed taxis
 
 Do not carry large amounts of cash or jewellery. If possible, leave valuables and travel documents in a safety deposit box or hotel safe.
 
@@ -111,12 +115,8 @@ The last explosive eruption of La Soufrière volcano on St Vincent was in 2021.
 
 You should also monitor the [alert level of the underwater volcano Kick ‘em Jenny](https://uwiseismic.com/volcanoes/kick-em-jenny/kej-monitoring/), located 5 miles off the coast of nearby Grenada. Keep out of maritime exclusion zones and follow the advice of local authorities if there is increased volcanic activity or an eruption.
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/st-vincent-and-the-grenadines/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/st-vincent-and-the-grenadines/entry-requirements)
 
-[Next
-:
-Health](/foreign-travel-advice/st-vincent-and-the-grenadines/health)
+[Next:Health](/foreign-travel-advice/st-vincent-and-the-grenadines/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/st-vincent-and-the-grenadines/print)

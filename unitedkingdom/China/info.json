@@ -1,11 +1,11 @@
 {
     "name": "China",
-    "update_reason": "Updated information on crime and scams ('Safety and security' page).",
+    "update_reason": "Updated information about visa requirements (\u2018Entry requirements\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/China/Warnings and insurance.md",
-            "update_date": "2026-03-06T10:29:41+00:00"
+            "update_date": "2026-04-23T14:40:19+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/China/Getting help.md"
         }
     ],
-    "update_date": "2026-03-06T10:29:41+00:00"
+    "update_date": "2026-04-23T14:40:19+01:00"
 }

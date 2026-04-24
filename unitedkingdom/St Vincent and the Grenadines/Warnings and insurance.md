@@ -1,17 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   11 December 2025
+:   24 April 2026
 
 Updated:
-:   10 December 2025
+:   23 April 2026
 
 Latest update:
-:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
-
-## Upcoming general elections
-
-General elections will take place on Thursday 27 November in St Vincent and the Grenadines. Expect increased political activity in the coming weeks, including rallies and gatherings, particularly in urban centres such as Kingstown. While the security situation remains stable, stay away from large gatherings, monitor local media, and follow the advice of local authorities. Keep local and international travel plans under review.
+:   New information about risks of crime, including in public areas (see ‘Crime’ on the ‘Safety and security’ page).
 
 ## Before you travel
 
@@ -41,8 +37,6 @@ Follow FCDO:
 * [travel advice on Facebook](https://www.facebook.com/FCDOTravel/)
 * [Travel Aware on Instagram](https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Ftravelaware%2F&is_from_rle)
 
-[Next
-:
-Entry requirements](/foreign-travel-advice/st-vincent-and-the-grenadines/entry-requirements)
+[Next:Entry requirements](/foreign-travel-advice/st-vincent-and-the-grenadines/entry-requirements)
 
 [View a printable version of the whole guide](/foreign-travel-advice/st-vincent-and-the-grenadines/print)

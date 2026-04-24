@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   7 March 2026
+:   24 April 2026
 
 Updated:
-:   6 March 2026
+:   23 April 2026
 
 Latest update:
-:   Updated information on crime and scams ('Safety and security' page).
+:   Updated information about visa requirements (‘Entry requirements’ page).
 
 This travel advice covers mainland China. See travel advice for the Special Administrative Regions, [Hong Kong](https://www.gov.uk/foreign-travel-advice/hong-kong) and [Macao](https://www.gov.uk/foreign-travel-advice/macao).
 

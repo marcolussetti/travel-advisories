@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   21 April 2026
+:   24 April 2026
 
 Updated:
-:   20 April 2026
+:   23 April 2026
 
 Latest update:
-:   Update following an incident at the Teotihuacán pyramids in Estado de México ('Warnings and Insurance' page)
+:   Removal of information following an incident at the Teotihuacán pyramids in Estado de México ('Warnings and Insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/69a1c6c8ec82ce45f05bd70e/FCDO__TA__065_-_Mexico_Travel_Advice_Ed5__WEB_.jpg)
 
@@ -106,10 +106,6 @@ FCDO advises against all but essential travel to within 40km of the Guatemalan b
 FCDO advises against all but essential travel on Federal Highway 199 (Carretera Federal 199) between Rancho Nuevo (just outside San Cristobal de las Casas) and the Chancalá junction just outside Palenque (where Federal Highway 199 meets Federal Highway 307).
 
 Find out more about [why FCDO advises against travel to these areas](/foreign-travel-advice/mexico/regional-risks).
-
-## Incident at Teotihuacán pyramids
-
-On 20 April, there was a shooting incident at the Teotihuacán pyramids in Estado de Mexico. Authorities have reported that the situation is now under control. If you are in the area, follow the advice of local authorities and monitor local media. For consular assistance for British nationals, call +52 55 1670 3200 (Option 1)
 
 ## World Cup 2026
 
