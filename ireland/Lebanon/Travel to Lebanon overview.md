@@ -24,7 +24,7 @@ Citizens in need of assistance, can contact the [**Irish Embassy in Cairo, Egypt
 
 ### **General Travel Advice**
 
-The security situation in Lebanon remains unstable and could deteriorate without warning. Military activity continues in various parts of the country, particularly in Southern Lebanon and the Beqaa Valley. This includes airstrikes and artillery fire. Military activity could spread to other areas in Lebanon with little warning.
+The security situation in Lebanon remains unstable and could deteriorate without warning. Military activity is ongoing in many parts of the country, particularly in Southern Lebanon and the Beqaa Valley, and in some parts of Beirut. This includes airstrikes and artillery fire. Military activity could spread to other areas in Lebanon with little warning.
 
 Due to regional events, as well as economic and political crises, there is an increased risk of protests and demonstrations, including outside international organisations and Embassies, which could quickly lead to violence.
 

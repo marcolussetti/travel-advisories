@@ -2,13 +2,11 @@
 
 ### **Security Status**
 
-**Avoid Non-Essential Travel**
-
-### Travel Alert
-
-**The Department of Foreign Affairs and Trade advises against non-essential travel to Guinea-Bissau at this time due to political instability. On 26 November a faction of the army seized power and announced the closure of the land, sea and air borders until further notice.**
+**High Degree of Caution**
 
 ### **General Travel Advice**
+
+**The Department of Foreign Affairs and Trade advises travellers exercise a high degree of caution in Guinea-Bissau due to a high level of political instability.**
 
 Irish citizens in Guinea-Bissau are advised to follow the guidance of national and local authorities and stay fully informed of what is going on by monitoring local news and social media.
 
