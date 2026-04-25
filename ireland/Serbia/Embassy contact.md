@@ -6,9 +6,10 @@ Office hours: 10.00 – 12.00 and 14.00 – 16.00 Monday to Friday
 
 ### Embassy of Ireland, Serbia
 
-Avenija 19a   
-Vladimira Popovića 40/V   
+Vladimira Popovića 38-40/1   
 Belgrade   
 11073
+
+[Tel: +381 11 424088](tel:+38111 424088)
 
 [Contact us](/en/serbia/belgrade/contact/)
