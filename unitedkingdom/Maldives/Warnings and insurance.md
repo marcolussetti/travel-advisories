@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   16 April 2026
+:   25 April 2026
 
 Updated:
-:   15 April 2026
+:   24 April 2026
 
 Latest update:
-:   Updated information on Ramadan and swimming safety (see 'Laws and cultural differences' and 'Outdoor activities and adventure tourism' on the 'Safety and security' page).
+:   Updated information on what health risks you’ll face in Maldives ('Health' page).
 
 ## Global travel impacts due to the situation in the Middle East
 
@@ -16,7 +16,7 @@ Escalation in the Middle East has caused widespread travel disruption, including
 Your travel plans may be affected, even if your destination is not in the Middle East. Before you travel:
 
 * check travel advice for any countries or territories you are transiting through
-* check for the latest updates from your airline or tour operator before travelling
+* check for the latest updates from your airline or tour operator
 * review your travel insurance policy to confirm what is covered
 * monitor local and international media and sign up for FCDO travel advice email alerts
 

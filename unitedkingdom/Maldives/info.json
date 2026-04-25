@@ -1,11 +1,11 @@
 {
     "name": "Maldives",
-    "update_reason": "Updated information on Ramadan and swimming safety (see 'Laws and cultural differences' and 'Outdoor activities and adventure tourism' on the 'Safety and security' page).",
+    "update_reason": "Updated information on what health risks you\u2019ll face in Maldives ('Health' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Maldives/Warnings and insurance.md",
-            "update_date": "2026-04-15T12:09:01+01:00"
+            "update_date": "2026-04-24T10:57:59+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Maldives/Getting help.md"
         }
     ],
-    "update_date": "2026-04-15T12:09:01+01:00"
+    "update_date": "2026-04-24T10:57:59+01:00"
 }
