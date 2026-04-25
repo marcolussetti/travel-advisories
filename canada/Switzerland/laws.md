@@ -20,9 +20,9 @@ Penalties for possession, use or trafficking of illegal drugs are severe. Convic
 
 ### Face coverings
 
-It is illegal to wear clothing or masks that partially or completely cover the face in public places. Failure to comply can result in a fine. Certain exemptions apply. See the Swiss government’s website for more information.
+It is illegal to wear clothing or masks that partially or completely cover the face in public places. Failure to comply can result in a fine. Certain exemptions apply, see the Swiss government’s website for more information.
 
-[Information on the ban on covering the face in Switzerland](https://www.bj.admin.ch/bj/en/home/gesellschaft/gesetzgebung/archiv/verhuellungsverbot.html) – Swiss Confederation Federal Office of Justice
+[Information on the ban on covering the face in Switzerland](https://www.bj.admin.ch/bj/fr/home/gesellschaft/gesetzgebung/archiv/verhuellungsverbot.html) – Swiss Confederation Federal Office of Justice
 
 ### Dual citizenship
 
@@ -79,9 +79,9 @@ Be aware that Canadian consular officials cannot interfere in private legal matt
 
 You must be at least 18 years old to drive in Switzerland.
 
-You can drive with your Canadian licence for up to 12 months. If you stay in Switzerland, you will have to exchange your Canadian licence for a Swiss licence.
+You can drive with your Canadian license for up to 12 months. If you stay in Switzerland, you will have to exchange your Canadian license for a Swiss license.
 
-To drive on the motorways, you must obtain a vignette and affix it to the windshield of your vehicle.
+To drive on the highways, you must obtain a vignette and affix it to the windshield of your vehicle or purchase it electronically.
 
 Valid for one year, this vignette can be purchased:
 
@@ -89,9 +89,9 @@ Valid for one year, this vignette can be purchased:
 * at tourist offices
 * at petrol stations
 * at post offices
-* online at the Swiss Post website
+* online at the Federal Office for Customs and Border Security website
 
-Drivers who do not display the vignette are liable to heavy fines levied on the spot.
+Drivers who do not display the vignette are liable to heavy fines levied on the spot. Rental cars are generally equipped with vignettes. You should verify with your rental agency before driving on the highway.
 
 All vehicles must be equipped with a safety kit and a warning triangle for use in the event of a breakdown.
 
@@ -99,9 +99,9 @@ In winter, winter tires are mandatory and snow chains may be required in some mo
 
 #### Useful links
 
-* [Driving in Switzerland on a foreign licence](https://www.eda.admin.ch/countries/canada/en/home/services/driving-and-vehicles/driving-ch-foreign-licence.html) - Embassy of Switzerland to Canada
-* [Road rules and safety](https://europa.eu/youreurope/citizens/travel/driving-abroad/road-rules-and-safety/) – European Commission
-* [Motorway windscreen stickers](https://shop.post.ch/shop/ui/en/gifts/mobility/c/mobility) - Swiss Post
+* [Driving in Switzerland on a foreign license](https://www.eda.admin.ch/countries/canada/en/home/services/driving-and-vehicles/driving-ch-foreign-licence.html) - Embassy of Switzerland to Canada
+* [Road rules and safety](https://europa.eu/youreurope/citizens/travel/driving-abroad/road-rules-and-safety/switzerland/index_en.htm) - European Commission
+* [E-vignette](https://www.bazg.admin.ch/en/electronic-vignette-via-portal-purchase) – Federal Office for Customs and Border Security
 
 ### Money
 

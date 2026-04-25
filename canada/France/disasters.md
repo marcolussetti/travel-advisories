@@ -2,15 +2,9 @@
 
 ## Natural disasters and climate
 
-### Avalanches
+### Climate change
 
-There is a risk of avalanches in mountainous areas, which can cause fatal accidents. If you intend to ski or climb, find out about the weather and safety conditions and follow the advice given.
-
-#### Useful links
-
-* [Familiarise yourself with the avalanche risk levels](https://www.service-public.fr/particuliers/actualites/A13867?xtor=EPR-100&lang=en) - French administration services
-* [Information on mountain conditions](https://www.anena.org/) - Association nationale pour l'étude de la neige et des avalanches (ANENA) (in French)
-* [Avalanche forecasts and warnings](https://www.avalanches.org/) - European Avalanche Warning Service (EAWS)
+Climate change is affecting France. Extreme and unusual weather events are becoming more frequent and may affect your travel plans. Monitor local media for the latest information.
 
 ### Flooding
 
@@ -27,14 +21,14 @@ The French government has a flood forecasting service called Vigicrues.
 
 Forest and maquis fires often occur in summer, particularly on the Mediterranean coast and in Corsica.
 
-The air quality in areas near active fires may deteriorate due to heavy smoke.
+Heavy smoke may deteriorate the air quality in areas near active fires.
 
 There is a ban on smoking in woods and forests during high forest fire risk periods as defined by the prefecture. This ban applies equally to areas situated within 200m of wooded areas.
 
 In case of a major fire:
 
 * stay away from affected areas, particularly if you suffer from respiratory ailments
-* follow the advice of local authorities
-* monitor local media for up-to-date information on the situation
+* monitor local media for the latest information
+* follow the instructions of local authorities, including evacuation orders
 
-[Forest weather](https://meteofrance.com/meteo-des-forets) – Météo France (in French)
+[Forest weather](https://meteofrance.com/meteo-des-forets) – Météo France (French only)

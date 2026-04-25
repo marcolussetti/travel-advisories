@@ -69,31 +69,37 @@ Different entry rules may apply when travelling with a temporary passport or an 
 
 ### Visas
 
-Tourist visa: not required for stays up to 90 days in any 180-day period  
-Long-stay or residency visa: required for stays longer than 90 days  
-Work permit: required  
-Student visa: required for stays longer than 90 days
+Tourist visa: not required for stays of up to 90 days in any 180-day period  
+ Long-stay or residency visa: required for stays longer than 90 days  
+ Work permit: required  
+ Student visa: required for stays longer than 90 days
 
 #### Useful links
 
-* [More information on Visas](https://france-visas.gouv.fr/en_US/web/france-visas/) - Government of France
+* [More information on Visas](https://france-visas.gouv.fr/en_US/web/france-visas/) – Government of France
+* [Your arrival in France](https://france-visas.gouv.fr/en/web/france-visas/votre-arrivee-en-france) – France-Visas
 * [Guide to temporary entry into France under CETA](https://www.international.gc.ca/trade-commerce/trade-agreements-accords-commerciaux/agr-acc/ceta-aecg/temporary-entry-admission-temporaire-guide/france.aspx?lang=eng)
 
 ### Other entry requirements
 
-Customs officials may ask you to show them a return or onward ticket and proof of sufficient funds to cover your stay.
+ Customs officials may ask you to show them:
+
+* a return or onward ticket
+* proof of accommodation
+* proof of sufficient funds to cover your stay
+* proof of health insurance coverage
 
 ### Children and travel
 
-To leave France, any child under the age of 18 who normally resides in France must be accompanied by at least one parent. Children travelling without at least one parent must be in possession of:
+To leave France, any child under the age of 18 who normally resides in France must be accompanied by at least one parent. Children travelling without at least one parent must carry:
 
 * an authorization to leave the country signed by one of the parents
 * a photocopy of the signing parent’s identification
 
 #### Useful links
 
-* [More information on the authorization to leave the country](https://www.service-public.fr/particuliers/vosdroits/F1359?lang=en) - French administration services
-* [More about travelling with children](https://travel.gc.ca/travelling/children)
+* [More information on the authorization to leave the country](https://www.service-public.fr/particuliers/vosdroits/F1359?lang=en) – French administration services
+* [Children and travel](https://travel.gc.ca/travelling/children)
 
 ### Yellow fever
 

@@ -1,7 +1,7 @@
 {
     "name": "France",
-    "update_reason": "Editorial change",
-    "update_date": "2026-03-30T09:50:00",
+    "update_reason": "Thorough review and update of the entire content",
+    "update_date": "2026-04-23T16:36:00",
     "sections": {
         "risk": "canada/France/risk.md",
         "security": "canada/France/security.md",

@@ -1,7 +1,7 @@
 {
     "name": "Hong Kong",
-    "update_reason": "Laws and culture \u2013 updated information on national security laws",
-    "update_date": "2026-03-27T14:54:00",
+    "update_reason": "Editorial change",
+    "update_date": "2026-04-24T12:26:00",
     "sections": {
         "risk": "canada/Hong Kong/risk.md",
         "security": "canada/Hong Kong/security.md",

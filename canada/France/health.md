@@ -226,7 +226,7 @@ To lower your risk of getting sexually transmissible infections (STIs), HIV, and
 
 ### Medical services and facilities
 
-Health care is excellent and available throughout the country. Up-front payment may be required.
+Quality health care is available throughout the country. Up-front payment may be required.
 
 Make sure you get travel insurance that includes coverage for medical evacuation and hospital stays.
 

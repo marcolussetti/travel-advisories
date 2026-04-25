@@ -2,34 +2,28 @@
 
 ## Safety and security
 
-### Situation in Israel, the West Bank and the Gaza Strip
+### Terrorism
 
-Due to the ongoing events in Israel, the West Bank and the Gaza Strip, the security situation in neighbouring Sinai could deteriorate suddenly. Local authorities could impose movement restrictions on short notice.
+There is a threat of terrorism. Terrorist groups have planned and carried out attacks in Egypt. Terrorist attacks could occur at any time.
 
-If you are in or near affected areas:
+Egyptian security forces have increased their security operations and have a large and visible presence across the country. Further counterterrorism operations may take place throughout Egypt. Heightened security measures are in place.
 
-* monitor local and international media to stay informed of the rapidly evolving situation
-* follow the advice of local authorities
+Targets could include:
 
-The security situation in Egypt is unpredictable and certain regions of the country (for instance, North Sinai, Western Desert, etc.) are particularly volatile and should be avoided. There is a significant risk of terrorist attacks throughout the country. Attacks can be indiscriminate and occur with no warning, including in Cairo. While attacks in the North Sinai are frequent and mainly target security forces, terrorists have also targeted popular tourist destinations, places of worship, and other places frequented by foreigners throughout Egypt.
-
-Terrorists have targeted Coptic Christians and their places of worship, in both urban and isolated areas. Terrorists also attacked a mosque in the North Sinai on November 24, 2017, killing over 300 people. Avoid all religious institutions in Egypt.
-
-There is a significant presence of armed security forces and police in most governorates throughout the country. Curfews may be imposed on very short notice.
-
-On May 19, 2019, and December 28, 2018, attacks on buses carrying tourists took place near the pyramids of Giza. The explosions resulted in multiple casualties.
+* government buildings, including police stations
+* places of worship
+* airports and other transportation hubs and networks
+* public areas such as restaurants, bars, coffee shops, shopping centres, markets, hotels and other sites frequented by foreigners
 
 There is an increased risk of incidents and attacks on and around dates of national significance, including:
 
-* January 25, the anniversary of the 2011 Egyptian revolution;
-* The week of Orthodox Easter;
-* June 30 to July 3, the anniversary of the removal of former president Mohamed Morsi in 2013;
-* August 14, the anniversary of clearing protesters from Rabaa and al-Nahda squares in 2013; and
+* January 25, the anniversary of the 2011 Egyptian revolution
+* The week of Orthodox Easter
+* June 30 to July 3, the anniversary of the removal of former president Mohamed Morsi in 2013
+* August 14, the anniversary of clearing protesters from Rabaa and al-Nahda squares in 2013
 * Other religious observances and holidays.
 
 Exercise increased caution during these periods.
-
-Be particularly cautious in commercial establishments, government facilities, public areas, tourist sites, the vicinity of churches and mosques at the time of religious services and any other areas frequented by foreigners. Avoid police stations, security installations and government buildings, as well as all crowds and demonstrations.
 
 ### Western Desert
 

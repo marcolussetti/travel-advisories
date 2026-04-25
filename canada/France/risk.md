@@ -18,4 +18,4 @@ The features in this map do not constitute an authoritative source of geographic
 
 ### France - Exercise a high degree of caution
 
-[Exercise a high degree of caution](#levels "Risk Levels") in France due to the elevated threat of terrorism.
+[Exercise a high degree of caution](#levels "Risk Levels") in France due to the threat of terrorism.

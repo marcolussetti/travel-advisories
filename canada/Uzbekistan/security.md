@@ -35,7 +35,7 @@ Despite landmines clearing efforts, marked and unmarked minefields may still be 
 * Tajikistan
 * Kyrgyzstan
 
-If you are travelling to any of these areas despite the advisory in effect:
+If you are travelling to any of these areas:
 
 * stay on main roads and paved surfaces
 * avoid roadside ditches, shoulders and unmarked trails

@@ -57,14 +57,6 @@ Travellers to areas where TBE is found may be at higher risk  during April to N
 
 [Protect yourself from tick bites](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html). The vaccine is not available in Canada. It may be available in the destination you are travelling to.
 
-Rabies 
-
-In this destination, [rabies](https://travel.gc.ca/travelling/health-safety/diseases/rabies) may be present in some wildlife species, including bats. Rabies is a deadly disease that spreads to humans primarily through bites or scratches from an infected animal.
-
-If you are bitten or scratched by an animal while travelling, immediately wash the wound with soap and clean water and see a health care professional.
-
-Before travel, discuss rabies vaccination with a health care professional. It may be recommended for travellers who will be working directly with wildlife.
-
 Measles 
 
 Measles is a serious viral infection that spreads easily. It spreads through the air, and can stay in the air for up to 2 hours. You can also get measles by direct contact with an infected person or by touching a surface with the virus on it and then touching your eyes, nose, or mouth before washing your hands.
@@ -107,6 +99,14 @@ Influenza
 The flu vaccine available in one hemisphere may only offer partial protection against the flu in the other hemisphere.
 
 The flu virus spreads from person to person when they cough or sneeze or by touching objects and surfaces that have been contaminated with the virus. Clean your hands often and wear a mask if you have a fever or respiratory symptoms.
+
+Rabies 
+
+In this destination, [rabies](https://travel.gc.ca/travelling/health-safety/diseases/rabies) may be present in some wildlife species, including bats. Rabies is a deadly disease that spreads to humans primarily through bites or scratches from an infected animal.
+
+If you are bitten or scratched by an animal while travelling, immediately wash the wound with soap and clean water and see a health care professional.
+
+Before travel, discuss rabies vaccination with a health care professional. It may be recommended for travellers who will be working directly with wildlife.
 
 ### Safe food and water precautions
 
@@ -178,13 +178,25 @@ To lower your risk of getting sexually transmissible infections (STIs), HIV, and
 
 ### Medical services and facilities
 
-Health care is excellent. It is available throughout the country.
-
 Medical and hospital costs are much higher than in Canada. Immediate payment is usually required.
 
 Make sure you get travel insurance that includes coverage for medical evacuation and hospital stays.
 
 [Health and safety outside Canada](https://travel.gc.ca/travelling/health-safety)
+
+### Medication
+
+If you take prescription medications, you’re responsible for determining their legality in Switzerland.
+
+For medications that do not contain narcotics, you may enter Switzerland with one month’s personal supply as prescribed by your doctor.
+
+* Always keep your medication in the original container and carry a copy of your prescriptions
+* Pack your medication in your carry-on luggage
+
+#### Useful links
+
+* [Travelling with medication](https://travel.gc.ca/travelling/health-safety/medication?_ga=2.191785258.1604296173.1718630005-1405742948.1680118138)
+* [Entering Switzerland with medicinal products](https://www.swissmedic.ch/swissmedic/en/home/news/focus/einreise-in-die-schweiz-mit-medikamenten.html) – Swiss Agency for Therapeutic Products
 
 ### Keep in Mind...
 
