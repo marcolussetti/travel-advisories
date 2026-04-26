@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   14 April 2026
+:   26 April 2026
 
 Updated:
-:   13 April 2026
+:   25 April 2026
 
 Latest update:
-:   Removal of information about risks of terrorism (‘Warning and insurance’ page).
+:   New information on attacks on 25th April in multiple locations in Mali
 
 ![](https://assets.publishing.service.gov.uk/media/690369fee2ebc0fb39a51ffc/FCDO_TA_026_-_Mali_Travel_Advice_Ed7_WEB.jpg)
 
@@ -22,7 +22,7 @@ FCDO advises against all travel to the whole of the Mali due to the unpredictab
 
 If you’re in Mali, you should leave immediately by commercial flight if you judge it safe to do so.
 
-The international airport in Bamako is open, and commercial flights are available. Do not try to leave Mali by overland routes to neighbouring countries as this is too dangerous. This is due to terrorist attacks along national highways.
+Do not try to leave Mali by overland routes to neighbouring countries as this is too dangerous. This is due to terrorist attacks along national highways.
 
 Terrorist group Jama’a Nusrat ul-Islam wa al-Muslimin (JNIM) has implemented blockades on key routes throughout Southern and Western Mali, including the capital city of Bamako. These blockades are targeting fuel trucks and are enforcing checkpoints for individuals attempting to pass through them. Attacks can occur at any time.
 
@@ -35,6 +35,14 @@ For more detail see [Fuel shortages](https://www.gov.uk/foreign-travel-advice/ma
 If you are a British national already in Mali, either resident or visitor, carefully consider your presence there and the risks you take by staying.
 
 Find out more about [why FCDO advises against travel](https://www.gov.uk/foreign-travel-advice/mali/safety-and-security).
+
+## 25 April Attacks
+
+A series of coordinated attacks occurred in multiple locations including Kidal, Gao, Kati, Sevare and in the vicinity of Bamako International Airport on 25th April, which has temporarily closed.
+
+If you are in Mali, you should stay indoors where possible, avoid crowded places and areas of military or police activity, and follow guidance issued by local authorities.
+
+We continue to advise against all travel to Mali.
 
 ## UK government support
 
