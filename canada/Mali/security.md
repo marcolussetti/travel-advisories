@@ -4,7 +4,7 @@
 
 ### Security situation and fuel shortages
 
-The security situation remains unpredictable and could deteriorate further. On April 25, 2026, armed groups conducted attacks in several locations across Mali, including Kidal Gao, Kati and near Bamako International Airport, which is temporarily closed. A curfew is in effect in Bamako, between 9 pm and 6 am, until April 28, 2026, and could be extended.
+The security situation remains unpredictable and could deteriorate further. On April 25, 2026, armed groups conducted attacks in several locations across Mali, including Kidal Gao, Kati and near Bamako International Airport, which could temporarily close. A curfew is in effect in Bamako, between 9 pm and 6 am, until April 28, 2026, and could be extended.
 
 Since September 2025, terrorist groups have intensified their attacks, targeting fuel tankers and setting up roadblocks on major supply routes. This blockade has led to severe fuel shortages, causing a reduction in essential services, long lines at gas stations and transportation difficulties.
 
