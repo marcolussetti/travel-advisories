@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 April 2026
+:   27 April 2026
 
 Updated:
-:   25 April 2026
+:   26 April 2026
 
 Latest update:
-:   New information on attacks on 25th April in multiple locations in Mali
+:   New information on the 25 April attacks on the ‘Warnings and insurance’ page
 
 ![](https://assets.publishing.service.gov.uk/media/690369fee2ebc0fb39a51ffc/FCDO_TA_026_-_Mali_Travel_Advice_Ed7_WEB.jpg)
 
@@ -38,9 +38,13 @@ Find out more about [why FCDO advises against travel](https://www.gov.uk/fore
 
 ## 25 April Attacks
 
-A series of coordinated attacks occurred in multiple locations including Kidal, Gao, Kati, Sevare and in the vicinity of Bamako International Airport on 25th April, which has temporarily closed.
+A series of coordinated attacks occurred in multiple locations including Kidal, Gao, Kati, Sevare and in the vicinity of Bamako International Airport on 25th April.
 
-If you are in Mali, you should stay indoors where possible, avoid crowded places and areas of military or police activity, and follow guidance issued by local authorities.
+Bamako International Airport is now open, although some flights are operating with delays or cancellations. If you plan to travel, check with your airline for the latest information before leaving.
+
+Local authorities have imposed a curfew in the district of Bamako from 21:00 to 06:00 until the morning of 28th April. Movement is restricted during these hours. You should adhere to the curfew, limit your movements, and follow the advice of local authorities.
+
+If you are in Mali, you should avoid crowded places and areas of military or police activity, and follow guidance issued by local authorities. Avoid any road blockades set up by police and security forces.
 
 We continue to advise against all travel to Mali.
 
