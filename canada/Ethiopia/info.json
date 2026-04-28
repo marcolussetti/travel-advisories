@@ -1,7 +1,7 @@
 {
     "name": "Ethiopia",
-    "update_reason": "Safety and security \u2013 added information on fuel shortages",
-    "update_date": "2026-04-09T12:47:00",
+    "update_reason": "Health \u2013 Travel health notice for COVID-19 removed",
+    "update_date": "2026-04-27T09:33:00",
     "sections": {
         "risk": "canada/Ethiopia/risk.md",
         "security": "canada/Ethiopia/security.md",

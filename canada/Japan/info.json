@@ -1,7 +1,7 @@
 {
     "name": "Japan",
-    "update_reason": "Natural disasters and climate \u2013 removed information on the tsunami threat",
-    "update_date": "2026-04-20T11:18:00",
+    "update_reason": "Health \u2013 Travel health notice for COVID-19 removed",
+    "update_date": "2026-04-27T09:33:00",
     "sections": {
         "risk": "canada/Japan/risk.md",
         "security": "canada/Japan/security.md",

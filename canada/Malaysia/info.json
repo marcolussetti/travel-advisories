@@ -1,7 +1,7 @@
 {
     "name": "Malaysia",
-    "update_reason": "Natural disasters and climate \u2013 removed information on flooding and landslides",
-    "update_date": "2026-04-20T14:32:00",
+    "update_reason": "Health \u2013 Travel health notice for COVID-19 removed",
+    "update_date": "2026-04-27T09:33:00",
     "sections": {
         "risk": "canada/Malaysia/risk.md",
         "security": "canada/Malaysia/security.md",

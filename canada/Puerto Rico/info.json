@@ -1,7 +1,7 @@
 {
     "name": "Puerto Rico",
-    "update_reason": "Health \u2013 Travel health notice for dengue removed",
-    "update_date": "2026-04-20T09:38:00",
+    "update_reason": "Health \u2013 Travel health notice for COVID-19 removed",
+    "update_date": "2026-04-27T09:33:00",
     "sections": {
         "risk": "canada/Puerto Rico/risk.md",
         "security": "canada/Puerto Rico/security.md",

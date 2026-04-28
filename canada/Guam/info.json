@@ -1,7 +1,7 @@
 {
     "name": "Guam",
-    "update_reason": "Natural disasters and climate \u2013 removed information on Typhoon Sinlaku",
-    "update_date": "2026-04-20T14:30:00",
+    "update_reason": "Health \u2013 Travel health notice for COVID-19 removed",
+    "update_date": "2026-04-27T09:33:00",
     "sections": {
         "risk": "canada/Guam/risk.md",
         "security": "canada/Guam/security.md",

@@ -6,7 +6,6 @@
 
 * [Avian influenza: Advice for travellers](https://travel.gc.ca/travelling/health-safety/travel-health-notices/502)
 * [Measles: Advice for travellers](https://travel.gc.ca/travelling/health-safety/travel-health-notices/504)
-* [COVID-19 and International Travel](https://travel.gc.ca/travelling/health-safety/travel-health-notices/513)
 
 This section has information and advice about health risks you might face when travelling. Following this advice can help reduce your risk of getting sick. Not all risks are listed here.
 
