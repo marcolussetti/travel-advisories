@@ -22,7 +22,9 @@ Military activity is currently underway in response to attempts by Houthi milita
 
 There are  periodically reports of conscription surges and mobilisation of reservists in Eritrea, connected to regional instability of the Horn of Africa. Security measures may be in place around Asmara and other regions of Eritrea. Get advice from your host, accommodation or travel operator.
 
-Tensions between Eritrea and Ethiopia are high. The security situation could change with little notice
+Tensions between Eritrea and Ethiopia are high. The security situation could change with little notice.
+
+Stay away from areas that are close to security/military installations or activity. Security/military locations can change, so seek local advice where possible.
 
 ### Armed civilians
 

@@ -1,11 +1,11 @@
 {
     "name": "Portugal",
-    "update_reason": "Updated information on European Entry-Exit System (EES) (\u2018Entry requirements\u2019 page).",
+    "update_reason": "Additional information on European Entry-Exit System (EES) (\u2018Entry requirements\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Portugal/Warnings and insurance.md",
-            "update_date": "2026-04-10T10:33:33+01:00"
+            "update_date": "2026-04-27T10:23:09+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Portugal/Getting help.md"
         }
     ],
-    "update_date": "2026-04-10T10:33:33+01:00"
+    "update_date": "2026-04-27T10:23:09+01:00"
 }

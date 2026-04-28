@@ -1,13 +1,32 @@
 # Warnings and insurance
 
 Still current at:
-:   11 April 2026
+:   28 April 2026
 
 Updated:
-:   10 April 2026
+:   27 April 2026
 
 Latest update:
-:   Updated information on European Entry-Exit System (EES) (‘Entry requirements’ page).
+:   New information about Eurovision song contest 2026 (‘Warnings and insurance’ page).
+
+## Eurovision  song contest 2026
+
+Eurovision will take place in Vienna from 10 May to 17 May 2026.
+If you are attending:
+
+* sign up to get [email updates](https://www.gov.uk/foreign-travel-advice/austria/email-signup) on our travel advice for Austria
+* download the [official Eurovision app](https://www.eurovision.com/tickets/) and check the official [Eurovision](https://www.eurovision.com/) and [Vienna Tourism Board](https://www.wien.info/en/now-on/eurovision-song-contest/) websites to stay informed of anything that might affect your travel or plans whilst in Austria
+* keep your personal belongings and valuables safe. For more information see the ‘Safety and security’ page
+
+### Tickets
+
+Only purchase tickets through the official ticketing platform. For more information, check the [Eurovision 2026](https://www.eurovision.com/tickets/) website. Tickets for Eurovision song contest 2026 events are digital only. You must present your ticket on your mobile phone at the venue, together with valid photo ID.
+
+### At the venue
+
+Expect to undergo a security check before entering the official Eurovision venue at Wiener Stadthalle. The authorities will be enforcing a bag ban at all shows. Only small personal items such as a wallet, mobile phone or keys are allowed. For more details, check the ticket FAQs on the [Eurovision website.](https://www.eurovision.com/tickets/)
+
+Security checks and restrictions may also apply at official fan zones, including the Eurovision Village. For further information on access and security, check the [Vienna Tourism Board](https://www.wien.info/en/now-on/eurovision-song-contest/faq-esc-2026-wien-1045726) website and [Security Plan](https://www.wien.info/en/now-on/eurovision-song-contest/security-esc-1118450).
 
 ## Before you travel
 
