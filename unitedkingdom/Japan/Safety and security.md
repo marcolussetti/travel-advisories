@@ -44,19 +44,24 @@ Female passengers travelling on commuter trains have experienced inappropriate b
 
 ### Drink spiking and credit card fraud
 
-There is a risk of drink spiking and credit card fraud. Victims have described waking up with no memory of what happened and discovering large amounts of money billed to their credit card. Risks are higher in all entertainment and nightlife districts across Japan. In particular, the Japanese police have identified the following areas in Tokyo as high-risk zones:
+There are increased reports of drink spiking and credit card fraud. Victims have described waking up with no memory of what happened and discovering large amounts of money billed to their credit card. The amount of money taken ranges from hundreds to tens of thousands of pounds. Risks are higher in all entertainment and nightlife districts across Japan. In particular, the Japanese police have identified the following areas in Tokyo as high-risk zones:
 
 * Kabukicho
 * Roppongi
 * Shibuya
 * Ikebukuro
 
-You can reduce the risk of spiking by:
+Most British victims have reported being targeted in Kabukicho, a popular tourist destination in Shinjuku. Victims claim to be approached in English by street touts known as “kyakuhiki”. Do not follow street touts into bars.
+
+You can reduce the risk and impact of spiking by:
 
 * not accepting drinks from strangers
 * not leaving drinks unattended or asking a trusted friend to keep an eye on your unfinished drink
+* not following street touts into bars
+* securing your finances against fraudulent transactions
+* only carrying what you need and securing spare cash, cards, and valuables at your accommodation
 
-Card fraudsters may skim or clone bank cards when you pay for food or drink. You may need a police report before your credit card company will consider processing a fraud claim.
+For more information on drink spiking, and how to reduce the risk, please visit our travel aware website [here](https://travelaware.campaign.gov.uk/spiking-and-methanol-poisoning/).
 
 ### Illegal drugs
 
@@ -104,7 +109,7 @@ It is illegal to possess or use some common prescription and over-the-counter me
 
 ### Custody disputes
 
-Japanese family law is very different from UK law. Joint custody of a child after divorce is not a legal option, and access for a non-custodial parent is extremely difficult, especially if you live outside of Japan. Legal custody disputes can be lengthy and expensive, and rulings to return a child or to secure access to a child are often not enforced. See [child abduction, custody and parental rights in Japan](https://www.gov.uk/government/publications/japan-child-abduction).
+Japanese family law is different from UK law. Parents may choose joint custody of a child after divorce, or they may choose for one parent to hold sole custody. Access to a child of the non-custodial parent can be difficult. Legal custody disputes can be lengthy and expensive, and rulings to return or secure access to a child may take time to be enforced.  See [child abduction, custody and parental rights in Japan](https://www.gov.uk/government/publications/japan-child-abduction).
 
 ### Public behaviour
 

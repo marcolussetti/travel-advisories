@@ -1,11 +1,11 @@
 {
     "name": "Colombia",
-    "update_reason": "FCDO now advises against all but essential travel to the municipality of Jamund\u00ed, Valle del Cauca. FCDO continues to advise against all but essential travel to other parts of Colombia ('Warnings and insurance' page).",
+    "update_reason": "New information following explosive attacks in Cauca, Valle de\u00a0Cauca\u00a0and Nari\u00f1o departments\u00a0between 24 - 27 April ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Colombia/Warnings and insurance.md",
-            "update_date": "2026-04-07T14:58:12+01:00"
+            "update_date": "2026-04-28T16:40:42+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Colombia/Getting help.md"
         }
     ],
-    "update_date": "2026-04-07T14:58:12+01:00"
+    "update_date": "2026-04-28T16:40:42+01:00"
 }

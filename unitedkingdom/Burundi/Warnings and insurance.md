@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   31 March 2026
+:   29 April 2026
 
 Updated:
-:   30 March 2026
+:   28 April 2026
 
 Latest update:
-:   FCDO no longer advises against all but essential travel to the city of Bujumbura and parts of Bujumbura province. FCDO continues to advise against all travel to other parts of Burundi (‘Warnings and insurance’ page). Changes to Burundi’s provincial structure added.
+:   Updated information that the only international airport in Burundi is the Melchior Ndadaye International Airport ('Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/69ca741595a323ea3496ed17/FCDO_TA_007_-_Burundi_Travel_Advice_Ed7_WEB.jpg)
 
@@ -36,7 +36,7 @@ Armed group activity and conflict along the border between Burundi and DRC has i
 
 Armed group activity and the movement of military and refugees in Democratic Republic of Congo (DRC) could affect people on the Burundian side of the border, in Bujumbura Province. The security situation in DRC near to Burundi’s border is unstable (see [Democratic Republic of the Congo’s travel advice](https://www.gov.uk/foreign-travel-advice/democratic-republic-of-the-congo) for more information).
 
-The only international airport in Burundi is the Melchior Ndadaye airport. In the event that flights were not available at the airport, there
+The only international airport in Burundi is the Melchior Ndadaye International Airport. In the event that flights were not available at the airport, there
 are currently limited land border options to exit Burundi. The DRC border area is unstable and the Rwandan border is closed. The Tanzania-Burundi border continues to operate normally, although transport options may be limited by the ongoing fuel shortages.
 
 ## Before you travel

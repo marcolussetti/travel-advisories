@@ -61,7 +61,7 @@ While celebratory gunfire is illegal in Chad, it can occur during celebrations, 
 
 In 2021, an armed convoy belonging to the rebel group Le Front pour l’Alternance et la Concorde au Tchad (FACT) crossed into Chad from Libya and fought government forces. President Idriss Deby Itno was killed, and a transitional military council was established to govern Chad. The UK government advised British nationals to leave Chad. The British Embassy in N’Djamena closed temporarily.
 
-In N’Djamena, there have been recent incidents of fatal shootings on the section of Avenue du Général Kerim Nassour in front of the Presidential Palace, seek alternative routes.
+In January 2025, a fatal shooting took place near the Presidential Palace in N’Djamena. Remain vigilant, stay away from the area at night, and use alternative routes where possible.
 
 ## Crime
 
@@ -160,12 +160,8 @@ Find out what you can do to prepare for and respond to [extreme weather and natu
 
 Roads are poor and often impassable during the rainy season from July to October, especially in the south. Heavy rains can cause major flooding in many areas, particularly in the south and east. Bring food and clean water with you.
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/chad/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/chad/entry-requirements)
 
-[Next
-:
-Regional risks](/foreign-travel-advice/chad/regional-risks)
+[Next:Regional risks](/foreign-travel-advice/chad/regional-risks)
 
 [View a printable version of the whole guide](/foreign-travel-advice/chad/print)

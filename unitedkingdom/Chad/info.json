@@ -1,11 +1,11 @@
 {
     "name": "Chad",
-    "update_reason": "New information about dual nationals returning to the UK (\u2018Entry requirements\u2019 page).",
+    "update_reason": "New information on planned protests that are due to take place on 2 May in N\u2019Djamena and updated information on the political situation (\u2018Warnings and insurance\u2019 and \u2018Safety and security\u2019 pages).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Chad/Warnings and insurance.md",
-            "update_date": "2025-12-10T13:18:54+00:00"
+            "update_date": "2026-04-28T16:06:35+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Chad/Getting help.md"
         }
     ],
-    "update_date": "2025-12-10T13:18:54+00:00"
+    "update_date": "2026-04-28T16:06:35+01:00"
 }

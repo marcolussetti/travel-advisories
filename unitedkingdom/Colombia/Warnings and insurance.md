@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   8 April 2026
+:   29 April 2026
 
 Updated:
-:   7 April 2026
+:   28 April 2026
 
 Latest update:
-:   FCDO now advises against all but essential travel to the municipality of Jamundí, Valle del Cauca. FCDO continues to advise against all but essential travel to other parts of Colombia ('Warnings and insurance' page).
+:   New information following explosive attacks in Cauca, Valle de Cauca and Nariño departments between 24 - 27 April ('Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/69d509b9019a4faf2745b3c6/FCDO__TA__054_-_Colombia_Travel_Advice_Ed4__WEB___1_.jpg)
 
@@ -59,6 +59,12 @@ FCDO advises against all but essential travel to within 5km of the border with E
 FCDO advises against all but essential travel to Orito, San Miguel, Valle del Guamuez, Puerto Caicedo, Puerto Guzmán, Puerto Asis and Puerto Leguizamo in Putumayo Department.
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/colombia/regional-risks).
+
+## Explosive attacks in Cauca, Valle de Cauca and Nariño departments
+
+Between 24-27 April, several explosive devices were detonated in Cauca, Valle de Cauca and Nariño departments, including near military bases and police stations. One device exploded on the Pan-American Highway causing several deaths, injuries and significant damage and disruption. Local authorities are investigating. Road closures and further disruption should be expected.
+
+Monitor media and follow advice from local authorities. See [Safety and security page](https://www.gov.uk/foreign-travel-advice/colombia/safety-and-security).
 
 ## Before you travel
 

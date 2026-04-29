@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   22 April 2026
+:   29 April 2026
 
 Updated:
-:   21 April 2026
+:   28 April 2026
 
 Latest update:
-:   Addition of information about crossing the Saudi-Kuwait border ('Warnings and insurance' page).
+:   Updated information on the reopening of Kuwait airspace and leaving Kuwait ('Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/69a36b0da4d26cb233cd47da/Kuwait_Travel_Advice_Ed1__WEB_.jpg)
 
@@ -48,16 +48,18 @@ Sign up to receive information and alerts. Download [Sahel app](https://www.e
 
 ## Leaving Kuwait
 
-If you judge it is safe to leave Kuwait the following land border crossings into Saudi Arabia are currently open as of 3 March:
+Kuwait airspace has now reopened and some flights have restarted from Kuwait International Airport to a limited range of destinations. You should follow the advice of the local authorities and your airline, and only travel to the airport if you deem it safe to do so.
 
-* Al Salmi / Ar – Ruqi
-* Al Nuwaisib / Al -Khafji
+If you judge it is safe to leave Kuwait via land border crossings into Saudi Arabia, the following are currently open:
 
-Read [Travel Advice for  Saudi Arabia](https://www.gov.uk/foreign-travel-advice/saudi-arabia) and ensure you have the correct paperwork, or you may be denied entry. If travelling by car, the vehicle must be wholly owned and registered in your name. If you plan to use commercial options to depart, check for the latest updates from your airline or tour operator, as well as the instructions of local authorities and the status of any border crossings before you travel. Make sure you have access to emergency supplies and essential medication. Travel within or out of Kuwait is at your own risk.
+* Al Salmi / Ar-Ruqi
+* Al Nuwaisib / Al-Khafji
+
+Read the [Travel Advice for  Saudi Arabia](https://www.gov.uk/foreign-travel-advice/saudi-arabia) and ensure you have the correct paperwork, or you may be denied entry. If travelling by car, the vehicle must be wholly owned and registered in your name. If you plan to use commercial options to depart, check for the latest updates from your airline or tour operator, as well as the instructions of local authorities and the status of any border crossings before you travel. Make sure you have access to emergency supplies and essential medication. Travel within or out of Kuwait is at your own risk.
 
 Keep your departure plans under review and ensure your travel documents are up to date, including any visas required for onward travel.
 
-British national residents who need an exit permit must apply for it via the Sahel App. If your employer or sponsor refuses to issue the exit permit without a valid legal or financial reason (such as outstanding fines, residency validity, court cases, bank dues), you can appeal through the Public Authority of Manpower (PAM). If you do not get a response from PAM within 24 hours, you can contact the British Embassy for assistance.
+British national residents who need an exit permit must apply for it via the Sahel App. If your employer or sponsor refuses to issue the exit permit without a valid legal or financial reason (such as outstanding fines, residency validity, court cases, bank dues), you can appeal through the Public Authority of Manpower (PAM). For further assistance, please seek legal support. You can find [English speaking lawyers in Kuwait](https://find-a-professional-service-abroad.service.csd.fcdo.gov.uk/find/lawyers?country=Kuwait).
 
 ## Crossing the Iraq - Kuwait (Safwan) border
 

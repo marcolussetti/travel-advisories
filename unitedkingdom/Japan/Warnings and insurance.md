@@ -1,21 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   21 April 2026
+:   29 April 2026
 
 Updated:
-:   21 April 2026
+:   28 April 2026
 
 Latest update:
-:   Updated information about 7.7 magnitude earthquake ('Warnings and insurance' page)
-
-## Earthquake
-
-A magnitude 7.7 earthquake struck north eastern and northern Japan on 20 April 2026.
-
-The [Japanese Meteorological Agency](https://www.jma.go.jp/jma/indexe.html) (JMA) has issued a precautionary megaquake alert, meaning there is an increased risk of strong earthquakes occurring in the coming week. Residents and tourists in Hokkaido, Aomori, Iwate, Miyagi, Fukushima, Ibaraki and Chiba should remain vigilant and follow guidance from local authorities.
-
-Follow [local news updates](https://www3.nhk.or.jp/nhkworld/en/news/) and see this JMA leaflet on [how to prepare for a megaquake and stay safe](https://www.data.jma.go.jp/multi/quake/index.html?lang=en).
+:   Updated information on drink spiking and custody disputes ('Safety and security' page).
 
 ## Global travel impacts due to escalation in the Middle East
 
@@ -24,8 +16,8 @@ Escalation in the Middle East has caused widespread travel disruption, including
 Your travel plans may be affected, even if your destination is not in the Middle East. Before you travel:
 
 * check travel advice for any countries or territories you are transiting through
-* check for the latest updates from your airline or tour operator before travelling
-* review your travel insurance policy for coverage before you travel
+* check for the latest updates from your airline or tour operator
+* review your travel insurance policy for coverage
 * monitor local and international media for the latest information and sign up for travel advice email alerts
 
 ## Before you travel

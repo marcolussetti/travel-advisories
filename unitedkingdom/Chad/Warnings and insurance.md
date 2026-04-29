@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   11 December 2025
+:   29 April 2026
 
 Updated:
-:   10 December 2025
+:   28 April 2026
 
 Latest update:
-:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
+:   New information on planned protests that are due to take place on 2 May in N’Djamena and updated information on the political situation (‘Warnings and insurance’ and ‘Safety and security’ pages).
 
 ![](https://assets.publishing.service.gov.uk/media/60dc7052e90e07717b84dc57/FCDO__TA__010_-_Chad_Travel_Advice_Ed4__WEB_.jpg)
 
@@ -45,6 +45,19 @@ FCDO advises against all but essential travel to the rest of Chad, including the
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/chad/regional-risks).
 
+## Protests
+
+Planned protests are due to take place on 2 May in N’Djamena. A heightened presence of government security is expected. Travel disruptions are likely.
+
+You should:
+
+* monitor local media
+* stay away from large gatherings and demonstrations
+* follow the advice of local authorities
+* limit travel where possible
+
+Be aware that demonstrations can occur with little notice and may turn violent.
+
 ## Before you travel
 
 No travel can be guaranteed safe. Read all the advice in this guide. You may also find it helpful to:
@@ -81,8 +94,6 @@ Follow FCDO:
 * [travel advice on Facebook](https://www.facebook.com/FCDOTravel/)
 * [Travel Aware on Instagram](https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Ftravelaware%2F&is_from_rle)
 
-[Next
-:
-Entry requirements](/foreign-travel-advice/chad/entry-requirements)
+[Next:Entry requirements](/foreign-travel-advice/chad/entry-requirements)
 
 [View a printable version of the whole guide](/foreign-travel-advice/chad/print)

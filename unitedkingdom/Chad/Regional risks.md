@@ -41,12 +41,8 @@ In 2021 and 2022 protesters and security forces clashed violently in N’Djamena
 
 There is a high risk of terrorist kidnapping in the Sahel region, which includes Chad, Mauritania, Mali, Burkina Faso and Niger. See [Terrorism in Chad](/foreign-travel-advice/chad/safety-and-security).
 
-[Previous
-:
-Safety and security](/foreign-travel-advice/chad/safety-and-security)
+[Previous:Safety and security](/foreign-travel-advice/chad/safety-and-security)
 
-[Next
-:
-Health](/foreign-travel-advice/chad/health)
+[Next:Health](/foreign-travel-advice/chad/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/chad/print)
