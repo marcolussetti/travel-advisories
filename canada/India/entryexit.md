@@ -60,7 +60,7 @@ If you stay in India for more than 180 days, you must register within 14 days of
 #### Useful links
 
 * [e-FRRO online portal](https://indianfrro.gov.in/eservices/) (for Delhi, Mumbai, Chennai and Bengaluru) – India's Bureau of Immigration
-* [FRRO Contact List](https://boi.gov.in/content/frro-contact-list) – India's Bureau of Immigration
+* [FRRO Contact List](https://boi.gov.in/boi/contents/registration-authority/contact-jurisdictional-frro) – India's Bureau of Immigration
 
 #### Penalties for overstaying
 

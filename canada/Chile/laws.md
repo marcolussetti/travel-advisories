@@ -17,16 +17,25 @@ Penalties for possession, use or trafficking of illegal drugs are severe. Convic
 
 ### National parks
 
+#### Open fires
+
 Protected areas of national parks are safeguarded by Chilean legislation. Penalties for violations can be severe, especially in the case of fires.
 
 Open fires are strictly forbidden in national parks outside permitted camping areas. This includes burners for cooking purposes.
 
-Local authorities may revoke your tourist card if you’re caught starting a fire illegally. They may ask you to depart Chile within 72 hours or you may be subjected to deportation proceedings. You may also face detention and heavy fines if the open fire results in a forest fire.
+Local authorities may revoke your tourist card if you’re caught starting a fire illegally. They may ask you to depart Chile within 72 hours or you may be subjected to deportation proceedings. You may also face detention, heavy fines and a ban from re-entering the country, especially if the open fire results in a forest fire.
 
 * Respect protected areas, even if there are no warnings or signs to this effect
 * Ensure you have a good understanding of local rules and regulations before entering national parks
 
-[National Forest Corporation (CONAF)](http://www.conaf.cl/) (Spanish only)
+#### Guides
+
+From April 27 to August 30, 2026, visitors to Torres del Paine National Park who are completing the “W” circuit or the Base Torres trail must have a specialized guide and appropriate equipment. Guides are also recommended during the rest of the year.
+
+#### Useful links
+
+* [National Forest Corporation (CONAF)](http://www.conaf.cl/) (Spanish only)
+* [CONAF will require specialized guides in Torres del Paine National Park](https://www.conaf.cl/conaf-exigira-guia-especializado-en-el-parque-nacional-torres-del-paine/) (Spanish only)
 
 ### Heritage sites
 

@@ -2,19 +2,16 @@
 
 ## Safety and security
 
-### Security situation and fuel shortages
+### Ongoing security situation
 
-The security situation remains unpredictable and could deteriorate further. On April 25, 2026, armed groups conducted attacks in several locations across Mali, including Kidal Gao, Kati and near Bamako International Airport, which could temporarily close. A curfew is in effect in Bamako, between 9 pm and 6 am, until April 28, 2026, and could be extended.
+The security situation is unpredictable and could deteriorate further. On April 25, 2026, armed groups conducted attacks in several locations across Mali, including Kidal, Gao, Kati and near Bamako International Airport, which could temporarily close. Curfews may be declared in many areas throughout Mali, including in Bamako.
 
-Since September 2025, terrorist groups have intensified their attacks, targeting fuel tankers and setting up roadblocks on major supply routes. This blockade has led to severe fuel shortages, causing a reduction in essential services, long lines at gas stations and transportation difficulties.
-
-The entire country, including Bamako, remains vulnerable to terrorist threats and the risk of kidnapping.
+The entire country, including Bamako, remains vulnerable to terrorist attacks and the risk of kidnapping.
 
 * Stay indoors during attacks and monitor local news to stay informed of the latest developments
 * Leave the country by commercial flights if it's possible and safe to do so
 * Avoid traveling by land outside Bamako and carefully plan all road travel
-* Always keep your gas tank at least half full
-* Ensure access to fuel
+* Sign up or update your personal information with the [Registration of Canadians Abroad](https://travel.gc.ca/travelling/registration) service to receive important additional information, specific to your location, about the ongoing situation
 
 ### Political Situation
 
@@ -32,7 +29,7 @@ If you are in Mali:
 
 All of Mali is exposed to terrorist attacks.
 
-Since 2022, there has been an increase in terrorist attacks in central, western and southern Mali, including in the vicinity of Bamako. More recently, although they have primarily targeted security forces and fuel tankers, the attacks have resulted in numerous casualties, including civilians.
+Since 2022, there has been an increase in terrorist attacks in central, western and southern Mali, including in the vicinity of Bamako. Since September 2025, terrorist groups have intensified their attacks, targeting fuel tankers and setting up roadblocks on major supply routes. This blockade has led to severe fuel shortages, causing a reduction in essential services, long lines at gas stations and transportation difficulties.
 
 Active terrorist groups are determined to increase their attacks and kidnappings targeting foreigners.
 

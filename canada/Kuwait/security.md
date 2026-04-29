@@ -12,8 +12,6 @@ Filming, taking photos and online sharing of images of military installations, a
 
 Our ability to provide consular services to Canadians during an active conflict is limited, with priority given to the provision of essential services. Prepare contingency plans that don't rely on the Government of Canada's assistance for departure.
 
-Kuwaiti airspace is closed until further notice.
-
 If you decide to leave Kuwait via a land border crossing and assess that you can do safely, the following border crossings to Saudi Arabia are open:
 
 * Al-Khafji
