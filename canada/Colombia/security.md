@@ -119,6 +119,19 @@ Express kidnappings are frequent and often occur in affluent areas, as well as i
 
 ### Terrorism
 
+In late April 2026, dozens of terrorist attacks occurred in Cauca and Valle del Cauca departments.
+
+These incidents included multiple attacks involving explosives, some of which targeted public infrastructure and transportation routes and resulted in civilian casualties.
+
+The situation remains volatile and unpredictable, with the potential for further incidents.
+
+Transportation disruptions, road closures and heightened security checks may occur with little or no notice.
+
+If you’re in the affected areas:
+
+* follow the instructions of local authorities
+* monitor local media for the latest updates
+
 There is a threat of domestic terrorism. Terrorist groups are active in some parts of the country, often using explosives during periodic attacks.
 
 Recent attacks include:

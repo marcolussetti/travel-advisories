@@ -47,25 +47,25 @@ Tourist visa: required
  Work visa: required  
  Business visa: required
 
-As a Canadian citizen, you must obtain a visa to visit Lebanon. Ensure you apply for the proper type of visa for the specific purpose of your trip. Visas are available at Lebanese diplomatic missions abroad or at any port of entry into Lebanon.
+Ensure you apply for the proper type of visa for the specific purpose of your trip. Visas are available at Lebanese diplomatic missions abroad or at any port of entry into Lebanon.
 
 Make sure your visa is valid for the duration of your stay. An expired entry visa must be extended by Lebanese authorities or you will not be allowed to leave the country.
 
 ### Entry stamp
 
-Your passport must show a Lebanese entry stamp in order to exit the country. If you acquire a new passport while in Lebanon, you must present your old passport containing proof of entry to authorities upon departure.
+Your passport must show a Lebanese entry stamp to exit the country. If you obtain a new passport while in Lebanon, you must present your old passport containing proof of entry to authorities upon departure.
 
 ### Travel bans
 
 Local authorities may issue travel bans that won’t allow you to enter or exit Lebanon, regardless of your nationality.
 
-You may also be denied re-entry to Lebanon if you left Lebanon as a refugee. To ensure that you are not subject to a travel ban to re-enter Lebanon, contact the Lebanese authorities prior to your departure to Lebanon
+You may also be denied re-entry to Lebanon if you left Lebanon as a refugee. To ensure that you are not subject to a travel ban to re-enter Lebanon, contact the Lebanese authorities prior to your departure to Lebanon.
 
 ### Regional travel
 
 Travel to or from Israel is illegal in Lebanon. You may be refused entry into Lebanon if your passport bears an Israeli visa, an Israeli border stamp, or an Egyptian or Jordanian border stamp issued by an office bordering Israel, as such a stamp could indicate you visited Israel prior to visiting Lebanon.
 
-### South of the Litani River
+### Areas south of the Litani River
 
 Travel permits from Lebanese authorities and/or UNIFIL may be required to enter areas south of the Litani River bordering Israel.
 

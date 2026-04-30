@@ -2,32 +2,6 @@
 
 ## Natural disasters and climate
 
-### Flooding and landslips
-
-Recent torrential rain has caused severe flooding and landslips across Wellington region, and resulted significant debris and damage to infrastructure.
-
-The following southern suburbs have been particularly affected by flooding and slips:
-
-* Island Bay
-* Berhampore
-* Newtown
-* Brooklyn
-* Mornington
-* The Basin Reserve area
-
-Local authorities are encouraging people in low-lying, flood or landslip prone areas to relocate to higher ground. There is a state of emergency in Wellington region.
-
-Heavy rains are expected to continue. If you are in an affected area:
-
-* monitor local news and weather reports
-* confirm your flight before going to the airport
-* follow the instructions of local authorities
-
-#### Useful links
-
-* [Weather Warnings and Watches](https://www.metservice.com/warnings/home) – MetService
-* [Weather update and safety warnings in the Capital](https://wellington.govt.nz/news-and-events/news-and-information/our-wellington/2026/04/weather-20-april-2026) – Wellington City Council
-
 ### Climate change
 
 Climate change is affecting New Zealand. Extreme and unusual weather events are becoming more frequent and may affect your travel plans. Monitor local media for the latest information.
@@ -48,10 +22,13 @@ If you decide to travel to New Zealand during the cyclone season:
 
 ### Landslides
 
-Severe rainstorms can lead to flooding and landslides. Flooding and landslides have resulted in significant loss of life and extensive damage to infrastructure. These events hamper the provision of essential services. Disruptions to air services and to water and power supplies may also occur.
+Severe rainstorms can lead to flooding and landslides, commonly called landslips in New Zealand. Landslips are a frequent hazard due to steep terrain, unstable soil and heavy rainfall, particularly in hilly, mountainous and coastal areas. They can occur unexpectedly, even after rainfall has stopped.
+
+Flooding and landslides have resulted in significant loss of life and extensive damage to infrastructure. These events hamper the provision of essential services can create additional hazards such as falling debris and unstable terrain. Disruptions to air services and to water and power supplies may also occur.
 
 * Keep informed of regional weather forecasts
-* Avoid disaster areas
+* Exercise caution when travelling during or after heavy rainfall, especially in areas prone to landslips
+* Avoid disaster-affected areas
 * Follow the instructions of local authorities
 
 #### Useful links

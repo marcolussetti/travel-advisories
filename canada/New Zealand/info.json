@@ -1,7 +1,7 @@
 {
     "name": "New Zealand",
-    "update_reason": "Health \u2013 Travel health notice for COVID-19 removed",
-    "update_date": "2026-04-27T09:33:00",
+    "update_reason": "Natural disasters and climate \u2013 removed information on flooding and landslips",
+    "update_date": "2026-04-29T16:27:00",
     "sections": {
         "risk": "canada/New Zealand/risk.md",
         "security": "canada/New Zealand/security.md",

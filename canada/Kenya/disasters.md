@@ -2,6 +2,10 @@
 
 ## Natural disasters and climate
 
+### Climate change
+
+Climate change is affecting Kenya. Extreme and unusual weather events are becoming more frequent and may affect your travel plans. Monitor local media for the latest information.
+
 ### Rainy seasons and droughts
 
 Since March 2026, heavy rains have caused severe flooding and landslides across the country, resulting in casualties, displaced persons, and significant damage to buildings and infrastructure.
@@ -23,16 +27,15 @@ If you're in or around an affected area:
 
 [Kenya Meteorological Departnement](https://meteo.go.ke/) – Government of Kenya
 
-Drought is the most prevalent natural hazard in Kenya affecting mainly the eastern, north eastern and coast area, as well as parts of the Rift Valley.
+Drought mainly affects the eastern, northeastern and coastal areas, as well as parts of the Rift Valley.
 
-There are normally two rainy seasons in Kenya: from October to November, and from late March to mid-June. Seasonal flooding, including flash flooding,  and mudslides can hamper overland travel and reduce the provision of essential services. Roads may become impassable and bridges damaged.
+The two rainy seasons usually extend from October to November, and then again from March to mid-June. This can vary from year to year due to climate change. Seasonal flooding, including flash flooding and mudslides, can hamper overland travel and reduce the provision of essential services, even in large cities. Roads may become impassable due to flash floods, mudslides and landslides. Infrastructure may be damaged.
 
-If you reside in or are travelling to affected areas:
-
-* exercise caution
-* monitor local news and weather reports
-* follow the advice of local authorities
+* monitor local media for the latest information, including on road conditions
+* stay away from flooded areas
+* monitor weather reports
+* follow the advice of local authorities, including evacuation orders
 
 ### Volcanoes and earthquakes
 
-Natural disasters are possible due to regional volcanic and seismic activity. While there have not been any recent incidents, pay careful attention to all warnings issued.
+Kenya is in an active seismic zone. While there have not been any recent incidents, earthquakes and volcanic activity may occur.

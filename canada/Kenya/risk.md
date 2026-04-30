@@ -22,11 +22,11 @@ The features in this map do not constitute an authoritative source of geographic
 
 ### Border with Somalia - Avoid all travel
 
-[Avoid all travel](#levels "Risk Levels") to Mandera, Wajir, Garissa and Lamu counties bordering Somalia, due to a risk of kidnapping and attacks.
+[Avoid all travel](#levels "Risk Levels") to Mandera, Wajir, Garissa and Lamu counties bordering Somalia, due to a risk of terrorist attacks, kidnapping and armed attacks. This advisory excludesLamu Island and Manda Island where you should exercise a high degree of caution.
 
 ### Border with South Sudan and Ethiopia - Avoid all travel
 
-[Avoid all travel](#levels "Risk Levels") to Turkana and Marsabit counties, within 110 km of the borders with South Sudan and Ethiopia, due to armed banditry and cross-border violence.
+[Avoid all travel](#levels "Risk Levels") to Turkana and Marsabit counties, within 110 km of the borders with South Sudan and Ethiopia, due to the risk of terrorism, kidnapping, armed banditry and cross-border violence.
 
 ### Regional advisory - Avoid all travel
 
@@ -37,4 +37,4 @@ The features in this map do not constitute an authoritative source of geographic
 
 ### Neighbourhoods of Nairobi - Avoid non-essential travel
 
-[Avoid non-essential travel](#levels "Risk Levels") to the neighbourhoods of Eastleigh, Kibera and Pangani, in Nairobi, due to the high crime rate.
+[Avoid non-essential travel](#levels "Risk Levels") to Avoid non-essential travel to the neighbourhoods of Eastleigh, Kibera and Pangani in Nairobi, due to the high crime rate.

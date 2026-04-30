@@ -8,7 +8,7 @@ Learn about what you should do and how we can help if you are [arrested or detai
 
 ### Photography
 
-It is prohibited to photograph or videotape government buildings or military personnel, equipment and installations.
+It is prohibited to photograph or film government buildings or military personnel, equipment and facilities.
 
 Avoid photographing individuals without their permission.
 
@@ -22,9 +22,9 @@ Individuals charged with drug offences can expect to remain in jail and to be de
 
 ### Dress and behaviour
 
-The dress code in Lebanon is more relaxed than most Middle Eastern countries.
+The dress code in Lebanon is more relaxed than in most Middle Eastern countries.
 
-To avoid offending local sensitivities:
+However, to avoid offending local sensitivities:
 
 * dress conservatively
 * behave discreetly
@@ -89,10 +89,8 @@ Be aware that Canadian consular officials cannot interfere in private legal matt
 
 ### Money
 
-The currency is the Lebanese pound (LBP).
+The currency is the Lebanese pound (LBP), but the US dollar is widely accepted. The economy is mainly cash-based in Lebanon. Many stores and companies accept credit/debit cards.
 
-There is also a severe shortage of foreign currency. It is very difficult to access US Dollars locally. Change in foreign currency may not be available. While ATMs are generally stocked with Lebanese Pounds, there may be limits on daily withdrawals imposed by certain banks.
+Foreign currencies, especially US dollars, can be exchanged at licensed money exchange bureaus*,* but not at banks.
 
-Many stores and companies no longer accept credit/debit cards.
-
-Traveller’s cheques are not accepted and will not be changed by local financial institutions.
+While ATMs are generally stocked with Lebanese pounds and US dollars, there may be limits on daily withdrawals imposed by certain banks.
