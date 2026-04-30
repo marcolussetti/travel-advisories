@@ -28,8 +28,6 @@ Irish citizens transiting through the Gulf should be aware that flights can be s
 
 If you wish to leave Qatar, it is currently possible to do so via commercial flights.
 
-While Qatari airspace operations remain limited, some flights are operating out of Hamad International Airport in Doha, including to some European capitals. There is currently no direct flight to Dublin but we remain in contact with Qatar Airways to evaluate options.
-
 **Citizens should note that travel may be subject to change at short notice. Check for the latest updates from your airline directly.**
 
 Irish citizens in need of consular assistance should contact the Embassy of Ireland in the United Arab Emirates on +971 2 495 8200.

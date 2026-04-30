@@ -6,27 +6,29 @@ Do Not Travel
 
 ### **Travel Alert**
 
+**The Department of Foreign Affairs and Trade strongly advises against all travel to Mali at this time due to security concerns**.
+
 On 25 April 2026, A series of coordinated attacks occurred in multiple locations including Kidal, Gao, Kati, Sevare and in the vicinity of Bamako International Airport.
 
 The situation in Mali remains volatile, and events could escalate throughout the country with little warning.
 
-Bamako International Airport is now open, although some flights are operating with delays or cancellations. If you plan to travel, check with your airline for the latest information before leaving. Irish citizens are advised to leave Mali if it is safe to do so.
+Bamako International Airport is open, and some commercial flights are operating. If you plan to travel, check with your airline for the latest information before leaving as some flights are experiencing delays and cancellations. Irish citizens are advised to leave Mali by air immediately if it is safe to do so.
 
-Local authorities have imposed a curfew in the district of Bamako from 21:00 to 06:00 until the morning of 28th April. Movement is restricted during these hours. You should adhere to the curfew, limit your movements including by avoiding all overland travel, and follow the advice of local authorities. Monitor local and international media to remain informed of developments.
+Do not attempt to leave Mali by overland routes due to terrorist presence on national highways. Terrorist group Jama’a Nusrat ul-Islam wa al-Muslimin (JNIM) has implemented blockades on key routes throughout Southern and Western Mali, including Bamako. Attacks can occur at any time.
 
-If you are in Mali, you should avoid crowded places and areas of military or police activity, and follow guidance issued by local authorities. Avoid any road blockades set up by police and security forces.
+If you are in Mali, you should avoid crowded places and areas of military or police activity, and follow guidance issued by local authorities. Avoid overland travel, including any road blockades set up by police and security forces.
 
-The [Embassy of Ireland in Senegal](https://www.ireland.ie/en/senegal/dakar/) is monitoring the evolving situation.
+The [**Embassy of Ireland in Senegal**](https://www.ireland.ie/en/senegal/dakar/) is monitoring the situation.
 
-Irish citizens in Mali are advised to register with the Embassy of Ireland in Senegal using the [Citizens Registration service](https://www.ireland.ie/en/dfa/overseas-travel/citizens-registration/) as soon as possible. Citizens should be aware that, in the event that the political or security situation deteriorates further, we do not have an Embassy or Consular in Bamako and the Embassy in Senegal is likely to be very limited in the assistance that can be provided.
-
-We continue to advise against all travel to Mali.
+Irish citizens in Mali are strongly advised to register with the Embassy of Ireland in Senegal using the [**Citizens Registration service**](https://www.ireland.ie/en/dfa/overseas-travel/citizens-registration/). Citizens should be aware that, in the event that the political or security situation deteriorates further, we do not have an Embassy or Consular in Bamako and the Embassy in Senegal is likely to be very limited in the assistance that can be provided.
 
 ### **General Travel Advice**
 
 **The Department of Foreign Affairs and Trade strongly advises against all travel to Mali at this time due to security concerns**.
 
 Several terrorist groups operate in Mali, including Jama’a Nusrat ul-Islam wa al-Muslimin (JNIM) and Islamic State Sahel Province (ISSP).
+
+There is a high threat of kidnapping and criminal activity across Mali, including in the capital, Bamako.
 
 Irish citizens require a visa to enter Mali.
 

@@ -15,7 +15,7 @@ Owing to civil unrest, violent crime, and kidnapping, the security status of ‘
 
 **Owing to significant criminal activity drug trafficking, and high risk of violence, the Embassy advises to avoid all travel to:**
 
-* Within 20km of the **border with Colombia**, except for the official border-crossing town of Tulcan in Carchi province. In particular, avoid travel to Carchi and Sucumbíos;
+* Within 20km of the **border with Colombia**, in particular the provinces of Carchi (except for the official border-crossing town of Tulcan in Carchi province ) and Sucumbíos;
 * **Minefields** near the southern portion of the border with Peru, in particular Chinchipe, El Pangui, Nangaritza, and Yantzaza;
 * **Esmeraldas**, **El Oro**, **Guayas**, and **Los Ríos** provinces.
 
@@ -56,7 +56,17 @@ The state of emergency allows the military and police to:
 * read private mail and phone records;
 * enter private properties without permission.
 
-To note, a curfew may will apply in some provinces.
+To note, a curfew from **23:00 to 05:00** applies in the following provinces and cantons from **03 May 2026 to 18 May 2026**:
+
+* Guayas;
+* Santa Elena;
+* Manabí;
+* Pichincha;
+* Esmeraldas;
+* Santa Domingo de los Tsáchilas y Sucombíos;
+* La Maná (in the province of Cotopaxi);
+* Las Naves (in the province of Bolívar);
+* La Troncal (in the province of Cañar).
 
 Should you need to travel to or from the airport during curfew hours, this is permissible by presenting evidence of a flight booking reservation.
 
