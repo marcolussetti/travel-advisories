@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   9 April 2026
+:   30 April 2026
 
 Updated:
-:   8 April 2026
+:   29 April 2026
 
 Latest update:
-:   Updated information that the State of Emergency has been renewed for 60 days ('Warnings and insurance' page).
+:   Addition of information that a curfew will be in place across a number of provinces from 3 to 18 May ('Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/65a1082ce96df50014f8452c/FCDO__TA__014_-_Ecuador_Travel_Advice_Ed5__WEB_.jpg)
 
@@ -61,6 +61,12 @@ A 60-day state of emergency (SOE) was renewed on 2 April 2026 due to internal di
 * Cañar (cantón La Troncal)
 
 Due to the current SOE, expect heightened police and military presence nationwide without previous notice, and potential travel disruptions due to extra security checks.
+
+## Curfew
+
+A curfew will be in effect from 3 May to 18 May, between 11pm and 5am, in the provinces listed above that are under a SOE.
+
+Travellers with a valid boarding pass going to or coming from the airport during those hours are exempt from the curfew.
 
 ## Before you travel
 

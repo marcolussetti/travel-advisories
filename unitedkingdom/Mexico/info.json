@@ -1,11 +1,11 @@
 {
     "name": "Mexico",
-    "update_reason": "New information about disruption in the North of Nayarit state, following operations against organised crime (\u2018Warnings and insurance\u2019 page).",
+    "update_reason": "Removal of information about disruption in the North of Nayarit state, following operations against organised crime (\u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Mexico/Warnings and insurance.md",
-            "update_date": "2026-04-28T10:53:37+01:00"
+            "update_date": "2026-04-29T11:11:20+01:00"
         },
         {
             "title": "Entry requirements",
@@ -38,5 +38,5 @@
             "file": "unitedkingdom/Mexico/Getting help.md"
         }
     ],
-    "update_date": "2026-04-28T10:53:37+01:00"
+    "update_date": "2026-04-29T11:11:20+01:00"
 }

@@ -1,11 +1,11 @@
 {
     "name": "Ecuador",
-    "update_reason": "Updated information that the State of Emergency has been renewed for 60 days ('Warnings and insurance' page).",
+    "update_reason": "Addition of information that a curfew will be in place across a number of provinces from 3 to 18 May ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Ecuador/Warnings and insurance.md",
-            "update_date": "2026-04-08T09:42:46+01:00"
+            "update_date": "2026-04-29T15:33:22+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Ecuador/Getting help.md"
         }
     ],
-    "update_date": "2026-04-08T09:42:46+01:00"
+    "update_date": "2026-04-29T15:33:22+01:00"
 }

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   29 April 2026
+:   30 April 2026
 
 Updated:
-:   28 April 2026
+:   29 April 2026
 
 Latest update:
-:   New information about disruption in the North of Nayarit state, following operations against organised crime (‘Warnings and insurance’ page).
+:   Removal of information about disruption in the North of Nayarit state, following operations against organised crime (‘Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/69a1c6c8ec82ce45f05bd70e/FCDO__TA__065_-_Mexico_Travel_Advice_Ed5__WEB_.jpg)
 
@@ -112,10 +112,6 @@ Find out more about [why FCDO advises against travel to these areas](/foreign-tr
 Mexico is co-hosting the 2026 World Cup which takes place between 11 June and 19 July.
 
 If you are planning to travel to Mexico during these times, see the [World Cup page](https://www.gov.uk/foreign-travel-advice/mexico/world-cup-2026) for more information.
-
-## Disruption in the North of Nayarit State
-
-On 27 April, there were reports of arson attacks and roadblocks in northern Nayarit, following an operation by the Mexican authorities against organised crime groups. Some municipalities, such as Tecuala and Acaponeta issued instructions to shelter in place. If you are in the area, monitor local media and follow the instructions of local authorities.
 
 ## Before you travel
 
