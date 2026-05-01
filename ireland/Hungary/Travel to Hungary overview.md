@@ -4,31 +4,6 @@
 
 Normal Precautions
 
-### **Travel Alert**
-
-#### **2026 Parliamentary election in Hungary**
-
-On 12 April 2026, a parliamentary election will be held in Hungary.
-
-There could be rallies and other mass gatherings, before and after the elections. Local authorities may strengthen security measures. It may take longer to get around than usual, especially in Budapest.
-
-If you are in Hungary:
-
-* avoid demonstrations and large gatherings
-* expect an increased presence of security forces
-* monitor local media to stay informed of developments
-* follow the instructions of local authorities
-
-#### **UK ETA**
-
-**Exemption for Irish Citizens, including Irish dual citizens, travelling to, or transiting through, the UK, the Channel Islands or the Isle of Man from outside the Common Travel Area:**
-
-The UK has introduced a new Electronic Travel Authorisation (ETA) for people travelling to, or transiting through, the UK, the Channel Islands, or the Isle of Man from outside the Common Travel Area. **Irish citizens, including Irish dual citizens, do not need and therefore are ineligible to apply for an ETA. Under UK entry requirements, you must present a valid Irish passport at UK border control to demonstrate that you are exempt from the ETA requirement**.
-
-You are advised to check your passport validity, and where necessary, apply for an Irish passport, well in advance of any travel. Where travel is required owing to an emergency, Irish citizens, including Irish dual citizens, who are not in possession of a valid Irish passport can contact the Embassy of Ireland in Budapest for advice.
-
-Further information on the ETA is available at [Get an electronic travel authorisation (ETA) to visit the UK: Overview - GOV.UK](https://www.gov.uk/eta)
-
 ### **General Travel Advice**
 
 Irish citizens need a valid passport or passport card to enter Hungary.

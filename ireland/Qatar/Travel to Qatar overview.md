@@ -38,16 +38,6 @@ Irish citizens in Qatar should register with the Department via the [**Citizens 
 
 For further updates, please monitor the Department’s travel advice and social media channels, as well as the Embassy of Ireland's social media channels on [**X**](https://x.com/IrelandEmbUAE), [**Instagram**](https://www.instagram.com/irelandembuae?igsh=bnRnYjQ0Mmt4OG50), and [**Facebook**](https://www.facebook.com/share/1Aek6yo4tR/?mibextid=wwXIfr)**.**
 
-#### **UK ETA**
-
-**Exemption for Irish Citizens, including Irish dual citizens, travelling to, or transiting through, the UK, the Channel Islands or the Isle of Man from outside the Common Travel Area:**
-
-The UK has introduced a new Electronic Travel Authorisation (ETA) for people travelling to, or transiting through, the UK, the Channel Islands, or the Isle of Man from outside the Common Travel Area. **Irish citizens, including Irish dual citizens, do not need and therefore are ineligible to apply for an ETA. Under UK entry requirements, you must present a valid Irish passport at UK border control to demonstrate that you are exempt from the ETA requirement**.
-
-You are advised to check your passport validity, and where necessary, apply for an Irish passport, well in advance of any travel. Where travel is required owing to an emergency, Irish citizens, including Irish dual citizens, who are not in possession of a valid Irish passport can contact the Embassy of Ireland in Abu Dhabi for advice.
-
-Further information on the ETA is available at [Get an electronic travel authorisation (ETA) to visit the UK: Overview - GOV.UK](https://www.gov.uk/eta)
-
 ### **General Travel Advice**
 
 Irish citizens can obtain a free 30-day visa waiver to enter the country on arrival in Qatar.

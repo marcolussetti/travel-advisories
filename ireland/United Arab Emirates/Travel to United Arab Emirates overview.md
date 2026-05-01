@@ -38,12 +38,6 @@ Irish citizens in the UAE should register with the Department via the [**Citizen
 
 For further updates, please monitor the Department’s travel advice and social media channels, as well as the Embassy of Ireland's social media channels on [**X**](https://x.com/IrelandEmbUAE), [**Instagram**](https://www.instagram.com/irelandembuae?igsh=bnRnYjQ0Mmt4OG50), and [**Facebook**](https://www.facebook.com/share/1Aek6yo4tR/?mibextid=wwXIfr).
 
-#### **UK ETA**
-
-**Exemption for Irish Citizens, including Irish dual citizens, travelling to, or transiting through, the UK, the Channel Islands or the Isle of Man from outside the Common Travel Area:**
-
-The UK has introduced a new Electronic Travel Authorisation (ETA) for people travelling to, or transiting through, the UK, the Channel Islands, or the Isle of Man from outside the Common Travel Area. **Irish citizens, including Irish dual citizens, do not need and therefore are ineligible to apply for an ETA. Under UK entry requirements, you must present a valid Irish passport at UK border control to demonstrate that you are exempt from the ETA requirement**.
-
 You are advised to check your passport validity, and where necessary, apply for an Irish passport, well in advance of any travel. Where travel is required owing to an emergency, Irish citizens, including Irish dual citizens, who are not in possession of a valid Irish passport can contact the Embassy of Ireland in Abu Dhabi, or nearest Consulate, for advice.
 
 Please contact the [**Federal Authority for Identity, Citizenship, Customs, and Security**](https://icp.gov.ae/en/contact-us/) to check your travel ban status in the UAE.
