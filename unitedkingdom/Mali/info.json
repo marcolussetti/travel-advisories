@@ -1,11 +1,11 @@
 {
     "name": "Mali",
-    "update_reason": "New information on the 25 April attacks on the \u2018Warnings and insurance\u2019 page",
+    "update_reason": "Updated information on imposed curfew in the district of Bamako     ('Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Mali/Warnings and insurance.md",
-            "update_date": "2026-04-26T13:08:12+01:00"
+            "update_date": "2026-04-30T09:31:45+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Mali/Getting help.md"
         }
     ],
-    "update_date": "2026-04-26T13:08:12+01:00"
+    "update_date": "2026-04-30T09:31:45+01:00"
 }
