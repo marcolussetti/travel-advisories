@@ -26,6 +26,20 @@ While the state of emergency is in effect, security forces have the power to:
 * conduct raids, inspections and searches
 * prohibit assembly
 
+A curfew will also be in effect in the above-noted locations from May 3 to 18, 2026, from 11 pm to 5 am.
+
+* Pedestrian and vehicular movement is prohibited during curfew hours
+* Controls will be carried out by the National Police and the Armed Forces
+* Sanctions, including detentions, may be imposed on those who fail to comply
+
+Only the following people may circulate during curfew hours if properly accredited:  
+
+* healthcare personnel
+* security forces
+* essential and emergency services personnel
+
+The curfew will not affect travel to and from the international airports in Quito and Guayaquil. Passengers must present a boarding pass or airline ticket, along with a passport or Ecuadorian national ID card.
+
 If you are in Ecuador:
 
 * expect an increased police and military presence

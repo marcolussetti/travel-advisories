@@ -22,10 +22,10 @@ If you decide to travel to Brunei during the monsoon seasons:
 
 * [Tornadoes, cyclones, hurricanes, typhoons and monsoons](https://travel.gc.ca/travelling/health-safety/hurricanes-typhoons-cyclones-monsoons)
 * [Large-scale emergencies abroad](https://travel.gc.ca/assistance/emergency-info/large-scale-emergencies-abroad)
-* [Local weather updates](http://www.bruneiweather.com.bn/) - Brunei Meteorological Department
+* [Local weather updates](http://www.bruneiweather.com.bn/) – Brunei Meteorological Department
 
 ### Pollution
 
 Unrestricted burning in neighbouring Indonesia periodically causes atmospheric pollution to rise to unhealthy levels. Pollutant standard index levels (PSI reading) change quickly and you should closely monitor them by consulting local news and weather reports.
 
-[PSI readings](http://www.env.gov.bn/Theme/Home.aspx) - Department of Environment, Parks and Recreation of Brunei
+[PSI readings](http://www.env.gov.bn/Theme/Home.aspx) – Department of Environment, Parks and Recreation of Brunei

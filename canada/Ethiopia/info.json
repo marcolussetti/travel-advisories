@@ -1,7 +1,7 @@
 {
     "name": "Ethiopia",
-    "update_reason": "Health \u2013 Travel health notice for COVID-19 removed",
-    "update_date": "2026-04-27T09:33:00",
+    "update_reason": "Editorial change",
+    "update_date": "2026-04-30T12:31:00",
     "sections": {
         "risk": "canada/Ethiopia/risk.md",
         "security": "canada/Ethiopia/security.md",

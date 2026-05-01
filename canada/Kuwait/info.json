@@ -1,7 +1,7 @@
 {
     "name": "Kuwait",
-    "update_reason": "Risk level, Safety and security \u2013 updated airspace status",
-    "update_date": "2026-04-28T09:26:00",
+    "update_reason": "Editorial change",
+    "update_date": "2026-04-30T09:22:00",
     "sections": {
         "risk": "canada/Kuwait/risk.md",
         "security": "canada/Kuwait/security.md",
