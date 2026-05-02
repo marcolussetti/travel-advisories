@@ -2,6 +2,21 @@
 
 ## Safety and security
 
+### Large public concert in Rio de Janeiro
+
+A large public concert is scheduled to take place on Copacabana Beach in Rio de Janeiro on May 2, 2026. Up to 2 million attendees are expected, and heightened security measures may be in place.
+
+Expect road closures, traffic congestion and disruptions to public transportation in the surrounding areas.
+
+If you plan to attend or will be in the affected area:
+
+* expect a strong security presence
+* allow extra time to reach your destination
+* be aware of your surroundings, including nearby exit routes
+* follow the instructions of local authorities and event staff
+
+[Mass gatherings (large-scale events)](https://travel.gc.ca/travelling/health-safety/mass-gatherings)
+
 ### Border areas
 
 Criminal activity related to drug trafficking and arms smuggling poses a threat to your personal security.
