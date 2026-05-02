@@ -1,8 +1,12 @@
 ## Embassy contact
 
-There is no Irish Embassy in Suriname. However, if assistance is needed, please contact the Irish Embassy in Brazil.
+There is no Irish Embassy in Guyana. However, if assistance is needed, please contact [the Irish Embassy in Brazil](/en/brazil/brasilia/).
 
-Monday to Friday 09:00-12:00
+If you are in need of emergency assistance, please contact the Embassy at [+55 61 3248 8800](tel:+556132488800) and leave a message on the answering machine.
+
+The answering machine is monitored regularly and the Duty Officer will contact you as soon as possible.
+
+Monday to Friday 09:00 to 12:00
 
 ### Embassy of Ireland, Brazil
 
@@ -12,7 +16,7 @@ Brasília - DF
 CEP 71630-255   
 Brazil
 
-[Tel: +55 11 3149-7629](tel:+5511 3149-7629)
+[Tel: +55 61 3248 8800](tel:+5561 3248 8800)
 
 Fax: +55 61 3248 8816
 

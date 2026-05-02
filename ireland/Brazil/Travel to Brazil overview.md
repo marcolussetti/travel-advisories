@@ -6,16 +6,6 @@ High Degree of Caution
 
 ### **Travel Alert**
 
-#### **UK ETA**
-
-**Exemption for Irish Citizens, including Irish dual citizens, travelling to, or transiting through, the UK, the Channel Islands or the Isle of Man from outside the Common Travel Area:**
-
-The UK has introduced a new Electronic Travel Authorisation (ETA) for people travelling to, or transiting through, the UK, the Channel Islands, or the Isle of Man from outside the Common Travel Area. **Irish citizens, including Irish dual citizens, do not need and therefore are ineligible to apply for an ETA. Under UK entry requirements, you must present a valid Irish passport at UK border control to demonstrate that you are exempt from the ETA requirement**.
-
-You are advised to check your passport validity, and where necessary, apply for an Irish passport, well in advance of any travel. Where travel is required owing to an emergency, Irish citizens, including Irish dual citizens, who are not in possession of a valid Irish passport can contact the Embassy of Ireland in Brasília , or nearest Consulate, for advice.
-
-Further information on the ETA is available at [Get an electronic travel authorisation (ETA) to visit the UK: Overview - GOV.UK](https://www.gov.uk/eta)
-
 #### **Methanol poisoning**
 
 There have been recent cases of death and severe illness in Brazil from alcoholic drinks laced with methanol. Be vigilant when buying spirit-based drinks, particularly whiskey, gin, or vodka. If you feel ill within 12 – 24 hours of consuming an alcoholic drink, seek medical assistance.
@@ -42,7 +32,7 @@ Visitors can contact the emergency services in Brazil by dialling the following 
 
 Tourist Police who speak English are available in Rio de Janeiro, São Paulo and at some major airports
 
-**Any Irish citizen requiring assistance should contact the Irish Embassy in Brasília or Consulate General in São Paulo. Irish citizens can also reach the out of hours emergency service by calling +55 11 3149 7629.**
+**Any Irish citizen requiring assistance should contact the Irish Embassy in Brasília or Consulate General in São Paulo. Irish citizens can also reach the out of hours emergency service by calling +55 61 3248 8800.**
 
 ### **Our Tips for Safe Travels:**
 
