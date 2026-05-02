@@ -28,6 +28,10 @@ Illegal drugs, including cannabis, carry severe penalties. You should expect a 
 
 Airports in Norway have excellent technology and security for detecting illegal items. This is also used to scan the baggage of transiting passengers.
 
+### Drones
+
+To fly any type of drone in Norway you need to be registered as an operator in either Norway or an EU/EFTA country and have liability insurance. Other conditions apply and certain areas are no fly zones. Familiarise yourself with local requirements at [Norwegian civil aviation authority website](https://www.luftfartstilsynet.no/en/drones/).
+
 ## Outdoor activities and adventure tourism
 
 Get information about the risk of avalanches from the [Norwegian Avalanche Warning Service](http://www.varsom.no/en/) or the [European Avalanche Warning Services](http://www.avalanches.org/).

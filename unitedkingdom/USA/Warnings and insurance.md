@@ -1,19 +1,15 @@
 # Warnings and insurance
 
 Still current at:
-:   14 March 2026
+:   2 May 2026
 
 Updated:
-:   13 March 2026
+:   1 May 2026
 
 Latest update:
-:   Additional information about existing entry requirements and new information on possible travel disruption ('Warnings and insurance' and 'Entry requirements' pages).
+:   Removal of information on possible travel disruption ('Warnings and insurance' page).
 
 This travel advice also covers American Samoa, Guam, Northern Mariana Islands, Puerto Rico, and United States Virgin Islands.
-
-## Travel disruption
-
-There could be longer than usual queues at some US airports due to a partial US government shutdown. Check with your travel provider, departure airport or airline for the latest guidance.
 
 ## World Cup 2026
 

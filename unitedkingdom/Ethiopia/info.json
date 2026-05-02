@@ -1,11 +1,11 @@
 {
     "name": "Ethiopia",
-    "update_reason": "Addition of information about fuel shortages ('Safety and security' page).",
+    "update_reason": "Updated information about applying for a visa and addition of information about a nationwide general election being held on 1 June ('Entry requirements' and 'Safety and security' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Ethiopia/Warnings and insurance.md",
-            "update_date": "2026-04-07T16:30:08+01:00"
+            "update_date": "2026-05-01T13:52:47+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Ethiopia/Getting help.md"
         }
     ],
-    "update_date": "2026-04-07T16:30:08+01:00"
+    "update_date": "2026-05-01T13:52:47+01:00"
 }

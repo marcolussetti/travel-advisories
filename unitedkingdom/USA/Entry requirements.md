@@ -6,7 +6,7 @@ You must have the correct approval prior to travel. This will be either a vali
 
 US authorities enforce entry rules strictly. If you do not have the correct immigration status, or if you breach the terms of your entry, there is a risk you may be detained, refused entry, or removed (deported). Overstaying your permitted time in the US can also lead to detention and future bans on re-entry.
 
-A valid ESTA or visa does not guarantee you will be allowed to enter the US. Authorities may refuse you entry if, for example, they believe you do not plan to stay longer than permitted or have provided inaccurate or incomplete information. The US may change the conditions to travel to the US at any time without prior notice.
+A valid ESTA or visa does not guarantee you will be allowed to enter the US. Authorities may refuse you entry if, for example, they believe you plan to stay longer than permitted or have provided inaccurate or incomplete information. The US may change the conditions to travel to the US at any time without prior notice.
 
 If you’re not sure how these requirements apply to you, contact the US Embassy or a consulate in the UK. See information from [US Customs and Border Protection](https://www.cbp.gov/travel/international-visitors) on entry for international visitors.
 

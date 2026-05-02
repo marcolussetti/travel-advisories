@@ -38,6 +38,10 @@ Terrorist group Al-Shabaab, based in Somalia, poses a threat across East Africa.
 
 ## Political situation
 
+### Elections
+
+A nationwide general election is due to be held on 1 June 2026. Stay away from large gatherings and demonstrations and follow advice of the local authorities.
+
 ### Conflict and violence
 
 Tensions are high between Ethiopia and Eritrea, the security situation in Northern Ethiopia may deteriorate quickly.

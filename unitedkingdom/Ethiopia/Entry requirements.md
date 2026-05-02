@@ -29,7 +29,7 @@ You will need to provide a scanned colour copy of your passport and a colour pas
 
 If you visit Ethiopia on a tourist visa, you cannot take employment, including voluntary employment. If you break the rules, you can get heavy fines or be imprisoned.
 
-[Check what type of visa you need](https://www.evisa.gov.et/) for business, work, study or other reasons.
+[Check what type of visa you need](https://www.evisa.gov.et/) for business, work, study or other reasons. Journalists will also need to obtain Media Arrival entry clearance via the [Arrival Clearance Portal](https://arrivalclearance.gov.et/).
 
 You can apply for an official extension of 30 or 90 more days before your visa expires. You need to go in person to the Head Office of the Immigration and Citizenship Service in Addis Ababa.
 

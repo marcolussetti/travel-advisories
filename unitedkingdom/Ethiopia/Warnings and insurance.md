@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   8 April 2026
+:   2 May 2026
 
 Updated:
-:   7 April 2026
+:   1 May 2026
 
 Latest update:
-:   Addition of information about fuel shortages ('Safety and security' page).
+:   Updated information about applying for a visa and addition of information about a nationwide general election being held on 1 June ('Entry requirements' and 'Safety and security' page).
 
 ![](https://assets.publishing.service.gov.uk/media/6983415b20fe1bb69ac243ed/FCDO__TA__017_-_Ethiopia_Travel_Advice_Ed42__WEB_.jpg)
 
