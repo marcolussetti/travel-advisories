@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   1 May 2026
+:   3 May 2026
 
 Updated:
-:   30 April 2026
+:   2 May 2026
 
 Latest update:
-:   Updated information on imposed curfew in the district of Bamako ('Warnings and insurance’ page).
+:   Removal of information about curfew that finished on 1 May. (Warnings and insurance)
 
 ![](https://assets.publishing.service.gov.uk/media/690369fee2ebc0fb39a51ffc/FCDO_TA_026_-_Mali_Travel_Advice_Ed7_WEB.jpg)
 
@@ -41,8 +41,6 @@ Find out more about [why FCDO advises against travel](https://www.gov.uk/fore
 A series of coordinated attacks occurred in multiple locations including Kidal, Gao, Kati, Severe and in the vicinity of Bamako International Airport on 25th April.
 
 Bamako International Airport is now open, although some flights are operating with delays or cancellations. If you plan to travel, check with your airline for the latest information before leaving.
-
-Local authorities have imposed a curfew in the district of Bamako from 9pm to 6am in the morning of 1st May. Movement is restricted during these hours. You should adhere to the curfew, limit your movements, and follow the advice of local authorities.
 
 If you are in Mali, you should leave immediately by commercial flight if you judge safe to do so. You should avoid crowded places and areas of military or police activity, and follow guidance issued by local authorities. Avoid any road blockades set up by police and security forces.
 
