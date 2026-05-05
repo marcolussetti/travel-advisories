@@ -1,7 +1,7 @@
 {
     "name": "Japan",
-    "update_reason": "Editorial change",
-    "update_date": "2026-04-30T12:30:00",
+    "update_reason": "Health \u2013 Information about typhoid fever removed",
+    "update_date": "2026-05-04T14:44:00",
     "sections": {
         "risk": "canada/Japan/risk.md",
         "security": "canada/Japan/security.md",

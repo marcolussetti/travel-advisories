@@ -1,7 +1,7 @@
 {
     "name": "Uruguay",
-    "update_reason": "Editorial change",
-    "update_date": "2026-04-30T12:41:00",
+    "update_reason": "Health \u2013 Information about typhoid fever removed",
+    "update_date": "2026-05-04T15:02:00",
     "sections": {
         "risk": "canada/Uruguay/risk.md",
         "security": "canada/Uruguay/security.md",

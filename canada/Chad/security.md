@@ -2,20 +2,6 @@
 
 ## Safety and security
 
-### Demonstrations
-
-There are calls for demonstrations in N’Djamena on May 2, 2026. Even peaceful demonstrations can turn violent at any time. They can also lead to disruptions to traffic and public transportation.
-
-Local authorities may impose curfews and restrict movement without notice.
-
-If you are in Chad:
-
-* stay away from demonstrations and large gatherings
-* avoid areas around government buildings
-* expect heavy security measures and increased security presence
-* monitor local media for the latest information
-* follow the instructions of local authorities, including curfew orders
-
 ### Political Situation
 
 Following the death of the president of Chad in 2021, the Parliament was dissolved and a Transitional Military Council (TMC) was put in place. In October 2022, violent protests related to the ongoing political transition led to clashes with security forces. The events resulted in casualties, including in the city of N’Djamena.

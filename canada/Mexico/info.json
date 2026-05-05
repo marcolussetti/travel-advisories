@@ -1,7 +1,7 @@
 {
     "name": "Mexico",
-    "update_reason": "Editorial change",
-    "update_date": "2026-04-30T11:59:00",
+    "update_reason": "Health \u2013 Information about typhoid fever removed",
+    "update_date": "2026-05-04T14:50:00",
     "sections": {
         "risk": "canada/Mexico/risk.md",
         "security": "canada/Mexico/security.md",

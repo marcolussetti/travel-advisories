@@ -1,7 +1,7 @@
 {
     "name": "Liechtenstein",
-    "update_reason": "Health \u2013 Travel health notice for COVID-19 removed",
-    "update_date": "2026-04-27T09:33:00",
+    "update_reason": "The Health section was updated - travel health information (Public Health Agency of Canada)",
+    "update_date": "2026-05-04T10:10:00",
     "sections": {
         "risk": "canada/Liechtenstein/risk.md",
         "security": "canada/Liechtenstein/security.md",

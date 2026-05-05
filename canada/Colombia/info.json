@@ -1,7 +1,7 @@
 {
     "name": "Colombia",
-    "update_reason": "Safety and security \u2013 added information on terrorist attacks",
-    "update_date": "2026-04-29T13:37:00",
+    "update_reason": "Health \u2013 Information about typhoid fever removed",
+    "update_date": "2026-05-04T14:22:00",
     "sections": {
         "risk": "canada/Colombia/risk.md",
         "security": "canada/Colombia/security.md",

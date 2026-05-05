@@ -1,7 +1,7 @@
 {
     "name": "Chad",
-    "update_reason": "Safety and security \u2013 added information on demonstrations",
-    "update_date": "2026-05-01T15:50:00",
+    "update_reason": "Safety and security \u2013 removed information on demonstrations",
+    "update_date": "2026-05-04T11:49:00",
     "sections": {
         "risk": "canada/Chad/risk.md",
         "security": "canada/Chad/security.md",

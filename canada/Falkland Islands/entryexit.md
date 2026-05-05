@@ -55,7 +55,7 @@ You must present proof of comprehensive travel and medical insurance to enter th
 
 ### Departure tax
 
-You must pay a departure tax must in cash (in FKP, GBP, Euro or US dollars) at RAF Mount Pleasant Airport.
+You must pay a departure tax in cash (in FKP, GBP, Euro or US dollars) at RAF Mount Pleasant Airport.
 
 ### Yellow fever
 

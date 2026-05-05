@@ -1,7 +1,7 @@
 {
     "name": "San Marino",
-    "update_reason": "Health \u2013 Travel health notice for COVID-19 removed",
-    "update_date": "2026-04-27T09:33:00",
+    "update_reason": "Health \u2013 editorial change",
+    "update_date": "2026-05-04T10:10:00",
     "sections": {
         "risk": "canada/San Marino/risk.md",
         "security": "canada/San Marino/security.md",

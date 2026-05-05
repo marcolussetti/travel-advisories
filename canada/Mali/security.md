@@ -6,7 +6,7 @@
 
 The security situation is unpredictable and could deteriorate further. On April 25, 2026, armed groups conducted attacks in several locations across Mali, including Kidal, Gao, Kati and near Bamako International Airport, which could temporarily close. Curfews may be declared in many areas throughout Mali, including in Bamako.
 
-The entire country, including Bamako, remains vulnerable to terrorist attacks and the risk of kidnapping.
+The entire country, including Bamako, remains vulnerable to terrorist attacks and the risk of kidnapping. Armes groups have established roadblocks on roads to/from Bamako to limit travel to the capital.
 
 * Stay indoors during attacks and monitor local news to stay informed of the latest developments
 * Leave the country by commercial flights if it's possible and safe to do so

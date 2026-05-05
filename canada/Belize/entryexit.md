@@ -16,7 +16,7 @@ Before you travel, check with your transportation company about passport require
 
 #### Regular Canadian passport
 
-Your passport must be valid for a at least 6 months beyond the date you expect to leave Belize.
+Your passport must be valid for at least 6 months beyond the date you expect to leave Belize.
 
 #### Passport for official travel
 

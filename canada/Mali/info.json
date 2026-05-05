@@ -1,7 +1,7 @@
 {
     "name": "Mali",
-    "update_reason": "Safety and security \u2013 updated information on the ongoing security situation",
-    "update_date": "2026-04-28T14:52:00",
+    "update_reason": "Health \u2013 editorial change",
+    "update_date": "2026-05-04T10:39:00",
     "sections": {
         "risk": "canada/Mali/risk.md",
         "security": "canada/Mali/security.md",

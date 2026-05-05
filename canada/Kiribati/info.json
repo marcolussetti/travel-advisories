@@ -1,7 +1,7 @@
 {
     "name": "Kiribati",
-    "update_reason": "Health \u2013 Travel health notice for COVID-19 removed",
-    "update_date": "2026-04-27T09:33:00",
+    "update_reason": "Health \u2013 Information about typhoid fever added",
+    "update_date": "2026-05-04T14:06:00",
     "sections": {
         "risk": "canada/Kiribati/risk.md",
         "security": "canada/Kiribati/security.md",
