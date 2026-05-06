@@ -2,29 +2,25 @@
 
 Please note if assistance is required in the case of an emergency, please send a WhatsApp or SMS to +92 302 8563388 detailing the nature of the emergency and your personal details. A duty officer will respond as soon as possible. These messages will be monitored regularly.
 
-### **Embassy of Ireland, Pakistan**
+### Embassy of Ireland, Pakistan
 
-Serena Business Complex
+Level 06, West Wing   
+Serena Business Complex   
+Khayaban-e-Suhrwardy Rd   
+G-5/1 G-5   
+Islamabad
 
-Khayaban-e-Suhrawardy,
+[Contact us](/en/pakistan/islamabad/contact/)
 
-G-5/1, Islamabad
+### Embassy of Ireland, Pakistan
 
-[**Contact us**](https://www.ireland.ie/en/islamabad/contact/)
+Level 06, West Wing   
+Serena Business Complex   
+Khayaban-e-Suhrwardy Rd   
+G-5/1 G-5   
+Islamabad
 
-### **Honorary Consul, Karachi**
-
-Osman Asghar Khan  
- House number 91/1 1st Lower Commercial Street  
- Phase IV, Defence Housing Authority  
- Karachi 75500  
- Pakistan
-
-Tel: +92 21 35891181 - 82 - 83
-
-Fax: +92 21 35821184
-
-**E-mail:** **osman.khan@honoraryconsul.ie**
+[Contact us](/en/pakistan/islamabad/contact/)
 
 ### Honorary Consul of Ireland, Pakistan
 

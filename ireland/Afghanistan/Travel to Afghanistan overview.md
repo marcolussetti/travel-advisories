@@ -24,4 +24,4 @@ Operations at Kabul International Airport remain limited, although there are som
 * Read our [**‘Know Before You Go’**](https://www.ireland.ie/en/dfa/overseas-travel/know-before-you-go/) guide.
 * Read our [**Consular Assistance Charter**](https://www.ireland.ie/en/dfa/overseas-travel/assistance-abroad/consular-assistance-charter/) that clearly sets out the assistance that can be provided to citizens in difficulty overseas, and the limits of what the Department can do.
 
-As there is no Irish Embassy in Afghanistan, we are limited in the help we can offer you in an emergency. However, if you need assistance, you can contact the [**Embassy of Ireland, Pakistan**](https://www.ireland.ie/en/islamabad/)**.**
+As there is no Irish Embassy in Afghanistan, we are limited in the help we can offer you in an emergency. However, if you need assistance, you can contact the [**Embassy of Ireland, Pakistan**](/en/pakistan/islamabad/)**.**

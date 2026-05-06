@@ -2,7 +2,7 @@
 
 ### **Terrorism**
 
-The British authorities currently place the terrorist threat level for Great Britain at "substantial", the third highest alert level, which means an attack remains likely. There is still a global risk of indiscriminate terrorist attacks, which could be against civilian targets, including places frequented by tourists and expatriates. Additional security measures are in place at airports, throughout transportation networks and at high profiles venues in Great Britain. Travellers may experience delays.
+The British authorities currently place the terrorist threat level for Great Britain at "SEVERE", the fourth highest alert level out of five, which means an attack remains highly likely. There is still a global risk of indiscriminate terrorist attacks, which could be against civilian targets, including places of worship, large gatherings and demonstrations and areas frequented by tourists and expatriates. Additional security measures are in place at airports, throughout transportation networks and at high profiles venues in Great Britain. Travellers may experience delays as a result.
 
 ### **Crime**
 

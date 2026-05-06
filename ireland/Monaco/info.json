@@ -15,6 +15,10 @@
             "file": "ireland/Monaco/Safety and security.md"
         },
         {
+            "title": "Health",
+            "file": "ireland/Monaco/Health.md"
+        },
+        {
             "title": "Local laws and customs",
             "file": "ireland/Monaco/Local laws and customs.md"
         },
@@ -27,5 +31,5 @@
             "file": "ireland/Monaco/Embassy contact.md"
         }
     ],
-    "update_date": "2025-08-20T00:00:00"
+    "update_date": "2026-05-05T00:00:00"
 }

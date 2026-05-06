@@ -4,6 +4,23 @@
 
 High Degree of Caution
 
+### **Travel Alert**
+
+#### **National Strike**
+
+Industrial action is an ongoing issue in Belgium. This can occur at short notice and can cause travel disruption.
+
+A national strike is planned for Tuesday 12 May and is expected to have a major impact on air travel and public transport.
+
+Brussels Airport has announced the cancellation of a large number of departures and that arriving flight will likely be impacted.
+
+For updates, monitor local news and check with your travel operator.
+
+* [**Brussels Airport (Zaventem**](https://www.brusselsairport.be/en/passengers))
+* [**Charleroi Airport**](https://www.brussels-charleroi-airport.com/)
+* [**Belgian Rail**](https://www.belgiantrain.be/en)
+* Public transport ([**Brussels**](https://www.stib-mivb.be/index.htm?l=en)**,** [**Flanders**](https://www.delijn.be/en/)**,** [**Wallonia**](https://www.letec.be/))
+
 ### **General Travel Advice**
 
 Irish citizens need a valid passport or passport card to enter Belgium. Failure to produce your passport or passport card on arrival at the Belgian border may result in being detained and the issuing of a fine by Police.
