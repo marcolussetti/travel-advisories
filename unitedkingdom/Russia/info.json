@@ -1,11 +1,11 @@
 {
     "name": "Russia",
-    "update_reason": "Additional information for dual British-Russian nationals ('Warnings and insurance' page).",
+    "update_reason": "Updated information on security situation ('Safety and security' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Russia/Warnings and insurance.md",
-            "update_date": "2026-04-13T10:18:22+01:00"
+            "update_date": "2026-05-05T11:46:26+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Russia/Getting help.md"
         }
     ],
-    "update_date": "2026-04-13T10:18:22+01:00"
+    "update_date": "2026-05-05T11:46:26+01:00"
 }
