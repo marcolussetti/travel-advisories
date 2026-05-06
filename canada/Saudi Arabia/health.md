@@ -128,14 +128,26 @@ Large numbers of people in small areas can enable the spread of infectious disea
 
 Rabies 
 
-Rabies may be present in some wildlife in this destination, including bats. Rabies is a serious disease that’s almost always fatal once symptoms appear. It's spread to humans through the saliva of infected animals, mainly through bites, but it can also be spread through scratches.
+Rabies is present in this destination and is carried by dogs and some wildlife, including bats. Rabies is a serious disease that’s almost always fatal once symptoms appear. It's spread to humans through the saliva of infected animals, mainly through bites, but it can also be spread through scratches.
 
-Before you travel, talk to a health care professional about rabies vaccination. Vaccination may be recommended if you’ll be working directly with wildlife.
+Before you travel, talk to a health care professional about rabies vaccination. Vaccination may be recommended for people at higher risk of exposure, such as:
 
-If you’re bitten or scratched by wildlife, including bats:
+* veterinarians and wildlife workers
+* children
+* adventure travellers and cave explorers (spelunkers)
+* people who will be in close contact with animals
+
+While travelling:
+
+* avoid contact with animals, including free roaming dogs
+* supervise children closely around animals
+
+If you’re bitten or scratched by an animal:
 
 * wash the wound right away with soap and clean water for about 15 minutes
 * get medical care as soon as possible
+
+Treatment to prevent rabies is often available in this destination.
 
 If you get treatment to prevent rabies while outside Canada, ask for:
 

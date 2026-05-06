@@ -52,7 +52,7 @@ In case of a major fire:
 * follow the instructions of local emergency services personnel, including evacuation orders
 * monitor local media for up-to-date information on the situation
 
-[Fire risk](https://rischi.protezionecivile.it/en/sezione-con-anticipazioni/fire-risk/ "Italian Civil Protection Department") - Italian Civil Protection Department
+[Fire risk](https://rischi.protezionecivile.it/en/sezione-con-anticipazioni/forest-fire-risk/ "Italian Civil Protection Department") - Italian Civil Protection Department
 
 ### Flooding and landslides
 

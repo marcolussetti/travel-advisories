@@ -26,9 +26,9 @@ Always be aware of your surroundings when in public places. Be particularly vigi
 
 Terrorists have used such occasions to mount attacks.
 
-The Government of the United Kingdom maintains a public alert system on terrorism and communicates terrorism and national emergency threat level changes online and through local media. The national terrorism and national emergency threat level is currently 3 (“substantial”) on a scale of 5. A separate threat level for Northern Ireland is currently 4 (“severe”) on a scale of 5.
+The Government of the United Kingdom maintains a public alert system on terrorism and communicates terrorism threat level changes online and through local media. The national terrorism threat level is currently 4 (“severe”) on a scale of 5. A separate threat level for Northern Ireland is currently 3 (“substantial”) on a scale of 5.
 
-[National threat level](https://www.gov.uk/terrorism-national-emergency) - British Home Office
+[Terrorism threat levels](https://www.mi5.gov.uk/threats-and-advice/terrorism-threat-levels) – British Security Service
 
 ### Demonstrations
 

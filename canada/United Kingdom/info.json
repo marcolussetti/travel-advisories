@@ -1,7 +1,7 @@
 {
     "name": "United Kingdom",
-    "update_reason": "Health \u2013 editorial change",
-    "update_date": "2026-05-04T10:10:00",
+    "update_reason": "Safety and security \u2013 updated information on the terrorism threat level",
+    "update_date": "2026-05-05T11:55:00",
     "sections": {
         "risk": "canada/United Kingdom/risk.md",
         "security": "canada/United Kingdom/security.md",
