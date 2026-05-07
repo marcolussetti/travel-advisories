@@ -40,6 +40,10 @@ Different entry rules may apply when travelling with a temporary passport or an 
 * [Foreign Representatives in Canada](https://www.international.gc.ca/protocol-protocole/reps.aspx?lang=eng)
 * [Canadian passports and other travel documents](http://www.canada.ca/passport)
 
+As a result of enhanced border security measures due to the situation in the Middle East, some travellers are facing delays or are being refused entry into the country.
+
+[More on enhanced security measures](https://travel.gc.ca/destinations/argentina#security)
+
 ### Visas
 
 Tourist visa: not required  

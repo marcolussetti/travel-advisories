@@ -1,7 +1,7 @@
 {
     "name": "Brazil",
-    "update_reason": "Health \u2013 Outbreak monitoring alert for chikungunya in Mato Grosso do Sul added",
-    "update_date": "2026-05-04T14:42:00",
+    "update_reason": "Editorial change",
+    "update_date": "2026-05-06T16:46:00",
     "sections": {
         "risk": "canada/Brazil/risk.md",
         "security": "canada/Brazil/security.md",

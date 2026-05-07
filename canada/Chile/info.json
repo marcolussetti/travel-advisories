@@ -1,7 +1,7 @@
 {
     "name": "Chile",
-    "update_reason": "Health \u2013 Information about typhoid fever removed",
-    "update_date": "2026-05-04T14:21:00",
+    "update_reason": "Editorial change",
+    "update_date": "2026-05-06T16:54:00",
     "sections": {
         "risk": "canada/Chile/risk.md",
         "security": "canada/Chile/security.md",

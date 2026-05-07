@@ -1,7 +1,7 @@
 {
     "name": "Bolivia",
-    "update_reason": "Health \u2013 Travel health notice for yellow fever added",
-    "update_date": "2026-05-04T14:43:00",
+    "update_reason": "Editorial change",
+    "update_date": "2026-05-06T16:57:00",
     "sections": {
         "risk": "canada/Bolivia/risk.md",
         "security": "canada/Bolivia/security.md",
