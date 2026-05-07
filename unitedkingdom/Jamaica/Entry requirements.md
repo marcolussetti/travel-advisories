@@ -47,12 +47,8 @@ Declare cash or travellers cheques if the value is 10,000 US dollars or more. Yo
 
 If you do not declare money as required, it is a breach of the Jamaican Customs Act. Your money could be seized and you could get a fine.
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/jamaica)
+[Previous:Warnings and insurance](/foreign-travel-advice/jamaica)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/jamaica/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/jamaica/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/jamaica/print)

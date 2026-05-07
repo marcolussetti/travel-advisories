@@ -51,9 +51,23 @@ Most hotels and resorts are well guarded, but burglaries can occur. Follow hotel
 
 ### Rape and sexual assault
 
-There have been incidents where tourists and visitors have been targets for rape and sexual assault. Take care when using dating apps in Jamaica, especially those used by the LGBT+ community. Criminals have used apps to lure victims to meet in a public place but later assault and rob them.
+Some British nationals have reported incidents of rape and sexual assault in tourist areas, including beach resorts. In many cases, the alleged perpetrator was someone the victim met socially, for example at a bar, hotel, beach or excursion.
 
-Read more [advice for women travelling abroad](https://www.gov.uk/guidance/advice-for-women-travelling-abroad).
+Although incidents are infrequent, simple habits such as increased awareness and extra precaution can greatly reduce risk:
+
+* avoid isolated areas, particularly at night
+* use reputable, licenced providers for services and excursions, including taxis. Carry out your own research and consult resort staff/your tour operator.
+* do not disclose personal information, accommodation/ room number or social media accounts to new acquaintances
+* if traveling solo, tell someone you trust (at home or at the hotel) where you’ll be and always ensure you have transport arrangements in place to get back to your hotel independently
+
+If you experience sexual harassment or assault, or if you feel threatened or unsafe, report it as soon as possible to hotel staff or your tour operator.
+
+You can also contact:
+
+* the [British High Commission in Kingston](https://www.gov.uk/world/organisations/british-high-commission-jamaica) on + 1 (876) 936 0700
+* the Centre for Investigation of Sexual Offences and Child Abuse (CISOCA). A dedicated police service providing safe and confidential investigative and emotional support to victims, on +1 (876) 926 4079 or use this email address [cisoca@jcf.gov.jm](mailto:cisoca@jcf.gov.jm)
+
+Refer to the [advice for women travelling abroad](https://www.gov.uk/guidance/advice-for-women-travelling-abroad) and our [information page for victims of rape and sexual assault](https://www.gov.uk/government/publications/rape-and-sexual-assault-in-jamaica-information-for-victims/jamaica-information-for-victims-of-rape-and-sexual-assault) for further information.
 
 ## Laws and cultural differences
 
@@ -66,6 +80,8 @@ All prison sentences are served in full in Jamaica. Prison conditions are harsh.
 ### LGBT+ travellers
 
 Male same-sex sexual activity is illegal, but the law is not always strictly enforced. The attitude of many Jamaicans towards same-sex relationships is hostile. Be mindful of local attitudes and be aware that showing affection in public may receive unwanted attention.
+
+Take care when using dating apps in Jamaica, especially those used by the LGBT+ community. Criminals have used apps to lure victims to meet in a public place but later assault and rob them.
 
 Read more [advice for LGBT+ travellers](https://www.gov.uk/lesbian-gay-bisexual-and-transgender-foreign-travel-advice).
 
@@ -119,12 +135,8 @@ See [Extreme weather and natural hazards](https://www.gov.uk/tropical-cyclones)�
 
 The US Federal Emergency Management Agency website has advice about [what to do before, during and after an earthquake](http://www.ready.gov/earthquakes).
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/jamaica/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/jamaica/entry-requirements)
 
-[Next
-:
-Health](/foreign-travel-advice/jamaica/health)
+[Next:Health](/foreign-travel-advice/jamaica/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/jamaica/print)

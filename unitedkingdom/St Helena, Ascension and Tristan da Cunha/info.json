@@ -1,11 +1,11 @@
 {
     "name": "St Helena, Ascension and Tristan da Cunha",
-    "update_reason": "Removal of information that the St Helena Government has announced the airport is unable to operate as normal.",
+    "update_reason": "New information following an outbreak of Hantavirus ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/St Helena, Ascension and Tristan da Cunha/Warnings and insurance.md",
-            "update_date": "2026-02-27T15:08:06+00:00"
+            "update_date": "2026-05-06T12:47:36+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/St Helena, Ascension and Tristan da Cunha/Getting help.md"
         }
     ],
-    "update_date": "2026-02-27T15:08:06+00:00"
+    "update_date": "2026-05-06T12:47:36+01:00"
 }

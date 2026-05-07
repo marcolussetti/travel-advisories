@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   2 April 2026
+:   7 May 2026
 
 Updated:
-:   1 April 2026
+:   6 May 2026
 
 Latest update:
-:   Updated information about regional escalation (‘Warnings and insurance’ page).
+:   Updated information about risks from terrorist kidnap (‘Safety and security’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/69a4b52ea4d26cb233cd47f0/FCDO__TA__048_-_Iraq_Travel_Advice_Ed1__WEB_.jpg)
 

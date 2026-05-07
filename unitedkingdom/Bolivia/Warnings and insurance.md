@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   21 April 2026
+:   7 May 2026
 
 Updated:
-:   20 April 2026
+:   6 May 2026
 
 Latest update:
-:   Removal of information about local elections.
+:   New information about the announcement of an indefinite transport strike from 6 May 2026 ('Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/672ccc5a62831268b0b1a328/FCDO__TA__098_-_Bolivia_Travel_Advice_Ed1__WEB_.jpg)
 
@@ -21,6 +21,10 @@ Your travel insurance could be invalidated if you travel against advice from the
 FCDO advises against all but essential travel to the Chapare region of Cochabamba Department including Villa Tunari and highway routes 4 and 24 that pass through Chapare.
 
 Find out more about [why FCDO advises against travel](https://www.gov.uk/foreign-travel-advice/bolivia/safety-and-security).
+
+## Transport strike
+
+The interprovincial transport union of La Paz has announced an indefinite strike today, 6 May 2026. The roads to the Peruvian border may be blockaded. There are also blockades near the town of Caranavi, and due to social unrest blockades may appear on other roads without warning. If a bus company sells you a ticket ‘condicionado’ it means they will not guarantee arrival to your destination. Check local advice before travelling and do not cross blockades.
 
 ## Before you travel
 

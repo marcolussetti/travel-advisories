@@ -53,7 +53,7 @@ There is a high threat of kidnapping throughout Iraq.
 
 This includes both from Daesh and other terrorist and militant groups. Keep your security arrangements up-to-date and carefully plan any travel plans. Kidnappings can be for ideological reasons as well as financial or political gain.
 
-British nationals are seen as legitimate targets, including tourists, humanitarian aid workers, journalists and business travellers. If you are kidnapped, the reason for your presence is unlikely to protect you or secure your safe release.
+British nationals are seen as legitimate targets, including tourists, humanitarian aid workers, oil workers, journalists and business travellers. If you are kidnapped, the reason for your presence is unlikely to protect you or secure your safe release.
 
 The long-standing policy of the British Government is not to make substantive concessions to hostage takers. The British Government considers that paying ransoms and releasing prisoners builds the capability of terrorist groups and finances their activities. This can, in turn, increase the risk of further hostage-taking. The Terrorism Act (2000) makes payments to terrorists illegal.
 

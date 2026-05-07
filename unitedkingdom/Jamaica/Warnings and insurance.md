@@ -1,17 +1,17 @@
 # Warnings and insurance
 
 Still current at:
-:   11 December 2025
+:   7 May 2026
 
 Updated:
-:   10 December 2025
+:   6 May 2026
 
 Latest update:
-:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
+:   New information on incidents of sexual assault in tourist areas and advice on personal safety measures ('Safety and security' page).
 
 ## Hurricane Melissa
 
-Hurricane Melissa made landfall as a major hurricane in Jamaica in October 2025. All Western parishes suffered significant damage and some communities are still without electricity and piped water. In the worst affected areas, access to healthcare is limited, and there is still debris and standing water that carries health risks, including water-borne and mosquito-borne diseases, and [Leptospirosis](https://travelhealthpro.org.uk/country/113/jamaica#Outbreaks) from contact with contaminated water.
+Hurricane Melissa made landfall as a major hurricane in Jamaica in October 2025. All Western parishes suffered significant damage and some communities are still without electricity and piped water. In the worst affected areas, access to healthcare is limited, and there is still debris and standing water that carries health risks, including water-borne and mosquito-borne diseases.
 
 ## Before you travel
 
@@ -35,8 +35,6 @@ Follow FCDO:
 * [travel advice on Facebook](https://www.facebook.com/FCDOTravel/)
 * [Travel Aware on Instagram](https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Ftravelaware%2F&is_from_rle)
 
-[Next
-:
-Entry requirements](/foreign-travel-advice/jamaica/entry-requirements)
+[Next:Entry requirements](/foreign-travel-advice/jamaica/entry-requirements)
 
 [View a printable version of the whole guide](/foreign-travel-advice/jamaica/print)
