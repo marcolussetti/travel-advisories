@@ -189,12 +189,8 @@ Wildfires can occur throughout Argentina and can spread rapidly. They may lead t
 
 If you find yourself in or near the affected areas of any fire, monitor local media reports to stay informed of the rapidly evolving situation and follow the advice of the local authorities.
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/argentina/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/argentina/entry-requirements)
 
-[Next
-:
-Health](/foreign-travel-advice/argentina/health)
+[Next:Health](/foreign-travel-advice/argentina/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/argentina/print)

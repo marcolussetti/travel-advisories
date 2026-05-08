@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   27 February 2026
+:   8 May 2026
 
 Updated:
-:   26 February 2026
+:   7 May 2026
 
 Latest update:
-:   Updated information about operations in Sudanese airports (‘Warnings and insurance’ and ‘Safety and security’ pages).
+:   Updated information on operations in Sudanese airports ('Safety and security' page).
 
 ![](https://assets.publishing.service.gov.uk/media/672a3fc8f03408fa7966d186/FCDO__TA__038_-_Sudan_Travel_Advice_Ed8__WEB_.jpg)
 
@@ -21,8 +21,6 @@ Your travel insurance could be invalidated if you travel against advice from the
 FCDO advises against all travel to Sudan because of the ongoing military conflict in Khartoum and other parts of the country. This does not include the Hala’ib Triangle and the Bir Tawil Trapezoid where FCDO advises against all but essential travel.
 
 There have been several ceasefires, but these have been regularly broken.
-
-Khartoum Airport has recently resumed operating a limited number of domestic commercial flights. It officially re-opened in October 2025 but was subject to drone attacks and the risk of further attacks continues. Port Sudan Airport is operating a limited number of international and domestic flights, however it was also subject to drone attacks in early May 2025. Since then, no new strikes have been reported, but surveillance drone activity has continued.
 
 Monitor travel advice and other media reports for the latest information.
 

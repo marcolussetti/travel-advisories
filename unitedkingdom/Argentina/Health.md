@@ -28,6 +28,10 @@ See [what health risks you’ll face in Argentina](https://travelhealthpro.org.u
 
 Altitude sickness is a risk in parts of Argentina. Read more about [altitude sickness on TravelHealthPro](https://travelhealthpro.org.uk/factsheet/26/altitude-illness).
 
+### Hantavirus
+
+Hantavirus is present in Argentina. Read more information about [hantavirus in Argentina on TravelHealthPro.](https://travelhealthpro.org.uk/updates.php?base=5054) Further guidance on hantavirus is available from the [UK Health Security Agency](https://ukhsa.blog.gov.uk/2026/05/05/what-is-hantavirus-how-is-it-transmitted-and-what-are-the-symptoms/) and [Argentina’s Ministry of Health](https://www.argentina.gob.ar/salud/glosario/hantavirus) (website in Spanish).
+
 ## Medication
 
 The legal status and regulation of some medicines prescribed or bought in the UK can be different in other countries.
@@ -44,12 +48,8 @@ FCDO has a [list of medical providers in Argentina](https://www.gov.uk/governmen
 
 Read [FCDO guidance on travel and mental health](https://www.gov.uk/guidance/foreign-travel-advice-for-people-with-mental-health-issues). There is also [mental health guidance on TravelHealthPro](https://travelhealthpro.org.uk/factsheet/85/travelling-with-mental-health-conditions).
 
-[Previous
-:
-Safety and security](/foreign-travel-advice/argentina/safety-and-security)
+[Previous:Safety and security](/foreign-travel-advice/argentina/safety-and-security)
 
-[Next
-:
-Getting help](/foreign-travel-advice/argentina/getting-help)
+[Next:Getting help](/foreign-travel-advice/argentina/getting-help)
 
 [View a printable version of the whole guide](/foreign-travel-advice/argentina/print)

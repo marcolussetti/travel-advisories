@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   7 May 2026
+:   8 May 2026
 
 Updated:
-:   6 May 2026
+:   7 May 2026
 
 Latest update:
-:   New information about the announcement of an indefinite transport strike from 6 May 2026 ('Warnings and insurance' page).
+:   New information on transport strikes (See ‘Warnings and insurance’ page)
 
 ![](https://assets.publishing.service.gov.uk/media/672ccc5a62831268b0b1a328/FCDO__TA__098_-_Bolivia_Travel_Advice_Ed1__WEB_.jpg)
 
@@ -24,7 +24,15 @@ Find out more about [why FCDO advises against travel](https://www.gov.uk/forei
 
 ## Transport strike
 
-The interprovincial transport union of La Paz has announced an indefinite strike today, 6 May 2026. The roads to the Peruvian border may be blockaded. There are also blockades near the town of Caranavi, and due to social unrest blockades may appear on other roads without warning. If a bus company sells you a ticket ‘condicionado’ it means they will not guarantee arrival to your destination. Check local advice before travelling and do not cross blockades.
+The interprovincial transport union of La Paz has announced an indefinite strike from 6 May 2026. If a bus company sells you a ticket ‘condicionado’ it means they will not guarantee arrival to your destination. Check local advice before travelling and do not cross blockades.
+
+We advise against all road travel on the following routes until further notice:
+
+• Between La Paz and Copacabana (Lake Titicaca) • Between La Paz and Oruro • Between La Paz and Uyuni via Oruro • Between La Paz and Rurrenabaque
+
+Flights are operating normally.
+
+Any British national who is currently stuck in a road blockade, or who requires urgent consular assistance, should contact us by phone or WhatsApp on +591 7678 8849.
 
 ## Before you travel
 

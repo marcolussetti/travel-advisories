@@ -52,12 +52,8 @@ There are strict rules about [goods you can take into or out of Argentina](https
 
 You must [declare cash or travellers cheques worth more than 10,000 US dollars](https://www.afip.gob.ar/viajeros/ayuda/ingreso-egreso-de-valores.asp) (in Spanish).
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/argentina)
+[Previous:Warnings and insurance](/foreign-travel-advice/argentina)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/argentina/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/argentina/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/argentina/print)
