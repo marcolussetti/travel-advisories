@@ -4,36 +4,40 @@
 
 ### Border with Angola
 
-Peace in Angola has improved the security situation along the Namibia–Angola border. Due to the risk of banditry, however, you should exercise caution when travelling to this area, including Kavango Region in the northeast and the western half of Zambezi Region (formerly known as Caprivi). Use official border crossing areas only to enter neighbouring countries.
+Exercise a high degree of caution along the Namibia-Angola border due to the risk of banditry and the presence of poachers. The border is not always clearly marked. Do not trespass and cross only at official border crossings.
 
 ### Landmines
 
-There are landmines in the border area from Katwitwi (a village on the Okavango River in Kavango West Region) to Kongola (a town in Zambezi Region).
+Namibia completed its demining efforts and declared itself mine-free in 2001; however, residual landmines and unexploded ordnance from past conflicts could still pose hazards in the border area between Katwitwi (a village on the Okavango River in Kavango West Region) and Kongola (a town in Zambezi Region).
+
+* Stay on paved and main roads
+* Cross only at official border crossings
+* Pay attention to signs indicating the possible presence of landmines
 
 ### Crime
 
 #### Petty crime
 
-Petty crime, such as pickpocketing, bag snatching and cellphone theft, occurs regularly.
+Petty crime, such as pickpocketing, bag snatching and cell phone theft, occurs frequently.
 
-Theft is frequent in:
+Theft occurs frequently in:
 
 * popular tourist areas
 * crowded places, including urban shopping areas
-* vehicles, especially unattended vehicles at gas stations and
-* ATMs and surrouding areas
+* vehicles, especially unattended vehicles at gas stations
+* ATMs and surrounding areas
 
-During your trip to Namibia:
+During your trip:
 
-* ensure that your personal belongings, including your passport and your other travel documents, are secure at all times
+* avoid walking outside after dark
+* keep your personal belongings, including your passport and your other travel documents, in a secure place
 * avoid showing signs of affluence or wearing expensive jewellery
-* avoid carrying large sums of cash or unnecessary valuables
 * never leave personal belongings unattended in a vehicle, even in the trunk
-* be extra cautious when withdrawing cash from ATMs
+* be extra cautious when withdrawing cash from ATMs and only use those located in well-lit public areas or inside a bank or business
 
 #### Violent crime
 
-Violent crime occurs, particularly in Windhoek. Incidents include :
+Violent crime occurs, particularly in Windhoek. Incidents include:
 
 * muggings
 * burglaries
@@ -41,13 +45,16 @@ Violent crime occurs, particularly in Windhoek. Incidents include :
 
 During your stay:
 
-* avoid walking alone after dark
-* keep your accommodations doors and windows locked at all times
-* keep your car doors locked and windows closed, especially in heavy traffic
+* avoid isolated areas
+* keep your accommodation doors and windows closed and locked at all times
+* keep your car doors and windows closed and locked, especially in heavy traffic
+* do not stop on the road to offer help to others
+* keep valuables out of sight and reach
+* if confronted, remain calm and avoid actions that could escalate the situation
 
 ### Demonstrations
 
-Demonstrations are rare and occur mostly in Windhoek. They can disrupt traffic and business.
+Demonstrations are rare and occur mostly in Windhoek.
 
 Even peaceful demonstrations can turn violent at any time. They can also lead to disruptions to traffic and public transportation.
 
@@ -57,52 +64,142 @@ Even peaceful demonstrations can turn violent at any time. They can also lead to
 
 [Mass gatherings (large-scale events)](https://travel.gc.ca/travelling/health-safety/mass-gatherings)
 
-### Fraud
+### Credit card and ATM fraud
 
-Cases of attempted fraud are frequently reported in Namibia.
+Credit card copying in some hotels and lodges occurs.
 
-Credit card copying in some hotels and lodges occurs. When paying by credit card, keep your card in view at all times. Be extra vigilant at ATMs, as criminals may attempt to distract you or offer assistance with the aim of stealing your money. Don’t accept any offer of assistance and cancel your transaction if you become suspicious.
+When using your debit or credit card:
 
-* Pay careful attention when your cards are being handled by others
-* Use ATMs located in well-lit public areas or inside a bank or business
-* Avoid using card readers with an irregular or unusual feature
-* Cover the keypad with one hand when entering your PIN
-* Check for any unauthorized transaction on your account statements
+* always keep your credit card in sight when paying by card
+* do not accept unsolicited assistance and cancel the transaction if anything seems suspicious
+* pay careful attention when others are handling your cards
+* avoid using card readers with an irregular or unusual feature
+* cover the keypad with one hand when entering your PIN
+* Check for any unauthorized transactions on your account statements
+
+#### Useful links
 
 [Overseas fraud](https://travel.gc.ca/travelling/health-safety/overseas-fraud)
 
-### Wildlife viewing
+[Cybersecurity while travelling](https://travel.gc.ca/travelling/health-safety/cyber-safe)
 
-Wildlife viewing poses risks, particularly if you are on foot or at close range.
+### National parks and nature reserves
+
+Many national parks and nature reserves are in remote areas with limited emergency services. Wild animals often venture within boundaries of camps.
+
+If you decide to visit parks and reserves:
 
 * Only use reputable and professional guides or tour operators
+* Follow the advice and warnings of local tour guides and camp employees
+* Do not walk around at night
+* Never leave children unattended
+
+### Wildlife observation
+
+Wild animals can be dangerous, particularly if you are on foot or at close range. Monkeys, especially baboons, may aggressively confront sightseers in search of food, sometimes overwhelming them.
+
 * Always maintain a safe distance when observing wildlife
 * Only exit a vehicle when a professional guide or warden says it’s safe to do so
-* Closely follow park and warden’s advice
+* Closely follow park rules and warden’s advice
 
-### Road safety
+### Desert expeditions
+
+Desert expeditions or trekking can be dangerous, especially if they are not well organized. Trails are not usually marked, and weather conditions can change rapidly.
+
+If you undertake desert expeditions:
+
+* never do so alone and always hire an experienced guide from a reputable company
+* travel in a 4 x 4 vehicle
+* buy travel insurance that includes helicopter rescue and medical evacuation
+* ensure that your physical condition is good enough to meet the challenges of your activity
+* ensure that you have proper equipment and bring sufficient water
+* know the symptoms of dehydration and heatstroke, both of which can be fatal
+* monitor weather conditions and other possible hazards
+* share your itinerary with a friend or family member, including when you expect to be back
+
+### Roads
+
+#### Road safety
+
+There are major road safety issues in Namibia. Fatal accidents are common and are often related to excessive speed on gravel roads. Tourists are often involved in single-vehicle accidents. Emergency and roadside assistance is unreliable or non-existent outside Windhoek.
+
+#### Road conditions
 
 Avoid night-time driving outside urban centres.
 
-Be particularly careful when driving on rural roads, many of which are gravel with sloping sand shoulders.
+Road conditions are generally good; however, most roads outside urban areas are gravel roads with sloping sand shoulders, typical of desert terrain. Some major roads are single-lane paved roads with no safety lane, increasing the risk of accident when driving too close to the edge.
 
-Road conditions are generally good, but much of the country is covered by desert. Overland travel takes considerable time. Sand, salt and gravel roads become very slippery when wet.
+Driving conditions deteriorate during the rainy season from November to March, when gravel roads become very slippery. A four-wheel-drive vehicle may be necessary to travel outside cities.
 
-Tourists are often involved in single-vehicle accidents. Do not exceed 80 km/h on gravel roads. Excessive speed and animals on the roadway pose hazards.
+Driving can also be dangerous due to:
 
-Emergency and roadside assistance is unreliable or non-existent outside Windhoek.
+* stray animals
+* inadequate or absent traffic signage
+* debris striking windshields
+* sandstorms that reduce visibility
+* pedestrians on the road
+* insufficient lighting
+* vehicles not using their headlights
+* poorly maintained vehicles
 
-If you must travel overland via the Trans-Caprivi Highway between Rundu and Katima Mulilo, do so during daylight hours only.
+### Travel to remote areas
 
-Avoid stopping at roadside rest stops, where robberies have been known to occur.
+Overland travel can take considerable time due to long distances. Infrastructure, including gas stations, hotels and restaurants, is limited outside urban centres. Cellular coverage can be unreliable in remote areas. Robberies have occurred in isolated locations, particularly at roadside rest stops, and at known birdwatching sites.
 
-If travelling to desert areas, do so with sufficient water and fuel supplies and two spare tires. Travel by convoy if you plan to go to the desert.
+If you are planning to travel to remote areas:
+
+* travel during daylight hours only and in a convoy of at least two vehicles
+* keep plenty of water on hand, as well as supplies of food, fuel and an emergency kit
+* keep a second spare tire
+* bring reliable means of communication and navigation, such as a satellite telephone or a VHF radio and a GPS
+* avoid stopping at roadside rest stops or isolated areas
+* during the rainy season, confirm with local authorities that the chosen route is passable
+
+### Roadblocks
+
+Police roadblocks are common in Windhoek and around cities. Mobile checkpoints are also common on major highways.
+
+* Be prepared to show your identification
+* Follow the instructions of the police
+* Remain calm and courteous
+
+### Women’s safety
+
+Women travelling alone may be subject to some forms of harassment or verbal abuse.
+
+[Advice for women travellers](https://travel.gc.ca/travelling/health-safety/advice-for-women-travellers "Advice for women travellers")
+
+### 2SLGBTQI+ persons
+
+Namibian law does not criminalize sexual acts between individuals of the same sex. However, this legal status is under judicial challenge and could be reversed.
+
+Homosexuality is not socially accepted. 2SLGBTQI+ travellers should avoid public displays of affection and carefully consider the risks of travelling to Namibia.
+
+[Travel and your sexual orientation, gender identity, gender expression and sex characteristics](https://travel.gc.ca/travelling/health-safety/lgbt-travel)
 
 ### Public transportation
 
-Buses and taxis operate in the capital. Public transportation is limited outside Windhoek.
+#### Buses
 
-Foreigners have been robbed by taxi drivers. The Namibia Bus and Taxi Association (NABTA) regulates taxi drivers by allocating registration numbers (one letter followed by a two-digit number). Use registered taxis (displaying the NABTA logo) only or arrange for a taxi through a reputable hotel.
+Mini-buses are unsafe, overcrowded and frequently involved in accidents. You should avoid using mini-buses.
+
+Intercity buses operated by reputable companies are generally safer.
+
+#### Taxis
+
+Taxi availability may be limited outside the cities of Windhoek and Swakopmund.
+
+Foreigners have been robbed by taxi drivers.
+
+If you decide to use taxis, you should:
+
+* avoid hailing taxis on the street
+* use only registered taxis displaying the Namibia Bus and Taxi Association (NABTA) logo and selected by a reputable hotel or restaurant
+* never share a taxi with strangers
+* make sure the driver does not pick up other passengers along the way to your destination
+* confirm the driver's identity and licence plate before getting into the car
+* negotiate the fare in advance
+* have small bills available for payment
 
 ### Air travel
 

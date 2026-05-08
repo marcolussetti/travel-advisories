@@ -16,7 +16,7 @@ Before you travel, check with your transportation company about passport require
 
 #### Regular Canadian passport
 
-Your passport must be valid for a minimum of 6 months after the date you enter Namibia.
+Your passport must be valid for a minimum of 6 months after the date you enter Namibia and have at least 3 blank pages.
 
 #### Passport for official travel
 
@@ -43,60 +43,78 @@ Different entry rules may apply when travelling with a temporary passport or an 
 ### Visas
 
 Tourist visa: required  
-Business visa: required  
-Student visa: required  
-Work visa: required
+ Business visa: required  
+ Student visa: required  
+ Work visa: required
 
-You can submit your visa application:
+You can submit your tourist visa application online or on arrival at designated ports of entry, including:
 
-* online
-* at Namibian embassies or consulates
-* upon arrival at designated ports of entry, including Hosea Kutako International Airport.
+* Hosea Kutako International Airport
+* Walvis Bay International Airport
+* main land border crossings
 
-Namibian authorities require that your passport contains at least three blank pages to process your visa application and enter the country.
+For all other visa types, you must submit your application in advance at a Namibian embassy or consulate.
 
-Make sure the entry stamp is valid for the duration of your stay (up to 90 days) and that immigration officials have given you a correctly dated entry stamp, as this will be checked upon departure.
+Make sure the length of stay indicated on your entry stamp is valid for the duration of your stay (up to 90 days) and that immigration officials have given you a correctly dated entry stamp, as this will be checked upon departure.
 
-Authorities are very strict regarding visa validity. Overstaying the time granted or having an incorrect or missing entry stamp could lead to detention, arrest and fines.
+[E-Services](https://eservices.mhaiss.gov.na/#home) – Ministry of Home Affairs, Immigration, Safety and Security of the Republic of Namibia
 
-[Information on visa applications](https://eservices.mhaiss.gov.na/visaonarrival) – Ministry of Home Affairs, Immigration, Safety and Security of the Republic of Namibia
+#### Extending your visa
+
+Namibian authorities are very strict regarding visa validity. If you wish to stay in Namibia beyond your authorized period, apply for an extension at the Ministry of Home Affairs in Windhoek. The extension must be requested before your visa expires.
+
+Overstaying can result in heavy fines, arrest, imprisonment or deportation.
+
+### Work permits
+
+It is illegal to perform any type of work, including volunteering, on a tourist visa. To work or volunteer in Namibia, you must have a valid work permit. Convicted offenders could face heavy fines, imprisonment or deportation.
+
+### Other entry requirements
+
+Customs officials may ask you to show them:
+
+* a return or onward ticket
+* proof of accommodation
+* proof of sufficient funds to cover your stay
+* proof of health insurance coverage
 
 ### Children and travel
 
 Learn about [travelling with children](http://travel.gc.ca/travelling/children).
 
-#### Exit and entry requirements for minors under 18
+### Exit and entry requirements for minors under 18
 
-When travelling to an international destination, underage traveller must present:
+When travelling to an international destination from Namibia, underage travellers must present:
 
-#### If travelling with both parents
+If travelling with both parents:
 
-* A valid passport
-* A long-form birth certificate
+* a valid passport
+* a long-form birth certificate
 
-#### If travelling with a single parent
+If travelling with one parent:
 
-* A valid passport
-* A long-form birth certificate
-* A letter of consent from the other parent or a copy of a death certificate when applicable
+* a valid passport
+* a long-form birth certificate
+* a letter of consent from the other parent or a copy of a death certificate where applicable
 
-#### If travelling with other adults
+If travelling with other adults:
 
-* A valid passport
-* A long-form birth certificate
-* A proof of consent from the biological parents or legal guardians in the form of a sworn affidavit for the child to travel internationally
-* Contact information of the child’s parents or legal guardians
+* a valid passport
+* a long-form birth certificate
+* a proof of consent from the biological parents or legal guardians in the form of a sworn affidavit for the child to travel internationally
+* contact information for the child’s parents or legal guardians
 
-#### If travelling alone
+If travelling alone:
 
-* A valid passport
-* A long-form birth certificate
-* A proof of consent from one or both parents or legal guardians in the form of a sworn affidavit for the child to travel
-* Contact information of the child’s parents or legal guardians
-* A letter from the person who is to receive the child containing the residential address and contact details where the child will be residing
-* A copy of the identity document of the person who is to receive the child. This could be:
-* a valid passport and visa
-* a permanent residence permit
+* a valid passport
+* a long-form birth certificate
+* proof of consent from one or both parents or legal guardians in the form of a sworn affidavit for the child to travel abroad
+* contact information of the child’s parents or legal guardians
+* a letter from the person who is to receive the child, containing the residential address and contact details where the child will be residing
+* a copy of the identity document of the person who is to receive the child. This could be:
+
++ a valid passport and visa
++ a permanent residence permit
 
 If you are transiting by road through South Africa with children under the age of 18, consult the [entry/exit requirements for South Africa](http://travel.gc.ca/destinations/south-africa#entryexit).
 

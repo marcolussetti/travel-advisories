@@ -8,35 +8,52 @@ Learn about what you should do and how we can help if you are [arrested or detai
 
 ### Drugs
 
-Penalties for drug offences are severe and include lengthy prison sentences.
+Penalties for possession, use or trafficking of illegal drugs are severe and include lengthy prison sentences.
 
 [Drugs, alcohol and travel](https://travel.gc.ca/travelling/health-safety/drugs)
 
 ### Identification
 
-Carry a copy of your passport at all times.
+Local authorities may request to see your identification at any time.
+
+* Always carry photo identification
+* Keep a photocopy of your passport and visa or travel permit in a safe place in case it’s lost or seized
+
+### Drones
+
+You must obtain a permit from the Namibia Civil Aviation Authority (NCAA) to import and operate a drone in Namibia. The permit approval process can take several weeks.
+
+[Remote piloting forms](https://ncaa.com.na/index.php/document-downloads/other-categories/forms-applications/flight-operations/rpas-forms) – Namibia Civil Aviation Authority
 
 ### Exports
 
-Diamonds and other protected resources should be purchased from licensed shops.
-
-If you are convicted of illegally dealing in diamonds, you could face heavy fines and/or imprisonment. The purchase and export of other protected resources, such as elephant ivory, may be subject to restrictions.
+Namibia strictly regulates the exports of minerals, including diamonds, as well as cultural items and wildlife products.  
+ Exporting restricted goods requires prior approval from the relevant local authorities.   
+ Convicted offenders could face heavy fines and/or imprisonment.
 
 ### Photography
 
-Do not photograph military sites or government buildings. Ask permission before taking photographs.
+Photography of sensitive installations is prohibited. This includes:
 
-### Culture
+* military sites
+* government buildings, including the President’s official residence
+* airports and harbours
 
-You should dress conservatively.
+Seek permission before taking photos of individuals.
 
-### 2SLGBTQI+ persons
+### Dress and behaviour
 
-Namibian law prohibits sexual acts between individuals of the same sex.
+To avoid offending local sensitivities:
 
-2SLGBTQI+ persons should carefully consider the risks of travelling to Namibia.
+* dress conservatively
+* behave discreetly
+* respect religious and social traditions
 
-[Travel and your sexual orientation, gender identity, gender expression and sex characteristics](https://travel.gc.ca/travelling/health-safety/lgbt-travel)
+### Dual citizenship
+
+If local authorities consider you a citizen of Namibia, they may refuse to grant you access to Canadian consular services. This may prevent us from being able to provide you with those services.
+
+[Dual citizens](https://travel.gc.ca/travelling/documents/dual-citizenship)
 
 ### International Child Abduction
 
@@ -63,15 +80,17 @@ Be aware that Canadian consular officials cannot interfere in private legal matt
 
 Traffic drives on the left.
 
-You can use an original Canadian driver’s licence printed in English, but you should also carry a valid international driving permit.
+You may drive in Namibia with your valid Canadian driver’s licence, provided it is in English.
 
-If renting a car, pay particular attention to the insurance coverage provided. Ensure you have comprehensive insurance.
+However, and particularly if your licence is in French, it is strongly recommended that you obtain an International Driving Permit (IDP) in Canada before your departure, since it cannot be obtained once in Namibia.
 
-It is illegal to use a cellular telephone while driving or to drive under the influence of alcohol or drugs.
+Without an IDP, it can be extremely difficult to obtain car insurance for rentals. Insurance companies and rental car agencies may require an IDP or Namibian driver’s licence to honour insurance claims, even if such proof was not requested when purchasing the insurance policy.
 
-The use of a seatbelt is compulsory for the driver and all passengers.
+If renting a car, pay particular attention to the insurance coverage. Many standard insurance policies do not cover single-vehicle accidents, which are the most common type in Namibia. Ensure that you have comprehensive insurance coverage.
 
-A charge of culpable homicide can be made against a driver involved in an accident resulting in death.
+Penalties for driving under the influence of alcohol or drugs are severe. The legal blood alcohol limit is 0.079%.
+
+A charge of homicide can be made against a driver involved in an accident resulting in death.
 
 [International Driving Permit](https://travel.gc.ca/travelling/documents/international-driving-permit)
 
@@ -79,4 +98,4 @@ A charge of culpable homicide can be made against a driver involved in an accide
 
 The currency is the Namibian dollar (NAD). The South African rand (ZAR) is also accepted.
 
-Major credit cards are accepted and most ATMs are linked to international networks.
+Major credit cards are widely accepted in cities, and most ATMs are linked to international networks. Cash is necessary outside urban centres and at gas stations.

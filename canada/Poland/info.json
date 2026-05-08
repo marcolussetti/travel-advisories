@@ -1,7 +1,7 @@
 {
     "name": "Poland",
-    "update_reason": "Health \u2013 editorial change",
-    "update_date": "2026-05-04T10:10:00",
+    "update_reason": "Natural disasters and climate section \u2013 added information on forest fires",
+    "update_date": "2026-05-07T15:43:00",
     "sections": {
         "risk": "canada/Poland/risk.md",
         "security": "canada/Poland/security.md",

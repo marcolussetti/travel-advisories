@@ -8,6 +8,10 @@ We have obtained the information on this page from Argentine authorities. It can
 
 Verify this information with the [Foreign Representatives in Canada](https://www.international.gc.ca/protocol-protocole/reps.aspx?lang=eng).
 
+As a result of enhanced border security measures due to the situation in the Middle East, some travellers are facing delays or are being refused entry into the country.
+
+[More on enhanced security measures](https://travel.gc.ca/destinations/argentina#security)
+
 ### Passport
 
 Entry requirements vary depending on the type of passport you're travelling with.
@@ -39,10 +43,6 @@ Different entry rules may apply when travelling with a temporary passport or an 
 * [Travel and your sexual orientation, gender identity, gender expression and sex characteristics](https://travel.gc.ca/travelling/health-safety/lgbt-travel)
 * [Foreign Representatives in Canada](https://www.international.gc.ca/protocol-protocole/reps.aspx?lang=eng)
 * [Canadian passports and other travel documents](http://www.canada.ca/passport)
-
-As a result of enhanced border security measures due to the situation in the Middle East, some travellers are facing delays or are being refused entry into the country.
-
-[More on enhanced security measures](https://travel.gc.ca/destinations/argentina#security)
 
 ### Visas
 

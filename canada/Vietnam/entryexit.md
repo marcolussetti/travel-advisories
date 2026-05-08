@@ -59,6 +59,14 @@ Errors or missing information can result in:
 * denied boarding
 * refused entry upon arrival
 
+#### Digital Arrival Card
+
+If you plan to enter Vietnam at Tan Son Nhat Airport (SGN) in Ho Chi Minh City, the Vietnamese government encourages you to complete a Digital Pre-arrival Form online within 3 days of your arrival.
+
+Completing a digital arrival form is not a mandatory requirement for entry. However, this could change and could expand to other airports in Vietnam on short notice.
+
+[Pre-arrival information submission for visitors](https://prearrival.immigration.gov.vn/) – Immigration Department of Vietnam
+
 #### E-visa authorization
 
 If you have a valid Canadian passport, you may be eligible to apply online for an e-visa. This can be a single-entry or multiple-entry electronic tourist visa, valid for a maximum of 90 days. It allows you to enter Vietnam via the port of entry indicated in the visa approval notice only. Some restrictions apply.

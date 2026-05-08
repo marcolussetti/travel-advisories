@@ -1,7 +1,7 @@
 {
     "name": "Vietnam",
-    "update_reason": "Health \u2013 Information about typhoid fever added",
-    "update_date": "2026-05-04T13:45:00",
+    "update_reason": "Entry and exit requirements section \u2013 added information on digital arrival cards",
+    "update_date": "2026-05-07T16:28:00",
     "sections": {
         "risk": "canada/Vietnam/risk.md",
         "security": "canada/Vietnam/security.md",

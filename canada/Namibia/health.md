@@ -284,7 +284,7 @@ High-risk travellers include those visiting or working in prisons, refugee camps
 
 ### Medical services and facilities
 
-Medical facilities are relatively modern, particularly in the capital. Well-equipped facilities are rarely available in smaller towns.
+Reputable private medical facilities are relatively modern in Windhoek. Outside the capital, well-equipped facilities are rarely available.
 
 Upfront payment is generally required, even if you have medical insurance.
 
@@ -293,6 +293,18 @@ Ensure that your insurance policy covers all the activities that you plan to und
 Make sure you get travel insurance that includes coverage for medical evacuation and hospital stays.
 
 [Health and safety outside Canada](https://travel.gc.ca/travelling/health-safety)
+
+### Medication
+
+Some prescription medications may not be available in Namibia.
+
+If you take prescription medications, you’re responsible for determining their legality in Namibia.
+
+* Bring enough medication for your stay
+* Always keep your medication in the original container and carry a copy of your prescriptions
+* Pack your medication in your carry-on luggage
+
+[Travelling with medication](https://travel.gc.ca/travelling/health-safety/medication?_ga=2.191785258.1604296173.1718630005-1405742948.1680118138)
 
 ### Keep in Mind...
 
