@@ -6,6 +6,23 @@ High Degree of Caution
 
 ### **Travel Alert**
 
+**Security Situation in the Middle East**
+
+Due to the evolving situation in the Middle East, significant flight disruptions are currently being experienced. Several international airlines have suspended or cancelled their flights.
+
+Irish Citizens should anticipate delays, possible rerouting of flights and cancellations.
+
+Irish Citizens are advised to:
+
+* Contact their airline or travel agent directly for rebooking or rerouting their travel.
+* Regularly monitor the airline’s websites and official travel updates.
+* Ensure they have valid visas and sufficient funds in case of extended stays.
+* Keep copies of flight cancellation notices and travel documents.
+
+The Embassy is closely monitoring the situation and remains available to provide consular assistance to Irish citizens affected by these disruptions.
+
+### **Political Situation**
+
 Passengers are advised not to travel to the province of Cabo Delgado and certain parts of Nampula in northern Mozambique, due to an ongoing violent insurgency involving armed attacks on local civilians and security forces since October 2017. Please see the ‘Safety and Security Tab’ for further details and information.
 
 Several months of unrest followed contested elections in October 2024. The situation has improved significantly in recent months, but a reduced possibility of future unrest remains.

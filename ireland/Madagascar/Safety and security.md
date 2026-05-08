@@ -8,7 +8,7 @@
 
 ### **Political Unrest**
 
-Significant protests took place in Madagascar in September and October 2025. New President was announced on 17 October, and the situation has since calmed. Please pay attention to your surroundings, stay away from crowds and large gatherings, monitor the local media, and follow instructions from the authorities.
+Significant protests took place in Madagascar in September and October 2025. A new President was announced on 17 October and the situation has since calmed. Please pay attention to your surroundings, stay away from crowds and large gatherings, monitor the local media, and follow instructions from the authorities.
 
 Madagascar has a history of political unrest, and the situation can be unpredictable. Due to the possibility of violence, you should avoid large gatherings and political demonstrations, and avoid the centre of Antananarivo.
 

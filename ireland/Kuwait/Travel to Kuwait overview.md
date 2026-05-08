@@ -8,19 +8,13 @@ Avoid Non-Essential Travel
 
 #### **Security Situation in the Middle East and Gulf Region**
 
-#### **In light of the ongoing security situation in the Middle East and Gulf region, the Department of Foreign Affairs and Trade strongly advises Irish citizens against all but essential travel to Kuwait until further notice.**
+In light of the current security situation in the Middle East and Gulf region, the Department of Foreign Affairs and Trade strongly advises Irish citizens against all but essential travel to Kuwait until further notice.
 
-Irish citizens already in the region are advised to avoid unnecessary journeys, remain vigilant, closely monitor developments and local media, and follow the advice of local authorities, including when this is to shelter in place. Irish citizens should also avoid military and security force installations.
+Irish citizens already in the region are advised remain vigilant, closely monitor developments and official sources of information, and follow the advice of local authorities.
 
-With significant disruption to travel set to remain across the region, citizens traveling to or through Kuwait should contact their airline directly for the latest updates.
+If you wish to leave Kuwait, limited commercial flights are available.
 
-Irish citizens in need of consular assistance should contact the Embassy of Ireland in the United Arab Emirates on +971 2 495 8200. .
-
-Alternatively, you may contact the Duty Officer at the Department of Foreign Affairs and Trade in Dublin on +353 1 408 2000.
-
-Irish citizens in Kuwait should register with the Department via the [**Citizens Registration**](https://www.ireland.ie/en/dfa/overseas-travel/citizens-registration/) facility if they have not already done so.
-
-For further updates, please monitor the Department’s travel advice and social media channels, as well as the Embassy of Ireland in Saudi Arabia's social media channels on [**X**](https://x.com/IrelandEmbUAE), [**Instagram**](https://www.instagram.com/irelandembuae?igsh=bnRnYjQ0Mmt4OG50), and [**Facebook**](https://www.facebook.com/share/1Aek6yo4tR/?mibextid=wwXIfr).
+For further updates, please monitor the Department’s travel advice and social media channels, as well as the Embassy of Ireland, Abu Dhabi on [**X**](https://x.com/IrelandEmbUAE), [**Facebook**](https://www.facebook.com/IrelandEmbUAE/), and [**Instagram**](https://www.google.ie/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiU7NrMpM2LAxUTQUEAHV2POlgQFnoECAoQAQ&url=https%3A%2F%2Fwww.instagram.com%2Firelandembuae%2F%3Fhl%3Den&usg=AOvVaw3lH1PDscX4yD-bMNp6pdBp&opi=89978449).
 
 ### **General Travel Advice**
 
@@ -30,7 +24,9 @@ A valid passport is required for travel to Kuwait. Irish passports should have a
 
 For more information on visas and passports, please see the Entry requirements tab.
 
-Kuwait is a Muslim country. Laws and customs are very different to those in Ireland and other western countries. It is important to respect local customs, laws, and religions while in the Kuwait. Please note that if visitors experience any legal difficulty, either civil or criminal, while in Kuwait, they are likely to be subject to a travel ban until the issue is fully resolved. Timings related to the resolution of legal issues are not consistent and may not be prompt. See the Local Laws and Customs section for more information.
+Kuwait is a Muslim country. Laws and customs are very different to those in Ireland and other western countries. It is important to respect local customs, laws, and religions while in the Kuwait.
+
+Please note that if visitors experience any legal difficulty, either civil or criminal, while in Kuwait, they are likely to be subject to a travel ban until the issue is fully resolved. Timings related to the resolution of legal issues are not consistent and may not be prompt. See the Local Laws and Customs section for more information.
 
 Visitors to Kuwait are advised to follow the guidance of national and local authorities and stay fully informed of what is going on by monitoring local news and social media.
 

@@ -8,35 +8,15 @@ Avoid Non-Essential Travel
 
 #### **Security Situation in the Middle East and Gulf Region**
 
-**In light of the current security situation in the Middle East and Gulf region, the Department of Foreign Affairs and Trade strongly advises Irish citizens against all but essential travel to Qatar until further notice.**
+In light of the current security situation in the Middle East and Gulf region, the Department of Foreign Affairs and Trade strongly advises Irish citizens against all but essential travel to Qatar until further notice.
 
-**The security situation across the region remains volatile and uncertain, with the potential for further escalation.**
+Irish citizens already in the region are advised remain vigilant, closely monitor developments and official sources of information, and follow the advice of local authorities.
 
-#### **In Qatar**
-
-Irish citizens already in the region are advised to avoid unnecessary journeys, remain vigilant, closely monitor developments and local media, and follow the advice of local authorities.
-
-In particular, if local authorities advise you to take shelter, stay indoors or move to the nearest safe building immediately. Falling debris caused by intercepts is a significant risk, and you are safest inside a secure structure.
-
-Irish citizens should also avoid military and security force installations.
-
-#### **Transit through Qatar**
-
-Irish citizens transiting through the Gulf should be aware that flights can be subject to change at short notice. Citizens should remain in contact with their airlines and follow their advice.
-
-#### **Leaving Qatar**
+Irish citizens transiting through the Gulf should remain vigilant and be aware that flights can be subject to change. Please liaise directly with your airlines and follow their advice.
 
 If you wish to leave Qatar, it is currently possible to do so via commercial flights.
 
-**Citizens should note that travel may be subject to change at short notice. Check for the latest updates from your airline directly.**
-
-Irish citizens in need of consular assistance should contact the Embassy of Ireland in the United Arab Emirates on +971 2 495 8200.
-
-Alternatively, you may contact the Duty Officer at the Department of Foreign Affairs and Trade in Dublin on +353 1 408 2000.
-
-Irish citizens in Qatar should register with the Department via the [**Citizens Registration**](https://www.ireland.ie/en/dfa/overseas-travel/citizens-registration/) facility if they have not already done so.
-
-For further updates, please monitor the Department’s travel advice and social media channels, as well as the Embassy of Ireland's social media channels on [**X**](https://x.com/IrelandEmbUAE), [**Instagram**](https://www.instagram.com/irelandembuae?igsh=bnRnYjQ0Mmt4OG50), and [**Facebook**](https://www.facebook.com/share/1Aek6yo4tR/?mibextid=wwXIfr)**.**
+For further updates, please monitor the Department’s travel advice and social media channels, as well as the Embassy of Ireland, Abu Dhabi on [**X**](https://x.com/IrelandEmbUAE), [**Facebook**](https://www.facebook.com/IrelandEmbUAE/), and [**Instagram**](https://www.google.ie/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiU7NrMpM2LAxUTQUEAHV2POlgQFnoECAoQAQ&url=https%3A%2F%2Fwww.instagram.com%2Firelandembuae%2F%3Fhl%3Den&usg=AOvVaw3lH1PDscX4yD-bMNp6pdBp&opi=89978449).
 
 ### **General Travel Advice**
 
@@ -46,7 +26,13 @@ A valid passport is required for travel to Qatar. Irish passports should have a 
 
 For more information on visas and passports, please see the Entry requirements tab.
 
-Qatar is a Muslim country with a diverse resident population. Laws and customs are different to those in Ireland and other Western countries. It is important to respect local customs, laws, and religions while in Qatar. Please note that if visitors experience any legal difficulty, either civil or criminal, while in Qatar, they are likely to be subject to a travel ban until the issue is fully resolved. Timings related to the resolution of legal issues are not consistent and may not be prompt. See the Local Laws and Customs section for more information. Visitors to Qatar are advised to follow the guidance of national and local authorities and stay fully informed of what is going on by monitoring local news and social media. Citizens are encouraged to also follow the Embassy of Ireland, Abu Dhabi on social media ([**X**](https://x.com/IrelandEmbUAE), [**Facebook**](https://www.facebook.com/IrelandEmbUAE/)**,** [**Instagram**](https://www.google.ie/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiU7NrMpM2LAxUTQUEAHV2POlgQFnoECAoQAQ&url=https%3A%2F%2Fwww.instagram.com%2Firelandembuae%2F%3Fhl%3Den&usg=AOvVaw3lH1PDscX4yD-bMNp6pdBp&opi=89978449)**, and** [**LinkedIn**](https://www.linkedin.com/company/embassy-of-ireland-abu-dhabi?originalSubdomain=ae)) to ensure access to relevant updates and alerts.
+Qatar is a Muslim country with a diverse resident population. Laws and customs are different to those in Ireland and other Western countries. It is important to respect local customs, laws, and religions while in Qatar.
+
+Please note that if visitors experience any legal difficulty, either civil or criminal, while in Qatar, they are likely to be subject to a travel ban until the issue is fully resolved. Timings related to the resolution of legal issues are not consistent and may not be prompt. See the Local Laws and Customs section for more information.
+
+Visitors to Qatar are advised to follow the guidance of national and local authorities and stay fully informed of what is going on by monitoring local news and social media.
+
+Citizens are encouraged to also follow the Embassy of Ireland, Abu Dhabi on social media ([**X**](https://x.com/IrelandEmbUAE), [**Facebook**](https://www.facebook.com/IrelandEmbUAE/)**,** [**Instagram**](https://www.google.ie/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiU7NrMpM2LAxUTQUEAHV2POlgQFnoECAoQAQ&url=https%3A%2F%2Fwww.instagram.com%2Firelandembuae%2F%3Fhl%3Den&usg=AOvVaw3lH1PDscX4yD-bMNp6pdBp&opi=89978449)**, and** [**LinkedIn**](https://www.linkedin.com/company/embassy-of-ireland-abu-dhabi?originalSubdomain=ae)) to ensure access to relevant updates and alerts.
 
 ### **Important Information**
 

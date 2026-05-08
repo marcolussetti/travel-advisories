@@ -6,9 +6,26 @@ High Degree of Caution
 
 ### **Travel Alert**
 
+#### **Security Situation in the Middle East**
+
+Due to the evolving situation in the Middle East, significant flight disruptions are currently being experienced. Several international airlines have suspended or cancelled their flights.
+
+Irish Citizens should anticipate delays, possible rerouting of flights and cancellations.
+
+Irish Citizens are advised to:
+
+* Contact their airline or travel agent directly for rebooking or rerouting their travel.
+* Regularly monitor the airline’s websites and official travel updates.
+* Ensure they have valid visas and sufficient funds in case of extended stays.
+* Keep copies of flight cancellation notices and travel documents.
+
+The Embassy is closely monitoring the situation and remains available to provide consular assistance to Irish citizens affected by these disruptions.
+
+**Political Situation**
+
 Significant protests took place in Madagascar in September and October 2025. A new President was announced on 17 October, and the situation has since calmed. Please pay attention to your surroundings, stay away from crowds and large gatherings, monitor the local media, and follow instructions from the authorities.
 
-Exercise a high degree of caution in Madagascar due to crime and civil unrest. Avoid any large gatherings or demonstrations.
+Exercise a high degree of caution in Madagascar due to crime and potential civil unrest. Avoid any large gatherings or demonstrations.
 
 ### **General Travel Advice**
 

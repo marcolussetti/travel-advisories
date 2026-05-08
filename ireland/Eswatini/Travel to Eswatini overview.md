@@ -6,6 +6,23 @@ High Degree of Caution
 
 ### **Travel Alert**
 
+#### **Situation in the Middle East**
+
+Due to the evolving situation in the Middle East, significant flight disruptions are currently being experienced. Several international airlines have suspended or cancelled their flights.
+
+Irish Citizens should anticipate delays, possible rerouting of flights and cancellations.
+
+Irish Citizens are advised to:
+
+* Contact their airline or travel agent directly for rebooking or rerouting their travel.
+* Regularly monitor the airline’s websites and official travel updates.
+* Ensure they have valid visas and sufficient funds in case of extended stays.
+* Keep copies of flight cancellation notices and travel documents.
+
+The Embassy is closely monitoring the situation and remains available to provide consular assistance to Irish citizens affected by these disruptions.
+
+#### **Political Situation**
+
 Public protest, demonstrations and strikes can occur occasionally in Eswatini. The last significant protests broke out in 2021 and resulted in significant damage and loss of life, while a series of security-related incidents continued in 2022. As of 2025, the security situation has improved significantly, but travellers should remain vigilant for any signs of disturbances, and avoid protests, demonstrations or marches.
 
 ### **General Travel Advice**

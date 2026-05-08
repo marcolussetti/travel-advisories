@@ -8,39 +8,15 @@ Avoid Non-Essential Travel
 
 #### **Security Situation in the Middle East and Gulf Region**
 
-**In light of the ongoing security situation in the Middle East and Gulf region, the Department of Foreign Affairs and Trade strongly advises Irish citizens against all but essential travel to the United Arab Emirates until further notice.**
+The security situation across the Middle East and Gulf region remains volatile and uncertain. In light of this, the Department of Foreign Affairs and Trade strongly advises Irish citizens against all but essential travel to the United Arab Emirates until further notice.
 
-**The security situation across the region remains volatile and uncertain, with the potential for further escalation.**
+Irish citizens already in the region are advised to remain vigilant, closely monitor developments and official sources of information, and follow the advice of local authorities.
 
-**In the UAE**
+Irish citizens transiting through the Gulf should remain vigilant and be aware that flights can be subject to change. Please liaise directly with your airlines and follow their advice.
 
-Irish citizens already in the region are advised to avoid unnecessary journeys, remain vigilant, closely monitor developments and local media, and follow the advice of local authorities.
+If you wish to leave the UAE, it is currently possible to do so via commercial flights.
 
-In particular, if local authorities advise you to take shelter, stay indoors or move to the nearest safe building immediately. Falling debris caused by intercepts is a significant risk, and you are safest inside a secure structure.
-
-Irish citizens should also avoid military and security force installations.
-
-**Transit through the UAE**
-
-Irish citizens transiting through the Gulf should be aware that flights can be subject to change at short notice. Citizens should remain in contact with their airlines and follow their advice.
-
-**Leaving the UAE**
-
-If you wish to leave UAE, it is currently possible to do so via commercial flights.
-
-**Citizens should note that travel may be subject to change at short notice. Check for the latest updates from your airline directly.**
-
-Irish citizens in need of consular assistance should contact the Embassy of Ireland in the United Arab Emirates on +971 2 495 8200.
-
-Alternatively, you may contact the Duty Officer at the Department of Foreign Affairs and Trade in Dublin on +353 1 408 2000.
-
-Irish citizens in the UAE should register with the Department via the [**Citizens Registration**](https://www.ireland.ie/en/dfa/overseas-travel/citizens-registration/) facility if they have not already done so.
-
-For further updates, please monitor the Department’s travel advice and social media channels, as well as the Embassy of Ireland's social media channels on [**X**](https://x.com/IrelandEmbUAE), [**Instagram**](https://www.instagram.com/irelandembuae?igsh=bnRnYjQ0Mmt4OG50), and [**Facebook**](https://www.facebook.com/share/1Aek6yo4tR/?mibextid=wwXIfr).
-
-You are advised to check your passport validity, and where necessary, apply for an Irish passport, well in advance of any travel. Where travel is required owing to an emergency, Irish citizens, including Irish dual citizens, who are not in possession of a valid Irish passport can contact the Embassy of Ireland in Abu Dhabi, or nearest Consulate, for advice.
-
-Please contact the [**Federal Authority for Identity, Citizenship, Customs, and Security**](https://icp.gov.ae/en/contact-us/) to check your travel ban status in the UAE.
+For further updates, please monitor the Department’s travel advice and social media channels, as well as the Embassy of Ireland, Abu Dhabi on [**X**](https://x.com/IrelandEmbUAE), [**Facebook**](https://www.facebook.com/IrelandEmbUAE/), and [**Instagram**](https://www.google.ie/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiU7NrMpM2LAxUTQUEAHV2POlgQFnoECAoQAQ&url=https%3A%2F%2Fwww.instagram.com%2Firelandembuae%2F%3Fhl%3Den&usg=AOvVaw3lH1PDscX4yD-bMNp6pdBp&opi=89978449).
 
 ### **General Travel Advice**
 
