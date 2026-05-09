@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   8 May 2026
+:   9 May 2026
 
 Updated:
-:   7 May 2026
+:   8 May 2026
 
 Latest update:
-:   New information on transport strikes (See ‘Warnings and insurance’ page)
+:   Updated information on transport strike including for those in accommodation along multiple routes from La Paz ("Warnings and Insurance").
 
 ![](https://assets.publishing.service.gov.uk/media/672ccc5a62831268b0b1a328/FCDO__TA__098_-_Bolivia_Travel_Advice_Ed1__WEB_.jpg)
 
@@ -24,15 +24,20 @@ Find out more about [why FCDO advises against travel](https://www.gov.uk/forei
 
 ## Transport strike
 
-The interprovincial transport union of La Paz has announced an indefinite strike from 6 May 2026. If a bus company sells you a ticket ‘condicionado’ it means they will not guarantee arrival to your destination. Check local advice before travelling and do not cross blockades.
+The interprovincial transport union of La Paz announced an indefinite strike from 6 May 2026. If a bus company sells you a ticket ‘condicionado’ it means they will not guarantee arrival to your destination. Check local advice before travelling and do not cross blockades.
 
-We advise against all road travel on the following routes until further notice:
+When travelling, do not use the roads on following routes until further notice:
 
-• Between La Paz and Copacabana (Lake Titicaca) • Between La Paz and Oruro • Between La Paz and Uyuni via Oruro • Between La Paz and Rurrenabaque
+* Between La Paz and Copacabana (Lake Titicaca)
+* Between La Paz and Oruro
+* Between La Paz and Uyuni via Oruro
+* Between La Paz and Rurrenabaque
 
-Flights are operating normally.
+Walking on certain roads may be dangerous due to ongoing violence and the effects of altitude. If you are in safe accommodation along these routes, you should remain there and follow the advice of the local authorities.
 
-Any British national who is currently stuck in a road blockade, or who requires urgent consular assistance, should contact us by phone or WhatsApp on +591 7678 8849.
+Flights operate normally.
+
+Any British national who is currently stuck in a road blockade, or who requires urgent consular assistance, should contact us by phone or WhatsApp on +591 2-2010020.
 
 ## Before you travel
 

@@ -1,18 +1,18 @@
 # Warnings and insurance
 
 Still current at:
-:   2 March 2026
+:   9 May 2026
 
 Updated:
-:   1 March 2026
+:   8 May 2026
 
 Latest update:
-:   New information about entering Turkey across the land border from Iran (‘Entry requirements’ page)
+:   Updated information on Ramadan, terrorism and children and accommodation (‘Safety and security’ page).
 
-![](https://assets.publishing.service.gov.uk/media/6703bc3c3b919067bb482cfb/FCDO__TA__043_-_Turkey_Travel_Advice_Ed4__WEB_.jpg)
+![](https://assets.publishing.service.gov.uk/media/69a6faa2a2495f2d259f13d2/FCDO_TA_043_-_Turkey_Travel_Advice_Ed4_WEB.jpg)
 
 
-[Download a more detailed map (PDF, 1.29 MB)](https://assets.publishing.service.gov.uk/media/6703bc3c080bdf716392eed6/FCDO__TA__043_-_Turkey_Travel_Advice_Ed4.pdf)
+[Download a more detailed map (PDF, 1.31 MB)](https://assets.publishing.service.gov.uk/media/69a6faa22e1f4fbda425222e/FCDO_TA_043_-_Turkey_Travel_Advice_Ed4.pdf)
 
 ## Areas where FCDO advises against travel
 

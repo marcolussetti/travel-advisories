@@ -36,7 +36,7 @@ When returning to the UK, British citizens must carry a valid [British passport]
 
 You can visit Turkey without a visa for up to 90 days in any 180-day period, for business or tourism.
 
-If you hold a British citizen passport, you can visit Turkey  without a visa for up to 90 days in any 180-day period, for business or tourism
+If you hold a British citizen passport, you can visit Turkey without a visa for up to 90 days in any 180-day period, for business or tourism
 
 If you hold [another type of British passport](https://www.gov.uk/types-of-british-nationality), you will need a visa and should check visa requirements with the Turkish Embassy or Consulate General before you travel.
 

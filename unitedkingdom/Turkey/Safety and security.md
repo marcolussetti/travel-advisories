@@ -23,12 +23,14 @@ There have been several attacks involving knives, firearms and explosives. Attac
 * airports
 * large public gatherings, including major events, public holidays, religious occasions
 
-There have been a number of recent significant attacks. For example:
+Examples of recent attacks include:
 
-* in October 2024, 5 people were killed and 22 injured in an attack on the Turkish Aerospace Industries’ facility in Kahramankazan, 40km northwest of central Ankara
+* in April 2026, two police officers were injured after three gunmen opened fire near a building housing the Israeli Consulate in Istanbul
+* in September 2025, three police officers were killed and three people injured in an attack on a police station by a lone gunman in Izmir
+* in October 2024, five people were killed and 22 injured in an attack on the Turkish Aerospace Industries’ facility in Kahramankazan, 40km northwest of central Ankara
 * in February 2024, one person was killed in an armed attack on the Çağlayan courthouse in Istanbul by the terrorist group DHKP/C
 * in January 2024, one person was killed by two gunmen in the Santa Maria Catholic Church in Sariyer, in an attack claimed by Daesh
-* in 2022, 6 people were killed in an explosion in central Istanbul
+* in 2022, six people were killed in an explosion in central Istanbul
 
 Extremist groups based in Syria, including Daesh and Al-Qaeda linked groups, have the capacity to carry out attacks in Turkey. Daesh has previously targeted border crossings and nearby locations on the Syrian side of the border.
 
@@ -90,7 +92,7 @@ Access to some e-sim services is restricted in Turkey. Check with your provider 
 
 ### Ramadan
 
-Ramadan is a holy month for Muslims. Ramadan in Turkey will likely begin between 16 and 20 February in 2026 and will last for 29 or 30 days. Get more advice when you arrive from your tour guide, hotel or business contacts.
+Ramadan is a holy month for Muslims in Turkey. The next Ramadan will likely begin between early February and early March in 2027 and will last for 29 or 30 days. Get more advice when you arrive from your tour guide, hotel or business contacts.
 
 During this time, it may cause offence if you:
 
@@ -109,6 +111,10 @@ You should also:
 ### Personal ID
 
 It is illegal not to carry some form of photographic ID in Turkey. Always carry your passport or residence permit. In some busy areas, especially Istanbul, the authorities may stop people for ID checks. There are also several police checkpoints on main roads across Turkey. Cooperate with officials conducting checks.
+
+### Children and accommodation
+
+There are some reports of hotels refusing to check-in children aged 17 and under who are not accompanied by a parent or guardian, unless written parental consent has been provided (and in some cases notarised). Check with your accommodation provider in advance.
 
 ### Dress code
 
@@ -160,7 +166,7 @@ Paragliding is an extreme sport and carries the risk of serious injury or death.
 
 Make sure you are given full instructions and training before your activity.
 
-If  you are near where paragliding activities take place, be aware that the landing area may be in a public area. Keep a reasonable distance from potential landing zones for your personal safety.
+If you are near where paragliding activities take place, be aware that the landing area may be in a public area. Keep a reasonable distance from potential landing zones for your personal safety.
 
 ### Quad biking and mopeds
 

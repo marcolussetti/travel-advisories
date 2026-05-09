@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   6 March 2026
+:   9 May 2026
 
 Updated:
-:   5 March 2026
+:   8 May 2026
 
 Latest update:
-:   As a result of drone strikes in Nakhchivan, Azerbaijan, we have updated information on regional risks (‘Warning and insurance’ page).
+:   Updated information on visa procedures for visitors travelling to Azerbaijan in connection with World Urban Forum (WUF13) (‘Entry requirements’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/67efddbf27eb76c92cf7e567/FCDO__TA__004_-_Azerbaijan_Travel_Advice_Ed9__WEB_.jpg)
 

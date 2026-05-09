@@ -1,11 +1,11 @@
 {
     "name": "Bolivia",
-    "update_reason": "New information on transport strikes (See \u2018Warnings and insurance\u2019 page)",
+    "update_reason": "Updated information on transport strike including for those in accommodation along multiple routes from La Paz (\"Warnings and Insurance\").",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Bolivia/Warnings and insurance.md",
-            "update_date": "2026-05-07T20:29:58+01:00"
+            "update_date": "2026-05-08T22:00:52+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Bolivia/Getting help.md"
         }
     ],
-    "update_date": "2026-05-07T20:29:58+01:00"
+    "update_date": "2026-05-08T22:00:52+01:00"
 }
