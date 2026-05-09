@@ -32,10 +32,6 @@ Ebola, Lassa fever and Marburg viruses are acute viral haemorrhagic fever illnes
 
 Lassa fever is endemic in West Africa. If you are concerned that you might have been exposed to, or are showing symptoms of Lassa fever, seek immediate medical advice. Further information on Lassa fever is available from the [**World Health Organisation**](https://www.who.int/news-room/fact-sheets/detail/lassa-fever).
 
-### **M-Pox**
-
-The M-Pox virus originated in Central and West Africa. In January 2025 the government of Sierra Leone declared a national health emergency following the identification of a number of cases. Symptoms include a rash that develops blisters, along with fever and swollen lymph nodes. Further information on M-Pox can be obtained on the Centre for Disease Control and World Health Organisation websites.
-
 ### **General Advice**
 
 We advise Irish citizens working in medical facilities or caring for sick people in Sierra Leone to take particular care and seek expert advice on infection prevention.

@@ -24,7 +24,7 @@ Homosexual activity is illegal. LGBT+ couples may face harassment in public spac
 
 ### **Religion**
 
-The majority of the population of Sierra Leone is Muslim (60% - 70%) although there is also a sizable Christian community. There is little religious extremism in Sierra Leone and tension between religions is extremely low.
+The majority of the population of Sierra Leone is Muslim although there is also a sizable Christian community. There is little religious extremism in Sierra Leone and tension between religions is extremely low.
 
 However, be aware of your actions and take care not to offend the religious beliefs of others, especially during the holy month of Ramadan or other religious festivals, or if visiting religious areas.
 

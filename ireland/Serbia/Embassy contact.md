@@ -10,6 +10,6 @@ Vladimira Popovića 38-40/1
 Belgrade   
 11073
 
-[Tel: +381 11 424088](tel:+38111 424088)
+[Tel: +381 11 424 0888](tel:+38111 424 0888)
 
 [Contact us](/en/serbia/belgrade/contact/)

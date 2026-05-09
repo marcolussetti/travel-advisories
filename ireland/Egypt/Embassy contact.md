@@ -7,9 +7,9 @@
 Cairo   
 Egypt
 
-[Tel: +2 272 87100](tel:+2272 87100)
+[Tel: +20 272 87 100](tel:+20272 87 100)
 
-In the case of emergencies, please call the Embassy main phone number [+202 272 87100](tel:+20227287100) and leave a message on the Out of Hours mailbox.  This mailbox is monitored regularly.
+In the case of emergencies, please call the Embassy main phone number [+20 272 87 100](tel:+2027287100) and leave a message on the Out of Hours mailbox.  This mailbox is monitored regularly.
 
 ### Honorary Consul of Ireland, Alexandria
 

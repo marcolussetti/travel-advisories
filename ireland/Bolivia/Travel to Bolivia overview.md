@@ -4,6 +4,14 @@
 
 High Degree of Caution
 
+### **Travel Alert: Transport strike**
+
+The interprovincial transport union of La Paz has announced an indefinite strike from 6 May 2026. Some roads across the country are blocked (subject to ‘blockade’), making transport difficult in those areas. Check local media reports before travelling between towns or cities.
+
+Flights are operating normally.
+
+Any Irish citizen who is currently stuck in a road blockade, or who requires urgent consular assistance, should contact the Irish Embassy in Buenos Aires, Argentina, using the details below.
+
 ### **General Travel Advice**
 
 Irish citizens do not require a visa to enter Bolivia.
