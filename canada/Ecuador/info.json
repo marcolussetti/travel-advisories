@@ -1,7 +1,7 @@
 {
     "name": "Ecuador",
-    "update_reason": "Health \u2013 Information about typhoid fever removed",
-    "update_date": "2026-05-04T14:24:00",
+    "update_reason": "Editorial change",
+    "update_date": "2026-05-08T13:14:00",
     "sections": {
         "risk": "canada/Ecuador/risk.md",
         "security": "canada/Ecuador/security.md",
