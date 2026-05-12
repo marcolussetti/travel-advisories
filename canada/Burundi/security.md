@@ -2,17 +2,6 @@
 
 ## Safety and security
 
-### Explosions in Bujumbura
-
-On March 31, 2026, explosions were reported at an ammunition warehouse in Bujumbura’s Musaga neighbourhood due to an electrical accident. As a result, unexploded ordnance was found in various locations in the city.   
-   
- If you are in Bujumbura:
-
-* avoid affected areas
-* move away immediately and contact local authorities if you encounter unexploded ordnance, military debris or fragments
-* follow the instructions of local authorities
-* monitor local media for up-to-date information on the situation
-
 ### Security situation in Bujumbura Mairie Province
 
 The security situation in Bujumbura Mairie Province is volatile and unpredictable due to the ongoing conflict in the Democratic Republic of the Congo.

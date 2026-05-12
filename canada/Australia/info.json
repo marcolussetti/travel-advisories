@@ -1,7 +1,7 @@
 {
     "name": "Australia",
-    "update_reason": "Health \u2013 editorial change",
-    "update_date": "2026-05-04T10:10:00",
+    "update_reason": "Editorial change",
+    "update_date": "2026-05-11T15:32:00",
     "sections": {
         "risk": "canada/Australia/risk.md",
         "security": "canada/Australia/security.md",
