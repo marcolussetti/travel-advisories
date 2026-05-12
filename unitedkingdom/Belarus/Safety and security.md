@@ -39,6 +39,8 @@ The risk of arrest and detention is greater for those, including for dual nation
 
 Mobile phones and other personal items may be seized and inspected by the authorities, including at the border upon entering Belarus.
 
+Belarus has designated BBC News Russian content as “extremist material” under BBC.com. Distributing, reposting or storing material from BBC.com is now an offence under Belarusian law.
+
 ## Dual nationals
 
 Belarus does not recognise dual nationality. Even if you have both Belarusian and British passports, the authorities will consider you Belarusian. Dual British-Belarusian nationality will not reduce your risk of arrest, questioning, or detention if you have engaged in any political activity related to Belarus. In the event of arrest or detention, Belarusian authorities are unlikely to allow FCDO consular access. This limits the UK government’s ability to help you.

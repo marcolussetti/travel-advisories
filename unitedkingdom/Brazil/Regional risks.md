@@ -27,7 +27,7 @@ The most common incidents affecting British nationals in Rio de Janeiro are thef
 * Lapa
 * Santa Teresa
 
-Tourists have reported armed robberies on the Corcovado walking trail to the Christ the Redeemer statue. See our advice on [Theft and robbery](/foreign-travel-advice/Brazil/safety-and-security#theft-and-robbery).
+Tourists have reported armed robberies on the Corcovado walking trail to the Christ the Redeemer statue. See our advice on [Theft and robbery](https://www.gov.uk/foreign-travel-advice/brazil/safety-and-security#theft-and-robbery).
 
 ## São Paulo
 
@@ -39,27 +39,24 @@ The most common incidents affecting British nationals in São Paulo are thefts o
 * Catedral da Sé
 * Praça da República
 * the Estacao de Luz metro area (where Cracolandia is located)
+* Pinheiros
 
-See our advice on [Theft and robbery](/foreign-travel-advice/Brazil/safety-and-security#theft-and-robbery).
+See our advice on [Theft and robbery](https://www.gov.uk/foreign-travel-advice/brazil/safety-and-security#theft-and-robbery).
 
 ## Brasilia
 
 ### Theft
 
-In Brasilia, the central bus station area has a lot of incidents of theft. Theft from pedestrians also happens across the city, especially in the central and southern commercial centres. Take particular care at these locations. See our advice on [Theft and robbery](/foreign-travel-advice/Brazil/safety-and-security#theft-and-robbery).
+In Brasilia, the central bus station area has a lot of incidents of theft. Theft from pedestrians also happens across the city, especially in the central and southern commercial centres. Take particular care at these locations. See our advice on [Theft and robbery](https://www.gov.uk/foreign-travel-advice/brazil/safety-and-security#theft-and-robbery).
 
 ## North-east Brazil
 
 ### Theft
 
-The most common incidents affecting British nationals in north-east Brazil are theft from hotel and motel rooms and muggings. Reduce the risk of being mugged by avoiding quiet or deserted areas and by using taxis after sunset instead of walking. See our advice on [Theft and robbery](/foreign-travel-advice/Brazil/safety-and-security#theft-and-robbery).
+The most common incidents affecting British nationals in north-east Brazil are theft from hotel and motel rooms and muggings. Reduce the risk of being mugged by avoiding quiet or deserted areas and by using taxis after sunset instead of walking. See our advice on [Theft and robbery](https://www.gov.uk/foreign-travel-advice/brazil/safety-and-security#theft-and-robbery).
 
-[Previous
-:
-Safety and security](/foreign-travel-advice/brazil/safety-and-security)
+[Previous:Safety and security](/foreign-travel-advice/brazil/safety-and-security)
 
-[Next
-:
-Health](/foreign-travel-advice/brazil/health)
+[Next:Health](/foreign-travel-advice/brazil/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/brazil/print)

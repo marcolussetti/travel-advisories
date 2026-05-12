@@ -1,11 +1,11 @@
 {
     "name": "Brazil",
-    "update_reason": "New information about dual nationals returning to the UK (\u2018Entry requirements\u2019 page).",
+    "update_reason": "New information on scams, taxi travel and regional risks ('Safety and security' and 'Regional risks' pages).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Brazil/Warnings and insurance.md",
-            "update_date": "2025-12-10T12:39:42+00:00"
+            "update_date": "2026-05-11T12:32:48+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Brazil/Getting help.md"
         }
     ],
-    "update_date": "2025-12-10T12:39:42+00:00"
+    "update_date": "2026-05-11T12:32:48+01:00"
 }

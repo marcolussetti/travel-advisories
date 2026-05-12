@@ -58,12 +58,8 @@ There are strict rules about [goods you can take into or out of Brazil](https://
 
 If you are bringing cash or travellers cheques into Brazil with a value of 10,000 US dollars or more, you will need to [declare it online](https://www.gov.br/mre/pt-br/consulado-londres/useful-information/visiting-brazil).
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/brazil)
+[Previous:Warnings and insurance](/foreign-travel-advice/brazil)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/brazil/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/brazil/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/brazil/print)

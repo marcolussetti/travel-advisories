@@ -1,10 +1,10 @@
 # Warnings and insurance
 
 Still current at:
-:   8 May 2026
+:   12 May 2026
 
 Updated:
-:   7 May 2026
+:   11 May 2026
 
 Latest update:
 :   Updated information on operations in Sudanese airports ('Safety and security' page).

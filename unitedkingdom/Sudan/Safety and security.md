@@ -151,7 +151,7 @@ Sudanese law prohibits the use of mobile phones while driving.
 
 ## Air travel
 
-Khartoum Airport is currently closed due to recent drone strikes, and the risk of further attacks continues. Port Sudan Airport is operating a limited number of international and domestic flights, however it was also subject to drone attacks in early May 2025. Since then, no new strikes have been reported, but surveillance drone activity has continued.
+Khartoum Airport and Port Sudan Airport are operating  limited numbers of international and domestic flights. However, both airports have been the target of drone strikes due to the ongoing conflict. The risk of further attacks continues and might cause the airports to close on a temporary basis again.
 
 There are no Sudanese airlines which currently meet the standards required to operate direct flights to the UK or EU.
 

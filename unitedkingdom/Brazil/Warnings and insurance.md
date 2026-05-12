@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   11 December 2025
+:   12 May 2026
 
 Updated:
-:   10 December 2025
+:   11 May 2026
 
 Latest update:
-:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
+:   New information on scams, taxi travel and regional risks ('Safety and security' and 'Regional risks' pages).
 
 ![](https://assets.publishing.service.gov.uk/media/661e86507469198185bd3e6f/FCDO__TA__092_-_Brazil_Travel_Advice_Ed3__WEB_.jpg)
 
@@ -57,8 +57,6 @@ Follow FCDO:
 * [travel advice on Facebook](https://www.facebook.com/FCDOTravel/)
 * [Travel Aware on Instagram](https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Ftravelaware%2F&is_from_rle)
 
-[Next
-:
-Entry requirements](/foreign-travel-advice/brazil/entry-requirements)
+[Next:Entry requirements](/foreign-travel-advice/brazil/entry-requirements)
 
 [View a printable version of the whole guide](/foreign-travel-advice/brazil/print)

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   20 March 2026
+:   12 May 2026
 
 Updated:
-:   19 March 2026
+:   11 May 2026
 
 Latest update:
-:   Updated information for dual British-Belarus nationals intending to travel to Belarus ('Warnings and insurance' and 'Safety and security' pages).
+:   Updated information about the risk of arrest and detention ('Safety and security' page).
 
 ![](https://assets.publishing.service.gov.uk/media/621a51bb8fa8f54916f45f67/FCDO_TA_057_-_Belarus_Travel_Advice_Ed2_WEB.jpg)
 

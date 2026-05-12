@@ -1,13 +1,22 @@
 # Warnings and insurance
 
 Still current at:
-:   1 April 2026
+:   12 May 2026
 
 Updated:
-:   31 March 2026
+:   11 May 2026
 
 Latest update:
-:   Updated information about road attacks to and from Cape Town airport and illegal drugs and cannabis laws (‘Safety and security’ page).
+:   Addition of information about Western Cape travel disruption ('Warnings and insurance' page).
+
+## Western Cape travel disruption
+
+Due to strong winds and heavy rain across the Western Cape, flights to and from Cape Town may be subject to delays, cancellations, or diversion to alternative airports. Travellers are advised to:
+
+* monitor their flight status closely and remain in regular contact with their airline for the latest updates
+* stay away from flooded areas
+* follow advice from local authorities
+* allow for extra time when moving around
 
 ## Before you travel
 

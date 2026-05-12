@@ -73,7 +73,7 @@ Short-term opportunistic kidnapping (called ‘express kidnapping’) can happen
 
 ### Scams
 
-Bank and credit card scams are common, including card cloning from ATMs and in shops. Keep sight of your card and do not use an ATM if you notice anything suspicious.
+Bank and credit card scams are common in Brazil, including card cloning from ATMs and in shops. Payment machine and beach vendor scams have also been reported, particularly in busy tourist areas, where incorrect amounts may be charged or visitors may be overcharged. Always keep sight of your card and check the amount displayed on the payment terminal before paying. Do not use an ATM if you notice anything suspicious. Ask for a receipt, regularly monitor your bank statements, and contact your bank immediately if you notice any discrepancies.
 
 If you withdraw cash at an ATM and the cash has pink marks on it, speak to the bank (or police) straight away to get it changed. It may have been marked as damaged or counterfeit.
 
@@ -183,6 +183,10 @@ Contact the police if vehicles are obstructing traffic and you need help.
 
 Drink-driving is a serious offence in Brazil and checkpoints are often set up. If you’re caught driving under the influence of alcohol, you will be prosecuted. Penalties range from fines and a suspension from driving for 12 months, to up to 3 years in prison.
 
+### Taxi travel
+
+There have been reports of express kidnappings, assaults and robberies from unlicensed taxis, including in cars using fraudulent internet-based taxi accounts. Do not hail taxis on the street. There are authorised taxi booths at most airports in Brazil. If using ride-hailing platforms, always check the number plate and driver are the same as your confirmed booking before getting into the vehicle. Users may track their journey through the app and, if necessary, share their location.
+
 ### Air travel
 
 If you have been a victim of a passport theft and you need to fly to Brasilia, São Paulo or Rio de Janeiro for consular services, you can travel on domestic flights with a valid photo ID or a police report.
@@ -213,12 +217,8 @@ Monitor local media and follow local authority warnings which are displayed on d
 
 Forest fires are common from May to September, especially during July and August due to the dry season. They are highly dangerous and unpredictable. Check the latest alerts and [weather forecast](https://portal.inmet.gov.br/) (in Portuguese) and follow the advice of local authorities if you’re considering travelling to affected areas.
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/brazil/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/brazil/entry-requirements)
 
-[Next
-:
-Regional risks](/foreign-travel-advice/brazil/regional-risks)
+[Next:Regional risks](/foreign-travel-advice/brazil/regional-risks)
 
 [View a printable version of the whole guide](/foreign-travel-advice/brazil/print)
