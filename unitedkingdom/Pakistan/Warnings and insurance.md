@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   18 April 2026
+:   13 May 2026
 
 Updated:
-:   17 April 2026
+:   12 May 2026
 
 Latest update:
-:   New information about the security situation in Islamabad ('Warnings and insurance' page).
+:   Removal of information about the security situation in Islamabad ('Warnings and insurance' page).
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
@@ -75,23 +75,19 @@ FCDO advises against all but essential travel to Dera Ghazi Khan.
 
 Find out more about [why FCDO advises against travel to these regions](/foreign-travel-advice/pakistan/regional-risks).
 
-## Security presence around Islamabad
-
-There is an increased security presence and there are new checkpoints in and around Islamabad which may impact movement around the city and travel times.
-
-There remains an ongoing risk of terrorism. You should be careful around religious sites and gatherings, security checkpoints and tourist sites, and sign up to [FCDO Travel Advice email alerts](https://www.gov.uk/foreign-travel-advice/pakistan/email-signup).
-
 ## Regional tensions
 
-Ongoing regional tensions pose significant security and economic risks and has led to travel disruption. Please check with your airline before travelling.
+Ongoing regional tensions pose significant security and economic risks and have led to travel disruption. Please check with your airline before travelling.
 
 Global supply routes could affect Pakistan’s fuel availability and pricing. This may lead to transport disruption and delays, in some areas.
 
 The regional situation remains tense and can change without warning.
 
+There is an ongoing risk of terrorism.
+
 You should:
 
-* be aware of the risk of terrorism and be careful around protests, demonstrations, rallies and religious gatherings, particularly in urban areas across Pakistan
+* be careful around protests, demonstrations, rallies, security checkpoints, tourist sites, and religious gatherings and sites, particularly in urban areas across Pakistan
 * follow the advice of local authorities and plan ahead to allow extra time for travel and keep up to date with local and international media
 * monitor local and international media for the latest information
 * be prepared to take shelter, stay indoors, or move to a safe building immediately if the local authorities instruct you to do so

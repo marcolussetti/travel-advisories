@@ -1,11 +1,11 @@
 {
     "name": "Maldives",
-    "update_reason": "Updated information on what health risks you\u2019ll face in Maldives ('Health' page).",
+    "update_reason": "Addition of information about diving safaris ('Safety and security' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Maldives/Warnings and insurance.md",
-            "update_date": "2026-04-24T10:57:59+01:00"
+            "update_date": "2026-05-12T12:11:24+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Maldives/Getting help.md"
         }
     ],
-    "update_date": "2026-04-24T10:57:59+01:00"
+    "update_date": "2026-05-12T12:11:24+01:00"
 }

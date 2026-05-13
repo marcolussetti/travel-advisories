@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   27 January 2026
+:   13 May 2026
 
 Updated:
-:   26 January 2026
+:   12 May 2026
 
 Latest update:
-:   Removal of information about risks from large gatherings and celebratory gunfire.
+:   New information about the Somaliland Re-recognition Day (‘Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/61a63d6be90e07044b1ef4b5/s.jpg)
 
@@ -27,6 +27,10 @@ FCDO advises against all travel to Somalia, including the 3 eastern regions of S
 FCDO advises against all but essential travel to the 3 western regions of Somaliland – Awdal (including Boorama), Maroodijeh (including Hargeisa) and Sahil (including Berbera).
 
 Find out more about [why FCDO advises against travel](https://www.gov.uk/foreign-travel-advice/somalia/regional-risks). There has recently been an increase in fighting between al-Shabaab and the Somali Government close to the capital Mogadishu. Please see the [Terrorism section](https://www.gov.uk/foreign-travel-advice/somalia/safety-and-security) for more information.
+
+## Somaliland Re-recognition Day
+
+Somaliland may see an increase in large public gatherings, demonstrations and security activity during the annual 18 May celebrations. In urban areas, celebratory events may involve large crowds and the use of firearms, including celebratory gunfire. Take care in public places where people gather and follow advise of local authorities.
 
 ## Support from FCDO
 

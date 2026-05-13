@@ -1,11 +1,11 @@
 {
     "name": "Pakistan",
-    "update_reason": "New information about the security situation in Islamabad ('Warnings and insurance' page).",
+    "update_reason": "Removal of information about the security situation in Islamabad ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Pakistan/Warnings and insurance.md",
-            "update_date": "2026-04-17T16:17:09+01:00"
+            "update_date": "2026-05-12T11:55:17+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Pakistan/Getting help.md"
         }
     ],
-    "update_date": "2026-04-17T16:17:09+01:00"
+    "update_date": "2026-05-12T11:55:17+01:00"
 }

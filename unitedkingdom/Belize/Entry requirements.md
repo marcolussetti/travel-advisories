@@ -42,12 +42,8 @@ For details about medical entry requirements and recommended vaccinations, see [
 
 There are strict rules about goods you can take into or out of Belize. You must declare anything that may be prohibited or subject to tax or duty. Items that need to be declared will be listed on the customs declaration form. Contact the [Belize Customs and Excise Administration](https://www.customs.gov.bz/contact.html) for more information.
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/belize)
+[Previous:Warnings and insurance](/foreign-travel-advice/belize)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/belize/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/belize/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/belize/print)

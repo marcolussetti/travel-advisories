@@ -106,12 +106,8 @@ Belize is not directly affected by earthquakes, but tremors from earthquakes in 
 
 The US Federal Emergency Management Agency has advice about [what to do before, during and after an earthquake](http://www.ready.gov/earthquakes).
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/belize/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/belize/entry-requirements)
 
-[Next
-:
-Health](/foreign-travel-advice/belize/health)
+[Next:Health](/foreign-travel-advice/belize/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/belize/print)

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   25 April 2026
+:   13 May 2026
 
 Updated:
-:   24 April 2026
+:   12 May 2026
 
 Latest update:
-:   Updated information on what health risks you’ll face in Maldives ('Health' page).
+:   Addition of information about diving safaris ('Safety and security' page).
 
 ## Global travel impacts due to the situation in the Middle East
 

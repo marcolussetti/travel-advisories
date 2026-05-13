@@ -111,6 +111,8 @@ See [water safety on holiday](https://www.rlss.org.uk/safety-on-holiday%22%20/t%
 
 Many resort islands are more than an hour away from the nearest hyperbaric chamber. Make sure you understand how your dive operator would get you to one of the 3 chambers in the islands.
 
+Diving safaris are available and may include opportunities to see sharks. Be aware of the potential risks as accidents can occur and, in rare cases, may be fatal.
+
 ## Transport risks
 
 ### Road travel
