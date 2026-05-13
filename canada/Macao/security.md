@@ -17,7 +17,7 @@ Petty crime such as pickpocketing and purse snatching occurs, particularly:
 While in Macao:
 
 * be vigilant in crowded locations
-* don’t carry large sums of money
+* don't carry large sums of money
 * ensure that your belongings, including your passport and other travel documents, are secure at all times
 
 ### Fraud
@@ -41,17 +41,17 @@ Even peaceful demonstrations can turn violent at any time. They can also lead to
 If you participate in or are witness to a demonstration, you may be subject to scrutiny and severe legal action.
 
 * Avoid areas where demonstrations and large gatherings are taking place
-* Don’t film or take pictures of demonstrations
+* Don't film or take pictures of demonstrations
 * Follow the instructions of local authorities
 * Monitor local media for information on ongoing demonstrations
 
 [Mass gatherings (large-scale events)](https://travel.gc.ca/travelling/health-safety/mass-gatherings)
 
-### Cyber security
+### Cybersecurity
 
-You shouldn’t expect internet privacy. Your communications may be monitored at any time, and authorities may review the content stored or consulted on your electronic devices.
+You shouldn't expect internet privacy. Your communications may be monitored at any time, and authorities may review the content stored or consulted on your electronic devices.
 
-Authorities will be on the lookout for material appearing to be seditious or that is critical of mainland China and local authorities
+Authorities will be on the lookout for material appearing to be seditious or that is critical of mainland China and local authorities.
 
 [Cyber security while travelling](https://travel.gc.ca/travelling/health-safety/cyber-safe)
 
@@ -73,7 +73,7 @@ Public transportation is safe and reliable but may be limited outside tourist ar
 
 Taxis are widely available. Certain ride-sharing apps are illegal in Macao.
 
-Most taxi drivers don’t speak English or French. If you don’t speak Chinese, you should arrange for a person to write out your destination in Chinese characters before you go.
+Most taxi drivers don't speak English or French. Before you travel, have the name and address of your destination written in Chinese characters.
 
 * Use only officially marked taxis
 * Negotiate fares in advance, or insist that the driver use the meter, as you may be overcharged

@@ -22,7 +22,7 @@ Serious crime against foreigners is relatively rare, but incidents may occur.
 While in Hong Kong:
 
 * be vigilant in crowded locations
-* don’t carry large sums of money
+* don't carry large sums of money
 * ensure that your belongings, including your passport and other travel documents, are secure at all times
 
 ### Spiked food and drinks
@@ -54,17 +54,17 @@ Even peaceful demonstrations can turn violent at any time. They can also lead to
 If you participate in or are witness to a demonstration, you may be subject to scrutiny and severe legal action.
 
 * Avoid areas where demonstrations and large gatherings are taking place
-* Don’t film or take pictures of demonstrations
+* Don't film or take pictures of demonstrations
 * Follow the instructions of local authorities
 * Monitor local media for information on ongoing demonstrations
 
 [Mass gatherings (large-scale events)](https://travel.gc.ca/travelling/health-safety/mass-gatherings)
 
-### Cyber security
+### Cybersecurity
 
-You shouldn’t expect internet privacy. Your communications may be monitored at any time, and authorities may review the content stored or consulted on your electronic devices.
+You shouldn't expect internet privacy. Your communications may be monitored at any time, and authorities may review the content stored or consulted on your electronic devices.
 
-Authorities will be on the lookout for material appearing to be seditious or that is critical of mainland China and local authorities
+Authorities will be on the lookout for material appearing to be seditious or that is critical of mainland China and local authorities.
 
 [Cyber security while travelling](https://travel.gc.ca/travelling/health-safety/cyber-safe)
 
@@ -82,13 +82,13 @@ Traffic is congested in urban areas. Roads are narrow and frequently unmarked.
 
 Public transportation in Hong Kong is safe and reliable.
 
-[Public transportation in Hong Kong](https://www.td.gov.hk/en/transport_in_hong_kong/public_transport/index.html) - Transport Department of Hong Kong
+[Public transportation in Hong Kong](https://www.td.gov.hk/en/transport_in_hong_kong/public_transport/index.html) – Transport Department of Hong Kong
 
 #### Taxis
 
-Taxis are widely available. Ride-sharing services are also available.
+Taxis and ride-sharing services are widely available.
 
-Most taxi drivers don’t speak English or French. If you don’t speak Chinese, you should arrange for a person to write out your destination in Chinese characters before you go.
+Most drivers don't speak English or French. Before you travel, have the name and address of your destination written in Chinese characters.
 
 * Use only officially marked taxis or a trusted ride-sharing app
 * Negotiate fares in advance, or insist that the driver use the meter, as you may be overcharged

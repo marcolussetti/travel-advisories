@@ -69,7 +69,7 @@ Hong Kong has strict laws regarding the use, importation or exportation of diffe
 
 * firearms and live ammunition
 * items that may be used as weapons, such as knuckledusters, extendable batons or stunning devices
-* e-cigarettes
+* e-cigarettes and other alternative smoking products
 * powdered baby formula
 * plant or animal products that could carry disease or pests
 
@@ -77,10 +77,25 @@ Your luggage will be scanned upon entry. You could face legal issues if you carr
 
 Confirm the restrictions with the local authorities before travelling.
 
+### Electronic cigarettes, vaporizers and alternative smoking products
+
+It is also illegal to possess, carry or smoke specified alternative smoking products, such as e cigarettes, in public.
+
+It is illegal to import, promote, manufacture, sell and possess for commercial purposes all alternative smoking products in Hong Kong, including:
+
+* electronic smoking products
+* heated tobacco products
+* herbal cigarettes
+
+Convicted offenders can expect heavy fines and imprisonment.
+
+If you are transiting through Hong Kong without passing immigration control, you are exempt.
+
 #### Useful links
 
-* [Prohibited / Controlled Items](https://www.customs.gov.hk/en/passenger_clearance/prohibited_controlled/index.html) - Customs and Excise Department of Hong Kong
-* [Restricted items](https://www.police.gov.hk/ppp_en/04_crime_matters/cpa/cpa_at_01.html) - Hong Kong Police Force
+* [Prohibited / Controlled Items](https://www.customs.gov.hk/en/passenger_clearance/prohibited_controlled/index.html) – Customs and Excise Department of Hong Kong
+* [Restricted items](https://www.police.gov.hk/ppp_en/04_crime_matters/cpa/cpa_at_01.html) – Hong Kong Police Force
+* [Tobacco and Alcohol Control Office Department of Health](https://www.taco.gov.hk/t/english/legislation/legislation_asp.html) – Tobacco Control Legislation
 
 ### Photography
 
@@ -96,7 +111,7 @@ If you are a Canadian dual citizen born in Hong Kong or with current or previous
 
 #### Useful links
 
-* [Chinese nationality](https://www.immd.gov.hk/eng/services/chinese_nationality.html) - Hong Kong Immigration Department
+* [Chinese nationality](https://www.immd.gov.hk/eng/services/chinese_nationality.html) – Hong Kong Immigration Department
 * [General information for travellers with dual citizenship](https://travel.gc.ca/travelling/documents/dual-citizenship)
 
 ### International Child Abduction
@@ -135,7 +150,7 @@ If you are a resident of Hong Kong, you can exchange your Canadian licence for a
 
 #### Useful links
 
-* [Driving in Hong Kong](https://www.td.gov.hk/en/public_services/licences_and_permits/driving_licences/how_to_apply_for_a_driving_licence/driving_in_hong_kong_for_overseas_driving_licence_/index.html) - Transport Department of Hong Kong
+* [Driving in Hong Kong](https://www.td.gov.hk/en/public_services/licences_and_permits/driving_licences/how_to_apply_for_a_driving_licence/driving_in_hong_kong_for_overseas_driving_licence_/index.html) – Transport Department of Hong Kong
 * [More about the International Driving Permit](https://travel.gc.ca/travelling/documents/international-driving-permit)
 
 ### Money
@@ -144,4 +159,4 @@ The currency is the Hong Kong dollar (HKD).
 
 Upon entering or leaving Hong Kong, you must make a declaration to customs if you travel with more than HKD 120,000 or the equivalent in other currencies. The sum can be in cash, cheques, money orders, traveller’s cheques or any other convertible assets.
 
-[Declaration of currency and bearer negotiable instruments](https://www.customs.gov.hk/en/passenger_clearance/instruments/index.html) - Customs and Excise Department of Hong Kong
+[Declaration of currency and bearer negotiable instruments](https://www.customs.gov.hk/en/passenger_clearance/instruments/index.html) – Customs and Excise Department of Hong Kong

@@ -26,7 +26,7 @@ If you decide to travel to Macao during the rainy season:
 
 #### Useful links
 
-* [Current weather and alerts](https://www.smg.gov.mo/en) - Macao Meteorological and Geophysical Bureau
+* [Current weather and alerts](https://www.smg.gov.mo/en) – Macao Meteorological and Geophysical Bureau
 * [Tornadoes, cyclones, hurricanes, typhoons and monsoons](https://travel.gc.ca/travelling/health-safety/hurricanes-typhoons-cyclones-monsoons)
 * [Large-scale emergencies abroad](https://travel.gc.ca/assistance/emergency-info/large-scale-emergencies-abroad)
 
@@ -46,4 +46,4 @@ During periods of high pollution:
 * monitor local media and air pollution levels
 * follow the instructions of local authorities
 
-[Air pollution in Macao](https://aqicn.org/city/macao/) - World Air Quality Index
+[Air pollution in Macao](https://aqicn.org/city/macao/) – World Air Quality Index

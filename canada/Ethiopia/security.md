@@ -18,6 +18,13 @@ Travelling across the country could be increasingly challenging. Public transpor
 * Allow additional time to travel between locations
 * Always keep your gas tank at least half full
 
+### Elections
+
+Nationwide general elections are scheduled to take place on June 1, 2026.
+
+* Avoid large gatherings and demonstrations
+* Follow the instructions of local authorities
+
 The situation is volatile and unpredictable in several areas throughout the country due to ethnic conflicts. Violent clashes occur, especially near regional borders.
 
 Frequent incidents of civil unrest can lead to violence. Sporadic roadblocks, curfews and disruptions to telecommunications services are possible throughout the country.

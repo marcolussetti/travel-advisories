@@ -54,8 +54,8 @@ If you plan to travel between Hong Kong, Macao and mainland China, make sure you
 
 #### Useful links
 
-* [Immigration, visas and residency information](https://www.immd.gov.hk/eng/services/index.html) - Immigration Department of Hong Kong
-* [Applying for visas for mainland China in Hong Kong](http://www.fmcoprc.gov.hk/eng/default.htm) - Office of the Commissioner of the Ministry of Foreign Affairs of China in Hong Kong
+* [Immigration, visas and residency information](https://www.immd.gov.hk/eng/services/index.html) – Immigration Department of Hong Kong
+* [Applying for visas for mainland China in Hong Kong](https://www.visaforchina.cn/HKG3_EN/qianzhengyewu) – Office of the Commissioner of the Ministry of Foreign Affairs of China in Hong Kong
 * [Entry/exit requirements for mainland China](https://travel.gc.ca/destinations/china#entryexit)
 
 ### Screening of digital devices

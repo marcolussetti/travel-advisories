@@ -2,6 +2,28 @@
 
 ## Natural disasters and climate
 
+### Floods
+
+Since early May 2026, heavy rainfall has caused severe flooding and landslides in several provinces, particularly in Western Cape Province, which includes Cape Town. There is significant damage to buildings and infrastructure.
+
+Additional rainfall is expected over the coming days, increasing the risk of further flooding.
+
+The following essential services could be disrupted:
+
+* transportation, including Cape Town airport
+* power distribution
+* telecommunication networks
+
+If you're in or near affected areas:
+
+* exercise caution
+* avoid flooded roads and low-lying areas
+* monitor local news and weather reports
+* confirm the status of roads with local authorities before travelling
+* follow the instructions of local authorities, including evacuation orders
+
+[South African Weather Service](https://www.weathersa.co.za/) – Government of South Africa
+
 ### Climate change
 
 Climate change is affecting South Africa. Extreme and unusual weather events are becoming more frequent and may affect your travel plans. Monitor local media for the latest information.

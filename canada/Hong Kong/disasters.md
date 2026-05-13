@@ -26,8 +26,8 @@ If you decide to travel to Hong Kong during the rainy season:
 
 #### Useful links
 
-* [Current weather and alerts](https://www.hko.gov.hk/en/index.html) - Hong Kong Observatory
-* [Information on tropical cyclone warning signals](https://www.hko.gov.hk/publica/gen_pub/tcws.pdf) - Hong Kong Observatory
+* [Current weather and alerts](https://www.hko.gov.hk/en/index.html) – Hong Kong Observatory
+* [Information on tropical cyclone warning signals](https://www.hko.gov.hk/publica/gen_pub/tcws.pdf) – Hong Kong Observatory
 * [Tornadoes, cyclones, hurricanes, typhoons and monsoons](https://travel.gc.ca/travelling/health-safety/hurricanes-typhoons-cyclones-monsoons)
 * [Large-scale emergencies abroad](https://travel.gc.ca/assistance/emergency-info/large-scale-emergencies-abroad)
 
@@ -47,4 +47,4 @@ During periods of high pollution:
 * monitor local media and air pollution levels
 * follow the instructions of local authorities
 
-[Air pollution in Hong Kong](https://aqicn.org/city/hongkong/) - World Air Quality Index
+[Air pollution in Hong Kong](https://aqicn.org/city/hongkong/) – World Air Quality Index

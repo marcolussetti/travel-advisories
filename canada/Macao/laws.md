@@ -44,6 +44,10 @@ Photography of military installations, government buildings may be restricted. S
 
 Taking photographs in the gambling areas of the casinos is prohibited.
 
+### Electronic cigarettes and vaporizers
+
+It is prohibited to import, export and distribute e-cigarettes, vaporizers and their refills. Convicted offenders can expect heavy fines.
+
 ### Dual citizenship
 
 The Nationality Law of the People's Republic of China applies in the Macao Special Administrative Region (MSAR). Under this law, dual citizenship is not legally recognized in Macao.
@@ -54,7 +58,7 @@ If you are a Canadian dual citizen born in Macao or with current or previous Mac
 
 #### Useful links
 
-* [More information about naturalization](https://www.dsi.gov.mo/nationality_e.jsp) - Macao Department of Identification
+* [More information about naturalization](https://www.dsi.gov.mo/nationality_e.jsp) – Macao Department of Identification
 * [General information for travellers with dual citizenship](https://travel.gc.ca/travelling/documents/dual-citizenship)
 
 ### International Child Abduction
@@ -91,7 +95,7 @@ You should carry an international driving permit. If you are a resident of Macao
 
 #### Useful links
 
-* [Foreign licence exchange](https://www.gov.mo/en/services/ps-1914/ps-1914m/) - Government of Macao
+* [Foreign licence exchange](https://www.gov.mo/en/services/ps-1914/ps-1914m/) – Government of Macao
 * [More about the International Driving Permit](https://travel.gc.ca/travelling/documents/international-driving-permit)
 
 ### Money

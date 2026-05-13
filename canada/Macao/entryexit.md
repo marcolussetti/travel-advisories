@@ -57,7 +57,7 @@ If you plan to travel between Macao, Hong Kong and mainland China make sure you 
 
 #### Useful links
 
-* [Entry and Exit of Non-residents](https://www.fsm.gov.mo/psp/eng/psp_top5_2_1.html) - Public Security Police Force of Macao
+* [Immigration Clearance of Non-residents of Macao](https://www.gov.mo/en/services/ps-1474/ps-1474b/) – Public Security Police Force of Macao
 * [Entry/exit requirements for mainland China](https://travel.gc.ca/destinations/china#entryexit)
 
 ### Other entry requirements
