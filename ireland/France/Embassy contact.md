@@ -17,8 +17,9 @@ France
 
 ### Ireland's Consulate in Lyon
 
-23 rue Crepet   
-69007 Lyon   
+Espace Cordeliers   
+2 Rue du Président Carnot   
+69002 Lyon   
 France
 
 [Tel: +33 1 44 17 67 81](tel:+331 44 17 67 81)

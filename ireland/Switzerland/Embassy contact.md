@@ -19,8 +19,9 @@ Switzerland
 
 Mr Stefan Studer   
 Honorary Consul of Ireland   
-Claridenstrasse 25,   
-Postfach 2172, CH-8027 Zü
+Pfingstweidstrasse 106   
+Zurich   
+8005
 
 [Tel: +41 44 289 25 15](tel:+4144 289 25 15)
 
