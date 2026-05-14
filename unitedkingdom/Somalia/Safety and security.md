@@ -61,6 +61,8 @@ Make sure you have carefully considered the threat and have reasonable, proporti
 
 ## Political situation
 
+Somalia may see an increased risk of politically motivated unrest in the period around 15 May 2026. Past unrest has included protests and incidents of violence, including fatalities.
+
 Political and community-based violence is common across Somalia, including Somaliland, and can flare up with little warning. Take care in public places where people gather. Monitor local and international media to help you avoid areas where demonstrations, protests, large crowds or disturbances are taking place. Leave any area of unrest quickly and do not attempt to watch or photograph it.
 
 ## Crime

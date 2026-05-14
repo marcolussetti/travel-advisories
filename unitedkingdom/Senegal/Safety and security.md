@@ -97,7 +97,7 @@ Larger or more upmarket establishments that cater for tourists usually accept fo
 
 Same-sex sexual acts are illegal in Senegal. The law is enforced and has led to arrests.
 
-A bill passed by Parliament on 11 March 2026, but not yet signed into law, would increase prison sentences for same-sex relations to 5–10 years and criminalise the “promotion, support or funding” of homosexuality, bisexuality and transsexuality.
+On 30 March 2026, Senegal amended legislation increasing prison sentences for same-sex relations to 5–10 years and criminalise the “promotion, support or funding” of homosexuality, bisexuality and transsexuality.
 
 Same-sex relationships are generally not tolerated in Senegalese society. There is a risk of discrimination or harassment against individuals thought to be part of the LGBT+ community or perceived to be supporting their rights.
 

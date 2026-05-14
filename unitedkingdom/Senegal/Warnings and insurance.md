@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   25 March 2026
+:   14 May 2026
 
 Updated:
-:   24 March 2026
+:   13 May 2026
 
 Latest update:
-:   New information for LGBT+ travellers (see ‘LGBT+ travellers’ on the ‘Safety and security page’).
+:   Updated information for LGBT+ travellers due to legislation being amended around same-sex relations (‘Safety and security' page).
 
 ## Before you travel
 

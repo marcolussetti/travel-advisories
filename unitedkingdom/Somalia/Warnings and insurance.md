@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   13 May 2026
+:   14 May 2026
 
 Updated:
-:   12 May 2026
+:   13 May 2026
 
 Latest update:
-:   New information about the Somaliland Re-recognition Day (‘Warnings and insurance’ page).
+:   Updated information about the political situation ('Safety and security' page).
 
 ![](https://assets.publishing.service.gov.uk/media/61a63d6be90e07044b1ef4b5/s.jpg)
 
@@ -28,7 +28,7 @@ FCDO advises against all but essential travel to the 3 western regions of Somali
 
 Find out more about [why FCDO advises against travel](https://www.gov.uk/foreign-travel-advice/somalia/regional-risks). There has recently been an increase in fighting between al-Shabaab and the Somali Government close to the capital Mogadishu. Please see the [Terrorism section](https://www.gov.uk/foreign-travel-advice/somalia/safety-and-security) for more information.
 
-## Somaliland Re-recognition Day
+## Somaliland 18 May
 
 Somaliland may see an increase in large public gatherings, demonstrations and security activity during the annual 18 May celebrations. In urban areas, celebratory events may involve large crowds and the use of firearms, including celebratory gunfire. Take care in public places where people gather and follow advise of local authorities.
 
