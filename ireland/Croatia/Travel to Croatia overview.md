@@ -6,36 +6,34 @@ Normal Precautions
 
 ### **General Travel Advice**
 
-Irish citizens need a valid passport or passport card to enter Croatia.
+Irish citizens need a valid passport or passport card to enter Croatia.
 
 Irish passports do not have a minimum validity requirement while travelling to the UK or within the EU. When travelling within Europe with an Irish passport, it should be valid for the duration of your stay.
 
-Irish citizens do not require a visa to enter Croatia. However, if you are staying for longer than three months, you are advised to register their presence with temporary stay at a local police station.
+Irish citizens do not require a visa to enter Croatia. However, if you are staying for longer than three months, you must register your temporary stay at your local police station no later than eight days following the expiration of your three-month stay period. Information on registering your stay in Croatia can be found [**here**](https://mup.gov.hr/aliens-281621/stay-and-work/short-term-temporary-and-permanent-stay-of-eea-nationals/281689).
 
-Visitors to Croatia are advised to follow the guidance of national and local authorities and stay fully informed of what's going on by monitoring local news and social media.
+Visitors to Croatia are advised to follow the guidance of national and local authorities and stay fully informed by monitoring local news and social media.
 
 Citizens can also follow the Embassy on social media (X [**@IrlEmbCroatia**](https://twitter.com/IrlEmbCroatia) and [**Facebook**](https://www.facebook.com/irlembzagreb)) to ensure access to relevant updates and alerts.
-
-### **Earthquakes and Forest Fires**
-
-Croatia is located in a seismic region. While earthquakes are uncommon and mostly minor, there have recently been larger incidents. If you are travelling to or living in Croatia, make sure you know what to do in the event of an earthquake.
-
-Forest fires are very common during Croatia’s hot and dry summers. Outbreaks occur regularly and, although these are usually quickly brought under control by the Croatian Fire Service without travel disruption, it’s important to be aware of the potential outbreaks and remain alert.
 
 ### **Emergency Assistance**
 
 The best help is often close at hand so if you have problems, try talking to your local contacts, tour operator representative or hotel management.
 
-You can contact the emergency services in Croatia by dialling 112. Specific emergency numbers are:
+You can contact the [**emergency services in Croatia**](https://gov.hr/en/112-uniform-european-emergency-phone-number/1184) in Croatia by dialling 112. Specific emergency numbers are:
 
-* Police: 192
-* Fire brigade: 193
-* Ambulance: 194
+* Police: 192 or your [**nearest police station**](https://mup.gov.hr/police/police-administration/146)
+* [**Fire brigade**](https://gov.hr/en/193-firemen/2350): 193
+* [**Emergency medical help**](https://gov.hr/en/194-emergency-medical-help/1186): 194
+* [**Search and Rescue** **at Sea**](https://gov.hr/en/195-maritime-search-and-rescue-service/1188): 195
+* [**Roadside assistance**](https://www.hak.hr/en#traffic-flow-and-road-conditions): 1987
+
+If calling from a non-Croatian phone, you may need to add the Croatian prefix 00 385 before the contact number above.
 
 ### **Our Tips for Safe Travels:**
 
 * Get comprehensive travel insurance that covers all your planned activities.
-* Get a [**European Health Insurance Card**](http://www.hse.ie/eng/services/list/1/schemes/EHIC/)**.**
+* Get a [**European Health Insurance Card**](https://www2.hse.ie/services/schemes-allowances/ehic/)**.**
 * [**Register**](https://www.ireland.ie/en/dfa/overseas-travel/citizens-registration/) your details with us so that we can contact you quickly if there’s an unforeseen crisis like a natural disaster or a family emergency.
 * Follow us on X [**@dfatravelwise**](https://www.twitter.com/DFATravelWise) and Instagram [**@dfatravelwise**](https://www.instagram.com/dfatravelwise/) for the latest travel updates.
 * Read our [**‘Know Before You Go’**](https://www.ireland.ie/en/dfa/overseas-travel/know-before-you-go-/) guide.

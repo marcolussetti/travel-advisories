@@ -1,8 +1,8 @@
 ## Embassy contact
 
-If you are in need of emergency assistance in Croatia outside office hours, please contact the Embassy at +385 (0)1 627 8920 and leave a message on the answering machine.
+If you are in need of emergency consular assistance in Croatia outside office hours, please contact the Embassy at +385 (0)1 627 8920 and leave a message on the answering machine which will reach the duty officer.
 
-Monday to Friday from 09:30 - 12:30 and 14:30 - 16:00
+The lines are monitored Monday to Friday (excluding holidays) from 09:30 - 12:30 and 14:30 - 16:00
 
 ### Embassy of Ireland, Croatia
 
