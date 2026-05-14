@@ -160,21 +160,20 @@ If you suspect fraud in the real estate procedures, contact the Federal Consumer
 
 Travellers have fallen victim to online scams, including phishing emails and romance scams. Certain scams target senior citizens.
 
- Scam victims can be subject to:
+ Scam victims may be:
 
-* coercion into acting as a drug or money courier for criminal groups
-* kidnapping
-* forced money transfers and withdrawals of funds
+* coerced or tricked into acting as a drug or money courier for criminal groups
+* kidnapped
+* forced to transfer money or withdraw funds
 
 Before travelling to Mexico to visit someone you met online:
 
-* be wary of individuals who ask you to carry a package from Mexico on their behalf
+* be wary of individuals who ask you to carry a package from Mexico on their behalf, as drugs may be concealed in objects that appear harmless
 * beware of people who show a keen interest in you online
 
 #### Useful links
 
 * [Drugs, alcohol and travel](https://travel.gc.ca/travelling/health-safety/drugs)
-* [Warning to Canadian Seniors Targeted by International Drug Smuggling Scams](http://www.cbsa-asfc.gc.ca/security-securite/senior-aines-eng.html)
 * [Travelling to meet someone you met online](https://travel.gc.ca/travelling/health-safety/overseas-fraud#travelling)
 
 #### Credit card, debit card and ATM fraud
@@ -387,7 +386,10 @@ Police don’t strictly enforce traffic laws, including for drinking and driving
 
 * [Road alerts](https://www.gob.mx/guardianacional/es/articulos/servicio-de-alertas-digitales-gn-carreteras?idiom=es) – Government of Mexico (Spanish only)
 * [Information on roadside assistance](https://www.gob.mx/sectur%7Cangelesverdes/en) – Government of Mexico (Spanish only)
-* [Pre-paid toll card](https://www.pase.com.mx/) (Spanish only)
+* [Federal toll roads/bridges (IAVE)](https://iave.capufe.gob.mx/) – Government of Mexico (Spanish only)
+* [Urban, private, state and federal tolls (PASE)](https://pasepormexico.com/) (Spanish only)
+* [Major highway tolls (TeleVia)](https://televia.com.mx/) (Spanish only)
+* [Tolls for certain regional or route-specific corridors (VIAPASS)](https://www.viapass.com.mx/Portal_web/) (Spanish only)
 
 #### Road conditions
 

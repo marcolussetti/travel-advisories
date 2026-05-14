@@ -25,12 +25,13 @@ The features in this map do not constitute an authoritative source of geographic
 [Avoid all travel](#levels "Risk Levels") to :
 
 * the area within 50 km of the border with Afghanistan
-* the areas within 10 km of the borders with China, India and Iran, except the official border crossings at:
+* the areas within 10 km of the borders with China, India and Iran, except the following official border crossings where you should exercise a high degree of caution:
 
 + Wagah (which is currently closed) and the Grand Trunk Road leading there
 + Khunjerab Pass and the Karakorum Highway leading there
++ the Kartarpur Corridor (which is intermittently open) for people visiting Gurdwara Darbar Sahib
 
-* the areas within 10 km of the Line of Control
+* the areas within 10 km of the Line of Control with India
 * the section of the Karakoram Highway from Mansehra to Chilas
 * Pakistan-administered Kashmir
 * the province of Balochistan
@@ -42,4 +43,13 @@ The features in this map do not constitute an authoritative source of geographic
 
 ### Karachi - Avoid non-essential travel
 
-[Avoid non-essential travel](#levels "Risk Levels") to the city of Karachi, due to violence and the risk of terrorism.
+[Avoid non-essential travel](#levels "Risk Levels") to the city of Karachi, due to the risk of crime and terrorism, with the exception of the following areas where you should exercise a high degree of caution:
+
+* District of Karachi (formerly Karachi South), including:
+
++ Clifton area
++ Defence Housing Authorities (DHA) Phases 1, 2, 4, 5, 6, 7 and 8, excluding the areas northwest of Muhammad Ali Jinnah Road and northeast of DHA Phase 1 and the Main Korangi Road
+
+* DHA Phase 7 Extension in the District of Korangi
+* Lalazar, Naval Officers Residential Estate 1 and Port Tower Complex in the District of Keamari
+* Jinnah International Airport and Shahrah-e-Faisal Road between the airport and the city, in the District of Gulshan

@@ -37,7 +37,7 @@ Know the symptoms of dehydration and heatstroke, which can both be fatal.
 
 ### Flooding and landslides
 
-Heavy rains can cause flooding and landslides, especially between June and November. They can hamper overland travel, particularly in rural areas. Roads may become impassable and infrastructure damaged.
+Heavy rains can cause flooding and landslides, especially between May and November. They can hamper overland travel, particularly in rural areas. Roads may become impassable and infrastructure damaged.
 
 ### Earthquakes and tsunamis
 

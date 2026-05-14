@@ -1,7 +1,7 @@
 {
     "name": "Mexico",
-    "update_reason": "Editorial change",
-    "update_date": "2026-05-11T15:31:00",
+    "update_reason": "Safety and security section \u2013 updated information on online scams and road safety; Natural disasters and climate section \u2013 updated information on flooding and landslides",
+    "update_date": "2026-05-13T14:23:00",
     "sections": {
         "risk": "canada/Mexico/risk.md",
         "security": "canada/Mexico/security.md",

@@ -29,7 +29,7 @@ Security forces continue to be on high alert in the following cities:
 * Islamabad
 * Rawalpindi
 * Lahore
-* Karachi, including the port and international airport
+* Karachi, including the port
 
 The security situation is evolving and remains unpredictable. Protests linked to regional tensions have taken place and more are expected in major cities across Pakistan. Local authorities have heightened security measures around diplomatic areas in Islamabad, Karachi and Lahore.
 
@@ -58,9 +58,9 @@ In May 2025, the Indian military conducted airstrikes on several targets in Paki
 
 The Wagah border crossing is currently closed.
 
-### Border areas with Afghanistan, China and Iran
+### Border areas with Afghanistan and Iran
 
-Border areas with Afghanistan, China and Iran often experience terrorist activity, smuggling and violence. With the exception of official border crossings, foreigners are prohibited from travelling within 50 kilometres of the border with Afghanistan.
+Border areas with Afghanistan and Iran often experience terrorist activity, smuggling and violence. With the exception of official border crossings, foreigners are prohibited from travelling within 50 kilometres of the border with Afghanistan.
 
 Bandits in border areas with Afghanistan and Iran are usually involved in drug trafficking.
 
@@ -91,7 +91,7 @@ Certain sectors of Karachi experience high levels of violence. These include:
 * Quaidabad
 * Orangi Town
 
-Extremist groups are present in some parts of the city and there have been terrorist attacks in recent years on high-profile targets, including the Stock Exchange and Chinese Consulate. Carefully plan any travel to, or in the city. Strikes and protest marches tend to take place in central areas of Karachi. These events may cause travel disruptions throughout the city and lead to violent civil unrest. Other criminal activities and violence that can occur in Karachi include carjacking, armed robbery, kidnapping and murder.
+Extremist groups are present in some parts of the city and there have been terrorist attacks on high-profile targets, including the Stock Exchange and Chinese Consulate. Carefully plan any travel to, or in the city. Strikes and protest marches tend to take place in central areas of Karachi. These events may cause travel disruptions throughout the city and lead to violent civil unrest. Other criminal activities and violence that can occur in Karachi include carjacking, armed robbery, kidnapping and murder.
 
 ### Gilgit-Baltistan
 
@@ -150,7 +150,7 @@ Stay away from areas where military or militant activity is taking place.
 
 #### Kidnapping
 
-The risk of kidnapping for ransom is high, especially in Balochistan, Punjab and Sindh. Pakistani citizens are particularly at risk. Express kidnapping also takes place.
+The risk of kidnapping for ransom is high, especially in Balochistan and Khyber Pakhtunkhwa. Pakistani citizens are particularly at risk. Express kidnapping also takes place.
 
 * Use varied and unpredictable routes and schedules when moving from one place to another
 * Maintain a high level of vigilance at all times
@@ -201,7 +201,7 @@ There are no laws in Pakistan to prohibit public or private sector discriminatio
 
 ### Forced marriages
 
-Forced marriage affecting foreigners occurs. It sometimes occurs without the affected person's prior knowledge or consent.
+Forced marriage affecting Canadians of Pakistani-origin occurs. It sometimes occurs without the affected person's prior knowledge or consent.
 
 Some Canadians have been forced into marital arrangements and have been detained against their will. They have been subjected to threats, intimidation and violence by family members.
 
