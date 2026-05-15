@@ -6,7 +6,6 @@ The lines are monitored Monday to Friday (excluding holidays) from 09:30 - 12:30
 
 ### Embassy of Ireland, Croatia
 
-Square One,   
 Trg Žrtava Fašizma 1,   
 Zagreb,   
 Croatia   
@@ -14,11 +13,9 @@ Croatia
 
 [Tel: +385 1 6278 920](tel:+3851 6278 920)
 
-Fax: +385 (0)1 3877 221
-
 [**Contact us**](/en/croatia/zagreb/contact/)
 
-### Split
+### Honorary Consul of Ireland, Split
 
 Mr. Emil Tedeschi   
 Rovinjska 4   
@@ -31,4 +28,4 @@ Fax: +385 (0)21 480 513
 
 **Email:**[emil.tedeschi@honoraryconsul.ie](mailto:emil.tedeschi@honoraryconsul.ie)
 
-Working hours: 09:00 - 13:00
+Working hours: Monday to Friday (excluding holidays) 09:00 - 13:00

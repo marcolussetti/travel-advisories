@@ -2,7 +2,7 @@
 
 ### **Vaccinations**
 
-Inoculations are generally not needed but visitors with existing medical conditions or illnesses should seek specific advice in advance from their GPs.
+Inoculations are generally not needed but visitors with existing medical conditions or illnesses should seek specific advice in advance from their GPs, including in respect of the continuing presence of feral dogs in cities.
 
 ### **Medical Services**
 
