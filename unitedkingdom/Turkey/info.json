@@ -1,11 +1,11 @@
 {
     "name": "Turkey",
-    "update_reason": "Updated information on Ramadan, terrorism and children and accommodation (\u2018Safety and security\u2019 page).",
+    "update_reason": "New information about the upcoming UEFA Europa League Final on 20 May ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Turkey/Warnings and insurance.md",
-            "update_date": "2026-05-08T16:33:46+01:00"
+            "update_date": "2026-05-14T16:39:45+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Turkey/Getting help.md"
         }
     ],
-    "update_date": "2026-05-08T16:33:46+01:00"
+    "update_date": "2026-05-14T16:39:45+01:00"
 }

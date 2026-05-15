@@ -48,7 +48,7 @@ Check all terms and conditions of your employment carefully. If possible, speak 
 
 Foreign nationals entering South Korea are required to submit an entry declaration form (arrivals card) to the immigration officer upon arrival. From 24 February 2025, passengers may submit an e-Arrival card online in advance instead of submitting a paper form to the immigration officers.
 
-The e-Arrival card can be submitted up to 72 hours before arrival in South Korea. There is no fee to submit the e-Arrival card. Travellers should visit the [e-Arrival card website](https://www.e-arrivalcard.go.kr/portal/main/index.do) for further details on the e-Arrival card submission process. Paper entry declaration forms will still be available.
+You can submit the e-Arrival card within 72 hours (3 days) before your arrival in Korea. There is no fee to submit the e-Arrival card. Travellers should visit the [e-Arrival card website](https://www.e-arrivalcard.go.kr/portal/main/index.do) for further details on the e-Arrival card submission process. Paper entry declaration forms will still be available.
 
 ## Health screening
 

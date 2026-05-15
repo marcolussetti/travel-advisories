@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   9 May 2026
+:   15 May 2026
 
 Updated:
-:   8 May 2026
+:   14 May 2026
 
 Latest update:
-:   Updated information on Ramadan, terrorism and children and accommodation (‘Safety and security’ page).
+:   New information about the upcoming UEFA Europa League Final on 20 May ('Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/69a6faa2a2495f2d259f13d2/FCDO_TA_043_-_Turkey_Travel_Advice_Ed4_WEB.jpg)
 
@@ -27,6 +27,18 @@ Find out more about [why FCDO advises against travel](https://www.gov.uk/foreig
 ## Support from the UK government
 
 While 24-hour consular assistance is available by phone or online, in-person consular support is severely limited in areas where we advise against travel.
+
+## UEFA Europa League Final
+
+Istanbul will stage the UEFA Europa League Final (UELF26) on Wednesday 20 May, with Aston Villa FC and SC Freiburg in the final. If you are travelling to Istanbul for UELF26, read our Travel advice and sign up to [FCDO Travel advice email alerts](https://www.gov.uk/foreign-travel-advice/turkey/email-signup).
+
+British nationals should:
+
+* plan your movement around the city to arrive at the dedicated fan zone in Gezi Park, Taksim Square or the stadium well in advance of the match starting
+* follow the instructions of the local authorities
+* take care of your personal possessions including passports, especially in crowds and on public transport
+
+Further information can be found on the Aston Villa FC [website](https://www.avfc.co.uk/) and the [UEFA event guide for UELF26](https://www.uefa.com/uefaeuropaleague/event-guide/travel/?articleid=029e-1efaa9ea5321-de2829c623c1-1000).
 
 ## Regional escalation
 
