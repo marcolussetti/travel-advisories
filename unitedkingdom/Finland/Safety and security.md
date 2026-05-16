@@ -44,6 +44,10 @@ Drink-driving is a serious offence in Finland, and you could get a prison senten
 
 Parts of Finland are in the Arctic Circle, including some very remote areas of land. Emergency medical assistance and search and rescue are limited in these areas. See [Arctic travel safety advice](https://www.gov.uk/guidance/arctic-travel-safety-advice).
 
+### Drone activity
+
+Some Ukrainian drones aimed at Russia have crossed into Finnish territory. Follow official guidance as necessary.
+
 [Previous:Entry requirements](/foreign-travel-advice/finland/entry-requirements)
 
 [Next:Health](/foreign-travel-advice/finland/health)

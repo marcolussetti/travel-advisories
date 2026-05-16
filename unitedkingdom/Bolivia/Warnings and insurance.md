@@ -1,43 +1,45 @@
 # Warnings and insurance
 
 Still current at:
-:   9 May 2026
+:   16 May 2026
 
 Updated:
-:   8 May 2026
+:   15 May 2026
 
 Latest update:
-:   Updated information on transport strike including for those in accommodation along multiple routes from La Paz ("Warnings and Insurance").
+:   FCDO now advises against all but essential travel to the department of La Paz, including the city of La Paz. Updated information about ongoing protests and road blockades ('Warnings and insurance' page).
 
-![](https://assets.publishing.service.gov.uk/media/672ccc5a62831268b0b1a328/FCDO__TA__098_-_Bolivia_Travel_Advice_Ed1__WEB_.jpg)
+![](https://assets.publishing.service.gov.uk/media/6a073acefcae986635db9038/FCDO__TA__098_-_Bolivia_Travel_Advice_Ed2__WEB_.jpg)
 
 
-[Download a more detailed map (PDF, 740 KB)](https://assets.publishing.service.gov.uk/media/672ccc5aeee595f5288bdc09/FCDO__TA__098_-_Bolivia_Travel_Advice_Ed1.pdf)
+[Download a more detailed map (PDF, 773 KB)](https://assets.publishing.service.gov.uk/media/6a073acffcae986635db9039/FCDO__TA__098_-_Bolivia_Travel_Advice_Ed2.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
 ## Areas where FCDO advises against all but essential travel
 
+FCDO advises against all but essential travel to the department of La Paz, including the city of La Paz.
+
 FCDO advises against all but essential travel to the Chapare region of Cochabamba Department including Villa Tunari and highway routes 4 and 24 that pass through Chapare.
 
 Find out more about [why FCDO advises against travel](https://www.gov.uk/foreign-travel-advice/bolivia/safety-and-security).
 
-## Transport strike
+## Protests and road blockades
 
-The interprovincial transport union of La Paz announced an indefinite strike from 6 May 2026. If a bus company sells you a ticket ‘condicionado’ it means they will not guarantee arrival to your destination. Check local advice before travelling and do not cross blockades.
+There are ongoing protests and road blockades in the department of La Paz, including the city of La Paz, with the risk of them becoming violent. Follow the advice of local authorities and do not cross blockades.
 
-When travelling, do not use the roads on following routes until further notice:
+The situation has the potential to deteriorate quickly and without warning. Make sure you are ready to change your plans quickly if needed. If you are trying to leave Bolivia, check for messaging from your airline or tour operator for up-to-date information. Ensure your travel documents remain valid and confirm you have any required visas for onward travel.
 
-* Between La Paz and Copacabana (Lake Titicaca)
-* Between La Paz and Oruro
-* Between La Paz and Uyuni via Oruro
-* Between La Paz and Rurrenabaque
+Due to the road blockades, if you purchase a bus ticket ‘condicionado’ it means the bus company may not be able to guarantee arrival to your destination. When travelling, do not use the roads on following routes until further notice:
 
-Walking on certain roads may be dangerous due to ongoing violence and the effects of altitude. If you are in safe accommodation along these routes, you should remain there and follow the advice of the local authorities.
+* between La Paz and Copacabana (Lake Titicaca)
+* between La Paz and Oruro
+* between La Paz and Uyuni via Oruro
+* between La Paz and Rurrenabaque
 
-Flights operate normally.
+Walking on certain roads may be dangerous due to the risk of violence around blockades and the effects of altitude. If you are in safe accommodation along these routes, you should remain there and follow the advice of the local authorities.
 
-Any British national who is currently stuck in a road blockade, or who requires urgent consular assistance, should contact us by phone or WhatsApp on +591 2-2010020.
+Any British national who is currently stuck in a road blockade, or who requires urgent consular assistance, should contact us by phone on +44 (0)20 7008 5000, selecting the option: ‘Consular services for British nationals’. You’ll be put through to our 24/7 Consular team in our Consular Contact Centre. If you are in Bolivia and using a phone with a local SIM please call +591 2-2010020 and select option 2.
 
 ## Before you travel
 

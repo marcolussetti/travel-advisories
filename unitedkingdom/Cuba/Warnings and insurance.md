@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   3 April 2026
+:   16 May 2026
 
 Updated:
-:   2 April 2026
+:   15 May 2026
 
 Latest update:
-:   Updated information about ongoing travel disruption ('Warnings and insurance' page).
+:   Updated information about fuel shortages ('Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/698cc89184cc2df4a87123d5/FCDO__TA__103_-_Cuba_Travel_Advice_Ed1__WEB_.jpg)
 
@@ -22,7 +22,7 @@ The ongoing situation in Cuba has led to a series of recent protests. To date mo
 
 ### Power outages and fuel shortages
 
-Cuba is experiencing severe and worsening disruption to essential infrastructure, persistent power outages across the country and fuel shortages. These conditions are significantly affecting the ability of visitors to access reliable transport, medical care, communications, and basic services. Authorities have introduced fuel rationing, scaled back public services, and made temporary changes to healthcare, education, transport and tourism operations to conserve severely limited energy supplies.
+On 13 May, the Cuban government announced that the country had exhausted its reserves of diesel and fuel oil. This may lead to severe and sustained disruption to essential infrastructure and basic services, including transport, medical care and communications. Authorities have introduced fuel rationing, scaled back public services, and made changes to healthcare, education, transport and tourism operations to conserve severely limited energy supplies.
 
 If you are currently in Cuba, carefully consider if your presence is essential. Take precautions by conserving fuel, water, food and mobile phone charge, and be prepared for significant disruption.
 

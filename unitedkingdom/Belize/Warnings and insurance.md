@@ -1,17 +1,23 @@
 # Warnings and insurance
 
 Still current at:
-:   13 May 2026
+:   16 May 2026
 
 Updated:
-:   12 May 2026
+:   15 May 2026
 
 Latest update:
-:   New information about a State of Emergency which is now in place in some regions within Belize City and the Belize District (‘Warnings and insurance’ page).
+:   Updated information about the ongoing State of Emergency covering specific regions within Belize City and the Belize District ('Warnings and insurance' page).
 
 ## State of Emergency declared
 
-The Government of Belize has announced a 30-day State of Emergency covering specific regions within Belize City and the Belize District. This includes areas such as:
+The Government of Belize has announced a 30-day State of Emergency covering specific regions within Belize City and the Belize District.
+
+This was implemented in response to a surge in gang related violence and grants law enforcement expanded powers to restore order and ensure public safety in affected communities. Short term States of Emergency are used periodically in Belize.
+
+The current State of Emergency provides the police with extended powers, and this includes the introduction of a curfew for minors running from 8pm to 6am daily and requires that any minor out in public during these hours must be accompanied by an adult guardian.
+
+This includes areas such as:
 
 * the Southside and parts of Northside in Belize City
 * Belize Rural
@@ -25,9 +31,7 @@ The Government of Belize has announced a 30-day State of Emergency covering sp
 * Rancho Dolores Village
 * Double Head Cabbage Village
 
-This was implemented in response to a surge in gang related violence and grants law enforcement expanded powers to restore order and ensure public safety in affected communities.
-
-Stay away from these areas and follow the advice of local authorities.
+There will be a noticeable increase in Police checkpoints in the affected areas and British nationals should carry valid ID, remain vigilant at all times, and monitor local media to stay informed of the evolving situation.
 
 ## Before you travel
 

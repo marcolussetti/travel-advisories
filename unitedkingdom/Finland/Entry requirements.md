@@ -32,12 +32,6 @@ The [requirements for working in Finland](https://www.gov.uk/guidance/travel-to-
 
 If you’re travelling to other Schengen countries as well, make sure your whole visit is within the 90-day visa-free limit. Visits to Schengen countries within the previous 180 days before you travel count towards your 90 days.
 
-Until the Entry-Exit System (EES) is fully rolled out, make sure you get your passport stamped on entry and exit (read ‘New Schengen entry requirements’).
-
-If you’re a visitor, border guards will look at your entry and exit stamps to check you have not overstayed the 90-day visa-free limit for the Schengen area.
-
-If your passport is missing a stamp, show evidence of when and where you entered or left the Schengen area (for example, boarding passes or tickets) and ask the border guards to add the date and location in your passport.
-
 At Finnish border control, you may also need to:
 
 * show proof of your accommodation, for example, a hotel booking confirmation or proof of address for a second home
@@ -56,11 +50,11 @@ Read about [entry processes if you live in Finland](https://www.gov.uk/guidance
 
 The European Union’s (EU) new Entry/Exit System (EES) is now being implemented across the Schengen area.
 
-This means that when you travel into the Schengen area for short stays, you may need to register your biometric details, such as fingerprints and a photo. You do not need to take any action before you arrive at the border, and there is no cost for EES registration.
+This means that when you travel into the Schengen area for short stays, you may need to register your biometric details, such as fingerprints and a photo. There is no cost for EES registration.
 
 On your first visit into a Schengen country, you may be asked to register your details at a special booth before proceeding to the immigration desk. Follow directions from your travel operator or the staff at your port of entry. You may also need to provide either your fingerprint or photo when you leave the Schengen area. Children aged 11 or younger will not have their fingerprints scanned but can be required to have their photo taken.
 
-EES may take each passenger extra time to complete so be prepared to wait longer than usual at the border.
+You do not need to take any action before you arrive at the border on entry to the Schengen area, but EES may take each passenger extra time to complete so be prepared to wait longer than usual at the border and to allow more time for immigration controls when you depart the Schengen area.
 
 EES is replacing the previous system of manually stamping passports when visitors arrive in the Schengen area for short stays. You may be asked to input biometric details every time you enter or exit.
 
@@ -70,13 +64,15 @@ Your digital EES record is valid for 3 years.
 
 Read more [information on the EU Entry/Exit System and to understand which countries are in the Schengen area](https://www.gov.uk/guidance/eu-entryexit-system).
 
+If you are long-term resident in a Schengen country, you are exempt from EES in all Schengen countries. The full list of EES exemptions is on [the EU’s official Travel Europe website.](https://travel-europe.europa.eu/en/ees/to-whom-does-ees-not-apply)
+
 ## Travelling with children
 
 To enter Finland with an adult who is not a parent or legal guardian, minor children must carry a [letter of consent from a parent or legal guardian](https://raja.fi/en/document-required-for-a-minor-to-travel).
 
-## Travelling from Russia
+## Russian border
 
-All border crossing points on the land border between Finland and Russia will remain closed until further notice. Monitor the [Finnish Border Guard website](https://raja.fi/en/frontpage) for details of border closures with Russia.
+[FCDO currently advises against all travel to Russia](https://www.gov.uk/foreign-travel-advice/russia). All border crossing points on the land border between Finland and Russia will remain closed until further notice. Monitor the [Finnish Border Guard website](https://raja.fi/en/frontpage) for details of border closures with Russia. Access to areas close to the border is controlled and a border zone permit issued by the Finnish Border Guard is required. Follow the instructions of the Finnish authorities if you are in this area.
 
 The border crossing points for maritime traffic at Haapasaari, the port of Nuijamaa and Santio will be closed to leisure boating until further notice.
 

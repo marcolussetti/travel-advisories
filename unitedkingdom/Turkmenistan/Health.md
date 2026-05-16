@@ -30,7 +30,7 @@ In the summer temperatures regularly reach 45°C in the shade, so drink plenty o
 
 ## Medication
 
-If you intend to enter Turkmenistan with medicines, whether prescription or non-prescription, check with your tour company or the Turkmenistan Embassy in London in advance whether there are any legal restrictions on those medicines.
+Turkmenistan’s State Customs Service report that individuals may enter Turkmenistan with prescription medicines providing they have a copy of the prescription with the medicine. There is no requirement to declare the medicine. Before travelling check with your tour company and the [State Customs Service](https://customs.gov.tm/en/customs-info/for-individuals) for the latest regulations.
 
 You could be prosecuted for possession of some drugs that Turkmenistan may classify as narcotics, such as morphine or even strong painkillers, if you do not have a prescription, or if you’re carrying more than you need for your visit and do not declare them on arrival.
 

@@ -27,9 +27,9 @@ FCDO advises against all travel to the Lake Chad region. There is a high risk of
 
 FCDO advises against all travel to within 30km of all of Chad’s other borders.
 
-The Chad-Sudan border is closed to travellers.
+The Chad-Sudan border is closed to travellers, with limited humanitarian exceptions. The Government of Chad closed the border on 23 February 2026 following repeated cross-border incidents linked to the conflict in Sudan. Since late 2025, there has been increased insecurity along the eastern border, including armed clashes and reports of aerial attacks near towns such as Tiné.
 
-The Chad-Central African Republic border is closed. The Central African Republic is unstable. In 2021, armed groups reportedly entered south-western Chad from the Central African Republic before Chadian forces repelled them. Chadian rebel groups remain active and could launch attacks in Chad without warning.
+The Central African Republic is unstable and the border area is highly insecure, with limited government presence and active armed groups. In 2021, armed groups reportedly entered south-western Chad from the Central African Republic before Chadian forces repelled them. Chadian rebel groups remain active and could launch attacks in Chad without warning.
 
 ## The rest of Chad
 

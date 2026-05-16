@@ -169,6 +169,10 @@ Other websites may sometimes be blocked.
 
 China’s cybersecurity laws state that online products and services (for example, VPNs) need to be licensed by the Chinese government. See the [Ministry of Industry and Information Technology](http://www.miit.gov.cn/) (in Mandarin). Make sure you stay informed and follow Chinese law.
 
+### Drone regulations
+
+The import, possession and use of drones and drone components are strictly regulated. Contact the [Civil Aviation Administration of China](https://www.caac.gov.cn/English/) before travel for the latest rules regarding registration and use.
+
 ### Building safety
 
 Fire protection standards in Chinese accommodation are not always the same as in the UK. You should:

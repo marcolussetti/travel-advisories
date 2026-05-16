@@ -1,11 +1,11 @@
 {
     "name": "Bolivia",
-    "update_reason": "Updated information on transport strike including for those in accommodation along multiple routes from La Paz (\"Warnings and Insurance\").",
+    "update_reason": "FCDO now advises against all but essential travel to the department of La Paz, including the city of La Paz. Updated information about ongoing protests and road blockades ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Bolivia/Warnings and insurance.md",
-            "update_date": "2026-05-08T22:00:52+01:00"
+            "update_date": "2026-05-15T16:45:24+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Bolivia/Getting help.md"
         }
     ],
-    "update_date": "2026-05-08T22:00:52+01:00"
+    "update_date": "2026-05-15T16:45:24+01:00"
 }

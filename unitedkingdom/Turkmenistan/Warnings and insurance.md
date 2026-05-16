@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   21 March 2026
+:   16 May 2026
 
 Updated:
-:   20 March 2026
+:   15 May 2026
 
 Latest update:
-:   Addition of information about global travel impacts due to escalation in the Middle East (‘Warnings and insurance’ page).
+:   Updated information about bringing medication into the country ('Health' page).
 
 ## Global travel impacts due to escalation in the Middle East
 

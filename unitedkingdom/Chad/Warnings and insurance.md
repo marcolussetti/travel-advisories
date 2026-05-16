@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   29 April 2026
+:   16 May 2026
 
 Updated:
-:   28 April 2026
+:   15 May 2026
 
 Latest update:
-:   New information on planned protests that are due to take place on 2 May in N’Djamena and updated information on the political situation (‘Warnings and insurance’ and ‘Safety and security’ pages).
+:   New information about border security ('Regional risks' page).
 
 ![](https://assets.publishing.service.gov.uk/media/60dc7052e90e07717b84dc57/FCDO__TA__010_-_Chad_Travel_Advice_Ed4__WEB_.jpg)
 
@@ -44,19 +44,6 @@ FCDO advises against all travel to within 30km of all of Chad’s other borders.
 FCDO advises against all but essential travel to the rest of Chad, including the capital, N’Djamena.
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/chad/regional-risks).
-
-## Protests
-
-Planned protests are due to take place on 2 May in N’Djamena. A heightened presence of government security is expected. Travel disruptions are likely.
-
-You should:
-
-* monitor local media
-* stay away from large gatherings and demonstrations
-* follow the advice of local authorities
-* limit travel where possible
-
-Be aware that demonstrations can occur with little notice and may turn violent.
 
 ## Before you travel
 

@@ -1,11 +1,11 @@
 {
     "name": "China",
-    "update_reason": "Updated information about visa requirements (\u2018Entry requirements\u2019 page).",
+    "update_reason": "New information on drone regulations in China ('Safety and security' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/China/Warnings and insurance.md",
-            "update_date": "2026-04-23T14:40:19+01:00"
+            "update_date": "2026-05-15T12:22:50+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/China/Getting help.md"
         }
     ],
-    "update_date": "2026-04-23T14:40:19+01:00"
+    "update_date": "2026-05-15T12:22:50+01:00"
 }
