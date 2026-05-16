@@ -1,7 +1,7 @@
 {
     "name": "Belize",
-    "update_reason": "Safety and security section \u2013 added information on the state of emergency",
-    "update_date": "2026-05-11T16:43:00",
+    "update_reason": "Safety and security section \u2013 updated information on the state of public emergency",
+    "update_date": "2026-05-15T20:24:00",
     "sections": {
         "risk": "canada/Belize/risk.md",
         "security": "canada/Belize/security.md",

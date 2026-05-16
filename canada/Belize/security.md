@@ -2,17 +2,25 @@
 
 ## Safety and security
 
-### State of emergency
+### State of public emergency
 
-On May 8, 2026, a one-month state of emergency was declared in specific areas of Belize City and Belize District following a sharp rise in violent crime.
+On May 8, 2026, a one-month state of public emergency was declared in specific areas of Belize City and Belize District following a spate of gang-related violence near tourist zones.
 
-In Belize City and Belize District, the state of emergency applies to the following areas:
+In Belize City and Belize District, the state of public emergency applies to the following areas:
 
 * Northside Belize City
 * Southside Belize City
-* certain areas in Belize District surrounding Belize City
+* the following areas in Belize District surrounding Belize City:
 
-While the state of emergency is in effect, security forces have the power to:
++ Ladyville Village
++ Burrell Boom Village
++ Bermudian Landing Village
++ Lemonal Village
++ Isabella Bank Village
++ Rancho Dolors Village
++ Double Head Cabbage Village
+
+While the state of public emergency is in effect, security forces have the power to:
 
 * restrict freedom of movement
 * conduct search and seizures
@@ -23,6 +31,8 @@ If you're in the affected areas:
 * carry valid ID and remain vigilant at all times
 * avoid outings in unsecured areas
 * monitor local media to stay informed on the evolving situation
+
+[State of Public Emergency](https://www.pressoffice.gov.bz/state-of-public-emergency/) – Government of Belize Press Office
 
 ### Southside Belize City
 

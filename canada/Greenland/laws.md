@@ -6,7 +6,7 @@ You must abide by local laws.
 
 Learn about what you should do and how we can help if you are [arrested or detained abroad](http://travel.gc.ca/assistance/emergency-info/arrest-detention).
 
-### Natural Resources
+### Natural resources
 
 The removal of natural resources, including any precious and semi-precious metals, stones, and gemstones is strictly regulated.
 

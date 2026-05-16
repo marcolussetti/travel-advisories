@@ -133,6 +133,8 @@ There are absolute prohibitions against the importation of arms, drugs and plant
 
 Importation and use of drones are subject to strict regulation. Contact the Civil Aviation Administration of China to consult the rules regarding registration and use of drones.
 
+[Civil Aviation Administration of China](https://www.caac.gov.cn/English/) – Government of China
+
 #### Importing pets
 
 If you intend to reside in China, be advised that you can only import one pet (dog or cat) per person.

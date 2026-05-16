@@ -56,6 +56,19 @@ If you wish to extend the length of your visa, contact the Korea Immigration Ser
 * [Korea Electronic Travel Authority (K-ETA)](https://k-eta.go.kr/portal/apply/index.do?locale=EN) – Ministry of Justice, Republic of Korea
 * [More information about visas](http://www.immigration.go.kr/immigration_eng/index.do) – Korea Immigration Service
 
+### E-arrival cards
+
+All travellers to Korea are required to submit an entry declaration form.
+
+This may be done either:
+
+* online, up to 3 days prior to your arrival
+* on paper upon your arrival
+
+Online scams related to the e‑Arrival card are occurring. This service is free of charge. Do not use any website that charges fees for arrival cards.
+
+[e-Arrival card website](https://www.e-arrivalcard.go.kr/portal/main/index.do) – Ministry of Justice, Republic of Korea
+
 ### Biometrics
 
 Foreigners must register their biometrics (fingerprints and facial scan) at their port of entry. Children younger than 17 years and diplomats are exempt from this screening.

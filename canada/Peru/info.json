@@ -1,7 +1,7 @@
 {
     "name": "Peru",
-    "update_reason": "Health \u2013 Information about typhoid fever removed",
-    "update_date": "2026-05-04T14:54:00",
+    "update_reason": "Safety and security section \u2013 updated information on states of emergency",
+    "update_date": "2026-05-15T09:28:00",
     "sections": {
         "risk": "canada/Peru/risk.md",
         "security": "canada/Peru/security.md",

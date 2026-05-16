@@ -2,6 +2,23 @@
 
 ## Safety and security
 
+### Roadblocks in western Bolivia
+
+There are roadblocks in place across western Bolivia, particularly in the La Paz and Oruro regions. If you encounter a roadblock, do not try to cross it.
+
+Overland travel to the following destinations could be severely disrupted:
+
+* La Paz
+* Lake Titicaca
+* Uyuni
+* Potosí
+
+If you plan on entering Bolivia via a land border crossing with Peru or Chile, you should confirm the status of your route before you depart.
+
+Bus and coach operators may sell “conditional” tickets while roadblocks are in place. These tickets do not guarantee your passage nor your arrival at your destination.
+
+[More information on roadblocks](#roadblocks)
+
 ### Demonstrations
 
 Demonstrations occur frequently, often with little or no notice. Even peaceful demonstrations can turn violent at any time. They can also lead to disruptions to traffic and public transportation. Protesters may also use dynamite during protests. The police often respond with tear gas to disperse crowds.
