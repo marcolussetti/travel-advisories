@@ -16,7 +16,7 @@ Due to the ongoing security situation in Iran, Embassy staff have temporarily re
 
 **Tehran 11365**
 
-**Please note that the Embassy is not open to the public. If you wish to contact the Embassy, please use the** [**Contact Us**](https://www.ireland.ie/en/tehran/contact-embassy-of-ireland-iran/) **page. Passport and visa services are provided by the Honorary Consul of Ireland, who can be contacted using the below details:**
+**Please note that the Embassy is not open to the public. If you wish to contact the Embassy, please use the** [**Contact Us**](https://www.ireland.ie/en/tehran/contact-embassy-of-ireland-iran/) **page. The Honorary Consul in Tehran is not currently accepting new visa applications. Further updates on this will be provided when available.**
 
 **Honorary Consul of Ireland, Iran**
 
