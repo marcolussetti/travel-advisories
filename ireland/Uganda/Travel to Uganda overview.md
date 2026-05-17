@@ -6,7 +6,31 @@ High Degree of Caution
 
 ### **Travel Alert**
 
-Irish citizens in Uganda should avoid all political gatherings including demonstrations, public gatherings and rallies. Citizens are advised that political demonstrations in Uganda can take a violent turn without warning. Citizens are advised to remain vigilant at all times and follow local media for updates. Irish citizens are advised to avoid military sites – taking photos of, or near, military or security installations, and some public buildings, may be prohibited.
+An outbreak of Ebola has been declared in Ituri Province in the Democratic Republic of the Congo, on Uganda’s western border. Due to imported infection from DRC, on 15 May 2026, Uganda also declared an ‌outbreak of the highly infectious Bundibugyo ​strain of Ebola ​virus - Bundibugyo virus disease (BVD) . Ebola is a rare, severe, and often fatal haemorrhagic fever illness.
+
+Uganda has activated an initial 72-hour emergency response plan with local health authorities conducting investigations to identify infected people and their contacts to prevent further transmission and educating the public about the risks and dangers of Ebola.
+
+Ebola is spread by contact with the blood or body fluids of a person who is infected with or has died from Ebola. It is also spread by contact with contaminated objects (such as clothing, bedding, needles, and medical equipment), or by contact with animals, such as bats and nonhuman primates, that are infected with Ebola. Symptoms include fever, headache, muscle pain, weakness, diarrhoea, vomiting, stomach pain, and unexplained bleeding or bruising (a late stage of illness).
+
+Irish citizens in Uganda are encouraged to:
+
+· Avoid contact with people who have [symptoms](https://www.cdc.gov/ebola/signs-symptoms/index.html) such as fever, muscle pain, and rash;
+
+· Wash hands frequently and avoid contact with [blood and other body fluids](https://www.cdc.gov/ebola/causes/index.html) or objects that are contaminated;
+
+· Avoid contact with bats, forest antelopes, nonhuman primates (e.g., monkeys, chimpanzees, gorillas), and blood, fluids, or raw meat from these or unknown animals; and
+
+· Avoid going into areas where bats live, such as mines or caves.
+
+If you are in an affected area or come into contact with someone with symptoms, you should monitor yourself for symptoms while in the outbreak area and for 21 days after leaving. If you develop any symptoms:
+
+· Separate yourself from others (isolate) immediately.
+
+· Do not travel.
+
+· Contact local health authorities or a healthcare facility for advice.
+
+For suspected cases, the public should call the Uganda Ministry of Health toll-free line 0800 100 066 or send a free SMS to 6767. More information on Ebola can be found here: <https://www.who.int/news-room/fact-sheets/detail/ebola-disease>
 
 Irish citizens are encouraged to visit this page for the most up-to-date information. Irish citizens living in or visiting Uganda – either short of long term – can register their presence [**here**](https://citizensregistration.dfa.ie/).
 
