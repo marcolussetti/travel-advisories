@@ -1,18 +1,18 @@
 # Warnings and insurance
 
 Still current at:
-:   20 March 2026
+:   17 May 2026
 
 Updated:
-:   19 March 2026
+:   16 May 2026
 
 Latest update:
-:   Removal of information that the Kavimvira border crossing between DRC and Burundi remains closed ('Warnings and insurance' page).
+:   FCDO no longer advises against all travel to the province of Kasaï Oriental and no longer advises against all but essential travel to the provinces of Kasaï and Kasaï Central, FCDO continues to advise against all travel and all but essential travel to other parts of DRC ('Warnings and insurance' page). Addition of information about Ebola (‘Health’ page).
 
-![](https://assets.publishing.service.gov.uk/media/699f2b9b532c9ad91ebbcd03/FCDO__TA__012_-_Democratic_Repbulic_of_the_Congo_Travel_Advice_Ed17__WEB_.jpg)
+![](https://assets.publishing.service.gov.uk/media/6a0894fdfcae986635db904d/FCDO__TA__012_-_Democratic_Repbulic_of_the_Congo_Travel_Advice_Ed18__WEB_.jpg)
 
 
-[Download a more detailed map (PDF, 1.03 MB)](https://assets.publishing.service.gov.uk/media/699f2b9b07d7bff3604d6d5f/FCDO__TA__012_-_Democratic_Repbulic_of_the_Congo_Travel_Advice_Ed17.pdf)
+[Download a more detailed map (PDF, 1.03 MB)](https://assets.publishing.service.gov.uk/media/6a0894fdc510c3913d8266d6/FCDO__TA__012_-_Democratic_Repbulic_of_the_Congo_Travel_Advice_Ed18.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
@@ -43,12 +43,6 @@ FCDO advises against all travel to the provinces of:
 ### Territory in Mai-Ndombe Province
 
 FCDO advises against all travel to the Kwamouth territory of Mai-Ndombe Province. This is between, and including, the towns of Kwamouth, Bandundu and the southern border of Mai-Ndombe province.
-
-### Kasaï Oriental, Kasaï, Kasaï Central
-
-FCDO advises against all travel to the province of Kasaï Oriental.
-
-FCDO advises against all but essential travel to the provinces of Kasaï and Kasaï Central.
 
 ### Tshopo Province
 

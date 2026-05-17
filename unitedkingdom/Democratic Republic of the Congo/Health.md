@@ -22,12 +22,21 @@ At least 8 weeks before your trip:
 
 See [what health risks you’ll face in DRC](https://travelhealthpro.org.uk/country/63/democratic-republic-of-the-congo) including:
 
+* ebola
 * malaria
 * cholera
 * yellow fever
 * mpox
 
 Altitude sickness is a risk in parts of DRC. Read more about [altitude sickness on TravelHealthPro](https://travelhealthpro.org.uk/factsheet/26/altitude-illness).
+
+### Ebola
+
+There are occasional Ebola outbreaks in DRC. See [information on Ebola and similar diseases](https://travelhealthpro.org.uk/factsheet/68/viral-haemorrhagic-fever).
+
+Some countries have heightened health screening for travellers from DRC. [Check entry requirements](https://www.gov.uk/foreign-travel-advice/) for the country you’re travelling to or transiting.
+
+UK Health Security Agency has [Ebola information for humanitarian or healthcare workers](https://www.gov.uk/government/publications/ebola-virus-disease-information-for-workers-in-at-risk-countries).
 
 ## Medication
 
@@ -38,8 +47,6 @@ Read [best practice when travelling with medicines on TravelHealthPro](https://t
 ## Healthcare in DRC
 
 FCDO has a [list of medical providers in DRC](https://www.gov.uk/government/publications/medical-practitioners) where some staff will speak English.
-
-There is also [guidance on healthcare](https://www.gov.uk/guidance/living-in-drc#healthcare-in-democratic-republic-of-congo) if you’re living in DRC.
 
 Medical care is extremely limited. The Centre Prive d’Urgence (CPU) clinic in Kinshasa is able to cope with basic health problems and to stabilise a patient after most serious accidents. Outside Kinshasa, Western-standard medical facilities are almost non-existent. Medical evacuation to South Africa (or elsewhere) could be necessary. Make sure you have adequate travel health insurance and accessible funds to cover the cost of any medical treatment abroad and repatriation.
 
