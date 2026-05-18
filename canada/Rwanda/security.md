@@ -2,11 +2,13 @@
 
 ## Safety and security
 
+### Goma-Gisenyi border crossings closure
+
+The border crossings at Goma-Gisenyi are closed until further notice due to an outbreak of Ebola disease in the Democratic Republic of Congo.
+
 ### Border with the Democratic Republic of Congo
 
 The security situation at the border between Rwanda and the Democratic Republic of Congo (DRC) is unstable and unpredictable due to intensifying combat in North Kivu in the DRC, including around the city of Goma. Active fighting, including shelling, have been reported in Rubavu District. Escalating tensions between the DRC and Rwanda could further deteriorate the situation in Rubavu district.
-
-The border crossings at Goma-Gisenyi could close without notice.
 
 ### Crime
 
