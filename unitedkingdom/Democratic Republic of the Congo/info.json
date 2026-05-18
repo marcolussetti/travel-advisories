@@ -1,11 +1,11 @@
 {
     "name": "Democratic Republic of the Congo",
-    "update_reason": "FCDO no longer advises against all travel to the province of Kasa\u00ef Oriental and no longer advises against all but essential travel to the provinces of Kasa\u00ef and Kasa\u00ef Central, FCDO continues to advise against all travel and all but essential travel to other parts of DRC ('Warnings and insurance' page). Addition of information about Ebola (\u2018Health\u2019 page).",
+    "update_reason": "Addition of information following a declaration of an Ebola outbreak on 15 May (\u2018Health\u2019 page)",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Democratic Republic of the Congo/Warnings and insurance.md",
-            "update_date": "2026-05-16T20:35:28+01:00"
+            "update_date": "2026-05-17T17:27:55+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Democratic Republic of the Congo/Getting help.md"
         }
     ],
-    "update_date": "2026-05-16T20:35:28+01:00"
+    "update_date": "2026-05-17T17:27:55+01:00"
 }

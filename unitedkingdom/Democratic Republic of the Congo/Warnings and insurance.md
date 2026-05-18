@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   17 May 2026
+:   18 May 2026
 
 Updated:
-:   16 May 2026
+:   17 May 2026
 
 Latest update:
-:   FCDO no longer advises against all travel to the province of Kasaï Oriental and no longer advises against all but essential travel to the provinces of Kasaï and Kasaï Central, FCDO continues to advise against all travel and all but essential travel to other parts of DRC ('Warnings and insurance' page). Addition of information about Ebola (‘Health’ page).
+:   Addition of information following a declaration of an Ebola outbreak on 15 May (‘Health’ page)
 
 ![](https://assets.publishing.service.gov.uk/media/6a0894fdfcae986635db904d/FCDO__TA__012_-_Democratic_Repbulic_of_the_Congo_Travel_Advice_Ed18__WEB_.jpg)
 

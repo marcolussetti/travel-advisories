@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   10 April 2026
+:   18 May 2026
 
 Updated:
-:   9 April 2026
+:   17 May 2026
 
 Latest update:
-:   Removal of information about Presidential, Parliamentary and local elections ('Warnings and insurance' page).
+:   Addition of Ebola as a health risk you may face whilst in Uganda (‘Health’ Page)
 
 ## Before you travel
 
