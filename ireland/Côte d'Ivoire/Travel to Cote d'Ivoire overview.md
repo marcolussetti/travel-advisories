@@ -6,8 +6,6 @@ High Degree of Caution
 
 ### **Travel Alert**
 
-Presidential elections will take place on 25 October. Depending on the outcome, there may be a second round on 29 November. Political demonstrations have taken place in Abidjan and regional towns, including Gagnoa. It is likely there will be more during this period.
-
 Irish citizens are advised to be vigilant and keep up to date with local developments and avoid all demonstrations and large gatherings. If you become aware of any nearby protests or disturbances, leave the area immediately and monitor local media for up-to-date information.
 
 Due to the threat of terrorism and kidnapping in the northern Sahelian regions of Côte d'Ivoire we advise against all travel to:
@@ -16,13 +14,15 @@ Due to the threat of terrorism and kidnapping in the northern Sahelian regions o
 * Northern Zanzan and Savenes provinces
 * Comoé national park
 
-Due to the presence of armed militia groups in the area, we advise against all but essential travel to the western regions of Côte d'Ivoire within 20 km of the border with Liberia. Visitors to Côte d’Ivoire are advised to follow the guidance of national and local authorities and stay fully informed of what is going on by monitoring local news and social media.
+The Department of Foreign Affairs also advises against all but essential travel to within 20km of the border with Liberia owing to the risk of serious violence by local militias.
+
+Visitors to Côte d’Ivoire are advised to follow the guidance of national and local authorities and stay fully informed of what is going on by monitoring local news and social media.
+
+In recent years, there have been political protests in Abidjan and around the country, which have the potential to turn violent. Irish citizens should exercise caution and avoid political rallies and gatherings, areas of demonstrations, and protests. The authorities may use tear gas to disrupt unauthorised protests. Crowds can gather quickly, and roadblocks are common. In the event of unrest, monitor local media and follow instructions and announcements from the local authorities.
 
 Irish citizens are advised to follow developments in the region in respect of m-pox, and to consult advice available such as on the [**HSE website**](https://www2.hse.ie/conditions/mpox/).
 
 ### **General Travel Advice**
-
-In recent years, there have been political protests in Abidjan and around the country, which have the potential to turn violent. Irish citizens should exercise caution and avoid political rallies and gatherings, areas of demonstrations, and protests. In the event of unrest, monitor local media and follow instructions and announcements from the local authorities.
 
 Irish citizens require a visa to enter Côte d’Ivoire.
 
@@ -30,7 +30,7 @@ A valid passport is required for travel to Côte d’Ivoire. Irish passports sho
 
 For more information on visas and passports, please see the Entry Requirements tab.
 
-Citizens can also follow the Embassy on social media ( [**X**](https://x.com/IrlEmbNigeria) and [**Facebook**](https://www.facebook.com/embassyofirelandnigeria/)) to ensure access to relevant updates and alerts.
+Citizens can also follow the Embassy on social media ([**X**](https://x.com/IrlEmbNigeria) and [**Facebook**](https://www.facebook.com/embassyofirelandnigeria/)) to ensure access to relevant updates and alerts.
 
 ### **Emergency Assistance**
 

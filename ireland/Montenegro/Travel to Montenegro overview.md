@@ -14,7 +14,7 @@ For more information on visas and passports, please see the Entry requirements t
 
 Visitors to Montenegro are advised to follow the guidance of national and local authorities and stay fully informed of what's going on by monitoring local news and social media.
 
-Citizens can also follow the Irish Embassy in Budapest on social media (X [**@irlembbudapest**](https://twitter.com/irlembbudapest) and [**Facebook**](https://www.facebook.com/irlembbudapest)) to ensure access to relevant updates and alerts.
+Citizens can also follow the Irish Embassy in Serbia on social media ([**X**](https://x.com/IrelandinSerbia)) to ensure access to relevant updates and alerts.
 
 ### **Emergency Assistance**
 
@@ -34,4 +34,4 @@ You can contact the emergency services in Montenegro by dialling 112. Specific e
 * Read our [**‘Know Before You Go’**](https://www.ireland.ie/en/dfa/overseas-travel/know-before-you-go-/) guide.
 * Read our [**Consular Assistance Charter**](https://www.ireland.ie/en/dfa/overseas-travel/assistance-abroad/consular-assistance-charter/) that clearly sets out the assistance that can be provided to citizens in difficulty overseas, and the limits of what the Department can do.
 
-As there is no Irish Embassy in Montenegro we are limited in the help we can offer you in an emergency. However, if you need assistance, you can contact the [**Irish Embassy in Budapest**](/en/hungary/budapest/)**.**
+As there is no Irish Embassy in Montenegro we are limited in the help we can offer you in an emergency. However, if you need assistance, you can still contact the [**Irish Embassy in Serbia**](https://www.ireland.ie/en/serbia/belgrade/).

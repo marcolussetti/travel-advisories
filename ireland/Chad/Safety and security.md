@@ -10,8 +10,6 @@ There is a high risk of terrorism in Chad. An attack could be indiscriminate, in
 
 A state of emergency remains in place for the Lake Chad region. There is an active insurgency ongoing in and around Lake Chad, including within Chadian borders.
 
-In April 2021, rebels entered north-western Chad from Libya before being repelled by Chadian forces. The President of Chad was killed in the fighting.
-
 Incidents of robbery, carjacking at gunpoint, and murder have been reported throughout the country including in N’Djamena.
 
 ### **Practical Advice**

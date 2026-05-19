@@ -6,9 +6,15 @@ Do Not Travel
 
 ### **Travel Alert**
 
+### **Ebola**
+
+On 15 May 2026 the DRC Ministry of Health announced an outbreak of the Ebola Bundibugyo virus in the North-Eastern Ituri Province. The World Health Organisation (WHO) have declared this a Public Health Emergency of International Concern – see Health tab.
+
+Irish citizens are advised against all travel to Ituri Province.
+
 ### **Conflict Escalation in Eastern DRC**
 
-Increased conflict and fighting, including shelling in populated areas, has been ongoing since January 2025. DFA advises against all travel to eastern DRC, in particular Ituri, North Kivu and South Kivu. While there has been important progress in peace initiatives in recent months, the level of violence in the region remains high.
+Increased conflict and fighting, including shelling in populated areas, has been ongoing since January 2025. DFA advises against all travel to eastern DRC, in particular Ituri, North Kivu and South Kivu. While there has been some progress in peace initiatives, the level of violence in the region remains high.
 
 Goma airport continues to be non-functional. The border crossings between Rwanda and the DRC at Gisenyi/Goma could close at short notice. Information is changing on a daily basis.
 
@@ -16,15 +22,11 @@ Irish citizens planning to cross the border to Rwanda should familiarise themsel
 
 ### **Protests**
 
-Violent protests can break out quickly in urban centres with little warning. On 28 January there were large and violent protests outside multiple embassies and offices of international organisations in Kinshasa. Stay alert and avoid any protests. There is an ongoing risk of terrorist attacks at gathering points in Kinshasa. Carry an identification document, limit movements and be cautious if you are travelling at night.
+Violent protests can break out quickly in urban centres with little warning. Stay alert and avoid any protests. There is an ongoing risk of terrorist attacks at gathering points in Kinshasa. Carry an identification document, limit movements and be cautious if you are travelling at night.
 
 ### **Mpox**
 
-Since January 1, 2024, the Democratic Republic of Congo and several neighbouring countries in Central and Eastern Africa have confirmed an upsurge in mpox cases. On 14 August 2024 the WHO classified this outbreak as a [**public health emergency of international concern**](https://www.who.int/news/item/14-08-2024-who-director-general-declares-mpox-outbreak-a-public-health-emergency-of-international-concern). Between 1 January and 31 May 2025, DRC reported more than 12 000 suspected cases and 22 deaths, accounting for over 50% of all mpox cases in Africa this year. Individuals in DRC or considering travel to DRC should follow local public health instructions and updates.
-
-### **Ebola**
-
-In early September 2025 health authorities in the DRC declared an outbreak of Ebola virus disease in Kasai Province with fatalities reported. Irish citizens are advised against all travel to this area until the DRC health authorities declare it Ebola-free.
+Between 1 January and 31 May 2025, DRC reported more than 12,000 suspected cases and 22 deaths, accounting for over 50% of all mpox cases in Africa. While the Ministry of Health in DRC officially declared the outbreak over in April 2026, individuals in DRC or considering travel to DRC should follow local public health instructions and updates.
 
 ### **General Travel Advice**
 

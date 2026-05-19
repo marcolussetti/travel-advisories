@@ -12,7 +12,7 @@ Due to continued regional disruption to air travel, any Irish citizens planning 
 
 #### **Demonstrations and Industrial Action**
 
-Demonstrations and industrial action are taking place on a rolling basis in Kenya. Irish citizens travelling to Kenya should always monitor local media and follow the advice of local authorities. Always avoid demonstrations, as they may turn violent.
+Demonstrations and industrial action are taking place on a rolling basis in Kenya and may be more acute in the May-June period in response to the availability and price of fuel, and in the run up to Kenya’s budget in June. Strikes and demonstrations may also lead to unpredictable road closures and opportunistic criminality. Irish citizens travelling to Kenya should always monitor local media and follow the advice of local authorities. Always avoid demonstrations, as they may turn violent.
 
 ### **General Travel Advice**
 

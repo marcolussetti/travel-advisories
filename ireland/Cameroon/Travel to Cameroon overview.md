@@ -6,11 +6,15 @@ Avoid Non-Essential Travel
 
 ### **Travel Alert**
 
-The results of the 12 October Presidential elections are expected to be announced on or before 26 October. Protests and unrest can occur without warning and the situation could change quickly.
-
 Irish citizens are advised to be vigilant and keep up to date with local developments and avoid all demonstrations and large gatherings. If you become aware of any nearby protests or disturbances, leave the area immediately and monitor local media for up-to-date information.
 
-We advise against non-essential travel to the north, the east and the west of the country. The security situation in these areas is extremely dangerous, and we may only be able to provide very limited assistance if difficulties are encountered.
+Due to the continuing security situation and risk of instability in Cameroon, we advise against all travel to:
+
+* The Bakassi Peninsula
+* 40km of the borders with Central African Republic, Chad, and Nigeria
+* The Far-North, North-West and South-West regions
+
+The security situation in these areas is extremely dangerous, and we may only be able to provide very limited assistance if difficulties are encountered.
 
 Irish citizens are advised to follow developments in the region in respect of m-pox, and to consult advice available such as on the [**HSE website**](https://www2.hse.ie/conditions/mpox/).
 
