@@ -1,28 +1,40 @@
 # Warnings and insurance
 
 Still current at:
-:   16 May 2026
+:   19 May 2026
 
 Updated:
-:   15 May 2026
+:   18 May 2026
 
 Latest update:
-:   FCDO now advises against all but essential travel to the department of La Paz, including the city of La Paz. Updated information about ongoing protests and road blockades ('Warnings and insurance' page).
+:   FCDO now advises against all travel to the department of La Paz, including the city of La Paz. Updated information about ongoing protests ('Warnings and insurance' page).
 
-![](https://assets.publishing.service.gov.uk/media/6a073acefcae986635db9038/FCDO__TA__098_-_Bolivia_Travel_Advice_Ed2__WEB_.jpg)
+![](https://assets.publishing.service.gov.uk/media/6a0b2fa9fcae986635db912a/FCDO__TA__098_-_Bolivia_Travel_Advice_Ed3__WEB___2_.jpg)
 
 
-[Download a more detailed map (PDF, 773 KB)](https://assets.publishing.service.gov.uk/media/6a073acffcae986635db9039/FCDO__TA__098_-_Bolivia_Travel_Advice_Ed2.pdf)
+[Download a more detailed map (PDF, 786 KB)](https://assets.publishing.service.gov.uk/media/6a0b2fa9279ebb7d24f8f40c/FCDO__TA__098_-_Bolivia_Travel_Advice_Ed3.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
-## Areas where FCDO advises against all but essential travel
+## Areas where FCDO advises against travel
 
-FCDO advises against all but essential travel to the department of La Paz, including the city of La Paz.
+FCDO advises against all travel to the department of La Paz, including the city of La Paz.
 
 FCDO advises against all but essential travel to the Chapare region of Cochabamba Department including Villa Tunari and highway routes 4 and 24 that pass through Chapare.
 
 Find out more about [why FCDO advises against travel](https://www.gov.uk/foreign-travel-advice/bolivia/safety-and-security).
+
+## Protests
+
+We are aware of reports of a high risk of serious disruption and possible violence in central La Paz on 18 and 19 May 2026, particularly near government buildings. British nationals staying near Plaza Murillo or the city centre should:
+
+* avoid all demonstrations
+* remain inside accommodation where possible
+* stay away from windows and balconies
+* keep phones charged
+* monitor local media, and follow instructions from local authorities
+
+Do not attempt to cross roadblocks or approach crowds. If violence occurs nearby, shelter in place and contact the British Embassy if you need urgent assistance.
 
 ## Protests and road blockades
 
