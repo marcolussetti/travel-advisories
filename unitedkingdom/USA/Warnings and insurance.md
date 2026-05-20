@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   2 May 2026
+:   20 May 2026
 
 Updated:
-:   1 May 2026
+:   19 May 2026
 
 Latest update:
-:   Removal of information on possible travel disruption ('Warnings and insurance' page).
+:   Updated information for fans travelling to the World Cup 2026 (‘World Cup 2026’ page).
 
 This travel advice also covers American Samoa, Guam, Northern Mariana Islands, Puerto Rico, and United States Virgin Islands.
 

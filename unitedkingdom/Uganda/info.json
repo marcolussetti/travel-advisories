@@ -1,11 +1,11 @@
 {
     "name": "Uganda",
-    "update_reason": "Addition of Ebola as a health risk you may face whilst in Uganda (\u2018Health\u2019 Page)",
+    "update_reason": "Updated information on Ebola ('Health' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Uganda/Warnings and insurance.md",
-            "update_date": "2026-05-17T17:26:39+01:00"
+            "update_date": "2026-05-19T16:59:47+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Uganda/Getting help.md"
         }
     ],
-    "update_date": "2026-05-17T17:26:39+01:00"
+    "update_date": "2026-05-19T16:59:47+01:00"
 }

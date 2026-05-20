@@ -45,12 +45,8 @@ If you have dual British-Canadian citizenship, you may still have to pay for med
 
 Read [FCDO guidance on travel and mental health](https://www.gov.uk/guidance/foreign-travel-advice-for-people-with-mental-health-issues). There is also [guidance on TravelHealthPro](https://travelhealthpro.org.uk/factsheet/85/travelling-with-mental-health-conditions).
 
-[Previous
-:
-World Cup 2026](/foreign-travel-advice/canada/world-cup-2026)
+[Previous:World Cup 2026](/foreign-travel-advice/canada/world-cup-2026)
 
-[Next
-:
-Getting help](/foreign-travel-advice/canada/getting-help)
+[Next:Getting help](/foreign-travel-advice/canada/getting-help)
 
 [View a printable version of the whole guide](/foreign-travel-advice/canada/print)

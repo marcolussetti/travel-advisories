@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   18 May 2026
+:   20 May 2026
 
 Updated:
-:   17 May 2026
+:   19 May 2026
 
 Latest update:
-:   Addition of Ebola as a health risk you may face whilst in Uganda (‘Health’ Page)
+:   Updated information on Ebola ('Health' page).
 
 ## Before you travel
 

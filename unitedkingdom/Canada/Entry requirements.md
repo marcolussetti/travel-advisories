@@ -75,12 +75,8 @@ The Canadian authorities will confiscate banned food products and you could get 
 
 If you visit a farm or have contact with wild animals before entering Canada, and plan to visit a farm during your stay, you must declare this on your Customs Declaration Card. For more information, see [biosecurity at the Canadian border](https://inspection.canada.ca/animal-health/terrestrial-animals/biosecurity/general-public/border/eng/1344754371697/1344754930771).
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/canada)
+[Previous:Warnings and insurance](/foreign-travel-advice/canada)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/canada/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/canada/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/canada/print)

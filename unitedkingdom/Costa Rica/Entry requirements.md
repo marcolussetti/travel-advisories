@@ -2,7 +2,7 @@
 
 This information is for people travelling on a full [‘British citizen’ passport](https://www.gov.uk/types-of-british-nationality) from the UK. It is based on the UK government’s understanding of Costa Rica’s current rules for the most common types of travel.
 
-The authorities in Costa Rica set and enforce entry rules. If you’re not sure how these requirements apply to you, contact the [Costa Rican Embassy in the UK](https://www.costaricanembassy.co.uk/).
+The authorities in Costa Rica set and enforce entry rules. If you’re not sure how these requirements apply to you, contact the [Costa Rican Embassy in the UK](https://costaricanembassy.uk/embassy/).
 
 ## Passport validity requirements
 
@@ -20,7 +20,7 @@ When returning to the UK, British citizens must carry a valid [British passport]
 
 You can visit Costa Rica without a visa for up to 180 days under a tourist visa waiver. The exact period is at the discretion of the immigration officer on arrival.
 
-For more information on requirements or if you plan to work, or stay for a longer period, check with the [Costa Rican Embassy in the UK](https://www.costaricanembassy.co.uk/portfolio-view/visas-residencias-permisos/).
+For more information on requirements or if you plan to work, or stay for a longer period, check with the [Costa Rican Embassy in the UK](https://costaricanembassy.uk/residence-categories/).
 
 If you overstay, the immigration authorities can fine you 100 US dollars for each month and refuse future applications to enter Costa Rica.
 
@@ -36,18 +36,14 @@ For details about medical entry requirements and recommended vaccinations, see [
 
 ## Customs rules
 
-There are strict rules about [goods you can take into or out of Costa Rica](https://aduanafacil.hacienda.go.cr/AduanaFacil/Faq#viajando%20con%20equipaje) (in Spanish). You must declare anything that may be prohibited or subject to tax or duty.
+There are strict rules about [goods you can take into or out of Costa Rica](https://aduanafacil.hacienda.go.cr/AduanaFacil/Faq#viajando%20con%20equipaje) (in Spanish). You must declare anything that may be prohibited or subject to tax or duty. If you try to remove wildlife from the country, including seashells, you could be fined.
 
 ### Taking money into Costa Rica
 
 Declare cash, travellers cheques or goods if the value is 10,000 US dollars or more. You will get a certified declaration to show you brought it in with you. If you do not, your money or goods could be seized when you leave.
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/costa-rica)
+[Previous:Warnings and insurance](/foreign-travel-advice/costa-rica)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/costa-rica/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/costa-rica/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/costa-rica/print)

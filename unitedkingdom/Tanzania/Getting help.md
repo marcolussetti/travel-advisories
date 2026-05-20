@@ -57,8 +57,6 @@ Follow FCDO:
 
 The Overseas Business Risk service offers [information and advice for British companies operating in Tanzania](https://www.gov.uk/government/publications/overseas-business-risk-for-tanzania) on how to manage political, economic, and business security-related risks.
 
-[Previous
-:
-Health](/foreign-travel-advice/tanzania/health)
+[Previous:Health](/foreign-travel-advice/tanzania/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/tanzania/print)

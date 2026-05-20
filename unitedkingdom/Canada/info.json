@@ -1,11 +1,11 @@
 {
     "name": "Canada",
-    "update_reason": "New information about dual nationals returning to the UK (\u2018Entry requirements\u2019 page).",
+    "update_reason": "Updated information for fans travelling to the World Cup 2026 (\u2018World Cup 2026\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Canada/Warnings and insurance.md",
-            "update_date": "2025-12-10T13:16:52+00:00"
+            "update_date": "2026-05-19T15:22:54+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Canada/Getting help.md"
         }
     ],
-    "update_date": "2025-12-10T13:16:52+00:00"
+    "update_date": "2026-05-19T15:22:54+01:00"
 }

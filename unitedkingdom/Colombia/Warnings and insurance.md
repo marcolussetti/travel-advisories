@@ -1,15 +1,18 @@
 # Warnings and insurance
 
 Still current at:
-:   29 April 2026
+:   20 May 2026
 
 Updated:
-:   28 April 2026
+:   19 May 2026
 
 Latest update:
-:   New information following explosive attacks in Cauca, Valle de Cauca and Nariño departments between 24 - 27 April ('Warnings and insurance' page).
+:   FCDO now advises against all but essential travel to the department capitals of Arauca and Puerto Carreno. FCDO now also advises against all but essential travel to the whole of Cauca department, except for the department capital Popayan ('Warnings and insurance' page).
 
-![](https://assets.publishing.service.gov.uk/media/69d509b9019a4faf2745b3c6/FCDO__TA__054_-_Colombia_Travel_Advice_Ed4__WEB___1_.jpg)
+![](https://assets.publishing.service.gov.uk/media/6a0c43fdc75cc34a8ff8f4f1/FCDO__TA__054_-_Colombia_Travel_Advice_Ed5__WEB_.jpg)
+
+
+[Download a more detailed map (PDF, 1010 KB)](https://assets.publishing.service.gov.uk/media/6a0c43fdc75cc34a8ff8f4f2/FCDO__TA__054_-_Colombia_Travel_Advice_Ed5.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
@@ -20,8 +23,8 @@ Your travel insurance could be invalidated if you travel against advice from the
 FCDO advises against all but essential travel to:
 
 * all of Norte de Santander Department, including Cúcuta.
-* all of Arauca Department, except for the department capital, Arauca
-* the municipality of Puerto Carreño in Vichada Department, except for the department capital, Puerto Carreño
+* all of Arauca Department
+* the municipality of Puerto Carreño in Vichada Department
 * within 5km of the rest of the border with Venezuela.
 
 FCDO currently advises against all travel to [Venezuela’s border regions with Colombia](/foreign-travel-advice/venezuela). You should not use any of the Colombia-Venezuela land crossings.
@@ -33,7 +36,6 @@ FCDO advises against all but essential travel to:
 * Chocó Department, except for the department capital Quibdó, the towns of Nuquí and Bahía Solano and Capurganá
 * the western part of Valle del Cauca Department, including Buenaventura
 * the municipality of Jamundí, Valle del Cauca
-* the western part of Cauca Department
 * the South Pacific, Sanquianga and Telembi regions of Nariño Department
 * the southern part of Córdoba Department
 * the Urabá and Bajo Cauca regions of Antioquia Department
@@ -53,6 +55,7 @@ If travelling to the tourist site of Caño Cristales, travel by air from the tow
 
 FCDO advises against all but essential travel to within 5km of the border with Ecuador except for:
 
+* all of Cauca Department, except for the department capital Popayán
 * the border crossing on the Pan-American highway at the Puente Internacional de Rumichaca
 * the city of Ipiales in Nariño Department
 
@@ -68,7 +71,7 @@ Monitor media and follow advice from local authorities. See [Safety and securit
 
 ## Before you travel
 
-No travel can be guaranteed safe. Read all the advice in this guide. You may also find it helpful to:
+No travel can be guaranteed safe. Read all the advice in this guide. If you have onward travel plans within the region, check travel advice for all destinations you plan to travel through. You may also find it helpful to:
 
 * see [general advice for women travellers](https://www.gov.uk/guidance/advice-for-women-travelling-abroad)
 * read our [guide on disability and travel abroad](https://www.gov.uk/government/publications/disabled-travellers)

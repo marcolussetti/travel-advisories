@@ -1,11 +1,11 @@
 {
     "name": "USA",
-    "update_reason": "Removal of information on possible travel disruption ('Warnings and insurance' page).",
+    "update_reason": "Updated information for fans travelling to the World Cup 2026 (\u2018World Cup 2026\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/USA/Warnings and insurance.md",
-            "update_date": "2026-05-01T11:44:33+01:00"
+            "update_date": "2026-05-19T15:23:06+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/USA/Getting help.md"
         }
     ],
-    "update_date": "2026-05-01T11:44:33+01:00"
+    "update_date": "2026-05-19T15:23:06+01:00"
 }

@@ -1,11 +1,11 @@
 {
     "name": "Mozambique",
-    "update_reason": "Updated information about visa requirements ('Entry requirements' page).",
+    "update_reason": "Addition of information about fuel supplies at petrol stations ('Safety and security' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Mozambique/Warnings and insurance.md",
-            "update_date": "2026-02-26T16:36:37+00:00"
+            "update_date": "2026-05-19T09:37:36+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Mozambique/Getting help.md"
         }
     ],
-    "update_date": "2026-02-26T16:36:37+00:00"
+    "update_date": "2026-05-19T09:37:36+01:00"
 }

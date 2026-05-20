@@ -20,12 +20,8 @@ Some parks are extremely remote, and emergency access and evacuation can be diff
 
 There are risks associated with viewing wildlife, particularly on foot or at close range. Always follow park regulations and advice from wardens, and make sure you have the correct documentation or permit before entering a national park.
 
-[Previous
-:
-Safety and security](/foreign-travel-advice/tanzania/safety-and-security)
+[Previous:Safety and security](/foreign-travel-advice/tanzania/safety-and-security)
 
-[Next
-:
-Health](/foreign-travel-advice/tanzania/health)
+[Next:Health](/foreign-travel-advice/tanzania/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/tanzania/print)

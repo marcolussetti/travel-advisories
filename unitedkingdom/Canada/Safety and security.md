@@ -123,12 +123,8 @@ You should follow local warnings or news for details on the latest outbreaks. Th
 
 Parts of Canada are in the Arctic Circle, including some very remote areas of land and sea. Emergency medical assistance and search and rescue are limited in these areas. See [Arctic travel safety advice](https://www.gov.uk/guidance/arctic-travel-safety-advice).
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/canada/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/canada/entry-requirements)
 
-[Next
-:
-World Cup 2026](/foreign-travel-advice/canada/world-cup-2026)
+[Next:World Cup 2026](/foreign-travel-advice/canada/world-cup-2026)
 
 [View a printable version of the whole guide](/foreign-travel-advice/canada/print)

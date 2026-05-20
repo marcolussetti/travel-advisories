@@ -132,7 +132,7 @@ You must always carry 2 reflective triangles in your vehicle and wear a reflecti
 
 Police officers frequently stop drivers to check paperwork and sometimes try to extract bribes. If police are fining you for no clear reason, ask for a written fine you can pay at a police station.
 
-Only travel by road outside major cities during daylight. Where possible, keep to major roads and travel in convoy in rural areas. Fuel is available in larger towns only, though some fuel stations may have intermittent supply.
+Only travel by road outside major cities during daylight. Where possible, keep to major roads and travel in convoy in rural areas. Fuel supplies at petrol stations throughout Mozambique can be unpredictable and inconsistent, including in major cities. Where fuel is available, queues can be long. Travellers are advised to check with tour operators in advance to ensure sufficient fuel is available for any organised travel, and to allow extra time for journeys.
 
 ### Driving standards and road conditions
 

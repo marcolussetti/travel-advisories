@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   11 December 2025
+:   20 May 2026
 
 Updated:
-:   10 December 2025
+:   19 May 2026
 
 Latest update:
-:   Updated information on the political situation following the October 29 elections (‘Safety and security’ page). New information about dual nationals returning to the UK (‘Entry requirements’ page).
+:   Addition of information about heightened health screening measures for those entering Tanzania from Uganda and the Democratic Republic of Congo ('Entry requirements' page).
 
 ![](https://assets.publishing.service.gov.uk/media/690e25f165da22dd57729905/FCDO__TA__086_-_Tanzania_Travel_Advice_Ed1__WEB_.jpg)
 
@@ -52,8 +52,6 @@ Follow FCDO:
 * [travel advice on Facebook](https://www.facebook.com/FCDOTravel/)
 * [Travel Aware on Instagram](https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Ftravelaware%2F&is_from_rle)
 
-[Next
-:
-Entry requirements](/foreign-travel-advice/tanzania/entry-requirements)
+[Next:Entry requirements](/foreign-travel-advice/tanzania/entry-requirements)
 
 [View a printable version of the whole guide](/foreign-travel-advice/tanzania/print)

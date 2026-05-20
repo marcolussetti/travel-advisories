@@ -1,11 +1,11 @@
 {
     "name": "Costa Rica",
-    "update_reason": "New information about dual nationals returning to the UK (\u2018Entry requirements\u2019 page).",
+    "update_reason": "Updated information on customs rules; gang-related violence; fines for unauthorised entry into restricted conservation areas and earthquakes and recent volcanic activity ('Entry requirements' and 'Safety and security' pages).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Costa Rica/Warnings and insurance.md",
-            "update_date": "2025-12-10T13:09:22+00:00"
+            "update_date": "2026-05-19T11:42:25+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Costa Rica/Getting help.md"
         }
     ],
-    "update_date": "2025-12-10T13:09:22+00:00"
+    "update_date": "2026-05-19T11:42:25+01:00"
 }

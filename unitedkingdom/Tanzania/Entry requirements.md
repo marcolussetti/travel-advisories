@@ -38,6 +38,10 @@ You can also get a tourist or business visa for a single entry on arrival at the
 
 You must be ready to show your return or onward ticket at border control.
 
+### Ebola screening
+
+On 18 May, the Tanzania Ministry of Health issued a [Travel Advisory note](https://www.moh.go.tz/) announcing heightened health screening measures for travellers arriving into Tanzania from Uganda and the Democratic Republic of Congo. The World Health Organisation (WHO) has [declared this a Public Health Emergency of International Concern](https://www.who.int/news/item/17-05-2026-epidemic-of-ebola-disease-in-the-democratic-republic-of-the-congo-and-uganda-determined-a-public-health-emergency-of-international-concern).
+
 ### Mpox screening
 
 You will need to pass through mpox screening, in the form of body temperature checks, at all points of entry into Tanzania.
@@ -68,12 +72,8 @@ Do not bring animal skin accessories into Tanzania as you risk questioning or de
 
 Border officials have arrested foreigners for trying to take wildlife items, including horns and seashells, out of the country. It’s illegal to do this without a certified export permit from the Ministry of Natural Resources and Tourism. If you’re caught you could be detained or fined.
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/tanzania)
+[Previous:Warnings and insurance](/foreign-travel-advice/tanzania)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/tanzania/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/tanzania/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/tanzania/print)

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   27 February 2026
+:   20 May 2026
 
 Updated:
-:   26 February 2026
+:   19 May 2026
 
 Latest update:
-:   Updated information about visa requirements ('Entry requirements' page).
+:   Addition of information about fuel supplies at petrol stations ('Safety and security' page).
 
 ![](https://assets.publishing.service.gov.uk/media/68b6aa1b11b4ded2da19fcfe/FCDO__TA__028_-_Mozambique_Travel_Advice_Ed11__WEB_.jpg)
 

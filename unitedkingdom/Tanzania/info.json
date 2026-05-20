@@ -1,11 +1,11 @@
 {
     "name": "Tanzania",
-    "update_reason": "Updated information on the political situation following the October 29 elections (\u2018Safety and security\u2019 page). New information about dual nationals returning to the UK (\u2018Entry requirements\u2019 page).",
+    "update_reason": "Addition of  information about heightened health screening measures for those entering Tanzania from Uganda and the Democratic Republic of Congo ('Entry requirements' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Tanzania/Warnings and insurance.md",
-            "update_date": "2025-12-10T15:29:15+00:00"
+            "update_date": "2026-05-19T15:47:49+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Tanzania/Getting help.md"
         }
     ],
-    "update_date": "2025-12-10T15:29:15+00:00"
+    "update_date": "2026-05-19T15:47:49+01:00"
 }

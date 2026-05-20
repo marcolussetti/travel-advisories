@@ -33,9 +33,9 @@ Altitude sickness is a risk in parts of Uganda. Read more about [altitude sickne
 
 ### Ebola
 
-There are occasional Ebola outbreaks in Uganda. TravelHealthPro have information on the [Ebola Disease in Uganda](https://travelhealthpro.org.uk/country/231/uganda#Outbreaks) and  [general information on Ebola and similar diseases](https://travelhealthpro.org.uk/factsheet/68/viral-haemorrhagic-fever). World Health Organisation (WHO) have [declared this a Public Health Emergency of International Concern](https://www.who.int/news/item/17-05-2026-epidemic-of-ebola-disease-in-the-democratic-republic-of-the-congo-and-uganda-determined-a-public-health-emergency-of-international-concern).
+There are occasional Ebola outbreaks in Uganda. On 15 May the Ugandan Ministry of Health announced an outbreak of Ebola Bundibugyo in Uganda, including in Kampala. TravelHealthPro has information on [Ebola Disease in Uganda](https://travelhealthpro.org.uk/country/231/uganda#Outbreaks) and  [general information on Ebola and similar diseases](https://travelhealthpro.org.uk/factsheet/68/viral-haemorrhagic-fever). The World Health Organisation (WHO) has [declared Ebola in the Democratic Republic of Congo and Uganda a Public Health Emergency of International Concern](https://www.who.int/news/item/17-05-2026-epidemic-of-ebola-disease-in-the-democratic-republic-of-the-congo-and-uganda-determined-a-public-health-emergency-of-international-concern).
 
-Some countries have heightened health screening for travellers from Uganda. [Check entry requirements](https://www.gov.uk/foreign-travel-advice/) for the country you’re travelling to or transiting.
+You may encounter exit screening (temperature checks) on leaving Uganda. Some countries have heightened health screening for travellers from Uganda. [Check entry requirements](https://www.gov.uk/foreign-travel-advice/) for the country you’re travelling to or transiting.
 
 UK Health Security Agency has [Ebola information for humanitarian or healthcare workers](https://www.gov.uk/government/publications/ebola-virus-disease-information-for-workers-in-at-risk-countries).
 

@@ -25,7 +25,7 @@ There have been incidents where thieves slash a tyre and then offer to help chan
 
 ### Violent crime
 
-Avoid walking alone in poorly lit or remote areas at night. Gangs occasionally carry out muggings and armed robberies. A number of foreign nationals including one British national have gone missing in recent years, with some incidents related to criminal activity.
+Avoid walking alone in poorly lit or remote areas at night. Gangs occasionally carry out muggings and armed robberies. Gang-related violence, including shootings, has become more frequent in urban areas, including some locations popular with visitors. A number of foreign nationals including one British national have gone missing in recent years, with some incidents related to criminal activity.
 
 If you’re using a hire car, do not stop your car for strangers signalling for help – they could be carjackers.
 
@@ -83,7 +83,7 @@ See ⁠[watersports safety advice](https://www.rospa.com/leisure-water-safety/wa
 
 ### Rainforest tours and Adventure Tourism.
 
-If you are visiting jungle areas, go with an experienced local guide. Make sure you get appropriate insurance that covers you for all the activities you want to do. This includes activities such as quad biking, surfing, rock-climbing and zip-lining which can be hazardous but are frequently excluded from general travel insurance policies.
+If you are visiting jungle areas, go with an experienced local guide. There are fines for unauthorised entry into restricted conservation areas. Make sure you get appropriate insurance that covers you for all the activities you want to do. This includes activities such as quad biking, surfing, rock-climbing and zip-lining which can be hazardous but are frequently excluded from general travel insurance policies.
 
 ## Transport risks
 
@@ -125,22 +125,18 @@ The June-November period is also the peak rainy season. Flooding and landslides 
 
 ### Earthquakes
 
-There is a risk of earthquakes: movements greater than magnitude 6 occur periodically. Local infrastructure is well-prepared, and earthquakes seldom have widespread effects. The US Federal Emergency Management Agency website has advice about [what to do before, during and after an earthquake](http://www.ready.gov/earthquakes) or a [tsunami](http://www.ready.gov/tsunamis).
+There is a risk of earthquakes: small tremors are frequent and movements greater than magnitude 6 occur periodically. Local infrastructure is well-prepared, and earthquakes seldom have widespread effects. The US Federal Emergency Management Agency website has advice about [what to do before, during and after an earthquake](http://www.ready.gov/earthquakes) or a [tsunami](http://www.ready.gov/tsunamis).
 
 ### Volcanic eruptions
 
-Costa Rica has 16 volcanoes, several of which are considered active. The risk of eruptions is always present.  There is currently (April 2025) an increasing and significant series of eruptions at Poas Volcano.  The national emergency commission has issued a red warning for the Poas National Park, which is closed to visitors.
+Costa Rica has 16 volcanoes, several of which are considered active. The risk of eruptions is always present. There has recently been an increasing and significant series of eruptions at Poas Volcano.
 
 Check news reports and follow local advice before travelling to any areas around volcanoes. Avoid volcanic areas during and immediately after heavy rainfall when there’s increased risk of lava flows.
 
-Ash plumes can [affect air quality and have an impact on health](https://www.ivhhn.org/). If you have any pre-existing respiratory conditions, you might be at increased risk of triggering or worsening your symptoms. A properly fitted face mask may provide some protection.
+Ash plumes can [affect air quality and have an impact on health](https://www.ivhhn.org/). If you have any pre-existing respiratory conditions, you might be at increased risk of triggering or worsening your symptoms. A properly fitted face mask may provide some protection.
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/costa-rica/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/costa-rica/entry-requirements)
 
-[Next
-:
-Health](/foreign-travel-advice/costa-rica/health)
+[Next:Health](/foreign-travel-advice/costa-rica/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/costa-rica/print)

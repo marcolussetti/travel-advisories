@@ -261,12 +261,8 @@ Earthquakes and tremors are a risk in Tanzania. The US Federal Emergency Managem
 
 The last significant earthquake (magnitude 6.0) happened on 12 August 2020, 66km north-east of Mafia Island.
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/tanzania/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/tanzania/entry-requirements)
 
-[Next
-:
-Regional risks](/foreign-travel-advice/tanzania/regional-risks)
+[Next:Regional risks](/foreign-travel-advice/tanzania/regional-risks)
 
 [View a printable version of the whole guide](/foreign-travel-advice/tanzania/print)

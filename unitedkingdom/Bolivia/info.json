@@ -1,11 +1,11 @@
 {
     "name": "Bolivia",
-    "update_reason": "FCDO now advises against all travel to the department of La Paz, including the city of La Paz. Updated information about ongoing protests ('Warnings and insurance' page).",
+    "update_reason": "Updated information about ongoing protests and road blockades. FCDO continues to advise against all travel to the department of La Paz, including the city of La Paz (\u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Bolivia/Warnings and insurance.md",
-            "update_date": "2026-05-18T16:41:55+01:00"
+            "update_date": "2026-05-19T18:47:06+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Bolivia/Getting help.md"
         }
     ],
-    "update_date": "2026-05-18T16:41:55+01:00"
+    "update_date": "2026-05-19T18:47:06+01:00"
 }

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   30 April 2026
+:   20 May 2026
 
 Updated:
-:   29 April 2026
+:   19 May 2026
 
 Latest update:
-:   Removal of information about disruption in the North of Nayarit state, following operations against organised crime (‘Warnings and insurance’ page).
+:   Updated information for fans travelling to the World Cup 2026 (‘World Cup 2026’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/69a1c6c8ec82ce45f05bd70e/FCDO__TA__065_-_Mexico_Travel_Advice_Ed5__WEB_.jpg)
 
