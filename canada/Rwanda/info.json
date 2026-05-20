@@ -1,7 +1,7 @@
 {
     "name": "Rwanda",
-    "update_reason": "Safety and security section \u2013 added information on border crossings closure at Goma-Gisenyi",
-    "update_date": "2026-05-17T16:26:00",
+    "update_reason": "Safety and security section \u2013 updated information on border crossings",
+    "update_date": "2026-05-19T16:23:00",
     "sections": {
         "risk": "canada/Rwanda/risk.md",
         "security": "canada/Rwanda/security.md",

@@ -4,7 +4,7 @@
 
 ### Roadblocks in western Bolivia
 
-There are roadblocks in place across western Bolivia, particularly in the La Paz and Oruro regions. If you encounter a roadblock, do not try to cross it.
+There are roadblocks and reports of violent clashes across western Bolivia, particularly in the La Paz, Potosí and Oruro regions. If you encounter a roadblock, do not try to cross it.
 
 Overland travel to the following destinations could be severely disrupted:
 
@@ -12,6 +12,19 @@ Overland travel to the following destinations could be severely disrupted:
 * Lake Titicaca
 * Uyuni
 * Potosí
+* Tiwanaku
+* Coroico
+
+If you must travel by road, avoid routes between La Paz and:
+
+* Copacabana/Lake Titicaca
+* Oruro
+* Uyuni via Oruro
+* Rurrenabaque
+
+Avoid all protests and roadblocks, particularly around government buildings and central La Paz (including Plaza Murillo). Situations can escalate quickly and without warning.
+
+Be prepared to change your travel plans on short notice, including cutting short or cancelling your trip.
 
 If you plan on entering Bolivia via a land border crossing with Peru or Chile, you should confirm the status of your route before you depart.
 

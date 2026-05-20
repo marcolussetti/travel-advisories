@@ -15,7 +15,7 @@ It's best to talk to a healthcare provider or visit a travel health clinic prefe
 
 #### Ebola disease in Uganda
 
-On May 15, 2026, the Ugandan Ministry of Health reported an imported case of Ebola disease related to an ongoing outbreak in the Democratic Republic of Congo (DRC). The case was reported in Kampala, Uganda. Investigations are ongoing to determine the scope of the outbreak.    
+On May 15, 2026, the Ugandan Ministry of Health confirmed an outbreak of Ebola disease linked to imported cases from the ongoing outbreak in the Democratic Republic of Congo (DRC). The cases were reported in Kampala, Uganda. Investigations are ongoing to determine the extent of the outbreak.  
    
 Ebola disease is caused by a group of viruses that are spread through contact with the infected bodily fluids of people or animals experiencing symptoms of Ebola disease. The disease is serious and often fatal. The risk of getting the virus is low for most travellers if the proper precautions are followed.
 
@@ -32,7 +32,8 @@ Monitor your health for symptoms while in the affected area and for 21 days afte
 **Learn more:**
 
 [Ebola disease](https://www.canada.ca/en/public-health/services/diseases/ebola.html)  
-[Ebola disease in the Democratic Republic of Congo](https://travel.gc.ca/travelling/health-safety/travel-health-notices/549)
+[Ebola disease in the Democratic Republic of Congo](https://travel.gc.ca/travelling/health-safety/travel-health-notices/549)  
+[Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo & Uganda](https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON602)
 
 ### Routine vaccines
 

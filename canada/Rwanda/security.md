@@ -2,9 +2,9 @@
 
 ## Safety and security
 
-### Goma-Gisenyi border crossings closure
+### Land bord crossing restrictions with the Democratic Republic of the Congo
 
-The border crossings at Goma-Gisenyi are closed until further notice due to an outbreak of Ebola disease in the Democratic Republic of Congo.
+The border crossings at Gisenyi-Goma and Cyangugu-Bukavu are closed to most travellers due to an outbreak of Ebola disease in the Democratic Republic of the Congo.
 
 ### Border with the Democratic Republic of Congo
 
