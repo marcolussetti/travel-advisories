@@ -12,7 +12,7 @@ The security situation across the Middle East and Gulf region remains volatile a
 
 Irish citizens already in the region are advised to remain vigilant, closely monitor developments and official sources of information, and follow the advice of local authorities.
 
-Citizens transiting through the Gulf are not impacted by this ‘Avoid Non-Essential Travel’ advisory. However, as flights can be subject to change at short notice, please liaise directly with your airlines in advance of travel and follow their advice.
+Irish citizens transiting through the Gulf should remain vigilant and be aware that flights can be subject to change. Please liaise directly with your airlines and follow their advice.
 
 If you wish to leave the UAE, it is currently possible to do so via commercial flights.
 
@@ -26,7 +26,9 @@ A valid passport is required for travel to the UAE. Passports must have a minimu
 
 For more information on visas and passports, please see the Entry requirements tab.
 
-The UAE is a Muslim country, with a very diverse resident population. Laws and customs are very different to those in Ireland and other Western countries. It is important to respect local customs, laws, and religions while in the UAE. Please note that if visitors experience any legal difficulty, either civil or criminal, while in the UAE, they are likely to be subject to a travel ban until the issue is fully resolved. Timings related to the resolution of legal issues are not consistent and may not be prompt. See the Local Laws and Customs section for more information.
+The UAE is a Muslim country, with a very diverse resident population. Laws and customs are very different to those in Ireland and other Western countries. It is important to respect local customs, laws, and religions while in the UAE.
+
+Please note that if visitors experience any legal difficulty, either civil or criminal, while in the UAE, they are likely to be subject to a travel ban until the issue is fully resolved. Timings related to the resolution of legal issues are not consistent and may not be prompt. See the Local Laws and Customs section for more information.
 
 Visitors to the UAE are advised to follow the guidance of national and local authorities and stay fully informed of what is going on by monitoring local news and social media.
 

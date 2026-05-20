@@ -12,7 +12,7 @@ In light of the current security situation in the Middle East and Gulf region, t
 
 Irish citizens already in the region are advised remain vigilant, closely monitor developments and official sources of information, and follow the advice of local authorities.
 
-Citizens transiting through the Gulf are not impacted by this ‘Avoid Non-Essential Travel’ advisory. However, as flights can be subject to change at short notice, please liaise directly with your airlines in advance of travel and follow their advice.
+Irish citizens transiting through the Gulf should remain vigilant and be aware that flights can be subject to change. Please liaise directly with your airlines and follow their advice.
 
 If you wish to leave Qatar, it is currently possible to do so via commercial flights.
 
