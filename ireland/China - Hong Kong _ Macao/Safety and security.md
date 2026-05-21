@@ -10,9 +10,11 @@ Irish citizens and members of the public are urged to be vigilant and are strong
 
 National Security Legislation has been in place in Hong Kong since July 2020. It covers offences on secession, subversion, terrorism and collusion with a foreign country or an external force with mandatory penalties up to and including life imprisonment depending on the severity of the charges.
 
-Charges under this legislation can be applied to activities undertaken inside and outside Hong Kong. Possession of materials considered to be seditious, flying of drones in unauthorised areas or other activities while in Hong Kong may result in arrest or detention.
+The Safeguarding National Security Ordinance was introduced in 2024 and includes offences such as treason, sedition, unlawful disclosure of state secrets, and external interference endangering national security.
 
-Irish citizens are reminded that local laws apply to you as a visitor and it is your responsibility to follow them. Travellers should make themselves familiar with the [**Safeguarding National Security Ordinance**](https://www.elegislation.gov.hk/hk/A305). Irish citizens have a right to request consular assistance if they are detained by local authorities.
+The offences under the National Security Law and Safeguarding National Security Ordinance can be interpreted broadly. Individuals and organisations can be charged under these legislation for activities undertaken inside and outside Hong Kong and apply to all individuals, regardless of nationality or residency. Failure to comply with national security investigations, including sharing full access to electronic devices, is considered an offence.
+
+Irish citizens are reminded that local laws apply to you as a visitor and it is your responsibility to follow them. Travellers should make themselves familiar with the [**2020 National Security Law**](https://www.elegislation.gov.hk/doc/hk/a302/eng_translation_(a302)_en.pdf) and the [**2024 Safeguarding National Security Ordinance**](https://www.elegislation.gov.hk/hk/a303!en?INDEX_CS=N). Irish citizens have a right to request consular assistance if they are detained by local authorities.
 
 ### **Terrorism**
 

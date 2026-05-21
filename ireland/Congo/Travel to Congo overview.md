@@ -6,21 +6,17 @@ High Degree of Caution
 
 ### **Travel Alert**
 
-Irish citizens are advised to exercise a high degree of caution in respect of their personal safety while in the Republic of Congo (also known as Congo-Brazzaville). Irish citizens are also advised to follow developments in the region in respect of m-pox and to consult advice available such as on the [**HSE website**](https://www2.hse.ie/conditions/mpox/).
+This page contains advice relating to travel to the Republic of Congo (also known as Congo-Brazzaville). Information regarding travel to the Democratic Republic of Congo can be found on our [**DRC travel page**](https://www.ireland.ie/en/dfa/overseas-travel/advice/democratic-republic-of-congo/). Irish citizens are advised to exercise a high degree of caution in respect of their personal safety while in the Republic of Congo. Irish citizens are also advised to follow developments in the region in respect of m-pox and to consult advice available such as on the [**HSE website**](https://www2.hse.ie/conditions/mpox/).
 
-The Department of Foreign Affairs and Trade advises against all travel to the area within 50km of the border with Central African Republic.
+The Department of Foreign Affairs and Trade advises against all travel to the area within 50km of the border with Central African Republic. Irish citizens are advised to avoid non-essential travel to the Pool Department in the South-East of the country, except for the city of Brazzaville.
 
 Citizens in the country are advised to be vigilant, keep up to date with local developments, and avoid any demonstrations and large gatherings. Irish citizens in Congo-Brazzaville or intending to travel to the country should ensure that they have [**registered**](https://www.ireland.ie/en/dfa/overseas-travel/citizens-registration/) with the Department of Foreign Affairs and Trade.
 
 **Citizens in need of consular assistance should contact the Department of Foreign Affairs and Trade.**
 
-### **COVID-19 Entry Requirements**
-
-While there are currently no specific entry requirements related to COVID-19, travellers between regions of the Republic of Congo may be required to present a negative COVID-19 test result that is dated within three days before the date of travel within the country.
-
 ### **General Travel Advice**
 
-Irish citizens require a visa to enter the Republic of Congo.
+Irish citizens require a visa to enter the Republic of Congo. For information on how to apply for a visa, please contact the [**Embassy of the Republic of Congo in London**](https://www.embassyofcongo.co.uk/).
 
 A valid passport is required for travel to the Republic of Congo. Irish passports should have a minimum validity of six months after the confirmed date of departure from Congo. Passport cards cannot be used.
 

@@ -23,11 +23,9 @@ Smoking, including e-cigarettes, is prohibited in all indoor public places in Ho
 
 Any person smoking or carrying a lighted cigarette, cigar, or pipe in a designated no-smoking area will be liable to a fixed penalty.
 
-Hong Kong has banned the import, sale and manufacture of electronic cigarettes, heated tobacco products and herbal cigarettes, with offenders subject to a maximum fine of HK$50,000 (US$6,370) and six months’ imprisonment. Consumers are still allowed to smoke vape gadgets.
+Hong Kong has banned the import, sale and manufacture of alternative smoking products, including electronic cigarettes, heated tobacco products and herbal cigarettes, with offenders subject to a maximum fine of HK$500,000 (approximately US$64,000) and two years’ imprisonment.
 
-If entering Hong Kong with e-cigarettes containing nicotine, a medical prescription indicating that they’re for personal use is required. If the e-cigarette is nicotine-free and for personal use, no medical prescription is needed.
-
-For more information, visit the
+Since 30 April 2026, it is now illegal to possess or use an alternative smoking product, including vapes, in a public place. It is also prohibited to bring these products into Hong Kong, including in your personal luggage. For more information, visit the
 
 * [**Hong Kong Tobacco and Control Office**](https://www.taco.gov.hk/t/english/index.html)
 * [**Macao Tobacco Prevention and Control Office**](https://www.gov.mo/en/news/87214/)

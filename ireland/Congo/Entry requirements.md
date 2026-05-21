@@ -2,7 +2,7 @@
 
 ### Visa
 
-Irish citizens require a visa to enter the Republic of Congo.
+Irish citizens require a visa to enter the Republic of Congo. For information on how to apply for a visa, please contact the [**Embassy of the Republic of Congo in London**](https://www.embassyofcongo.co.uk/).
 
 ### **Passports**
 
