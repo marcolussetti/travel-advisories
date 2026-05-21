@@ -90,7 +90,7 @@ Always carry your FMMD or FMM with you as proof of your legal status in Mexico. 
 * at an immigration checkpoint
 * when departing the country
 
-Upon departure, if you’re unable to show your FMMD or FMM or your passport with the entry stamp, you will have to pay for a replacement.
+Upon departure, if you’re unable to show your FMMD or FMM or your passport with the entry stamp, you may have to pay for a replacement.
 
 #### Useful links
 

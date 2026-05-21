@@ -33,7 +33,7 @@ Credit card and ATM fraud may occur. Be cautious when using debit or credit card
 * cover the keypad with one hand when entering your PIN
 * check for any unauthorized transactions on your account statements
 
-#### Overcharge
+#### Overcharging
 
 Some bars, nightclubs and “cabarets” may try to charge exorbitant prices. Disputes about overcharging may lead to threats of violence, and security guards may force you to pay.
 
@@ -63,7 +63,6 @@ If you plan on visiting areas outside of major tourist destinations:
 #### Useful links
 
 * [Map of suspected minefields](https://misportal.hcr.hr/HCRweb/faces/intro/introduction.jspx) - The Croatian Mine Action Centre
-* [Minefields info app](http://minefields.info/) - The Croatian Mine Action Centre
 
 ### Terrorism
 

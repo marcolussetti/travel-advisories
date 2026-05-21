@@ -200,7 +200,7 @@
     {
         "destination": "Bulgaria",
         "risk_level": "Take normal security precautions",
-        "last_updated": "2026-05-04T10:10:34",
+        "last_updated": "2026-05-20T11:46:54",
         "details_url": "https://travel.gc.ca/destinations/bulgaria"
     },
     {
@@ -296,13 +296,13 @@
     {
         "destination": "Croatia",
         "risk_level": "Take normal security precautions",
-        "last_updated": "2026-05-04T10:10:35",
+        "last_updated": "2026-05-20T12:03:57",
         "details_url": "https://travel.gc.ca/destinations/croatia"
     },
     {
         "destination": "Cuba",
         "risk_level": "Avoid non-essential travel",
-        "last_updated": "2026-05-19T11:49:59",
+        "last_updated": "2026-05-20T11:47:49",
         "details_url": "https://travel.gc.ca/destinations/cuba"
     },
     {
@@ -356,7 +356,7 @@
     {
         "destination": "Dominican Republic",
         "risk_level": "Exercise a high degree of caution",
-        "last_updated": "2026-05-19T14:32:56",
+        "last_updated": "2026-05-20T14:33:35",
         "details_url": "https://travel.gc.ca/destinations/dominican-republic"
     },
     {
@@ -440,7 +440,7 @@
     {
         "destination": "French Polynesia",
         "risk_level": "Take normal security precautions",
-        "last_updated": "2026-05-06T14:34:43",
+        "last_updated": "2026-05-20T11:17:22",
         "details_url": "https://travel.gc.ca/destinations/french-polynesia"
     },
     {
@@ -554,7 +554,7 @@
     {
         "destination": "Hungary",
         "risk_level": "Take normal security precautions",
-        "last_updated": "2026-05-19T16:22:22",
+        "last_updated": "2026-05-20T09:10:07",
         "details_url": "https://travel.gc.ca/destinations/hungary"
     },
     {
@@ -788,7 +788,7 @@
     {
         "destination": "Mexico",
         "risk_level": "Exercise a high degree of caution (with regional advisories)",
-        "last_updated": "2026-05-13T14:23:32",
+        "last_updated": "2026-05-20T14:45:04",
         "details_url": "https://travel.gc.ca/destinations/mexico"
     },
     {
@@ -1226,7 +1226,7 @@
     {
         "destination": "Tanzania",
         "risk_level": "Exercise a high degree of caution (with regional advisories)",
-        "last_updated": "2026-05-04T13:43:34",
+        "last_updated": "2026-05-20T13:45:57",
         "details_url": "https://travel.gc.ca/destinations/tanzania"
     },
     {
@@ -1334,7 +1334,7 @@
     {
         "destination": "Uzbekistan",
         "risk_level": "Take normal security precautions (with regional advisories)",
-        "last_updated": "2026-05-04T15:02:56",
+        "last_updated": "2026-05-20T14:31:57",
         "details_url": "https://travel.gc.ca/destinations/uzbekistan"
     },
     {

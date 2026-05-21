@@ -2,17 +2,19 @@
 
 ## Entry and exit requirements
 
+### Health screening measures
+
+Due to outbreaks of Ebola disease in the Democratic Republic of the Congo (DRC) and Uganda, all travellers arriving from or transiting through these countries are subject to health screening measures at points of entry. These include the completion of a health declaration form and temperature checks.
+
+If you are identified by local authorities as a person suspected of having symptoms of Ebola disease, you may be subject to additional health measures. These may include quarantine and restrictions on travel until you are cleared by local health authorities.
+
+[Declaration health form](https://afyamsafiri.moh.go.tz/#/) – Tanzanian Ministry of Health
+
 The authorities of a country or territory decide who can enter or exit through its borders. The Government of Canada cannot intervene on your behalf if you do not meet your destination’s entry or exit requirements.
 
 We have obtained the information on this page from the Tanzanian authorities. It can, however, change at any time.
 
 Verify this information with the [Foreign Representatives in Canada](https://www.international.gc.ca/protocol-protocole/reps.aspx?lang=eng).
-
-### Health screening measures
-
-Due to the ongoing outbreak of mpox, you will be subject to health screening measures, such as temperature checks, at any point of entry.
-
-If you have symptoms of mpox, you will be tested and receive treatment at designated government health facilities, if necessary, until you are cleared to travel by local health authorities.
 
 ### Passport
 

@@ -4,11 +4,13 @@
 
 ### Climate change
 
-Climate change is affecting French Polynesia. Extreme and unusual weather events are becoming more frequent and may affect your travel plans. Monitor local news to stay informed on the current situation.
+Climate change is affecting French Polynesia. Extreme and unusual weather events are becoming more frequent and may affect your travel plans. Monitor local media for the latest information.
 
-### Cyclones
+### Rainy season and cyclones
 
-Cyclones usually occur from November to April. During this period, even small storms can quickly develop into major cyclones.
+Heavy rains can occur any time of year, but they are more frequent during the rainy season, which extends from November to April. They can cause flooding and landslides. Roads may become impassable and infrastructure may be damaged.
+
+Cyclones also usually occur from November to April. During this period, even small storms can quickly develop into major cyclones.
 
 These severe storms can put you at risk and hamper the provision of essential services.
 
