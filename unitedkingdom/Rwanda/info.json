@@ -1,11 +1,11 @@
 {
     "name": "Rwanda",
-    "update_reason": "FCDO no longer advises against all but essential travel to parts of Rubavu District. FCDO continues to advise against all but essential travel to parts of Rusizi District which are within 10km of the border with the Democratic Republic of Congo (\u2018Warnings and insurance\u2019 page).",
+    "update_reason": "Updated information to border crossings between Rwanda and DRC and addition of information about a declaration of an Ebola outbreak in DRC on 15 May ('Warnings and insurance' and \u2018Health\u2019 pages).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Rwanda/Warnings and insurance.md",
-            "update_date": "2025-12-18T15:03:23+00:00"
+            "update_date": "2026-05-20T17:19:56+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Rwanda/Getting help.md"
         }
     ],
-    "update_date": "2025-12-18T15:03:23+00:00"
+    "update_date": "2026-05-20T17:19:56+01:00"
 }

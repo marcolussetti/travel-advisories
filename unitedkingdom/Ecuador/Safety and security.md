@@ -97,7 +97,9 @@ If you are a victim of kidnapping, follow the kidnapper’s instructions.
 
 ### Drug-assisted robbery
 
-Criminals may drug victims to rob them. Homemade versions of the drug scopolamine subdue victims and cause amnesia. Scopolamine is absorbed through the skin and can be rubbed onto your hand, face or body without you realising. Be wary if a stranger approaches your offering you something (for example, food, drinks, leaflets and perfume samples), even they’re friendly or well-dressed.
+Criminals may use drugs to incapacitate victims and facilitate robbery. Homemade versions of the drug scopolamine can disorient individuals and impair their ability to resist or remember events. Scopolamine can be absorbed through the skin and may be applied to your hand, face or body without you realising.
+
+Remain cautious if approached by strangers offering items such as food, drinks, leaflets or perfume samples, even if they appear friendly or well-dressed. Some British nationals have reported incidents involving this type of drug in private rented accommodation. You should exercise caution when inviting unfamiliar people into your home or rented accommodation.
 
 ### Methanol poisoning
 
@@ -173,6 +175,8 @@ You should:
 * make sure someone knows where you’re going and when you plan to return
 * avoid walking alone
 
+Lightning has killed tourists climbing mountains. Watch the weather and reconsider your plans if conditions look bad. Turn off any electronic devices if you encounter a thunderstorm; this prevents electrical surges, stops devices from acting as lightning rods, and protects you from close-range strikes.
+
 For more information on climbing or mountaineering, see the [Ministry of Environment](https://www.ambiente.gob.ec/), [Ecuador Tourism] (https://www.turismo.gob.ec/), and [Chimborazo Local Government](https://twitter.com/goberchimborazo).
 
 For accredited guides, check [the Ecuadorean Mountaineering Accredited Guides Association](https://aseguim.org/) (in Spanish).
@@ -190,8 +194,6 @@ Tourists take day trips to Pichincha volcano on the cable car (‘teleférico’
 * go with an accredited specialised guide who knows the route
 * start early to reduce risks from unexpected heavy mist or storms
 * wear a helmet if climbing up the peak Rucu Pichincha
-
-Lightning has killed tourists climbing Pichincha. Watch the weather and reconsider your plans if conditions look bad.
 
 ### Cayambe Volcano
 
@@ -245,7 +247,7 @@ Always wear a seat belt. If you’re a passenger in a speeding vehicle, ask the 
 
 ### Taxis
 
-Book taxis through your hotel or by calling a known radio-dispatched taxi service. Travel in a group if possible. Using unregistered taxis significantly increases your risk of becoming a crime victim.
+Book taxis through your hotel or by calling a known radio-dispatched taxi service. Travel in a group if possible. Using unregistered taxis significantly increases your risk of becoming a victim of crime.
 
 While taxi service apps do exist and provide the driver’s details, the services themselves are unregulated in Ecuador.
 

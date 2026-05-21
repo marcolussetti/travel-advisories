@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   15 May 2026
+:   21 May 2026
 
 Updated:
-:   14 May 2026
+:   20 May 2026
 
 Latest update:
-:   New information about the upcoming UEFA Europa League Final on 20 May ('Warnings and insurance' page).
+:   Addition of information about Turkey-Syria border ('Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/69a6faa2a2495f2d259f13d2/FCDO_TA_043_-_Turkey_Travel_Advice_Ed4_WEB.jpg)
 
@@ -20,7 +20,7 @@ Your travel insurance could be invalidated if you travel against advice from the
 
 ### Turkey-Syria border
 
-FCDO advises against all travel to within 10km of the border with Syria due to fighting and a heightened risk of terrorism.
+FCDO advises against all travel to within 10km of the border with Syria due to fighting and a heightened risk of terrorism. If you are in Syria, follow [FCDO Travel Advice for Syria](https://www.gov.uk/foreign-travel-advice/syria). The FCDO cannot facilitate entry for British nationals into Turkey from Syria.
 
 Find out more about [why FCDO advises against travel](https://www.gov.uk/foreign-travel-advice/turkey/regional-risks).
 

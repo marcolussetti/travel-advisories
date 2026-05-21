@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   19 December 2025
+:   21 May 2026
 
 Updated:
-:   18 December 2025
+:   20 May 2026
 
 Latest update:
-:   FCDO no longer advises against all but essential travel to parts of Rubavu District. FCDO continues to advise against all but essential travel to parts of Rusizi District which are within 10km of the border with the Democratic Republic of Congo (‘Warnings and insurance’ page).
+:   Updated information to border crossings between Rwanda and DRC and addition of information about a declaration of an Ebola outbreak in DRC on 15 May ('Warnings and insurance' and ‘Health’ pages).
 
 ![](https://assets.publishing.service.gov.uk/media/694416f88f4636fa2c547e9a/FCDO__TA__100_-_Rwanda_Travel_Advice_Ed5__WEB_.jpg)
 
@@ -28,7 +28,7 @@ Risks associated with the proximity of potential fighting in Democratic Republic
 
 See [Democratic Republic of the Congo’s travel advice](https://www.gov.uk/foreign-travel-advice/democratic-republic-of-the-congo) for more information. Keep up to date with developments through local media.
 
-The border crossings between Rwanda and DRC at Gisenyi-Goma could close at short notice.
+The border crossings between Rwanda and DRC could close at short notice.
 
 ## Before you travel
 

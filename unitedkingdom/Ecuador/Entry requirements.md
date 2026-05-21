@@ -47,7 +47,7 @@ To stay longer, to work or study, for business travel or for other reasons, you 
 
 Ecuador’s Ministry of Foreign Affairs and Human Mobility (MFAHM) has an [e-visa application process](https://serviciosdigitales.cancilleria.gob.ec/authentication) (in Spanish).  Find the [relevant MFAHM district zone offices](https://www.cancilleria.gob.ec/2020/07/30/direccioneszonales/).
 
-To apply in-person, you should get an appointment before visiting the Ministry of Foreign Affairs and Human Mobility (MFA). For general guidance contact: [consejeria@cancilleria.gob.ec](mailto:consejeria@cancilleria.gob.ec) or [citasvisas@cancilleriga.gob.ec](mailto:citasvisas@cancilleria.gob.ec)
+For general guidance contact ssmc@cancilleria.gob.ec or call (02) 299 3200 extension 23064.
 
 ## Checks at border control
 

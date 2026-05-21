@@ -1,17 +1,17 @@
 # Warnings and insurance
 
 Still current at:
-:   20 May 2026
+:   21 May 2026
 
 Updated:
-:   19 May 2026
+:   20 May 2026
 
 Latest update:
-:   Addition of information about travel disruption at the Gradiška border crossing ('Warnings and insurance' page).
+:   Updated information about travel disruption at the Gradiška border crossing ('Warnings and insurance' page).
 
 ## Travel disruption at the Gradiška border crossing
 
-The Gradiška border crossing has been closed due to the partial collapse of a bridge. Use other border crossings and plan ahead for posssible delays due to increased traffic congestion.
+The Gradiška border crossing has been temporarily relocated to a new bridge in Gradiška, following the partial collapse of a bridge at the previous site. Traffic congestion is expected to continue following this change, so plan ahead for possible delays to travel.
 
 ## Before you travel
 

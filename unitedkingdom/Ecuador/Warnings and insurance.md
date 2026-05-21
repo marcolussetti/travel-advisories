@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   30 April 2026
+:   21 May 2026
 
 Updated:
-:   29 April 2026
+:   20 May 2026
 
 Latest update:
-:   Addition of information that a curfew will be in place across a number of provinces from 3 to 18 May ('Warnings and insurance' page).
+:   Addition of information about Colombia-Ecuador border closure and updated information on healthcare in Ecuador and the Galapagos Islands ('Warnings and insurance' and 'Health' pages).
 
 ![](https://assets.publishing.service.gov.uk/media/65a1082ce96df50014f8452c/FCDO__TA__014_-_Ecuador_Travel_Advice_Ed5__WEB_.jpg)
 
@@ -62,11 +62,9 @@ A 60-day state of emergency (SOE) was renewed on 2 April 2026 due to internal di
 
 Due to the current SOE, expect heightened police and military presence nationwide without previous notice, and potential travel disruptions due to extra security checks.
 
-## Curfew
+## Colombia-Ecuador border closure
 
-A curfew will be in effect from 3 May to 18 May, between 11pm and 5am, in the provinces listed above that are under a SOE.
-
-Travellers with a valid boarding pass going to or coming from the airport during those hours are exempt from the curfew.
+Due to Presidential elections in Colombia, the Colombia-Ecuador land border will be closed to foreign nationals from Saturday 30 May at 6pm until Monday 1 June at 6am. Travellers should plan ahead and expect potential travel disruptions due to closures.
 
 ## Before you travel
 

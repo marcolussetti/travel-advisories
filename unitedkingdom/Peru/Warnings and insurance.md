@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   8 March 2026
+:   21 May 2026
 
 Updated:
-:   7 March 2026
+:   20 May 2026
 
 Latest update:
-:   Emergency measures affecting Lima and Callao regions declared by Peruvian Government in response to natural gas shortage (See ’Warnings and insurance’ page).
+:   Removal of information about emergency measures affecting Lima and Callao regions which was declared by Peruvian Government in response to natural gas shortage.
 
 ![](https://assets.publishing.service.gov.uk/media/6645e81e993111924d9d365a/FCDO__TA__093_-_Peru_Travel_Advice_Ed3__WEB_.jpg)
 
@@ -33,17 +33,9 @@ We advise against all but essential travel to these two areas for safety and sec
 
 Find out more about [why FCDO advises against travel](https://www.gov.uk/foreign-travel-advice/peru/regional-risks).
 
-## State of Emergency in Peru
-
-A State of Emergency is in place in Peru. Avoid large gatherings and protests. There will be increased security patrols and a visible presence of armed forces on the streets. Follow the instructions of police and local authorities.
-
-Emergency measures are in place following a rupture of the Camisea gas pipeline and the resultant natural gas shortage. Expect disruption and shortage of natural gas for vehicles (GNV).
-
-The Peruvian Government has announced temporary measures in Lima and Callao, including remote working for the public sector and remote classes for schools and universities, with similar guidance for the private sector. These measures are expected to remain in place for around 14 days.
-
 ## Before you travel
 
-No travel can be guaranteed safe. Read all the advice in this guide. You may also find it helpful to:
+No travel can be guaranteed safe. Read all the advice in this guide. If you have onward travel plans within the region, check travel advice for all destinations you plan to travel through. You may also find it helpful to:
 
 * see [general advice for women travellers](https://www.gov.uk/guidance/advice-for-women-travelling-abroad)
 * read our [guide on disability and travel abroad](https://www.gov.uk/government/publications/disabled-travellers)

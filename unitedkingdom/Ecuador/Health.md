@@ -42,7 +42,7 @@ Pharmacies in Ecuador may accept some UK prescriptions. They will accept antimic
 
 ## Healthcare in Ecuador
 
-The Ecuadorean public healthcare system provides the same level of care to locals and foreigners at no cost. However, a high standard of healthcare and specialised medical treatment may not always be available outside main cities. Private treatment can be very expensive, and private hospitals require a credit card guarantee for admission.
+The Ecuadorean public healthcare system provides the same level of care to locals and foreigners free of charge. However, it is currently facing challenges, including delays in obtaining appointments and limited access to medicines, due to funding constraints, increased demand and potential staff shortages. Private treatment can be very expensive, and private hospitals require a credit card guarantee for admission. Healthcare standards and access to specialised treatment can vary, and may be limited outside major cities.
 
 FCDO has a list of [medical providers in Ecuador](https://www.gov.uk/government/publications/ecuador-list-of-hospitals--2) where some staff will speak English.
 
@@ -50,9 +50,11 @@ See [hospitalisation information pack](https://www.gov.uk/government/publication
 
 ### Healthcare in the Galapagos Islands
 
-There are limited medical facilities in the Galapagos Islands. Make sure your insurance includes air ambulance evacuation. If you travel to the Galapagos Islands by boat, you may be asked to supply information such as your blood group and emergency contacts when you board.
+There are limited medical facilities in the Galapagos Islands. You should ensure that your travel insurance includes air ambulance evacuation.
 
-San Cristóbal Island has a well-equipped public hospital. Santa Cruz Island has a basic hospital. Isabela Island has a very small and extremely basic health centre.
+If you travel to the Galapagos Islands by boat, you may be asked to supply information such as your blood group and emergency contacts when you board.
+
+Healthcare provision varies across the islands. San Cristóbal has a relatively well-equipped public hospital, although it may face the same constraints as mainland facilities. Santa Cruz has a basic hospital that is currently undergoing refurbishment. Isabela Island only has a very small and extremely basic health centre.
 
 ## Travel and mental health
 
