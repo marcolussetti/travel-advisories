@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   29 April 2026
+:   22 May 2026
 
 Updated:
-:   28 April 2026
+:   21 May 2026
 
 Latest update:
-:   Updated information that the only international airport in Burundi is the Melchior Ndadaye International Airport ('Warnings and insurance' page).
+:   Addition of information about a declaration of an Ebola outbreak in DRC on 15 May (‘Health page’).
 
 ![](https://assets.publishing.service.gov.uk/media/69ca741595a323ea3496ed17/FCDO_TA_007_-_Burundi_Travel_Advice_Ed7_WEB.jpg)
 

@@ -1,24 +1,24 @@
 # Warnings and insurance
 
 Still current at:
-:   20 May 2026
+:   22 May 2026
 
 Updated:
-:   19 May 2026
+:   21 May 2026
 
 Latest update:
-:   Updated information about ongoing protests and road blockades. FCDO continues to advise against all travel to the department of La Paz, including the city of La Paz (‘Warnings and insurance’ page).
+:   FCDO now advises against all but essential travel to the department of La Paz, including the city of La Paz (‘Warnings and insurance’ page).
 
-![](https://assets.publishing.service.gov.uk/media/6a0b2fa9fcae986635db912a/FCDO__TA__098_-_Bolivia_Travel_Advice_Ed3__WEB___2_.jpg)
+![](https://assets.publishing.service.gov.uk/media/6a0f80f429bb11891b1cf047/FCDO__TA__098_-_Bolivia_Travel_Advice_Ed2__WEB_.jpg)
 
 
-[Download a more detailed map (PDF, 786 KB)](https://assets.publishing.service.gov.uk/media/6a0b2fa9279ebb7d24f8f40c/FCDO__TA__098_-_Bolivia_Travel_Advice_Ed3.pdf)
+[Download a more detailed map (PDF, 773 KB)](https://assets.publishing.service.gov.uk/media/6a0f80f429bb11891b1cf048/FCDO__TA__098_-_Bolivia_Travel_Advice_Ed2.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
 ## Areas where FCDO advises against travel
 
-FCDO advises against all travel to the department of La Paz, including the city of La Paz.
+FCDO advises against all but essential travel to the department of La Paz, including the city of La Paz.
 
 FCDO advises against all but essential travel to the Chapare region of Cochabamba Department including Villa Tunari and highway routes 4 and 24 that pass through Chapare.
 

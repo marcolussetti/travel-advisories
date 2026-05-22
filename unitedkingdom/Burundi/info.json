@@ -1,11 +1,11 @@
 {
     "name": "Burundi",
-    "update_reason": "Updated information that the only international airport in Burundi is the Melchior Ndadaye International Airport ('Warnings and insurance' page).",
+    "update_reason": "Addition of information about a declaration of an Ebola outbreak in DRC on 15 May (\u2018Health page\u2019).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Burundi/Warnings and insurance.md",
-            "update_date": "2026-04-28T16:51:48+01:00"
+            "update_date": "2026-05-21T16:02:33+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Burundi/Getting help.md"
         }
     ],
-    "update_date": "2026-04-28T16:51:48+01:00"
+    "update_date": "2026-05-21T16:02:33+01:00"
 }

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   11 April 2026
+:   22 May 2026
 
 Updated:
-:   10 April 2026
+:   21 May 2026
 
 Latest update:
-:   FCDO now advises against all travel to parts of Lebanon. FCDO continues to advise against all travel and all but essential travel to other parts of Lebanon. Updated information about conflict affecting Lebanon ('Warnings and insurance' page).
+:   Updated information about regional tensions and conflict affecting Lebanon (‘Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/69d8ca53eb7e7bc565170210/FCDO__TA__023_-_Lebanon_Travel_Advice_Ed22__WEB___1_.jpg)
 
@@ -75,24 +75,19 @@ FCDO advises against all travel to the 12 Palestinian refugee camps. See [Pale
 
 Let the UK government know you’re in Lebanon, [register your presence](https://www.register.service.csd.fcdo.gov.uk/lebanon-20260305) if you’re in Lebanon for further updates.
 
-## Regional escalation
+## Regional tensions
 
-Regional escalation poses significant security risks and has led to travel disruption.
-
-The Iranian regime has publicly stated its intentions to target locations across the region associated with the US. This includes US-linked organisations, businesses and institutions.
-
-Stay away from areas around security or military facilities, and US-linked locations.
-
-Iran continues to strike civilian infrastructure across the region such as ports, hotels, roads, bridges, energy facilities, oil production sites, water systems, and airports.
+The situation in the Middle East remains unpredictable.
 
 British nationals should:
 
-* read [If you’re affected by a crisis abroad - GOV.UK](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas). This includes guidance on “how to prepare for a crisis” with suggestions on what you might include in your emergency supplies and “what to do in a crisis”
-* sign up to FCDO Travel Advice email alerts
+* read [If you’re affected by a crisis abroad - GOV.UK](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas). This includes guidance on “how to prepare for a crisis” with suggestions on what you might include in your emergency supplies and “what to do in a crisis”
+* follow advice from the local authorities
+* sign up to [FCDO Travel Advice email alerts](https://www.gov.uk/foreign-travel-advice)
 * monitor local and international media for the latest information
 * stay away from areas around security or military facilities
 * keep your departure plans under review, and ensure your travel documents are up to date
-* if you are advised to take shelter, stay indoors. An interior stairwell or a room with as few external walls or windows as possible may provide additional protection
+* if you are advised to take shelter, stay indoors or find the nearest safe building or designated shelter. An interior stairwell or a room with as few external walls or windows as possible may provide additional protection. The greatest risk is from falling debris caused by intercepts, and you are safest inside a secure structure
 
 ## Leaving Lebanon
 
@@ -104,11 +99,11 @@ Keep your departure plans under review and ensure your travel documents are up t
 
 ## Conflict affecting Lebanon
 
-Since 2 March, conflict in Lebanon has escalated in response to regional events. Airstrikes and rocket attacks between Israel and Lebanese Hizballah have increased. Widespread evacuation warnings have led to mass movement of people from conflict-affected areas. On 4 March, the IDF instructed people to leave all areas south of the Litani River. On 5 March they instructed everyone to leave a large area encompassing Beirut’s southern suburbs. On 8 April, Israel carried out strikes on over 100 sites across Lebanon, including the South Litani Sector, Beqaa Valley and some areas of Beirut.
+Since 2 March, conflict in Lebanon has escalated in response to regional events. Airstrikes and rocket attacks between Israel and Lebanese Hizballah have increased. Widespread evacuation warnings have led to mass movement of people from conflict-affected areas.
 
-Israeli airstrikes have occurred primarily in areas south of the Litani River, Beirut’s southern suburbs and Baalbek-Hermel Governorate. The IDF regularly releases evacuation warnings before airstrikes, but many have taken place with no advance notice. The dynamic nature of the conflict means airstrikes have also taken place outside these areas. British nationals should follow local, international and social media to keep up to date with official alerts.
+Israeli airstrikes have occurred primarily in the South, Nabatieh and Beqaa Governates and Beirut’s southern suburbs, but have also occurred outside these areas. The IDF regularly releases evacuation warnings before airstrikes, but many have taken place with no advance notice. A cessation of hostilities was announced on 16 April 2026 but fighting and airstrikes have continued particularly in southern Lebanon, where an Israeli military presence remains. The dynamic nature of the conflict means the situation may change quickly. British nationals should follow local, international and social media to keep up to date with official alerts.
 
-We advise you to keep up to date with the latest situation including using multiple media sources to understand frequency and location of strikes as these may change rapidly. There are various mapping sources available online.
+We advise you to keep up to date with the latest situation, including using multiple media sources to understand frequency and location of strikes, as these may change rapidly. There are various mapping sources available online.
 
 ### Access to Beirut airport
 
@@ -120,7 +115,7 @@ Celebratory gunfire is common in Lebanon and there is a risk from gunfire being 
 
 ### Local support
 
-Due to the ongoing security situation, we have taken the precautionary measure to temporarily withdraw some of our staff and their dependents from Beirut. Our embassy continues to operate as normal.
+Our embassy is operating as normal.
 
 Keep up to date with local and international media including TV and radio stations such as Virgin Radio Lebanon (FM 89.5) and Voice of Lebanon / Sawt Lubnan (FM 100.3 - 100.5) which may be useful sources of information on any developments.
 

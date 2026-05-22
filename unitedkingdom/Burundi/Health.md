@@ -31,6 +31,12 @@ See [what health risks you’ll face in Burundi](https://travelhealthpro.org.uk/
 
 Altitude sickness is a risk in parts of Burundi. Read more about [altitude sickness on TravelHealthPro](https://travelhealthpro.org.uk/factsheet/26/altitude-illness).
 
+### Ebola
+
+On 15 May  the Democratic Republic of Congo Ministry of Health announced an outbreak of Ebola Bundibugyo in the North-Eastern Ituri Province. Read more about the [Ebola outbreak on TravelHealth Pro](https://travelhealthpro.org.uk/country/63/democratic-republic-of-the-congo#Outbreaks) and see [information on Ebola and similar diseases.](https://travelhealthpro.org.uk/factsheet/68/viral-haemorrhagic-fever) World Health Organisation (WHO) have [declared this a Public Health Emergency of International Concern](https://www.who.int/news/item/17-05-2026-epidemic-of-ebola-disease-in-the-democratic-republic-of-the-congo-and-uganda-determined-a-public-health-emergency-of-international-concern).
+
+Due to the outbreak, you may experience heightened health screening at international borders in the region. [Check entry requirements](https://www.gov.uk/foreign-travel-advice/) for the country you’re travelling to or transiting.
+
 ### HIV and AIDS
 
 UNAIDS estimated that in 2019 there were around 76,000 adults aged 15 or over in Burundi were living with HIV. The prevalence percentage was estimated at around 1% of the adult population compared to the prevalence percentage in adults in the UK of around 0.25%. Follow normal precautions to avoid exposure to HIV/AIDS.
