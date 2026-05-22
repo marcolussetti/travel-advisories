@@ -2,15 +2,19 @@
 
 Remember, the local laws apply to you as a visitor and it is your responsibility to follow them. Be sensitive to local customs, traditions and practices as your behaviour may be seen as improper, hostile or even illegal.
 
-### **Illegal Drugs**
+**Illegal Drugs**
 
 Illegal drug use (no matter what the drug) carries stiff penalties, including long prison terms for possession of drugs.
 
-### **LGBT**
+**LGBTQI +**
 
-Homosexuality is legal in the Russian Federation, but there is still a degree of intolerance among some sections of the population; be careful about public displays of affection. A law banning the promotion of “non-traditional sexual relations” entered into force in June 2013; it is unclear how this law will be applied, but it includes tougher penalties for non-Russians including arrest, fines and deportation.
+Although homosexuality is still technically legal in the Russian Federation, but in recent years, the Russian government has targeted associations with LGBTQI+ by labelling the movement as “extremist” and against “traditional values”. A law banning the promotion of “non-traditional sexual relations” as an administrative offence entered into force in June 2013 and was expanded in 2022. A 2023 Supreme Court decision has allowed the authorities to charge LGBTQI+ persons and their supporters with criminal offenses. These charges have led to lengthy prison sentences.
 
-### **Customs**
+Public displays of affection between LGBTQI+ persons risk negative reactions and in extreme cases, violence. The North Caucasus republics are particularly intolerant of the LGBT+ community. There have been reports of the arrest, torture and killing of gay men in Chechnya, allegedly conducted by Chechen regional authorities.
+
+Displaying symbols associated with the LGTBQI+ movement (e.g. rainbows) or demonstrating support for LGBTQI+ can lead to criminal prosecution. If charged, foreign citizens could face: fines, up to 15 days in jail, and/or deportation.
+
+**Customs**
 
 You can import up to 10,000 US dollars (or equivalent) into the country and export foreign currency up to the equivalent of 10,000 US dollars from the Russian Federation without declaring it.
 
@@ -20,27 +24,28 @@ There are strict regulations governing the export from the Russian Federation of
 
 For further information visit the website of the [**Russian Federal Customs Service**](http://eng.customs.ru/).
 
-### **Dual Nationality**
+**Dual Nationality**
 
 Legislation came into force on 4 August 2014 regarding Russian nationals who are also citizens of other countries. Russian passport holders must inform the Russian authorities of the other passports they hold. If you hold both Irish and Russian citizenship you should take legal advice and/ or contact the relevant Russian authority (the nearest Russian Embassy if you are not in the Russian Federation or your local Migration office if you are in the Russian Federation) to find out how the legislation might impact you.
 
-### **Banking**
+Please be advised that if you are an Irish-Russian dual national, the Russian authorities will treat you as a Russian national.
 
-The rouble is the unit of currency in the Russian Federation. If you want to buy roubles in the country, we advise that you take euro or US dollars to change. Please note:
+**Banking**
+
+The rouble is the unit of currency in the Russian Federation. In response to Russia’s illegal full-scale invasion of Ukraine, Russian banks have been banned from using SWIFT, the financial system that allows cross-border money transfers. As a result, it is no longer possible to use European bank cards in Russia, making payments by card, electronic bank transfers, and ATM cash withdrawals impossible. Cash payment is the most accessible way around this issue.
+
+If you want to buy roubles in the country, we strongly advise that you take euro or US dollars to change. Please note:
 
 * All notes should be in good condition
 * You should only change money at banks, hotels and recognised exchange kiosks
 * You will need to show your passport and visa to change money
 * It is an offence to change money from street traders
 * It is illegal to pay directly with dollars or euro
-* Most hotels, restaurants and larger shops accept credit cards, but smaller shops do not. ATMs exist in most major cities
 * Travellers’ cheques are not widely accepted
 
-### **Transport**
+**Driving**
 
-### **Driving**
-
-If you’re planning to drive in the Russian Federation, you should be extremely careful. The harsh winter from November to March can make road conditions very difficult, particularly outside towns and cities.
+If you are planning to drive in the Russian Federation, you should be extremely careful. The harsh winter from November to March can make road conditions very difficult, particularly outside towns and cities.
 
 If you want to drive:
 
@@ -49,20 +54,16 @@ If you want to drive:
 * Be aware of the Russian Federation’s traffic laws, such as speed limits
 * Keep your vehicle doors locked and your bags kept out of sight to prevent opportunistic bag-snatching if you’re stopped at traffic lights
 
-### **Hiring a Vehicle**
+**Hiring a Vehicle**
 
-If you’re hiring a vehicle, we advise you not to hand over your passport as a form of security. If you’re allowing your passport to be photocopied, keep it in your sight at all times.
+If you are hiring a vehicle, we advise against handing over your passport as a form of security. If you are allowing your passport to be photocopied, keep it in your sight at all times.
 
 Check that you have adequate insurance and read the small print of the vehicle hire contract (particularly any waiver that will come into effect if the vehicle is damaged).
 
-### **Pedestrians**
+**Pedestrians**
 
-During the harsh winter months pavements can become extremely icy so good walking shoes are essential.
+During the harsh winter months pavements can become extremely icy. Good walking shoes/snow boots are essential.
 
-### **Taxis**
+**Taxis**
 
 If you want to travel by taxi while in the Russian Federation, we advise you to book an official taxi service through your hotel and agree on the price of the journey in advance.
-
-### **Air Safety**
-
-If you intend to travel to or within the Russian Federation, avoid travelling on [**airlines that fall under the EU operating ban**](http://ec.europa.eu/transport/modes/air/safety/air-ban/search_en).

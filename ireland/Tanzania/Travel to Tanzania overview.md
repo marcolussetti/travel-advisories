@@ -41,6 +41,14 @@ The EU has included all Tanzanian air carriers on the EU Air Safety List, which 
 
 Citizens can also follow the Embassy on X @[**IrlEmbTanzania**](https://twitter.com/IrlEmbTanzania) and to ensure access to relevant updates and alerts.
 
+### **Temperature checks on arrival**
+
+On 18 May 2026, the Tanzania Ministry of Health announced that all travellers entering Tanzania will receive a temperature check on arrival.
+
+Additional health screening measures are in place for travellers arriving into Tanzania from Uganda and the Democratic Republic of Congo.
+
+These measures are in response to the outbreak of the Ebola Bundibugyo virus in these countries. The World Health Organisation (WHO) has declared this a Public Health Emergency of International Concern.
+
 ### **Emergency Assistance**
 
 The best help is often close at hand so if a problem arises, try talking to local contacts, tour operator representatives or hotel management.

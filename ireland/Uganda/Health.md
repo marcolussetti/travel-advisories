@@ -27,7 +27,11 @@ Malaria is a serious and sometimes fatal disease transmitted by mosquitoes. You 
 
 ### **Ebola**
 
-Uganda experiences periodic outbreaks of viral haemorrhagic fever. Travellers should follow local health advice during an outbreak.
+On 17 May, the World Health Organisation (WH) declared the outbreak of the Bundibugyo strain of Ebola in the Democratic Republic of Congo and Uganda a [**Public Health Emergency of International Concern**](https://www.who.int/news/item/17-05-2026-epidemic-of-ebola-disease-in-the-democratic-republic-of-the-congo-and-uganda-determined-a-public-health-emergency-of-international-concern). You may encounter exit screening (temperature checks) on leaving Uganda and some countries have heightened health screening for travellers from Uganda. Citizens are encouraged to check entry requirements for the country you are travelling to or transiting.
+
+Travellers should follow local health advice during an outbreak. For suspected cases, the public should call the Uganda Ministry of Health toll-free line 0800 100 066 or send a free SMS to 6767.
+
+More information on Ebola can be found here: [**https://www.who.int/news-room/fact-sheets/detail/ebola-disease**](https://www.who.int/news-room/fact-sheets/detail/ebola-disease).
 
 ### **Water**
 

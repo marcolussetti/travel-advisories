@@ -12,6 +12,8 @@ Irish citizens should exercise caution when travelling near the Rwanda-DRC borde
 
 Take care not to cross the border unintentionally at any of these points. The border crossings between Rwanda and the DRC at Gisenyi/Goma and Cyangugu/Bukavu are currently open between 6am and 6pm. Both borders are liable to short notice closure and you shouldn’t rely on them as points of exit from DRC. If you are crossing regularly between Rwanda and the DRC you may encounter immigration difficulties if you have not regularized your residency status.
 
+Following the announcement by the World Health Organisation of an [**Ebola outbreak in the DRC**](https://www.who.int/news/item/17-05-2026-epidemic-of-ebola-disease-in-the-democratic-republic-of-the-congo-and-uganda-determined-a-public-health-emergency-of-international-concern) on 17 May 2026, Rwanda has reinforced screening and vigilance at points of entry along the border with the DRC.
+
 Take care when travelling near the border with Burundi due to instability and the risk of banditry.
 
 ### **Parc National des Volcans**

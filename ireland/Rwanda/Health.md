@@ -2,7 +2,9 @@
 
 ### **Ebola**
 
-On 17 July 2019, WHO declared the Ebola outbreak in the Democratic Republic of the Congo a Public Health Emergency of International Concern (PHEIC). This reflects the possible increased national and regional risks of the current epidemic. As a neighbouring country, Rwanda is considered at risk. The Government of Rwanda is prepared and continues to monitor the situation. There are currently no restrictions on travel across borders. Please stay informed. The latest updates can be found on the [**World Health Organisation's**](http://www.who.int/) website.
+On 17 May, the World Health Organisation (WHO) declared the outbreak of the Bundibugyo strain of Ebola in the Democratic Republic of Congo and Uganda a [**Public Health Emergency of International Concern**](https://www.who.int/news/item/17-05-2026-epidemic-of-ebola-disease-in-the-democratic-republic-of-the-congo-and-uganda-determined-a-public-health-emergency-of-international-concern).
+
+As a neighbouring country, Rwanda continues to monitor the situation. Rwanda has reinforced screening and vigilance at points of entry along the border with the DRC. There are currently no restrictions on travel across borders. Please stay informed. The latest updates can be found on the [**World Health Organisation's**](http://www.who.int/) website.
 
 ### **Travel Insurance**
 

@@ -6,39 +6,23 @@ High Degree of Caution
 
 ### **Travel Alert**
 
-An outbreak of Ebola has been declared in Ituri Province in the Democratic Republic of the Congo, on Uganda’s western border. Due to imported infection from DRC, on 15 May 2026, Uganda also declared an ‌outbreak of the highly infectious Bundibugyo ​strain of Ebola ​virus - Bundibugyo virus disease (BVD) . Ebola is a rare, severe, and often fatal haemorrhagic fever illness.
+On 17 May, the World Health Organisation (WHO) declared the outbreak of the Bundibugyo strain of Ebola in the Democratic Republic of Congo and Uganda a [**Public Health Emergency of International Concern**](https://www.who.int/news/item/17-05-2026-epidemic-of-ebola-disease-in-the-democratic-republic-of-the-congo-and-uganda-determined-a-public-health-emergency-of-international-concern).
 
-Uganda has activated an initial 72-hour emergency response plan with local health authorities conducting investigations to identify infected people and their contacts to prevent further transmission and educating the public about the risks and dangers of Ebola.
+[**Ebola**](https://www.who.int/news-room/fact-sheets/detail/ebola-disease) is spread by contact with: the blood or body fluids of a person who is infected with or has died from Ebola; objects or surfaces contaminated with body fluids from an infected person; or by contact with infected animals. Symptoms include fever, headache, muscle pain, weakness, diarrhoea, vomiting, stomach pain, and unexplained bleeding or bruising (a late stage of illness).
 
-Ebola is spread by contact with the blood or body fluids of a person who is infected with or has died from Ebola. It is also spread by contact with contaminated objects (such as clothing, bedding, needles, and medical equipment), or by contact with animals, such as bats and nonhuman primates, that are infected with Ebola. Symptoms include fever, headache, muscle pain, weakness, diarrhoea, vomiting, stomach pain, and unexplained bleeding or bruising (a late stage of illness).
+Irish citizens in Uganda are encouraged to follow WHO and [**Ministry of Health**](https://health.go.ug/download/ebola-faqs-may-2026/) advice and:
 
-Irish citizens in Uganda are encouraged to:
+* Wash hands frequently and avoid contact with blood and other body fluids or objects that are contaminated;
+* Avoid contact with people who have symptomssuch as fever, muscle pain, and rash;
+* Avoid contact with bats, forest antelopes, nonhuman primates (e.g., monkeys, chimpanzees, gorillas), and blood, fluids, or raw meat from these or unknown animals;
+* Avoid going into areas where bats live, such as mines or caves; and
+* Follow the guidance of local authorities
 
-· Avoid contact with people who have [symptoms](https://www.cdc.gov/ebola/signs-symptoms/index.html) such as fever, muscle pain, and rash;
+For suspected cases, the Ugandan authorities have advised the public to call the Ministry of Health toll-free line 0800 100 066 or send a free SMS to 6767.
 
-· Wash hands frequently and avoid contact with [blood and other body fluids](https://www.cdc.gov/ebola/causes/index.html) or objects that are contaminated;
+If there is an emergency, or if you need help and advice, you can contact the Embassy of Ireland Kampala on Tel: +256 417 713 000. If the Embassy is closed and you require urgent assistance, you can leave a voice message on the Duty Office Mailbox, which is monitored regularly. You can also contact the Department of Foreign Affairs at +353 1 408 2000.
 
-· Avoid contact with bats, forest antelopes, nonhuman primates (e.g., monkeys, chimpanzees, gorillas), and blood, fluids, or raw meat from these or unknown animals; and
-
-· Avoid going into areas where bats live, such as mines or caves.
-
-If you are in an affected area or come into contact with someone with symptoms, you should monitor yourself for symptoms while in the outbreak area and for 21 days after leaving. If you develop any symptoms:
-
-· Separate yourself from others (isolate) immediately.
-
-· Do not travel.
-
-· Contact local health authorities or a healthcare facility for advice.
-
-For suspected cases, the public should call the Uganda Ministry of Health toll-free line 0800 100 066 or send a free SMS to 6767. More information on Ebola can be found here: <https://www.who.int/news-room/fact-sheets/detail/ebola-disease>
-
-Irish citizens are encouraged to visit this page for the most up-to-date information. Irish citizens living in or visiting Uganda – either short of long term – can register their presence [**here**](https://citizensregistration.dfa.ie/).
-
-If there is an emergency, or if you need help and advice, you can contact the Embassy of Ireland Kampala on Tel: +256 417 713 000.
-
-Please note that if you are an Irish citizen and require urgent assistance while the Embassy is closed, contact the main Embassy number, +256 417 713 000, and leave a voice message on the Duty Officer mailbox. This mailbox is monitored regularly.
-
-Alternatively, you may contact the Duty Officer at the Department of Foreign Affairs and Trade in Dublin on +353 1 408 2000.
+Irish citizens are encouraged to visit this page for the most up-to-date information. Irish citizens living in or visiting Uganda – either short or long term – can register their presence [**here**](https://citizensregistration.dfa.ie/).
 
 Citizens can also follow the Embassy on X [**@IrlEmbUganda**](https://twitter.com/irlembuganda) to ensure access to relevant updates and alerts.
 

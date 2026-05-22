@@ -15,7 +15,7 @@ Ankara 06700
 
 Fax: +90 312 446 8061
 
-[**Contact us**](/en/turkiye/ankara/contact-embassy-of-ireland-t%C3%BCrkiye/general-queries/)
+[**Contact us**](/en/turkiye/ankara/contact/general-queries/)
 
 ### Honorary Consul of Ireland, Antalya
 
