@@ -2,6 +2,18 @@
 
 ## Entry and exit requirements
 
+### Entry and exit restrictions and health screening measures related to the Ebola outbreak
+
+Due to the outbreak of Ebola disease in Uganda, you may be subject to health exit screening measures, such as completing a health form and temperature checks.
+
+Some countries have imposed entry restrictions for persons who are arriving from or who have recently visited Uganda.
+
+You may will be denied entry if you have been in Uganda in the preceding 21 to 30 days, unless you are a citizen of the country you are seeking to enter.
+
+Travellers who have visited Uganda may also be subject to health screening measures upon arrival in many countries. These may include the completion of health declaration form and temperature checks. If you are identified as a person suspected of having symptoms of Ebola disease, you may be subject to further health measures such as isolation or quarantine and restrictions on travel until you are cleared by local health authorities.
+
+[More information on the Ebola outbreak in Uganda](https://travel.gc.ca/destinations/uganda#health)
+
 The authorities of a country or territory decide who can enter or exit through its borders. The Government of Canada cannot intervene on your behalf if you do not meet your destination’s entry or exit requirements.
 
 We have obtained the information on this page from the Ugandan authorities. It can, however, change at any time.

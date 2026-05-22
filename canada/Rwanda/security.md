@@ -2,10 +2,6 @@
 
 ## Safety and security
 
-### Land bord crossing restrictions with the Democratic Republic of the Congo
-
-The border crossings at Gisenyi-Goma and Cyangugu-Bukavu are closed to most travellers due to an outbreak of Ebola disease in the Democratic Republic of the Congo.
-
 ### Border with the Democratic Republic of Congo
 
 The security situation at the border between Rwanda and the Democratic Republic of Congo (DRC) is unstable and unpredictable due to intensifying combat in North Kivu in the DRC, including around the city of Goma. Active fighting, including shelling, have been reported in Rubavu District. Escalating tensions between the DRC and Rwanda could further deteriorate the situation in Rubavu district.

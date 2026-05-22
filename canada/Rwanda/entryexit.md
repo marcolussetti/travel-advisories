@@ -2,6 +2,16 @@
 
 ## Entry and exit requirements
 
+### Health screening measures at land border crossing with the Democratic Republic of the Congo
+
+Due to the outbreak of Ebola disease in the Democratic Republic of the Congo (DRC), all travellers crossing the land border crossings at Gisenyi-Goma and Cyangugu-Bukavu will be subject to health screening measures, such as temperature checks.
+
+If you are identified by local authorities as a person suspected of having symptoms of Ebola disease, you may be subject to additional health measures, which could include quarantine and travel restrictions.
+
+Border crossings may close at any time. Confirm their status before travelling there.
+
+[Ebola outbreak in the Democratic Republic of the Congo](https://travel.gc.ca/travelling/health-safety/travel-health-notices/549)
+
 The authorities of a country or territory decide who can enter or exit through its borders. The Government of Canada cannot intervene on your behalf if you do not meet your destination’s entry or exit requirements.
 
 We have obtained the information on this page from the Rwandan authorities. It can, however, change at any time.

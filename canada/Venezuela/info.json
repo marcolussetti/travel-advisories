@@ -1,7 +1,7 @@
 {
     "name": "Venezuela",
-    "update_reason": "Health \u2013 Information about typhoid fever removed",
-    "update_date": "2026-05-04T15:04:00",
+    "update_reason": "Safety and security section \u2013 added information on the closure of border crossings with Colombia",
+    "update_date": "2026-05-21T13:45:00",
     "sections": {
         "risk": "canada/Venezuela/risk.md",
         "security": "canada/Venezuela/security.md",

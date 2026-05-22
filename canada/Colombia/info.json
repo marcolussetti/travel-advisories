@@ -1,7 +1,7 @@
 {
     "name": "Colombia",
-    "update_reason": "Editorial change",
-    "update_date": "2026-05-06T16:56:00",
+    "update_reason": "Safety and security section \u2013 added information on upcoming elections",
+    "update_date": "2026-05-21T13:38:00",
     "sections": {
         "risk": "canada/Colombia/risk.md",
         "security": "canada/Colombia/security.md",
