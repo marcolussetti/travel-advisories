@@ -4,6 +4,14 @@
 
 High Degree of Caution
 
+### **Travel Alert**
+
+#### **State of Emergency**
+
+**On May 8, 2026, the Government of Belize declared a State of Emergency for Belize City (Northside and Southside) and in parts of the Belize District (similar to an Irish county), specifically Ladyville Village, Burrell Boom Village, Fresh Pound Community, Buttercup Estates, Bermudian Landing Village, Lemonal Village, Isabella Bank, Rancho Dolores Village, and Double Head Cabbage Village. The declaration follows a recent increase in crime. At this time, the State of Emergency is scheduled to last up to 30 days.**
+
+**Irish citizens should be alert to the ongoing threat of violent crime in these areas. Check for the guidance of local authorities, and monitor local media for any new information.**
+
 ### **General Travel Advice**
 
 Irish citizens do not require a visa to enter Belize, though if citizens intend to stay longer than 30 days, citizens must apply for a visa from immigration authorities. Immigration offices are in major towns and cities. When leaving by air, the departure tax is usually included in the airfare. When leaving by land, the departure tax is BZD$40 or US$20, which must be paid in cash.

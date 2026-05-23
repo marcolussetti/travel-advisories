@@ -24,7 +24,8 @@ If planning to drive in Nicaragua, you should follow these basic guidelines:
 
 * Bring your full Irish driver’s licence and international driving permit, and make sure you have adequate and appropriate insurance
 * Driving under the influence of alcohol or drugs is against the law and there is a risk of being detained, fined or banned from driving if caught
-* Keep vehicle doors locked and bags kept out of sight to prevent opportunistic bag-snatching if you’re stopped at traffic lights
+* Keep vehicle doors locked and bags kept out of sight to prevent opportunistic bag-snatching if stopped at traffic lights
+* Exercise caution when driving at night or in remote areas
 
 ### **Hiring a Vehicle**
 

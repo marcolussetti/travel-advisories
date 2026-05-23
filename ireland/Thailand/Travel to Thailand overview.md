@@ -6,6 +6,8 @@ Normal Precautions
 
 ### **Travel Alert**
 
+On 19 May, the Thai government approved a reduction in the 60-day visa-free stays for tourists from more than 90 countries, including Ireland. Under the new rules, the visa-free duration will be decided on a country-by-country basis by the Thai immigration authorities. The Thai authorities have not yet announced an implementation date for the new rules, and Irish citizens intending to travel are advised to closely monitor advice from Thai immigration or contact the Royal Thai Embassy in London for further information. Tourists already in Thailand or arriving before the new measures take effect will still be allowed to remain under their existing visa conditions until their permitted stay expires.
+
 We advise against all travel to the entirety of the border region between Thailand and Cambodia, where armed clashes between Thai and Cambodian armed forces broke out in July 2025 and again in December. The clashes resulted in fatalities, including among civilians. Tensions along the border region remain, and unexploded land mines are present in the disputed border regions. Border crossings are subject to restrictions and closures. The situation remains fluid and Irish citizens in Thailand and Cambodia or intending to visit should pay close attention to authoritative sources of information and advice, and remain vigilant at all times.
 
 ### **General Travel Advice**
