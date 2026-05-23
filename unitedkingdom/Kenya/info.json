@@ -1,11 +1,11 @@
 {
     "name": "Kenya",
-    "update_reason": "Information on security operation in Laikipia, Meru, and Isiolo counties (\u2018Regional risks\u2019 page).",
+    "update_reason": "New information about Ebola screening when arriving in country (\u2018Entry requirements\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Kenya/Warnings and insurance.md",
-            "update_date": "2026-03-27T23:47:33+00:00"
+            "update_date": "2026-05-22T15:18:23+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Kenya/Getting help.md"
         }
     ],
-    "update_date": "2026-03-27T23:47:33+00:00"
+    "update_date": "2026-05-22T15:18:23+01:00"
 }

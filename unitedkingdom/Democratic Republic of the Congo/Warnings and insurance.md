@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   18 May 2026
+:   23 May 2026
 
 Updated:
-:   17 May 2026
+:   22 May 2026
 
 Latest update:
-:   Addition of information following a declaration of an Ebola outbreak on 15 May (‘Health’ page)
+:   New information about Ebola ('Entry requirements' page).
 
 ![](https://assets.publishing.service.gov.uk/media/6a0894fdfcae986635db904d/FCDO__TA__012_-_Democratic_Repbulic_of_the_Congo_Travel_Advice_Ed18__WEB_.jpg)
 

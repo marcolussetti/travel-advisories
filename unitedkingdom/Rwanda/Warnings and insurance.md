@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   21 May 2026
+:   23 May 2026
 
 Updated:
-:   20 May 2026
+:   22 May 2026
 
 Latest update:
-:   Updated information to border crossings between Rwanda and DRC and addition of information about a declaration of an Ebola outbreak in DRC on 15 May ('Warnings and insurance' and ‘Health’ pages).
+:   Addition of information about new border measures announced by the Government of Rwanda in response to the Ebola outbreak (‘Entry requirements’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/694416f88f4636fa2c547e9a/FCDO__TA__100_-_Rwanda_Travel_Advice_Ed5__WEB_.jpg)
 

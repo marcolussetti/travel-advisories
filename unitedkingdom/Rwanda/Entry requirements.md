@@ -40,6 +40,13 @@ To enter Rwanda, if you’re coming from a [country listed as a transmission ris
 
 For full details about medical entry requirements and recommended vaccinations, see [TravelHealthPro’s Rwanda guide](https://travelhealthpro.org.uk/country/187/rwanda#Vaccine_Recommendations).
 
+## Border measures
+
+On 22 May the Government of Rwanda [announced new border measures](https://x.com/RwandaHealth/status/2057790371657101712?s=20) in response to the Ebola outbreak, including:
+
+* Any Foreign nationals who have travelled to or transited through the Democratic Republic of Congo (DRC) in the last 30 days prior to their intended travel to Rwanda will be denied entry
+* Rwandan nationals and foreign residents with valid proof of residency in Rwanda will be permitted entry. However, if they have travelled to or through DRC in the last 30 days, they will be subject to mandatory quarantine procedures
+
 ## Customs rules
 
 There are strict rules about [goods you can take into or out of Rwanda](https://www.rra.gov.rw/en/customs-services/travelers/prohibited-goods). You must declare anything that may be prohibited or subject to tax or duty.

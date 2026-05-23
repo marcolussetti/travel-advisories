@@ -68,12 +68,6 @@ Due to the risk of violent crime, FCDO advises against all but essential travel 
 
 FCDO advises against all but essential travel to the N1 road in Kinshasa Province, between and including Menkao to the west, Kenge to the east, the border of Mai-Ndombe province to the north, and 10km to the south. There has been fighting between local militia and Congolese Armed Forces on this section of the N1 road. There are checkpoints on the road and reports of access being blocked. The authorities advise to travel during daylight hours.
 
-## Kasaï Oriental, Kasaï, Kasaï Central
-
-FCDO advises against all travel to the province of Kasaï Oriental.
-
-FCDO advises against all but essential travel to the provinces of Kasaï and Kasaï Central.
-
 [Previous:Safety and security](/foreign-travel-advice/democratic-republic-of-the-congo/safety-and-security)
 
 [Next:Health](/foreign-travel-advice/democratic-republic-of-the-congo/health)

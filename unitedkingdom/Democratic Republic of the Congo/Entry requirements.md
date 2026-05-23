@@ -36,6 +36,14 @@ If you have a Rwandan or Ugandan immigration stamp in your passport you may have
 
 If you’re crossing regularly between Rwanda and DRC you may have immigration difficulties if you have not regularised your residency status.
 
+## Ebola
+
+You may encounter health screening measures, such as being required to fill in a passenger locator form on arrival and departure and temperature checks, including at airports.
+
+Some countries have heightened health screening for travellers from DRC. [Check entry requirements](https://www.gov.uk/foreign-travel-advice/) for the country you’re travelling to or transiting.
+
+[Rwanda](https://x.com/RwandaHealth/status/2057790371657101712?s=20) and [Uganda](https://x.com/MinofHealthUG/status/2057471796497035293) have announced restrictions which impact travellers to DRC.
+
 ## Departure tax
 
 You need to pay a departure tax of 55 US dollars on international flights and 10 US dollars on domestic flights. You pay these fees when you check in for your departure. Get an official receipt and a copy for each fee. Hand the originals on request to immigration and at boarding and keep the copies.

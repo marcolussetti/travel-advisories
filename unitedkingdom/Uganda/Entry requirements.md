@@ -40,6 +40,18 @@ To enter Uganda, you must have a certificate to prove you’ve had a yellow feve
 
 For full details about medical entry requirements and recommended vaccinations, see [TravelHealthPro’s Uganda guide](https://travelhealthpro.org.uk/country/231/uganda#Vaccine_Recommendations).
 
+## Ebola
+
+You may encounter health screening measures, such as being required to fill in a passenger locator form on arrival and departure and temperature checks, including at airports. Some countries have heightened health screening for travellers from Uganda. [Check entry requirements](https://www.gov.uk/foreign-travel-advice/) for the country you’re travelling to or transiting.
+
+On 21 May, the Ugandan National Task Force on Ebola Virus Disease [announced](https://x.com/MinofHealthUG/status/2057471796497035293), amongst other measures:
+
+* the temporary suspension of all flights to and from the DRC to Uganda
+* the temporary suspension of public passenger ferries on the Semliki River between the DRC and Uganda, and
+* the temporary suspension of all cultural celebrations along the DRC-Uganda border
+
+Check with your travel operator for more information.
+
 ## Customs rules
 
 There are strict rules about [goods that can be taken into and out of Uganda](https://ura.go.ug/en/frequently-asked-questions-for-goods-handled-at-entebbe-airport/). You must declare anything that may be prohibited or subject to tax or duty.

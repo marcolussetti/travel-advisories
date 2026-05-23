@@ -30,6 +30,10 @@ To enter Kenya, you must have a certificate to prove you’ve had a yellow fever
 
 For full details about medical entry requirements and recommended vaccinations, see [TravelHealthPro’s Kenya guide](https://travelhealthpro.org.uk/country/117/kenya#Vaccine_Recommendations).
 
+## Ebola screening
+
+Travellers arriving in Kenya, particularly those coming from Uganda, Ethiopia and the Democratic Republic of Congo (DRC), may be subject to enhanced health screening measures due to the ongoing Ebola outbreak centred in the DRC. The World Health Organisation (WHO) has [declared this a Public Health Emergency of International Concern](https://www.who.int/news/item/17-05-2026-epidemic-of-ebola-disease-in-the-democratic-republic-of-the-congo-and-uganda-determined-a-public-health-emergency-of-international-concern).
+
 ## Customs rules
 
 There are strict rules about [goods you can take into or out of Kenya](https://www.kenyagovisas.com/news/kenya-customs-regulations). You must declare anything that may be prohibited or subject to tax or duty.

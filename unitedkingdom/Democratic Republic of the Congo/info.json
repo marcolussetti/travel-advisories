@@ -1,11 +1,11 @@
 {
     "name": "Democratic Republic of the Congo",
-    "update_reason": "Addition of information following a declaration of an Ebola outbreak on 15 May (\u2018Health\u2019 page)",
+    "update_reason": "New information about Ebola ('Entry requirements' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Democratic Republic of the Congo/Warnings and insurance.md",
-            "update_date": "2026-05-17T17:27:55+01:00"
+            "update_date": "2026-05-22T16:47:44+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Democratic Republic of the Congo/Getting help.md"
         }
     ],
-    "update_date": "2026-05-17T17:27:55+01:00"
+    "update_date": "2026-05-22T16:47:44+01:00"
 }

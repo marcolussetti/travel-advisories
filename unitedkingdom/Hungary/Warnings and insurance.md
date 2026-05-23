@@ -1,13 +1,27 @@
 # Warnings and insurance
 
 Still current at:
-:   11 April 2026
+:   23 May 2026
 
 Updated:
-:   10 April 2026
+:   22 May 2026
 
 Latest update:
-:   Updated information on European Entry-Exit System (EES) (‘Entry requirements’ page).
+:   New information about the upcoming UEFA Champions League Final on 30 May (‘Warnings and insurance’ page).
+
+## UEFA Champions League Final
+
+The 2025/26 UEFA Champions League final between Arsenal and Paris Saint-Germain will take place at Budapest Puskás Arena on Saturday 30 May. If you are travelling to Budapest, read our Travel Advice and sign up to [FCDO Travel Advice email alerts](https://www.gov.uk/foreign-travel-advice/hungary/email-signup).
+
+British nationals should:
+
+* plan their movement around the city to arrive at the dedicated fan zone in Városliget Park, Heroes Square or the stadium well in advance of the start of the match
+* follow the instructions of the local authorities
+* take care of personal possessions including passports, especially in crowds and on public transport
+* UEFA advises fans to carry valid original copies of ID should inspection be requested on entry to the stadium. Accepted ID includes passports and national ID cards. Driving licenses will not be accepted
+* UEFA warns fans not to purchase tickets on the secondary market from unauthorised third parties. Fans are likely to be refused entry or be ejected from the stadium if tickets are purchased in this way
+
+Further information can be found on the [UEFA website](https://www.uefa.com/uefachampionsleague/event-guide/).
 
 ## Before you travel
 

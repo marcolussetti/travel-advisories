@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   28 March 2026
+:   23 May 2026
 
 Updated:
-:   27 March 2026
+:   22 May 2026
 
 Latest update:
-:   Information on security operation in Laikipia, Meru, and Isiolo counties (‘Regional risks’ page).
+:   New information about Ebola screening when arriving in country (‘Entry requirements’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/696a6280448fedc1eb4248f0/FCDO__TA__055_-_Kenya_Travel_Advice_Ed7__WEB_.jpg)
 
