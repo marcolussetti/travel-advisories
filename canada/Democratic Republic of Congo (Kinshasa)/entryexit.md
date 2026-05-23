@@ -6,11 +6,9 @@
 
 Due to the outbreak of Ebola disease in the Democratic Republic of the Congo (DRC), you may be subject to health exit screening measures, such as completing a health form and temperature checks.
 
-Some countries have imposed entry restrictions for persons who are arriving from or who have recently visited the DRC.
+Some countries have imposed entry restrictions for persons who are arriving from or who have recently visited the DRC. Unless you are a citizen of one of these countries, you will be refused entry if you have been in the DRC in the preceding 21 to 30 days.
 
-You will be denied entry if you have been in the DRC in the preceding 21 to 30 days, unless you are a citizen of the country you are seeking to enter.
-
-Travellers who have visited the DRC may also be subject to health screening measures upon arrival in many countries. These may include the completion of health declaration form and temperature checks. If you are identified as a person suspected of having symptoms of Ebola disease, you may be subject to further health measures such as isolation or quarantine and restrictions on travel until you are cleared by local health authorities.
+A larger number of countries have imposed health screening measure upon arrival for travellers who have visited the DRC. These may include the completion of health declaration form and temperature checks. If you are identified as a person suspected of having symptoms of Ebola disease, you may be subject to further health measures such as isolation or quarantine and restrictions on travel until you are cleared by local health authorities.
 
 [More information on the Ebola outbreak in the Democratic Republic of the Congo](https://travel.gc.ca/travelling/health-safety/travel-health-notices/549)
 

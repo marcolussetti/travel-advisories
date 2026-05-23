@@ -47,23 +47,6 @@ Some bars, nightclubs and “cabarets” may try to charge exorbitant prices. Di
 
 Never leave food or drinks unattended or in the care of strangers. Be wary of accepting snacks, beverages, gum or cigarettes from new acquaintances. These items may contain drugs that could put you at risk of sexual assault and robbery.
 
-### Landmines
-
-While most of the territory has been cleared, landmines and unexploded ordnance may still pose a serious risk in certain areas. These are usually clearly identified and major tourist destinations are not affected.
-
-The Croatian Mine Action Centre maintains a map of suspected minefields and has also developed a free smartphone app to alert users if they enter a danger zone.
-
-If you plan on visiting areas outside of major tourist destinations:
-
-* consult the map of suspected minefields and download the alert app
-* pay attention to signs indicating the possible presence of landmines
-* remain on paved roads
-* avoid open fields, road shoulders and unmarked trails
-
-#### Useful links
-
-* [Map of suspected minefields](https://misportal.hcr.hr/HCRweb/faces/intro/introduction.jspx) - The Croatian Mine Action Centre
-
 ### Terrorism
 
 There is a threat of terrorism in Europe. Terrorists have carried out attacks in several European cities. Terrorist attacks could occur at any time.

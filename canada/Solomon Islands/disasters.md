@@ -2,11 +2,11 @@
 
 ## Natural disasters and climate
 
-### Severe Tropical Cyclone Maila
+### Tropical Cyclone Maila
 
-On April 7 and 8, 2026, Severe Tropical Cyclone Maila passed through the Solomon Islands.
+In April 2026, Tropical Cyclone Maila passed through the Solomon Islands.
 
-The cyclone caused significant damage to buildings and infrastructure, and could severely disrupt the following essential services:
+The cyclone caused significant damage to buildings and infrastructure, and continues to disrupt the following essential services:
 
 * transportation
 * power distribution
@@ -15,13 +15,11 @@ The cyclone caused significant damage to buildings and infrastructure, and could
 * emergency services
 * medical care
 
-If you are in the affected areas, especially the Western and Choiseul provinces:
+If you are in the affected areas:
 
 * exercise caution
-* monitor local news and weather reports
+* monitor local news
 * follow the instructions of local authorities
-
-[Tropical Cyclone Warning](https://met.gov.sb/tropical-cyclone-warning/) – Solomon Islands Meteorological Services
 
 ### Monsoons and cyclones
 
