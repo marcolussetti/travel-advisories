@@ -1,11 +1,11 @@
 {
     "name": "Democratic Republic of the Congo",
-    "update_reason": "New information about Ebola ('Entry requirements' page).",
+    "update_reason": "Updated information advising against all but essential travel to Upemba National Park (Warnings and Insurance page)",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Democratic Republic of the Congo/Warnings and insurance.md",
-            "update_date": "2026-05-22T16:47:44+01:00"
+            "update_date": "2026-05-23T15:00:23+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Democratic Republic of the Congo/Getting help.md"
         }
     ],
-    "update_date": "2026-05-22T16:47:44+01:00"
+    "update_date": "2026-05-23T15:00:23+01:00"
 }

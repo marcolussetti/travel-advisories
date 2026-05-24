@@ -1,18 +1,18 @@
 # Warnings and insurance
 
 Still current at:
-:   23 May 2026
+:   24 May 2026
 
 Updated:
-:   22 May 2026
+:   23 May 2026
 
 Latest update:
-:   New information about Ebola ('Entry requirements' page).
+:   Updated information advising against all but essential travel to Upemba National Park (Warnings and Insurance page)
 
-![](https://assets.publishing.service.gov.uk/media/6a0894fdfcae986635db904d/FCDO__TA__012_-_Democratic_Repbulic_of_the_Congo_Travel_Advice_Ed18__WEB_.jpg)
+![](https://assets.publishing.service.gov.uk/media/6a11a89f1eb143220d8d2810/FCDO_TA_012_-_Democratic_Repbulic_of_the_Congo_Travel_Advice_Ed19_WEB.jpg)
 
 
-[Download a more detailed map (PDF, 1.03 MB)](https://assets.publishing.service.gov.uk/media/6a0894fdc510c3913d8266d6/FCDO__TA__012_-_Democratic_Repbulic_of_the_Congo_Travel_Advice_Ed18.pdf)
+[Download a more detailed map (PDF, 1.03 MB)](https://assets.publishing.service.gov.uk/media/6a11a89f1eb143220d8d2811/FCDO_TA_012_-_Democratic_Repbulic_of_the_Congo_Travel_Advice_Ed19.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
@@ -40,13 +40,13 @@ FCDO advises against all travel to the provinces of:
 * Tanganyika
 * Haut-Lomami
 
+### South-East DRC
+
+FCDO advises against all but essential travel to Upemba National Park. If you choose to travel to Upemba National Park against FCDO advise, notify the park authorities about your travel plans.
+
 ### Territory in Mai-Ndombe Province
 
 FCDO advises against all travel to the Kwamouth territory of Mai-Ndombe Province. This is between, and including, the towns of Kwamouth, Bandundu and the southern border of Mai-Ndombe province.
-
-### Tshopo Province
-
-FCDO advises against all but essential travel to Bangoka International Airport in Kisangani.
 
 See details about [why FCDO advises against travel](/foreign-travel-advice/democratic-republic-of-the-congo/regional-risks).
 
