@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   11 April 2026
+:   25 May 2026
 
 Updated:
-:   10 April 2026
+:   24 May 2026
 
 Latest update:
-:   Updated information on European Entry-Exit System (EES) (‘Entry requirements’ page).
+:   Information on delays at passport control for passengers flying to and from Copenhagen airport. ("Safety and Security" page)
 
 This travel advice also covers the Faroe Islands and Greenland.
 

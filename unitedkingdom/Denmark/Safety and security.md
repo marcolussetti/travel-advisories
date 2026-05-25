@@ -54,6 +54,8 @@ Read [advice for LGBT+ travellers](https://www.gov.uk/lesbian-gay-bisexual-and-t
 
 ## Transport risks
 
+Travellers flying into and out of Copenhagen airport from non-Schengen destinations (including the UK) are experiencing long delays at passport control. Embassy staff are in discussion with the relevant authorities on managing this pressure. Passengers with accessibility requirements, who need assistance (e.g. with very young children) or who have tight flight connections should make themselves known to airport staff in yellow vests who are monitoring the queue. For travellers departing from Copenhagen to the UK and non-Schengen destinations, we recommend giving yourself extra time to allow for queues at passport control.
+
 ### Road travel
 
 If you are planning to drive in Denmark, see [information on driving abroad](https://www.gov.uk/driving-abroad) and check the [rules of the road in the RAC’s Denmark guide](https://www.rac.co.uk/drive/travel/country/denmark/). The guide lists driving regulations and other legal requirements you need to be aware of.
