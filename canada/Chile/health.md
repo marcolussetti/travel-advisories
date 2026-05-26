@@ -10,6 +10,25 @@ This section has information and advice about health risks you might face when t
 
 It's best to talk to a healthcare provider or visit a travel health clinic preferably 6 weeks before your trip to get personalized health advice. Even if your travel date is coming up soon, it's still worthwhile to make an appointment.
 
+### Outbreak Monitoring
+
+#### Hantavirus in Chile
+
+A higher than expected number of hantavirus cases, caused by the Andes virus, are being reported in parts of Chile, including the regions of Aysén, Los Ríos, and Ñuble. The majority of cases are from rural areas or linked to agricultural or forestry work. Most travellers are at low risk of hantavirus infection.
+
+Hantaviruses are a group of viruses that can cause severe illness and death in humans. They’re most commonly spread to humans through contact with rodents, such as mice and rats, especially their urine, droppings, or saliva.
+
+Symptoms vary but can begin as a flu-like illness, and may include fever, muscle aches, headaches, vomiting, diarrhea, and eventually coughing and shortness of breath. See a health care provider immediately if you have had contact with rodents or their droppings and you feel ill while travelling or upon your return.
+
+There are no vaccines or medications to prevent hantavirus. You can reduce your risk of getting sick by:
+
+* Avoiding contact with rodents or areas contaminated with rodent urine or droppings
+* Storing food and garbage in containers with tightly fitted lids
+* Taking special precautions when cleaning and disinfecting areas contaminated by rodent droppings
+
+**Learn more:**  
+[Hantaviruses](https://www.canada.ca/en/public-health/services/diseases/hantaviruses.html)
+
 ### Routine vaccines
 
 Make sure your routine vaccinations are up-to-date before you travel, no matter where you’re going.

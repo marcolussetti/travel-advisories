@@ -63,45 +63,6 @@ Travellers to areas where TBE is found may be at higher risk  during April to N
 
 [Protect yourself from tick bites](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html). The vaccine is not available in Canada. It may be available in the destination you are travelling to.
 
-Rabies 
-
-Rabies is common in this destination and is carried by dogs and some wildlife, including bats. Rabies is a serious disease that’s almost always fatal once symptoms appear. It's spread to humans through the saliva of infected animals, mainly through bites, but it can also be spread through scratches.
-
-Before you travel, talk to a health care professional about rabies vaccination. Vaccination may be recommended, particularly for people at higher risk of exposure, such as:
-
-veterinarians and wildlife workers
-
-children
-
-adventure travellers and cave explorers (spelunkers)
-
-people who will be in close contact with animals
-
-While travelling:
-
-avoid contact with animals, especially dogs
-
-supervise children closely around animals
-
-If you’re bitten or scratched by an animal:
-
-wash the wound right away with soap and clean water for about 15 minutes
-
-get medical care as soon as possible
-
-In this destination, treatment to prevent rabies may be limited or not available. You may need to travel to another location to receive treatment.
-
-If you get treatment to prevent rabies while outside Canada, ask for:
-
-written records of medications and vaccines administered, including when they were given, product names, and batch or lot numbers
-
-photos of the packaging and labels of any medications or vaccines given to you
-
-When you return to Canada, see a health care professional as soon as possible and bring your treatment records to your appointment.
-
-**Learn more:**  
-[Rabies: Symptoms and treatment](https://www.canada.ca/en/public-health/services/diseases/rabies.html)
-
 Hepatitis B
 
 [Hepatitis B](https://www.canada.ca/en/public-health/services/diseases/hepatitis-b.html) is a risk in every destination. It is a viral liver disease that is easily transmitted from one person to another through exposure to blood and body fluids containing the hepatitis B virus.  Travellers who may be exposed to blood or other bodily fluids (e.g., through sexual contact, medical treatment, sharing needles, tattooing, acupuncture or occupational exposure) are at higher risk of getting hepatitis B.
@@ -145,6 +106,45 @@ Getting vaccinated is the best way to protect yourself and others from measles. 
 
 [Measles](https://www.canada.ca/en/public-health/services/diseases/measles.html)
 
+Rabies 
+
+Rabies is common in this destination and is carried by dogs and some wildlife, including bats. Rabies is a serious disease that’s almost always fatal once symptoms appear. It's spread to humans through the saliva of infected animals, mainly through bites, but it can also be spread through scratches.
+
+Before you travel, talk to a health care professional about rabies vaccination. Vaccination may be recommended, particularly for people at higher risk of exposure, such as:
+
+veterinarians and wildlife workers
+
+children
+
+adventure travellers and cave explorers (spelunkers)
+
+people who will be in close contact with animals
+
+While travelling:
+
+avoid contact with animals, especially dogs
+
+supervise children closely around animals
+
+If you’re bitten or scratched by an animal:
+
+wash the wound right away with soap and clean water for about 15 minutes
+
+get medical care as soon as possible
+
+In this destination, treatment to prevent rabies may be limited or not available. You may need to travel to another location to receive treatment.
+
+If you get treatment to prevent rabies while outside Canada, ask for:
+
+written records of medications and vaccines administered, including when they were given, product names, and batch or lot numbers
+
+photos of the packaging and labels of any medications or vaccines given to you
+
+When you return to Canada, see a health care professional as soon as possible and bring your treatment records to your appointment.
+
+**Learn more:**  
+[Rabies: Symptoms and treatment](https://www.canada.ca/en/public-health/services/diseases/rabies.html)
+
 ### Safe food and water precautions
 
 Eating or drinking unsafe food or water, or swimming in contaminated water can make you sick while travelling. Take precautions by following these tips:
@@ -183,9 +183,15 @@ To protect yourself from bites:
 
 Crimean-Congo haemorrhagic fever
 
-[Crimean-Congo haemorrhagic fever](http://www.who.int/mediacentre/factsheets/fs208/en/) is a viral disease that can cause fever, pain and bleeding under the skin.  In some cases, it can be fatal.  It spreads to humans through contact with infected animal blood or tissues, or from the bite of an infected tick.  Risk is generally low for most travellers. Celebrations which include the slaughtering of animals and contact with their blood and/ or tissues may increase the risk of exposure to the virus.
+There is a risk of [Crimean-Congo haemorrhagic fever](http://www.who.int/mediacentre/factsheets/fs208/en/) (CCHF) in this destination. The risk is generally low for most travellers. CCHF is a disease caused by a virus that can spread to humans through the bite of an infected tick or through contact with the blood or tissues of an infected animal.
 
-Protect yourself from tick bites and wear gloves or other protective clothing if you are in contact with the blood and tissues of  animals, particularly livestock. There is no vaccine available for Crimean-Congo haemorrhagic fever.
+Symptoms usually appear suddenly and may include  fever, headache, muscle aches, dizziness, neck pain and stiffness, sore eyes and sensitivity to light, and bleeding under the skin.  In some cases, it can be fatal.
+
+Celebrations which include the slaughtering of animals and contact with their blood or tissues may increase the risk of exposure to the virus. Protect yourself from tick bites and wear gloves or other protective clothing if you are in contact with the blood or tissues of animals, particularly livestock. There is no vaccine available for CCHF.
+
+**Learn more:**  
+[Crimean-Congo haemorrhagic fever (WHO Fact Sheet)](https://www.who.int/en/news-room/fact-sheets/detail/crimean-congo-haemorrhagic-fever)  
+[Insect bite and pest prevention](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html)
 
 ### Animal precautions
 

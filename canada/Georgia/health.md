@@ -54,39 +54,6 @@ There is a risk of [hepatitis A](https://www.canada.ca/en/public-health/services
 
 Practise [safe food and water precautions](https://travel.gc.ca/travelling/health-safety/food-water) and wash your hands often. Vaccination is recommended for all travellers to areas where hepatitis A is present.
 
-Rabies 
-
-Rabies is present in this destination and is carried by dogs and some wildlife, including bats. Rabies is a serious disease that’s almost always fatal once symptoms appear. It's spread to humans through the saliva of infected animals, mainly through bites, but it can also be spread through scratches.
-
-Before you travel, talk to a health care professional about rabies vaccination. Vaccination may be recommended for people at higher risk of exposure, such as:
-
-* veterinarians and wildlife workers
-* children
-* adventure travellers and cave explorers (spelunkers)
-* people who will be in close contact with animals
-
-While travelling:
-
-* avoid contact with animals, including free roaming dogs
-* supervise children closely around animals
-
-If you’re bitten or scratched by an animal:
-
-* wash the wound right away with soap and clean water for about 15 minutes
-* get medical care as soon as possible
-
-Treatment to prevent rabies is often available in this destination.
-
-If you get treatment to prevent rabies while outside Canada, ask for:
-
-* written records of medications and vaccines administered, including when they were given, product names, and batch or lot numbers
-* photos of the packaging and labels of any medications or vaccines given to you
-
-When you return to Canada, see a health care professional as soon as possible and bring your treatment records to your appointment.
-
-**Learn more:**  
-[Rabies: Symptoms and treatment](https://www.canada.ca/en/public-health/services/diseases/rabies.html)
-
 Measles 
 
 Measles is a serious viral infection that spreads easily. It spreads through the air, and can stay in the air for up to 2 hours. You can also get measles by direct contact with an infected person or by touching a surface with the virus on it and then touching your eyes, nose, or mouth before washing your hands.
@@ -129,6 +96,39 @@ Influenza
 The flu vaccine available in one hemisphere may only offer partial protection against the flu in the other hemisphere.
 
 The flu virus spreads from person to person when they cough or sneeze or by touching objects and surfaces that have been contaminated with the virus. Clean your hands often and wear a mask if you have a fever or respiratory symptoms.
+
+Rabies 
+
+Rabies is present in this destination and is carried by dogs and some wildlife, including bats. Rabies is a serious disease that’s almost always fatal once symptoms appear. It's spread to humans through the saliva of infected animals, mainly through bites, but it can also be spread through scratches.
+
+Before you travel, talk to a health care professional about rabies vaccination. Vaccination may be recommended for people at higher risk of exposure, such as:
+
+* veterinarians and wildlife workers
+* children
+* adventure travellers and cave explorers (spelunkers)
+* people who will be in close contact with animals
+
+While travelling:
+
+* avoid contact with animals, including free roaming dogs
+* supervise children closely around animals
+
+If you’re bitten or scratched by an animal:
+
+* wash the wound right away with soap and clean water for about 15 minutes
+* get medical care as soon as possible
+
+Treatment to prevent rabies is often available in this destination.
+
+If you get treatment to prevent rabies while outside Canada, ask for:
+
+* written records of medications and vaccines administered, including when they were given, product names, and batch or lot numbers
+* photos of the packaging and labels of any medications or vaccines given to you
+
+When you return to Canada, see a health care professional as soon as possible and bring your treatment records to your appointment.
+
+**Learn more:**  
+[Rabies: Symptoms and treatment](https://www.canada.ca/en/public-health/services/diseases/rabies.html)
 
 ### Safe food and water precautions
 
@@ -177,6 +177,18 @@ To lower your risk, protect yourself from sandfly bites. Sandflies are most acti
 There is no vaccine or medication to prevent infection with the parasite that causes leishmaniasis.
 
 **Learn more:**[Leishmaniasis](https://www.canada.ca/en/public-health/services/diseases/leishmaniasis.html)
+
+Crimean-Congo haemorrhagic fever
+
+There is a risk of [Crimean-Congo haemorrhagic fever](http://www.who.int/mediacentre/factsheets/fs208/en/) (CCHF) in this destination. The risk is generally low for most travellers. CCHF is a disease caused by a virus that can spread to humans through the bite of an infected tick or through contact with the blood or tissues of an infected animal.
+
+Symptoms usually appear suddenly and may include  fever, headache, muscle aches, dizziness, neck pain and stiffness, sore eyes and sensitivity to light, and bleeding under the skin.  In some cases, it can be fatal.
+
+Celebrations which include the slaughtering of animals and contact with their blood or tissues may increase the risk of exposure to the virus. Protect yourself from tick bites and wear gloves or other protective clothing if you are in contact with the blood or tissues of animals, particularly livestock. There is no vaccine available for CCHF.
+
+**Learn more:**  
+[Crimean-Congo haemorrhagic fever (WHO Fact Sheet)](https://www.who.int/en/news-room/fact-sheets/detail/crimean-congo-haemorrhagic-fever)  
+[Insect bite and pest prevention](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html)
 
 ### Animal precautions
 

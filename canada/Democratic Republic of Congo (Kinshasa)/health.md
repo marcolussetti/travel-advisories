@@ -6,7 +6,6 @@
 
 * [Measles: Advice for travellers](https://travel.gc.ca/travelling/health-safety/travel-health-notices/504)
 * [Polio: Advice for travellers](https://travel.gc.ca/travelling/health-safety/travel-health-notices/508)
-* [Mpox: Advice for travellers](https://travel.gc.ca/travelling/health-safety/travel-health-notices/515)
 * [Ebola disease in Democratic Republic of the Congo](https://travel.gc.ca/travelling/health-safety/travel-health-notices/549)
 
 This section has information and advice about health risks you might face when travelling. Following this advice can help reduce your risk of getting sick. Not all risks are listed here.
