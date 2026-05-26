@@ -4,13 +4,11 @@
 
 High Degree of Caution
 
-### **Travel Alert: Transport strike**
+### **Travel Alert: Ongoing Political Unrest**
 
-The interprovincial transport union of La Paz has announced an indefinite strike from 6 May 2026. Some roads across the country are blocked (subject to ‘blockade’), making transport difficult in those areas. Check local media reports before travelling between towns or cities.
+Due to ongoing political unrest, many roads across Bolivia are blocked (subject to ‘blockade’), making road transport very difficult in those areas. Check local media reports before travelling between towns or cities and follow the advice of local authorities. Any Irish citizen who is currently stuck in a road blockade, or who requires urgent consular assistance, should contact the Irish Embassy in Buenos Aires, Argentina, using the details below.
 
-Flights are operating normally.
-
-Any Irish citizen who is currently stuck in a road blockade, or who requires urgent consular assistance, should contact the Irish Embassy in Buenos Aires, Argentina, using the details below.
+There are also ongoing protests in the city of La Paz, which have the potential to turn violent. Irish citizens in La Paz should stay away from demonstrations and follow the advice of local authorities.
 
 ### **General Travel Advice**
 
