@@ -133,12 +133,8 @@ Find out what you can do to prepare for and respond to [extreme weather and natu
 
 During the rainy season from April to November, most roads outside of Juba become impassable. There is a risk of being cut off by floods in areas outside the capital, particularly in Unity, Warrap, Jonglei and Upper Nile states. There is also a risk of flash flooding.
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/south-sudan/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/south-sudan/entry-requirements)
 
-[Next
-:
-Health](/foreign-travel-advice/south-sudan/health)
+[Next:Health](/foreign-travel-advice/south-sudan/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/south-sudan/print)

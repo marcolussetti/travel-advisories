@@ -45,6 +45,14 @@ To enter South Sudan, you must have a certificate to prove you’ve had a yellow
 
 For details about medical entry requirements and recommended vaccinations, see [TravelHealthPro’s South Sudan guide](https://travelhealthpro.org.uk/country/202/south-sudan#Vaccine_Recommendations).
 
+## Ebola
+
+In May 2026, neighbouring countries ([Democratic Republic of Congo](https://www.gov.uk/foreign-travel-advice/democratic-republic-of-the-congo) and [Uganda](https://www.gov.uk/foreign-travel-advice/uganda)) reported Ebola cases, including in areas close to the border with South Sudan (Western Equatoria State). If crossing a land border from DRC or Uganda into South Sudan, you may encounter health screening measures such as temperature checks and a request to provide a brief travel history.
+
+At Juba International Airport, some airlines are now asking passengers departing the country to complete a health declaration form. Some countries have heightened health screening for travellers coming from South Sudan. [Check entry requirements](https://www.gov.uk/foreign-travel-advice) for the country you’re travelling to or transiting.
+
+UK Health Security Agency has [Ebola information for humanitarian or healthcare workers](https://www.gov.uk/government/publications/ebola-virus-disease-information-for-workers-in-at-risk-countries).
+
 ### COVID-19
 
 On rare occasions, some travellers have been asked to show proof of their COVID-19 vaccination. You can get proof of vaccination:
@@ -62,12 +70,8 @@ South Sudan’s security services have harassed, detained and expelled foreign n
 
 There are strict rules about goods you can take into or out of South Sudan. You must declare anything that may be prohibited or subject to tax or duty. Contact the [South Sudanese Embassy in the UK](https://embrss.org.uk/) for information.
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/south-sudan)
+[Previous:Warnings and insurance](/foreign-travel-advice/south-sudan)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/south-sudan/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/south-sudan/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/south-sudan/print)

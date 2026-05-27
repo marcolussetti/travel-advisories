@@ -1,11 +1,11 @@
 {
     "name": "Sri Lanka",
-    "update_reason": "Updated information about global travel impacts due to escalation in the Middle East (\u2018Warnings and insurance\u2019 page).",
+    "update_reason": "New information about Electronic Travel Authorization (ETA) which will now be issued free of charge as of 25 May 2026 ('Entry requirements' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Sri Lanka/Warnings and insurance.md",
-            "update_date": "2026-03-19T14:02:26+00:00"
+            "update_date": "2026-05-26T15:31:56+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Sri Lanka/Getting help.md"
         }
     ],
-    "update_date": "2026-03-19T14:02:26+00:00"
+    "update_date": "2026-05-26T15:31:56+01:00"
 }

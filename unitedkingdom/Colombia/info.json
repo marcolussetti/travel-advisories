@@ -1,11 +1,11 @@
 {
     "name": "Colombia",
-    "update_reason": "FCDO now advises against all but essential travel to the department capitals of Arauca and Puerto Carreno. FCDO now also advises against all but essential travel to the whole of Cauca department, except for the department capital Popayan ('Warnings and insurance' page).",
+    "update_reason": "New information about Colombian Presidential Elections ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Colombia/Warnings and insurance.md",
-            "update_date": "2026-05-19T12:20:14+01:00"
+            "update_date": "2026-05-26T12:28:05+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Colombia/Getting help.md"
         }
     ],
-    "update_date": "2026-05-19T12:20:14+01:00"
+    "update_date": "2026-05-26T12:28:05+01:00"
 }

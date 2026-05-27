@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   5 April 2026
+:   27 May 2026
 
 Updated:
-:   5 April 2026
+:   26 May 2026
 
 Latest update:
-:   Updated information about Tropical Cyclone Maila, affecting parts of the Solomon Islands, moving towards Papua New Guinea (‘Warnings and Insurance’ page)
+:   Removal of information about Tropical Cyclone Maila (‘Warnings and Insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/68b1908211b4ded2da19fc61/FCDO__TA__063_-_Papua_New_Guinea_Ed2__WEB_.jpg)
 
@@ -25,12 +25,6 @@ FCDO advises against all but essential travel to:
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/papua-new-guinea/regional-risks).
 
-## Cyclone Maila
-
-Tropical Cyclone Maila (Category 1) is affecting parts of the Solomon Islands with heavy rain, thunderstorms, strong winds and hazardous sea conditions. The cyclone is located west of the Solomon Islands and is moving towards Papua New Guinea.  Western Province Islands are most affected followed by Choiseul and Isabel Provinces but severe weather is predicted across all provinces.
-
-You should monitor local weather updates, follow the advice of the [Solomon Islands Meteorological Service](https://met.gov.sb/tropical-cyclone-warning/) and local authorities, and be prepared for disruption.  The latest information for Papua New Guinea can be found on the [PNG Weather Service Homepage](https://www.pngmet.gov.pg/) and on the [PNG Weather Service Facebook page](https://www.facebook.com/100068975117254/posts/pfbid0aic6b2VjEkQPg7eC1Ya28httV1pj9okbYKC6NLZoca36QrnNqptJgAqDRaeKWwKEl/).
-
 ## Global travel impacts due to escalation in the Middle East
 
 Escalation in the Middle East has caused widespread travel disruption, including airspace closures, delayed and cancelled flights.
@@ -38,8 +32,8 @@ Escalation in the Middle East has caused widespread travel disruption, including
 Your travel plans may be affected, even if your destination is not in the Middle East. Before you travel:
 
 * check travel advice for any countries or territories you are transiting through
-* check for the latest updates from your airline or tour operator before travelling
-* review your travel insurance policy for coverage before you travel
+* check for the latest updates from your airline or tour operator
+* review your travel insurance policy for coverage
 * monitor local and international media for the latest information and sign up for travel advice email alerts
 
 ## Enga Province

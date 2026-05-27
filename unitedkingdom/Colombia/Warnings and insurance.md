@@ -1,18 +1,18 @@
 # Warnings and insurance
 
 Still current at:
-:   20 May 2026
+:   27 May 2026
 
 Updated:
-:   19 May 2026
+:   26 May 2026
 
 Latest update:
-:   FCDO now advises against all but essential travel to the department capitals of Arauca and Puerto Carreno. FCDO now also advises against all but essential travel to the whole of Cauca department, except for the department capital Popayan ('Warnings and insurance' page).
+:   New information about Colombian Presidential Elections ('Warnings and insurance' page).
 
-![](https://assets.publishing.service.gov.uk/media/6a0c43fdc75cc34a8ff8f4f1/FCDO__TA__054_-_Colombia_Travel_Advice_Ed5__WEB_.jpg)
+![](https://assets.publishing.service.gov.uk/media/6a1022481eb143220d8d27b8/FCDO__TA__054_-_Colombia_Travel_Advice_Ed5__WEB___3_.jpg)
 
 
-[Download a more detailed map (PDF, 1010 KB)](https://assets.publishing.service.gov.uk/media/6a0c43fdc75cc34a8ff8f4f2/FCDO__TA__054_-_Colombia_Travel_Advice_Ed5.pdf)
+[Download a more detailed map (PDF, 1010 KB)](https://assets.publishing.service.gov.uk/media/6a1022485e28c5cac81cf04e/FCDO__TA__054_-_Colombia_Travel_Advice_Ed5__2_.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
@@ -63,11 +63,13 @@ FCDO advises against all but essential travel to Orito, San Miguel, Valle del Gu
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/colombia/regional-risks).
 
-## Explosive attacks in Cauca, Valle de Cauca and Nariño departments
+## Colombian Presidential Elections
 
-Between 24-27 April, several explosive devices were detonated in Cauca, Valle de Cauca and Nariño departments, including near military bases and police stations. One device exploded on the Pan-American Highway causing several deaths, injuries and significant damage and disruption. Local authorities are investigating. Road closures and further disruption should be expected.
+Colombia will hold the first round of presidential elections on Sunday 31 May. Expect busy polling stations, traffic disruption, and increased security presence.
 
-Monitor media and follow advice from local authorities. See [Safety and security page](https://www.gov.uk/foreign-travel-advice/colombia/safety-and-security).
+Colombia’s land and river borders with Brazil, Ecuador, Panama, Peru and Venezuela will be closed from Saturday 30 May at 6am until Monday 1 June at 6am. Plan ahead and expect potential travel disruptions due to closures.
+
+Stay away from large gatherings and follow the guidance of local authorities. See [Safety and security page](https://www.gov.uk/foreign-travel-advice/Colombia/safety-and-security).
 
 ## Before you travel
 

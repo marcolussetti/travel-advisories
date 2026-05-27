@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   11 December 2025
+:   27 May 2026
 
 Updated:
-:   10 December 2025
+:   26 May 2026
 
 Latest update:
-:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
+:   New information about Ebola ('Entry requirements' page).
 
 ![](https://assets.publishing.service.gov.uk/media/5f4f33bfe90e071c6c7d9425/FCDO__TA__036_-_South_Sudan_Travel_Advice_Ed1__WEB_.jpg)
 
@@ -58,8 +58,6 @@ Follow FCDO:
 * [travel advice on Facebook](https://www.facebook.com/FCDOTravel/)
 * [Travel Aware on Instagram](https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Ftravelaware%2F&is_from_rle)
 
-[Next
-:
-Entry requirements](/foreign-travel-advice/south-sudan/entry-requirements)
+[Next:Entry requirements](/foreign-travel-advice/south-sudan/entry-requirements)
 
 [View a printable version of the whole guide](/foreign-travel-advice/south-sudan/print)

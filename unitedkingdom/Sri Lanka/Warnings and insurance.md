@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   20 March 2026
+:   27 May 2026
 
 Updated:
-:   19 March 2026
+:   26 May 2026
 
 Latest update:
-:   Updated information about global travel impacts due to escalation in the Middle East (‘Warnings and insurance’ page).
+:   New information about Electronic Travel Authorization (ETA) which will now be issued free of charge as of 25 May 2026 ('Entry requirements' page).
 
 ## Global travel impacts due to escalation in the Middle East
 
@@ -18,8 +18,8 @@ Escalation in the Middle East has caused widespread travel disruption, including
 Your travel plans may be affected, even if your destination is not in the Middle East. Before you travel:
 
 * check travel advice for any countries or territories you are transiting through
-* check for the latest updates from your airline or tour operator before travelling
-* review your travel insurance policy for coverage before you travel
+* check for the latest updates from your airline or tour operator
+* review your travel insurance policy for coverage
 * monitor local and international media for the latest information and sign up for travel advice email alerts
 
 Some flights from Colombo to the UK via Middle Eastern hubs may be delayed, postponed, or re-routed. British nationals in Sri Lanka should check the latest updates from their airlines and consider alternative carriers or routes where necessary.
@@ -29,8 +29,6 @@ For further information, review [Media Notice from the Department of Immigration
 ### Fuel
 
 The Government of Sri Lanka is limiting purchases of fuel in response to the situation in the Middle East. All vehicles will be allocated a weekly fuel quota. The Government has announced that special arrangements will be implemented for tour operators and hotels to minimise disruption to tourism.
-
-Additionally, the Government of Sri Lanka has implemented a four-day working week for all government officials except those operating essential services (health, ports, water supply and customs). As a result, non-essential government services will not be available on Wednesdays.
 
 Additional assistance available: Sri Lankan Tourist Hotline: 1912
 
