@@ -8,12 +8,14 @@ High Degree of Caution
 
 On 17 May, the World Health Organisation (WHO) declared the outbreak of the Bundibugyo strain of Ebola in the Democratic Republic of Congo and Uganda a [**Public Health Emergency of International Concern**](https://www.who.int/news/item/17-05-2026-epidemic-of-ebola-disease-in-the-democratic-republic-of-the-congo-and-uganda-determined-a-public-health-emergency-of-international-concern).
 
+The Uganda Ministry of Health has now introduced mandatory health declaration requirement for all travellers entering and exiting Uganda. All passengers are required to complete the online declaration form prior to travel: [**Traveller Health Declaration — UPHDS**](https://poes.health.go.ug/declare/).
+
 [**Ebola**](https://www.who.int/news-room/fact-sheets/detail/ebola-disease) is spread by contact with: the blood or body fluids of a person who is infected with or has died from Ebola; objects or surfaces contaminated with body fluids from an infected person; or by contact with infected animals. Symptoms include fever, headache, muscle pain, weakness, diarrhoea, vomiting, stomach pain, and unexplained bleeding or bruising (a late stage of illness).
 
-Irish citizens in Uganda are encouraged to follow WHO and [**Ministry of Health**](https://health.go.ug/download/ebola-faqs-may-2026/) advice and:
+Irish citizens in Uganda are encouraged to follow WHO and [**Ministry of Health**](https://health.go.ug/download/ebola-faqs-may-2026/?ind=1779193593698&filename=EBOLA%20FAQs%20-%20May%202026.pdf&wpdmdl=2984&refresh=6a0d9ce8dea2c1779277032) advice and:
 
 * Wash hands frequently and avoid contact with blood and other body fluids or objects that are contaminated;
-* Avoid contact with people who have symptomssuch as fever, muscle pain, and rash;
+* Avoid contact with people who have symptoms such as fever, muscle pain, and rash;
 * Avoid contact with bats, forest antelopes, nonhuman primates (e.g., monkeys, chimpanzees, gorillas), and blood, fluids, or raw meat from these or unknown animals;
 * Avoid going into areas where bats live, such as mines or caves; and
 * Follow the guidance of local authorities
