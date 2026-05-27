@@ -1,7 +1,7 @@
 {
     "name": "Norway",
-    "update_reason": "Health \u2013 editorial change",
-    "update_date": "2026-05-04T10:10:00",
+    "update_reason": "Entry and exit requirements section \u2013 added information on possible measures in response to Ebola disease outbreak",
+    "update_date": "2026-05-26T12:50:00",
     "sections": {
         "risk": "canada/Norway/risk.md",
         "security": "canada/Norway/security.md",

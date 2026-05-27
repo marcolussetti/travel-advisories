@@ -1,7 +1,7 @@
 {
     "name": "Democratic Republic of Congo (Kinshasa)",
-    "update_reason": "Risk level section \u2013 Avoid all travel to the Democratic Republic of the Congo due to the fragile security situation and the outbreak of Ebola disease",
-    "update_date": "2026-05-25T18:12:00",
+    "update_reason": "Entry and exit requirements section \u2013 added information on possible measures in response to Ebola disease outbreak",
+    "update_date": "2026-05-26T12:50:00",
     "sections": {
         "risk": "canada/Democratic Republic of Congo (Kinshasa)/risk.md",
         "security": "canada/Democratic Republic of Congo (Kinshasa)/security.md",

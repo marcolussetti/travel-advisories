@@ -22,17 +22,17 @@ Cuba’s constitution allows the death penalty, but since 2003, the country has 
 
 The currency of Cuba is the Cuban peso (CUP).
 
-Credit cards issued by U.S. financial institutions or affiliated with U.S. banks are not accepted in Cuba.
+You should plan to bring sufficient cash for the duration of your trip and all associated costs. Canadian dollars and certain other international currencies are not widely accepted or easily exchanged. U.S. dollars or Euros are more widely accepted. You should also carry small bills for daily transactions such as street food, taxis and tips.
 
-Canadian credit cards are increasingly accepted at restaurants and hotels. However, the system is unreliable, and bank cards may not work or may stop working without notice.
+Certain hotels and restaurants may accept Canadian credit cards, but they are not accepted everywhere, especially in rural areas. In addition, the electronic payment system is unreliable, and cards may not work or may stop working without notice. Pay careful attention to the exchange rate if paying by card in CUP.
+
+Credit cards issued by U.S. financial institutions or affiliated with U.S. banks are not accepted in Cuba.
 
 There are ATMs that accept certain cards, but they are unreliable and could have long lineups. Withdrawals are limited to 5,000 CUP.
 
-Some banks, or state-run exchange bureaus, will allow cash withdrawal using credit and debit cards but will provide the cash in CUP only.
+Some banks or state-run exchange bureaus allow cash withdrawals using credit and debit cards but will provide the cash in CUP only.
 
-When travelling to Cuba, you should plan to bring enough cash to cover the duration of your stay. You should also plan for small banknotes to facilitate daily transactions such as street food, taxis, and tips.
-
-You can easily exchange Canadian dollars and certain other major international currencies for CUP at:
+You may be able to exchange currency at the following locations:
 
 * money exchange bureaus in Cuba’s international airports
 * banks
@@ -57,6 +57,8 @@ Penalties for possession, use or trafficking of illegal drugs are severe. Convic
 ### Marriage
 
 To get married in Cuba, all documents you submit must be translated into Spanish, certified, authenticated, and legalised by the Embassy of Cuba to Canada, in Ottawa. Consult the Embassy of Cuba to Canada if you wish to marry in Cuba, including to a Cuban national.
+
+The 2022 Family Code eliminated the previous marriage exceptions that had allowed girls to marry at age 14 with their parents’ consent. The new law bans child marriage. The age of consent in Cuba is 16, but the new laws introduced in 2022 added protections for individuals under the age of 18 from exploitation or coercion. Even when a minor is over the age of 16, prosecutors can dismiss the argument of consent if there is any perceived imbalance of power, economic influence or relationship of authority. Penalties for the “corruption of minors” are severe and may result in long prison sentences.
 
 #### Useful links
 

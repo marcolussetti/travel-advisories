@@ -2,9 +2,11 @@
 
 ## Entry and exit requirements
 
+Some countries have imposed measures in response to the [Ebola disease outbreak](https://travel.gc.ca/travelling/health-safety/travel-health-notices/549). These can include restrictions on entry and health screening measures for travellers having recently visited an affected country. If you are suspected of having symptoms, you may be subject to isolation, quarantine and/or travel restrictions. Contact the authorities of the country you are travelling to for more details.
+
 The authorities of a country or territory decide who can enter or exit through its borders. The Government of Canada cannot intervene on your behalf if you do not meet your destination’s entry or exit requirements.
 
-We have obtained the information on this page from the Sri Lankan authorities. It can, however, change at any time.
+We have obtained the information on this page from local authorities. It can, however, change at any time.
 
 Verify this information with the [Foreign Representatives in Canada](https://www.international.gc.ca/protocol-protocole/reps.aspx?lang=eng).
 
@@ -42,38 +44,24 @@ Different entry rules may apply when travelling with a temporary passport or an 
 
 ### Visas
 
-Tourist visa: required   
+Tourist visa: not required for stays up to 30 days   
 Business visa: required   
 Student visa: required   
 Work visa: required
 
-You must apply online for an Electronic Travel Authorization (ETA) to obtain a visa for tourism or business purposes.
+You must obtain an Electronic Travel Authorization (ETA) online before travelling for tourism or business purposes.
 
-An ETA allows for a short visit of up to 30 days. Carry a copy of your ETA approval when you go through immigration upon arrival.
+An ETA allows for stays of up to 30 days. Carry a copy of your ETA approval when you go through immigration upon arrival.
 
-If you plan to visit Sri Lanka for medical treatment exceeding 30 days or for investment, you will need to apply for a residence visa.
+If you plan to visit Sri Lanka for purposes such as medical treatment, investment, employment or long-term residence, you will need to apply for a residence visa.
 
 Visas and ETAs may be extended at the Department of Immigration and Emigration in Colombo.
-
-As of February 28, 2026, Sri Lankan authorities are granting a free 14-day visa extension for stranded foreign nationals following the cancellation of all Middle East-bound flights.
-
-You may be able to extend your visa at the immigration office at the airport when you leave the country.
-
-Visa extensions are not guaranteed and are reviewed on a case by case basis. You must bring proof that you were unable to depart because your flight was cancelled.
-
-Acceptable proof includes:
-
-* boarding passes
-* airline cancellation notices
-* written confirmation from the airline
-
-The 14-day extension begins from the expiry date of your current visa.
 
 You cannot convert a visa status once in Sri Lanka. Non-compliance with visa restrictions may result in deportation.
 
 You will also need to fill out an online arrival card. You can complete the online form 3 days before arriving in Sri Lanka.
 
-[Electronic Travel Authorization form](https://eta.gov.lk/slvisa/) –Department of Immigration and Emigration
+[Electronic Travel Authorization form](https://eta.gov.lk/slvisa/) – Department of Immigration and Emigration
 
 ### Special permissions
 

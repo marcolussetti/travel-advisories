@@ -18,7 +18,9 @@ The features in this map do not constitute an authoritative source of geographic
 
 ### CUBA - AVOID NON-ESSENTIAL TRAVEL
 
-[Avoid non-essential travel](#levels "Risk Levels") to Cuba due to worsening shortages of fuel, electricity, and basic necessities including food, water, and medicine. These shortages can also affect services at resorts. Fuel availability has decreased, is difficult to predict, and may disrupt ground transportation.
+[Avoid non-essential travel](#levels "Risk Levels") to Cuba due to worsening shortages of fuel, electricity, and basic necessities including food, water, and medicine. These shortages can also affect services at resorts and disrupt ground transportation. Fuel availability has decreased and is difficult to predict. These conditions are likely to persist in the immediate term and could worsen further during the upcoming hurricane season.
+
+The situation is affecting the operations of the Embassy of Canada in Havana. Our ability to provide consular services may become limited, particularly if the situation deteriorates further.
 
 All Canadian airlines have suspended service to Cuba until further notice. Commercial flights remain available through international airlines; however, they may become limited on short notice. You should consider leaving while options remain available.
 

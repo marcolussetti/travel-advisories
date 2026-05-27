@@ -63,6 +63,16 @@ Hepatitis B
 
 Hepatitis B vaccination is recommended for all travellers. [Prevent hepatitis B](https://www.canada.ca/en/public-health/services/diseases/hepatitis-b/prevention-risks.html#a2) infection by practicing safe sex, only using new and sterile drug equipment, and only getting tattoos and piercings in settings that follow public health regulations and standards.
 
+Measles 
+
+Measles is a serious viral infection that spreads easily. It spreads through the air, and can stay in the air for up to 2 hours. You can also get measles by direct contact with an infected person or by touching a surface with the virus on it and then touching your eyes, nose, or mouth before washing your hands.
+
+Getting vaccinated is the best way to protect yourself and others from measles. In Canada, the measles vaccine is part of the routine immunization schedule. If you’re unsure whether you’re protected, talk to a healthcare provider.
+
+**Learn more:**
+
+[Measles](https://www.canada.ca/en/public-health/services/diseases/measles.html)
+
 Rabies 
 
 Rabies is common in this destination and is carried by dogs and some wildlife, including bats. Rabies is a serious disease that’s almost always fatal once symptoms appear. It's spread to humans through the saliva of infected animals, mainly through bites, but it can also be spread through scratches.
@@ -112,16 +122,6 @@ Polio is spread from person to person and through contaminated food and water. I
 
 * Be sure that your polio vaccinations are up to date before travelling. Polio is part of the [routine vaccine schedule](https://www.canada.ca/en/public-health/services/publications/healthy-living/canadian-immunization-guide-part-1-key-immunization-information/page-13-recommended-immunization-schedules.html#p1c12a2) for children in Canada.
 * One booster dose of the polio vaccine is recommended as an [adult](https://www.canada.ca/en/public-health/services/publications/healthy-living/canadian-immunization-guide-part-3-vaccination-specific-populations/page-9-immunization-travellers.html#a3).
-Measles 
-
-Measles is a serious viral infection that spreads easily. It spreads through the air, and can stay in the air for up to 2 hours. You can also get measles by direct contact with an infected person or by touching a surface with the virus on it and then touching your eyes, nose, or mouth before washing your hands.
-
-Getting vaccinated is the best way to protect yourself and others from measles. In Canada, the measles vaccine is part of the routine immunization schedule. If you’re unsure whether you’re protected, talk to a healthcare provider.
-
-**Learn more:**
-
-[Measles](https://www.canada.ca/en/public-health/services/diseases/measles.html)
-
 Meningococcal disease 
 
 This destination is in the African Meningitis Belt, an area which has the highest rates of meningococcal disease in the world. [Meningococcal disease](https://www.canada.ca/en/public-health/services/immunization/vaccine-preventable-diseases/invasive-meningococcal-disease.html) is a serious and sometimes fatal infection.
@@ -294,6 +294,19 @@ To reduce your risk of getting sick:
 
 Make sure to closely watch children; they are more likely to try to touch animals.
 
+Lassa fever 
+
+Lassa fever is a risk in this country. The risk is low for most travellers.
+
+The virus that causes Lassa fever is primarily spread by a rat found in parts of West Africa. People can become sick if they have direct contact with infected rats or after inhaling or touching the feces, urine, or saliva of infected rats. Infection can also occur through contact with the blood or body fluids of infected people or by exposure to contaminated food or household items. Most people who are infected have mild illness or no symptoms, but some can become very sick and need hospital care.
+
+To protect yourself from Lassa fever, avoid rats, keep food in rat-proof containers, maintain a clean living space, and don’t eat or handle rats.
+
+There is no vaccine to prevent Lassa fever, but supportive care and treatment can be effective.
+
+**Learn more:**  
+[Lassa fever](https://www.canada.ca/en/public-health/services/diseases/lassa-fever.html)
+
 Mpox
 
 [Mpox (monkeypox)](https://www.canada.ca/en/public-health/services/diseases/mpox.html) is a risk in this country. It is a viral disease that can cause serious illness in some circumstances. Risk is generally low for most travellers.
@@ -307,19 +320,6 @@ Mpox spreads in 3 ways:
 * through direct contact with contaminated objects such as bedding and towels, or by sharing personal objects used by an infected person
 
 Follow recommended [public health measures](https://www.canada.ca/en/public-health/services/diseases/monkeypox/risks.html#a3)and avoid contact with animals such as rodents and primates to help prevent getting or spreading the infection.
-
-Lassa fever 
-
-Lassa fever is a risk in this country. The risk is low for most travellers.
-
-The virus that causes Lassa fever is primarily spread by a rat found in parts of West Africa. People can become sick if they have direct contact with infected rats or after inhaling or touching the feces, urine, or saliva of infected rats. Infection can also occur through contact with the blood or body fluids of infected people or by exposure to contaminated food or household items. Most people who are infected have mild illness or no symptoms, but some can become very sick and need hospital care.
-
-To protect yourself from Lassa fever, avoid rats, keep food in rat-proof containers, maintain a clean living space, and don’t eat or handle rats.
-
-There is no vaccine to prevent Lassa fever, but supportive care and treatment can be effective.
-
-**Learn more:**  
-[Lassa fever](https://www.canada.ca/en/public-health/services/diseases/lassa-fever.html)
 
 ### Person-to-person infections
 

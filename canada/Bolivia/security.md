@@ -2,13 +2,13 @@
 
 ## Safety and security
 
-### Roadblocks in western Bolivia
+### Heightened security situation in western Bolivia
 
-There are roadblocks and reports of violent clashes across western Bolivia, particularly in the La Paz, Potosí and Oruro regions. If you encounter a roadblock, do not try to cross it.
+The political and security situation in Bolivia is tense and could further deteriorate. There are ongoing protests, roadblocks and violent clashes across western Bolivia, particularly in the La Paz, Potosí and Oruro regions. Shortages of fuel, food and medical supplies are impacting La Paz.
 
-Overland travel to the following destinations could be severely disrupted:
+If you encounter a roadblock, do not try to cross it. Overland travel to the following destinations is likely to be severely disrupted:
 
-* La Paz
+* La Paz, including the El Alto International Airport
 * Lake Titicaca
 * Uyuni
 * Potosí
@@ -26,7 +26,7 @@ Avoid all protests and roadblocks, particularly around government buildings and 
 
 Be prepared to change your travel plans on short notice, including cutting short or cancelling your trip.
 
-If you plan on entering Bolivia via a land border crossing with Peru or Chile, you should confirm the status of your route before you depart.
+If you plan on entering Bolivia via a land border crossing with Peru or Chile, or to access the El Alto International Airport, you should confirm the status of your route before you depart.
 
 Bus and coach operators may sell “conditional” tickets while roadblocks are in place. These tickets do not guarantee your passage nor your arrival at your destination.
 

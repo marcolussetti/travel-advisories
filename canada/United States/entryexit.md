@@ -2,6 +2,8 @@
 
 ## Entry and exit requirements
 
+Some countries have imposed measures in response to the [Ebola disease outbreak](https://travel.gc.ca/travelling/health-safety/travel-health-notices/549). These can include restrictions on entry and health screening measures for travellers having recently visited an affected country. If you are suspected of having symptoms, you may be subject to isolation, quarantine and/or travel restrictions. Contact the authorities of the country you are travelling to for more details.
+
 Every country or territory decides who can enter or exit through its borders and the Government of Canada cannot intervene on your behalf if you do not meet entry or exit requirements for the United States.
 
 Individual border agents often have significant discretion in making those determinations. U.S. authorities strictly enforce entry requirements. Expect scrutiny at ports of entry, including of electronic devices. Comply and be forthcoming in all interactions with border authorities. If you are denied entry, you could be detained while awaiting deportation.

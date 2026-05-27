@@ -338,15 +338,13 @@ Good health care is limited in availability.
 
 The health system is state-run. The Cuban government operates all hospitals and clinics throughout the island.
 
-Medical professionals are generally adequately trained. However, facilities are in poor condition. They lack basic drugs, medical supplies and equipment. Hygiene practices may be inadequate.
+Medical professionals are generally adequately trained. However, facilities are in poor condition. They lack basic drugs, medical supplies and equipment. Hygiene practices do not tend to meet Canadian standards.
 
-Medical services are also available in most hotels and international clinics located in resort areas, in which doctors and nurses provide initial emergency medical care reserved for foreigners. Health care provided in these clinics is usually better than services offered in public facilities.
+Medical services may be available in hotels and international clinics located in resort areas, in which doctors and nurses may provide initial emergency medical care reserved for foreigners. Health care provided in these clinics is sometimes better than services offered in public facilities, but there are still shortages of basic drugs, medical supplies and equipment.
 
 Mental health care facilities are extremely limited. There are no hotlines available for this type of care in the country.
 
-Emergency and ambulance services are limited. Response times may be slow, especially outside tourist areas.
-
-Make sure you get travel insurance that includes coverage for medical evacuation and hospital stays.
+Emergency and ambulance services are limited. Response times may be slow, and services may even be unavailable during certain hours, especially outside tourist areas.
 
 Make sure you get travel insurance that includes coverage for medical evacuation and hospital stays.
 

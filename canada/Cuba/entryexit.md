@@ -2,9 +2,11 @@
 
 ## Entry and exit requirements
 
+Some countries have imposed measures in response to the [Ebola disease outbreak](https://travel.gc.ca/travelling/health-safety/travel-health-notices/549). These can include restrictions on entry and health screening measures for travellers having recently visited an affected country. If you are suspected of having symptoms, you may be subject to isolation, quarantine and/or travel restrictions. Contact the authorities of the country you are travelling to for more details.
+
 The authorities of a country or territory decide who can enter or exit through its borders. The Government of Canada cannot intervene on your behalf if you do not meet your destination’s entry or exit requirements.
 
-We have obtained the information on this page from the Cuban authorities. It can, however, change at any time.
+We have obtained the information on this page from local authorities. It can, however, change at any time.
 
 Verify this information with the [Foreign Representatives in Canada](https://www.international.gc.ca/protocol-protocole/reps.aspx?lang=eng).
 
@@ -72,13 +74,13 @@ You must show an electronic or printed version of the QR code upon check-in and 
 
 ### Cash controls
 
-You cannot leave Cuba with more than $5,000 USD or the equivalent in any currency. You also cannot leave Cuba with more than $5,000 CUP.
+You cannot leave Cuba with more than $5,000 USD or the equivalent in any currency. You also cannot leave Cuba with more than 5,000 CUP.
 
 ### Health insurance
 
 You must be able to show proof of medical insurance upon entry to Cuba. If you don’t have proof of health insurance or if the proof you present doesn’t satisfy the Cuban immigration authorities, you may have to obtain health insurance from a Cuban insurance company upon arrival. This insurance may have limited coverage.
 
-Canadian provincial health care coverage provides very limited coverage outside Canada. It won’t pay for medical bills up front and does not include air evacuation.
+Canadian provincial health care coverage provides very limited coverage outside Canada. It will not pay for medical bills up front and does not include air evacuation.
 
 Cuban authorities won’t let you leave the country with outstanding medical bills. You will need to remain in Cuba until all debts are paid. Medical bills are payable by credit card only.
 

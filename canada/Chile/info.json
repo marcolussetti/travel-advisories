@@ -1,7 +1,7 @@
 {
     "name": "Chile",
-    "update_reason": "Health \u2013 Outbreak Monitoring for Hantavirus added",
-    "update_date": "2026-05-25T14:48:00",
+    "update_reason": "Entry and exit requirements section \u2013 added information on possible measures in response to Ebola disease outbreak",
+    "update_date": "2026-05-26T12:50:00",
     "sections": {
         "risk": "canada/Chile/risk.md",
         "security": "canada/Chile/security.md",

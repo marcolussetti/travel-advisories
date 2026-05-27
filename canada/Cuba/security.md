@@ -4,37 +4,74 @@
 
 ### Power outages
 
-To reduce pressure on the electrical network, Cuba schedules long daily power cuts. Sometimes, unexpected nationwide power outages occur and can last more than 24 hours.
+Cuba is experiencing long and unpredictable daily power cuts. Sometimes, unexpected nationwide power outages occur and can last more than 24 hours.
 
-Most large hotels and resorts use generators during power outages. However, fuel shortages may impact generator use and the availability of various services, activities and utilities such as food service, light, running water and hot water.
+Most large hotels and resorts use generators during power outages. However, fuel shortages may impact generator use. The timing, location and type of impacts of power outages on resorts vary and are difficult to predict.
 
 * Monitor local media for the latest information
 * Try to keep your phone charged
 * Plan accordingly
 
+### Telecommunications
+
+The telecommunications network in Cuba is poor. Connections are unreliable and frequently interrupted when power outages occur.
+
+Canadian cell phones may not work, even in large cities. Internet access is limited across the island.
+
+Be aware that access to the Internet and social media may be blocked or restricted, particularly during periods of civil unrest or ahead of demonstrations.
+
+* Do not rely solely on your cell phone for emergencies, especially outside major cities
+* Subscribe to and install a VPN service before leaving Canada
+* Keep both digital and hard copies of your emergency contacts’ details
+
 ### Shortages
 
 Cuba faces chronic and severe shortages of ‎basic necessities, including:
 
+* fuel
+* medication
 * food
 * bottled water
 * public water supply
-* medication
-* fuel
 * hard currency
 
-Resorts can be affected by shortages. The timing, location, and type of impacts on resorts vary and are difficult to predict.
+Resorts may be affected by shortages of basic necessities, which can impact the availability of products and private and public services, such as food, electricity, running water, and hot water.
 
-Fuel shortages affect a wide range of services. Travelling across the island is extremely challenging. Public transportation services, including taxis, are often disrupted, leaving tourists with few options to travel. Some travellers have been temporarily stranded with a rental car. There are often long line-ups at gas stations that have led to altercations.
+Fuel shortages affect a wide range of services. Travelling across the island is extremely challenging. Public transportation services, including taxis, are often disrupted, leaving tourists with few options to travel. Some travellers have been temporarily stranded with a rental car after running out of gas. There are often long line-ups at gas stations, sometimes resulting in altercations.
 
-Food shortages or food spoilage, as a result of power outages and fuel shortages, can occur even in restaurants and hotels.
-
-Intermittent shortages of tap water provided by municipalities occur, including in Havana. Water shortages may also affect resorts.
+Food shortages or food spoilage because of power outages can occur even in restaurants and hotels.
 
 * Plan accordingly
 * Bring some supplies with you, including toiletries and medication
 * Keep a supply of water, food and fuel on hand
 * Make sure you always have access to a complete emergency kit
+
+You should carry sufficient cash since many businesses outside larger cities do not accept credit cards. Even in larger cities, credit cards and ATMs may not work due to power outages, for example.
+
+[More information on money](#money)
+
+### Public transportation
+
+Local transportation is limited in availability and costly because of fuel shortages.
+
+#### Buses
+
+Public buses are unreliable, scarce, overcrowded and poorly maintained.
+
+If you plan to travel by bus, use a private service offered by a tour company or resort.
+
+#### Taxis
+
+Old-model private vehicles offered as taxis are not equipped with standard safety features. They have no insurance coverage for passengers in case of an accident.
+
+* Use only officially marked taxis
+* Avoid hailing taxis on the street
+* Never share a taxi with strangers
+* Agree on a fare before departure, as taxis are not equipped with meters
+
+#### Trains
+
+The rail network is unreliable and slow.
 
 ### Crime
 
@@ -52,7 +89,7 @@ Theft generally occurs in crowded places such as:
 
 It can also occur in isolated areas.
 
-Cuba has a cash-based economy. You may need to carry large amounts of cash to make larger purchases, but doing so could make you a target for theft or robbery. You should avoid showing large amounts of cash in public.
+Cuba has a cash-based economy, which may require you to carry large amounts of cash at times to make larger purchases. However, doing so could make you a target for theft or robbery. You should avoid showing large amounts of cash in public.
 
 Theft from hotel rooms, particularly in private accommodations (“casas particulares”), and from cars, is common.
 
@@ -60,7 +97,7 @@ Theft from hotel rooms, particularly in private accommodations (“casas particu
 * Do not pack valuables in your checked luggage
 * Avoid showing signs of affluence
 * Keep electronic devices out of sight
-* Keep a digital and a hard copy of your identification and travel documents
+* Keep a digital and a hard copy of your identification and travel documents, as well as a hard copy of your emergency contacts
 * Never leave belongings unattended in a vehicle, even in the trunk
 
 #### Violent crime
@@ -75,9 +112,9 @@ Incidents of violent crime are not frequent, but assaults may occur. They mainly
 
 Incidents of sexual assault against Canadian women have occurred, including at beach resorts.
 
-If you’re a victim of a sexual assault, you should report it immediately to the nearest Government of Canada office. You should file a report with the Cuban authorities and ensure that local police provide you with proof of complaint (“comprobante de denuncia”) confirming that a report has been filed. A criminal investigation will not be possible if no formal complaint is made to Cuban authorities before you depart the country.
+If you’re a victim of a sexual assault, you should report it immediately to the nearest Government of Canada office. You should also file a report with the Cuban authorities and ensure that local police provide you with proof of complaint (“comprobante de denuncia”) confirming that a report has been filed. A criminal investigation will not be possible if no formal complaint is made to Cuban authorities before you depart the country.
 
-Police officers may only speak Spanish.
+Police officers may speak only Spanish.
 
 * Avoid secluded areas, even on resorts and hotel grounds
 * Exercise caution when dealing with strangers or recent acquaintances
@@ -123,18 +160,7 @@ Avoid travelling alone, especially at night. If you are the victim of harassment
 
 Never leave your food or drinks unattended or in the care of strangers. Avoid accepting snacks, beverages, gum or cigarettes from new acquaintances, as these items may contain drugs that could put you at risk of sexual assault and robbery.
 
-### Telecommunications
-
-The telecommunications network in Cuba is poor. Connections are unreliable and may be intermittent.
-
-Canadian cell phones may not work, even in large cities. Internet access is limited across the island.
-
-Local authorities control telecommunications. They may block access, including to social media, in case of civil unrest or before demonstrations.
-
-* Do not rely on your cell phone for emergencies, especially outside major cities
-* Subscribe to and install a VPN service before leaving Canada
-
-#### Online transactions
+### Online transactions
 
 Online banking may be challenging in Cuba. Most Cuban websites are unsecure. Many are inaccessible from outside of Cuba.
 
@@ -208,9 +234,7 @@ Driving may be dangerous due to:
 * lack of traffic signs
 * insufficient lighting
 * livestock and horse-drawn carts
-
 * pedestrians on the road
-
 * slow-moving traffic
 
 Many Cuban cars are old and in poor condition. They often lack standard safety equipment. Some cars and most bicycles don’t have functioning lights.
@@ -223,29 +247,7 @@ If you choose to drive in Cuba:
 
 * always drive defensively
 * avoid travelling after dark
-
 * never pick up hitchhikers, who have been known to assault drivers
-
-### Public transportation
-
-#### Buses
-
-Public buses are unreliable, scarce, overcrowded and poorly maintained.
-
-If you plan to travel by bus, use a private service offered by a tour company or resort.
-
-#### Taxis
-
-Old-model private vehicles offered as taxis are not equipped with standard safety features. They have no insurance coverage for passengers in case of an accident.
-
-* Use only officially marked taxis
-* Avoid hailing taxis on the street
-* Never share a taxi with strangers
-* Agree on a fare before departure, as taxis are not equipped with meters
-
-#### Trains
-
-The rail network is unreliable and slow.
 
 ### Air travel
 

@@ -1,7 +1,7 @@
 {
     "name": "Croatia",
-    "update_reason": "Safety and security section \u2013 removed information on landmines",
-    "update_date": "2026-05-22T13:45:00",
+    "update_reason": "Entry and exit requirements section \u2013 added information on possible measures in response to Ebola disease outbreak",
+    "update_date": "2026-05-26T12:50:00",
     "sections": {
         "risk": "canada/Croatia/risk.md",
         "security": "canada/Croatia/security.md",

@@ -16,18 +16,14 @@ The features in this map do not constitute an authoritative source of geographic
 
 The features in this map do not constitute an authoritative source of geographical information. This map is solely intended to assist Canadians by illustrating the risk levels contained in the Travel Advice and Advisories for this destination. The features in this map do not necessarily represent the views of the Canadian government on international boundaries, nomenclature or political status. The text under the Risk levels section takes precedence over this map.
 
-### Uganda - Exercise a high degree of caution
+### Uganda - AVOID NON-ESSENTIAL TRAVEL
 
-[Exercise a high degree of caution](#levels "Risk Levels") in Uganda due to the threat of terrorism and a high crime rate.
+[Avoid non-essential travel](#levels "Risk Levels") to Uganda due to the regional impact of the outbreak of Ebola disease as well as the threat of terrorism and high crime rates.
+
+The Public Health Agency of Canada has issued a [Travel Health Notice](https://travel.gc.ca/travelling/health-safety/travel-health-notices/550) due to the outbreak of Ebola disease
+
+.
 
 ### Border with South Sudan - Avoid all travel
 
 [Avoid all travel](#levels "Risk Levels") to areas within 50 km of the border with South Sudan due to banditry and cross-border attacks by rebel groups. This advisory excludes visits to national parks when accompanied by a reputable guide and using well-travelled roads.
-
-### Border with the Democratic Republic of Congo - Avoid non-essential travel
-
-[Avoid non-essential travel](#levels "Risk Levels") to areas within 50 km of the border with the Democratic Republic of Congo due to joint military operations. This advisory excludes visits to national parks when accompanied by a reputable guide and using well-travelled roads.
-
-### Karamoja Province - Avoid non-essential travel
-
-[Avoid non-essential travel](#levels "Risk Levels") to Karamoja Province due to inter-communal violence and banditry. This advisory excludes visits to national parks when accompanied by a reputable guide and using well-travelled roads.

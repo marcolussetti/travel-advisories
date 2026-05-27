@@ -5,34 +5,11 @@
 ### Relevant Travel Health Notices
 
 * [Measles: Advice for travellers](https://travel.gc.ca/travelling/health-safety/travel-health-notices/504)
+* [Ebola disease in Uganda](https://travel.gc.ca/travelling/health-safety/travel-health-notices/550)
 
 This section has information and advice about health risks you might face when travelling. Following this advice can help reduce your risk of getting sick. Not all risks are listed here.
 
 It's best to talk to a healthcare provider or visit a travel health clinic preferably 6 weeks before your trip to get personalized health advice. Even if your travel date is coming up soon, it's still worthwhile to make an appointment.
-
-### Outbreak Monitoring
-
-#### Ebola disease in Uganda
-
-On May 15, 2026, the Ugandan Ministry of Health confirmed an outbreak of Ebola disease linked to imported cases from the ongoing outbreak in the Democratic Republic of Congo (DRC). The cases were reported in Kampala, Uganda. Investigations are ongoing to determine the extent of the outbreak.  
-   
-Ebola disease is caused by a group of viruses that are spread through contact with the infected bodily fluids of people or animals experiencing symptoms of Ebola disease. The disease is serious and often fatal. The risk of getting the virus is low for most travellers if the proper precautions are followed.
-
-If you are travelling to Uganda, follow local health guidelines and take precautions to protect yourself.
-
-* Avoid contact with people who have symptoms of Ebola disease (fever, rash, muscle pain), and anything that could be contaminated with their bodily fluids.
-* Avoid contact with the bodies of people who have died of Ebola disease or an unknown illness during funerals and burials.
-* Avoid visiting healthcare facilities in the outbreak area for nonurgent medical care or for nonmedical reasons.
-* Avoid close contact with live and dead animals, as both can spread the virus.
-* Wash your hands regularly with soap and water for at least 20 seconds or use a hand sanitizer containing at least 60% alcohol for 20 seconds or until dry
-
-Monitor your health for symptoms while in the affected area and for 21 days after leaving. Isolate from others and seek medical care immediately if you develop symptoms of Ebola disease.
-
-**Learn more:**
-
-[Ebola disease](https://www.canada.ca/en/public-health/services/diseases/ebola.html)  
-[Ebola disease in the Democratic Republic of Congo](https://travel.gc.ca/travelling/health-safety/travel-health-notices/549)  
-[Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo & Uganda](https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON602)
 
 ### Routine vaccines
 
@@ -134,10 +111,7 @@ Malaria
 [Malaria](https://www.canada.ca/en/public-health/services/diseases/malaria.html) is a serious and sometimes fatal disease that is caused by parasites spread through the bites of mosquitoes.
 
 **Malaria is a risk to travellers to this destination.**  
-   
-[Antimalarial medication is recommended](https://www.canada.ca/en/public-health/services/catmat/appendix-1-malaria-risk-recommended-chemoprophylaxis-geographic-area.html) for most travellers to this destination and should be taken as recommended. Consult a health care professional or visit a travel health clinic before travelling to discuss your options. It is recommended to do this 6 weeks before travel, however, it is still a good idea any time before leaving.   
-   
-[Protect yourself from mosquito bites](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html) at all times:
+ 
 
 * Cover your skin and use an [approved](https://www.canada.ca/en/health-canada/services/about-pesticides/insect-repellents.html) insect repellent on uncovered skin.
 * Exclude mosquitoes from your living area with screening and/or closed, well-sealed doors and windows.

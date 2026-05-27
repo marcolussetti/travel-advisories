@@ -1,7 +1,7 @@
 {
     "name": "Bahamas",
-    "update_reason": "Health \u2013 Information about typhoid fever removed",
-    "update_date": "2026-05-04T14:00:00",
+    "update_reason": "Entry and exit requirements section \u2013 added information on possible measures in response to Ebola disease outbreak",
+    "update_date": "2026-05-26T12:50:00",
     "sections": {
         "risk": "canada/Bahamas/risk.md",
         "security": "canada/Bahamas/security.md",

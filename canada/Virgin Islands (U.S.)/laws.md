@@ -52,7 +52,7 @@ Traffic drives on the left, but nearly all the cars on the island have left-side
 
 A valid Canadian driver’s licence is required to drive in the U.S. Virgin Islands.
 
-You should carry an international driving permit.
+You should carry an International Driving Permit.
 
 [International Driving Permit](https://travel.gc.ca/travelling/documents/international-driving-permit)
 

@@ -1,7 +1,7 @@
 {
     "name": "Puerto Rico",
-    "update_reason": "Health \u2013 Information about typhoid fever removed",
-    "update_date": "2026-05-04T14:54:00",
+    "update_reason": "Entry and exit requirements section \u2013 added information on possible measures in response to Ebola disease outbreak",
+    "update_date": "2026-05-26T13:54:00",
     "sections": {
         "risk": "canada/Puerto Rico/risk.md",
         "security": "canada/Puerto Rico/security.md",

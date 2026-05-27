@@ -2,11 +2,13 @@
 
 ## Entry and exit requirements
 
-Every country or territory decides who can enter or exit through its borders. The Government of Canada can’t intervene on your behalf if you don’t meet your destination’s entry or exit requirements.
+Some countries have imposed measures in response to the [Ebola disease outbreak](https://travel.gc.ca/travelling/health-safety/travel-health-notices/549). These can include restrictions on entry and health screening measures for travellers having recently visited an affected country. If you are suspected of having symptoms, you may be subject to isolation, quarantine and/or travel restrictions. Contact the authorities of the country you are travelling to for more details.
 
-We have obtained the information on this page from the Montenegrin authorities. It can, however, change at any time.
+The authorities of a country or territory decide who can enter or exit through its borders. The Government of Canada cannot intervene on your behalf if you do not meet your destination’s entry or exit requirements.
 
-[Honorary Consulates of Montenegro in Canada](https://www.gov.me/en/diplomatic-missions/honorary-consuls-to-montenegro/canada)
+We have obtained the information on this page from local authorities. It can, however, change at any time.
+
+Verify this information with the [Foreign Representatives in Canada](https://www.international.gc.ca/protocol-protocole/reps.aspx?lang=eng).
 
 ### Passport
 
