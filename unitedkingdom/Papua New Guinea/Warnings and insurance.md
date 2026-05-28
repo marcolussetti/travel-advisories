@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   27 May 2026
+:   28 May 2026
 
 Updated:
-:   26 May 2026
+:   27 May 2026
 
 Latest update:
-:   Removal of information about Tropical Cyclone Maila (‘Warnings and Insurance’ page).
+:   New information about interruptions to the supply of water and electricity (‘Safety and security’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/68b1908211b4ded2da19fc61/FCDO__TA__063_-_Papua_New_Guinea_Ed2__WEB_.jpg)
 

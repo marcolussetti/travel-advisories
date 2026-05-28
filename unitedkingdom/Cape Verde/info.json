@@ -1,11 +1,11 @@
 {
     "name": "Cape Verde",
-    "update_reason": "Updated information on health risks you may face in Cape Verde (\u2018Warnings and insurance\u2019 and \u2018Health\u2019 pages).",
+    "update_reason": "Updated information about the traveller entry form and updated information about health risks you may face in Cape Verde ('Entry requirements' and 'Health' pages).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Cape Verde/Warnings and insurance.md",
-            "update_date": "2026-02-06T14:41:39+00:00"
+            "update_date": "2026-05-27T16:44:28+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Cape Verde/Getting help.md"
         }
     ],
-    "update_date": "2026-02-06T14:41:39+00:00"
+    "update_date": "2026-05-27T16:44:28+01:00"
 }

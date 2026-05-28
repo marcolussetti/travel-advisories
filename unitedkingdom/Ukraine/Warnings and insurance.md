@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   3 April 2026
+:   28 May 2026
 
 Updated:
-:   2 April 2026
+:   27 May 2026
 
 Latest update:
-:   Updated information about the Russian invasion of Ukraine and visa requirements ('Warnings and insurance' and 'Entry requirements' pages).
+:   Updated information on drone and missile strikes ('Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/663398524d8bb7378fb6c167/FCDO__TA__044_-_Ukraine_Travel_Advice_Ed12__WEB___1_.jpg)
 
@@ -58,7 +58,7 @@ FCDO advises against all but essential travel to the following regions in weste
 
 ## Russian invasion of Ukraine
 
-The Russian invasion of Ukraine is ongoing, with frequent missile and drone attacks across the country, which injure and kill civilians and cause significant damage to civilian infrastructure, including residential areas, energy, rail and industrial facilities. Russian Military activity against Ukraine has risen over the last year, with the total number of drone and missile strikes increasing. In March 2026, Russia launched the largest number of long-range drone attacks at Ukraine to date (6,462), while February 2026 saw the largest amount of missile attacks since the beginning of 2025 (306).
+The Russian invasion of Ukraine is ongoing, with frequent missile and drone attacks across the country, which injure and kill civilians and cause significant damage to civilian infrastructure, including residential areas, energy, rail and industrial facilities. Russian Military activity against Ukraine has risen over the last year, with the total number of drone and missile strikes increasing. In May 2026, Russia launched the largest number of long-range drone attacks at Ukraine to date (7,241), while their missile use increased to 196. March and April 2026 saw continually high drone and missile strikes with over 6,000 drones and 100 missiles launched in these months.
 
 British nationals are advised to exercise heightened awareness and be prepared to immediately shelter in the event an air alert is announced. Be extra vigilant whilst travelling in urban centres.
 

@@ -41,7 +41,7 @@ E-visas are:
 
 [Apply for an e-visa online](https://visa.visitsaudi.com/) or when you arrive at any of Saudi Arabia’s international airports.
 
-An e-visa includes health insurance for your visit – for more information contact the Ministry of Tourism.
+An e-visa includes health insurance for your visit up to 100,000 Saudi Arabian Riyals (SAR). Medical treatment in Saudi Arabia can be expensive, and you should consider taking out additional travel insurance to cover costs beyond 100,000 SAR.
 
 You must get a separate visa for Hajj. See [Pilgrimage](https://www.gov.uk/foreign-travel-advice/saudi-arabia/pilgrimage).
 

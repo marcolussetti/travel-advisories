@@ -1,11 +1,11 @@
 {
     "name": "Liberia",
-    "update_reason": "Updated information about applying for a visa, using cash in country and health risks (\u2018Entry requirements\u2019, \u2018Safety and security\u2019 and \u2018Health\u2019 pages).",
+    "update_reason": "Addition of information about heightened health screening measures for travellers arriving into Liberia (\u2018Entry requirements\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Liberia/Warnings and insurance.md",
-            "update_date": "2026-02-13T11:47:53+00:00"
+            "update_date": "2026-05-27T14:27:30+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Liberia/Getting help.md"
         }
     ],
-    "update_date": "2026-02-13T11:47:53+00:00"
+    "update_date": "2026-05-27T14:27:30+01:00"
 }

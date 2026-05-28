@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   14 February 2026
+:   28 May 2026
 
 Updated:
-:   13 February 2026
+:   27 May 2026
 
 Latest update:
-:   Updated information about applying for a visa, using cash in country and health risks (‘Entry requirements’, ‘Safety and security’ and ‘Health’ pages).
+:   Addition of information about heightened health screening measures for travellers arriving into Liberia (‘Entry requirements’ page).
 
 ## Before you travel
 

@@ -26,6 +26,12 @@ See [what health risks you’ll face on Cape Verde](https://travelhealthpro.org.
 * salmonella
 * dengue
 
+If you have an underlying health condition, speak to a healthcare professional before travelling.
+
+UK Health Security Agency has investigated an increase in cases of Shigella sonnei and Salmonella in travellers returning from Cape Verde. Reported cases have decreased, but there is still a risk of gastrointestinal illness as in other countries.
+
+You can reduce your risk by practising good hand hygiene and following food and water precautions. Read more about [food and water hygiene on TravelHealthPro](https://travelhealthpro.org.uk/factsheet/44/food-and-water-hygiene).
+
 The Cape Verde government has raised the civil protection warning level for dengue on the islands of Santiago, Fogo and Brava.
 
 Altitude sickness is a risk on the island of Fogo in Cape Verde. Read more about [altitude sickness on TravelHealthPro](https://travelhealthpro.org.uk/factsheet/26/altitude-illness).

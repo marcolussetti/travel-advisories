@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   24 May 2026
+:   28 May 2026
 
 Updated:
-:   23 May 2026
+:   27 May 2026
 
 Latest update:
-:   Updated information advising against all but essential travel to Upemba National Park (Warnings and Insurance page)
+:   New information about multiple drone attacks in the area of Kisangani airport (‘Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/6a11a89f1eb143220d8d2810/FCDO_TA_012_-_Democratic_Repbulic_of_the_Congo_Travel_Advice_Ed19_WEB.jpg)
 
@@ -63,6 +63,10 @@ The border crossings between Rwanda and the DRC at Gisenyi-Goma and Ruzizi-Bukav
 Goma and Bukavu airports have been attacked and commercial flights are no longer operating from the airports.
 
 Support from the UK government is severely limited outside Kinshasa. You should not assume that FCDO will be able to provide assistance to leave the country in the event of serious unrest or crisis.
+
+### Tshopo Province
+
+On 23 May, there were multiple drone attacks in the area of Kisangani airport. These incidents have led to disruption to flights. The security situation remains unpredictable, and further disruption is possible.
 
 ## Help and support in DRC
 

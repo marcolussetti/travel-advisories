@@ -8,6 +8,10 @@ Telephone: 911 (ambulance, fire, police)
 
 If you do not have a Saudi SIM card, call 112 in an emergency.
 
+### Reporting an incident in Saudi Arabia from the UK or another country
+
+Contact the Saudi Embassy in London or the Saudi Embassy in the country you are located.
+
 ## Contact your travel provider and insurer
 
 Contact your travel provider and your insurer if you’re involved in a serious incident or emergency abroad. They will tell you if they can help and what you need to do.

@@ -24,13 +24,15 @@ To stay longer or to travel for other reasons, you must [meet the Cape Verde gov
 
 ## Traveller entry form
 
-You must fill in a [traveller entry form](https://www.ease.gov.cv/) at least 5 days before you arrive in the country. This form includes an airport security fee (‘TSA’), which you must pay before you arrive.
+You must fill in a [traveller entry form](https://www.ease.gov.cv/) at least 5 days before you arrive in the country. Complete the pre-registration and pay the airport security fee (‘TSA’) on the official online platform. Bring proof of confirmation to show when you arrive.
 
-If you’re travelling with a tour operator, check whether they can complete the form for you as part of the booking process.
+From 1 July 2026, if you do not complete the pre-registration or cannot show proof, you will have to pay double the TSA fee at border control.
 
-See [more information on the traveller entry form](https://portalconsular.mnec.gov.cv/en/perguntas-frequentes).
+If you’re travelling with a tour operator, check if they can do this for you.
 
-Children aged one and under do not need to fill in the traveller entry form.
+See [more information on the traveller entry form](https://portalconsular.mnec.gov.cv/en/perguntas-frequentes).
+
+Children aged one and under do not need to have a completed form and are exempt from the TSA fee.
 
 ## Travelling with children
 

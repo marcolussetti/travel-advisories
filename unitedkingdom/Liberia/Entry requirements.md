@@ -36,6 +36,12 @@ As part of the visa application process, you need to provide a certificate to pr
 
 For more details about medical entry requirements and recommended vaccinations, including yellow fever, see [TravelHealthPro’s Liberia guide](https://travelhealthpro.org.uk/country/128/liberia#Vaccine_Recommendations).
 
+## Ebola Screening
+
+On 25 May, the Liberia Ministry of Health and National Public Health Institute issued a [Travel Advisory note](https://nphil.gov.lr/guidelines/travel-awareness/) announcing heighted health screening measures for travellers arriving into Liberia, due to outbreaks of Ebola in Uganda and the Democratic Republic of Congo.
+
+The World Health Organisation (WHO) have [declared this a Public Health Emergency of International Concern](https://www.who.int/news/item/17-05-2026-epidemic-of-ebola-disease-in-the-democratic-republic-of-the-congo-and-uganda-determined-a-public-health-emergency-of-international-concern).
+
 ## Customs rules
 
 There are strict rules about goods you can take into or out of Liberia. You must declare anything that may be prohibited or subject to tax or duty.

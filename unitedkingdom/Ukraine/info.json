@@ -1,11 +1,11 @@
 {
     "name": "Ukraine",
-    "update_reason": "Updated information about the Russian invasion of Ukraine and visa requirements ('Warnings and insurance' and 'Entry requirements' pages).",
+    "update_reason": "Updated information on drone and missile strikes ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Ukraine/Warnings and insurance.md",
-            "update_date": "2026-04-02T12:09:56+01:00"
+            "update_date": "2026-05-27T16:46:51+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Ukraine/Getting help.md"
         }
     ],
-    "update_date": "2026-04-02T12:09:56+01:00"
+    "update_date": "2026-05-27T16:46:51+01:00"
 }

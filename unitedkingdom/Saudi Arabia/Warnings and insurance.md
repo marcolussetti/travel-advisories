@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   18 April 2026
+:   28 May 2026
 
 Updated:
-:   17 April 2026
+:   27 May 2026
 
 Latest update:
-:   Update to information regarding regional escalation (‘Warnings and insurance’ page).
+:   Updated information about e-visas, which includes health insurance for your visit ('Entry requirements' page).
 
 ![](https://assets.publishing.service.gov.uk/media/69a8bbce5fc94cfb71958fb9/FCDO__TA__034_-_Saudi_Arabia_Travel_Advice_Ed7__WEB_.jpg)
 
