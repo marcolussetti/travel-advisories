@@ -2,35 +2,19 @@
 
 ## Safety and security
 
-### Border areas
+### Borders
 
 The Government of Canada’s ability to provide consular services in areas along the international borders with Azerbaijan is extremely limited.
 
-#### Azerbaijan
+#### Border areas with Azerbaijan
 
-The security environment remains highly volatile at the eastern border between Armenia and Azerbaijan.
+The security environment remains uncertain along the eastern border Azerbaijan.
 
-There have been periodic outbreaks of violence in these areas for several decades and, while there have been no major incidents since Azerbaijan’s military operations in September 2023, tensions remain heightened. As part of the ongoing tensions between Azerbaijan and Armenia, there are also occasional ceasefire violations and clashes on the Nakhchivan border.
+While there have been no major incidents since September 2023, tensions remain high. Alleged ceasefire violations and accidents involving buried landmines have occurred. Security forces are deployed in the region, and access to the area is strictly controlled. Although the two countries have reached a peace agreement in principle, the process is ongoing and they are presently engaged in fully demarcating the border.
 
 All border crossings into Azerbaijan are closed and the border is heavily militarized.
 
-Armed clashes occur occasionally at multiple points along the international border, including near the following Armenian cities:
-
-* Sotk
-* Tegh
-* Goris
-* Jermuk
-* Kapan
-
-Border areas with Azerbaijan are subject to extremely dangerous military activities, such as:
-
-* mortar and artillery shelling
-* rocket fire
-* drone attacks
-* heavy gunfire
-* landmines
-
-If you choose to travel near the border with Azerbaijan despite this advisory:
+If you decide to travel near the eastern border with Azerbaijan despite the advisory in effect:
 
 * exercise caution at all times
 * avoid travelling at night

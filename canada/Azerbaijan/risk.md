@@ -18,11 +18,11 @@ The features in this map do not constitute an authoritative source of geographic
 
 ### Azerbaijan - Exercise a high degree of caution
 
-[Exercise a high degree of caution](#levels "Risk Levels") in Azerbaijan due to regular tensions in areas along the border between Azerbaijan and Armenia.
+[Exercise a high degree of caution](#levels "Risk Levels") in Azerbaijan due to the threat of terrorism.
 
 ### Districts in the western part of Azerbaijan - Avoid all travel
 
-[Avoid all travel](#levels "Risk Levels") to the following districts due to the presence of unexploded ordnance and the unpredictable security situation:
+[Avoid all travel](#levels "Risk Levels") to the following districts due to the presence of unexploded ordnance:
 
 * Aghdam
 * Fuzuli
@@ -42,9 +42,6 @@ The Government of Canada’s ability to provide emergency in-person consular ser
 
 ### Border with Armenia - Avoid all travel
 
-[Avoid all travel](#levels "Risk Levels") to within 5 km of the border with Armenia due to the volatile security environment and the risk of armed conflict.
+[Avoid all travel](#levels "Risk Levels") to the area within 1 km of the border with Armenia, which is closed, due to the uncertain security environment.
 
-
-
-
-This advisory excludes the area within 1 km of the border between Armenia and the Azerbaijani Autonomous Republic of Nakhchivan where you should avoid non-essential travel due to the risk of armed clashes.
+This advisory excludes the border between Armenia and the Azerbaijani Autonomous Republic of Nakhchivan, where you should exercise a high degree of caution.

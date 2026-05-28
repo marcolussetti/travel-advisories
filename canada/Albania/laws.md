@@ -80,7 +80,7 @@ However, 2SLGBTQI+ persons could be discriminated against based on their sexual 
 
 You must carry an international driving permit.
 
-The legal alcohol limit is 0.05 percent.
+The legal alcohol limit is 0.01 percent.
 
 Police have taken drastic measures to decrease the number of accidents. They strictly enforced:
 

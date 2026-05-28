@@ -118,7 +118,7 @@ Be aware that Canadian consular officials cannot interfere in private legal matt
 
 ### Money
 
-The currency is the Armenian dram (AMD).
+The currency of Armenia is the Armenian dram (AMD).
 
 Some ATMs may not accept foreign bank cards. You can make withdrawals at bank counters using your passport as identification. Most banks do not accept traveler's cheques and treasury bills.
 

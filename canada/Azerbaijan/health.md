@@ -253,6 +253,18 @@ Make sure you get travel insurance that includes coverage for medical evacuation
 
 [Health and safety outside Canada](https://travel.gc.ca/travelling/health-safety)
 
+### Medication
+
+Some prescription medications may not be available in Azerbaijan.
+
+If you take prescription medications, you’re responsible for determining their legality in Azerbaijan.
+
+* Bring enough medication for your stay
+* Always keep your medication in the original container and carry a copy of your prescriptions
+* Pack your medication in your carry-on luggage
+
+[Travelling with medication](https://travel.gc.ca/travelling/health-safety/medication?_ga=2.191785258.1604296173.1718630005-1405742948.1680118138)
+
 ### Keep in Mind...
 
 The decision to travel is the sole responsibility of the traveller. The traveller is also responsible for his or her own personal safety.
