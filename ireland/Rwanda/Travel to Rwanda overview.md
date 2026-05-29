@@ -6,6 +6,12 @@ High Degree of Caution
 
 ### **Travel Alert**
 
+#### **Ebola Outbreak**
+
+Humanitarian Aid Workers travelling to Rwanda are urged to [register](https://www.hpsc.ie/a-z/vectorborne/viralhaemorrhagicfever/guidance/vhfguidanceappendices/vhfguidanceforhumanitarianaidworkers/) with HSE HPSC in advance of their deployment.
+
+#### **Regional Tension**
+
 Irish Citizens are advised against all but essential travel to Rubavu District. This includes the town of Gisenyi and the border crossing point at Gisenyi-Goma. Irish Citizens are advised against all but essential travel to Rusizi District.
 
 Risks associated with increased fighting in Democratic Republic of Congo (DRC) may affect people on the Rwandan side of the border, due to the closeness of the fighting. On 27 January, there were reports of gunfire and artillery fire in Gisenyi.

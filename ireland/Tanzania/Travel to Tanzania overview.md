@@ -6,6 +6,20 @@ High Degree of Caution
 
 ### **Travel Alert**
 
+#### **Ebola Outbreak**
+
+Humanitarian Aid Workers travelling to Tanzania are urged to [**register**](https://www.hpsc.ie/a-z/vectorborne/viralhaemorrhagicfever/guidance/vhfguidanceappendices/vhfguidanceforhumanitarianaidworkers/) with HSE HPSC in advance of their deployment.
+
+#### **Temperature checks on arrival**
+
+On 18 May 2026, the Tanzania Ministry of Health announced that all travellers entering Tanzania will receive a temperature check on arrival.
+
+Additional health screening measures are in place for travellers arriving into Tanzania from Uganda and the Democratic Republic of Congo.
+
+These measures are in response to the outbreak of the Ebola Bundibugyo virus in these countries. The World Health Organisation (WHO) has declared this a Public Health Emergency of International Concern.
+
+#### **Conflict in the Middle East**
+
 Due to the evolving situation in the Middle East, significant flight disruptions are currently being experienced. Several international airlines have suspended or cancelled their flights.
 
 Irish Citizens should anticipate delays, possible rerouting of flights and cancellations.
@@ -40,14 +54,6 @@ Visitors to Tanzania are advised to follow the guidance of national and local au
 The EU has included all Tanzanian air carriers on the EU Air Safety List, which means Tanzanian air carriers are currently not authorised to fly within European airspace. To check the full list of air carriers included on the EU Air Safety List please visit [**here**](https://transport.ec.europa.eu/transport-themes/eu-air-safety-list_en)
 
 Citizens can also follow the Embassy on X @[**IrlEmbTanzania**](https://twitter.com/IrlEmbTanzania) and to ensure access to relevant updates and alerts.
-
-### **Temperature checks on arrival**
-
-On 18 May 2026, the Tanzania Ministry of Health announced that all travellers entering Tanzania will receive a temperature check on arrival.
-
-Additional health screening measures are in place for travellers arriving into Tanzania from Uganda and the Democratic Republic of Congo.
-
-These measures are in response to the outbreak of the Ebola Bundibugyo virus in these countries. The World Health Organisation (WHO) has declared this a Public Health Emergency of International Concern.
 
 ### **Emergency Assistance**
 

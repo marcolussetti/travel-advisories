@@ -6,9 +6,13 @@ High Degree of Caution
 
 ### **Travel Alert**
 
+#### **Ebola Outbreak**
+
 On 17 May, the World Health Organisation (WHO) declared the outbreak of the Bundibugyo strain of Ebola in the Democratic Republic of Congo and Uganda a [**Public Health Emergency of International Concern**](https://www.who.int/news/item/17-05-2026-epidemic-of-ebola-disease-in-the-democratic-republic-of-the-congo-and-uganda-determined-a-public-health-emergency-of-international-concern).
 
 The Uganda Ministry of Health has now introduced mandatory health declaration requirement for all travellers entering and exiting Uganda. All passengers are required to complete the online declaration form prior to travel: [**Traveller Health Declaration — UPHDS**](https://poes.health.go.ug/declare/).
+
+Humanitarian Aid Workers travelling to Uganda are urged to [register](https://www.hpsc.ie/a-z/vectorborne/viralhaemorrhagicfever/guidance/vhfguidanceappendices/vhfguidanceforhumanitarianaidworkers/) with HSE HPSC in advance of their deployment.
 
 [**Ebola**](https://www.who.int/news-room/fact-sheets/detail/ebola-disease) is spread by contact with: the blood or body fluids of a person who is infected with or has died from Ebola; objects or surfaces contaminated with body fluids from an infected person; or by contact with infected animals. Symptoms include fever, headache, muscle pain, weakness, diarrhoea, vomiting, stomach pain, and unexplained bleeding or bruising (a late stage of illness).
 

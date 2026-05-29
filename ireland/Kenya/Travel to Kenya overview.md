@@ -6,6 +6,10 @@ High Degree of Caution
 
 ### **Travel Alert**
 
+#### **Ebola Outbreak**
+
+Humanitarian Aid Workers travelling to Kenya are urged to [**register**](https://www.hpsc.ie/a-z/vectorborne/viralhaemorrhagicfever/guidance/vhfguidanceappendices/vhfguidanceforhumanitarianaidworkers/) with HSE HPSC in advance of their deployment.
+
 #### **Conflict in the Middle East**
 
 Due to continued regional disruption to air travel, any Irish citizens planning to travel to or via the Gulf or Middle Eastern airport should contact with their airline or travel agent.

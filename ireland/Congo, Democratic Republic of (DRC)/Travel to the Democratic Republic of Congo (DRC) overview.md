@@ -6,9 +6,11 @@ Do Not Travel
 
 ### **Travel Alert**
 
-### **Ebola**
+### **Ebola Outbreak**
 
 On 15 May 2026 the DRC Ministry of Health announced an outbreak of the Ebola Bundibugyo virus in the North-Eastern Ituri Province. The World Health Organisation (WHO) have declared this a Public Health Emergency of International Concern – see Health tab.
+
+Humanitarian Aid Workers travelling to the Democratic Republic of Congo are urged to [register](https://www.hpsc.ie/a-z/vectorborne/viralhaemorrhagicfever/guidance/vhfguidanceappendices/vhfguidanceforhumanitarianaidworkers/) with HSE HPSC in advance of their deployment.
 
 Irish citizens are advised against all travel to Ituri Province.
 

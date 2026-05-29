@@ -6,7 +6,11 @@ High Degree of Caution
 
 ### **Travel Alert**
 
-This page contains advice relating to travel to the Republic of Congo (also known as Congo-Brazzaville). Information regarding travel to the Democratic Republic of Congo can be found on our [**DRC travel page**](https://www.ireland.ie/en/dfa/overseas-travel/advice/democratic-republic-of-congo/). Irish citizens are advised to exercise a high degree of caution in respect of their personal safety while in the Republic of Congo. Irish citizens are also advised to follow developments in the region in respect of m-pox and to consult advice available such as on the [**HSE website**](https://www2.hse.ie/conditions/mpox/).
+#### **Ebola Outbreak**
+
+Humanitarian Aid Workers travelling to Republic of Congo are urged to [**register**](https://www.hpsc.ie/a-z/vectorborne/viralhaemorrhagicfever/guidance/vhfguidanceappendices/vhfguidanceforhumanitarianaidworkers/) with HSE HPSC in advance of their deployment.
+
+#### **Regional Advisories**
 
 The Department of Foreign Affairs and Trade advises against all travel to the area within 50km of the border with Central African Republic. Irish citizens are advised to avoid non-essential travel to the Pool Department in the South-East of the country, except for the city of Brazzaville.
 
@@ -15,6 +19,10 @@ Citizens in the country are advised to be vigilant, keep up to date with local d
 **Citizens in need of consular assistance should contact the Department of Foreign Affairs and Trade.**
 
 ### **General Travel Advice**
+
+This page contains advice relating to travel to the Republic of Congo (also known as Congo-Brazzaville). Information regarding travel to the Democratic Republic of Congo can be found on our [**DRC travel page**](https://www.ireland.ie/en/dfa/overseas-travel/advice/democratic-republic-of-congo/).
+
+Irish citizens are advised to exercise a high degree of caution in respect of their personal safety while in the Republic of Congo.
 
 Irish citizens require a visa to enter the Republic of Congo. For information on how to apply for a visa, please contact the [**Embassy of the Republic of Congo in London**](https://www.embassyofcongo.co.uk/).
 

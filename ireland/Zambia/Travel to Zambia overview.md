@@ -6,6 +6,10 @@ High Degree of Caution
 
 ### **Travel Alert**
 
+#### **Ebola Outbreak**
+
+Humanitarian Aid Workers travelling to Zambia are urged to [**register**](https://www.hpsc.ie/a-z/vectorborne/viralhaemorrhagicfever/guidance/vhfguidanceappendices/vhfguidanceforhumanitarianaidworkers/) with HSE HPSC in advance of their deployment.
+
 #### **Ongoing Travel Disruptions**
 
 Due to the evolving situation in the Middle East, significant flight disruptions are currently being experienced. Several international airlines have suspended or cancelled their flights.

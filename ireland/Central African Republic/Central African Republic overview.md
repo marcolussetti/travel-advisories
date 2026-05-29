@@ -6,6 +6,12 @@ Do Not Travel
 
 ### **Travel Alert**
 
+#### **Ebola Outbreak**
+
+Humanitarian Aid Workers travelling to Central African Republic are urged to [**register**](https://www.hpsc.ie/a-z/vectorborne/viralhaemorrhagicfever/guidance/vhfguidanceappendices/vhfguidanceforhumanitarianaidworkers/) with HSE HPSC in advance of their deployment.
+
+#### **Security and Health**
+
 The security situation in the Central African Republic is fluid. It can deteriorate significantly within a short period of time. Citizens of Ireland who consider it absolutely essential to remain in the country should be constantly vigilant and limit their non-essential movement within the Central African Republic. Armed militia may establish road blocks and detain persons. Adequate and continuous professional security arrangements are advised and should be regularly reviewed.
 
 Citizens of Ireland are also advised to follow developments in the region in respect of Mpox and to consult advice available such as on the [**HSE website**](https://www2.hse.ie/conditions/mpox/).

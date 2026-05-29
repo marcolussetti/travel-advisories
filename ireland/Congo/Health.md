@@ -13,3 +13,7 @@ Evidence of vaccination (in the form of a certificate) can be a requirement for 
 ### **Medication**
 
 Make sure to bring enough medication for the entire trip and for any unexpected delays. Also bring copies of your prescription in case your medication is lost.
+
+### Mpox
+
+Irish citizens are also advised to follow developments in the region in respect of m-pox and to consult advice available such as on the [**HSE website**](https://www2.hse.ie/conditions/mpox/).

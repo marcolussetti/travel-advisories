@@ -4,6 +4,12 @@
 
 Do Not Travel
 
+### **Travel Alert**
+
+#### **Ebola Outbreak**
+
+Humanitarian Aid Workers travelling to Burundi are urged to [**register**](https://www.hpsc.ie/a-z/vectorborne/viralhaemorrhagicfever/guidance/vhfguidanceappendices/vhfguidanceforhumanitarianaidworkers/) with HSE HPSC in advance of their deployment.
+
 ### **General Travel Advice**
 
 Irish citizens require a visa to enter Burundi. Visas (business or tourist) can be obtained on arrival at Bujumbura Airport, and any land or maritime entry points. A month-long visa costs $90 and a 3 day-long visa costs $40. For further information on visas, contact the Burundi Embassy in London or the Burundian Embassy in Kigali (+250 252 575512) if you are travelling from Rwanda.
