@@ -241,7 +241,7 @@ Official and unofficial taxis operate in Kuwait, but it’s difficult to differe
 
 Pirate attacks and armed robberies against ships occur in coastal waters. Travellers should take appropriate precautions.
 
-[Live piracy report](https://icc-ccs.org/index.php/piracy-reporting-centre) - International Maritime Bureau
+[Live piracy map](https://icc-ccs.org/map/) – International Maritime Bureau Piracy Reporting Centre
 
 ### Air travel
 

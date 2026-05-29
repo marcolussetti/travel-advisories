@@ -286,7 +286,7 @@ Acts of piracy by organized criminal groups are frequent in the Gulf of Guinea. 
 
 There is also a risk of piracy on the waters around the ferry crossing between Limbe or Tiko, Cameroon, and Calabar, Nigeria.
 
-[Live Piracy Report](http://www.icc-ccs.org/piracy-reporting-centre/live-piracy-report) - International Maritime Bureau’s Piracy Reporting Centre
+[Live piracy map](https://icc-ccs.org/map/) – International Maritime Bureau Piracy Reporting Centre
 
 ### Air travel
 

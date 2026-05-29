@@ -102,7 +102,7 @@ Boat accidents occur. Don't board vessels that appear overloaded or unseaworthy.
 
 Pirate attacks and armed robberies occur against ships around Malaysia, particularly in the Strait of Malacca and in the waters between Sabah and the southern Philippines. Mariners should take appropriate precautions.
 
-[Live piracy report](https://icc-ccs.org/index.php/piracy-reporting-centre) – International Maritime Bureau
+[Live piracy map](https://icc-ccs.org/map/) – International Maritime Bureau Piracy Reporting Centre
 
 ### Air travel
 

@@ -177,7 +177,7 @@ Taxis are available in Asmara.
 
 Pirate attacks and armed robberies against ships occur in coastal waters and, in some cases, farther out at sea. Travellers should take appropriate precautions.
 
-[Live piracy report](https://icc-ccs.org/index.php/piracy-reporting-centre) - International Maritime Bureau’s Piracy Reporting Centre
+[Live piracy map](https://icc-ccs.org/map/) – International Maritime Bureau Piracy Reporting Centre
 
 ### Air travel
 

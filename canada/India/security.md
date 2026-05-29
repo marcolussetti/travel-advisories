@@ -230,7 +230,7 @@ Maritime accidents occur regularly due to the overloading and poor maintenance o
 
 Pirate attacks and armed robbery against ships occur in coastal waters. Mariners should take appropriate precautions.
 
-[Live piracy report](https://icc-ccs.org/index.php/piracy-reporting-centre) - International Maritime Bureau
+[Live piracy map](https://icc-ccs.org/map/) – International Maritime Bureau Piracy Reporting Centre
 
 ### Water activities
 

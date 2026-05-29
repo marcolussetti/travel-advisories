@@ -128,7 +128,7 @@ Comorian law prohibits sexual acts between individuals of the same sex. Those co
 
 Pirate attacks and armed robbery against ships occur in coastal waters and, in some cases, farther out at sea. Mariners should take appropriate precautions.
 
-[Live Piracy Report](https://icc-ccs.org/piracy-reporting-centre/live-piracy-report) - International Maritime Bureau's Piracy Reporting Centre
+[Live piracy map](https://icc-ccs.org/map/) – International Maritime Bureau Piracy Reporting Centre
 
 ### Air travel
 
