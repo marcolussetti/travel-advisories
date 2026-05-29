@@ -45,12 +45,8 @@ Medical treatment is of a good standard but can be expensive. Emergency medical 
 
 Read [FCDO guidance on travel and mental health](https://www.gov.uk/guidance/mental-health-and-wellbeing-abroad). There is also [mental health guidance on TravelHealthPro](https://travelhealthpro.org.uk/factsheet/85/travelling-with-mental-health-conditions).
 
-[Previous
-:
-Safety and security](/foreign-travel-advice/bahamas/safety-and-security)
+[Previous:Safety and security](/foreign-travel-advice/bahamas/safety-and-security)
 
-[Next
-:
-Getting help](/foreign-travel-advice/bahamas/getting-help)
+[Next:Getting help](/foreign-travel-advice/bahamas/getting-help)
 
 [View a printable version of the whole guide](/foreign-travel-advice/bahamas/print)

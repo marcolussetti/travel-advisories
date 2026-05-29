@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   11 December 2025
+:   29 May 2026
 
 Updated:
-:   10 December 2025
+:   28 May 2026
 
 Latest update:
-:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
+:   Addition of information about a declaration of an Ebola outbreak in DRC on 15 May (‘Health page’).
 
 ![](https://assets.publishing.service.gov.uk/media/664616ceb7249a4c6e9d3673/FCDO__TA__009_-_Central_African_Republic_Travel_Advice_Ed3__WEB_.jpg)
 
@@ -46,8 +46,6 @@ Follow FCDO:
 * [travel advice on Facebook](https://www.facebook.com/FCDOTravel/)
 * [Travel Aware on Instagram](https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Ftravelaware%2F&is_from_rle)
 
-[Next
-:
-Entry requirements](/foreign-travel-advice/central-african-republic/entry-requirements)
+[Next:Entry requirements](/foreign-travel-advice/central-african-republic/entry-requirements)
 
 [View a printable version of the whole guide](/foreign-travel-advice/central-african-republic/print)

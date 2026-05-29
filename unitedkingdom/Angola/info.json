@@ -1,11 +1,11 @@
 {
     "name": "Angola",
-    "update_reason": "New information about dual nationals returning to the UK (\u2018Entry requirements\u2019 page).",
+    "update_reason": "Addition of information about a declaration of an Ebola outbreak in DRC on 15 May and updated information about road travel ('Safety and security' and 'Health' pages).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Angola/Warnings and insurance.md",
-            "update_date": "2025-12-10T12:47:53+00:00"
+            "update_date": "2026-05-28T11:50:56+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Angola/Getting help.md"
         }
     ],
-    "update_date": "2025-12-10T12:47:53+00:00"
+    "update_date": "2026-05-28T11:50:56+01:00"
 }

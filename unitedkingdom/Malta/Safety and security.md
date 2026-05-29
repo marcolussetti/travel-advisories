@@ -88,6 +88,8 @@ See:
 
 ### Road travel
 
+From 31 May to 2 June there is likely to be disruption on the roads, following the general election. Stay alert, plan your travel carefully and allow extra time for journeys.
+
 If you are planning to drive in Malta, see [information on driving abroad](https://www.gov.uk/driving-abroad) and check the [rules of the road in the RAC’s Malta guide](https://www.rac.co.uk/drive/travel/country/malta). The guide lists driving regulations and other legal requirements you need to be aware of.
 
 You can use a UK photocard driving licence to drive in Malta. If you still have a paper driving licence, you may need to [update it to a photocard licence](https://www.gov.uk/exchange-paper-driving-licence) or get the [correct version of the international driving permit (IDP)](https://www.gov.uk/driving-abroad/international-driving-permit) as well.

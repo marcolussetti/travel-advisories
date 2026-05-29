@@ -83,7 +83,7 @@ If you’re caught buying or trafficking goods made of ivory it’s likely you�
 
 ### Road travel
 
-If you are planning to drive in Angola, see [information on driving abroad](https://www.gov.uk/driving-abroad). To reduce the risk of breakdowns or accidents, use off-road vehicles for longer journeys. Outside major towns, foreign visitors usually travel in convoys of at least 2 vehicles for safety and in case of breakdowns.
+If you are planning to drive in Angola, see [information on driving abroad](https://www.gov.uk/driving-abroad). Road conditions vary significantly, particularly outside major urban centres, where infrastructure may be poor and emergency response capacity limited. For longer journeys, the use of a roadworthy 4-wheel drive vehicle may be appropriate due to terrain and road conditions. Travellers should use well-maintained vehicles from reputable providers. Outside major urban centres, foreign visitors usually travel in convoys of at least 2 vehicles for safety and in case of breakdowns. Where possible, avoid travelling at night due to poor road conditions, limited street lighting, and reduced access to timely assistance in an emergency.
 
 Although you can drive on a UK photocard licence for up to 30 days, it is helpful to get the [1949 version of the international driving permit (IDP)](https://www.gov.uk/driving-abroad/international-driving-permit) as well. Make sure you have your driving licence, IDP, and ownership and insurance documents in the car. You will need to show them at the frequent police checkpoints.
 
@@ -97,9 +97,7 @@ There have been incidents where mines have exploded with loss of life in places 
 
 ### Taxis and minibuses
 
-Book airport taxis in advance using your hotel or travel operator. In most cases your sponsor will arrange to meet you at the airport and to provide transport throughout your trip.
-
-For taxi travel in Angola, always use pre-booked taxis. You can book using apps, including ‘Yango’ and ‘Heetch’. Check the driver’s identity details match before getting in. Local minibus transport is unsafe.
+Taxi apps are widely used in Angola. Whilst companies have made efforts to enhance passenger and driver safety these measures can vary. This can result in inconsistent safety and security standards, variable vehicle condition, and limited traceability in the event of an incident. We recommend against using taxi apps where possible. Passengers who choose to do so should always exercise caution and heightened situational awareness. Before entering a vehicle, check the driver’s identity and vehicle details match those provided in the app, share the details with a trusted contact, and avoid sharing rides with unknown individuals. Local minibus and coach transport is considered unsafe and should be avoided.
 
 ### Air travel
 
@@ -113,12 +111,8 @@ Find out what you can do to [prepare for and respond to extreme weather and natu
 
 During the rainy season from November to April, there are storms and heavy downpours. This can cause sudden, serious flooding in and around cities, including Luanda. Flooding can damage roads, buildings and bridges. Stay indoors during storms.
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/angola/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/angola/entry-requirements)
 
-[Next
-:
-Regional risks](/foreign-travel-advice/angola/regional-risks)
+[Next:Regional risks](/foreign-travel-advice/angola/regional-risks)
 
 [View a printable version of the whole guide](/foreign-travel-advice/angola/print)

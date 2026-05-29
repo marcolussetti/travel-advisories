@@ -136,12 +136,8 @@ During the rainy season from May to November, roads outside of Bangui can become
 
 Earthquakes are a risk in the Central African Republic. The US Federal Emergency Management Agency website has advice about [what to do before, during and after an earthquake](https://www.ready.gov/earthquakes).
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/central-african-republic/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/central-african-republic/entry-requirements)
 
-[Next
-:
-Health](/foreign-travel-advice/central-african-republic/health)
+[Next:Health](/foreign-travel-advice/central-african-republic/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/central-african-republic/print)

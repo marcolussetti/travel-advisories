@@ -52,12 +52,8 @@ You can take out up to 50,000 kwanzas in cash in addition to the foreign currenc
 
 Officials at the airport may search you to make sure you’re not leaving the country with more than the allowed amount.
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/angola)
+[Previous:Warnings and insurance](/foreign-travel-advice/angola)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/angola/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/angola/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/angola/print)

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   11 April 2026
+:   29 May 2026
 
 Updated:
-:   10 April 2026
+:   28 May 2026
 
 Latest update:
-:   Updated information on European Entry-Exit System (EES) (‘Entry requirements’ page).
+:   Addition of information about disruption to road travel ('Safety and security' page).
 
 ## Before you travel
 

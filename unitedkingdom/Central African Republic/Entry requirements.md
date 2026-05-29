@@ -36,12 +36,8 @@ There are strict rules about [goods you can take into or out of the Central Afri
 
 There is an export tax on cultural artefacts.
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/central-african-republic)
+[Previous:Warnings and insurance](/foreign-travel-advice/central-african-republic)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/central-african-republic/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/central-african-republic/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/central-african-republic/print)

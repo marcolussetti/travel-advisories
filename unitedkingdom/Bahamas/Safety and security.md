@@ -94,12 +94,8 @@ Follow local weather updates and monitor approaching storms on the [US Nationa
 
 Find out more about [how to respond to hurricane warnings](https://www.gov.uk/guidance/tropical-cyclones).
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/bahamas/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/bahamas/entry-requirements)
 
-[Next
-:
-Health](/foreign-travel-advice/bahamas/health)
+[Next:Health](/foreign-travel-advice/bahamas/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/bahamas/print)

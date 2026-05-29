@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   11 December 2025
+:   29 May 2026
 
 Updated:
-:   10 December 2025
+:   28 May 2026
 
 Latest update:
-:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
+:   Addition of information about a declaration of an Ebola outbreak in DRC on 15 May and updated information about road travel ('Safety and security' and 'Health' pages).
 
 ![](https://assets.publishing.service.gov.uk/media/6437d3f1db4ba90013448e0a/FCDO__TA__053_-_Angola_Travel_Advice_Ed2__WEB_.jpg)
 
@@ -56,8 +56,6 @@ Follow FCDO:
 * [travel advice on Facebook](https://www.facebook.com/FCDOTravel/)
 * [Travel Aware on Instagram](https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Ftravelaware%2F&is_from_rle)
 
-[Next
-:
-Entry requirements](/foreign-travel-advice/angola/entry-requirements)
+[Next:Entry requirements](/foreign-travel-advice/angola/entry-requirements)
 
 [View a printable version of the whole guide](/foreign-travel-advice/angola/print)

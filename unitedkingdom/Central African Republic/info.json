@@ -1,11 +1,11 @@
 {
     "name": "Central African Republic",
-    "update_reason": "New information about dual nationals returning to the UK (\u2018Entry requirements\u2019 page).",
+    "update_reason": "Addition of information about a declaration of an Ebola outbreak in DRC on 15 May (\u2018Health page\u2019).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Central African Republic/Warnings and insurance.md",
-            "update_date": "2025-12-10T13:18:11+00:00"
+            "update_date": "2026-05-28T12:08:37+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Central African Republic/Getting help.md"
         }
     ],
-    "update_date": "2025-12-10T13:18:11+00:00"
+    "update_date": "2026-05-28T12:08:37+01:00"
 }

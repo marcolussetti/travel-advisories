@@ -32,12 +32,8 @@ If you travel outside Luanda and the provincial capitals, go with people or orga
 
 Transport and accommodation are extremely limited outside Luanda. Officials are likely to ask for your passport and visa or entry stamp, so take the originals with you.
 
-[Previous
-:
-Safety and security](/foreign-travel-advice/angola/safety-and-security)
+[Previous:Safety and security](/foreign-travel-advice/angola/safety-and-security)
 
-[Next
-:
-Health](/foreign-travel-advice/angola/health)
+[Next:Health](/foreign-travel-advice/angola/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/angola/print)

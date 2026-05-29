@@ -1,11 +1,11 @@
 {
     "name": "Malta",
-    "update_reason": "Updated information on European Entry-Exit System (EES) (\u2018Entry requirements\u2019 page).",
+    "update_reason": "Addition of information about disruption to road travel ('Safety and security' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Malta/Warnings and insurance.md",
-            "update_date": "2026-04-10T10:29:41+01:00"
+            "update_date": "2026-05-28T16:46:10+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Malta/Getting help.md"
         }
     ],
-    "update_date": "2026-04-10T10:29:41+01:00"
+    "update_date": "2026-05-28T16:46:10+01:00"
 }

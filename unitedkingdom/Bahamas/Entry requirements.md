@@ -24,16 +24,18 @@ To enter The Bahamas, you must have a certificate to prove you’ve had a yellow
 
 For full details about medical entry requirements and recommended vaccinations, see [TravelHealthPro’s Bahamas guide](https://travelhealthpro.org.uk/country/19/bahamas#Vaccine_Recommendations).
 
+## Ebola
+
+The Bahamian Government issued a [Travel Advisory note](https://mofa.gov.bs/ebola-bundibugyo-virus-disease-in-the-democratic-republic-of-the-congo-surrounding-countries/) which introduces health screening, possible quarantine or isolation measures for travellers who have visited affected regions within 30 days of their arrival to The Bahamas.
+
+The World Health Organisation (WHO) has [declared this a Public Health Emergency of International Concern](https://www.who.int/news/item/17-05-2026-epidemic-of-ebola-disease-in-the-democratic-republic-of-the-congo-and-uganda-determined-a-public-health-emergency-of-international-concern).
+
 ## Customs rules
 
 There are strict rules about [goods you can take into or out of The Bahamas](https://www.bahamascustoms.gov.bs/visitor-info/arriving/). You must declare anything that may be prohibited or subject to tax or duty.
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/bahamas)
+[Previous:Warnings and insurance](/foreign-travel-advice/bahamas)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/bahamas/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/bahamas/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/bahamas/print)

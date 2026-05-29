@@ -30,6 +30,12 @@ See [what health risks you’ll face in the Central African Republic](https://tr
 * Zika virus
 * mpox
 
+## Ebola
+
+On 15 May the Democratic Republic of Congo Ministry of Health announced an outbreak of Ebola Bundibugyo in the North-Eastern Ituri Province. Read more about the [Ebola outbreak on TravelHealth Pro](https://travelhealthpro.org.uk/country/63/democratic-republic-of-the-congo#Outbreaks)  and see [information on Ebola and similar diseases.](https://travelhealthpro.org.uk/factsheet/68/viral-haemorrhagic-fever) World Health Organisation (WHO) have [declared this a Public Health Emergency of International Concern](https://www.who.int/news/item/17-05-2026-epidemic-of-ebola-disease-in-the-democratic-republic-of-the-congo-and-uganda-determined-a-public-health-emergency-of-international-concern).
+
+Due to the outbreak, you may experience heightened health screening at international borders in the region. [Check entry requirements](https://www.gov.uk/foreign-travel-advice) for the country you’re travelling to or transiting.
+
 ## Medication
 
 The legal status and regulation of some medicines prescribed or bought in the UK can be different in other countries.
@@ -48,12 +54,8 @@ There is also [guidance on healthcare if you’re living in the Central African 
 
 Read [FCDO guidance on travel and mental health](https://www.gov.uk/guidance/foreign-travel-advice-for-people-with-mental-health-issues). There is also [mental health guidance on TravelHealthPro](https://travelhealthpro.org.uk/factsheet/85/travelling-with-mental-health-conditions).
 
-[Previous
-:
-Safety and security](/foreign-travel-advice/central-african-republic/safety-and-security)
+[Previous:Safety and security](/foreign-travel-advice/central-african-republic/safety-and-security)
 
-[Next
-:
-Getting help](/foreign-travel-advice/central-african-republic/getting-help)
+[Next:Getting help](/foreign-travel-advice/central-african-republic/getting-help)
 
 [View a printable version of the whole guide](/foreign-travel-advice/central-african-republic/print)

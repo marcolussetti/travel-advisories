@@ -1,11 +1,11 @@
 {
     "name": "Uganda",
-    "update_reason": "New information about Ebola ('Entry requirements' page).",
+    "update_reason": "Updated information on Ebola (\u2018Entry requirements\u2019 and \u2018Health\u2019 pages).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Uganda/Warnings and insurance.md",
-            "update_date": "2026-05-22T16:43:43+01:00"
+            "update_date": "2026-05-28T11:57:58+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Uganda/Getting help.md"
         }
     ],
-    "update_date": "2026-05-22T16:43:43+01:00"
+    "update_date": "2026-05-28T11:57:58+01:00"
 }
