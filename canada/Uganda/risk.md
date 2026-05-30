@@ -24,6 +24,17 @@ The Public Health Agency of Canada has issued a [Travel Health Notice](https://t
 
 .
 
+From May 30, 2026, to August 29, 2026, Canada will have temporary border measures in place for travellers who have been in Uganda, the Democratic Republic of the Congo or South Sudan within the preceding 21 days.
+
+* Travellers who have been in these countries in the preceding 21 days and who don’t have Ebola disease symptoms when they get to Canada must quarantine for 21 days and monitor their health daily
+
++ If you don’t have a suitable place to quarantine, an appropriate location will be provided
++ If you begin to have symptoms of Ebola disease during the 21-day quarantine period, call your local public health authority immediately
+
+* Travellers who exhibit symptoms of Ebola disease upon arrival will receive an immediate medical assessment and be placed in isolation at a medical facility or other appropriate place.
+
+[Ebola disease: Temporary measures](https://www.canada.ca/en/immigration-refugees-citizenship/services/special-measures/ebola-2026.html) – Government of Canada
+
 ### Border with South Sudan - Avoid all travel
 
 [Avoid all travel](#levels "Risk Levels") to areas within 50 km of the border with South Sudan due to banditry and cross-border attacks by rebel groups. This advisory excludes visits to national parks when accompanied by a reputable guide and using well-travelled roads.

@@ -170,7 +170,7 @@ Some vessels entering these areas have been reported detained.
 
 Exercise caution if travelling by sea in the Gulf. Pirate attacks and armed robbery against ships have also occurred in coastal waters. Mariners should take appropriate precautions.
 
-[Live piracy report](https://icc-ccs.org/index.php/piracy-reporting-centre) - International Maritime Bureau
+[Live piracy map](https://icc-ccs.org/map/) – International Maritime Bureau Piracy Reporting Centre
 
 ### Air travel
 

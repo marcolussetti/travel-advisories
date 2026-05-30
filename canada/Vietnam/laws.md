@@ -32,6 +32,10 @@ Local authorities may request to see your ID at any time.
 * Keep a photocopy of your passport in a safe place in case it’s lost or seized
 * Keep a digital copy of your ID and travel documents
 
+For domestic air travel, local authorities strictly enforce identification requirements for foreign nationals. You must travel on the same passport you used to enter Vietnam. If you use a different passport, you may be refused boarding.
+
+If you are a resident of Vietnam, you must present both your valid passport and a residence document, such as a Temporary Residence Card.
+
 ### Gambling
 
 Gambling outside of licensed casinos is illegal in Vietnam.

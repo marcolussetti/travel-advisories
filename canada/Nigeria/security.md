@@ -318,7 +318,7 @@ There have been several incidents of armed robbery at the Murtala Muhammed Inter
 
 Major hotels and customer service centres at the airports in Abuja, Kano and Lagos offer reliable car-hire services with drivers.
 
-### Women safety
+### Women's safety
 
 Women travelling alone may be subject to some forms of harassment or verbal abuse.
 
@@ -352,7 +352,7 @@ Insurgents equipped with high-calibre weapons navigate the area in speedboats an
 
 Mariners should take appropriate precautions.
 
-[Live piracy report](https://icc-ccs.org/index.php/piracy-reporting-centre) - International Maritime Bureau
+[Live piracy map](https://icc-ccs.org/map/) – International Maritime Bureau Piracy Reporting Centre
 
 ### Air travel
 

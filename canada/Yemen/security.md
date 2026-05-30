@@ -249,7 +249,7 @@ Avoid using ferries.
 
 There are pirate attacks and armed robberies against ships in coastal waters and, in some cases, farther out at sea. Mariners should take appropriate precautions.
 
-[Live Piracy Report](https://www.icc-ccs.org/piracy-reporting-centre/live-piracy-report) - International Maritime Bureau
+[Live piracy map](https://icc-ccs.org/map/) – International Maritime Bureau Piracy Reporting Centre
 
 ### Air travel
 

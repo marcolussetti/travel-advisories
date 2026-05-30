@@ -176,6 +176,19 @@ Snacks, beverages, gum and cigarettes may contain drugs that could put you at ri
 
 ### Adventure travel
 
+### Torres del Paine National Park
+
+The “W” circuit will be closed in June and July 2026 due to winter conditions. In August 2026, you will be required to have a specialized guide and appropriate equipment to hike this trail.
+
+From now through August 30, 2026, you will be required to have a specialized guide and appropriate equipment if hiking the Base Torres trail.
+
+Guides are also recommended during the rest of the year.
+
+#### Useful links
+
+* [National Forest Corporation (CONAF)](http://www.conaf.cl/) (Spanish only)
+* [CONAF will require specialized guides in Torres del Paine National Park](https://www.conaf.cl/conaf-exigira-guia-especializado-en-el-parque-nacional-torres-del-paine/) (Spanish only)
+
 Outdoor activities, such as volcano tours, desert expeditions, water activities, hiking, and mountain biking, can be dangerous. Trails are not always marked and weather conditions can change rapidly, regardless of the season.
 
 Safety features in vehicles and on small boats used in river and lake excursions are not always reliable.

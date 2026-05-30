@@ -28,15 +28,6 @@ Local authorities may revoke your tourist card if you’re caught starting a fir
 * Respect protected areas, even if there are no warnings or signs to this effect
 * Ensure you have a good understanding of local rules and regulations before entering national parks
 
-#### Guides
-
-From April 27 to August 30, 2026, visitors to Torres del Paine National Park who are completing the “W” circuit or the Base Torres trail must have a specialized guide and appropriate equipment. Guides are also recommended during the rest of the year.
-
-#### Useful links
-
-* [National Forest Corporation (CONAF)](http://www.conaf.cl/) (Spanish only)
-* [CONAF will require specialized guides in Torres del Paine National Park](https://www.conaf.cl/conaf-exigira-guia-especializado-en-el-parque-nacional-torres-del-paine/) (Spanish only)
-
 ### Heritage sites
 
 Heritage areas are safeguarded by Chilean legislation. Penalties for violations can be severe, from payment of a fine to imprisonment. If you are detained for breaching the rules of a heritage site, local authorities may prevent you from leaving the country during the investigation.

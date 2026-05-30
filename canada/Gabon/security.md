@@ -79,7 +79,7 @@ If you’re taking taxis in the cities, negotiate the price before getting in th
 
 Pirate attacks and armed robbery against ships occur in coastal waters. Mariners should take appropriate precautions.
 
-[Live piracy report](https://icc-ccs.org/index.php/piracy-reporting-centre) - International Maritime Bureau’s Piracy Reporting Centre
+[Live piracy map](https://icc-ccs.org/map/) – International Maritime Bureau Piracy Reporting Centre
 
 ### Air travel
 

@@ -314,7 +314,7 @@ Some drivers and motorcyclists can be aggressive and reckless and do not always 
 
 Thieves, often armed, have targeted tourists travelling by boat along the Amazon River. If you are visiting the Amazon River, only use a reputable tour operator.
 
-[Live piracy report](https://icc-ccs.org/index.php/piracy-reporting-centre) – International Maritime Bureau
+[Live piracy map](https://icc-ccs.org/map/) – International Maritime Bureau Piracy Reporting Centre
 
 ### Public transportation
 

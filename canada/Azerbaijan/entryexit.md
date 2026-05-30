@@ -18,7 +18,7 @@ Before you travel, check with your transportation company about passport require
 
 #### Regular Canadian passport
 
-Your passport must be valid for at least 3 months beyond the expiry date on your visa.
+Your passport must be valid for at least 6 months beyond the date you arrive in Azerbaijan and have at least 2 blank pages for entry stamps. As a resident, your passport must be valid for at least 3 months beyond the expiry date of your temporary or permanent residence permit.
 
 #### Passport for official travel
 
@@ -44,42 +44,50 @@ Different entry rules may apply when travelling with a temporary passport or an 
 
 ### Visas
 
-Canadians must be in possession of a visa to visit Azerbaijan.
+Canadians must have a visa to visit Azerbaijan.
 
-Tourist visa: Required
+Tourist visa: required
 
-Business visa: Required
+Business visa: required
 
-Student visa: Required
+Student visa: required
 
-Transit visa: Required
+Transit visa: required
 
-If you plan to visit Azerbaijan, you must have a visa before arriving in the country. As a tourist, you can apply for an e-visa through Azerbaijan’s online visa portal. You should do so at least 3 days before your planned arrival date.
+If you plan to visit Azerbaijan, you must obtain a visa before arriving in the country. Canadian passport holders may apply for a tourist e-visa through Azerbaijan’s online visa portal and should do so at least 3 working days before their arrival in Azerbaijan.
 
-E-visas are single entry and are valid for 30 days. If you require any other type of visa, you must apply for it from the Embassy of the Republic of Azerbaijan prior to departure.
+E-visas are single-entry and are valid for 30 days. If you require any other type of visa, you must apply for it at the Embassy of the Republic of Azerbaijan prior to departure.
 
-To obtain any type of visa, you must present a letter of invitation from a contact in Azerbaijan, such as an employer or educational institution. If you don’t have a contact in Azerbaijan, the invitation letter should be submitted by the travel agency in Azerbaijan.
+To obtain any type of visa, you must present a letter of invitation from a contact in Azerbaijan, such as an employer or educational institution. If you don’t have a contact there, the invitation letter should be submitted by your travel agency in Azerbaijan.
 
-[Azerbaijan’s online visa portal](https://evisa.gov.az/en/)
+If you do not comply with visa or permit requirements, you may be fined, deported and barred from re-entering Azerbaijan.
+
+[Official electronic visa portal](https://evisa.gov.az/en/) – Republic of Azerbaijan
 
 ### Registration
 
-You must register with the State Migration Service within 15 calendar days of arrival if you intend to stay more than 15 days. Ensure that your passport bears an entry stamp.
+If you intend to stay in Azerbaijan for more than 15 days, you must register with the State Migration Service within 15 calendar days of arrival. Ensure that your passport bears an entry stamp.
 
-Failure to register could result in a fine. You may be stopped from leaving Azerbaijan until the fine is paid.
+Failure to register could result in a fine. You may be prevented from leaving Azerbaijan until the fine is paid.
 
 If you intend to stay in Azerbaijan for more than 30 days, you must obtain a temporary residence card or apply to extend your visa.
 
-[Registration](https://migration.gov.az/en/oyq) **–** State Migration Service of the Republic of Azerbaijan
+[Registration](https://migration.gov.az/en/oyq)–State Migration Service of the Republic of Azerbaijan
 
 ### Districts in the western part of Azerbaijan
 
-You may need to obtain prior authorization from the Azerbaijan authorities to enter and/or exit certain districts in the western part Azerbaijan. You should contact the nearest embassy or consulate of Azerbaijan before you travel.
+You may need to obtain prior authorization from the Azerbaijani authorities to enter and/or exit certain districts in the western part Azerbaijan. You should contact the nearest embassy or consulate of Azerbaijan before you travel.
 
-### Yellow fever
+### Persons with disabilities
 
-Learn about [potential entry requirements related to yellow fever](#health) (vaccines section).
+Expect accessibility to be limited in transportation, lodging, and general infrastructure.
+
+[Travelling with disabilities](https://travel.gc.ca/travelling/health-safety/disabilities)
 
 ### Children and travel
 
 Learn about [travelling with children](http://travel.gc.ca/travelling/children).
+
+### Yellow fever
+
+Learn about [potential entry requirements related to yellow fever](#health) (vaccines section).

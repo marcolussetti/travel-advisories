@@ -8,17 +8,15 @@ Due to the outbreak of Ebola disease in Uganda, you may be subject to health exi
 
 Some countries have imposed entry restrictions for persons who are arriving from or who have recently visited Uganda. Unless you are a citizen of one of these countries, you will be refused entry if you have been in Uganda in the preceding 21 to 30 days.
 
-A larger number of countries have imposed health screening measure upon arrival for travellers who have visited Uganda. These may include the completion of health declaration form and temperature checks. If you are identified as a person suspected of having symptoms of Ebola disease, you may be subject to further health measures such as isolation or quarantine and restrictions on travel until you are cleared by local health authorities.
+A larger number of countries, including Canada, have imposed health screening measure upon arrival for travellers who have visited Uganda. These may include the completion of health declaration form, temperature checks, quarantine and restrictions on travel until you are cleared by local health authorities. Contact the authorities of the country you are travelling to for more details.
 
 [More information on the Ebola outbreak in Uganda](https://travel.gc.ca/destinations/uganda#health)
-
-Some countries have imposed measures in response to the [Ebola disease outbreak](https://travel.gc.ca/travelling/health-safety/travel-health-notices/549). These can include restrictions on entry and health screening measures for travellers having recently visited an affected country. If you are suspected of having symptoms, you may be subject to isolation, quarantine and/or travel restrictions. Contact the authorities of the country you are travelling to for more details.
 
 The authorities of a country or territory decide who can enter or exit through its borders. The Government of Canada cannot intervene on your behalf if you do not meet your destination’s entry or exit requirements.
 
 We have obtained the information on this page from local authorities. It can, however, change at any time.
 
-Verify this information with the [Foreign Representatives in Canada](https://www.international.gc.ca/protocol-protocole/reps.aspx?lang=eng).
+Verify this information with the [Foreign Representatives in Canada](https://www.international.gc.ca/protocol-protocole/reps.aspx?lang=eng).
 
 ### Passport
 

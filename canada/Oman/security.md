@@ -102,7 +102,7 @@ Off-road driving can be hazardous. If engaging in off-road driving:
 
 Cell phones may have limited or no service in remote areas, which can become especially dangerous if you experience vehicle problems while driving in desert areas.
 
-### Public Transportation
+### Public transportation
 
 Taxis are generally safe.
 
@@ -123,7 +123,7 @@ Exercise caution if travelling by sea, including for recreational purposes, in t
 
 Pirate attacks and armed robbery against ships occur in coastal waters of the Gulf of Aden and the Indian Ocean and, in some cases, farther out at sea. Mariners should take appropriate precautions.
 
-[Live piracy report](https://icc-ccs.org/index.php/piracy-reporting-centre) - International Maritime Bureau’s Piracy Reporting Centre
+[Live piracy map](https://icc-ccs.org/map/) – International Maritime Bureau Piracy Reporting Centre
 
 ### Adventure tourism
 

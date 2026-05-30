@@ -40,7 +40,7 @@ Petty crime, such as pickpocketing and purse snatching, occurs. Thieves frequen
 Demonstrations take place from time to time. They are likely to occur:
 
 * near government buildings, institutions or residences
-* around Dili’s Presidente Nicolau Lobato International Airport
+* around Dili's Presidente Nicolau Lobato International Airport
 
 Even peaceful demonstrations can turn violent at any time. They can also lead to disruptions to traffic and public transportation.
 
@@ -50,7 +50,7 @@ Even peaceful demonstrations can turn violent at any time. They can also lead to
 
 [Mass gatherings (large-scale events)](https://travel.gc.ca/travelling/health-safety/mass-gatherings)
 
-### Women’s safety
+### Women's safety
 
 Women travelling alone may be subject to forms of harassment, violence and verbal abuse. Sexual harassment and groping of women is reported regularly.
 
@@ -71,7 +71,7 @@ If you intend on trekking:
 * never do so alone and always hire an experienced guide from a reputable company
 * buy travel insurance that includes helicopter rescue and medical evacuation
 * ensure that your physical condition is good enough to meet the challenges of your activity
-* ensure that you’re properly equipped and well informed about weather and other conditions that may pose a hazard
+* ensure that you're properly equipped and well informed about weather and other conditions that may pose a hazard
 * inform a family member or friend of your itinerary, including when you expect to be back to camp
 * know the symptoms of high-altitude illnesses, which can be fatal
 * obtain detailed information on trekking routes before setting out and do not venture off marked trails
@@ -103,7 +103,7 @@ If you undertake adventure sports, such as diving:
 * choose a well-established and reputable company that has insurance
 * ensure that your travel insurance covers the recreational activities you choose
 
-If in doubt concerning the safety of the facilities or equipment, don’t use them.
+If in doubt concerning the safety of the facilities or equipment, don't use them.
 
 [Adventure travel health and safety](https://travel.gc.ca/travelling/health-safety/adventure-travellers)
 
@@ -127,11 +127,11 @@ Avoid unnecessary local travel.
 
 #### Buses
 
-Buses are generally overcrowded and don’t meet international safety standards.
+Buses are generally overcrowded and don't meet international safety standards.
 
 #### Taxis
 
-If you decide to travel by taxi, keep in mind that yellow taxis aren’t metered, so you should agree on a fare before departure.
+If you decide to travel by taxi, keep in mind that yellow taxis aren't metered, so you should agree on a fare before departure.
 
 #### Ferries
 
@@ -141,7 +141,7 @@ If you choose to travel by ferry:
 
 * make sure the vessel you are boarding is carrying appropriate safety equipment
 * make sure that life jackets are provided for all passengers and accessible at all times
-* don’t board vessels that appear overloaded or unseaworthy
+* don't board vessels that appear overloaded or unseaworthy
 * verify the safety standards of ferries with your tour operator
 
 ### Piracy
@@ -150,7 +150,7 @@ Pirate attacks and armed robbery against ships occurs in coastal waters and, in 
 
 Mariners should take appropriate precautions.
 
-[Live piracy report](https://icc-ccs.org/index.php/piracy-reporting-centre) - International Maritime Bureau
+[Live piracy map](https://icc-ccs.org/map/) – International Maritime Bureau Piracy Reporting Centre
 
 ### Air travel
 

@@ -150,7 +150,7 @@ There are no subways or public buses on the islands. Taxis and motorcycle taxis,
 
 Pirate attacks and armed robbery against ships occur in coastal waters and, in some cases, farther out at sea. Mariners should take appropriate precautions.
 
-[Live piracy report](https://icc-ccs.org/index.php/piracy-reporting-centre) - International Maritime Bureau Piracy Reporting Centre
+[Live piracy map](https://icc-ccs.org/map/) – International Maritime Bureau Piracy Reporting Centre
 
 ### Air travel
 

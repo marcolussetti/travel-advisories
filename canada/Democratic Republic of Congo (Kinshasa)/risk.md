@@ -19,3 +19,16 @@ The features in this map do not constitute an authoritative source of geographic
 ### DEMOCRATIC REPUBLIC OF THE CONGO - AVOID ALL TRAVEL
 
 [Avoid all travel](#levels "Risk Levels") to the Democratic Republic of the Congo (DRC) due to the fragile security situation and the [outbreak of Ebola disease](https://travel.gc.ca/travelling/health-safety/travel-health-notices/549).
+
+The Public Health Agency of Canada has issued a [Travel Health Notice](https://travel.gc.ca/travelling/health-safety/travel-health-notices/549) due to the outbreak of Ebola disease.
+
+From May 30, 2026, to August 29, 2026, Canada will have temporary border measures in place for travellers who have been in the DRC, Uganda or South Sudan within the preceding 21 days.
+
+* Travellers who have been in these countries in the preceding 21 days and who don’t have Ebola disease symptoms when they get to Canada must quarantine for 21 days and monitor their health daily.
+
++ If you don’t have a suitable place to quarantine, an appropriate location will be provided
++ If you begin to have symptoms of Ebola disease during the 21-day quarantine period, call your local public health authority immediately
+
+* Travellers who exhibit symptoms of Ebola disease upon arrival will receive an immediate medical assessment and be placed in isolation at a medical facility or other appropriate place
+
+[Ebola disease: Temporary measures](https://www.canada.ca/en/immigration-refugees-citizenship/services/special-measures/ebola-2026.html) – Government of Canada

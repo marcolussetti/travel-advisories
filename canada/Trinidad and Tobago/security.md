@@ -221,7 +221,7 @@ You should reserve transportation services through official taxi companies such 
 
 Pirates commit attacks, kidnappings and armed robberies against ships in coastal waters. Travellers should take appropriate precautions.
 
-[Live piracy report](https://icc-ccs.org/index.php/piracy-reporting-centre) – International Maritime Bureau Piracy Reporting Centre
+[Live piracy map](https://icc-ccs.org/map/) – International Maritime Bureau Piracy Reporting Centre
 
 ### Air travel
 

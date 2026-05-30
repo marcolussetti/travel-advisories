@@ -29,14 +29,14 @@ Credit card and ATM fraud occur. When you are using debit or credit cards:
 
 #### Property rental scams
 
-Scams involving property rental occur. The scams may include online advertising of properties that are not available for rent or that don’t exist.
+Scams involving property rental occur. The scams may include online advertising of properties that are not available for rent or that don't exist.
 
 You should :
 
 * book your rental through a reputable service
 * visit the accommodation and meet the landlord before agreeing to pay any money
 
-[Information about known local scams](https://www.scamshield.gov.sg/) - Singapore’s National Crime Prevention Council
+[Information about known local scams](https://www.scamshield.gov.sg/) - Singapore's National Crime Prevention Council
 
 ### Terrorism
 
@@ -58,7 +58,7 @@ All demonstrations and gatherings require a permit. Unauthorized demonstrations,
 
 As a foreigner, you may require special permission to attend any demonstrations, even as an observer.
 
-* Avoid areas where demonstrations, political or large gatherings are taking place, such as Speakers’ Corner in Hong Lim Park
+* Avoid areas where demonstrations, political or large gatherings are taking place, such as Speakers' Corner in Hong Lim Park
 * Follow the instructions of local authorities
 * Monitor local media for information on ongoing demonstrations
 
@@ -70,7 +70,7 @@ Road conditions and road safety are very good throughout the country.
 
 Frequent showers may pose a road hazard.
 
-Vehicles don’t usually yield to pedestrians. Exercise caution when walking on or crossing streets.
+Vehicles don't usually yield to pedestrians. Exercise caution when walking on or crossing streets.
 
 ### Piracy
 
@@ -78,11 +78,11 @@ Pirate attacks and armed robberies occur against ships in and around:
 
 * Singapore Strait
 * Strait of Malacca
-* between Indonesia’s Riau Islands and Singapore
+* between Indonesia's Riau Islands and Singapore
 
 Mariners should take appropriate precautions.
 
-[Live piracy report](https://icc-ccs.org/index.php/piracy-reporting-centre) - International Maritime Bureau
+[Live piracy map](https://icc-ccs.org/map/) – International Maritime Bureau Piracy Reporting Centre
 
 ### Air travel
 
