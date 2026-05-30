@@ -10,6 +10,8 @@ High Degree of Caution
 
 Humanitarian Aid Workers travelling to Ethiopia are urged to [**register**](https://www.hpsc.ie/a-z/vectorborne/viralhaemorrhagicfever/guidance/vhfguidanceappendices/vhfguidanceforhumanitarianaidworkers/) with HSE HPSC in advance of their deployment.
 
+All Irish citizens living in or visiting Ethiopia are encouraged to register their presence on our [**Citizen Registration**](https://citizensregistration.dfa.ie/) platform.
+
 #### **Travel Restrictions**
 
 The Ethiopian authorities may implement travel restrictions anywhere in the country at short notice. Always check with your operator before travel.

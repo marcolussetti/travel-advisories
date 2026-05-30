@@ -10,6 +10,8 @@ High Degree of Caution
 
 Humanitarian Aid Workers travelling to Republic of Congo are urged to [**register**](https://www.hpsc.ie/a-z/vectorborne/viralhaemorrhagicfever/guidance/vhfguidanceappendices/vhfguidanceforhumanitarianaidworkers/) with HSE HPSC in advance of their deployment.
 
+All Irish citizens living in or visiting Republic of Congo are encouraged to register their presence on our [**Citizen Registration**](https://citizensregistration.dfa.ie/) platform.
+
 #### **Regional Advisories**
 
 The Department of Foreign Affairs and Trade advises against all travel to the area within 50km of the border with Central African Republic. Irish citizens are advised to avoid non-essential travel to the Pool Department in the South-East of the country, except for the city of Brazzaville.

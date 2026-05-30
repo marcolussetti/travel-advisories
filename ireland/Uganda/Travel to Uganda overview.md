@@ -10,25 +10,19 @@ High Degree of Caution
 
 On 17 May, the World Health Organisation (WHO) declared the outbreak of the Bundibugyo strain of Ebola in the Democratic Republic of Congo and Uganda a [**Public Health Emergency of International Concern**](https://www.who.int/news/item/17-05-2026-epidemic-of-ebola-disease-in-the-democratic-republic-of-the-congo-and-uganda-determined-a-public-health-emergency-of-international-concern).
 
-The Uganda Ministry of Health has now introduced mandatory health declaration requirement for all travellers entering and exiting Uganda. All passengers are required to complete the online declaration form prior to travel: [**Traveller Health Declaration — UPHDS**](https://poes.health.go.ug/declare/).
+The Uganda Ministry of Health has introduced mandatory health declaration requirement for all travellers entering and exiting Uganda. All passengers are required to complete the online declaration form prior to travel: [**Traveller Health Declaration — UPHDS**](https://poes.health.go.ug/declare/).
 
 Humanitarian Aid Workers travelling to Uganda are urged to [register](https://www.hpsc.ie/a-z/vectorborne/viralhaemorrhagicfever/guidance/vhfguidanceappendices/vhfguidanceforhumanitarianaidworkers/) with HSE HPSC in advance of their deployment.
 
-[**Ebola**](https://www.who.int/news-room/fact-sheets/detail/ebola-disease) is spread by contact with: the blood or body fluids of a person who is infected with or has died from Ebola; objects or surfaces contaminated with body fluids from an infected person; or by contact with infected animals. Symptoms include fever, headache, muscle pain, weakness, diarrhoea, vomiting, stomach pain, and unexplained bleeding or bruising (a late stage of illness).
+All Irish citizens living in or visiting Uganda are encouraged to register their presence on our [**Citizen Registration**](https://citizensregistration.dfa.ie/) platform.
 
-Irish citizens in Uganda are encouraged to follow WHO and [**Ministry of Health**](https://health.go.ug/download/ebola-faqs-may-2026/?ind=1779193593698&filename=EBOLA%20FAQs%20-%20May%202026.pdf&wpdmdl=2984&refresh=6a0d9ce8dea2c1779277032) advice and:
+On 27 May, Uganda [announced](https://x.com/MinofHealthUG/status/2057471796497035293) the closure of the border with the DRC, with limited exceptions for authorised Ebola response, humanitarian and security personnel. Any person returning from the DRC into Uganda will now have to undergo mandatory self-isolation for 21 days.
 
-* Wash hands frequently and avoid contact with blood and other body fluids or objects that are contaminated;
-* Avoid contact with people who have symptoms such as fever, muscle pain, and rash;
-* Avoid contact with bats, forest antelopes, nonhuman primates (e.g., monkeys, chimpanzees, gorillas), and blood, fluids, or raw meat from these or unknown animals;
-* Avoid going into areas where bats live, such as mines or caves; and
-* Follow the guidance of local authorities
+Irish citizens in Uganda are encouraged to follow WHO and [**Ministry of Health**](https://health.go.ug/download/ebola-faqs-may-2026/?ind=1779193593698&filename=EBOLA%20FAQs%20-%20May%202026.pdf&wpdmdl=2984&refresh=6a0d9ce8dea2c1779277032) advice.
 
 For suspected cases, the Ugandan authorities have advised the public to call the Ministry of Health toll-free line 0800 100 066 or send a free SMS to 6767.
 
 If there is an emergency, or if you need help and advice, you can contact the Embassy of Ireland Kampala on Tel: +256 417 713 000. If the Embassy is closed and you require urgent assistance, you can leave a voice message on the Duty Office Mailbox, which is monitored regularly. You can also contact the Department of Foreign Affairs at +353 1 408 2000.
-
-Irish citizens are encouraged to visit this page for the most up-to-date information. Irish citizens living in or visiting Uganda – either short or long term – can register their presence [**here**](https://citizensregistration.dfa.ie/).
 
 Citizens can also follow the Embassy on X [**@IrlEmbUganda**](https://twitter.com/irlembuganda) to ensure access to relevant updates and alerts.
 

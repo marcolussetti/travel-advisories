@@ -10,6 +10,8 @@ Do Not Travel
 
 Humanitarian Aid Workers travelling to Central African Republic are urged to [**register**](https://www.hpsc.ie/a-z/vectorborne/viralhaemorrhagicfever/guidance/vhfguidanceappendices/vhfguidanceforhumanitarianaidworkers/) with HSE HPSC in advance of their deployment.
 
+All Irish citizens living in or visiting Central African Republic are encouraged to register their presence on our [**Citizen Registration**](https://citizensregistration.dfa.ie/) platform.
+
 #### **Security and Health**
 
 The security situation in the Central African Republic is fluid. It can deteriorate significantly within a short period of time. Citizens of Ireland who consider it absolutely essential to remain in the country should be constantly vigilant and limit their non-essential movement within the Central African Republic. Armed militia may establish road blocks and detain persons. Adequate and continuous professional security arrangements are advised and should be regularly reviewed.

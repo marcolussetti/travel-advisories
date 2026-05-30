@@ -10,6 +10,8 @@ Do Not Travel
 
 Humanitarian Aid Workers travelling to South Sudan are urged to [register](https://www.hpsc.ie/a-z/vectorborne/viralhaemorrhagicfever/guidance/vhfguidanceappendices/vhfguidanceforhumanitarianaidworkers/) with HSE HPSC in advance of their deployment.
 
+All Irish citizens living in or visiting South Sudan are encouraged to register their presence on our [**Citizen Registration**](https://citizensregistration.dfa.ie/) platform.
+
 #### **Regional Tensions**
 
 The Department of Foreign Affairs and Trade strongly advises against all travel to South Sudan, including the capital Juba. If you have no pressing need to remain, we recommend that you leave if it is safe to do so. Irish nationals choosing to stay in South Sudan should remain alert to the local security situation, monitor the media and stay in a safe location. Citizens who are outside Juba, should exercise their own judgement, based on knowledge of the local situation, on whether it is safer to try to reach Juba or remain where they are.

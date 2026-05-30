@@ -8,9 +8,20 @@ High Degree of Caution
 
 #### **Ebola Outbreak**
 
+On 17 May, the World Health Organisation (WHO) declared the outbreak of the Bundibugyo strain of Ebola in the Democratic Republic of Congo (DRC) and Uganda a [**Public Health Emergency of International Concern**](https://www.who.int/news/item/17-05-2026-epidemic-of-ebola-disease-in-the-democratic-republic-of-the-congo-and-uganda-determined-a-public-health-emergency-of-international-concern). As a neighbouring country, Rwanda continues to monitor the situation.
+
 Humanitarian Aid Workers travelling to Rwanda are urged to [register](https://www.hpsc.ie/a-z/vectorborne/viralhaemorrhagicfever/guidance/vhfguidanceappendices/vhfguidanceforhumanitarianaidworkers/) with HSE HPSC in advance of their deployment.
 
-#### **Regional Tension**
+All Irish citizens living in or visiting Rwanda are encouraged to register their presence on our [**Citizen Registration**](https://citizensregistration.dfa.ie/) platform.
+
+On 22 May the Government of Rwanda [announced new border measures](https://x.com/RwandaHealth/status/2057790371657101712?s=20) in response to the Ebola outbreak, including:
+
+* Any Foreign nationals who have travelled to or transited through the DRC in the last 30 days prior to their intended travel to Rwanda will be denied entry;
+* Rwandan nationals and foreign residents with valid proof of residency in Rwanda will be permitted entry. However, if they have travelled to or through DRC in the last 30 days, they will be subject to mandatory quarantine procedures.
+
+Irish citizens are encouraged to monitor for updates and follow the guidance of local authorities.
+
+#### Border Areas
 
 Irish Citizens are advised against all but essential travel to Rubavu District. This includes the town of Gisenyi and the border crossing point at Gisenyi-Goma. Irish Citizens are advised against all but essential travel to Rusizi District.
 

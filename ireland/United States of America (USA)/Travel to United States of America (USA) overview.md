@@ -6,6 +6,14 @@ Normal Precautions
 
 ### **Travel Alert**
 
+#### **World Cup 2026**
+
+The FIFA 2026 World Cup takes place in the USA, Canada and Mexico from 11 June to 19 July.
+
+Visitors will find all relevant information on this page. Please also see our [dedicated World Cup page](https://www.ireland.ie/en/dfa/overseas-travel/know-before-you-go/travel-advice-2026-fifa-world-cup-north-america/), which contains useful tips for travelling fans.
+
+#### **Terrorism**
+
 Current events in the Middle East could heighten the threat of terrorist attacks in the US. Irish citizens should exercise extra vigilance and caution in public spaces. Citizens should keep up to date with local media reports and follow the advice of local authorities. In an emergency citizens should dial 911.
 
 ### **General Travel Advice**

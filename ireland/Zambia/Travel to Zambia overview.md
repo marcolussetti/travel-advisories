@@ -8,7 +8,13 @@ High Degree of Caution
 
 #### **Ebola Outbreak**
 
+On 17 May, the World Health Organisation (WHO) declared the outbreak of the Bundibugyo strain of Ebola in the Democratic Republic of Congo and Uganda a [**Public Health Emergency of International Concern**](https://www.who.int/news/item/17-05-2026-epidemic-of-ebola-disease-in-the-democratic-republic-of-the-congo-and-uganda-determined-a-public-health-emergency-of-international-concern).
+
+No cases of Ebola have been confirmed in Zambia to date. Health screening measures have been put in place by Zambian authorities at ports of entry.
+
 Humanitarian Aid Workers travelling to Zambia are urged to [**register**](https://www.hpsc.ie/a-z/vectorborne/viralhaemorrhagicfever/guidance/vhfguidanceappendices/vhfguidanceforhumanitarianaidworkers/) with HSE HPSC in advance of their deployment.
+
+All Irish citizens living in or visiting Zambia are encouraged to register their presence on our [**Citizen Registration**](https://citizensregistration.dfa.ie/) platform.
 
 #### **Ongoing Travel Disruptions**
 

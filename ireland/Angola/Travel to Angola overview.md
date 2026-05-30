@@ -10,6 +10,8 @@ High Degree of Caution
 
 Humanitarian Aid Workers travelling to Angola are urged to [**register**](https://www.hpsc.ie/a-z/vectorborne/viralhaemorrhagicfever/guidance/vhfguidanceappendices/vhfguidanceforhumanitarianaidworkers/) with HSE HPSC in advance of their deployment.
 
+All Irish citizens living in or visiting Angola are encouraged to register their presence on our [**Citizen Registration**](https://citizensregistration.dfa.ie/) platform.
+
 ### **General Travel Advice**
 
 As of 29 September 2023, Irish citizens no longer require a visa to enter Angola, if they are travelling for tourism. Irish citizens can stay for up to 30 days per entry and a maximum of 90 days per year. If visiting Angola for a reason other than tourism, it is still necessary to apply for a visa at an Angolan embassy or consulate.

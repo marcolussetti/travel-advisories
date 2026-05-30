@@ -8,7 +8,11 @@ High Degree of Caution
 
 #### **Ebola Outbreak**
 
+There are currently no confirmed cases of Ebola virus in Kenya. The Embassy of Ireland in Kenya continues to monitor the situation.
+
 Humanitarian Aid Workers travelling to Kenya are urged to [**register**](https://www.hpsc.ie/a-z/vectorborne/viralhaemorrhagicfever/guidance/vhfguidanceappendices/vhfguidanceforhumanitarianaidworkers/) with HSE HPSC in advance of their deployment.
+
+All other Irish citizens living in or travelling to Kenya should register on Ireland’s [**citizens registration**](https://www.ireland.ie/en/dfa/overseas-travel/citizens-registration/).
 
 #### **Conflict in the Middle East**
 
