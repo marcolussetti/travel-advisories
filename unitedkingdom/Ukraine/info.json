@@ -1,11 +1,11 @@
 {
     "name": "Ukraine",
-    "update_reason": "Updated information on drone and missile strikes ('Warnings and insurance' page).",
+    "update_reason": "Updated information about dual nationals ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Ukraine/Warnings and insurance.md",
-            "update_date": "2026-05-27T16:46:51+01:00"
+            "update_date": "2026-05-29T16:16:31+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Ukraine/Getting help.md"
         }
     ],
-    "update_date": "2026-05-27T16:46:51+01:00"
+    "update_date": "2026-05-29T16:16:31+01:00"
 }

@@ -74,10 +74,6 @@ Even small amounts of methanol can kill. It is not possible to identify meth
 
 Seek urgent medical attention if you or someone you are travelling with show the [signs of methanol poisoning](https://travelaware.campaign.gov.uk/spiking-and-methanol-poisoning/) after drinking.
 
-### Interruptions to water and electricity supply
-
-Papua New Guinea can experience interruptions in the supply of water and electricity to urban centres. The water supplier to Port Moresby, Water PNG, recently issued a notice outlining the need for a pipeline repair and the importance of being prepared. Check with the local authorities and [Water PNG](https://www.facebook.com/p/Water-PNG-100069303425822/) for the latest updates.
-
 ### Unexploded weapons
 
 There are unexploded World War 2 weapons in Papua New Guinea, particularly along the Kokoda Track, at Milne Bay and Rabaul. If you are concerned, get advice from a trusted travel company for the areas you’re visiting.

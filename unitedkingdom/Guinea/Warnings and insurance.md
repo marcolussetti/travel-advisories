@@ -1,13 +1,21 @@
 # Warnings and insurance
 
 Still current at:
-:   13 February 2026
+:   30 May 2026
 
 Updated:
-:   12 February 2026
+:   29 May 2026
 
 Latest update:
-:   Removal of information about a security incident in Conakry.
+:   New information about Parliamentary and local elections on 31 May ('Warnings and insurance' page).
+
+## Parliamentary and local elections
+
+Parliamentary and local elections in Guinea will take place on 31 May.
+
+Before and during the elections, expect a strong security presence. This will include military checkpoints and road restrictions, especially in Conakry.
+
+Guinean airspace and airports might also close with little notice.
 
 ## Before you travel
 

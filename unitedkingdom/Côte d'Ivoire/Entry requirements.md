@@ -32,6 +32,12 @@ To enter Côte d’Ivoire, you must have a certificate to prove you’ve had a y
 
 For full details about medical entry requirements and recommended vaccinations, see [TravelHealthPro’s Côte d’Ivoire guide](https://travelhealthpro.org.uk/country/112/cte-divoire-ivory-coast#Vaccine_Recommendations).
 
+## Ebola Screening
+
+As a public health measure, Côte d’Ivoire has introduced screening for travellers arriving from countries affected by the Ebola outbreak, including the Democratic Republic of the Congo and Uganda. You should expect to provide health information, undergo health screening, and may be monitored for up to 21 days after arrival.
+
+The World Health Organisation (WHO) has [declared this a Public Health Emergency of International Concern](https://www.who.int/news/item/17-05-2026-epidemic-of-ebola-disease-in-the-democratic-republic-of-the-congo-and-uganda-determined-a-public-health-emergency-of-international-concern).
+
 ## Customs rules
 
 There are strict rules about [goods you can take into or out of Côte d’Ivoire](https://www.douanes.ci/particulier/voyageurs-nationaux-et-non-nationaux) (in French). You must declare anything that may be prohibited or subject to tax or duty.

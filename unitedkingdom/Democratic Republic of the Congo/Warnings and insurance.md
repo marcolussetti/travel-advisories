@@ -1,18 +1,18 @@
 # Warnings and insurance
 
 Still current at:
-:   28 May 2026
+:   30 May 2026
 
 Updated:
-:   27 May 2026
+:   29 May 2026
 
 Latest update:
-:   New information about multiple drone attacks in the area of Kisangani airport (‘Warnings and insurance’ page).
+:   FCDO now advises against all but essential travel to Bangoka International Airport, Kisangani. FCDO continues to advise against all travel and all but essential travel to other parts of DRC (‘Warnings and insurance’ page).
 
-![](https://assets.publishing.service.gov.uk/media/6a11a89f1eb143220d8d2810/FCDO_TA_012_-_Democratic_Repbulic_of_the_Congo_Travel_Advice_Ed19_WEB.jpg)
+![](https://assets.publishing.service.gov.uk/media/6a196a3465bc5f798327f4fe/FCDO_TA_012_-_Democratic_Repbulic_of_the_Congo_Travel_Advice_Ed20_WEB.jpg)
 
 
-[Download a more detailed map (PDF, 1.03 MB)](https://assets.publishing.service.gov.uk/media/6a11a89f1eb143220d8d2811/FCDO_TA_012_-_Democratic_Repbulic_of_the_Congo_Travel_Advice_Ed19.pdf)
+[Download a more detailed map (PDF, 1.03 MB)](https://assets.publishing.service.gov.uk/media/6a196a34b95db968c8f3bc38/FCDO_TA_012_-_Democratic_Repbulic_of_the_Congo_Travel_Advice_Ed20.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
@@ -47,6 +47,10 @@ FCDO advises against all but essential travel to Upemba National Park. If you ch
 ### Territory in Mai-Ndombe Province
 
 FCDO advises against all travel to the Kwamouth territory of Mai-Ndombe Province. This is between, and including, the towns of Kwamouth, Bandundu and the southern border of Mai-Ndombe province.
+
+### Kisangani airport
+
+FCDO advises against all but essential travel to Bangoka International Airport, Kisangani due to multiple drone attacks in the area of Kisangani airport.
 
 See details about [why FCDO advises against travel](/foreign-travel-advice/democratic-republic-of-the-congo/regional-risks).
 

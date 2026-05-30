@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   25 May 2026
+:   30 May 2026
 
 Updated:
-:   24 May 2026
+:   29 May 2026
 
 Latest update:
-:   Information on delays at passport control for passengers flying to and from Copenhagen airport. ("Safety and Security" page)
+:   New information about delays at passport control for passengers flying to and from Copenhagen airport ('Entry requirements' page).
 
 This travel advice also covers the Faroe Islands and Greenland.
 

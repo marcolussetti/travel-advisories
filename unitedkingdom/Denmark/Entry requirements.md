@@ -73,6 +73,16 @@ Read more [information on the EU Entry/Exit System and to understand which coun
 
 If you are long-term resident in a Schengen country, you are exempt from EES in all Schengen countries. The full list of EES exemptions is on [the EU’s official Travel Europe website.](https://travel-europe.europa.eu/en/ees/to-whom-does-ees-not-apply)
 
+## Delays at passport control
+
+Following the introduction of EES, you may experience delays at passport control when arriving at or departing from Copenhagen Airport on flights to or from non-Schengen countries, including the UK.
+
+You should allow extra time when travelling through the airport.
+
+If you have a short onward connection, you should take this into account when planning your journey.
+
+If you need assistance, for example if you are travelling with young children or have accessibility requirements, speak to airport staff wearing yellow vests who are managing the queues.
+
 ## Border controls at Germany’s land borders
 
 There are temporary border controls in place to travel into Germany. Check the [entry requirements for Germany](https://www.gov.uk/foreign-travel-advice/germany/entry-requirements).

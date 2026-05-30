@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   2 May 2026
+:   30 May 2026
 
 Updated:
-:   1 May 2026
+:   29 May 2026
 
 Latest update:
-:   Updated information about applying for a visa and addition of information about a nationwide general election being held on 1 June ('Entry requirements' and 'Safety and security' page).
+:   Addition of information about nationwide elections on 1 June (‘Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/6983415b20fe1bb69ac243ed/FCDO__TA__017_-_Ethiopia_Travel_Advice_Ed42__WEB_.jpg)
 
@@ -93,6 +93,12 @@ FCDO advises against all travel to:
 FCDO advises against all but essential travel to the rest of Benishangul-Gumuz region.
 
 Find out more about why [FCDO advises against travel to these regions](/foreign-travel-advice/ethiopia/regional-risks).
+
+## Nationwide elections
+
+Nationwide elections will be held on Monday 1 June. A public holiday has been declared and public buildings and banks will be closed. There will be high security around polling stations and potential vehicle and ID checks.
+
+Allow extra time for essential journeys, follow instructions from local authorities and carry identification with you.
 
 ## Support from FCDO
 

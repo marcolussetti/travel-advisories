@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   28 May 2026
+:   30 May 2026
 
 Updated:
-:   27 May 2026
+:   29 May 2026
 
 Latest update:
-:   New information about interruptions to the supply of water and electricity (‘Safety and security’ page).
+:   Updated information about interruptions to the supply of water and electricity (‘Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/68b1908211b4ded2da19fc61/FCDO__TA__063_-_Papua_New_Guinea_Ed2__WEB_.jpg)
 
@@ -24,6 +24,10 @@ FCDO advises against all but essential travel to:
 * Enga Province in the Highlands, except Wabag District
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/papua-new-guinea/regional-risks).
+
+## Interruptions to water and electricity supply
+
+Papua New Guinea can experience interruptions in the supply of water and electricity to urban centres. The water supplier to Port Moresby, Water PNG, recently issued a notice outlining the need for a pipeline repair and the importance of being prepared. Check with the local authorities and [Water PNG](https://www.facebook.com/p/Water-PNG-100069303425822/) for the latest updates.
 
 ## Global travel impacts due to escalation in the Middle East
 

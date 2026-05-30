@@ -1,11 +1,11 @@
 {
     "name": "Bahrain",
-    "update_reason": "Updated information about shelter in place ('Warnings and insurance' page).",
+    "update_reason": "Addition of information\u202fabout entry restrictions for those entering Bahrain from Ebola-affected regions ('Entry requirements' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Bahrain/Warnings and insurance.md",
-            "update_date": "2026-04-17T12:02:30+01:00"
+            "update_date": "2026-05-29T16:37:19+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Bahrain/Getting help.md"
         }
     ],
-    "update_date": "2026-04-17T12:02:30+01:00"
+    "update_date": "2026-05-29T16:37:19+01:00"
 }

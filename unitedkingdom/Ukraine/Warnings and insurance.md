@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   28 May 2026
+:   30 May 2026
 
 Updated:
-:   27 May 2026
+:   29 May 2026
 
 Latest update:
-:   Updated information on drone and missile strikes ('Warnings and insurance' page).
+:   Updated information about dual nationals ('Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/663398524d8bb7378fb6c167/FCDO__TA__044_-_Ukraine_Travel_Advice_Ed12__WEB___1_.jpg)
 
@@ -122,7 +122,7 @@ When returning to the UK, British citizens must carry a valid [British passport]
 
 If you are a dual British-Ukrainian national or you have the right to reside in the UK, and want to leave Ukraine, contact the State Border Guard Service of Ukraine on [adpsu@dpsu.gov.ua](mailto:adpsu@dpsu.gov.ua) for advice.
 
-Ukrainian national and dual-national males aged 18 to 60 are prohibited from leaving the country. Dual-nationals have to comply to the same military conscription laws as Ukrainian mono-nationals.
+Ukrainian national and dual-national males aged 23 to 60 are prohibited from leaving the country. Dual-nationals have to comply to the same military conscription laws as Ukrainian mono-nationals.
 
 Even if you do not consider Ukrainian to be your primary nationality, the Ukrainian authorities may see you as a Ukrainian national: for example, if you have a Ukrainian parent, or if you were born in Ukraine.
 

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   31 January 2026
+:   30 May 2026
 
 Updated:
-:   30 January 2026
+:   29 May 2026
 
 Latest update:
-:   New information about taxis ('Safety and security' page).
+:   Addition of information about heightened health screening measures for those entering Côte d'Ivoire from Ebola-affected regions ('Entry requirements' page).
 
 ![](https://assets.publishing.service.gov.uk/media/66152612c4c84de468346aee/FCDO__TA__049_-_C%C3%B4te_d_Ivoire_Travel_Advice_Ed3__WEB_.jpg)
 

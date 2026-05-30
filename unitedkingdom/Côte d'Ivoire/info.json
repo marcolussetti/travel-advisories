@@ -1,11 +1,11 @@
 {
     "name": "C\u00f4te d'Ivoire",
-    "update_reason": "New information about taxis ('Safety and security' page).",
+    "update_reason": "Addition of information about heightened health screening measures for those entering C\u00f4te d'Ivoire from Ebola-affected regions ('Entry requirements' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/C\u00f4te d'Ivoire/Warnings and insurance.md",
-            "update_date": "2026-01-30T15:19:58+00:00"
+            "update_date": "2026-05-29T16:11:15+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/C\u00f4te d'Ivoire/Getting help.md"
         }
     ],
-    "update_date": "2026-01-30T15:19:58+00:00"
+    "update_date": "2026-05-29T16:11:15+01:00"
 }

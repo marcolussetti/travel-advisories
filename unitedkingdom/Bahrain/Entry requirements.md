@@ -71,6 +71,12 @@ To enter Bahrain, you must have a certificate to prove you’ve had a yellow fev
 
 For full details about medical entry requirements and recommended vaccinations, see [TravelHealthPro’s Bahrain guide](https://travelhealthpro.org.uk/country/20/bahrain#Vaccine_Recommendations).
 
+## Ebola
+
+As a public health measure, there may be heightened health screening imposed on entry, related to the outbreak of Ebola for travellers arriving from affected regions. Check directly with local authorities before travel to confirm if this may apply to you.
+
+The World Health Organisation (WHO) has [declared this a Public Health Emergency of International Concern](https://www.who.int/news/item/17-05-2026-epidemic-of-ebola-disease-in-the-democratic-republic-of-the-congo-and-uganda-determined-a-public-health-emergency-of-international-concern).
+
 ## Customs rules
 
 There are strict rules about [goods you can take into or out of Bahrain](https://bahraincustoms.gov.bh/en/prohibited-and-declared). You must declare anything that may be prohibited or subject to tax or duty.
