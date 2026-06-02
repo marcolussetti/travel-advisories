@@ -1,11 +1,11 @@
 {
     "name": "Guinea",
-    "update_reason": "New information about Parliamentary and local elections on 31 May ('Warnings and insurance' page).",
+    "update_reason": "Removal of information about Parliamentary and local elections on 31 May ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Guinea/Warnings and insurance.md",
-            "update_date": "2026-05-29T14:06:59+01:00"
+            "update_date": "2026-06-01T11:15:14+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Guinea/Getting help.md"
         }
     ],
-    "update_date": "2026-05-29T14:06:59+01:00"
+    "update_date": "2026-06-01T11:15:14+01:00"
 }

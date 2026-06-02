@@ -52,16 +52,18 @@ To enter Zambia, you must have a certificate to prove you’ve had a yellow feve
 
 For full details about medical entry requirements and recommended vaccinations, see [TravelHealthPro’s Zambia guide](https://travelhealthpro.org.uk/country/247/zambia#Vaccine_Recommendations).
 
+### Ebola
+
+As a public health measure, Zambia may introduce entry restrictions including health screening for travellers arriving from affected regions. [Check entry requirements](https://www.gov.uk/foreign-travel-advice) for the country you’re travelling to or transiting.
+
+The World Health Organisation (WHO) have [declared Ebola as a Public Health Emergency of International Concern](https://www.who.int/news/item/17-05-2026-epidemic-of-ebola-disease-in-the-democratic-republic-of-the-congo-and-uganda-determined-a-public-health-emergency-of-international-concern).
+
 ## Customs rules
 
 There are strict rules about [goods you can take into or out of Zambia](https://www.zra.org.zm/importation-of-goods/). You must declare anything that may be prohibited or subject to tax or duty.
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/zambia)
+[Previous:Warnings and insurance](/foreign-travel-advice/zambia)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/zambia/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/zambia/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/zambia/print)

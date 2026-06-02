@@ -81,12 +81,8 @@ It is dangerous to drive outside the main towns after dark due to abandoned vehi
 
 Travel by long-distance public transport can be dangerous due to poor standards of driving, lack of rest periods for drivers, the poor quality of vehicles and poor road conditions. Minibuses in urban areas are usually severely overcrowded, poorly maintained and badly driven.
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/zambia/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/zambia/entry-requirements)
 
-[Next
-:
-Regional risks](/foreign-travel-advice/zambia/regional-risks)
+[Next:Regional risks](/foreign-travel-advice/zambia/regional-risks)
 
 [View a printable version of the whole guide](/foreign-travel-advice/zambia/print)

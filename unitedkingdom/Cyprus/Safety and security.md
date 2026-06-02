@@ -56,16 +56,31 @@ The British High Commission has lists of English-speaking lawyers in Cyprus and
 
 ### Surrogacy
 
-If you are visiting Cyprus to arrange an international surrogacy, consider the risks and challenges involved. Surrogacy is a complex and lengthy process. You should:
+The British High Commission cannot get involved in surrogacy arrangements.
 
-* make sure you are fully aware of the facts and well-prepared before starting the process
-* seek specialist legal advice on Cyprus and UK laws before making any arrangements
-* read FCDO and Home Office [guidance on surrogacy overseas](https://www.gov.uk/government/publications/surrogacy-overseas) including issues you might have to deal with
-* research clinics and hospitals thoroughly to ensure they are safe and reputable
+The laws on surrogacy differ between the areas under the effective control of the Republic of Cyprus and the north of Cyprus.
 
-The British High Commission cannot get involved in surrogacy arrangements or recommend hospitals or clinics.
+### Republic of Cyprus
 
-Commissioning a surrogacy will not automatically mean that the child holds British citizenship. If you want to bring your child born through surrogacy from Cyprus to the UK, you must [apply for a full British passport](https://www.gov.uk/overseas-passports). You will need a Cypriot birth certificate to apply. The maximum period of visa-free stay allowed by the Cypriot authorities is 90 days within a 180-day period.
+Surrogacy is strictly limited to cases where a woman is medically unable to carry a pregnancy. In all cases, court approval is required before any treatment begins. No form of financial compensation for the surrogate is allowed. Prospective parents and clinics may face criminal charges if they proceed without the appropriate approvals in place.
+
+### The north of Cyprus
+
+Pursuing surrogacy in the north carries risks as clinics are not regulated and there is no legal framework governing arrangements. Legal transfer of parenthood can be complex as the birth mother is given automatic parental responsibility. Obtaining birth certificates can also be complicated and may take a long time.
+
+The British High Commission’s ability to provide any assistance in the north of Cyprus is limited.
+
+### Surrogacy arrangements
+
+Before entering into any surrogacy arrangements:
+
+* read FCDO and Home Office [guidance on surrogacy overseas](https://www.gov.uk/government/publications/surrogacy-overseas)
+* fully research hospitals and clinics to ensure they are safe and reputable
+* seek specialist legal advice both in the UK and in Cyprus
+
+### Returning to the UK
+
+Children born through surrogacy are not automatically entitled to British nationality. To bring your child born through surrogacy from Cyprus to the UK, you must apply for a [full British passport](https://www.gov.uk/overseas-passports) for the child before you travel. The application process can take a significant amount of time, and even longer if supporting documentation has been issued in the north of Cyprus, due to the UK’s non-recognition of the authorities there. The maximum period you may be allowed to stay in Cyprus without a visa is 90 days.
 
 ### International parental child abduction
 

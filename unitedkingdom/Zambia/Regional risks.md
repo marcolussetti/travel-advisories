@@ -10,12 +10,8 @@ Take care when travelling in rural parts of Zambia, close to the border with the
 
 Legitimate border crossings in these areas are generally safe.
 
-[Previous
-:
-Safety and security](/foreign-travel-advice/zambia/safety-and-security)
+[Previous:Safety and security](/foreign-travel-advice/zambia/safety-and-security)
 
-[Next
-:
-Health](/foreign-travel-advice/zambia/health)
+[Next:Health](/foreign-travel-advice/zambia/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/zambia/print)

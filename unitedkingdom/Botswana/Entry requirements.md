@@ -46,6 +46,12 @@ To enter Botswana, you must have a certificate to prove you’ve had a yellow fe
 
 For more details about health entry requirements and recommended vaccinations, see [TravelHealthPro’s Botswana guide](https://travelhealthpro.org.uk/country/33/botswana#Vaccine_Recommendations).
 
+### Ebola
+
+As a public health measure, Botswana has introduced entry restrictions including health screening for travellers arriving from affected regions. [Check entry requirements](https://www.gov.uk/foreign-travel-advice) for the country you’re travelling to or transiting.
+
+The World Health Organisation (WHO) have [declared Ebola as a Public Health Emergency of International Concern](https://www.who.int/news/item/17-05-2026-epidemic-of-ebola-disease-in-the-democratic-republic-of-the-congo-and-uganda-determined-a-public-health-emergency-of-international-concern).
+
 ## Customs rules
 
 There are strict rules about goods you can take into or out of Botswana. You must declare anything that may be prohibited or subject to tax or duty.

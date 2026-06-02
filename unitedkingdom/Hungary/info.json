@@ -1,11 +1,11 @@
 {
     "name": "Hungary",
-    "update_reason": "New information about the upcoming UEFA Champions League Final on 30 May (\u2018Warnings and insurance\u2019 page).",
+    "update_reason": "Removal of information about the upcoming UEFA Champions League Final on 30 May (\u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Hungary/Warnings and insurance.md",
-            "update_date": "2026-05-22T12:24:47+01:00"
+            "update_date": "2026-06-01T12:49:16+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Hungary/Getting help.md"
         }
     ],
-    "update_date": "2026-05-22T12:24:47+01:00"
+    "update_date": "2026-06-01T12:49:16+01:00"
 }

@@ -1,11 +1,11 @@
 {
     "name": "Zambia",
-    "update_reason": "New information about dual nationals returning to the UK (\u2018Entry requirements\u2019 page).",
+    "update_reason": "New information about entry requirements for those entering from Ebola-affected regions ('Entry requirements' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Zambia/Warnings and insurance.md",
-            "update_date": "2025-12-10T13:04:00+00:00"
+            "update_date": "2026-06-01T14:58:33+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Zambia/Getting help.md"
         }
     ],
-    "update_date": "2025-12-10T13:04:00+00:00"
+    "update_date": "2026-06-01T14:58:33+01:00"
 }

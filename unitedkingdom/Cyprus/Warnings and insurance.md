@@ -1,17 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   6 March 2026
+:   2 June 2026
 
 Updated:
-:   5 March 2026
+:   1 June 2026
 
 Latest update:
-:   Updated assessment that terrorist attacks in Cyprus cannot be ruled out (‘Safety and security’ page).
-
-## Suspected drone impact at RAF Akrotiri
-
-On 2 March 2026, the Sovereign Base Areas Administration confirmed a suspected drone impact at RAF Akrotiri.  British nationals in the Sovereign Base Areas should follow instructions from the Sovereign Base Areas Administration [British Bases Cyprus Facebook](https://www.facebook.com/BritishBasesCyprus/?locale=en_GB)  British nationals in the Republic of Cyprus should follow any instructions from Cypriot local authorities.
+:   Updated information on surrogacy in Cyprus ('Safety and security' page).
 
 ## Regional escalation
 
