@@ -6,11 +6,17 @@ Avoid Non-Essential Travel
 
 ### **Travel Alert**
 
-Irish citizens are advised to be vigilant and keep up to date with local developments and avoid all demonstrations and large gatherings. If you become aware of any nearby protests or disturbances, leave the area immediately and monitor local media for up-to-date information.
+#### **Ebola Outbreak**
 
-Irish citizens are advised to follow developments in the region in respect of m-pox, and to consult advice available such as on the [**HSE website**](https://www2.hse.ie/conditions/mpox/)**.**
+On 17 May, the World Health Organisation (WHO) declared the outbreak of the Bundibugyo strain of Ebola in the Democratic Republic of Congo and Uganda a [**Public Health Emergency of International Concern**](https://www.who.int/news/item/17-05-2026-epidemic-of-ebola-disease-in-the-democratic-republic-of-the-congo-and-uganda-determined-a-public-health-emergency-of-international-concern).
+
+No cases of Ebola have been confirmed in Nigeria to date. More information about Ebola is available from the [**World Health Organisation**](https://www.who.int/news-room/fact-sheets/detail/ebola-virus-disease).
+
+Health screening measures have been put in place by the Nigerian authorities for all passengers arriving to Nigeria by air. All passengers are required to complete [**the Nigerian Centre for Disease Control Health Declaration Form**](https://healthapp.ncdc.gov.ng/health-declaration-page/) prior to their arrival in Nigeria. Passengers unable to complete the online form in advance will be provided with a paper-based Health Declaration Form upon arrival for completion and submission to the Port Health Service.
 
 ### **General Travel Advice**
+
+Irish citizens are advised to be vigilant and keep up to date with local developments and avoid all demonstrations and large gatherings. If you become aware of any nearby protests or disturbances, leave the area immediately and monitor local media for up-to-date information.
 
 We advise against all travel to the following areas:
 

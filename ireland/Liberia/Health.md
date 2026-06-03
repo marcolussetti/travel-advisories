@@ -2,7 +2,7 @@
 
 ### **Medical Services**
 
-The availability and quality of medical services in Liberia is poor. Citizens should be aware that you may have difficulty accessing even basic medical services, particularly in remote areas. If you need treatment, you may be asked to pay up front.
+The availability and quality of medical services in Liberia is poor, especially outside Monrovia. Citizens are recommended to discuss medical needs with their doctor and/or a tropical health clinic before travelling to Liberia. Citizens should be aware that you may have difficulty accessing even basic medical services, particularly in remote areas. If you need treatment, you may be asked to pay up front.
 
 ### **Pre-existing Medical Condition**
 
@@ -20,19 +20,13 @@ Before travelling, we strongly recommend that you obtain comprehensive travel in
 
 Mains water is limited, and tap water should be boiled before drinking. Bottled water is readily available.
 
-### **Ebola Virus Disease (EVD) Outbreak**
+### **Ebola**
 
-In February 2021, there was an outbreak of Ebola in Guinea close to the Liberian border, and Liberian authorities have increased surveillance and preventative measures.
+On 17 May, the World Health Organisation declared that the outbreak of the Bundibugyo strain of Ebola in the Democratic Republic of the Congo (DRC) and Uganda constitutes a [Public Health Emergency of International Concern](https://www.who.int/news/item/17-05-2026-epidemic-of-ebola-disease-in-the-democratic-republic-of-the-congo-and-uganda-determined-a-public-health-emergency-of-international-concern).
 
-While the risk of contracting Ebola is extremely low, as it is expected that response systems in Liberia will be capable of containing, and dealing with, potential future flare-ups, visitors should nonetheless exercise due caution, and take necessary precautions to prevent infection. Individuals should avoid being directly exposed to any bodily fluids from a dead or living Ebola-infected person, including through unprotected sexual contact with patients that have recovered from Ebola. If you do become exposed, you should seek rapid medical attention. You should contact the medical care facility by phone before your visit, in order to enable medical personnel to use appropriate protection at the time of admission.
+As of 1 June, there are no confirmed cases of Ebola in Liberia relating to this outbreak. The government of Liberia has [introduced](https://www.facebook.com/share/p/1CqPwyZoHM/) some screening measures at points of entry. The latest updates on this Ebola outbreak in DRC and Uganda are on the [World Health Organisation](https://www.who.int/)'s website and general information about Ebola is available on the Irish [Health Protection Surveillance Centre](https://www.hpsc.ie/a-z/vectorb)’s website.
 
-Further information on Ebola is available from the [**Health Protection Surveillance Centre website.**](http://www.hpsc.ie/A-Z/Vectorborne/ViralHaemorrhagicFever/Ebola/)
-
-If you develop a fever, unexplained fatigue, diarrhoea or any other severe symptoms while in Liberia, or in the few weeks following your departure from Liberia, you should telephone your GP or Accident and Emergency Department mentioning your symptoms and your travel history, since it may result from an infection like malaria that requires immediate investigation and treatment.
-
-### **Marburg Virus Disease**
-
-A Marburg Virus Disease outbreak was officially declared by the Guinean government on 6 August 2021. Liberia is now tightening surveillance and community engagement for alerts, reporting, and preventive measures for Marburg virus disease (MVD) as well as Ebola virus disease (EVD) along the border with Guinea. This is the first time that MVD has been identified in West Africa. Risk of transmission is high at national and regional level. So far no MVD alert has been reported in Liberia.
+The Embassy of Ireland, Liberia continues to monitor the situation. All Irish citizens living in or travelling to Liberia should register on the [Citizens Registration](https://www.ireland.ie/en/dfa/overseas-travel/citizens-registration/) portal.
 
 ### **Yellow Fever**
 

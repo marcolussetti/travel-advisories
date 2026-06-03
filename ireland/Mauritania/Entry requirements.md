@@ -6,7 +6,7 @@ Irish citizens should apply before travel for an online [**e-visa**](https://anr
 
 You should apply for an e-visa well in advance of your travel date to ensure that it is issued on time by the Mauritanian authorities.
 
-E-visa fees must be paid on arrival in Mauritania in Euros or US Dollars. For information on visa lengths and fees, read guidance on the [**Mauritanian government’s website**](https://www.diplomatie.gov.mr/fr/node/50). Change and receipts are not issued
+E-visa fees must be paid on arrival in Mauritania in Euros or US Dollars. For information on visa lengths and fees, read guidance on the [**Mauritanian government’s website**](https://www.diplomatie.gov.mr/fr/node/50). Change and receipts are not issued. It is important to retain your e-visa document as you will have to present it to the migration authorities when you are exiting Mauritania.
 
 ### **Passport**
 
