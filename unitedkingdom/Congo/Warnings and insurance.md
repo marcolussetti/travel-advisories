@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   11 December 2025
+:   3 June 2026
 
 Updated:
-:   10 December 2025
+:   2 June 2026
 
 Latest update:
-:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
+:   New information about Ebola screening when arriving in country (‘Entry requirements’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/678a6b24d0561c11b91d05b9/FCDO__TA__011_-_Congo_Travel_Advice_Ed4__WEB_.jpg)
 
@@ -52,8 +52,6 @@ Follow FCDO:
 * [travel advice on Facebook](https://www.facebook.com/FCDOTravel/)
 * [Travel Aware on Instagram](https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Ftravelaware%2F&is_from_rle)
 
-[Next
-:
- Entry requirements](/foreign-travel-advice/congo/entry-requirements)
+[Next: Entry requirements](/foreign-travel-advice/congo/entry-requirements)
 
 [View a printable version of the whole guide](/foreign-travel-advice/congo/print)

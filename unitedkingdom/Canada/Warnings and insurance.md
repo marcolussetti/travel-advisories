@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   20 May 2026
+:   3 June 2026
 
 Updated:
-:   19 May 2026
+:   2 June 2026
 
 Latest update:
-:   Updated information for fans travelling to the World Cup 2026 (‘World Cup 2026’ page).
+:   Addition of  information about entry requirements for those entering from Ebola-affected regions ('Entry requirements' page).
 
 ## World Cup 2026
 

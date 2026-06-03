@@ -71,12 +71,8 @@ A passenger rail service operates between Brazzaville and Pointe Noire however, 
 
 The river border crossing between Brazzaville and Kinshasa can close without warning. The ferry stops running in late afternoon, does not run on Sunday and may be cancelled when there is bad weather. Check before travelling.
 
-[Previous
-:
- Entry requirements](/foreign-travel-advice/congo/entry-requirements)
+[Previous: Entry requirements](/foreign-travel-advice/congo/entry-requirements)
 
-[Next
-:
-Regional risks](/foreign-travel-advice/congo/regional-risks)
+[Next:Regional risks](/foreign-travel-advice/congo/regional-risks)
 
 [View a printable version of the whole guide](/foreign-travel-advice/congo/print)

@@ -39,6 +39,18 @@ Canadian border officials may ask you to show a return or onward ticket and proo
 
 See information on [visas for permanent residence, study or work in Canada](https://www.canada.ca/en/services/immigration-citizenship.html).
 
+## Ebola
+
+As a public health measure, Canada has introduced temporary border measures for travellers arriving from regions affected by the Ebola outbreak.
+
+Canada is suspending certain immigration documents for residents of the Democratic Republic of 4Congo, Uganda and South Sudan until August 28, 2026.
+
+Canadian citizens, permanent residents, and foreign nationals entering Canada who, in the previous 21 days, have been in the Democratic Republic of the Congo, Uganda or South Sudan will be given a health assessment upon arrival. Those who do not have symptoms will have to quarantine for 21 days. If they do not have a place where they can quarantine safely, they will be provided with an appropriate location. Travellers who have symptoms will be isolated at a hospital for further assessment. These measures are being implemented under the Quarantine Act. This border measure will be in place until August 29, 2026.
+
+The World Health Organisation (WHO) has [declared this a Public Health Emergency of International Concern](https://www.who.int/news/item/17-05-2026-epidemic-of-ebola-disease-in-the-democratic-republic-of-the-congo-and-uganda-determined-a-public-health-emergency-of-international-concern).
+
+Check the [Government of Canada’s official website for more information](https://www.canada.ca/en/public-health/services/diseases/ebola/border-measures.html).
+
 ### Transiting through Canada
 
 If you are travelling through Canada (transiting) by air, you must have an eTA or a transit visa.

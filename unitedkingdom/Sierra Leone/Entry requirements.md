@@ -39,9 +39,15 @@ To enter Sierra Leone, you must have a certificate to prove you’ve had a yello
 
 For more details about medical entry requirements and recommended vaccinations, see [TravelHealthPro’s Sierra Leone guide](https://travelhealthpro.org.uk/country/195/sierra-leone#Vaccine_Recommendations).
 
+## Ebola Screening
+
+As a public health measure, Sierra Leone has introduced screening for arriving travellers. You should expect enhanced health screening measures on arrival.
+
+The World Health Organisation (WHO) has [declared this a Public Health Emergency of International Concern](https://www.who.int/news/item/17-05-2026-epidemic-of-ebola-disease-in-the-democratic-republic-of-the-congo-and-uganda-determined-a-public-health-emergency-of-international-concern).
+
 ## Airport security fee
 
-All passengers must pay a 25 US dollar airport security fee on arrival and departure. You must show proof of payment before immigration immigration when departing and before leaving the terminal on arrival.
+All passengers must pay a 25 US dollar airport security fee on arrival and departure. You must show proof of payment before immigration when departing and before leaving the terminal on arrival.
 
 You can pay:
 

@@ -28,6 +28,12 @@ The Mexican Embassy has information on [applying for a visa in the UK](https://c
 
 See information on [applying for a visa in Mexico](https://www.gob.mx/sre/acciones-y-programas/visas-para-extranjeros-8036) (in Spanish).
 
+## Ebola
+
+As a public health measure, Mexico may introduce temporary border measures for travellers arriving from countries affected by the Ebola outbreak.
+
+The World Health Organisation (WHO) has [declared this a Public Health Emergency of International Concern.](https://www.canada.ca/en/public-health/services/diseases/ebola/border-measures.html)
+
 ### Travelling through the USA
 
 If you are travelling or transiting through the USA to or from Mexico, see [entry requirements in USA travel advice](https://www.gov.uk/foreign-travel-advice/usa/entry-requirements) or contact the [US Embassy in London](https://uk.usembassy.gov/visas/). If you do not have an Electronic System for Travel Authorisation (ESTA) visa waiver or the correct visa, you will not be allowed to travel to the USA.

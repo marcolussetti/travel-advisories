@@ -1,19 +1,19 @@
 # Warnings and insurance
 
 Still current at:
-:   1 May 2026
+:   3 June 2026
 
 Updated:
-:   30 April 2026
+:   2 June 2026
 
 Latest update:
 :   Updated information on strike action ('Warnings and insurance' page).
 
 ## National strike action
 
-A national strike is planned for 12 May. This is expected to cause severe travel disruption across public transport and may affect wider public services, including schools. International flights are likely to be heavily affected, with potential cancellations at short notice. A large-scale demonstration is also planned in central Brussels on 12 May.
+An air traffic controller strike is affecting Belgian airports between 2pm and 9pm on Tuesday 2 June. Check with your airport and travel operator for the latest updates.
 
-Strike action is an ongoing issue that can cause travel disruption. General strikes took place on 31 March, 29 April,14 October, 26 November, 15 December 2025 and 12 March 2026. Strike action may be announced at short notice.
+Strike action is an ongoing issue that can cause travel disruption. General strikes took place on 31 March, 29 April,14 October, 26 November, 15 December 2025 and 12 March and 12 May 2026. Strike action may be announced at short notice.
 
 Monitor local news and check with your provider regarding potential delays and closures. Always check with your travel operator for the latest updates. Read more information about demonstrations and strikes on the [Safety and security page](https://www.gov.uk/foreign-travel-advice/belgium/safety-and-security).
 

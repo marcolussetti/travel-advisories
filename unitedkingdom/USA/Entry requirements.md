@@ -94,6 +94,12 @@ The US government has [information about children travelling to the US](https://
 
 For details about medical entry requirements and recommended vaccinations, see [TravelHealthPro’s US guide](https://travelhealthpro.org.uk/country/235/usa#Vaccine_Recommendations).
 
+## Ebola
+
+As a public health measure, the United States has introduced temporary entry restrictions for travellers who were recently in the Democratic Republic of the Congo, Uganda or South Sudan.  See [Information for travellers returning from Ebola-affected areas](https://www.cdc.gov/ebola/situation-summary/returning-travelers.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Febola%2Fsituation-summary%2Ftitle-42-order.html). Consult your airline before travelling.
+
+The World Health Organisation (WHO) has [declared this a Public Health Emergency of International Concern](https://www.who.int/news/item/17-05-2026-epidemic-of-ebola-disease-in-the-democratic-republic-of-the-congo-and-uganda-determined-a-public-health-emergency-of-international-concern).
+
 ## Electronic devices
 
 Officials may ask to inspect your electronic devices, emails, text messages, and social media activity. If you refuse, they can delay or deny your entry. US Customs and Border Protection has [more information on electronic device searches](https://www.cbp.gov/travel/cbp-search-authority/border-search-electronic-devices).

@@ -1,21 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   2 June 2026
+:   3 June 2026
 
 Updated:
-:   1 June 2026
+:   2 June 2026
 
 Latest update:
-:   New information following an explosion at a fireworks manufacturing facility in the Magħtab/Mosta area ('Warnings and insurance' page).
-
-## Explosion at a fireworks manufacturing facility
-
-There has been an explosion at a fireworks manufacturing facility in the Magħtab/Mosta area this morning.
-
-We remain in contact with the Maltese authorities.
-
-Stay away from the immediate Magħtab/Mosta area while emergency services remain on scene and follow the advice of the local authorities.
+:   Removal of information following an explosion at a fireworks manufacturing facility in the Magħtab/Mosta area ('Warnings and insurance' page).
 
 ## Before you travel
 

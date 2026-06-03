@@ -46,6 +46,12 @@ To enter Thailand, you must have a certificate to prove you’ve had a yellow fe
 
 For full details about medical entry requirements and recommended vaccinations, see [TravelHealthPro’s Thailand guide](https://travelhealthpro.org.uk/country/221/thailand#Vaccine_Recommendations).
 
+## Ebola
+
+As a public health measure, Thailand has introduced health screening for travellers arriving from affected regions. [Travellers are subject to a mandatory quarantine or self-isolation period of at least 21 days](https://x.com/prdthailand/status/2059480037406191802?s=46).
+
+The World Health Organisation (WHO) has [declared this a Public Health Emergency of International Concern](https://www.who.int/news/item/17-05-2026-epidemic-of-ebola-disease-in-the-democratic-republic-of-the-congo-and-uganda-determined-a-public-health-emergency-of-international-concern).
+
 ## Customs rules
 
 There are strict rules about [goods you can take into or out of Thailand](https://www.customs.go.th/list_strc_simple_neted.php?ini_content=individual_160503_03_160905_01&lang=en&left_menu=menu_individual_submenu_01_160421_01). You must declare anything that may be prohibited or subject to tax or duty.

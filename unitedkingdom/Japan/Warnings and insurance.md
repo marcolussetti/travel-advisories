@@ -1,13 +1,17 @@
 # Warnings and insurance
 
 Still current at:
-:   29 April 2026
+:   3 June 2026
 
 Updated:
-:   28 April 2026
+:   3 June 2026
 
 Latest update:
-:   Updated information on drink spiking and custody disputes ('Safety and security' page).
+:   Warning on disruption and flooding due to Typhoon No. 6 Jangmi (Warnings and insurance page).
+
+## Typhoon No. 6 Jangmi
+
+Typhoon No. 6 Jangmi is currently affecting central Japan, including the Tokyo area, bringing heavy rain, strong winds and disruption to air and rail services. Localised flooding and transport delays are possible. If you are in an affected area, you should monitor advice issued by national and local authorities and follow any instructions. You can track the progress of the storm (in English) via [the Japan Meteorological Agency](https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.jma.go.jp%2Fjma%2Findexe.html&data=05%7C02%7CEmily.Metens%40fcdo.gov.uk%7C3a35a99dbdf74e9fa52708dec10eeb0e%7Cd3a2d0d37cc84f52bbf985bd43d94279%7C0%7C0%7C639160466976642305%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=Fmerw29kFo88ecNm2yKX1IFGcDLmpGfW%2BYrE7JRfUEw%3D&reserved=0) and latest news from [the NHK World](https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww3.nhk.or.jp%2Fnhkworld%2F&data=05%7C02%7CEmily.Metens%40fcdo.gov.uk%7C3a35a99dbdf74e9fa52708dec10eeb0e%7Cd3a2d0d37cc84f52bbf985bd43d94279%7C0%7C0%7C639160466976659590%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=lDU8JCd%2FUJ%2FZEjEZL1lwG8gulosoUNkx1wLNnF2gRi0%3D&reserved=0). You can also [subscribe](https://www.gov.uk/foreign-travel-advice/japan/email-signup) to our email alert service to receive updates to travel advice for Japan.
 
 ## Global travel impacts due to escalation in the Middle East
 

@@ -1,11 +1,11 @@
 {
     "name": "Japan",
-    "update_reason": "Updated information on drink spiking and custody disputes ('Safety and security' page).",
+    "update_reason": "Warning on disruption and flooding due to Typhoon No. 6 Jangmi (Warnings and insurance page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Japan/Warnings and insurance.md",
-            "update_date": "2026-04-28T10:57:53+01:00"
+            "update_date": "2026-06-03T04:36:06+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Japan/Getting help.md"
         }
     ],
-    "update_date": "2026-04-28T10:57:53+01:00"
+    "update_date": "2026-06-03T04:36:06+01:00"
 }

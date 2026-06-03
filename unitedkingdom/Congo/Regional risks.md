@@ -14,12 +14,8 @@ There is a risk of violence, crime and insecurity in this area due to instabilit
 
 Some areas in the Pool region have historically been areas of conflict between the government and the Ninja insurgent group. There have not been any reports of live conflict since a ceasefire was agreed in 2017, however a risk remains of violent clashes breaking out with little or no notice, particularly in the districts of Boko, Kindamba, Kinkala, Mayama and Mindouli.
 
-[Previous
-:
-Safety and security](/foreign-travel-advice/congo/safety-and-security)
+[Previous:Safety and security](/foreign-travel-advice/congo/safety-and-security)
 
-[Next
-:
-Health](/foreign-travel-advice/congo/health)
+[Next:Health](/foreign-travel-advice/congo/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/congo/print)

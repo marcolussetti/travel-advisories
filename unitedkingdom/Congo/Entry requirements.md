@@ -39,16 +39,18 @@ To pass border control in the Republic of Congo, you must have certificates to p
 
 For more details about health entry requirements and recommended vaccinations, see [TravelHealthPro’s Republic of Congo guide](https://www.travelhealthpro.org.uk/country/55/congo#Vaccine_Recommendations).
 
+## Ebola
+
+Travellers arriving in the Republic of Congo may be subject to enhanced health screening measures due to the ongoing Ebola outbreak centred in the Democratic Republic of Congo.
+
+The World Health Organisation (WHO) has [declared this a Public Health Emergency of International Concern](https://www.who.int/news/item/17-05-2026-epidemic-of-ebola-disease-in-the-democratic-republic-of-the-congo-and-uganda-determined-a-public-health-emergency-of-international-concern). [Check entry requirements](https://www.gov.uk/foreign-travel-advice) for the country you’re travelling to or transiting.
+
 ## Customs rules
 
 There are strict rules about goods you can take into or out of the Republic of Congo. You must declare anything that may be prohibited or subject to tax or duty.
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/congo)
+[Previous:Warnings and insurance](/foreign-travel-advice/congo)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/congo/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/congo/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/congo/print)

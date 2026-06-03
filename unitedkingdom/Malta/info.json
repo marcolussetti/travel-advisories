@@ -1,11 +1,11 @@
 {
     "name": "Malta",
-    "update_reason": "New information following an explosion at a fireworks manufacturing facility in the Mag\u0127tab/Mosta area ('Warnings and insurance' page).",
+    "update_reason": "Removal of\u00a0information following an explosion at a fireworks manufacturing facility in the Mag\u0127tab/Mosta area ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Malta/Warnings and insurance.md",
-            "update_date": "2026-06-01T09:54:12+01:00"
+            "update_date": "2026-06-02T15:36:37+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Malta/Getting help.md"
         }
     ],
-    "update_date": "2026-06-01T09:54:12+01:00"
+    "update_date": "2026-06-02T15:36:37+01:00"
 }

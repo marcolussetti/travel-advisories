@@ -16,7 +16,7 @@ Following the end of the civil war in 2002, the political situation in Sierra Le
 
 ## Crime
 
-In a small number of incidents, British nationals have been robbed, sometimes at knifepoint. Robberies have taken place in Congo Cross, Wilkinson Road, Lumley Beach, Aberdeen and at beach resorts along the Freetown peninsula and surrounding islands.
+In a small number of incidents, British nationals have been robbed, sometimes at knifepoint. Robberies have taken place in Congo Cross, Wilkinson Road, Lumley Beach, Aberdeen and at beach resorts along the Freetown peninsula and surrounding islands. Crime rates in Sierra Leone are comparatively low, however incidents of violent and organised crime are rising. Exercise vigilance and avoid walking alone at night.
 
 The greatest risk to short-stay visitors is from pickpocketing and mugging in Freetown. If you’re staying for a longer period, make sure you secure your property and employ guards.
 
@@ -47,7 +47,7 @@ Always carry ID such as a passport or residence permit. The police will usually 
 
 ### Illegal drugs and prison sentences
 
-Do not become involved with drugs of any kind. There are heavy penalties for drug trafficking, including prison sentences. Prison conditions are hard.
+Do not become involved with drugs of any kind. There are heavy penalties for drug trafficking, including prison sentences. Prison conditions are harsh.
 
 ### Diamond smuggling
 

@@ -1,11 +1,11 @@
 {
     "name": "Mexico",
-    "update_reason": "Updated information for fans travelling to the World Cup 2026 (\u2018World Cup 2026\u2019 page).",
+    "update_reason": "Addition of \u202finformation\u202fabout entry requirements for those entering from Ebola-affected regions ('Entry requirements' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Mexico/Warnings and insurance.md",
-            "update_date": "2026-05-19T15:22:58+01:00"
+            "update_date": "2026-06-02T17:08:53+01:00"
         },
         {
             "title": "Entry requirements",
@@ -38,5 +38,5 @@
             "file": "unitedkingdom/Mexico/Getting help.md"
         }
     ],
-    "update_date": "2026-05-19T15:22:58+01:00"
+    "update_date": "2026-06-02T17:08:53+01:00"
 }

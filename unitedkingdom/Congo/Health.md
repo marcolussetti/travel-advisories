@@ -17,7 +17,7 @@ Contact your insurance company quickly if you’re referred to a medical facilit
 
 At least 8 weeks before you travel:
 
-* check the latest [vaccine recommndations for the Republic of Congo](https://www.travelhealthpro.org.uk/country/55/congo#Vaccine_Recommendations)
+* check the latest [vaccine recommendations for the Republic of Congo](https://www.travelhealthpro.org.uk/country/55/congo#Vaccine_Recommendations)
 * see how to get vaccines and whether you have to pay on the [NHS travel vaccinations page](https://www.nhs.uk/conditions/travel-vaccinations/)
 
 See [what health risks you’ll face in the Republic of Congo](https://www.travelhealthpro.org.uk/country/55/congo#Vaccine_Recommendations) , including:
@@ -47,12 +47,8 @@ FCDO has a [list of medical providers in the Republic of Congo](https://www.gov.
 
 Read [FCDO guidance on travel and mental health](https://www.gov.uk/guidance/foreign-travel-advice-for-people-with-mental-health-issues). There is also [mental health guidance on TravelHealthPro](https://travelhealthpro.org.uk/factsheet/85/travelling-with-mental-health-conditions).
 
-[Previous
-:
-Regional risks](/foreign-travel-advice/congo/regional-risks)
+[Previous:Regional risks](/foreign-travel-advice/congo/regional-risks)
 
-[Next
-:
-Getting help](/foreign-travel-advice/congo/getting-help)
+[Next:Getting help](/foreign-travel-advice/congo/getting-help)
 
 [View a printable version of the whole guide](/foreign-travel-advice/congo/print)
