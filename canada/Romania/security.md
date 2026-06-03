@@ -16,6 +16,18 @@ Theft from hotel rooms is common. Make sure your valuables are always locked awa
 
 Ensure that your personal belongings, including your passport and other travel documents, are secure at all times, particularly on public transportation. Avoid showing signs of affluence and carrying large sums of cash.
 
+### Impact of the armed conflict in Ukraine
+
+In February 2022, Russia invaded Ukraine, which shares a land border with Romania.
+
+Drones from the armed conflict in Ukraine have passed through Romanian airspace and debris has landed in areas near the Ukrainian border.
+
+If you are currently in Romania or are planning to visit in the future:
+
+* always be aware of your surroundings, especially near the border with Ukraine
+* follow the instructions of local authorities
+* monitor trustworthy news sources to stay informed on the evolving situation
+
 ### Terrorism
 
 There is a threat of terrorism in Europe. Terrorists have carried out attacks in several European cities and further attacks are likely.

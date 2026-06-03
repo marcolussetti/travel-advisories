@@ -1,7 +1,7 @@
 {
     "name": "Uganda",
-    "update_reason": "Safety and security section \u2013 added information on temporary border measures in Canada for travellers who have been in Uganda",
-    "update_date": "2026-05-29T16:11:00",
+    "update_reason": "Safety and security section \u2013 added information on border restrictions with the Democratic Republic of the Congo",
+    "update_date": "2026-06-02T15:46:00",
     "sections": {
         "risk": "canada/Uganda/risk.md",
         "security": "canada/Uganda/security.md",

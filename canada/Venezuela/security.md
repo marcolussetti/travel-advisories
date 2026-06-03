@@ -35,10 +35,6 @@ If you travel to the border between Venezuela and Guyana:
 
 #### Colombia
 
-### Border crossings with Colombia
-
-Land and river border crossings to Colombia from Venezuela will be closed from 6 am on May 30, 2026, until 6 am on June 1, 2026, due to Presidential elections in Colombia.
-
 Armed criminal groups frequently operate at the border between Venezuela and Colombia, conducting illegal activities such as:
 
 * smuggling

@@ -2,7 +2,15 @@
 
 ## Entry and exit requirements
 
-Gibraltar is a British overseas territory.
+### Alignment with the Schengen area
+
+On July 15, 2026, pending final approval, Gibraltar’s entry and exit requirements for short-stay visitors will align with Schengen-style rules, despite Gibraltar not being part of the Schengen area.
+
+Canadian citizens will not need a visa to travel to Gibraltar or to countries within the Schengen area. However, visa-free travel will only apply to stays of up to 90 days in any 180-day period. Stays will be cumulative and will include visits to Gibraltar as well as any Schengen area country.
+
+If arriving at Gibraltar International Airport, you can expect immigration checks from both Gibraltarian and Spanish authorities. Make sure you meet the entry and exit requirements for Spain before travelling to Gibraltar.
+
+Gibraltar is a British Overseas Territory.
 
 Some countries have imposed measures in response to the [Ebola disease outbreak](https://travel.gc.ca/travelling/health-safety/travel-health-notices/549). These can include restrictions on entry and health screening measures for travellers having recently visited an affected country. If you are suspected of having symptoms, you may be subject to isolation, quarantine and/or travel restrictions. Contact the authorities of the country you are travelling to for more details.
 

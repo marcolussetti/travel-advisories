@@ -10,7 +10,7 @@ Some countries have imposed entry restrictions for persons who are arriving from
 
 A larger number of countries, including Canada, have imposed health screening measure upon arrival for travellers who have visited Uganda. These may include the completion of health declaration form, temperature checks, quarantine and restrictions on travel until you are cleared by local health authorities. Contact the authorities of the country you are travelling to for more details.
 
-[More information on the Ebola outbreak in Uganda](https://travel.gc.ca/destinations/uganda#health)
+[More information on the Ebola outbreak in Uganda](https://travel.gc.ca/travelling/health-safety/travel-health-notices/550)
 
 The authorities of a country or territory decide who can enter or exit through its borders. The Government of Canada cannot intervene on your behalf if you do not meet your destination’s entry or exit requirements.
 

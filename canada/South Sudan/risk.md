@@ -24,6 +24,8 @@ You should leave by commercial means if you can do so safely. If you choose to s
 
 If the armed conflict intensifies, commercial means to depart the country may be impacted. The Government of Canada’s ability to provide consular services during an active conflict may be limited.
 
+**Canadian border measures related to Ebola for travellers from South Sudan**
+
 Due to the outbreaks of Ebola disease in the Democratic Republic of the Congo (DRC) and Uganda, from May 30, 2026, to August 29, 2026, Canada will have temporary border measures in place for travellers who have been in South Soudan, the DRC, or Uganda within the preceding 21 days.
 
 * Travellers who have been in these countries in the preceding 21 days and who don’t have Ebola disease symptoms when they get to Canada must quarantine for 21 days and monitor their health daily
@@ -33,4 +35,4 @@ Due to the outbreaks of Ebola disease in the Democratic Republic of the Congo (D
 
 * Travellers who exhibit symptoms of Ebola disease upon arrival will receive an immediate medical assessment and be placed in isolation at a medical facility or other appropriate place
 
-[Ebola disease : Temporary measures](https://www.canada.ca/en/immigration-refugees-citizenship/services/special-measures/ebola-2026.html) – Government of Canada
+[Ebola disease: Health advice for travelling abroad](https://www.canada.ca/en/public-health/services/diseases/ebola/travel-health-advice.html) – Government of Canada

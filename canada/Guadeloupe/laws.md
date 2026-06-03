@@ -53,7 +53,7 @@ Be aware that Canadian consular officials cannot interfere in private legal matt
 
 You must be at least 18 years old to drive a car in Guadeloupe. However, the minimum age to rent a car is 21, and the driver must have held a driver’s licence for at least 2 years.
 
-You can drive in Guadeloupe with a valid Canadian driver’s licence for up to 6 months.
+You can drive with a valid Canadian driver’s licence for up to 6 months.
 
 You must carry an International Driving Permit.
 
@@ -66,6 +66,14 @@ The “priority to the right” system is in effect in Guadeloupe. Drivers must 
 Vehicles already in a roundabout have priority over those trying to enter it. In this case, priority is given to the left rather than the right.
 
 Pay attention when driving in Guadeloupe.
+
+#### Car accidents
+
+If there is a disagreement between the drivers involved in a car accident:
+
+* do not argue
+* write down the licence plate number
+* go to the nearest police station
 
 ### Money
 

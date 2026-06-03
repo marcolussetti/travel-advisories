@@ -16,7 +16,7 @@ Petty crime, such as pickpocketing, bag snatching and car break-ins, is more com
 
 ### Demonstrations and strikes
 
-Demonstrations and labour strikes occur. They may cause disruptions to service delivery. Even peaceful demonstrations can turn violent. They can also lead to disruptions to traffic and public transportation.
+Demonstrations and labour strikes occur. They may cause disruptions to service delivery. Even peaceful demonstrations can turn violent. They can also lead to disruptions to traffic and public transportation, as well as limit fuel supplies at gas stations.
 
 * Avoid areas where demonstrations and large gatherings are taking place
 * Follow the instructions of local authorities
@@ -35,7 +35,7 @@ Guadeloupe regularly experiences water shortages. Local authorities may impose w
 
 Some areas may pose risks such as strong, unpredictable currents or dangerous seabeds.
 
-* Use a reputable company
+* Use a reputable company when booking an activity
 * Respect the areas reserved for swimming
 * Always respect warning flags advising of dangerous conditions
 * Follow the instructions and warnings of local authorities
@@ -55,7 +55,7 @@ If you intend on hiking:
 * never set out after 3 pm, as it gets dark quickly
 * monitor weather reports
 
-The Prefecture may restrict access to the hiking trail on the “La Soufrière” volcano under certain circumstances.
+The Prefecture may restrict access to the hiking trail on the La Soufrière volcano under certain circumstances.
 
 #### Useful links
 
@@ -65,8 +65,11 @@ The Prefecture may restrict access to the hiking trail on the “La Soufrière�
 
 ### Roads
 
-Road conditions and road safety are very good throughout the territory.  
+Road conditions and road safety are very good throughout the territory.
+
 The roads are well maintained but can be narrow and winding. Driving at night can be dangerous, particularly in the mountains and on rural roads.
+
+Accidents are common. Scooters can appear suddenly, and their drivers can be aggressive and reckless. Always drive defensively.
 
 ### Air travel
 

@@ -121,7 +121,7 @@ For more information on these requirements, contact the nearest Chilean embassy 
 #### Useful links
 
 * [Children and travel](https://travel.gc.ca/travelling/children)
-* [Entry and exit of minors from the country](https://www.chile.gob.cl/chile/xplica/ingreso-y-salida-de-menores-del-pais) – Minstry of Foreign Affairs (in Spanish only)
+* [Entry and exit of minors from the country](https://www.chile.gob.cl/chile/xplica/ingreso-y-salida-de-menores-del-pais) – Ministry of Foreign Affairs (in Spanish only)
 * [Authentication of documents](https://www.international.gc.ca/gac-amc/about-a_propos/services/authentication-authentification/index.aspx?lang=eng)
 
 ### Yellow fever

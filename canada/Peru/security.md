@@ -36,10 +36,6 @@ Incidents of domestic terrorism have occurred in VRAEM, particularly the region 
 
 ### Border area with Colombia
 
-### Border crossings with Colombia
-
-Land and river border crossings to Colombia from Peru will be closed from 6 am on May 30, 2026, until 6 am on June 1, 2026, due to Presidential elections in Colombia.
-
 Criminal activity related to drug production and trafficking, illegal mining and the presence of armed groups near the border, particularly along the Putumayo River, pose a threat to personal security.
 
 ### Border area with Ecuador

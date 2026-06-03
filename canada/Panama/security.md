@@ -2,10 +2,6 @@
 
 ## Safety and security
 
-### Border crossings with Colombia
-
-Land and river border crossings to Colombia from Panama will be closed from 6 am on May 30, 2026, until 6 am on June 1, 2026, due to Presidential elections in Colombia.
-
 ### Region between Metetí and the Colombian border
 
 Avoid all travel between Metetí and the Colombian border.

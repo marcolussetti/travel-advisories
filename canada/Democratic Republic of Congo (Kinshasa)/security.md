@@ -26,6 +26,12 @@ If you are in an affected area:
 
 If you or your family require assistance, contact the Embassy of Canada in Kinshasa or Global Affairs Canada's 24/7 [Emergency Watch and Response Centre](https://travel.gc.ca/assistance/emergency-assistance).
 
+### Border restrictions with Uganda and Rwanda
+
+Due to the outbreak of Ebola disease, border crossings with Uganda and Rwanda are restricted for most travellers until further notice.
+
+[More information on the Ebola outbreak in the Democratic Republic of the Congo](https://travel.gc.ca/travelling/health-safety/travel-health-notices/549)
+
 ### Terrorism
 
 There is a threat of terrorism in the Democratic Republic of the Congo, particularly in the border areas with Rwanda, Burundi and Uganda. Armed groups clash over control of goods-trafficking routes, mining sites and agricultural areas.

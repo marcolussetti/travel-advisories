@@ -4,22 +4,16 @@
 
 ### Elections
 
-Presidential elections will take place in Colombia on May 31, 2026. During elections, the security environment can change quickly and unpredictably.
+A second round of presidential elections will take place in Colombia on June 21, 2026. During elections, the security environment can change quickly and unpredictably.
 
 If you are in Colombia, you should:
 
 * exercise increased vigilance
 * follow the advice of local authorities
 
-Ahead of the elections, Colombian authorities will enforce restrictions aimed at preserving public order. These restrictions include:
+Ahead of the elections, Colombian authorities may implement restrictions aimed at preserving public order. These restrictions may include the prohibition of alcohol sales and the the closure of land and river border crossings.
 
-* the prohibition of alcohol sales (dry law) in Bogotá from 6 pm on May 29 to 12 pm on June 1
-* the prohibition of alcohol sales elsewhere from 6 pm on May 30 to 12 pm on June 1
-* the closure of land and river border crossings from 6 am on May 30 to 6 am on June 1
-
-Local authorities may extend these restrictions. Monitor local media for the latest information.
-
-[Dry law and border closures](https://www.presidencia.gov.co/prensa/Paginas/Ley-seca-y-cierre-de-fronteras-medidas-del-Gobierno-para-garantizar-normal-260228.aspx) – Government of Colombia Press Office (PRENSA) (in Spanish only)
+Monitor local media for the latest information.
 
 ### Land border crossings with Ecuador
 

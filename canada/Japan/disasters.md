@@ -2,27 +2,6 @@
 
 ## Natural disasters and climate
 
-### Typhoon Jangmi
-
-Typhoon Jangmi is expected to pass across Okinawa and the Amami Islands starting June 1, 2026.
-
-The storm is likely to bring excessive rainfall and violent winds. It may cause flash flooding and landslides and could severely disrupt the following essential services:
-
-* transportation
-* power distribution
-* water and food supply
-* telecommunications networks
-* emergency services
-* medical care
-
-If you are in the affected area:
-
-* exercise caution
-* monitor local news and weather reports
-* follow the instructions of local authorities
-
-[Typhoon Information](https://www.jma.go.jp/bosai/map.html#5/22.837/130.671/&elem=root&typhoon=all&contents=typhoon&lang=en) – Japan Meteorological Agency
-
 ### Climate change
 
 Climate change is affecting Japan. Extreme and unusual weather events are becoming more frequent and may affect your travel plans. Monitor local news to stay informed on the current situation.

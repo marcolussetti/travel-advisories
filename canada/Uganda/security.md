@@ -2,6 +2,12 @@
 
 ## Safety and security
 
+### Border restrictions with the Democratic Republic of the Congo
+
+Due to the outbreak of Ebola disease, crossing between the DRC and Uganda is restricted for most travellers until further notice.
+
+More information on the Ebola outbreaks in [Uganda](https://travel.gc.ca/travelling/health-safety/travel-health-notices/550) and in the [DRC](https://travel.gc.ca/travelling/health-safety/travel-health-notices/549)
+
 ### Border with the Democratic Republic of Congo
 
 The volatile security situation in the eastern part of neighbouring Democratic Republic of Congo (DRC) could lead to possible incursions into western Uganda by armed rebel groups from the DRC.
