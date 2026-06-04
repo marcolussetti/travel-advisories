@@ -2,7 +2,7 @@
 
 ### **Visa**
 
-If unsure about the entry requirements for the Central African Republic, including visa and other immigration information, ask your travel agent or contact the country’s nearest Embassy or Consulate.
+Irish citizens require a visa to enter the Central African Republic. For information on how to apply for a visa, please contact the [**Embassy of the Central African Republic in Paris**.](https://paris.diplomatie.gouv.cf/)
 
 A valid passport is required for travel to Central African Republic. Irish passports should have a minimum validity of six months from the intended date of departure from the country. Passport cards cannot be used.
 

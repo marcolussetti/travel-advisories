@@ -12,6 +12,8 @@ On 17 May, the World Health Organisation (WHO) declared the outbreak of the Bund
 
 Humanitarian Aid Workers travelling to Rwanda are urged to [register](https://www.hpsc.ie/a-z/vectorborne/viralhaemorrhagicfever/guidance/vhfguidanceappendices/vhfguidanceforhumanitarianaidworkers/) with HSE HPSC in advance of their deployment.
 
+Further information on the Ebola Virus Disease, including for those returning to Ireland from an area where the outbreak is occurring, is available on the HPSC website [here](https://www.hpsc.ie/a-z/vectorborne/viralhaemorrhagicfever/ebola/frequentlyaskedquestions/).
+
 All Irish citizens living in or visiting Rwanda are encouraged to register their presence on our [**Citizen Registration**](https://citizensregistration.dfa.ie/) platform.
 
 On 22 May the Government of Rwanda [announced new border measures](https://x.com/RwandaHealth/status/2057790371657101712?s=20) in response to the Ebola outbreak, including:

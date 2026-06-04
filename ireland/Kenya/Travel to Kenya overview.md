@@ -12,6 +12,8 @@ There are currently no confirmed cases of Ebola virus in Kenya. The Embassy of I
 
 Humanitarian Aid Workers travelling to Kenya are urged to [**register**](https://www.hpsc.ie/a-z/vectorborne/viralhaemorrhagicfever/guidance/vhfguidanceappendices/vhfguidanceforhumanitarianaidworkers/) with HSE HPSC in advance of their deployment.
 
+Further information on the Ebola Virus Disease, including for those returning to Ireland from an area where the outbreak is occurring, is available on the HPSC website [**here**](https://www.hpsc.ie/a-z/vectorborne/viralhaemorrhagicfever/ebola/frequentlyaskedquestions/).
+
 All other Irish citizens living in or travelling to Kenya should register on Ireland’s [**citizens registration**](https://www.ireland.ie/en/dfa/overseas-travel/citizens-registration/).
 
 #### **Conflict in the Middle East**

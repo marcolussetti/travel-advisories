@@ -12,6 +12,8 @@ On 15 May 2026 the DRC Ministry of Health announced an outbreak of the Ebola Bun
 
 Humanitarian Aid Workers travelling to the Democratic Republic of Congo are urged to [register](https://www.hpsc.ie/a-z/vectorborne/viralhaemorrhagicfever/guidance/vhfguidanceappendices/vhfguidanceforhumanitarianaidworkers/) with HSE HPSC in advance of their deployment.
 
+Further information on the Ebola Virus Disease, including for those returning to Ireland from an area where the outbreak is occurring, is available on the HPSC website [here](https://www.hpsc.ie/a-z/vectorborne/viralhaemorrhagicfever/ebola/frequentlyaskedquestions/).
+
 Irish citizens are advised against all travel to Ituri Province.
 
 ### **Conflict Escalation in Eastern DRC**

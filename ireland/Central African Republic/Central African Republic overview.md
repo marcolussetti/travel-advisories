@@ -10,6 +10,8 @@ Do Not Travel
 
 Humanitarian Aid Workers travelling to Central African Republic are urged to [**register**](https://www.hpsc.ie/a-z/vectorborne/viralhaemorrhagicfever/guidance/vhfguidanceappendices/vhfguidanceforhumanitarianaidworkers/) with HSE HPSC in advance of their deployment.
 
+Further information on the Ebola Virus Disease, including for those returning to Ireland from an area where the outbreak is occurring, is available on the HPSC website [**here**](https://www.hpsc.ie/a-z/vectorborne/viralhaemorrhagicfever/ebola/frequentlyaskedquestions/).
+
 All Irish citizens living in or visiting Central African Republic are encouraged to register their presence on our [**Citizen Registration**](https://citizensregistration.dfa.ie/) platform.
 
 #### **Security and Health**
@@ -24,9 +26,9 @@ Health and travel advice issued by the local authorities in Central African Repu
 
 As there is no Embassy of Ireland or Consulate in the Central African Republic, we are limited in the help we can offer in an emergency. If in the Central African Republic you should [**register**](/en/dfa/overseas-travel/citizens-registration/) your details with us. If consular assistance is required, please contact Consular Assistance at the Department of Foreign Affairs and Trade in Dublin at +353 1 408 2000
 
-#### **COVID-19 and Yellow Fever Entry Requirements**
+#### **Yellow Fever Entry Requirement**
 
-Entry requirements for the Central African Republic can change at short notice. While there are currently no specific travel restriction related to COVID-19, it is advisable to travel with a valid negative COVID-19 test result that has been issued within 48 hours of arrival in the country. A valid Yellow Fever vaccination certificate is required to enter or transit the country. If transiting through a third country, you should also check the travel advice for that country.
+A valid Yellow Fever vaccination certificate is required to enter or transit the country. If transiting through a third country, you should also check the travel advice for that country.
 
 ### **General Travel Advice**
 

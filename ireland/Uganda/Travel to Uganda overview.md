@@ -14,6 +14,8 @@ The Uganda Ministry of Health has introduced mandatory health declaration requir
 
 Humanitarian Aid Workers travelling to Uganda are urged to [register](https://www.hpsc.ie/a-z/vectorborne/viralhaemorrhagicfever/guidance/vhfguidanceappendices/vhfguidanceforhumanitarianaidworkers/) with HSE HPSC in advance of their deployment.
 
+Further information on the Ebola Virus Disease, including for those returning to Ireland from an area where the outbreak is occurring, is available on the HPSC website [here](https://www.hpsc.ie/a-z/vectorborne/viralhaemorrhagicfever/ebola/frequentlyaskedquestions/).
+
 All Irish citizens living in or visiting Uganda are encouraged to register their presence on our [**Citizen Registration**](https://citizensregistration.dfa.ie/) platform.
 
 On 27 May, Uganda [announced](https://x.com/MinofHealthUG/status/2057471796497035293) the closure of the border with the DRC, with limited exceptions for authorised Ebola response, humanitarian and security personnel. Any person returning from the DRC into Uganda will now have to undergo mandatory self-isolation for 21 days.
