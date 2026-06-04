@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   27 May 2026
+:   4 June 2026
 
 Updated:
-:   26 May 2026
+:   3 June 2026
 
 Latest update:
-:   New information about Colombian Presidential Elections ('Warnings and insurance' page).
+:   Removal of information about Colombian Presidential Elections ('Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/6a1022481eb143220d8d27b8/FCDO__TA__054_-_Colombia_Travel_Advice_Ed5__WEB___3_.jpg)
 
@@ -62,14 +62,6 @@ FCDO advises against all but essential travel to within 5km of the border with E
 FCDO advises against all but essential travel to Orito, San Miguel, Valle del Guamuez, Puerto Caicedo, Puerto Guzmán, Puerto Asis and Puerto Leguizamo in Putumayo Department.
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/colombia/regional-risks).
-
-## Colombian Presidential Elections
-
-Colombia will hold the first round of presidential elections on Sunday 31 May. Expect busy polling stations, traffic disruption, and increased security presence.
-
-Colombia’s land and river borders with Brazil, Ecuador, Panama, Peru and Venezuela will be closed from Saturday 30 May at 6am until Monday 1 June at 6am. Plan ahead and expect potential travel disruptions due to closures.
-
-Stay away from large gatherings and follow the guidance of local authorities. See [Safety and security page](https://www.gov.uk/foreign-travel-advice/Colombia/safety-and-security).
 
 ## Before you travel
 

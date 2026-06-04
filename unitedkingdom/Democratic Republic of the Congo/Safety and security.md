@@ -24,7 +24,7 @@ A range of military and peacekeeping forces are deployed in eastern DRC. Tension
 
 On 28 January 2025, there were large and violent protests outside multiple embassies in Kinshasa, in response to the fighting in eastern DRC. This resulted in an increased security presence and there is an ongoing risk of sporadic protests, which can involve gun fire.
 
-On 2 September 2025, there were increased security measures which included vehicle checks and searches in the city of Kinshasa, particularly the area of Gombe.
+Opposition groups have called for a “ville morte” (citywide shutdown) in Kinshasa on 3 June 2026. This may result in an increased security presence and disruption to movement in parts of the city of Kinshasa.
 
 Public gatherings and demonstrations can occur with little or no notice and can quickly turn violent.
 

@@ -4,10 +4,6 @@ This information is for people travelling on a full [‘British citizen’ passp
 
 The authorities in Jordan set and enforce entry rules. If you’re not sure how these requirements apply to you, contact the [Jordanian Embassy in the UK](https://www.mfa.gov.jo/en/embassy/London).
 
-## Entry to Saudi Arabia
-
-British nationals who are trying to leave Jordan via Saudi Arabia and who are travelling on British Emergency Travel Documents, Emergency Passports, or passports with less than 6 months remaining validity, should call the helplines for British Embassy Riyadh +966 (0) 11481 9100 or British Consulate Jeddah +966 (0)126225550 for advice.
-
 ## Passport validity requirements
 
 To enter Jordan, your passport must have an ‘expiry date’ at least 6 months after the date you arrive.
@@ -70,6 +66,10 @@ The following three land border crossings between Jordan with Saudi Arabia are o
 * Mudawara (AlMudawwara) Border Crossing: Located farther east, approximately 322 km from Amman
 * AlDurra Crossing (opposite Haql): Connecting Aqaba with the Saudi city of Haql
 
+### Entry to Saudi Arabia
+
+British nationals who are trying to leave Jordan via Saudi Arabia and who are travelling on British Emergency Travel Documents, Emergency Passports, or passports with less than 6 months remaining validity, should call the helplines for British Embassy Riyadh +966 (0) 11481 9100 or British Consulate Jeddah +966 (0)126225550 for advice.
+
 ### Israel and Palestine
 
 Those traveling from Israel or Palestine should refer to [Israel’s travel advice](https://www.gov.uk/foreign-travel-advice/israel) and [Palestine’s travel advice](https://www.gov.uk/foreign-travel-advice/palestine).
@@ -92,9 +92,13 @@ On the Jordanian side, border guards will stamp passports unless the travell
 
 Photography and videography are not permitted on the border crossings.
 
-Syria – The FCDO advises against all travel to Syria.
+### Syria
 
-Iraq – The FCDO advises against all travel to Iraq .
+The FCDO advises against all travel to Syria.
+
+### Iraq
+
+The FCDO advises against all travel to Iraq .
 
 ### Sea Crossing to Egypt
 

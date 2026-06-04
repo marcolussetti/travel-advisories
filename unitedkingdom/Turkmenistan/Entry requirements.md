@@ -18,7 +18,7 @@ Read more FCDO advice [if you’re affected by a crisis abroad](https:
 
 ## COVID-19 rules
 
-You do not require a COVID-19 vaccination to enter Turkmenistan. All travellers by air must undergo a COVID-19 test upon arrival at Ashgabat airport, which costs 31 US dollars cash. There is no test if you enter by land or sea.
+You do not need a COVID-19 vaccination to enter Turkmenistan. All travellers entering Turkmenistan must undergo a COVID-19 test upon arrival at Ashgabat airport, which costs 31 US dollars cash.
 
 Confirm the latest requirements with your Turkmen sponsor, or with the embassy that issued your visa if you have one. Check with your travel company or airline for changes.
 
@@ -48,7 +48,7 @@ Once you have your letter of invitation you can either apply for a visa at your 
 
 Visas applications to an Embassy of Turkmenistan are referred to Ashgabat for a decision, which can take up to a month.
 
-The cost of a visa is dependent on the length of stay in Turkmenistan, whether you are applying for a single or multiple entry visa and whether or not you are opting for the “Express Service” from the Embassy or visa on arrival option at Ashgabat airport. For a full list of prices for visas visit [the Embassy of Turkmenistan website of the Embassy of Turkmenistan](https://uk.tmembassy.gov.tm/en/consular-services/visa-info) in London where a PDF document called “Visa Fees” outlines the range of prices for visas.
+The cost of a visa is dependent on the length of stay in Turkmenistan, whether you are applying for a single or multiple entry visa and whether or not you are opting for the “Express Service” from the Embassy or visa on arrival option at Ashgabat airport. For a full list of prices for visas visit [the website of the Embassy of Turkmenistan](https://uk.tmembassy.gov.tm/en/consular-services/visa-info) in London where a PDF document called “Visa Fees” outlines the range of prices for visas.
 
 ### Transit visas and travelling through Turkmenistan by car
 

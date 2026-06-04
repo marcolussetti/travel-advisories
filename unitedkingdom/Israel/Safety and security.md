@@ -4,7 +4,13 @@ This travel advice covers Israel and Palestine.
 
 ## Conflict between Lebanese Hizballah and Israel
 
-Following the conflict between Israel and Lebanese Hizballah (LH), a ceasefire was agreed on 27 November 2024.
+Following the conflict between Israel and Lebanese Hizballah (LH), a cessation of hostilities was announced on 16 April 2026. However, fighting continues and the dynamic nature of the conflict means the situation may change quickly.
+
+There remains a risk that hostilities could reignite, and with little warning. Check Home Front Command for the latest guidance. Restrictions may be put in place at short notice.
+
+## Conflict between Iran and Israel
+
+Following the conflict between Israel and Iran a ceasefire was agreed on 8 April 2026.
 
 There remains a risk that hostilities could reignite, and with little warning. Check Home Front Command for the latest guidance. Restrictions may be put in place at short notice.
 

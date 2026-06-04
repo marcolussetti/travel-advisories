@@ -57,7 +57,7 @@ Do not enter Gaza by sea, including via a flotilla delivering humanitarian aid. 
 
 ## Israel-Lebanon
 
-There was an ongoing conflict between Israel and Lebanese Hizballah (LH). On 27 November, LH and Israel agreed to a ceasefire, with a 60-day implementation period.
+There was an ongoing conflict between Israel and Lebanese Hizballah (LH). On 27 November 2024, LH and Israel agreed to a ceasefire, with a 60-day implementation period. Hostilities resumed in 2026 with a ceasefire agreed on 16 April.
 
 There remains a risk that hostilities could reignite, and with little warning. You should check Home Front Command for the latest guidance. Restrictions may be put in place at short notice. If travelling near military operation areas, follow all Israeli official instructions.
 

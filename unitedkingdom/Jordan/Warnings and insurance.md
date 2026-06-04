@@ -1,18 +1,18 @@
 # Warnings and insurance
 
 Still current at:
-:   15 April 2026
+:   4 June 2026
 
 Updated:
-:   14 April 2026
+:   3 June 2026
 
 Latest update:
-:   Update to information regarding regional escalation (‘Warnings and insurance’ page).
+:   FCDO no longer advises against all but essential travel to Jordan but continues to advise against all travel within 3km of the border with Syria. Updated information about regional tensions (‘Warnings and Insurance’, ‘Entry requirements’ and ‘Regional risks’ pages).
 
-![](https://assets.publishing.service.gov.uk/media/69a5be6fa56a5482312c71a0/FCDO__TA__087_-_Jordan_Travel_Advice_Ed3__WEB_.jpg)
+![](https://assets.publishing.service.gov.uk/media/6a1fe5c159fb7a60f827f6ac/FCDO__TA__087_-_Jordan_Travel_Advice_Ed2__WEB_.jpg)
 
 
-[Download a more detailed map (PDF, 405 KB)](https://assets.publishing.service.gov.uk/media/69a58d0f46e50eda5c46b57b/FCDO__TA__087_-_Jordan_Travel_Advice_Ed3__1_.pdf)
+[Download a more detailed map (PDF, 386 KB)](https://assets.publishing.service.gov.uk/media/6a1fe5c1b95db968c8f3bdd6/FCDO__TA__087_-_Jordan_Travel_Advice_Ed2.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
@@ -22,33 +22,21 @@ Your travel insurance could be invalidated if you travel against advice from the
 
 FCDO advises against all travel to within 3km of the border with Syria.
 
-FCDO advises against all but essential travel to all other areas of Jordan.
+## Regional tensions
 
-## Regional escalation
+The situation in the Middle East remains unpredictable. Attacks could resume at short notice.
 
-Regional escalation poses significant security risks and has led to travel disruption.
-
-The Iranian regime has publicly stated its intention to target locations associated with the United States and Israel. This includes US or Israeli-linked organisations, businesses, facilities and institutions.
-
-Iranian strikes against civilian infrastructure across the region such as ports, hotels, roads, bridges, energy facilities, oil production sites, water systems, and airports, have decreased. However, the risk of renewed strikes remains, and further attacks could occur at short notice.
+The Iranian regime has previously stated its intention to target locations associated with the United States and Israel. This includes US or Israeli-linked organisations, businesses, facilities and institutions. Iran has previously targeted civilian infrastructure across the region such as ports, hotels, roads, bridges, energy facilities, oil production sites, water systems, and airports.
 
 British nationals should:
 
-* read [If you’re affected by a crisis abroad - GOV.UK](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas). This includes guidance on “how to prepare for a crisis” with suggestions on what you might include in your emergency supplies and “what to do in a crisis”
+* read [If you’re affected by a crisis abroad - GOV.UK](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas). This includes guidance on “how to prepare for a crisis” with suggestions on what you might include in your emergency supplies and “what to do in a crisis”
 * follow advice from the local authorities
-* sign up to FCDO Travel Advice email alerts
+* sign up to [FCDO Travel Advice email alerts](https://www.gov.uk/foreign-travel-advice/jordan/email-signup)
 * monitor local and international media for the latest information
-* stay away from areas around security or military facilities, and US or Israeli-linked locations
+* stay away from areas around security or military facilities
 * keep your departure plans under review, and ensure your travel documents are up to date
-* when local sirens sound, follow local advice to stay indoors or find the nearest safe building or designated shelter. An interior stairwell or a room with as few external walls or windows as possible may provide additional protection
-* missiles travelling through Jordanian airspace have been intercepted, with debris falling in some urban areas.  Stay away from any debris. If anyone is injured, dial 911
-* Jordanian airspace has been affected by the regional conflict. The Jordanian authorities may announce closures of airspace with little notice. Contact your airline before you travel
-
-## Entry to Saudi Arabia
-
-British nationals who are trying to leave Jordan via Saudi Arabia and who are travelling on British Emergency Travel Documents, Emergency Passports, or passports with less than 6 months remaining validity, should call the helplines for British Embassy Riyadh +966 (0) 11481 9100 or British Consulate Jeddah +966 (0)126225550 for advice.
-
-See [‘Entry requirements’ for Saudi Arabia](https://www.gov.uk/foreign-travel-advice/saudi-arabia).
+* if you are advised to take shelter, stay indoors or find the nearest safe building or designated shelter. An interior stairwell or a room with as few external walls or windows as possible may provide additional protection. The greatest risk is from falling debris caused by intercepts, and you are safest inside a secure structure
 
 ## Before you travel
 

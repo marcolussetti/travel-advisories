@@ -1,11 +1,11 @@
 {
     "name": "Mexico",
-    "update_reason": "Addition of \u202finformation\u202fabout entry requirements for those entering from Ebola-affected regions ('Entry requirements' page).",
+    "update_reason": "Protests at Mexico City International Airport (AICM) ('Warnings and insurance' page)",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Mexico/Warnings and insurance.md",
-            "update_date": "2026-06-02T17:08:53+01:00"
+            "update_date": "2026-06-03T19:29:11+01:00"
         },
         {
             "title": "Entry requirements",
@@ -38,5 +38,5 @@
             "file": "unitedkingdom/Mexico/Getting help.md"
         }
     ],
-    "update_date": "2026-06-02T17:08:53+01:00"
+    "update_date": "2026-06-03T19:29:11+01:00"
 }

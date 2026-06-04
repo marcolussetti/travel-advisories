@@ -1,11 +1,11 @@
 {
     "name": "Jordan",
-    "update_reason": "Update to information regarding regional escalation (\u2018Warnings and insurance\u2019 page).",
+    "update_reason": "FCDO no longer advises against all but essential travel to Jordan but continues to advise against all travel within 3km of the border with Syria. Updated information about regional tensions (\u2018Warnings and Insurance\u2019, \u2018Entry requirements\u2019 and \u2018Regional risks\u2019 pages).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Jordan/Warnings and insurance.md",
-            "update_date": "2026-04-14T16:32:53+01:00"
+            "update_date": "2026-06-03T14:00:04+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Jordan/Getting help.md"
         }
     ],
-    "update_date": "2026-04-14T16:32:53+01:00"
+    "update_date": "2026-06-03T14:00:04+01:00"
 }
