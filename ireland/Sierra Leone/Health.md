@@ -28,7 +28,9 @@ Mains water is limited, and tap water must be boiled before drinking it. Bottled
 
 ### **Ebola and Lassa Fever**
 
-Ebola, Lassa fever and Marburg viruses are acute viral haemorrhagic fever illnesses transmitted to humans via contact with contaminated food or household items; or through contact with the bodily fluids of an infected person. More information about Ebola is available from the [**World Health Organisation**](https://www.who.int/news-room/fact-sheets/detail/ebola-virus-disease).
+Ebola, Lassa fever and Marburg viruses are acute viral haemorrhagic fever illnesses transmitted to humans via contact with contaminated food or household items; or through contact with the bodily fluids of an infected person. More information about Ebola is available from the [**World Health Organisation**](https://www.who.int/news-room/fact-sheets/detail/ebola-virus-disease). There have been no cases or suspected cases of Ebola in Sierra Leone stemming from the 2026 outbreak of the disease.
+
+In response to the ongoing outbreak of the Ebola virus on the African continent, Lungi International Airport has introduced a number of health measures aimed at tackling the spread of the disease. These include, but may not be limited to, the mandatory hand sanitisation of passengers, routine temperature screening of passengers, and enforced social distancing measures. Travellers are encouraged to comply with all airport guidance and regulations in this respect.
 
 Lassa fever is endemic in West Africa. If you are concerned that you might have been exposed to, or are showing symptoms of Lassa fever, seek immediate medical advice. Further information on Lassa fever is available from the [**World Health Organisation**](https://www.who.int/news-room/fact-sheets/detail/lassa-fever).
 
