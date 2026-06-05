@@ -20,6 +20,13 @@ Cuba’s constitution allows the death penalty, but since 2003, the country has 
 
 ### Money
 
+Starting June 6, 2026, Visa and Mastercard credit and debit cards will no longer be accepted in Cuba.
+
+The following payment methods will remain available:
+
+* cash
+* domestic prepaid cards: Clásica and Tropical
+
 The currency of Cuba is the Cuban peso (CUP).
 
 You should plan to bring sufficient cash for the duration of your trip and all associated costs. Canadian dollars and certain other international currencies are not widely accepted or easily exchanged. U.S. dollars or Euros are more widely accepted. You should also carry small bills for daily transactions such as street food, taxis and tips.

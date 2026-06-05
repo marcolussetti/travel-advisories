@@ -6,17 +6,12 @@ You must abide by local laws.
 
 Learn about what you should do and how we can help if you are [arrested or detained abroad](http://travel.gc.ca/assistance/emergency-info/arrest-detention).
 
-Martinique is an overseas department of France.
-
-### Transfer to a Canadian prison
-
-Canada and France are signatories to the Convention on the Transfer of Sentenced Persons. This enables a Canadian imprisoned in France or its overseas departments to request a transfer to a Canadian prison to complete a sentence. The transfer requires the agreement of both Canadian and French authorities.
-
-This process can take a long time, and there is no guarantee that the transfer will be approved by either or both sides.
-
 ### Drugs
 
-Penalties for possession, use or trafficking of illegal drugs are severe. Convicted offenders can expect jail sentences and heavy fines.
+Penalties for possession, use or trafficking of illegal drugs can be severe. Convicted offenders could expect jail sentences and fines.
+
+* Pack your own luggage and monitor it closely at all times
+* Never transport other people’s packages, bags or suitcases
 
 [Drugs, alcohol and travel](https://travel.gc.ca/travelling/health-safety/drugs)
 
@@ -54,37 +49,37 @@ Be aware that Canadian consular officials cannot interfere in private legal matt
 * [Canadian embassies and consulates by destination](https://travel.gc.ca/assistance/embassies-consulates)
 * [Request emergency assistance](https://travel.gc.ca/assistance/emergency-assistance?_ga)
 
-### Marriages
-
-If you wish to marry in Martinique, you should consult local authorities at the City hall to obtain appropriate information. The Embassy of France in Canada can also provide you with the requested documents.
-
-* [Foreign diplomatic missions and consulates in Canada](http://www.international.gc.ca/protocol-protocole/reps.aspx?lang=eng)
-* [Get married in France](https://www.international.gc.ca/country-pays/france/paris-info.aspx?lang=eng#MA) – Embassy of Canada in France
-* [Marriage abroad](https://travel.gc.ca/travelling/documents/marriage-overseas)
-
 ### Driving
 
-You may drive in Martinique with a valid Canadian driver’s licence for a short stay. Your license must meet one of the following conditions:
+You must be at least 18 years old to drive a car in Martinique. Car rental agencies may have specific requirements for the minimum age and/or years of experience required to rent a car. Check with your car rental agency in advance.
+
+You can drive with a valid Canadian driver’s licence for up to 6 months. Your licence must meet one of the following conditions:
 
 * be written in French
 * be accompanied by an official translation recognized in France
-* be accompanied by an international driving permit
-
-The legal driving age in France and its territories is 18. Car rental agencies may have specific requirements for the minimum age and/or years of experience required to rent a car. Check with your car rental agency in advance.
+* be accompanied by an International Driving Permit
 
 #### Useful links
 
 * [International Driving Permit](https://travel.gc.ca/travelling/documents/international-driving-permit)
-* [Driving in France with a foreign license](https://www.martinique.gouv.fr/Vous-etes/Particulier#!/particuliers/page/F1459) – State services in Martinique (in French)
+* [Driving in France with a foreign licence](https://www.martinique.gouv.fr/Vous-etes/Particulier#!/particuliers/page/N19126) – State services in Martinique (French only)
 
-### Imports and exports
+#### Priority to the right
 
-French customs authorities may enforce strict regulations in Martinique concerning the temporary import or export of items such as firearms, medications and animals.
+The “priority to the right” system is in effect in Martinique. Drivers must give way to vehicles approaching from the right at intersections, even on secondary roads. This often comes as a surprise to unaccustomed foreign drivers.
 
-### Investments
+Vehicles already in a roundabout have priority over those trying to enter it. In this case, priority is given to the left rather than the right.
 
-If you plan on buying property, or making other investments in Martinique, seek legal advice in Canada and in Martinique. Do so before making commitments. Related disputes could take time and be costly to resolve.
+Pay attention when driving in Martinique.
+
+#### Car accidents
+
+If there is a disagreement between the drivers involved in a car accident:
+
+* do not argue
+* write down the licence plate number
+* go to the nearest police station
 
 ### Money
 
-The currency in Martinique is the euro (EUR).
+The currency of Martinique is the euro (EUR).

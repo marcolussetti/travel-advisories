@@ -2,7 +2,7 @@
 
 ## Entry and exit requirements
 
-Martinique is a French overseas department. However, it’s not part of the Schengen area.
+Martinique is a French overseas department. However, it is not part of the Schengen area.
 
 Some countries have imposed measures in response to the [Ebola disease outbreak](https://travel.gc.ca/travelling/health-safety/travel-health-notices/549). These can include restrictions on entry and health screening measures for travellers having recently visited an affected country. If you are suspected of having symptoms, you may be subject to isolation, quarantine and/or travel restrictions. Contact the authorities of the country you are travelling to for more details.
 
@@ -20,7 +20,7 @@ Before you travel, check with your transportation company about passport require
 
 #### Regular Canadian passport
 
-Your passport must be valid for the duration of your stay in Martinique.
+Your passport must be valid for at least 3 months beyond the date you expect to leave Martinique.
 
 #### Passport for official travel
 
@@ -46,15 +46,23 @@ Different entry rules may apply when travelling with a temporary passport or an 
 
 ### Visas
 
-Tourist visa: not required for stays up to 90 days   
-Residence visa: required   
-Work visa: required   
-Business visa: required   
+Tourist visa: not required for stays of up to 90 days  
+Business visa: not required for stays of up to 90 days  
+Work permit: required   
 Student visa: required
+
+[Check your visa need](https://france-visas.gouv.fr/en/web/france-visas/assistant-visa) – Government of France
 
 ### Other entry requirements
 
-Customs officials may ask you to show them a return or onward ticket, proof of accommodation and proof of sufficient funds to cover your stay.
+Customs officials may ask you to show them:
+
+* a return or onward ticket
+* proof of accommodation
+* proof of sufficient funds to cover your stay
+* proof of health insurance coverage
+
+[Your arrival in France](https://france-visas.gouv.fr/en/web/france-visas/votre-arrivee-en-france) – Government of France
 
 ### Children and travel
 

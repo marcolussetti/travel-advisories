@@ -55,7 +55,7 @@ Keep a photocopy of your passport in a safe place, in case the original is lost 
 
 ### Pornographic material and prohibited items
 
-Possession or importation of pornographic material is prohibited,as is any item or material, including digital content, that could be considered immoral or obscene.
+Possession or importation of pornographic material is prohibited, as is any item or material, including digital content, that could be considered immoral or obscene.
 
 ### Military clothing
 
@@ -115,7 +115,7 @@ Traffic drives on the left.
 
 You must have a copy of your vehicle clearance certificate with you when driving.
 
-You should carry an International Driving Permit.
+You should carry an International Driving Permit.
 
 [International Driving Permit](https://travel.gc.ca/travelling/documents/international-driving-permit)
 

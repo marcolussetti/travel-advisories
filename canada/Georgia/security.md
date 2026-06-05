@@ -49,7 +49,9 @@ Even peaceful demonstrations can turn violent at any time. They can also lead to
 
 If you participate in demonstrations as a tourist, you may be subject to fines, detention, deportation or questioning when leaving the country. It could also impact your ability to re-enter Georgia in the future.
 
-[More about mass gatherings (large-scale events)](http://travel.gc.ca/travelling/health-safety/mass-gatherings)
+![](/iw-cc/datacapture/images/loading.gif "Template - Modèle: Link_mass_gatherings - Link_mass_gatherings")
+
+**Link\_mass\_gatherings** - Link\_mass\_gatherings
 
 ### Crime
 
@@ -177,7 +179,9 @@ If you intend to participate in adventure travel activities:
 * refrain from using equipment if you have doubts on their safety
 * monitor weather conditions and other possible hazards
 
-[Adventure travel health and safety](https://travel.gc.ca/travelling/health-safety/adventure-travellers)
+![](/iw-cc/datacapture/images/loading.gif "Template - Modèle: link_adventure_travel - link_adventure_travel")
+
+**link\_adventure\_travel** - link\_adventure\_travel
 
 ### Roads
 

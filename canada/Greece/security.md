@@ -2,17 +2,6 @@
 
 ## Safety and security
 
-### Demonstrations across the country
-
-Large-scale demonstrations commemorating the Tempi train crash in 2023 are scheduled to take place in Athens and other cities across the country on February 28, 2026.
-
-If you are in Athens or near a demonstration:
-
-* exercise caution
-* monitor local media for the most recent information
-* be prepared to modify your plans in case of disturbances
-* expect enhanced security measures and an increased police presence
-
 ### Demonstrations and strikes
 
 #### Demonstrations

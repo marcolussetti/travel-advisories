@@ -88,12 +88,12 @@ Foreign nationals travelling to Georgia for tourism are required to present vali
 
 [More information on insurance requirements](https://www.geoconsul.gov.ge/en/entering-georgia) – Ministry of Foreign Affairs of Georgia
 
-### Yellow fever
-
-Learn about [potential entry requirements related to yellow fever](#health) (vaccines section).
-
 ### Children and travel
 
 Georgian authorities may hinder or deny entry to children whose physical appearance significantly differs from their passport photo. You should consider applying for a new passport before you travel if your child’s appearance has changed considerably.
 
 [Children and travel](http://travel.gc.ca/travelling/children)
+
+### Yellow fever
+
+Learn about [potential entry requirements related to yellow fever](#health) (vaccines section).

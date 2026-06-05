@@ -4,7 +4,11 @@
 
 ### Heightened security situation in western Bolivia
 
-The political and security situation in Bolivia is tense and could further deteriorate. There are ongoing protests, roadblocks and violent clashes across western Bolivia, particularly in the La Paz, Potosí and Oruro regions. Shortages of fuel, food and medical supplies are impacting La Paz.
+The political and security situation in Bolivia is tense and could further deteriorate. There are ongoing protests, roadblocks and violent clashes across western Bolivia, particularly in the La Paz, Potosí and Oruro regions. On June 2, 2026, a 90-day humanitarian and health state of emergency was declared in La Paz department due to shortages of fuel, food and medical supplies.
+
+In case of a medical emergency or urgent medical need, consider seeking care at private healthcare facilities where possible. Public healthcare facilities are experiencing increased strain and limited availability of supplies.
+
+If you are travelling to Bolivia, ensure you bring an adequate supply of your prescription medication since they may be difficult to find and expensive.
 
 If you encounter a roadblock, do not try to cross it. Overland travel to the following destinations is likely to be severely disrupted:
 
@@ -28,9 +32,13 @@ Be prepared to change your travel plans on short notice, including cutting short
 
 If you plan on entering Bolivia via a land border crossing with Peru or Chile, or to access the El Alto International Airport, you should confirm the status of your route before you depart.
 
-Bus and coach operators may sell “conditional” tickets while roadblocks are in place. These tickets do not guarantee your passage nor your arrival at your destination.
+Bus and coach operators may sell “conditional” tickets while roadblocks are in place. These tickets do not guarantee your passage nor your arrival at your destination. Avoid purchasing tickets or using bus services that advertise travel via alternative or secondary routes to bypass roadblocks. These routes are often in poor condition and may significantly increase the risk of accidents.
+
+#### Useful links
 
 [More information on roadblocks](#roadblocks)
+
+[More information on medication](#medication)
 
 ### Demonstrations
 

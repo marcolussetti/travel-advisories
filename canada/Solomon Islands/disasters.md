@@ -2,25 +2,6 @@
 
 ## Natural disasters and climate
 
-### Tropical Cyclone Maila
-
-In April 2026, Tropical Cyclone Maila passed through the Solomon Islands.
-
-The cyclone caused significant damage to buildings and infrastructure, and continues to disrupt the following essential services:
-
-* transportation
-* power distribution
-* water and food supply
-* telecommunications networks
-* emergency services
-* medical care
-
-If you are in the affected areas:
-
-* exercise caution
-* monitor local news
-* follow the instructions of local authorities
-
 ### Monsoons and cyclones
 
 Monsoon rains and cyclones in the South Pacific usually occur from November to May. During this period, even small storms can quickly develop into major cyclones.

@@ -4,35 +4,23 @@
 
 ### Crime
 
-The crime rate is very low in Martinique. Petty crime poses the most significant threat.
+Petty crime, such as pickpocketing, bag snatching, and car break-ins, occurs especially in Fort-de-France.
 
-Petty crime, such as pickpocketing and bag-snatching, occurs, mainly in Fort-de-France and its port. Thefts from cars may also occur.
-
-* Avoid deserted beaches and isolated areas after dark
-* Don’t walk alone at night
-* Don’t carry large amounts of cash or wear expensive jewellery
-* Ensure that your belongings, including your passport and other travel documents, are secure at all times
-* Never leave personal belongings, such as money, credit cards, cell phones and other electronics, unattended, especially on beaches
-
-### Fraud
-
-Credit card and ATM fraud may occur. Be cautious when using debit or credit cards:
-
-* pay careful attention when your cards are being handled by others
-* use ATMs located in well-lit public areas or inside a bank or business
-* avoid using card readers with an irregular or unusual feature
-* cover the keypad with one hand when entering your PIN
-* check for any unauthorized transactions on your account statements
-
-[Overseas fraud](https://travel.gc.ca/travelling/health-safety/overseas-fraud)
+* Keep your personal belongings, including your passport and other travel documents, in a secure place
+* Avoid deserted beaches and isolated areas after dark
+* Avoid walking alone after dark
+* Avoid showing signs of affluence or wearing expensive jewellery
+* Do not carry large sums of cash or valuables unnecessarily
+* Do not leave valuables unattended in public places, unsecured accommodations, or in plain sight inside vehicles
+* Keep doors and windows closed and locked, especially at night
 
 ### Demonstrations and strikes
 
-Demonstrations and labour strikes occur from time to time. Even peaceful demonstrations can turn violent at any time. They can also lead to disruptions to traffic and public transportation.
+Demonstrations and labour strikes occur. They may cause disruptions to service delivery. Even peaceful demonstrations can turn violent. They can also lead to disruptions to traffic and public transportation, as well as limit fuel supplies at gas stations.
 
-* Avoid areas where demonstrations and large gatherings are taking place
-* Follow the instructions of local authorities
-* Monitor local media for information on ongoing demonstrations
+* Avoid areas where demonstrations and large gatherings are taking place
+* Follow the instructions of local authorities
+* Monitor local media for information on ongoing demonstrations
 
 [Mass gatherings (large-scale events)](https://travel.gc.ca/travelling/health-safety/mass-gatherings)
 
@@ -40,58 +28,45 @@ Demonstrations and labour strikes occur from time to time. Even peaceful demonst
 
 Martinique regularly experiences water shortages. Local authorities may impose water rationing measures.
 
-If you are in Martinique:
-
-* keep a sufficient supply of water on hand
-* monitor local media for up-to-date information on the situation
+* Keep a sufficient supply of water on hand
+* Monitor local media for the latest information
 
 ### Water activities
 
-Coastal waters can be dangerous.
+Some areas may pose risks such as strong, unpredictable currents or dangerous seabeds.
 
-* Exercise caution when swimming
-* Respect the flag warnings, which provide notice of water conditions and safety risks on beaches
+* Use a reputable company when booking an activity
+* Respect the areas reserved for swimming
+* Always respect warning flags advising of dangerous conditions
 * Follow the instructions and warnings of local authorities
-* If you rent equipment or take scuba diving or sailing classes, ensure that your travel insurance covers such activities
-
-[Adventure travel health and safety](https://travel.gc.ca/travelling/health-safety/adventure-travellers)
+* Make sure that your travel insurance covers water activities
 
 ### Hiking
 
 If you intend on hiking:
 
-* never do so alone and always hire an experienced guide from a reputable company
-* buy travel insurance that includes helicopter rescue and medical evacuation
-* ensure that your physical condition is good enough to meet the challenges of your activity
-* ensure that you’re properly equipped and well informed about weather and other conditions that may pose a hazard
-* inform a family member or friend of your itinerary, including when you expect to be back to camp
-* obtain detailed information on trekking routes before setting out and do not venture off marked trails
+* share your itinerary with a friend or family member
+* stay on marked trails and consider hiring an experienced guide from a reputable company
+* buy travel insurance that covers helicopter rescue and medical evacuation
+* ensure that your physical condition is good enough to tackle the challenges of your activity
+* check trail conditions in advance through the National Forest Service
+* never set out after 3 pm, as it gets dark quickly
+* monitor weather reports
 
-### Road safety
+The Prefecture may restrict access to the hiking trail on the Mount Pelée volcano under certain circumstances.
+
+#### Useful links
+
+* [Adventure travel health and safety](https://travel.gc.ca/travelling/health-safety/adventure-travellers)
+* [Map of visitor sites and trails in Martinique’s public forests](https://www.onf.fr/vivre-la-foret/+/1e57::carte-des-sites-daccueil-et-sentiers-en-foret-publique-martiniquaise.html) – National Forest Service (French only)
+
+### Roads
 
 Road conditions and road safety are very good throughout the island.
 
-Roads are well maintained although some may still require repair following the passage of hurricane Maria in 2017.  Some roads may be narrow and winding. Night driving can be dangerous, especially in the mountains and on rural roads.
+The roads are well maintained but can be narrow and winding. Driving at night can be dangerous, particularly in the mountains and on rural roads.
 
-### Public transportation
-
-#### Buses
-
-Bus services are safe. Both urban and inter-city bus transportation is available.
-
-#### Taxis
-
-Taxis are safe but expensive. By law, they must be metered.
-
-#### Ferries
-
-Ferry services provide transportation mainly to Guadeloupe, Dominica and St Lucia.
-
-### Cruises
-
-Fort-de-France is a cruise ship stop.
-
-[Cruise travel health and safety](https://travel.gc.ca/travelling/health-safety/advice-for-travellers/cruise-travel)
+Accidents are common. Scooters can appear suddenly, and their drivers can be aggressive and reckless. Always drive defensively.
 
 ### Air travel
 

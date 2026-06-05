@@ -2,27 +2,6 @@
 
 ## Natural disasters and climate
 
-### Typhoon Sinlaku
-
-On April 14, 2026, Typhoon Sinlaku swept across the Northern Mariana Islands, especially Rota, Tinian and Saipan.
-
-The storm brought excessive rainfall and violent winds. It caused significant damage to buildings and infrastructure.
-
-Typhoon Sinlaku caused severe flooding, and disruptions to the following essential services are possible:
-
-* transportation
-* power distribution
-* water and food supply
-* telecommunications networks
-* emergency services
-* medical care
-
-If you are in the affected area:
-
-* exercise caution
-* monitor local news and weather reports
-* follow the instructions of local authorities
-
 ### Climate change
 
 Climate change is affecting the Northern Mariana Islands. Extreme and unusual weather events are becoming more frequent and may affect your travel plans. Monitor local media for the latest information.

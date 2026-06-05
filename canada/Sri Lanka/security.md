@@ -8,8 +8,6 @@ Fuel availability for personal motor vehicles in Sri Lanka is limited.
 
 Special arrangements are in place to ensure fuel access for service providers within the tourism sector.
 
-To manage fuel supply, non essential government services are not operational on Wednesdays, which may affect access to public services.
-
 If you are in Sri Lanka:
 
 * Monitor local media and government announcements for updates

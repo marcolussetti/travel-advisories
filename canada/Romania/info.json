@@ -1,7 +1,7 @@
 {
     "name": "Romania",
-    "update_reason": "Safety and security section \u2013 added information on impacts of the armed conflict in Ukraine",
-    "update_date": "2026-06-02T15:54:00",
+    "update_reason": "Editorial change",
+    "update_date": "2026-06-03T13:21:00",
     "sections": {
         "risk": "canada/Romania/risk.md",
         "security": "canada/Romania/security.md",

@@ -111,7 +111,7 @@ Canadian-Chilean dual citizens travelling to Chile on their Canadian passport mu
 
 ### Children and travel
 
-Chile has strict requirements for the entry and exit of persons under the age of 18, including special documentation. Children travelling with only one parent, with a guardian or alone, are required to carry:
+Chile has strict requirements for the entry and exit of persons under the age of 18, including special documentation. Parents travelling with children should carry proof of parentage, such as a long-form birth certificate. Children travelling with only one parent, with a guardian or alone, are required to carry:
 
 * a notarized, apostilled and translated letter of authorization from the other parent or a court
 * the child’s apostilled long-form birth certificate

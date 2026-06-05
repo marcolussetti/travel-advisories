@@ -109,9 +109,9 @@ Although you can drive with your Canadian driver’s licence in Georgia, an Inte
 
 [International Driving Permit](https://travel.gc.ca/travelling/documents/international-driving-permit)
 
-#### Right of way
+#### Priority to the right
 
-The right of way system is in effect in Georgia.
+The "priority to the right" system is in effect in Georgia.
 
 Drivers must yield to vehicles coming from the right at intersections if they are not in a priority lane, and to vehicles entering roundabouts.
 
