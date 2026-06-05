@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   10 April 2026
+:   5 June 2026
 
 Updated:
-:   9 April 2026
+:   4 June 2026
 
 Latest update:
-:   Removal of information about paper forms being available for the e-arrival card ('Entry requirements' page).
+:   Addition of  information about entry requirements for those entering from Ebola-affected regions ('Entry requirements' page).
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
@@ -37,8 +37,8 @@ Escalation in the Middle East has caused widespread travel disruption, including
 Your travel plans may be affected, even if your destination is not in the Middle East. Before you travel:
 
 * check travel advice for any countries or territories you are transiting through
-* check for the latest updates from your airline or tour operator before travelling
-* review your travel insurance policy for coverage before you travel
+* check for the latest updates from your airline or tour operator
+* review your travel insurance policy for coverage
 * monitor local and international media for the latest information and sign up for travel advice email alerts
 * If you have been impacted by travel disruption and need to review your Indian visa contact the nearest Foreigners Regional Registration Office (FRRO). See [e-FRRO Home](https://indianfrro.gov.in/eservices/) (website not accessible outside India).
 

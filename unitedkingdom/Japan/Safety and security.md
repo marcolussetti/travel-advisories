@@ -79,6 +79,10 @@ Prostitution and street touts are illegal but commonplace, especially in the hig
 
 ## Laws and cultural differences
 
+### Legal system in Japan
+
+Japanese and UK law are very different. In Japan, you can be arrested and detained without charge for up to 23 days, even for minor offences such as theft or trespassing.
+
 ### Personal ID
 
 You must always carry your passport or Japanese residence card with you. The police can arrest you if you cannot show proof of your visa or residence status.

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   4 June 2026
+:   5 June 2026
 
 Updated:
-:   3 June 2026
+:   4 June 2026
 
 Latest update:
-:   Updated information about COVID-19 testing upon arrival at Ashgabat airport ('Entry requirements' page).
+:   Updated information about COVID-19 testing when arriving in Turkmenistan ('Entry requirements' page).
 
 ## Global travel impacts due to escalation in the Middle East
 

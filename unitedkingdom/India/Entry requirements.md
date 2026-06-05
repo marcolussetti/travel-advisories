@@ -24,11 +24,11 @@ India has a number of visa categories. Make sure you get the right visa for your
 
 You could be refused entry or deported for having the wrong visa. You could also be banned from entering India in the future.
 
-For the latest information on Indian visas and immigration requirements, see the [Indian Bureau of Immigration](https://boi.gov.in/boi/public/content/pages/1f620c28-6ba1-4f25-ae77-2e8b63b02b61).
+For the latest information on Indian visas and immigration requirements, see the [Indian Bureau of Immigration](https://boi.gov.in/boi/).
 
 ### Applying for a visa or e-visa
 
-Find out how to apply for a visa from the [Indian Bureau of Immigration](https://boi.gov.in/boi/public/content/pages/df1a154d-8883-44bf-9750-8208149fbc8e). Depending on your requirements, you may be able to apply for a:
+Find out how to apply for a visa from the [Indian Bureau of Immigration](https://boi.gov.in/boi/). Depending on your requirements, you may be able to apply for a:
 
 * [regular (paper) visa](https://indianvisaonline.gov.in/visa/index.html)
 * [e-visa](https://indianvisaonline.gov.in/evisa/tvoa.html) (check the website’s FAQs for restrictions on airports and seaports of entry)
@@ -43,7 +43,7 @@ If you are a British-Pakistani dual national, you must apply for an Indian visa 
 
 ### Overseas Citizen of India (OCI) cardholders
 
-If you hold a valid Overseas Citizen of India (OCI) card, you can use this, along with your valid British passport, to visit India. You do not need a visa. If you have a Persons of Indian Origin (PIO) card, you will need to convert it to an OCI card. More information is available from the [High Commission of India](https://www.hcilondon.gov.in/page/oci-card/#:~:text=PIO%20Card%20holders%20can%20apply,%2F%2D%20plus%20VFS%20service%20charges) and the [Indian Bureau of Immigration](https://boi.gov.in/boi/public/content/pages/2484ead3-2c0b-4c05-af7f-f885726496d4).
+If you hold a valid Overseas Citizen of India (OCI) card, you can use this, along with your valid British passport, to visit India. You do not need a visa. If you have a Persons of Indian Origin (PIO) card, you will need to convert it to an OCI card. More information is available from the [High Commission of India](https://www.hcilondon.gov.in/page/oci-card/#:~:text=PIO%20Card%20holders%20can%20apply,%2F%2D%20plus%20VFS%20service%20charges) and the [Indian Bureau of Immigration](https://boi.gov.in/boi/).
 
 ### E-arrival card
 
@@ -53,7 +53,7 @@ More details are available on the [Indian visa website](https://indianvisaon
 
 ### Extending your visa
 
-It’s illegal to overstay your visa in India. Make sure you leave the country before your visa expires or get an official extension if needed. More information is available from the [Indian Bureau of Immigration](https://boi.gov.in/boi/public/content/pages/0b24515d-587b-44ea-a48b-b67d478b17f5).
+It’s illegal to overstay your visa in India. Make sure you leave the country before your visa expires or get an official extension if needed. More information is available from the [Indian Bureau of Immigration](https://boi.gov.in/boi/).
 
 ### If you’re hospitalised
 
@@ -85,6 +85,12 @@ To enter India, you must have a certificate to prove you’ve had a:
 * polio vaccine if you’re coming from a polio-affected country
 
 For full details about medical entry requirements and recommended vaccinations, see [TravelHealthPro’s India guide](https://travelhealthpro.org.uk/country/105/india#Vaccine_Recommendations).
+
+## Ebola
+
+As a public health measure, India has introduced health screening measures, including filling in a Self-Declaration Forms. Travellers from affected regions should also be prepared to undertake temperature checks.  If you show symptoms, you may be subject to isolation, quarantine, and/or travel restrictions. Monitor local media and follow the advice of local authorities and your travel company.
+
+The World Health Organisation (WHO) has [declared this a Public Health Emergency of International Concern](https://www.who.int/news/item/17-05-2026-epidemic-of-ebola-disease-in-the-democratic-republic-of-the-congo-and-uganda-determined-a-public-health-emergency-of-international-concern).
 
 ## Customs rules
 

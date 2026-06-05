@@ -18,7 +18,7 @@ Bahrain,2026-05-29T16:37:19+01:00,https://www.gov.uk/foreign-travel-advice/bahra
 Bangladesh,2026-04-30T14:53:20+01:00,https://www.gov.uk/foreign-travel-advice/bangladesh
 Barbados,2026-01-23T15:06:44+00:00,https://www.gov.uk/foreign-travel-advice/barbados
 Belarus,2026-05-11T12:38:13+01:00,https://www.gov.uk/foreign-travel-advice/belarus
-Belgium,2026-06-02T14:40:02+01:00,https://www.gov.uk/foreign-travel-advice/belgium
+Belgium,2026-06-04T14:45:37+01:00,https://www.gov.uk/foreign-travel-advice/belgium
 Belize,2026-05-15T16:56:12+01:00,https://www.gov.uk/foreign-travel-advice/belize
 Benin,2025-12-15T16:50:33+00:00,https://www.gov.uk/foreign-travel-advice/benin
 Bermuda,2025-11-01T12:46:46+00:00,https://www.gov.uk/foreign-travel-advice/bermuda
@@ -92,7 +92,7 @@ Honduras,2025-12-10T13:57:38+00:00,https://www.gov.uk/foreign-travel-advice/hond
 Hong Kong,2026-04-01T16:59:28+01:00,https://www.gov.uk/foreign-travel-advice/hong-kong
 Hungary,2026-06-01T12:49:16+01:00,https://www.gov.uk/foreign-travel-advice/hungary
 Iceland,2026-04-10T10:29:19+01:00,https://www.gov.uk/foreign-travel-advice/iceland
-India,2026-04-09T11:20:37+01:00,https://www.gov.uk/foreign-travel-advice/india
+India,2026-06-04T12:11:12+01:00,https://www.gov.uk/foreign-travel-advice/india
 Indonesia,2026-03-19T14:05:44+00:00,https://www.gov.uk/foreign-travel-advice/indonesia
 Iran,2026-04-07T17:53:02+01:00,https://www.gov.uk/foreign-travel-advice/iran
 Iraq,2026-05-06T14:31:30+01:00,https://www.gov.uk/foreign-travel-advice/iraq
@@ -100,7 +100,7 @@ Ireland,2026-02-26T11:06:23+00:00,https://www.gov.uk/foreign-travel-advice/irela
 Israel,2026-06-03T14:00:29+01:00,https://www.gov.uk/foreign-travel-advice/israel
 Italy,2026-04-10T10:29:23+01:00,https://www.gov.uk/foreign-travel-advice/italy
 Jamaica,2026-05-06T12:06:25+01:00,https://www.gov.uk/foreign-travel-advice/jamaica
-Japan,2026-06-03T04:36:06+01:00,https://www.gov.uk/foreign-travel-advice/japan
+Japan,2026-06-04T12:55:37+01:00,https://www.gov.uk/foreign-travel-advice/japan
 Jordan,2026-06-03T14:00:04+01:00,https://www.gov.uk/foreign-travel-advice/jordan
 Kazakhstan,2026-03-30T11:09:15+01:00,https://www.gov.uk/foreign-travel-advice/kazakhstan
 Kenya,2026-05-22T15:18:23+01:00,https://www.gov.uk/foreign-travel-advice/kenya
@@ -129,11 +129,11 @@ Martinique,2025-12-10T13:37:46+00:00,https://www.gov.uk/foreign-travel-advice/ma
 Mauritania,2026-03-24T16:23:01+00:00,https://www.gov.uk/foreign-travel-advice/mauritania
 Mauritius,2025-12-10T13:40:40+00:00,https://www.gov.uk/foreign-travel-advice/mauritius
 Mayotte,2025-12-10T13:41:54+00:00,https://www.gov.uk/foreign-travel-advice/mayotte
-Mexico,2026-06-03T19:29:11+01:00,https://www.gov.uk/foreign-travel-advice/mexico
+Mexico,2026-06-04T16:31:19+01:00,https://www.gov.uk/foreign-travel-advice/mexico
 Moldova,2025-12-10T13:44:10+00:00,https://www.gov.uk/foreign-travel-advice/moldova
 Monaco,2025-12-10T13:45:13+00:00,https://www.gov.uk/foreign-travel-advice/monaco
 Mongolia,2026-01-02T14:09:56+00:00,https://www.gov.uk/foreign-travel-advice/mongolia
-Montenegro,2026-02-04T12:03:40+00:00,https://www.gov.uk/foreign-travel-advice/montenegro
+Montenegro,2026-06-04T11:55:51+01:00,https://www.gov.uk/foreign-travel-advice/montenegro
 Montserrat,2024-04-03T14:27:39+01:00,https://www.gov.uk/foreign-travel-advice/montserrat
 Morocco,2026-02-17T10:48:54+00:00,https://www.gov.uk/foreign-travel-advice/morocco
 Mozambique,2026-05-19T09:37:36+01:00,https://www.gov.uk/foreign-travel-advice/mozambique
@@ -179,7 +179,7 @@ Singapore,2026-03-19T14:08:04+00:00,https://www.gov.uk/foreign-travel-advice/sin
 Slovakia,2026-04-10T10:34:28+01:00,https://www.gov.uk/foreign-travel-advice/slovakia
 Slovenia,2026-04-10T10:34:55+01:00,https://www.gov.uk/foreign-travel-advice/slovenia
 Solomon Islands,2026-05-26T09:39:14+01:00,https://www.gov.uk/foreign-travel-advice/solomon-islands
-Somalia,2026-05-13T17:13:51+01:00,https://www.gov.uk/foreign-travel-advice/somalia
+Somalia,2026-06-04T15:57:41+01:00,https://www.gov.uk/foreign-travel-advice/somalia
 South Africa,2026-05-11T14:48:09+01:00,https://www.gov.uk/foreign-travel-advice/south-africa
 South Georgia and the South Sandwich Islands,2025-09-24T11:48:52+01:00,https://www.gov.uk/foreign-travel-advice/south-georgia-and-south-sandwich-islands
 South Korea,2026-05-14T11:06:39+01:00,https://www.gov.uk/foreign-travel-advice/south-korea
@@ -208,7 +208,7 @@ Tonga,2026-03-19T14:02:58+00:00,https://www.gov.uk/foreign-travel-advice/tonga
 Trinidad and Tobago,2026-03-06T10:24:58+00:00,https://www.gov.uk/foreign-travel-advice/trinidad-and-tobago
 Tunisia,2026-02-23T12:48:19+00:00,https://www.gov.uk/foreign-travel-advice/tunisia
 Turkey,2026-05-20T12:28:27+01:00,https://www.gov.uk/foreign-travel-advice/turkey
-Turkmenistan,2026-06-03T14:37:47+01:00,https://www.gov.uk/foreign-travel-advice/turkmenistan
+Turkmenistan,2026-06-04T13:53:56+01:00,https://www.gov.uk/foreign-travel-advice/turkmenistan
 Turks and Caicos Islands,2026-03-13T16:34:25+00:00,https://www.gov.uk/foreign-travel-advice/turks-and-caicos-islands
 Tuvalu,2026-03-19T14:07:18+00:00,https://www.gov.uk/foreign-travel-advice/tuvalu
 USA,2026-06-02T17:02:32+01:00,https://www.gov.uk/foreign-travel-advice/usa

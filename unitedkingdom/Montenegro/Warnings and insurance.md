@@ -1,17 +1,17 @@
 # Warnings and insurance
 
 Still current at:
-:   5 February 2026
+:   5 June 2026
 
 Updated:
-:   4 February 2026
+:   4 June 2026
 
 Latest update:
-:   Removal of information around travel disruption at land border crossings.
+:   New information on travel disruption due to large number of international events taking place over the summer and beyond (‘Warnings and insurance’ page).
 
-## Protests and potential travel disruption
+## Travel disruption
 
-There are reports of protests in the municipality of Zeta, which can disrupt access to Podgorica Airport.
+Due to some large international events taking place over the summer, airports and roads may be more congested than normal.
 
 You should:
 

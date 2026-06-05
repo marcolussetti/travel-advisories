@@ -1,11 +1,11 @@
 {
     "name": "Japan",
-    "update_reason": "Warning on disruption and flooding due to Typhoon No. 6 Jangmi (Warnings and insurance page).",
+    "update_reason": "New information on the legal system in Japan (See \u2018Legal system in Japan\u2019 on the \u2018Safety and security\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Japan/Warnings and insurance.md",
-            "update_date": "2026-06-03T04:36:06+01:00"
+            "update_date": "2026-06-04T12:55:37+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Japan/Getting help.md"
         }
     ],
-    "update_date": "2026-06-03T04:36:06+01:00"
+    "update_date": "2026-06-04T12:55:37+01:00"
 }

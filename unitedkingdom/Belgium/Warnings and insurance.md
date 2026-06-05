@@ -1,17 +1,17 @@
 # Warnings and insurance
 
 Still current at:
-:   3 June 2026
+:   5 June 2026
 
 Updated:
-:   2 June 2026
+:   4 June 2026
 
 Latest update:
 :   Updated information on strike action ('Warnings and insurance' page).
 
 ## National strike action
 
-An air traffic controller strike is affecting Belgian airports between 2pm and 9pm on Tuesday 2 June. Check with your airport and travel operator for the latest updates.
+There are ongoing strikes in the French speaking education sector. There is currently a large-scale demonstration around Brussels Central train station. Police advise avoiding the area. For the latest information, follow updates from [Police Brussels on X (Twitter)](https://x.com/zpz_polbru). Read more information about demonstrations and strikes on the [Safety and security page](https://www.gov.uk/foreign-travel-advice/belgium/safety-and-security).
 
 Strike action is an ongoing issue that can cause travel disruption. General strikes took place on 31 March, 29 April,14 October, 26 November, 15 December 2025 and 12 March and 12 May 2026. Strike action may be announced at short notice.
 

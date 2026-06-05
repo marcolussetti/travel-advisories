@@ -18,7 +18,7 @@ Read more FCDO advice [if you’re affected by a crisis abroad](https:
 
 ## COVID-19 rules
 
-You do not need a COVID-19 vaccination to enter Turkmenistan. All travellers entering Turkmenistan must undergo a COVID-19 test upon arrival at Ashgabat airport, which costs 31 US dollars cash.
+You do not need a COVID-19 vaccination to enter Turkmenistan. All travellers entering Turkmenistan must undergo a COVID-19 test upon arrival, which costs 31 US dollars cash.
 
 Confirm the latest requirements with your Turkmen sponsor, or with the embassy that issued your visa if you have one. Check with your travel company or airline for changes.
 
