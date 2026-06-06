@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   30 May 2026
+:   6 June 2026
 
 Updated:
-:   29 May 2026
+:   5 June 2026
 
 Latest update:
-:   Addition of information about entry restrictions for those entering Bahrain from Ebola-affected regions ('Entry requirements' page).
+:   New information about non-Bahraini passengers who have visited countries affected by the Ebola outbreak within the past 30 days ('Entry requirements' page).
 
 ![](https://assets.publishing.service.gov.uk/media/69a367d7286b6fdc85daeb02/Bahrain_Travel_Advice_Ed1__WEB_.jpg)
 

@@ -1,25 +1,19 @@
 # Warnings and insurance
 
 Still current at:
-:   15 April 2026
+:   6 June 2026
 
 Updated:
-:   14 April 2026
+:   5 June 2026
 
 Latest update:
 :   Update to information regarding regional escalation (‘Warnings and insurance’ page).
 
 ## Exercise caution
 
-We advise British nationals in Oman to exercise increased caution. Press reports have included some limited missile and drone activity in the commercial ports and industrial areas of Duqm, Salalah and Sohar.
+We advise British nationals in Oman to exercise increased caution. Press reports have included some limited missile and drone activity in the commercial ports and industrial areas of Duqm, Muscat, Salalah and Sohar.
 
 Where available, follow advice from local authorities on how to stay safe in your location as risks may vary across Oman and the Gulf region. If you are advised to take shelter, stay indoors or find the nearest safe building or shelter. An interior stairwell or a room with as few external walls or windows as possible may provide additional protection.
-
-## Travel disruption
-
-Commercial flights are operating from Muscat to the UK. Internal flights continue from Salalah in Dhofar Governorate to Muscat. Commercial flights to and from Khasab airport in Musandam Governorate are currently suspended. If you are still in Oman and need to get back to the UK, check for availability with airlines or your travel provider. The Omani authorities are asking travellers only to travel to the airport when they have a confirmed onward flight.
-
-British nationals in Oman who need consular assistance can contact us 24/7 by calling +968 2460 9000.
 
 ## Regional escalation
 
@@ -36,10 +30,6 @@ Iranian strikes against civilian infrastructure across the region such as ports,
 * keep your departure plans under review and ensure your travel documents are up to date
 * read [If you’re affected by a crisis abroad - GOV.UK](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas) this includes suggestions on what you might include in your emergency supplies and “what to do in a crisis”
 * sign up to FCDO Travel Advice [email alerts](https://www.gov.uk/foreign-travel-advice/oman/email-signup)
-
-## Flooding
-
-Oman has experienced extensive and unprecedented flooding in recent days. Some roads are closed, and others may have restrictions in place due to debris or damaged bridges. Please exercise extra vigilance and follow the advice of the Royal Oman Police and the Civil Defence and Ambulance Authority of Oman.
 
 ## Before you travel
 

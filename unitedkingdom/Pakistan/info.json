@@ -1,11 +1,11 @@
 {
     "name": "Pakistan",
-    "update_reason": "Removal of information about the security situation in Islamabad ('Warnings and insurance' page).",
+    "update_reason": "New information regarding planned demonstrations in areas of Pakistan-administered Kashmir (See \u2018Demonstrations in Pakistan-administered Kashmir\u2019 on the \u2018Warnings and insurance\u2019 page)",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Pakistan/Warnings and insurance.md",
-            "update_date": "2026-05-12T11:55:17+01:00"
+            "update_date": "2026-06-05T22:35:53+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Pakistan/Getting help.md"
         }
     ],
-    "update_date": "2026-05-12T11:55:17+01:00"
+    "update_date": "2026-06-05T22:35:53+01:00"
 }

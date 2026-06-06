@@ -1,11 +1,11 @@
 {
     "name": "Peru",
-    "update_reason": "Removal of information about emergency measures affecting Lima and Callao regions which was declared by Peruvian Government in response to natural gas shortage.",
+    "update_reason": "New information on national election on 7 June ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Peru/Warnings and insurance.md",
-            "update_date": "2026-05-20T12:22:31+01:00"
+            "update_date": "2026-06-05T09:41:04+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Peru/Getting help.md"
         }
     ],
-    "update_date": "2026-05-20T12:22:31+01:00"
+    "update_date": "2026-06-05T09:41:04+01:00"
 }

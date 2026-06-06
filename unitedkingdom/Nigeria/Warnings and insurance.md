@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   2 April 2026
+:   6 June 2026
 
 Updated:
-:   1 April 2026
+:   5 June 2026
 
 Latest update:
-:   Updated information about risks from kidnapping for ransom and terrorist kidnap ('Safety and security' page).
+:   New information on travelling at night in North Central Nigeria (See ‘Road travel’ on the ‘Safety and security’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/68b5a5683f3e5483efdba88a/FCDO__TA__030_-_Nigeria_Travel_Advice_map__WEB_.jpg)
 

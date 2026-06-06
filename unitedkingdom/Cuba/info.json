@@ -1,11 +1,11 @@
 {
     "name": "Cuba",
-    "update_reason": "Updated information about fuel shortages ('Warnings and insurance' page).",
+    "update_reason": "New information about the ban on international card transactions ('Warnings and insurance' and 'Safety and security' pages).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Cuba/Warnings and insurance.md",
-            "update_date": "2026-05-15T16:41:04+01:00"
+            "update_date": "2026-06-05T15:06:34+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Cuba/Getting help.md"
         }
     ],
-    "update_date": "2026-05-15T16:41:04+01:00"
+    "update_date": "2026-06-05T15:06:34+01:00"
 }

@@ -70,11 +70,13 @@ If you break the law, or are suspected of causing injury to someone, you may be 
 
 ### Money
 
+On 3 June the Cuban Central Bank announced that international cards such as Visa and Mastercard will no longer be accepted in Cuba,with effect from 6 June. Available payment methods include cash and Cuban prepaid cards. It will not be possible to withdraw cash through ATMs with an international card.
+
+If visiting Cuba, you should bring enough cash to cover your expenses for the entire length of your stay and in case of an emergency. US dollars and euros are widely accepted and can be exchanged in Cuba.
+
 You must only exchange money at the Cadeca exchange houses. It is illegal to exchange money anywhere else, including with any individuals who may offer exchange services. If you’re caught making an unauthorised exchange, you could be fined or get a prison sentence.
 
-Check with your bank before you travel that your debit, credit and ATM cards will work in Cuba. There are often severe shortages of Cuban national pesos available through ATMs, so it’s a good idea to bring cash in euros or US dollars. Expect long queues.
-
-Following a banking reform, the government is encouraging businesses and consumers to use electronic payments rather than cash. State-run hotels and shops only accept bank card payments, but privately run hostels (‘casas particulares’), restaurants and shops may ask for cash payment in local or foreign currency.
+Check with your hotel and tour providers on how to make payments ahead of your arrival in Cuba, and whether these can be made in advance via international bank transfer. Take precautions when carrying large amounts of cash.
 
 ## Transport risks
 

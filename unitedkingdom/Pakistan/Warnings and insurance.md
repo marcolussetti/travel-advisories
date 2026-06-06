@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   13 May 2026
+:   6 June 2026
 
 Updated:
-:   12 May 2026
+:   5 June 2026
 
 Latest update:
-:   Removal of information about the security situation in Islamabad ('Warnings and insurance' page).
+:   New information regarding planned demonstrations in areas of Pakistan-administered Kashmir (See ‘Demonstrations in Pakistan-administered Kashmir’ on the ‘Warnings and insurance’ page)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
@@ -74,6 +74,18 @@ FCDO advises against all but essential travel to all areas of Sindh Province nor
 FCDO advises against all but essential travel to Dera Ghazi Khan.
 
 Find out more about [why FCDO advises against travel to these regions](/foreign-travel-advice/pakistan/regional-risks).
+
+## Strikes announced in Pakistan-administered Kashmir
+
+A strike has been announced for 9 June in areas of Pakistan-administered Kashmir (known locally as “Azad Jammu and Kashmir”), including Muzaffarabad and surrounding districts.
+
+Local authorities are advising tourists to avoid travel to the area from 5 to 20 June, and for tourists already there to leave to avoid potential disruption.
+
+Strikes in the area have previously led to:
+
+* road closures and severe travel disruption
+* suspension of mobile and internet services
+* clashes between protestors and security forces
 
 ## Regional tensions
 

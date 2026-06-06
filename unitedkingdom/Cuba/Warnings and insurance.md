@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   16 May 2026
+:   6 June 2026
 
 Updated:
-:   15 May 2026
+:   5 June 2026
 
 Latest update:
-:   Updated information about fuel shortages ('Warnings and insurance' page).
+:   New information about the ban on international card transactions ('Warnings and insurance' and 'Safety and security' pages).
 
 ![](https://assets.publishing.service.gov.uk/media/698cc89184cc2df4a87123d5/FCDO__TA__103_-_Cuba_Travel_Advice_Ed1__WEB_.jpg)
 
@@ -33,6 +33,16 @@ Cuban authorities have announced that all of its international airport
 The situation has the potential to deteriorate quickly and without warning. Make sure you are ready to change your plans quickly if needed. If you are considering leaving Cuba, check for messaging from your airline or tour operator for up to date information. Ensure your travel documents remain valid and confirm you have any required visas for onward travel.
 
 Continue to monitor local media and follow the instructions of local authorities. Subscribe to [FCDO email alerts](https://www.gov.uk/foreign-travel-advice/cuba/email-signup) and read our [guidance on how to deal with a crisis overseas](https://www.gov.uk/government/collections/support-for-british-nationals-abroad#help-in-a-crisis).
+
+### International card transactions
+
+On 3 June the Cuban Central Bank announced that international cards such as Visa and Mastercard will no longer be accepted in Cuba, with effect from 6 June. Available payment methods include cash and Cuban prepaid cards. It will not be possible to withdraw cash through ATMs with an international card.
+
+If visiting Cuba, you should bring enough cash to cover your expenses for the entire length of your stay and in case of an emergency. US dollars and euros are widely accepted and can be exchanged in Cuba.
+
+You must only exchange money at the Cadeca exchange houses. It is illegal to exchange money anywhere else, including with any individuals who may offer exchange services. If you’re caught making an unauthorised exchange, you could be fined or get a prison sentence.
+
+Check with your hotel and tour providers on how to make payments ahead of your arrival in Cuba, and whether these can be made in advance via international bank transfer. Take precautions when carrying large amounts of cash.
 
 ## Before you travel
 

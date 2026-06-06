@@ -1,11 +1,11 @@
 {
     "name": "Nigeria",
-    "update_reason": "Updated information about risks from kidnapping for ransom and terrorist kidnap ('Safety and security' page).",
+    "update_reason": "New information on travelling at night in North Central Nigeria (See \u2018Road travel\u2019 on the \u2018Safety and security\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Nigeria/Warnings and insurance.md",
-            "update_date": "2026-04-01T12:04:10+01:00"
+            "update_date": "2026-06-05T16:20:20+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Nigeria/Getting help.md"
         }
     ],
-    "update_date": "2026-04-01T12:04:10+01:00"
+    "update_date": "2026-06-05T16:20:20+01:00"
 }

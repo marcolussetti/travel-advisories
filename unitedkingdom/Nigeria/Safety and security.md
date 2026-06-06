@@ -171,6 +171,8 @@ Read more [advice for LGBT+ travellers](https://www.gov.uk/lesbian-gay-bisexual-
 
 ### Road travel
 
+The Nigerian Government has issued a warning about travelling at night in North Central Nigeria in response to security concerns.
+
 If you are planning to drive in Nigeria, see [information on driving abroad](https://www.gov.uk/driving-abroad). Road travel across Nigeria can be dangerous. Driving standards are low, road conditions often poor and vehicle road-worthiness a serious safety issue. There are a high number of fatalities on Nigeria’s road. Traffic in some areas, including Lagos, can be slow moving and you may need to allow extra time for journeys. Take a mobile and a supply of bottled water with you when travelling by car.
 
 You can drive in Nigeria with a UK driving licence for up to 3 months. If necessary [renew or update it](https://www.gov.uk/browse/driving/driving-licences). The minimum legal age for driving is 18.
