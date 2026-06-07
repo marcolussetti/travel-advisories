@@ -54,7 +54,16 @@ Hiring a vehicle
 
 ### **Terrorism**
 
-There is a high threat of terrorism across the East Africa region. Ugandan authorities have issued a number of alerts warning of a heightened risk of terrorism. Terror attacks can be indiscriminate, including in places frequented by expatriates and foreign travellers. Large crowds of people and public places may also be targets.
+There is currently a high risk of terrorism in Uganda and across the East Africa Region. Terror attacks can be indiscriminate, including in places frequented by expatriates and foreign travellers. Large crowds of people and public places may also be targets.
+
+We advise Irish citizens to exercise a high level of caution in public areas, including shopping malls, schools and tourist sites. Citizens should avoid large gatherings.
+
+Recent significant attacks include:
+
+* On 3 June 2025, a device carried by motorbike exploded in Munyonyo – Kampala – close to a large gathering of pilgrims.
+* On 17 October 2023 two foreign tourists and their local guide were killed by suspected terrorists in Queen Elizabeth National Park. Security operations in response to this incident are ongoing.
+
+In September 2023 a number of improvised explosive devices were captured by police. Two devices exploded in the greater Kampala area in December 2023.
 
 ### **Regional Travel**
 

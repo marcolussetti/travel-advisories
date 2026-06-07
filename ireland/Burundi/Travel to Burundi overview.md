@@ -8,6 +8,10 @@ Do Not Travel
 
 #### **Ebola Outbreak**
 
+On 15 May 2026 the Democratic Republic of Congo Ministry of Health announced an outbreak of the Ebola Bundibugyo virus in the North-Eastern Ituri Province. The World Health Organisation (WHO) have declared this a Public Health Emergency of International Concern.
+
+Due to the outbreak, you may experience heightened health screening at international borders in the region.
+
 Humanitarian Aid Workers travelling to Burundi are urged to [**register**](https://www.hpsc.ie/a-z/vectorborne/viralhaemorrhagicfever/guidance/vhfguidanceappendices/vhfguidanceforhumanitarianaidworkers/) with HSE HPSC in advance of their deployment.
 
 Further information on the Ebola Virus Disease, including for those returning to Ireland from an area where the outbreak is occurring, is available on the HPSC website [**here**](https://www.hpsc.ie/a-z/vectorborne/viralhaemorrhagicfever/ebola/frequentlyaskedquestions/).
@@ -24,7 +28,7 @@ For more information on visa and passports, please see the Entry Requirements ta
 
 Visitors to Burundi are advised to follow the guidance of national and local authorities and stay fully informed of what's going on by monitoring local news and social media.
 
-Citizens can also follow the Embassy on social media (X [**@IrlEmbTanzania**](https://twitter.com/irlembtanzania?lang=en))to ensure access to relevant updates and alerts.
+Citizens can also follow the Embassy on social media (X [**@IrlEmbTanzania**](https://twitter.com/irlembtanzania?lang=en)) to ensure access to relevant updates and alerts.
 
 ### **Emergency Assistance**
 
