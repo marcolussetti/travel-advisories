@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   6 June 2026
+:   7 June 2026
 
 Updated:
-:   5 June 2026
+:   6 June 2026
 
 Latest update:
-:   New information regarding planned demonstrations in areas of Pakistan-administered Kashmir (See ‘Demonstrations in Pakistan-administered Kashmir’ on the ‘Warnings and insurance’ page)
+:   FCDO advises against all but essential travel to Azad Jammu and Kashmir (AJK) (See "Warnings and Insurance" page)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
@@ -62,6 +62,8 @@ FCDO advises against all travel to Balochistan Province.
 FCDO advises against all but essential travel within 5 miles of the international border between Pakistan and India except the Grand Trunk highway to India via Wagah border (which is currently closed) and the Kartarpur Corridor for Sikh pilgrims visiting Gurdwara Darbar Sahib (currently closed for crossings).
 
 ### Pakistan-administered Kashmir
+
+FCDO advises against all but essential travel to Azad Jammu and Kashmir
 
 FCDO advises against all travel to within 10 miles of the Line of Control.
 
