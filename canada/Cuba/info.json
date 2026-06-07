@@ -1,7 +1,7 @@
 {
     "name": "Cuba",
-    "update_reason": "Laws and culture section \u2013 added information on Visa and Mastercard payments",
-    "update_date": "2026-06-04T14:52:00",
+    "update_reason": "Editorial change",
+    "update_date": "2026-06-05T15:04:00",
     "sections": {
         "risk": "canada/Cuba/risk.md",
         "security": "canada/Cuba/security.md",

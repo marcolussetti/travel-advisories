@@ -39,23 +39,13 @@ If you chose to travel in the southern Philippines despite this advisory:
 
 ### Terrorism
 
-On March 7, 2026, the U.S. Embassy in Manila issued a security alert, stating:
-
-“While there is no specific, credible threat to U.S. Embassy Manila at this time, the potential for demonstrations, anti-U.S./Israeli sentiment, or opportunistic attacks remains elevated.
-
-Actions to Take:
-
-* Maintain situational awareness. Remain alert to your surroundings at all times, especially in public places frequented by foreigners or Americans.
-* Avoid facilities such as the Chabad Jewish Center and The Jewish Association of the Philippines.
-* Avoid large gatherings, demonstrations, and areas with heightened security presence.”
-
-[Security alert](https://ph.usembassy.gov/security-alert-u-s-embassy-manila-march-7-2026/) – U.S. Embassy in Manila
-
-There is a threat of terrorism in the southern Philippines.
+There is a threat of terrorism in the Philippines.
 
 In recent years, the Filippino government has intensified its fight against terrorists. Counterterrorism operations diminished the capacity of terrorist groups to operate in the Philippines. However, militants remain in the country even if attacks are less common.
 
 Terrorist have carried out attacks, including in major cities and places visited by foreigners. Attacks are far more frequent in Western Mindanao, where government forces and rebel groups clash.
+
+Security incidents also occur in rural and remote areas elsewhere in the country, including in parts of Central Visayas and Mindoro. These incidents may take place in provinces located near tourist destinations.
 
 Further attacks may not be ruled out. Targets could include:
 
