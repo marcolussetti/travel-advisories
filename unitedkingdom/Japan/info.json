@@ -1,11 +1,11 @@
 {
     "name": "Japan",
-    "update_reason": "New information on the legal system in Japan (See \u2018Legal system in Japan\u2019 on the \u2018Safety and security\u2019 page).",
+    "update_reason": "Tsunami advisory following earthquake in the Philippines ('Warning and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Japan/Warnings and insurance.md",
-            "update_date": "2026-06-04T12:55:37+01:00"
+            "update_date": "2026-06-08T02:59:38+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Japan/Getting help.md"
         }
     ],
-    "update_date": "2026-06-04T12:55:37+01:00"
+    "update_date": "2026-06-08T02:59:38+01:00"
 }

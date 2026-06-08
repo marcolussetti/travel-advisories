@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   2 April 2026
+:   8 June 2026
 
 Updated:
-:   1 April 2026
+:   8 June 2026
 
 Latest update:
-:   Updated information about global travel impacts due to escalation in the Middle East (‘Warnings and insurance’ page).
+:   Information on the 7.0 magnitude earthquake in Mindanao and associated tsunami risk.
 
 ![](https://assets.publishing.service.gov.uk/media/616406778fa8f52980d9301c/FCDO__TA__033_-_Philippines_Travel_Advice_Ed2__WEB_.jpg)
 
@@ -32,6 +32,24 @@ This advice is due to terrorist activity and clashes between the military and in
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/philippines/safety-and-security#terrorism).
 
+## Earthquake in Mindanao
+
+On 8 June 2026, a magnitude 7.0 earthquake struck southern Mindanao. Aftershocks are expected, and there may be damage to buildings and infrastructure in affected areas. [The Philippine Institute of Volcanology and Seismology (PHIVOLCS)](https://tsunami.phivolcs.dost.gov.ph/Tsunami_Information/2026_Tsunami_Information/Jun/07/20260607_2337z_Advisory3_1.html) has issued a tsunami threat and advised residents and visitors in affected coastal areas to evacuate to higher ground.
+
+ If you are in the affected area:
+
+* Follow the advice of local authorities and emergency services
+* Move to higher ground if you are in coastal areas
+* Be aware of the risk of aftershocks
+* Avoid damaged buildings and infrastructure
+* Monitor local media and official sources for updates.
+
+If you are planning to travel to Mindanao:
+
+* Contact your travel provider for updates
+* Ensure your travel insurance covers natural disasters
+* Stay informed via the [Philippine Institute of Volcanology and Seismology (PHIVOLCS)](https://www.phivolcs.dost.gov.ph/) and [the National Disaster Risk Reduction and Management Council (NDRRMC)](https://ndrrmc.gov.ph/)
+
 ## Global travel impacts due to escalation in the Middle East
 
 Escalation in the Middle East has caused widespread travel disruption, including airspace closures, delayed and cancelled flights.
@@ -39,10 +57,9 @@ Escalation in the Middle East has caused widespread travel disruption, including
 Commercial options to depart the Philippines remain available, but your travel plans may be affected, even if your destination is not in the Middle East. Before you travel:
 
 * check travel advice for any countries or territories you are transiting through
-* check for the latest updates from your airline or tour operator before travelling
-* review your travel insurance policy for coverage before you travel
+* check for the latest updates from your airline or tour operator
+* review your travel insurance policy for coverage
 * monitor local and international media for the latest information and sign up for travel advice email alerts
-* The Philippines Bureau of Immigration has advised that affected foreign nationals whose valid stay expired on 28 February 2026 onwards, can legally remain in the Philippines until 1 May 2026 without payment of any fees, fines and penalties
 
 ## Demonstrations
 
