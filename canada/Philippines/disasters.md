@@ -2,6 +2,30 @@
 
 ## Natural disasters and climate
 
+### Earthquake and tsunami alert
+
+On June 8, 2026, a 7.8 magnitude earthquake occurred south of the island of Mindanao in Sarangani bay, Philippines.
+
+The Philippine Institute of Volcanology and Seismology issued a tsunami warning of waves of more than one meter in the following coastal areas:
+
+* Sarangani
+* Davao Occidental
+* Tawi-Tawi
+* Sulu
+* Basilan
+* Zamboanga del Sur
+* Zamboanga Sibugay
+* Sultan Kudarat
+* South Cotabato
+
+If you are in one of the affected areas:
+
+* immediately evacuate to higher ground or move further inland
+* monitor local media for updates on the situation
+* follow the instructions of local and national authorities, including evacuation orders
+
+[Tsunami warning](https://tsunami.phivolcs.dost.gov.ph/Tsunami_Information/2026_Tsunami_Information/Jun/07/20260607_2337z_Advisory3_1.html) – Philippine institute of Volcanology and Seismology
+
 ### Climate change
 
 Climate change is affecting the Philippines. Extreme and unusual weather events are becoming more frequent. Monitor local news to stay informed on the current situation.

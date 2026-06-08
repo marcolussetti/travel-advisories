@@ -8,6 +8,18 @@ The Government of Canada may not be in a position to provide consular assistance
 * the Government of Pakistan prohibits entry
 * advance permission is required for entry
 
+### Demonstrations in Pakistan-administered Kashmir
+
+Demonstrations are scheduled to take place across Pakistan-administered Kashmir on June 9, 2026, starting in Rawalakot and moving toward Muzaffarabad. Local authorities have issued a travel warning advising against all travel to the area from June 5 to June 20. 2026. In the past, demonstrations in this region have led to significant disruptions.
+
+If you are in the region despite the advisory:
+
+* stay away from demonstrations and large gatherings
+* expect heavy security measures and increased security presence
+* expect road closures and travel disruptions in the area
+* monitor local media for the latest information
+* follow the instructions of local authorities
+
 ### Tensions along the Pakistan–Afghanistan border
 
 On February 26, 2026, tensions between Pakistan and Afghanistan have escalated in coordinated cross border attacks.

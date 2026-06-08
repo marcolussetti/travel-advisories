@@ -2,6 +2,17 @@
 
 ## Natural disasters and climate
 
+### Tsunami advisory
+
+On June 8, 2026, a 7.8 magnitude earthquake occurred south of the island of Mindanao in Sarangani bay, Philippines. A tsunami advisory is in effect for several regions of Japan.
+
+If you’re in or around the affected areas:
+
+* follow the instructions of local authorities
+* monitor local news for information on the tsunami’s progress
+
+[Tsunami advisory](https://www.jma.go.jp/bosai/map.html#3/27.394/138.46/&elem=warn&contents=tsunami&lang=en) - Japan Meteorological Agency
+
 ### Climate change
 
 Climate change is affecting Japan. Extreme and unusual weather events are becoming more frequent and may affect your travel plans. Monitor local news to stay informed on the current situation.
