@@ -10,8 +10,6 @@ High Degree of Caution
 
 Humanitarian Aid Workers travelling to Tanzania are urged to [**register**](https://www.hpsc.ie/a-z/vectorborne/viralhaemorrhagicfever/guidance/vhfguidanceappendices/vhfguidanceforhumanitarianaidworkers/) with HSE HPSC in advance of their deployment.
 
-Further information on the Ebola Virus Disease, including for those returning to Ireland from an area where the outbreak is occurring, is available on the HPSC website [**here**](https://www.hpsc.ie/a-z/vectorborne/viralhaemorrhagicfever/ebola/frequentlyaskedquestions/).
-
 All Irish citizens living in or visiting Tanzania are encouraged to register their presence on our [**Citizen Registration**](https://citizensregistration.dfa.ie/) platform.
 
 On 18 May 2026, the Tanzania Ministry of Health announced that all travellers entering Tanzania will receive a temperature check on arrival.
@@ -19,6 +17,14 @@ On 18 May 2026, the Tanzania Ministry of Health announced that all travellers en
 Additional health screening measures are in place for travellers arriving into Tanzania from Uganda and the Democratic Republic of Congo.
 
 These measures are in response to the outbreak of the Ebola Bundibugyo virus in these countries. The World Health Organisation (WHO) has declared this a Public Health Emergency of International Concern.
+
+#### **Returning to Ireland from an** [**Ebola-affected area**](https://urldefense.com/v3/__https:/www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda__;!!CfJOjA!CqeNvFD8hfwZyCDwpWYNe2ymDNxqWtFXbgDzXV5HrvMqMvFVgubbolwpTO2M9f6FxkU0NkHCF6Hvk2tzzw$) **(DRC, Uganda) or neighbouring countries (South Sudan, Rwanda, Burundi, Angola, the Central African Republic, the Republic of Congo, Ethiopia, Kenya, Tanzania, Zambia)**
+
+Irish citizens and residents should monitor their health for 21 days after returning from the region. This is because the incubation period of the disease ranges from 2 to 21 days. If you develop symptoms such as fever, severe headache, or unexplained bleeding, seek immediate medical attention **by phone** and inform healthcare providers of your recent travel and any exposure to Ebola.
+
+Irish Citizens and residents who have had **known contact with an Ebola patient or the remains of someone who died of Ebola**, contact your Regional Department of Public Health who will advise you to monitor your health in the 21 days after your exposure, and advise on any other measures you may need to take.
+
+**Regional Department of Health Contact List** and further information on the Ebola Virus Disease is available on the HPSC website [**here**](https://www.hpsc.ie/a-z/vectorborne/viralhaemorrhagicfever/ebola/frequentlyaskedquestions/).
 
 #### **Conflict in the Middle East**
 

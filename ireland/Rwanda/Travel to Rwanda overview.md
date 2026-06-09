@@ -10,13 +10,19 @@ High Degree of Caution
 
 On 17 May, the World Health Organisation (WHO) declared the outbreak of the Bundibugyo strain of Ebola in the Democratic Republic of Congo (DRC) and Uganda a [**Public Health Emergency of International Concern**](https://www.who.int/news/item/17-05-2026-epidemic-of-ebola-disease-in-the-democratic-republic-of-the-congo-and-uganda-determined-a-public-health-emergency-of-international-concern). As a neighbouring country, Rwanda continues to monitor the situation.
 
-Humanitarian Aid Workers travelling to Rwanda are urged to [register](https://www.hpsc.ie/a-z/vectorborne/viralhaemorrhagicfever/guidance/vhfguidanceappendices/vhfguidanceforhumanitarianaidworkers/) with HSE HPSC in advance of their deployment.
-
-Further information on the Ebola Virus Disease, including for those returning to Ireland from an area where the outbreak is occurring, is available on the HPSC website [here](https://www.hpsc.ie/a-z/vectorborne/viralhaemorrhagicfever/ebola/frequentlyaskedquestions/).
+Humanitarian Aid Workers travelling to Rwanda are urged to [**register**](https://www.hpsc.ie/a-z/vectorborne/viralhaemorrhagicfever/guidance/vhfguidanceappendices/vhfguidanceforhumanitarianaidworkers/) with HSE HPSC in advance of their deployment.
 
 All Irish citizens living in or visiting Rwanda are encouraged to register their presence on our [**Citizen Registration**](https://citizensregistration.dfa.ie/) platform.
 
-On 22 May the Government of Rwanda [announced new border measures](https://x.com/RwandaHealth/status/2057790371657101712?s=20) in response to the Ebola outbreak, including:
+#### **Returning to Ireland from an** [**Ebola-affected area**](https://urldefense.com/v3/__https:/www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda__;!!CfJOjA!CqeNvFD8hfwZyCDwpWYNe2ymDNxqWtFXbgDzXV5HrvMqMvFVgubbolwpTO2M9f6FxkU0NkHCF6Hvk2tzzw$) **(DRC, Uganda) or neighbouring countries (South Sudan, Rwanda, Burundi, Angola, the Central African Republic, the Republic of Congo, Ethiopia, Kenya, Tanzania, Zambia)**
+
+Irish citizens and residents should monitor their health for 21 days after returning from the region. This is because the incubation period of the disease ranges from 2 to 21 days. If you develop symptoms such as fever, severe headache, or unexplained bleeding, seek immediate medical attention **by phone** and inform healthcare providers of your recent travel and any exposure to Ebola.
+
+Irish Citizens and residents who have had **known contact with an Ebola patient or the remains of someone who died of Ebola**, contact your Regional Department of Public Health who will advise you to monitor your health in the 21 days after your exposure, and advise on any other measures you may need to take.
+
+**Regional Department of Health Contact List** and further information on the Ebola Virus Disease is available on the HPSC website [**here**](https://www.hpsc.ie/a-z/vectorborne/viralhaemorrhagicfever/ebola/frequentlyaskedquestions/).
+
+On 22 May the Government of Rwanda [**announced new border measures**](https://x.com/RwandaHealth/status/2057790371657101712?s=20) in response to the Ebola outbreak, including:
 
 * Any Foreign nationals who have travelled to or transited through the DRC in the last 30 days prior to their intended travel to Rwanda will be denied entry;
 * Rwandan nationals and foreign residents with valid proof of residency in Rwanda will be permitted entry. However, if they have travelled to or through DRC in the last 30 days, they will be subject to mandatory quarantine procedures.
