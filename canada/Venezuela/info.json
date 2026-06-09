@@ -1,7 +1,7 @@
 {
     "name": "Venezuela",
-    "update_reason": "Safety and security section \u2013 removed information on the closure of border crossings with Colombia",
-    "update_date": "2026-06-02T09:23:00",
+    "update_reason": "Natural disasters and climate section \u2013 added information on the hurricane season",
+    "update_date": "2026-06-08T13:58:00",
     "sections": {
         "risk": "canada/Venezuela/risk.md",
         "security": "canada/Venezuela/security.md",

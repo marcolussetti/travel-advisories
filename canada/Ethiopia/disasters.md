@@ -19,24 +19,22 @@ Even minor earthquakes can cause significant damage. Landslides can occur with 
 
 ### Volcanoes
 
-Ethiopia has several active volcanoes, most of them are located in Afar region.
+Ethiopia has several active volcanoes, most of which are located in the Afar region.
 
 Ash clouds can disrupt air travel and cause or worsen respiratory problems.
 
 If you are near active volcanoes:
 
 * take official warnings seriously and respect exclusion zones
-* monitor local media to stay up-to-date on latest developments
+* monitor local media to stay up-to-date on the latest developments
 * follow the advice of local authorities, including evacuation orders
 * be prepared to modify your travel arrangements or even evacuate the area on short notice
 
 ### Drought
 
-Due to below-average rainfall for several years in a row, Ethiopia is experiencing severe drought.
+The dry season usually lasts from October to May but has become longer and drier in recent years. Availability of water and basic food may be affected during periods of prolonged drought, particularly in isolated areas.
 
-Local services and the availability of water and basic food may be affected.
-
-You may encounter difficulties travelling overland.
+[Advice for travel to remote areas](#remote)
 
 ### Rainy season
 

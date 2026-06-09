@@ -57,27 +57,6 @@ There is a risk of [hepatitis A](https://www.canada.ca/en/public-health/services
 
 Practise [safe food and water precautions](https://travel.gc.ca/travelling/health-safety/food-water) and wash your hands often. Vaccination is recommended for all travellers to areas where hepatitis A is present.
 
-Rabies 
-
-Rabies may be present in some wildlife in this destination, including bats. Rabies is a serious disease that’s almost always fatal once symptoms appear. It's spread to humans through the saliva of infected animals, mainly through bites, but it can also be spread through scratches.
-
-Before you travel, talk to a health care professional about rabies vaccination. Vaccination may be recommended if you’ll be working directly with wildlife.
-
-If you’re bitten or scratched by wildlife, including bats:
-
-* wash the wound right away with soap and clean water for about 15 minutes
-* get medical care as soon as possible
-
-If you get treatment to prevent rabies while outside Canada, ask for:
-
-* written records of medications and vaccines administered, including when they were given, product names, and batch or lot numbers
-* photos of the packaging and labels of any medications or vaccines given to you
-
-When you return to Canada, see a health care professional as soon as possible and bring your treatment records to your appointment.
-
-**Learn more:**  
-[Rabies: Symptoms and treatment](https://www.canada.ca/en/public-health/services/diseases/rabies.html)
-
 Measles 
 
 Measles is a serious viral infection that spreads easily. It spreads through the air, and can stay in the air for up to 2 hours. You can also get measles by direct contact with an infected person or by touching a surface with the virus on it and then touching your eyes, nose, or mouth before washing your hands.
@@ -124,8 +103,7 @@ The flu virus spreads from person to person when they cough or sneeze or by touc
 Malaria 
 
 [Malaria](https://www.canada.ca/en/public-health/services/diseases/malaria.html) is a serious and sometimes fatal disease that is caused by parasites spread through the bites of mosquitoes.  
-   
-**There is a risk of malaria in certain areas and/or during a certain time of year in this destination.**
+ 
 
 [Antimalarial medication may be recommended](https://www.canada.ca/en/public-health/services/catmat/appendix-1-malaria-risk-recommended-chemoprophylaxis-geographic-area.html) depending on your itinerary and the time of year you are travelling. Consult a health care professional or visit a travel health clinic before travelling to discuss your options. It is recommended to do this 6 weeks before travel, however, it is still a good idea any time before leaving.   
    
@@ -136,6 +114,27 @@ Malaria
 • Wear permethrin-treated clothing.   
    
 If you develop [symptoms](https://www.canada.ca/en/public-health/services/diseases/malaria/symptoms-malaria.html) similar to malaria when you are travelling or up to a year after you return home, see a health care professional immediately. Tell them where you have been travelling or living.
+
+Rabies 
+
+Rabies may be present in some wildlife in this destination, including bats. Rabies is a serious disease that’s almost always fatal once symptoms appear. It's spread to humans through the saliva of infected animals, mainly through bites, but it can also be spread through scratches.
+
+Before you travel, talk to a health care professional about rabies vaccination. Vaccination may be recommended if you’ll be working directly with wildlife.
+
+If you’re bitten or scratched by wildlife, including bats:
+
+* wash the wound right away with soap and clean water for about 15 minutes
+* get medical care as soon as possible
+
+If you get treatment to prevent rabies while outside Canada, ask for:
+
+* written records of medications and vaccines administered, including when they were given, product names, and batch or lot numbers
+* photos of the packaging and labels of any medications or vaccines given to you
+
+When you return to Canada, see a health care professional as soon as possible and bring your treatment records to your appointment.
+
+**Learn more:**  
+[Rabies: Symptoms and treatment](https://www.canada.ca/en/public-health/services/diseases/rabies.html)
 
 ### Safe food and water precautions
 
@@ -183,6 +182,33 @@ A vaccine for the prevention of chikungunya is approved in Canada. Talk to your 
 
 [Chikungunya](https://www.canada.ca/en/public-health/services/diseases/chikungunya.html)
 
+Dengue 
+
+* In this country, dengue is a risk to travellers. It is a viral disease spread to humans by mosquito bites.
+* Dengue can cause flu-like symptoms. In some cases, it can lead to severe dengue, which can be fatal.
+* The level of risk of dengue changes seasonally, and varies from year to year. The level of risk also varies between regions in a country and can depend on the elevation in the region.
+* Mosquitoes carrying dengue typically bite during the daytime, particularly around sunrise and sunset.
+* Protect yourself from mosquito bites. There is no vaccine or medication available in Canada to prevent dengue.
+
+**Learn more:**  
+[Dengue](https://www.canada.ca/en/public-health/services/infectious-diseases/viral-haemorrhagic-fevers/dengue-fever.html)  
+[Insect bite and pest prevention](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html)
+
+Zika virus 
+
+[Zika virus](https://www.canada.ca/en/public-health/services/diseases/zika-virus.html) is a risk in this country.
+
+Zika virus is primarily spread through the bite of an infected mosquito. It can also be sexually transmitted. Zika virus can cause serious birth defects.
+
+During your trip:
+
+* [Prevent mosquito bites](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html) at all times.
+* Use condoms correctly or avoid sexual contact, particularly if you are pregnant.
+
+If you are pregnant or planning a pregnancy, you should discuss the potential risks of travelling to this destination with your health care provider. You may choose to avoid or postpone travel.
+
+For more information, see [Zika virus: Pregnant or planning a pregnancy.](https://www.canada.ca/en/public-health/services/diseases/zika-virus/pregnant-planning-pregnancy.html)
+
 American trypanosomiasis
 
 [American trypanosomiasis (Chagas disease)](https://www.canada.ca/en/public-health/services/diseases/chagas-disease-american-trypanosomiasis.html) is a risk in this country. It is caused by a parasite spread by infected triatomine bugs. The infection can be inactive for decades, but humans can eventually develop complications causing disability and even death.
@@ -212,33 +238,6 @@ There is no vaccine or medication to prevent infection with the parasite that ca
 
 **Learn more:**   
 [Leishmaniasis](https://www.canada.ca/en/public-health/services/diseases/leishmaniasis.html)
-
-Dengue 
-
-* In this country, dengue is a risk to travellers. It is a viral disease spread to humans by mosquito bites.
-* Dengue can cause flu-like symptoms. In some cases, it can lead to severe dengue, which can be fatal.
-* The level of risk of dengue changes seasonally, and varies from year to year. The level of risk also varies between regions in a country and can depend on the elevation in the region.
-* Mosquitoes carrying dengue typically bite during the daytime, particularly around sunrise and sunset.
-* Protect yourself from mosquito bites. There is no vaccine or medication available in Canada to prevent dengue.
-
-**Learn more:**  
-[Dengue](https://www.canada.ca/en/public-health/services/infectious-diseases/viral-haemorrhagic-fevers/dengue-fever.html)  
-[Insect bite and pest prevention](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html)
-
-Zika virus 
-
-[Zika virus](https://www.canada.ca/en/public-health/services/diseases/zika-virus.html) is a risk in this country.
-
-Zika virus is primarily spread through the bite of an infected mosquito. It can also be sexually transmitted. Zika virus can cause serious birth defects.
-
-During your trip:
-
-* [Prevent mosquito bites](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html) at all times.
-* Use condoms correctly or avoid sexual contact, particularly if you are pregnant.
-
-If you are pregnant or planning a pregnancy, you should discuss the potential risks of travelling to this destination with your health care provider. You may choose to avoid or postpone travel.
-
-For more information, see [Zika virus: Pregnant or planning a pregnancy.](https://www.canada.ca/en/public-health/services/diseases/zika-virus/pregnant-planning-pregnancy.html)
 
 ### Animal precautions
 

@@ -12,32 +12,14 @@ Ethiopian authorities may apply the death penalty for serious offences.
 
 ### Drugs
 
-All illicit drugs are illegal except khat, a local stimulant. Khat is illegal in several countries. Don’t attempt to export it.
-
 Penalties for possession, use or trafficking of illegal drugs are severe. Convicted offenders can expect lengthy jail sentences and heavy fines.
 
-Ethiopia is used as a drug trafficking hub between Western markets and southern Asia for heroin.
+Khat, a local stimulant, is legal in Ethiopia. However, it is not permitted to take khat out of the country. Attempting to carry khat through Ethiopian airports could lead to jail sentences and fines.
 
-* Carry only your personal belongings, and don’t leave them unattended
+* Pack your own luggage
 * Don’t agree to carry packages that are not your own
 
 [Drugs, alcohol and travel](https://travel.gc.ca/travelling/health-safety/drugs)
-
-### 2SLGBTQI+ persons
-
-Ethiopian law prohibits sexual acts between individuals of the same sex. Those convicted can face up to 15 years in prison.
-
-2SLGBTQI+ persons should carefully consider the risks of travelling to Ethiopia.
-
-[Travel and your sexual orientation, gender identity, gender expression and sex characteristics](https://travel.gc.ca/travelling/health-safety/lgbt-travel)
-
-### Dual citizenship
-
-Dual citizenship is not legally recognized in Ethiopia.
-
-If local authorities consider you a citizen of Ethiopia, they may refuse to grant you access to Canadian consular services. This will prevent us from providing you with those services.
-
-[Dual citizens](https://travel.gc.ca/travelling/documents/dual-citizenship)
 
 ### International Child Abduction
 
@@ -62,27 +44,13 @@ Be aware that Canadian consular officials cannot interfere in private legal matt
 
 ### Identification
 
-You must carry photo ID with you at all times, as local authorities can ask you to prove your identity.
+Local authorities may request to see your identification, residence permit or visas at any time.
 
-Keep a photocopy of your passport in a safe place, in case it is lost or confiscated.
+* Always carry valid identification, your residence permit or a valid visa
+* Keep a photocopy of your passport in a safe place in case it’s lost or seized
+* Keep a digital copy of your identification and travel documents
 
-### Firearms
-
-It’s illegal to carry a firearm in Ethiopia.
-
-### Ivory
-
-It’s illegal to own any quantity of ivory, including in jewellery.
-
-### Antiques or religious paraphernalia
-
-You may not export real antiques or religious items.
-
-Tourist souvenirs are often copies of Ethiopian antiques or religious paraphernalia.
-
-If buying such items, ensure that you have a receipt, clearly indicating that it’s a souvenir and not authentic. However, be aware that authorities may confiscate items purchased for export or for personal use, especially ceremonial knives, even if you present a receipt.
-
-### Photography
+### Photography and drones
 
 It’s strictly prohibited to photograph:
 
@@ -93,17 +61,28 @@ It’s strictly prohibited to photograph:
 
 Never stop near a restricted area, no matter the reason, on foot or in a vehicle.
 
+You must obtain a permit from the Ethiopian Civil Aviation Authority and Information Network and Security Agency to operate a drone in Ethiopia.
+
+### Pornography
+
+Possession of pornographic material is illegal. Convicted offenders could face up to 15 years of imprisonment.
+
+### Restricted items
+
+It’s illegal to:
+
+* own or export any amount of ivory, including in jewellery
+* export authentic antiques or religious items, such as Ethiopian crosses, without a permit
+* export animal skins or other wildlife products without a permit
+* export precious stones and minerals beyond a certain limit
+
+Tourist souvenirs are often copies of Ethiopian antiques or religious items. If you choose to buy such items, ensure that you receive a receipt that clearly states the item is a souvenir and not an authentic artifact.  Even with such a receipt, authorities may still confiscate certain items, especially ceremonial knives.
+
 ### Street vendors
 
 It is illegal to give money to, or purchase something from, people who approach vehicles stopped in traffic, including children.
 
 If caught, both the beggar/vendor and the vehicle operator face fines.
-
-### Social media
-
-Writing on blogs or social media about political subjects could lead to detention and arrest.
-
-### Ramadan
 
 In 2027, the lunar month of Ramadan is expected to begin on or around February 7.
 
@@ -113,28 +92,36 @@ In public, between sunrise and sunset, be discreet when:
 * eating
 * smoking
 
-### Orthodox Christian
+### Dress and behaviour
 
-The Ethiopian highlands population is predominantly Orthodox Christian. There is fasting in this region every Wednesday and Friday, and during Lent.
+To avoid offending local sensitivities:
 
-* Always obtain permission from religious authorities before visiting churches
-* Dress conservatively, behave discreetly, and respect religious traditions to avoid offending local sensitivities
+* always obtain permission from religious authorities before visiting churches and mosques
+* dress conservatively
+* behave discreetly
+* respect social and religious traditions
 
-### Time of day
+#### Camouflage clothing
 
-Many people in Ethiopia use the Ethiopian clock.
+It’s illegal for civilians to wear military uniforms in Ethiopia. You should avoid wearing or carrying any clothing with camouflage patterns.
 
-According to the Ethiopian clock, unlike the convention in most countries, the start of the day is dawn rather than midnight. As a result, daytime hours are counted beginning from what would be 6 a.m. For instance, the time at one hour after dawn – 7 a.m. –  would be 1 a.m. on the Ethiopian clock.
+### Ethiopian clock
 
-Most hotels and larger organisations, including all airlines, use the global clock. However, many individuals or smaller organisations continue to use the Ethiopian clock.
+Many people in Ethiopia use the Ethiopian clock, which differs from the system used worldwide.
+
+According to the Ethiopian clock, the day begins at dawn, not at midnight. Daytime hours are counted starting from what would be 6:00 am on the global clock. For instance, the time at one hour after dawn – 7 a.m. –  would be 1 a.m. on the Ethiopian clock.
+
+Most hotels and larger organizations, including all airlines, use the global clock. However, many individuals or smaller business and traffic signs continue to use the Ethiopian clock.
 
 Check with your host if you are unsure which clock is being used for a meeting or an event.
 
 ### Driving
 
-You must have a local driver’s licence to drive in Ethiopia. You must present your valid Canadian driver’s licence or an International Driving Permit to obtain one.
+You can drive in Ethiopia with your Canadian driver’s licence alongside an International Driving Permit (IDP) for up to 45 days. Local authorities may request that you provide proof of your arrival date, such as an immigration entry stamp in your passport.
 
-If you're involved in an accident, don’t move your vehicle before a police officer arrives. It's illegal to do so.
+After 45 days, you must obtain an Ethiopian driver’s licence.
+
+[Advice in case of a traffic accident](#accident)
 
 [International Driving Permit](https://travel.gc.ca/travelling/documents/international-driving-permit)
 
@@ -146,15 +133,16 @@ Credit cards are not widely accepted except by large hotels, travel agencies and
 
 Make sure you have access to hard-currency cash in case of emergency.
 
-It is illegal to enter or exit Ethiopia with more than 1,000 birr.
+It is illegal to enter or exit Ethiopia with more than 3,000 birr.
 
-You may enter or exit Ethiopia with up to US$3,000 or its equivalent in any convertible foreign currency. This doesn’t include birr. However:
+You may enter or exit Ethiopia with up to US$10,000 or its equivalent in foreign currency. This doesn’t include birr. However:
 
 * if you enter with more, you must declare the funds upon arrival
 * if you exit with more, you must have at least one of the following:
-  + a bank document certifying the purchase of the foreign currency and approving travel with the funds or
-  + a customs declaration form made upon entry
 
-Be aware that even the provision of such documents may not safeguard you against confiscation of the extra funds, imprisonment or fines. Policies may change at any time without notice.
++ a bank document certifying the purchase of the foreign currency and approving travel with the funds
++ a customs declaration form made upon entry
 
-Exchanging money on the black market is illegal. Exchange foreign currency at banks or official foreign exchange offices only as you may face heavy fines or detention.
+Be aware that even the provision of such documents may not safeguard you against confiscation of the extra funds, imprisonment, or fines if you surpass the maximum allowable amount. Regulations may change at any time without notice.
+
+Exchanging money on the black market is illegal and could lead to heavy fines or detention. Only exchange foreign currency at banks or official foreign exchange offices.

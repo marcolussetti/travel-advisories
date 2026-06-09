@@ -1,7 +1,7 @@
 {
     "name": "Panama",
-    "update_reason": "Safety and security section \u2013 removed information on the closure of border crossings with Colombia",
-    "update_date": "2026-06-02T09:18:00",
+    "update_reason": "Editorial change",
+    "update_date": "2026-06-08T13:18:00",
     "sections": {
         "risk": "canada/Panama/risk.md",
         "security": "canada/Panama/security.md",

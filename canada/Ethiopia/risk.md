@@ -51,7 +51,7 @@ Additional regional advice and advisories are in effect. Our ability to provide 
 
 ### Border areas - Avoid all travel
 
-[Avoid all travel](#levels "Risk Levels") to the following border areas due to ongoing instability, military activity, banditry, the high risk of terrorist attacks, kidnapping, violence and landmines:
+[Avoid all travel](#levels "Risk Levels") to the following border areas due to persistent instability, military activity, banditry, the high risk of terrorist attacks, kidnapping, violence and landmines:
 
 * 10 km of the border with Eritrea
 * 100 km of the Somali region border with Somalia and Kenya

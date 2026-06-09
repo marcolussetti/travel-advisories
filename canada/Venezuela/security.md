@@ -16,7 +16,7 @@ If you choose to travel to Venezuela despite this advisory :
 
 * prepare to shelter in place and make sure you have a sufficient supply of essential items such as food, water, cash and medication
 * monitor developments closely through local and international media
-* register or update your contact information with the [Registration of Canadians abroad](https://travel.gc.ca/travelling/registration) service to receive the latest information from the Government of Canada
+* register or update your contact information with the [Registration of Canadians Abroad](https://travel.gc.ca/travelling/registration) service to receive the latest information from the Government of Canada
 
 ### Border areas
 

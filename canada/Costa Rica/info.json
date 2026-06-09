@@ -1,7 +1,7 @@
 {
     "name": "Costa Rica",
-    "update_reason": "Editorial change",
-    "update_date": "2026-06-02T15:18:00",
+    "update_reason": "Safety and security section \u2013 updated information on national parks and conservation areas; Laws and culture section \u2013 added information on imports and exports and foreign currency declaration",
+    "update_date": "2026-06-08T15:26:00",
     "sections": {
         "risk": "canada/Costa Rica/risk.md",
         "security": "canada/Costa Rica/security.md",

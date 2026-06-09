@@ -2,17 +2,6 @@
 
 ## Natural disasters and climate
 
-### Tsunami alert
-
-On June 8, 2026, a 7.8 magnitude earthquake occurred south of the island of Mindanao in Sarangani bay, Philippines. A tsunami alert is in effect for several areas in Indonesia.
-
-If you’re in or around the affected areas:
-
-* follow the instructions of local authorities
-* monitor local news for information on the tsunami’s progress
-
-[Tsunami warnings](https://inatews.bmkg.go.id/eng) – Indonesia national meteorological and geophysical agency
-
 ### Climate change
 
 Climate change is affecting Indonesia. Extreme and unusual weather events are becoming more frequent and may affect your travel plans. Indonesia is located in a very active seismic zone and is prone to natural disasters such as:

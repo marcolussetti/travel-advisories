@@ -2,17 +2,6 @@
 
 ## Natural disasters and climate
 
-### Tsunami threat
-
-On June 8, 2026, a 7.8 magnitude earthquake occurred south of the island of Mindanao in Sarangani bay, Philippines. A tsunami threat is in effect for Lahad Datu, Malaysia.
-
-If you’re in or around the affected area:
-
-* follow the instructions of local authorities
-* monitor local news for information on the tsunami’s progress
-
-[Tsunami threat](http://www.tsunami.gov/) – U.S. Tsunami Warning System
-
 ### Climate change
 
 Climate change is affecting Malaysia. Extreme and unusual weather events are becoming more frequent and may affect your travel plans. Monitor local media for the latest information.

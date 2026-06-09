@@ -51,7 +51,7 @@ Seasonal flooding can hamper overland travel and reduce the provision of essenti
 
 ### Hurricane season
 
-The hurricane season is from mid-May to the end of November in the Pacific, and from early June to the end of November in the Atlantic, Caribbean Sea and Gulf of Mexico. During this period, even small tropical storms can quickly develop into major hurricanes.
+The hurricane season is from early June to the end of November in the Atlantic, Caribbean Sea and Gulf of Mexico. During this period, even small tropical storms can quickly develop into major hurricanes.
 
 These severe storms can put you at risk and hamper the provision of essential services. You could face serious safety risks during a hurricane. You should carefully consider these risks when planning a trip during the hurricane season.
 

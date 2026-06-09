@@ -52,6 +52,18 @@ If you plan on buying property, or making other investments in Costa Rica:
 * choose your own lawyer
 * avoid hiring a lawyer recommended by a seller
 
+### Imports and exports
+
+Costa Rican authorities restrict the import and export of certain items, including:
+
+* archaeological items
+* historical goods and antiquities
+* wildlife species
+
+Special permits may be required for certain types of goods. You should consult the regulations in force and contact the Costa Rican customs authorities before importing or exporting goods to or from Costa Rica.
+
+[Tax Authority](https://aduanafacil.hacienda.go.cr/AduanaFacil/Faq#viajando%20con%20equipaje) – Ministry of Finance of Costa Rica (in Spanish)
+
 ### Dual citizenship
 
 Dual citizenship is legally recognized in Costa Rica.

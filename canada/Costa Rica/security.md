@@ -87,7 +87,7 @@ Violent crime occurs. Incidents include:
 * burglaries
 * assaults
 
-Drug trafficking is common, and most violent incidents are drug-related. The most affected provinces are:
+Drug trafficking is common, and most violent incidents are related to gangs and drugs. The most affected provinces are:
 
 * Alajuela
 * Limón
@@ -202,11 +202,11 @@ If you intend to practice adventure tourism:
 * inform a family member or friend of your itinerary
 * refrain from using facilities or equipment if you have doubts on their safety
 
-#### National parks
+#### National parks and conservation areas
 
-You must obtain a permit to access national parks.
+You must obtain a permit to access national parks. Unauthorized entry may result in fines.
 
-[Nation Parks](https://www.visitcostarica.com/en/costa-rica/things-to-do/ecoturism/national-parks) – Costa Rica Tourist Board
+[National Parks](https://www.visitcostarica.com/en/costa-rica/things-to-do/ecoturism/national-parks) – Costa Rica Tourist Board
 
 ### Road safety
 
