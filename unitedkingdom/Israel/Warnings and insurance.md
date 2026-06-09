@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   4 June 2026
+:   9 June 2026
 
 Updated:
-:   3 June 2026
+:   8 June 2026
 
 Latest update:
-:   FCDO no longer advises against all travel to Israel and Palestine but continues to advise against all travel to Gaza, parts of the West Bank and parts of northern Israel and the occupied Golan Heights. FCDO advises against all but essential travel to other parts of the West Bank (‘Warnings and insurance’ page).
+:   Updated information about regional escalation following Iranian missile strikes ('Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/6a1fea0db95db968c8f3bddc/FCDO_TA_022_-_Israel_Travel_Advice_Ed29_WEB.jpg)
 
@@ -52,9 +52,9 @@ Find out more about [why FCDO advises against travel](https://www.gov.uk/fore
 
 ## Regional escalation
 
-Regional escalation poses ongoing significant security risks and has led to travel disruption.
+There have been recent missile launches towards Israel, many of which have been intercepted by Israel’s air defence systems. There is a risk of falling debris following interceptions, including in parts of the West Bank. Israel has also carried out strikes against targets in Iran. The situation remains volatile and could escalate at short notice.
 
-Iranian strikes against civilian infrastructure across the region such as ports, hotels, roads, bridges, energy facilities, oil production sites, water systems, and airports, have decreased. However, the risk of renewed strikes remains, and further attacks could occur at short notice.
+Iranian strikes have previously targeted civilian infrastructure across the region such as ports, hotels, roads, bridges, energy facilities, oil production sites, water systems, and airports.
 
 Follow the instructions of the local authorities and monitor local and international media for the latest information.  Visit [Israel’s Home Front Command](https://www.oref.org.il/eng).
 

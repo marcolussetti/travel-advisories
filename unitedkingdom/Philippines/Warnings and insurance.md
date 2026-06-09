@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   8 June 2026
+:   9 June 2026
 
 Updated:
 :   8 June 2026
 
 Latest update:
-:   Information on the 7.0 magnitude earthquake in Mindanao and associated tsunami risk.
+:   Information on the 7.8 magnitude earthquake in Mindanao and associated tsunami risk ('Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/616406778fa8f52980d9301c/FCDO__TA__033_-_Philippines_Travel_Advice_Ed2__WEB_.jpg)
 
@@ -34,7 +34,7 @@ Find out more about [why FCDO advises against travel](/foreign-travel-advice/
 
 ## Earthquake in Mindanao
 
-On 8 June 2026, a magnitude 7.0 earthquake struck southern Mindanao. Aftershocks are expected, and there may be damage to buildings and infrastructure in affected areas. [The Philippine Institute of Volcanology and Seismology (PHIVOLCS)](https://tsunami.phivolcs.dost.gov.ph/Tsunami_Information/2026_Tsunami_Information/Jun/07/20260607_2337z_Advisory3_1.html) has issued a tsunami threat and advised residents and visitors in affected coastal areas to evacuate to higher ground.
+On 8 June 2026, a 7.8 magnitude earthquake struck Mindanao, an island in the southern Philippines. Aftershocks are expected, and there may be damage to buildings and infrastructure in affected areas. [The Philippine Institute of Volcanology and Seismology (PHIVOLCS)](https://tsunami.phivolcs.dost.gov.ph/Tsunami_Information/2026_Tsunami_Information/Jun/07/20260607_2337z_Advisory3_1.html) has issued a tsunami threat and advised residents and visitors in affected coastal areas to evacuate to higher ground.
 
  If you are in the affected area:
 

@@ -1,11 +1,11 @@
 {
     "name": "Israel",
-    "update_reason": "FCDO no longer advises against all travel to Israel and Palestine but continues to advise against all travel to Gaza, parts of the West Bank and parts of northern Israel and the occupied Golan Heights. FCDO advises against all but essential travel to other parts of the West Bank (\u2018Warnings and insurance\u2019 page).",
+    "update_reason": "Updated information about regional escalation following Iranian missile strikes ('Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Israel/Warnings and insurance.md",
-            "update_date": "2026-06-03T14:00:29+01:00"
+            "update_date": "2026-06-08T14:00:06+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Israel/Getting help.md"
         }
     ],
-    "update_date": "2026-06-03T14:00:29+01:00"
+    "update_date": "2026-06-08T14:00:06+01:00"
 }

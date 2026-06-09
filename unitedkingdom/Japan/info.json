@@ -1,11 +1,11 @@
 {
     "name": "Japan",
-    "update_reason": "Tsunami advisory following earthquake in the Philippines ('Warning and insurance' page).",
+    "update_reason": "Removal of information about Tsunami advisory following earthquake in the Philippines ('Warning and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Japan/Warnings and insurance.md",
-            "update_date": "2026-06-08T02:59:38+01:00"
+            "update_date": "2026-06-08T10:19:36+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Japan/Getting help.md"
         }
     ],
-    "update_date": "2026-06-08T02:59:38+01:00"
+    "update_date": "2026-06-08T10:19:36+01:00"
 }

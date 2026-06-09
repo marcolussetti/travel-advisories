@@ -1,19 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   8 June 2026
+:   9 June 2026
 
 Updated:
 :   8 June 2026
 
 Latest update:
-:   Tsunami advisory following earthquake in the Philippines ('Warning and insurance' page).
-
-## Tsunami advisory
-
-A large earthquake struck the Philippines on 8 June 2026. Tsunami advisories were issued for Japan’s Pacific coast from Ibaraki to Okinawa prefectures.
-
-Follow [local news updates](https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww3.nhk.or.jp%2Fnhkworld%2Fen%2Fnews%2F&data=05%7C02%7Cresponse%40fcdo.gov.uk%7Cd865df0a3ea94b4f510108dec4fdda53%7Cd3a2d0d37cc84f52bbf985bd43d94279%7C0%7C0%7C639164791887975242%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=cpz2Y%2FnxiqcgTGjGH%2FHQXFZR06fbDfRG9CeccJl2hNQ%3D&reserved=0) and see JMA advice at [Japan Meteorological Agency｜Tsunami Warning/Advisory](https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.data.jma.go.jp%2Feqev%2Fdata%2Fen%2Ftsunami%2Ftsunami_warning.html&data=05%7C02%7Cresponse%40fcdo.gov.uk%7Cd865df0a3ea94b4f510108dec4fdda53%7Cd3a2d0d37cc84f52bbf985bd43d94279%7C0%7C0%7C639164791888025199%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=k%2FlPyHVUJFvM3f2qV1K5%2F%2BksaMQVYH1q%2F06RVTxpRow%3D&reserved=0) site.
+:   Removal of information about Tsunami advisory following earthquake in the Philippines ('Warning and insurance' page).
 
 ## Global travel impacts due to escalation in the Middle East
 
