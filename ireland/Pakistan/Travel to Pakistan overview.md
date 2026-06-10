@@ -20,6 +20,12 @@ Regional conflict has the potential to cause transport disruption and delays. Th
 
 In view of recent regional and international developments, there is a heightened risk of protests in urban centres in Pakistan, which have the potential to lead to violent clashes. Citizens should take precautions, plan any movements carefully, avoid traditional protest or gathering spots, and strictly adhere to local security advisories.
 
+#### **Pakistan Administered Kashmir**
+
+The Embassy continues to advise against all travel to the Pakistan Administered Kashmir (AJK) region. The local government has also issued a travel advisory advising against travel to the region.
+
+In particular, and due to ongoing tensions, there may be planned protests, strike actions, and the possibility of travel disruptions during June 2026. Road closures, delays, restrictions on movement, and disruptions to public services may occur with little notice. Those currently in AJK should remain alert, avoid demonstrations and large gatherings, monitor local developments, and follow the guidance of local authorities.
+
 ### **General Travel Advice**
 
 Irish citizens require a valid passport (having minimum validity of 6 months) and a visa to enter Pakistan. It is advisable to take a few photocopies of your passport/valid ID’s during your stay in Pakistan. Please note that Irish Passport Cards are not accepted.
