@@ -32,13 +32,13 @@ If you are near active volcanoes:
 
 ### Drought
 
-The dry season usually lasts from October to May but has become longer and drier in recent years. Availability of water and basic food may be affected during periods of prolonged drought, particularly in isolated areas.
+The dry season usually lasts from October to May but has become longer and drier in recent years. Availability of water and basic food supplies may be affected during periods of prolonged drought, particularly in isolated areas.
 
 [Advice for travel to remote areas](#remote)
 
 ### Rainy season
 
-The rainy season normally extends from June to September. Seasonal flooding can hamper overland travel and reduce the provision of essential services. Roads may become impassable due to mudslides and landslides.
+The rainy season normally extends from June to September. Seasonal flooding can hamper overland travel and reduce access to essential services. Roads may become impassable due to mudslides and landslides.
 
 * Monitor local media for the latest updates, including road conditions
 * Stay away from flooded areas

@@ -2,21 +2,19 @@
 
 ## Natural disasters and climate
 
-South Sudan is prone to extreme weather events such as:
+### Climate change
 
-* floods
-* heat waves
-* drought
-* wildfire
+Climate change is affecting South Sudan. Extreme and unusual weather events are becoming more frequent and may affect your travel plans. Monitor local media for the latest information.
 
 ### Floods
 
-The onset of rainy season in South Sudan is from March to October. Many roads may become impassable during this period due to flooding.
+The rainy season extends from March to October. Many roads may become impassable during this period due to flooding.
 
-* Monitor local news and weather reports
+* Monitor local media for the latest information, including on road conditions
+* Stay away from flooded areas
 * Follow the instructions of local authorities, including evacuation orders
 
-### Heat waves and drought
+### Heatwaves and drought
 
 Humidity and heat may be severe during both the rainy season and the dry season from November to March. South Sudan is also subject to periods of drought.
 
@@ -24,7 +22,7 @@ Know the symptoms of dehydration and heatstroke, which can both be fatal.
 
 ### Wildfire
 
-Wildfires occur throughout the country. The air quality in areas near active fires may deteriorate due to heavy smoke.
+Wildfires occur throughout the country. Air quality in areas near active fires may deteriorate due to heavy smoke.
 
 In case of a major fire:
 

@@ -430,7 +430,7 @@ Marburg virus is transmitted to people from fruit bats and spreads among humans 
 
 ### Medical services and facilities
 
-Medical facilities and services are not up to Canadian standards. Some reputable private hospitals in Addis Ababa can provide reasonable services for minor health problems. Most medical facilities lack personnel, equipment, supplies and medications. Outside Addis Ababa, medical services are extremely limited.
+Medical facilities and services are not up to Canadian standards. Some reputable private hospitals in Addis Ababa can provide adequate care for minor health problems. Most medical facilities lack personnel, equipment, supplies and medications. Outside Addis Ababa, medical services are extremely limited.
 
 Public and private medical facilities usually require an initial cash deposit, a payment guarantee or confirmation that you have medical insurance. In the event of a medical emergency, air evacuation abroad may be necessary.
 
@@ -442,7 +442,7 @@ Make sure you get travel insurance that includes coverage for medical evacuation
 
 Some prescription medications may not be available in Ethiopia.
 
-If you take prescription medications, you’re responsible for determining their legality in Nigeria.
+If you take prescription medications, you are responsible for determining their legality in Ethiopia.
 
 * Bring enough medication for your stay
 * Always keep your medication in the original container and carry a copy of your prescriptions

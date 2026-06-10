@@ -6,6 +6,18 @@
 
 Canada, Mexico and the United States will be hosting the FIFA World Cup from June 11 to July 19, 2026. If you plan on travelling to Mexico for the tournament, consult our [Advice for Canadians travelling to Mexico – FIFA World Cup 2026™](https://travel.gc.ca/travelling/campaigns/soccer-2026-mexico).
 
+### Demonstrations
+
+Demonstrations occur frequently, especially in Mexico City, and roadblocks are common during demonstrations. Even peaceful demonstrations can turn violent at any time. They can also lead to disruptions to traffic and public transportation, as well as airport closures.
+
+It’s illegal for foreigners to conduct political activity in Mexico, including participating in demonstrations. If you participate in demonstrations as a foreigner, you may face detention, deportation and the denial of future entry into Mexico.
+
+* Avoid areas where demonstrations and large gatherings are taking place
+* Follow the instructions of local authorities
+* Monitor local media for information on ongoing demonstrations
+
+[Mass gatherings (large-scale events)](https://travel.gc.ca/travelling/health-safety/mass-gatherings)
+
 ### Sinaloa (see [Risk levels](#risk))
 
 Violent clashes occur regularly between rival armed groups in the state of Sinaloa, including in Culiacán and parts of Mazatlán located outside the main tourist zones. Armed groups have stopped vehicles on the highway from Culiácan to Mazatlán and other major roads.
@@ -293,18 +305,6 @@ Some bars, restaurants and resorts have served unregulated alcohol. Some travell
 * Seek medical assistance if you begin to feel sick
 
 [Drugs, alcohol and travel](https://travel.gc.ca/travelling/health-safety/drugs)
-
-### Demonstrations
-
-Demonstrations occur frequently, especially in Mexico City, and roadblocks are common during demonstrations. Even peaceful demonstrations can turn violent at any time. They can also lead to disruptions to traffic and public transportation, as well as airport closures.
-
-It’s illegal for foreigners to conduct political activity in Mexico, including participating in demonstrations. If you participate in demonstrations as a foreigner, you may face detention, deportation and the denial of future entry into Mexico.
-
-* Avoid areas where demonstrations and large gatherings are taking place
-* Follow the instructions of local authorities
-* Monitor local media for information on ongoing demonstrations
-
-[Mass gatherings (large-scale events)](https://travel.gc.ca/travelling/health-safety/mass-gatherings)
 
 ### Balconies
 

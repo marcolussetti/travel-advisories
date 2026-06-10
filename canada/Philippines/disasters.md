@@ -2,29 +2,19 @@
 
 ## Natural disasters and climate
 
-### Earthquake and tsunami alert
+### Sarangani earthquake
 
-On June 8, 2026, a 7.8 magnitude earthquake occurred south of the island of Mindanao in Sarangani bay, Philippines.
+On June 8, 2026, a 7.8 magnitude earthquake struck offshore near Sarangani, Mindanao causing extensive infrastructure damage and resulting in several casualties.
 
-The Philippine Institute of Volcanology and Seismology issued a tsunami warning of waves of more than one meter in the following coastal areas:
-
-* Sarangani
-* Davao Occidental
-* Tawi-Tawi
-* Sulu
-* Basilan
-* Zamboanga del Sur
-* Zamboanga Sibugay
-* Sultan Kudarat
-* South Cotabato
+Additional tremors are likely to continue. Landslides, especially in mountainous or hilly areas, are also possible.
 
 If you are in one of the affected areas:
 
-* immediately evacuate to higher ground or move further inland
 * monitor local media for updates on the situation
-* follow the instructions of local and national authorities, including evacuation orders
+* avoid entering or staying in damaged buildings until they have been inspected and declared safe by authorities
+* follow the instructions of local and national authorities
 
-[Tsunami warning](https://tsunami.phivolcs.dost.gov.ph/Tsunami_Information/2026_Tsunami_Information/Jun/07/20260607_2337z_Advisory3_1.html) – Philippine institute of Volcanology and Seismology
+[Latest news](https://www.phivolcs.dost.gov.ph/category/news/) – Philippine institute of Volcanology and Seismology
 
 ### Climate change
 

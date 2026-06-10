@@ -85,7 +85,7 @@ If you decide to travel to the Danakil Depression:
 * keep your gas tank at least half full
 * keep a supply of water and non-perishable snacks
 
-Cross-border tensions with Eritrea could escalate into violence with little warning. Despite demining efforts residual landmines also pose a threat to your safety.
+Cross-border tensions with Eritrea could escalate into violence with little warning. Despite demining efforts, residual landmines also pose a threat to your safety.
 
 [Advice if you are in the Afar region or affected by an armed conflict](#advice)
 
@@ -151,7 +151,7 @@ There is a risk of kidnapping, particularly in isolated areas. Both nationals an
 * within 100 km of Addis Ababa
 * western parts of Oromia
 * Somali
-* border areas with Kenya, Somalia, South Sudan and Eritrea (Danakil Depression).
+* border areas with Kenya, Somalia, South Sudan and Eritrea (Danakil Depression)
 
 If you are travelling in a region prone to kidnapping:
 

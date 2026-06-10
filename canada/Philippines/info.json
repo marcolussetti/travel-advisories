@@ -1,7 +1,7 @@
 {
     "name": "Philippines",
-    "update_reason": "Natural disaster and climate section \u2013 added information on the earthquake in Sarangani Bay and a tsunami alert",
-    "update_date": "2026-06-07T23:11:00",
+    "update_reason": "Natural disasters and climate section \u2013 removed information on a tsunami alert",
+    "update_date": "2026-06-09T10:56:00",
     "sections": {
         "risk": "canada/Philippines/risk.md",
         "security": "canada/Philippines/security.md",

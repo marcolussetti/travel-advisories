@@ -8,7 +8,7 @@ Learn about what you should do and how we can help if you are [arrested or detai
 
 ### Drugs
 
-Penalties for possession, use or trafficking of illegal drugs are severe. Convicted offenders can expect lengthy jail sentences or heavy fines.
+Penalties for possession, use or trafficking of illegal drugs are severe. Convicted offenders can expect lengthy prison sentences or heavy fines.
 
 [Drugs, alcohol and travel](https://travel.gc.ca/travelling/health-safety/drugs)
 
@@ -18,7 +18,7 @@ The death penalty applies to serious crimes such as murder, drug trafficking and
 
 ### Photography
 
-A permit for photography, including on a mobile phone, is required. Permits can be obtained at the Ministry of Information.
+A permit is required for photography, including on a mobile phone. Permits can be obtained at the Ministry of Information.
 
 Even with a photography permit, it is prohibited to photograph:
 
@@ -26,14 +26,6 @@ Even with a photography permit, it is prohibited to photograph:
 * military and police personnel
 * government buildings and infrastructure, including roads, bridges, dams and airfields
 * public utilities including gas stations
-
-### 2SLGBTQI+ persons
-
-South Sudanese law prohibits sexual acts between individuals of the same sex. Public displays of affection between members of the opposite sex are frowned upon.
-
-2SLGBTQI+ persons have experienced harassment and verbal abuse.
-
-[Travel and your sexual orientation, gender identity, gender expression and sex characteristics](https://travel.gc.ca/travelling/health-safety/lgbt-travel)
 
 ### Dual citizenship
 
@@ -72,7 +64,7 @@ You should carry an International Driving Permit.
 
 ### Dress and behaviour
 
-South Sudan is a traditional, conservative society. Women should dress conservatively and should avoid:
+South Sudan is a traditional, conservative society. Women should dress conservatively and avoid:
 
 * mini skirts
 * bare arms
@@ -82,18 +74,18 @@ South Sudan is a traditional, conservative society. Women should dress conservat
 
 The currency is the South Sudan pound (SSP). The Sudanese pound (SDG) is not recognized as legal tender.
 
-Transferring U.S. or Canadian dollars to the country is difficult. Currency exchange houses and merchants do not accept U.S. currency dated before 2006 and will reject notes with any marks.
+It is difficult to transfer U.S. or Canadian dollars into the country. Currency exchange houses and merchants do not accept U.S. currency dated before 2006 and will reject notes with any marks.
 
 Credit cards are only accepted in South Sudan in limited locations such as:
 
 * major hotels
 * some restaurants
-* shopping centers
+* shopping centres
 * supermarkets
 
-There are automated teller machines (ATMs), but they are not reliable, and only dispense South Sudanese pounds. You must pay in cash for larger expenses, such as hotel bills.
+Automated teller machines (ATMs) are available but are unreliable and dispense only South Sudanese pounds. You must pay in cash for larger expenses, such as hotel bills.
 
-There is currently a vast and growing disparity between the official exchange and black-market rates for South Sudanese pounds. It is illegal to exchange currency except in authorized locations, such as banks and exchange bureaus.
+There is a vast and growing disparity between the official exchange rate and black-market rates for South Sudanese pounds. It is illegal to exchange currency except in authorized locations, such as banks and exchange bureaus.
 
 * Carry sufficient funds in U.S. dollars to cover your expenses for the duration of your stay
 * Expect to pay for all international flights booked in South Sudan in U.S. dollars

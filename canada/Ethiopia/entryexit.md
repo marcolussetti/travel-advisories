@@ -62,7 +62,7 @@ You must have a valid visa to enter the country, which can be obtained online.
 
 ### Entry and overstay fines
 
-Ensure that Ethiopian authorities stamp your passport when you arrive.
+Ensure that the Ethiopian authorities stamp your passport when you arrive.
 
 If you need to extend your stay beyond the period authorized by your visa, you must apply for an extension at the Head Office of the Immigration and Citizenship Service in Addis Ababa before your visa expires.
 
@@ -72,7 +72,7 @@ You will not be permitted to leave Ethiopia until you have paid all entry and ov
 
 ### Dual citizenship
 
-Ethiopia does not recognize dual citizenship. Any person who acquires Canadian citizenship will automatically lose their Ethiopian citizenship, including the right to reside in Ethiopia.
+Ethiopia does not recognize dual citizenship. Persons who acquires Canadian citizenship will automatically lose their Ethiopian citizenship, including the right to reside in Ethiopia.
 
 This also applies to children born in Ethiopia, including those who have Ethiopian parents. Confirm with immigration authorities that you and your child are authorized to stay in Ethiopia.
 

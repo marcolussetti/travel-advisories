@@ -53,19 +53,15 @@ Different entry rules may apply when travelling with a temporary passport or an 
 ### Visas
 
 Tourist visa: required  
-Business visa: required  
-Student visa: required  
-Transit visa: required
+ Business visa: required  
+ Student visa: required  
+ Transit visa: required
 
-#### Electronic Visa
+#### Electronic visa
 
-You must obtain your E-visa online, through the government’s website, prior to your departure to South Sudan
+You must obtain your e-visa online through the government’s website prior to departure to South Sudan.
 
 [E-Visa portal](https://www.evisa.gov.ss/) - South Sudan's Ministry of Interior
-
-### Health screening
-
-Due to the ongoing outbreak of Ebola virus disease in neighboring countries, which has subsided for now, you may be subject to a quick thermal scanner screening and a health questionnaire at Juba International Airport upon disembarkation.
 
 ### Children and travel
 

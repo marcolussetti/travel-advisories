@@ -44,7 +44,7 @@ Be aware that Canadian consular officials cannot interfere in private legal matt
 
 ### Identification
 
-Local authorities may request to see your identification, residence permit or visas at any time.
+Local authorities may request to see your identification, residence permit or visa at any time.
 
 * Always carry valid identification, your residence permit or a valid visa
 * Keep a photocopy of your passport in a safe place in case it’s lost or seized
@@ -76,13 +76,15 @@ It’s illegal to:
 * export animal skins or other wildlife products without a permit
 * export precious stones and minerals beyond a certain limit
 
-Tourist souvenirs are often copies of Ethiopian antiques or religious items. If you choose to buy such items, ensure that you receive a receipt that clearly states the item is a souvenir and not an authentic artifact.  Even with such a receipt, authorities may still confiscate certain items, especially ceremonial knives.
+Tourist souvenirs are often copies of Ethiopian antiques or religious items. If you choose to buy such items, ensure that you receive a receipt that clearly states the item is a souvenir and not an authentic artifact. Even with such a receipt, authorities may still confiscate certain items, especially ceremonial knives.
 
 ### Street vendors
 
 It is illegal to give money to, or purchase something from, people who approach vehicles stopped in traffic, including children.
 
 If caught, both the beggar/vendor and the vehicle operator face fines.
+
+### Ramadan
 
 In 2027, the lunar month of Ramadan is expected to begin on or around February 7.
 
@@ -109,9 +111,9 @@ It’s illegal for civilians to wear military uniforms in Ethiopia. You should a
 
 Many people in Ethiopia use the Ethiopian clock, which differs from the system used worldwide.
 
-According to the Ethiopian clock, the day begins at dawn, not at midnight. Daytime hours are counted starting from what would be 6:00 am on the global clock. For instance, the time at one hour after dawn – 7 a.m. –  would be 1 a.m. on the Ethiopian clock.
+According to the Ethiopian clock, the day begins at dawn, not at midnight. Daytime hours are counted starting from what would be 6:00 am on the global clock. For instance, the time at one hour after dawn – 7 a.m. – would be 1 a.m. on the Ethiopian clock.
 
-Most hotels and larger organizations, including all airlines, use the global clock. However, many individuals or smaller business and traffic signs continue to use the Ethiopian clock.
+Most hotels and larger organizations, including all airlines, use the global clock. However, many individuals or smaller businesses and traffic signs continue to use the Ethiopian clock.
 
 Check with your host if you are unsure which clock is being used for a meeting or an event.
 
