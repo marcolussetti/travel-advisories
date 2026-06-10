@@ -176,12 +176,8 @@ There is a risk of tsunamis in coastal areas. See [tsunamis](https://www.gov.uk/
 
 Fire risk increases during the dry season, particularly in San Salvador. During especially hot and dry periods a single spark or flame can start a wildfire. Report fires to the emergency services immediately.
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/el-salvador/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/el-salvador/entry-requirements)
 
-[Next
-:
-Health](/foreign-travel-advice/el-salvador/health)
+[Next:Health](/foreign-travel-advice/el-salvador/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/el-salvador/print)

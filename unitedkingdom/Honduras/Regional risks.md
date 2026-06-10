@@ -20,12 +20,8 @@ Take care on beaches in Tela and the north coast towns after dark. There have be
 
 There is a risk of criminal attacks and carjackings in and around Tela, La Ceiba, Trujillo and El Progreso.
 
-[Previous
-:
-Safety and security](/foreign-travel-advice/honduras/safety-and-security)
+[Previous:Safety and security](/foreign-travel-advice/honduras/safety-and-security)
 
-[Next
-:
-Health](/foreign-travel-advice/honduras/health)
+[Next:Health](/foreign-travel-advice/honduras/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/honduras/print)

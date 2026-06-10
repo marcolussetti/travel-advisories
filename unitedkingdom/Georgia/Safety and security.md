@@ -14,7 +14,7 @@ Terrorist attacks in Georgia cannot be ruled out. Attacks could happen anywhere 
 
 ## Political situation
 
-21 February marked 450 consecutive days of daily political demonstrations. There is a heightened risk of demonstrations and political rallies, some leading to violent confrontation between police and protesters. In Tbilisi these are mainly on Rustaveli Avenue, Chavchavadze Avenue and Heroes’ Square and in other nearby areas, but they can begin or end at different locations across the city, disrupting traffic. Demonstrations are taking place in other cities and towns. Demonstrations generally begin in the evening and some rallies extend into the night. Demonstrations may lead to travel disruption.
+1 June marked the 550th day of protests. Some of these have led to violent confrontation between police and protesters. In Tbilisi the demonstrations are now mainly focused on the Parliament building on Rustaveli Avenue, but they can spread to other areas, particularly on Saturday evenings/nights and on the anniversaries of significant political events. Demonstrations also take place in other cities and towns. Demonstrations may lead to travel disruption.
 
 Tensions can escalate without warning. You should:
 
@@ -24,7 +24,7 @@ Tensions can escalate without warning. You should:
 
 If you participate or engage in political demonstrations, you may face additional questioning on exit or be refused re-entry to Georgia.
 
-If you have unpaid fines, you may be refused exit until paid.
+If you have unpaid fines, you may be refused exit until these are paid.
 
 ## Crime
 
@@ -162,7 +162,7 @@ If you’re travelling outside Tbilisi, particularly in remote areas, make sure 
 
 Take usual precautions with your personal safety and belongings. Compartments on sleeper trains usually have locks.
 
-There is currently no train service between Azerbaijan and Georgia.
+There is a daily train service between Georgia and Azerbaijan.
 
 ## Extreme weather and natural disasters
 

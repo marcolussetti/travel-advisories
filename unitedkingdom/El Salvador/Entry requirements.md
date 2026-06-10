@@ -61,12 +61,8 @@ Indian nationals or nationals from any African country travelling through El Sal
 
 British dual nationals will not have to pay the fee if they travel on their British passport.
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/el-salvador)
+[Previous:Warnings and insurance](/foreign-travel-advice/el-salvador)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/el-salvador/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/el-salvador/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/el-salvador/print)

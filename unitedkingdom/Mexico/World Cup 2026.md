@@ -73,6 +73,12 @@ There will be a set of Fan Zones and Public Viewing Areas across Mexico. There m
 
 Check the official [World Cup 2026](https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/fifa-fan-festival) website for information about FIFA Fan Festivals and the individual locations.
 
+## Political situation
+
+Since the beginning of June, protests by workers’ unions have caused disruption in Mexico City by intermittently closing off areas near the historic centre (the Zócolo and surrounding streets). Protests have also caused sporadic disruption to traffic, including temporarily closing arterial roads such as Paseo de la Reforma, Periférico Sur and Circuito Interior, as well as briefly blocking access to the airport (AICM). These protests are generally peaceful, but some have resulted in clashes with police, as well as an increased security presence around affected areas.
+
+It is illegal for foreign nationals to participate in political activities in Mexico. If you join demonstrations, the Mexican authorities may detain and deport you. If you come across protests, move away from the area. Monitor local media to understand possible disruption to your travel and plan extra time for your journeys.
+
 ## Laws and cultural differences
 
 Mexico may have different laws and cultural differences from the UK. Check the ‘Laws and cultural differences’ section on the [Safety and Security page](https://www.gov.uk/foreign-travel-advice/mexico/safety-and-security#laws-and-cultural-differences).

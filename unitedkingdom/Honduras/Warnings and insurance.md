@@ -1,13 +1,19 @@
 # Warnings and insurance
 
 Still current at:
-:   11 December 2025
+:   10 June 2026
 
 Updated:
-:   10 December 2025
+:   9 June 2026
 
 Latest update:
-:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
+:   Addition of information about Tropical Storm Cristina ('Warnings and insurance' page).
+
+## Tropical Storm Cristina
+
+Tropical Storm Cristina is forecast to move along the Pacific coastline of Honduras over the next few days. This is likely to lead to heavy rainfall, which could cause life threatening flash floods and landslides.
+
+Follow and monitor local and international weather updates from the [US National Hurricane Center](https://www.nhc.noaa.gov/) and follow the advice of local authorities. See [Extreme weather and natural disasters](https://www.gov.uk/guidance/extreme-weather-and-natural-hazards).
 
 ## Before you travel
 
@@ -37,8 +43,6 @@ Follow FCDO:
 * [travel advice on Facebook](https://www.facebook.com/FCDOTravel/)
 * [Travel Aware on Instagram](https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Ftravelaware%2F&is_from_rle)
 
-[Next
-:
-Entry requirements](/foreign-travel-advice/honduras/entry-requirements)
+[Next:Entry requirements](/foreign-travel-advice/honduras/entry-requirements)
 
 [View a printable version of the whole guide](/foreign-travel-advice/honduras/print)

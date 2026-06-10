@@ -58,13 +58,11 @@ There are strict rules about [goods you can take into or out of Georgia](https:/
 
 ### Bringing medicines into Georgia
 
-Georgia has a very strict anti-drugs policy. This can also cover prescription and non-prescription medicines commonly available in the UK. For example, non-prescription medicines containing codeine are illegal.
+Georgia has a very strict anti-drugs policy. This covers prescription and non-prescription medicines commonly available in the UK. For example, non-prescription medicines containing codeine are illegal. This can cause serious problems for travellers and in some cases lead to criminal prosecution. Foreign nationals have been detained on arrival for having medicines that would not normally cause problems in the UK.
 
-This can cause serious problems for travellers and in some cases lead to prosecution. Foreign nationals have been detained on arrival for having medicines that would not normally cause problems in the UK.
+For more information on the legal status of a specific medicine, contact the [Revenue Service of Georgia](https://rs.ge/Home-en) or the [Georgian Embassy in the UK](https://uk.mfa.gov.ge/en).
 
-For more information on the legal status of a specific medicine, contact the [Revenue Service of Georgia](https://rs.ge/Home-en) or the [Georgian Embassy in the UK](https://uk.mfa.gov.ge/en).
-
-If you plan to travel with prescription medicine, you must carry a doctor’s prescription and ideally the original packaging.
+If you travel with prescription medicine, you must carry a doctor’s prescription and ideally the original packaging. You should check in advance if your prescription would be acceptable to the Georgian authorities and whether the medicine you carry needs a prescription. You can contact the State Regulation Agency for Medical and Pharmaceutical Activities via email: [regagency@moh.gov.ge](mailto:regagency@moh.gov.ge). Assessment of your enquiry will take approximately one month.
 
 [Previous:Warnings and insurance](/foreign-travel-advice/georgia)
 

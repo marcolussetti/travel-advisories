@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   5 June 2026
+:   10 June 2026
 
 Updated:
-:   4 June 2026
+:   9 June 2026
 
 Latest update:
-:   Removal of information about protests at Mexico City International Airport (AICM) ('Warnings and insurance' page).
+:   Addition of information about political situation ('World Cup 2026').
 
 ![](https://assets.publishing.service.gov.uk/media/69a1c6c8ec82ce45f05bd70e/FCDO__TA__065_-_Mexico_Travel_Advice_Ed5__WEB_.jpg)
 

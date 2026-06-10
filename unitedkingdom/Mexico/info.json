@@ -1,11 +1,11 @@
 {
     "name": "Mexico",
-    "update_reason": "Removal of information about protests at Mexico City International Airport (AICM) ('Warnings and insurance' page).",
+    "update_reason": "Addition of information about political situation ('World Cup 2026').",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Mexico/Warnings and insurance.md",
-            "update_date": "2026-06-04T16:31:19+01:00"
+            "update_date": "2026-06-09T16:43:26+01:00"
         },
         {
             "title": "Entry requirements",
@@ -38,5 +38,5 @@
             "file": "unitedkingdom/Mexico/Getting help.md"
         }
     ],
-    "update_date": "2026-06-04T16:31:19+01:00"
+    "update_date": "2026-06-09T16:43:26+01:00"
 }

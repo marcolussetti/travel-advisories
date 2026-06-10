@@ -1,11 +1,11 @@
 {
     "name": "Georgia",
-    "update_reason": "Updated information about global travel impacts due to escalation in the Middle East (\u2018Warnings and insurance\u2019 page).",
+    "update_reason": "Updated information about bringing medicines into Georgia and rail travel ('Entry requirements' and 'Safety and security' pages).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Georgia/Warnings and insurance.md",
-            "update_date": "2026-03-19T14:05:01+00:00"
+            "update_date": "2026-06-09T10:23:08+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Georgia/Getting help.md"
         }
     ],
-    "update_date": "2026-03-19T14:05:01+00:00"
+    "update_date": "2026-06-09T10:23:08+01:00"
 }

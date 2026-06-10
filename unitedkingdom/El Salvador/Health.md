@@ -40,18 +40,12 @@ Make sure you have adequate travel health insurance and accessible funds to cove
 
 FCDO has a [list of medical providers in El Salvador](https://www.gov.uk/government/publications/list-of-medical-facilities-in-el-salvador) where some staff will speak English.
 
-There is also [guidance on healthcare if you’re living in El Salvador](https://www.gov.uk/guidance/living-in-el-salvador).
-
 ## Travel and mental health
 
 Read [FCDO guidance on travel and mental health](https://www.gov.uk/guidance/foreign-travel-advice-for-people-with-mental-health-issues). There is also [mental health guidance on TravelHealthPro](https://travelhealthpro.org.uk/factsheet/85/travelling-with-mental-health-conditions).
 
-[Previous
-:
-Safety and security](/foreign-travel-advice/el-salvador/safety-and-security)
+[Previous:Safety and security](/foreign-travel-advice/el-salvador/safety-and-security)
 
-[Next
-:
-Getting help](/foreign-travel-advice/el-salvador/getting-help)
+[Next:Getting help](/foreign-travel-advice/el-salvador/getting-help)
 
 [View a printable version of the whole guide](/foreign-travel-advice/el-salvador/print)

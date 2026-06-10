@@ -78,12 +78,8 @@ There are strict rules about goods you can take into or out of Honduras. You mu
 
 You must complete the Government of Honduras’ [customs declaration form](https://sisglobal.aduanas.gob.hn/Pech/#/plataforma/otra_gestiones/formularioDJRV) prior to entering or leaving the country. After completing the online form, you must present the QR code to the customs authorities, either on paper or electronically.
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/honduras)
+[Previous:Warnings and insurance](/foreign-travel-advice/honduras)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/honduras/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/honduras/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/honduras/print)
