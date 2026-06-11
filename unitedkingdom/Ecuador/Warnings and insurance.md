@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   21 May 2026
+:   11 June 2026
 
 Updated:
-:   20 May 2026
+:   10 June 2026
 
 Latest update:
-:   Addition of information about Colombia-Ecuador border closure and updated information on healthcare in Ecuador and the Galapagos Islands ('Warnings and insurance' and 'Health' pages).
+:   Removal of information about state of emergency and border closure with Colombia ('Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/65a1082ce96df50014f8452c/FCDO__TA__014_-_Ecuador_Travel_Advice_Ed5__WEB_.jpg)
 
@@ -42,29 +42,6 @@ FCDO advises against all but essential travel to areas within 20km of the Ecuado
 * the Pan-American Highway
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/ecuador/regional-risks).
-
-## Regional state of emergency declared (internal disturbance and armed violence)
-
-A 60-day state of emergency (SOE) was renewed on 2 April 2026 due to internal disturbance and armed violence. You should follow the instructions of police and local authorities. The SOE currently applies to the following provinces:
-
-* Guayas
-* El Oro
-* Manabí
-* Los Ríos
-* Santa Elena
-* Pichincha
-* Santo Domingo de los Tsáchilas
-* Esmeraldas
-* Sucumbíos
-* Bolívar (cantones Echeandía and Las Naves)
-* Cotopaxi (cantón La Maná)
-* Cañar (cantón La Troncal)
-
-Due to the current SOE, expect heightened police and military presence nationwide without previous notice, and potential travel disruptions due to extra security checks.
-
-## Colombia-Ecuador border closure
-
-Due to Presidential elections in Colombia, the Colombia-Ecuador land border will be closed to foreign nationals from Saturday 30 May at 6pm until Monday 1 June at 6am. Travellers should plan ahead and expect potential travel disruptions due to closures.
 
 ## Before you travel
 

@@ -6,18 +6,11 @@ You should also read [FCDO’s overall travel advice](/foreign-travel-advice/ko
 
 ## Northern Kosovo
 
-FCDO advises against all but essential travel to the municipalities of Zvečan, Zubin Potok and Leposavic, and areas of Mitrovica north of the river Ibar due to violent incidents and heightened tensions in these areas.
+Whilst there have been recurring tensions across northern Kosovo resulting in sporadic unrest, protests and security incidents, this has improved since 2024. However, northern Kosovo remains politically sensitive and conditions can change quickly.
 
-Since December 2022 there have been violent clashes and incidents involving grenades and vehicle explosions. Be cautious and avoid public gatherings, particularly around the Austerlitz Bridge area which separates Mitrovica north and south.
+Localised incidents, including protests and disruptions, can occur with little warning, particularly during periods of heightened political tension. Remain vigilant, monitor local media and stay away from demonstrations and large gatherings.
 
-Protests have the potential to turn violent. You should:
-
-* avoid public gatherings, political rallies and protests
-* check local media
-* consult hotel receptions for advice
-* sign up to [get email notifications](https://www.gov.uk/foreign-travel-advice/kosovo/email-signup) when this advice is updated
-
-Avoid travelling between Kosovo and Serbia via Gate 1 (Jarinjë, Leposavic) or Gate 31 (Zubin Potok) since these are located in areas of Kosovo where FCDO advises against all but essential travel. You should find alternative routes for travel between Kosovo and Serbia.
+Sign up to [get email notifications](https://www.gov.uk/foreign-travel-advice/kosovo/email-signup) when this advice is updated.
 
 ## Old landmines and unexploded bombs
 

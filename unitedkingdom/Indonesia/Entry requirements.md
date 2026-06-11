@@ -37,7 +37,9 @@ Make sure your visa is approved before arriving in Indonesia, otherwise you may 
 
 ### All Indonesia Declaration Form
 
-Before travelling to Indonesia, fill out the online customs and health declaration on the [All Indonesia arrival card website](https://allindonesia.imigrasi.go.id/) or app within 72 hours of arrival. After completing the form, you can use the All Indonesia app to apply for a visa.
+Before travelling to Indonesia, fill out the online customs and health declaration on the [All Indonesia arrival card website](https://allindonesia.imigrasi.go.id/) or app within 72 hours of arrival. The All Indonesia arrival card is a service free of charge and travellers should avoid accessing alternative websites or email links that request payment for this service.
+
+After completing the form, you can also use the All Indonesia app to apply for a visa.
 
 ### Extending your visa or residence permit
 
@@ -54,6 +56,8 @@ If you’re a KITAS holder with an expired stay permit, you can apply for an ex
 Beware of visa scams by fake visa agents who, having taken your money, may fail to provide a visa or supply the wrong visa. This could result in you overstaying and getting a fine of 1 million rupiah a day, plus possible deportation and a re-entry ban. Use the [Indonesian immigration website](https://evisa.imigrasi.go.id/) to get or extend your visa.
 
 Visa scams are increasing in Indonesia. Some travellers have lost significant amounts of money. Others have been deported despite paying a large fee to an agent to get the correct visa or extension.
+
+Travellers are advised to use only the official government links provided via the FCDO travel advice to reduce the risk of engaging with fraudulent services.
 
 ### Not following visa conditions
 

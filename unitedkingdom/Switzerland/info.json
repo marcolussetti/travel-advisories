@@ -1,11 +1,11 @@
 {
     "name": "Switzerland",
-    "update_reason": "Updated information on European Entry-Exit System (EES) (\u2018Entry requirements\u2019 page).",
+    "update_reason": "Addition of information about G7 Summit and related disruption ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Switzerland/Warnings and insurance.md",
-            "update_date": "2026-04-10T10:24:56+01:00"
+            "update_date": "2026-06-10T16:02:01+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Switzerland/Getting help.md"
         }
     ],
-    "update_date": "2026-04-10T10:24:56+01:00"
+    "update_date": "2026-06-10T16:02:01+01:00"
 }

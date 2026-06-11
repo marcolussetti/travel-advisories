@@ -1,11 +1,11 @@
 {
     "name": "Ecuador",
-    "update_reason": "Addition of information about Colombia-Ecuador border closure and updated information on healthcare in Ecuador and the Galapagos Islands ('Warnings and insurance' and 'Health' pages).",
+    "update_reason": "Removal of information about state of emergency and border closure with Colombia ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Ecuador/Warnings and insurance.md",
-            "update_date": "2026-05-20T12:37:36+01:00"
+            "update_date": "2026-06-10T09:06:11+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Ecuador/Getting help.md"
         }
     ],
-    "update_date": "2026-05-20T12:37:36+01:00"
+    "update_date": "2026-06-10T09:06:11+01:00"
 }

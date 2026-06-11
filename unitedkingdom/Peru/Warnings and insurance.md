@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   6 June 2026
+:   11 June 2026
 
 Updated:
-:   5 June 2026
+:   10 June 2026
 
 Latest update:
-:   New information on national election on 7 June ('Warnings and insurance' page).
+:   Removal of information about national election on 7 June ('Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/6645e81e993111924d9d365a/FCDO__TA__093_-_Peru_Travel_Advice_Ed3__WEB_.jpg)
 
@@ -32,10 +32,6 @@ FCDO advises against all but essential travel to the Valley of the Apurímac, En
 We advise against all but essential travel to these two areas for safety and security reasons.
 
 Find out more about [why FCDO advises against travel](https://www.gov.uk/foreign-travel-advice/peru/regional-risks).
-
-## National elections
-
-National elections will be held in Peru on Sunday 7 June. Expect traffic disruption and an increased security presence, particularly around polling stations. Stay away from large gatherings and follow the advice of local authorities.
 
 ## Before you travel
 

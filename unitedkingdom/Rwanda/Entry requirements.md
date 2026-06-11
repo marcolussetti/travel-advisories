@@ -34,11 +34,13 @@ Land border crossing opening hours between Rwanda and the Democratic Republic of
 
 You may experience immigration difficulties if you do not have residency status and regularly cross between the two countries.
 
-## Vaccine requirements
+Following the Ebola outbreak, transit from the Democratic Republic of the Congo through Rwanda is only permitted in exceptional circumstances related to humanitarian missions and essential travel, and is subject to:
 
-To enter Rwanda, if you’re coming from a [country listed as a transmission risk](https://nathnacyfzone.org.uk/factsheet/65/countries-with-risk-of-yellow-fever-transmission), you must have a certificate to prove you’ve had a yellow fever vaccination.
-
-For full details about medical entry requirements and recommended vaccinations, see [TravelHealthPro’s Rwanda guide](https://travelhealthpro.org.uk/country/187/rwanda#Vaccine_Recommendations).
+* health risk assessment
+* destination-country requirements
+* transport operator requirements
+* public health requirements
+* approval by the Rwandan authorities
 
 ## Border measures
 
@@ -52,6 +54,12 @@ On 22 May the Government of Rwanda [announced new border measures](https://x.com
 There are strict rules about [goods you can take into or out of Rwanda](https://www.rra.gov.rw/en/customs-services/travelers/prohibited-goods). You must declare anything that may be prohibited or subject to tax or duty.
 
 You must declare drones when you arrive. They may be confiscated or held until you leave the country.
+
+## Vaccine requirements
+
+To enter Rwanda, if you’re coming from a [country listed as a transmission risk](https://nathnacyfzone.org.uk/factsheet/65/countries-with-risk-of-yellow-fever-transmission), you must have a certificate to prove you’ve had a yellow fever vaccination.
+
+For full details about medical entry requirements and recommended vaccinations, see [TravelHealthPro’s Rwanda guide](https://travelhealthpro.org.uk/country/187/rwanda#Vaccine_Recommendations).
 
 [Previous:Warnings and insurance](/foreign-travel-advice/rwanda)
 

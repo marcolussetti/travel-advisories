@@ -1,11 +1,11 @@
 {
     "name": "Peru",
-    "update_reason": "New information on national election on 7 June ('Warnings and insurance' page).",
+    "update_reason": "Removal of information about national election on 7 June ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Peru/Warnings and insurance.md",
-            "update_date": "2026-06-05T09:41:04+01:00"
+            "update_date": "2026-06-10T16:57:29+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Peru/Getting help.md"
         }
     ],
-    "update_date": "2026-06-05T09:41:04+01:00"
+    "update_date": "2026-06-10T16:57:29+01:00"
 }

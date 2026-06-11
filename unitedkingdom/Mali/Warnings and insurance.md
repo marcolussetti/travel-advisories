@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   3 May 2026
+:   11 June 2026
 
 Updated:
-:   2 May 2026
+:   10 June 2026
 
 Latest update:
-:   Removal of information about curfew that finished on 1 May. (Warnings and insurance)
+:   Updated information about recent terrorist attacks in Mali (‘Safety and security’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/690369fee2ebc0fb39a51ffc/FCDO_TA_026_-_Mali_Travel_Advice_Ed7_WEB.jpg)
 
@@ -35,16 +35,6 @@ For more detail see [Fuel shortages](https://www.gov.uk/foreign-travel-advice/ma
 If you are a British national already in Mali, either resident or visitor, carefully consider your presence there and the risks you take by staying.
 
 Find out more about [why FCDO advises against travel](https://www.gov.uk/foreign-travel-advice/mali/safety-and-security).
-
-## 25 April attacks
-
-A series of coordinated attacks occurred in multiple locations including Kidal, Gao, Kati, Severe and in the vicinity of Bamako International Airport on 25th April.
-
-Bamako International Airport is now open, although some flights are operating with delays or cancellations. If you plan to travel, check with your airline for the latest information before leaving.
-
-If you are in Mali, you should leave immediately by commercial flight if you judge safe to do so. You should avoid crowded places and areas of military or police activity, and follow guidance issued by local authorities. Avoid any road blockades set up by police and security forces.
-
-We continue to advise against all travel to Mali.
 
 ## UK government support
 

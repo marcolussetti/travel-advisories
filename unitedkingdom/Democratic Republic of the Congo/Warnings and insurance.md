@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   4 June 2026
+:   11 June 2026
 
 Updated:
-:   3 June 2026
+:   10 June 2026
 
 Latest update:
-:   New information about increased security presence in the city of Kinshasa (see ‘Protests and demonstrations’ on the ‘Safety and security’ page).
+:   Addition of information about travel between Rwanda and DRC for humanitarian missions and essential travel ('Regional risks’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/6a196a3465bc5f798327f4fe/FCDO_TA_012_-_Democratic_Repbulic_of_the_Congo_Travel_Advice_Ed20_WEB.jpg)
 

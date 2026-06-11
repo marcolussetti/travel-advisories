@@ -33,9 +33,7 @@ FCDO advises against all travel to Goma in North Kivu and Bukavu in South Kivu
 
 The armed group M23 and Rwanda Defence Forces (RDF) have captured and taken control of Goma. Fighting in Goma and the surrounding areas has intensified. Goma airport is currently not operational and is under the control of RDF and M23.
 
-The Goma-Gisenye border crossing into Rwanda is controlled by RDF and M23. The border appears open however the situation is highly unstable and there have been incidents of people being temporarily detained and denied entry to Rwanda.
-
-On 16 February, RDF and M23 forces captured and took control of Bukavu, the main city in south Kivu. This follows advances south from Goma. On Friday 14 February, M23 and RDF forces captured Kavuma airport, approximately 30km north of the city. Commercial flights are not operating from the airport.
+On 16 February, RDF and M23 forces captured and took control of Bukavu, the main city in South Kivu. This follows advances south from Goma. On Friday 14 February, M23 and RDF forces captured Kavuma airport, approximately 30km north of the city. Commercial flights are not operating from the airport.
 
 The Ruzizi border crossing in Bukavu is under RDF and M23 control and appears open, but the situation remain highly unpredictable and may change at short notice.
 
@@ -47,11 +45,13 @@ The situation in Goma, Bukavu, and the surrounding areas remains uncertain, unst
 
 ## Tshopo Province
 
-The security situation in and around Bangoka International Airport, Kisangani, remains unpredictable following recent drone attacks against DRC military assets at the airport. These attacks have been claimed by the M23. Commercial flights are operating as usual, but availability can change at short notice.
+The security situation in and around Bangoka International Airport, Kisangani, remains unpredictable following recent drone attacks against DRC military assets at the airport. These attacks have been claimed by the M23. Commercial flights are operating as usual, but availability can change at short notice. These border crossings are controlled by RDF and M23.
 
 ## Border crossings with Rwanda
 
-The border crossings between Rwanda and the DRC at Gisenyi/Goma and Cyangugu/Bukavu may close at short notice. On the 27 January 2025, there were reports of gunfire and artillery fire crossing the border into Rwanda near the Gisenyi/Goma border crossing.
+The border crossings between Rwanda and the DRC at Gisenyi/Goma and Cyangugu/Bukavu may close at short notice. These border crossings are controlled by RDF and M23.
+
+Following the Ebola outbreak, transit from the Democratic Republic of the Congo through Rwanda is only permitted in exceptional circumstances related to humanitarian missions and essential travel, and is subject to health risk assessment, destination-country, transport operator, and public health requirements, and approval by the Rwandan authorities.
 
 ## Territory in Mai-Ndombe Province
 

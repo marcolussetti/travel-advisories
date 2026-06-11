@@ -1,30 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   20 December 2025
+:   11 June 2026
 
 Updated:
-:   19 December 2025
+:   10 June 2026
 
 Latest update:
-:   Updated with information about the risks from terrorism (‘Safety and security’ page’).
-
-![](https://assets.publishing.service.gov.uk/media/66d031530b53069322597c76/FCDO__TA__052_-_Kosovo_Travel_Advice_Ed2__WEB_.jpg)
-
-
-[Download a more detailed map (PDF, 516 KB)](https://assets.publishing.service.gov.uk/media/66d03153a7256f1cd83a8a3b/FCDO__TA__052_-_Kosovo_Travel_Advice_Ed2.pdf)
-
-Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
-
-## Areas where FCDO advises against all but essential travel
-
-### Zvečan, Zupin Potok and Leposavic, and areas of Mitrovica north of the river Ibar
-
-FCDO advises against all but essential travel to the municipalities of Zvečan, Zubin Potok and Leposavic, and areas of Mitrovica north of the river Ibar.
-
-This is due to violent incidents and heightened tensions in these areas.
-
-Find out more about [why FCDO advises against travel](/foreign-travel-advice/kosovo/regional-risks).
+:   FCDO no longer advises against all but essential travel to the municipalities of Zvečan, Zubin Potok and Leposavic, and areas of Mitrovica north of the river Ibar. New information about northern Kosovo (‘Warnings and insurance’ and ‘Regional risks’ pages).
 
 ## Before you travel
 

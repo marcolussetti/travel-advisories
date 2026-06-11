@@ -10,7 +10,7 @@ UK Counter Terrorism Policing has information and advice on [staying safe abroad
 
 Terrorists are very likely to try to carry out attacks in Mali.
 
-Several terrorist groups operate in Mali, including Jama’a Nusrat ul-Islam wa al-Muslimin (JNIM) and Islamic State Sahel Province (ISSP). Whilst the regions most affected by terrorist activity are central and northern Mali, JNIM has increasingly conducted attacks in southern Mali and retain the capability and intent to target the capital, Bamako.
+Several terrorist groups operate in Mali, including Jama’a Nusrat ul-Islam wa al-Muslimin (JNIM) and Islamic State Sahel Province (ISSP). Whilst the regions most affected by terrorist activity are central and northern Mali, JNIM has increasingly conducted attacks in southern Mali and has the capability and intent to target the capital, Bamako.
 
 The security situation in Mali has deteriorated amid an upsurge of terrorist attacks following the December 2023 withdrawal of the UN peacekeeping mission. Terrorists have increasingly attacked military bases and personnel, sometimes including foreign military personnel, as well as government and official buildings, including in Bamako. Such attacks often lead to the deaths of soldiers, civilians and others. Attempts to carry out similar attacks remain very likely.
 
@@ -36,22 +36,19 @@ Attacks could be indiscriminate and occur at any time, including in places frequ
 
 Examples of recent significant attacks include:
 
-* from September 2025, there has been an increase in attacks targeting fuel convoys in Mali, particularly in southern and western Mali
+* on 25 April 2026, a series of coordinated attacks occurred in multiple locations including Kidal, Gao, Kati, Severe and in the vicinity of Bamako International Airport (leading to the airport’s temporary closure)
+* since September 2025, there has been an increase in attacks targeting fuel convoys in Mali, particularly in southern and western Mali
 * in June 2025, JNIM claimed to kill more than 150 soldiers, in multiple attacks targeting military bases in Boulkessi, Timbuktu and Mahou
 * in March and May 2025, there were two separate attacks against a police station and a military base which damaged vehicles and infrastructure in Kati, approximately 15km from Bamako city centre
 * in February 2025, a roadside bomb killed two people and injured others in a convoy that was travelling on the road linking Kati to Soribougou
-* in September 2024, at least 70 people were killed by attacks in the Gendarmerie School in Faladie district and Modibo Keita International Airport in Bamako
-* in July 2024, at least 7 civilians were killed by an indiscriminate motorcycle attack in an IDP camp in Mondoro, Gao Region
-* in June 2024, ISSP claimed responsibility for an attack which killed or wounded on the route between Menaka and Ansongo
-* in May 2024, 9 people were abducted and killed in an attack in Koundi locality, near Timbuktu
 
 This continues a historical trend of terrorists attacking military bases and personnel, sometimes including foreign military, often leading to the deaths of soldiers, civilians and others.
 
 ### Terrorist kidnap
 
-There is a very high threat of kidnapping by al-Qa’ida and Islamic State-aligned groups in Mali. JNIM and ISSP operate throughout Mali, Niger and Burkina Faso. JNIM, in particular, has previously conducted kidnappings from all parts of Mali, including in urban areas and the capital, Bamako. In 2025, there has been an increase in kidnaps in Southern and Western Mali.
+There is a very high threat of kidnapping by al-Qa’ida and Islamic State-aligned groups in Mali. JNIM and ISSP operate throughout Mali, Niger and Burkina Faso. JNIM, in particular, has previously conducted kidnappings from all parts of Mali, including in urban areas and the capital, Bamako. In 2025, there was been an increase in kidnaps in Southern and Western Mali.
 
-A number of foreign nationals have been kidnapped in Mali in 2025, by Al-Qaeda and Islamic State affiliated groups.
+A number of foreign nationals have been kidnapped in Mali in recent years, by Al-Qaeda and Islamic State affiliated groups.
 
 British nationals are seen as legitimate targets, including tourists, humanitarian aid workers, journalists and business travellers. If you are kidnapped, the reason for your presence is unlikely to protect you or secure your safe release.
 
@@ -61,13 +58,13 @@ The long-standing policy of the British government is to not make substantive co
 
 ## Political situation
 
-On 24 May 2021, the vice-president, Colonel Assimi Goïta, detained the transitional President Bah N’Daw and Prime Minister Moctar Ouane, along with other members of the transitional government. Goïta was sworn in as head of state in June 2021. Presidential elections, originally scheduled for February 2024, have been postponed.
+On 24 May 2021, the vice-president, Colonel Assimi Goïta, detained the transitional President Bah N’Daw and Prime Minister Moctar Ouane, along with other members of the transitional government. Goïta was sworn in as head of state in June 2021. Presidential elections, originally scheduled for February 2024, were postponed.
 
 Political unrest is an ongoing risk. Regular, large and at times violent protests have taken place in Bamako, with burning of tyres and clashes with the police. Police have responded with tear gas and small arms fire. Deaths and injuries have been reported.
 
 Monitor local media and stay away from all large gatherings and political demonstrations. Avoid any blockades set up by the police and security forces. Keep several days’ stock of food and water in of case disturbances. You can monitor daily developments in English through the BBC World Service (88.9 FM in Bamako).
 
-Security incidents between and within communities continue in many parts of the country, most notably in Mopti and Segou regions. In some instances, terrorist groups have become involved in these conflicts. In March 2019, masked gunmen killed 160 villagers in a single attack in Ogossagou in central Mali. Groups operating in the centre, north and north-east sectors use landmines.
+Security incidents between and within communities continue in many parts of the country, most notably in Mopti and Segou regions. In some instances, terrorist groups have become involved in these conflicts. Groups operating in the centre, north and north-east sectors use landmines.
 
 ## Crime
 
@@ -87,13 +84,13 @@ Keep copies of your passport’s photo page and your visa or entry stamp in a se
 
 ### Criminal kidnapping
 
-Kidnapping by criminal groups is widespread across Mali, Niger, and Burkina Faso. There has been an increase in kidnappings of western nationals and gangs operate throughout Mali, including in Gao and Keyes regions. There is a possibility that criminal groups could sell people they kidnap as hostages to terrorist organisations.
+Kidnapping by criminal groups is widespread across Mali. There has been an increase in kidnappings of western nationals and gangs operate throughout Mali, including in Gao and Keyes regions. There is a possibility that criminal groups could sell people they kidnap as hostages to terrorist organisations.
 
 British nationals are seen as legitimate targets, including tourists, humanitarian aid workers, journalists and business travellers. If you are kidnapped, the reason for your presence is unlikely to protect you or secure your safe release. You should avoid regular patterns of travel and aim to only travel during daylight hours.
 
 ### Vehicle crime
 
-There have been incidents of carjacking and kidnap across the country. If you are travelling outside Bamako against FCDO advice, beware of the threat to your vehicle and get advice from a security company or personal sponsor. There have been reports of vehicles driven by foreign nationals being vandalised.
+There have been incidents of carjacking and kidnap across the country. If you are travelling against FCDO advice, beware of the threat to your vehicle and get advice from a security company or personal sponsor. There have been reports of vehicles driven by foreign nationals being vandalised.
 
 To reduce the risk of attacks:
 

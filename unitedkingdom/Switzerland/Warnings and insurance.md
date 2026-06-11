@@ -1,13 +1,23 @@
 # Warnings and insurance
 
 Still current at:
-:   11 April 2026
+:   11 June 2026
 
 Updated:
-:   10 April 2026
+:   10 June 2026
 
 Latest update:
-:   Updated information on European Entry-Exit System (EES) (‘Entry requirements’ page).
+:   Addition of information about G7 Summit and related disruption ('Warnings and insurance' page).
+
+## G7 Summit
+
+The G7 Summit will be taking place in Evian, France, between 15-17 June 2026. A number of attendees will be transiting through Geneva.
+
+In preparation, the Swiss authorities are preparing to close several border crossings with France over the dates surrounding the Summit, which is likely to lead to severe delays at the crossings that remain open. You should plan your journey carefully and consider avoiding travel between France and Switzerland on these dates if possible.
+
+The Swiss authorities have given permission for a protest linked to the G7 in central Geneva on the afternoon of Sunday 14 June. There may be other unauthorised protest activity related to the G7 around the period from 12-19 June. Stay away from any areas where protest activity is underway and follow the instructions of the authorities.
+
+The [Republic and Canton of Geneva](https://www.ge.ch/dossier/sommet-du-g7-evian-2026) (in French) has further information on the Swiss preparations for the G7 Summit.
 
 ## Before you travel
 

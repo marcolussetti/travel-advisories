@@ -1,11 +1,11 @@
 {
     "name": "Indonesia",
-    "update_reason": "Updated information about global travel impacts due to escalation in the Middle East (\u2018Warnings and insurance\u2019 page).",
+    "update_reason": "Updated information about 'All Indonesia Declaration Form' and visa scams ('Entry requirements' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Indonesia/Warnings and insurance.md",
-            "update_date": "2026-03-19T14:05:44+00:00"
+            "update_date": "2026-06-10T09:18:15+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Indonesia/Getting help.md"
         }
     ],
-    "update_date": "2026-03-19T14:05:44+00:00"
+    "update_date": "2026-06-10T09:18:15+01:00"
 }

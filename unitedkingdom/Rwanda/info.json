@@ -1,11 +1,11 @@
 {
     "name": "Rwanda",
-    "update_reason": "Addition of information about new border measures announced by the Government of Rwanda in response to the Ebola outbreak (\u2018Entry requirements\u2019 page).",
+    "update_reason": "Addition of information about travel between Rwanda and DRC for humanitarian missions and essential travel (\u2018Entry requirements\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Rwanda/Warnings and insurance.md",
-            "update_date": "2026-05-22T16:03:51+01:00"
+            "update_date": "2026-06-10T15:14:19+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Rwanda/Getting help.md"
         }
     ],
-    "update_date": "2026-05-22T16:03:51+01:00"
+    "update_date": "2026-06-10T15:14:19+01:00"
 }
