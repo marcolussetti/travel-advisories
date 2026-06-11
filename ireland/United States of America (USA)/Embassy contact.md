@@ -146,25 +146,18 @@ Additional visa services provided for: Arizona, Hawaii, Nevada, New Mexico, Sout
 ### Honorary Consul of Ireland, Buffalo (New York)
 
 Kathleen Higgins Greeley   
-Higgins Law Group   
-69 Delaware Ave #100   
+69 Delaware Avenue,   
+Suite 100   
 Buffalo   
-NY 14202
+New York 14220
 
-[Tel: +171 6 462 3107](tel:+1716 462 3107)
+[Tel: +1 716 462 3107](tel:+1716 462 3107)
 
-[kathleen.higginsgreeley@honoraryconsul.ie](mailto:kathleen.higginsgreeley@honoraryconsul.ie)
+**Email:** [**kathleen.higginsgreeley@honoraryconsul.ie**](mailto:kathleen.higginsgreeley@honoraryconsul.ie)
 
 ### Honorary Consul of Ireland, Charlotte (North Carolina)
 
-Robert John Young   
-5955 Carnegie Boulevard, Suite 250   
-Charlotte   
-North Carolina 28209
-
-[Tel: +1 704 529 1428](tel:+1704 529 1428)
-
-**Email:** [robert.young@honoraryconsul.ie](mailto:Robert.young@honoraryconsul.ie)
+Please contact the [**Consulate General of Ireland, Atlanta**](/en/usa/atlanta/contact/)
 
 ### Honorary Consul of Ireland, Charleston (South Carolina)
 
@@ -201,18 +194,19 @@ Denver, CO
 
 ### Honorary Consul of Ireland, Houston (Texas)
 
-**Email:** [**Please contact the Consulate General of Ireland in Austin**](/en/usa/austin/contact/)
+Please contact the [**Consulate General of Ireland, Austin**](/en/usa/austin/contact/)
 
 ### Honorary Consul of Ireland, Nashville (Tennessee)
 
 Amy Seigenthaler   
-700 12th Ave S SUITE 400,   
-Nashville, TN 37203,   
-USA
+700 12th Ave,   
+S SUITE 400,   
+Nashville,   
+TN 37203
 
 [Tel: +1 615 964 0855](tel:+1615 964 0855)
 
-**Email:** [amy.seigenthaler@honoraryconsul.ie](mailto:amy.seigenthaler@honoraryconsul.ie)
+**Email:** [**amy.seigenthaler@honoraryconsul.ie**](mailto:amy.seigenthaler@honoraryconsul.ie)
 
 ### Honorary Consul of Ireland, New Orleans (Louisiana)
 
