@@ -1,22 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   12 May 2026
+:   12 June 2026
 
 Updated:
-:   11 May 2026
+:   11 June 2026
 
 Latest update:
-:   Addition of information about Western Cape travel disruption ('Warnings and insurance' page).
-
-## Western Cape travel disruption
-
-Due to strong winds and heavy rain across the Western Cape, flights to and from Cape Town may be subject to delays, cancellations, or diversion to alternative airports. Travellers are advised to:
-
-* monitor their flight status closely and remain in regular contact with their airline for the latest updates
-* stay away from flooded areas
-* follow advice from local authorities
-* allow for extra time when moving around
+:   New information about e-hailing and taxis and updated information about political situation, crime locations and Kruger National Park ('Safety and security' page).
 
 ## Before you travel
 

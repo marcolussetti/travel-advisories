@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   11 June 2026
+:   12 June 2026
 
 Updated:
-:   10 June 2026
+:   11 June 2026
 
 Latest update:
-:   Addition of information about protests at Mexico City International Airport (AICM) on 10 June ('Warnings and insurance' page).
+:   Updated information about protests at Mexico City International Airport (AICM) ('Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/69a1c6c8ec82ce45f05bd70e/FCDO__TA__065_-_Mexico_Travel_Advice_Ed5__WEB_.jpg)
 
@@ -109,7 +109,7 @@ Find out more about [why FCDO advises against travel to these areas](/foreign-tr
 
 ## Protests at Mexico City International Airport (AICM)
 
-On 10 June, there are expected to be protests from a local teachers’ union, which could affect access to the airport. The airport authorities have issued a public notice, advising people of possible disruption and to allow more time for journeys to and from the airport.
+On 11 June, there are expected to be protests from a local teachers’ union, which could affect access to the airport. The airport authorities have issued a public notice, advising people of possible disruption and to allow more time for journeys to and from the airport.
 
 Monitor local media and stay in touch with your airline or travel agent.
 

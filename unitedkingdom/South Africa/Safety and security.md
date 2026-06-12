@@ -29,7 +29,7 @@ The current conflict in Israel and Palestine has led to heightened tensions arou
 
 There are regular protests and demonstrations in South Africa which can turn violent at short notice. Violence could affect participants and bystanders anywhere in the country.
 
-Avoid areas where protests, demonstrations or marches are taking place, especially in city centres and townships. Do not cross protester roadblocks. This could provoke a violent reaction. Monitor local and social media for updates, including local radio. Where possible stay on main roads. Be aware GPS could lead you to less secure areas.
+There has been an increase in xenophobic and anti-immigration marches and violence, primarily targeting African immigrants and those perceived to be African immigrants. Avoid areas where protests, demonstrations or marches are taking place, especially in city centres and townships. Do not cross protester roadblocks. This could provoke a violent reaction. Monitor local and social media for updates, including local radio. Where possible stay on main roads. Be aware GPS could lead you to less secure areas.
 
 ## Crime
 
@@ -45,11 +45,11 @@ There is a high crime rate in South Africa, with incidents including:
 
 ### Crime locations
 
-Violent crime can take place anywhere, including in tourist destinations and transport hubs. Most violent crimes occur in townships located on the outskirts of major cities, central business districts or in isolated areas. The threat is higher when it is dark.
+Violent crime can take place anywhere, including in tourist destinations and transport hubs. Most violent crimes occur in townships, informal settlements, and other high-density areas, as well as in some city centres and isolated areas. The threat is higher when it is dark.
 
-There have been violent incidents involving tourists at popular tourist locations. There are usually security personnel in the main tourist areas who can assist tourists. However, policing and security can be limited, so always be cautious.
+There have been violent incidents involving tourists at popular tourist locations. There are usually security personnel in the main tourist areas who can assist tourists. However, policing and security is limited, so always be cautious.
 
-Avoid isolated beaches and picnic spots. Do not walk alone in remote areas or on beaches when deserted, especially when it is dark.
+Avoid isolated beaches, picnic spots and local transport hubs. Do not walk alone in remote areas or on beaches when deserted, especially when it is dark.
 
 ### Protecting yourself and your belongings
 
@@ -118,24 +118,6 @@ To reduce your risk while driving:
 * use ‘smash and grab’ film on windows – ask hire car firms for this
 * make sure you can see the tarmac and the tyres of the car in front of you when you stop your vehicle, giving you space to escape if you need to
 
-### Taxi app crime
-
-Scammers target people using taxi apps in major cities.
-
-Make sure you:
-
-* use an internationally recognised service
-* book the taxi in the app
-* check the vehicle registration and ID before entering
-* do not wait in the street
-* do not display your phone or valuables
-* ask the driver to close rear windows and lock doors if you cannot do so yourself
-* check the taxi app for extra security features, and consider using them
-
-Be wary of unregulated drivers posing as Uber or other taxi app drivers, especially at airports. If you book a taxi, wait in a designated taxi pick-up area, if there is one.
-
-Tensions between taxi app and metered taxi drivers can lead to armed violence, particularly around Gautrain stations and at airports. Strikes and protests by taxi app drivers take place, sometimes with attacks against drivers not seen to be participating. Passengers have also faced harassment or violence. Apps generally warn about high-risk areas, but be cautious using these services. During strikes use alternative reliable private transportation.
-
 ### Criminal kidnap
 
 The risk of kidnap is increasing throughout South Africa. Criminals generally kidnap people for financial gain.
@@ -194,7 +176,7 @@ You should:
 * avoid quieter areas of the park, especially during early mornings and evenings
 * stay on busy, marked trails
 * go on popular days such as weekends
-* not hike alone
+* hike in groups of 4 or more
 
 ## Transport risks
 
@@ -213,6 +195,26 @@ See [Crime](/foreign-travel-advice/south-africa/safety-and-security#crime) for a
 ### Air Travel
 
 There have been travel delays and disruptions at airports due to power outages, refuelling disruptions and immigration queues. Allow for adequate time when travelling. Check the [Airports Company South Africa (ACSA)](https://x.com/Airports_ZA) social media pages for the latest updates or download the app.
+
+### E-hailing and taxis
+
+Scammers target people using e-hailing taxi apps in major cities.
+
+Make sure you:
+
+* use an internationally recognised service
+* book through the e-hailing app
+* identify a place of safety until the vehicle arrives; do not wait in the street
+* check the vehicle registration and ID before entering
+* do not display your phone or valuables
+* ask the driver to close rear windows and lock doors if you cannot do so yourself
+* check the e-hailing app for extra security features, and consider using them
+
+Be wary of unregulated drivers posing as Uber or other taxi app drivers, especially at airports. If you book a taxi, wait in a designated taxi pick-up area, if there is one.
+
+Tensions between e-hailing app and metered taxi drivers have led to armed violence and fatalities, particularly around Gautrain stations and at airports. Strikes and protests by taxi app drivers take place, sometimes with attacks against drivers not seen to be participating. Passengers have also faced harassment or violence. E-hailing apps  generally warn about high-risk areas, but be cautious using these services. During strikes use alternative reliable private transportation. Plan your journey so that you can avoid busy areas such as taxi ranks and transport hubs.
+
+Minibus Taxis follow informal drop off and pick up principles with poor road discipline. These are minimally regulated and standards of vehicle maintenance can vary. Altercations with other road users and erratic driving is common.
 
 ### Driving rules and standards
 
@@ -259,7 +261,8 @@ Generally safer and more reliable transport includes:
 * Gautrain between Johannesburg, Pretoria and OR Tambo International Airport
 * MyCiTi bus in Cape Town (central business district and Atlantic Seaboard)
 * airport shuttle buses through internationally recognised hotels
-* internationally recognised taxi apps where bookings are confirmed through the app
+* internationally recognised e-hailing apps where bookings are confirmed through the app
+* researched private hire options
 
 To reduce your risk:
 
@@ -284,7 +287,7 @@ See [Crime](/foreign-travel-advice/south-africa/safety-and-security#crime) for i
 
 ### Kruger National Park
 
-After a violent attack killed a tourist in the Kruger National Park, SANParks advise against using the Numbi gate. There have been protests and violent incidents on the R538 road leading to the gate.
+After a violent attack killed a tourist in the Kruger National Park, SANParks advise against using the Numbi gate. There have been protests and violent incidents on the R538 road leading to the gate. In May 2026, 2 local tourists were killed in a rare violent incident within the park and the suspects were arrested.
 
 You can fly directly to Kruger National Park from Johannesburg, Cape Town and Durban. Many people also choose to take a private tour or drive overland themselves.
 
