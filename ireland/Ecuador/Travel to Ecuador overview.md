@@ -19,57 +19,6 @@ Owing to civil unrest, violent crime, and kidnapping, the security status of ‘
 * **Minefields** near the southern portion of the border with Peru, in particular Chinchipe, El Pangui, Nangaritza, and Yantzaza;
 * **Esmeraldas**, **El Oro**, **Guayas**, and **Los Ríos** provinces.
 
-### **Heavy Rainfall**
-
-On 27 February 2026, a State of Emergency of 90 days was declared in the following regions owing to heavy rainfall:
-
-* Guayas
-* Santa Elena
-* Manabí
-* Esmeraldas
-* Chimborazo
-* El Oro
-* Los Ríos
-* Loja
-
-### **State of Emergency**
-
-A state of emergency was renewed on 03 April 2026 for 60 days owing to ongoing internal unrest and armed violence. The current state of emergency applies to the following provinces:
-
-* Guayas (Guayaquil is in this province)
-* El Oro
-* Manabí
-* Los Ríos
-* Santa Elena
-* Pichincha (Quito is the capital of this province)
-* Santo Domingo
-* Esmeraldas
-* Sucumbíos
-* Echeandía and Las Naves in the province of Bolívar
-* Cotopaxi in the province of La Maná
-
-The state of emergency allows the military and police to:
-
-* seize assets
-* conduct inspections;
-* prohibit assembly;
-* read private mail and phone records;
-* enter private properties without permission.
-
-To note, a curfew from **23:00 to 05:00** applies in the following provinces and cantons from **03 May 2026 to 18 May 2026**:
-
-* Guayas;
-* Santa Elena;
-* Manabí;
-* Pichincha;
-* Esmeraldas;
-* Santa Domingo de los Tsáchilas y Sucombíos;
-* La Maná (in the province of Cotopaxi);
-* Las Naves (in the province of Bolívar);
-* La Troncal (in the province of Cañar).
-
-Should you need to travel to or from the airport during curfew hours, this is permissible by presenting evidence of a flight booking reservation.
-
 The Embassy advises all Irish citizens in Ecuador to be particularly attentive to news and safety recommendations from the Ecuadorian authorities.
 
 If an Irish citizen decides to travel to Ecuador at this time, via a land border from Peru or Colombia, **contrary to this travel advice**, they must present a criminal record certificate from their country of residence covering the last five years. The certificate must be legalised with a Hague Apostille. This does not apply to children and adolescents under 18.

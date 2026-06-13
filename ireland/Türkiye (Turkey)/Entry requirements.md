@@ -10,7 +10,7 @@ Visitors are advised to bring a number of passport photocopies while travelling 
 
 ### Visa
 
-Irish citizens do not require a visa to enter Türkiye for stays of up to 90 days within any 180-day period, for purposes such as tourism and business travel. Individuals planning official travel using another category of passport should contact the Embassy of Ireland in Ankara for further information. The nearest Turkish Embassy can also clarify any visa requirements. Contact details for the Turkish Embassy in Dublin are available [**here**](http://dublin.emb.mfa.gov.tr/Mission).
+Irish citizens do not require a visa to enter Türkiye for stays of up to 90 days within any 180-day period, for purposes such as tourism and business travel. Individuals planning official travel using another category of passport should contact the Embassy of Ireland in Ankara for further information. The nearest Turkish Embassy can also clarify any visa requirements. Contact details for the Turkish Embassy in Dublin are available [**here**](https://dublin-be.mfa.gov.tr/Mission).
 
 ### **Land Border**
 

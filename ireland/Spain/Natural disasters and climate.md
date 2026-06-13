@@ -8,7 +8,7 @@ Spain can at times experience extreme weather conditions. During the extended su
 
 During dry periods or periods of high temperatures, there is a risk of forest fires in many parts of Spain. These can result in road and railway closures. In addition, air quality in areas near active fires may deteriorate and adversely affect travellers, particularly those with respiratory ailments. Irish citizens should monitor the news closely as the situation can change quickly, and take particular care to avoid engaging in any action that may contribute to the risk of forest fires when outdoors.
 
-If you see a fire or smoke, you are advised to call the emergency number 112. The operators speak English, and will be able to assist you. Up-to-date information on the current situation in relation to forest fires is available on the [**website of the Department of Civil Protection and Emergencies**](https://www.proteccioncivil.es/es/inicio) and on their [**social media channels.**](https://twitter.com/proteccioncivil)
+If you see a fire or smoke, you are advised to call the emergency number 112. The operators speak English, and will be able to assist you.
 
 ### **Volcanos & Seismic Activity**
 
