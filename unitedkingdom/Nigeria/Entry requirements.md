@@ -50,6 +50,12 @@ You must fill in an [online Nigeria Health Declaration Form](https://healthapp.n
 
 You may be asked to take part in thermal screening and carry out a travel history check. This is a Nigerian government policy to improve the detection of diseases of public health importance.
 
+## Ebola screening
+
+Additional Ebola (Bundibugyo Virus) Disease screening protocols have been announced and may be implemented at border entry points into Nigeria, including potential enhanced monitoring of air passengers arriving from East and Central Africa.
+
+The World Health Organisation (WHO) has [declared this a Public Health Emergency of International Concern](https://www.who.int/news/item/17-05-2026-epidemic-of-ebola-disease-in-the-democratic-republic-of-the-congo-and-uganda-determined-a-public-health-emergency-of-international-concern).
+
 ## Customs rules
 
 There are strict rules about [goods you can take into or out of Nigeria](https://customs.gov.ng/?page_id=3075). You must declare anything that may be prohibited or subject to tax or duty.

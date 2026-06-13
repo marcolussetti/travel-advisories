@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   6 June 2026
+:   13 June 2026
 
 Updated:
-:   5 June 2026
+:   12 June 2026
 
 Latest update:
-:   New information about non-Bahraini passengers who have visited countries affected by the Ebola outbreak within the past 30 days ('Entry requirements' page).
+:   Updated information about 'Regional escalation' and 'Leaving Bahrain' (‘Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/69a367d7286b6fdc85daeb02/Bahrain_Travel_Advice_Ed1__WEB_.jpg)
 
@@ -28,11 +28,11 @@ Let the UK government know you’re in Bahrain, [register your presence](https:/
 
 Regional escalation poses significant security risks and has led to travel disruption.
 
-The Iranian regime has publicly stated its intention to target locations associated with the United States and Israel. This includes US-linked organisations, businesses, facilities and institutions.
+The Iranian regime has publicly stated its intention to target locations associated with the United States and Israel. This includes US linked organisations, businesses, facilities and institutions.
 
-Stay away from areas around security or military facilities, and US-linked locations.
+Stay away from areas around security or military facilities, and US or Israeli-linked locations.
 
-Iranian strikes against civilian infrastructure across the region such as ports, hotels, roads, bridges, energy facilities, oil production sites, water systems, and airports, have decreased. However, the risk of renewed strikes remains, and further attacks could occur at short notice.
+Iranian strikes against civilian infrastructure across the region such as ports, hotels, roads, bridges, energy facilities, oil production sites, water systems, and airports, have decreased. However, there have been strikes targeting Bahrain since the ceasefire came into effect, and further attacks could occur at short notice.
 
 Follow the instructions of the local authorities and monitor local and international media for the latest information.
 
@@ -42,7 +42,7 @@ Sign up to FCDO Travel Advice [email alerts.](https://www.gov.uk/foreign-trav
 
 ## Leaving Bahrain
 
-Airspace re-opened on 8 April, following closure since 28 February. Limited commercial flights from Bahrain International Airport are available though disruptions remain possible and further closures or restrictions may be imposed at short notice. The King Fahd Causeway to Saudi Arabia may also be subject to further closures at short notice. If your presence in Bahrain is not essential, you may wish to consider departing if you judge you can do so safely. If you plan to travel by road, read our [Travel Advice for  Saudi Arabia](https://www.gov.uk/foreign-travel-advice/saudi-arabia) for the latest information, including entry requirements to Saudi Arabia and ensure you have the correct paperwork, or you may be denied entry. If travelling by car, the vehicle must be wholly owned and registered in your name. If using commercial options to depart check for the latest updates from your airline or tour operator, as well as the instructions of local authorities and the status of any border crossings before you travel. Make sure you have access to emergency supplies and essential medication. Travel within or out of Bahrain is at your own risk.
+Flights from Bahrain International Airport are available though disruptions remain possible and further closures or restrictions may be imposed at short notice. The King Fahd Causeway to Saudi Arabia may also be subject to further closures at short notice. If your presence in Bahrain is not essential, you may wish to consider departing if you judge you can do so safely. If you plan to travel by road, read our [Travel Advice for  Saudi Arabia](https://www.gov.uk/foreign-travel-advice/saudi-arabia) for the latest information, including entry requirements to Saudi Arabia and ensure you have the correct paperwork, or you may be denied entry. If travelling by car, the vehicle must be wholly owned and registered in your name. If using commercial options to depart check for the latest updates from your airline or tour operator, as well as the instructions of local authorities and the status of any border crossings before you travel. Make sure you have access to emergency supplies and essential medication. Travel within or out of Bahrain is at your own risk.
 
 Keep your departure plans under review and ensure your travel documents are up to date, including any visas required for onward travel.
 

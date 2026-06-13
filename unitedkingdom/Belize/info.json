@@ -1,11 +1,11 @@
 {
     "name": "Belize",
-    "update_reason": "Updated information about the ongoing State of Emergency covering specific regions within Belize City and the Belize District ('Warnings and insurance' page).",
+    "update_reason": "Removal of information about the State of Emergency, which has now ended ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Belize/Warnings and insurance.md",
-            "update_date": "2026-05-15T16:56:12+01:00"
+            "update_date": "2026-06-12T10:40:30+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Belize/Getting help.md"
         }
     ],
-    "update_date": "2026-05-15T16:56:12+01:00"
+    "update_date": "2026-06-12T10:40:30+01:00"
 }

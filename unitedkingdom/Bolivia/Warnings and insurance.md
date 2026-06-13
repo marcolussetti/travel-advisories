@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   23 May 2026
+:   13 June 2026
 
 Updated:
-:   22 May 2026
+:   12 June 2026
 
 Latest update:
-:   Updated information about the ongoing disruption in La Paz. FCDO continues to advise against all but essential travel to the department of La Paz, including the city of La Paz ('Warnings and insurance' page).
+:   Updated information about ongoing disruption across Bolivia. FCDO continues to advise against all but essential travel to the department of La Paz, including the city of La Paz (see ‘Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/6a0f80f429bb11891b1cf047/FCDO__TA__098_-_Bolivia_Travel_Advice_Ed2__WEB_.jpg)
 
@@ -24,40 +24,40 @@ FCDO advises against all but essential travel to the Chapare region of Cochaba
 
 Find out more about [why FCDO advises against travel](https://www.gov.uk/foreign-travel-advice/bolivia/safety-and-security).
 
-## Disruption in Central La Paz
-
-There has been serious disruption and violence in central La Paz, particularly near government buildings. British nationals staying near Plaza Murillo or the city centre should:
-
-* stay away from demonstrations
-* remain inside accommodation and stay away from windows and balconies where possible
-* avoid travelling by road, especially at night
-* keep phones charged
-* monitor local media, and follow instructions from local authorities
-
-Do not attempt to cross roadblocks or approach crowds. If violence occurs nearby, shelter in place and contact the British Embassy if you need urgent assistance.
-
 ## Protests and road blockades
 
-Protests and road blockades are also impacting the department of La Paz, with the risk of them becoming violent. Follow the advice of local authorities and do not cross blockades.
+There are ongoing protests and road blockades across La Paz, Cochabamba, Oruro, Potosí and Chuquisaca. British nationals should:
+
+* avoid large gatherings and protests
+* not attempt to cross roadblocks
+* stay alert and monitor local media
+* take the advice of local authorities
+* be wary of unverified, unofficial information
+* allow extra time to reach your destination.
 
 The situation has the potential to deteriorate quickly and without warning. Make sure you are ready to change your plans quickly if needed.
 
-Any British national who becomes stuck in a road blockade, or who requires urgent consular assistance, should contact us by phone on +44 (0)20 7008 5000, selecting the option: ‘Consular services for British nationals’. If you are in Bolivia and using a phone with a local  SIM, please call 2-2010020.
+Any British national who requires urgent consular assistance, should contact us by phone on +44 (0)20 7008 5000, selecting the option: ‘Consular services for British nationals’. If you are in Bolivia and using a phone with a local SIM, please call 2-2010020.
 
 ## Travel by Road
 
-Due to the road blockades, if you purchase a bus ticket ‘condicionado’ it means the bus company may not be able to guarantee arrival to your destination. When travelling, do not use the roads on following routes until further notice:
+Check [road status updates from the Bolivian road authority](https://transitabilidad.abc.gob.bo/mapa/) (available inside Bolivia only) to see which roads are blocked.
+
+When travelling, do not use the roads on following routes until further notice:
 
 * between La Paz and Copacabana (Lake Titicaca)
-* between La Paz and Oruro
-* between La Paz and Uyuni via Oruro
-* between La Paz and Rurrenabaque
+* between La Paz and Desaguadero
+* between La Paz and Oruro
+* between La Paz and Uyuni via Oruro
+* between La Paz and Cochabamba
+* between La Paz and Potosi
+* between La Paz and Rurrenabaque
 
-Walking on certain roads may be dangerous due to the risk of violence around blockades and the effects of altitude. If you are in safe accommodation along these routes, remain there and follow the advice of the local authorities.
+If you purchase a bus ticket ‘condicionado’ it means the bus company may not be able to guarantee arrival to your destination. Walking on certain roads may be dangerous due to the risk of violence around blockades and the effects of altitude. If you are in safe accommodation along these routes, remain there and follow the advice of the local authorities.
 
 ## Leaving Bolivia
 
-If your presence in La Paz is not essential, consider departing now if you judge you can access travel options safely. If you are travelling to the airport by taxi, official Radio Taxis are the most reliable option, your accommodation can help you find a taxi. Check for the latest updates from your airline or tour operator, as well as the instructions from local media and authorities. Land borders can close at short notice.
+If your presence in La Paz is not essential, consider departing now if you judge you can access travel options safely. If you are travelling to the airport by taxi, official Radio Taxis are the most reliable option. Check for the latest updates from your airline, tour operator and local authorities. Land borders can close at short notice. Routes to El Alto Airport often close at short notice due to protests, so allow plenty of time and check with taxi companies and your accommodation before leaving for the airport.
 
 Ensure your travel documents remain valid and confirm you have any required visas for onward travel.
 

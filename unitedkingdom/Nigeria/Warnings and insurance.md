@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   6 June 2026
+:   13 June 2026
 
 Updated:
-:   5 June 2026
+:   12 June 2026
 
 Latest update:
-:   New information on travelling at night in North Central Nigeria (See ‘Road travel’ on the ‘Safety and security’ page).
+:   New information about Ebola screening ('Entry requirements' page).
 
 ![](https://assets.publishing.service.gov.uk/media/68b5a5683f3e5483efdba88a/FCDO__TA__030_-_Nigeria_Travel_Advice_map__WEB_.jpg)
 

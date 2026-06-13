@@ -1,11 +1,11 @@
 {
     "name": "Nigeria",
-    "update_reason": "New information on travelling at night in North Central Nigeria (See \u2018Road travel\u2019 on the \u2018Safety and security\u2019 page).",
+    "update_reason": "New information about Ebola screening ('Entry requirements' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Nigeria/Warnings and insurance.md",
-            "update_date": "2026-06-05T16:20:20+01:00"
+            "update_date": "2026-06-12T16:49:19+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Nigeria/Getting help.md"
         }
     ],
-    "update_date": "2026-06-05T16:20:20+01:00"
+    "update_date": "2026-06-12T16:49:19+01:00"
 }
