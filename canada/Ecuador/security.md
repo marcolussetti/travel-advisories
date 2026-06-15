@@ -2,36 +2,6 @@
 
 ## Safety and security
 
-### State of emergency
-
-A state of emergency, in response to gang violence, is in effect in the following provinces:
-
-* Bolívar, in Echeandía and Las Naves cantons only
-* Cañar, in La Troncal canton only
-* Cotopaxi, in La Maná canton only
-* El Oro
-* Esmeraldas
-* Guayas
-* Los Ríos
-* Manabí
-* Pichincha
-* Santa Elena
-* Santo Domingo de los Tsáchilas
-* Sucumbíos
-
-While the state of emergency is in effect, security forces have the power to:
-
-* enter private homes
-* read private mail and phone records
-* conduct raids, inspections and searches
-* prohibit assembly
-
-If you are in Ecuador:
-
-* expect an increased police and military presence
-* always carry your identification
-* follow the instructions of local authorities
-
 ### State of internal armed conflict
 
 Ecuador is in a state of “internal armed conflict.” There is an increased presence of security forces to contain gang violence across the country, including in Guayaquil and Quito.

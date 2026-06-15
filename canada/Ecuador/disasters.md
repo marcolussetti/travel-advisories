@@ -6,16 +6,7 @@
 
 Heavy rainfall across Ecuador has triggered flooding, landslides, and significant damage to roads and infrastructure.
 
-A nationwide state of emergency has been declared, along with regional states of emergency in the following provinces:
-
-* Chimborazo
-* El Oro
-* Esmeraldas
-* Guayas
-* Loja
-* Los Ríos
-* Manabí
-* Santa Elena
+Alerts are in effect in several parts of the country due to the weather conditions.
 
 If you’re in Ecuador:
 
@@ -26,7 +17,7 @@ If you’re in Ecuador:
 
 #### Useful links
 
-* [Ecuador alerts](https://alertasecuador.gob.ec/) – National Secretariat on Risk Management (Spanish only)
+* [Ecuador alerts](https://alertasecuador.gob.ec/lluvia) – National Secretariat on Risk Management (Spanish only)
 * [Road conditions and closures](https://www.ecu911.gob.ec/consulta-de-vias/) – ECU911 (Spanish only)
 
 ### Climate change
