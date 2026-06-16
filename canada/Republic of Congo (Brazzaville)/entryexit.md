@@ -18,7 +18,7 @@ Before you travel, check with your transportation company about passport require
 
 #### Regular Canadian passport
 
-Your passport must be valid for at least 6 months beyond the date you expect to leave the Republic of Congo.
+Your passport must be valid for at least 6 months beyond the date you expect to leave the Republic of the Congo.
 
 #### Passport for official travel
 
@@ -48,6 +48,12 @@ Tourist visa: required
 Business visa: required  
 Student visa: required  
 Transit visa: required
+
+You must obtain a visa from the Embassy of the Republic of the Congo in Ottawa before leaving Canada.
+
+You cannot obtain a visa at ports of entry or at any Embassy of the Republic of the Congo other than the one of your country of residence.
+
+[Foreign Representatives in Canada](https://www.international.gc.ca/protocol-protocole/reps.aspx?lang=eng&_ga=2.49074662.1938189427.1779722379-1499283096.1766155424)
 
 ### Children and travel
 
