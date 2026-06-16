@@ -1,11 +1,11 @@
 {
     "name": "Libya",
-    "update_reason": "There is a heightened risk of regional tension. Escalation could lead to travel disruption and other unanticipated impacts (\u2018Warnings and insurance\u2019 page).",
+    "update_reason": "FCDO now advises against all but essential travel to all areas within the city limits of Tripoli. FCDO continues to advise against all but essential travel to the cities of Benghazi and Misrata ('Warnings and insurance' and 'Regional risks' pages).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Libya/Warnings and insurance.md",
-            "update_date": "2026-01-14T21:24:22+00:00"
+            "update_date": "2026-06-15T10:00:12+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Libya/Getting help.md"
         }
     ],
-    "update_date": "2026-01-14T21:24:22+00:00"
+    "update_date": "2026-06-15T10:00:12+01:00"
 }

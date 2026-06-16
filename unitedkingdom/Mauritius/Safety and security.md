@@ -106,12 +106,8 @@ Cyclones can cause extensive damage to property. During a cyclone you’re not a
 
 Some areas are prone to landslides, especially during cyclones and torrential rains. [Mauritius Meteorological Services](http://metservice.intnet.mu/?page_id=627) has 5-stage landslide warnings. Local authorities may organise evacuations of threatened areas.
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/mauritius/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/mauritius/entry-requirements)
 
-[Next
-:
-Health](/foreign-travel-advice/mauritius/health)
+[Next:Health](/foreign-travel-advice/mauritius/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/mauritius/print)

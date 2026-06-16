@@ -43,16 +43,19 @@ On arrival in Mauritius, you may be asked further questions about your health an
 
 If you travel to Mauritius from a country where malaria is common, border officials may ask you for a blood sample to meet Ministry of Health requirements. If you are not tested at the airport, officials may contact you later during your visit.
 
+## Ebola
+
+ On 15 June, the [Mauritius Ministry of Foreign Affairs](https://foreign.govmu.org/Pages/default.aspx) announced that in response to the Ebola outbreak:
+
+* Non-Mauritian nationals that have travelled from Democratic Republic of Congo, Uganda, or South Sudan within the preceding 21 days and that do not hold a valid work permit, residence permit, occupation permit, business, or student visa are not allowed to enter Mauritius
+* Mauritian nationals, and non-Mauritians holding a valid work permit, residence permit, occupation permit, business visa or student visa who have travelled from, transited through, or been present in Democratic Republic of Congo, Uganda, or South Sudan within the preceding 21 days will be permitted entry but will be subject to a 21-day mandatory quarantine
+
 ## Customs rules
 
 There are strict rules about [goods you can take into or out of Mauritius](https://www.mra.mu/index.php/customs1/import/prohibited-restricted-goods). You must declare anything that may be prohibited or subject to tax or duty.
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/mauritius)
+[Previous:Warnings and insurance](/foreign-travel-advice/mauritius)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/mauritius/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/mauritius/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/mauritius/print)

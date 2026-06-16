@@ -1,11 +1,11 @@
 {
     "name": "Colombia",
-    "update_reason": "Removal of information about Colombian Presidential Elections ('Warnings and insurance' page).",
+    "update_reason": "New information about presidential elections on Sunday 21 June (\u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Colombia/Warnings and insurance.md",
-            "update_date": "2026-06-03T11:27:13+01:00"
+            "update_date": "2026-06-15T12:36:10+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Colombia/Getting help.md"
         }
     ],
-    "update_date": "2026-06-03T11:27:13+01:00"
+    "update_date": "2026-06-15T12:36:10+01:00"
 }
