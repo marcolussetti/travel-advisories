@@ -22,9 +22,9 @@ For more information on visas and passports, please see the Entry Requirements t
 
 Visitors to Niger are advised to follow the guidance of national and local authorities and stay fully informed of what's going on by monitoring local news and social media.
 
-Citizens can also follow the Embassy on social media ( X [**@IrlEmbNigeria**](https://twitter.com/IrlEmbNigeria) and [**Facebook**](https://www.facebook.com/embassyofirelandnigeria/)) to ensure access to relevant updates and alerts.
+Citizens can also follow the [**Irish Embassy in Senegal**](https://www.ireland.ie/en/dfa/overseas-travel/advice/senegal/) on X [**@IrlEmbDakar**](https://x.com/IrlEmbDakar) and [**irlande\_sn**](https://www.instagram.com/irlande_sn/) on Instagram to ensure access to relevant updates and alerts.
 
-Irish citizens in Niger who have not already done so should register their details with the Irish Embassy in Abuja, Nigeria [**here.**](https://www.ireland.ie/en/dfa/overseas-travel/citizens-registration/)
+Irish citizens in Niger who have not already done so should register their details with the Irish Embassy in Dakar, Senegal [**here**](https://www.ireland.ie/en/senegal/dakar/contact/).
 
 ### **Emergency Assistance**
 
@@ -44,4 +44,4 @@ Visitors can contact the emergency services in Niger by dialling 17. Specific em
 * Read our [**‘Know Before You Go’**](https://www.ireland.ie/en/dfa/overseas-travel/know-before-you-go/) guide.
 * Read our [**Consular Assistance Charter**](https://www.ireland.ie/en/dfa/overseas-travel/assistance-abroad/consular-assistance-charter/) that clearly sets out the assistance that can be provided to citizens in difficulty overseas, and the limits of what the Department can do.
 
-As there is no Irish Embassy in Niger we are limited in the help we can offer you in an emergency. However, if you need assistance, you can contact the [**Irish Embassy in Nigeria**](https://www.ireland.ie/en/nigeria/abuja/)**.**
+As there is no Irish Embassy in Niger we are limited in the help we can offer you in an emergency. However, if you need assistance, you can contact the [**Irish Embassy in Senegal**](https://www.ireland.ie/en/senegal/dakar/)**.**

@@ -1,6 +1,6 @@
 ## Embassy contact
 
-As Ireland does not have an Embassy or Consulate in The Gambia, consular assistance is provided via [the Embassy of Ireland in Senegal](/en/senegal/dakar/).
+As Ireland does not have an Embassy or Consulate in Mali, consular assistance is provided via [the Embassy of Ireland in Senegal](/en/senegal/dakar/).
 
 If you require emergency assistance, please contact the Embassy at: [+221 338 205 003](tel:+221338205003)  
 If you require emergency assistance outside of office hours please contact: [+221 77 724 48 37](tel:+221777244837)  

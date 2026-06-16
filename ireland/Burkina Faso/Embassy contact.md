@@ -1,22 +1,21 @@
 ## Embassy contact
 
-As Ireland does not have an Embassy or Consulate in Burkina Faso, consular assistance is provided via the [**Irish Embassy in Nigeria**](https://www.ireland.ie/en/nigeria/abuja/).
+As Ireland does not have an Embassy or Consulate in Burkina Faso, consular assistance is provided via [**the Embassy of Ireland in Senegal**](https://www.ireland.ie/en/senegal/dakar/).
 
-Irish citizens who require urgent assistance while the Embassy is closed can contact the Duty Officer at the Department of Foreign Affairs on +353 1 408 2000.
+If you require emergency assistance, please contact the Embassy at: +221 338 205 003.
 
-The Duty Officer will refer the matter to the nearest Embassy, located in Abuja.
+If you require emergency assistance outside of office hours please contact: +221 77 724 48 37.
 
-Monday to Friday 9am to 4pm
+Alternatively, you may contact the Duty Officer at the Department of Foreign Affairs and Trade in Dublin at +353 1 408 2000. The Duty Officer will refer the matter to the Embassy.
 
-### Embassy of Ireland, Nigeria
+### Embassy of Ireland, Senegal
 
-European Union Crescent   
-Central Business District   
-Abuja   
-Nigeria
+1er Étage, Villa Venus   
+Rue du Portugal   
+Avenue des Ambassadeurs   
+B.P. 281 Dakar   
+Senegal
 
-[Tel: +234 209 462 1080](tel:+234209 462 1080)
+[Tel: +221 338 205 003](tel:+221338 205 003)
 
-Fax: + 234 9 4131805
-
-[**Contact us**](/en/nigeria/abuja/contact/)
+[**Contact us**](/en/senegal/dakar/contact/)

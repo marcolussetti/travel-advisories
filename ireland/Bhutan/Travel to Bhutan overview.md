@@ -16,7 +16,7 @@ It is mandatory to be accompanied by a guide for any journey or any trek beyond 
 
 All visitors must have full, valid travel insurance for the duration of their visit.
 
-Visitors can find more information (in English) on [**entry requirements from the Bhutanese Ministry of Tourism**](http://www.tourism.gov.bt/).
+Visitors can find more information (in English) on [**entry requirements from the Bhutanese Ministry of Tourism**](https://bhutan.travel/).
 
 ### **Emergency Assistance**
 

@@ -6,7 +6,7 @@ Irish citizens require a visa to enter Niger. For further information on how to 
 
 Passports should be valid for at least 6 months from date of entry and have at least 2 blank pages. It is advisable to take a number of photocopies of your passport with you when travelling to Niger and you should carry a photocopy of your passport at all times during your stay.
 
-As there is no Irish Embassy in Niger we are limited in the help we can offer you in an emergency. However, if you need assistance, you can contact the [**Irish Embassy in Nigeria**](https://www.ireland.ie/en/nigeria/abuja/)**.**
+As there is no Irish Embassy in Niger we are limited in the help we can offer you in an emergency. However, if you need assistance, you can contact the [**Irish Embassy in Senegal**](https://www.ireland.ie/en/senegal/dakar/)**.**
 
 What we can do:
 
