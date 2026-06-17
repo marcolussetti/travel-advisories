@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   10 June 2026
+:   17 June 2026
 
 Updated:
-:   9 June 2026
+:   16 June 2026
 
 Latest update:
-:   Updated information about bringing medicines into Georgia and rail travel ('Entry requirements' and 'Safety and security' pages).
+:   Updated information about bringing medicines into Georgia ('Entry requirements' page).
 
 ![](https://assets.publishing.service.gov.uk/media/690481e4823bdda9488b24cf/FCDO_TA_018_-_Georgia_Travel_Advice_Ed4_WEB.jpg)
 

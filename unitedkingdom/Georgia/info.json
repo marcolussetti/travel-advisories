@@ -1,11 +1,11 @@
 {
     "name": "Georgia",
-    "update_reason": "Updated information about bringing medicines into Georgia and rail travel ('Entry requirements' and 'Safety and security' pages).",
+    "update_reason": "Updated information about bringing medicines into Georgia ('Entry requirements' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Georgia/Warnings and insurance.md",
-            "update_date": "2026-06-09T10:23:08+01:00"
+            "update_date": "2026-06-16T14:05:04+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Georgia/Getting help.md"
         }
     ],
-    "update_date": "2026-06-09T10:23:08+01:00"
+    "update_date": "2026-06-16T14:05:04+01:00"
 }
