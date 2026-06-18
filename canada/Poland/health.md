@@ -218,6 +218,23 @@ Make sure you get travel insurance that includes coverage for medical evacuation
 
 [Health and safety outside Canada](https://travel.gc.ca/travelling/health-safety)
 
+### Medication
+
+Some prescription medications may not be available in Poland.
+
+If you take prescription medications, you’re responsible for determining their legality in Poland. If you or your dependents under the age of 18 plan to enter Poland with any medications containing narcotics or psychotropics, you must request permission from the Polish Chief Pharmaceutical Inspectorate before you travel.
+
+Customs officials may ask you to show them your prescription to confirm that you’re entering the country with the correct amount for your stay.
+
+* Bring enough medication for your stay
+* Always keep your medication in the original container and carry a copy of your prescriptions
+* Pack your medication in your carry-on luggage
+
+#### Useful links
+
+* [Travel health and safety](https://travel.gc.ca/travelling/health-safety)
+* [Entering Poland with narcotic and psychotropic substances](https://www.gov.pl/web/chief-pharmaceutical-inspectorate/transport-of-narcotic-and-psychotropic-substances-necessary-for-medical-treatment-when-crossing-the-border-of-the-republic-of-poland)– Chief Pharmaceutical Inspectorate
+
 ### Keep in Mind...
 
 The decision to travel is the sole responsibility of the traveller. The traveller is also responsible for his or her own personal safety.

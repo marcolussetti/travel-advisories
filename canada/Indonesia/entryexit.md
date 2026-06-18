@@ -108,23 +108,13 @@ If you are travelling to Bali, you must pay directly through the levy website.
 
 #### All Indonesia Declaration Form
 
-Indonesia has introduced the All Indonesia Declaration Form, which combines customs and health declarations into a single form. The trial phase has begun at Soekarno-Hatta International Airport, Juanda International Airport and Ngurah Rai International Airport, and runs from August 18 to September 30, 2025. The form will become mandatory on October 1, 2025.
+The All Indonesia Declaration Form is mandatory and you must complete it before you check in for your flight, up to 72 hours before you arrive in Indonesia.
 
-The Health Declaration or SATUSEHAT Health Pass (SSHP) QR codes may still be used to enter Indonesia until they are discontinued on October 1, 2025.
-
-You must complete the form before you check in for your flight to Indonesia. Once you have submitted the SSHP form, you’ll receive a barcode. Save or print out a copy of the barcode for Indonesian authorities to scan upon arrival before September 30, 2025.
-
-Existing QR codes for the Electronic Customs Declaration can be used until they are discontinued on October 1, 2025.
-
-You must complete either the online All Indonesia Declaration Form or both the Electronic Customs Declaration and Health Declaration forms up to 72 hours before you arrive in Indonesia. You can also fill it out at customs at major airports on arrival but you will not be allowed to clear immigration, regardless of the type of visa you have, without completing the form.
+After submitting the All Indonesia Declaration Form, you will receive a QR code by email or on-screen, which you must save and show to immigration and customs officials on arrival.
 
 Customs officials may ask you to show them a return or onward ticket and proof of sufficient funds to cover your stay.
 
-#### Useful links
-
-* [SATUSEHAT Health Pass](https://sshp.kemkes.go.id/) – Ministry of Health of Indonesia
-* [E-customs declaration](https://ecd.beacukai.go.id/) – Government of Indonesia
-* [All Indonesia Declaration Form](http://allindonesia.imigrasi.go.id/) – Government of Indonesia
+[All Indonesia Declaration Form](http://allindonesia.imigrasi.go.id/) – Government of Indonesia
 
 ### Children and travel
 

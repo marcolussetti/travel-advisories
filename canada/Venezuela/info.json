@@ -1,7 +1,7 @@
 {
     "name": "Venezuela",
-    "update_reason": "Natural disasters and climate section \u2013 added information on the hurricane season",
-    "update_date": "2026-06-08T13:58:00",
+    "update_reason": "Safety and security section \u2013 updated information on the heightened security situation",
+    "update_date": "2026-06-17T16:24:00",
     "sections": {
         "risk": "canada/Venezuela/risk.md",
         "security": "canada/Venezuela/security.md",

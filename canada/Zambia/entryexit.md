@@ -55,7 +55,7 @@ To stay in Zambia beyond your authorised period, apply for an extension at a Zam
 
 The KAZA UNIVISA is a shared tourist visa between Zambia and Zimbabwe to simplify cross-border travel between the two countries in the Kavango Zambezi Transfrontier Conservation Areas. It also allows day trips to Botswana. You can apply online through Zambia’s e-service platform or in person at the following locations:
 
-* Kenet Kaunda and Harry Mwanga Nkumbula International Airport
+* Kenneth Kaunda and Harry Mwanga Nkumbula International Airport
 * Victoria Falls and Kazungula land border crossings
 
 [E-services platform](https://eservices.zambiaimmigration.gov.zm/) – Zambia Department of Immigration

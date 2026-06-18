@@ -2,24 +2,9 @@
 
 ## Safety and security
 
-### Contamination of Kafue River
-
-In February 2025, a large volume of contaminated mining wastewater was discharged into the Mwambashi Stream, which flows into the Kafue River.
-
-The spill introduced high levels of pollutants, including chemicals and heavy metals, into the water. This has caused severe environmental damage and poses serious risks to public health.
-
-You should avoid the affected area.
-
-If you must travel to the affected area:
-
-* follow local public health and environmental guidance regarding water safety and food
-* only use water that is known to be safe for drinking, bathing, or cooking. Boiling water doesn’t remove heavy metals
-* don’t eat fish that may have been caught in or passed through the affected area. Check local fish advisories for the latest food safety information
-* talk to your health care provider if you're worried about any symptoms you may have
-
 ### Areas bordering Angola, the Democratic Republic of Congo, Mozambique
 
-Despite Zambia being declared a landmine-free country in 2009, there may still be landmines and unexploded ordinance in areas bordering Angola, Democratic Republic of Congo (DRC) and Mozambique.
+Despite Zambia being declared a landmine-free country in 2009, there may still be landmines and unexploded ordnance in areas bordering Angola, the Democratic Republic of the Congo (DRC) and Mozambique.
 
 If you are travelling to any of these areas:
 
@@ -44,10 +29,10 @@ Theft is common throughout Zambia. Be particularly vigilant in:
 * nightclubs
 * Lusaka and towns in the Copperbelt
 
-During your trip:
+During your stay:
 
 * be aware of your surroundings, especially in busy areas
-* keep your personal belongings, including your passport and other travel document in a secure place
+* keep your personal belongings, including your passport and other travel documents, in a secure place
 * don’t show signs of affluence or wear expensive jewelry
 * don’t carry large sums of cash or valuables unnecessarily
 * avoid walking alone after dark
@@ -64,7 +49,7 @@ Violent crime occurs throughout the country, particularly in Lusaka and Copperbe
 During your stay
 
 * choose accommodations with adequate security measures
-* only use reputable companies for long term accommodations
+* only use reputable companies for long-term accommodations
 * keep doors and windows locked at all times
 * keep valuables out of sight and reach
 * avoid isolated areas
@@ -101,6 +86,21 @@ Zambian law prohibits sexual acts between individuals of the same sex.Those conv
 ### Spiked food and drinks
 
 The use of “date rape drugs” at bars, restaurants and nightclubs occurs in Lusaka. Never leave food or drinks unattended or in the care of strangers. Be wary of accepting snacks, beverages, gum or cigarettes from new acquaintances. These items may contain drugs that could put you at risk of sexual assault and robbery.
+
+### Contamination of the Kafue River
+
+In February 2025, a large volume of contaminated mining wastewater was discharged into the Mwambashi Stream, which flows into the Kafue River.
+
+The spill introduced high levels of pollutants, including chemicals and heavy metals, into the water. This has caused severe environmental damage and poses serious risks to public health.
+
+You should avoid the affected area.
+
+If you must travel to the affected area:
+
+* follow local public health and environmental guidance regarding water safety and food
+* only use water that is known to be safe for drinking, bathing, or cooking. Boiling water doesn’t remove heavy metals
+* don’t eat fish that may have been caught in or passed through the affected area. Check local fish advisories for the latest food safety information
+* talk to your health care provider if you're worried about any symptoms you may have
 
 ### Roads
 
@@ -150,7 +150,7 @@ If you decide to visit parks and reserves:
 
 * only use reputable and professional guides or tour operators
 * follow the advice and warnings of local tour guides and camp employees
-* avoid swimming in lakes and rivers due to the presence of dangerous animals or health risks (schistosomiasis LINK to the schistosomiasis section in the health tab)
+* avoid swimming in lakes and rivers due to the presence of dangerous animals or health risks, especially schistosomiasis
 * do not walk around at night
 * never leave children unattended
 
@@ -164,7 +164,7 @@ Wild animals can be dangerous, particularly if you are on foot or at close range
 
 ### Water shortages and power outages
 
-Water shortages and power outages occur regularly in Zambia and are worsened by severe droughts that have become more frequent in recent years. The droughts have significantly reduced water levels affecting the country’s hydroelectric production, leading to nationwide water rationing measures and power outages.
+Water shortages and power outages occur regularly in Zambia and are worsened by severe droughts that have become more frequent in recent years. The droughts have significantly reduced water levels, affecting the country’s hydroelectric production, leading to nationwide water rationing measures and power outages.
 
 Power outages can affect the following services and businesses:
 
@@ -234,7 +234,7 @@ Intercity buses operated by reputable companies are usually safer.
 
 #### Taxis and ridesharing services
 
-Taxis availability may be limited outside city centers. Fares are expensive and should be paid in local currency.
+Taxi availability may be limited outside city centers. Fares are expensive and should be paid in local currency.
 
 * Use only licensed taxis selected by a reputable hotel or restaurant, or from an official taxi stand
 * Never share a taxi with strangers

@@ -1,7 +1,7 @@
 {
     "name": "Czechia",
-    "update_reason": "Entry and exit requirements section \u2013 added information on possible measures in response to Ebola disease outbreak",
-    "update_date": "2026-05-26T12:50:00",
+    "update_reason": "Health \u2013 Outbreak monitoring alert for hepatitis A in Czechia removed",
+    "update_date": "2026-06-16T10:08:00",
     "sections": {
         "risk": "canada/Czechia/risk.md",
         "security": "canada/Czechia/security.md",

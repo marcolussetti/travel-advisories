@@ -18,7 +18,7 @@ Before you travel, check with your transportation company about passport require
 
 #### Regular Canadian passport
 
-Your passport must be valid for at least 6 months after the date you enter Madagascar.
+Your passport must be valid for at least 6 months after the date you enter Madagascar and must contain at least 2 empty pages.
 
 #### Passport for official travel
 
@@ -48,9 +48,9 @@ Tourist visa: required for stays longer than 15 days up to 90 days
  Business visa: required for stays up to 90 days  
  Student visa: required
 
-You can obtain a 30 or 60 day tourist visa upon arrival at the Antananarivo airport. Airport visa processing times can be lengthy, and you must present:
+You can obtain a 30- or 60-day tourist visa upon arrival at the Antananarivo airport. Airport visa processing times can be lengthy, and you must present:
 
-* your passport with two blank pages
+* your passport with at least two blank pages
 * a return ticket
 * payment in cash, in USD, euro or Malagasy ariary
 

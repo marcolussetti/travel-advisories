@@ -54,6 +54,10 @@ If you engage in adventure tourism:
 * inform a family member or friend of your itinerary
 * obtain detailed information on each activity before setting out
 
+### Stray dogs
+
+Don’t approach or feed stray dogs, which can become aggressive and attack you.
+
 ### Road safety
 
 Road conditions and road safety can vary greatly throughout the country.

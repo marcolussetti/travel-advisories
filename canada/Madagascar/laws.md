@@ -12,7 +12,7 @@ Penalties for possession, use or trafficking of illegal drugs are severe. Convic
 
 [Drugs, alcohol and travel](https://travel.gc.ca/travelling/health-safety/drugs)
 
-### Dress and behavior
+### Dress and behaviour
 
 To avoid offending local sensitivities:
 
@@ -25,7 +25,7 @@ To avoid offending local sensitivities:
 
 #### Camouflage clothing
 
-It is an offence for civilians to dress in camouflage or other military-style clothing. Wearing military-style clothing can lead to detention and fines.
+It is an offence for civilians to wear camouflage or other military-style clothing. Wearing military-style clothing can lead to detention and fines.
 
 ### Child sex tourism
 
@@ -62,7 +62,7 @@ Photography of military and government installations is prohibited.
 
 ### Identification
 
-You must carry your passport on you at all times. If you are stopped by police, they will not accept certified copies.
+You must carry your passport with you at all times. If you are stopped by police, they will not accept certified copies.
 
 ### 2SLGBTQI+ persons
 
@@ -119,7 +119,7 @@ An accident causing injury or death leads to a mandatory court case. The losing 
 
 The currency is the Malagasy ariary (MGA).
 
-Euros are widely accepted. United States dollars are sometimes accepted in Antananarivo, major cities and tourist areas.
+Euros are widely accepted. United States dollars are sometimes accepted in Antananarivo, major cities, and tourist areas.
 
 Madagascar has a cash-based economy. You can make cash withdrawals from a limited number of ATMs in Antananarivo.
 

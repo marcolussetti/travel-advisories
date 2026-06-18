@@ -16,7 +16,7 @@ Penalties for possession, use or trafficking of illegal drugs are severe. Convic
 
 Local authorities may request to see your identification at any time.
 
-* Always carry a valid identification or certified photocopy of it
+* Always carry a valid ID or certified photocopy of it
 * Keep a digital copy of your ID and travel documents
 
 Certified copies may be obtained from the immigration offices or local police station.
@@ -34,7 +34,7 @@ To avoid offending local sensitivities:
 
 Dual citizenship is legally recognized in Zambia. However, if local authorities consider you a citizen of Zambia, they may refuse to grant you access to Canadian consular services, which would limit our ability to assist you.
 
-Using your valid Canadian passport and presenting yourself as Canadian to foreign authorities at all times minimize this risk. You may however need to carry and present a Zambian passport for legal reasons, for example to enter and exit the country. Citizenship is determined solely by national laws, and the decision to recognize dual citizenship rests completely with the country in which you are located when seeking consular assistance.
+Using your valid Canadian passport and presenting yourself as Canadian to foreign authorities at all times minimizes this risk. You may, however, need to carry and present a Zambian passport for legal reasons, for example to enter and exit the country. Citizenship is determined solely by national laws, and the decision to recognize dual citizenship rests completely with the country in which you are located when seeking consular assistance.
 
 [Dual citizens](https://travel.gc.ca/travelling/documents/dual-citizenship)
 
@@ -90,7 +90,7 @@ Photography of sensitive installations is prohibited. This includes:
 
 Always ask permission before photographing individuals or official buildings.
 
-To fly drones in Zambia, you must obtain necessary authorizations from the Zambian Civil Aviation Authority
+To fly drones in Zambia, you must obtain the necessary authorizations from the Zambian Civil Aviation Authority
 
 [Zambian Civil Aviation Authority](https://www.caa.co.zm/) – Government of Zambia
 
@@ -106,6 +106,6 @@ Penalties for drunk driving are severe.
 
 ### Money
 
-The currency is the Zambian kwacha (ZMW). You can exchange US dollars, British pounds or South African rands at any exchange bureau.
+The currency is the Zambian kwacha (ZMW). You can exchange US dollars, British pounds, or South African rands at any exchange bureau.
 
 Major credit and debit cards are accepted in larger supermarkets, restaurants, stores and hotels in large urban centres. ATMs are available in main cities. You should carry local currency when travelling to rural locations.

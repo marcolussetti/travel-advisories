@@ -11,9 +11,12 @@ If you are in Colombia, you should:
 * exercise increased vigilance
 * follow the advice of local authorities
 
-Ahead of the elections, Colombian authorities may implement restrictions aimed at preserving public order. These restrictions may include the prohibition of alcohol sales and the the closure of land and river border crossings.
+Ahead of the elections, Colombian authorities will enforce restrictions aimed at preserving public order. These restrictions include:
 
-Monitor local media for the latest information.
+* the prohibition of alcohol sales (dry law) in Bogotá from 12 am on June 19 to 12 pm on June 22
+* the closure of land and river border crossings from 6 pm on June 20 to 6 am on June 22
+
+Local authorities may extend these restrictions. Monitor local media for the latest information.
 
 ### Land border crossings with Ecuador
 
