@@ -2,13 +2,15 @@
 
 ### **Crime**
 
-There are high levels of serious crime in Peru so be vigilant about personal safety and always take sensible precautions.
+There are high levels of serious crime in Peru so be vigilant about personal safety and always take sensible precautions. Be aware of your surroundings at all times, travel in groups where possible, and avoid travelling alone after dark.
 
 ### **Violent Crime**
 
-Violent crime, including sexual assault, armed robbery, muggings and car-jackings, is a problem, particularly in the cities of Lima, Cusco and Arequipa.
+Violent crime, including sexual assault, armed robbery, muggings and car-jackings, is a problem, particularly in the cities of Lima, Cusco and Arequipa, and tourists have been targeted. Be aware of your surroundings and avoid wearing expensive jewellery or items that may attract attention.
 
-There have been a number of recent cases of sexual assault against female travellers including in the areas of Cusco and Arequipa. Female travellers should take particular care should be taken at bus terminals and when taking taxis. Isolated areas should be avoided, particularly after dark. Always buy your own drinks and keep them in sight at all times to make sure they cannot be spiked by date rape or other drugs.
+There have been a number of recent cases of sexual assault against female travellers including in the areas of Cusco and Arequipa. Some tour agents have been implicated in attacks against lone female travellers, in the Cusco area and in tours on the Inca Trail. Hiking in these areas should be carried out in groups.
+
+Female travellers should take particular care at bus terminals and when taking taxis. Isolated areas should be avoided, particularly after dark. Always buy your own drinks and keep them in sight at all times to make sure they cannot be spiked by date rape or other drugs.
 
 ### **Demonstrations and Unrest**
 
@@ -28,7 +30,7 @@ If travelling overland to Ecuador or in the region of the Peru-Ecuador border, e
 
 ### **Terrorism**
 
-There is a global risk of indiscriminate terrorist attacks in Peru, which could be against civilian targets, including places frequented by foreigners.
+There is a risk of indiscriminate terrorist attacks in Peru, which could be against civilian targets, including places frequented by foreigners.
 
 There are also ongoing concerns about a possible resurgence of terrorist activity by subversive groups, including remnants of the Shining Path. Isolated terrorist incidents have taken place in remote areas and cities in the departments of Puno, Piura, Lambayeque, La Libertad, Junín, Ayacucho, Cusco, Ucayali, San Martín, Huanuco, Huancavelica and Apurímac. These were mostly robberies, temporary takeovers of small villages and, very occasionally, violence (including bombings) or threats of violence against security forces or local community figures. Overland travel in these regions can be dangerous.
 
@@ -36,7 +38,7 @@ There are also ongoing concerns about a possible resurgence of terrorist activit
 
 There have been increased reports of serious crimes, including robbery, assault and rape, against travellers using unlicensed taxi operators, particularly in Lima and Cusco. Travellers are often approached by thieves masquerading as taxi drivers or tour operators.
 
-If arriving at Lima's international airport, we advise visitors to arrange transport at taxi counters within the international terminal or to book transport in advance through your hotel. Bogus taxi drivers and thieves pretending to be tour operators sometimes approach arriving passengers. Visitors should also get help from staff at hotels, hostels, restaurants or places of entertainment to book a licensed taxi or tour.
+If arriving at Lima's international airport, we advise visitors to arrange transport at taxi counters within the international terminal use application based taxi services, or to book transport in advance through your hotel. Bogus taxi drivers and thieves pretending to be tour operators sometimes approach arriving passengers. Visitors should also get help from staff at hotels, hostels, restaurants or places of entertainment to book a licensed taxi or tour.
 
 ### **Buses**
 

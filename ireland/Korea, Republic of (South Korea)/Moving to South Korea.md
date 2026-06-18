@@ -16,7 +16,7 @@ On Thursday 1 January, 2009 an agreement between Ireland and the Republic of Kor
 
 It also allows a person to retain cover under their home country's legislation if they are sent to work temporarily for the same employer or a subsidiary company in the other country for a period of up to 5 years.
 
-Please see the [**information leaflet**](http://www.welfare.ie/en/Pages/sw125.aspx) for additional information. The relevant agency in Republic of Korea is the [**National Pension Service**](http://english.nps.or.kr/jsppage/english/main.jsp) and in Ireland it is the [**Department of Social Protection**](http://www.welfare.ie/en/Pages/home.aspx).
+Please see the [**details of the agreement**](https://www.gov.ie/en/irish-treaty-series/treaty-series/agreement-on-social-security-between-the-government-of-ireland-and-the-government-of-the-republic-of-korea-done-at-dublin-on-31-october-2007/)for additional information. The relevant agency in Republic of Korea is the [**National Pension Service**](https://www.nps.or.kr/eng/soclsecuagre/ctrtcny/getOHAI0025M0.do?menuId=MN24001373) and in Ireland it is the [**Department of Social Protection**](https://www.gov.ie/en/department-of-social-protection/).
 
 ### **Double Taxation Agreement between Ireland and RoK**
 
@@ -50,8 +50,7 @@ It may be helpful to meet with other Irish citizens who are part of a local orga
 
 ### **Study in Korea:**
 
-* [**Ministry of Education**](http://english.moe.go.kr/main.do?s=english)
-* [**National Institute for International Education**](http://www.niied.go.kr/eng/main.do)
+* [**Ministry of Education - National Institute for International Education**](https://www.niied.go.kr/web/niied/niiedEng/main)
 
 ### **Work and Live in Korea:**
 
@@ -60,7 +59,7 @@ It may be helpful to meet with other Irish citizens who are part of a local orga
 * [**Working Holiday Info Centre**](https://whic.mofa.go.kr/eng/)
 * [**Korea Immigration Service**](https://www.immigration.go.kr/immigration_eng/index.do)
 * [**Ministry of Employment and Labour**](https://www.moel.go.kr/english/)
-* [**National Pension Service**](https://www.nps.or.kr/jsppage/english/main.jsp)
+* [**National Pension Service**](https://www.nps.or.kr/eng/main.do)
 * [**National Tax Service**](https://www.nts.go.kr/english/main.do)
 * [**Seoul Foreigner Portal**](https://global.seoul.go.kr/web/main.do?lang=en)
 

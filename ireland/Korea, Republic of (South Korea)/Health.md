@@ -10,7 +10,7 @@ There are international clinics at the major hospitals and specialist medical an
 
 A doctor’s strike is ongoing in South Korea since February 2024, which has caused delays and postponements to surgeries and medical appointments, including at international clinics.
 
-Please find a list of [**emergency medical facilities**](http://eng.safekorea.go.kr/facility/selectFacilityInfoList.do?fcltsSe=F02) throughout Korea, and a list of [**hospitals**](https://global.seoul.go.kr/web/news/senw/bordContDetail.do?brd_no=5&lang=en&mode=W&post_no=12520763DD86019EE063C0A8A023A077) in the Seoul Metropolitan area.
+Please find a list of [**emergency medical facilities**](https://eng.safekorea.go.kr/safekorea-eng/main/main.do) throughout Korea, and a list of [**hospitals**](https://global.seoul.go.kr/web/news/senw/bordContDetail.do?brd_no=5&lang=en&mode=W&post_no=12520763DD86019EE063C0A8A023A077) in the Seoul Metropolitan area.
 
 If visitors have an emergency and require an ambulance, please dial 119.
 
