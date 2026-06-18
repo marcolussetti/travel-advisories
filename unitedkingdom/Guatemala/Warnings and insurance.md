@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   10 June 2026
+:   18 June 2026
 
 Updated:
-:   9 June 2026
+:   17 June 2026
 
 Latest update:
-:   Addition of information about Tropical Storm Cristina ('Warnings and insurance' page).
+:   Removal of information about Tropical Storm Cristina.
 
 ![](https://assets.publishing.service.gov.uk/media/65fac0c89316f5001d64c3c0/FCDO__TA__095_-_Guatemala_Travel_Advice_Ed1__WEB_.jpg)
 
@@ -24,12 +24,6 @@ FCDO advises against all but essential travel to:
 * to the towns of Santa Ana Huista, San Antonio Huista and La Democracia in the department of Huehuetenango
 
 Find out more about [why FCDO advises against travel to these areas](https://www.gov.uk/foreign-travel-advice/guatemala/regional-risks).
-
-## Tropical Storm Cristina
-
-Tropical Storm Cristina is forecast to move along the Pacific coastline of Guatemala over the next few days. This is likely to lead to heavy rainfall, which could cause life threatening flash floods and landslides.
-
-Follow and monitor local and international weather updates from the [US National Hurricane Center](https://www.nhc.noaa.gov/) and follow the advice of local authorities. See [Extreme weather and natural disasters](https://www.gov.uk/guidance/extreme-weather-and-natural-hazards).
 
 ## State of Prevention
 

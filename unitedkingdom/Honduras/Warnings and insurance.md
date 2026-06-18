@@ -1,19 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   10 June 2026
+:   18 June 2026
 
 Updated:
-:   9 June 2026
+:   17 June 2026
 
 Latest update:
-:   Addition of information about Tropical Storm Cristina ('Warnings and insurance' page).
-
-## Tropical Storm Cristina
-
-Tropical Storm Cristina is forecast to move along the Pacific coastline of Honduras over the next few days. This is likely to lead to heavy rainfall, which could cause life threatening flash floods and landslides.
-
-Follow and monitor local and international weather updates from the [US National Hurricane Center](https://www.nhc.noaa.gov/) and follow the advice of local authorities. See [Extreme weather and natural disasters](https://www.gov.uk/guidance/extreme-weather-and-natural-hazards).
+:   Removal of information about Tropical Storm Cristina.
 
 ## Before you travel
 

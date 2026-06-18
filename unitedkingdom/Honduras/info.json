@@ -1,11 +1,11 @@
 {
     "name": "Honduras",
-    "update_reason": "Addition of information about Tropical Storm Cristina ('Warnings and insurance' page).",
+    "update_reason": "Removal of information about Tropical Storm Cristina.",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Honduras/Warnings and insurance.md",
-            "update_date": "2026-06-09T16:23:53+01:00"
+            "update_date": "2026-06-17T14:04:18+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Honduras/Getting help.md"
         }
     ],
-    "update_date": "2026-06-09T16:23:53+01:00"
+    "update_date": "2026-06-17T14:04:18+01:00"
 }

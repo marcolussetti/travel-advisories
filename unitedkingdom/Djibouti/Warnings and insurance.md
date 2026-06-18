@@ -1,7 +1,7 @@
 # Warnings and insurance
 
 Still current at:
-:   17 June 2026
+:   18 June 2026
 
 Updated:
 :   17 June 2026

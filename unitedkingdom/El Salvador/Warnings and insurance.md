@@ -1,19 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   10 June 2026
+:   18 June 2026
 
 Updated:
-:   9 June 2026
+:   17 June 2026
 
 Latest update:
-:   Addition of information about Tropical Storm Cristina ('Warnings and insurance' page).
-
-## Tropical Storm Cristina
-
-El Salvador is under a national Orange Alert due to the immediate threat of heavy rainfall, flash floods, and landslides from Tropical Storm Cristina, due to make landfall along the coast of El Salvador within the next 24 hours.
-
-Follow and monitor local and international weather updates from the [US National Hurricane Center](https://www.nhc.noaa.gov/) and follow the advice of local authorities. See [Extreme weather and natural disasters](https://www.gov.uk/guidance/extreme-weather-and-natural-hazards).
+:   Removal of information about Tropical Storm Cristina.
 
 ## Before you travel
 
