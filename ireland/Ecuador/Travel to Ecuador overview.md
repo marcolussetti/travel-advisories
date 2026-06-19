@@ -19,6 +19,32 @@ Owing to civil unrest, violent crime, and kidnapping, the security status of ‘
 * **Minefields** near the southern portion of the border with Peru, in particular Chinchipe, El Pangui, Nangaritza, and Yantzaza;
 * **Esmeraldas**, **El Oro**, **Guayas**, and **Los Ríos** provinces.
 
+### **State of Emergency**
+
+A state of emergency was renewed on 16 June 2026 for 60 days owing to ongoing internal unrest and armed violence. The current state of emergency applies to the following provinces:
+
+* Pinchincha (Quito is the capital of this province)
+* Guayas (Guayaquil is in this province)
+* El Oro
+* Manabí
+* Los Ríos
+* Santa Elena
+* Santo Domingo
+* Esmeraldas
+* Sucumbíos
+* Azuay
+* La Troncal in the province of Cañar
+* Echeandía and Las Naves in the province of Bolívar
+* Cotopaxi in the province of La Maná
+
+The state of emergency allows the military and police to:
+
+* seize assets
+* conduct inspections;
+* prohibit assembly;
+* read private mail and phone records;
+* enter private properties without permission.
+
 The Embassy advises all Irish citizens in Ecuador to be particularly attentive to news and safety recommendations from the Ecuadorian authorities.
 
 If an Irish citizen decides to travel to Ecuador at this time, via a land border from Peru or Colombia, **contrary to this travel advice**, they must present a criminal record certificate from their country of residence covering the last five years. The certificate must be legalised with a Hague Apostille. This does not apply to children and adolescents under 18.

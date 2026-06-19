@@ -6,6 +6,8 @@ High Degree of Caution
 
 ### **General Travel Advice**
 
+**Irish citizens require a passport book with minimum 150 days’ validity to enter Türkiye (Turkey). Passport cards are not accepted in Türkiye.**
+
 Irish citizens in Türkiye or those who intend to travel to Türkiye are to **exercise a high degree of caution** at all times.
 
 Visitors are advised to follow the guidance of national and local authorities; stay fully informed of what is going on by monitoring local news and social media; and devise and/or review a personal security plan. See the Safety and Security tab for further information.

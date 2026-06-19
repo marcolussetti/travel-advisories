@@ -10,4 +10,4 @@ In Samoa, strong winds can be expected from the beginning of November to the en
 
 The climate is tropical. The rainy season extends from November to April and the hot and dry seasons occurs from May to October
 
-You are advised to monitor local and international weather updates from [**World Meteorological Organisation (WMO)**](http://severe.worldweather.org/), the [**Samoa Meteorology Division website**](http://www.samet.gov.ws/) or the [**Fiji Meteorological Service website**](http://www.met.gov.fj/).
+You are advised to monitor local and international weather updates from [**World Meteorological Organisation (WMO)**](http://severe.worldweather.org/), the [**Samoa Meteorology Division website**](https://www.mnre.gov.ws/?page_id=262) or the [**Fiji Meteorological Service website**](http://www.met.gov.fj/).
