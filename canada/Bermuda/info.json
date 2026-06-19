@@ -1,7 +1,7 @@
 {
     "name": "Bermuda",
-    "update_reason": "The Health section was updated - travel health information (Public Health Agency of Canada)",
-    "update_date": "2026-06-12T16:46:00",
+    "update_reason": "Editorial change",
+    "update_date": "2026-06-18T11:19:00",
     "sections": {
         "risk": "canada/Bermuda/risk.md",
         "security": "canada/Bermuda/security.md",

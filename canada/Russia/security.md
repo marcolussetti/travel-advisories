@@ -255,7 +255,20 @@ Same sex marriage is not recognized in Russia. Homosexuality isn’t socially ac
 
 ### Telecommunications
 
-If you travel to Russia with a foreign SIM card, you will not be able to access mobile internet, SMS or other services for 24 hours after your arrival. Buying a local-network SIM card in Russia can be difficult for visitors and could take several days to complete. Local authorities maintain control over telecommunications networks and may restrict or suspend access to mobile and internet services during periods of heightened security or major public events.
+### Telecommunications
+
+If you travel to Russia with a foreign SIM card, you will not be able to access mobile internet, SMS or other services for at least 24 hours after your arrival. You could be without access to telecommunications for the duration of your stay.
+
+Buying a local-network SIM card in Russia is difficult for visitors and could take several days to complete. Upon your arrival in Russia, you can buy a SIM card at any local telecommunications stores. You will need to:
+
+* bring your original passport along with a translated and notarized version
+* visit a bank or a Multifunctional Center (MFC) to apply for a Russian Insurance Number of an Individual (Personal Account) (SNILS)
+* create a profile on the Russian State Services website (Gosuslugi)
+* submit your biometric data to a local financial centre, usually a bank
+
+Contact your mobile communications provider in Russia for more information.
+
+Local authorities maintain control over telecommunications networks and may restrict or suspend access to mobile and internet services at any time and without notice.
 
 ### Roads
 

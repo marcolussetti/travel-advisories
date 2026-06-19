@@ -38,7 +38,7 @@
     {
         "destination": "Anguilla",
         "risk_level": "Take normal security precautions",
-        "last_updated": "2026-06-13T17:06:55",
+        "last_updated": "2026-06-18T11:58:13",
         "details_url": "https://travel.gc.ca/destinations/anguilla"
     },
     {
@@ -50,7 +50,7 @@
     {
         "destination": "Antigua and Barbuda",
         "risk_level": "Take normal security precautions",
-        "last_updated": "2026-06-12T16:45:04",
+        "last_updated": "2026-06-18T11:59:58",
         "details_url": "https://travel.gc.ca/destinations/antigua-and-barbuda"
     },
     {
@@ -98,7 +98,7 @@
     {
         "destination": "Bahamas",
         "risk_level": "Exercise a high degree of caution",
-        "last_updated": "2026-05-26T12:50:42",
+        "last_updated": "2026-06-18T11:19:48",
         "details_url": "https://travel.gc.ca/destinations/bahamas"
     },
     {
@@ -116,7 +116,7 @@
     {
         "destination": "Barbados",
         "risk_level": "Take normal security precautions",
-        "last_updated": "2026-05-26T12:50:42",
+        "last_updated": "2026-06-18T12:02:56",
         "details_url": "https://travel.gc.ca/destinations/barbados"
     },
     {
@@ -146,7 +146,7 @@
     {
         "destination": "Bermuda",
         "risk_level": "Take normal security precautions",
-        "last_updated": "2026-06-12T16:46:15",
+        "last_updated": "2026-06-18T11:19:48",
         "details_url": "https://travel.gc.ca/destinations/bermuda"
     },
     {
@@ -182,13 +182,13 @@
     {
         "destination": "Brazil",
         "risk_level": "Exercise a high degree of caution (with regional advisories)",
-        "last_updated": "2026-06-04T14:04:54",
+        "last_updated": "2026-06-18T16:35:29",
         "details_url": "https://travel.gc.ca/destinations/brazil"
     },
     {
         "destination": "British Virgin Islands",
         "risk_level": "Take normal security precautions",
-        "last_updated": "2026-05-26T12:50:42",
+        "last_updated": "2026-06-18T11:51:42",
         "details_url": "https://travel.gc.ca/destinations/british-virgin-islands"
     },
     {
@@ -242,7 +242,7 @@
     {
         "destination": "Cayman Islands",
         "risk_level": "Take normal security precautions",
-        "last_updated": "2026-05-26T12:50:42",
+        "last_updated": "2026-06-18T11:19:48",
         "details_url": "https://travel.gc.ca/destinations/cayman-islands"
     },
     {
@@ -266,13 +266,13 @@
     {
         "destination": "China",
         "risk_level": "Exercise a high degree of caution",
-        "last_updated": "2026-05-26T12:50:42",
+        "last_updated": "2026-06-18T10:35:03",
         "details_url": "https://travel.gc.ca/destinations/china"
     },
     {
         "destination": "Colombia",
         "risk_level": "Exercise a high degree of caution (with regional advisories)",
-        "last_updated": "2026-06-17T13:50:03",
+        "last_updated": "2026-06-18T15:50:40",
         "details_url": "https://travel.gc.ca/destinations/colombia"
     },
     {
@@ -290,7 +290,7 @@
     {
         "destination": "Costa Rica",
         "risk_level": "Exercise a high degree of caution",
-        "last_updated": "2026-06-17T08:50:36",
+        "last_updated": "2026-06-18T10:36:45",
         "details_url": "https://travel.gc.ca/destinations/costa-rica"
     },
     {
@@ -350,7 +350,7 @@
     {
         "destination": "Dominica",
         "risk_level": "Take normal security precautions",
-        "last_updated": "2026-05-26T12:50:42",
+        "last_updated": "2026-06-18T12:14:25",
         "details_url": "https://travel.gc.ca/destinations/dominica"
     },
     {
@@ -362,7 +362,7 @@
     {
         "destination": "Ecuador",
         "risk_level": "Exercise a high degree of caution (with regional advisories)",
-        "last_updated": "2026-06-11T15:38:10",
+        "last_updated": "2026-06-18T16:40:37",
         "details_url": "https://travel.gc.ca/destinations/ecuador"
     },
     {
@@ -494,7 +494,7 @@
     {
         "destination": "Grenada",
         "risk_level": "Take normal security precautions",
-        "last_updated": "2026-05-26T12:50:42",
+        "last_updated": "2026-06-18T12:20:42",
         "details_url": "https://travel.gc.ca/destinations/grenada"
     },
     {
@@ -506,7 +506,7 @@
     {
         "destination": "Guam",
         "risk_level": "Take normal security precautions",
-        "last_updated": "2026-06-08T14:10:07",
+        "last_updated": "2026-06-18T11:19:48",
         "details_url": "https://travel.gc.ca/destinations/guam"
     },
     {
@@ -530,7 +530,7 @@
     {
         "destination": "Guyana",
         "risk_level": "Exercise a high degree of caution",
-        "last_updated": "2026-05-28T11:58:34",
+        "last_updated": "2026-06-18T11:19:48",
         "details_url": "https://travel.gc.ca/destinations/guyana"
     },
     {
@@ -608,7 +608,7 @@
     {
         "destination": "Jamaica",
         "risk_level": "Exercise a high degree of caution",
-        "last_updated": "2026-05-26T12:50:42",
+        "last_updated": "2026-06-18T11:19:48",
         "details_url": "https://travel.gc.ca/destinations/jamaica"
     },
     {
@@ -788,7 +788,7 @@
     {
         "destination": "Mexico",
         "risk_level": "Exercise a high degree of caution (with regional advisories)",
-        "last_updated": "2026-06-17T14:58:40",
+        "last_updated": "2026-06-18T10:37:57",
         "details_url": "https://travel.gc.ca/destinations/mexico"
     },
     {
@@ -824,7 +824,7 @@
     {
         "destination": "Montserrat",
         "risk_level": "Take normal security precautions",
-        "last_updated": "2026-05-26T12:50:42",
+        "last_updated": "2026-06-18T11:19:48",
         "details_url": "https://travel.gc.ca/destinations/montserrat"
     },
     {
@@ -920,7 +920,7 @@
     {
         "destination": "Northern Marianas",
         "risk_level": "Take normal security precautions",
-        "last_updated": "2026-06-08T14:12:06",
+        "last_updated": "2026-06-18T11:19:48",
         "details_url": "https://travel.gc.ca/destinations/northern-marianas"
     },
     {
@@ -950,7 +950,7 @@
     {
         "destination": "Panama",
         "risk_level": "Take normal security precautions (with regional advisories)",
-        "last_updated": "2026-06-15T13:43:11",
+        "last_updated": "2026-06-18T15:42:44",
         "details_url": "https://travel.gc.ca/destinations/panama"
     },
     {
@@ -968,7 +968,7 @@
     {
         "destination": "Peru",
         "risk_level": "Exercise a high degree of caution (with regional advisories)",
-        "last_updated": "2026-06-02T09:21:24",
+        "last_updated": "2026-06-18T16:47:17",
         "details_url": "https://travel.gc.ca/destinations/peru"
     },
     {
@@ -992,7 +992,7 @@
     {
         "destination": "Puerto Rico",
         "risk_level": "Take normal security precautions",
-        "last_updated": "2026-05-26T13:54:07",
+        "last_updated": "2026-06-18T11:19:48",
         "details_url": "https://travel.gc.ca/destinations/puerto-rico"
     },
     {
@@ -1016,7 +1016,7 @@
     {
         "destination": "Russia",
         "risk_level": "Avoid all travel",
-        "last_updated": "2026-05-26T12:50:42",
+        "last_updated": "2026-06-18T17:01:04",
         "details_url": "https://travel.gc.ca/destinations/russia"
     },
     {
@@ -1034,13 +1034,13 @@
     {
         "destination": "Saint Kitts and Nevis",
         "risk_level": "Take normal security precautions",
-        "last_updated": "2026-05-26T12:50:42",
+        "last_updated": "2026-06-18T11:19:48",
         "details_url": "https://travel.gc.ca/destinations/saint-kitts-and-nevis"
     },
     {
         "destination": "Saint Lucia",
         "risk_level": "Take normal security precautions",
-        "last_updated": "2026-06-11T15:22:26",
+        "last_updated": "2026-06-18T12:05:50",
         "details_url": "https://travel.gc.ca/destinations/saint-lucia"
     },
     {
@@ -1052,7 +1052,7 @@
     {
         "destination": "Saint Vincent & the Grenadines",
         "risk_level": "Take normal security precautions",
-        "last_updated": "2026-05-26T12:50:42",
+        "last_updated": "2026-06-18T11:19:48",
         "details_url": "https://travel.gc.ca/destinations/saint-vincent-the-grenadines"
     },
     {
@@ -1124,7 +1124,7 @@
     {
         "destination": "Sint Maarten",
         "risk_level": "Take normal security precautions",
-        "last_updated": "2026-05-26T12:50:42",
+        "last_updated": "2026-06-18T12:08:32",
         "details_url": "https://travel.gc.ca/destinations/sint-maarten"
     },
     {
@@ -1190,7 +1190,7 @@
     {
         "destination": "Suriname",
         "risk_level": "Take normal security precautions",
-        "last_updated": "2026-05-26T12:50:42",
+        "last_updated": "2026-06-18T11:19:48",
         "details_url": "https://travel.gc.ca/destinations/suriname"
     },
     {
@@ -1280,7 +1280,7 @@
     {
         "destination": "Turks and Caicos Islands",
         "risk_level": "Exercise a high degree of caution",
-        "last_updated": "2026-06-12T15:54:59",
+        "last_updated": "2026-06-18T11:19:48",
         "details_url": "https://travel.gc.ca/destinations/turks-and-caicos-islands"
     },
     {
@@ -1322,7 +1322,7 @@
     {
         "destination": "United States",
         "risk_level": "Take normal security precautions",
-        "last_updated": "2026-06-02T07:51:48",
+        "last_updated": "2026-06-18T11:19:48",
         "details_url": "https://travel.gc.ca/destinations/united-states"
     },
     {
@@ -1346,7 +1346,7 @@
     {
         "destination": "Venezuela",
         "risk_level": "Avoid all travel",
-        "last_updated": "2026-06-17T16:24:31",
+        "last_updated": "2026-06-18T16:30:53",
         "details_url": "https://travel.gc.ca/destinations/venezuela"
     },
     {
@@ -1358,7 +1358,7 @@
     {
         "destination": "Virgin Islands (U.S.)",
         "risk_level": "Take normal security precautions",
-        "last_updated": "2026-05-26T14:07:04",
+        "last_updated": "2026-06-18T11:19:48",
         "details_url": "https://travel.gc.ca/destinations/virgin-islands-u-s"
     },
     {

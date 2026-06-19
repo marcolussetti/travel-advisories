@@ -4,6 +4,10 @@
 
 ### Border areas
 
+### Border crossing with Colombia
+
+The land border crossing to Colombia from Brazil will be closed from 6 pm on June 20, 2026, until 6 am on June 22, 2026, due to presidential elections in Colombia.
+
 Criminal activity related to drug trafficking and arms smuggling poses a threat to your personal security.
 
 If you choose to travel near border areas

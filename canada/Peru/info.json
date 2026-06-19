@@ -1,7 +1,7 @@
 {
     "name": "Peru",
-    "update_reason": "Safety and security section \u2013 removed information on the closure of border crossings with Colombia",
-    "update_date": "2026-06-02T09:21:00",
+    "update_reason": "Safety and security section \u2013 added information on the closure of border crossings with Colombia",
+    "update_date": "2026-06-18T16:47:00",
     "sections": {
         "risk": "canada/Peru/risk.md",
         "security": "canada/Peru/security.md",

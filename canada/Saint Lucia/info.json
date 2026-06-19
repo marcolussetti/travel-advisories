@@ -1,7 +1,7 @@
 {
     "name": "Saint Lucia",
-    "update_reason": "The Health section was updated - travel health information (Public Health Agency of Canada)",
-    "update_date": "2026-06-11T15:22:00",
+    "update_reason": "Editorial change",
+    "update_date": "2026-06-18T12:05:00",
     "sections": {
         "risk": "canada/Saint Lucia/risk.md",
         "security": "canada/Saint Lucia/security.md",

@@ -1,7 +1,7 @@
 {
     "name": "Panama",
-    "update_reason": "Health - Travel health notice for Oropouche removed",
-    "update_date": "2026-06-15T13:43:00",
+    "update_reason": "Editorial change",
+    "update_date": "2026-06-18T15:42:00",
     "sections": {
         "risk": "canada/Panama/risk.md",
         "security": "canada/Panama/security.md",
