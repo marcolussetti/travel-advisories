@@ -1,11 +1,11 @@
 {
     "name": "Turkey",
-    "update_reason": "Addition of information about Turkey-Syria border ('Warnings and insurance' page).",
+    "update_reason": "Updated information about regional tensions and conflict affecting Turkey (\u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Turkey/Warnings and insurance.md",
-            "update_date": "2026-05-20T12:28:27+01:00"
+            "update_date": "2026-06-18T14:03:48+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Turkey/Getting help.md"
         }
     ],
-    "update_date": "2026-05-20T12:28:27+01:00"
+    "update_date": "2026-06-18T14:03:48+01:00"
 }

@@ -1,11 +1,11 @@
 {
     "name": "Saudi Arabia",
-    "update_reason": "Updated information about e-visas, which includes health insurance for your visit ('Entry requirements' page).",
+    "update_reason": "FCDO no longer advises against all but essential travel to Eastern Province and to Riyadh Province. FCDO continues to advise against all travel to within 10km of the border with Yemen, and all but essential travel to areas between 10km and 80km from the border with Yemen. Updated information about regional tensions (\u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Saudi Arabia/Warnings and insurance.md",
-            "update_date": "2026-05-27T14:35:24+01:00"
+            "update_date": "2026-06-18T13:59:59+01:00"
         },
         {
             "title": "Entry requirements",
@@ -38,5 +38,5 @@
             "file": "unitedkingdom/Saudi Arabia/Getting help.md"
         }
     ],
-    "update_date": "2026-05-27T14:35:24+01:00"
+    "update_date": "2026-06-18T13:59:59+01:00"
 }

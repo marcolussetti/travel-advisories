@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   28 February 2026
+:   19 June 2026
 
 Updated:
-:   27 February 2026
+:   18 June 2026
 
 Latest update:
-:   Updated information about the risks of regional escalation (‘Warnings and insurance’ page).
+:   Updated information about regional tensions and conflict affecting Syria (‘Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/5f4f3764e90e071c745ff2f9/FCDO__TA__039_-_Syria_Travel_Advice_Ed1__WEB_.jpg)
 
@@ -24,19 +24,21 @@ FCDO advises against all travel to Syria due to unpredictable security condition
 
 Consular support is not available from the British government from within Syria. The FCDO may become aware of support provided by other organisations which can be shared with British nationals. If you need help, call the FCDO in London on +44 (0)20 7008 5000.
 
-## Regional risks
+## Regional tensions
 
-There is a heightened risk of regional tension. Escalation could lead to travel disruption and other unanticipated impacts.
+The US and Iran have announced a memorandum of understanding in relation to the conflict in the Middle East. The situation remains unpredictable and attacks could resume at short notice.
 
-British nationals should take sensible precautions, considering their own individual circumstances. These include:
+Should hostilities resume, British nationals should:
 
 * read [If you’re affected by a crisis abroad - GOV.UK](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas). This includes guidance on “how to prepare for a crisis” with suggestions on what you might include in your emergency supplies and “what to do in a crisis”
-* follow advice from the local authorities and sign up to receive information and alerts
-* sign up to FCDO Travel Advice email alerts
+* follow advice from the local authorities
+* sign up to [FCDO Travel Advice email alerts](https://www.gov.uk/foreign-travel-advice/syria/email-signup)
 * monitor local and international media for the latest information
 * stay away from areas around security or military facilities
 * keep your departure plans under review, and ensure your travel documents are up to date
-* if you are advised to take shelter, stay indoors or find the nearest safe building or designated shelter. An interior stairwell or a room with as few external walls or windows as possible may provide additional protection
+* if you are advised to take shelter, stay indoors or find the nearest safe building or designated shelter. An interior stairwell or a room with as few external walls or windows as possible may provide additional protection. The greatest risk is from falling debris caused by intercepts, and you are safest inside a secure structure
+
+Before the 8 April ceasefire, the Iranian regime had stated its intention to target locations associated with the United States and Israel. This included US or Israeli-linked organisations, businesses, facilities and institutions. Iran has previously targeted civilian infrastructure across the region such as ports, hotels, roads, bridges, energy facilities, oil production sites, water systems, and airports.
 
 ## Travel insurance
 

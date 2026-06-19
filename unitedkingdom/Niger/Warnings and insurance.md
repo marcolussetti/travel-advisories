@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   18 February 2026
+:   19 June 2026
 
 Updated:
-:   17 February 2026
+:   18 June 2026
 
 Latest update:
-:   Removal of information about airport disruptions following gunfire and explosions in Niamey.
+:   Updated information about travel disruption following gunfire in the vicinity of Diori Hamani International Airport in Niamey ('Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/69021020918e1f940b3cf7e5/FCDO__TA__029_-_Niger_Travel_Advice_Ed5__WEB_.jpg)
 
@@ -23,6 +23,16 @@ This is due to the rise of reported terrorist and criminal kidnappings of foreig
 There is an ongoing risk of terrorist attacks throughout Niger including in the capital, Niamey.
 
 The political situation remains unstable following the military coup in July 2023. Further instability is possible.
+
+## Travel disruption
+
+Diori Hamani International Airport in Niamey is currently closed following heavy gunfire in the vicinity of the airport on 18 June. The main road between central Niamey and the airport is also closed.
+
+You should:
+
+* monitor local media
+* follow the instructions of local authorities
+* contact your airline before travelling
 
 ## US Security Alert
 

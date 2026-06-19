@@ -9,16 +9,6 @@ London, SW1X 7JU
 
 Telephone: 020 7590 3400
 
-## Crossing the Iraq - Kuwait (Safwan) border
-
-The border crossing from Iraq into Kuwait is closed. British nationals wishing to cross into Kuwait must contact the British Embassy in Kuwait 24 hours in advance. The British Embassy will share names and passport details with the Ministry of Foreign Affairs who will determine entry.
-
-FCDO advises against all travel to Iraq. See [FCDO travel advice for Iraq](https://www.gov.uk/foreign-travel-advice/iraq).
-
-## Entry to Saudi Arabia
-
-British nationals who are trying to leave Kuwait via Saudi Arabia and who are travelling on British Emergency Travel Documents, Emergency Passports, or passports with less than 6 months remaining validity, should call the helplines for British Embassy Riyadh +966 (0) 11481 9100 or British Consulate Jeddah +966 (0)126225550 for advice.
-
 ## Passport validity requirements
 
 To enter Kuwait, your passport must have an ‘expiry date’ at least 6 months after the date you arrive.
@@ -41,7 +31,7 @@ You must have a visa to visit Kuwait.
 
 ### Applying for a visa
 
-You can get a visa on arrival in Kuwait or online. More information is available from the [Kuwait Ministry of Interior](https://kuwaitvisa.moi.gov.kw/) .
+You can get a visa on arrival in Kuwait or online. More information is available from the [Kuwait Ministry of Interior](https://kuwaitvisa.moi.gov.kw/).
 
 ### Checks at border control
 
@@ -50,6 +40,14 @@ You must be able to show:
 * a ticket for return or onward travel
 * proof of your accommodation, for example, a hotel booking
 * work visas (both public and private sector) require further documents from employer. See [further details on visas and requirements](https://www.e.gov.kw/sites/kgoenglish/Pages/Visitors/Visitors.aspx)
+
+### Additional processing at airports
+
+Kuwaiti authorities may apply additional checks to some British nationals on arrival, particularly those born outside the UK, including from parts of the Middle East or South Asia. This may result in delays, additional questioning, or, in some cases, refusal of entry.
+
+Entry decisions are made by the Kuwaiti authorities.
+
+If you are concerned that you may be affected, consider checking with the Kuwaiti Embassy in London before you travel or applying for a visa in advance.
 
 ### Working or living in Kuwait
 

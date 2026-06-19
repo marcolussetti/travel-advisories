@@ -1,81 +1,32 @@
 # Warnings and insurance
 
 Still current at:
-:   29 April 2026
+:   19 June 2026
 
 Updated:
-:   28 April 2026
+:   18 June 2026
 
 Latest update:
-:   Updated information on the reopening of Kuwait airspace and leaving Kuwait ('Warnings and insurance' page).
+:   FCDO no longer advises against all but essential travel to Kuwait. Updated information about regional tensions. New information about additional processing at airports and driving offences ('Warnings and insurance', 'Entry requirements' and 'Safety and security' pages).
 
-![](https://assets.publishing.service.gov.uk/media/69a36b0da4d26cb233cd47da/Kuwait_Travel_Advice_Ed1__WEB_.jpg)
+## Regional tensions
 
+The US and Iran have announced a memorandum of understanding in relation to the conflict in the Middle East. The situation remains unpredictable and attacks could resume at short notice.
 
-[Download a more detailed map (PDF, 324 KB)](https://assets.publishing.service.gov.uk/media/69a36b0df534e7e99adaeafa/Kuwait_Travel_Advice_Ed1.pdf)
+Should hostilities resume, British nationals should:
 
-Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
+* read [If you’re affected by a crisis abroad - GOV.UK](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas). This includes guidance on “how to prepare for a crisis” with suggestions on what you might include in your emergency supplies and “what to do in a crisis”
+* follow advice from the local authorities sign up to FCDO Travel Advice [email alerts](https://www.gov.uk/foreign-travel-advice/kuwait/email-signup)
+* monitor local and international media for the latest information
+* stay away from areas around security or military facilities
+* keep your departure plans under review, and ensure your travel documents are up to date
+* if you are advised to take shelter, stay indoors or find the nearest safe building or designated shelter. An interior stairwell or a room with as few external walls or windows as possible may provide additional protection. The greatest risk is from falling debris caused by intercepts, and you are safest inside a secure structure
 
-## FCDO advises against all but essential travel to Kuwait
+Before the 8 April ceasefire, the Iranian regime had stated its intention to target locations in the Gulf associated with the US and Israel. This included US-linked organisations, businesses, facilities and institutions. Iran has previously targeted civilian infrastructure across the region such as ports, hotels, roads, bridges, energy facilities, oil production sites, water systems, and airports.
 
-Find out more about [why FCDO advises against travel.](https://www.gov.uk/foreign-travel-advice/kuwait/safety-and-security)
+### Travelling to or transiting through Kuwait
 
-## Register your presence
-
-Let the UK government know you’re in Kuwait, [register your presence](https://www.register.service.csd.fcdo.gov.uk/kuwait-20260227/tell-the-uk-government-youre-in-kuwait) if you’re in Kuwait for further updates.
-
-## Regional escalation
-
-Regional escalation poses significant security risks and has led to travel disruption.
-
-The Iranian regime has publicly stated its intention to target locations associated with the United States and Israel. This includes US-linked organisations, businesses, facilities and institutions.
-
-Stay away from areas around security or military facilities, and US-linked locations.
-
-Iranian strikes against civilian infrastructure across the region such as ports, hotels, roads, bridges, energy facilities, oil production sites, water systems, and airports, have decreased. However, the risk of renewed strikes remains, and further attacks could occur at short notice.
-
-Follow the instructions of the local authorities and monitor local and international media for the latest information.  Download [Sahel app](https://www.e.gov.kw/sites/kgoenglish/Pages/ApplicationPages/Application-Sahel.aspx) for more information.
-
-Read [If you’re affected by a crisis abroad - GOV.UK](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas) this includes suggestions on what you might include in your emergency supplies.
-
-Sign up to [FCDO Travel Advice email alerts](https://www.gov.uk/foreign-travel-advice/kuwait/email-signup).
-
-## Shelter in place
-
-Follow the instructions of the local authorities. If you are advised to take shelter, stay indoors or find the nearest safe building or designated shelter. An interior stairwell or a room with as few external walls or windows as possible may provide additional protection.
-
-Sign up to receive information and alerts. Download [Sahel app](https://www.e.gov.kw/sites/kgoenglish/Pages/ApplicationPages/Application-Sahel.aspx) for more information.
-
-## Leaving Kuwait
-
-Kuwait airspace has now reopened and some flights have restarted from Kuwait International Airport to a limited range of destinations. You should follow the advice of the local authorities and your airline, and only travel to the airport if you deem it safe to do so.
-
-If you judge it is safe to leave Kuwait via land border crossings into Saudi Arabia, the following are currently open:
-
-* Al Salmi / Ar-Ruqi
-* Al Nuwaisib / Al-Khafji
-
-Read the [Travel Advice for  Saudi Arabia](https://www.gov.uk/foreign-travel-advice/saudi-arabia) and ensure you have the correct paperwork, or you may be denied entry. If travelling by car, the vehicle must be wholly owned and registered in your name. If you plan to use commercial options to depart, check for the latest updates from your airline or tour operator, as well as the instructions of local authorities and the status of any border crossings before you travel. Make sure you have access to emergency supplies and essential medication. Travel within or out of Kuwait is at your own risk.
-
-Keep your departure plans under review and ensure your travel documents are up to date, including any visas required for onward travel.
-
-British national residents who need an exit permit must apply for it via the Sahel App. If your employer or sponsor refuses to issue the exit permit without a valid legal or financial reason (such as outstanding fines, residency validity, court cases, bank dues), you can appeal through the Public Authority of Manpower (PAM). For further assistance, please seek legal support. You can find [English speaking lawyers in Kuwait](https://find-a-professional-service-abroad.service.csd.fcdo.gov.uk/find/lawyers?country=Kuwait).
-
-## Crossing the Iraq - Kuwait (Safwan) border
-
-The border crossing from Iraq into Kuwait is closed. British nationals wishing to cross into Kuwait must contact the British Embassy in Kuwait 24 hours in advance. The British Embassy will share names and passport details with the Ministry of Foreign Affairs who will determine entry.
-
-FCDO advises against all travel to Iraq. See [FCDO travel advice for Iraq](https://www.gov.uk/foreign-travel-advice/iraq).
-
-## Crossing the Saudi- Kuwait border
-
-British nationals wishing to cross into Kuwait, who do not have residency there and intend to make use of the visa on arrival facility, must contact the British Embassy in Kuwait 24 hours in advance. The British Embassy will share names and passport details with the Kuwaiti Ministry of Foreign Affairs, who will determine entry.
-
-## Entry to Saudi Arabia
-
-British nationals who are trying to leave Kuwait via Saudi Arabia and who are travelling on British Emergency Travel Documents, Emergency Passports, or passports with less than 6 months remaining validity, should call the helplines for British Embassy Riyadh +966 (0) 11481 9100 or British Consulate Jeddah +966 (0)126225550 for advice.
-
-See [‘Entry requirements’ for Saudi Arabia](https://www.gov.uk/foreign-travel-advice/saudi-arabia).
+Kuwait International Airport is currently operating through Terminals 4 and 5, serving Kuwait Airways and Jazeera Airways, while Terminal 1 remains closed. Flight schedules are reduced. Check details with your airline before travelling and follow local guidance.
 
 ## Before you travel
 

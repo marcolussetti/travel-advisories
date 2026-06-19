@@ -162,6 +162,10 @@ If you have a visit visa, you can drive in Kuwait using a UK photocard driving l
 
 There is also [guidance on driving if you live in Kuwait](https://www.gov.uk/guidance/living-in-kuwait#driving-in-kuwait).
 
+### Driving offences
+
+Kuwait has introduced stricter traffic laws, with significantly increased fines and penalties. Offences such as speeding, using a mobile phone while driving, and running red lights can result in heavy fines, imprisonment or deportation.
+
 ### Car insurance
 
 You must get third-party insurance in Kuwait before you drive.

@@ -1,11 +1,11 @@
 {
     "name": "Kuwait",
-    "update_reason": "Updated information on the reopening of Kuwait airspace and leaving Kuwait ('Warnings and insurance' page).",
+    "update_reason": "FCDO no longer advises against all but essential travel to Kuwait. Updated information about regional tensions. New information about additional processing at airports and driving offences ('Warnings and insurance', 'Entry requirements' and 'Safety and security' pages).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Kuwait/Warnings and insurance.md",
-            "update_date": "2026-04-28T12:50:29+01:00"
+            "update_date": "2026-06-18T13:58:48+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Kuwait/Getting help.md"
         }
     ],
-    "update_date": "2026-04-28T12:50:29+01:00"
+    "update_date": "2026-06-18T13:58:48+01:00"
 }

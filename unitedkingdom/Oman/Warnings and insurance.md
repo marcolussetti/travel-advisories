@@ -1,35 +1,29 @@
 # Warnings and insurance
 
 Still current at:
-:   6 June 2026
+:   19 June 2026
 
 Updated:
-:   5 June 2026
+:   18 June 2026
 
 Latest update:
-:   Update to information regarding regional escalation (‘Warnings and insurance’ page).
+:   Updated information about regional tensions (‘Warnings and insurance’ page).
 
-## Exercise caution
+## Regional tensions
 
-We advise British nationals in Oman to exercise increased caution. Press reports have included some limited missile and drone activity in the commercial ports and industrial areas of Duqm, Muscat, Salalah and Sohar.
+The US and Iran have announced a memorandum of understanding in relation to the conflict in the Middle East. The situation remains unpredictable and attacks could resume at short notice.
 
-Where available, follow advice from local authorities on how to stay safe in your location as risks may vary across Oman and the Gulf region. If you are advised to take shelter, stay indoors or find the nearest safe building or shelter. An interior stairwell or a room with as few external walls or windows as possible may provide additional protection.
+Should hostilities resume, British nationals should:
 
-## Regional escalation
+* read [If you’re affected by a crisis abroad - GOV.UK](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas). This includes guidance on “how to prepare for a crisis” with suggestions on what you might include in your emergency supplies and “what to do in a crisis”
+* follow advice from the local authorities
+* sign up to FCDO Travel Advice [email alerts](https://www.gov.uk/foreign-travel-advice/oman/email-signup)
+* monitor local and international media for the latest information
+* stay away from areas around security or military facilities
+* keep your departure plans under review, and ensure your travel documents are up to date
+* if you are advised to take shelter, stay indoors or find the nearest safe building or designated shelter. An interior stairwell or a room with as few external walls or windows as possible may provide additional protection. The greatest risk is from falling debris caused by intercepts, and you are safest inside a secure structure
 
-Regional escalation poses significant security risks and has led to travel disruption.
-
-The Iranian regime has publicly stated its intention to target locations associated with the United States and Israel. This includes US-linked organisations, businesses, facilities and institutions.
-
-Stay away from areas around security or military facilities, and US-linked locations.
-
-Iranian strikes against civilian infrastructure across the region such as ports, hotels, roads, bridges, energy facilities, oil production sites, water systems, and airports, have decreased. However, the risk of renewed strikes remains, and further attacks could occur at short notice.
-
-* stay away from areas around energy, security, or military facilities
-* follow the instructions of the local authorities and monitor local and international media for the latest information
-* keep your departure plans under review and ensure your travel documents are up to date
-* read [If you’re affected by a crisis abroad - GOV.UK](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas) this includes suggestions on what you might include in your emergency supplies and “what to do in a crisis”
-* sign up to FCDO Travel Advice [email alerts](https://www.gov.uk/foreign-travel-advice/oman/email-signup)
+Before the 8 April ceasefire, the Iranian regime had stated its intention to target locations in the Gulf associated with the United States and Israel. This included US or Israeli-linked organisations, businesses, facilities and institutions. Iran has previously targeted civilian infrastructure across the region such as ports, hotels, roads, bridges, energy facilities, oil production sites, water systems, and airports.
 
 ## Before you travel
 

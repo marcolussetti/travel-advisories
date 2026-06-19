@@ -1,11 +1,11 @@
 {
     "name": "Niger",
-    "update_reason": "Removal of information about airport disruptions following gunfire and explosions in Niamey.",
+    "update_reason": "Updated information about travel disruption following gunfire in the vicinity of Diori Hamani International Airport in Niamey ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Niger/Warnings and insurance.md",
-            "update_date": "2026-02-17T10:42:49+00:00"
+            "update_date": "2026-06-18T15:13:09+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Niger/Getting help.md"
         }
     ],
-    "update_date": "2026-02-17T10:42:49+00:00"
+    "update_date": "2026-06-18T15:13:09+01:00"
 }

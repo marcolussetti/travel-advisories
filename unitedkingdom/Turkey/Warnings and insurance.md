@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   21 May 2026
+:   19 June 2026
 
 Updated:
-:   20 May 2026
+:   18 June 2026
 
 Latest update:
-:   Addition of information about Turkey-Syria border ('Warnings and insurance' page).
+:   Updated information about regional tensions and conflict affecting Turkey (‘Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/69a6faa2a2495f2d259f13d2/FCDO_TA_043_-_Turkey_Travel_Advice_Ed4_WEB.jpg)
 
@@ -28,31 +28,21 @@ Find out more about [why FCDO advises against travel](https://www.gov.uk/foreig
 
 While 24-hour consular assistance is available by phone or online, in-person consular support is severely limited in areas where we advise against travel.
 
-## UEFA Europa League Final
+## Regional tensions
 
-Istanbul will stage the UEFA Europa League Final (UELF26) on Wednesday 20 May, with Aston Villa FC and SC Freiburg in the final. If you are travelling to Istanbul for UELF26, read our Travel advice and sign up to [FCDO Travel advice email alerts](https://www.gov.uk/foreign-travel-advice/turkey/email-signup).
+The US and Iran have announced a memorandum of understanding in relation to the conflict in the Middle East. The situation remains unpredictable and attacks could resume at short notice.
 
-British nationals should:
-
-* plan your movement around the city to arrive at the dedicated fan zone in Gezi Park, Taksim Square or the stadium well in advance of the match starting
-* follow the instructions of the local authorities
-* take care of your personal possessions including passports, especially in crowds and on public transport
-
-Further information can be found on the Aston Villa FC [website](https://www.avfc.co.uk/) and the [UEFA event guide for UELF26](https://www.uefa.com/uefaeuropaleague/event-guide/travel/?articleid=029e-1efaa9ea5321-de2829c623c1-1000).
-
-## Regional escalation
-
-Regional escalation poses significant security risks and has led to travel disruption.
-
-British nationals should:
+Should hostilities resume, British nationals should:
 
 * read [If you’re affected by a crisis abroad - GOV.UK](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas). This includes guidance on “how to prepare for a crisis” with suggestions on what you might include in your emergency supplies and “what to do in a crisis”
 * follow advice from the local authorities
-* sign up to FCDO Travel Advice email alerts
+* sign up to [FCDO Travel Advice email alerts](https://www.gov.uk/foreign-travel-advice/turkey/email-signup)
 * monitor local and international media for the latest information
 * stay away from areas around security or military facilities
 * keep your departure plans under review, and ensure your travel documents are up to date
-* if you are advised to take shelter, stay indoors or find the nearest safe building or designated shelter. An interior stairwell or a room with as few external walls or windows as possible may provide additional protection
+* if you are advised to take shelter, stay indoors or find the nearest safe building or designated shelter. An interior stairwell or a room with as few external walls or windows as possible may provide additional protection. The greatest risk is from falling debris caused by intercepts. You are safest inside a secure structure
+
+Before the 8 April ceasefire, the Iranian regime had stated its intention to target locations associated with the United States and Israel. This included US or Israeli-linked organisations, businesses, facilities and institutions. Iran has previously targeted civilian infrastructure across the region such as ports, hotels, roads, bridges, energy facilities, oil production sites, water systems, and airports.
 
 ## Before you travel
 

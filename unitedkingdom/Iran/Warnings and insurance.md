@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   8 April 2026
+:   19 June 2026
 
 Updated:
-:   7 April 2026
+:   18 June 2026
 
 Latest update:
-:   Updated information about regional escalation (‘Warnings and insurance’ page).
+:   Updated information about regional tensions and conflict affecting Iran (‘Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/627e359b8fa8f53f99901991/FCDO__TA__021_-_Iran_Travel_Advice_Ed5__WEB_.jpg)
 
@@ -24,24 +24,24 @@ British and British-Iranian dual nationals are at significant risk of arrest, qu
 
 Find out more about [why FCDO advises against travel](https://www.gov.uk/foreign-travel-advice/iran/safety-and-security).
 
-## Regional escalation
+## Regional tensions
 
-Regional escalation poses significant security risks. We continue to advise against all travel to Iran.
+The US and Iran have announced a memorandum of understanding in relation to the conflict in the Middle East. The situation remains unpredictable and attacks could resume at short notice.
 
-British nationals should:
+Should hostilities resume, British nationals should:
 
 * read [If you’re affected by a crisis abroad - GOV.UK](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas). This includes guidance on “how to prepare for a crisis” with suggestions on what you might include in your emergency supplies and “what to do in a crisis”
-* sign up to FCDO Travel Advice email alerts
+* sign up to [FCDO Travel Advice email alerts](https://www.gov.uk/foreign-travel-advice/iran/email-signup)
 * monitor local and international media for the latest information
 * stay away from areas around security or military facilities
 * keep your departure plans under review, and ensure your travel documents are up to date
-* if you are advised to take shelter, stay indoors or find the nearest safe building or designated shelter. An interior stairwell or a room with as few external walls or windows as possible may provide additional protection
+* if you are advised to take shelter, stay indoors or find the nearest safe building or designated shelter. An interior stairwell or a room with as few external walls or windows as possible may provide additional protection. The greatest risk is from falling debris caused by intercepts, and you are safest inside a secure structure
 
 ## If you are in Iran
 
-Air, sea and land routes are under the control of the Iranian authorities. Ports and borders may close at short notice. There is ongoing disruption to communications across Iran, with severe limitations on internet access.
+Air, sea and land routes are under the control of the Iranian authorities. Ports and borders may close at short notice. There is ongoing disruption to communications across Iran, with limitations on internet access.
 
-The US and Israel continue to strike infrastructure across Iran. There are reports that suggest ports, roads, railways, bridges, energy facilities, oil production sites, water systems, and airports have been affected.
+The US and Israel have struck infrastructure across Iran. There are reports that suggest ports, roads, railways, bridges, energy facilities, oil production sites, water systems, and airports have been affected.
 
 British nationals and British-Iranian dual nationals face a very high risk of arrest, detention and questioning.
 
@@ -51,7 +51,7 @@ If you are detained in Iran, you could face months or years of imprisonment.
 
 ### Travel by air
 
-Iranian airspace remains closed.
+Iranian airspace may close at short notice.
 
 ### Travel by land
 
@@ -96,8 +96,6 @@ The FCDO’s [travel advice for Pakistan](https://www.gov.uk/foreign-travel-advi
 ## Limited UK government support
 
 UK government support is extremely limited in Iran. No face-to-face consular assistance will be possible in an emergency and the UK government will not be able to help you if you get into difficulty in Iran.
-
-Due to the ongoing security situation, we have taken the precautionary measure to temporarily withdraw UK staff from Iran. Our embassy continues to operate remotely.
 
 ## Travel insurance
 

@@ -10,7 +10,7 @@ UK Counter Terrorism Policing has information and advice on [staying safe abroad
 
 ### Terrorism in Jordan
 
-In the context of regional escalation, Iran-aligned militia groups have threatened to target US interests across the region, have claimed attacks in Jordan and are very likely to continue to carry out these attacks in Jordan.
+In the context of regional escalation, Iran-aligned militia groups have threatened to target US interests across the region, have claimed attacks in Jordan and are likely to continue to carry out these attacks in Jordan.
 
 As was the case before the recent regional escalation, terrorists are likely to try to carry out attacks in Jordan, including in places visited by foreign nationals, such as:
 

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   9 June 2026
+:   19 June 2026
 
 Updated:
-:   8 June 2026
+:   18 June 2026
 
 Latest update:
-:   Updated information about regional escalation following Iranian missile strikes ('Warnings and insurance’ page).
+:   Updated information about regional tensions and conflict affecting Israel (‘Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/6a1fea0db95db968c8f3bddc/FCDO_TA_022_-_Israel_Travel_Advice_Ed29_WEB.jpg)
 
@@ -50,17 +50,19 @@ FCDO advises against all but essential travel to:
 
 Find out more about [why FCDO advises against travel](https://www.gov.uk/foreign-travel-advice/israel/regional-risks).
 
-## Regional escalation
+## Regional tensions
 
-There have been recent missile launches towards Israel, many of which have been intercepted by Israel’s air defence systems. There is a risk of falling debris following interceptions, including in parts of the West Bank. Israel has also carried out strikes against targets in Iran. The situation remains volatile and could escalate at short notice.
+The US and Iran have announced a memorandum of understanding in relation to the conflict in the Middle East. The situation remains unpredictable and attacks could resume at short notice.
 
-Iranian strikes have previously targeted civilian infrastructure across the region such as ports, hotels, roads, bridges, energy facilities, oil production sites, water systems, and airports.
+Should hostilities resume, British nationals should:
 
-Follow the instructions of the local authorities and monitor local and international media for the latest information.  Visit [Israel’s Home Front Command](https://www.oref.org.il/eng).
-
-Read [If you’re affected by a crisis abroad - GOV.UK](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas) this includes suggestions on what you might include in your emergency supplies.
-
-Sign up to FCDO Travel Advice [email alerts](https://www.gov.uk/foreign-travel-advice/israel/email-signup).
+* Read [If you’re affected by a crisis abroad - GOV.UK](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas). This includes guidance on “how to prepare for a crisis” with suggestions on what you might include in your emergency supplies and “what to do in a crisis”
+* Follow the instructions of the local authorities  Visit [Israel’s Home Front Command](https://www.oref.org.il/eng)
+* Sign up to FCDO Travel Advice [email alerts](https://www.gov.uk/foreign-travel-advice/israel/email-signup)
+* monitor local and international media for the latest information
+* stay away from areas around security or military facilities
+* keep your departure plans under review, and ensure your travel documents are up to date
+* if you are advised to take shelter, stay indoors or find the nearest safe building or designated shelter. An interior stairwell or a room with as few external walls or windows as possible may provide additional protection. The greatest risk is from falling debris caused by intercepts, and you are safest inside a secure structure
 
 ## Shelter in place
 

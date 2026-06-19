@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   4 June 2026
+:   19 June 2026
 
 Updated:
-:   3 June 2026
+:   18 June 2026
 
 Latest update:
-:   FCDO no longer advises against all but essential travel to Jordan but continues to advise against all travel within 3km of the border with Syria. Updated information about regional tensions (‘Warnings and Insurance’, ‘Entry requirements’ and ‘Regional risks’ pages).
+:   Updated information about regional tensions and information about risks from terrorism (‘Warnings and insurance’ and ‘Safety and security’ pages).
 
 ![](https://assets.publishing.service.gov.uk/media/6a1fe5c159fb7a60f827f6ac/FCDO__TA__087_-_Jordan_Travel_Advice_Ed2__WEB_.jpg)
 
@@ -24,11 +24,9 @@ FCDO advises against all travel to within 3km of the border with Syria.
 
 ## Regional tensions
 
-The situation in the Middle East remains unpredictable. Attacks could resume at short notice.
+The US and Iran have announced a memorandum of understanding in relation to the conflict in the Middle East. The situation remains unpredictable and attacks could resume at short notice.
 
-The Iranian regime has previously stated its intention to target locations associated with the United States and Israel. This includes US or Israeli-linked organisations, businesses, facilities and institutions. Iran has previously targeted civilian infrastructure across the region such as ports, hotels, roads, bridges, energy facilities, oil production sites, water systems, and airports.
-
-British nationals should:
+Should hostilities resume, British nationals should:
 
 * read [If you’re affected by a crisis abroad - GOV.UK](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas). This includes guidance on “how to prepare for a crisis” with suggestions on what you might include in your emergency supplies and “what to do in a crisis”
 * follow advice from the local authorities
@@ -37,6 +35,8 @@ British nationals should:
 * stay away from areas around security or military facilities
 * keep your departure plans under review, and ensure your travel documents are up to date
 * if you are advised to take shelter, stay indoors or find the nearest safe building or designated shelter. An interior stairwell or a room with as few external walls or windows as possible may provide additional protection. The greatest risk is from falling debris caused by intercepts, and you are safest inside a secure structure
+
+Before the 8 April ceasefire, the Iranian regime had stated its intention to target locations associated with the US and Israel. This included US or Israeli-linked organisations, businesses, facilities and institutions. Iran has previously targeted civilian infrastructure across the region such as ports, hotels, roads, bridges, energy facilities, oil production sites, water systems, and airports.
 
 ## Before you travel
 
