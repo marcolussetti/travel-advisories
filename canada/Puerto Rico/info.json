@@ -1,7 +1,7 @@
 {
     "name": "Puerto Rico",
-    "update_reason": "Editorial change",
-    "update_date": "2026-06-18T11:19:00",
+    "update_reason": "Safety and security section \u2013 updated information on power outages and added information on water shortages",
+    "update_date": "2026-06-19T14:53:00",
     "sections": {
         "risk": "canada/Puerto Rico/risk.md",
         "security": "canada/Puerto Rico/security.md",

@@ -1,7 +1,7 @@
 {
     "name": "Malaysia",
-    "update_reason": "Natural disasters and climate section \u2013 removed information on a tsunami threat",
-    "update_date": "2026-06-08T09:19:00",
+    "update_reason": "Editorial change",
+    "update_date": "2026-06-19T15:06:00",
     "sections": {
         "risk": "canada/Malaysia/risk.md",
         "security": "canada/Malaysia/security.md",

@@ -1,7 +1,7 @@
 {
     "name": "Marshall Islands",
-    "update_reason": "The Health section was updated - travel health information (Public Health Agency of Canada)",
-    "update_date": "2026-06-12T15:44:00",
+    "update_reason": "Editorial change",
+    "update_date": "2026-06-19T15:17:00",
     "sections": {
         "risk": "canada/Marshall Islands/risk.md",
         "security": "canada/Marshall Islands/security.md",

@@ -324,6 +324,10 @@ When travelling by car in Colombia:
 
 #### Roadblocks
 
+### Access to Tayrona National Park
+
+The Troncal del Caribe (Route 90) between Calabazo and Los Linderos was recently closed due to roadblocks. This area is located near Tayrona National Park. Although the road has reopened, more road closures or travel disruptions are possible if there are additional protests in the area. These could occur with little warning. If you plan to travel to the area, monitor local media for the latest information.
+
 Local authorities may deny you entry to certain areas due to emerging security threats. Military checkpoints outside cities are common.
 
 Strikes occur often in Colombia and associated roadblocks on major transit routes may cause significant travel disruptions.

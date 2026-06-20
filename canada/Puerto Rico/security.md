@@ -24,9 +24,25 @@ Women travelling alone may be subject to some forms of harassment and verbal abu
 
 [Advice for women travellers](https://travel.gc.ca/travelling/health-safety/advice-for-women-travellers "Advice for women travellers")
 
-### Power and telecommunications outages
+### Power outages and water shortages
 
-Puerto Rico experiences frequent disruptions to power and telecommunications services after Hurricane Maria destroyed much of the power grid in 2017.
+Power outages and water shortages occur frequently.
+
+Local authorities may limit electricity usage and impose water rationing measures.
+
+Power outages and water rationing could impact essential services, such as:
+
+* public transportation, including flights
+* medical services
+* water and food supply
+* telecommunications
+* banking transactions
+* the supply of basic necessities
+
+Not all buildings are equipped with generators, and drinking water may be difficult to find.
+
+* Keep a supply of water, food, fuel and an emergency kit on hand
+* Monitor local media for the latest information
 
 ### Water activities
 
