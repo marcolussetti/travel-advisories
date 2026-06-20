@@ -8,13 +8,9 @@ High Degree of Caution
 
 #### **Elections**
 
-Presidential and legislative elections will take place in Colombia in 2026. During election periods, increased volatility in the security situation can take place. Citizens are advised to avoid political rallies, demonstrations and large public protests or gatherings.
+Colombia will hold presidential elections on Sunday 21 June. During election periods, increased volatility in the security situation can take place. There may be large presence of police, traffic disruptions and demonstrations. Protests can turn violent and may affect transport and travel. Citizens are advised to avoid protests and large public gatherings, follow guidance of local authorities.
 
-#### **Armed protests - security threats**
-
-The ELN (Ejercito de Liberacion Nacional), a non-state armed group, has announced an armed strike from 14 December to 17 December. The group has warned of potential attacks in the cities of Bogota, Medellin, Cali, Popayan, Barrancabermeja and Cucuta. The ELN has advised civilians to avoid police and military facilities, as well as vehicles and motorcycles, in these areas. It has also warned against travel by road and on navigable rivers.
-
-Irish citizens in Colombia are advised to monitor the media for emerging threats, take official warnings seriously and follow the advice of local authorities.
+Land and river border crossings with Brazil, Ecuador, Panama, Petu and Venezuela will be closed from 6pm on 22 June until 6am on 22 June.
 
 ### **General Travel Advice**
 

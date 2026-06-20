@@ -51,6 +51,7 @@ As there is no Irish Embassy in Namibia, we are limited in the help we can offer
 ### **Our Tips for Safe Travels:**
 
 * Get comprehensive travel insurance that covers all planned activities.
+* Carry printed copies of travel insurance/medical insurance documentation.
 * Carry copies of your passport and copies of any relevant documents (such as birth certificates) for minors who may be traveling.
 * [**Register**](https://www.ireland.ie/en/dfa/overseas-travel/citizens-registration/) your details with us so that we can contact you quickly if there’s an unforeseen crisis like a natural disaster or a family emergency.
 * Follow us on X [**@dfatravelwise**](https://www.twitter.com/DFATravelWise) and Instagram [**@dfatravelwise**](https://www.instagram.com/dfatravelwise/) for the latest travel updates.
