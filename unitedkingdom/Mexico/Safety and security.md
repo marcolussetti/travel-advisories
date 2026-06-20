@@ -16,6 +16,8 @@ Terrorist attacks in Mexico cannot be ruled out.
 
 Political demonstrations are common in Mexico City and can happen across the country. Demonstrations can be tense, confrontational and potentially violent. Onlookers can be quickly drawn in.
 
+There have also been ongoing protests blocking vehicle access to Oaxaca airport. If you are flying to Oaxaca, check the status of your flight and monitor local media for updates. Allow more time to get to and from Oaxaca airport.
+
 It is illegal for foreign nationals to participate in political activities in Mexico. If you join demonstrations, the Mexican authorities may detain and deport you.
 
 Since July 2025 there have been protests against gentrification in Mexico City, which have taken place in central and tourist areas.

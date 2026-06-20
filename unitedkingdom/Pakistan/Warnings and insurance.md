@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   7 June 2026
+:   20 June 2026
 
 Updated:
-:   6 June 2026
+:   19 June 2026
 
 Latest update:
-:   FCDO advises against all but essential travel to Azad Jammu and Kashmir (AJK) (See "Warnings and Insurance" page)
+:   Updated information about regional tensions (‘Warnings and insurance’ page).
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
@@ -63,7 +63,7 @@ FCDO advises against all but essential travel within 5 miles of the internationa
 
 ### Pakistan-administered Kashmir
 
-FCDO advises against all but essential travel to Azad Jammu and Kashmir
+FCDO advises against all but essential travel to Azad Jammu and Kashmir.
 
 FCDO advises against all travel to within 10 miles of the Line of Control.
 
@@ -77,9 +77,9 @@ FCDO advises against all but essential travel to Dera Ghazi Khan.
 
 Find out more about [why FCDO advises against travel to these regions](/foreign-travel-advice/pakistan/regional-risks).
 
-## Strikes announced in Pakistan-administered Kashmir
+## Demonstrations in Pakistan-administered Kashmir
 
-A strike has been announced for 9 June in areas of Pakistan-administered Kashmir (known locally as “Azad Jammu and Kashmir”), including Muzaffarabad and surrounding districts.
+There are currently demonstrations in areas of Pakistan-administered Kashmir (known locally as “Azad Jammu and Kashmir”).
 
 Local authorities are advising tourists to avoid travel to the area from 5 to 20 June, and for tourists already there to leave to avoid potential disruption.
 
@@ -91,15 +91,15 @@ Strikes in the area have previously led to:
 
 ## Regional tensions
 
+The US and Iran have announced a memorandum of understanding in relation to the conflict in the Middle East. The situation remains unpredictable and can change without warning.
+
 Ongoing regional tensions pose significant security and economic risks and have led to travel disruption. Please check with your airline before travelling.
 
 Global supply routes could affect Pakistan’s fuel availability and pricing. This may lead to transport disruption and delays, in some areas.
 
-The regional situation remains tense and can change without warning.
-
 There is an ongoing risk of terrorism.
 
-You should:
+You should continue to:
 
 * be careful around protests, demonstrations, rallies, security checkpoints, tourist sites, and religious gatherings and sites, particularly in urban areas across Pakistan
 * follow the advice of local authorities and plan ahead to allow extra time for travel and keep up to date with local and international media

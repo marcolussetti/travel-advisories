@@ -35,6 +35,7 @@ There are frequent attacks across Niger, particularly in the Diffa and Tillabér
 
 Examples of significant attacks include:
 
+* on 18 June 2026, heavy gunfire was reported near Diori Hamani International Airport in Niamey
 * on 29 January 2026, gunfire and explosions were reported near Diori Hamani International Airport in Niamey
 * in October 2024, one person was killed in an attack in Seno (approximately 7km south west) of Niamey city limits
 * in September 2024, 2 health workers were killed in Weze Bangou, Tillabéri
@@ -42,9 +43,6 @@ Examples of significant attacks include:
 * in August 2024, 8 humanitarian workers were killed in Maine Soroa, Diffa
 * in July 2024, 2 guards were killed in an ISSP prison break of Koutoukale prison, Tillabéri
 * in May 2024, 20 civilians were killed in a village attack in Diambala, Tillabéri
-* in 2023, around 30 soldiers were killed in Takanamat, Tahoua
-* in 2023, 18 people were killed in an attack on a refugee camp in Tillia, Tahoua
-* in 2022, 2 people were killed in an IED explosion in Bougoum (approximately 5km from Niamey city limits)
 
 ### Terrorist kidnap
 
@@ -136,9 +134,7 @@ Do not photograph military or government installations.
 
 ### LGBT+ travellers
 
-The official status of legislation affecting LGBT+ people is not clear. There have been reports of men and women being arrested for allegedly being in, or ‘promoting’, same-sex relationships. If convicted, such charges could lead to long prison sentences.
-
-There is little to no public acceptance of LGBT+ people or identities in Niger. There is an increased risk of harassment or violence against anyone thought to be part of the LGBT+ community, or perceived to be supporting their rights.
+Same-sex relationships are illegal in Niger. Penalties include prison sentences of 5 to 10 years and fines. This applies to individuals who are found guilty of what is described as ‘LGBTQIA+ acts’. The laws also extend to people who officiate, witness, organise or consent to same-sex marriages. Same-sex relationships are not widely accepted in Nigerien society.
 
 Read more [advice for LGBT+ travellers](https://www.gov.uk/lesbian-gay-bisexual-and-transgender-foreign-travel-advice).
 

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   3 June 2026
+:   20 June 2026
 
 Updated:
-:   2 June 2026
+:   19 June 2026
 
 Latest update:
-:   New information about Ebola screening when arriving in country and new information about incidents of violent crime ('Entry requirements' and ‘Safety and security’ pages).
+:   New information about completing a health travel declaration (‘Entry Requirements’ page.)
 
 ## Before you travel
 

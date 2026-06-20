@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   11 June 2026
+:   20 June 2026
 
 Updated:
-:   10 June 2026
+:   19 June 2026
 
 Latest update:
-:   Removal of information about state of emergency and border closure with Colombia ('Warnings and insurance' page).
+:   New information about the introduction of a 60-day State of Emergency ('Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/65a1082ce96df50014f8452c/FCDO__TA__014_-_Ecuador_Travel_Advice_Ed5__WEB_.jpg)
 
@@ -42,6 +42,29 @@ FCDO advises against all but essential travel to areas within 20km of the Ecuado
 * the Pan-American Highway
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/ecuador/regional-risks).
+
+## State of Emergency
+
+The Ecuadorean government has declared a 60-day state of emergency as of 16 June, for security reasons in the following 10 provinces:
+
+* Guayas
+* Manabí
+* Santa Elena
+* Los Ríos
+* El Oro
+* Pichincha
+* Esmeraldas
+* Santo Domingo de los Tsáchilas
+* Sucumbíos
+* Azuay
+
+The state of emergency includes the following cantons:
+
+* La Maná (Cotopaxi province)
+* Las Naves (Bolívar province)
+* La Troncal (Cañar province)
+
+The state of emergency will mean greater police and military presence on the streets. Follow the advice of local authorities and monitor local media.
 
 ## Before you travel
 

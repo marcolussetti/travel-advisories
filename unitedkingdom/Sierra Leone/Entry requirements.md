@@ -39,6 +39,20 @@ To enter Sierra Leone, you must have a certificate to prove you’ve had a yello
 
 For more details about medical entry requirements and recommended vaccinations, see [TravelHealthPro’s Sierra Leone guide](https://travelhealthpro.org.uk/country/195/sierra-leone#Vaccine_Recommendations).
 
+## Health travel declaration
+
+All travellers entering or leaving Sierra Leone must complete a health declaration before travel using the [Sierra Leone Health Travel Portal.](https://poep.npha.gov.sl/)
+
+You must:
+
+* complete the form online within 72 hours before travel
+* ensure your travel details are accurate, including your seat number where possible
+* keep your confirmation QR code or reference number and present it if requested
+
+You may be required to undergo health screening on arrival.
+
+If you do not comply, you may face delays or be refused entry or departure.
+
 ## Ebola Screening
 
 As a public health measure, Sierra Leone has introduced screening for arriving travellers. You should expect enhanced health screening measures on arrival.

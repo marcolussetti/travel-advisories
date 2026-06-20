@@ -18,15 +18,9 @@ Avoid political gatherings and large crowds. Reduce your movement around banks, 
 
 ## Kurdistan Region of Iraq (KRI)
 
-There is still a risk of attacks by Daesh in KRI.
+Routes in and out of the KRI, including Erbil International Airport and Sulaymaniyah International Airport, may close at short notice. If the airport closes, expect significant delays at land border crossings. Check your routes in advance of travelling.
 
-Turkey carries out regular military operations in the north of KRI and on occasion, further south. There is particular risk in mountainous areas:
-
-* The Amedi Mountains Region
-* Erbil (Arbil) Governate’s border with Iran in areas north of the Choman-Haji Omaran Rd
-* near the border with Turkey
-
-Military action may affect crossing points along the Iraq-Turkey border.
+Stay alert and follow the advice of local authorities.  Stay away from political gatherings and large crowds.
 
 Foreign nationals crossing the border illegally from neighbouring countries into the Kurdistan Region of Iraq have been arrested for immigration offences. Prosecuted offenders could face a prison sentence of up to 5 years or fines of several thousand US dollars.
 

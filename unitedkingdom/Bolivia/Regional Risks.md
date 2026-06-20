@@ -8,7 +8,7 @@ You should also read [FCDO’s overall travel advice](/foreign-travel-advice/bol
 
 FCDO advises against all but essential travel to the Chapare region of Cochabamba Department. This includes Villa Tunari and highway routes 4 and 24 that pass through Chapare. This is due to a high level of gang-related violent crime predominantly linked to the production and trafficking of illegal drugs.
 
-It is difficult for the British Embassy to provide in-person emergency or consular support in these areas. The local authorities may also be very limited in the help they can provide.
+It is difficult for the British Embassy to provide in-person emergency or consular support in these areas. Local authorities may also be very limited in the help they can provide.
 
 [Previous:Safety and security](/foreign-travel-advice/bolivia/safety-and-security)
 

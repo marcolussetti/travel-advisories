@@ -1,27 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   17 June 2026
+:   20 June 2026
 
 Updated:
-:   16 June 2026
+:   19 June 2026
 
 Latest update:
-:   Addition of information about G7 Summit and related disruption ('Warnings and insurance' page).
-
-## G7 Summit
-
-The G7 Summit will take place in Evian between 15-17 June 2026.
-
-### Access around the area
-
-From midnight on Thursday 11 June to 8pm on Wednesday 17 June, movement around some areas of Evian will be restricted. You will need a digital pass to enter certain areas of the town. This includes travel by foot, car, and public transport. You can register for a pass on the [G7 Pass website](https://www.haute-savoie.gouv.fr/Actualites/Espace-presse/G7/PASS-G7) (in French).
-
-Check the [regional government website](https://www.haute-savoie.gouv.fr/Actualites/Espace-presse/G7/Sommet-du-G7-a-Evian-2026) (in French) for up-to-date information about these restrictions.
-
-### Border crossings
-
-French and Swiss authorities are also planning to close several border crossings in the area between 12-18 June. Some crossings will remain open but severe delays are likely. Plan your journey carefully and consider avoiding travel between France and Switzerland on these dates. Check the [Republic and Canton of Geneva](https://www.haute-savoie.gouv.fr/Actualites/Espace-presse/G7/Sommet-du-G7-a-Evian-2026) website  (in French) for the latest information.
+:   Removal of information about G7 Summit and related disruption ('Warnings and insurance' page).
 
 ## Before you travel
 

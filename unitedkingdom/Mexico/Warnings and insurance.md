@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   12 June 2026
+:   20 June 2026
 
 Updated:
-:   11 June 2026
+:   19 June 2026
 
 Latest update:
-:   Updated information about protests at Mexico City International Airport (AICM) ('Warnings and insurance' page).
+:   New information about protests blocking vehicle access to Oaxaca airport (‘Safety and security’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/69a1c6c8ec82ce45f05bd70e/FCDO__TA__065_-_Mexico_Travel_Advice_Ed5__WEB_.jpg)
 

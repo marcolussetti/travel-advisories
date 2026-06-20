@@ -59,7 +59,9 @@ The long-standing policy of the British Government is not to make substantive co
 
 ## Security situation
 
-Some areas of Iraq have experienced recent attack by artillery, drones and rockets. Coalition military installations continue to be a target, including in the Kurdistan Region.
+Some areas of Iraq have experienced recent attack by artillery, drones and rockets. Coalition military installations continue to be a target, including in the Kurdistan Region. Iranian targeting of Iranian-Kurdish opposition groups within the KRI increased during the recent conflict.
+
+Intermittent strikes targeting these groups have continued since in areas across the KRI, including around Rawanduz and Koya. The risk of further strikes remains. Stay away from areas associated with these groups.
 
 The threat level may restrict UK government staff from travelling to certain areas.
 

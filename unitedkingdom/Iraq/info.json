@@ -1,11 +1,11 @@
 {
     "name": "Iraq",
-    "update_reason": "Updated information about risks from terrorist kidnap (\u2018Safety and security\u2019 page).",
+    "update_reason": "FCDO no longer advises against all travel to Federal Iraq and the Kurdistan Region of Iraq but continues to advise against all travel to parts of Federal Iraq and against all but essential travel to other parts of Federal Iraq and the Kurdistan Region of Iraq. Updated information about regional tensions. Updated information about risks from Iranian strikes on Iranian-Kurdish opposition camps and new information about travel disruption in the Kurdistan Region of Iraq ('Warnings and insurance' , 'Safety and security'  and 'Regional risks' pages).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Iraq/Warnings and insurance.md",
-            "update_date": "2026-05-06T14:31:30+01:00"
+            "update_date": "2026-06-19T10:32:12+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Iraq/Getting help.md"
         }
     ],
-    "update_date": "2026-05-06T14:31:30+01:00"
+    "update_date": "2026-06-19T10:32:12+01:00"
 }

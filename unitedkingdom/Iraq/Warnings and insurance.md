@@ -1,62 +1,78 @@
 # Warnings and insurance
 
 Still current at:
-:   7 May 2026
+:   20 June 2026
 
 Updated:
-:   6 May 2026
+:   19 June 2026
 
 Latest update:
-:   Updated information about risks from terrorist kidnap (‘Safety and security’ page).
+:   FCDO no longer advises against all travel to Federal Iraq and the Kurdistan Region of Iraq but continues to advise against all travel to parts of Federal Iraq and against all but essential travel to other parts of Federal Iraq and the Kurdistan Region of Iraq. Updated information about regional tensions. Updated information about risks from Iranian strikes on Iranian-Kurdish opposition camps and new information about travel disruption in the Kurdistan Region of Iraq ('Warnings and insurance' , 'Safety and security' and 'Regional risks' pages).
 
-![](https://assets.publishing.service.gov.uk/media/69a4b52ea4d26cb233cd47f0/FCDO__TA__048_-_Iraq_Travel_Advice_Ed1__WEB_.jpg)
+![](https://assets.publishing.service.gov.uk/media/6a35021600ff27f06e3efaa8/FCDO__TA__048_-_Iraq_Travel_Advice_Ed12__WEB_.jpg)
 
 
-[Download a more detailed map (PDF, 517 KB)](https://assets.publishing.service.gov.uk/media/69a4b52eec82ce45f05bd748/FCDO__TA__048_-_Iraq_Travel_Advice_Ed1.pdf)
+[Download a more detailed map (PDF, 653 KB)](https://assets.publishing.service.gov.uk/media/6a3502166422bec01b1177fc/FCDO__TA__048_-_Iraq_Travel_Advice_Ed12.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
 ## Areas where FCDO advises against travel
 
-Federal Iraq and the Kurdistan Region of Iraq
+### Federal Iraq
 
-FCDO advises against all travel to Federal Iraq and the Kurdistan Region of Iraq. This is due to recent escalation in regional conflict. There is significant risk of further escalation, and events are fast-moving and unpredictable.
+FCDO advises against all travel to:
 
-Find out more about [why FCDO advises against travel](https://www.gov.uk/foreign-travel-advice/iraq/regional-risks).
+* The parts of Anbar province which are west of, but not including Ramadi City
+* Diyala province except for Baqubah City
+* Kirkuk province
+* Ninawa province
+* Salah al-Din province
+* Jurf al-Sakr town in Babil province
+* Sadr City, part of Baghdad province
+* Within 5km of areas that border Iran in Wasit, Maysan and Basra provinces
+* Within 5km of Iraq’s borders with Saudi Arabia and Kuwait
+
+FCDO advises against all but essential travel to:
+
+* The remainder of Al-Muthanna province
+* Al-Qadasiyah province
+* The remainder of Anbar province
+* Babil province (except Jurf al-Sakr town)
+* Baghdad province (except Sadr City)
+* The remainder of Basra province, including Highways 1 and 8 and the Safwan-Kuwait border crossing
+* Dhi Qar Province
+* Karbala Province
+* The remainder of Maysan province
+* The remainder of Najaf province
+* The remainder of Wasit province
+* Baqubah City in Diyala province
+* The road sections of Highway 34 between Baghdad and Baqubah, and Highway 2 between Baqubah and Erbil
+
+### Kurdistan Region of Iraq
+
+FCDO advises against all but essential travel to the Kurdistan Region of Iraq
+
+Find out more about [why FCDO advises against travel](https://www.gov.uk/foreign-travel-advice/iraq/regional-risks).
 
 ## Consular support
 
 Consular support is severely limited in areas where FCDO advises against travel.
 
-## Regional escalation
+## Regional tensions
 
-Regional escalation poses significant security risks and has led to travel disruption.
+The US and Iran have announced a memorandum of understanding in relation to the conflict in the Middle East. The situation remains unpredictable and attacks could resume at short notice.
 
-The Iranian regime has publicly stated its intention to target locations associated with the United States and Israel. This includes US-linked organisations, businesses, facilities and institutions.
+Should hostilities resume, British nationals should:
 
-Stay away from areas around security or military facilities, and US-linked locations.
-
-Iran continues to strike civilian infrastructure across the region such as ports, hotels, roads, bridges, energy facilities, oil production sites, water systems, and airports.
-
-British nationals should:
-
-* read [If you’re affected by a crisis abroad - GOV.UK](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas). This includes guidance on “how to prepare for a crisis” with suggestions on what you might include in your emergency supplies and “what to do in a crisis”
-* follow advice from the local authorities and sign up to receive information and alerts
-* sign up to FCDO Travel Advice email alerts
+* read [If you’re affected by a crisis abroad - GOV.UK](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas). This includes guidance on “how to prepare for a crisis” with suggestions on what you might include in your emergency supplies and “what to do in a crisis”
+* follow advice from the local authorities
+* sign up to FCDO Travel Advice [email alerts](https://www.gov.uk/foreign-travel-advice/iraq/email-signup)
 * monitor local and international media for the latest information
-* stay away from areas around security or military facilities and US government facilities
+* stay away from areas around security or military facilities and US government facilities
 * keep your departure plans under review, and ensure your travel documents are up to date
-* if you are advised to take shelter, stay indoors or find the nearest safe building or designated shelter. An interior stairwell or a room with as few external walls or windows as possible may provide additional protection
+* if you are advised to take shelter, stay indoors or find the nearest safe building or designated shelter. An interior stairwell or a room with as few external walls or windows as possible may provide additional protection. The greatest risk is from falling debris caused by intercepts, and you are safest inside a secure structure
 
-## Entry to Saudi Arabia
-
-British nationals who are trying to leave Iraq via Saudi Arabia and who are travelling on British Emergency Travel Documents, Emergency Passports, or passports with less than 6 months remaining validity, should call the helplines for British Embassy Riyadh +966 (0) 11481 9100 or British Consulate Jeddah +966 (0)126225550 for advice.
-
-See [‘Entry requirements’ for Saudi Arabia](https://draft-origin.publishing.service.gov.uk/foreign-travel-advice/saudi-arabia/entry-requirements).
-
-## Crossing the Iraq - Kuwait (Safwan) border
-
-The border crossing from Iraq into Kuwait is closed. British nationals wishing to cross into Kuwait must contact the British Embassy in Kuwait 24 hours in advance. The British Embassy will share names and passport details with the Ministry of Foreign Affairs who will determine entry.
+Before the 8 April ceasefire, the Iranian regime had stated its intention to target locations associated with the US and Israel. This included US or Israeli-linked organisations, businesses, facilities and institutions. Iran has previously targeted civilian infrastructure across the region such as ports, hotels, roads, bridges, energy facilities, oil production sites, water systems, and airports.
 
 ## If you are in Iraq
 

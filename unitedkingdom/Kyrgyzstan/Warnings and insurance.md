@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   28 February 2026
+:   20 June 2026
 
 Updated:
-:   27 February 2026
+:   19 June 2026
 
 Latest update:
-:   Updated with information about the risks from terrorism (‘Safety and security’ page’).
+:   New information about unexploded ordinance along the Kyrgyzstan-Tajikistan border (‘Regional risks’ page).
 
 ## Before you travel
 

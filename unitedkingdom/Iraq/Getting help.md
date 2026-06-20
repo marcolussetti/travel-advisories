@@ -8,7 +8,7 @@ Ambulance: 122
 
 Fire: 115
 
-Police: 104
+Police: 911
 
 ## Contact your travel provider and insurer
 

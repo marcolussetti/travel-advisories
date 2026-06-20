@@ -54,6 +54,8 @@ There is a high risk from kidnapping and militant activity in much of Balochista
 
 ## Pakistan-administered Kashmir
 
+FCDO advises against all but essential travel to Azad Jammu and Kashmir.
+
 FCDO advises against all travel to within 10 miles of the India-Pakistan border area within Pakistan-administered Kashmir, known as the Line of Control.
 
 Although there is a ceasefire in place, there are still significant tensions between India and Pakistan. There is a risk of small arms fire and occasional mortar fire.

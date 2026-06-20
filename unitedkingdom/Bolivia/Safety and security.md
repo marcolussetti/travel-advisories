@@ -14,17 +14,17 @@ Although there’s no recent history of terrorism in Bolivia, terrorist attacks 
 
 ### Protecting your belongings
 
-Bolivia is facing a protracted economic crisis and dollar shortage which has led to an increase in crime rates. Petty crime is common in central La Paz, in other popular tourist destinations, on buses and in crowded areas. Do not leave your bag or other belongings unattended. Always keep your passport, money and other valuable items in a safe place. On night buses, use a money belt under your clothes for important documents and credit cards; theft can occur when you are asleep.
+Bolivia is experiencing an economic crisis and dollar shortage which has led to an increase in crime rates. Petty crime is common in central La Paz, in other popular tourist destinations, on buses and in crowded areas. Do not leave your bag or other belongings unattended. Always keep your passport, money and other valuable items in a safe place. On night buses, use a money belt under your clothes for important documents and credit cards; theft can occur when you are asleep.
 
 ### Criminals impersonating Police Officers
 
-Thieves often impersonate police officers. They have used fake police ID cards, uniforms and even police stations to fool victims. They may ask to check your documents and your bags and take your belongings.
+Thieves can impersonate police officers. They have used fake police ID cards, uniforms and even police stations to fool victims. They may ask to check your documents and your bags and take your belongings.
 
 You should not get into an unmarked police car under any circumstances. The police cannot stop or search you on the street without a written order from a state prosecutor.
 
 ### Violent crime
 
-There has been an increase in robberies from people taking taxis in Santa Cruz and La Paz. If you use a taxi:
+There has been an increase in robberies from people taking taxis in Santa Cruz, La Paz and Rurrenabaque. If you use a taxi:
 
 * seek local advice and use established companies
 * order the taxi by phone – ‘radio taxis’ have the telephone number and the name of the taxi company on the roof
@@ -32,8 +32,6 @@ There has been an increase in robberies from people taking taxis in Santa Cruz a
 * do not get into a taxi already carrying other passengers
 
 Ignore anyone offering help at taxi stands and bus terminals and watch your belongings. Thieves work in teams to distract their victims.
-
-Attacks on lone travellers taking motorbike taxis have been reported at tourist sites such as Rurrenabaque.
 
 ### Political Situation
 
@@ -85,7 +83,7 @@ There are illegal bars in Bolivia. If the police find you at one, you may be det
 
 ### Illegal drugs and prison sentences
 
-Bolivia is the world’s third largest producer of cocaine. There are harsh penalties for those caught trafficking or in possession. The minimum sentence is 8 years and prison conditions are very poor. Never leave luggage unattended when departing the country and avoid any contact with illegal drugs. Under Bolivian law carrying any amount of illegal drugs or substances is considered drug trafficking.
+Bolivia is the world’s third largest producer of cocaine. There are harsh penalties for those caught trafficking or in possession of drugs. The minimum sentence is 8 years and prison conditions are very poor. Never leave luggage unattended when departing the country and avoid any contact with illegal drugs. Under Bolivian law carrying any amount of illegal drugs or substances is considered drug trafficking.
 
 All passengers on departing international flights from Bolivia will have their hold and hand baggage searched by the Police Narcotics Division, and this will include a search of your person and your bags by a sniffer dog.
 
@@ -139,7 +137,7 @@ Safety standards for bus transportation around Bolivia vary greatly between prov
 
 ### Road blockades
 
-Protest groups often use road blockades as a form of protest, without warning. Avoid large crowds and demonstrations, and do not attempt to cross blockades. Blockades can disrupt public transport at very short notice. Strikes may result in widespread road blockades, including on roads to and from airports. Check [road status updates from the Bolivian road authority](https://transitabilidad.abc.gob.bo/mapa/) (in Spanish) to see which roads are blocked.
+Protest groups often use road blockades as a form of protest, without warning. Avoid large crowds and demonstrations, and do not attempt to cross blockades. Blockades can disrupt public transport at very short notice. Protests or demonstrations may result in widespread road blockades, including on roads to and from airports. Check [road status updates from the Bolivian road authority](https://transitabilidad.abc.gob.bo/mapa/) (in Spanish) to see which roads are blocked.
 
 ### Air travel
 

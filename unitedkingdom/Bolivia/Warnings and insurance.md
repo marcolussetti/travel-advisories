@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   13 June 2026
+:   20 June 2026
 
 Updated:
-:   12 June 2026
+:   19 June 2026
 
 Latest update:
-:   Updated information about ongoing disruption across Bolivia. FCDO continues to advise against all but essential travel to the department of La Paz, including the city of La Paz (see ‘Warnings and insurance’ page).
+:   This travel advice was reviewed for accuracy with minor updates made, including to violent crime ('Safety and security' page).
 
 ![](https://assets.publishing.service.gov.uk/media/6a0f80f429bb11891b1cf047/FCDO__TA__098_-_Bolivia_Travel_Advice_Ed2__WEB_.jpg)
 

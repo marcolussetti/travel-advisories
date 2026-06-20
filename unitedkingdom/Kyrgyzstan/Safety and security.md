@@ -16,7 +16,7 @@ Attacks could be indiscriminate, including in places visited by foreign national
 
 ## Political situation
 
-Demonstrations happen regularly in Bishkek and elsewhere across the country. Most demonstrations are peaceful but occasionally turn violent, sometimes with little or no warning. On 17 and 18 May 2024, 41 people were injured in Bishkek in Kyrgyz protests against South Asian migrant workers and students.
+Demonstrations happen regularly in Bishkek and elsewhere across the country. Most demonstrations are peaceful but can turn violent, with little or no warning. On 17 and 18 May 2024, 41 people were injured in Bishkek in Kyrgyz protests against South Asian migrant workers and students.
 
 Avoid crowds and demonstrations, check for updates on local media and follow the advice of local authorities.
 
