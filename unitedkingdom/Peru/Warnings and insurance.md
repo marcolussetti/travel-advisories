@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   20 June 2026
+:   21 June 2026
 
 Updated:
-:   19 June 2026
+:   20 June 2026
 
 Latest update:
-:   New information about the temporary closure of the Peru-Colombia river border crossing (See ‘Before you travel on the ‘Warnings and insurance’ page)
+:   Colombia’s temporary border closures for the period of presidential elections will now run from 6am Saturday 20 June to 6am Monday 22 June, and will include the Peru-Colombia river border (‘Warnings and insurance’ page)
 
 ![](https://assets.publishing.service.gov.uk/media/6645e81e993111924d9d365a/FCDO__TA__093_-_Peru_Travel_Advice_Ed3__WEB_.jpg)
 
@@ -49,7 +49,7 @@ If you choose to travel, research your destinations and [get appropriate travel 
 
 ### Peru-Colombia river border crossing
 
-The river border crossing between Colombia and Peru will be closed from 6pm on 20 June 2026, until 6am on 22 June 2026, due to the presidential elections in Colombia. You should check local travel arrangements before travelling.
+The river border crossing between Colombia and Peru will be closed from 6am on 20 June 2026, until 6am on 22 June 2026, due to the presidential elections in Colombia. You should check local travel arrangements before travelling.
 
 ## About FCDO travel advice
 

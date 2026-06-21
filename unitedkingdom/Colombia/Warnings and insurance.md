@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   16 June 2026
+:   21 June 2026
 
 Updated:
-:   15 June 2026
+:   20 June 2026
 
 Latest update:
-:   New information about presidential elections on Sunday 21 June (‘Warnings and insurance’ page).
+:   Colombia’s temporary border closures for the period of presidential elections will now run from 6am Saturday 20 June to 6am Monday 22 June, and includes river borders (‘Warnings and insurance’ page)
 
 ![](https://assets.publishing.service.gov.uk/media/6a1022481eb143220d8d27b8/FCDO__TA__054_-_Colombia_Travel_Advice_Ed5__WEB___3_.jpg)
 
@@ -65,7 +65,7 @@ Find out more about [why FCDO advises against travel](/foreign-travel-advice/col
 
 ## Presidential elections
 
-Colombia will hold the second round of presidential elections on Sunday 21 June. Expect busy polling stations, traffic disruption and increased security. Colombia’s land borders with Brazil, Ecuador, Panama, Peru and Venezuela will be closed from Saturday 20 June at 6pm until Monday 22 June at 6am. Plan ahead and expect potential travel disruptions due to closures. Stay away from large gatherings and follow guidance of local authorities. See [Safety and security](https://www.gov.uk/foreign-travel-advice/colombia/safety-and-security) .
+Colombia will hold the second round of presidential elections on Sunday 21 June. Expect busy polling stations, traffic disruption and increased security. Colombia’s land and river borders with Brazil, Ecuador, Panama, Peru and Venezuela will be closed from Saturday 20 June at 6am until Monday 22 June at 6am. Plan ahead and expect potential travel disruptions due to closures. Stay away from large gatherings and follow guidance of local authorities. See [Safety and security](https://www.gov.uk/foreign-travel-advice/colombia/safety-and-security) .
 
 ## Before you travel
 
