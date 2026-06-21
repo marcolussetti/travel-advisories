@@ -2,43 +2,34 @@
 
 ## Safety and security
 
-### Heightened security situation in western Bolivia
+### State of Emergency
 
-The political and security situation in Bolivia is tense and could further deteriorate. There are ongoing protests, roadblocks and violent clashes across western Bolivia, particularly in the La Paz, Potosí and Oruro regions. On June 2, 2026, a 90-day humanitarian and health state of emergency was declared in La Paz department due to shortages of fuel, food and medical supplies.
+The security situation is uncertain and continues to evolve. Protests and roadblocks have interrupted fuel, food, and medical supply chains, leading to humanitarian concerns in La Paz department and other areas.
 
-In case of a medical emergency or urgent medical need, consider seeking care at private healthcare facilities where possible. Public healthcare facilities are experiencing increased strain and limited availability of supplies.
+On June 20, 2026, a 90‑day nationwide state of emergency was declared to enable security forces to clear roadblocks and stabilize the security situation. The state of emergency does not impose a curfew nor include general restrictions on freedom of movement. Localised restrictions may be introduced in areas where security operations are underway, including limits on movement or commercial activity.
 
-If you are travelling to Bolivia, ensure you bring an adequate supply of your prescription medication since they may be difficult to find and expensive.
+Avoid all protests and roadblocks, particularly around government buildings and central La Paz (including Plaza Murillo). Situations can escalate quickly and without warning.
 
-If you encounter a roadblock, do not try to cross it. Overland travel to the following destinations is likely to be severely disrupted:
+Many roads remain blocked or severely damaged due to previous roadblocks. If you must travel by road, avoid the La Paz-Oruro and La Paz-Desaguadero corridors. Access to the following destinations could face significant disruptions:
 
-* La Paz, including the El Alto International Airport
 * Lake Titicaca
 * Uyuni
 * Potosí
 * Tiwanaku
-* Coroico
-
-If you must travel by road, avoid routes between La Paz and:
-
-* Copacabana/Lake Titicaca
-* Oruro
-* Uyuni via Oruro
-* Rurrenabaque
-
-Avoid all protests and roadblocks, particularly around government buildings and central La Paz (including Plaza Murillo). Situations can escalate quickly and without warning.
 
 Be prepared to change your travel plans on short notice, including cutting short or cancelling your trip.
 
 If you plan on entering Bolivia via a land border crossing with Peru or Chile, or to access the El Alto International Airport, you should confirm the status of your route before you depart.
 
-Bus and coach operators may sell “conditional” tickets while roadblocks are in place. These tickets do not guarantee your passage nor your arrival at your destination. Avoid purchasing tickets or using bus services that advertise travel via alternative or secondary routes to bypass roadblocks. These routes are often in poor condition and may significantly increase the risk of accidents.
+The La Paz and El Alto bus terminals are not operating until further notice. Bus and coach operators may sell “conditional” tickets while roadblocks are in place. These tickets do not guarantee your passage nor your arrival at your destination. Avoid purchasing tickets or using bus services that advertise travel via alternative or secondary routes to bypass roadblocks. These routes are often in poor condition and may significantly increase the risk of accidents.
 
-#### Useful links
+You should:
 
-[More information on roadblocks](#roadblocks)
-
-[More information on medication](#medication)
+* monitor local and international media to stay informed of the rapidly evolving situation
+* avoid affected areas and leave the area immediately if tensions escalate
+* follow the instructions of local authorities
+* verify the security situation on specific routes and areas before you travel
+* notify the Embassy of Canada to Bolivia, in La Paz, of your presence and sign up with the [Registration of Canadians Abroad](https://travel.gc.ca/travelling/registration) service to receive important additional information, specific to your location, about the ongoing situation
 
 ### Demonstrations
 

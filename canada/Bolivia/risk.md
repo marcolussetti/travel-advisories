@@ -20,10 +20,10 @@ The features in this map do not constitute an authoritative source of geographic
 
 [Exercise a high degree of caution](#levels "Risk Levels") in Bolivia due to the continuing political and social tensions resulting in frequent roadblocks throughout the country.
 
+### Chapare Region - Avoid all travel
+
+[Avoid all travel](#levels "Risk Levels") to the Chapare Region, in the department of Cochabamba, due to the unstable security situation, elevated civil unrest, anti-foreigner sentiment, potential movement restrictions and criminal activity such as drug trafficking, kidnapping and extortion.
+
 ### La Paz department - Avoid non-essential travel
 
 [Avoid non-essential travel](#levels "Risk Levels") to La Paz department due to the ongoing political and social tensions resulting in widespread, potentially violent clashes and frequent roadblocks.
-
-### Chapare Region - Avoid non-essential travel
-
-[Avoid non-essential travel](#levels "Risk Levels") to the Chapare Region, in the department of Cochabamba, due to criminal activity such as drug trafficking, kidnapping and extortion.
