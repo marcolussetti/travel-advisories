@@ -137,7 +137,7 @@ Safety standards for bus transportation around Bolivia vary greatly between prov
 
 ### Road blockades
 
-Protest groups often use road blockades as a form of protest, without warning. Avoid large crowds and demonstrations, and do not attempt to cross blockades. Blockades can disrupt public transport at very short notice. Protests or demonstrations may result in widespread road blockades, including on roads to and from airports. Check [road status updates from the Bolivian road authority](https://transitabilidad.abc.gob.bo/mapa/) (in Spanish) to see which roads are blocked.
+A State of Emergency was declared in Bolivia on 21 June to restrict protests and blockades. Protest groups often use road blockades as a form of protest, without warning. Avoid large crowds and demonstrations, and do not attempt to cross blockades. Blockades can disrupt public transport at very short notice. Protests or demonstrations may result in widespread road blockades, including on roads to and from airports. Check [road status updates from the Bolivian road authority](https://transitabilidad.abc.gob.bo/mapa/) (in Spanish) to see which roads are blocked.
 
 ### Air travel
 

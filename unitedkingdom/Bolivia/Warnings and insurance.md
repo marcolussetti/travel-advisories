@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   20 June 2026
+:   22 June 2026
 
 Updated:
-:   19 June 2026
+:   21 June 2026
 
 Latest update:
-:   This travel advice was reviewed for accuracy with minor updates made, including to violent crime ('Safety and security' page).
+:   A State of Emergency has been declared in Bolivia to restrict roadblocks and protests. (‘Warning and insurance’ and ‘Safety and security’ pages)
 
 ![](https://assets.publishing.service.gov.uk/media/6a0f80f429bb11891b1cf047/FCDO__TA__098_-_Bolivia_Travel_Advice_Ed2__WEB_.jpg)
 
@@ -23,6 +23,12 @@ FCDO advises against all but essential travel to the department of La Paz, inc
 FCDO advises against all but essential travel to the Chapare region of Cochabamba Department including Villa Tunari and highway routes 4 and 24 that pass through Chapare.
 
 Find out more about [why FCDO advises against travel](https://www.gov.uk/foreign-travel-advice/bolivia/safety-and-security).
+
+## State of Emergency
+
+A State of Emergency has been declared in Bolivia to restrict roadblocks and protests. The police or military may be used to remove blockades and disrupt protests, which could lead to violence.
+
+The State of Emergency gives the police and military powers to detain people not complying with the new measures for up to 8 hours without charge. Drinking alcohol or joining large gatherings in red zones is now prohibited. Check the advice of local authorities, stay alert and keep away from roadblocks or protests.
 
 ## Protests and road blockades
 

@@ -1,11 +1,11 @@
 {
     "name": "Bolivia",
-    "update_reason": "This travel advice was reviewed for accuracy with minor updates made, including to violent crime ('Safety and security' page).",
+    "update_reason": "A State of Emergency has been declared in Bolivia to restrict roadblocks and protests. (\u2018Warning and insurance\u2019 and \u2018Safety and security\u2019 pages)",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Bolivia/Warnings and insurance.md",
-            "update_date": "2026-06-19T16:15:02+01:00"
+            "update_date": "2026-06-21T18:50:47+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Bolivia/Getting help.md"
         }
     ],
-    "update_date": "2026-06-19T16:15:02+01:00"
+    "update_date": "2026-06-21T18:50:47+01:00"
 }
