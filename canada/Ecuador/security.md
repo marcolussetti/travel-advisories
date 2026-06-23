@@ -45,10 +45,6 @@ If you are in Ecuador:
 
 ### Border areas
 
-### Border crossings with Colombia
-
-The land border crossings to Colombia from Ecuador will be closed from 6 pm on June 20, 2026, until 6 am on June 22, 2026, due to presidential elections in Colombia.
-
 #### Land border crossings with Colombia and Peru
 
 For national security reasons, Ecuadorian authorities have closed most land border crossings with Colombia and Peru until further notice. Only the following remain open:

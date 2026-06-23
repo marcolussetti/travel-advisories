@@ -1,7 +1,7 @@
 {
     "name": "Vietnam",
-    "update_reason": "Laws and culture section \u2013 added information on identification requirement for domestic air travel",
-    "update_date": "2026-05-29T09:04:00",
+    "update_reason": "Health \u2013 Travel health notice for dengue added",
+    "update_date": "2026-06-22T10:10:00",
     "sections": {
         "risk": "canada/Vietnam/risk.md",
         "security": "canada/Vietnam/security.md",

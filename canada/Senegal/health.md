@@ -5,7 +5,6 @@
 ### Relevant Travel Health Notices
 
 * [Measles: Advice for travellers](https://travel.gc.ca/travelling/health-safety/travel-health-notices/504)
-* [Dengue: Advice for travellers](https://travel.gc.ca/travelling/health-safety/travel-health-notices/517)
 * [Polio: Advice for travellers](https://travel.gc.ca/travelling/health-safety/travel-health-notices/508)
 
 This section has information and advice about health risks you might face when travelling. Following this advice can help reduce your risk of getting sick. Not all risks are listed here.
@@ -59,6 +58,43 @@ There is a risk of [hepatitis A](https://www.canada.ca/en/public-health/services
 
 Practise [safe food and water precautions](https://travel.gc.ca/travelling/health-safety/food-water) and wash your hands often. Vaccination is recommended for all travellers to areas where hepatitis A is present.
 
+Measles 
+
+Measles is a serious viral infection that spreads easily. It spreads through the air, and can stay in the air for up to 2 hours. You can also get measles by direct contact with an infected person or by touching a surface with the virus on it and then touching your eyes, nose, or mouth before washing your hands.
+
+Getting vaccinated is the best way to protect yourself and others from measles. In Canada, the measles vaccine is part of the routine immunization schedule. If you’re unsure whether you’re protected, talk to a healthcare provider.
+
+**Learn more:**
+
+[Measles](https://www.canada.ca/en/public-health/services/diseases/measles.html)
+
+Meningococcal disease 
+
+This destination is in the African Meningitis Belt, an area which has the highest rates of meningococcal disease in the world. [Meningococcal disease](https://www.canada.ca/en/public-health/services/immunization/vaccine-preventable-diseases/invasive-meningococcal-disease.html) is a serious and sometimes fatal infection.
+
+Travellers who are at higher risk should discuss vaccination with a health care provider. High-risk travellers include those living or working with the local population (e.g., health care workers) or those travelling to crowded areas or taking part in large gatherings.
+
+Hepatitis B
+
+[Hepatitis B](https://www.canada.ca/en/public-health/services/diseases/hepatitis-b.html) is a risk in every destination. It is a viral liver disease that is easily transmitted from one person to another through exposure to blood and body fluids containing the hepatitis B virus.  Travellers who may be exposed to blood or other bodily fluids (e.g., through sexual contact, medical treatment, sharing needles, tattooing, acupuncture or occupational exposure) are at higher risk of getting hepatitis B.
+
+Hepatitis B vaccination is recommended for all travellers. [Prevent hepatitis B](https://www.canada.ca/en/public-health/services/diseases/hepatitis-b/prevention-risks.html#a2) infection by practicing safe sex, only using new and sterile drug equipment, and only getting tattoos and piercings in settings that follow public health regulations and standards.
+
+Malaria 
+
+[Malaria](https://www.canada.ca/en/public-health/services/diseases/malaria.html) is a serious and sometimes fatal disease that is caused by parasites spread through the bites of mosquitoes.
+
+**Malaria is a risk to travellers to this destination.**  
+   
+[Antimalarial medication is recommended](https://www.canada.ca/en/public-health/services/catmat/appendix-1-malaria-risk-recommended-chemoprophylaxis-geographic-area.html) for most travellers to this destination and should be taken as recommended. Consult a health care professional or visit a travel health clinic before travelling to discuss your options. It is recommended to do this 6 weeks before travel, however, it is still a good idea any time before leaving. 
+
+* Cover your skin and use an [approved](https://www.canada.ca/en/health-canada/services/about-pesticides/insect-repellents.html) insect repellent on uncovered skin.
+* Exclude mosquitoes from your living area with screening and/or closed, well-sealed doors and windows.
+* Use insecticide-treated bed nets if mosquitoes cannot be excluded from your living area.
+* Wear permethrin-treated clothing.
+
+ If you develop [symptoms](https://www.canada.ca/en/public-health/services/diseases/malaria/symptoms-malaria.html) similar to malaria when you are travelling or up to a year after you return home, see a health care professional immediately. Tell them where you have been travelling or living.
+
 Polio 
 
 [Polio](https://travel.gc.ca/travelling/health-safety/diseases/polio) (poliomyelitis) is an infectious disease that can be prevented by vaccination. It is caused by poliovirus type 1, 2 or 3. Circulating vaccine-derived poliovirus 2 (cVDPV2) is present in this country.
@@ -101,44 +137,6 @@ When you return to Canada, see a health care professional as soon as possible an
 
 **Learn more:**  
 [Rabies: Symptoms and treatment](https://www.canada.ca/en/public-health/services/diseases/rabies.html)
-
-Measles 
-
-Measles is a serious viral infection that spreads easily. It spreads through the air, and can stay in the air for up to 2 hours. You can also get measles by direct contact with an infected person or by touching a surface with the virus on it and then touching your eyes, nose, or mouth before washing your hands.
-
-Getting vaccinated is the best way to protect yourself and others from measles. In Canada, the measles vaccine is part of the routine immunization schedule. If you’re unsure whether you’re protected, talk to a healthcare provider.
-
-**Learn more:**
-
-[Measles](https://www.canada.ca/en/public-health/services/diseases/measles.html)
-
-Meningococcal disease 
-
-This destination is in the African Meningitis Belt, an area which has the highest rates of meningococcal disease in the world. [Meningococcal disease](https://www.canada.ca/en/public-health/services/immunization/vaccine-preventable-diseases/invasive-meningococcal-disease.html) is a serious and sometimes fatal infection.
-
-Travellers who are at higher risk should discuss vaccination with a health care provider. High-risk travellers include those living or working with the local population (e.g., health care workers) or those travelling to crowded areas or taking part in large gatherings.
-
-Hepatitis B
-
-[Hepatitis B](https://www.canada.ca/en/public-health/services/diseases/hepatitis-b.html) is a risk in every destination. It is a viral liver disease that is easily transmitted from one person to another through exposure to blood and body fluids containing the hepatitis B virus.  Travellers who may be exposed to blood or other bodily fluids (e.g., through sexual contact, medical treatment, sharing needles, tattooing, acupuncture or occupational exposure) are at higher risk of getting hepatitis B.
-
-Hepatitis B vaccination is recommended for all travellers. [Prevent hepatitis B](https://www.canada.ca/en/public-health/services/diseases/hepatitis-b/prevention-risks.html#a2) infection by practicing safe sex, only using new and sterile drug equipment, and only getting tattoos and piercings in settings that follow public health regulations and standards.
-
-Malaria 
-
-[Malaria](https://www.canada.ca/en/public-health/services/diseases/malaria.html) is a serious and sometimes fatal disease that is caused by parasites spread through the bites of mosquitoes.
-
-**Malaria is a risk to travellers to this destination.**  
-   
-[Antimalarial medication is recommended](https://www.canada.ca/en/public-health/services/catmat/appendix-1-malaria-risk-recommended-chemoprophylaxis-geographic-area.html) for most travellers to this destination and should be taken as recommended. Consult a health care professional or visit a travel health clinic before travelling to discuss your options. It is recommended to do this 6 weeks before travel, however, it is still a good idea any time before leaving.   
- 
-
-* Cover your skin and use an [approved](https://www.canada.ca/en/health-canada/services/about-pesticides/insect-repellents.html) insect repellent on uncovered skin.
-* Exclude mosquitoes from your living area with screening and/or closed, well-sealed doors and windows.
-* Use insecticide-treated bed nets if mosquitoes cannot be excluded from your living area.
-* Wear permethrin-treated clothing.
-
- If you develop [symptoms](https://www.canada.ca/en/public-health/services/diseases/malaria/symptoms-malaria.html) similar to malaria when you are travelling or up to a year after you return home, see a health care professional immediately. Tell them where you have been travelling or living.
 
 COVID-19
 
@@ -245,6 +243,10 @@ Dengue
 [Dengue](https://www.canada.ca/en/public-health/services/infectious-diseases/viral-haemorrhagic-fevers/dengue-fever.html)  
 [Insect bite and pest prevention](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html)
 
+Rift Valley fever
+
+[Rift Valley fever](http://www.who.int/mediacentre/factsheets/fs207/en/) is a viral disease that can cause severe flu-like symptoms. In some cases, it can be fatal. It is spread to humans through contact with infected animal blood or tissues, from the bite of an infected mosquito, or eating or drinking unpasteurized dairy. Risk is generally low for most travellers. Protect yourself from insect bites and avoid animals, particularly livestock, and unpasteurized dairy. There is no vaccine available for Rift Valley fever.
+
 Zika virus 
 
 [Zika virus](https://www.canada.ca/en/public-health/services/diseases/zika-virus.html) is a risk in this country.
@@ -259,10 +261,6 @@ During your trip:
 If you are pregnant or planning a pregnancy, you should discuss the potential risks of travelling to this destination with your health care provider. You may choose to avoid or postpone travel.
 
 For more information, see [Zika virus: Pregnant or planning a pregnancy.](https://www.canada.ca/en/public-health/services/diseases/zika-virus/pregnant-planning-pregnancy.html)
-
-Rift Valley fever
-
-[Rift Valley fever](http://www.who.int/mediacentre/factsheets/fs207/en/) is a viral disease that can cause severe flu-like symptoms. In some cases, it can be fatal. It is spread to humans through contact with infected animal blood or tissues, from the bite of an infected mosquito, or eating or drinking unpasteurized dairy. Risk is generally low for most travellers. Protect yourself from insect bites and avoid animals, particularly livestock, and unpasteurized dairy. There is no vaccine available for Rift Valley fever.
 
 ### Animal precautions
 

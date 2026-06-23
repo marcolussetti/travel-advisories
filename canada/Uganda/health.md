@@ -337,20 +337,6 @@ To reduce your risk of getting sick:
 
 Make sure to closely watch children; they are more likely to try to touch animals.
 
-Plague 
-
-There is a risk of [plague](https://www.canada.ca/en/public-health/services/diseases/plague.html) in this country. Plague is a bacterial disease that can cause serious illness, and if left untreated, death.
-
-The occurrence of cases in areas where the plague bacteria are known to circulate can be influenced by weather and environmental conditions. In some countries, this results in seasonal outbreaks.  
-Travellers to areas where plague routinely occurs may be at risk if they are camping, hunting, or in contact with rodents.
-
-Plague is spread by:
-
-* bites from fleas infected with the plague
-* direct contact with body fluids or tissues from an animal or person who is sick with or has died from plague
-
-Overall risk to travellers is low. [Protect yourself](https://www.canada.ca/en/public-health/services/diseases/plague/prevention-plague.html) by [reducing contact with fleas](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html) and potentially infected rodents and other wildlife.
-
 Cutaneous anthrax
 
 Anthrax is a serious infectious disease caused by bacteria. People can get sick with anthrax if they come into contact with infected animals or contaminated animal products. Anthrax can cause severe illness in both humans and animals.  

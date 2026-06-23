@@ -18,10 +18,6 @@ If you choose to travel to Venezuela despite this advisory :
 
 ### Border areas
 
-### Border crossings with Colombia
-
-Land and river border crossings to Colombia from Venezuela will be closed from 6 pm on June 20, 2026, until 6 am on June 22, 2026, due to presidential elections in Colombia
-
 #### Guyana
 
 The security environment is volatile at the border between Venezuela and Guyana due to the ongoing dispute over the Guayana Esequiba region.

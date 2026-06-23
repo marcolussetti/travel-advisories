@@ -14,13 +14,13 @@
     {
         "destination": "Algeria",
         "risk_level": "Exercise a high degree of caution (with regional advisories)",
-        "last_updated": "2026-05-26T12:50:42",
+        "last_updated": "2026-06-22T07:02:17",
         "details_url": "https://travel.gc.ca/destinations/algeria"
     },
     {
         "destination": "American Samoa",
         "risk_level": "Take normal security precautions",
-        "last_updated": "2026-06-19T15:53:03",
+        "last_updated": "2026-06-22T10:20:20",
         "details_url": "https://travel.gc.ca/destinations/american-samoa"
     },
     {
@@ -182,7 +182,7 @@
     {
         "destination": "Brazil",
         "risk_level": "Exercise a high degree of caution (with regional advisories)",
-        "last_updated": "2026-06-19T14:34:14",
+        "last_updated": "2026-06-22T11:46:22",
         "details_url": "https://travel.gc.ca/destinations/brazil"
     },
     {
@@ -254,7 +254,7 @@
     {
         "destination": "Chad",
         "risk_level": "Avoid non-essential travel (with regional advisories)",
-        "last_updated": "2026-05-26T12:50:42",
+        "last_updated": "2026-06-22T09:53:28",
         "details_url": "https://travel.gc.ca/destinations/chad"
     },
     {
@@ -272,7 +272,7 @@
     {
         "destination": "Colombia",
         "risk_level": "Exercise a high degree of caution (with regional advisories)",
-        "last_updated": "2026-06-19T16:01:12",
+        "last_updated": "2026-06-22T16:22:17",
         "details_url": "https://travel.gc.ca/destinations/colombia"
     },
     {
@@ -332,7 +332,7 @@
     {
         "destination": "Democratic Republic of Congo (Kinshasa)",
         "risk_level": "Avoid all travel",
-        "last_updated": "2026-06-02T16:15:41",
+        "last_updated": "2026-06-22T15:14:02",
         "details_url": "https://travel.gc.ca/destinations/congo-kinshasa"
     },
     {
@@ -362,7 +362,7 @@
     {
         "destination": "Ecuador",
         "risk_level": "Exercise a high degree of caution (with regional advisories)",
-        "last_updated": "2026-06-19T14:38:54",
+        "last_updated": "2026-06-22T11:48:41",
         "details_url": "https://travel.gc.ca/destinations/ecuador"
     },
     {
@@ -464,7 +464,7 @@
     {
         "destination": "Germany",
         "risk_level": "Exercise a high degree of caution",
-        "last_updated": "2026-06-09T10:58:11",
+        "last_updated": "2026-06-22T07:09:39",
         "details_url": "https://travel.gc.ca/destinations/germany"
     },
     {
@@ -518,7 +518,7 @@
     {
         "destination": "Guinea",
         "risk_level": "Exercise a high degree of caution",
-        "last_updated": "2026-05-28T11:55:16",
+        "last_updated": "2026-06-22T09:53:28",
         "details_url": "https://travel.gc.ca/destinations/guinea"
     },
     {
@@ -536,7 +536,7 @@
     {
         "destination": "Haiti",
         "risk_level": "Avoid all travel",
-        "last_updated": "2026-05-26T12:50:42",
+        "last_updated": "2026-06-22T09:54:52",
         "details_url": "https://travel.gc.ca/destinations/haiti"
     },
     {
@@ -722,7 +722,7 @@
     {
         "destination": "Madagascar",
         "risk_level": "Exercise a high degree of caution",
-        "last_updated": "2026-06-17T12:25:42",
+        "last_updated": "2026-06-22T15:14:02",
         "details_url": "https://travel.gc.ca/destinations/madagascar"
     },
     {
@@ -746,7 +746,7 @@
     {
         "destination": "Mali",
         "risk_level": "Avoid all travel",
-        "last_updated": "2026-05-26T12:50:42",
+        "last_updated": "2026-06-22T10:09:05",
         "details_url": "https://travel.gc.ca/destinations/mali"
     },
     {
@@ -770,7 +770,7 @@
     {
         "destination": "Mauritania",
         "risk_level": "Avoid non-essential travel (with regional advisories)",
-        "last_updated": "2026-05-26T12:50:42",
+        "last_updated": "2026-06-22T09:53:28",
         "details_url": "https://travel.gc.ca/destinations/mauritania"
     },
     {
@@ -782,7 +782,7 @@
     {
         "destination": "Mayotte",
         "risk_level": "Exercise a high degree of caution",
-        "last_updated": "2026-05-29T09:07:13",
+        "last_updated": "2026-06-22T10:31:40",
         "details_url": "https://travel.gc.ca/destinations/mayotte"
     },
     {
@@ -890,13 +890,13 @@
     {
         "destination": "Niger",
         "risk_level": "Avoid all travel",
-        "last_updated": "2026-06-12T15:51:25",
+        "last_updated": "2026-06-22T09:53:28",
         "details_url": "https://travel.gc.ca/destinations/niger"
     },
     {
         "destination": "Nigeria",
         "risk_level": "Avoid non-essential travel (with regional advisories)",
-        "last_updated": "2026-06-19T15:26:20",
+        "last_updated": "2026-06-22T09:53:28",
         "details_url": "https://travel.gc.ca/destinations/nigeria"
     },
     {
@@ -938,7 +938,7 @@
     {
         "destination": "Pakistan",
         "risk_level": "Exercise a high degree of caution (with regional advisories)",
-        "last_updated": "2026-06-19T15:35:17",
+        "last_updated": "2026-06-22T09:28:40",
         "details_url": "https://travel.gc.ca/destinations/pakistan"
     },
     {
@@ -968,7 +968,7 @@
     {
         "destination": "Peru",
         "risk_level": "Exercise a high degree of caution (with regional advisories)",
-        "last_updated": "2026-06-18T16:47:17",
+        "last_updated": "2026-06-22T15:14:02",
         "details_url": "https://travel.gc.ca/destinations/peru"
     },
     {
@@ -1094,7 +1094,7 @@
     {
         "destination": "Senegal",
         "risk_level": "Exercise a high degree of caution",
-        "last_updated": "2026-05-26T12:50:42",
+        "last_updated": "2026-06-22T10:09:43",
         "details_url": "https://travel.gc.ca/destinations/senegal"
     },
     {
@@ -1148,13 +1148,13 @@
     {
         "destination": "Somalia",
         "risk_level": "Avoid all travel",
-        "last_updated": "2026-05-29T14:49:36",
+        "last_updated": "2026-06-22T09:53:28",
         "details_url": "https://travel.gc.ca/destinations/somalia"
     },
     {
         "destination": "South Africa",
         "risk_level": "Exercise a high degree of caution",
-        "last_updated": "2026-06-12T11:27:26",
+        "last_updated": "2026-06-22T09:53:28",
         "details_url": "https://travel.gc.ca/destinations/south-africa"
     },
     {
@@ -1298,7 +1298,7 @@
     {
         "destination": "Uganda",
         "risk_level": "Avoid non-essential travel (with regional advisories)",
-        "last_updated": "2026-06-02T15:46:11",
+        "last_updated": "2026-06-22T15:17:29",
         "details_url": "https://travel.gc.ca/destinations/uganda"
     },
     {
@@ -1346,13 +1346,13 @@
     {
         "destination": "Venezuela",
         "risk_level": "Avoid all travel",
-        "last_updated": "2026-06-18T16:30:53",
+        "last_updated": "2026-06-22T11:44:12",
         "details_url": "https://travel.gc.ca/destinations/venezuela"
     },
     {
         "destination": "Vietnam",
         "risk_level": "Exercise a high degree of caution",
-        "last_updated": "2026-05-29T09:04:51",
+        "last_updated": "2026-06-22T10:10:24",
         "details_url": "https://travel.gc.ca/destinations/vietnam"
     },
     {

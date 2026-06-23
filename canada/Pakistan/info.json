@@ -1,7 +1,7 @@
 {
     "name": "Pakistan",
-    "update_reason": "Editorial change",
-    "update_date": "2026-06-19T15:35:00",
+    "update_reason": "Safety and security section \u2013 removed information on demonstrations in Pakistan-administered Kashmir",
+    "update_date": "2026-06-22T09:28:00",
     "sections": {
         "risk": "canada/Pakistan/risk.md",
         "security": "canada/Pakistan/security.md",

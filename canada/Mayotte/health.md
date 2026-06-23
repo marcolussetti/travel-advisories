@@ -11,6 +11,21 @@ This section has information and advice about health risks you might face when t
 
 It's best to talk to a healthcare provider or visit a travel health clinic preferably 6 weeks before your trip to get personalized health advice. Even if your travel date is coming up soon, it's still worthwhile to make an appointment.
 
+### Outbreak Monitoring
+
+#### Malaria in Mayotte
+
+Malaria cases are currently being reported in parts of Mayotte. The majority of cases have been reported in Chirongui municipality. Malaria is a serious disease that can be deadly and is spread through the bites of infected mosquitoes.
+
+It's important to speak with a health care provider or visit a travel health clinic before your trip to discuss your options. While it's best to do this at least 6 weeks before travelling, it's still a good idea to make an appointment any time before you leave.
+
+To protect yourself while travelling, avoid mosquito bites and follow any other guidance your health care provider gives you.
+
+**Learn more:**  
+[Malaria](https://www.canada.ca/en/public-health/services/diseases/malaria.html)  
+[Personal insect repellents](https://www.canada.ca/en/health-canada/services/about-pesticides/insect-repellents.html)  
+[Insect bite and pest prevention](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html)
+
 ### Routine vaccines
 
 Make sure your routine vaccinations are up-to-date before you travel, no matter where you’re going.
@@ -56,6 +71,44 @@ There is a risk of [hepatitis A](https://www.canada.ca/en/public-health/services
 
 Practise [safe food and water precautions](https://travel.gc.ca/travelling/health-safety/food-water) and wash your hands often. Vaccination is recommended for all travellers to areas where hepatitis A is present.
 
+Rabies 
+
+Rabies may be present in some wildlife in this destination, including bats. Rabies is a serious disease that’s almost always fatal once symptoms appear. It's spread to humans through the saliva of infected animals, mainly through bites, but it can also be spread through scratches.
+
+Before you travel, talk to a health care professional about rabies vaccination. Vaccination may be recommended if you’ll be working directly with wildlife.
+
+If you’re bitten or scratched by wildlife, including bats:
+
+* wash the wound right away with soap and clean water for about 15 minutes
+* get medical care as soon as possible
+
+If you get treatment to prevent rabies while outside Canada, ask for:
+
+* written records of medications and vaccines administered, including when they were given, product names, and batch or lot numbers
+* photos of the packaging and labels of any medications or vaccines given to you
+
+When you return to Canada, see a health care professional as soon as possible and bring your treatment records to your appointment.
+
+**Learn more:**  
+[Rabies: Symptoms and treatment](https://www.canada.ca/en/public-health/services/diseases/rabies.html)
+
+Malaria 
+
+[Malaria](https://www.canada.ca/en/public-health/services/diseases/malaria.html) is a serious and sometimes fatal disease that is caused by parasites spread through the bites of mosquitoes.   
+   
+**Limited malaria transmission may occur in this destination, but risk to travellers is very low.**  
+   
+[Antimalarial medication is not recommended](https://www.canada.ca/en/public-health/services/catmat/appendix-1-malaria-risk-recommended-chemoprophylaxis-geographic-area.html) for most travellers. Consult a health care professional or visit a travel health clinic before travelling to discuss your options. It is recommended to do this 6 weeks before travel, however, it is still a good idea any time before leaving.   
+   
+[Protect yourself from mosquito bites](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html) at all times:
+
+* Cover your skin and use an [approved](https://www.canada.ca/en/health-canada/services/about-pesticides/insect-repellents.html) insect repellent on uncovered skin.
+* Exclude mosquitoes from your living area with screening and/or closed, well-sealed doors and windows.
+* Use insecticide-treated bed nets if mosquitoes cannot be excluded from your living area.
+* Wear permethrin-treated clothing.
+
+If you develop [symptoms](https://www.canada.ca/en/public-health/services/diseases/malaria/symptoms-malaria.html) similar to malaria when you are travelling or up to a year after you return home, see a health care professional immediately. Tell them where you have been travelling or living.
+
 Hepatitis B
 
 [Hepatitis B](https://www.canada.ca/en/public-health/services/diseases/hepatitis-b.html) is a risk in every destination. It is a viral liver disease that is easily transmitted from one person to another through exposure to blood and body fluids containing the hepatitis B virus.  Travellers who may be exposed to blood or other bodily fluids (e.g., through sexual contact, medical treatment, sharing needles, tattooing, acupuncture or occupational exposure) are at higher risk of getting hepatitis B.
@@ -98,44 +151,6 @@ Getting vaccinated is the best way to protect yourself and others from measles. 
 **Learn more:**
 
 [Measles](https://www.canada.ca/en/public-health/services/diseases/measles.html)
-
-Rabies 
-
-Rabies may be present in some wildlife in this destination, including bats. Rabies is a serious disease that’s almost always fatal once symptoms appear. It's spread to humans through the saliva of infected animals, mainly through bites, but it can also be spread through scratches.
-
-Before you travel, talk to a health care professional about rabies vaccination. Vaccination may be recommended if you’ll be working directly with wildlife.
-
-If you’re bitten or scratched by wildlife, including bats:
-
-* wash the wound right away with soap and clean water for about 15 minutes
-* get medical care as soon as possible
-
-If you get treatment to prevent rabies while outside Canada, ask for:
-
-* written records of medications and vaccines administered, including when they were given, product names, and batch or lot numbers
-* photos of the packaging and labels of any medications or vaccines given to you
-
-When you return to Canada, see a health care professional as soon as possible and bring your treatment records to your appointment.
-
-**Learn more:**  
-[Rabies: Symptoms and treatment](https://www.canada.ca/en/public-health/services/diseases/rabies.html)
-
-Malaria 
-
-[Malaria](https://www.canada.ca/en/public-health/services/diseases/malaria.html) is a serious and sometimes fatal disease that is caused by parasites spread through the bites of mosquitoes.   
-   
-**Limited malaria transmission may occur in this destination, but risk to travellers is very low.**  
-   
-[Antimalarial medication is not recommended](https://www.canada.ca/en/public-health/services/catmat/appendix-1-malaria-risk-recommended-chemoprophylaxis-geographic-area.html) for most travellers. Consult a health care professional or visit a travel health clinic before travelling to discuss your options. It is recommended to do this 6 weeks before travel, however, it is still a good idea any time before leaving.   
-   
-[Protect yourself from mosquito bites](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html) at all times:
-
-* Cover your skin and use an [approved](https://www.canada.ca/en/health-canada/services/about-pesticides/insect-repellents.html) insect repellent on uncovered skin.
-* Exclude mosquitoes from your living area with screening and/or closed, well-sealed doors and windows.
-* Use insecticide-treated bed nets if mosquitoes cannot be excluded from your living area.
-* Wear permethrin-treated clothing.
-
-If you develop [symptoms](https://www.canada.ca/en/public-health/services/diseases/malaria/symptoms-malaria.html) similar to malaria when you are travelling or up to a year after you return home, see a health care professional immediately. Tell them where you have been travelling or living.
 
 ### Safe food and water precautions
 

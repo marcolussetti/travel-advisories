@@ -5,7 +5,6 @@
 ### Relevant Travel Health Notices
 
 * [Measles: Advice for travellers](https://travel.gc.ca/travelling/health-safety/travel-health-notices/504)
-* [Dengue: Advice for travellers](https://travel.gc.ca/travelling/health-safety/travel-health-notices/517)
 
 This section has information and advice about health risks you might face when travelling. Following this advice can help reduce your risk of getting sick. Not all risks are listed here.
 
@@ -61,6 +60,27 @@ Hepatitis B
 
 Hepatitis B vaccination is recommended for all travellers. [Prevent hepatitis B](https://www.canada.ca/en/public-health/services/diseases/hepatitis-b/prevention-risks.html#a2) infection by practicing safe sex, only using new and sterile drug equipment, and only getting tattoos and piercings in settings that follow public health regulations and standards.
 
+Rabies 
+
+Rabies may be present in some wildlife in this destination, including bats. Rabies is a serious disease that’s almost always fatal once symptoms appear. It's spread to humans through the saliva of infected animals, mainly through bites, but it can also be spread through scratches.
+
+Before you travel, talk to a health care professional about rabies vaccination. Vaccination may be recommended if you’ll be working directly with wildlife.
+
+If you’re bitten or scratched by wildlife, including bats:
+
+* wash the wound right away with soap and clean water for about 15 minutes
+* get medical care as soon as possible
+
+If you get treatment to prevent rabies while outside Canada, ask for:
+
+* written records of medications and vaccines administered, including when they were given, product names, and batch or lot numbers
+* photos of the packaging and labels of any medications or vaccines given to you
+
+When you return to Canada, see a health care professional as soon as possible and bring your treatment records to your appointment.
+
+**Learn more:**  
+[Rabies: Symptoms and treatment](https://www.canada.ca/en/public-health/services/diseases/rabies.html)
+
 COVID-19
 
 COVID-19 is an infectious viral disease. Most of the time, it spreads when people are in close contact with others who are infected with the virus. It spreads through respiratory particles, or through an infected surface or object.
@@ -87,27 +107,6 @@ Influenza
 The flu vaccine available in one hemisphere may only offer partial protection against the flu in the other hemisphere.
 
 The flu virus spreads from person to person when they cough or sneeze or by touching objects and surfaces that have been contaminated with the virus. Clean your hands often and wear a mask if you have a fever or respiratory symptoms.
-
-Rabies 
-
-Rabies may be present in some wildlife in this destination, including bats. Rabies is a serious disease that’s almost always fatal once symptoms appear. It's spread to humans through the saliva of infected animals, mainly through bites, but it can also be spread through scratches.
-
-Before you travel, talk to a health care professional about rabies vaccination. Vaccination may be recommended if you’ll be working directly with wildlife.
-
-If you’re bitten or scratched by wildlife, including bats:
-
-* wash the wound right away with soap and clean water for about 15 minutes
-* get medical care as soon as possible
-
-If you get treatment to prevent rabies while outside Canada, ask for:
-
-* written records of medications and vaccines administered, including when they were given, product names, and batch or lot numbers
-* photos of the packaging and labels of any medications or vaccines given to you
-
-When you return to Canada, see a health care professional as soon as possible and bring your treatment records to your appointment.
-
-**Learn more:**  
-[Rabies: Symptoms and treatment](https://www.canada.ca/en/public-health/services/diseases/rabies.html)
 
 ### Safe food and water precautions
 

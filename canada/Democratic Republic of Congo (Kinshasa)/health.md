@@ -328,17 +328,17 @@ Make sure to closely watch children; they are more likely to try to touch animal
 
 Plague 
 
-There is a risk of [plague](https://www.canada.ca/en/public-health/services/diseases/plague.html) in this country. Plague is a bacterial disease that can cause serious illness, and if left untreated, death.
+Plague infections can occur in this destination, but the risk is low for most travellers. Travellers may be at higher risk if they camp, hunt, or come into contact with rodents, or with any animals that are sick or dead.
 
-The occurrence of cases in areas where the plague bacteria are known to circulate can be influenced by weather and environmental conditions. In some countries, this results in seasonal outbreaks.  
-Travellers to areas where plague routinely occurs may be at risk if they are camping, hunting, or in contact with rodents.
+Plague is usually spread through bites from infected fleas or contact with infected animals. In rare cases, it can spread through cough droplets. To lower your risk of infection, take precautions against flea bites and avoid contact with animals.
 
-Plague is spread by:
+Symptoms usually appear 1 to 7 days after infection. The illness often starts with flu-like symptoms and can become severe without treatment.
 
-* bites from fleas infected with the plague
-* direct contact with body fluids or tissues from an animal or person who is sick with or has died from plague
+There is no vaccine for plague available in Canada for travellers, but the infection can be treated if caught early.
 
-Overall risk to travellers is low. [Protect yourself](https://www.canada.ca/en/public-health/services/diseases/plague/prevention-plague.html) by [reducing contact with fleas](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html) and potentially infected rodents and other wildlife.
+**Learn more:**  
+[Plague](https://www.canada.ca/en/public-health/services/diseases/plague.html)  
+[Insect bite and pest prevention](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html)
 
 Mpox
 
