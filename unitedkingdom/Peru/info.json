@@ -1,11 +1,11 @@
 {
     "name": "Peru",
-    "update_reason": "Colombia\u2019s temporary border closures for the period of presidential elections will now run from 6am Saturday 20 June to 6am Monday 22 June, and will include the Peru-Colombia river border (\u2018Warnings and insurance\u2019 page)",
+    "update_reason": "Removal of info about Colombia\u2019s temporary border closures with Peru (\u2018Warnings and insurance\u2019 page)",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Peru/Warnings and insurance.md",
-            "update_date": "2026-06-20T20:45:53+01:00"
+            "update_date": "2026-06-22T23:35:12+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Peru/Getting help.md"
         }
     ],
-    "update_date": "2026-06-20T20:45:53+01:00"
+    "update_date": "2026-06-22T23:35:12+01:00"
 }

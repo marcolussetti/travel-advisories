@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   19 June 2026
+:   23 June 2026
 
 Updated:
-:   18 June 2026
+:   22 June 2026
 
 Latest update:
-:   Updated information about regional tensions and conflict affecting Turkey (‘Warnings and insurance’ page).
+:   New information about travel disruption due to the NATO Summit being held in Ankara 7-8 July (‘Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/69a6faa2a2495f2d259f13d2/FCDO_TA_043_-_Turkey_Travel_Advice_Ed4_WEB.jpg)
 
@@ -27,6 +27,18 @@ Find out more about [why FCDO advises against travel](https://www.gov.uk/foreig
 ## Support from the UK government
 
 While 24-hour consular assistance is available by phone or online, in-person consular support is severely limited in areas where we advise against travel.
+
+## Travel disruption
+
+Due to the NATO Summit being held in Ankara on 7-8 July, there will be road closures and restrictions around key venues. Public transport routes will be affected.
+
+Airports will operate under enhanced security measures, likely resulting in longer processing times.
+
+Travelers are advised to:
+
+* arrive early
+* ensure documentation is ready
+* expect stricter screening procedures
 
 ## Regional tensions
 

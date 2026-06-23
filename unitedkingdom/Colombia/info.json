@@ -1,11 +1,11 @@
 {
     "name": "Colombia",
-    "update_reason": "Colombia\u2019s temporary border closures for the period of presidential elections will now run from 6am Saturday 20 June to 6am Monday 22 June, and includes river borders (\u2018Warnings and insurance\u2019 page)",
+    "update_reason": "Removal of information about the Colombian Presidential Elections and border closures.",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Colombia/Warnings and insurance.md",
-            "update_date": "2026-06-20T20:43:37+01:00"
+            "update_date": "2026-06-22T16:51:45+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Colombia/Getting help.md"
         }
     ],
-    "update_date": "2026-06-20T20:43:37+01:00"
+    "update_date": "2026-06-22T16:51:45+01:00"
 }

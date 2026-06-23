@@ -1,11 +1,11 @@
 {
     "name": "Turkey",
-    "update_reason": "Updated information about regional tensions and conflict affecting Turkey (\u2018Warnings and insurance\u2019 page).",
+    "update_reason": "New information about travel disruption due to the NATO Summit being held in Ankara 7-8 July (\u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Turkey/Warnings and insurance.md",
-            "update_date": "2026-06-18T14:03:48+01:00"
+            "update_date": "2026-06-22T13:51:29+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Turkey/Getting help.md"
         }
     ],
-    "update_date": "2026-06-18T14:03:48+01:00"
+    "update_date": "2026-06-22T13:51:29+01:00"
 }
