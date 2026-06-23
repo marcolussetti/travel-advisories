@@ -8,9 +8,9 @@ High Degree of Caution
 
 #### **Elections**
 
-Colombia will hold presidential elections on Sunday 21 June. During election periods, increased volatility in the security situation can take place. There may be large presence of police, traffic disruptions and demonstrations. Protests can turn violent and may affect transport and travel. Citizens are advised to avoid protests and large public gatherings, follow guidance of local authorities.
+Colombia will hold presidential elections on Sunday 21 June. During election periods, increased volatility in the security situation can take place. There may be a large presence of police, traffic disruptions and demonstrations. Protests can turn violent and may affect transport and travel. Citizens are advised to avoid protests and large public gatherings, and to follow guidance of local authorities.
 
-Land and river border crossings with Brazil, Ecuador, Panama, Petu and Venezuela will be closed from 6pm on 22 June until 6am on 22 June.
+Land and river border crossings with Brazil, Ecuador, Panama, Peru and Venezuela will be closed from 6pm on 20 June until 6am on 22 June.
 
 ### **General Travel Advice**
 
