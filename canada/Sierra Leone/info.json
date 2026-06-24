@@ -1,7 +1,7 @@
 {
     "name": "Sierra Leone",
-    "update_reason": "The Health section was updated - travel health information (Public Health Agency of Canada)",
-    "update_date": "2026-06-12T15:58:00",
+    "update_reason": "Need help? section \u2013 updated information on consular assistance",
+    "update_date": "2026-06-23T15:25:00",
     "sections": {
         "risk": "canada/Sierra Leone/risk.md",
         "security": "canada/Sierra Leone/security.md",

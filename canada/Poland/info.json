@@ -1,7 +1,7 @@
 {
     "name": "Poland",
-    "update_reason": "Health section \u2013 added information on medication",
-    "update_date": "2026-06-16T11:57:00",
+    "update_reason": "Need help? section \u2013 updated information on consular assistance",
+    "update_date": "2026-06-23T12:46:00",
     "sections": {
         "risk": "canada/Poland/risk.md",
         "security": "canada/Poland/security.md",

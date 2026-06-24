@@ -10,9 +10,9 @@ Rwandan citizens, as well as foreigners with a valid proof of residency in Rwand
 
 [Ebola outbreak in the Democratic Republic of the Congo](https://travel.gc.ca/travelling/health-safety/travel-health-notices/549)
 
-### Border with the Democratic Republic of Congo
+### Border with the Democratic Republic of the Congo
 
-The security situation at the border between Rwanda and the Democratic Republic of Congo (DRC) is unstable and unpredictable due to intensifying combat in North Kivu in the DRC, including around the city of Goma. Active fighting, including shelling, have been reported in Rubavu District. Escalating tensions between the DRC and Rwanda could further deteriorate the situation in Rubavu district.
+The security situation at the border between Rwanda and the Democratic Republic of the Congo (DRC) is unstable and unpredictable due to intensifying combat in North Kivu in the DRC, including around the city of Goma. Active fighting, including shelling, have been reported in Rubavu District. Escalating tensions between the DRC and Rwanda could further deteriorate the situation in Rubavu district.
 
 ### Crime
 

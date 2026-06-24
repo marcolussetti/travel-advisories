@@ -2,6 +2,12 @@
 
 ## Entry and exit requirements
 
+### Land border closures
+
+Due to the extension of COVID-19 border measures since 2020, all land border crossings are closed, except for freight.
+
+Canadian passport holders can only enter Azerbaijan by air, but may leave through land borders without seeking prior authorization.
+
 Some countries have imposed measures in response to the [Ebola disease outbreak](https://travel.gc.ca/travelling/health-safety/travel-health-notices/549). These can include restrictions on entry and health screening measures for travellers having recently visited an affected country. If you are suspected of having symptoms, you may be subject to isolation, quarantine and/or travel restrictions. Contact the authorities of the country you are travelling to for more details.
 
 The authorities of a country or territory decide who can enter or exit through its borders. The Government of Canada cannot intervene on your behalf if you do not meet your destination’s entry or exit requirements.

@@ -1,7 +1,7 @@
 {
     "name": "Brazil",
-    "update_reason": "Safety and security section \u2013 removed information on the closure of border crossings with Colombia",
-    "update_date": "2026-06-22T11:46:00",
+    "update_reason": "Need help? section \u2013 updated information on consular assistance",
+    "update_date": "2026-06-23T11:35:00",
     "sections": {
         "risk": "canada/Brazil/risk.md",
         "security": "canada/Brazil/security.md",

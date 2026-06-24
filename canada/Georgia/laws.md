@@ -20,21 +20,23 @@ Penalties for possession, use or trafficking of illegal drugs are severe, includ
 
 Some prescription medication may not be available in Georgia.
 
-If you take prescription medications, you are responsible for determining their legality in Georgia. Georgian authorities strictly regulate the possession and import of prescription medication under special control, including narcotic drugs and psychotropic substances, and some over-the-counter medication that is commonly available in Canada.
+If you take prescription medications and plan to travel to Georgia, you are responsible for determining their legality and the required documentation, even if you are only transiting.
+
+Georgian authorities strictly regulate the possession and importation of some medication under special control, including narcotic drugs and psychotropic substances, and some over-the-counter medication that is commonly available in Canada.
+
+If you attempt to enter Georgia with prescription medication for personal use that is illegal under Georgian law, and do not carry supporting documentation approved by Georgian authorities, you could face criminal prosecution resulting in deportation, a jail sentence and/or a heavy fine.
+
+For information on the legal status of a specific medication, you should contact the Revenue Service of Georgia and/or the Embassy of Georgia to Canada.
 
 * Bring enough medication for your stay
+* Pack your medication in your carry-on luggage with relevant supporting medical documents requested by Georgian authorities
 * Always keep your medication in the original container and carry a copy of your prescriptions in English
 * Declare all medications in your possession to customs officials upon entry
-* Pack your medication in your carry-on luggage
-
-If you carry prescription medication that is illegal under Georgian law, you could face deportation or a jail sentence.
-
-Contact the nearest Georgian embassy or consulate for more information on imports of medication.
 
 #### Useful links
 
-* [Medicinal products subject to special control](https://www.rs.ge/BorderCrossing-en?cat=11&tab=1) – Revenue service of Georgia
-* [Foreign Representatives in Canada](https://www.international.gc.ca/protocol-protocole/reps.aspx?lang=eng&_ga=2.118193358.615532646.1689607075-759789708.1683157397)
+* [Medicinal products subject to special control](https://www.rs.ge/BorderCrossing-en?cat=11&tab=1) – Revenue Service of Georgia
+* [Bringing Narcotic Drugs And Psychotropic Substances To Georgia](https://canada.mfa.gov.ge/en/tsamlebis-saqartveloshi-shemotanis-da-saqartvelodan-gatanis-tsesi) – Embassy of Georgia to Canada
 
 ### Knives
 

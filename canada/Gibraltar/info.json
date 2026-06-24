@@ -1,7 +1,7 @@
 {
     "name": "Gibraltar",
-    "update_reason": "Entry and exit requirements section \u2013 added information on the alignment with the Schengen area",
-    "update_date": "2026-06-01T13:40:00",
+    "update_reason": "Need help? section \u2013 updated information on consular assistance",
+    "update_date": "2026-06-23T13:09:00",
     "sections": {
         "risk": "canada/Gibraltar/risk.md",
         "security": "canada/Gibraltar/security.md",

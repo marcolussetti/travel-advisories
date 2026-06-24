@@ -1,7 +1,7 @@
 {
     "name": "Mexico",
-    "update_reason": "Editorial change",
-    "update_date": "2026-06-18T10:37:00",
+    "update_reason": "Need help? section \u2013 updated information on consular assistance",
+    "update_date": "2026-06-23T10:45:00",
     "sections": {
         "risk": "canada/Mexico/risk.md",
         "security": "canada/Mexico/security.md",

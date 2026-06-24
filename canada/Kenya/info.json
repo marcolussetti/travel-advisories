@@ -1,7 +1,7 @@
 {
     "name": "Kenya",
-    "update_reason": "Natural disasters and climate section \u2013 removed information on floods",
-    "update_date": "2026-06-10T09:05:00",
+    "update_reason": "Need help? section \u2013 updated information on consular assistance",
+    "update_date": "2026-06-23T11:45:00",
     "sections": {
         "risk": "canada/Kenya/risk.md",
         "security": "canada/Kenya/security.md",

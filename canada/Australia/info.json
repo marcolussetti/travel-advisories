@@ -1,7 +1,7 @@
 {
     "name": "Australia",
-    "update_reason": "Editorial change",
-    "update_date": "2026-06-01T09:54:00",
+    "update_reason": "Need help? section \u2013 updated information on consular assistance",
+    "update_date": "2026-06-23T11:46:00",
     "sections": {
         "risk": "canada/Australia/risk.md",
         "security": "canada/Australia/security.md",

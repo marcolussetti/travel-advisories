@@ -1,7 +1,7 @@
 {
     "name": "North Korea",
-    "update_reason": "The Health section was updated - travel health information (Public Health Agency of Canada)",
-    "update_date": "2026-06-12T15:53:00",
+    "update_reason": "Need help? section \u2013 updated information on consular assistance",
+    "update_date": "2026-06-23T14:55:00",
     "sections": {
         "risk": "canada/North Korea/risk.md",
         "security": "canada/North Korea/security.md",

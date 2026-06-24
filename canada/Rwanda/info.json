@@ -1,7 +1,7 @@
 {
     "name": "Rwanda",
-    "update_reason": "Safety and security section \u2013 updated information on border restrictions with the Democratic Republic of the Congo",
-    "update_date": "2026-06-02T11:53:00",
+    "update_reason": "Need help? section \u2013 updated information on consular assistance",
+    "update_date": "2026-06-23T11:38:00",
     "sections": {
         "risk": "canada/Rwanda/risk.md",
         "security": "canada/Rwanda/security.md",

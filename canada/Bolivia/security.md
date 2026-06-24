@@ -2,7 +2,7 @@
 
 ## Safety and security
 
-### State of Emergency
+### State of emergency
 
 The security situation is uncertain and continues to evolve. Protests and roadblocks have interrupted fuel, food, and medical supply chains, leading to humanitarian concerns in La Paz department and other areas.
 
@@ -10,26 +10,16 @@ On June 20, 2026, a 90‑day nationwide state of emergency was declared to enabl
 
 Avoid all protests and roadblocks, particularly around government buildings and central La Paz (including Plaza Murillo). Situations can escalate quickly and without warning.
 
-Many roads remain blocked or severely damaged due to previous roadblocks. If you must travel by road, avoid the La Paz-Oruro and La Paz-Desaguadero corridors. Access to the following destinations could face significant disruptions:
+Roadblocks on major roads and highways have largely been cleared; however, some roads may still be damaged as a result of recent blockades. Road conditions and accessibility may change with little notice.
 
-* Lake Titicaca
-* Uyuni
-* Potosí
-* Tiwanaku
+If you plan to enter Bolivia via a land border crossing, travel by road to El Alto International Airport, or within the country, particularly to destinations such as Lake Titicaca, Uyuni, Potosí or Tiwanaku, you should:
 
-Be prepared to change your travel plans on short notice, including cutting short or cancelling your trip.
-
-If you plan on entering Bolivia via a land border crossing with Peru or Chile, or to access the El Alto International Airport, you should confirm the status of your route before you depart.
-
-The La Paz and El Alto bus terminals are not operating until further notice. Bus and coach operators may sell “conditional” tickets while roadblocks are in place. These tickets do not guarantee your passage nor your arrival at your destination. Avoid purchasing tickets or using bus services that advertise travel via alternative or secondary routes to bypass roadblocks. These routes are often in poor condition and may significantly increase the risk of accidents.
-
-You should:
-
-* monitor local and international media to stay informed of the rapidly evolving situation
-* avoid affected areas and leave the area immediately if tensions escalate
+* confirm the status of your route before your departure
+* be prepared for delays, detours or disruptions
+* carry an adequate supply of prescription medication in case of disruptions
+* monitor local and international media to stay informed of the evolving situation
 * follow the instructions of local authorities
-* verify the security situation on specific routes and areas before you travel
-* notify the Embassy of Canada to Bolivia, in La Paz, of your presence and sign up with the [Registration of Canadians Abroad](https://travel.gc.ca/travelling/registration) service to receive important additional information, specific to your location, about the ongoing situation
+* sign up for the [Registration of Canadians Abroad](https://travel.gc.ca/travelling/registration) (ROCA) service to receive important updates and information relevant to your location
 
 ### Demonstrations
 

@@ -1,7 +1,7 @@
 {
     "name": "Bolivia",
-    "update_reason": "Safety and security section \u2013 updated information on the state of emergency",
-    "update_date": "2026-06-20T17:07:00",
+    "update_reason": "Safety and security section \u2013 updated information on state of emergency; Need help? section \u2013 updated information on consular assistance",
+    "update_date": "2026-06-23T15:01:00",
     "sections": {
         "risk": "canada/Bolivia/risk.md",
         "security": "canada/Bolivia/security.md",

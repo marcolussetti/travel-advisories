@@ -1,7 +1,7 @@
 {
     "name": "Switzerland",
-    "update_reason": "Editorial change",
-    "update_date": "2026-06-04T12:59:00",
+    "update_reason": "Need help? section \u2013 updated information on consular assistance",
+    "update_date": "2026-06-23T13:10:00",
     "sections": {
         "risk": "canada/Switzerland/risk.md",
         "security": "canada/Switzerland/security.md",

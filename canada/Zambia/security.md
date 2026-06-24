@@ -2,7 +2,7 @@
 
 ## Safety and security
 
-### Areas bordering Angola, the Democratic Republic of Congo, Mozambique
+### Areas bordering Angola, the Democratic Republic of the Congo and Mozambique
 
 Despite Zambia being declared a landmine-free country in 2009, there may still be landmines and unexploded ordnance in areas bordering Angola, the Democratic Republic of the Congo (DRC) and Mozambique.
 
@@ -13,7 +13,7 @@ If you are travelling to any of these areas:
 * cross only at official border crossings
 * strictly observe warning signs indicating the possible presence of landmines
 
-Trans-border criminal activity between the Democratic Republic of Congo and Zambia has resulted in an increase in crime on the Zambian side of the border. Be vigilant in all border areas.
+Trans-border criminal activity between the Democratic Republic of the Congo and Zambia has resulted in an increase in crime on the Zambian side of the border. Be vigilant in all border areas.
 
 ### Crime
 

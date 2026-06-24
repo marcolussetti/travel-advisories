@@ -1,7 +1,7 @@
 {
     "name": "Hong Kong",
-    "update_reason": "The Health section was updated - travel health information (Public Health Agency of Canada)",
-    "update_date": "2026-06-11T13:55:00",
+    "update_reason": "Need help? section \u2013 updated information on consular assistance",
+    "update_date": "2026-06-23T14:29:00",
     "sections": {
         "risk": "canada/Hong Kong/risk.md",
         "security": "canada/Hong Kong/security.md",

@@ -40,7 +40,7 @@ Possession of pornographic material is forbidden.
 
 Maldivian laws prohibit sexual acts between individuals of the same sex.
 
-2SLGBTQI+ persons should carefully consider the risks of travelling to Maldives.
+2SLGBTQI+ persons should carefully consider the risks of travelling to the Maldives.
 
 [Travel and your sexual orientation, gender identity, gender expression and sex characteristics](https://travel.gc.ca/travelling/health-safety/lgbt-travel)
 

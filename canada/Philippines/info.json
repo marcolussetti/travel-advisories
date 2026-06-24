@@ -1,7 +1,7 @@
 {
     "name": "Philippines",
-    "update_reason": "Natural disasters and climate section \u2013 removed information on a tsunami alert",
-    "update_date": "2026-06-09T10:56:00",
+    "update_reason": "Need help? section \u2013 updated information on consular assistance",
+    "update_date": "2026-06-23T12:23:00",
     "sections": {
         "risk": "canada/Philippines/risk.md",
         "security": "canada/Philippines/security.md",
