@@ -1,11 +1,11 @@
 {
     "name": "Azerbaijan",
-    "update_reason": "Updated  information on visa procedures for visitors travelling to Azerbaijan in connection with World Urban Forum (WUF13) (\u2018Entry requirements\u2019 page).",
+    "update_reason": "Removal of visa requirements for visitors travelling to Azerbaijan in connection with the World Urban Forum (WUF13).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Azerbaijan/Warnings and insurance.md",
-            "update_date": "2026-05-08T10:56:46+01:00"
+            "update_date": "2026-06-23T09:39:45+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Azerbaijan/Getting help.md"
         }
     ],
-    "update_date": "2026-05-08T10:56:46+01:00"
+    "update_date": "2026-06-23T09:39:45+01:00"
 }

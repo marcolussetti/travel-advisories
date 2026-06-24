@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   28 April 2026
+:   24 June 2026
 
 Updated:
-:   27 April 2026
+:   23 June 2026
 
 Latest update:
-:   Additional information on European Entry-Exit System (EES) (‘Entry requirements’ page).
+:   New information about extreme temperatures (‘Safety and security’ page).
 
 This travel advice also covers Madeira, Porto Santo and the Azores.
 

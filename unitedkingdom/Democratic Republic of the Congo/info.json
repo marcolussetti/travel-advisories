@@ -1,11 +1,11 @@
 {
     "name": "Democratic Republic of the Congo",
-    "update_reason": "Addition of information about travel between Rwanda and DRC for humanitarian missions and essential travel ('Regional risks\u2019 page).",
+    "update_reason": "Additional information on Ebola (\u2018Entry requirements\u2019 and \u2018Health\u2019 pages).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Democratic Republic of the Congo/Warnings and insurance.md",
-            "update_date": "2026-06-10T15:09:37+01:00"
+            "update_date": "2026-06-23T11:07:01+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Democratic Republic of the Congo/Getting help.md"
         }
     ],
-    "update_date": "2026-06-10T15:09:37+01:00"
+    "update_date": "2026-06-23T11:07:01+01:00"
 }

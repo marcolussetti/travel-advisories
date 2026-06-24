@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   9 May 2026
+:   24 June 2026
 
 Updated:
-:   8 May 2026
+:   23 June 2026
 
 Latest update:
-:   Updated information on visa procedures for visitors travelling to Azerbaijan in connection with World Urban Forum (WUF13) (‘Entry requirements’ page).
+:   Removal of visa requirements for visitors travelling to Azerbaijan in connection with the World Urban Forum (WUF13).
 
 ![](https://assets.publishing.service.gov.uk/media/67efddbf27eb76c92cf7e567/FCDO__TA__004_-_Azerbaijan_Travel_Advice_Ed9__WEB_.jpg)
 

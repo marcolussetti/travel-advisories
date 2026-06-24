@@ -235,13 +235,15 @@ Passengers caught using unlicensed taxi services are liable for fines of up to 6
 
 Find out what you can do to [prepare for and respond to extreme weather and natural hazards](https://www.gov.uk/guidance/tropical-cyclones).
 
-### Extreme weather warnings
+### Extreme temperatures
 
-Extreme weather can affect many areas of Spain, particularly over the summer months. Follow the [Spanish Meteorological Office (AEMET)](https://www.aemet.es/en/portada) and [European Meteorological Services](https://www.meteoalarm.org/en/?s=italy) for severe weather warnings.
+Extreme weather can affect many parts of Spain, particularly over the summer months. Check warnings from the [Spanish Meteorological Office (AEMET)](https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.aemet.es%2Fen%2Fportada&data=05%7C02%7CConsular.TravelAdviceTeam%40fcdo.gov.uk%7C7baec48b6c7649ab8d8008ded12a3f9b%7Cd3a2d0d37cc84f52bbf985bd43d94279%7C0%7C0%7C639178176540777518%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=5OZFaxUueDvef9bVfeEQFclpjnXpKtMdPMoPNs6Zjkg%3D&reserved=0) and the [European Meteorological Services](https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.meteoalarm.org%2Fen%2F%3Fs%3Ditaly&data=05%7C02%7CConsular.TravelAdviceTeam%40fcdo.gov.uk%7C7baec48b6c7649ab8d8008ded12a3f9b%7Cd3a2d0d37cc84f52bbf985bd43d94279%7C0%7C0%7C639178176540843608%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=PZU%2B%2FcMWUI8GZASi%2FYQptZwYmZ5jlVVUTtr38drLtuc%3D&reserved=0).
 
-The NHS has information on [how to cope in hot weather](https://www.nhs.uk/live-well/seasonal-health/heatwave-how-to-cope-in-hot-weather/).
+Find advice on how to stay safe in hot weather from the [National Health Service (NHS).](https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.nhs.uk%2Flive-well%2Fseasonal-health%2Fheatwave-how-to-cope-in-hot-weather%2F&data=05%7C02%7CConsular.TravelAdviceTeam%40fcdo.gov.uk%7C7baec48b6c7649ab8d8008ded12a3f9b%7Cd3a2d0d37cc84f52bbf985bd43d94279%7C0%7C0%7C639178176540900693%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=Wn3tOULr6WyaQz4I%2FgPLqcwR6%2FlI%2Ffh0CGI4dlUtac0%3D&reserved=0)
 
-Check with your travel provider and follow the advice of local authorities.
+Follow guidance from the [Spanish Ministry of Health](https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.sanidad.gob.es%2Fen%2FexcesoTemperaturas%2Fmeteosalud.do%23tituloBuscador&data=05%7C02%7CConsular.TravelAdviceTeam%40fcdo.gov.uk%7C7baec48b6c7649ab8d8008ded12a3f9b%7Cd3a2d0d37cc84f52bbf985bd43d94279%7C0%7C0%7C639178176540952683%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=g7Xh9kfrn6oheeSDsdAfVKCh%2FvJ6kgp45kUYXI8yHRM%3D&reserved=0) for your area. You can [sign up for email alerts](https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.sanidad.gob.es%2Fen%2FexcesoTemperaturas%2FsuscripcionMeteoSalud.do&data=05%7C02%7CConsular.TravelAdviceTeam%40fcdo.gov.uk%7C7baec48b6c7649ab8d8008ded12a3f9b%7Cd3a2d0d37cc84f52bbf985bd43d94279%7C0%7C0%7C639178176541026260%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=gTLcEXJRvU%2BYp9kwP%2FytKNnVcfvohoj6hlNStaD0Dmc%3D&reserved=0) (in Spanish).
+
+Check with your travel provider and follow advice from local authorities.
 
 ### Wildfires
 

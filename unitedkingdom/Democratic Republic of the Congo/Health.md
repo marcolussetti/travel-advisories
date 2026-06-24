@@ -32,7 +32,7 @@ Altitude sickness is a risk in parts of DRC. Read more about [altitude sickness 
 
 ### Ebola
 
-There are occasional Ebola outbreaks in DRC. On 15 May the DRC Ministry of Health announced an outbreak of Ebola Bundibugyo in the North-Eastern Ituri Province, read more about the [Ebola outbreak on TravelHealthPro](https://travelhealthpro.org.uk/country/63/democratic-republic-of-the-congo#Outbreaks) and see [information on Ebola and similar diseases](https://travelhealthpro.org.uk/factsheet/68/viral-haemorrhagic-fever). World Health Organisation (WHO) have [declared this a Public Health Emergency of International Concern](https://www.who.int/news/item/17-05-2026-epidemic-of-ebola-disease-in-the-democratic-republic-of-the-congo-and-uganda-determined-a-public-health-emergency-of-international-concern).
+There are occasional Ebola outbreaks in DRC. On 15 May the DRC Ministry of Health announced an outbreak of Ebola Bundibugyo in the North-Eastern Ituri Province. TravelHealthPro has information on [Ebola Disease in DRC](https://travelhealthpro.org.uk/news/909/ebola-disease-in-drc-and-uganda) and [general information on Ebola and similar diseases](https://travelhealthpro.org.uk/factsheet/68/viral-haemorrhagic-fever). World Health Organisation (WHO) have [declared this a Public Health Emergency of International Concern](https://www.who.int/news/item/17-05-2026-epidemic-of-ebola-disease-in-the-democratic-republic-of-the-congo-and-uganda-determined-a-public-health-emergency-of-international-concern).
 
 Some countries have heightened health screening for travellers from DRC. [Check entry requirements](https://www.gov.uk/foreign-travel-advice/) for the country you’re travelling to or transiting.
 

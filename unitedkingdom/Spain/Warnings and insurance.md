@@ -1,25 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   11 April 2026
+:   24 June 2026
 
 Updated:
-:   10 April 2026
+:   23 June 2026
 
 Latest update:
-:   Updated information on European Entry-Exit System (EES) (‘Entry requirements’ page).
-
-## Travel disruption
-
-On 18 January, two high‑speed trains collided near Adamuz, in the province of Córdoba in Andalusia, southern Spain.
-
-High speed rail services between Madrid and Andalusia have resumed, except services to Malaga and Algeciras. These routes are still severely disrupted. Renfe, the national rail operator, is running a replacement transport plan combining train and bus services for people affected by the disruption.
-
-You should:
-
-* check the latest information with your train operator before you travel
-* allow extra time for your journey
-* follow local authority advice
+:   New information about extreme temperatures ('Safety and security' page).
 
 ## Before you travel
 

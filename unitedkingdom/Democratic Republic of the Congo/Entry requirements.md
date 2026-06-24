@@ -44,6 +44,8 @@ Some countries have heightened health screening for travellers from DRC. [Check
 
 [Rwanda](https://x.com/RwandaHealth/status/2057790371657101712?s=20) and [Uganda](https://x.com/MinofHealthUG/status/2057471796497035293) have announced restrictions which impact travellers to DRC.
 
+The UK’s Returning Workers Scheme has been activated, due to the outbreak of Ebola disease. Returning health and humanitarian workers should check the latest at [UK’s Returning Workers Scheme](https://www.gov.uk/guidance/ebola-returning-workers-scheme) before returning to the UK.
+
 ## Departure tax
 
 You need to pay a departure tax of 55 US dollars on international flights and 10 US dollars on domestic flights. You pay these fees when you check in for your departure. Get an official receipt and a copy for each fee. Hand the originals on request to immigration and at boarding and keep the copies.

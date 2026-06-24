@@ -147,6 +147,14 @@ Make sure you understand [the toll system](https://www.portugaltolls.com/en) in 
 
 Find out what you can do to [prepare for and respond to extreme weather and natural hazards](https://www.gov.uk/guidance/tropical-cyclones).
 
+### Extreme temperatures
+
+In Summer months, there is a risk of higher than normal temperatures in Portugal. Check current weather forecasts and read about how to protect yourself on the [Portuguese Institute for Sea and Atmosphere website](https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fvigilance.meteofrance.fr%2Ffr&data=05%7C02%7CConsular.TravelAdviceTeam%40fcdo.gov.uk%7C0366784eef574311439408ded115d170%7Cd3a2d0d37cc84f52bbf985bd43d94279%7C0%7C0%7C639178088794764735%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=P3S92TN0dNxL2fJ29B0VcmYJzSaxmquyakIFUOla2fA%3D&reserved=0).
+
+Find advice on how to stay safe in hot weather from the [National Health Service (NHS)](https://www.nhs.uk/live-well/seasonal-health/heatwave-how-to-cope-in-hot-weather/).
+
+Check with your travel provider and follow advice from local authorities.
+
 ### Wildfires
 
 There is an increased risk of wildfires from April to October when the weather is hot and dry. Wildfires can start anywhere in Portugal.

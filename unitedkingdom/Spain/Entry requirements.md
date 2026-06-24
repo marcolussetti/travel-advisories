@@ -34,12 +34,6 @@ If you’re travelling to other Schengen countries as well, make sure your whole
 
 If you are visiting Spain and need to extend your visa-free stay for exceptional reasons, such as a medical emergency, you must [apply to the immigration authorities (‘Extranjería’)](https://sede.policia.gob.es/portalCiudadano/_en/tramites_extranjeria_tramite_prorrogaestancia_cortaduracion.php#).
 
-Until the Entry-Exit System (EES) is fully rolled out, make sure you get your passport stamped on entry and exit (read ‘New Schengen entry requirements’).
-
-If you’re a visitor, border guards will look at your entry and exit stamps to check you have not overstayed the 90-day visa-free limit for the Schengen area.
-
-If your passport is missing a stamp, show evidence of when and where you entered or left the Schengen area (for example, boarding passes or tickets) and ask the border guards to add the date and location in your passport.
-
 British nationals living in Spain do not need their passports to be stamped. Actively show your proof of residence, such as the foreigner’s identity card (‘la tarjeta de identidad de extranjero’ or ‘TIE’), when presenting your passport at Spanish border control.
 
 At Spanish border control, you may need to show:
@@ -68,11 +62,11 @@ If you cannot return to the UK before your visa-free limit expires, [contact th
 
 The European Union’s (EU) new Entry/Exit System (EES) is now being implemented across the Schengen area.
 
-This means that when you travel into the Schengen area for short stays, you may need to register your biometric details, such as fingerprints and a photo. You do not need to take any action before you arrive at the border, and there is no cost for EES registration.
+This means that when you travel into the Schengen area for short stays, you may need to register your biometric details, such as fingerprints and a photo. There is no cost for EES registration.
 
 On your first visit into a Schengen country, you may be asked to register your details at a special booth before proceeding to the immigration desk. Follow directions from your travel operator or the staff at your port of entry. You may also need to provide either your fingerprint or photo when you leave the Schengen area. Children aged 11 or younger will not have their fingerprints scanned but can be required to have their photo taken.
 
-EES may take each passenger extra time to complete so be prepared to wait longer than usual at the border.
+You do not need to take any action before you arrive at the border on entry to the Schengen area, but EES may take each passenger extra time to complete so be prepared to wait longer than usual at the border and to allow more time for immigration controls when you depart the Schengen area.
 
 EES is replacing the previous system of manually stamping passports when visitors arrive in the Schengen area for short stays. You may be asked to input biometric details every time you enter or exit.
 
@@ -81,6 +75,8 @@ If you enter the Schengen area through the Port of Dover, Eurotunnel at Folkesto
 Your digital EES record is valid for 3 years.
 
 Read more [information on the EU Entry/Exit System and to understand which countries are in the Schengen area](https://www.gov.uk/guidance/eu-entryexit-system).
+
+If you are long-term resident in a Schengen country, you are exempt from EES in all Schengen countries. The full list of EES exemptions is on [the EU’s official Travel Europe website](https://travel-europe.europa.eu/en/ees/to-whom-does-ees-not-apply).
 
 ## Travelling between Spain and Gibraltar
 

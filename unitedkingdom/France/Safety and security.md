@@ -190,6 +190,14 @@ Burglaries can happen while you are asleep in your vehicle. Take sensible precau
 
 Find out what you can do to [prepare for and respond to extreme weather and natural hazards](https://www.gov.uk/guidance/tropical-cyclones).
 
+### Extreme temperatures
+
+In summer months, there is a risk of higher than normal temperatures in France. Check current weather forecasts and read about how to protect yourself on the [Meteo France website](https://vigilance.meteofrance.fr/fr).
+
+Find advice on how to stay safe in hot weather from the [National Health Service (NHS)](https://www.nhs.uk/live-well/seasonal-health/heatwave-how-to-cope-in-hot-weather/).
+
+Check with your travel provider and follow advice from local authorities.
+
 ### Wildfires
 
 Wildfires can start anywhere in France during the summer months, particularly along the Mediterranean coast and in Corsica.

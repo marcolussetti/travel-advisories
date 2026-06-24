@@ -48,6 +48,8 @@ On 27 May, the Ugandan National Task Force on Ebola Virus Disease [announced](ht
 
 Check with your travel operator for more information.
 
+The UK’s Returning Workers Scheme has been activated, due to the outbreak of Ebola disease. Returning health and humanitarian workers should check the latest at [UK’s Returning Workers Scheme](https://www.gov.uk/guidance/ebola-returning-workers-scheme) before returning to the UK.
+
 ## Customs rules
 
 There are strict rules about [goods that can be taken into and out of Uganda](https://ura.go.ug/en/frequently-asked-questions-for-goods-handled-at-entebbe-airport/). You must declare anything that may be prohibited or subject to tax or duty.

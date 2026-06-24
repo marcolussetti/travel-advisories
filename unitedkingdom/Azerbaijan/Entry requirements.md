@@ -62,12 +62,6 @@ E-visas are normally single entry and allow a 30-day visit within a 90-day perio
 
 For other types of visas, such as a business visa or a work permit, contact the [Azerbaijani Embassy in the UK](https://london.mfa.gov.az/en) at least one month before your travel date.
 
-### World Urban Forum (WUF13)
-
-If you are travelling in connection with the World Urban Forum (WUF13), the Government of the Republic of Azerbaijan will issue a [“WUF13 Special Visa”](https://www.wuf13.az/en/attendee-information/visa-information/) free of charge to participants registered through UN‑Habitat’s online registration system. Once registration is confirmed, you may apply either via the dedicated electronic visa link provided in your confirmation email or through the [Azerbaijani Embassy in the UK](https://london.mfa.gov.az/en).
-
-The WUF13 Special Visa permits single entry and a stay of up to 30 days in Azerbaijan. Applications may be submitted until 22 May 2026. Further information, including application requirements, is available on the official [WUF13 visa information website](https://www.wuf13.az/en/attendee-information/visa-information/).
-
 ### Extending your visa
 
 You can extend your 30 days by applying to the [State Migration Service](https://migration.gov.az/en/page/72) at least 3 days before the end of the permitted stay.
