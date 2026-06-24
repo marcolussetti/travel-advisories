@@ -11,3 +11,7 @@ Flash floods can be dangerous, happen with little warning and disrupt transport 
 ### **Wildfires**
 
 During especially hot and dry periods there is a risk of wildfires. It’s illegal to do anything that starts a fire that poses a danger to human life or could cause significant damage.
+
+### **Summer**
+
+Temperatures can reach 40 degrees during summer heatwaves. If hiking or enjoying outdoor activities you should stay hydrated, avoid prolonged exposure to the sun, use sunscreen and always keep your phone charged.

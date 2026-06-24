@@ -4,6 +4,19 @@
 
 Normal Precautions
 
+### **Travel Alert**
+
+#### **Emergency Alerts and Drone Hazards**
+
+Lithuania has recently been the subject of a small number of air hazard alerts triggered by misdirected military drones. In order to prepare for the event of an emergency alert, the Embassy advises all citizens to:
+
+* Ensure emergency alert messages are enabled on your phone to receive alert messages from the Lithuanian Government
+* Download the LT72 app for English language updates and information on emergency preparedness
+
+In the unlikely event of an emergency alert, citizens should follow the instructions of Lithuanian authorities through [LT72.lt](https://l.facebook.com/l.php?u=http%3A%2F%2FLT72.lt%2F%3Ffbclid%3DIwZXh0bgNhZW0CMTAAYnJpZBEwdTRKVWpmSHl6MXBwQ2xMQ3NydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR6z21ry_iIwcGGpQr2cM_eurZGcE0U76lDAhl6u97Qnf3iAQm6oQI4J94rMcQ_aem_E3tCRUz5viqRn3q5F1IOAw&h=AUBhNeN5WoYXSovlKuggypkfVPnlVgUoa10xQ4HYEUUD-ZNEpj-aw6MSqmTxX7JrErLN-rWbRV_OLgw-5BrkOErAj73rB7s3R0IExLYF45nijN97Zol9IIc5hi7R5uArUww4mJP5XpTahqdmOg&__tn__=-UK-R&c%5b0%5d=AUDtO9RZA7thz3HX3uEYAdOjo08OoI1Vp96hek9RSOkGaiolbMHZ102cZPH2CO0_W4wpAxM5IYS1gEzxw1C2o6Y_ewzlyOn5y29EEPIQX_9zbvARfrGzlwliQfXvT6yugUHveDocaYKGI0EehvtiZiWEnOZCxHf3uqQu2ucPiQhKPm15DoikB83WTdQMO-9KvWU) (official crisis preparedness website) and through [LRT.lt](https://l.facebook.com/l.php?u=http%3A%2F%2FLRT.lt%2F%3Ffbclid%3DIwZXh0bgNhZW0CMTAAYnJpZBEwdTRKVWpmSHl6MXBwQ2xMQ3NydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR7rzG10CtlcL7ZzfhH2iSRuC4qIweo7rykvcX6O9XZxgRoiregjTKRdGAGM5w_aem_bPAGAhx6y6AkRcli7xdFAw&h=AUDcLWl5c_VR4SHjcV0xkTleEG1GWRD2-jyG8tSc6jvjVIuRRL2ntdvUUdCGFmp_sP8AogcJT9GX4WtwxVLVcnX2BJtpvjvSHynPNGo8jDZwVE04cUzlF9_kmrBGyzaGRMUtHsR0D9bvMjo1eQ&__tn__=-UK-R&c%5b0%5d=AUDtO9RZA7thz3HX3uEYAdOjo08OoI1Vp96hek9RSOkGaiolbMHZ102cZPH2CO0_W4wpAxM5IYS1gEzxw1C2o6Y_ewzlyOn5y29EEPIQX_9zbvARfrGzlwliQfXvT6yugUHveDocaYKGI0EehvtiZiWEnOZCxHf3uqQu2ucPiQhKPm15DoikB83WTdQMO-9KvWU) (local media).
+
+After hearing sirens and/or receiving an “Air alert” notification (“ORO PAVOJUS”), you should immediately make your way to the nearest shelter marked with a special yellow “Priedanga” sign. If this is not possible, try to access a basement or an underground car park, or an interior room without windows where you will be shielded from flying debris. Remain there until you get an update the danger has passed. To find the nearest shelter to your location, use the map: <https://bit.ly/4dTlY3M>
+
 ### **General Travel Advice**
 
 Irish citizens need a valid passport or passport card to enter Lithuania.
