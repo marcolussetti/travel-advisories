@@ -72,7 +72,7 @@ South Sudan is a traditional, conservative society. Women should dress conservat
 
 ### Money
 
-The currency is the South Sudan pound (SSP). The Sudanese pound (SDG) is not recognized as legal tender.
+The currency of South Sudan is the South Sudan pound (SSP). The Sudanese pound (SDG) is not recognized as legal tender.
 
 It is difficult to transfer U.S. or Canadian dollars into the country. Currency exchange houses and merchants do not accept U.S. currency dated before 2006 and will reject notes with any marks.
 

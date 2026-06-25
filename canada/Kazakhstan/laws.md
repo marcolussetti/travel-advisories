@@ -110,7 +110,7 @@ You must carry an International Driving Permit.
 
 ### Money
 
-The currency is the Kazakh tenge (KZT). You should carry cash when travelling to rural areas as credit and debit cards may not be as widely accepted as in major cities.
+The currency of Kazakhstan is the Kazakh tenge (KZT). You should carry cash when travelling to rural areas as credit and debit cards may not be as widely accepted as in major cities.
 
 #### Foreign currency declaration
 

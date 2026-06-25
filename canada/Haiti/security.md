@@ -6,13 +6,11 @@
 
 A state of emergency is in effect in the departments of Ouest, Artibonite and Centre due to the ongoing security crisis gang violence.
 
-Toussaint-Louverture airport in Port-au-Prince has reopened, however operations remain limited. Most international airlines have suspended their flights to and from Port-au-Prince until further notice. Confirm the status of your flight with your airline before going to the airport.
-
-More information on [states of emergency](#statesofemergency) and [airport access](#airports)
+More information on [states of emergency](#statesofemergency)
 
 ### Border closure with the Dominican Republic
 
-On March 5, 2024, the Government of the Dominican Republic closed its air border with Haiti. Land and sea borders between the two countries remain closed to travellers.
+On May 30, 2026, the Government of the Dominican Republic reopened its air border with Haiti. Land and sea borders between the two countries remain closed to travellers.
 
 The Embassy of Canada to Haiti, in Port-au-Prince, cannot help you enter the Dominican Republic from Haiti.
 
@@ -60,11 +58,34 @@ Foreigners are viewed as wealthy and may arouse envy. To avoid becoming a target
 * remain cautious with new acquaintances offering friendship or hospitality
 * never walk alone and avoid travelling after dark
 
+#### Kidnappings
+
+Kidnappings are common.
+
+Kidnappers target both local people and foreigners, including dual citizens who live or travel in Haiti, regardless of rank or social class. Missionaries, aid workers and children can become victims. Most of the victims are released in exchange for ransom. In some exceptional cases, however, victims have disappeared or have been killed.
+
+* Remain alert to small groups of loiterers, especially near your residence
+* Keep doors and windows secure at all times
+* Instruct domestic staff to permit into your home only pre-authorized visitors whose identities have been verified
+* Keep all visitors under close scrutiny
+* Remain extremely vigilant wherever you are in the country
+
+#### Robberies in bank areas
+
+Some criminals wait near banks, watching clients, and attempt to rob them when they leave.
+
+There is also a higher risk of robbery from individuals using bank ATMs.
+
+* Be extremely vigilant when entering or leaving a bank
+* Only use ATMs inside a hotel or supermarket
+* Deal directly with a teller if you are at a bank
+* Avoid carrying large sums of money
+
 #### Petty crime
 
 Petty crime, such as pickpocketing and purse snatching, occurs frequently.
 
-#### States of emergency
+### States of emergency
 
 The Haitian government frequently declares regional states of emergency due to the deteriorating security situation. A state of emergency allows the military to assist police forces in responding to security incidents. Authorities may impose a curfew during a state of emergency.
 
@@ -82,33 +103,13 @@ While the state of emergency is in effect:
 * always carry valid identification and be prepared for various checkpoints
 * monitor local media for the latest information
 
-#### Greater Port-au-Prince area
+### Greater Port-au-Prince area
 
-Several areas in greater Port-au-Prince continue to be dangerous due to criminal activity and kidnappings. Local authorities may have difficulties assisting during an emergency in these areas:
+The security situation remains unstable and unpredictable. Criminal activity is common. Local authorities may have difficulties responding to emergencies across the area.
 
-* Artibonite Central
-* Bas-Delmas
-* Bel Air
-* Carrefour
-* Carrefour Drouillard
-* Champs-de-Mars
-* Cité Soleil
-* Croix-des-Bouquets
-* Downtown Port-au-Prince
-* Fontamara
-* Jalousie
-* Laboule 12
-* Martissant
-* Portail Léogane
-* Road to the airport
-* Santo
-* Tabarre
-* Torcelle
-* Toussant Brave
+Certain areas, particularly Delmas and Pétion-Ville, could have a higher presence of security forces. However, this does not guarantee your safety in these areas.
 
-Police presence is not guaranteed in these areas and your personal safety might be at risk. Due to the local environment, security forces may not be able to provide emergency assistance in due time.
-
-If you must travel to these areas, it’s imperative that you take appropriate security precautions:
+If you must travel to the greater Port-au-Prince area, you must take appropriate security precautions:
 
 * be vigilant at all times when moving about the city, towns and country
 * ensure that your local contacts know when to expect you and your travel plans within these areas
@@ -117,16 +118,8 @@ If you must travel to these areas, it’s imperative that you take appropriate s
 * never use public transport of any kind
 * ask the organizations, institutes or hosts that are taking care of you about the latest updates on the region to which you are travelling, since the security situation can change at any moment
 * avoid going out after nightfall
-* follow the advice of local authorities
 
-#### Pétion-Ville
-
-Armed robberies occur regularly in Pétion-Ville. In most cases, armed thieves on motorcycles attack their victims in broad daylight. Attacks have been increasing, particularly against motorists. They usually occur in traffic jams during peak hours.
-
-* Be vigilant at all times while travelling
-* Keep windows closed and doors locked when travelling by car
-
-#### Main highways and roads
+### Main highways and roads
 
 Armed gangs have set up roadblocks to commit robberies and demand payments along Route Nationale 2 from Martissant to Miragoane.
 
@@ -138,13 +131,23 @@ If you must drive:
 * avoid crossing road blockades, even if they appear unattended
 * allow extra time to reach your destination
 
-#### Airports
+### Airports
 
-There are two international airports in the country, which can be difficult to access due to the highly volatile security situation.
+Domestic and international flight options are extremely limited. There are three international airports in the country, which are difficult to access due to the highly volatile security situation. These airports are in the following cities:
 
-You are strongly advised against road travel from Port-au-Prince to Cap-Haitian, given the presence of gangs and the highly volatile security situation. You may need to change your travel plans with little notice.
+* Port-au-Prince
+* Les Cayes
+* Cap-Haïtien
 
-Thieves try to distract foreigners to steal their passports at Toussaint Louverture International Airport.
+Due to the presence of gangs and the highly volatile security situation, you are strongly advised against road travel between these cities.
+
+The international airport in Cap-Haïtien is your best option to leave the country. You can take a domestic flight from one of the three main airports or from a regional airport, particularly in Jacmel, to Cap-Haïtien to take an international flight out of the country
+
+There are no regular international flights arriving in or departing from Port-au-Prince until further notice. Those flights that do take off or land at the airport are often targeted by gunfire. Confirm the status of your flight with your airline before you go to the airport.
+
+You may need to change your travel plans on short notice.
+
+Thieves try to distract foreigners in airports to steal their passports.
 
 * Be cautious when claiming your luggage upon arrival
 * Keep your valuables and identification on you
@@ -163,29 +166,6 @@ Border areas with the Dominican Republic are subject to gang operations, includi
 
 * Malpasse
 * Ouanaminthe
-
-### Robberies in bank areas
-
-Some criminals wait near banks, watching clients, and attempt to rob them when they leave.
-
-There is also a higher risk of robbery from individuals using bank ATMs.
-
-* Be extremely vigilant when entering or leaving a bank
-* Only use ATMs inside a hotel or supermarket
-* Deal directly with a teller if you are at a bank
-* Avoid carrying large sums of money
-
-### Kidnappings
-
-Kidnappings are common.
-
-Kidnappers target both local people and foreigners, including dual citizens who live or travel in Haiti, regardless of rank or social class. Missionaries, aid workers and children can become victims. Most of the victims are released in exchange for ransom. In some exceptional cases, however, victims have disappeared or have been killed.
-
-* Remain alert to small groups of loiterers, especially near your residence
-* Keep doors and windows secure at all times
-* Instruct domestic staff to permit into your home only pre-authorized visitors whose identities have been verified
-* Keep all visitors under close scrutiny
-* Remain extremely vigilant wherever you are in the country
 
 ### Demonstrations
 

@@ -91,6 +91,6 @@ You must carry the International Driving Permit.
 
 ### Money
 
-The currency in the Comoros is the Comorian franc (KMF).
+The currency of the Comoros is the Comorian franc (KMF).
 
 The economy is mostly cash-based. ATMs are not widely available. Banking facilities are minimal. Most businesses don’t accept credit cards.

@@ -116,7 +116,7 @@ You must carry an International Driving Permit.
 
 ### Money
 
-The currency of Syrian is the Syrian pound (SYP).
+The currency of Syria is the Syrian pound (SYP).
 
 The economy is primarily cash-based. Credit cards are not widely accepted. You should carry enough U.S. dollars or Euros to cover your expenses.
 

@@ -44,20 +44,20 @@ Different entry rules may apply when travelling with a temporary passport or an 
 
 ### Visas
 
-Tourist visa: not required   
-Business visa: not required   
+Tourist visa: not required for stays of up to 30 days\*   
+Business visa: not required for stays of up to 30 days\*   
 Student visa: required   
 Working visa: required
 
-Ensure that you apply for the proper type of visa for the specific purpose of your trip.
-
-Thoroughly review all information available regarding the visa-issuance process.
-
-Pay particular attention to the length of stay permitted after each entry on your Chinese visa. Overstaying can lead to fines and administrative detention.
+\* Applies only to travellers eligible for visa free entry between February 17 and December 31, 2026.
 
 #### Visa-free entry
 
-From February 17 to December 31, 2026, Canadian passport holders are included in China's visa waiver travel scheme. During this period, you may be eligible for visa‑free entry for up to 30 days for tourism, business, family visits or transit during this period. Always verify your eligibility with the nearest Chinese embassy or consulate. If you don't meet the criteria for visa-free travel, make sure you have the appropriate visa before travelling to mainland China.
+Until December 31, 2026, Canadian passport holders are included in China's visa waiver travel scheme. During this period, you may be eligible for visa‑free entry for up to 30 days for tourism, business, family visits or transit. Always verify your eligibility with the nearest Chinese embassy or consulate. If you don't meet the criteria for visa-free travel, make sure you have the appropriate visa before travelling to mainland China.
+
+Ensure that you apply for the proper type of visa for the specific purpose of your trip. Thoroughly review all information available regarding the visa-issuance process.
+
+Pay particular attention to the length of stay permitted after each entry on your Chinese visa. Overstaying can lead to fines and administrative detention.
 
 #### Entry to Tibet
 

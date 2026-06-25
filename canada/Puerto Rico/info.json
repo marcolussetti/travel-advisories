@@ -1,7 +1,7 @@
 {
     "name": "Puerto Rico",
-    "update_reason": "Safety and security section \u2013 updated information on power outages and added information on water shortages",
-    "update_date": "2026-06-19T14:53:00",
+    "update_reason": "Natural disasters and climate section \u2013 removed information on tsunami advisory for coastal areas of Puerto Rico",
+    "update_date": "2026-06-24T19:22:00",
     "sections": {
         "risk": "canada/Puerto Rico/risk.md",
         "security": "canada/Puerto Rico/security.md",

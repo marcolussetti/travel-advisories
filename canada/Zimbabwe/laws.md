@@ -132,7 +132,7 @@ If you receive a fine:
 
 ### Money
 
-The currency in Zimbabwe is the Zimbabwe Gold (ZiG).
+The currency of Zimbabwe is the Zimbabwe Gold (ZiG).
 
 Most transactions in Zimbabwe are made in US dollars. Foreign credit cards are not always accepted.
 
@@ -145,4 +145,4 @@ You can bring in any amount of cash into Zimbabwe. However, you can only leave t
 * Check with your tour operator or hotel which payment methods will be accepted
 * Change currency at registered currency exchange offices only
 
-[Importation and exportation of currency by travellers](https://www.zimra.co.zw/news/2014:importation-and-exportation-of-currency-by-travellers) - Zimbabwe Revenue Authority
+[Importation and exportation of currency by travellers](https://www.zimra.co.zw/news/2014:importation-and-exportation-of-currency-by-travellers) – Zimbabwe Revenue Authority

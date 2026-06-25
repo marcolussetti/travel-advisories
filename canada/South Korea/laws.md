@@ -101,4 +101,4 @@ Although the laws of South Korea do not prohibit sexual acts between individuals
 
 ### Money
 
-The currency in South Korea is the won (KRW). Some major banks have ATMs that accept international debit or credit cards. The amount allowed per withdrawal may be quite low, making the service charge excessive. Most ATMs that allow withdrawal of money from Canadian bank accounts offer English instructions.
+The currency of South Korea is the won (KRW). Some major banks have ATMs that accept international debit or credit cards. The amount allowed per withdrawal may be quite low, making the service charge excessive. Most ATMs that allow withdrawal of money from Canadian bank accounts offer English instructions.

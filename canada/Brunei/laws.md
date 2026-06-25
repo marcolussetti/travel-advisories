@@ -18,8 +18,8 @@ You can't purchase alcohol in Brunei and the import of alcohol is strictly regul
 
 #### Useful links
 
-* [Narcotics Control Bureau](http://www.narcotics.gov.bn/SitePages/Drug%20Laws.aspx) - Government of Brunei
-* [Import regulations](http://www.bdnsw.gov.bn/Pages/PassengerConcessions.aspx) - Ministry of Finance of Brunei
+* [Narcotics Control Bureau](http://www.narcotics.gov.bn/SitePages/Drug%20Laws.aspx) – Government of Brunei
+* [Import regulations](http://www.bdnsw.gov.bn/Pages/PassengerConcessions.aspx) – Ministry of Finance of Brunei
 
 ### Illegal activities
 
@@ -44,7 +44,7 @@ Extramarital relations and public displays of affection between a Muslim and non
 
 The Sharia penal code applies regardless of a person’s religion or nationality. Penalties for certain offences can be severe, and can include physical punishment and the death penalty. Penalties may be applied for certain offences that would not be considered criminal in Canada. Brunei’s existing civil penal code and civil courts will continue to function in parallel with the Sharia penal code and Sharia Court.
 
-[Sharia penal code](http://www.agc.gov.bn/AGC%20Images/LAWS/Gazette_PDF/2013/EN/S069.pdf) - Attorney General’s Chambers
+[Sharia penal code](http://www.agc.gov.bn/AGC%20Images/LAWS/Gazette_PDF/2013/EN/S069.pdf) – Attorney General’s Chambers
 
 ### Ramadan
 
@@ -107,7 +107,7 @@ You should carry an International Driving Permit.
 
 [International Driving Permit](https://travel.gc.ca/travelling/documents/international-driving-permit)
 
-[Land Transport Department](http://www.mincom.gov.bn/ltd/Site%20Pages/Land%20Transport%20Department/Services/Driving%20Licenses.aspx) - Government of Brunei
+[Land Transport Department](http://www.mincom.gov.bn/ltd/Site%20Pages/Land%20Transport%20Department/Services/Driving%20Licenses.aspx) – Government of Brunei
 
 ### Money
 

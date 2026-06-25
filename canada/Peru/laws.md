@@ -103,7 +103,7 @@ Traffic regulation is different from Canada, the legal age to drive is 18.
 
 ### Money
 
-The currency is the Peruvian sol (PEN). The U.S. dollar is widely accepted.
+The currency of Peru is the Peruvian sol (PEN). The U.S. dollar is widely accepted.
 
 You must declare upon arrival and departure if you carry more than US$10,000 or equivalent in other currencies.
 

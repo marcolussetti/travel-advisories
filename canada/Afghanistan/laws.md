@@ -114,7 +114,7 @@ You must carry an International Driving Permit.
 
 ### Money
 
-The currency is the Afghan afghani (AFN).
+The currency of Afghanistan is the Afghan afghani (AFN).
 
 Afghanistan is a cash-based economy. Credit cards are not widely accepted. U.S. dollars are accepted, but carry bills that are in good shape, as worn U.S. bills may not be accepted.
 

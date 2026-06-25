@@ -34,7 +34,7 @@ Seek permission from local authorities before taking photographs.
 
 ### Communications
 
-Satellite phones and other forms of communication are illegal. 
+Satellite phones and other forms of communication are illegal.
 
 ### 2SLGBTQI+ persons
 
@@ -112,7 +112,7 @@ Foreigners residing in Turkmenistan must apply for a local driver’s licence wi
 
 ### Money
 
-The currency is the new Turkmenistan manat (TMT).
+The currency of Turkmenistan is the new Turkmenistan manat (TMT).
 
 The economy is primarily cash-based. A few hotels and restaurants in Ashgabat accept credit cards (specifically American Express and Visa) and traveller’s cheques in U.S. dollars. U.S. currency and euros can be exchanged into the local currency at banks and exchange bureaus. Since there are few international ATMs in the country, you may find it difficult to obtain cash.
 

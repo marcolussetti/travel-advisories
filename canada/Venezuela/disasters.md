@@ -2,6 +2,17 @@
 
 ## Natural disasters and climate
 
+### Earthquakes near the Venezuelan coast
+
+On June 24, 2026, two earthquakes of magnitudes 7.1 and 7.5 occurred near the Venezuelan coast west of Caracas, causing damage to infrastructure. The Caracas Airport is closed until further notice.
+
+Aftershocks could occur, causing further damage to infrastructure and disrupting essential services.
+
+If you are in the affected area:
+
+* follow the instructions of local authorities
+* monitor local media for updates on the situation
+
 ### Hurricane season
 
 The hurricane season is from early June to the end of November in the Atlantic, Caribbean Sea and Gulf of Mexico. During this period, even small tropical storms can quickly develop into major hurricanes.

@@ -48,8 +48,6 @@ In public, between sunrise and sunset, be discreet when:
 * eating
 * smoking
 
-### 
-
 ### Dual citizenship
 
 Dual citizenship is legally recognized in Lebanon. However, local authorities will treat dual Canadian-Lebanese citizens as Lebanese nationals.
@@ -89,7 +87,7 @@ Be aware that Canadian consular officials cannot interfere in private legal matt
 
 ### Money
 
-The currency is the Lebanese pound (LBP), but the US dollar is widely accepted. The economy is mainly cash-based in Lebanon. Many stores and companies accept credit/debit cards.
+The currency of Lebanon is the Lebanese pound (LBP), but the US dollar is widely accepted. The economy is mainly cash-based in Lebanon. Many stores and companies accept credit/debit cards.
 
 Foreign currencies, especially US dollars, can be exchanged at licensed money exchange bureaus*,* but not at banks.
 

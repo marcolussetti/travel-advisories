@@ -151,9 +151,9 @@ If you plan to travel to remote areas:
 * keep a supply of water, food and fuel if you’re driving
 * carry an emergency kit
 
-### The Arba’ een
+### The Arba’een
 
-The Arba’ een pilgrimage in 2026 will take place around August 3.
+The Arba’een pilgrimage in 2026 will take place around August 3.
 
 The event attracts a large number of pilgrims each year, from several foreign countries. There is an increased security risk during the pilgrimage as Iraqi authorities may not be able to conduct ID checks on all individuals entering Iraq, some of whom enter illegally. Iraqi security forces have thwarted attacks targeting Arba’een pilgrims in the past.
 
@@ -163,8 +163,7 @@ Before and during the pilgrimage, you can expect:
 * a heavy presence of security forces
 * street closures
 * disruptions to transportation, which start around a week before the event
-
-limited availability of accommodation
+* limited availability of accommodations
 
 If you travel to Iraq during the pilgrimage:
 

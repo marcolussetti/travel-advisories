@@ -111,6 +111,6 @@ Failure to comply can lead to severe punishment, including heavy fines, jail sen
 
 ### Money
 
-The currency is the Iraqi dinar (IQD). The economy is primarily cash-based. U.S. dollars are accepted in some shops.  You may have difficulty finding ATMs that accept your international bank card. There are a limited amount of ATMs compared to in Canada.
+The currency of Iraq is the Iraqi dinar (IQD). The economy is primarily cash-based. U.S. dollars are accepted in some shops.  You may have difficulty finding ATMs that accept your international bank card. There are a limited amount of ATMs compared to in Canada.
 
 You cannot leave Iraq with more than USD 10,000 in cash, or its equivalent in other currencies, unless you declared the amount when you entered the country.

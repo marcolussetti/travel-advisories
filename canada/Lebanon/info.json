@@ -1,7 +1,7 @@
 {
     "name": "Lebanon",
-    "update_reason": "Need help? section \u2013 updated information on consular assistance",
-    "update_date": "2026-06-23T13:38:00",
+    "update_reason": "Editorial change",
+    "update_date": "2026-06-24T11:33:00",
     "sections": {
         "risk": "canada/Lebanon/risk.md",
         "security": "canada/Lebanon/security.md",
