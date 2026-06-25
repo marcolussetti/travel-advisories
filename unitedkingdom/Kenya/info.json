@@ -1,11 +1,11 @@
 {
     "name": "Kenya",
-    "update_reason": "New information about Ebola screening when arriving in country (\u2018Entry requirements\u2019 page).",
+    "update_reason": "Updated information about key dates for potential protests in June and July (see 'Political situation' on \u2018Safety and security page\u2019).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Kenya/Warnings and insurance.md",
-            "update_date": "2026-05-22T15:18:23+01:00"
+            "update_date": "2026-06-24T12:48:44+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Kenya/Getting help.md"
         }
     ],
-    "update_date": "2026-05-22T15:18:23+01:00"
+    "update_date": "2026-06-24T12:48:44+01:00"
 }

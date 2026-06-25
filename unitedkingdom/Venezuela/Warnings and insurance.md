@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   11 March 2026
+:   25 June 2026
 
 Updated:
-:   10 March 2026
+:   25 June 2026
 
 Latest update:
-:   Removal of information about Colombia-Venezuela border closure ('Warnings and insurance' page).
+:   International airports in Venezuela are temporarily closed following the earthquakes on 24 June ('Warnings and insurance' page)
 
 ![](https://assets.publishing.service.gov.uk/media/69a6b088b9bd90e63a2521da/FCDO__TA__045_-_Venezuela_Travel_Advice_Ed4__WEB_.jpg)
 
@@ -54,6 +54,21 @@ FCDO advises against all travel to Zulia state.
 If you are a British national already living or travelling in Venezuela, you should be prepared to change your plans quickly if necessary. You should have a ‘personal emergency plan’, including practical steps for leaving the country or staying safe during a crisis, that does not depend on support from the UK government.
 
 Before you travel, [check the ‘Entry requirements’ section](https://www.gov.uk/foreign-travel-advice/venezuela/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19) for Venezuela’s current entry restrictions and requirements. These may change with little warning. Monitor local media and stay in contact with your travel provider.
+
+## Earthquakes near coast of Venezuela
+
+7.1 and 7.5 magnitude earthquakes were reported near Caracas, on 24 June. Follow the advice of local authorities.
+
+International airports in Venezuela are temporarily closed following the earthquakes.
+
+If you are affected and need assistance from the UK government, call:
+
+* from Venezuela +58 (0) 212 263 8411
+* from UK +44 (0) 207 008 5000
+
+If you are unaffected, let friends and family know you are safe.
+
+See further information about [earthquakes](https://www.gov.uk/foreign-travel-advice/venezuela/safety-and-security#earthquakes).
 
 ## State of External Commotion
 

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   23 May 2026
+:   25 June 2026
 
 Updated:
-:   22 May 2026
+:   24 June 2026
 
 Latest update:
-:   New information about Ebola screening when arriving in country (‘Entry requirements’ page).
+:   Updated information about key dates for potential protests in June and July (see 'Political situation' on ‘Safety and security page’).
 
 ![](https://assets.publishing.service.gov.uk/media/696a6280448fedc1eb4248f0/FCDO__TA__055_-_Kenya_Travel_Advice_Ed7__WEB_.jpg)
 

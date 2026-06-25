@@ -29,7 +29,9 @@ The current conflict in Israel and Palestine has led to heightened tensions arou
 
 There are regular protests and demonstrations in South Africa which can turn violent at short notice. Violence could affect participants and bystanders anywhere in the country.
 
-There has been an increase in xenophobic and anti-immigration marches and violence, primarily targeting African immigrants and those perceived to be African immigrants. Avoid areas where protests, demonstrations or marches are taking place, especially in city centres and townships. Do not cross protester roadblocks. This could provoke a violent reaction. Monitor local and social media for updates, including local radio. Where possible stay on main roads. Be aware GPS could lead you to less secure areas.
+There has been an increase in xenophobic and anti-immigration marches and violence, primarily (but not exclusively) targeting African immigrants and those perceived to be African immigrants. 30 June 2026 has been proposed by some organisations as a day of national shutdown linked to this sentiment. There is an increased likelihood of further protests and related incidents on or around 30 June and travel around certain areas of South Africa may be disrupted during this period. Exact details of impacted areas are not known, you should monitor local and social media for real time updates on the situation.
+
+Exercise caution, avoid areas where protests, demonstrations or marches are taking place, especially in city centres and townships. Do not cross protester roadblocks. This could provoke a violent reaction. If you encounter a protest unexpectedly, leave the area as soon as it is safe to do so. Follow the instructions of local authorities and security personnel. Monitor local and social media for updates, including local radio. Where possible stay on main roads. Be aware that GPS navigation may direct you through less secure areas.
 
 ## Crime
 

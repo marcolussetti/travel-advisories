@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   12 June 2026
+:   25 June 2026
 
 Updated:
-:   11 June 2026
+:   24 June 2026
 
 Latest update:
-:   New information about e-hailing and taxis and updated information about political situation, crime locations and Kruger National Park ('Safety and security' page).
+:   New information about increased risk of protests and possible travel disruptions on and around 30 June 2026 (see ‘Political situation’ on 'Safety and security' page).
 
 ## Before you travel
 
