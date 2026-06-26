@@ -1,7 +1,7 @@
 {
     "name": "Costa Rica",
-    "update_reason": "Need help? section \u2013 updated information on consular assistance",
-    "update_date": "2026-06-23T10:39:00",
+    "update_reason": "The Need help? section was updated.",
+    "update_date": "2026-06-25T11:06:00",
     "sections": {
         "risk": "canada/Costa Rica/risk.md",
         "security": "canada/Costa Rica/security.md",

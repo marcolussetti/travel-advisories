@@ -2,27 +2,23 @@
 
 ## Safety and security
 
-### Ongoing hostilities in the Middle East
+### Tensions in the Middle East
 
-There is ongoing military activity in the region. Missiles, drones and other projectiles could strike targets in the region. The security situation could deteriorate significantly without notice.
+The security situation remains volatile following recent military activity in the region.
 
-Avoid the vicinity of military installations.
+Missiles, drones and other projectiles struck targets in Syria. Military activity in the region could resume on short notice and cause travel disruptions including flight cancellations.
 
 Filming, taking photos and online sharing of images of military installations, activity or damage could lead to severe penalties pursuant to the enforcement of local laws and regulations across the region.
 
-There could be disruptions to movement and transportation, including:
-
-* border closures or restrictions
-* flight cancellations
-* airspace closures
-
 You should:
 
-* be prepared to shelter in place if instructed to by local authorities
-* be vigilant and follow the instructions of local authorities at all times, including any orders to shelter in place
-* sign up with the [Registration of Canadians Abroad](https://travel.gc.ca/travelling/registration) service to receive important information about the crisis
+* be vigilant and follow the instructions of local authorities at all times
+* be prepared to shelter in place if instructed to do so
 * ensure that your travel documents and those of your family are up to date
 * monitor local and international media to stay informed of the rapidly evolving situation
+* sign up with the [Registration of Canadians Abroad](https://travel.gc.ca/travelling/registration) service to receive important additional information, specific to your location
+
+[Situation in the Middle East: Information for Canadians in the region](https://www.international.gc.ca/world-monde/issues_development-enjeux_developpement/response_conflict-reponse_conflits/crisis-crises/middle-east-moyen-orient.aspx?lang=eng)
 
 ### Security situation
 
@@ -32,7 +28,7 @@ Despite ongoing efforts by the transitional government to dismantle armed factio
 
 Israeli air strikes continue to occur throughout the country, including in Damascus. The strikes have targeted military installations, transitional government's buildings and security forces positions.
 
-Damascus airport is operational and Aleppo airport has resumed limited commercial operations. However, several airlines have not resumed operations to and from Syria. Land border crossings and airspace may close without notice.  The Government of Canada has urged Canadians to leave Syria since November 2011.
+Damascus airport is operational and Aleppo airport has resumed limited commercial operations. However, several airlines have not resumed operations to and from Syria. Land border crossings and airspace may close without notice. The Government of Canada has urged Canadians to leave Syria since November 2011. Our ability to provide consular services is extremely limited.
 
 If you choose to travel to Syria or remain in the country despite this advisory:
 

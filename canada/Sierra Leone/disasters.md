@@ -6,7 +6,7 @@
 
 Climate change is affecting Sierra Leone. Extreme and unusual weather events are becoming more frequent and may affect your travel plans. Monitor local news to stay informed on the current situation
 
-### Rainy seaon
+### Rainy season
 
 The rainy season extends from May to November. Seasonal flooding can hamper overland travel and reduce the provision of essential services. Roads may become impassable due to mudslides and landslides. Bridges, buildings, and infrastructure may be damaged.
 

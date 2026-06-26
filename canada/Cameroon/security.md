@@ -6,7 +6,7 @@
 
 Violent extremist groups carry out attacks, kidnappings and banditry in these regions.
 
-These groups have attacked publics places and crowded areas, causing numerous civilian casualties. Violent clashes regularly occur between security forces and various armed groups.
+These groups have attacked public places and crowded areas, causing numerous civilian casualties. Violent clashes regularly occur between security forces and various armed groups.
 
 ### North-West and South-West regions
 
@@ -90,7 +90,7 @@ Terrorists may use such occasions to mount attacks.
 
 ### Kidnappings
 
-Kidnappings for ransom are frequent and can occur anywhere in the country. These crimes, often committed by armed groups, target Cameroonian and foreign nationals. Although most kidnappings are for ransom, on rare cases the victims have been executed or reported missing.
+Kidnappings for ransom are frequent and can occur anywhere in the country. These crimes, often committed by armed groups, target Cameroonian and foreign nationals. Although most kidnappings are for ransom, on rare occasions the victims have been executed or reported missing.
 
 The risk of kidnapping is particularly high in the Far North, North-West and South-West regions, in the Mayo-Louti department and in border areas with Nigeria and Chad. Although lower, it remains significant in the North and Adamaoua regions.
 
@@ -120,7 +120,7 @@ Women travelling alone may be subject to some forms of harassment or verbal abus
 
 #### Road safety
 
-There are major safety issues in Cameroon. The number of road accidents is high and often involve pedestrians. Police and emergency services assistance is limited, particularly in rural areas.
+There are major safety issues in Cameroon. The number of road accidents is high and often involves pedestrians. Police and emergency services assistance is limited, particularly in rural areas.
 
 #### Road conditions
 
@@ -210,7 +210,7 @@ Fuel shortages occur occasionally, especially during holiday periods in December
 Local authorities may impose rationing measures for fuel. These measures could lead to a reduction of essential services and line-ups at gas stations.
 
 * Never let your tank go lower than half-full
-* Keep a supply fuel on hand
+* Keep a supply of fuel on hand
 * Carefully plan all road travel
 
 #### Power outages
@@ -242,7 +242,7 @@ Coastal waters can be dangerous, even for experienced swimmers. Riptides are com
 
 ### Public transportation
 
-Public transport services are limited and not all are safe. Avoid using public transport services.
+Public transport services are limited and not all are safe. Avoid using public transportation.
 
 #### Buses
 
@@ -256,7 +256,7 @@ Taxi availability may be limited outside city centers.
 
 Taxis are frequently involved in traffic accidents. Passengers are sometimes mugged or robbed by cab drivers.
 
-If you choose to take a taxi or using ridesharing applications:
+If you choose to take a taxi or use ridesharing applications:
 
 * avoid using motorcycle taxis, locally known as “okada” or “bend-skins”, as they are frequently involved in accidents
 * ask for your taxi at the front desk if you’re using hotel services

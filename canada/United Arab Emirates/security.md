@@ -2,40 +2,25 @@
 
 ## Safety and security
 
-### Ongoing hostilities in the Middle East
+### Tensions in the Middle East
 
-There is ongoing military activity in the region. Missiles, drones and other projectiles could strike targets at any time. The security situation could deteriorate further without notice.
+The security situation remains volatile following recent military activity in the region.
 
-Avoid the vicinity of military installations, critical infrastructure and stay away from US government facilities.
+Missiles, drones and other projectiles struck targets in the UAE. Military activity in the region could resume on short notice and cause travel disruptions, including flight cancellations.
 
 Filming, taking photos and online sharing of images of military installations, activity or damage could lead to severe penalties pursuant to the enforcement of local laws and regulations across the region.
 
-Our ability to provide consular services to Canadians during an active conflict is limited, with priority given to the provision of essential services. Prepare contingency plans that don't rely on the Government of Canada's assistance for departure.
-
-Emirati airspace is subject to intermittent, temporary and partial closures. Some commercial flights resumed on March 5, 2026.
-
-* Monitor flight availability and leave the United Arab Emirates while commercial options are still available
-* Verify with your airline before you travel to the airport
-* Expect delays or cancellations on short notice should the situation deteriorate
-
-If you decide to leave the United Arab Emirates via a land border crossing and assess that you can do so safely, the following land border crossings to Oman are available:
-
-* Hatta/Al Wajajah
-* Khatma Malaha
-* Khatm Al Shikla (Al Ain)
-
-You should verify the status of the border crossing before you travel.
-
-You must have valid travel documents. Make sure you meet the [entry requirements](http://www.travel.gc.ca/destinations) of Oman before you travel to the border.
+Prepare contingency plans that don't rely on the Government of Canada's assistance for departure.
 
 You should:
 
-* be vigilant and follow the instructions of local authorities at all times, including any orders to shelter in place
+* be vigilant and follow the instructions of local authorities at all times
+* be prepared to shelter in place if instructed to do so
 * ensure that your travel documents and those of your family are up to date
 * monitor local and international media to stay informed of the rapidly evolving situation
-* sign up with the [Registration of Canadians Abroad](https://travel.gc.ca/travelling/registration) service to receive important additional information, specific to your location, about the ongoing situation and any available departure options.
+* sign up with the [Registration of Canadians Abroad](https://travel.gc.ca/travelling/registration) service to receive important additional information, specific to your location
 
-[Canada's response to the situation in the Middle East](https://www.international.gc.ca/world-monde/issues_development-enjeux_developpement/response_conflict-reponse_conflits/crisis-crises/middle-east-moyen-orient.aspx?lang=eng)
+[Situation in the Middle East: Information for Canadians in the region](https://www.international.gc.ca/world-monde/issues_development-enjeux_developpement/response_conflict-reponse_conflits/crisis-crises/middle-east-moyen-orient.aspx?lang=eng)
 
 ### Terrorism
 

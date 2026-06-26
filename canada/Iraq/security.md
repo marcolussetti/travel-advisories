@@ -2,24 +2,23 @@
 
 ## Safety and security
 
-### Ongoing hostilities in the Middle East
+### Tensions in the Middle East
 
-There is ongoing military activity in the region. Missiles, drones and other projectiles could strike targets in the region. The security situation could deteriorate significantly without notice.
+The security situation remains volatile following recent in the region.
 
-Avoid the vicinity of military installations, critical infrastructure and stay away from US government facilities.
+Missiles, drones and other projectiles struck targets in Iraq. Military activity in the region could resume on short notice and cause travel disruptions, including flight cancellations
 
 Filming, taking photos and online sharing of images of military installations, activity or damage could lead to severe penalties pursuant to the enforcement of local laws and regulations across the region.
 
-If you are in the Kurdistan Region of Iraq, you should shelter in place. However, if you decide to leave the Kurdistan Region for Türkiye via a land border crossing and assess that you can do so safely, the Ibrahim Khalil border crossing is available. Before travelling to the border, verify the status of the border crossing and ensure that you have valid travel documents and meet Türkiye’s [entry requirements](https://travel.gc.ca/destinations/turkiye#entryexit).
-
 You should:
 
-* be vigilant and follow the instructions of local authorities at all times, including any orders to shelter in place
+* be vigilant and follow the instructions of local authorities at all times
+* be prepared to shelter in place if instructed to do so
 * ensure that your travel documents and those of your family are up to date
 * monitor local and international media to stay informed of the rapidly evolving situation
-* sign up with the [Registration of Canadians Abroad](https://travel.gc.ca/travelling/registration) service to receive important information about the ongoing situation and any available travel options.
+* sign up with the [Registration of Canadians Abroad](https://travel.gc.ca/travelling/registration) service to receive important additional information specific to your location
 
-[Canada's response to the situation in the Middle East](https://www.international.gc.ca/world-monde/issues_development-enjeux_developpement/response_conflict-reponse_conflits/crisis-crises/middle-east-moyen-orient.aspx?lang=eng)
+[Situation in the Middle East: Information for Canadians in the region](https://www.international.gc.ca/world-monde/issues_development-enjeux_developpement/response_conflict-reponse_conflits/crisis-crises/middle-east-moyen-orient.aspx?lang=eng)
 
 ### Border areas
 

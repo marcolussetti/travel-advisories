@@ -16,10 +16,10 @@ The features in this map do not constitute an authoritative source of geographic
 
 The features in this map do not constitute an authoritative source of geographical information. This map is solely intended to assist Canadians by illustrating the risk levels contained in the Travel Advice and Advisories for this destination. The features in this map do not necessarily represent the views of the Canadian government on international boundaries, nomenclature or political status. The text under the Risk levels section takes precedence over this map.
 
-### KUWAIT - AVOID ALL TRAVEL
+### KUWAIT - AVOID NON-ESSENTIAL TRAVEL
 
-[Avoid all travel](#levels "Risk Levels") to Kuwait due to the ongoing military activities. The security situation could deteriorate further without notice.
+[Avoid non-essential travel](#levels "Risk Levels") to Kuwait due to the volatile security situation in the region.
 
-Shelter in place if instructed to by local authorities. However, if you assess that you can safely leave Kuwait via commercial flight or that travel to a land border crossing is safe, you should leave at the earliest opportunity while commercial options remain available.
+### Border with Iraq - Avoid all travel
 
-Sign up with the [Registration of Canadians Abroad](https://travel.gc.ca/travelling/registration) service to receive important additional information, specific to your location, about the ongoing situation and any available departure options.
+[Avoid all travel](#levels "Risk Levels") to the area within 5 km of the border with Iraq due to the presence of unexploded ordnance.

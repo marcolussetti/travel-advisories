@@ -31,7 +31,9 @@ While in the Canary Islands:
 
 #### Violent crime
 
-Violent crime is rare but does occur. Home burglaries happen in larger cities and coastal areas and sometimes affect homes or vacation rental apartments offered through online accommodation apps.
+Violent crime is rare but occurs.
+
+Burglaries happen and are more common in larger cities and coastal areas. Private homes and short-term rental accommodations, booked through online platforms, may be targeted.
 
 #### On the road
 
@@ -50,7 +52,7 @@ There is also a high threat of theft from rental and parked vehicles.
 
 If you are victim of a crime, you can call the tourist hotline to file a police report with the assistance of a translator.
 
-[Hotline service to file a police report with a translator](https://www.policia.es/_es/idioma_en_policia.php) - Policía Nacional
+[Hotline service to file a police report with a translator](https://www.policia.es/_es/idioma_en_policia.php) – Policía Nacional
 
 ### Fraud
 
@@ -118,37 +120,28 @@ Always be aware of your surroundings when in public places. Be particularly vigi
 
 The Spanish government maintains a public alert system on terrorism and communicates threat level changes online and through local media. The current level is set to 4 (high) on a scale of 1 to 5.
 
-[More about the terrorism threat level](https://www.dsn.gob.es/es/nivel-alerta-antiterrorista) - Spanish Ministry of the Interior (in Spanish)
+[More about the terrorism threat level](https://www.dsn.gob.es/es/nivel-alerta-antiterrorista) – Spanish Ministry of the Interior (Spanish only)
 
-### Swimming and water activities
+### Water activities
 
-Coastal waters can be dangerous. Always obey warning flags at beaches, lakes and rivers.
+Coastal waters can be dangerous. Rip currents occur. Tidal changes and strong winds can also cause dangerous riptides. Drownings occur every year.
 
-The main warning flags used in Spain are:
+Always obey warning flags at beaches, lakes and rivers.
 
-* Green: calm waters, swimming is allowed
-* Yellow: agitated waters, swimming with precautions is recommended
-* Red: dangerous waters, swimming or entering the water is forbidden
-* Black: contaminated waters, avoid swimming
+In marine areas, coral, jellyfish, stingrays and other marine life found along reefs can poison, sting or cause infection if touched or stepped on.
 
-In marine areas, coral, jellyfish and other ocean life found along reefs can poison, sting or cause infection if touched or stepped on.
+Ask local authorities about the presence of such species and whether they are dangerous.
 
-* Ask local authorities about the presence of such species and whether they are dangerous
-* Immediately seek medical assistance if you get hurt
+In the fall and winter months, be cautious when walking along beaches close to the water’s edge, as waves can be unpredictable in size and may come onto shore further than expected.
 
-In the fall and winter months, be cautious when walking along beaches close to the water’s edge as waves can be unpredictable in size and may come onto shore further than expected.
-
-* Don’t visit beaches or coastal areas during periods of severe weather warnings
-* Look out for signs warning of cliff erosion and falling rocks
-* Don’t dive into unknown waters, as hidden rocks or shallow depths can cause serious injury or death
+* Do not visit beaches or coastal areas during periods of severe weather warnings
+* Look out for signs of cliff erosion and falling rocks
+* Do not dive into unknown waters, as hidden rocks or shallow depths can cause serious injury or death
 * Exercise caution and follow the advice of the local authorities
 
-#### Useful links
+[Safe bathing](https://www.hellocanaryislands.com/safe-bathing/) – Canary Islands Tourism
 
-* [Safe bathing](https://www.hellocanaryislands.com/safe-bathing/) - Canary Islands Tourism
-* [Water safety abroad](https://travel.gc.ca/travelling/health-safety/water-safety)
-
-### Adventure tourism
+### Adventure travel
 
 Outdoor activities, such as hiking, can be dangerous if unprepared. Trails are not always marked, and weather conditions can change rapidly year-round, particularly around the high peaks of the archipelago such as Pico del Teide or Pico de las Nieves.
 
@@ -163,6 +156,8 @@ If you plan on trekking, or visiting natural tourist attractions or remote areas
 * stay informed about weather and other conditions that may pose a hazard
 * inform a family member or friend of your itinerary
 * dial 112 from a cellphone for any emergency
+
+[Adventure travel health and safety](https://travel.gc.ca/travelling/health-safety/adventure-travellers)
 
 ### Road safety
 
@@ -180,8 +175,8 @@ There are fixed rates for transportation to and from certain destinations. Confi
 
 #### Useful links
 
-* [Travelling between the islands](https://www.hellocanaryislands.com/travelling-between-the-islands/) - Canary Islands Tourism
-* [Moving around within the island](https://www.hellocanaryislands.com/moving-around-within-the-island/) - Canary Islands Tourism
+* [Travelling between the islands](https://www.hellocanaryislands.com/travelling-between-the-islands/) – Canary Islands Tourism
+* [Moving around within the island](https://www.hellocanaryislands.com/moving-around-within-the-island/) – Canary Islands Tourism
 
 ### Air travel
 

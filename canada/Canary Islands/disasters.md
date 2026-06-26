@@ -29,7 +29,7 @@ In case of a major fire:
 * follow the instructions of local emergency services personnel, including any evacuation orders
 * monitor local media sources for up-to-date information
 
-[Civil protection](https://www.proteccioncivil.es/es/inicio) - Spanish Ministry of the Interior (in Spanish)
+[Civil protection](https://www.proteccioncivil.es/es/inicio) – Spanish Ministry of the Interior (Spanish only)
 
 ### Rainstorms
 

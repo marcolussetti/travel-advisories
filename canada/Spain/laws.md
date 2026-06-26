@@ -106,7 +106,7 @@ You may need to obtain a permit to prove that your vehicle responds to environme
 #### Useful links
 
 * [Road rules and safety](https://europa.eu/youreurope/citizens/travel/driving-abroad/road-rules-and-safety/) – European Commission
-* [Obtaining a Spanish licence](https://www.dgt.es/nuestros-servicios/permisos-de-conducir/tus-puntos-y-tus-permisos/informacion-de-tus-permisos/) - General Traffic Directorate (in Spanish only)
+* [Obtaining a Spanish licence](https://www.dgt.es/nuestros-servicios/permisos-de-conducir/tus-puntos-y-tus-permisos/informacion-de-tus-permisos/) – General Traffic Directorate (Spanish only)
 * [More about the International Driving Permit](https://travel.gc.ca/travelling/documents/international-driving-permit)
 
 ### Money

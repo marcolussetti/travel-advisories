@@ -1,7 +1,7 @@
 {
     "name": "Spain",
-    "update_reason": "Need help? section \u2013 updated information on consular assistance",
-    "update_date": "2026-06-23T12:58:00",
+    "update_reason": "Safety and security section \u2013 updated information on violent crime and water activities",
+    "update_date": "2026-06-25T15:12:00",
     "sections": {
         "risk": "canada/Spain/risk.md",
         "security": "canada/Spain/security.md",

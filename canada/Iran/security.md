@@ -4,11 +4,11 @@
 
 ### 
 
-### Ongoing hostilities in the Middle East
+### Tensions in the Middle East
 
-Drones, missiles and other projectiles have struck targets in Iran. Further attacks are likely to occur. Interceptions could produce falling military debris in various locations.
+The security situation remains volatile following recent military activities in the region.
 
-You should shelter in a hardened structure away from windows if air raid sirens activate.
+Drones, missiles and other projectiles have struck targets in Iran. Military activity in the region could resume on short notice and cause travel disruptions including flight cancellations.
 
 Filming, taking photos and online sharing of images of military installations, activity or damage could lead to severe penalties pursuant to the enforcement of local laws and regulations across the region.
 
@@ -45,9 +45,9 @@ You should also:
 * be vigilant and follow any orders to shelter in place or evacuate
 * ensure that your travel documents and those of your family are up to date
 * monitor local and international media to stay informed of the rapidly evolving situation
-* sign up with the [Registration of Canadians Abroad](https://travel.gc.ca/travelling/registration) to receive important additional information, specific to your location, about the ongoing situation and any available departure options
+* sign up with the [Registration of Canadians Abroad](https://travel.gc.ca/travelling/registration) service to receive important additional information, specific to your location
 
-[Canada's response to the situation in the Middle East](https://www.international.gc.ca/world-monde/issues_development-enjeux_developpement/response_conflict-reponse_conflits/crisis-crises/middle-east-moyen-orient.aspx?lang=eng)
+[Situation in the Middle East: Information for Canadians in the region](https://www.international.gc.ca/world-monde/issues_development-enjeux_developpement/response_conflict-reponse_conflits/crisis-crises/middle-east-moyen-orient.aspx?lang=eng)
 
 ### Demonstrations
 

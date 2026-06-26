@@ -2,6 +2,16 @@
 
 ## Safety and security
 
+### "National shutdown"
+
+There has been an increase in xenophobic attacks, primarily targeting refugees and immigrants from other African nations.   
+ Anti-immigrant organizations have called for a “national shutdown” on June 30, 2026. Demonstrations could occur in the lead-up to and after this date. Similar demonstrations in the past have led to outbreaks of violence. Several areas across the country could be affected, particularly central business districts and townships.
+
+* avoid demonstrations and large gatherings
+* expect an increased presence of security forces
+* monitor the media for the latest information
+* follow the instructions of local authorities
+
 ### Crime
 
 #### Violent crime
@@ -218,10 +228,6 @@ Targets could include:
 * cultural venues
 
 South African authorities have successfully disrupted planned attacks and made arrests related to terrorism offences. Always be aware of your surroundings when in public places.
-
-### Regional unrest
-
-Xenophobic attacks, primarily targeting refugees and immigrants from other African nations, can be accompanied by demonstrations, looting and outbreaks of violence. Such unrest could occur in any region of the country and with little warning.
 
 ### Townships and rural areas
 

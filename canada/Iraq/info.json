@@ -1,7 +1,7 @@
 {
     "name": "Iraq",
-    "update_reason": "Editorial change",
-    "update_date": "2026-06-24T15:13:00",
+    "update_reason": "Risk level section \u2013 avoid all travel to Iraq; Safety and security section \u2013 updated information on tensions in the Middle East",
+    "update_date": "2026-06-25T16:24:00",
     "sections": {
         "risk": "canada/Iraq/risk.md",
         "security": "canada/Iraq/security.md",

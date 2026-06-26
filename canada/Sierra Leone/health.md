@@ -364,15 +364,13 @@ In the event of a serious illness or accident, medical evacuation will be necess
 
 Make sure you get travel insurance that includes coverage for medical evacuation and hospital stays.
 
-Make sure you get travel insurance that includes coverage for medical evacuation and hospital stays.
-
 [Health and safety outside Canada](https://travel.gc.ca/travelling/health-safety)
 
 ### Medication
 
 Some prescription medication may not be available in Sierra Leone.
 
-If you take prescription medication, you’re responsible for determining their legality in the country.
+If you take prescription medication, you’re responsible for determining its legality in the country.
 
 * Bring sufficient quantities of your medication with you
 * Always keep your medication in the original container

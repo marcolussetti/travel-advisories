@@ -16,10 +16,6 @@ The features in this map do not constitute an authoritative source of geographic
 
 The features in this map do not constitute an authoritative source of geographical information. This map is solely intended to assist Canadians by illustrating the risk levels contained in the Travel Advice and Advisories for this destination. The features in this map do not necessarily represent the views of the Canadian government on international boundaries, nomenclature or political status. The text under the Risk levels section takes precedence over this map.
 
-### UNITED ARAB EMIRATES - AVOID ALL TRAVEL
+### United Arab Emirates - Exercise a high degree of caution
 
-[Avoid all travel](#levels "Risk Levels") to the United Arab Emirates due to the ongoing military activities. The security situation could deteriorate further without notice.
-
-Shelter in place if instructed to by local authorities. However, if you assess that travel to the airport or to a land border crossing is safe, you should leave the United Arab Emirates at the earliest opportunity while commercial options remain available.
-
-Sign up with the [Registration of Canadians Abroad](https://travel.gc.ca/travelling/registration) service to receive important additional information, specific to your location, about the ongoing situation and any available departure options.
+[Exercise a high degree of caution](#levels "Risk Levels") in the United Arab Emirates due to the volatile security situation in the region.

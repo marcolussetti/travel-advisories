@@ -31,7 +31,7 @@ These restrictions are strictly enforced. If in doubt, do not take pictures.
 
 ### 2SLGBTQI+ persons
 
-Sierra Leonean law prohibits sexual acts between individuals of the same sex. Those convicted may face up to life imprisonment and possibly a fine.
+Sierra Leonean law prohibits sexual acts between individuals of the same sex. Those convicted may face up to life imprisonment, and possibly a fine.
 
 2SLGBTQI+ persons should carefully consider the risks of travelling to Sierra Leone.
 
@@ -43,7 +43,7 @@ You must carry an international driving permit to drive in Sierra Leone.
 
 Carry your identification and vehicle documents with you.
 
-If you have an accident and injure someone, take the person directly to the hospital. If witnesses to the accident react with hostility, go immediately to the nearest police station.
+If you have an accident and injure someone, take the person to a hospital immediately. If witnesses to the accident react with hostility, go immediately to the nearest police station.
 
 [International Driving Permit](https://travel.gc.ca/travelling/documents/international-driving-permit)
 
@@ -101,6 +101,6 @@ Be aware that Canadian consular officials cannot interfere in private legal matt
 
 The currency is the leone (SLL).
 
-Sierra Leone is cash-based economy. Strict rules limit the import of foreign currency in the form of cash. Credit and debit cards are not widely accepted.
+Sierra Leone is cash-based economy. Strict rules limit the import of foreign currency in cash. Credit cards are not widely accepted.
 
-There are very few ATMs in Freetown. You should exchange foreign currency at banks or official foreign exchange offices only. The U.S. dollar and the Euro are the easiest currencies to exchange.
+There are very few ATMs in Freetown. You should exchange foreign currency at banks or official foreign exchange offices only. The U.S. dollar and the euro are the easiest currencies to exchange.

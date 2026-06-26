@@ -49,7 +49,13 @@ During your trip:
 * expect travel delays and additional expenses if your passport is stolen
 * don’t leave luggage unattended at airport check-in or ticket counters, car rental desks or hotel lobbies
 
-#### On the road
+### Violent crime
+
+Violent crime is rare but occurs.
+
+Burglaries happen and are more common in larger cities and coastal areas. Private homes and short-term rental accommodations, booked through online platforms, may be targeted.
+
+### On the road
 
 Thieves have been known to simulate or provoke road-related incidents, such as flat tires. When a motorist stops to help, the thieves steal the motorist’s car or belongings. The reverse scenario has also occurred, whereby a thief offers to help a motorist in distress and steals the motorist’s car or belongings.
 
@@ -64,12 +70,8 @@ There is also a high threat of theft from rental and parked vehicles.
 
 #### Useful links
 
-* [Security advice while in Catalonia](https://mossos.gencat.cat/en/consells_de_seguretat/index.html) - Mossos d’Esquadra
-* [Tips to stay safe](https://ajuntament.barcelona.cat/seguretatiprevencio/sites/default/files/PDF/stay-safe-respect-others.pdf)- Municipality of Barcelona
-
-### Violent crime
-
-Violent crime is rare but does occur. Home burglaries happen in larger cities and coastal areas and sometimes affect homes or vacation rental apartments offered through online accommodation apps.
+* [Security advice while in Catalonia](https://mossos.gencat.cat/en/consells_de_seguretat/index.html) – Mossos d’Esquadra
+* [Tips to stay safe](https://ajuntament.barcelona.cat/seguretatiprevencio/sites/default/files/PDF/stay-safe-respect-others.pdf) – Municipality of Barcelona
 
 ### Foreign Tourist Assistance Service
 
@@ -79,11 +81,11 @@ You can also call the tourist hotline to file a police report with the assistanc
 
 #### Useful links
 
-* [Safety tips for tourists](https://www.policia.es/miscelanea/participacion_ciudadana/consejos_de_seguridad_para_turistas_es_en.pdf) - Policía Nacional
-* [Foreign Tourist Assistance Service (SATE) in Madrid](https://www.esmadrid.com/en/tourist-information/sate) - Tourism Madrid
-* [Tourist Assistance Service in Barcelona (Ciutat Vella District)](https://ajuntament.barcelona.cat/guardiaurbana/en/contact) - Guàrdia Urbana de Barcelona
-* [Foreign Tourist Assistance Service (SATE) in Málaga](http://www.malagaturismo.com/en/tourist-resources/detail/municipal-tourist-information-office---head-office/17) - Tourism Málaga
-* [Hotline service to file a police report with a translator](https://www.policia.es/_es/idioma_en_policia.php) - Policía Nacional
+* [Safety tips for tourists](https://www.policia.es/miscelanea/participacion_ciudadana/consejos_de_seguridad_para_turistas_es_en.pdf) – Policía Nacional
+* [Foreign Tourist Assistance Service (SATE) in Madrid](https://www.esmadrid.com/en/tourist-information/sate) – Tourism Madrid
+* [Tourist Assistance Service in Barcelona (Ciutat Vella District)](https://ajuntament.barcelona.cat/guardiaurbana/en/contact) – Guàrdia Urbana de Barcelona
+* [Foreign Tourist Assistance Service (SATE) in Málaga](http://www.malagaturismo.com/en/tourist-resources/detail/municipal-tourist-information-office---head-office/17) – Tourism Málaga
+* [Hotline service to file a police report with a translator](https://www.policia.es/_es/idioma_en_policia.php) – Policía Nacional
 
 ### Terrorism
 
@@ -98,11 +100,11 @@ Targets could include:
 * airports and other transportation hubs and networks
 * public areas such as tourist attractions, restaurants, bars, coffee shops, shopping centres, markets, hotels and other sites frequented by foreigners
 
- Always be aware of your surroundings when in public places. Be particularly vigilant if attending sporting events and during religious holidays and other public celebrations, as terrorists have used such occasions to mount attacks.
+Always be aware of your surroundings when in public places. Be particularly vigilant if attending sporting events and during religious holidays and other public celebrations, as terrorists have used such occasions to mount attacks.
 
 The Spanish government maintains a public alert system on terrorism and communicates threat level changes online and through local media. The current threat level for Spain is level 4 (“high”) on a scale of 5.
 
-[Terrorism threat level](https://www.interior.gob.es/opencms/es/prensa/nivel-alerta-terrorista/) - Spanish Ministry of the Interior (in Spanish)
+[Terrorism threat level](https://www.interior.gob.es/opencms/es/prensa/nivel-alerta-terrorista/) – Spanish Ministry of the Interior (Spanish only)
 
 ### Fraud
 
@@ -157,30 +159,22 @@ Even peaceful demonstrations can turn violent at any time. They can also lead to
 
 [Mass gatherings (large-scale events)](https://travel.gc.ca/travelling/health-safety/mass-gatherings)
 
-### Swimming and water activities
+### Water activities
 
-Coastal waters can be dangerous. Always obey warning flags at beaches, lakes and rivers.
+Coastal waters can be dangerous. Rip currents occur. Tidal changes and strong winds can also cause dangerous riptides. Drownings occur every year.
 
-The main warning flags used in Spain are:
+Always obey warning flags at beaches, lakes and rivers.
 
-* Green: calm waters, swimming is allowed
-* Yellow: agitated waters, swimming with precautions is recommended
-* Red: dangerous waters, swimming or entering the water is forbidden
-* Black: contaminated waters, avoid swimming
+In marine areas, coral, jellyfish, stingrays and other marine life found along reefs can poison, sting or cause infection if touched or stepped on.
 
-In marine areas, coral, jellyfish and other ocean life found along reefs can poison, sting or cause infection if touched or stepped on.
+Ask local authorities about the presence of such species and whether they are dangerous.
 
-* Ask local authorities about the presence of such species and whether they are dangerous
-* Immediately seek medical assistance if you get hurt
+In the fall and winter months, be cautious when walking along beaches close to the water’s edge, as waves can be unpredictable in size and may come onto shore further than expected.
 
-In the fall and winter months, be cautious when walking along beaches close to the water’s edge as waves can be unpredictable in size and may come onto shore further than expected.
-
-* Don’t visit beaches or coastal areas during periods of severe weather warnings
-* Look out for signs warning of cliff erosion and falling rocks
-* Don’t dive into unknown waters, as hidden rocks or shallow depths can cause serious injury or death
+* Do not visit beaches or coastal areas during periods of severe weather warnings
+* Look out for signs of cliff erosion and falling rocks
+* Do not dive into unknown waters, as hidden rocks or shallow depths can cause serious injury or death
 * Exercise caution and follow the advice of the local authorities
-
-[Adventure travel health and safety](https://travel.gc.ca/travelling/health-safety/adventure-travellers)
 
 ### Mountain activities
 
@@ -193,6 +187,8 @@ If you intend to do mountaineering or skiing:
 * inform a family member or friend of your itinerary, including when you expect to be back
 * know the symptoms of high-altitude illnesses, which can be fatal
 * obtain detailed information on trekking routes or ski slopes before setting out and do not venture off marked trails or slopes
+
+[Adventure travel health and safety](https://travel.gc.ca/travelling/health-safety/adventure-travellers)
 
 ### Road safety
 

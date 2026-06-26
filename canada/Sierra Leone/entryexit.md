@@ -53,14 +53,29 @@ If you are travelling to Sierra Leone for tourism or business, you can either:
 * apply for an e-visa before arrival
 * get a visa on arrival
 
-For other purposes, or for a multi-entry visa, you must be in possession of a visa before arrival.
+For other purposes, or for a multi-entry visa, you must obtain a visa before arrival.
 
-You must pay an airport security fee prior to your arrival or departure. Payment can be made at the airport or online.
+You must pay an airport security fee before your arrival or departure. Payment can be made at the airport or online.
 
 #### Useful links:
 
 * [eVisa application](https://www.evisa.sl/#/home) – Sierra Leone Immigration Service
 * [Airport security fee payment](https://securipass.sl/) – Government of Sierra Leone
+
+### Health declaration form
+
+You must complete a health declaration form to enter and to leave Sierra Leone.
+
+You must:
+
+* complete the form online within 72 hours before you travel
+* keep your confirmation QR code or reference number and present it to customs and immigration authorities
+
+You may be subject to health screening on arrival.
+
+If you do not complete the form, you could be delayed or denied entry or exit.
+
+[Sierra Leone Health Travel Portal](https://poep.npha.gov.sl/) – National Public Health Agency (NPHA) Travel Portal
 
 ### Children and travel
 

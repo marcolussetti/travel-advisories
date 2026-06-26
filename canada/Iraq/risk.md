@@ -18,8 +18,6 @@ The features in this map do not constitute an authoritative source of geographic
 
 ### IRAQ - AVOID ALL TRAVEL
 
-[Avoid all travel](#levels "Risk Levels") to Iraq due to the ongoing military activities.
-
-Shelter in place if instructed to by local authorities.
+[Avoid all travel](#levels "Risk Levels") to Iraq due to the volatile security situation in the region.
 
 You should leave Iraq at the earliest opportunity while commercial options are available.

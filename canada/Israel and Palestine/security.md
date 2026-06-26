@@ -2,45 +2,15 @@
 
 ## Safety and security
 
-### Ongoing hostilities in the Middle East
+### Tensions in the Middle East
 
-Drones, missiles and other projectiles could strike targets in Israel and Palestine. The security situation could deteriorate further without notice. A nationwide state of emergency is currently in effect in Israel.
+The security situation remains volatile following recent military activities in the region.
 
-Avoid the vicinity of military installations, critical infrastructure and stay away from US government facilities.
+Drones, missiles and other projectiles struck targets in Israel and Palestine. Military activity in the region could resume on short notice and cause travel disruption, including flight cancellations. If you are in Israel or Palestine, prepare contingency plans that don't rely on the Government of Canada's assistance for evacuations or assisted departures.
 
 Filming, taking photos and online sharing of images of military installations, activity or damage could lead to severe penalties pursuant to the enforcement of local laws and regulations across the region.
 
-There could be disruptions to movement and transportation due to military debris falling in various locations.
-
-Ben Gurion International Airport has reopened. Some flights have resumed, but availability and destinations may be limited.
-
-* Monitor flight availability and leave while commercial options are available
-* Verify with your airline before travelling to the airport
-* Expect delays or cancellations on short notice should the situation deteriorate
-
-Land border crossings with Jordan and Egypt remain open but could be impacted at short notice. Commercial transportation options are available between major Israeli cities and Eilat, from where you can cross into Aqaba, Jordan or Taba, Egypt. Flights are operating out of both these cities as well as from Sharm El-Sheikh, Egypt.
-
-If you wish to leave Israel via a land border crossing and believe you can do so safely, the following options are available:
-
-* to Jordan:
-
-+ Jordan River/Sheikh Hussein Bridge, in the north of Israel
-+ Allenby/King Hussein Bridge, near Jericho in the West Bank (Israeli passport holders are not permitted to cross at this border; only available exit option for West Bank ID holders)
-+ Yitzhak/Aqaba, near Eilat in the south of Israel
-
-You must [obtain a visa online](https://moi.gov.jo/EN/Pages/Visa_E_Applications) before crossing into Jordan.
-
-* to Egypt:
-
-+ Menahem Begin/Taba, from southern Israel into the Sinai Peninsula
-
-You can obtain an electronic visa before travelling to Egypt or get a visa on arrival directly at the Taba border crossing.
-
-Due to the current security situation, verify the status of border crossings, and make sure you meet the entry requirements of [Egypt](https://travel.gc.ca/destinations/egypt#entryexit) or [Jordan](https://travel.gc.ca/destinations/jordan#entryexit) before travelling there.
-
-Our ability to provide consular services to Canadians during an active conflict is likely to be limited. If you are in Israel or Palestine, prepare contingency plans that don't rely on the Government of Canada's assistance for evacuations or assisted departures.
-
-You should:
+If you are in Israel, Palestine or Jerusalem, you should:
 
 * be prepared to shelter in place and identify the location of the nearest shelters, which are indicated on Google Maps if you are in Israel
 * ensure that you have sufficient supplies of cash, medication, food, fuel and water in case you need to shelter in place
@@ -49,7 +19,9 @@ You should:
 * keep the local emergency services' contact information at hand
 * monitor local and international media to stay informed of the rapidly evolving situation
 * follow the instructions of local authorities at all times, including any orders to shelter in place
-* sign up with the [Registration of Canadians Abroad](https://travel.gc.ca/travelling/registration) service to receive important additional information, specific to your location, about the ongoing situation and any available departure options
+* sign up with the [Registration of Canadians Abroad](https://travel.gc.ca/travelling/registration) service to receive important additional information, specific to your location.
+
+[Situation in the Middle East: Information for Canadians in the region](https://www.international.gc.ca/world-monde/issues_development-enjeux_developpement/response_conflict-reponse_conflits/crisis-crises/middle-east-moyen-orient.aspx?lang=eng)
 
 ### Security situation in the Gaza Strip
 

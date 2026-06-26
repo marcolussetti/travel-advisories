@@ -1,7 +1,7 @@
 {
     "name": "Bahrain",
-    "update_reason": "Need help? section \u2013 updated information on consular assistance",
-    "update_date": "2026-06-23T13:34:00",
+    "update_reason": "Risk level section \u2013 avoid non-essential travel to Bahrain; Safety and security section \u2013 updated information on tensions in the Middle East",
+    "update_date": "2026-06-25T16:21:00",
     "sections": {
         "risk": "canada/Bahrain/risk.md",
         "security": "canada/Bahrain/security.md",

@@ -2,30 +2,34 @@
 
 ## Safety and security
 
-### Ongoing hostilities in the Middle East
+### Tensions in the Middle East
 
-There is ongoing military activity in the region. Missiles, drones and other projectiles have struck targets in Lebanon. Airstrikes may take place across Lebanon, but they are mostly occurring in:
+The security situation remains volatile following recent military activity in the region.
+
+Missiles, drones and other projectiles have struck targets in Lebanon. Military activity in the region could resume on short notice and cause travel disruptions including flight cancellations.
+
+Airstrikes could resume across Lebanon, but mostly in:
 
 * southern Lebanon
 * Beirut's southern suburbs
 * the Beqaa Valley
 * Palestinian refugee camps
 
-Our ability to provide consular services to Canadians during an active conflict is limited, with priority given to the provision of essential services. Prepare contingency plans that don’t rely on the Government of Canada’s assistance for departure.
+Prepare contingency plans that don’t rely on the Government of Canada’s assistance for departure.
 
 Filming, taking photos and online sharing of images of military installations, activity or damage could lead to severe penalties pursuant to the enforcement of local laws and regulations across the region.
 
 You should:
 
+* be vigilant and follow the instructions of local authorities at all times
+* be prepared to shelter in place if instructed to do so
 * follow evacuation orders
-* be vigilant and follow the instructions of local authorities at all times, including any orders to shelter in place
-* if you assess that it is safe to do so, leave Lebanon at the earliest opportunity while commercial flights remain available
 * stock up on food, water and medications in case the situation deteriorates further
 * ensure that your travel documents and those of your family are up to date
 * monitor local and international media to stay informed of the rapidly evolving situation
-* sign up with the [Registration of Canadians Abroad](https://travel.gc.ca/travelling/registration) service to receive important additional information, specific to your location, about the ongoing situation and any available departure options
+* sign up with the [Registration of Canadians Abroad](https://travel.gc.ca/travelling/registration) service to receive important additional information, specific to your location
 
-[Canada's response to the situation in the Middle East](https://www.international.gc.ca/world-monde/issues_development-enjeux_developpement/response_conflict-reponse_conflits/crisis-crises/middle-east-moyen-orient.aspx?lang=eng)
+[Situation in the Middle East: Information for Canadians in the region](https://www.international.gc.ca/world-monde/issues_development-enjeux_developpement/response_conflict-reponse_conflits/crisis-crises/middle-east-moyen-orient.aspx?lang=eng)
 
 ### 2SLGBTQI+ persons
 

@@ -70,7 +70,7 @@ Photography of sensitive installations is prohibited. This includes:
 * ports
 * military sites
 * government buildings
-* uniformed service people
+* uniformed personnel
 
 Always ask permission before photographing official buildings or individuals.
 
@@ -92,8 +92,8 @@ If a police officer asks you to pay a fine on the spot for a traffic violation, 
 
 The currency is the Central African CFA franc (XAF), known in French as the “franc CFA d’Afrique centrale”.
 
-Cameroon is largely a cash-based economy. Large stores and hotels may accept major credit cards or euros and U.S. dollars, but this should be confirmed when you book. Credit cards are rarely accepted outside international hotels.
+Cameroon is largely a cash-based economy. Large stores and hotels may accept major credit cards or euros and U.S. dollars, but this should be confirmed when your booking. Credit cards are rarely accepted outside international hotels.
 
 #### Transferring money
 
-You must obtain authorization from the Ministry of Finance to transfer money out of Cameroon. Transferring funds through a bank is time-consuming, and charges are levied.
+You must obtain authorization from the Ministry of Finance to transfer money out of Cameroon. Transferring funds through a bank is time-consuming, and fees are levied.

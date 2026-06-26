@@ -129,7 +129,7 @@ If a police officer asks you for money, you may make a complaint to the Costa Ri
 
 ### Money
 
-The currency in Costa Rica is the Costa Rican colón (CRC).
+The currency of Costa Rica is the Costa Rican colón (CRC).
 
 Credit cards are generally accepted.
 

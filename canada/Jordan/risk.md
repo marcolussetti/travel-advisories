@@ -16,13 +16,9 @@ The features in this map do not constitute an authoritative source of geographic
 
 The features in this map do not constitute an authoritative source of geographical information. This map is solely intended to assist Canadians by illustrating the risk levels contained in the Travel Advice and Advisories for this destination. The features in this map do not necessarily represent the views of the Canadian government on international boundaries, nomenclature or political status. The text under the Risk levels section takes precedence over this map.
 
-### JORDAN - AVOID NON-ESSENTIAL TRAVEL
+### Jordan - Exercise a high degree of caution
 
-[Avoid non-essential travel](#levels "Risk Levels") to Jordan due to the risk of falling military debris from intercepted projectiles, airspace closure, and renewed regional tensions. The security situation could deteriorate further without notice.
-
-Shelter in place if instructed to by local authorities. Commercial flights remain available; however, they may become limited on short notice. You should consider leaving Jordan while commercial options remain available.
-
-Sign up with the [Registration of Canadians Abroad](https://travel.gc.ca/travelling/registration) service to receive important additional information, specific to your location, about the ongoing situation and any available departure options.
+[Exercise a high degree of caution](#levels "Risk Levels") in Jordan due to the volatile security situation in the region.
 
 ### Borders with Iraq and Syria - Avoid all travel
 

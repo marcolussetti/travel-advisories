@@ -30,7 +30,7 @@ During your trip:
 
 #### Violent crime
 
-Although incidents are mostly opportunistic, violent crime remains a concern. Armed robberies, carjackings and burglaries have occurred in foreigner’s homes. There is a heightened risk of serious crime after dark.
+Although incidents are mostly opportunistic, violent crime remains a concern. Armed robberies, carjackings and burglaries have occurred in foreigners' homes. There is a heightened risk of serious crime after dark.
 
 During your stay:
 
@@ -68,7 +68,7 @@ Be particularly vigilant during:
 * sporting events
 * religious holidays
 * public celebrations
-* major political events, such as election
+* major political events, such as elections
 
 Terrorists may use such occasions to mount attacks.
 
@@ -85,7 +85,7 @@ Road conditions vary throughout the country. Freetown has paved roads and the ma
 Driving can be dangerous due to:
 
 * poorly maintained vehicles
-* poorly maintained road and potholes
+* poorly maintained roads and potholes
 * stray livestock
 * lack of traffic signs
 * pedestrians on the road
@@ -93,7 +93,7 @@ Driving can be dangerous due to:
 
 #### Driving habits
 
-Drivers do not always respect traffic laws. Speeding is common, especially on the Waterloo-Freetown highway. Pedestrians and other drivers’ right of way are not respected. Drinking and driving is common.
+Drivers do not always respect traffic laws. Speeding is common, especially on the Waterloo-Freetown highway. Pedestrians and other drivers’ right-of-way are not respected. Drinking and driving is common.
 
 Traffic accidents can quickly draw large and sometimes hostile crowds. Remain calm if there is a dispute, particularly in a public place. If threatened by a large crowd, seek direct intervention from the local police.
 
@@ -178,7 +178,7 @@ Local transportation services between Lungi International Airport and Freetown a
 * land
 * ferryboat
 * helicopter
-* speed boat
+* speedboat
 
 None of those options are risk-free, and the risk increases after dark.
 
@@ -186,7 +186,7 @@ If you choose to use public transportation to and from the airport:
 
 * plan to land early enough in the day so that you can arrive at your destination before nightfall
 * arrange for transportation prior to arrival, reputable hotels often offer shuttle services from the boat dock to the hotel
-* only use reputable taxi companies, including water taxi operators
+* only use reputable taxi companies, including water-taxi operators
 * avoid using unregulated or unauthorized boats
 * avoid using water transportation during rough seas
 * be aware of your surroundings if you use the ferry, as there are reports of pickpocketing
@@ -218,10 +218,6 @@ Ocean currents along the coast are powerful and dangerous. There are no rescue s
 #### Swimming
 
 Beaches are generally unsupervised. Several drownings occur every year. Follow the instructions of local authorities.
-
-[Adventure travel health and safety](https://travel.gc.ca/travelling/health-safety/adventure-travellers)
-
-### 
 
 ### Air travel
 
