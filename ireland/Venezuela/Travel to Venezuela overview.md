@@ -6,6 +6,24 @@ Do Not Travel
 
 ### Travel Alert
 
+#### **Earthquake – State of Emergency**
+
+**Venezuela has declared a state of emergency following two major earthquakes and several aftershocks across the country.**
+
+Irish citizens should monitor local media, follow the advice of local authorities, and avoid affected areas. Transport disruption, including to flights, is possible.
+
+As there is no Irish Embassy in Venezuela, we are limited in the help we can offer you in an emergency. If you require urgent consular assistance, call the [**Irish Embassy in Colombia**](https://www.ireland.ie/en/colombia/bogota/contact/).
+
+The Embassy operates an out of hours service for Irish citizens requiring emergency assistance on weekends and public holidays.
+
+If you are in need of emergency assistance during these times, you should leave a message on the emergency message system by calling +57 1 657 6060. The emergency message system is checked regularly outside of office hours and a member of the Embassy staff will contact you as soon as possible.
+
+When you leave a message, remember to state your name, the nature of the problem, where you are now, and the details of how the Duty Officer can contact you (e.g. leave your mobile phone number, or the phone number of the hotel/hostel where you are staying).
+
+Alternatively, you may contact the Duty Officer at the Department of Foreign Affairs and Trade at +353 (01) 408 2000
+
+#### **Military Strikes**
+
 **The Department of Foreign Affairs and Trade advises against all travel to Venezuela at this time.**
 
 On 3 January 2026, military strikes took place in several locations across Venezuela, including the capital city, Caracas. The current security situation is unpredictable and may deteriorate quickly. Land borders and airspace may close at short notice.
