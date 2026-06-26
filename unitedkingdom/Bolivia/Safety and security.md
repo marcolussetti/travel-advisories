@@ -37,13 +37,13 @@ Ignore anyone offering help at taxi stands and bus terminals and watch your belo
 
 Protests, marches and demonstrations can occur with little prior notice. If they occur, you should move away from the area and remain in a safe place. Stay alert to developments and pay attention to instructions from local authorities.
 
-Protestors may block roads. Do not attempt to cross blockades in a motor vehicle or on a motorbike.  Pedestrians are not usually prevented from crossing blockades but exercise caution before doing so. Recent blockades have led to fuel and fresh food shortages in some areas.
+Protestors may block roads. Do not attempt to cross blockades in a motor vehicle or on a motorbike. Recent blockades have led to fuel and fresh food shortages in some areas.
 
 To reduce any risk:
 
 * avoid large gatherings and protests
 * stay alert and monitor local media
-* take the advice of local authorities or tour operators
+* take the advice of local authorities
 * be wary of unverified, unofficial information
 * allow extra time to reach your destination
 
