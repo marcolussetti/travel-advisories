@@ -2,20 +2,6 @@
 
 ## Natural disasters and climate
 
-### Sarangani earthquake
-
-On June 8, 2026, a 7.8 magnitude earthquake struck offshore near Sarangani, Mindanao causing extensive infrastructure damage and resulting in several casualties.
-
-Additional tremors are likely to continue. Landslides, especially in mountainous or hilly areas, are also possible.
-
-If you are in one of the affected areas:
-
-* monitor local media for updates on the situation
-* avoid entering or staying in damaged buildings until they have been inspected and declared safe by authorities
-* follow the instructions of local and national authorities
-
-[Latest news](https://www.phivolcs.dost.gov.ph/category/news/) – Philippine institute of Volcanology and Seismology
-
 ### Climate change
 
 Climate change is affecting the Philippines. Extreme and unusual weather events are becoming more frequent. Monitor local news to stay informed on the current situation.

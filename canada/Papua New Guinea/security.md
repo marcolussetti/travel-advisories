@@ -17,6 +17,20 @@ Local authorities declared a state of emergency in the area. They have also issu
 * Follow the instructions of local authorities, including any evacuation, curfew or movement restriction orders
 * Monitor local media for the latest information on the situation
 
+### Water supply disruptions in Port Moresby
+
+Water and electricity supply is regularly interrupted in Papua New Guinea. Port Moresby's water utility company is urgently repairing its aging infrastructure and pipelines.
+
+Major disruption or extended outages could severely impact public health, safety, and sanitation across the city.
+
+If you are in Port Moresby:
+
+* ensure that you have sufficient fuel, food, water and medical supplies
+* follow the advice of local authorities
+* check for updates on water availability and restrictions from your service provider
+
+[Latest News](https://www.waterpng.com.pg/) – Water PNG
+
 ### Inter-ethnic violence
 
 Inter-ethnic tensions often lead to communal violence, sometimes deadly. They occur particularly in:
