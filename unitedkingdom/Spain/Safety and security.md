@@ -153,11 +153,17 @@ Many large events and public processions are held in Spain each year. Follow the
 
 Take care of your valuables if attending a festival or large concert. See the [festival travel checklist](https://www.gov.uk/guidance/festival-travel-checklist) for more advice.
 
-### Swimming and beaches
+## Swimming and beaches
 
-Every year, people drown in the sea and in swimming pools in Spain. Always supervise children, even if they can swim or there is a lifeguard present.
+Every year, people drown in the sea and in swimming pools in Spain.
 
-Take care when swimming in the sea. Some beaches, especially around Spanish islands, may have strong undercurrents.
+### Swimming pools
+
+Always supervise children. Keep small children within arms-reach in and around swimming pools, even if they can swim or there is a lifeguard present.
+
+### Beaches
+
+Take care when swimming in the sea. Always supervise children and keep small children within arms-reach. Some beaches, especially around Spanish islands, may have strong undercurrents.
 
 Hidden rocks or shallow depths can cause serious injury or death. Do not dive into unknown water and do not swim at beaches where a river runs into the sea.
 

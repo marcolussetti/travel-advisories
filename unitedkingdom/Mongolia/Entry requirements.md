@@ -46,6 +46,10 @@ The agency will issue you with a digital residence permit that shows your passpo
 
 Mongolia takes border security very seriously and foreign nationals are not routinely allowed access to border areas. The authorities can regard zones of up to 100km inside the border as a border area. If you wish to travel in these areas, you must get permission from the State Frontier Guard Authority. Only a few specified land border crossings are open to foreigners.
 
+## Borders within Mongolia
+
+There is currently a Foot and Mouth Disease outbreak in the western provinces of Khovd, Bayan-Ulgii, Govi-Altai and Selenge in Mongolia. Mongolian authorities are taking action to stop the outbreak spreading further but other Mongolian provinces could be affected at short notice. Monitor local media for the latest information.
+
 ### Border points open to British citizens
 
 There are normally 8 border points open to British passport holders:

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   3 January 2026
+:   27 June 2026
 
 Updated:
-:   2 January 2026
+:   26 June 2026
 
 Latest update:
-:   Updated information about visa requirements (‘Entry requirements’ page).
+:   New information on travelling between provinces within Mongolia (See 'Borders within Mongolia' on the ‘Entry requirements’ page).
 
 ## Before you travel
 

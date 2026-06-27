@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   24 June 2026
+:   27 June 2026
 
 Updated:
-:   23 June 2026
+:   26 June 2026
 
 Latest update:
-:   New information about extreme temperatures ('Safety and security' page).
+:   Updated information on swimming safety for children in swimming pools and the sea ('Safety and security' page).
 
 ## Before you travel
 

@@ -31,6 +31,16 @@ Examples of significant attacks include:
 
 The political situation in Jordan is stable but sometimes there are protests in Amman and other cities. You should stay away from demonstrations and follow the advice of the local authorities.
 
+## Demonstrations and mass gatherings
+
+On 23 June 2026, large crowds gathered to watch Jordan’s national team play in the 2026 World Cup. One person died and eight were injured in downtown Amman at a public screening of the match.
+
+You should:
+
+* stay aware of your surroundings and consider avoiding crowds, crowd control measures may be limited
+* follow the advice of local authorities
+* monitor local media
+
 ## Crime
 
 ### Protecting yourself and your belongings

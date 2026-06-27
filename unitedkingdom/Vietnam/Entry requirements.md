@@ -10,6 +10,8 @@ From 15 April 2026, all foreign nationals entering Vietnam via Tan Son Nhat Airp
 
 The digital arrival card system is not currently a mandatory requirement for entry into Vietnam via Tan Son Nhat airport, but this may change, or be rolled out to other airports in Vietnam with limited notice.
 
+Additionally, from 1 July, if you travel to or transit through Vietnam you may be required to complete a health declaration, which may include providing proof of vaccinations. Check official guidance from your nearest Vietnamese Embassy for instructions on how to complete the declaration.
+
 ## Passport validity requirements
 
 To enter Vietnam, your passport must have:

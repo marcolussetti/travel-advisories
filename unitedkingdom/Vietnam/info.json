@@ -1,11 +1,11 @@
 {
     "name": "Vietnam",
-    "update_reason": "Addition of information about digital arrival card and updated information about road travel ('Entry requirements' and 'Safety and security' pages).",
+    "update_reason": "New information about submitting a health declaration if you are travelling to or transiting through Vietnam ('Entry requirements' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Vietnam/Warnings and insurance.md",
-            "update_date": "2026-04-21T14:35:38+01:00"
+            "update_date": "2026-06-26T12:10:13+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Vietnam/Getting help.md"
         }
     ],
-    "update_date": "2026-04-21T14:35:38+01:00"
+    "update_date": "2026-06-26T12:10:13+01:00"
 }
