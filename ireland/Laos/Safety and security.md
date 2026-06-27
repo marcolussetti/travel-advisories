@@ -4,7 +4,11 @@
 
 There are ongoing security concerns related to ethnic conflicts, banditry, and unexploded munitions in Laos and visitors should exercise caution if planning to travel to the country. Skirmishes between government forces and unidentified groups have taken place along the Lao-Thai border and there have been armed attacks on some routes, including Routes 6, 7 and 13. Visitors should also exercise increased caution in remote areas along the border with Burma (Myanmar).
 
-### **Landmines**
+### **Travel to Xaisomboun Province**
+
+The Embassy advises against all but essential travel to Xaisomboun Province. There are intermittent attacks on infrastructure and armed clashes with anti-government groups.
+
+**Landmines**
 
 Landmines and unexploded munitions are a risk, particularly in Xieng Khouang Province (Plain of Jars), and at the Lao-Vietnamese border areas that were formerly crossed by the Ho Chi Minh Trail.
 
@@ -28,9 +32,13 @@ If your passport is lost or stolen, report this to the Police immediately and ob
 
 If in Laos and your passport is lost or stolen please contact the Embassy of Ireland in Hanoi for assistance.
 
+### **Using cameras and binoculars in secure areas**
+
+Photographing or entering any military site is strictly prohibited and you may be arrested or detained if you do so. Avoid photographing bridges or airfields.
+
 ### **Contaminated Food or Drink**
 
-There have been a number of incidents where tourists have had their drinks or food drugged. Some restaurants in popular tourist destinations offer drug-laced food and drink, which has led to the victim being assaulted. These products can contain harmful substances and consuming them can result in serious injury or even death. Never leave food or drink unattended.
+There have been a number of incidents where tourists have had their drinks or food spiked. Some restaurants in popular tourist destinations offer drug-laced food and drink, which has led to the victim being assaulted. These products can contain harmful substances and consuming them can result in serious injury or even death. Never leave food or drink unattended.
 
 There have been incidents of methanol poisoning in popular tourist spots in Laos, including Vang Vieng, leading to serious illness and some fatalities. Avoid drinking any homemade alcohol (e.g. rice wine), particularly spirits, and be careful of counterfeit bottled beer.
 

@@ -13,3 +13,11 @@ All visitors to Lao PDR must hold a passport that is valid for at least 6 months
 It is advisable to take a number of photocopies of your passport and to also carry a photocopy at all times.
 
 Keep your passport safe as getting a new passport and exit visa can cause considerable delay and expense.
+
+### **Digital Arrival/Departure Cards - Lao Digital Immigration Form (LDIF)**
+
+All foreign nationals entering Laos are required to complete the [**Laos Digital Immigration Form**](https://immigration.gov.la/en/home) within 3 days before arrival and 3 days before departure.
+
+The LDIF applies at Wattay International Airport (Vientiane), Luang Prabang International Airport, Pakse International Airport and Lao-Thai Friendship Bridge I. At these checkpoints, the LDIF replaces paper arrival and departure cards.
+
+The LDIF does not replace visa requirements.

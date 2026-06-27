@@ -14,7 +14,7 @@ For more information on visas and passports, please see the Entry Requirements t
 
 Visitors to Laos are advised to follow the guidance of national and local authorities and stay fully informed of what is going on by monitoring local news and social media.
 
-Citizens can also follow the Irish Embassy in Vietnam on social media (X [**@irlembvietnam**](https://twitter.com/irlembvietnam) and [**Facebook**](https://www.facebook.com/irishembassyinvietnam/)) to ensure access to relevant updates and alerts.
+Citizens can also follow the Irish Embassy in Vietnam on social media ( [**Instagram**](https://www.instagram.com/irelandinvietnam/) and [**Facebook**](https://www.facebook.com/irishembassyinvietnam/)) to ensure access to relevant updates and alerts.
 
 ### **Emergency Assistance**
 
