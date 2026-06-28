@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   25 June 2026
+:   28 June 2026
 
 Updated:
-:   25 June 2026
+:   27 June 2026
 
 Latest update:
-:   International airports in Venezuela are temporarily closed following the earthquakes on 24 June ('Warnings and insurance' page)
+:   Updated information following the earthquakes near the coast of Venezuela on 24 June (‘Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/69a6b088b9bd90e63a2521da/FCDO__TA__045_-_Venezuela_Travel_Advice_Ed4__WEB_.jpg)
 
@@ -57,18 +57,20 @@ Before you travel, [check the ‘Entry requirements’ section](https://www.gov
 
 ## Earthquakes near coast of Venezuela
 
-7.1 and 7.5 magnitude earthquakes were reported near Caracas, on 24 June. Follow the advice of local authorities.
+On 24 June, Venezuela suffered 2 earthquakes of 7.2 and 7.5 magnitude.
 
-International airports in Venezuela are temporarily closed following the earthquakes.
+A significant humanitarian response is currently taking place.  If in Venezuela, continue to follow the advice of the local authorities.
+
+Caracas’ Simón Bolívar International Airport is temporarily closed following the earthquakes. Check with your airline or tour operator if you have upcoming travel planned to, from or within Venezuela.
 
 If you are affected and need assistance from the UK government, call:
 
 * from Venezuela +58 (0) 212 263 8411
 * from UK +44 (0) 207 008 5000
 
-If you are unaffected, let friends and family know you are safe.
+Walk-in appointments at the Embassy are currently unavailable.
 
-See further information about [earthquakes](https://www.gov.uk/foreign-travel-advice/venezuela/safety-and-security#earthquakes).
+Be aware of the possibility of earthquake aftershocks. See further information about [earthquakes](https://www.gov.uk/foreign-travel-advice/venezuela/safety-and-security#earthquakes).
 
 ## State of External Commotion
 
