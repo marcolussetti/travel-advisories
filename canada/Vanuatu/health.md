@@ -10,6 +10,19 @@ This section has information and advice about health risks you might face when t
 
 It's best to talk to a healthcare provider or visit a travel health clinic preferably 6 weeks before your trip to get personalized health advice. Even if your travel date is coming up soon, it's still worthwhile to make an appointment.
 
+### Outbreak Monitoring
+
+#### Ciguatera poisoning in Vanuatu
+
+An increase in ciguatera poisoning cases has been reported in Vanuatu, including the islands of Efate and Tanna. People have become ill after eating a variety of fish, including reef fish such as snapper and barracuda.
+
+Ciguatera poisoning happens when you eat fish that contain a toxin called ciguatoxin. Symptoms usually begin within 24 hours and can include nausea, vomiting, diarrhea, and abdominal pain. Some people may also have nerve-related symptoms, such as tingling, tooth pain, or feeling hot things as cold and cold things as hot.
+
+Ciguatoxin can’t be tasted or smelled, and it’s not destroyed by cooking, freezing or drying the fish. To reduce your risk while in Vanuatu, avoid eating fish, especially large reef fish.
+
+**Learn more:**  
+[Ciguatera](https://www.canada.ca/en/public-health/services/diseases/ciguatera.html)
+
 ### Routine vaccines
 
 Make sure your routine vaccinations are up-to-date before you travel, no matter where you’re going.
@@ -104,7 +117,8 @@ Malaria
 **Malaria is a risk to travellers to this destination.**  
    
 [Antimalarial medication is recommended](https://www.canada.ca/en/public-health/services/catmat/appendix-1-malaria-risk-recommended-chemoprophylaxis-geographic-area.html) for most travellers to this destination and should be taken as recommended. Consult a health care professional or visit a travel health clinic before travelling to discuss your options. It is recommended to do this 6 weeks before travel, however, it is still a good idea any time before leaving.   
- 
+   
+[Protect yourself from mosquito bites](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html) at all times:
 
 * Cover your skin and use an [approved](https://www.canada.ca/en/health-canada/services/about-pesticides/insect-repellents.html) insect repellent on uncovered skin.
 * Exclude mosquitoes from your living area with screening and/or closed, well-sealed doors and windows.
