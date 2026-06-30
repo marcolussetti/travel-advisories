@@ -50,8 +50,6 @@ Follow FCDO:
 * [travel advice on X](https://x.com/fcdotravelgovuk)
 * [travel advice on Facebook](https://www.facebook.com/FCDOTravel/)
 
-[Previous
-:
-Health](/foreign-travel-advice/western-sahara/health)
+[Previous:Health](/foreign-travel-advice/western-sahara/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/western-sahara/print)

@@ -34,12 +34,8 @@ For details about medical entry requirements and recommended vaccinations, see [
 
 There are strict rules about goods you can take into or out of Western Sahara. You must declare anything that may be prohibited or subject to tax or duty. Check [Moroccan customs rules](https://www.douane.gov.ma/web/guest/particuliers) (in French) for the Moroccan-administered parts of Western Sahara.
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/western-sahara)
+[Previous:Warnings and insurance](/foreign-travel-advice/western-sahara)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/western-sahara/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/western-sahara/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/western-sahara/print)

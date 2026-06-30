@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   11 December 2025
+:   30 June 2026
 
 Updated:
-:   10 December 2025
+:   29 June 2026
 
 Latest update:
-:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
+:   New information about flooding in parts of Ghana, including Accra and surrounding areas (‘Warnings and insurance’ and ‘Flooding’ on the ‘Safety and security’ pages).
 
 ![](https://assets.publishing.service.gov.uk/media/65dca99ff1cab30011fc4712/FCDO__TA__090_-_Ghana_Travel_Advice_Ed2__WEB_.jpg)
 
@@ -23,6 +23,12 @@ Your travel insurance could be invalidated if you travel against advice from the
 FCDO advises against all but essential travel to the Bawku Municipal area in the Upper East region of Ghana.
 
 Find out [why FCDO advises against travel to Bawku Municipality](/foreign-travel-advice/ghana/regional-risks).
+
+## Flooding and travel disruption
+
+Heavy rainfall has caused flooding in parts of Ghana, including areas of Accra and its surroundings. Flooding may cause disruption to roads, transport services, power supplies and other infrastructure. Conditions can change at short notice. If you are in an affected area, avoid unnecessary travel, do not drive or walk through floodwater, monitor local media and weather updates, and follow instructions from the local authorities.
+
+On 29 June, the Government of Ghana issued a [Public Safety Advisory on Flooding](https://www.mint.gov.gh/public-safety-advisory-on-flooding/) with further information and advice.
 
 ## Before you travel
 
@@ -52,8 +58,6 @@ Follow FCDO:
 * [travel advice on Facebook](https://www.facebook.com/FCDOTravel/)
 * [Travel Aware on Instagram](https://www.instagram.com/travelaware/)
 
-[Next
-:
-Entry requirements](/foreign-travel-advice/ghana/entry-requirements)
+[Next:Entry requirements](/foreign-travel-advice/ghana/entry-requirements)
 
 [View a printable version of the whole guide](/foreign-travel-advice/ghana/print)

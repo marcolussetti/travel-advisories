@@ -177,18 +177,18 @@ Find out what you can do to prepare for and respond to [extreme weather and natu
 
 ### Flooding
 
-Flooding is common in the Upper West, North East, Northern and Savannah regions during the rainy season, from March to November. Monitor local weather reports and expect difficulties when travelling to affected areas.
+Flooding is common in the Upper West, North East, Northern and Savannah regions during the rainy season, from March to November.
+
+Heavy rainfall can also cause flooding in other parts of Ghana, including urban areas such as Accra and its surroundings. Flooding can disrupt road travel, public transport, electricity and other services, and conditions can change quickly following periods of intense rainfall.
+
+Follow the advice of local authorities, monitor local weather reports and expect difficulties when travelling to affected areas.
 
 ### Earthquakes
 
 Earthquakes and tremors are a risk in Ghana. The US Federal Emergency Management Agency website has advice about [what to do before, during and after an earthquake](https://www.ready.gov/earthquakes).
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/ghana/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/ghana/entry-requirements)
 
-[Next
-:
-Regional risks](/foreign-travel-advice/ghana/regional-risks)
+[Next:Regional risks](/foreign-travel-advice/ghana/regional-risks)
 
 [View a printable version of the whole guide](/foreign-travel-advice/ghana/print)

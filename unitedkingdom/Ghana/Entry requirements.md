@@ -45,8 +45,6 @@ If you live in Ghana, you must register with the National Identification Authori
 * permanently resident in Ghana
 * resident in Ghana for at least 90 days in any calendar year
 
-For more information, see [living in Ghana](https://www.gov.uk/guidance/advice-for-british-people-living-in-ghana).
-
 ## Customs rules
 
 There are strict rules about [goods you can take into or out of Ghana](https://gra.gov.gh/customs/). You must declare anything that may be prohibited or subject to tax or duty.
@@ -61,12 +59,8 @@ Do not carry more than 10,000 dollars in value in any foreign currency. The Ghan
 
 Ghana recognises dual nationality. Ghanaian-British dual nationals can register with the Interior Ministry in Ghana and get a dual nationality card. You can produce this card when entering Ghana to show that you do not need a visa.
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/ghana)
+[Previous:Warnings and insurance](/foreign-travel-advice/ghana)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/ghana/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/ghana/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/ghana/print)

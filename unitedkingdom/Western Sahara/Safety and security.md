@@ -85,12 +85,8 @@ Drive carefully, especially when:
 * weather conditions are poor on secondary routes and mountain roads
 * overtaking lorries and trucks that are overloaded and when there is no hard shoulder
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/western-sahara/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/western-sahara/entry-requirements)
 
-[Next
-:
-Regional risks](/foreign-travel-advice/western-sahara/regional-risks)
+[Next:Regional risks](/foreign-travel-advice/western-sahara/regional-risks)
 
 [View a printable version of the whole guide](/foreign-travel-advice/western-sahara/print)

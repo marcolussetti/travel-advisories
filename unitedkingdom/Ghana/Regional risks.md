@@ -18,12 +18,8 @@ Since October there have been a number of attacks related to the conflict in Baw
 
 In August, tribal conflict broke out in the western part of Savannah Region, near the Cote d’Ivoire and Burkina Faso borders. This has resulted in a number of deaths and displacement of communities. Visitors travelling in that region should keep informed about the situation, seek local advice and take precautions.
 
-[Previous
-:
-Safety and security](/foreign-travel-advice/ghana/safety-and-security)
+[Previous:Safety and security](/foreign-travel-advice/ghana/safety-and-security)
 
-[Next
-:
-Health](/foreign-travel-advice/ghana/health)
+[Next:Health](/foreign-travel-advice/ghana/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/ghana/print)

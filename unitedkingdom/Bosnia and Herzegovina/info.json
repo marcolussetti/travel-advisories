@@ -1,11 +1,11 @@
 {
     "name": "Bosnia and Herzegovina",
-    "update_reason": "Updated information about travel disruption at the Gradi\u0161ka border crossing ('Warnings and insurance' page).",
+    "update_reason": "Updated information about travel disruption along the Bosnian-Croatian border, particularly the Gradi\u0161ka crossing ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Bosnia and Herzegovina/Warnings and insurance.md",
-            "update_date": "2026-05-20T14:02:34+01:00"
+            "update_date": "2026-06-29T14:24:11+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Bosnia and Herzegovina/Getting help.md"
         }
     ],
-    "update_date": "2026-05-20T14:02:34+01:00"
+    "update_date": "2026-06-29T14:24:11+01:00"
 }

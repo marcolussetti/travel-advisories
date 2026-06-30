@@ -1,18 +1,18 @@
 # Warnings and insurance
 
 Still current at:
-:   11 December 2025
+:   30 June 2026
 
 Updated:
-:   10 December 2025
+:   29 June 2026
 
 Latest update:
-:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
+:   FCDO now advises against all travel to areas in Western Sahara within 40km North and West of 'the Berm' boundary line, including the city of Es Semara ('Warnings and insurance' page).
 
-![](https://assets.publishing.service.gov.uk/media/616053d5e90e071977182943/FCDO__TA__046_-_Western_Sahara_Travel_Advice_Ed3__WEB_.jpg)
+![](https://assets.publishing.service.gov.uk/media/6a426c9db9f58f0eb4c13f4d/FCDO__TA__046_-_Western_Sahara_Travel_Advice_Ed5__WEB_.jpg)
 
 
-[Download a more detailed map (PDF, 240 KB)](https://assets.publishing.service.gov.uk/media/6160542b8fa8f529777ffb70/FCDO__TA__046_-_Western_Sahara_Travel_Advice_Ed3__1_.pdf)
+[Download a more detailed map (PDF, 286 KB)](https://assets.publishing.service.gov.uk/media/6a426c9d3413112faed80ded/FCDO__TA__046_-_Western_Sahara_Travel_Advice_Ed5.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
@@ -20,10 +20,10 @@ Your travel insurance could be invalidated if you travel against advice from the
 
 FCDO advises against all travel to:
 
-* Areas in Western Sahara within 30km North and West of ‘the Berm’ boundary line
+* Areas in Western Sahara within 40km North and West of ‘the Berm’ boundary line, including the city of Es Semara
 * Areas in Western Sahara the territory south and east of ‘the Berm’ boundary line
 
-Western Sahara is a disputed territory. The Berm is the militarised boundary between Moroccan-controlled Western Sahara and territory to the east controlled by the Polisario Front.
+Western Sahara is a disputed territory. The Berm is the militarised boundary between Moroccan-controlled Western Sahara and territory to the east controlled by the Polisario Front. Cross border rocket fire has occurred which cannot be ruled out in the future.
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/western-sahara/regional-risks).
 
@@ -55,8 +55,6 @@ Follow FCDO:
 * [travel advice on Facebook](https://www.facebook.com/FCDOTravel/)
 * [Travel Aware on Instagram](https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Ftravelaware%2F&is_from_rle)
 
-[Next
-:
-Entry requirements](/foreign-travel-advice/western-sahara/entry-requirements)
+[Next:Entry requirements](/foreign-travel-advice/western-sahara/entry-requirements)
 
 [View a printable version of the whole guide](/foreign-travel-advice/western-sahara/print)

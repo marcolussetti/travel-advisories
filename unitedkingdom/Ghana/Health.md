@@ -42,18 +42,12 @@ Medical facilities are poor outside towns. For serious medical treatment, medica
 
 FCDO has a [list of medical providers in Ghana](https://www.gov.uk/government/publications/ghana-list-of-medical-facilities).
 
-There is also [guidance on healthcare if you’re living in Ghana](https://www.gov.uk/guidance/advice-for-british-people-living-in-ghana).
-
 ## Travel and mental health
 
 Read [FCDO guidance on travel and mental health](https://www.gov.uk/guidance/foreign-travel-advice-for-people-with-mental-health-issues). There is also [mental health guidance on TravelHealthPro](https://travelhealthpro.org.uk/factsheet/85/travelling-with-mental-health-conditions).
 
-[Previous
-:
-Regional risks](/foreign-travel-advice/ghana/regional-risks)
+[Previous:Regional risks](/foreign-travel-advice/ghana/regional-risks)
 
-[Next
-:
-Getting help](/foreign-travel-advice/ghana/getting-help)
+[Next:Getting help](/foreign-travel-advice/ghana/getting-help)
 
 [View a printable version of the whole guide](/foreign-travel-advice/ghana/print)

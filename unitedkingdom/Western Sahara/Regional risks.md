@@ -21,12 +21,8 @@ In remote areas:
 * if you drive off the main roads, keep to clearly identifiable tracks
 * do not touch any metal or plastic objects
 
-[Previous
-:
-Safety and security](/foreign-travel-advice/western-sahara/safety-and-security)
+[Previous:Safety and security](/foreign-travel-advice/western-sahara/safety-and-security)
 
-[Next
-:
-Health](/foreign-travel-advice/western-sahara/health)
+[Next:Health](/foreign-travel-advice/western-sahara/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/western-sahara/print)

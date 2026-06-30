@@ -1,17 +1,19 @@
 # Warnings and insurance
 
 Still current at:
-:   21 May 2026
+:   30 June 2026
 
 Updated:
-:   20 May 2026
+:   29 June 2026
 
 Latest update:
-:   Updated information about travel disruption at the Gradiška border crossing ('Warnings and insurance' page).
+:   Updated information about travel disruption along the Bosnian-Croatian border, particularly the Gradiška crossing ('Warnings and insurance' page).
 
 ## Travel disruption at the Gradiška border crossing
 
-The Gradiška border crossing has been temporarily relocated to a new bridge in Gradiška, following the partial collapse of a bridge at the previous site. Traffic congestion is expected to continue following this change. Plan ahead for possible delays to travel.
+A new border crossing at Gradiška has been temporarily opened as an emergency measure, following a bridge collapse. Delays are expected. Travellers should plan ahead and check local advice before crossing by car.
+
+Significant delays are expected at all crossings between Bosnia and Herzegovina and Croatia due to the EU Entry/Exit System. Long queues in very hot weather may form on the Bosnia and Herzegovina side with no additional services for children or vulnerable people.
 
 ## Before you travel
 
