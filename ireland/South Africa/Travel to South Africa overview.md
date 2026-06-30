@@ -4,6 +4,22 @@
 
 High Degree of Caution
 
+### **Travel Alert**
+
+Nationwide demonstrations are planned for 30 June 2026, centred on calls for undocumented foreign nationals to leave South Africa. While organisers describe the campaign as targeting undocumented migrants only, those affected during pre-protest incidents have frequently included anyone perceived to be a foreign national of African or Asian origin, whether residing in the country legally or not. The demonstrations have been described as a day of national shutdown linked to this anti-immigration sentiment.
+
+There is a high risk that peaceful protests on 30 June may degenerate into attacks by breakaway armed groups, with many demonstrators carrying weapons such as sjamboks, sticks and spears. In recent weeks, vigilantes have attacked and evicted people from homes and targeted foreign nationals and journalists covering the violence. South African authorities have redirected significant finances towards police resources to ensure operational readiness, with the military on standby to secure strategic sites including airports.
+
+Irish citizens and travellers in South Africa are advised to:
+
+* **Avoid all protests and large gatherings.** Protests and large gatherings can occur anywhere in South Africa at any time and can become violent at short notice.
+* **Plan road travel carefully.** Disruption to transport and roadblocks could occur. Use major roads where safe and verify that alternate routes suggested by GPS are safe before travelling, as there have been instances of travellers being rerouted through unsafe areas.
+* **Do not attempt to cross roadblocks.** Trying to cross protester roadblocks could provoke a violent reaction.
+* **Monitor local media continuously.** Exact details of impacted areas are not yet known. Follow local media and social channels for updates and comply with instructions from local authorities.
+* **Carry identification at all times.** Carry your passport and enrol in your government's traveller registration programme to receive security updates.
+
+The South African government has stressed that no private individual or group has authority to demand documentation from members of the public or block access to schools, clinics, hospitals or businesses. Nevertheless, the risk of harassment or worse is elevated on 30 June. Travellers should exercise particular caution in urban and township areas.
+
 ### **General Travel Advice**
 
 Irish citizens who are planning to visit South Africa for less than 90 days, do not require a visa. If you wish to visit for longer than 90 days please consult your nearest [**Embassy or Consulate**](/en/dfa/embassies-in-ireland/) of South Africa before travelling.
