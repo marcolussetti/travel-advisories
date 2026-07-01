@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   3 June 2026
+:   1 July 2026
 
 Updated:
-:   2 June 2026
+:   30 June 2026
 
 Latest update:
-:   Addition of information about heightened health screening measures for those entering Thailand from Ebola-affected regions ('Entry requirements' page).
+:   Updated information about cannabis ('Safety and security' page).
 
 ![](https://assets.publishing.service.gov.uk/media/6980b4383915f7123658010e/FCDO__TA__040_-_Thailand_Travel_Advice_Ed8__WEB_.jpg)
 

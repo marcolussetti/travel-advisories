@@ -16,7 +16,11 @@ Terrorist attacks in Venezuela cannot be ruled out.
 
 The UK does not accept the legitimacy of the current administration in Venezuela.
 
+On 3 January, Venezuelan authorities announced a ‘state of external commotion’ due to air strikes on targets across the country.
+
 The political and security situation in Venezuela remains uncertain. Consular access and support to British nationals in Venezuela may be severely limited. If you choose to travel to Venezuela, monitor developments closely through local and international media and keep up to date with this travel advice.
+
+Following the earthquakes on 24 June, La Guaira was declared a ‘disaster zone’ and is currently under military control with strict access controls.
 
 There is currently a visible security presence in major cities, including Caracas. Members of the security services are unlikely to speak English.
 
@@ -69,7 +73,7 @@ It is illegal to photograph military or strategic installations, including milit
 
 Internet service is generally slow outside of major cities. Mobile network operators run modern 4G (LTE) networks in most major cities, while they also operate slower legacy 3G (WCDMA) networks for their nationwide voice and data services.
 
-Power cuts can affect mobile signals and internet across the whole country, including Caracas. Keep in contact with your airline or travel agent as flights can be delayed or cancelled when there are power cuts.
+In Venezuela, power outages are frequent and can occur without warning, often due to infrastructure challenges and weather conditions. These can be both localised and nationwide, and may vary in duration. Power cuts can affect mobile signals and internet across the whole country, including Caracas. Keep in contact with your airline or travel agent as flights can be delayed or cancelled when there are power cuts.
 
 ### LGBT+ travellers
 
@@ -145,7 +149,9 @@ During the rainy season from May to November there may be flooding in low-lying 
 
 ### Earthquakes
 
-There is a risk of earthquakes in Venezuela. These are mostly tremors but there are occasionally more serious quakes. Monitor media reports and follow the advice of the local authorities. The US Federal Emergency Management Agency website has advice about [what to do before, during and after an earthquake](https://www.ready.gov/earthquakes).
+On 24 June, Venezuela suffered two earthquakes of 7.2 and 7.5 magnitude, causing significant damage in La Guaira, parts of Caracas and elsewhere.
+
+There is an ongoing risk of earthquakes in Venezuela. Monitor media reports and follow the advice of the local authorities. The US Federal Emergency Management Agency website has advice about [what to do before, during and after an earthquake](https://www.ready.gov/earthquakes).
 
 [Previous:Entry requirements](/foreign-travel-advice/venezuela/entry-requirements)
 

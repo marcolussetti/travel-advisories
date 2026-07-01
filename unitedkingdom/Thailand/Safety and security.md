@@ -124,6 +124,8 @@ The sale of alcohol is restricted between midnight and 11am. This does not app
 
 ### Illegal drugs and prison sentences
 
+Cannabis use in Thailand is restricted to medical purposes only. You must not buy, possess or use it without a Thai-issued medical prescription, which is limited to a 30-day supply. Recreational use remains illegal.
+
 Thailand has strict laws against drug use, possession and trafficking. Possessing small quantities of illegal substances can lead to heavy fines or imprisonment. Possessing [Class A drugs](https://www.siam-legal.com/litigation/criminal-defence-drug-offences-in-thailand.php) can lead to the death penalty.
 
 Conditions in prisons and other detention facilities in Thailand are harsh, with limited access to healthcare. Detainees have died in custody.
@@ -132,24 +134,13 @@ Some British nationals have suffered severe psychiatric problems because of drug
 
 ### Cannabis
 
-Cannabis use in Thailand is restricted to medical purposes only. You must not buy, possess or use it without a Thai-issued medical prescription, which is limited to a 30-day supply. Recreational use remains illegal.
+Cannabis laws in Thailand are strictly enforced and have changed in recent years. You must follow local regulations on possession, use and export.
 
-It is illegal to carry cannabis out of Thailand. Cannabis of any strength may be illegal in other countries you travel to.
+It is illegal to take cannabis out of Thailand without the appropriate export permission from the authorities.
 
-Criminal gangs are known to pressure people into carrying drugs. Always pack your own luggage and do not carry anything through customs for someone else. British nationals have been caught carrying cannabis out of Thailand.
+Attempting to take cannabis out of Thailand will result in penalties, including fines starting at 30,000 Thai baht per kilogram (about £684 per kg). If you do not pay, you will be detained or imprisoned. You will also be placed on an immigration watchlist affecting future travel to Thailand.
 
-There have been arrests of British nationals caught transiting through airports in other countries. Many international airports have excellent technology and security for detecting illegal items, which may be used to scan the baggage of transiting passengers.
-
-If you are caught carrying cannabis in other countries, you can be given:
-
-* a long prison sentence
-* in some countries, the death penalty
-
-Legal processes before court hearings can be long and expensive. It can take many months for a case to go to trial.
-
-In some countries, you can be arrested if you have traces of cannabis on your clothing, baggage or within you. Random blood and urine tests can be taken to see if it is within you.
-
-It is illegal to take cannabis out of Thailand without the appropriate export permissions issued by the authorities. Illegally carrying cannabis, particularly large quantities, can lead to heavy fines or imprisonment in Thailand.
+Cannabis is illegal in many countries. If you carry it when arriving in, or transiting through, another country, you risk arrest and serious penalties, including long prison sentences.
 
 ### LGBT+ travellers
 

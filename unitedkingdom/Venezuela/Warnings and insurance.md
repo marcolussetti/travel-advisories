@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   28 June 2026
+:   1 July 2026
 
 Updated:
-:   27 June 2026
+:   30 June 2026
 
 Latest update:
-:   Updated information following the earthquakes near the coast of Venezuela on 24 June (‘Warnings and insurance’ page).
+:   Updated information following the earthquakes near the coast of Venezuela on 24 June and updated information about political and economic situation and networks and internet (‘Warnings and insurance’ and 'Safety and security' pages).
 
 ![](https://assets.publishing.service.gov.uk/media/69a6b088b9bd90e63a2521da/FCDO__TA__045_-_Venezuela_Travel_Advice_Ed4__WEB_.jpg)
 
@@ -57,9 +57,9 @@ Before you travel, [check the ‘Entry requirements’ section](https://www.gov
 
 ## Earthquakes near coast of Venezuela
 
-On 24 June, Venezuela suffered 2 earthquakes of 7.2 and 7.5 magnitude.
+On 24 June, Venezuela suffered 2 earthquakes of 7.2 and 7.5 magnitude, causing significant damage in La Guaira, parts of Caracas and elsewhere.
 
-A significant humanitarian response is currently taking place.  If in Venezuela, continue to follow the advice of the local authorities.
+A significant humanitarian response is currently taking place. If in Venezuela, follow the advice of local authorities and stay away from damaged buildings.
 
 Caracas’ Simón Bolívar International Airport is temporarily closed following the earthquakes. Check with your airline or tour operator if you have upcoming travel planned to, from or within Venezuela.
 
@@ -71,10 +71,6 @@ If you are affected and need assistance from the UK government, call:
 Walk-in appointments at the Embassy are currently unavailable.
 
 Be aware of the possibility of earthquake aftershocks. See further information about [earthquakes](https://www.gov.uk/foreign-travel-advice/venezuela/safety-and-security#earthquakes).
-
-## State of External Commotion
-
-On 3 January, Venezuelan authorities announced a ‘state of external commotion’ due to air strikes on targets across the country. This could lead to closure of Venezuelan borders and airspace.
 
 ## Before you travel
 
