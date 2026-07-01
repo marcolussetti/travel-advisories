@@ -21,6 +21,18 @@ You should:
 
 [Canada's response to the situation in the Middle East](https://www.international.gc.ca/world-monde/issues_development-enjeux_developpement/response_conflict-reponse_conflits/crisis-crises/middle-east-moyen-orient.aspx?lang=eng)
 
+### NATO Summit in Ankara
+
+The 2026 NATO Summit will take place on July 7 and 8, 2026, in Ankara.
+
+You should expect:
+
+* heightened security measures
+* restricted access to key venues
+* disruptions to transportation, including road closures
+
+Ankara’s Esenboga International Airport is expected to implement heightened security measures around the summit, which may result in longer processing times.
+
 ### Borders with Iraq and Syria
 
 Despite counter-terrorism operations conducted by Turkish and Iraqi security forces, a risk of terrorism subsists at the border between Türkiye and Iraq. Violent attacks on sites held by terrorist groups or against Turkish and Iraqi security forces have occurred.
@@ -138,6 +150,14 @@ Petty crime, such as pickpocketing and purse snatching, can occur throughout T�
 * If travelling by car, keep valuable belongings out of sight, windows closed and doors locked
 
 Muggings, assaults and sexual assaults occur.
+
+### Chemical pesticide poisoning
+
+There have been cases of poisoning linked to the use of chemical pesticides in tourist accommodations in Istanbul.
+
+* Ensure that your accommodation is well-ventilated and well-maintained
+* Leave the room and inform the reception if you notice unusual smells
+* Seek immediate medical assistance if you experience unusual symptoms
 
 ### Spiked food and drinks
 

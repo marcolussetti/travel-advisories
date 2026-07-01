@@ -2,20 +2,6 @@
 
 ## Safety and security
 
-### Elections
-
-A second round of presidential elections took place in Colombia on June 21, 2026.
-
-Around election periods, the security environment can change quickly and unpredictably. Demonstrations may occur.
-
-If you are in Colombia, you should:
-
-* exercise increased vigilance
-* follow the advice of local authorities
-* monitor local media for the latest information
-
-[More information on demonstrations](#demonstrations)
-
 ### Land border crossings with Ecuador
 
 Most land border crossings with Ecuador are closed until further notice. Only the Rumichaca International Bridge, near Ipiales-Tulcán, remains open.
