@@ -1,22 +1,15 @@
 ## Embassy contact
 
-As Ireland does not have an Embassy or Consulate in Bosnia and Herzegovina, consular assistance is provided via the [**Embassy of Ireland in Ljubljana, Slovenia**](https://www.ireland.ie/en/slovenia/ljubljana/).
-
-In the event of an emergency situation in Slovenia or Bosnia and Herzegovina, citizens can contact the Embassy in Ljubljana on +386 (0)1 300 8970.
-
-The mobile telephone number of the officer on duty will be available on the answering machine.
+In the event of an emergency situation in Bosnia and Herzegovina, citizens can contact the Embassy in Sarajevo on [+387 33 223 200](tel:+38733223200).
 
 Monday to Friday 09h00-12h30 and from 14h30-16h00
 
-### Embassy of Ireland, Slovenia
+### Embassy of Ireland, Bosnia and Herzegovina
 
-Palača Kapitelj, 1st floor,   
-Poljanski nasip 6   
-1000 Ljubljana   
-Slovenia
+Skenderija 3a   
+71000 Sarajevo   
+Bosnia and Herzegovina
 
-[Tel: +386 1 300 8970](tel:+3861 300 8970)
+[Tel: +387 33 223 200](tel:+38733 223 200)
 
-Fax: + 386 1 282 1096
-
-[**Contact us**](/en/slovenia/ljubljana/contact/)
+[**Contact us**](/en/bosnia-herzegovina/sarajevo/contact/)

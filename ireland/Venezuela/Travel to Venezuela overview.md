@@ -10,7 +10,7 @@ Do Not Travel
 
 **Venezuela has declared a state of emergency following two major earthquakes and several aftershocks across the country.**
 
-Irish citizens should monitor local media, follow the advice of local authorities, and avoid affected areas. Transport disruption, including to flights, is possible.
+Flights to and from Simon Bolivar International Airport have been suspended until further notice and non-essential services have been temporarily cancelled. Irish citizens should monitor local media, follow the advice of local authorities, and avoid affected areas.
 
 As there is no Irish Embassy in Venezuela, we are limited in the help we can offer you in an emergency. If you require urgent consular assistance, call the [**Irish Embassy in Colombia**](https://www.ireland.ie/en/colombia/bogota/contact/).
 
@@ -21,14 +21,6 @@ If you are in need of emergency assistance during these times, you should leave 
 When you leave a message, remember to state your name, the nature of the problem, where you are now, and the details of how the Duty Officer can contact you (e.g. leave your mobile phone number, or the phone number of the hotel/hostel where you are staying).
 
 Alternatively, you may contact the Duty Officer at the Department of Foreign Affairs and Trade at +353 (01) 408 2000
-
-#### **Military Strikes**
-
-**The Department of Foreign Affairs and Trade advises against all travel to Venezuela at this time.**
-
-On 3 January 2026, military strikes took place in several locations across Venezuela, including the capital city, Caracas. The current security situation is unpredictable and may deteriorate quickly. Land borders and airspace may close at short notice.
-
-The Department of Foreign Affairs and Trade advises against all travel to Venezuela. Irish citizens in the country are advised to shelter in place. Citizens should make sure travel documents are valid and accessible and regularly review departure options. Closely monitor local and international media for updates.
 
 ### **General Travel Advice**
 
