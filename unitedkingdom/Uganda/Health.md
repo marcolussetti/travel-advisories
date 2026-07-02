@@ -28,6 +28,7 @@ See [what health risks you’ll face in Uganda](https://travelhealthpro.org.uk/
 * malaria
 * yellow fever
 * mpox
+* Marburg Virus Disease
 
 Altitude sickness is a risk in parts of Uganda. Read more about [altitude sickness on TravelHealthPro](https://travelhealthpro.org.uk/factsheet/26/altitude-illness).
 

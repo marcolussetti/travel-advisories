@@ -1,11 +1,11 @@
 {
     "name": "Mexico",
-    "update_reason": "New information about protests blocking vehicle access to Oaxaca airport (\u2018Safety and security\u2019 page).",
+    "update_reason": "New information relevant to the upcoming match between England and Mexico which will be played at the Estadio Cuidad de Mexico (Mexico City Stadium) (\u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Mexico/Warnings and insurance.md",
-            "update_date": "2026-06-19T12:18:16+01:00"
+            "update_date": "2026-07-01T20:14:01+01:00"
         },
         {
             "title": "Entry requirements",
@@ -38,5 +38,5 @@
             "file": "unitedkingdom/Mexico/Getting help.md"
         }
     ],
-    "update_date": "2026-06-19T12:18:16+01:00"
+    "update_date": "2026-07-01T20:14:01+01:00"
 }

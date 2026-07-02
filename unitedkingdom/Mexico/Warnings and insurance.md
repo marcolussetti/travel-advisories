@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   20 June 2026
+:   2 July 2026
 
 Updated:
-:   19 June 2026
+:   1 July 2026
 
 Latest update:
-:   New information about protests blocking vehicle access to Oaxaca airport (‘Safety and security’ page).
+:   New information relevant to the upcoming match between England and Mexico which will be played at the Estadio Cuidad de Mexico (Mexico City Stadium) (‘Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/69a1c6c8ec82ce45f05bd70e/FCDO__TA__065_-_Mexico_Travel_Advice_Ed5__WEB_.jpg)
 
@@ -107,17 +107,17 @@ FCDO advises against all but essential travel on Federal Highway 199 (Carretera 
 
 Find out more about [why FCDO advises against travel to these areas](/foreign-travel-advice/mexico/regional-risks).
 
-## Protests at Mexico City International Airport (AICM)
-
-On 11 June, there are expected to be protests from a local teachers’ union, which could affect access to the airport. The airport authorities have issued a public notice, advising people of possible disruption and to allow more time for journeys to and from the airport.
-
-Monitor local media and stay in touch with your airline or travel agent.
-
 ## World Cup 2026
 
-Mexico is co-hosting the 2026 World Cup which takes place between 11 June and 19 July.
+Mexico is co-hosting the 2026 World Cup which takes place between 11 June and 19 July.  England play Mexico at Estadio Cuidad de Mexico (Mexico City Stadium) in Mexico City on 5 July 2026.
 
-If you are planning to travel to Mexico during these times, see the [World Cup page](https://www.gov.uk/foreign-travel-advice/mexico/world-cup-2026) for more information.
+If you are planning to travel to Mexico during the World Cup, see the [World Cup page](https://www.gov.uk/foreign-travel-advice/mexico/world-cup-2026) for more information and read our Mexico travel advice in full, including the ‘Warnings and insurance’, ‘Entry requirements’ and ‘Safety and security’ pages.
+
+## Mexico World Cup updates:
+
+* Three people have died following football celebrations in crowds at the Angel of Independence in Mexico City.
+* Reports of mobile phone theft and drink-spiking have increased during the tournament.
+* If you plan to return to the USA for a subsequent match, and your passport is lost or stolen, an Emergency Travel Document provided by the British Embassy cannot be used to re-enter the USA from Mexico.
 
 ## Before you travel
 

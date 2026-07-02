@@ -52,6 +52,8 @@ FCDO advises against all but essential travel to:
 * Kogi State
 * Plateau State
 * Taraba State
+* Kwara State
+* Benue State
 
 This advice is due to criminal and militant activity and incidents of intercommunal violence.
 
@@ -64,6 +66,8 @@ Be cautious when travelling in the Federal Capital Territory. Take advice from t
 There are protests in Abuja from time to time, which can turn violent. Monitor local media, avoid demonstrations and large gatherings and follow instructions from local police and security forces.
 
 There has been an increase in intercommunal violence in Benue State, with a number of deaths reported. There may be increased security presence in parts of the state.
+
+There has also been an increase in violence in Kwara State, with a number of deaths reported. There may be an increased security presence in parts of the state.
 
 ## South East and South South Nigeria
 

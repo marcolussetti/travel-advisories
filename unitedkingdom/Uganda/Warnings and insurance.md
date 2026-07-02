@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   24 June 2026
+:   2 July 2026
 
 Updated:
-:   23 June 2026
+:   1 July 2026
 
 Latest update:
-:   Additional information on Ebola (‘Entry requirements’ and ‘Health’ pages).
+:   Updated information about health risks ('Health' page).
 
 ## Before you travel
 

@@ -1,11 +1,11 @@
 {
     "name": "Nigeria",
-    "update_reason": "New information about Ebola screening ('Entry requirements' page).",
+    "update_reason": "FCDO now advises against all but essential travel to Kwara State and Benue State. FCDO continues to advise against all travel and all but essential travel to other parts of Nigeria (\u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Nigeria/Warnings and insurance.md",
-            "update_date": "2026-06-12T16:49:19+01:00"
+            "update_date": "2026-07-01T15:00:27+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Nigeria/Getting help.md"
         }
     ],
-    "update_date": "2026-06-12T16:49:19+01:00"
+    "update_date": "2026-07-01T15:00:27+01:00"
 }

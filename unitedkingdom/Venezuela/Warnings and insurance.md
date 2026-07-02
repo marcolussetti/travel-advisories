@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   1 July 2026
+:   2 July 2026
 
 Updated:
-:   30 June 2026
+:   1 July 2026
 
 Latest update:
-:   Updated information following the earthquakes near the coast of Venezuela on 24 June and updated information about political and economic situation and networks and internet (‘Warnings and insurance’ and 'Safety and security' pages).
+:   Updated information on limited commercial flight availability (‘Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/69a6b088b9bd90e63a2521da/FCDO__TA__045_-_Venezuela_Travel_Advice_Ed4__WEB_.jpg)
 
@@ -57,11 +57,15 @@ Before you travel, [check the ‘Entry requirements’ section](https://www.gov
 
 ## Earthquakes near coast of Venezuela
 
-On 24 June, Venezuela suffered 2 earthquakes of 7.2 and 7.5 magnitude, causing significant damage in La Guaira, parts of Caracas and elsewhere.
+On 24 June, Venezuela suffered two earthquakes of 7.2 and 7.5 magnitude, causing significant damage in La Guaira, parts of Caracas and elsewhere.
 
 A significant humanitarian response is currently taking place. If in Venezuela, follow the advice of local authorities and stay away from damaged buildings.
 
-Caracas’ Simón Bolívar International Airport is temporarily closed following the earthquakes. Check with your airline or tour operator if you have upcoming travel planned to, from or within Venezuela.
+## Air Travel
+
+Availability of commercial flights to and from Venezuela is limited. Maiquetía Simón Bolívar International Airport, which serves Caracas, is temporarily closed to commercial flights.
+
+Commercial international flights are continuing from Valencia (Arturo Michelana International Airport), Barquisimeto (Jacinto Lara International Airport), Barcelona (General José Antonio Anzoátegui International Airport) and Maracaibo (La Chinita International Airport). Stay in contact with your airline or travel agent/tour operator for up-to-date information.
 
 If you are affected and need assistance from the UK government, call:
 

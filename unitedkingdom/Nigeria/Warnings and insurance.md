@@ -1,18 +1,18 @@
 # Warnings and insurance
 
 Still current at:
-:   13 June 2026
+:   2 July 2026
 
 Updated:
-:   12 June 2026
+:   1 July 2026
 
 Latest update:
-:   New information about Ebola screening ('Entry requirements' page).
+:   FCDO now advises against all but essential travel to Kwara State and Benue State. FCDO continues to advise against all travel and all but essential travel to other parts of Nigeria (‘Warnings and insurance’ page).
 
-![](https://assets.publishing.service.gov.uk/media/68b5a5683f3e5483efdba88a/FCDO__TA__030_-_Nigeria_Travel_Advice_map__WEB_.jpg)
+![](https://assets.publishing.service.gov.uk/media/6a451891e50f952c9b89e2b1/FCDO_TA_030_-_Nigeria_Travel_Advice_Ed10_WEB.jpg)
 
 
-[Download a more detailed map (PDF, 547 KB)](https://assets.publishing.service.gov.uk/media/68b5a568d723ba6f74dba886/FCDO__TA__030_-_Nigeria_Travel_Advice_map.pdf)
+[Download a more detailed map (PDF, 522 KB)](https://assets.publishing.service.gov.uk/media/6a451891e50f952c9b89e2b2/FCDO_TA_030_-_Nigeria_Travel_Advice_Ed10.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
@@ -54,6 +54,8 @@ FCDO advises against all but essential travel to:
 * Kogi State
 * Plateau State
 * Taraba State
+* Kwara State
+* Benue State
 
 ### South East and South South Nigeria
 
