@@ -48,6 +48,8 @@ Irish citizens in Uganda are encouraged to follow WHO and [**Ministry of Health*
 
 For suspected cases, the Ugandan authorities have advised the public to call the Ministry of Health toll-free line 0800 100 066 or send a free SMS to 6767.
 
+For information on the Marburg Virus please read the health section below.
+
 If there is an emergency, or if you need help and advice, you can contact the Embassy of Ireland Kampala on Tel: +256 417 713 000. If the Embassy is closed and you require urgent assistance, you can leave a voice message on the Duty Office Mailbox, which is monitored regularly. You can also contact the Department of Foreign Affairs at +353 1 408 2000.
 
 Citizens can also follow the Embassy on X [**@IrlEmbUganda**](https://twitter.com/irlembuganda) to ensure access to relevant updates and alerts.

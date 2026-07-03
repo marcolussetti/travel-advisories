@@ -2,7 +2,27 @@
 
 ### **Security Status**
 
-Normal Precautions
+Normal Precaution
+
+### **Travel Alert**
+
+#### **Emergency Alerts and Drone Hazards**
+
+The eastern border region in Latvia has recently been the subject of a small number of early warning cell broadcast notifications regarding airspace threats, triggered by misdirected military drones. In order to prepare for the event of an early warning notification (cell broadcast), the Embassy advises all citizens to:
+
+* Ensure emergency alert messages are enabled on your phone in order to receive alert messages from the Latvian Government
+* Download the 112 Latvija application for English language updates and information on emergency preparedness
+
+In the unlikely event of an emergency cell broadcast notification, citizens should follow the instructions of Latvian authorities by visiting the military news website [sargs.lv](http://sargs.lv/) and the emergency services site [112.lv.](http://112.lv/), as well as [LSM.lv](https://www.lsm.lv/) (local media).
+
+A cell broadcast notification related to an airspace threat in Latvia is currently issued as either a **yellow** or **orange** alert:
+
+* A **yellow** alert is an informational message that does not require immediate action from the public but encourages awareness of a potential threat in Latvia’s airspace. In the event of a yellow alert, follow notifications from the 112 Latvija application and public media.
+* An **orange** alert indicates a detected threat in Latvia’s airspace and provides instructions for immediate actions for the public.
+
+After hearing sirens and/or receiving an **orange** alert, you should immediately go indoors, close all windows and doors, and where possible make your way to a basement or an interior room without windows. Remain in place until you receive notification that the alert has ended.
+
+Further official guidance from the State Chancellery Crisis Management centre, in English, can be accessed here : [Guidelines for Action During an Early Warning Notification (Cell Broadcast)](https://www.mk.gov.lv/en/article/action-guidelines-developed-case-cell-broadcast-alerts-latvia)
 
 ### **General Travel Advice**
 

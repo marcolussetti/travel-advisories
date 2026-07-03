@@ -37,6 +37,8 @@ Travellers should follow local health advice during an outbreak. For suspected c
 
 More information on Ebola can be found here: [**https://www.who.int/news-room/fact-sheets/detail/ebola-disease**](https://www.who.int/news-room/fact-sheets/detail/ebola-disease).
 
+The Embassy is aware of reports of a case of Marburg Virus Disease in Western Uganda. Citizens are advised to follow the same measures to protect themselves as for Ebola and to monitor for updates if travelling to this area.
+
 ### **Water**
 
 Drink or use only boiled or bottled water.
