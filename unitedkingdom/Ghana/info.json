@@ -1,11 +1,11 @@
 {
     "name": "Ghana",
-    "update_reason": "New information about flooding in parts of Ghana, including Accra and surrounding areas (\u2018Warnings and insurance\u2019 and \u2018Flooding\u2019 on the \u2018Safety and security\u2019 pages).",
+    "update_reason": "Removal of information about flooding in parts of Ghana, including Accra and surrounding areas (\u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Ghana/Warnings and insurance.md",
-            "update_date": "2026-06-29T16:44:30+01:00"
+            "update_date": "2026-07-02T14:48:30+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Ghana/Getting help.md"
         }
     ],
-    "update_date": "2026-06-29T16:44:30+01:00"
+    "update_date": "2026-07-02T14:48:30+01:00"
 }

@@ -14,6 +14,10 @@ Attacks could be indiscriminate, including in places visited by foreign national
 
 There have been several attacks involving explosives and automatic weapons against Greek institutions, shopping malls, banks, media offices, diplomatic premises and the police.
 
+Recent attacks include:
+
+* on 1 July 2026, three improvised incendiary device attacks against the residential properties of Greek political figures killed one person, with four others being injured
+
 ## Protests and demonstrations
 
 ### Political protests

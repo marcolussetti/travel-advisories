@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   30 June 2026
+:   3 July 2026
 
 Updated:
-:   29 June 2026
+:   2 July 2026
 
 Latest update:
-:   New information about flooding in parts of Ghana, including Accra and surrounding areas (‘Warnings and insurance’ and ‘Flooding’ on the ‘Safety and security’ pages).
+:   Removal of information about flooding in parts of Ghana, including Accra and surrounding areas (‘Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/65dca99ff1cab30011fc4712/FCDO__TA__090_-_Ghana_Travel_Advice_Ed2__WEB_.jpg)
 
@@ -23,12 +23,6 @@ Your travel insurance could be invalidated if you travel against advice from the
 FCDO advises against all but essential travel to the Bawku Municipal area in the Upper East region of Ghana.
 
 Find out [why FCDO advises against travel to Bawku Municipality](/foreign-travel-advice/ghana/regional-risks).
-
-## Flooding and travel disruption
-
-Heavy rainfall has caused flooding in parts of Ghana, including areas of Accra and its surroundings. Flooding may cause disruption to roads, transport services, power supplies and other infrastructure. Conditions can change at short notice. If you are in an affected area, avoid unnecessary travel, do not drive or walk through floodwater, monitor local media and weather updates, and follow instructions from the local authorities.
-
-On 29 June, the Government of Ghana issued a [Public Safety Advisory on Flooding](https://www.mint.gov.gh/public-safety-advisory-on-flooding/) with further information and advice.
 
 ## Before you travel
 

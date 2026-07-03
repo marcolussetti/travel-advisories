@@ -1,13 +1,17 @@
 # Warnings and insurance
 
 Still current at:
-:   21 April 2026
+:   3 July 2026
 
 Updated:
-:   20 April 2026
+:   2 July 2026
 
 Latest update:
-:   Updated information about Greek implementation of European Entry-Exit System (EES) (‘Entry requirements’ page).
+:   New information about recent attacks (‘Safety and security’ page).
+
+## Wildfires in Greece
+
+There is a high risk of wildfires during the summer season from April to October. For advice, visit the wildfires section on the [Safety and security page](https://www.gov.uk/foreign-travel-advice/greece/safety-and-security#wildfires).
 
 ## Before you travel
 
