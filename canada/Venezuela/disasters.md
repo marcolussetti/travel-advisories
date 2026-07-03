@@ -4,13 +4,15 @@
 
 ### Earthquakes near Caracas
 
-On June 24, 2026, two earthquakes of magnitudes 7.2 and 7.5 occurred near the Venezuelan coast, west of Caracas, causing damage to infrastructure. They caused a large number of casualties and significant damage to infrastructure. A state of emergency has been declared.
+On June 24, 2026, two earthquakes of magnitudes 7.2 and 7.5 occurred near the Venezuelan coast, west of Caracas. They caused a large number of casualties and significant damage to infrastructure. A state of emergency has been declared.
 
 In Caracas, Simón Bolívar International Airport is closed until further notice and train service is suspended.
 
+International flights leaving Venezuela are available from airports in Barcelona, Barquisimeto, Maracaibo and Valencia.
+
 Aftershocks could occur, causing further damage to infrastructure. The following essential services are disrupted:
 
-* transportation, including operations at airports
+* transportation
 * power distribution
 * water and food supply
 * telecommunications networks

@@ -11,6 +11,26 @@ This section has information and advice about health risks you might face when t
 
 It's best to talk to a healthcare provider or visit a travel health clinic preferably 6 weeks before your trip to get personalized health advice. Even if your travel date is coming up soon, it's still worthwhile to make an appointment.
 
+### Outbreak Monitoring
+
+#### Marburg virus disease in Uganda
+
+A case of Marburg virus disease (MVD) has been reported in western Uganda (Kyegegwa district). This case is not linked to the Ebola disease outbreak currently affecting parts of the Democratic Republic of the Congo and Uganda.
+
+The virus that causes MVD can spread to people through contact with infected animals, most often fruit bats. It can also spread between people through direct contact with the bodily fluids of someone who is sick, or by touching items that have those fluids on them. Marburg virus disease is very serious and can be deadly. There is currently no vaccine or specific treatment for it, but the risk of infection is low if proper safety precautions are followed.
+
+The risk of infection is very low for most travellers, however travellers visiting the area where the outbreak is occurring could be at higher risk. If you are travelling to the area, follow local health guidelines and take precautions to protect yourself.
+
+* Avoid contact with people who have symptoms of MVD (fever, rash, muscle pain), and anything that could be contaminated with their bodily fluids.
+* Avoid contact with the bodies of people who have died of MVD or an unknown illness during funerals and burials.
+* Wash your hands regularly with soap and water for at least 20 seconds, or use a hand sanitizer containing at least 60% alcohol for 20 seconds or until dry.
+* Avoid close contact with live and dead animals, especially bats.
+
+Monitor your health for symptoms while in the affected area and for 21 days after leaving. Isolate from others and seek medical care immediately if you develop symptoms of MVD.  
+   
+**Learn more:**  
+[Marburg virus disease](https://www.canada.ca/en/public-health/services/infectious-diseases/viral-haemorrhagic-fevers/marburg-virus-disease.html)
+
 ### Routine vaccines
 
 Make sure your routine vaccinations are up-to-date before you travel, no matter where you’re going.
@@ -56,6 +76,51 @@ Travellers get vaccinated either because it is required to enter a country or be
 
 [Yellow Fever Vaccination Centres in Canada](https://www.canada.ca/en/public-health/services/travel-health/yellow-fever.html#select-centre)  
 \* It is important to note that [country entry requirements](https://www.who.int/publications/m/item/vaccination-requirements-and-recommendations-for-international-travellers-and-malaria-situation-per-country-2022-edition "Link to External Site") may not reflect your risk of yellow fever at your destination. It is recommended that you contact the nearest [diplomatic or consular office](http://www.international.gc.ca/protocol-protocole/reps.aspx?view=d "Link to External Site") of the destination(s) you will be visiting to verify any additional entry requirements.
+
+Polio 
+
+The World Health Organization (WHO), at the time of their last report, identified this country as no longer poliovirus-infected, but as having been previously infected within the last 24 months.
+
+[Polio](https://travel.gc.ca/travelling/health-safety/diseases/polio) is spread from person to person and through contaminated food and water. Infection with polio virus can cause paralysis and death in individuals of any age who are not immune.
+
+Polio can be preventeed by vaccination.
+
+**Recommendations:**
+
+* Be sure that your polio vaccinations are up to date before travelling. Polio is part of the [routine vaccine schedule](https://www.canada.ca/en/public-health/services/publications/healthy-living/canadian-immunization-guide-part-1-key-immunization-information/page-13-recommended-immunization-schedules.html#p1c12a2) for children in Canada.
+* One booster dose of the polio vaccine is recommended as an [adult](https://www.canada.ca/en/public-health/services/publications/healthy-living/canadian-immunization-guide-part-3-vaccination-specific-populations/page-9-immunization-travellers.html#a3).
+Rabies 
+
+Rabies is present in this destination and is carried by dogs and some wildlife, including bats. Rabies is a serious disease that’s almost always fatal once symptoms appear. It's spread to humans through the saliva of infected animals, mainly through bites, but it can also be spread through scratches.
+
+Before you travel, talk to a health care professional about rabies vaccination. Vaccination may be recommended for people at higher risk of exposure, such as:
+
+* veterinarians and wildlife workers
+* children
+* adventure travellers and cave explorers (spelunkers)
+* people who will be in close contact with animals
+
+While travelling:
+
+* avoid contact with animals, including free roaming dogs
+* supervise children closely around animals
+
+If you’re bitten or scratched by an animal:
+
+* wash the wound right away with soap and clean water for about 15 minutes
+* get medical care as soon as possible
+
+Treatment to prevent rabies is often available in this destination.
+
+If you get treatment to prevent rabies while outside Canada, ask for:
+
+* written records of medications and vaccines administered, including when they were given, product names, and batch or lot numbers
+* photos of the packaging and labels of any medications or vaccines given to you
+
+When you return to Canada, see a health care professional as soon as possible and bring your treatment records to your appointment.
+
+**Learn more:**  
+[Rabies: Symptoms and treatment](https://www.canada.ca/en/public-health/services/diseases/rabies.html)
 
 Measles 
 
@@ -111,7 +176,10 @@ Malaria
 [Malaria](https://www.canada.ca/en/public-health/services/diseases/malaria.html) is a serious and sometimes fatal disease that is caused by parasites spread through the bites of mosquitoes.
 
 **Malaria is a risk to travellers to this destination.**  
- 
+   
+[Antimalarial medication is recommended](https://www.canada.ca/en/public-health/services/catmat/appendix-1-malaria-risk-recommended-chemoprophylaxis-geographic-area.html) for most travellers to this destination and should be taken as recommended. Consult a health care professional or visit a travel health clinic before travelling to discuss your options. It is recommended to do this 6 weeks before travel, however, it is still a good idea any time before leaving.   
+   
+[Protect yourself from mosquito bites](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html) at all times:
 
 * Cover your skin and use an [approved](https://www.canada.ca/en/health-canada/services/about-pesticides/insect-repellents.html) insect repellent on uncovered skin.
 * Exclude mosquitoes from your living area with screening and/or closed, well-sealed doors and windows.
@@ -119,51 +187,6 @@ Malaria
 * Wear permethrin-treated clothing.
 
  If you develop [symptoms](https://www.canada.ca/en/public-health/services/diseases/malaria/symptoms-malaria.html) similar to malaria when you are travelling or up to a year after you return home, see a health care professional immediately. Tell them where you have been travelling or living.
-
-Polio 
-
-The World Health Organization (WHO), at the time of their last report, identified this country as no longer poliovirus-infected, but as having been previously infected within the last 24 months.
-
-[Polio](https://travel.gc.ca/travelling/health-safety/diseases/polio) is spread from person to person and through contaminated food and water. Infection with polio virus can cause paralysis and death in individuals of any age who are not immune.
-
-Polio can be preventeed by vaccination.
-
-**Recommendations:**
-
-* Be sure that your polio vaccinations are up to date before travelling. Polio is part of the [routine vaccine schedule](https://www.canada.ca/en/public-health/services/publications/healthy-living/canadian-immunization-guide-part-1-key-immunization-information/page-13-recommended-immunization-schedules.html#p1c12a2) for children in Canada.
-* One booster dose of the polio vaccine is recommended as an [adult](https://www.canada.ca/en/public-health/services/publications/healthy-living/canadian-immunization-guide-part-3-vaccination-specific-populations/page-9-immunization-travellers.html#a3).
-Rabies 
-
-Rabies is present in this destination and is carried by dogs and some wildlife, including bats. Rabies is a serious disease that’s almost always fatal once symptoms appear. It's spread to humans through the saliva of infected animals, mainly through bites, but it can also be spread through scratches.
-
-Before you travel, talk to a health care professional about rabies vaccination. Vaccination may be recommended for people at higher risk of exposure, such as:
-
-* veterinarians and wildlife workers
-* children
-* adventure travellers and cave explorers (spelunkers)
-* people who will be in close contact with animals
-
-While travelling:
-
-* avoid contact with animals, including free roaming dogs
-* supervise children closely around animals
-
-If you’re bitten or scratched by an animal:
-
-* wash the wound right away with soap and clean water for about 15 minutes
-* get medical care as soon as possible
-
-Treatment to prevent rabies is often available in this destination.
-
-If you get treatment to prevent rabies while outside Canada, ask for:
-
-* written records of medications and vaccines administered, including when they were given, product names, and batch or lot numbers
-* photos of the packaging and labels of any medications or vaccines given to you
-
-When you return to Canada, see a health care professional as soon as possible and bring your treatment records to your appointment.
-
-**Learn more:**  
-[Rabies: Symptoms and treatment](https://www.canada.ca/en/public-health/services/diseases/rabies.html)
 
 ### Safe food and water precautions
 
@@ -288,21 +311,6 @@ Rift Valley fever
 
 [Rift Valley fever](http://www.who.int/mediacentre/factsheets/fs207/en/) is a viral disease that can cause severe flu-like symptoms. In some cases, it can be fatal. It is spread to humans through contact with infected animal blood or tissues, from the bite of an infected mosquito, or eating or drinking unpasteurized dairy. Risk is generally low for most travellers. Protect yourself from insect bites and avoid animals, particularly livestock, and unpasteurized dairy. There is no vaccine available for Rift Valley fever.
 
-Zika virus 
-
-[Zika virus](https://www.canada.ca/en/public-health/services/diseases/zika-virus.html) is a risk in this country.
-
-Zika virus is primarily spread through the bite of an infected mosquito. It can also be sexually transmitted. Zika virus can cause serious birth defects.
-
-During your trip:
-
-* [Prevent mosquito bites](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html) at all times.
-* Use condoms correctly or avoid sexual contact, particularly if you are pregnant.
-
-If you are pregnant or planning a pregnancy, you should discuss the potential risks of travelling to this destination with your health care provider. You may choose to avoid or postpone travel.
-
-For more information, see [Zika virus: Pregnant or planning a pregnancy.](https://www.canada.ca/en/public-health/services/diseases/zika-virus/pregnant-planning-pregnancy.html)
-
 African trypanosomiasis
 
 [African trypanosomiasis (sleeping sickness)](https://www.canada.ca/en/public-health/services/diseases/trypanosomiasis.html) is caused by a parasite spread through the bite of a tsetse fly. Tsetse flies usually bite during the day and the bites are usually painful. If untreated, the disease is eventually fatal. Risk is generally low for most travellers. Protect yourself from bites especially in game parks and rural areas. Avoid wearing bright or dark-coloured clothing as these colours attract tsetse flies. There is no vaccine available for this disease.
@@ -318,6 +326,21 @@ To lower your risk, protect yourself from sandfly bites. Sandflies are most acti
 There is no vaccine or medication to prevent infection with the parasite that causes leishmaniasis.
 
 **Learn more:**[Leishmaniasis](https://www.canada.ca/en/public-health/services/diseases/leishmaniasis.html)
+
+Zika virus 
+
+[Zika virus](https://www.canada.ca/en/public-health/services/diseases/zika-virus.html) is a risk in this country.
+
+Zika virus is primarily spread through the bite of an infected mosquito. It can also be sexually transmitted. Zika virus can cause serious birth defects.
+
+During your trip:
+
+* [Prevent mosquito bites](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html) at all times.
+* Use condoms correctly or avoid sexual contact, particularly if you are pregnant.
+
+If you are pregnant or planning a pregnancy, you should discuss the potential risks of travelling to this destination with your health care provider. You may choose to avoid or postpone travel.
+
+For more information, see [Zika virus: Pregnant or planning a pregnancy.](https://www.canada.ca/en/public-health/services/diseases/zika-virus/pregnant-planning-pregnancy.html)
 
 ### Animal precautions
 
@@ -382,16 +405,6 @@ Travellers who may be at high risk while travelling in regions with risk of tube
 
 High-risk travellers include those visiting or working in prisons, refugee camps, homeless shelters, or hospitals, or travellers visiting friends and relatives.
 
-Ebola disease
-
-Sporadic outbreaks of [Ebola disease](https://www.canada.ca/en/public-health/services/diseases/ebola.html) occur in this country.
-
-Ebola disease can be caused by 6 different viruses, including Sudan virus and Ebola virus, which spread through contact with infected bodily fluids (from people or animals). It is very serious and often fatal.
-
-Practise good hygiene (frequent and proper hand washing) and avoid contact with the body fluids of people with Ebola disease or unknown illnesses. Avoid contact with wild animals.
-
-Of the different viruses that cause Ebola disease, there is only a vaccine to prevent disease caused by Ebola virus. It is available under certain circumstances; however, it is not authorized for sale in Canada. There are currently no approved vaccines or effective treatments for Ebola disease caused by the other viruses, including Sudan virus.
-
 Marburg virus disease
 
 Sporadic outbreaks of Marburg virus disease (MVD) may occur in this country.
@@ -405,6 +418,16 @@ Marburg virus is transmitted to people from fruit bats and spreads among humans 
 
 **Learn more:**  
 [Marburg virus disease](https://www.canada.ca/en/public-health/services/infectious-diseases/viral-haemorrhagic-fevers/marburg-virus-disease.html)
+
+Ebola disease
+
+Sporadic outbreaks of [Ebola disease](https://www.canada.ca/en/public-health/services/diseases/ebola.html) occur in this country.
+
+Ebola disease can be caused by 6 different viruses, including Sudan virus and Ebola virus, which spread through contact with infected bodily fluids (from people or animals). It is very serious and often fatal.
+
+Practise good hygiene (frequent and proper hand washing) and avoid contact with the body fluids of people with Ebola disease or unknown illnesses. Avoid contact with wild animals.
+
+Of the different viruses that cause Ebola disease, there is only a vaccine to prevent disease caused by Ebola virus. It is available under certain circumstances; however, it is not authorized for sale in Canada. There are currently no approved vaccines or effective treatments for Ebola disease caused by the other viruses, including Sudan virus.
 
 ### Medical services and facilities
 

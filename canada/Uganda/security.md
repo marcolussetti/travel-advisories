@@ -8,11 +8,11 @@ Due to the outbreak of Ebola disease, crossing between the DRC and Uganda is res
 
 More information on the Ebola outbreaks in [Uganda](https://travel.gc.ca/travelling/health-safety/travel-health-notices/550) and in the [DRC](https://travel.gc.ca/travelling/health-safety/travel-health-notices/549)
 
-### Border with the Democratic Republic of Congo
+### Border with the Democratic Republic of the Congo
 
-The volatile security situation in the eastern part of neighbouring Democratic Republic of Congo (DRC) could lead to possible incursions into western Uganda by armed rebel groups from the DRC.
+The volatile security situation in the eastern part of neighbouring Democratic Republic of the Congo (DRC) could lead to possible incursions into western Uganda by armed rebel groups from the DRC.
 
-At the end of November 2021, Uganda and the Democratic Republic of Congo started a joint military operation against the Allied Democratic Forces (ADF) in North Kivu and Ituri provinces of the DRC, near Virunga National Park.
+At the end of November 2021, Uganda and the Democratic Republic of the Congo started a joint military operation against the Allied Democratic Forces (ADF) in North Kivu and Ituri provinces of the DRC, near Virunga National Park.
 
 Ugandan military troops are present on both sides of the border. There is also a risk of banditry in this area.
 
@@ -34,7 +34,7 @@ Due to political tensions between Uganda and Rwanda, the land border may be clos
 
 There is a threat of terrorism in Uganda. On October 17, 2023, an attack occurred near the Queen Elizabeth National Park in south-west Uganda and resulted in three casualties. On October 15, 2023, the Ugandan police foiled a bomb attack on churches in the central Butambala district, west of Kampala. The Ugandan police also located and disabled improvised explosive devices (IED) in three locations in Kampala and on its outskirts in September 2023.
 
-Terrorists have previously carried out attacks, including in June 2023 on a school in Mpondwe, near the border with the Democratic Republic of Congo, resulting in several casualties.
+Terrorists have previously carried out attacks, including in June 2023 on a school in Mpondwe, near the border with the Democratic Republic of the Congo, resulting in several casualties.
 
 Further attacks cannot be ruled out. While the attacks do not appear to have targeted foreigners, exercise increased caution in and around Kampala.
 
@@ -49,12 +49,12 @@ Always be aware of your surroundings when in public places. Expect a heightened 
 
 ### National Parks
 
-There are several national parks in Uganda, including near the border with the Democratic Republic of Congo. Local authorities have enhanced security measures in these areas; however, tourists have been involved in security incidents in the past.
+There are several national parks in Uganda, including near the border with the Democratic Republic of the Congo. Local authorities have enhanced security measures in these areas; however, tourists have been involved in security incidents in the past.
 
 If you are visiting a national park:
 
 * only use reputable and professional guides or tour operators
-* don’t take any tours that will bring you into the Democratic Republic of Congo
+* don’t take any tours that will bring you into the Democratic Republic of the Congo
 * closely follow park regulations and rangers’ advice
 * stay informed of recent developments in the security situation in the area before travelling as it can change quickly
 

@@ -18,6 +18,10 @@ Penalties for possession, use or trafficking of illegal drugs are severe. Convic
 
 Dual citizenship is not legally recognized in Belarus.
 
+If you are also a citizen of Belarus you may be subject to certain legal obligations, including mandatory military service.
+
+Canadian citizens born to Belarusian parents may unknowingly have Belarusian citizenship. If you have family ties to Belarus, you should contact the nearest Belarusian embassy or consulate about potential citizenship obligations before travelling to Belarus.
+
 If local authorities consider you a citizen of Belarus, they may refuse to grant you access to Canadian consular services. This will prevent us from providing you with those services.
 
 [Dual citizens](https://travel.gc.ca/travelling/documents/dual-citizenship)
@@ -47,6 +51,12 @@ Be aware that Canadian consular officials cannot interfere in private legal matt
 * [The Hague Convention](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) – Hague Conference on Private International Law
 * [Canadian embassies and consulates by destination](https://travel.gc.ca/assistance/embassies-consulates)
 * [Request emergency assistance](https://travel.gc.ca/assistance/emergency-assistance?_ga)
+
+### Mandatory military service
+
+Male Belarusian citizens between the ages of 18 and 27 may be subject to mandatory military service. Local authorities may arrest you, force you into military service or prevent you from leaving the country if you’re a dual Canadian-Belarusian citizen and you try to avoid military service.
+
+[On the call-up of reserve officers for military service](https://president.gov.by/en/documents/ukaz-no-132-ot-17-aprela-2026-g-1776513353) – President of the Republic of Belarus
 
 ### Identification
 

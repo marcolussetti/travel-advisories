@@ -1,7 +1,7 @@
 {
     "name": "Uganda",
-    "update_reason": "Need help? section \u2013 updated information on consular assistance",
-    "update_date": "2026-06-23T16:16:00",
+    "update_reason": "Health \u2013 Outbreak monitoring alert for Marburg virus disease in Uganda added",
+    "update_date": "2026-07-02T15:16:00",
     "sections": {
         "risk": "canada/Uganda/risk.md",
         "security": "canada/Uganda/security.md",

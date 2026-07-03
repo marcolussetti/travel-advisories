@@ -75,7 +75,7 @@ All air passengers leaving DRC must pay an airport infrastructure development ta
 
 ### Crossing to Brazzaville
 
-To cross the Congo River from Kinshasa to Brazzaville, you must have an entry visa issued by the Embassy of the Republic of Congo (Brazzaville).
+To cross the Congo River from Kinshasa to Brazzaville, you must have an entry visa issued by the Embassy of the Republic of the Congo (Brazzaville).
 
 ### Children and travel
 
