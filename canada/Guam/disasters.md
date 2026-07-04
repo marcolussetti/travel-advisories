@@ -2,6 +2,29 @@
 
 ## Natural disasters and climate
 
+### Typhoon Bavi
+
+Typhoon Bavi is expected to sweep across Guam as a super typhoon on July 5, 2026.
+
+The storm is likely to bring excessive rainfall and violent winds. It may cause flash flooding and landslides and could severely disrupt the following essential services:
+
+* transportation
+* power distribution
+* water and food supply
+* telecommunications networks
+* emergency services
+* medical care
+
+Avoid all travel to Guam.
+
+If you are in the affected area:
+
+* exercise caution
+* monitor local news and weather reports
+* follow the instructions of local authorities
+
+[Guam Forecast Office](https://www.weather.gov/gum/) – National Weather Service
+
 ### Climate change
 
 Climate change is affecting Guam. Extreme and unusual weather events are becoming more frequent and may affect your travel plans. Monitor local media for the latest information.

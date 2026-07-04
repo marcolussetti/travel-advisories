@@ -1,7 +1,7 @@
 {
     "name": "Bulgaria",
-    "update_reason": "Laws and culture section \u2013 removed information on currency change",
-    "update_date": "2026-07-02T15:51:00",
+    "update_reason": "Editorial change",
+    "update_date": "2026-07-03T12:47:00",
     "sections": {
         "risk": "canada/Bulgaria/risk.md",
         "security": "canada/Bulgaria/security.md",

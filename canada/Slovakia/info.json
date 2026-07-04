@@ -1,7 +1,7 @@
 {
     "name": "Slovakia",
-    "update_reason": "Editorial change",
-    "update_date": "2026-06-29T13:38:00",
+    "update_reason": "Entry and exit requirements section \u2013 added information on the European Travel Information and Authorization System (ETIAS); updated information on the Schengen area",
+    "update_date": "2026-07-03T12:16:00",
     "sections": {
         "risk": "canada/Slovakia/risk.md",
         "security": "canada/Slovakia/security.md",

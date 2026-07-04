@@ -1,7 +1,7 @@
 {
     "name": "Luxembourg",
-    "update_reason": "Need help? section \u2013 updated information on consular assistance",
-    "update_date": "2026-06-23T11:58:00",
+    "update_reason": "Entry and exit requirements section \u2013 added information on the European Travel Information and Authorization System (ETIAS); updated information on the Schengen area",
+    "update_date": "2026-07-03T14:14:00",
     "sections": {
         "risk": "canada/Luxembourg/risk.md",
         "security": "canada/Luxembourg/security.md",

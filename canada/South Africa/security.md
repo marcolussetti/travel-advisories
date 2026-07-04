@@ -2,15 +2,21 @@
 
 ## Safety and security
 
-### "National shutdown"
+### Demonstrations
 
-There has been an increase in xenophobic attacks, primarily targeting refugees and immigrants from other African nations.   
- Anti-immigrant organizations have called for a “national shutdown” on June 30, 2026. Demonstrations could occur in the lead-up to and after this date. Similar demonstrations in the past have led to outbreaks of violence. Several areas across the country could be affected, particularly central business districts and townships.
+Demonstrations can occur anywhere across the country and sometimes on short notice.
 
-* avoid demonstrations and large gatherings
-* expect an increased presence of security forces
-* monitor the media for the latest information
-* follow the instructions of local authorities
+Even peaceful demonstrations can turn violent at any time. They can also lead to disruptions to traffic and public transportation.
+
+* Avoid areas where demonstrations and large gatherings are taking place
+* Follow the instructions of local authorities
+* Monitor local media for information on ongoing demonstrations
+
+[Mass gatherings (large-scale events)](https://travel.gc.ca/travelling/health-safety/mass-gatherings)
+
+#### Xenophobic attacks and demonstrations
+
+Xenophobic attacks, primarily targeting refugees and immigrants from other African nations, can be accompanied by demonstrations, looting and outbreaks of violence. Such unrest could occur in any region of the country and with little warning.
 
 ### Crime
 
@@ -195,18 +201,6 @@ Romance scams through dating sites and social media have occurred, along with co
 
 * [Overseas fraud](https://travel.gc.ca/travelling/health-safety/overseas-fraud)
 * [Cybersecurity while travelling](https://travel.gc.ca/travelling/health-safety/cyber-safe)
-
-### Demonstrations
-
-Demonstrations can occur anywhere across the country and sometimes on short notice.
-
-Even peaceful demonstrations can turn violent at any time. They can also lead to disruptions to traffic and public transportation.
-
-* Avoid areas where demonstrations and large gatherings are taking place
-* Follow the instructions of local authorities
-* Monitor local media for information on ongoing demonstrations
-
-[Mass gatherings (large-scale events)](https://travel.gc.ca/travelling/health-safety/mass-gatherings)
 
 ### Spiked food and drink
 

@@ -1,7 +1,7 @@
 {
     "name": "Switzerland",
-    "update_reason": "Editorial change",
-    "update_date": "2026-06-30T12:35:00",
+    "update_reason": "Entry and exit requirements section \u2013 added information on the European Travel Information and Authorization System (ETIAS); updated information on the Schengen area",
+    "update_date": "2026-07-03T14:37:00",
     "sections": {
         "risk": "canada/Switzerland/risk.md",
         "security": "canada/Switzerland/security.md",

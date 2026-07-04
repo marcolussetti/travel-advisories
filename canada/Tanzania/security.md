@@ -2,21 +2,19 @@
 
 ## Safety and security
 
-### Border with Mozambique in the Mtwara region
-
-Extremist groups are active in the northern districts of Cabo Delgado, Mozambique. Security incidents have occurred along the border, in the Mtwara Region. Tanzanian military and security forces conduct counterinsurgency operations in the area where access is controlled in several locations and movements in and out are monitored.
-
-### Southern Mtwara region
-
-Armed groups have been active in the southern Mtwara region between highway 19 and 10 km from the border with Mozambique. There is a threat of terrorism and kidnappings in this region.
-
-### Border with Burundi and Democratic Republic of Congo (Kinshasa)
-
-Exercise a high degree of caution when travelling near refugee camps in northwestern Tanzania, particularly in the region of Kigoma and to the west of Kagera bordering Burundi, Democratic Republic of Congo and Rwanda, due to banditry.
-
 ### Demonstrations
 
-Demonstrations can occur anywhere across the country and sometimes on short notice. Even peaceful demonstrations can turn violent at any time. Protests following previous elections resulted in fatalities. They can also lead to disruptions to traffic and public transportation.
+### Saba Saba Day
+
+Demonstrations and firm responses from security forces are possible around Saba Saba Day on July 7, 2026. In the past, similar demonstrations have led to outbreaks of violence and fatalities.
+
+Authorities have strengthened security measures and security forces are present in the streets.
+
+Foreign nationals may be subject to increased attention from local security forces.
+
+Always carry valid identification and comply with local regulations.
+
+Demonstrations can occur anywhere across the country and sometimes on short notice. Even peaceful demonstrations can turn violent at any time. Protests following previous elections resulted in fatalities. They can also lead to disruptions to traffic and public transportation.
 
 * Avoid areas where demonstrations and large gatherings are taking place
 * Follow the instructions of local authorities
@@ -26,7 +24,7 @@ During periods of unrest, disruptions to movement, essential services and Intern
 
 * ensure to have enough cash for essential expenses
 * always keep your gas tank at least half full
-* maintain a supply of water, non-perishable food, medication, and essential items
+* maintain a supply of water, non-perishable food, medication, and essential items
 * if using an eSIM, obtain a local SIM card with calling minutes
 * keep mobile devices charged and carry a power bank
 * store important documents securely and ensure they are easily accessible
@@ -36,10 +34,22 @@ During periods of unrest, disruptions to movement, essential services and Intern
 You should also save or print key information in case of an internet disruption, including:
 
 * itineraries
-* contact details for the Canadian High Commission in Dar es Salaam and the [Emergency Watch and Response Centre](http://travel.gc.ca/assistance/emergency-assistance) in Ottawa
+* contact details for the High Commission of Canada in Tanzania, in Dar es Salaam, and the [Emergency Watch and Response Centre](http://travel.gc.ca/assistance/emergency-assistance) in Ottawa
 * emergency numbers
 
 [Mass gatherings (large-scale events)](https://travel.gc.ca/travelling/health-safety/mass-gatherings)
+
+### Border with Mozambique in the Mtwara region
+
+Extremist groups are active in the northern districts of Cabo Delgado, Mozambique. Security incidents have occurred along the border, in the Mtwara Region. Tanzanian military and security forces conduct counterinsurgency operations in the area where access is controlled in several locations and movements in and out are monitored.
+
+### Southern Mtwara region
+
+Armed groups have been active in the southern Mtwara region between highway 19 and 10 km from the border with Mozambique. There is a threat of terrorism and kidnappings in this region.
+
+### Border with Burundi and Democratic Republic of the Congo (Kinshasa)
+
+Exercise a high degree of caution when travelling near refugee camps in northwestern Tanzania, particularly in the region of Kigoma and to the west of Kagera bordering Burundi, Democratic Republic of the Congo and Rwanda, due to banditry.
 
 ### Crime
 
@@ -106,7 +116,7 @@ Kidnapping-for-ransom does not pose a significant risk in Tanzania, but it canno
 
 Exercise caution along the following border areas:
 
-* around Lake Tanganyika, which marks the border with the Democratic Republic of Congo
+* around Lake Tanganyika, which marks the border with the Democratic Republic of the Congo
 * the southeastern border with Mozambique
 
 #### Express kidnappings

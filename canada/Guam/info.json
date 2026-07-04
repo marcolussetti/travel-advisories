@@ -1,7 +1,7 @@
 {
     "name": "Guam",
-    "update_reason": "Need help? section \u2013 updated information on consular assistance",
-    "update_date": "2026-06-19T17:54:00",
+    "update_reason": "Risk level section \u2013 avoid all travel to Guam due to Typhoon Bavi; Natural disasters and climate section \u2013 added information on Typhoon Bavi",
+    "update_date": "2026-07-03T15:38:00",
     "sections": {
         "risk": "canada/Guam/risk.md",
         "security": "canada/Guam/security.md",

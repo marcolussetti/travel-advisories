@@ -1,7 +1,7 @@
 {
     "name": "Denmark",
-    "update_reason": "Need help? section \u2013 updated information on consular assistance",
-    "update_date": "2026-06-23T14:05:00",
+    "update_reason": "Entry and exit requirements section \u2013 added information on the European Travel Information and Authorization System (ETIAS); updated information on the Schengen area",
+    "update_date": "2026-07-03T13:03:00",
     "sections": {
         "risk": "canada/Denmark/risk.md",
         "security": "canada/Denmark/security.md",

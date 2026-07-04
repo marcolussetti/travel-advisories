@@ -1,7 +1,7 @@
 {
     "name": "Greece",
-    "update_reason": "Section Besoin d'aide? \u2013 mise \u00e0 jour de l'information sur l'aide consulaire",
-    "update_date": "2026-06-23T14:16:00",
+    "update_reason": "Entry and exit requirements section \u2013 added information on the European Travel Information and Authorization System (ETIAS); updated information on the Schengen area",
+    "update_date": "2026-07-03T13:19:00",
     "sections": {
         "risk": "canada/Greece/risk.md",
         "security": "canada/Greece/security.md",

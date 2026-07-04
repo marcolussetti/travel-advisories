@@ -2,6 +2,29 @@
 
 ## Natural disasters and climate
 
+### Typhoon Bavi
+
+Typhoon Bavi is expected to sweep across the Northern Mariana Islands, especially Aguijan, Rota, Tinian and Saipan, as a super typhoon on July 5, 2026.
+
+The storm is likely to bring excessive rainfall and violent winds. It may cause flash flooding and landslides and could severely disrupt the following essential services:
+
+* transportation
+* power distribution
+* water and food supply
+* telecommunications networks
+* emergency services
+* medical care
+
+Avoid all travel to the Northern Marianas Islands.
+
+If you are in the affected area:
+
+* exercise caution
+* monitor local news and weather reports
+* follow the instructions of local authorities
+
+[Marianas Forecast Office](https://www.weather.gov/gum/) – National Weather Service
+
 ### Climate change
 
 Climate change is affecting the Northern Mariana Islands. Extreme and unusual weather events are becoming more frequent and may affect your travel plans. Monitor local media for the latest information.

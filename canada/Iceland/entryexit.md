@@ -10,31 +10,43 @@ We have obtained the information on this page from local authorities. It can, ho
 
 Verify this information with the [Foreign Representatives in Canada](https://www.international.gc.ca/protocol-protocole/reps.aspx?lang=eng).
 
-### Entry/Exit System (EES)
+### European Travel Information and Authorization System (ETIAS)
 
-The Entry/Exit System (EES) began operations on October 12, 2025.
+The European Travel Information and Authorization System (ETIAS) is planned to begin operations in the last quarter of 2026 (between September and December 2026). Applications are not yet open. Be cautious of fraudulent websites claiming to sell ETIAS authorizations. Apply only through the official EU website once the system is launched.
 
-The EES is an automated registration system for travellers from countries outside the European Union or the Schengen area. You will be required to register through this system upon arrival at the border of any of the 29 countries in the Schengen area.
+ETIAS is an electronic travel authorization (ETA) system. You must apply online and pay for an ETIAS before you travel to any one of [30 European countries](https://travel-europe.europa.eu/etias/about-etias/who-should-apply.html#european-countries-requiring-etias). Your ETIAS expires after 3 years or when your passport expires, whichever comes first. You must travel with the same passport you used to apply for ETIAS. Once you arrive, you can stay for up to 90 days, in any of the participating countries combined, in a 180-day period. Longer stays may be possible in countries with an existing bilateral agreement with Canada. You should contact the embassy or consulate in Canada of your destination country before you travel for information on the possibility of extending your stay.
 
-You don’t need to take any action before you travel. The EES collects information about your trip as well as your facial image and fingerprints.
+#### Dual citizens of Canada and participating countries
+
+If you’re a Canadian citizen but also a citizen of any of the participating countries, you cannot apply for an ETIAS. You must travel on your European passport. If you do not have a passport, or if you have an expired passport from the participating country of which you are also a citizen, you must apply for one or renew it before you travel.
+
+If you are unsure whether you are a citizen of any of the participating countries, you must verify your status with the country’s embassy or consulate in Canada before you travel, or you risk being denied entry to your destination.
+
+If you are a Canadian with dual citizenship, you need to carry a valid Canadian passport to return to Canada by air.
 
 #### Useful links
 
 * [Travelling to Europe](https://travel.gc.ca/travelling/travelling-europe)
-* [Entry/Exit System (EES)](https://travel-europe.europa.eu/ees/ltr) – European Union
+* [Foreign representatives accredited to Canada](https://www.international.gc.ca/protocol-protocole/reps.aspx?lang=eng&_ga=2.134519089.1596806486.1781798131-189203568.1778776514)
+* [Official ETIAS website](https://travel-europe.europa.eu/etias) – European Union
+* [Dual citizenship and ETIAS](https://travel-europe.europa.eu/etias/ltr/about-etias/news-corner/Dual-citizenship-and-ETIAS) – European Union
 
 ### Schengen area
 
 Iceland is a Schengen area country. Canadian citizens do not need a visa for travel to countries within the Schengen area. However, visa-free travel only applies to stays of up to 90 days in any 180-day period. Stays are cumulative and include visits to any Schengen area country.
 
-Member states may reintroduce temporary controls at internal border crossings within the Schengen area. You may be required to pass through immigration controls when entering Iceland, even if arriving from another Schengen area country. Verify if temporary border controls are in effect before you travel to Iceland.
+Member states may temporarily reintroduce controls at internal border crossings within the Schengen area. You may be required to pass through immigration controls when entering Iceland, even if arriving from another Schengen area country. Verify if temporary border controls are in effect before you travel to Iceland.
 
 If you plan to stay in the Schengen area for a longer period of time, you will need a visa. You must contact the high commission or embassy of the country or countries you are travelling to and obtain the appropriate visa(s) before your departure.
+
+When you enter the Schengen area, the Entry/Exit System (EES) collects information about your trip as well as your facial image and fingerprints. You don’t need to take any action before you travel.
 
 #### Useful links
 
 * [Schengen area](https://travel.gc.ca/travelling/schengen-area)
 * [Foreign Representatives in Canada](http://www.international.gc.ca/protocol-protocole/reps.aspx?lang=eng)
+* [Travelling to Europe](https://travel.gc.ca/travelling/travelling-europe)
+* [Entry/Exit System (EES)](https://travel-europe.europa.eu/ees/ltr) – European Union
 * [Temporary Reintroduction of Border Control](https://home-affairs.ec.europa.eu/policies/schengen/schengen-area/temporary-reintroduction-border-control_en) – European Commission
 
 ### Passport

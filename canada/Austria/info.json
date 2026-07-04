@@ -1,7 +1,7 @@
 {
     "name": "Austria",
-    "update_reason": "Need help? section \u2013 updated information on consular assistance",
-    "update_date": "2026-06-23T14:07:00",
+    "update_reason": "Editorial change",
+    "update_date": "2026-07-03T12:47:00",
     "sections": {
         "risk": "canada/Austria/risk.md",
         "security": "canada/Austria/security.md",
