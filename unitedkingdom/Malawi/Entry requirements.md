@@ -2,7 +2,7 @@
 
 This information is for people travelling on a full [‘British citizen’ passport](https://www.gov.uk/types-of-british-nationality) from the UK. It is based on the UK government’s understanding of Malawi’s current rules for the most common types of travel.
 
-The authorities in Malawi set and enforce entry rules. If you’re not sure how these requirements apply to you, contact the [Malawi High Commission in the UK](https://www.malawihighcommission.co.uk/).
+The authorities in Malawi set and enforce entry rules. If you’re not sure how these requirements apply to you, contact the [Malawi Revenue Authority](https://www.mra.mw/view/prohibited-and-restricted-imports).
 
 ## Passport validity requirements
 
@@ -28,7 +28,7 @@ Single or multiple entry visas can be obtained on arrival. You are advised to br
 * 150 US dollars for a 6-month multiple entry visa, and
 * 250 US dollars for a one-year multiple entry visa
 
-On-line e-visas are available on the [Malawi Immigration website](https://www.immigration.gov.mw/), although the system is not always up to date.
+On-line e-visas are available on the [Malawi Immigration website](https://www.immigration.gov.mw/).
 
 If you wish to live, work or study in Malawi, visit the [Malawi Immigration website](https://www.immigration.gov.mw/) for further information.
 
@@ -44,6 +44,10 @@ To enter Malawi, you must have certificates to prove you’ve had:
 * a polio vaccine, in some circumstances
 
 For full details about medical entry requirements and recommended vaccinations, see [TravelHealthPro’s Malawi guide](https://travelhealthpro.org.uk/country/136/malawi#Vaccine_Recommendations).
+
+## Traveller health check form
+
+The Ministry of Health and Sanitation require arriving passengers to complete a Traveller Health Check form. This can be accessed on arrival through a QR code or [completed in advance](https://poe.health.gov.mw/self-screen).
 
 ## Customs rules
 

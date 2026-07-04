@@ -133,7 +133,7 @@ If you are a British-Russian dual national, we may not be informed of your arres
 
 Journalists have been arrested for gathering and publishing information.
 
-There are severe restrictions on publishing and distributing information related to the Russian armed forces and any military operations. People charged under these laws face heavy sentences.
+There are severe restrictions on publishing and distributing information related to the Russian armed forces and any military operations. This includes images of, including the aftermath, of drone, military or terrorist attacks. People charged under these laws face heavy sentences.
 
 If you publish or distribute information considered ‘fake’ or from non-official Russian government sources, you could receive a fine or prison sentence of up to 15 years. This includes posting or sharing content on social media.
 
@@ -303,6 +303,8 @@ Some other minority religious groups, like Scientologists, also face discriminat
 If you’re planning to drive in Russia, see [information on driving abroad](https://www.gov.uk/driving-abroad) and check the [rules of the road in the RAC’s Russia guide](https://www.rac.co.uk/drive/travel/country/russia/).
 
 You’ll need to have both the [1968 version of the international driving permit (IDP)](https://www.gov.uk/driving-abroad/international-driving-permit) and your UK driving licence with you in the car. You cannot buy an IDP outside the UK, so get one before you travel.
+
+There are currently fuel shortages throughout Russia. In some places quotas may be imposed, including at short notice. If you intend to drive long distances, you should check fuel availability before travelling.
 
 If you have a residence permit or acquire Russian citizenship, you must get a Russian driving licence within one year. See [Living in Russia](https://www.gov.uk/guidance/living-in-russia#driving-in-russia).
 

@@ -1,11 +1,11 @@
 {
     "name": "Montserrat",
-    "update_reason": "This travel advice has been rewritten to make it easier to read and understand.",
+    "update_reason": "Updated information about travel to and from Montserrat including new information about completing an online immigration and customs form. New information about applying for a temporary visitors driving licence and updated information about healthcare in Montserrat ('Entry requirements', 'Safety and security' and 'Health' pages).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Montserrat/Warnings and insurance.md",
-            "update_date": "2024-04-03T14:27:39+01:00"
+            "update_date": "2026-07-03T16:32:01+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Montserrat/Getting help.md"
         }
     ],
-    "update_date": "2024-04-03T14:27:39+01:00"
+    "update_date": "2026-07-03T16:32:01+01:00"
 }

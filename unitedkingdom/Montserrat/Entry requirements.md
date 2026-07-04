@@ -4,7 +4,9 @@ This information is for people travelling on a full [‘British citizen’ passp
 
 The authorities in Montserrat set and enforce entry rules. If you’re not sure how these requirements apply to you, contact the  [Visit Montserrat official tourism division](https://www.visitmontserrat.com/contact-us/).
 
-All travel to and from Montserrat is through Antigua. If you are travelling to Montserrat, you must meet Antiguan entry requirements. Check the [travel advice for Antigua](https://www.gov.uk/foreign-travel-advice/antigua-and-barbuda).
+Travel to and from Montserrat is by air either through Antigua or St Maarten. There is currently no ferry service.
+
+If you are travelling to Montserrat, you must meet the entry requirements of the relevant third country. Check the [travel advice for Antigua](https://www.gov.uk/foreign-travel-advice/antigua-and-barbuda) or [travel advice for St Maarten](https://www.gov.uk/foreign-travel-advice/st-maarten).
 
 ## Passport validity requirements
 
@@ -19,6 +21,10 @@ You will be denied entry if you do not have a valid travel document or try to us
 You can visit Montserrat without a visa for up to 180 days.
 
 You need a [work permit to work in Montserrat](https://www.gov.ms/services/).
+
+## Online Immigration and Customs Form
+
+To avoid delays at immigration upon arrival in Montserrat, travellers are required to complete the online [Immigration and Customs Form -Montserrat - Online Immigration & Customs Portal](https://www.bing.com/ck/a?!&&p=7a38349244a9b3c5f047ee21bf4baad5511efcbc2762fa24e83f1d7eb7528c28JmltdHM9MTc3MzEwMDgwMA&ptn=3&ver=2&hsh=4&fclid=0978cef6-6916-60a4-3274-d89e68286169&u=a1aHR0cHM6Ly93d3cudHJhdmVsbW9udHNlcnJhdC5nb3YubXMv&ntb=1) which is available 72 hours prior to travel. This form must be saved or printed and presented to Immigration and Customs Officials upon arrival.
 
 ## Embarkation tax
 
@@ -36,12 +42,8 @@ There are strict rules about [goods you can take into or out of Montserrat](http
 
 Certain marine and animal specimens may not be taken from the island. Check with the local customs authorities before you buy such items and declare them when you leave.
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/montserrat)
+[Previous:Warnings and insurance](/foreign-travel-advice/montserrat)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/montserrat/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/montserrat/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/montserrat/print)

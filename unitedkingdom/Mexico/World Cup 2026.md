@@ -36,6 +36,12 @@ Check the official [FIFA World Cup 2026 ticketing page](https://www.fifa.com/en/
 
 Ensure you check the [FIFA World Cup 2026 app](https://play.google.com/store/apps/details?id=com.fifa.tournament&hl=en) for any match you are attending. This sets out what you can bring into the World Cup stadiums.
 
+## England vs Mexico
+
+England play Mexico at Estadio Ciudad de México (Mexico City Stadium) in Mexico City on 5 July 2026.
+
+If you are planning to travel to Mexico, or attend the match, read the World Cup page for more information, and read our Mexico travel advice in full, including the [‘Warnings and insurance’](https://www.gov.uk/foreign-travel-advice/mexico), [‘Entry requirements’](https://www.gov.uk/foreign-travel-advice/mexico/entry-requirements) and [‘Safety and security’](https://www.gov.uk/foreign-travel-advice/mexico/safety-and-security) pages.
+
 ## Accommodation
 
 There will be very high demand for accommodation. Plan ahead to ensure you have accommodation during your stay. You may be required to show evidence of your accommodation to immigration officials on arrival.
@@ -73,6 +79,10 @@ There will be a set of Fan Zones and Public Viewing Areas across Mexico. There m
 
 Check the official [World Cup 2026](https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/fifa-fan-festival) website for information about FIFA Fan Festivals and the individual locations.
 
+## Large crowds and mass gatherings
+
+There is a risk of crowd surges, pushing and crushing, before, during and after the World Cup matches. Take care in public places where people gather and if you feel uncomfortable, leave the area. Follow the advice of local authorities.
+
 ## Political situation
 
 Since the beginning of June, protests by workers’ unions have caused disruption in Mexico City by intermittently closing off areas near the historic centre (the Zócolo and surrounding streets). Protests have also caused sporadic disruption to traffic, including temporarily closing arterial roads such as Paseo de la Reforma, Periférico Sur and Circuito Interior, as well as briefly blocking access to the airport (AICM). These protests are generally peaceful, but some have resulted in clashes with police, as well as an increased security presence around affected areas.
@@ -106,6 +116,10 @@ Read the advice for LGBT+ travellers in Mexico on the [Safety and security page]
 ### Extreme weather and natural disasters
 
 Hurricane season runs from June to November. Read the advice on the [Safety and Security page](https://www.gov.uk/foreign-travel-advice/mexico/safety-and-security) for information on extreme weather and natural disasters. This includes hurricanes, earthquakes, flooding, wildfires and volcanic eruptions.
+
+## Altitude sickness
+
+Altitude sickness is a risk in parts of Mexico. Read more about [altitude sickness on TravelHealthPro](https://travelhealthpro.org.uk/factsheet/26/altitude-illness).
 
 [Previous:Safety and security](/foreign-travel-advice/mexico/safety-and-security)
 

@@ -44,7 +44,7 @@ Read [best practice when travelling with medicines on TravelHealthPro](https://t
 
 ## Healthcare in Montserrat
 
-Good healthcare is limited in availability. There is a small hospital and 4 district health centres. You may have to pay in advance to obtain medical services and it can be expensive. If you need specialist medical treatment, you may need to travel to a neighbouring island. Make sure you have adequate travel health insurance and accessible funds to cover the cost of any medical treatment abroad and repatriation.
+Good healthcare is limited in availability and medical evacuations are currently only possible during daylight hours. There is a small hospital and 4 district health centres. You may have to pay in advance to obtain medical services and it can be expensive. If you need specialist medical treatment, you may need to travel to a neighbouring island. Make sure you have adequate travel health insurance and accessible funds to cover the cost of any medical treatment abroad and repatriation.
 
 Dental care is by private practice, which is only available in the evenings and at weekends.
 
@@ -52,12 +52,8 @@ Dental care is by private practice, which is only available in the evenings and 
 
 Read [FCDO guidance on travel and mental health](https://www.gov.uk/guidance/foreign-travel-advice-for-people-with-mental-health-issues). There is also [mental health guidance on TravelHealthPro](https://travelhealthpro.org.uk/factsheet/85/travelling-with-mental-health-conditions).
 
-[Previous
-:
-Regional risks](/foreign-travel-advice/montserrat/regional-risks)
+[Previous:Regional risks](/foreign-travel-advice/montserrat/regional-risks)
 
-[Next
-:
-Getting help](/foreign-travel-advice/montserrat/getting-help)
+[Next:Getting help](/foreign-travel-advice/montserrat/getting-help)
 
 [View a printable version of the whole guide](/foreign-travel-advice/montserrat/print)

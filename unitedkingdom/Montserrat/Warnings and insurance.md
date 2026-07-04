@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   4 July 2026
 
 Updated:
-:   3 April 2024
+:   3 July 2026
 
 Latest update:
-:   This travel advice has been rewritten to make it easier to read and understand.
+:   Updated information about travel to and from Montserrat including new information about completing an online immigration and customs form. New information about applying for a temporary visitors driving licence and updated information about healthcare in Montserrat ('Entry requirements', 'Safety and security' and 'Health' pages).
 
 Montserrat is a British Overseas Territory, so there is no British Embassy and the Montserrat authorities will support you if you need help.
 
@@ -39,8 +39,6 @@ Follow FCDO:
 * [travel advice on Facebook](https://www.facebook.com/FCDOTravel/)
 * [Travel Aware on Instagram](https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Ftravelaware%2F&is_from_rle)
 
-[Next
-:
-Entry requirements](/foreign-travel-advice/montserrat/entry-requirements)
+[Next:Entry requirements](/foreign-travel-advice/montserrat/entry-requirements)
 
 [View a printable version of the whole guide](/foreign-travel-advice/montserrat/print)

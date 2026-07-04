@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   6 January 2026
+:   4 July 2026
 
 Updated:
-:   5 January 2026
+:   3 July 2026
 
 Latest update:
-:   New information about visa requirements when visiting Malawi (‘Entry requirements’ page).
+:   New information about Traveller Health Check form ('Entry requirements' page).
 
 ## Before you travel
 

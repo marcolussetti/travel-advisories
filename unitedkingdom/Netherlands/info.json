@@ -1,11 +1,11 @@
 {
     "name": "Netherlands",
-    "update_reason": "New information about disruption to Eurostar services ('Warnings and insurance' page).",
+    "update_reason": "Updated information about disruption to Eurostar services ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Netherlands/Warnings and insurance.md",
-            "update_date": "2026-06-30T14:47:02+01:00"
+            "update_date": "2026-07-03T16:19:30+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Netherlands/Getting help.md"
         }
     ],
-    "update_date": "2026-06-30T14:47:02+01:00"
+    "update_date": "2026-07-03T16:19:30+01:00"
 }

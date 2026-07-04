@@ -20,6 +20,12 @@ At least 8 weeks before your trip:
 * check the latest [vaccine recommendations for Kuwait](https://travelhealthpro.org.uk/country/122/kuwait#Vaccine_Recommendations)
 * see where to get vaccines and whether you have to pay on the [NHS travel vaccinations page](https://www.nhs.uk/conditions/travel-vaccinations/)
 
+## Air quality
+
+Poor outdoor air quality is a risk in Kuwait. Read about the risks from poor air quality on [TravelHealthPro](https://travelhealthpro.org.uk/disease/219/outdoor-air-quality).
+
+You can find further information and advice on air quality on the [World Health Organization (WHO)](https://www.who.int/health-topics/air-pollution) website and check air quality levels on the [World Air Quality Index Website](https://aqicn.org/map/europe/).
+
 ## Medication
 
 The legal status and regulation of some medicines prescribed or bought in the UK can be different in other countries.

@@ -16,12 +16,8 @@ An island-wide siren system is used to warn of volcanic activity. The sirens are
 
 The 40% of the island that is not directly affected by volcanic activity is still prone to ash falls and volcanic gases if the wind is blowing from south to north. Ash falls can lead to flight cancellations.
 
-[Previous
-:
-Safety and security](/foreign-travel-advice/montserrat/safety-and-security)
+[Previous:Safety and security](/foreign-travel-advice/montserrat/safety-and-security)
 
-[Next
-:
-Health](/foreign-travel-advice/montserrat/health)
+[Next:Health](/foreign-travel-advice/montserrat/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/montserrat/print)

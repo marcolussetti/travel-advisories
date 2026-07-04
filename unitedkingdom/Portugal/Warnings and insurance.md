@@ -1,15 +1,19 @@
 # Warnings and insurance
 
 Still current at:
-:   24 June 2026
+:   4 July 2026
 
 Updated:
-:   23 June 2026
+:   3 July 2026
 
 Latest update:
-:   New information about extreme temperatures (‘Safety and security’ page).
+:   Information about wildfires ('Warnings and insurance' page).
 
 This travel advice also covers Madeira, Porto Santo and the Azores.
+
+## Wildfires in Portugal
+
+There is a high risk of wildfires during the summer season from April to October. For advice, visit the wildfires section on the [Safety and security page](https://www.gov.uk/foreign-travel-advice/portugal/safety-and-security#wildfires).
 
 ## Before you travel
 

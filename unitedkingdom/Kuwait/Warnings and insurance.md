@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   19 June 2026
+:   4 July 2026
 
 Updated:
-:   18 June 2026
+:   3 July 2026
 
 Latest update:
-:   FCDO no longer advises against all but essential travel to Kuwait. Updated information about regional tensions. New information about additional processing at airports and driving offences ('Warnings and insurance', 'Entry requirements' and 'Safety and security' pages).
+:   Addition of information about air quality ('Health' page).
 
 ## Regional tensions
 

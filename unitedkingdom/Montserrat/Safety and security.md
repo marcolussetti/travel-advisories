@@ -52,7 +52,7 @@ See [water safety on holiday](https://www.rlss.org.uk/safety-on-holiday) from th
 
 If you are planning to drive in Montserrat, see [information on driving abroad](https://www.gov.uk/driving-abroad).
 
-To drive in Montserrat, you must get a temporary visitor’s driving licence, valid for 3 months. You can get this when you arrive at the airport or from any police station. You’ll need to show your UK driving licence and pay a fee of 50 East Caribbean dollars.
+To drive in Montserrat, you must apply online for a temporary visitor’s driving licence, valid for 3 months, and this should be completed 3 days (72 hrs) before date of travel. You must have a valid UK driving licence and pay a fee of 50 East Caribbean dollars.
 
 There is an island-wide maximum speed limit of 20mph, but local drivers do not observe it. Drive with caution due to dangerous hairpin bends, steep drops, poor road conditions and the unpredictable actions of other road users.
 
@@ -66,9 +66,11 @@ Short notice cancellations or changes to flight schedules are common. Check wit
 
 ## Extreme weather and natural disasters
 
-### Soufrière Hills volcano
+## Soufrière Hills volcano
 
-The Soufrière Hills volcano may emit ash clouds and toxic gas. See [Regional risks](/foreign-travel-advice/montserrat/regional-risks) for information about how the island manages the risk of volcanic eruptions.
+The Soufrière Hills volcano has been active since 1995. However, there has been no major volcanic activity since February 2010. The volcano is in a period of prolonged pause but may still emit ash clouds and toxic gases. The 40% of the island that is not directly affected by volcanic activity is still prone to ash falls and volcanic gases if the wind is blowing from south to north. Ash falls can lead to flight cancellations.
+
+See [Regional risks](https://www.gov.uk/foreign-travel-advice/montserrat/regional-risks) for information about how the island manages the risk of volcanic eruptions.
 
 ### Hurricanes
 
@@ -78,12 +80,8 @@ Monitor local and international weather updates from the [World Meteorological O
 
 Find out what you can do to [prepare for and respond to hurricanes](https://www.gov.uk/guidance/tropical-cyclones).
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/montserrat/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/montserrat/entry-requirements)
 
-[Next
-:
-Regional risks](/foreign-travel-advice/montserrat/regional-risks)
+[Next:Regional risks](/foreign-travel-advice/montserrat/regional-risks)
 
 [View a printable version of the whole guide](/foreign-travel-advice/montserrat/print)
