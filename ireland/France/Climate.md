@@ -5,3 +5,5 @@ Temperatures in France have had a tendency to increase significantly in recent y
 Travellers are advised to keep up to date with alerts on the website of the national weather service, [**Méteo France**](https://vigilance.meteofrance.fr/fr).
 
 During high temperature periods, travellers are advised to be mindful of the health risks. Take normal precautions such as drinking water regularly and avoiding physical exertion. It is also advisable to keep indoor spaces as cool as possible, for example by keeping shutters closed.
+
+Travellers should consult the [**HSE website**](https://healthservice.hse.ie/staff/procedures-guidelines/staying-safe-in-hot-weather/) for more information on staying safe in hot weather.

@@ -34,6 +34,12 @@ Irish citizens travelling to or living in affected countries should take the fol
 * Wash hands regularly, using detergents or antiseptics;
 * Check your travel insurance plan and ensure that medical evacuation is covered in the event of illness.
 
+Irish citizens in Uganda are encouraged to follow WHO and [**Ministry of Health**](https://health.go.ug/download/ebola-faqs-may-2026/?ind=1779193593698&filename=EBOLA%20FAQs%20-%20May%202026.pdf&wpdmdl=2984&refresh=6a0d9ce8dea2c1779277032) advice.
+
+For suspected cases, the Ugandan authorities have advised the public to call the Ministry of Health toll-free line 0800 100 066 or send a free SMS to 6767.
+
+For information on the Marburg Virus please read the health section below.
+
 #### **Border Areas**
 
 Irish citizens are advised against travel close to Uganda’s border with the Democratic Republic of Congo (DRC).
@@ -43,12 +49,6 @@ Uganda’s border with the DRC remains closed, and the Department of Foreign Aff
 The security situation in the eastern part of the DRC remains volatile, and travellers should be particularly alert in western Uganda. Citizens are advised to remain alert to the possibility of military or terrorist incursions, stray bullets, and/or artillery fire entering Uganda when near the DRC border.
 
 For further information on travel around Uganda please see Regional Travel in the Safety and Security section.
-
-Irish citizens in Uganda are encouraged to follow WHO and [**Ministry of Health**](https://health.go.ug/download/ebola-faqs-may-2026/?ind=1779193593698&filename=EBOLA%20FAQs%20-%20May%202026.pdf&wpdmdl=2984&refresh=6a0d9ce8dea2c1779277032) advice.
-
-For suspected cases, the Ugandan authorities have advised the public to call the Ministry of Health toll-free line 0800 100 066 or send a free SMS to 6767.
-
-For information on the Marburg Virus please read the health section below.
 
 If there is an emergency, or if you need help and advice, you can contact the Embassy of Ireland Kampala on Tel: +256 417 713 000. If the Embassy is closed and you require urgent assistance, you can leave a voice message on the Duty Office Mailbox, which is monitored regularly. You can also contact the Department of Foreign Affairs at +353 1 408 2000.
 

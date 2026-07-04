@@ -10,6 +10,12 @@ Normal Precautions
 
 Since March 2025, France has maintained its national security threat level at level 3, ‘attack emergency’ (urgence attentat). This is the highest level in the French Vigipirate security programme.
 
+#### **Wildfires**
+
+Wildfires are currently affecting southern France. The French weather service has launched [**a** **fire alert map**](https://meteofrance.com/meteo-des-forets) to help travellers stay up to date. Irish citizens affected by wildfires can contact the Embassy for assistance at: +33 1 44 17 67 00.
+
+For information on staying safe in hot weather, please see the Climate section below.
+
 ### **General Travel Advice**
 
 Irish citizens need a valid passport or passport card to enter France.

@@ -4,6 +4,8 @@
 
 Spain can at times experience extreme weather conditions. During the extended summer months in Spain, many parts of the country will experience heatwaves with exceptionally high temperatures. During autumn and winter, there is an increased risk of storms, heavy rainfall and flooding. You can monitor information and alerts, including severe weather warnings, on the website of the Spanish Meteorological Agency, [**AEMET**](https://www.aemet.es/en/portada).
 
+Travellers should consult the [**HSE website**](https://healthservice.hse.ie/staff/procedures-guidelines/staying-safe-in-hot-weather/) for more information on staying safe in hot weather.
+
 ### **Wildfires**
 
 During dry periods or periods of high temperatures, there is a risk of forest fires in many parts of Spain. These can result in road and railway closures. In addition, air quality in areas near active fires may deteriorate and adversely affect travellers, particularly those with respiratory ailments. Irish citizens should monitor the news closely as the situation can change quickly, and take particular care to avoid engaging in any action that may contribute to the risk of forest fires when outdoors.
