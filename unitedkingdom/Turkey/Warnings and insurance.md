@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   23 June 2026
+:   5 July 2026
 
 Updated:
-:   22 June 2026
+:   4 July 2026
 
 Latest update:
-:   New information about travel disruption due to the NATO Summit being held in Ankara 7-8 July (‘Warnings and insurance’ page).
+:   Restriction of commercial air travel at Ankara Esenboga Airport, on 7 and 8 July, because of NATO summit ('Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/69a6faa2a2495f2d259f13d2/FCDO_TA_043_-_Turkey_Travel_Advice_Ed4_WEB.jpg)
 
@@ -31,6 +31,8 @@ While 24-hour consular assistance is available by phone or online, in-person con
 ## Travel disruption
 
 Due to the NATO Summit being held in Ankara on 7-8 July, there will be road closures and restrictions around key venues. Public transport routes will be affected.
+
+All commercial air travel to and from Ankara Esenboga Airport is prohibited from 0700-1500 Turkish time on 7 July, and from 1100-1800 Turkish time on 8 July.
 
 Airports will operate under enhanced security measures, likely resulting in longer processing times.
 
