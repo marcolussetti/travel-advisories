@@ -1,7 +1,7 @@
 {
     "name": "Cyprus",
-    "update_reason": "Entry and exit requirements section \u2013 added information on the European Travel Information and Authorization System (ETIAS); updated information on the Schengen area",
-    "update_date": "2026-07-03T12:55:00",
+    "update_reason": "Risk levels section \u2013 take normal security precautions in Cyprus (with regional advisories)",
+    "update_date": "2026-07-06T15:50:00",
     "sections": {
         "risk": "canada/Cyprus/risk.md",
         "security": "canada/Cyprus/security.md",

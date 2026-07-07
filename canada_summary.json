@@ -313,8 +313,8 @@
     },
     {
         "destination": "Cyprus",
-        "risk_level": "Exercise a high degree of caution",
-        "last_updated": "2026-07-03T12:55:16",
+        "risk_level": "Take normal security precautions (with regional advisories)",
+        "last_updated": "2026-07-06T15:50:27",
         "details_url": "https://travel.gc.ca/destinations/cyprus"
     },
     {
@@ -506,7 +506,7 @@
     {
         "destination": "Guam",
         "risk_level": "Avoid all travel",
-        "last_updated": "2026-07-03T15:38:04",
+        "last_updated": "2026-07-06T12:35:28",
         "details_url": "https://travel.gc.ca/destinations/guam"
     },
     {
@@ -920,7 +920,7 @@
     {
         "destination": "Northern Marianas",
         "risk_level": "Avoid all travel",
-        "last_updated": "2026-07-03T15:29:49",
+        "last_updated": "2026-07-06T12:39:10",
         "details_url": "https://travel.gc.ca/destinations/northern-marianas"
     },
     {
@@ -1154,7 +1154,7 @@
     {
         "destination": "South Africa",
         "risk_level": "Exercise a high degree of caution",
-        "last_updated": "2026-07-03T12:59:38",
+        "last_updated": "2026-07-06T14:58:29",
         "details_url": "https://travel.gc.ca/destinations/south-africa"
     },
     {
@@ -1226,7 +1226,7 @@
     {
         "destination": "Tanzania",
         "risk_level": "Exercise a high degree of caution (with regional advisories)",
-        "last_updated": "2026-07-03T13:58:03",
+        "last_updated": "2026-07-06T08:56:48",
         "details_url": "https://travel.gc.ca/destinations/tanzania"
     },
     {

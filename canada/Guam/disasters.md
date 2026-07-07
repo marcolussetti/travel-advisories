@@ -4,9 +4,9 @@
 
 ### Typhoon Bavi
 
-Typhoon Bavi is expected to sweep across Guam as a super typhoon on July 5, 2026.
+Typhoon Bavi swept across Guam as a super typhoon on July 5, 2026.
 
-The storm is likely to bring excessive rainfall and violent winds. It may cause flash flooding and landslides and could severely disrupt the following essential services:
+The storm brought heavy rainfall and violent winds. There are initial reports of flooding and significant damage. Local authorities remain under the Condition of Readiness 1, which is the highest state of emergency. The following essential services could remain severely disrupted:
 
 * transportation
 * power distribution
@@ -14,8 +14,6 @@ The storm is likely to bring excessive rainfall and violent winds. It may cause 
 * telecommunications networks
 * emergency services
 * medical care
-
-Avoid all travel to Guam.
 
 If you are in the affected area:
 

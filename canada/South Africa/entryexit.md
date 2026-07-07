@@ -68,6 +68,12 @@ If you leave and re-enter South Africa, even for a short time, you will not auto
 
 If you intend to work, volunteer or study in South Africa, you must apply for the relevant visas prior to your arrival; otherwise, you risk being refused entry and may be returned to your point of origin.
 
+### Online traveller declaration
+
+You must complete and submit an online traveller declaration before entering or leaving South Africa.
+
+[Customs Online Traveller Declaration](https://www.sars.gov.za/travellerdeclaration/) – South African Revenue Service
+
 ### Other entry requirements
 
 You must be in possession of a return or an onward ticket. Without one, you may be required to deposit the equivalent of a fare home with customs. The money will be refunded after departure from South Africa.
