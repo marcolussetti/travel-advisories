@@ -8,9 +8,11 @@ Normal Precautions
 
 #### **Wildfires**
 
-Wildfires are currently affecting the Costa Brava (Girona) region in Spain. Civil Protection has advised that people postpone travel to the area, in order to facilitate firefighting efforts.
+During the extended summer period, wildfires are a common occurrence in Spain.
 
-Citizens in the affected area are advised to follow the instructions of local authorities. Irish citizens affected by wildfires who require assistance can contact the Embassy on: +34 914 364093.
+For information on wildfire risk, visit the [**Spanish Meteorological Office (AEMET)**](https://www.aemet.es/en/eltiempo/prediccion/incendios)**.**
+
+Citizens in, or near, areas affected by wildfires should exercise extreme caution and follow the instructions of the local authorities.
 
 #### **Weather Warnings**
 
