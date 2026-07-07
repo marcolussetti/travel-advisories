@@ -116,6 +116,34 @@ See [advice on preparing for winter sports](https://www.gov.uk/guidance/winter-s
 
 ## Outdoor activities and adventure tourism
 
+### Swimming and beaches
+
+Every year, people drown in the sea, lakes and in swimming pools in Italy.
+
+### Swimming pools
+
+Always supervise children. Keep small children within arms-reach in and around swimming pools, even if they can swim or there is a lifeguard present.
+
+### Lakes
+
+Test the water temperature before swimming in a lake. Cold water shock can be extremely dangerous and overwhelm even the strongest swimmers.  See [Met Office](https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.metoffice.gov.uk%2Fblog%2F2025%2Fcold-water-shock-how-to-stay-safe&data=05%7C02%7CHannah.Tinker%40fco.gov.uk%7C8406e3c97b21437b7d4b08ded689a0ac%7Cd3a2d0d37cc84f52bbf985bd43d94279%7C0%7C0%7C639184083786937357%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=x1YObGWgabof2nj3%2FpZxZFbpSdDspklXeY2gFzphmOI%3D&reserved=0) tips on staying safe.
+
+### Beaches
+
+Take care when swimming in the sea. Always supervise children and keep small children within arms-reach. Some beaches may have strong undercurrents.
+
+Hidden rocks or shallow depths can cause serious injury or death. Do not dive into unknown water and do not swim at beaches where a river runs into the sea.
+
+Many beaches have a flag system. Make sure you understand the system and follow any warnings (a red flag means you must not enter the water). Take extra care and get local knowledge if there are no lifeguards, flags or signs.
+
+If you are walking along unmonitored beaches, be aware that waves can come in further than expected and have strong undertows.
+
+See further tips on [ABTA’s swim safe pages](https://www.rlss.org.uk/safety-on-holiday) from the Royal Life Saving Society.
+
+Follow local advice if jellyfish are present.
+
+### Adventure sports
+
 Hiking, mountaineering and other adventure sports have specific risks.
 
 Check the company is well-established in the industry and make sure your insurance covers these activities.

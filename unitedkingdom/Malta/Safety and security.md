@@ -72,17 +72,25 @@ The airport in Malta has excellent technology and security for detecting illegal
 
 ## Outdoor activities and adventure tourism
 
-### Swimming safety
+### Swimming and beaches
 
-During the summer, lifeguards patrol most beaches and use a flag safety system. Make sure you understand the system and follow any warnings. Red flags indicate dangerous or hazardous conditions. Swim within designated zones and take extra care if there are no lifeguards, flags or signs.
+Every year, people drown in the sea and in swimming pools in Malta.
 
-Follow local advice if there are jellyfish.
+### Swimming pools
 
-See:
+Always supervise children. Keep small children within arms-reach in and around swimming pools, even if they can swim or there is a lifeguard present.
 
-* [water safety on holiday](https://www.rlss.org.uk/safety-on-holiday) from the Royal Life Saving Society
-* [watersports safety advice](https://www.rospa.com/leisure-water-safety/water/advice/watersports-abroad) from the Royal Society for the Prevention of Accidents
-* the [code of conduct for beaches](http://www.visitmalta.com/en/beach-conduct) from the Malta Tourism Authority
+### Beaches
+
+Take care when swimming in the sea. Always supervise children and keep small children within arms-reach. Some beaches may have strong undercurrents.
+
+Hidden rocks or shallow depths can cause serious injury or death. Do not dive into unknown water and do not swim at beaches where a river runs into the sea.
+
+During the summer, lifeguards patrol most beaches and use a flag safety system. Make sure you understand the system and follow any warnings. Red flags indicate dangerous or hazardous conditions. Swim within designated zones and take extra care if there are no lifeguards, flags or signs. If you are walking along unmonitored beaches, be aware that waves can come in further than expected and have strong undertows.
+
+See further tips on [ABTA’s swim safe pages](https://www.abta.com/tips-and-advice/staying-safe-on-holiday/swim-safe) and [Water Safety on Holiday](https://www.rlss.org.uk/safety-on-holiday) from the Royal Life Saving Society.
+
+Follow local advice if jellyfish are present.
 
 ## Transport risks
 

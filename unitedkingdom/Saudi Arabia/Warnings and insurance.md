@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   19 June 2026
+:   7 July 2026
 
 Updated:
-:   18 June 2026
+:   6 July 2026
 
 Latest update:
-:   FCDO no longer advises against all but essential travel to Eastern Province and to Riyadh Province. FCDO continues to advise against all travel to within 10km of the border with Yemen, and all but essential travel to areas between 10km and 80km from the border with Yemen. Updated information about regional tensions (‘Warnings and insurance’ page).
+:   Updated information about visa requirements, including new information about applying for an electronic travel authorisation ('Entry requirements' page).
 
 ![](https://assets.publishing.service.gov.uk/media/6a33d2b225c5199bda117785/FCDO__TA__034_-_Saudi_Arabia_Travel_Advice_Ed3__WEB_.jpg)
 

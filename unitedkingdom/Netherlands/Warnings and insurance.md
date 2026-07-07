@@ -1,10 +1,10 @@
 # Warnings and insurance
 
 Still current at:
-:   4 July 2026
+:   7 July 2026
 
 Updated:
-:   3 July 2026
+:   6 July 2026
 
 Latest update:
 :   Updated information about disruption to Eurostar services ('Warnings and insurance' page).
@@ -15,7 +15,7 @@ Check [separate travel advice pages](/foreign-travel-advice) for advice on trave
 
 Eurostar services between the UK and the Netherlands are severely disrupted following a fire near Rotterdam Central station.
 
-Eurostar has advised passengers to postpone or cancel travel plans on the Eurostar in the Netherlands until at least 4 July 2026. Travel times are expected to be significantly longer due to trains having to take alternative routes due to fire damage.
+Eurostar has advised that they expect trains to be disrupted until at least 6 July 2026. Travel times are expected to be significantly longer due to trains having to take alternative routes due to fire damage and trains between London and Amsterdam will not stop in Rotterdam.
 
 If you are planning to travel between the UK and the Netherlands, check the latest information with your travel operator before you travel and the latest updates on the [Eurostar website](https://www.eurostar.com/travel-info/travel-updates).
 

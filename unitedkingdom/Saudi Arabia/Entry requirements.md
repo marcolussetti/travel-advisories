@@ -22,13 +22,31 @@ When returning to the UK, British citizens must carry a valid [British passport
 
 ## Visa requirements
 
-You must get an e-visa or an electronic visa waiver, either before you travel or on arrival at any of Saudi Arabia’s international airports. The [type of e-visa or electronic visa waiver](https://www.visitsaudi.com/en/travel-regulations) you choose depends on your reason for travelling and how long you want to stay.
+You must get a visa to visit Saudi Arabia. The type of visa you choose depends on your reason for travelling and how long you want to stay.
 
 If you overstay your visa, you could face large fines, detention and deportation. You could be banned from returning to Saudi Arabia.
 
+### Applying for an electronic travel authorisation
+
+You can apply for an electronic travel authorisation (ETA) if you are travelling to Saudi Arabia for:
+
+* tourism
+* business
+* study
+* medical treatment
+* Umrah (outside the Hajj season)
+
+An ETA is is valid for 730 days from the date of issue.
+
+Valid for multiple entries, but only 180 days in total across the 730 day period .
+
+Apply for an ETA [online](https://ksavisa.sa/visa/electronic-travel-authorization/details?category=OTHER&categoryId=aab79697-b721-4907-b772-62a9bb42c36e) before you travel. If you are travelling for Hajj, you must obtain a separate Hajj visa. See [Pilgrimage](https://www.gov.uk/foreign-travel-advice/saudi-arabia/pilgrimage) for more information.
+
+An ETA does not include health insurance for your visit. Visas issued before the ETA was introduced will remain valid, in accordance with the conditions and dates on the visa when issued.
+
 ### Applying for an e-visa
 
-You can apply for an e-visa if you are a tourist. You must get an e-visa to perform Umrah.
+You can apply for an e-visa if you are a tourist.
 
 E-visas are:
 
@@ -49,9 +67,9 @@ Electronic visa waivers are for:
 * business
 * medical treatment
 * study
-* Umrah (outside of Hajj Season)
+* Umrah (outside of Hajj season)
 
-An electronic visa waiver allows you to enter Saudi Arabia once and stay for up to 6 months.
+An electronic visa waiver allows you to enter Saudi Arabia once and stay for up to 180 days.
 
 An electronic visa waiver does not include health insurance for your visit.
 

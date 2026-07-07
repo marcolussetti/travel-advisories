@@ -46,9 +46,7 @@ The local currency is the St Helena pound, and British pounds are accepted at mo
 
 ### Tristan da Cunha
 
-Credit and debit cards are not accepted on Tristan da Cunha. There is one bank where you can exchange money, but supply is not guaranteed.
-
-British pounds, euros, US dollars and South African rand are all accepted in cash.
+Credit and debit cards are accepted on Tristan da Cunha, but only at a handful of locations, such as the Post Office, Tourism Centre, Administrator’s Building, and the Albatross bar. However, most transactions on the island are cash. There is a single bank where travellers may be able to exchange currency, although availability cannot be guaranteed. British pounds, euros, US dollars and South African rand are accepted in cash. There are no ATMs on Tristan da Cunha.
 
 ## Restricted areas
 

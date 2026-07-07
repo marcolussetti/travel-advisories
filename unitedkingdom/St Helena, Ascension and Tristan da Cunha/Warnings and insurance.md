@@ -1,29 +1,15 @@
 # Warnings and insurance
 
 Still current at:
-:   7 May 2026
+:   7 July 2026
 
 Updated:
-:   6 May 2026
+:   6 July 2026
 
 Latest update:
-:   New information following an outbreak of Hantavirus ('Warnings and insurance' page).
+:   Updated information about payment methods in Tristan de Cunha (see ‘Money’ on ‘Safety and security’ page).
 
 St Helena, Ascension and Tristan da Cunha are British Overseas Territories. There are no British Embassies, and the St Helena, Ascension and Tristan da Cunha governments will support you if you need emergency assistance.
-
-## Hantavirus
-
-The UK Health Security Agency (UKHSA) is monitoring an [outbreak of Hantavirus](https://ukhsa.blog.gov.uk/2026/05/05/what-is-hantavirus-how-is-it-transmitted-and-what-are-the-symptoms/) being reported in travellers on MV Hondius, which recently visited St Helena, Ascension and Tristan da Cunha.
-
-Visitors to any of the 3 islands are advised to seek out the relevant public health advice ahead of travel:
-
-* [St Helena](https://www.sainthelena.gov.sh/st-helena/news/)
-* [Tristan da Cunha](https://www.tristandc.com/news/index.php)
-* [Ascension](https://www.ascension.gov.ac/government/news)
-
-We are supporting the UK’s Overseas Territories in this outbreak and will continue to provide updates as the situation develops.
-
-See more information about [health risks in St Helena, Ascension, and Tristan da Cunha](https://www.gov.uk/foreign-travel-advice/st-helena-ascension-and-tristan-da-cunha/health).
 
 ## Before you travel
 
