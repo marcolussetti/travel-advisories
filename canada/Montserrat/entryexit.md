@@ -50,6 +50,12 @@ Tourist visa: not required
 Business visa: not required  
 Student visa: not required
 
+### Online Immigration and Customs form
+
+You must complete the online Immigration and Customs form, available 72 hours before you arrive in Montserrat. You will then receive a receipt via email, which you must present to Immigration and Customs officials upon arrival.
+
+[Online Immigration and Customs Portal](https://www.travelmontserrat.gov.ms/en) – Government of Montserrat
+
 ### Other entry requirements
 
 Customs officials may ask you to show them a return or onward ticket and proof of sufficient funds to cover the cost of your stay.

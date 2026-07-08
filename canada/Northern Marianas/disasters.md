@@ -6,7 +6,7 @@
 
 Typhoon Bavi swept across the Northern Mariana Islands as a super typhoon on July 5, 2026.
 
-The storm brought heavy rainfall and violent winds. There are initial reports of flooding and significant damage. Local authorities remain under the Condition of Readiness 1, which is the highest state of emergency. The following essential services could remain severely disrupted:
+The storm brought heavy rainfall and violent winds. Rota suffered major damage and flooding. Local authorities warn that recovery could take months. The following essential services could remain severely disrupted:
 
 * transportation
 * power distribution
@@ -20,8 +20,6 @@ If you are in the affected area:
 * exercise caution
 * monitor local news and weather reports
 * follow the instructions of local authorities
-
-[Marianas Forecast Office](https://www.weather.gov/gum/) – National Weather Service
 
 ### Climate change
 

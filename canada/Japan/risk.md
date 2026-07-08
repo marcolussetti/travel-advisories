@@ -19,3 +19,7 @@ The features in this map do not constitute an authoritative source of geographic
 ### Japan - Take normal security precautions
 
 [Take normal security precautions](#levels "Risk Levels") in Japan.
+
+### Yaeyama and Miyako Islands - Avoid non-essential travel
+
+[Avoid non-essential travel](#levels "Risk Levels") to the Yaeyama and Miyako Islands in Okinawa Prefecture due to Typhoon Bavi.

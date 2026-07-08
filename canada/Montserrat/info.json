@@ -1,7 +1,7 @@
 {
     "name": "Montserrat",
-    "update_reason": "Need help? section \u2013 updated information on consular assistance",
-    "update_date": "2026-06-19T10:48:00",
+    "update_reason": "Entry and exit requirements section \u2013 added information on the online Immigration and Customs form; Laws and culture section \u2013 updated information on driving",
+    "update_date": "2026-07-07T11:25:00",
     "sections": {
         "risk": "canada/Montserrat/risk.md",
         "security": "canada/Montserrat/security.md",

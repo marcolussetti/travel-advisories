@@ -1,7 +1,7 @@
 {
     "name": "Colombia",
-    "update_reason": "Safety and security section \u2013 removed information on elections",
-    "update_date": "2026-06-30T10:15:00",
+    "update_reason": "Safety and security section \u2013 updated information on terrorism",
+    "update_date": "2026-07-07T11:17:00",
     "sections": {
         "risk": "canada/Colombia/risk.md",
         "security": "canada/Colombia/security.md",

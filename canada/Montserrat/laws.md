@@ -56,9 +56,9 @@ Be aware that Canadian consular officials cannot interfere in private legal matt
 
 Traffic drives on the left.
 
-You need a local driving permit to drive in Montserrat. You can buy the driving permit at the airport or any police station, upon presentation of a valid Canadian driver’s licence or an international driving permit.
+You need a temporary visitor’s licence to drive a car in Montserrat. You must be at least 17 years old and have a valid Canadian driver’s licence to obtain it. You can complete an online application 72 hours before you arrive or apply in person at the airport or police headquarters in Brades. The licence is valid for up to 3 months.
 
-[International Driving Permit](https://travel.gc.ca/travelling/documents/international-driving-permit)
+[Apply for a visitor's licence](https://drivers.gov.ms/visitors_licences/apply) – Government of Montserrat
 
 ### Imports and exports
 
@@ -66,7 +66,7 @@ Montserrat customs authorities may enforce strict regulations concerning tempora
 
 ### Money
 
-The currency is the East Caribbean dollar (XCD).
+The currency of Montserrat is the East Caribbean dollar (XCD).
 
 U.S. dollars are widely accepted.
 

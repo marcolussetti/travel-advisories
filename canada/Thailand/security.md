@@ -184,8 +184,6 @@ If you are victim of a sexual assault, you should seek medical attention and rep
 
 [Advice for women travellers](https://travel.gc.ca/travelling/health-safety/advice-for-women-travellers "Advice for women travellers")
 
-### 
-
 ### Water activities
 
 Deaths have occurred due to contact with poisonous jellyfish off Koh Lanta, Koh Pha Ngan, Koh Phi Phi, Krabi and Phuket.
@@ -218,12 +216,6 @@ If engaging in adventure tourism:
 * ensure that you're well informed about weather and other conditions that may pose a hazard
 * inform a family member or friend of your itinerary
 * obtain detailed information on each activity before setting out
-
-### Chemical pesticide poisoning
-
-There have been cases of poisoning linked to the use of chemical pesticides, including phosphine. Seek immediate medical assistance if you believe that you have been exposed to a chemical pesticide and are experiencing unusual symptoms.
-
-Seek information on whether or not chemical pesticides are used in your accommodations.
 
 ### Road safety
 

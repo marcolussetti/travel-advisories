@@ -1,7 +1,7 @@
 {
     "name": "Guam",
-    "update_reason": "Natural disasters and climate section \u2013 updated information on super Typhoon Bavi",
-    "update_date": "2026-07-06T12:35:00",
+    "update_reason": "Risk levels section \u2013 take normal security precautions in Guam; Natural disasters section \u2013 removed Typhoon Bavi information",
+    "update_date": "2026-07-07T17:06:00",
     "sections": {
         "risk": "canada/Guam/risk.md",
         "security": "canada/Guam/security.md",

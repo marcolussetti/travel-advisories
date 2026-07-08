@@ -1,7 +1,7 @@
 {
     "name": "Chile",
-    "update_reason": "Need help? section \u2013 updated information on consular assistance",
-    "update_date": "2026-06-23T16:19:00",
+    "update_reason": "Health \u2013 Outbreak monitoring alert for hantavirus in Chile removed",
+    "update_date": "2026-07-07T13:38:00",
     "sections": {
         "risk": "canada/Chile/risk.md",
         "security": "canada/Chile/security.md",

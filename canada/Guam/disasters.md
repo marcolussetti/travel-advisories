@@ -2,27 +2,6 @@
 
 ## Natural disasters and climate
 
-### Typhoon Bavi
-
-Typhoon Bavi swept across Guam as a super typhoon on July 5, 2026.
-
-The storm brought heavy rainfall and violent winds. There are initial reports of flooding and significant damage. Local authorities remain under the Condition of Readiness 1, which is the highest state of emergency. The following essential services could remain severely disrupted:
-
-* transportation
-* power distribution
-* water and food supply
-* telecommunications networks
-* emergency services
-* medical care
-
-If you are in the affected area:
-
-* exercise caution
-* monitor local news and weather reports
-* follow the instructions of local authorities
-
-[Guam Forecast Office](https://www.weather.gov/gum/) – National Weather Service
-
 ### Climate change
 
 Climate change is affecting Guam. Extreme and unusual weather events are becoming more frequent and may affect your travel plans. Monitor local media for the latest information.

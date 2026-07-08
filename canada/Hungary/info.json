@@ -1,7 +1,7 @@
 {
     "name": "Hungary",
-    "update_reason": "Entry and exit requirements section \u2013 added information on the European Travel Information and Authorization System (ETIAS); updated information on the Schengen area",
-    "update_date": "2026-07-03T13:25:00",
+    "update_reason": "Health \u2013 Outbreak monitoring alert for hepatitis A in Hungary removed",
+    "update_date": "2026-07-07T08:54:00",
     "sections": {
         "risk": "canada/Hungary/risk.md",
         "security": "canada/Hungary/security.md",

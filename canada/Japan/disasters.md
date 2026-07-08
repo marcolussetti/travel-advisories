@@ -2,6 +2,27 @@
 
 ## Natural disasters and climate
 
+### Typhoon Bavi
+
+Typhoon Bavi is expected to pass through the Yaeyama and Miyako Islands on July 10, 2026.
+
+The storm is likely to bring excessive rainfall and violent winds. It may cause flash flooding and landslides and could severely disrupt the following essential services:
+
+* transportation
+* power distribution
+* water and food supply
+* telecommunications networks
+* emergency services
+* medical care
+
+Avoid non-essential to the Yaeyama and Miyako Islands. If you are in the affected area:
+
+* exercise caution
+* monitor local news and weather reports
+* follow the instructions of local authorities
+
+[Japan Meteorological Agency](http://www.jma.go.jp/jma/indexe.html)
+
 ### Climate change
 
 Climate change is affecting Japan. Extreme and unusual weather events are becoming more frequent and may affect your travel plans. Monitor local news to stay informed on the current situation.

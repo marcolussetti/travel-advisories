@@ -10,31 +10,6 @@ This section has information and advice about health risks you might face when t
 
 It's best to talk to a healthcare provider or visit a travel health clinic preferably 6 weeks before your trip to get personalized health advice. Even if your travel date is coming up soon, it's still worthwhile to make an appointment.
 
-### Outbreak Monitoring
-
-#### Hepatitis A in Hungary
-
-There is an outbreak of hepatitis A in Hungary. Most cases have been reported from Budapest, but other regions have been affected as well.
-
-Hepatitis A is a liver disease caused by the hepatitis A virus. It’s most commonly spread when someone eats food or drinks water that contains the virus, but it can also be spread from person to person.
-
-[Causes of hepatitis A](https://www.canada.ca/en/public-health/services/diseases/hepatitis-a/causes.html)
-
-The best way to prevent hepatitis A is to get vaccinated. Discuss the benefits of getting vaccinated with a health care provider before you travel, preferably about 6 weeks before your departure date. Even if your travel date is coming up soon, it's still worthwhile to make an appointment.
-
-In addition to vaccination, you can reduce your risk of getting hepatitis A by taking the following precautions: 
-
-* Wash your hands often, especially before preparing or eating food
-* Take food and water precautions
-* Practise safer sex methods
-
-**Learn more:**  
-[Sexual health and travel](https://www.canada.ca/en/public-health/services/diseases/sexually-transmitted-infections.html)  
-[How to prevent hepatitis A](https://www.canada.ca/en/public-health/services/diseases/hepatitis-a/prevention.html#a1)  
-[Eat and drink safely abroad](https://travel.gc.ca/travelling/health-safety/food-water)  
-[Hepatitis A - Who is most at risk](https://www.canada.ca/en/public-health/services/diseases/hepatitis-a/risks.html#a2)  
-[Clean your hands to help reduce the spread of infectious diseases](https://www.canada.ca/en/public-health/services/healthy-living/hand-hygiene.html)
-
 ### Routine vaccines
 
 Make sure your routine vaccinations are up-to-date before you travel, no matter where you’re going.
