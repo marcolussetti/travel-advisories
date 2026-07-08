@@ -1,11 +1,11 @@
 {
     "name": "St Helena, Ascension and Tristan da Cunha",
-    "update_reason": "Updated information about payment methods in Tristan de Cunha (see \u2018Money\u2019 on \u2018Safety and security\u2019 page).",
+    "update_reason": "CORRECTION: Updated information about payment methods in Tristan da Cunha (see \u2018Money\u2019 on \u2018Safety and security\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/St Helena, Ascension and Tristan da Cunha/Warnings and insurance.md",
-            "update_date": "2026-07-06T15:14:41+01:00"
+            "update_date": "2026-07-07T11:04:38+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/St Helena, Ascension and Tristan da Cunha/Getting help.md"
         }
     ],
-    "update_date": "2026-07-06T15:14:41+01:00"
+    "update_date": "2026-07-07T11:04:38+01:00"
 }

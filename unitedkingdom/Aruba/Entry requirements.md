@@ -42,12 +42,8 @@ There are strict rules about goods you can take into or out of Aruba. You must d
 
 If you’re travelling through Aruba, you need to fill in the [embarkation/disembarkation card](https://edcardaruba.aw/).
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/aruba)
+[Previous:Warnings and insurance](/foreign-travel-advice/aruba)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/aruba/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/aruba/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/aruba/print)

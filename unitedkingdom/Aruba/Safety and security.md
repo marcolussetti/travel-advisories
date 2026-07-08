@@ -63,12 +63,8 @@ The hurricane season in the Caribbean normally runs from June to November. Most 
 
 Monitor local news and check the [World Meteorological Organization weather reports for Curaçao and St Maarten](https://worldweather.wmo.int/en/country.html?countryCode=181) and [US National Hurricane Center](https://www.nhc.noaa.gov/).
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/aruba/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/aruba/entry-requirements)
 
-[Next
-:
-Health](/foreign-travel-advice/aruba/health)
+[Next:Health](/foreign-travel-advice/aruba/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/aruba/print)

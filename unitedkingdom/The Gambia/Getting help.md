@@ -54,8 +54,6 @@ Follow FCDO:
 * [travel advice on Facebook](https://www.facebook.com/FCDOTravel/)
   \*[FCDO]: Foreign, Commonwealth & Development Office
 
-[Previous
-:
-Health](/foreign-travel-advice/the-gambia/health)
+[Previous:Health](/foreign-travel-advice/the-gambia/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/the-gambia/print)

@@ -1,11 +1,11 @@
 {
     "name": "The Gambia",
-    "update_reason": "New information about dual nationals returning to the UK (\u2018Entry requirements\u2019 page).",
+    "update_reason": "Updated information about flooding and addition of information about power shortages and preparing for power cuts ('Safety and security' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/The Gambia/Warnings and insurance.md",
-            "update_date": "2025-12-10T13:50:28+00:00"
+            "update_date": "2026-07-07T11:18:39+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/The Gambia/Getting help.md"
         }
     ],
-    "update_date": "2025-12-10T13:50:28+00:00"
+    "update_date": "2026-07-07T11:18:39+01:00"
 }

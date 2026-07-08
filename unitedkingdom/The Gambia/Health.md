@@ -47,18 +47,12 @@ Medical facilities in The Gambia are very limited and the cost of medical evacua
 
 FCDO has a [list of medical providers in The Gambia](https://www.gov.uk/government/publications/list-of-medical-practitioners-and-facilities) where some staff will speak English.
 
-There is also [guidance on healthcare if you’re living in The Gambia](https://www.gov.uk/government/publications/living-in-the-gambia).
-
 ## Travel and mental health
 
 Read [FCDO guidance on travel and mental health](https://www.gov.uk/guidance/foreign-travel-advice-for-people-with-mental-health-issues). There is also [mental health guidance on TravelHealthPro](https://travelhealthpro.org.uk/factsheet/85/travelling-with-mental-health-conditions).
 
-[Previous
-:
-Safety and security](/foreign-travel-advice/the-gambia/safety-and-security)
+[Previous:Safety and security](/foreign-travel-advice/the-gambia/safety-and-security)
 
-[Next
-:
-Getting help](/foreign-travel-advice/the-gambia/getting-help)
+[Next:Getting help](/foreign-travel-advice/the-gambia/getting-help)
 
 [View a printable version of the whole guide](/foreign-travel-advice/the-gambia/print)

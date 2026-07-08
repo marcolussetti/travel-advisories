@@ -1,11 +1,11 @@
 {
     "name": "Aruba",
-    "update_reason": "New information about dual nationals returning to the UK (\u2018Entry requirements\u2019 page).",
+    "update_reason": "This travel advice was reviewed for accuracy and there are no significant updates.",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Aruba/Warnings and insurance.md",
-            "update_date": "2025-12-10T12:56:52+00:00"
+            "update_date": "2026-07-07T14:03:43+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Aruba/Getting help.md"
         }
     ],
-    "update_date": "2025-12-10T12:56:52+00:00"
+    "update_date": "2026-07-07T14:03:43+01:00"
 }

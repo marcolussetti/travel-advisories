@@ -127,14 +127,26 @@ Find out what you can do to prepare for and respond to [extreme weather and natu
 
 ### Flooding
 
-Localised flooding can occur during the rainy season, which runs from June to October.
+Localised flooding can occur during the rainy season, which runs from June to October. During the rainy season, heavy rain and storms can also cause disruption to roads and other infrastructure. Some routes may become difficult or impassable at short notice and fallen trees or debris may affect travel. Monitor local weather updates, follow the advice of local authorities, and allow extra time for journeys.
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/the-gambia/entry-requirements)
+### Power shortages
 
-[Next
-:
-Health](/foreign-travel-advice/the-gambia/health)
+Local and nationwide power cuts can occur which may disrupt water supplies, communications and other basic services. You should be prepared for possible disruption and monitor local media for updates.
+
+### Preparing for power cuts
+
+To prepare for long power cuts:
+
+* write down emergency contact numbers
+* plan how you’ll let relatives and friends know where you are
+* carry a power bank with extra charging cables
+* carry a torch or other portable lighting
+* ensure you have enough medicine and first aid supplies
+* identify nearby safe places that may have back-up power such as hotels, hospitals and police stations, in case you need help
+* read our advice [If you are affected by a crisis abroad](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas)
+
+[Previous:Entry requirements](/foreign-travel-advice/the-gambia/entry-requirements)
+
+[Next:Health](/foreign-travel-advice/the-gambia/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/the-gambia/print)
