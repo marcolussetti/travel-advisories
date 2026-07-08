@@ -18,7 +18,7 @@ Alcohol is illegal in Iran. Alcoholic drinks available in Iran are unregulated a
 
 It is illegal to import pork or pork products into Iran.
 
-It is illegal to use drones in Iran without authorisation.
+It is illegal to use drones in Iran without authorisation. It is strongly recommended not to use drones in Iran, even if they have been registered with the authorities.
 
 You will need permission from the Iranian authorities to bring in a range of electronic equipment, including: satellite phones; GPS trackers; and walkie-talkies.
 
@@ -26,7 +26,7 @@ You will need permission from the Iranian authorities to bring in a range of ele
 
 Iran is an Islamic Republic and Islamic practices and beliefs are closely adhered to in the country's customs, laws, and regulations. Common sense and discretion should be exercised in dress and behaviour. You may be approached by members of the security services if they deem your clothing not to be in compliance with local law.
 
-Islamic codes of behaviour and dress are strictly enforced. Visitors are therefore advised to dress conservatively. Men should not wear shorts or sleeveless shirts; women are obliged to cover their head with a scarf (hijab), wear long trousers and sleeves and to conceal the body’s contours by wearing a loose-fitting knee-length outer garment.
+Islamic codes of behaviour and dress are enforced. Visitors are therefore advised to dress conservatively. Men should not wear shorts or sleeveless shirts; women are obliged to cover their head with a scarf (hijab), wear long trousers and sleeves and to conceal the body’s contours by wearing a loose-fitting knee-length outer garment.
 
 There are additional dress requirements at certain religious sites. Women may be asked to put on a chador (a garment that covers the whole body except the face), before entering.
 
@@ -56,6 +56,6 @@ Be aware that using a laptop or other electronic equipment in public places can 
 
 ### **Money**
 
-You can not use international bank cards (debit or credit) in Iran. Usually it is not possible to change travellers’ cheques. You should therefore bring enough hard currency (Euro or US dollars) with you to fund your stay.
+You can not use international bank cards (debit or credit) in Iran. Usually it is not possible to change travellers’ cheques. You should therefore bring enough hard currency (Euro or US Dollars) with you to fund your stay.
 
 Due to international sanctions, banks may stop transactions that they suspect are associated with Iran and take action against customers who they believe are making payments to Iran-based entities. This could result in you losing access to banking services.

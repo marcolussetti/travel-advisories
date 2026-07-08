@@ -6,7 +6,7 @@ Do Not Travel.
 
 ### **Travel Alert**
 
-**The Department of Foreign Affairs and Trade strongly advises against all travel to Palestine. Irish citizens currently in Palestine should shelter in place, minimise unnecessary movement, and follow the advice and guidance of local authorities. Stay away from all military facilities.**
+**The Department of Foreign Affairs and Trade advise against travel to the West Bank, with the exception of East Jerusalem, Bethlehem and Ramallah, where we advise against non-essential travel.**
 
 **Irish citizens currently in Palestine in need of consular assistance can contact the Representative Office of Ireland, Ramallah on +972 369 64166. If you have not already done so you are asked to register on the Department’s Citizens Registration platform** [**here**](https://www.ireland.ie/en/dfa/overseas-travel/citizens-registration/)**.**
 

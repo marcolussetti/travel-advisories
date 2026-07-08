@@ -8,8 +8,6 @@ A duty officer will respond as soon as possible. Phone lines and email are monit
 
 Please be aware that we are limited in the help we can offer in an emergency.
 
-Due to the ongoing security situation in Iran, Embassy staff have temporarily relocated, but continue to provide consular assistance remotely.
-
 ### Embassy of Ireland, Tehran
 
 **320-324 Ferdowsi Avenue**

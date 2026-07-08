@@ -1,6 +1,6 @@
 ## Entry requirements
 
-**The Department of Foreign Affairs and Trade continues to advise against all travel to Iran for Irish citizens. The specific advice below may be relvant to citizens who are already in the country.**
+**The Department of Foreign Affairs and Trade continues to advise against all travel to Iran for Irish citizens. The specific advice below may be relevant to citizens who are already in the country.**
 
 ### **Visa**
 

@@ -8,17 +8,17 @@ Do Not Travel
 
 #### **Do not travel to Iran.**
 
-**A ceasefire between the US/Israel and Iran is currently in place. However, the security situation remains highly volatile. Hostilities including airstrikes on cities and key infrastructure could resume at any time and the situation may deteriorate rapidly and without warning. Irish citizens who are in Iran should leave the country overland if it is safe to do so and if they have the correct entry permission for a neighbouring country.**
+**Irish citizens who are in Iran are strongly advised to leave the country. Irish citizens who are outside Iran should not travel there under any circumstances.**
 
-**The Travel Advice for neighbouring countries is here:** [**Türkiye**](https://www.ireland.ie/en/dfa/overseas-travel/advice/turkiye/)**;** [**Armenia**](https://www.ireland.ie/en/dfa/overseas-travel/advice/armenia/)**;** [**Azerbaijan**](https://www.ireland.ie/en/dfa/overseas-travel/advice/azerbaijan/)**;** [**Turkmenistan**](https://www.ireland.ie/en/dfa/overseas-travel/advice/turkmenistan/)**. Please advise the Embassy of Ireland if you plan to leave Iran to ensure that you have the appropriate entry permission (see contact details below).**
+**A ceasefire between the US/Israel and Iran is currently in place. The security situation remains highly volatile, and there have been airstrikes against targets in Iran in recent weeks. More widespread hostilities, including airstrikes on cities and key infrastructure, could resume at short notice.**
 
-**Citizens who remain in Iran should stay vigilant, limiting non-essential movement. Irish citizens should also avoid military and security force installations, as well as Iranian energy infrastructure including power plants and oil and gas facilities. You should be prepared to shelter in place for an extended period. Make sure you have adequate supplies of water, food and medication (if required).**
+**Irish citizens should stay vigilant and avoid all protests and large gatherings. Irish citizens are also strongly advised to stay away from military, government, security, energy, and communications infrastructure. Irish citizens should also not take photographs or videos of sensitive sites, security incidents, military activity or any sites related to the recent conflicts.**
 
-**Communications in Iran are severely disrupted at present, with possible further disruptions to internet, phone and SMS services.**
+**Communications in Iran are disrupted at present, including restrictions on internet services.**
 
-In addition, foreign travellers - including Irish citizens - in Iran are at risk of arbitrary detention by the Iranian authorities, including on charges of espionage. There has been an increase in the number of detentions of foreign nationals recently.
+Foreign nationals, including Irish citizens, face a risk of arbitrary arrest and detention in Iran, including on charges of espionage. The risk may be higher during periods of heightened tension or following security incidents.
 
-If citizens remain in Iran against the advice of the Department of Foreign Affairs and Trade, they should ensure their personal documents, and those of their family members - including passports and visas - are up-to-date.
+If citizens remain in Iran against the advice of the Department of Foreign Affairs and Trade, they should ensure their personal documents, and those of their family members - including passports and visas are up to date.
 
 Irish citizens in Iran should register with the Department via the [**Citizens Registration**](https://www.ireland.ie/en/dfa/overseas-travel/citizens-registration/) facility if they have not already done so.
 
@@ -30,13 +30,11 @@ A duty officer will respond as soon as possible. Phone lines and email are monit
 
 Please be aware that we are very limited in the help we can offer in an emergency.
 
-Due to the ongoing security situation in Iran, Embassy staff have temporarily relocated, but continue to provide consular assistance remotely.
-
 ### **General Travel Advice**
 
 **The Department of Foreign Affairs and Trade continues to strongly advise against all travel to Iran at this time due to the security situation in the region, as well as the risk of arbitrary arrest and detention of European citizens by the Iranian authorities.**
 
-Irish citizens in Iran are strongly advised to avoid any protests or large gatherings, and to avoid taking photographs, recording videos or flying drones (the latter is illegal in Iran).
+Irish citizens in Iran are strongly advised to avoid any protests or large gatherings, and to avoid taking photographs, recording videos or flying drones.
 
 There are ongoing security issues within Iran. The security situation is particularly dangerous in the provinces bordering Pakistan, Afghanistan and Iraq. However, security incidents can occur in any part of the country.
 
@@ -77,5 +75,3 @@ Alternatively, you may contact the Duty Officer at the Department of Foreign Aff
 A duty officer will respond as soon as possible. Phone lines and email are monitored regularly.
 
 Please be aware that we are limited in the help we can offer in an emergency.
-
-Due to the ongoing security situation in Iran, Embassy staff have temporarily relocated, but continue to provide consular assistance remotely.
