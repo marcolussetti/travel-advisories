@@ -49,7 +49,7 @@ As a result, Irish citizens in Kenya are urged to exercise extreme vigilance and
 * Avoid non-essential travel within 75km of the Kenya-Somalia border due to the very high risk of terrorist activity and kidnapping in the region.
 * There is an increased risk of terrorist attacks in Naivasha, Nanyuki, Meru, Narok and in coastal areas such as Lamu county and coastal areas of Tana River and Kilifi counties.
 * If travelling to Lamu Island or Manda Island, do so by air to Lamu Airport and not via road.
-* The Government of Kenya is concerned about escalating insecurity in Laikipia West. It has intensified security operations the Olmoran and Laikipia Nature Conservancy following attacks by armed bandits.
+* Visitors to Laikipia should take caution in Laikipia West, including in the Olmoran and Laikipia Nature Conservancy where there have been some previous incidents of insecurity and where there may be government security operations.
 * The Nairobi suburbs of Buruburu, Eastleigh, Kasarani, Kibera, Mathare, Pangani, South B and South C have high rates of crime.
 * Incidents of violent crime are high throughout Kenya, including robberies, carjacking, and kidnapping. We advise Irish citizens travelling to large cities such as Nairobi or Mombasa to be extra vigilant. Ask for the Irish Embassy be informed if involved in any incident where a police response is required.
 

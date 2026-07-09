@@ -48,8 +48,6 @@ France
 
 [Tel: +33 2 98 29 27 03](tel:+332 98 29 27 03)
 
-[Alt tel: +33 6 45 75 09 94](tel:+336 45 75 09 94)
-
 Email: [jeanmarc.roue@honoraryconsul.ie](mailto:jeanmarc.roue@honoraryconsul.ie)
 
 ### Honorary Consul of Ireland, Toulouse

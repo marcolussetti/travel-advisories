@@ -4,16 +4,6 @@
 
 High Degree of Caution
 
-### **Travel Alert: Ongoing Political Unrest**
-
-We currently advise against all but essential travel to the department (province) of La Paz, which includes the city of La Paz, due to roadblocks and significant protests with the potential to turn violent.
-
-Because of political unrest, many roadblocks have been set up in western Bolivia, including in the La Paz, Cochabamba, Oruro and Potosí departments/provinces. Overland travel is severely disrupted and there have been reports of violent clashes between police and protesters in some areas. If you must travel by road, first check local media reports and the website of the [Bolivia road authority](https://www.abc.gob.bo/) [BJBAE1] to see which roads are blocked. Follow the advice of local authorities, stay away from protests, and do not try to cross roadblocks.
-
-There are ongoing protests in the city of La Paz, which have the potential to turn violent. Irish citizens in La Paz should stay away from protests and follow the advice of local authorities.
-
-Any Irish citizen who is currently stuck due to a roadblock, or who requires urgent consular assistance, should contact the Irish Embassy in Buenos Aires, Argentina, using the details below.
-
 ### **General Travel Advice**
 
 Irish citizens do not require a visa to enter Bolivia.
