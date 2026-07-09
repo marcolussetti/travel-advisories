@@ -1,15 +1,27 @@
 # Warnings and insurance
 
 Still current at:
-:   24 December 2025
+:   9 July 2026
 
 Updated:
-:   23 December 2025
+:   8 July 2026
 
 Latest update:
-:   New information about crime in Taiwan (‘Safety and security’ page).
+:   New information about Typhoon Bavi ('Warnings and insurance' page).
 
 The UK does not recognise Taiwan as a state and has no diplomatic relations with Taiwan, so limited support is available to British nationals. Please refer to the [British Office in Taipei](https://www.gov.uk/world/organisations/british-office-taipei) for further information.
+
+## Typhoon Bavi
+
+Typhoon Bavi is expected to have its strongest impact on Taiwan from 10 July to 11 July.
+
+The Central Weather Administration is forecasting heavy to torrential rain, strong winds, rough seas and possible transport disruptions. The greatest rainfall risk is for central and northern Taiwan. Flash flooding and landslides are possible, particularly in mountainous areas, while coastal areas may experience large waves.
+
+Monitor official weather warnings, check transport schedules, and follow the advice of local authorities. Remain indoors during the typhoon, secure loose items, and ensure you have access to essential supplies, including food, water, medication and power banks.
+
+Our ability to offer assistance to British nationals may be limited during severe weather events.
+
+The typhoon season in Taiwan normally runs from May to November. Listen to typhoon alerts on the ICRT, BCC and PRS radio stations, and monitor the websites of the [Central Weather Administration](https://www.cwa.gov.tw/eng/) and the [Japan Meteorological Agency](http://www.jma.go.jp/en/typh/).
 
 ## Before you travel
 

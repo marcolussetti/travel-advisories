@@ -1,11 +1,11 @@
 {
     "name": "Trinidad and Tobago",
-    "update_reason": "Addition of information about State of Emergency and updated with information about the risks from terrorism ('Warnings and security' and \u2018Safety and security\u2019 pages).",
+    "update_reason": "New information about recent cases of drug-assisted robbery and sexual assault (see \u2018Drug assisted robbery and sexual assault\u2019 on the \u2018Safety and security\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Trinidad and Tobago/Warnings and insurance.md",
-            "update_date": "2026-03-06T10:24:58+00:00"
+            "update_date": "2026-07-08T11:37:37+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Trinidad and Tobago/Getting help.md"
         }
     ],
-    "update_date": "2026-03-06T10:24:58+00:00"
+    "update_date": "2026-07-08T11:37:37+01:00"
 }

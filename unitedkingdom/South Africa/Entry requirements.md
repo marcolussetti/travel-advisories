@@ -40,12 +40,14 @@ For full details about medical entry requirements and recommended vaccinations, 
 
 There are strict rules about [goods you can take into or out of South Africa](https://www.sars.gov.za/customs-and-excise/travellers/arrival-in-sa/). You must declare anything that may be prohibited or subject to tax or duty.
 
+From 1 July 2026, all travellers entering or leaving South Africa through air, land, sea and rail ports of entry are required to [submit an online traveller declaration](https://www.sars.gov.za/travellerdeclaration/) before travelling.
+
 ### Taking money into South Africa
 
-When you enter South Africa, you must declare cash:
+When you enter South Africa, you must declare cash if you are bringing:
 
-* in South African rand if you are bringing more than 25,000 rand per person
-* in other currencies if together they are worth more than 10,000 US dollars
+* more than 25,000 South African rand per person
+* other currencies  worth more than 10,000 US dollars combined
 
 [Previous:Warnings and insurance](/foreign-travel-advice/south-africa)
 

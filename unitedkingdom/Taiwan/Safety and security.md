@@ -48,7 +48,7 @@ You need a 1949 [international driving permit (IDP)](https://www.gov.uk/drivin
 
 Once in Taiwan, you will need to take your passport, IDP and a passport photograph to a local Motor Vehicles Office to get your IDP validated. Your validated IDP will last up to 12 months.
 
-If you stay longer, you will need to get a new IDP and get it validated. Or you can [exchange your UK driving licence for a Taiwan driving licence](https://www.gov.uk/guidance/living-in-taiwan#exchanging-uk-driving-licence-for-taiwan-driving-licence) at a Motor Vehicles Office. The British Office in Taipei cannot provide support on individual applications.
+If you stay longer, you will need to get a new IDP and get it validated. Or you can exchange your UK driving licence for a Taiwan driving licence at a Motor Vehicles Office. The British Office in Taipei cannot provide support on individual applications.
 
 If you do not want to exchange your UK driving licence, you can take a local driving test to get a Taiwan driving licence.
 

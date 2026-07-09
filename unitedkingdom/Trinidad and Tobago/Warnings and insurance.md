@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   7 March 2026
+:   9 July 2026
 
 Updated:
-:   6 March 2026
+:   8 July 2026
 
 Latest update:
-:   Addition of information about State of Emergency and updated with information about the risks from terrorism ('Warnings and security' and ‘Safety and security’ pages).
+:   New information about recent cases of drug-assisted robbery and sexual assault (see ‘Drug assisted robbery and sexual assault’ on the ‘Safety and security’ page).
 
 ## State of Emergency
 

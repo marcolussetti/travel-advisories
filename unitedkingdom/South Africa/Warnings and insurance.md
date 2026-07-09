@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   25 June 2026
+:   9 July 2026
 
 Updated:
-:   24 June 2026
+:   8 July 2026
 
 Latest update:
-:   New information about increased risk of protests and possible travel disruptions on and around 30 June 2026 (see ‘Political situation’ on 'Safety and security' page).
+:   New information about submitting an online traveller declaration before travelling and information about taking money into South Africa ('Entry requirements' page).
 
 ## Before you travel
 

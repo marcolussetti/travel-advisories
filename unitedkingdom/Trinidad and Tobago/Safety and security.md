@@ -43,6 +43,19 @@ Criminals may carry out attacks, ranging from the threat of violence to sexual a
 * if you’re attacked or robbed, don’t resist - criminals are often armed, and you can be seriously injured or killed
 * if you’re the victim of a violent crime, especially rape, get urgent medical help
 
+### Drug assisted robbery and sexual assault
+
+There have been reports of criminals in Trinidad and Tobago using drugs, deception and sexual solicitation, including via dating apps, to facilitate robbery and sexual assault. Victims may be lured and drugged or beaten and robbed. Incidents have occurred in bars, nightclubs, hotels and on city streets, sometimes involving groups working together.
+
+You should:
+
+* avoid accepting invitations from strangers or inviting them to your accommodation
+* take care when using dating apps
+* keep food and drinks under supervision
+* plan travel routes in advance, particularly at night
+
+If drugged, seek local medical attention as soon as possible.
+
 ### Carnival and other large-scale events
 
 Robberies and opportunistic crime may occur during the carnival period.  If you are attending a large-scale event, such as the Carnival celebrations in Trinidad, you should take sensible precautions and always be aware of your surroundings. Avoid displaying jewellery or valuable items that may attract attention of criminals. Practice caution at crowded events and have a clear plan to return home safely after attending any events.
@@ -89,8 +102,6 @@ Criminals may carry out attacks in vehicles. You can take precautions against b
 If you are planning to drive in Trinidad and Tobago, see [information on driving abroad](https://www.gov.uk/driving-abroad).
 
 You can use a UK photocard driving licence to drive in Trinidad and Tobago for up to 90 days. If you still have a paper driving licence, you may need to [update it to a photocard licence](https://www.gov.uk/exchange-paper-driving-licence) or get the [1949 version of the international driving permit (IDP)](https://www.gov.uk/driving-abroad/international-driving-permit)) as well. You’ll need an IDP if you stay longer than 90 days.
-
-Check the [licence requirements if you’re living in Trinidad and Tobago](https://www.gov.uk/guidance/living-in-trinidad-tobago#driving-licenses-and-vehicles).
 
 ### Driving standards and road conditions
 
