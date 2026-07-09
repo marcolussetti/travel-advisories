@@ -52,6 +52,34 @@ Tourist visa: not required for stays of up to 30 days
 
 Visitors who plan to stay for more than 30 days in Mongolia must register with the Office of Immigration, Naturalization and Foreign Citizens within 48 hours upon arrival.
 
+### Interprovincial travel
+
+An outbreak of Foot and Mouth Disease (FMD) is affecting parts of western and southern Mongolia.
+
+FMD mainly affects animals, but control measures may disrupt your travel plans, especially in rural regions.
+
+Mongolian authorities have introduced movement controls, quarantine measures and possible access restrictions in affected areas, including:
+
+* Bayan‑Ölgii province:
+
++ Altai, Deluun, Ölgii, Tsengel and Khovd districts (soums)
+
+* Khovd province:
+
++ Altai, Bulgan and Üyench districts (soums)
+
+* Dundgovi province:
+
++ Gurvansaikhan and Adaatsag districts (soums)
+
+Large public gatherings may also be restricted in Khovd Province.
+
+If you are in Mongolia:
+
+* avoid travel to affected areas
+* follow the instructions of local authorities, including quarantine measures
+* monitor local media for updates, as restrictions may change quickly and other areas could be affected
+
 ### Travel to and from China
 
 If you travel to Mongolia through China, or plan to transit through or travel to China from Mongolia, you must meet China’s entry and exit requirements.

@@ -73,33 +73,27 @@ Rabies is common in this destination and is carried by dogs and some wildlife, i
 
 Before you travel, talk to a health care professional about rabies vaccination. Vaccination may be recommended, particularly for people at higher risk of exposure, such as:
 
-veterinarians and wildlife workers
-
-children
-
-adventure travellers and cave explorers (spelunkers)
-
-people who will be in close contact with animals
+* veterinarians and wildlife workers
+* children
+* adventure travellers and cave explorers (spelunkers)
+* people who will be in close contact with animals
 
 While travelling:
 
-avoid contact with animals, especially dogs
-
-supervise children closely around animals
+* avoid contact with animals, especially dogs
+* supervise children closely around animals
 
 If you’re bitten or scratched by an animal:
 
-wash the wound right away with soap and clean water for about 15 minutes
-
-get medical care as soon as possible
+* wash the wound right away with soap and clean water for about 15 minutes
+* get medical care as soon as possible
 
 In this destination, treatment to prevent rabies may be limited or not available. You may need to travel to another location to receive treatment.
 
 If you get treatment to prevent rabies while outside Canada, ask for:
 
-written records of medications and vaccines administered, including when they were given, product names, and batch or lot numbers
-
-photos of the packaging and labels of any medications or vaccines given to you
+* written records of medications and vaccines administered, including when they were given, product names, and batch or lot numbers
+* photos of the packaging and labels of any medications or vaccines given to you
 
 When you return to Canada, see a health care professional as soon as possible and bring your treatment records to your appointment.
 

@@ -24,48 +24,6 @@ When travelling in this destination, you might be at risk for diseases that can 
 
 The highlights below will also tell you if your destination may require that vaccine for entering or exiting.
 
-Yellow Fever - Country Entry Requirements 
-
-[Yellow fever](https://www.canada.ca/en/public-health/services/diseases/yellow-fever.html) is a disease caused by a flavivirus from the bite of an infected mosquito.
-
-Travellers get vaccinated either because it is required to enter a country or because it is recommended for their protection.
-
-**Risk**
-
-* There is a risk of yellow fever in this country.
-
-**Country Entry Requirement\***
-
-* Proof of vaccination is required if you are coming from a country [where yellow fever occurs.](https://www.who.int/publications/m/item/countries-with-risk-of-yellow-fever-transmission-and-countries-requiring-yellow-fever-vaccination-(november-2022))
-
-**Recommendation**
-
-* Vaccination is recommended.
-* Contact a designated [Yellow Fever Vaccination Centre](https://www.canada.ca/en/public-health/services/travel-health/yellow-fever.html#select-centre) well in advance of your trip to arrange for vaccination.
-* Discuss travel plans, activities, and destinations with a health care professional.
-* [Protect yourself from mosquito bites](http://travel.gc.ca/travelling/health-safety/insect-bite).
-
-[About Yellow Fever](https://www.canada.ca/en/public-health/services/diseases/yellow-fever.html)
-
-[Yellow Fever Vaccination Centres in Canada](https://www.canada.ca/en/public-health/services/travel-health/yellow-fever.html#select-centre)  
-\* It is important to note that [country entry requirements](https://www.who.int/publications/m/item/vaccination-requirements-and-recommendations-for-international-travellers-and-malaria-situation-per-country-2022-edition) may not reflect your risk of yellow fever at your destination. It is recommended that you contact the nearest [diplomatic or consular office](http://www.international.gc.ca/protocol-protocole/reps.aspx?view=d) of the destination(s) you will be visiting to verify any additional entry requirements.
-
-Hepatitis A
-
-There is a risk of [hepatitis A](https://www.canada.ca/en/public-health/services/diseases/hepatitis-a.html) in this destination. It is a disease of the liver. People can get hepatitis A if they ingest contaminated food or water, eat foods prepared by an infectious person, or if they have close physical contact (such as oral-anal sex) with an infectious person, although casual contact among people does not spread the virus.
-
-Practise [safe food and water precautions](https://travel.gc.ca/travelling/health-safety/food-water) and wash your hands often. Vaccination is recommended for all travellers to areas where hepatitis A is present.
-
-Measles 
-
-Measles is a serious viral infection that spreads easily. It spreads through the air, and can stay in the air for up to 2 hours. You can also get measles by direct contact with an infected person or by touching a surface with the virus on it and then touching your eyes, nose, or mouth before washing your hands.
-
-Getting vaccinated is the best way to protect yourself and others from measles. In Canada, the measles vaccine is part of the routine immunization schedule. If you’re unsure whether you’re protected, talk to a healthcare provider.
-
-**Learn more:**
-
-[Measles](https://www.canada.ca/en/public-health/services/diseases/measles.html)
-
 Hepatitis B
 
 [Hepatitis B](https://www.canada.ca/en/public-health/services/diseases/hepatitis-b.html) is a risk in every destination. It is a viral liver disease that is easily transmitted from one person to another through exposure to blood and body fluids containing the hepatitis B virus.  Travellers who may be exposed to blood or other bodily fluids (e.g., through sexual contact, medical treatment, sharing needles, tattooing, acupuncture or occupational exposure) are at higher risk of getting hepatitis B.
@@ -109,38 +67,74 @@ Rabies is common in this destination and is carried by dogs and some wildlife, i
 
 Before you travel, talk to a health care professional about rabies vaccination. Vaccination may be recommended, particularly for people at higher risk of exposure, such as:
 
-veterinarians and wildlife workers
-
-children
-
-adventure travellers and cave explorers (spelunkers)
-
-people who will be in close contact with animals
+* veterinarians and wildlife workers
+* children
+* adventure travellers and cave explorers (spelunkers)
+* people who will be in close contact with animals
 
 While travelling:
 
-avoid contact with animals, especially dogs
-
-supervise children closely around animals
+* avoid contact with animals, especially dogs
+* supervise children closely around animals
 
 If you’re bitten or scratched by an animal:
 
-wash the wound right away with soap and clean water for about 15 minutes
-
-get medical care as soon as possible
+* wash the wound right away with soap and clean water for about 15 minutes
+* get medical care as soon as possible
 
 In this destination, treatment to prevent rabies may be limited or not available. You may need to travel to another location to receive treatment.
 
 If you get treatment to prevent rabies while outside Canada, ask for:
 
-written records of medications and vaccines administered, including when they were given, product names, and batch or lot numbers
-
-photos of the packaging and labels of any medications or vaccines given to you
+* written records of medications and vaccines administered, including when they were given, product names, and batch or lot numbers
+* photos of the packaging and labels of any medications or vaccines given to you
 
 When you return to Canada, see a health care professional as soon as possible and bring your treatment records to your appointment.
 
 **Learn more:**  
 [Rabies: Symptoms and treatment](https://www.canada.ca/en/public-health/services/diseases/rabies.html)
+
+Yellow Fever - Country Entry Requirements 
+
+[Yellow fever](https://www.canada.ca/en/public-health/services/diseases/yellow-fever.html) is a disease caused by a flavivirus from the bite of an infected mosquito.
+
+Travellers get vaccinated either because it is required to enter a country or because it is recommended for their protection.
+
+**Risk**
+
+* There is a risk of yellow fever in this country.
+
+**Country Entry Requirement\***
+
+* Proof of vaccination is required if you are coming from a country [where yellow fever occurs.](https://www.who.int/publications/m/item/countries-with-risk-of-yellow-fever-transmission-and-countries-requiring-yellow-fever-vaccination-(november-2022))
+
+**Recommendation**
+
+* Vaccination is recommended.
+* Contact a designated [Yellow Fever Vaccination Centre](https://www.canada.ca/en/public-health/services/travel-health/yellow-fever.html#select-centre) well in advance of your trip to arrange for vaccination.
+* Discuss travel plans, activities, and destinations with a health care professional.
+* [Protect yourself from mosquito bites](http://travel.gc.ca/travelling/health-safety/insect-bite).
+
+[About Yellow Fever](https://www.canada.ca/en/public-health/services/diseases/yellow-fever.html)
+
+[Yellow Fever Vaccination Centres in Canada](https://www.canada.ca/en/public-health/services/travel-health/yellow-fever.html#select-centre)  
+\* It is important to note that [country entry requirements](https://www.who.int/publications/m/item/vaccination-requirements-and-recommendations-for-international-travellers-and-malaria-situation-per-country-2022-edition) may not reflect your risk of yellow fever at your destination. It is recommended that you contact the nearest [diplomatic or consular office](http://www.international.gc.ca/protocol-protocole/reps.aspx?view=d) of the destination(s) you will be visiting to verify any additional entry requirements.
+
+Hepatitis A
+
+There is a risk of [hepatitis A](https://www.canada.ca/en/public-health/services/diseases/hepatitis-a.html) in this destination. It is a disease of the liver. People can get hepatitis A if they ingest contaminated food or water, eat foods prepared by an infectious person, or if they have close physical contact (such as oral-anal sex) with an infectious person, although casual contact among people does not spread the virus.
+
+Practise [safe food and water precautions](https://travel.gc.ca/travelling/health-safety/food-water) and wash your hands often. Vaccination is recommended for all travellers to areas where hepatitis A is present.
+
+Measles 
+
+Measles is a serious viral infection that spreads easily. It spreads through the air, and can stay in the air for up to 2 hours. You can also get measles by direct contact with an infected person or by touching a surface with the virus on it and then touching your eyes, nose, or mouth before washing your hands.
+
+Getting vaccinated is the best way to protect yourself and others from measles. In Canada, the measles vaccine is part of the routine immunization schedule. If you’re unsure whether you’re protected, talk to a healthcare provider.
+
+**Learn more:**
+
+[Measles](https://www.canada.ca/en/public-health/services/diseases/measles.html)
 
 Polio 
 
@@ -262,18 +256,6 @@ A vaccine for the prevention of chikungunya is approved in Canada. Talk to your 
 
 [Chikungunya](https://www.canada.ca/en/public-health/services/diseases/chikungunya.html)
 
-Dengue 
-
-* In this country, risk of dengue is sporadic. It is a viral disease spread to humans by mosquito bites.
-* Dengue can cause flu-like symptoms. In some cases, it can lead to severe dengue, which can be fatal.
-* The level of risk of dengue changes seasonally, and varies from year to year. The level of risk also varies between regions in a country and can depend on the elevation in the region.
-* Mosquitoes carrying dengue typically bite during the daytime, particularly around sunrise and sunset.
-* Protect yourself from mosquito bites. There is no vaccine or medication available in Canada to prevent dengue.
-
-**Learn more:**  
-[Dengue](https://www.canada.ca/en/public-health/services/infectious-diseases/viral-haemorrhagic-fevers/dengue-fever.html)  
-[Insect bite and pest prevention](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html)
-
 Onchocerciasis
 
 Onchocerciasis, also called river blindness, can occur in this destination. The risk is low for most travellers, but increases for people who stay for long periods, especially in rural regions near fast-moving rivers and streams where blackflies live.
@@ -286,6 +268,18 @@ There is no vaccine or medication to prevent onchocerciasis.
 
 **Learn more:**  
 [Onchocerciasis](https://www.who.int/news-room/fact-sheets/detail/onchocerciasis)  
+[Insect bite and pest prevention](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html)
+
+Dengue 
+
+* In this country, risk of dengue is sporadic. It is a viral disease spread to humans by mosquito bites.
+* Dengue can cause flu-like symptoms. In some cases, it can lead to severe dengue, which can be fatal.
+* The level of risk of dengue changes seasonally, and varies from year to year. The level of risk also varies between regions in a country and can depend on the elevation in the region.
+* Mosquitoes carrying dengue typically bite during the daytime, particularly around sunrise and sunset.
+* Protect yourself from mosquito bites. There is no vaccine or medication available in Canada to prevent dengue.
+
+**Learn more:**  
+[Dengue](https://www.canada.ca/en/public-health/services/infectious-diseases/viral-haemorrhagic-fevers/dengue-fever.html)  
 [Insect bite and pest prevention](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html)
 
 ### Animal precautions
@@ -306,19 +300,6 @@ To reduce your risk of getting sick:
 
 Make sure to closely watch children; they are more likely to try to touch animals.
 
-Lassa fever 
-
-Lassa fever is a risk in this country. The risk is low for most travellers.
-
-The virus that causes Lassa fever is primarily spread by a rat found in parts of West Africa. People can become sick if they have direct contact with infected rats or after inhaling or touching the feces, urine, or saliva of infected rats. Infection can also occur through contact with the blood or body fluids of infected people or by exposure to contaminated food or household items. Most people who are infected have mild illness or no symptoms, but some can become very sick and need hospital care.
-
-To protect yourself from Lassa fever, avoid rats, keep food in rat-proof containers, maintain a clean living space, and don’t eat or handle rats.
-
-There is no vaccine to prevent Lassa fever, but supportive care and treatment can be effective.
-
-**Learn more:**  
-[Lassa fever](https://www.canada.ca/en/public-health/services/diseases/lassa-fever.html)
-
 Mpox
 
 [Mpox (monkeypox)](https://www.canada.ca/en/public-health/services/diseases/mpox.html) is a risk in this country. It is a viral disease that can cause serious illness in some circumstances. Risk is generally low for most travellers.
@@ -332,6 +313,19 @@ Mpox spreads in 3 ways:
 * through direct contact with contaminated objects such as bedding and towels, or by sharing personal objects used by an infected person
 
 Follow recommended [public health measures](https://www.canada.ca/en/public-health/services/diseases/monkeypox/risks.html#a3)and avoid contact with animals such as rodents and primates to help prevent getting or spreading the infection.
+
+Lassa fever 
+
+Lassa fever is a risk in this country. The risk is low for most travellers.
+
+The virus that causes Lassa fever is primarily spread by a rat found in parts of West Africa. People can become sick if they have direct contact with infected rats or after inhaling or touching the feces, urine, or saliva of infected rats. Infection can also occur through contact with the blood or body fluids of infected people or by exposure to contaminated food or household items. Most people who are infected have mild illness or no symptoms, but some can become very sick and need hospital care.
+
+To protect yourself from Lassa fever, avoid rats, keep food in rat-proof containers, maintain a clean living space, and don’t eat or handle rats.
+
+There is no vaccine to prevent Lassa fever, but supportive care and treatment can be effective.
+
+**Learn more:**  
+[Lassa fever](https://www.canada.ca/en/public-health/services/diseases/lassa-fever.html)
 
 ### Person-to-person infections
 

@@ -73,6 +73,6 @@ You should carry an international driving permit.
 
 ### Money
 
-The currency in Grenada is the Eastern Caribbean dollar (XCD). However, the U.S. dollar is also accepted.
+The currency of Grenada is the Eastern Caribbean dollar (XCD). However, the U.S. dollar is also accepted.
 
 ATMs are available throughout Grenada but at banks only.

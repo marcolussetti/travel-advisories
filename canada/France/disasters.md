@@ -19,7 +19,7 @@ The French government has a flood forecasting service called Vigicrues.
 
 ### Forest and maquis fires
 
-Forest and maquis fires often occur in summer, particularly on the Mediterranean coast and in Corsica.
+Forest and maquis fires often occur in summer, particularly in the south of the country and in Corsica. In recent years, due to high heat and drought conditions, the forest fire season has lengthened and broadened to cover the entire country. The risk of major fires has also increased.
 
 Heavy smoke may deteriorate the air quality in areas near active fires.
 

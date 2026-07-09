@@ -1,7 +1,7 @@
 {
     "name": "France",
-    "update_reason": "Entry and exit requirements section \u2013 added information on the European Travel Information and Authorization System (ETIAS); updated information on the Schengen area",
-    "update_date": "2026-07-03T13:15:00",
+    "update_reason": "Safety and security section \u2013 updated information on the Vigipirate plan; Natural disasters and climate section \u2013 updated information on forest and maquis fires",
+    "update_date": "2026-07-08T13:45:00",
     "sections": {
         "risk": "canada/France/risk.md",
         "security": "canada/France/security.md",

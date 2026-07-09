@@ -1,7 +1,7 @@
 {
     "name": "Japan",
-    "update_reason": "Risk levels section \u2013 avoid non-essential travel to Yaeyama and Miyako Islands in Okinawa Prefecture; Natural disasters and climate section \u2013 added information on Typhoon Bavi",
-    "update_date": "2026-07-07T17:18:00",
+    "update_reason": "Risk levels section \u2013 avoid non-essential travel to Yaeyama and Miyako Islands in Okinawa Prefecture",
+    "update_date": "2026-07-08T09:47:00",
     "sections": {
         "risk": "canada/Japan/risk.md",
         "security": "canada/Japan/security.md",

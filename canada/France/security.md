@@ -48,7 +48,7 @@ Expect heightened security measures, including:
 
 The Vigipirate plan is a set of security measures established by the French government.
 
-As part of this plan, the government maintains a 3-level public alert system for terrorism. The Vigipirate plan’s security level is currently at level 3, “urgence attentat” (“attack emergency”). Changes in the threat level are communicated online and through local and national media.
+As part of this plan, the government maintains a 3-level public alert system for terrorism. The current level is at 2, “vigilance renforcée” (“enhanced vigiliance”). Changes in the threat level are communicated online and through local and national media.
 
 #### Operation Sentinelle
 
