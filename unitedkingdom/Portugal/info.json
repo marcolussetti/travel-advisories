@@ -1,11 +1,11 @@
 {
     "name": "Portugal",
-    "update_reason": "Information about wildfires ('Warnings and insurance' page).",
+    "update_reason": "New information about attending festivals and concerts and using swimming pools and updated information about protecting yourself and your belongings, and beach safety (\u2018Safety and security\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Portugal/Warnings and insurance.md",
-            "update_date": "2026-07-03T15:57:26+01:00"
+            "update_date": "2026-07-09T14:47:36+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Portugal/Getting help.md"
         }
     ],
-    "update_date": "2026-07-03T15:57:26+01:00"
+    "update_date": "2026-07-09T14:47:36+01:00"
 }

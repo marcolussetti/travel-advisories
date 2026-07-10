@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   20 March 2026
+:   10 July 2026
 
 Updated:
-:   19 March 2026
+:   9 July 2026
 
 Latest update:
-:   Updated information about global travel impacts due to escalation in the Middle East (‘Warnings and insurance’ page).
+:   Updated information about visa extension (see ‘Visa requirements’ on the ‘Entry requirements’ page).
 
 ## Global travel impacts due to escalation in the Middle East
 
@@ -16,8 +16,8 @@ Escalation in the Middle East has caused widespread travel disruption, including
 Your travel plans may be affected, even if your destination is not in the Middle East. Before you travel:
 
 * check travel advice for any countries or territories you are transiting through
-* check for the latest updates from your airline or tour operator before travelling
-* review your travel insurance policy for coverage before you travel
+* check for the latest updates from your airline or tour operator
+* review your travel insurance policy for coverage
 * monitor local and international media for the latest information and sign up for travel advice email alerts.
 
 If you have been impacted by travel disruption and need to review your Tajik visa, contact the Tajik [Ministry of Foreign Affairs.](https://mfa.tj/en)

@@ -1,11 +1,11 @@
 {
     "name": "India",
-    "update_reason": "Addition of \u202finformation\u202fabout entry requirements for those entering from Ebola-affected regions ('Entry requirements' page).",
+    "update_reason": "New information about Electronic Overseas Citizen of India Card (e-OCI) and additional\u202finformation\u202fabout Ebola health screening and a  mandatory Self-Declaration Form for all international passengers arriving in India ('Entry requirements' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/India/Warnings and insurance.md",
-            "update_date": "2026-06-04T12:11:12+01:00"
+            "update_date": "2026-07-09T14:54:18+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/India/Getting help.md"
         }
     ],
-    "update_date": "2026-06-04T12:11:12+01:00"
+    "update_date": "2026-07-09T14:54:18+01:00"
 }

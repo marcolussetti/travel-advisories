@@ -22,7 +22,7 @@ You must have a visa to enter Tajikistan. If you arrive without a valid visa, yo
 
 If you’re entering Tajikistan on a visa, check it and carefully note the date of expiry and the number of entries permitted.
 
-Do not overstay your visa, or exceed your permitted duration of stay, even for a very short period. If you overstay your visa, you could get a fine and will not be allowed to leave Tajikistan until you get an exit visa. You can pay for an exit visa at the Ministry of Foreign Affairs Consular Office. Once you’re in Tajikistan, you can apply for a visa extension at the [Ministry of Foreign Affairs](https://old.consular.tj/visa.aspx).
+Do not overstay your visa, or exceed your permitted duration of stay, even for a very short period. If you overstay your visa, you could get a fine and will not be allowed to leave Tajikistan until you get an exit visa. You can pay for an exit visa at the Ministry of Foreign Affairs Consular Office. Once you’re in Tajikistan, you can apply for a visa extension at the [Consular Department of the Ministry of Foreign Affairs](https://consular.tj/). Most visa categories can be extended in Tajikistan. However, Tourist Visas (T visas) cannot be extended. If you are travelling on a Tourist Visa, you must leave the country before your visa expires. For further information on visa requirements and extensions, visit [Consular Department of the MFA](https://consular.tj/).
 
 Exit visas are not available at airports in Tajikistan. If you’re travelling overland, make sure you arrive at your intended border crossing in good time before your period of stay or visa expires.
 

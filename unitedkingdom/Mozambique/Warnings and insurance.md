@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   20 May 2026
+:   10 July 2026
 
 Updated:
-:   19 May 2026
+:   9 July 2026
 
 Latest update:
-:   Addition of information about fuel supplies at petrol stations ('Safety and security' page).
+:   New information about document requirements for travellers under 18 ('Entry requirements' page).
 
 ![](https://assets.publishing.service.gov.uk/media/68b6aa1b11b4ded2da19fcfe/FCDO__TA__028_-_Mozambique_Travel_Advice_Ed11__WEB_.jpg)
 

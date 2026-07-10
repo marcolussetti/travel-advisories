@@ -39,11 +39,9 @@ At Portuguese border control you may need to show:
 
 ### Staying longer than 90 days in a 180-day period
 
-If you’re visiting Portugal and need to extend your visa-free stay for exceptional reasons, such as a medical emergency, you must apply to AIMA using their [contact form (access is only available to users in Portugal)](https://contactenos.aima.gov.pt/contact-form). If you’re in Portugal with a residence permit or long-stay visa, this does not count towards your 90-day visa-free limit.
+If you’re visiting Portugal and need to extend your visa-free stay for exceptional reasons, such as a medical emergency, you must apply to AIMA using their [contact form (access is only available to users in Portugal)](https://contactenos.aima.gov.pt/contact-form). This does not apply  to you if you’re the holder of a residence permit or long stay visa.
 
-If you’re in Portugal with a residence permit or long-stay visa, this does not count towards your 90-day visa-free limit.
-
-Read about [entry processes if you live in Portugal](https://www.gov.uk/guidance/living-in-portugal#passports-and-travel).
+Read about [entry processes if you live in Portugal](https://www.gov.uk/guidance/living-in-portugal#passports-and-travel).
 
 ## New Schengen entry requirements
 

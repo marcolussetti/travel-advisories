@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   5 June 2026
+:   10 July 2026
 
 Updated:
-:   4 June 2026
+:   9 July 2026
 
 Latest update:
-:   Addition of  information about entry requirements for those entering from Ebola-affected regions ('Entry requirements' page).
+:   New information about Electronic Overseas Citizen of India Card (e-OCI) and additional information about Ebola health screening and a mandatory Self-Declaration Form for all international passengers arriving in India ('Entry requirements' page).
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 

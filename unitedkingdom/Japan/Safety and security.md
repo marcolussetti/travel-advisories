@@ -168,6 +168,12 @@ Roads are well maintained, and driving is on the left. Watch out for:
 
 Find out what you can do to [prepare for and respond to natural disasters in Japan](https://www.gov.uk/guidance/living-in-japan#natural-disasters).
 
+### Extreme Heat
+
+Japanese summers are extremely hot and humid, with temperatures often exceeding 35 degrees in July and August. High humidity often makes it feel much hotter. As a result, heat stroke and heat-related illnesses pose a significant risk during the summer months.
+
+The [Japanese Environmental Agency](https://www.wbgt.env.go.jp/en/) publishes a heat stroke index, that identifies areas have a heat stroke alert currently in effect. The [website also provides information](https://www.wbgt.env.go.jp/en/doc_prevention.php) about heat stroke, its symptoms, and practical advice on how to prevent heat-related illnesses.
+
 ### Tropical cyclones
 
 In Japan the tropical cyclone (typhoon) season is between June and December, peaking between July and September. The highest risk is in southern parts of the country. Monitor any approaching storms using [Japan Meteorological Agency forecasts](http://www.jma.go.jp/en/typh/). Follow the advice of the local authorities and emergency services, including any evacuation orders.

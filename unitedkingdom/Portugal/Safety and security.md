@@ -24,42 +24,26 @@ Strike action that causes travel disruption, including at airports, can take pla
 
 ### Protecting yourself and your belongings
 
-Crime rates are low but pickpocketing, bag-snatching and theft from holiday properties are common in major tourist areas. Foreign-registered and hire cars are often targeted by thieves. Thieves may use threats or violence. To reduce your personal risk:
+Be alert to the risk of street crime. Take care on public transport and at crowded bus and tram stops. Thieves use distraction techniques and often work in teams. Look after your passport, money and personal belongings when travelling, checking in luggage at the airport or arranging car hire.
 
-* keep sight of your belongings at all times
-* beware of thieves using distraction techniques
-* avoid carrying all your valuables together in handbags or pockets
-* leave spare cash and valuables in a safe place
-* avoid leaving items in an unattended car
+Do not carry all your valuables in one place. Keep a copy of the photo pages of your passport somewhere safe.
 
-### Public transport
+Make sure your accommodation has adequate security. Lock all doors and windows at night and when you go out. If you’re concerned about the security of your accommodation, speak to your tour operator or property owner, or contact the local police force:
 
-Pickpocketing is a risk. Take care on public transport and at busy stations and crowded bus and tram stops.
+* [Polícia de Segurança Pública (PSP)](https://www.psp.pt/Pages/onde-estamos.aspx) – the public security police force that covers cities
+* [Guarda Nacional Republicana (GNR)](http://www.gnr.pt/contactos.aspx) – the national guard that covers smaller towns and rural areas
 
-### Holiday accommodation
+### Attacks and sexual assault
 
-Check your holiday accommodation is secure. Lock all doors and windows at night and when you go out.
+Attacks including sexual assaults, are rare but do occur. The risk is highest late at night around popular nightlife locations. In an emergency, call 112.
 
-If you’re worried about security at your accommodation, speak to your tour operator or the owner, or contact the:
+Avoid splitting up from your friends, do not go off with people you don’t know and don’t let a friend walk back to their accommodation alone. Set up a group chat to keep in touch. Save the location of your accommodation on your maps app, so it’s easy to find or take a photograph of the name and address of your accommodation. For further tips and advice, see [TravelAware ‘Stick with your mates’](https://travelaware.campaign.gov.uk/#stick_with_your_mates) and [getting help if you are a victim of crime abroad](https://www.gov.uk/guidance/victim-of-crime-abroad).
 
-* [Polícia de Segurança Pública (PSP)](https://www.psp.pt/Pages/onde-estamos.aspx) – the public security police force that covers cities
-* [Guarda Nacional Republicana (GNR)](http://www.gnr.pt/contactos.aspx) – the national guard that covers smaller towns and rural areas
+### Drink spiking and alcohol
 
-### Drink spiking, alcohol and sexual assault
+Be alert to the possible use of ‘date rape’ and other drugs including GHB and liquid ecstasy.
 
-Attacks or assault, including sexual assaults, are rare but do occur. The risk is highest late at night around popular nightlife locations. To reduce your personal risk:
-
-* save the location of your accommodation on your maps app, so it’s easier to find at the end of the night
-* take a photograph of the name and address of your accommodation to help you find it at the end of the night
-* set up a group chat to keep in touch with others in your group
-* keep an eye on each other’s drinks to make sure they do not get spiked
-* always use pre-arranged taxis and do not accept lifts from unmarked vehicles or with strangers
-* do not let a friend walk back to their hotel alone
-* do not give a drunk person more alcohol
-
-Alcohol and drugs can reduce your vigilance, making you less in control. If you drink, know your limit. Drinks served in bars in Portugal are often stronger than those in the UK.
-
-Report anything that does not feel right to local authorities or hotel or club management.
+Buy your own drinks and always keep them in sight to avoid them being spiked. Alcohol and drugs can reduce your vigilance, making you less in control. If you drink, know your limit. Drinks served in bars in Portugal are often stronger than those in the UK.
 
 ## Laws and cultural differences
 
@@ -83,29 +67,33 @@ Airports in Portugal have excellent technology and security for detecting illega
 
 The municipality of Albufeira has introduced a [Code of Conduct](https://www.cm-albufeira.pt/sites/default/files/RepositorioPublicacoes/2025/cma-regrascomp-regras13jun2025.pdf) which bans inappropriate behaviour in public places. Check out [the rules](https://www.cm-albufeira.pt/sites/default/files/RepositorioPublicacoes/2025/cma-regrascomp-regras13jun2025.pdf) that are now in force. If you break the rules, you could be fined on the spot from between 150 and 1800 euros.
 
-The Town Council has placed restrictions on the sale of alcohol from shops and supermarkets in certain parts of Albufeira between 11pm and 8am. For more information on the measures, including the areas affected, see [Albufeira Town Hall’s website.](https://www.cm-albufeira.pt/artigo/municipio-de-albufeira-restringe-venda-de-bebidas-alcoolicas-durante-o-periodo-noturno).
-
 ## Outdoor activities and adventure tourism
+
+### Festivals, concerts and cultural events
+
+Many large events are held in Portugal each year. Follow the advice of police and local authorities when attending events.
+
+Take care of your valuables if attending a festival or large concert. See the [festival travel checklist](https://www.gov.uk/guidance/festival-travel-checklist) for more advice.
 
 ### Beaches and swimming
 
 Every year, people drown in the sea and in swimming pools in Portugal.
 
-Take care when walking close to the water’s edge, especially along unsupervised stretches of beaches. Waves can be unpredictable and have a strong undertow. Do not:
+### Swimming pools
 
-* swim at beaches that connect to or from rivers as they can have strong undercurrents
-* swim at any beach without lifeguards
-* dive into unknown water as hidden rocks or shallow depths can cause serious injury or death
+Always supervise children. Keep small children within arms-reach in and around swimming pools, even if they can swim or there is a lifeguard present. Be particularly vigilant of children if you are staying in a villa with a private pool.
+
+### Beaches
+
+Take care when swimming in the sea. Always supervise children and keep small children within arms-reach. Don’t walk close to the water’s edge, especially along unsupervised stretches of beach. Waves can be unpredictable and some beaches have a strong undertow.
 
 Beware of rip tides, which can cause drowning. If you are caught in a rip tide, do not try to swim against it. Swim parallel to the coastline until you no longer feel the current, then try to swim towards the shore.
 
-Follow any lifeguard instructions and warning flags:
+Hidden rocks or shallow depths can cause serious injury or death. Do not dive into unknown water and do not swim at beaches where a river runs into the sea as there may be strong currents.
 
-* red means danger: do not go into the water
-* yellow means caution: you can walk in the water, but you cannot swim
-* green means it is safe to swim in the water
+Supervised beaches have a flag system. Make sure you understand the system and follow any warnings (a red flag means you must not enter the water, yellow means it’s only safe to paddle at the water’s edge). Take extra care and get local knowledge if there are no lifeguards, flags or signs.
 
-See [water safety on holiday](https://www.rlss.org.uk/safety-on-holiday) from the Royal Life Saving Society.
+See further tips on [ABTA’s swim safe pages](https://www.abta.com/tips-and-advice/staying-safe-on-holiday/swim-safe) and [Water Safety on Holiday](https://www.rlss.org.uk/safety-on-holiday) from the Royal Life Saving Society.
 
 ### Cliff erosion
 

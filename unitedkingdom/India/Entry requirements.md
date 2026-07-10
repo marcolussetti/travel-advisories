@@ -43,7 +43,7 @@ If you are a British-Pakistani dual national, you must apply for an Indian visa 
 
 ### Overseas Citizen of India (OCI) cardholders
 
-If you hold a valid Overseas Citizen of India (OCI) card, you can use this, along with your valid British passport, to visit India. You do not need a visa. If you have a Persons of Indian Origin (PIO) card, you will need to convert it to an OCI card. More information is available from the [High Commission of India](https://www.hcilondon.gov.in/page/oci-card/#:~:text=PIO%20Card%20holders%20can%20apply,%2F%2D%20plus%20VFS%20service%20charges) and the [Indian Bureau of Immigration](https://boi.gov.in/boi/).
+If you hold a valid Overseas Citizen of India (OCI) card, you can use this, along with your valid British passport, to visit India. You do not need a visa. An Electronic Overseas Citizen of India (e-OCI) was launched in June 2026 and means holders of an e-OCI card need not carry a physical copy of the card. More information is available at [Online OCI Services](https://ociservices.gov.in/onlineOCI/).
 
 ### E-arrival card
 
@@ -88,7 +88,7 @@ For full details about medical entry requirements and recommended vaccinations, 
 
 ## Ebola
 
-As a public health measure, India has introduced health screening measures, including filling in a Self-Declaration Forms. Travellers from affected regions should also be prepared to undertake temperature checks.  If you show symptoms, you may be subject to isolation, quarantine, and/or travel restrictions. Monitor local media and follow the advice of local authorities and your travel company.
+As a public health measure, India has introduced health screening measures, including completing a mandatory Self-Declaration Form for all international passengers arriving in India. The Self-Declaration Form should be completed up to 24 hours before arrival through the [Air Suvidha Portal](https://airsuvidha.civilaviation.gov.in/). If you don’t complete the form before you arrive, expect delays. Travellers from affected regions should also be prepared to undertake temperature checks. If you show symptoms, you may be subject to isolation, quarantine, and/or travel restrictions. Monitor local media and follow the advice of the airlines you are travelling with, local authorities and your travel company.
 
 The World Health Organisation (WHO) has [declared this a Public Health Emergency of International Concern](https://www.who.int/news/item/17-05-2026-epidemic-of-ebola-disease-in-the-democratic-republic-of-the-congo-and-uganda-determined-a-public-health-emergency-of-international-concern).
 

@@ -20,6 +20,10 @@ You need at least 2 blank pages for entry stamps.
 
 When returning to the UK, British citizens must carry a valid [British passport](https://www.gov.uk/browse/abroad/passports) or [certificate of entitlement](https://www.gov.uk/right-of-abode/apply-for-a-certificate-of-entitlement). See [Dual citizenship](https://www.gov.uk/dual-citizenship).
 
+## Travellers under 18
+
+If you’re entering Mozambique with a child under the age of 18, you will need to present an unabridged birth certificate listing both parents. Where the child is travelling with one parent, or without either parent, a notarised parental consent affidavit (not older than three months) is required.
+
 ## Visa requirements
 
 You can [travel without a visa to Mozambique](https://www.mozambiquehighcommission.org.uk/visa-section.html) for tourism or business for up to 30 days but the Mozambican authorities request you apply for an Electronic Travel Authorisation (ETA) at least 48 hours before departure. You can [apply through the Mozambique eVisa official portal](https://evisa.gov.mz/).

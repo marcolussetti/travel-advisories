@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   4 July 2026
+:   10 July 2026
 
 Updated:
-:   3 July 2026
+:   9 July 2026
 
 Latest update:
-:   Information about wildfires ('Warnings and insurance' page).
+:   New information about attending festivals and concerts and using swimming pools and updated information about protecting yourself and your belongings, and beach safety (‘Safety and security’ page).
 
 This travel advice also covers Madeira, Porto Santo and the Azores.
 

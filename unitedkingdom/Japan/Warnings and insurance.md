@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   9 June 2026
+:   10 July 2026
 
 Updated:
-:   8 June 2026
+:   9 July 2026
 
 Latest update:
-:   Removal of information about Tsunami advisory following earthquake in the Philippines ('Warning and insurance' page).
+:   Addition of information about extreme heat (see ‘Extreme weather and natural disasters' on the ‘Safety and security' page).
 
 ## Global travel impacts due to escalation in the Middle East
 

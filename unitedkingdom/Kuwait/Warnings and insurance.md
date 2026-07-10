@@ -1,17 +1,17 @@
 # Warnings and insurance
 
 Still current at:
-:   4 July 2026
+:   10 July 2026
 
 Updated:
-:   3 July 2026
+:   9 July 2026
 
 Latest update:
-:   Addition of information about air quality ('Health' page).
+:   Updated information about regional tensions ('Warnings and insurance' page).
 
 ## Regional tensions
 
-The US and Iran have announced a memorandum of understanding in relation to the conflict in the Middle East. The situation remains unpredictable and attacks could resume at short notice.
+The US and Iran have announced a memorandum of understanding (MOU) in relation to the conflict in the Middle East. The situation remains unpredictable. Iran has carried out further attacks on Kuwait since the MOU was agreed, and could do so again at short notice.
 
 Should hostilities resume, British nationals should:
 

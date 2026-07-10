@@ -1,17 +1,17 @@
 # Warnings and insurance
 
 Still current at:
-:   19 June 2026
+:   10 July 2026
 
 Updated:
-:   18 June 2026
+:   9 July 2026
 
 Latest update:
-:   FCDO no longer advises against all but essential travel to Bahrain. Updated information about regional tensions ('Warnings and insurance' page).
+:   Updated information about regional tensions ('Warnings and insurance' page).
 
 ## Regional tensions
 
-The US and Iran have announced a memorandum of understanding in relation to the conflict in the Middle East. The situation remains unpredictable and attacks could resume at short notice.
+The US and Iran have announced a memorandum of understanding (MOU) in relation to the conflict in the Middle East. The situation remains unpredictable. Iran has carried out further attacks on Bahrain since the MOU was agreed, and could do so again at short notice.
 
 Should hostilities resume, British nationals should:
 
