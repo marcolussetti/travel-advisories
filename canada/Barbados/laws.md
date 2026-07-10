@@ -22,29 +22,18 @@ If you are a Canadian citizen, but also a citizen of Barbados, our ability to of
 
 ### Driving
 
-You need a visitor’s permit to drive in Barbados. The minimum age to apply for a visitor’s permit is 18 years old.
-
-You can obtain it upon presentation of a valid Canadian driver’s licence at:
-
-* most car rental agencies
-* the Barbados Licensing Authority office
-
-You should carry an international driving permit.
-
 Traffic drives on the left.
 
-The minimum driving age in Barbados is 16 years old for residents. If you are 70 years old or older, you are required to present a medical certificate issued by a Barbados-based doctor, in order to be able to drive.
+You can drive in Barbados with a valid Canadian driver’s licence. You should carry an International Driving Permit if your licence is not in English.
 
-The legal blood alcohol limit is 0.03% in Barbados.
-
-It is illegal to intentionally splash pedestrians when driving through puddles.
+If you are 70 years old or older, you may be required to present a medical certificate issued by a Barbados-based doctor to be able to drive.
 
 In the event of an accident, call the police and don’t move the vehicle.
 
 #### Useful links
 
-* [Online Application for Visitor’s Permit](https://www.gov.bb/Visit-Barbados/visitorpermitapplication) – Barbados government
 * [International Driving Permit](https://travel.gc.ca/travelling/documents/international-driving-permit)
+* [Foreign driving licences](https://barbadosdigital.com/articles/driving-licences#foreign-driving-licences) – Barbados Digital
 
 ### Camouflage clothing
 
