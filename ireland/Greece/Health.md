@@ -2,7 +2,7 @@
 
 ### Heat Health
 
-Exposure to excessive temperatures can cause illness such as heat stress and heat stroke. The [**Health Service Executive**](https://www.hpsc.ie/news/title-24427-en.html) has issued the following guidance for staying safe:
+Exposure to excessive temperatures can cause illness such as heat stress and heat stroke. [**The Health Service Executive**](https://healthservice.hse.ie/staff/procedures-guidelines/staying-safe-in-hot-weather/) has issued the following guidance for staying safe:
 
 * Be aware of the weather forecasts for your destination.
 * Follow any local heat-health alert advice.
@@ -23,7 +23,7 @@ A valid European Health Insurance card is essential if you are travelling to Gre
 
 If you are an Irish citizen resident in Ireland, you are entitled to get healthcare through the public system in countries of the European Union (EU), European Economic Area (EEA) or Switzerland if you become ill or injured while on a temporary stay.
 
-[**Apply for your EHIC and find out more information**](http://www.hse.ie/eng/services/list/1/schemes/EHIC/apply/).
+[**Apply for an EHIC in Ireland**](https://www2.hse.ie/services/schemes-allowances/ehic/apply/)
 
 The EHIC is not a substitute for proper travel insurance provided by a reputable insurer. It does not cover medical repatriation, ongoing medical treatment or treatment of a non-urgent nature. Some private hospitals may not accept the EHIC.
 

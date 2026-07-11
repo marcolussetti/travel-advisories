@@ -4,14 +4,6 @@
 
 High Degree of Caution
 
-### **Travel Alert**
-
-#### **Elections**
-
-Colombia will hold presidential elections on Sunday 21 June. During election periods, increased volatility in the security situation can take place. There may be a large presence of police, traffic disruptions and demonstrations. Protests can turn violent and may affect transport and travel. Citizens are advised to avoid protests and large public gatherings, and to follow guidance of local authorities.
-
-Land and river border crossings with Brazil, Ecuador, Panama, Peru and Venezuela will be closed from 6pm on 20 June until 6am on 22 June.
-
 ### **General Travel Advice**
 
 Irish citizens do not require a visa to visit Colombia for periods of up to 90 days. When entering the country, they may need to provide evidence of return or onward travel.

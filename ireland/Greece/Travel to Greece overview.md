@@ -4,6 +4,20 @@
 
 Normal Precautions
 
+### **Travel Alert**
+
+Irish citizens travelling to Greek islands, such as Zakynthos (Zante), should exercise a high degree of caution when attending events, bars, or nightclubs.
+
+The Embassy is aware of cases of drink spiking, and advises the following to reduce risk:
+
+* Do not leave drinks unattended;
+* Do not consume drinks that smell or taste odd;
+* Do not accept drinks from strangers.
+
+If you or a friend think that you have been spiked, please seek medical assistance from the Greek Police and Health Services by dialling 112.
+
+Irish citizens should note that private ambulances operate in many areas and will bring you to private health clinics, where you may be charged significant fees for medical treatment. Many of these private health clinics also do not accept private health insurance Public healthcare is readily available in Greece and can be accessed using your [**European Health Insurance Card (EHIC)**](https://www2.hse.ie/services/schemes-allowances/ehic/apply/).
+
 ### **General Travel Advice**
 
 Irish citizens need a valid passport or passport card to enter Greece.
@@ -32,7 +46,7 @@ You can also contact the emergency services in Greece using the [**mAIGreece app
 
 ### **Our Tips for Safe Travels:**
 
-* Have a valid [**European Health Insurance Card**](http://www.hse.ie/eng/services/list/1/schemes/EHIC/)
+* Have a valid [**Apply for an EHIC in Ireland**](https://www2.hse.ie/services/schemes-allowances/ehic/apply/)
 * Get **comprehensive travel insurance** that covers all planned activities including medical repatriation/evacuation, repatriation of remains and legal costs.
 * [**Register**](https://www.ireland.ie/en/dfa/overseas-travel/citizens-registration/) your details with us so that we can contact you quickly if there is an unforeseen crisis like a natural disaster or a family emergency.
 * Follow us on X [**@dfatravelwise**](https://www.twitter.com/DFATravelWise) and Instagram [**@dfatravelwise**](https://www.instagram.com/dfatravelwise/) for the latest travel updates.
