@@ -18,7 +18,10 @@ In case of a major fire:
 * follow the instructions of local authorities, including any evacuation orders
 * monitor local media for the latest information
 
-[Civil protection](https://www.proteccioncivil.es/es/inicio) – Spanish Ministry of the Interior (Spanish only)
+#### Useful links
+
+* [Fire hazard map](https://www.aemet.es/en/eltiempo/prediccion/incendios) – State Meteorological Agency (AEMET)
+* [Civil protection](https://www.proteccioncivil.es/es/inicio) – Spanish Ministry of the Interior (Spanish only)
 
 ### Flooding and landslides
 
@@ -34,7 +37,7 @@ Torrential rainfall and storms are common during the fall on the Mediterranean c
 
 Winter storms and heavy snowfall may also occur, particularly in northern and mountainous areas.
 
-[Latest weather warnings](http://www.aemet.es/en/eltiempo/prediccion/avisos) – Spanish government’s meteorological agency
+[Latest weather warnings](http://www.aemet.es/en/eltiempo/prediccion/avisos) – State Meteorological Agency (AEMET)
 
 ### Mountainous areas
 
@@ -46,7 +49,7 @@ Follow signage and take the West route (Luzaide/Valcarlos) during this period.
 
 #### Useful links
 
-* [Latest weather warnings](http://www.aemet.es/en/eltiempo/prediccion/avisos) – Spanish government’s meteorological agency
+* [Latest weather warnings](http://www.aemet.es/en/eltiempo/prediccion/avisos) – State Meteorological Agency (AEMET)
 * [Weather forecast in the Pyrenees](https://www.alurte.es/) – Pyrenees reference centre for mountain risk management (A Lurte) (Spanish only)
 * [Way of St James through Navarra](https://www.visitnavarra.es/en/you-like/way-of-st-james) – Tourism Navarra
 * [Way of St James through Galicia](https://www.turismo.gal/que-facer/camino-de-santiago?langId=en_US) – Tourism Galicia

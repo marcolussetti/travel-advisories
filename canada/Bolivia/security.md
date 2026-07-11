@@ -4,15 +4,15 @@
 
 ### State of emergency
 
-The security situation is uncertain and continues to evolve. Protests and roadblocks have interrupted fuel, food, and medical supply chains, leading to humanitarian concerns in La Paz department and other areas.
+In the spring of 2026, several weeks of protests and roadblocks interrupted fuel, food, and medical supply chains, leading to humanitarian concerns in parts of Bolivia.
 
-On June 20, 2026, a 90‑day nationwide state of emergency was declared to enable security forces to clear roadblocks and stabilize the security situation. The state of emergency does not impose a curfew nor include general restrictions on freedom of movement. Localised restrictions may be introduced in areas where security operations are underway, including limits on movement or commercial activity.
+On June 20, 2026, a 90‑day nationwide state of emergency was declared to enable security forces to clear roadblocks and stabilize the security situation. The state of emergency does not impose a curfew nor include general restrictions on freedom of movement. Localized restrictions may be introduced in areas where security operations are underway, including limits on movement or commercial activity.
 
-Avoid all protests and roadblocks, particularly around government buildings and central La Paz (including Plaza Murillo). Situations can escalate quickly and without warning.
+Although the security situation has since improved and most major transportation routes have reopened, the situation could worsen quickly and without warning. In additon, some roads may be damaged due to recent blockades. Road conditions and accessibility may change with little notice.
 
-Roadblocks on major roads and highways have largely been cleared; however, some roads may still be damaged as a result of recent blockades. Road conditions and accessibility may change with little notice.
+Avoid all protests and roadblocks, new or exisiting, particularly around government buildings and central La Paz, including Plaza Murillo.
 
-If you plan to enter Bolivia via a land border crossing, travel by road to El Alto International Airport, or within the country, particularly to destinations such as Lake Titicaca, Uyuni, Potosí or Tiwanaku, you should:
+If you plan to enter Bolivia via a land border crossing, travel by road to El Alto International Airport, or travel by road within the country, particularly to destinations such as Lake Titicaca, Uyuni, Potosí or Tiwanaku, you should:
 
 * confirm the status of your route before your departure
 * be prepared for delays, detours or disruptions

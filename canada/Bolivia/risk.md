@@ -18,12 +18,8 @@ The features in this map do not constitute an authoritative source of geographic
 
 ### Bolivia - Exercise a high degree of caution
 
-[Exercise a high degree of caution](#levels "Risk Levels") in Bolivia due to the continuing political and social tensions resulting in frequent roadblocks throughout the country.
+[Exercise a high degree of caution](#levels "Risk Levels") in Bolivia due to the possibility of demonstrations, localized roadblocks, crime, and travel disruptions related to ongoing political and social tensions.
 
 ### Chapare Region - Avoid all travel
 
-[Avoid all travel](#levels "Risk Levels") to the Chapare Region, in the department of Cochabamba, due to the unstable security situation, elevated civil unrest, anti-foreigner sentiment, potential movement restrictions and criminal activity such as drug trafficking, kidnapping and extortion.
-
-### La Paz department - Avoid non-essential travel
-
-[Avoid non-essential travel](#levels "Risk Levels") to La Paz department due to the ongoing political and social tensions resulting in widespread, potentially violent clashes and frequent roadblocks.
+[Avoid all travel](#levels "Risk Levels") to the Chapare Region, including Villa Tunari and major highway routes crossing the area, due to the unstable security situation, anti-foreigner sentiment, elevated civil unrest, restrictions on movement, and criminal activity such as drug trafficking, kidnapping and extortion.

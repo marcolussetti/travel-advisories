@@ -21,18 +21,6 @@ You should:
 
 [Canada's response to the situation in the Middle East](https://www.international.gc.ca/world-monde/issues_development-enjeux_developpement/response_conflict-reponse_conflits/crisis-crises/middle-east-moyen-orient.aspx?lang=eng)
 
-### NATO Summit in Ankara
-
-The 2026 NATO Summit will take place on July 7 and 8, 2026, in Ankara.
-
-You should expect:
-
-* heightened security measures
-* restricted access to key venues
-* disruptions to transportation, including road closures
-
-Ankara’s Esenboga International Airport is expected to implement heightened security measures around the summit, which may result in longer processing times.
-
 ### Borders with Iraq and Syria
 
 Despite counter-terrorism operations conducted by Turkish and Iraqi security forces, a risk of terrorism subsists at the border between Türkiye and Iraq. Violent attacks on sites held by terrorist groups or against Turkish and Iraqi security forces have occurred.

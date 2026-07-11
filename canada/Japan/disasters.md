@@ -4,7 +4,7 @@
 
 ### Typhoon Bavi
 
-Typhoon Bavi is expected to pass through the Yaeyama and Miyako Islands on July 10, 2026.
+Typhoon Bavi is expected to pass through the Yaeyama and Miyako Islands on July 10 and 11, 2026.
 
 The storm is likely to bring excessive rainfall and violent winds. It may cause flash flooding and landslides and could severely disrupt the following essential services:
 
@@ -15,7 +15,7 @@ The storm is likely to bring excessive rainfall and violent winds. It may cause 
 * emergency services
 * medical care
 
-Avoid non-essential to the Yaeyama and Miyako Islands. If you are in the affected area:
+If you are in the affected area:
 
 * exercise caution
 * monitor local news and weather reports

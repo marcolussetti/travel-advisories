@@ -23,11 +23,13 @@ If you decide to travel to a coastal area during the hurricane season despite th
 
 ### Flooding
 
-The rainy season extends from May to November, which sometimes extends into January.
+Heavy rains, particularly from mid-May to the end of November, can cause severe flooding, flash floods and landslides. Roads may become impassable and infrastructure may be damaged.
 
-Torrential rains and landslides occur frequently in the lowlands and mountainous areas along the Caribbean and in the Central Valley.
+Flooding from rising river levels after heavy rains can cause injuries and deaths. Even if there is no rain where you are, river levels may be impacted by rain from surrounding areas.
 
-Seasonal flooding often causes power outages.  It can also hamper overland travel and reduce the delivery of other essential services. Roads may become impassable and bridges damaged.
+* Exercise caution, particularly in areas around rivers
+* Stay informed of the latest regional weather forecasts
+* Follow the instructions of local authorities, including evacuation orders
 
 ### Earthquakes and tsunamis
 

@@ -158,7 +158,7 @@
     {
         "destination": "Bolivia",
         "risk_level": "Exercise a high degree of caution (with regional advisories)",
-        "last_updated": "2026-07-08T09:16:45",
+        "last_updated": "2026-07-10T15:30:27",
         "details_url": "https://travel.gc.ca/destinations/bolivia"
     },
     {
@@ -290,7 +290,7 @@
     {
         "destination": "Costa Rica",
         "risk_level": "Exercise a high degree of caution",
-        "last_updated": "2026-06-29T13:30:17",
+        "last_updated": "2026-07-10T16:34:21",
         "details_url": "https://travel.gc.ca/destinations/costa-rica"
     },
     {
@@ -613,8 +613,8 @@
     },
     {
         "destination": "Japan",
-        "risk_level": "Take normal security precautions (with regional advisories)",
-        "last_updated": "2026-07-08T09:47:50",
+        "risk_level": "Take normal security precautions",
+        "last_updated": "2026-07-10T13:46:59",
         "details_url": "https://travel.gc.ca/destinations/japan"
     },
     {
@@ -1172,7 +1172,7 @@
     {
         "destination": "Spain",
         "risk_level": "Exercise a high degree of caution",
-        "last_updated": "2026-07-03T14:31:37",
+        "last_updated": "2026-07-10T14:58:02",
         "details_url": "https://travel.gc.ca/destinations/spain"
     },
     {
@@ -1292,7 +1292,7 @@
     {
         "destination": "T\u00fcrkiye",
         "risk_level": "Exercise a high degree of caution (with regional advisories)",
-        "last_updated": "2026-06-30T11:45:30",
+        "last_updated": "2026-07-10T11:05:48",
         "details_url": "https://travel.gc.ca/destinations/turkiye"
     },
     {

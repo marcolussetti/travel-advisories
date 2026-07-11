@@ -26,76 +26,6 @@ When travelling in this destination, you might be at risk for diseases that can 
 
 The highlights below will also tell you if your destination may require that vaccine for entering or exiting.
 
-COVID-19
-
-COVID-19 is an infectious viral disease. Most of the time, it spreads when people are in close contact with others who are infected with the virus. It spreads through respiratory particles, or through an infected surface or object.
-
-Vaccination is one of the most important ways to protect yourself from developing serious complications from COVID-19. Talk to a healthcare provider about the COVID-19 vaccine before travelling. Evidence shows that the COVID-19 vaccines used in Canada are very effective at preventing severe illness, hospitalization and death from COVID-19.
-
-In addition to vaccination, use personal protective measures to help protect yourself and others.
-
-**Learn more :**
-
-[Vaccine for COVID-19: How to get vaccinated](https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19/vaccines/how-vaccinated.html)  
-[COVID-19: Spread, prevention and risks](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html#p)
-
-Influenza
-
- The best way to protect yourself from seasonal [influenza](https://www.canada.ca/en/public-health/services/diseases/flu-influenza.html) (flu) is to get vaccinated every year. [Get the flu shot](https://www.canada.ca/en/public-health/services/diseases/flu-influenza/get-your-flu-shot.html) at least 2 weeks before travelling.
-
- The flu occurs worldwide.
-
-* In the Northern Hemisphere, the flu season usually runs from November to   April.
-* In the Southern Hemisphere, the flu season usually runs between April and   October.
-* In the tropics, there is flu activity year round.
-
-The flu vaccine available in one hemisphere may only offer partial protection against the flu in the other hemisphere.
-
-The flu virus spreads from person to person when they cough or sneeze or by touching objects and surfaces that have been contaminated with the virus. Clean your hands often and wear a mask if you have a fever or respiratory symptoms.
-
-Malaria 
-
-[Malaria](https://www.canada.ca/en/public-health/services/diseases/malaria.html) is a serious and sometimes fatal disease that is caused by parasites spread through the bites of mosquitoes.  
-   
-**There is a risk of malaria in certain areas and/or during a certain time of year in this destination.**
-
-[Antimalarial medication may be recommended](https://www.canada.ca/en/public-health/services/catmat/appendix-1-malaria-risk-recommended-chemoprophylaxis-geographic-area.html) depending on your itinerary and the time of year you are travelling. Consult a health care professional or visit a travel health clinic before travelling to discuss your options. It is recommended to do this 6 weeks before travel, however, it is still a good idea any time before leaving.   
-   
-[Protect yourself from mosquito bites](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html) at all times: 
-
-Rabies 
-
-Rabies is common in this destination and is carried by dogs and some wildlife, including bats. Rabies is a serious disease that’s almost always fatal once symptoms appear. It's spread to humans through the saliva of infected animals, mainly through bites, but it can also be spread through scratches.
-
-Before you travel, talk to a health care professional about rabies vaccination. Vaccination may be recommended, particularly for people at higher risk of exposure, such as:
-
-* veterinarians and wildlife workers
-* children
-* adventure travellers and cave explorers (spelunkers)
-* people who will be in close contact with animals
-
-While travelling:
-
-* avoid contact with animals, especially dogs
-* supervise children closely around animals
-
-If you’re bitten or scratched by an animal:
-
-* wash the wound right away with soap and clean water for about 15 minutes
-* get medical care as soon as possible
-
-In this destination, treatment to prevent rabies may be limited or not available. You may need to travel to another location to receive treatment.
-
-If you get treatment to prevent rabies while outside Canada, ask for:
-
-* written records of medications and vaccines administered, including when they were given, product names, and batch or lot numbers
-* photos of the packaging and labels of any medications or vaccines given to you
-
-When you return to Canada, see a health care professional as soon as possible and bring your treatment records to your appointment.
-
-**Learn more:**  
-[Rabies: Symptoms and treatment](https://www.canada.ca/en/public-health/services/diseases/rabies.html)
-
 Yellow Fever - Country Entry Requirements 
 
 [Yellow fever](https://www.canada.ca/en/public-health/services/diseases/yellow-fever.html) is a disease caused by a flavivirus from the bite of an infected mosquito.
@@ -143,6 +73,81 @@ Getting vaccinated is the best way to protect yourself and others from measles. 
 **Learn more:**
 
 [Measles](https://www.canada.ca/en/public-health/services/diseases/measles.html)
+
+COVID-19
+
+COVID-19 is an infectious viral disease. Most of the time, it spreads when people are in close contact with others who are infected with the virus. It spreads through respiratory particles, or through an infected surface or object.
+
+Vaccination is one of the most important ways to protect yourself from developing serious complications from COVID-19. Talk to a healthcare provider about the COVID-19 vaccine before travelling. Evidence shows that the COVID-19 vaccines used in Canada are very effective at preventing severe illness, hospitalization and death from COVID-19.
+
+In addition to vaccination, use personal protective measures to help protect yourself and others.
+
+**Learn more :**
+
+[Vaccine for COVID-19: How to get vaccinated](https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19/vaccines/how-vaccinated.html)  
+[COVID-19: Spread, prevention and risks](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html#p)
+
+Influenza
+
+ The best way to protect yourself from seasonal [influenza](https://www.canada.ca/en/public-health/services/diseases/flu-influenza.html) (flu) is to get vaccinated every year. [Get the flu shot](https://www.canada.ca/en/public-health/services/diseases/flu-influenza/get-your-flu-shot.html) at least 2 weeks before travelling.
+
+ The flu occurs worldwide.
+
+* In the Northern Hemisphere, the flu season usually runs from November to   April.
+* In the Southern Hemisphere, the flu season usually runs between April and   October.
+* In the tropics, there is flu activity year round.
+
+The flu vaccine available in one hemisphere may only offer partial protection against the flu in the other hemisphere.
+
+The flu virus spreads from person to person when they cough or sneeze or by touching objects and surfaces that have been contaminated with the virus. Clean your hands often and wear a mask if you have a fever or respiratory symptoms.
+
+Malaria 
+
+[Malaria](https://www.canada.ca/en/public-health/services/diseases/malaria.html) is a serious and sometimes fatal disease that is caused by parasites spread through the bites of mosquitoes.  
+ 
+
+[Antimalarial medication may be recommended](https://www.canada.ca/en/public-health/services/catmat/appendix-1-malaria-risk-recommended-chemoprophylaxis-geographic-area.html) depending on your itinerary and the time of year you are travelling. Consult a health care professional or visit a travel health clinic before travelling to discuss your options. It is recommended to do this 6 weeks before travel, however, it is still a good idea any time before leaving.   
+   
+[Protect yourself from mosquito bites](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html) at all times:   
+• Cover your skin and use an [approved](https://www.canada.ca/en/health-canada/services/about-pesticides/insect-repellents.html) insect repellent on uncovered skin.   
+• Exclude mosquitoes from your living area with screening and/or closed, well-sealed doors and windows.  
+• Use insecticide-treated bed nets if mosquitoes cannot be excluded from your living area.   
+• Wear permethrin-treated clothing.   
+   
+If you develop [symptoms](https://www.canada.ca/en/public-health/services/diseases/malaria/symptoms-malaria.html) similar to malaria when you are travelling or up to a year after you return home, see a health care professional immediately. Tell them where you have been travelling or living.
+
+Rabies 
+
+Rabies is common in this destination and is carried by dogs and some wildlife, including bats. Rabies is a serious disease that’s almost always fatal once symptoms appear. It's spread to humans through the saliva of infected animals, mainly through bites, but it can also be spread through scratches.
+
+Before you travel, talk to a health care professional about rabies vaccination. Vaccination may be recommended, particularly for people at higher risk of exposure, such as:
+
+* veterinarians and wildlife workers
+* children
+* adventure travellers and cave explorers (spelunkers)
+* people who will be in close contact with animals
+
+While travelling:
+
+* avoid contact with animals, especially dogs
+* supervise children closely around animals
+
+If you’re bitten or scratched by an animal:
+
+* wash the wound right away with soap and clean water for about 15 minutes
+* get medical care as soon as possible
+
+In this destination, treatment to prevent rabies may be limited or not available. You may need to travel to another location to receive treatment.
+
+If you get treatment to prevent rabies while outside Canada, ask for:
+
+* written records of medications and vaccines administered, including when they were given, product names, and batch or lot numbers
+* photos of the packaging and labels of any medications or vaccines given to you
+
+When you return to Canada, see a health care professional as soon as possible and bring your treatment records to your appointment.
+
+**Learn more:**  
+[Rabies: Symptoms and treatment](https://www.canada.ca/en/public-health/services/diseases/rabies.html)
 
 ### Safe food and water precautions
 
@@ -218,6 +223,19 @@ A vaccine for the prevention of chikungunya is approved in Canada. Talk to your 
 
 [Chikungunya](https://www.canada.ca/en/public-health/services/diseases/chikungunya.html)
 
+Leishmaniasis – Cutaneous and mucocutaneous
+
+Cutaneous and mucocutaneous leishmaniasis can occur in this destination, though the risk is low for most travellers.
+
+The infection spreads through the bite of an infected sandfly. Cutaneous symptoms usually appear weeks or months after infection, and may include swollen lymph nodes and persistent skin sores and ulcers. Mucocutaneous symptoms can develop at the same time, or years later, causing nasal congestion, frequent nose bleeds, and sores in the nose or mouth.
+
+To lower your risk, protect yourself from sandfly bites. Sandflies are most active between sunset and sunrise in rural, forested and some urban areas.
+
+There is no vaccine or medication to prevent infection with the parasite that causes leishmaniasis.
+
+**Learn more:**   
+[Leishmaniasis](https://www.canada.ca/en/public-health/services/diseases/leishmaniasis.html)
+
 Dengue 
 
 * In this country, dengue is a risk to travellers. It is a viral disease spread to humans by mosquito bites.
@@ -250,19 +268,6 @@ American trypanosomiasis
 [American trypanosomiasis (Chagas disease)](https://www.canada.ca/en/public-health/services/diseases/chagas-disease-american-trypanosomiasis.html) is a risk in this country. It is caused by a parasite spread by infected triatomine bugs. The infection can be inactive for decades, but humans can eventually develop complications causing disability and even death.
 
 Risk is generally low for most travellers. Protect yourself from triatomine bugs, which are active at night, by using mosquito nets if staying in poorly-constructed housing. There is no vaccine available for Chagas disease.
-
-Leishmaniasis – Cutaneous and mucocutaneous
-
-Cutaneous and mucocutaneous leishmaniasis can occur in this destination, though the risk is low for most travellers.
-
-The infection spreads through the bite of an infected sandfly. Cutaneous symptoms usually appear weeks or months after infection, and may include swollen lymph nodes and persistent skin sores and ulcers. Mucocutaneous symptoms can develop at the same time, or years later, causing nasal congestion, frequent nose bleeds, and sores in the nose or mouth.
-
-To lower your risk, protect yourself from sandfly bites. Sandflies are most active between sunset and sunrise in rural, forested and some urban areas.
-
-There is no vaccine or medication to prevent infection with the parasite that causes leishmaniasis.
-
-**Learn more:**   
-[Leishmaniasis](https://www.canada.ca/en/public-health/services/diseases/leishmaniasis.html)
 
 Oropouche virus disease
 

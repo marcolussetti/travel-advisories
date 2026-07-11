@@ -1,7 +1,7 @@
 {
     "name": "Bolivia",
-    "update_reason": "Health \u2013 editorial change",
-    "update_date": "2026-07-08T09:16:00",
+    "update_reason": "Risk levels section \u2013 removed advisory to avoid non-essential travel to La Paz department; updated information on risk levels for Bolivia and Chapare region; Safety and security section \u2013 updated information on the state of emergency",
+    "update_date": "2026-07-10T15:30:00",
     "sections": {
         "risk": "canada/Bolivia/risk.md",
         "security": "canada/Bolivia/security.md",
