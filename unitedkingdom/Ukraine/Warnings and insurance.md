@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   30 May 2026
+:   11 July 2026
 
 Updated:
-:   29 May 2026
+:   10 July 2026
 
 Latest update:
-:   Updated information about dual nationals ('Warnings and insurance' page).
+:   Updated information about Russian missile and drone strikes including the addition of information on civilian casualties ('Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/663398524d8bb7378fb6c167/FCDO__TA__044_-_Ukraine_Travel_Advice_Ed12__WEB___1_.jpg)
 
@@ -58,7 +58,7 @@ FCDO advises against all but essential travel to the following regions in weste
 
 ## Russian invasion of Ukraine
 
-The Russian invasion of Ukraine is ongoing, with frequent missile and drone attacks across the country, which injure and kill civilians and cause significant damage to civilian infrastructure, including residential areas, energy, rail and industrial facilities. Russian Military activity against Ukraine has risen over the last year, with the total number of drone and missile strikes increasing. In May 2026, Russia launched the largest number of long-range drone attacks at Ukraine to date (7,241), while their missile use increased to 196. March and April 2026 saw continually high drone and missile strikes with over 6,000 drones and 100 missiles launched in these months.
+The Russian invasion of Ukraine is ongoing, with frequent missile and drone attacks across the country, which injure and kill civilians and cause significant damage to civilian infrastructure, including residential areas, energy, rail and industrial facilities. Russian Military activity against Ukraine has risen over the last year, with the total number of drone and missile strikes increasing. In May 2026, Russia launched the largest number of long-range drone attacks at Ukraine to date (7,241), while their missile use increased to 196. April, May and June 2026 saw continually high drone and missile strikes with over 6,000 drones and over 100 missiles launched in these months on average. May and June also saw the two highest monthly civilian casualty counts since April 2022, with over 2,000 casualties in each month.
 
 British nationals are advised to exercise heightened awareness and be prepared to immediately shelter in the event an air alert is announced. Be extra vigilant whilst travelling in urban centres.
 

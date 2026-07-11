@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   20 June 2026
+:   11 July 2026
 
 Updated:
-:   19 June 2026
+:   10 July 2026
 
 Latest update:
-:   New information about the introduction of a 60-day State of Emergency ('Warnings and insurance' page).
+:   Updated information on land border crossings with Colombia and Peru ('Entry requirements' page).
 
 ![](https://assets.publishing.service.gov.uk/media/65a1082ce96df50014f8452c/FCDO__TA__014_-_Ecuador_Travel_Advice_Ed5__WEB_.jpg)
 

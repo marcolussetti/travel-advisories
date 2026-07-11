@@ -58,7 +58,9 @@ All travellers entering Ecuador must register their entry and exit in the nation
 
 ### Peru and Colombia land border crossings
 
-As of 24 December 2025 only Rumichaca and Huaquillas international immigration checkpoints, at the Colombia and Peru land borders, are operating. Other checkpoints remain closed for national security reasons until further notice.
+On the northern border with Colombia, the Rumichaca checkpoint is open. On the southern border with Peru, the Huaquillas, Macará, Zapotillo, and Lalamor checkpoints are open to international travellers.
+
+Other checkpoints remain closed until further notice.
 
 If you are entering Ecuador by land from Peru or Colombia, it is essential to use an official immigration checkpoint to receive the required passport entry stamp indicating your arrival date. Some buses may bypass immigration checkpoints, which can result in travellers not receiving the necessary stamp. This can lead to serious immigration issues.
 

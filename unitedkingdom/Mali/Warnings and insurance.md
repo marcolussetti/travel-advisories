@@ -1,10 +1,10 @@
 # Warnings and insurance
 
 Still current at:
-:   11 June 2026
+:   11 July 2026
 
 Updated:
-:   10 June 2026
+:   10 July 2026
 
 Latest update:
 :   Updated information about recent terrorist attacks in Mali (‘Safety and security’ page).

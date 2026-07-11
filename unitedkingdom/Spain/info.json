@@ -1,11 +1,11 @@
 {
     "name": "Spain",
-    "update_reason": "Updated information on swimming safety for children in swimming pools and the sea ('Safety and security' page).",
+    "update_reason": "Updated information on the Almeria wildfire, including emergency numbers and family support helpline ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Spain/Warnings and insurance.md",
-            "update_date": "2026-06-26T16:35:22+01:00"
+            "update_date": "2026-07-10T12:20:06+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Spain/Getting help.md"
         }
     ],
-    "update_date": "2026-06-26T16:35:22+01:00"
+    "update_date": "2026-07-10T12:20:06+01:00"
 }

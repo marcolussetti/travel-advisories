@@ -1,11 +1,11 @@
 {
     "name": "Turkey",
-    "update_reason": "Restriction of commercial air travel at Ankara Esenboga Airport, on 7 and 8 July, because of NATO summit ('Warnings and insurance' page).",
+    "update_reason": "Removal of information about restriction of commercial air travel at Ankara Esenboga Airport.",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Turkey/Warnings and insurance.md",
-            "update_date": "2026-07-04T14:40:13+01:00"
+            "update_date": "2026-07-10T14:23:51+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Turkey/Getting help.md"
         }
     ],
-    "update_date": "2026-07-04T14:40:13+01:00"
+    "update_date": "2026-07-10T14:23:51+01:00"
 }

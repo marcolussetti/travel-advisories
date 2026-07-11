@@ -36,6 +36,7 @@ Attacks could be indiscriminate and occur at any time, including in places frequ
 
 Examples of recent significant attacks include:
 
+* on 4 July, further coordinated attacks targetting military installations were carried out across multiple cities including Anefis, Aguelhoc, Gao, Sevare and Kenioroba
 * on 25 April 2026, a series of coordinated attacks occurred in multiple locations including Kidal, Gao, Kati, Severe and in the vicinity of Bamako International Airport (leading to the airport’s temporary closure)
 * since September 2025, there has been an increase in attacks targeting fuel convoys in Mali, particularly in southern and western Mali
 * in June 2025, JNIM claimed to kill more than 150 soldiers, in multiple attacks targeting military bases in Boulkessi, Timbuktu and Mahou
