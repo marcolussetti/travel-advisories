@@ -8,7 +8,7 @@ Learn about what you should do and how we can help if you are [arrested or detai
 
 The Protocol to the Antarctic Treaty on Environmental Protection—the Madrid Protocol—designates Antarctica as a natural reserve with established protected areas. Not owned by any one country, Antarctica is the site of environmental preservation efforts and scientific research.
 
-Canada has implemented the Madrid Protocol into Canadian law with the Antarctic Environmental Protection Act. In doing so, the Canadian government now regulates the activities of its citizens in the Antarctic.
+Canada has implemented the Madrid Protocol into Canadian law with the Antarctic Environmental Protection Act. In doing so, the Canadian government now regulates the activities of Canadian citizens in the Antarctic.
 
 The Antarctic Environmental Protection Act prohibits Canadians and Canadian vessels, where applicable, from undertaking the following activities, except where a permit has been granted:
 

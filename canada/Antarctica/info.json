@@ -1,7 +1,7 @@
 {
     "name": "Antarctica",
-    "update_reason": "Need help? section \u2013 updated information on consular assistance",
-    "update_date": "2026-06-23T11:54:00",
+    "update_reason": "Editorial change",
+    "update_date": "2026-07-11T16:23:00",
     "sections": {
         "risk": "canada/Antarctica/risk.md",
         "security": "canada/Antarctica/security.md",
