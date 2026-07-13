@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   27 June 2026
+:   13 July 2026
 
 Updated:
-:   26 June 2026
+:   12 July 2026
 
 Latest update:
-:   New information about the risks of mass gatherings following a stampede at a public screening of a football match on 23 June 2026 ('Safety and security' page).
+:   New information about regional tensions in Jordan (Warnings and insurance page).
 
 ![](https://assets.publishing.service.gov.uk/media/6a1fe5c159fb7a60f827f6ac/FCDO__TA__087_-_Jordan_Travel_Advice_Ed2__WEB_.jpg)
 
@@ -24,7 +24,7 @@ FCDO advises against all travel to within 3km of the border with Syria.
 
 ## Regional tensions
 
-The US and Iran have announced a memorandum of understanding in relation to the conflict in the Middle East. The situation remains unpredictable and attacks could resume at short notice.
+The US and Iran have announced a memorandum of understanding (MOU) in relation to the conflict in the Middle East. The situation remains unpredictable. Iran has carried out further attacks on Jordan since the MOU was agreed, and could do so again at short notice.
 
 Should hostilities resume, British nationals should:
 

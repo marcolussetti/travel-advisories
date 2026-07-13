@@ -1,11 +1,11 @@
 {
     "name": "Jordan",
-    "update_reason": "New information about the risks of mass gatherings following a stampede at a public screening of a football match on 23 June 2026 ('Safety and security' page).",
+    "update_reason": "New information about regional tensions in Jordan (Warnings and insurance page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Jordan/Warnings and insurance.md",
-            "update_date": "2026-06-26T15:53:42+01:00"
+            "update_date": "2026-07-12T18:27:57+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Jordan/Getting help.md"
         }
     ],
-    "update_date": "2026-06-26T15:53:42+01:00"
+    "update_date": "2026-07-12T18:27:57+01:00"
 }
