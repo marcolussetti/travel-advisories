@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   11 July 2026
+:   14 July 2026
 
 Updated:
-:   10 July 2026
+:   13 July 2026
 
 Latest update:
-:   Removal of information about restriction of commercial air travel at Ankara Esenboga Airport.
+:   Information about wildfires ('Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/69a6faa2a2495f2d259f13d2/FCDO_TA_043_-_Turkey_Travel_Advice_Ed4_WEB.jpg)
 
@@ -43,6 +43,10 @@ Should hostilities resume, British nationals should:
 * if you are advised to take shelter, stay indoors or find the nearest safe building or designated shelter. An interior stairwell or a room with as few external walls or windows as possible may provide additional protection. The greatest risk is from falling debris caused by intercepts. You are safest inside a secure structure
 
 Before the 8 April ceasefire, the Iranian regime had stated its intention to target locations associated with the United States and Israel. This included US or Israeli-linked organisations, businesses, facilities and institutions. Iran has previously targeted civilian infrastructure across the region such as ports, hotels, roads, bridges, energy facilities, oil production sites, water systems, and airports.
+
+## Wildfires in Turkey
+
+There is a high risk of wildfires during the summer season from April to October. For advice, visit the wildfires section on the [Safety and security page](https://www.gov.uk/foreign-travel-advice/turkey/safety-and-security).
 
 ## Before you travel
 

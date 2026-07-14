@@ -1,17 +1,17 @@
 # Warnings and insurance
 
 Still current at:
-:   19 June 2026
+:   14 July 2026
 
 Updated:
-:   18 June 2026
+:   13 July 2026
 
 Latest update:
-:   Updated information about regional tensions ('Warnings and insurance' page).
+:   Information about wildfires ('Warnings and insurance' page).
 
 ## Regional tensions
 
-The US and Iran have announced a memorandum of understanding in relation to the conflict in the Middle East The situation in the region remains unpredictable.
+The US and Iran have announced a memorandum of understanding in relation to the conflict in the Middle East. The situation in the region remains unpredictable.
 
 Should hostilities resume, British nationals should:
 
@@ -20,6 +20,10 @@ Should hostilities resume, British nationals should:
 * monitor local and international media for the latest information
 * sign up to local information alerts/resources and follow the instructions of the local authorities
 * keep your departure plans under review, and ensure your travel documents are up to date
+
+## Wildfires in Cyprus
+
+There is a high risk of wildfires during the summer season from April to October. For advice, visit the wildfires section on the [Safety and security page](https://www.gov.uk/foreign-travel-advice/cyprus/safety-and-security).
 
 ## Before you travel
 

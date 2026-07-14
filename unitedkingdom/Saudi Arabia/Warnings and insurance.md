@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   7 July 2026
+:   14 July 2026
 
 Updated:
-:   6 July 2026
+:   13 July 2026
 
 Latest update:
-:   Updated information about visa requirements, including new information about applying for an electronic travel authorisation ('Entry requirements' page).
+:   Updated information about regional tensions ('Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/6a33d2b225c5199bda117785/FCDO__TA__034_-_Saudi_Arabia_Travel_Advice_Ed3__WEB_.jpg)
 
@@ -29,7 +29,9 @@ Find out more about [why FCDO advises against travel](/foreign-travel-advice/sau
 
 ## Regional tensions
 
-The US and Iran have announced a memorandum of understanding in relation to the conflict in the Middle East. The situation remains unpredictable and attacks could resume at short notice.
+The US and Iran have announced a memorandum of understanding (MOU) in relation to the conflict in the Middle East. The situation remains unpredictable. Iran has carried out further attacks on the region since the MOU was agreed, and could do so again at short notice.
+
+The Houthis (a military group in Yemen) have made public threats to target Saudi infrastructure. They have previously carried out attacks on Saudi infrastructure including airports, and could do so again at short notice. See [‘Regional risks’ page](https://www.gov.uk/foreign-travel-advice/saudi-arabia/regional-risks).
 
 Should hostilities resume, British nationals should:
 

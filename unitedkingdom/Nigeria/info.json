@@ -1,11 +1,11 @@
 {
     "name": "Nigeria",
-    "update_reason": "FCDO now advises against all but essential travel to Kwara State and Benue State. FCDO continues to advise against all travel and all but essential travel to other parts of Nigeria (\u2018Warnings and insurance\u2019 page).",
+    "update_reason": "Updated information that all passengers need to complete online Health Declaration Form before entering Nigeria (see \u2018Health screening\u2019 on the \u2018Entry requirements\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Nigeria/Warnings and insurance.md",
-            "update_date": "2026-07-01T15:00:27+01:00"
+            "update_date": "2026-07-13T15:10:23+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Nigeria/Getting help.md"
         }
     ],
-    "update_date": "2026-07-01T15:00:27+01:00"
+    "update_date": "2026-07-13T15:10:23+01:00"
 }

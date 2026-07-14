@@ -1,17 +1,17 @@
 # Warnings and insurance
 
 Still current at:
-:   19 June 2026
+:   14 July 2026
 
 Updated:
-:   18 June 2026
+:   13 July 2026
 
 Latest update:
-:   FCDO no longer advises against all but essential travel to Qatar. Updated information about regional tensions (‘Warnings and insurance’ page).
+:   Updated information about regional tensions ('Warnings and insurance' page).
 
 ## Regional tensions
 
-The US and Iran have announced a memorandum of understanding in relation to the conflict in the Middle East. The situation remains unpredictable and attacks could resume at short notice.
+The US and Iran have announced a memorandum of understanding (MoU) in relation to the conflict in the Middle East. The situation remains unpredictable and attacks could resume at short notice. Iran has carried out further attacks on Qatar since the MOU was agreed, and could do so again at short notice.
 
 Should hostilities resume, British nationals should:
 

@@ -1,11 +1,11 @@
 {
     "name": "Turkey",
-    "update_reason": "Removal of information about restriction of commercial air travel at Ankara Esenboga Airport.",
+    "update_reason": "Information about wildfires ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Turkey/Warnings and insurance.md",
-            "update_date": "2026-07-10T14:23:51+01:00"
+            "update_date": "2026-07-13T15:05:07+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Turkey/Getting help.md"
         }
     ],
-    "update_date": "2026-07-10T14:23:51+01:00"
+    "update_date": "2026-07-13T15:05:07+01:00"
 }

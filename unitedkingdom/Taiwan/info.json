@@ -1,11 +1,11 @@
 {
     "name": "Taiwan",
-    "update_reason": "New information about Typhoon Bavi ('Warnings and insurance' page).",
+    "update_reason": "Removal of information about Typhoon Bavi ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Taiwan/Warnings and insurance.md",
-            "update_date": "2026-07-08T16:22:22+01:00"
+            "update_date": "2026-07-13T09:20:06+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Taiwan/Getting help.md"
         }
     ],
-    "update_date": "2026-07-08T16:22:22+01:00"
+    "update_date": "2026-07-13T09:20:06+01:00"
 }

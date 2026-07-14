@@ -1,17 +1,35 @@
 # Warnings and insurance
 
 Still current at:
-:   8 July 2026
+:   14 July 2026
 
 Updated:
-:   7 July 2026
+:   13 July 2026
 
 Latest update:
-:   Information about wildfires ('Warnings and insurance' page).
+:   Information about French National Day traffic restrictions and metro closures in Paris ('Warnings and insurance' page).
 
 ## Wildfires in France
 
 There is a high risk of wildfires during the summer season from April to October. For advice, visit the wildfires section on the [Safety and security page](https://www.gov.uk/foreign-travel-advice/france/safety-and-security).
+
+## French National Day (Bastille Day)
+
+French National Day (Bastille Day) celebrations will take place in Paris on the evening of Monday 13 July and on Tuesday 14 July.
+
+### Access around certain areas of Paris
+
+From 06:00 to 15:00 on Tuesday 14 July, vehicle access in some areas of Paris will be restricted.
+
+Parking will also be restricted in some areas from 07:00 on Monday 13 July to 15:00 on Tuesday 14 July.
+
+Check the [Police Prefecture’s](https://www.prefecturedepolice.interieur.gouv.fr/) website (in French) for up-to-date information about these restrictions.
+
+### Metro station closures
+
+Certain metro and RER stations will also be closed on Monday 13 July and Tuesday 14 July.
+
+Check the [Parisian transport authority’s](https://www.ratp.fr/infos-trafic) website (in French) for the latest information about closures.
 
 ## Before you travel
 

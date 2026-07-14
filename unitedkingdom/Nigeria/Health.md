@@ -4,6 +4,7 @@ Before you travel check that:
 
 * your destination can provide the healthcare you may need
 * you have [appropriate travel insurance](https://www.gov.uk/guidance/foreign-travel-insurance) for local treatment or unexpected medical evacuation
+* You have filled in the [online Nigeria Health Declaration Form](https://healthapp.ncdc.gov.ng/)
 
 This is particularly important if you have a health condition or are pregnant.
 

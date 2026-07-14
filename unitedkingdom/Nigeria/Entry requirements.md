@@ -46,7 +46,7 @@ Infants aged 8 months or younger and adults aged 61 or older are exempt from thi
 
 ## Health screening
 
-You must fill in an [online Nigeria Health Declaration Form](https://healthapp.ncdc.gov.ng/) when entering Nigeria. This includes transit passengers. On arrival, a paper version is available.
+You must fill in an [online Nigeria Health Declaration Form](https://healthapp.ncdc.gov.ng/) before entering Nigeria. This includes transit passengers.
 
 You may be asked to take part in thermal screening and carry out a travel history check. This is a Nigerian government policy to improve the detection of diseases of public health importance.
 

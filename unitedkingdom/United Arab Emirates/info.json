@@ -1,11 +1,11 @@
 {
     "name": "United Arab Emirates",
-    "update_reason": "FCDO no longer advises against all but essential travel to UAE. Updated information about regional tensions (\u2018Warnings and insurance\u2019 page).",
+    "update_reason": "Updated information about regional tensions ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/United Arab Emirates/Warnings and insurance.md",
-            "update_date": "2026-06-18T13:59:10+01:00"
+            "update_date": "2026-07-13T19:54:41+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/United Arab Emirates/Getting help.md"
         }
     ],
-    "update_date": "2026-06-18T13:59:10+01:00"
+    "update_date": "2026-07-13T19:54:41+01:00"
 }

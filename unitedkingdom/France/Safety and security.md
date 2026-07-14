@@ -200,9 +200,9 @@ Check with your travel provider and follow advice from local authorities.
 
 ### Wildfires
 
-Wildfires can start anywhere in France during the summer months, particularly along the Mediterranean coast and in Corsica.
+Wildfires can occur across France during the summer months. The risk is highest in the south of the country, particularly along the Mediterranean coast, in Corsica, and in areas of the south-west during periods of hot, dry weather.
 
-The French weather service has launched a [fire alert map](https://meteofrance.com/meteo-des-forets) to help travellers stay up to date.
+Check the French weather service’s [fire alert map](https://meteofrance.com/meteo-des-forets) before travelling and monitor local authority advice during your stay. Conditions can change quickly and access to forests, countryside areas and tourist sites may be restricted at short notice.
 
 Fires have become more frequent because of drought and high temperatures. French authorities may evacuate areas and close roads for safety reasons. Causing a wildfire is [illegal in France](https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.service-public.fr%2Fparticuliers%2Fvosdroits%2FF34031%3Flang%3Den&data=05%7C02%7CMimi.Leicester%40fcdo.gov.uk%7Ccfb7ed24c072413c065608ddcf36443e%7Cd3a2d0d37cc84f52bbf985bd43d94279%7C0%7C0%7C638894554159618684%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=dUv16ItWwVru2f8FyANmyzoTZJC6Nt7HTVniamNaptU%3D&reserved=0%22%20\o%20%22https://eur03.safelinks.protection.outlook.com/?url=https%3a%2f%2fwww.service-public.fr%2fparticuliers%2fvosdroits%2ff34031%3flang%3den&data=05%7c02%7cmimi.leicester%40fcdo.gov.uk%7ccfb7ed24c072413c065608ddcf36443e%7cd3a2d0d37cc84f52bbf985bd43d94279%7c0%7c0%7c638894554159618684%7cunknown%7ctwfpbgzsb3d8eyjfbxb0eu1hcgkionrydwusilyioiiwljaumdawmcisilaioijxaw4zmiisikfoijoitwfpbcisilduijoyfq%3d%3d%7c0%7c%7c%7c&sdata=duv16itwwvru2f8fyanmyzotzjc6nt7htvniamnaptu%3d&reserved=0%22%20\t%20%22_blank), even if it is started by accident. You could get a fine or a prison sentence.
 

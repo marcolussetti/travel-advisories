@@ -1,11 +1,11 @@
 {
     "name": "France",
-    "update_reason": "Information about wildfires ('Warnings and insurance' page).",
+    "update_reason": "Information about French National Day traffic restrictions and metro closures in Paris ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/France/Warnings and insurance.md",
-            "update_date": "2026-07-07T16:46:10+01:00"
+            "update_date": "2026-07-13T19:19:38+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/France/Getting help.md"
         }
     ],
-    "update_date": "2026-07-07T16:46:10+01:00"
+    "update_date": "2026-07-13T19:19:38+01:00"
 }
