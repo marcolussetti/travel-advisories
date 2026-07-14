@@ -82,11 +82,7 @@ Customs officials may ask you to show them:
 
 ### Children and travel
 
-Learn about [travelling with children](http://travel.gc.ca/travelling/children).
-
-### Exit and entry requirements for minors under 18
-
-When travelling to an international destination from Namibia, underage travellers must present:
+When travelling to and from Namibia, children under 18 must present certain documents.
 
 If travelling with both parents:
 
@@ -119,6 +115,8 @@ If travelling alone:
 + a permanent residence permit
 
 If you are transiting by road through South Africa with children under the age of 18, consult the [entry/exit requirements for South Africa](http://travel.gc.ca/destinations/south-africa#entryexit).
+
+[Children and travel](http://travel.gc.ca/travelling/children)
 
 ### Yellow fever
 

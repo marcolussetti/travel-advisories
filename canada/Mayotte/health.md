@@ -15,7 +15,7 @@ It's best to talk to a healthcare provider or visit a travel health clinic prefe
 
 #### Malaria in Mayotte
 
-Malaria cases are currently being reported in parts of Mayotte. The majority of cases have been reported in Chirongui municipality. Malaria is a serious disease that can be deadly and is spread through the bites of infected mosquitoes.
+Malaria cases are currently being reported in parts of Mayotte, including the municipalities of Chirongui, Bandrélé and Dembéni. Malaria is a serious disease that can be deadly and is spread through the bites of infected mosquitoes.
 
 It's important to speak with a health care provider or visit a travel health clinic before your trip to discuss your options. While it's best to do this at least 6 weeks before travelling, it's still a good idea to make an appointment any time before you leave.
 

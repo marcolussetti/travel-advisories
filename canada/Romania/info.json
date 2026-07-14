@@ -1,7 +1,7 @@
 {
     "name": "Romania",
-    "update_reason": "Entry and exit requirements section \u2013 added information on the European Travel Information and Authorization System (ETIAS); updated information on the Schengen area",
-    "update_date": "2026-07-03T14:20:00",
+    "update_reason": "Editorial change",
+    "update_date": "2026-07-13T14:53:00",
     "sections": {
         "risk": "canada/Romania/risk.md",
         "security": "canada/Romania/security.md",

@@ -220,9 +220,8 @@ Romance scams through dating sites and/or social media have occurred.
 
 #### Useful links
 
-[Overseas fraud](https://travel.gc.ca/travelling/health-safety/overseas-fraud)
-
-[Cybersecurity while travelling](https://travel.gc.ca/travelling/health-safety/cyber-safe)
+* [Overseas fraud](https://travel.gc.ca/travelling/health-safety/overseas-fraud)
+* [Cybersecurity while travelling](https://travel.gc.ca/travelling/health-safety/cyber-safe)
 
 ### National parks and nature reserves
 

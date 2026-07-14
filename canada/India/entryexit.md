@@ -87,7 +87,9 @@ You should complete the digital process in advance to reduce wait times at the a
 
 ### Dual citizenship
 
-If you hold an Overseas Citizens of India (OCI) card, you must present it upon entry and exit.
+If you hold an Overseas Citizens of India (OCI) card, you must present it to enter and exit India. If you have an Electronic Overseas Citizen of India card (e-OCI), you don’t need to carry a physical one.
+
+[Online OCI Services](https://ociservices.gov.in/onlineOCI/) – Ministry of Home Affairs of India
 
 ### Departure
 

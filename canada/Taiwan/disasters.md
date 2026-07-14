@@ -2,27 +2,6 @@
 
 ## Natural disasters and climate
 
-### Typhoon Bavi
-
-Typhoon Bavi is expected to pass northeast of Taiwan, affecting the northern part of the island, including Taipei, on July 10.
-
-The storm is likely to bring excessive rainfall and violent winds. It may cause flash flooding and landslides and could severely disrupt the following essential services:
-
-* transportation
-* power distribution
-* water and food supply
-* telecommunications networks
-* emergency services
-* medical care
-
-If you are in the affected area:
-
-* exercise caution
-* monitor local news and weather reports
-* follow the instructions of local authorities
-
-[Typhoon News](https://www.cwa.gov.tw/V8/E/P/Typhoon/TY_NEWS.html) – Central Weather Administration
-
 ### Climate change
 
 Climate change is affecting Taiwan. Extreme and unusual weather events are becoming more frequent and may affect your travel plans. Monitor local news to stay informed on the current situation.

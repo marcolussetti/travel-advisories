@@ -303,9 +303,8 @@ Romance scams through dating sites and/or social media have occurred.
 
 #### Useful links
 
-[Overseas fraud](https://travel.gc.ca/travelling/health-safety/overseas-fraud)
-
-[Cybersecurity while travelling](https://travel.gc.ca/travelling/health-safety/cyber-safe)
+* [Overseas fraud](https://travel.gc.ca/travelling/health-safety/overseas-fraud)
+* [Cybersecurity while travelling](https://travel.gc.ca/travelling/health-safety/cyber-safe)
 
 ### Social media and online activity
 
@@ -342,7 +341,7 @@ You should not rely on your mobile phone in case of emergency, especially outsid
 You should also save or print key information in case of an internet disruption, including:
 
 * itineraries
-* contact details for the Canadian Embassy in Addis Ababa and the [Emergency Watch and Response Centre](http://travel.gc.ca/assistance/emergency-assistance) in Ottawa
+* contact details for the Embassy of Canada to Ethiopia, in Addis Ababa, and the [Emergency Watch and Response Centre](http://travel.gc.ca/assistance/emergency-assistance) in Ottawa
 * emergency numbers
 
 #### Fuel

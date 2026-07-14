@@ -98,12 +98,23 @@ Make sure customs officials properly inspect and stamp your passport and visa up
 
 ### Children and travel
 
-If you are transiting by road through South Africa with children under the age of 18, you may be subject to special entry requirements.
+Children under 18 entering or exiting Mozambique may be required to present certain documents.
+
+If travelling with both parents:
+
+* proof of parentage, such as a long-form birth certificate
+
+If travelling with one parent or alone:
+
+* proof of parentage, such as a long-form birth certificate
+* a notarized parental consent affidavit, translated into Portuguese
+
+If you are transiting by road through South Africa with children under 18, you may be subject to special entry requirements.
 
 #### Useful links
 
 * [Entry requirements for South Africa](https://travel.gc.ca/destinations/south-africa#entryexit)
-* [Travelling with children](http://travel.gc.ca/travelling/children)
+* [Children and travel](http://travel.gc.ca/travelling/children)
 
 ### Yellow fever
 

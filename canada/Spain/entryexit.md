@@ -33,11 +33,11 @@ If you are a Canadian with dual citizenship, you need to carry a valid Canadian
 
 ### Schengen area
 
-Spain is a Schengen area country. Canadian citizens do not need a visa for travel to countries within the Schengen area. However, visa-free travel only applies to stays of up to 90 days in any 180-day period. Stays are cumulative and include visits to any Schengen area country.
+Spain is a Schengen area country. Canadian citizens do not need a visa to travel to countries within the Schengen area. However, visa-free travel only applies to stays of up to 90 days in any 180-day period. Stays are cumulative and include visits to any Schengen area country.
 
-Member states may temporarily reintroduce controls at internal border crossings within the Schengen area. You may be required to pass through immigration controls when entering Spain, even if arriving from another Schengen area country. Verify if temporary border controls are in effect before you travel to Spain.
+Member states may temporarily reintroduce controls at internal border crossings within the Schengen area. You may be required to pass through immigration controls when entering Spain, even if arriving from another Schengen area country. Verify if border controls are in effect before you travel to Spain.
 
-If you plan to stay in the Schengen area for a longer period of time, you will need a visa. You must contact the high commission or embassy of the country or countries you are travelling to and obtain the appropriate visa(s) before your departure.
+If you plan to stay in the Schengen area for a longer period of time, you will need a visa. You must contact the high commission or embassy of the countries you are travelling to and obtain the appropriate visa(s) before your departure.
 
 When you enter the Schengen area, the Entry/Exit System (EES) collects information about your trip as well as your facial image and fingerprints. You don’t need to take any action before you travel.
 
