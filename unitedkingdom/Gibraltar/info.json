@@ -1,11 +1,11 @@
 {
     "name": "Gibraltar",
-    "update_reason": "This travel advice was reviewed for style and accuracy.",
+    "update_reason": "New information that, from 15 July 2026, the UK-EU Agreement in respect of Gibraltar will provisionally apply, including new information about entry requirements for people travelling on a full British citizen passport ('Entry requirements' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Gibraltar/Warnings and insurance.md",
-            "update_date": "2024-05-30T10:17:41+01:00"
+            "update_date": "2026-07-14T09:32:42+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Gibraltar/Getting help.md"
         }
     ],
-    "update_date": "2024-05-30T10:17:41+01:00"
+    "update_date": "2026-07-14T09:32:42+01:00"
 }

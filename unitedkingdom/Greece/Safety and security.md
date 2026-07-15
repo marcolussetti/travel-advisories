@@ -44,7 +44,7 @@ Some demonstrations in the past have turned violent. Avoid demonstrations wherev
 
 ### Protecting your belongings
 
-Thefts of passports, wallets and handbags are common on the metro and in crowded tourist places, particularly in central Athens. Carry your valuables in different bags and pockets and keep a copy of your passport photo page somewhere safe.
+Thefts of passports, wallets and handbags are common on the metro and in crowded tourist places, particularly in central Athens. Do not carry all your valuables in one place and keep a copy of your passport photo page somewhere safe.
 
 When driving on holiday, keep your valuables out of sight and lock your vehicle at all times. Always park in a well-lit area or secure car park. Be alert to car crime.
 
@@ -57,8 +57,9 @@ To reduce your personal risk, especially late at night and around clubs and bars
 * keep an eye on each other’s drinks to make sure they do not get spiked
 * do not let a friend walk back to their hotel alone
 * do not give a drunk person more alcohol
+* [see TravelAware ‘Stick with your mates’](https://travelaware.campaign.gov.uk/) for tips and advice
 
-Use pre-arranged transport or taxi-hailing apps such as Uber or Free Now which supply licensed cabs.
+Use pre-arranged transport or, where they are available taxi-hailing apps such as Uber or Free Now which supply licensed cabs.
 
 Report anything that does not feel right to local authorities or hotel or club management.
 
@@ -78,19 +79,17 @@ The Greek police will arrest you for any behaviour they find rowdy or indecent, 
 
 The courts are likely to impose a heavy fine or a prison sentence if they judge the behaviour to be illegal. Your travel insurance may not cover you if you miss flights because of an alcohol-related arrest.
 
-### Smoking bans
+### Alcohol laws and underage drinking
 
-It’s illegal to smoke in indoor public places. You could get a fine of up to 500 euros.
+It is illegal to sell or provide alcohol to anyone under 18, any businesses found doing so can face large fines and possible closure. Bars and nightclubs are not allowed to admit or serve anyone under 18, even if accompanied by an adult. Expect age verification checks at points of sale.
+
+If a minor is harmed through excessive drinking, or underage intoxication is brought to the attention of local authorities, parents or other accompanying adults as well as those who supplied the alcohol could face legal consequences under general child protection laws.
 
 ### Illegal drugs
 
 Illegal drugs, including cannabis, carry severe penalties. You should expect a long jail sentence and heavy fines for possessing, using or smuggling illegal drugs, including when transiting through  airports.
 
 Airports in Greece have excellent technology and security for detecting illegal items. This is also used to scan the baggage of transiting passengers.
-
-### Public transport fines
-
-You may need to time stamp your ticket on public transport for it to be valid. If you are found with an unvalidated ticket, you could get a fine. Check with local providers.
 
 ### Buying goods or services
 
@@ -114,7 +113,7 @@ Men aged 19 and above, born to a Greek national, may have military service oblig
 
 ### Using cameras or approaching sensitive locations
 
-It is illegal to approach or take photos or videos of military installations, vehicles or buildings. The authorities will arrest and possibly prosecute anyone doing so. Border areas are also militarily sensitive. If you visit such areas, do not take photos or videos.
+It is illegal to approach or take photos or videos of military installations, vehicles or buildings. The authorities will arrest and have prosecuted those doing so. Border areas are also militarily sensitive. If you visit such areas, do not take photos or videos.
 
 ## Outdoor activities and adventure tourism
 
@@ -122,9 +121,31 @@ It is illegal to approach or take photos or videos of military installations, ve
 
 Take extra care of your valuables at festivals or large concerts. Read the [festivals in Europe travel checklist](https://www.gov.uk/guidance/festival-travel-checklist) for more advice.
 
-### Water sports and swimming safety
+### Swimming and water sports safety
 
-Book activities at a licensed water sports centre and before you start:
+Every year, people drown in the sea and in swimming pools in Greece.
+
+### Swimming pools
+
+Always supervise children. Keep small children within arms-reach in and around swimming pools, even if they can swim or there is a lifeguard present.
+
+### Beaches
+
+Take care when swimming in the sea. Always supervise children and keep small children within arms-reach.
+
+Hidden rocks or shallow depths can cause serious injury or death. Do not dive into unknown water.
+
+Many organised beaches have a flag system. Make sure you understand the system and follow any warnings. A red flag means you must not enter the water.
+
+Take extra care and get local knowledge if there are no lifeguards, flags or signs.
+
+See further tips on [ABTA’s swim safe pages](https://www.abta.com/tips-and-advice/staying-safe-on-holiday/swim-safe) and [Water Safety on Holiday](https://www.rlss.org.uk/safety-on-holiday) from the Royal Life Saving Society.
+
+Follow local advice if jellyfish are present.
+
+### Water sports
+
+Only book activities at a licensed water sports centre and before you start:
 
 * make sure the paperwork is completed
 * ask for a safety demonstration
@@ -132,19 +153,17 @@ Book activities at a licensed water sports centre and before you start:
 
 For more advice, see the website for [Safe Water Sports](https://safewatersports.com/), a non-profit organisation in Greece that aims to prevent accidents.
 
-Obey warning signs and flags on beaches. Follow instructions from lifeguards and get follow local advice if jellyfish or urchins are present.
+### Quad (ATV) biking and mopeds
 
-### Quad biking and mopeds
+Every year people suffer serious injury and even death due to accidents involving quad bikes.  Make sure you get full instructions and training on their use. If you are not experienced with driving quad bikes proceed with caution as you will be sharing the roads with larger and faster vehicles.
 
-Quad biking carries the risk of serious injury or death. You need specific travel insurance to cover quad biking, it is defined as an extreme sport and excluded on many policies. Always read the details of your insurance cover.
+To help with costs incurred as a result of quad bike incidents you need specific travel insurance as quad biking is defined as an extreme sport and excluded on many policies. Always read the details of your insurance cover.
 
-Make sure you get full instructions and training before your activity.
+Insurance sold by the hire company usually only provides third-party cover. It’s likely the company will charge you for any damage to the rental vehicle, and you may face arrest if you do not pay.
 
-Insurance sold by the hire company usually only provides third-party insurance. It’s likely the company will charge you for any damage to the rental vehicle, and you may face arrest if you do not pay.
+Check that you hold the correct driving license for the vehicle you are hiring. Provisional licenses are not valid in Greece for driving or hiring any type of vehicle. If you hire a moped, you need a valid driving licence with at least category A1 – ‘light motorcycle’. Choose a category in accordance with your driving licence and age. Category P, which is valid in the UK for driving mopeds up to 50cc, is not valid in Greece.
 
-If you hire a moped, you need a valid driving licence with at least category A1 – ‘light motorcycle’. Choose a category in accordance with your driving licence and age. Category P, which is valid in the UK for driving mopeds up to 50cc, is not valid in Greece.
-
-Make sure the vehicle is in good condition. Drivers and passengers must wear helmets before operating quad bikes and mopeds. Failure to do so may invalidate your insurance. If police stop you, they will fine you and take your licence.
+Make sure the vehicle is in good condition. Drivers and passengers must wear helmets before operating quad bikes and mopeds. Failure to do so may invalidate your insurance. If police stop you, they will fine you and take your licence.
 
 ### Hiking and exploring nature
 
@@ -165,7 +184,7 @@ If an accident happens or if you become lost, call 112 for the emergency service
 
 ### Camping and Motorhome travel
 
-Greece has introduced regulations prohibiting camping in tents and the parking of trailers, semi-trailers, camper vans and motorhomes at archaeological sites, seashores, beaches, edges of public forests and in general public areas. Ensure that you used licensed campsites to avoid fines.
+Greece has introduced regulations prohibiting camping in tents and the parking of trailers, semi-trailers, camper vans and motorhomes at archaeological sites, seashores, beaches, edges of public forests and in general public areas. Ensure that you use licensed campsites to avoid fines.
 
 ## Transport risks
 
@@ -209,8 +228,6 @@ Consider preparing a grab bag with essentials such as:
 * insurance and other important documents
 * essential medicine and prescription details
 
-For further information, see Greece’s [Civil Protection website](http://civilprotection.gr/en/forest-fires) (in Greek).
-
 Find out more from gov.uk on what you can do to [prepare for and respond to extreme weather and natural hazards](https://www.gov.uk/guidance/extreme-weather-and-natural-hazards).
 
 ### Flooding
@@ -238,7 +255,7 @@ Be cautious if you are in or near an area affected by wildfires:
 * call the Greek emergency services on 112 if you are in immediate danger
 * contact your airline or travel operator who can assist you with return travel to the UK
 
-For further information, see Greece’s [Civil Protection website](http://civilprotection.gr/en/forest-fires) (in Greek).
+For further information, see the [Greek Ministry of Climate Change and Civil Protection website](https://civilprotection.gov.gr/en/odigies-prostasias/dasikes-pyrkagies) (in English).
 
 ### Earthquakes
 

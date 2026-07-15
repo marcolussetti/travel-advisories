@@ -44,12 +44,8 @@ If you are planning to drive, see [information on driving abroad](https://www.g
 
 If you’re planning to drive in Spain or Portugal, check the requirements in those countries.
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/gibraltar/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/gibraltar/entry-requirements)
 
-[Next
-:
-Health](/foreign-travel-advice/gibraltar/health)
+[Next:Health](/foreign-travel-advice/gibraltar/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/gibraltar/print)

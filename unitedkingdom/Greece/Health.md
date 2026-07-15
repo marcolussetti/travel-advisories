@@ -30,6 +30,8 @@ The legal status and regulation of some medicines prescribed or bought in the UK
 
 Read [best practice when travelling with medicines](https://travelhealthpro.org.uk/factsheet/43/medicines-abroad).
 
+Changes to your routine when travelling, such as later nights, coping with heat and changes to your diet can have an impact on your medication. See the [Summer Proof Your Health](https://www.gov.uk/government/news/heat-travel-and-late-nights-how-summer-can-affect-your-medicines-and-how-to-stay-safe) campaign for more information.
+
 Pharmacies across Greece stock a good supply of medicines, but there are strict rules around dispensing certain medicines, including antibiotics. Bring prescription medicines with you and carry a letter from your doctor stating the quantity required during your stay. Keep the medication in the original container with the prescription label. The name on the prescription must match the name on your passport.
 
 Prescriptions for uninsured individuals are only dispensed from:
@@ -79,7 +81,7 @@ Read [guidance on healthcare if you’re living in Greece](https://www.gov.uk/gu
 
 ## Travel and mental health
 
-Read [FCDO guidance on travel and mental health](https://www.gov.uk/guidance/foreign-travel-advice-for-people-with-mental-health-issues). There is also [guidance on TravelHealthPro](https://travelhealthpro.org.uk/factsheet/85/travelling-with-mental-health-conditions).
+Read [Mental health support for British nationals in Greece](https://www.gov.uk/government/publications/greece-mental-health-support-abroad/mental-health-support-for-british-nationals-in-greece). There is also [guidance on TravelHealthPro](https://travelhealthpro.org.uk/factsheet/85/travelling-with-mental-health-conditions).
 
 [Previous:Safety and security](/foreign-travel-advice/greece/safety-and-security)
 

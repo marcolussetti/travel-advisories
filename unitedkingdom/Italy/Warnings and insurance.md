@@ -1,15 +1,19 @@
 # Warnings and insurance
 
 Still current at:
-:   7 July 2026
+:   15 July 2026
 
 Updated:
-:   6 July 2026
+:   14 July 2026
 
 Latest update:
-:   Addition of information about swimming safety ('Safety and security' page).
+:   Information about wildfires ('Warnings and insurance' page).
 
 This travel advice also covers Vatican City.
+
+## Wildfires in Italy
+
+There is a high risk of wildfires during the summer in Italy as temperatures continue to soar. For advice, visit the wildfires section on the [Safety and security page](https://www.gov.uk/foreign-travel-advice/italy/safety-and-security).
 
 ## Before you travel
 

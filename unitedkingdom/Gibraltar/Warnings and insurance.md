@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 March 2025
+:   15 July 2026
 
 Updated:
-:   30 May 2024
+:   14 July 2026
 
 Latest update:
-:   This travel advice was reviewed for style and accuracy.
+:   New information that, from 15 July 2026, the UK-EU Agreement in respect of Gibraltar will provisionally apply, including new information about entry requirements for people travelling on a full British citizen passport ('Entry requirements' page).
 
 Gibraltar is a British Overseas Territory, so there is no British Embassy and you should ask the relevant Gibraltar authorities if you need help.
 
@@ -39,8 +39,6 @@ Follow FCDO:
 * [travel advice on Facebook](https://www.facebook.com/FCDOTravel/)
 * [Travel Aware on Instagram](https://www.instagram.com/travelaware/)
 
-[Next
-:
-Entry requirements](/foreign-travel-advice/gibraltar/entry-requirements)
+[Next:Entry requirements](/foreign-travel-advice/gibraltar/entry-requirements)
 
 [View a printable version of the whole guide](/foreign-travel-advice/gibraltar/print)
