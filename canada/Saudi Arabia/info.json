@@ -1,7 +1,7 @@
 {
     "name": "Saudi Arabia",
-    "update_reason": "Risk level section \u2013 exercise a high degree of caution in Saudi Arabia; Safety and security section \u2013 updated information on tensions in the Middle East",
-    "update_date": "2026-06-25T16:24:00",
+    "update_reason": "Risk levels section \u2013 avoid non-essential travel to Abha International Airport",
+    "update_date": "2026-07-14T15:16:00",
     "sections": {
         "risk": "canada/Saudi Arabia/risk.md",
         "security": "canada/Saudi Arabia/security.md",

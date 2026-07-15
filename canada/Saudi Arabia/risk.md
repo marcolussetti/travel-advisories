@@ -24,6 +24,10 @@ The features in this map do not constitute an authoritative source of geographic
 
 [Avoid all travel](#levels "Risk Levels") to areas within 30 km of the border with Yemen, due to the ongoing armed conflict in Yemen and the risk of violent clashes and spillovers across the border.
 
+### Abha International Airport - Avoid non-essential travel
+
+[Avoid non-essential travel](#levels "Risk Levels") to the Abha International Airport, in Asir Province, due to the risk of missile and drone attacks.
+
 ### Border area with Yemen - Avoid non-essential travel
 
 [Avoid non-essential travel](#levels "Risk Levels") to areas between 30 km and 80 km of the border with Yemen, due to the ongoing armed conflict in Yemen and the risk of violent clashes and spillovers beyond the border with Saudi Arabia.

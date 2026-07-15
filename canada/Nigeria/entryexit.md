@@ -60,6 +60,12 @@ You are required to complete an online form before entering or exiting Nigeria.
 
 [Obtain landing or exit cards](https://lecard.immigration.gov.ng/) – Nigeria Immigration Service
 
+### Health declaration form
+
+You must complete an online health declaration form before travelling to Nigeria. You will then receive a PDF and QR code by email, which you must present to a Port Health Officer upon arrival.
+
+[Nigeria Health Declaration Portal](https://healthapp.ncdc.gov.ng/) – Nigeria Centre for Disease Control and Prevention
+
 ### Passport requirements for dual citizens
 
 If you have dual citizenship, you must enter and leave Nigeria on your Nigerian passport.

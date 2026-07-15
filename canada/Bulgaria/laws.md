@@ -105,6 +105,8 @@ The currency of Bulgaria is the euro (EUR).
 
 Bulgaria’s economy is primarily cash-based. Most businesses also accept major credit cards. ATMs are widely available. The United Bulgarian Bank in Sofia can process international money transfers.
 
+Bulgaria joined the euro area in 2026. If you travel to Bulgaria with outdated Bulgarian leva, you can exchange them for free at the Bulgarian National Bank.
+
 If you are carrying €10,000 or more, or the equivalent in other currencies or monetary instruments, you must make a declaration to customs when you enter or leave the European Union.
 
 This does not apply if you are travelling within the European Union or in transit to a non-EU country.
