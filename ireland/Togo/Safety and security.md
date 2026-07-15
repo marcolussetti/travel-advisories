@@ -1,6 +1,6 @@
 ## Safety and security
 
-We advise against all travel within 5km of the border with Burkina Faso, due to the security situation in Burkina Faso and the risk of kidnapping in the region.
+We advise against all travel within 30km of the border with Burkina Faso, due to the security situation in Burkina Faso and the risk of kidnapping in the region. Additionally, we advise all but essential travel to the rest of the Savanes Region.
 
 ### **Practical Advice**
 

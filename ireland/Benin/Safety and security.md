@@ -6,7 +6,7 @@ There is an increased risk of terrorism in the northern regions along the border
 
 ### **Political Situation**
 
-The situation remains volatile after violent protests related to the legislative elections which took place in April 2019. We suggest to exercise caution and avoid any political gatherings or demonstrations.
+Political demonstrations and unrest can occur without warning. Benin experienced an attempted coup on 7 December 2025. Irish citizens are advised to be vigilant and avoid all demonstrations, large crowds, political gatherings and rallies. In the event of unrest, monitor local media and follow instructions and announcements from the local authorities. Comply with any checks or security measures, including curfews, which may be introduced by authorities at short notice.
 
 ### **Practical advice**
 

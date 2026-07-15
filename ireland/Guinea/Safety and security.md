@@ -2,7 +2,7 @@
 
 ### **Political Situation**
 
-Following a coup in Guinea on 5 September 2021, a transitional government is in place. Political tensions have remained high. Demonstrations occur frequently throughout the country, may be called with little or no notice and can quickly turn violent. You should avoid large demonstrations or rallies (both political and non-political), particularly those close to military barracks and regularly monitor local and international media reports.
+Political tensions in Guinea have remained high. Demonstrations occur frequently throughout the country, may be called with little or no notice and can quickly turn violent. You should avoid large demonstrations or rallies (both political and non-political), particularly those close to military barracks and regularly monitor local and international media reports.
 
 It is strongly recommended that Irish citizens travelling in Guinea [**register**](/en/dfa/overseas-travel/citizens-registration/) with our Embassy in Sierra Leone.
 

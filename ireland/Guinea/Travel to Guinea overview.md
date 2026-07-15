@@ -8,9 +8,9 @@ High Degree of Caution
 
 The availability and quality of medical services in Guinea is poor. Citizens should be aware that they may have difficulty accessing even basic medical services, particularly in remote areas.
 
-Following a coup in Guinea on 5 September 2021, a transitional government is in place. Political tensions are high. Demonstrations occur frequently throughout the country with little or no notice and may turn violent. You should avoid large demonstrations or rallies (both political and non-political), particularly those close to military barracks and regularly monitor local and international media reports.
+Political tensions in Guinea remain high. Demonstrations occur frequently throughout the country with little or no notice and may turn violent. You should avoid large demonstrations or rallies (both political and non-political), particularly those close to military barracks and regularly monitor local and international media reports.
 
-It is strongly recommended that Irish citizens travelling to or in Guinea [**register**](/en/dfa/overseas-travel/citizens-registration/) with our Embassy in Sierra Leone.
+There is no Embassy of Ireland in Guinea. It is strongly recommended that Irish citizens travelling to or in Guinea [**register**](/en/dfa/overseas-travel/citizens-registration/) with our Embassy in Sierra Leone.
 
 ### **General Travel Advice**
 
@@ -20,7 +20,7 @@ Your passport should be valid for a minimum period of 6 months from the date of 
 
 If you are a resident in Guinea, your passport must be valid for six months from the date you arrive.
 
-A Yellow Fever certificate is required to enter the country.
+A Yellow Fever vaccine certificate is required to enter the country.
 
 If you need further information about entry requirements, contact the [**local immigration authorities**](http://www.paf.gov.gn/) or your nearest Guinean Embassy.
 
