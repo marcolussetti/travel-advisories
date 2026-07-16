@@ -2,14 +2,6 @@
 
 ## Entry and exit requirements
 
-### Alignment with the Schengen area
-
-On July 15, 2026, pending final approval, Gibraltar’s entry and exit requirements for short-stay visitors will align with Schengen-style rules, despite Gibraltar not being part of the Schengen area.
-
-Canadian citizens will not need a visa to travel to Gibraltar or to countries within the Schengen area. However, visa-free travel will only apply to stays of up to 90 days in any 180-day period. Stays will be cumulative and will include visits to Gibraltar as well as any Schengen area country.
-
-If arriving at Gibraltar International Airport, you can expect immigration checks from both Gibraltarian and Spanish authorities. Make sure you meet the entry and exit requirements for Spain before travelling to Gibraltar.
-
 Gibraltar is a British Overseas Territory.
 
 Some countries have imposed measures in response to the [Ebola disease outbreak](https://travel.gc.ca/travelling/health-safety/travel-health-notices/549). These can include restrictions on entry and health screening measures for travellers having recently visited an affected country. If you are suspected of having symptoms, you may be subject to isolation, quarantine and/or travel restrictions. Contact the authorities of the country you are travelling to for more details.
@@ -20,6 +12,14 @@ We have obtained the information on this page from local authorities. It can, ho
 
 Verify this information with the [Foreign Representatives in Canada](https://www.international.gc.ca/protocol-protocole/reps.aspx?lang=eng).
 
+### Alignment with the Schengen area
+
+Gibraltar is not part of the Schengen area. However, following the UK-EU Agreement in respect of Gibraltar, the territory’s entry and exit requirements for short-stay visitors are now aligned with Schengen-style rules.
+
+Canadian citizens do not need a visa to travel to Gibraltar or to countries within the Schengen area. However, visa-free travel only applies to stays of up to 90 days in any 180-day period. Stays are cumulative and include visits to Gibraltar as well as any Schengen area country.
+
+If you arrive at Gibraltar International Airport, expect immigration checks from both Gibraltarian and Spanish authorities. Make sure you meet the [entry and exit requirements for Spain](https://travel.gc.ca/destinations/spain#entryexit) before travelling to Gibraltar.
+
 ### Passport
 
 Entry requirements vary depending on the type of passport you're travelling with.
@@ -28,7 +28,7 @@ Before you travel, check with your transportation company about passport require
 
 #### Regular Canadian passport
 
-Your passport must be valid for at least 3 months beyond the date you expect to leave Gibraltar.
+Your passport must be valid for at least 3 months beyond the date you expect to leave Gibraltar or the Schengen area.
 
 #### Passport for official travel
 
@@ -54,18 +54,19 @@ Different entry rules may apply when travelling with a temporary passport or an 
 
 ### Visas
 
-Tourist visa: not required for stays up to 90 days  
-Work permit: required  
-Student visa: not required for stays up to 90 days
+Tourist visa: not required for stays of up to 90 days  
+ Business visa: not required for stays of up to 90 days  
+ Work permit: required  
+ Student visa: not required for stays of up to 90 days
 
 If you stay more than 90 days in Gibraltar, you must apply for residence by registering your stay with Gibraltar’s immigration authorities.
 
-[ID Cards and Civilian Registration Cards](https://www.gibraltar.gov.gi/civil-status-registration-office/id-cards-civilian-registration-cards) – Government of Gibraltar
-
-### Yellow fever
-
-Learn about [potential entry requirements related to yellow fever](#health) (vaccines section).
+[Department of Immigration and Home Affairs](https://www.gibraltar.gov.gi/department-of-inmigration-and-home-affairs) – Government of Gibraltar
 
 ### Children and travel
 
 Learn about [travelling with children](http://travel.gc.ca/travelling/children).
+
+### Yellow fever
+
+Learn about [potential entry requirements related to yellow fever](#health) (vaccines section).

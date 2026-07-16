@@ -8,7 +8,7 @@ Learn about what you should do and how we can help if you are [arrested or detai
 
 ### Transfer to a Canadian prison
 
-Canada and the United Kingdom are signatories to the Convention on the Transfer of Sentenced Persons. This enables a Canadian imprisoned in the United Kingdom to request a transfer to a Canadian prison to complete a sentence. The transfer requires the agreement of both Canadian and the United Kingdom authorities.
+Canada and the United Kingdom are signatories to the Convention on the Transfer of Sentenced Persons. This enables a Canadian imprisoned in Gibraltar to request a transfer to a Canadian prison to complete a sentence. The transfer requires the agreement of both Canadian and Gibraltarian authorities.
 
 This process can take a long time, and there is no guarantee that the transfer will be approved by either or both sides.
 
@@ -20,9 +20,9 @@ Penalties for possession, use or trafficking of illegal drugs are severe. Convic
 
 ### Dual citizenship
 
-Dual citizenship is legally recognized in the United Kingdom.
+Dual citizenship is legally recognized in Gibraltar.
 
-If you are a Canadian citizen, but also a citizen of the United Kingdom, our ability to offer you consular services may be limited while you're there. You may also be subject to different [entry/exit requirements](#entryexit).
+If you are a Canadian citizen, but also a citizen of Gibraltar, our ability to offer you consular services may be limited while you're there. You may also be subject to different [entry/exit requirements](#entryexit).
 
 [Dual citizens](http://travel.gc.ca/travelling/documents/dual-citizenship)
 
@@ -51,12 +51,18 @@ Be aware that Canadian consular officials cannot interfere in private legal matt
 
 Although Gibraltar is a British territory, traffic drives on the right.
 
-You can drive with your valid Canadian driver’s licence as a tourist. You should carry an international driving permit.
+You must be at least 17 years old to drive a car in Gibraltar. However, the minimum age to rent a car is 21, and the driver must have held a driver’s licence for at least 1 year.
+
+You can drive with your valid Canadian driver’s licence as a tourist.
+
+You should carry an International Driving Permit.
 
 [International Driving Permit](https://travel.gc.ca/travelling/documents/international-driving-permit)
 
+The general speed limit is 50 km/h, unless indicated otherwise.
+
 ### Money
 
-The currency is the Gibraltar pound (GIP), which is at par with the British pound sterling (GBP).
+The currency of Gibraltar is the Gibraltar pound (GIP), which is at par with the British pound sterling (GBP).
 
-English banknotes and coinage are also accepted in Gibraltar.
+English banknotes and coins are also accepted in Gibraltar.

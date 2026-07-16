@@ -2,6 +2,48 @@
 
 ## Natural disasters and climate
 
+The following regions are expecting severe weather for several days starting July 15:
+
+* Yellow alert (warning):
+
++ Coquimbo
++ Metropolitana
++ O'Higgins
++ Biobío
+
+* Green alert (preventative):
+
++ Atacama
++ Maule
++ Ñuble
++ La Araucanía
++ Los Ríos
+
+The severe weather, depending on the region, includes:
+
+* strong winds
+* heavy rainfall and flooding
+* snow or blizzards in mountainous regions
+* large coastal swells
+
+The following essential services could be disrupted:
+
+* electricity
+* transportation, including flights
+* the public water supply
+* telecommunications
+
+If you are in an affected area:
+
+* monitor local media for the latest information
+* follow the instructions of local authorities, including evacuation orders
+
+### Useful links
+
+* [Latest alerts](https://senapred.cl/informate/alertas) – National Service for Disaster Prevention and Response (SENAPRED) (Spanish only)
+* [Meteorological alert system](https://www.meteochile.gob.cl/PortalDMC-web/index.xhtml) – Meteorological Directorate of Chile (Spanish only)
+* [Torrential rains, flooding and mudslides](#flooding)
+
 Chile is subject to various natural disasters such as:
 
 * volcanic eruptions
@@ -62,7 +104,9 @@ In the event of an earthquake or tsunami:
 
 ### Torrential rains, flooding and mudslides
 
-Flooding is frequent during the fall and the winter, especially between May and August. It occurs throughout the country, mainly as a result of heavy rains and overloaded sewage systems. Seasonal flooding can hamper overland travel and reduce the provision of essential services. Roads may become impassable and bridges damaged.
+Flooding is frequent during the fall and the winter, especially between May and August. It occurs throughout the country, mainly as a result of heavy rains and overloaded sewage systems.
+
+Seasonal flooding can hamper overland travel and reduce the provision of essential services, such as electricity and water, for extended periods. Roads may become impassable and bridges damaged.
 
 Flooding from rising river levels after heavy rain can cause injuries and deaths.
 
