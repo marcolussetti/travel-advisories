@@ -1,11 +1,11 @@
 {
     "name": "Zimbabwe",
-    "update_reason": "Addition of information about flooding in Zimbabwe ('Safety and security' page).",
+    "update_reason": "Addition of  information about direct flights between London and Harare ('Safety and security' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Zimbabwe/Warnings and insurance.md",
-            "update_date": "2026-01-20T14:14:32+00:00"
+            "update_date": "2026-07-15T09:15:29+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Zimbabwe/Getting help.md"
         }
     ],
-    "update_date": "2026-01-20T14:14:32+00:00"
+    "update_date": "2026-07-15T09:15:29+01:00"
 }

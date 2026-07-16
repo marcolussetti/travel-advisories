@@ -1,11 +1,11 @@
 {
     "name": "Philippines",
-    "update_reason": "Information on the 7.8 magnitude earthquake in Mindanao and associated tsunami risk ('Warnings and insurance' page).",
+    "update_reason": "Information about typhoon season (\u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Philippines/Warnings and insurance.md",
-            "update_date": "2026-06-08T14:16:24+01:00"
+            "update_date": "2026-07-15T09:55:25+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Philippines/Getting help.md"
         }
     ],
-    "update_date": "2026-06-08T14:16:24+01:00"
+    "update_date": "2026-07-15T09:55:25+01:00"
 }

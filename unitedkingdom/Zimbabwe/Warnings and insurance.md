@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   21 January 2026
+:   16 July 2026
 
 Updated:
-:   20 January 2026
+:   15 July 2026
 
 Latest update:
-:   Addition of information about flooding in Zimbabwe ('Safety and security' page).
+:   Addition of information about direct flights between London and Harare ('Safety and security' page).
 
 ## Before you travel
 

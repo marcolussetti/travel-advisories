@@ -44,7 +44,7 @@ If you do not have evidence of Pakistani nationality and you entered without a v
 
 ## Citizens of Pakistan overseas
 
-The National Identity Card for Overseas Pakistanis (NICOP) or Smart National Identity Card Overseas Pakistanis (SNICOP), are issued to citizens of Pakistan who are not resident in Pakistan. If you hold either, you will be recognised as a citizen of Pakistan. You can enter Pakistan without a visa and stay for an unlimited period. See [how to apply for Pakistani identity cards](https://www.phclondon.org/nadra).
+The National Identity Card for Overseas Pakistanis (NICOP) or Smart National Identity Card Overseas Pakistanis (SNICOP), are issued to citizens of Pakistan who are not resident in Pakistan. If you hold a valid version of either, you will be recognised as a citizen of Pakistan. You can enter Pakistan without a visa and stay for an unlimited period. See [how to apply for Pakistani identity cards](https://www.phclondon.org/nadra).
 
 ## Travelling with children
 
@@ -68,7 +68,7 @@ Border crossings may be closed at short notice, and access is limited and closel
 
 ### Pakistan-India  border
 
-The international border between Pakistan and India is subject to strict controls. The Wagah border crossing on the Grand Trunk Road is the only official land  crossing between the two countries, but it is currently closed. The Kartarpur Corridor is currently not in use for Sikh pilgrims visiting Gurdwara Darbar Sahib.
+The international border between Pakistan and India is subject to strict controls. The Wagah border crossing on the Grand Trunk Road is the only official land  crossing between the two countries, but it is currently closed. However, visitors may still access and attend the daily Wagah border ceremony. The Kartarpur Corridor is currently not in use for Sikh pilgrims visiting Gurdwara Darbar Sahib.
 
 Ensure you have the necessary visas and documentation and check with local authorities or travel providers before attempting to cross.
 

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   1 May 2026
+:   16 July 2026
 
 Updated:
-:   30 April 2026
+:   15 July 2026
 
 Latest update:
-:   New information on seasonal flash floodings (‘Warnings and insurance’ page).
+:   Addition of information about flooding ('Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/6991cc717da91680ad7f4436/Bangladesh_map.jpg)
 
@@ -28,9 +28,15 @@ Find out more about [why FCDO advises against travel](https://www.gov.uk/foreig
 
 See [how to get help from the UK government abroad](https://www.contact.service.csd.fcdo.gov.uk/posts/pakistan/british-high-commission-islamabad) including in an emergency.
 
-## Seasonal flash floodings
+## Flooding
 
-There is an increased risk of seasonal flooding in parts of northeast Bangladesh, including the Sylhet region, due to heavy rainfall during the pre‑monsoon period. Flash floods may occur with little warning and could disrupt transport, utilities and access to services, particularly in low‑lying and river‑adjacent areas. Monitor updates from the [Bangladesh Flood Forecasting and Warning Centre](https://ffwc.gov.bd/app/flood-summary) and the [Bangladesh Meteorological Department](https://live8.bmd.gov.bd/) and follow the advice of local authorities.
+Flash floods and landslides have affected parts of Bangladesh, including the Chittagong Hill Tracts, Cox’s Bazar and Sylhet regions.
+
+There is an increased risk of seasonal flooding in parts of northeast Bangladesh, including the Sylhet region, due to heavy rainfall during the pre‑monsoon period.
+
+Flooding may occur with little warning and could disrupt transport, utilities and access to services, particularly in low‑lying and river‑adjacent areas.
+
+Monitor local weather forecasts and updates from the [Bangladesh Flood Forecasting and Warning Centre](https://ffwc.gov.bd/app/flood-summary) and the [Bangladesh Meteorological Department](https://live8.bmd.gov.bd/) and follow the advice of local authorities.
 
 ## Global travel impacts due to escalation in the Middle East
 

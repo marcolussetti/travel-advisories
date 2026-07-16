@@ -1,11 +1,11 @@
 {
     "name": "Bangladesh",
-    "update_reason": "New information on seasonal flash floodings (\u2018Warnings and insurance\u2019 page).",
+    "update_reason": "Addition of information about flooding ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Bangladesh/Warnings and insurance.md",
-            "update_date": "2026-04-30T14:53:20+01:00"
+            "update_date": "2026-07-15T12:12:09+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Bangladesh/Getting help.md"
         }
     ],
-    "update_date": "2026-04-30T14:53:20+01:00"
+    "update_date": "2026-07-15T12:12:09+01:00"
 }

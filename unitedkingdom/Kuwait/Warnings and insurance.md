@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   10 July 2026
+:   16 July 2026
 
 Updated:
-:   9 July 2026
+:   15 July 2026
 
 Latest update:
-:   Updated information about regional tensions ('Warnings and insurance' page).
+:   Updated with information about the risks from terrorism (‘Safety and security’ page).
 
 ## Regional tensions
 

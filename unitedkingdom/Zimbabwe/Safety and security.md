@@ -169,6 +169,8 @@ The [UK Air Safety List](https://www.gov.uk/guidance/uk-air-safety-list#zimbabwe
 
 British government employees travelling to and within Zimbabwe have been advised to use carriers that are not on the UK ASL.
 
+On 9 July, Air Zimbabwe announced the resumption of direct flights between London and Harare. This service will be operated by Spanish carrier Plus Ultra Líneas Aéreas on behalf of Air Zimbabwe. As Plus Ultra Líneas Aéreas is the operating carrier and holds the necessary approvals to operate services to the UK, this specific route is eligible under UK air safety regulations.
+
 ### Rail travel
 
 The rail system in Zimbabwe is underdeveloped and very poorly maintained. Level crossings are poorly marked, resulting in many accidents. Passenger services are currently suspended. Check with [National Railways of Zimbabwe](https://nrz.co.zw/) for updates.

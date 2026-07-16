@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   9 June 2026
+:   16 July 2026
 
 Updated:
-:   8 June 2026
+:   15 July 2026
 
 Latest update:
-:   Information on the 7.8 magnitude earthquake in Mindanao and associated tsunami risk ('Warnings and insurance' page).
+:   Information about typhoon season (‘Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/616406778fa8f52980d9301c/FCDO__TA__033_-_Philippines_Travel_Advice_Ed2__WEB_.jpg)
 
@@ -32,23 +32,9 @@ This advice is due to terrorist activity and clashes between the military and in
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/philippines/safety-and-security#terrorism).
 
-## Earthquake in Mindanao
+## Typhoons
 
-On 8 June 2026, a 7.8 magnitude earthquake struck Mindanao, an island in the southern Philippines. Aftershocks are expected, and there may be damage to buildings and infrastructure in affected areas. [The Philippine Institute of Volcanology and Seismology (PHIVOLCS)](https://tsunami.phivolcs.dost.gov.ph/Tsunami_Information/2026_Tsunami_Information/Jun/07/20260607_2337z_Advisory3_1.html) has issued a tsunami threat and advised residents and visitors in affected coastal areas to evacuate to higher ground.
-
- If you are in the affected area:
-
-* Follow the advice of local authorities and emergency services
-* Move to higher ground if you are in coastal areas
-* Be aware of the risk of aftershocks
-* Avoid damaged buildings and infrastructure
-* Monitor local media and official sources for updates.
-
-If you are planning to travel to Mindanao:
-
-* Contact your travel provider for updates
-* Ensure your travel insurance covers natural disasters
-* Stay informed via the [Philippine Institute of Volcanology and Seismology (PHIVOLCS)](https://www.phivolcs.dost.gov.ph/) and [the National Disaster Risk Reduction and Management Council (NDRRMC)](https://ndrrmc.gov.ph/)
+Around 20 typhoons hit the Philippines each year. Most typhoons happen between June and November. Follow the advice of local authorities, and monitor the progress of storms on the [Philippines state weather agency](http://www.pagasa.dost.gov.ph/) and the [Philippines Disaster Risk Reduction and Management Council](http://www.ndrrmc.gov.ph/index.php). You can find updates on [typhoon2000.ph](http://www.typhoon2000.ph/), or follow [@Typhoon2k](https://twitter.com/Typhoon2k) on X.
 
 ## Global travel impacts due to escalation in the Middle East
 

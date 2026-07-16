@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   20 June 2026
+:   16 July 2026
 
 Updated:
-:   19 June 2026
+:   15 July 2026
 
 Latest update:
-:   Updated information about regional tensions (‘Warnings and insurance’ page).
+:   Updated information about the situation in Pakistan-administered Kashmir, wider regional tensions, and attending the Wagah border ceremony ('Warnings and insurance' page).
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
@@ -59,7 +59,7 @@ FCDO advises against all travel to Balochistan Province.
 
 ### Pakistan-India Border Area
 
-FCDO advises against all but essential travel within 5 miles of the international border between Pakistan and India except the Grand Trunk highway to India via Wagah border (which is currently closed) and the Kartarpur Corridor for Sikh pilgrims visiting Gurdwara Darbar Sahib (currently closed for crossings).
+FCDO advises against all but essential travel within 5 miles of the international border between Pakistan and India. Exceptions are the Grand Trunk highway via the Wagah border (the crossing point is currently closed, however visitors can still access and attend the daily Wagah border ceremony) and the Kartarpur Corridor for Sikh pilgrims visiting Gurdwara Darbar Sahib (currently closed for crossings).
 
 ### Pakistan-administered Kashmir
 
@@ -79,9 +79,9 @@ Find out more about [why FCDO advises against travel to these regions](/foreign-
 
 ## Demonstrations in Pakistan-administered Kashmir
 
-There are currently demonstrations in areas of Pakistan-administered Kashmir (known locally as “Azad Jammu and Kashmir”).
+There are currently demonstrations in areas of Pakistan-administered Kashmir, known locally as “Azad Jammu and Kashmir”.
 
-Local authorities are advising tourists to avoid travel to the area from 5 to 20 June, and for tourists already there to leave to avoid potential disruption.
+Local authorities are advising tourists to avoid travel to the area, and for tourists already there to leave to avoid potential disruption.
 
 Strikes in the area have previously led to:
 
@@ -91,7 +91,7 @@ Strikes in the area have previously led to:
 
 ## Regional tensions
 
-The US and Iran have announced a memorandum of understanding in relation to the conflict in the Middle East. The situation remains unpredictable and can change without warning.
+There have been renewed strikes between the US and Iran since the announcement of a memorandum of understanding in relation to the conflict in the Middle East. The situation remains unpredictable and can change without warning.
 
 Ongoing regional tensions pose significant security and economic risks and have led to travel disruption. Please check with your airline before travelling.
 

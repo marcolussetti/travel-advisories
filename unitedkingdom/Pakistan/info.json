@@ -1,11 +1,11 @@
 {
     "name": "Pakistan",
-    "update_reason": "Updated information about regional tensions (\u2018Warnings and insurance\u2019 page).",
+    "update_reason": "Updated information about the situation in Pakistan-administered Kashmir, wider regional tensions, and attending the Wagah border ceremony ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Pakistan/Warnings and insurance.md",
-            "update_date": "2026-06-19T11:57:29+01:00"
+            "update_date": "2026-07-15T16:25:14+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Pakistan/Getting help.md"
         }
     ],
-    "update_date": "2026-06-19T11:57:29+01:00"
+    "update_date": "2026-07-15T16:25:14+01:00"
 }
