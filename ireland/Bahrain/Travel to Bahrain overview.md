@@ -6,7 +6,11 @@ Avoid Non-Essential Travel
 
 ### **Travel Alert**
 
-**Security Situation in the Middle East and Gulf Region**
+### **Security Situation in the Middle East and Gulf Region**
+
+**On 14 July 2026,** **the EU Aviation Safety Agency issued a travel** [**advisory**](https://www.easa.europa.eu/en/domains/air-operations/czibs/czib-2026-07) **stating that air operators should not operate within the airspace of Bahrain, Kuwait, Qatar, the United Arab Emirates, and in some parts of the airspace over the waters of the Gulf of Oman. We understand that this advisory is active until 29 July 2026.**
+
+**Irish citizens concerned about their travel plans, including transit travel through the region, should check with their airline for further information.**
 
 **In light of the current security situation in the Middle East and Gulf region, the Department of Foreign Affairs and Trade strongly advises Irish citizens against all but essential travel to Bahrain until further notice.**
 
