@@ -16,6 +16,8 @@ If you are planning to visit or transit through more than one country, including
 
 Immigration Officers may request to see proof of your accommodation, return flight and visit plans. They may also conduct an interview.
 
+If you plan to return to the USA for a subsequent match, and your passport is lost or stolen, an Emergency Travel Document provided by the British Embassy cannot be used to re-enter the USA from Mexico.
+
 ## Travel insurance
 
 If you choose to travel, research your destinations and [get appropriate travel insurance](https://www.gov.uk/guidance/foreign-travel-insurance) for the full duration of your journey. Insurance should cover your itinerary, planned activities and expenses in an emergency.
@@ -35,12 +37,6 @@ Ensure you check the stadium’s code of conduct for any match you are attending
 Check the official [FIFA World Cup 2026 ticketing page](https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/tickets) for more information.
 
 Ensure you check the [FIFA World Cup 2026 app](https://play.google.com/store/apps/details?id=com.fifa.tournament&hl=en) for any match you are attending. This sets out what you can bring into the World Cup stadiums.
-
-## England vs Mexico
-
-England play Mexico at Estadio Ciudad de México (Mexico City Stadium) in Mexico City on 5 July 2026.
-
-If you are planning to travel to Mexico, or attend the match, read the World Cup page for more information, and read our Mexico travel advice in full, including the [‘Warnings and insurance’](https://www.gov.uk/foreign-travel-advice/mexico), [‘Entry requirements’](https://www.gov.uk/foreign-travel-advice/mexico/entry-requirements) and [‘Safety and security’](https://www.gov.uk/foreign-travel-advice/mexico/safety-and-security) pages.
 
 ## Accommodation
 
@@ -83,6 +79,8 @@ Check the official [World Cup 2026](https://www.fifa.com/en/tournaments/mens/wor
 
 There is a risk of crowd surges, pushing and crushing, before, during and after the World Cup matches. Take care in public places where people gather and if you feel uncomfortable, leave the area. Follow the advice of local authorities.
 
+Three people died following football celebrations in crowds at the Angel of Independence in Mexico City.
+
 ## Political situation
 
 Since the beginning of June, protests by workers’ unions have caused disruption in Mexico City by intermittently closing off areas near the historic centre (the Zócolo and surrounding streets). Protests have also caused sporadic disruption to traffic, including temporarily closing arterial roads such as Paseo de la Reforma, Periférico Sur and Circuito Interior, as well as briefly blocking access to the airport (AICM). These protests are generally peaceful, but some have resulted in clashes with police, as well as an increased security presence around affected areas.
@@ -102,6 +100,8 @@ The laws relating to the consumption and purchase of alcohol and drugs can diffe
 The national legal age for drinking alcohol in Mexico is 18. It is illegal to drink in public places, including outside restaurants, theatres and stadiums. Doing so could lead to a £200 fine or arrest.
 
 It is illegal to bring e-cigarettes, vaping devices and solutions into Mexico or to buy and sell them.
+
+Reports of mobile phone theft and drink-spiking have increased during the tournament.
 
 See more advice on the [Safety and security page](https://www.gov.uk/foreign-travel-advice/mexico/safety-and-security).
 

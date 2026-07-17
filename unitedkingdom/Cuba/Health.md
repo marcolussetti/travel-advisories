@@ -20,7 +20,7 @@ At least 8 weeks before your trip:
 * check the latest [vaccine recommendations for Cuba](https://travelhealthpro.org.uk/country/60/cuba#Vaccine_Recommendations)
 * see where to get vaccines and whether you have to pay on the [NHS travel vaccinations page](https://www.nhs.uk/conditions/travel-vaccinations/)
 
-The Cuban government has declared an arbovirus epidemic following the significant increase in cases of mosquito-borne diseases in Cuba , including Dengue, Oropouche and Chikungunya. The U.S. Centers for Disease Control and Prevention (CDC) has [issued a notice](https://wwwnc.cdc.gov/travel/notices/level2/chikungunya-cuba) (“Practice Enhanced Precautions”) in response to a Chikungunya outbreak in Cuba.
+The Cuban government had declared an arbovirus epidemic in 2025 following the significant increase in cases of mosquito-borne diseases in Cuba, including Dengue, Oropouche and Chikungunya. Although the epidemic warning is no longer live, these viruses continue to circulate. The U.S. Centers for Disease Control and Prevention (CDC) has [issued a notice](https://wwwnc.cdc.gov/travel/notices/level2/chikungunya-cuba) (“Practice Enhanced Precautions”) in response to a Chikungunya outbreak in Cuba.
 
 See [what health risks you’ll face in Cuba,](https://travelhealthpro.org.uk/country/60/cuba) including:
 
@@ -44,7 +44,7 @@ The legal status and regulation of some medicines prescribed or bought in the UK
 
 ## Healthcare in Cuba
 
-Medical facilities in Havana are better than elsewhere in Cuba. If you need medical treatment, you or your insurance company will need to pay by card with foreign currency before any treatment. Make sure you have accessible funds to cover the cost of any medical treatment abroad and repatriation.
+Medical facilities in Havana are better than elsewhere in Cuba. If you need medical treatment, you or your insurance company will need to pay with foreign currency before any treatment. Make sure you have accessible funds to cover the cost of any medical treatment abroad and repatriation.
 
 FCDO has a [list of medical providers in Cuba](https://www.gov.uk/government/publications/cuba-list-of-medical-facilitiespractitioners) where some staff will speak English.
 

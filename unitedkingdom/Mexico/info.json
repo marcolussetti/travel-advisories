@@ -1,11 +1,11 @@
 {
     "name": "Mexico",
-    "update_reason": "Updated information for fans travelling to the World Cup, including information for those attending the upcoming match between England and Mexico on 5 July 2026, altitude sickness and the risks from large crowds and mass gatherings (\u2018World Cup 2026\u2019 page).",
+    "update_reason": "Removal of information on the match between England and Mexico on 5 July, 2026.",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Mexico/Warnings and insurance.md",
-            "update_date": "2026-07-03T20:33:49+01:00"
+            "update_date": "2026-07-16T16:08:09+01:00"
         },
         {
             "title": "Entry requirements",
@@ -38,5 +38,5 @@
             "file": "unitedkingdom/Mexico/Getting help.md"
         }
     ],
-    "update_date": "2026-07-03T20:33:49+01:00"
+    "update_date": "2026-07-16T16:08:09+01:00"
 }

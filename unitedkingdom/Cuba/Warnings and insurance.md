@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   6 June 2026
+:   17 July 2026
 
 Updated:
-:   5 June 2026
+:   16 July 2026
 
 Latest update:
-:   New information about the ban on international card transactions ('Warnings and insurance' and 'Safety and security' pages).
+:   New information on levels of crime and updated information about power outages ('Warnings and insurance' and 'Safety and security' pages).
 
 ![](https://assets.publishing.service.gov.uk/media/698cc89184cc2df4a87123d5/FCDO__TA__103_-_Cuba_Travel_Advice_Ed1__WEB_.jpg)
 
@@ -22,21 +22,21 @@ The ongoing situation in Cuba has led to a series of recent protests. To date mo
 
 ### Power outages and fuel shortages
 
-On 13 May, the Cuban government announced that the country had exhausted its reserves of diesel and fuel oil. This may lead to severe and sustained disruption to essential infrastructure and basic services, including transport, medical care and communications. Authorities have introduced fuel rationing, scaled back public services, and made changes to healthcare, education, transport and tourism operations to conserve severely limited energy supplies.
+On 14 July, the Cuban National Electric grid collapsed for the third time in a week. On 13 May, the Cuban government announced that the country had exhausted its reserves of diesel and fuel oil. This is leading to severe and sustained disruption to essential infrastructure and basic services, including transport, medical care and communications. Authorities have introduced fuel rationing, scaled back public services, and made changes to healthcare, education, transport and tourism operations to conserve severely limited energy supplies.
 
 If you are currently in Cuba, carefully consider if your presence is essential. Take precautions by conserving fuel, water, food and mobile phone charge, and be prepared for significant disruption.
 
 ### Travel disruption
 
-Cuban authorities have announced that all of its international airports are without aviation fuel. Terminal 2 at José Martí International Airport, which services flights to the USA and some charter flights, has been closed with flights diverted to Terminal 3. Some airlines, including all Canadian airlines, Air France and LATAM, have suspended flights to and from Cuba.  Iberia and Air Europa are reducing the number of weekly flights between Havana and Madrid and other airlines are keeping their routes under review.  Options for leaving the country could reduce further if the situation worsens.
+Cuban authorities have announced that all of its international airports are without aviation fuel. Terminal 2 at José Martí International Airport, which services flights to the USA and some charter flights, has been closed with flights diverted to Terminal 3. Some airlines, including all Canadian airlines, Air France, Iberia, World2Fly and LATAM, have suspended flights to and from Cuba. Other airlines are keeping their routes under review. Options for leaving the country could reduce further if the situation worsens.
 
-The situation has the potential to deteriorate quickly and without warning. Make sure you are ready to change your plans quickly if needed. If you are considering leaving Cuba, check for messaging from your airline or tour operator for up to date information. Ensure your travel documents remain valid and confirm you have any required visas for onward travel.
+The situation has the potential to deteriorate quickly and without warning. Make sure you are ready to change your plans quickly if needed. If you are considering leaving Cuba, check for messaging from your airline or tour operator for up-to-date information. Ensure your travel documents remain valid and confirm you have any required visas for onward travel.
 
 Continue to monitor local media and follow the instructions of local authorities. Subscribe to [FCDO email alerts](https://www.gov.uk/foreign-travel-advice/cuba/email-signup) and read our [guidance on how to deal with a crisis overseas](https://www.gov.uk/government/collections/support-for-british-nationals-abroad#help-in-a-crisis).
 
 ### International card transactions
 
-On 3 June the Cuban Central Bank announced that international cards such as Visa and Mastercard will no longer be accepted in Cuba, with effect from 6 June. Available payment methods include cash and Cuban prepaid cards. It will not be possible to withdraw cash through ATMs with an international card.
+On 3 June the Cuban Central Bank announced that international cards such as Visa and Mastercard will no longer be accepted in Cuba, with effect from 6 June. Available payment methods include cash and Cuban prepaid cards. It is likely that you will not be able to withdraw cash through ATMs with an international card.
 
 If visiting Cuba, you should bring enough cash to cover your expenses for the entire length of your stay and in case of an emergency. US dollars and euros are widely accepted and can be exchanged in Cuba.
 

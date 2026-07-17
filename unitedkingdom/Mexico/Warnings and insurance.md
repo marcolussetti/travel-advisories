@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   4 July 2026
+:   17 July 2026
 
 Updated:
-:   3 July 2026
+:   16 July 2026
 
 Latest update:
-:   Updated information for fans travelling to the World Cup, including information for those attending the upcoming match between England and Mexico on 5 July 2026, altitude sickness and the risks from large crowds and mass gatherings (‘World Cup 2026’ page).
+:   Removal of information on the match between England and Mexico on 5 July, 2026.
 
 ![](https://assets.publishing.service.gov.uk/media/69a1c6c8ec82ce45f05bd70e/FCDO__TA__065_-_Mexico_Travel_Advice_Ed5__WEB_.jpg)
 
@@ -109,15 +109,9 @@ Find out more about [why FCDO advises against travel to these areas](/foreign-tr
 
 ## World Cup 2026
 
-Mexico is co-hosting the 2026 World Cup which takes place between 11 June and 19 July. England play Mexico at Estadio Ciudad de México (Mexico City Stadium) in Mexico City on 5 July 2026.
+Mexico is co-hosting the 2026 World Cup which takes place between 11 June and 19 July.
 
-If you are planning to travel to Mexico during the World Cup, see the [World Cup page](https://www.gov.uk/foreign-travel-advice/mexico/world-cup-2026) for more information and read our Mexico travel advice in full, including the ‘Warnings and insurance’, ‘Entry requirements’ and ‘Safety and security’ pages.
-
-## World Cup 2026 updates:
-
-* 3 people have died following football celebrations in crowds at the Angel of Independence in Mexico City
-* reports of mobile phone theft and drink-spiking have increased during the tournament
-* if you plan to return to the USA for a subsequent match, and your passport is lost or stolen, an Emergency Travel Document provided by the British Embassy cannot be used to re-enter the USA from Mexico
+If you are planning to travel to Mexico during the World Cup, see the [World Cup page](https://www.gov.uk/foreign-travel-advice/mexico/world-cup-2026) for more information.
 
 ## Before you travel
 

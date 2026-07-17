@@ -18,7 +18,7 @@ Avoid any demonstrations or large gatherings and follow the advice of the local 
 
 ## Crime
 
-Levels of crime are generally lower than in the UK, but the difficult economic situation means opportunistic crime is increasing. Muggings are a risk, particularly at night.
+Levels of crime are generally lower than in the UK, but the difficult economic situation is leading to an increase in opportunistic crime. There have been reports of muggings in Havana and of burglaries at properties, with instances of violent crime. Siphoning of fuel from parked vehicles is a regular occurrence. You should exercise caution, particularly at night. Keep your personal belongings, including your passport, in a secure place, avoid carrying large amounts of cash or showing signs of affluence.
 
 ### Protecting your belongings
 
@@ -70,7 +70,7 @@ If you break the law, or are suspected of causing injury to someone, you may be 
 
 ### Money
 
-On 3 June the Cuban Central Bank announced that international cards such as Visa and Mastercard will no longer be accepted in Cuba,with effect from 6 June. Available payment methods include cash and Cuban prepaid cards. It will not be possible to withdraw cash through ATMs with an international card.
+On 3 June the Cuban Central Bank announced that international cards such as Visa and Mastercard will no longer be accepted in Cuba, with effect from 6 June. Available payment methods include cash and Cuban prepaid cards. It it likely that you will not be able to withdraw cash through ATMs with an international card.
 
 If visiting Cuba, you should bring enough cash to cover your expenses for the entire length of your stay and in case of an emergency. US dollars and euros are widely accepted and can be exchanged in Cuba.
 
