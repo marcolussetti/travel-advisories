@@ -56,13 +56,13 @@
     {
         "destination": "Argentina",
         "risk_level": "Take normal security precautions (with regional advisories)",
-        "last_updated": "2026-06-23T16:13:34",
+        "last_updated": "2026-07-16T13:42:29",
         "details_url": "https://travel.gc.ca/destinations/argentina"
     },
     {
         "destination": "Armenia",
         "risk_level": "Take normal security precautions (with regional advisories)",
-        "last_updated": "2026-07-08T09:16:45",
+        "last_updated": "2026-07-16T13:46:05",
         "details_url": "https://travel.gc.ca/destinations/armenia"
     },
     {
@@ -320,7 +320,7 @@
     {
         "destination": "Czechia",
         "risk_level": "Take normal security precautions",
-        "last_updated": "2026-07-13T14:53:10",
+        "last_updated": "2026-07-16T14:32:08",
         "details_url": "https://travel.gc.ca/destinations/czechia"
     },
     {
@@ -572,7 +572,7 @@
     {
         "destination": "Indonesia",
         "risk_level": "Exercise a high degree of caution (with regional advisories)",
-        "last_updated": "2026-07-15T07:01:27",
+        "last_updated": "2026-07-16T13:39:21",
         "details_url": "https://travel.gc.ca/destinations/indonesia"
     },
     {
@@ -614,7 +614,7 @@
     {
         "destination": "Japan",
         "risk_level": "Take normal security precautions",
-        "last_updated": "2026-07-13T11:38:16",
+        "last_updated": "2026-07-16T12:53:48",
         "details_url": "https://travel.gc.ca/destinations/japan"
     },
     {
@@ -878,7 +878,7 @@
     {
         "destination": "New Zealand",
         "risk_level": "Take normal security precautions",
-        "last_updated": "2026-06-29T13:33:05",
+        "last_updated": "2026-07-16T07:48:24",
         "details_url": "https://travel.gc.ca/destinations/new-zealand"
     },
     {
@@ -938,7 +938,7 @@
     {
         "destination": "Pakistan",
         "risk_level": "Exercise a high degree of caution (with regional advisories)",
-        "last_updated": "2026-07-08T09:16:46",
+        "last_updated": "2026-07-16T13:23:54",
         "details_url": "https://travel.gc.ca/destinations/pakistan"
     },
     {
@@ -962,7 +962,7 @@
     {
         "destination": "Paraguay",
         "risk_level": "Exercise a high degree of caution",
-        "last_updated": "2026-06-23T13:51:44",
+        "last_updated": "2026-07-16T13:46:49",
         "details_url": "https://travel.gc.ca/destinations/paraguay"
     },
     {
@@ -1214,7 +1214,7 @@
     {
         "destination": "Taiwan",
         "risk_level": "Take normal security precautions",
-        "last_updated": "2026-07-13T11:39:46",
+        "last_updated": "2026-07-16T13:40:47",
         "details_url": "https://travel.gc.ca/destinations/taiwan"
     },
     {
@@ -1322,7 +1322,7 @@
     {
         "destination": "United States",
         "risk_level": "Take normal security precautions",
-        "last_updated": "2026-07-09T13:36:22",
+        "last_updated": "2026-07-16T13:26:55",
         "details_url": "https://travel.gc.ca/destinations/united-states"
     },
     {

@@ -1,7 +1,7 @@
 {
     "name": "Japan",
-    "update_reason": "Natural disasters section \u2013 removed Typhoon Bavi information",
-    "update_date": "2026-07-13T11:38:00",
+    "update_reason": "Natural disasters and climate section \u2013 added information on heat waves",
+    "update_date": "2026-07-16T12:53:00",
     "sections": {
         "risk": "canada/Japan/risk.md",
         "security": "canada/Japan/security.md",

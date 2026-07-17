@@ -31,6 +31,19 @@ If you decide to travel to Japan during the typhoon season:
 * [Severe storms outside Canada](https://travel.gc.ca/travelling/health-safety/hurricanes-typhoons-cyclones-monsoons)
 * [Large-scale emergencies abroad](https://travel.gc.ca/assistance/emergency-info/large-scale-emergencies-abroad)
 
+### Heat waves
+
+Severe heat waves periodically affect Japan between July and September. High temperatures can be dangerous. Know the symptoms of dehydration and heatstroke, which can both be fatal.
+
+If there's a heat wave:
+
+* stay indoors or in the shade during midday hours
+* stay hydrated
+* carry a sufficient water supply
+* monitor local media for information on heat warnings
+
+[Heat Stroke Alert](https://www.wbgt.env.go.jp/en/alert.php) – Ministry of the Environment Government of Japan
+
 ### Seismic activity
 
 Japan is located in an active seismic zone and is prone to a multitude of natural disasters such as earthquakes, tsunamis, flooding, volcanic eruptions. Strong earthquakes occur, as well as tsunamis.

@@ -1,7 +1,7 @@
 {
     "name": "New Zealand",
-    "update_reason": "Editorial change",
-    "update_date": "2026-06-29T13:33:00",
+    "update_reason": "Natural disasters and climate section - removed information on the tsunami advisory",
+    "update_date": "2026-07-16T07:48:00",
     "sections": {
         "risk": "canada/New Zealand/risk.md",
         "security": "canada/New Zealand/security.md",

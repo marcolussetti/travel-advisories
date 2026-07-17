@@ -63,6 +63,17 @@ Holders of a valid Canadian passport are eligible to apply online for a Pakistan
 
 [Apply for an online visa](https://visa.nadra.gov.pk/) – Pakistan Ministry of Interior
 
+### Dual citizenship
+
+If you are a dual citizen of Pakistan and another country and travel on a foreign passport, you must present a valid National Identity Card for Overseas Pakistanis (NICOP) or a visa to enter Pakistan.
+
+An expired, cancelled or revoked NICOP may result in denial of entry. Ensure your documents are valid before travelling and renew them, if necessary, before departing for Pakistan.
+
+#### Useful links
+
+* [National Identity Card for Overseas Pakistanis (NICOP)](https://www.nadra.gov.pk/identityDocument/nicop?action=new) – Pakistan National Database and Registration Authority (NADRA)
+* [Laws about dual citizenship](https://travel.gc.ca/destinations/pakistan#laws)
+
 ### Journalists
 
 Journalists may have to provide an itinerary to get a visa; the itinerary should be strictly followed during the stay.

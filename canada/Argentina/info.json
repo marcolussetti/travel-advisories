@@ -1,7 +1,7 @@
 {
     "name": "Argentina",
-    "update_reason": "Need help? section \u2013 updated information on consular assistance",
-    "update_date": "2026-06-23T16:13:00",
+    "update_reason": "Editorial change",
+    "update_date": "2026-07-16T13:42:00",
     "sections": {
         "risk": "canada/Argentina/risk.md",
         "security": "canada/Argentina/security.md",
