@@ -4,6 +4,28 @@
 
 Normal Precautions
 
+**Travel Alert**
+
+#### **Extreme Weather**
+
+The following regions are expecting severe weather for several days starting July 15:
+
+* Coquimbo
+* Metropolitana
+* O'Higgins
+* Biobío
+* Atacama
+* Maule
+* Ñuble
+* La Araucanía
+* Los Ríos
+
+The severe weather includes heavy rainfall, flooding, strong winds, coastal swells, and blizzards.
+
+Electricity, water supply, telecommunications and transportation could all be disrupted.
+
+Citizens are advised to monitor local media, and follow the directions of authorities, including [SENAPRED](https://x.com/senapred), the national disaster response agency.
+
 ### **General Travel Advice**
 
 In recent years, there have been large-scale protests and demonstrations leading to civil unrest across Chile, and there is a risk of violent protest in Santiago and other Chilean cities, particularly on Friday afternoons and evenings. Even peaceful protests can become violent.
