@@ -1,7 +1,7 @@
 {
     "name": "Oman",
-    "update_reason": "Risk level section \u2013 exercise a high degree of caution in Oman; Safety and security section \u2013 updated information on tensions in the Middle East",
-    "update_date": "2026-06-25T16:23:00",
+    "update_reason": "Risk level section \u2013 Avoid non-essential travel to Oman",
+    "update_date": "2026-07-17T18:44:00",
     "sections": {
         "risk": "canada/Oman/risk.md",
         "security": "canada/Oman/security.md",

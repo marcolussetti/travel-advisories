@@ -74,7 +74,7 @@
     {
         "destination": "Australia",
         "risk_level": "Take normal security precautions",
-        "last_updated": "2026-07-07T08:09:40",
+        "last_updated": "2026-07-17T10:28:50",
         "details_url": "https://travel.gc.ca/destinations/australia"
     },
     {
@@ -266,7 +266,7 @@
     {
         "destination": "China",
         "risk_level": "Exercise a high degree of caution",
-        "last_updated": "2026-06-24T15:15:37",
+        "last_updated": "2026-07-17T07:35:50",
         "details_url": "https://travel.gc.ca/destinations/china"
     },
     {
@@ -512,7 +512,7 @@
     {
         "destination": "Guatemala",
         "risk_level": "Exercise a high degree of caution (with regional advisories)",
-        "last_updated": "2026-07-08T09:16:45",
+        "last_updated": "2026-07-17T15:59:29",
         "details_url": "https://travel.gc.ca/destinations/guatemala"
     },
     {
@@ -619,8 +619,8 @@
     },
     {
         "destination": "Jordan",
-        "risk_level": "Exercise a high degree of caution (with regional advisories)",
-        "last_updated": "2026-06-25T16:25:51",
+        "risk_level": "Avoid non-essential travel (with regional advisories)",
+        "last_updated": "2026-07-17T18:41:38",
         "details_url": "https://travel.gc.ca/destinations/jordan"
     },
     {
@@ -788,7 +788,7 @@
     {
         "destination": "Mexico",
         "risk_level": "Exercise a high degree of caution (with regional advisories)",
-        "last_updated": "2026-06-23T10:45:02",
+        "last_updated": "2026-07-17T15:49:51",
         "details_url": "https://travel.gc.ca/destinations/mexico"
     },
     {
@@ -931,8 +931,8 @@
     },
     {
         "destination": "Oman",
-        "risk_level": "Exercise a high degree of caution",
-        "last_updated": "2026-06-25T16:23:12",
+        "risk_level": "Avoid non-essential travel",
+        "last_updated": "2026-07-17T18:44:09",
         "details_url": "https://travel.gc.ca/destinations/oman"
     },
     {
@@ -962,7 +962,7 @@
     {
         "destination": "Paraguay",
         "risk_level": "Exercise a high degree of caution",
-        "last_updated": "2026-07-16T13:46:49",
+        "last_updated": "2026-07-17T10:29:59",
         "details_url": "https://travel.gc.ca/destinations/paraguay"
     },
     {
@@ -997,8 +997,8 @@
     },
     {
         "destination": "Qatar",
-        "risk_level": "Exercise a high degree of caution",
-        "last_updated": "2026-07-09T13:39:31",
+        "risk_level": "Avoid non-essential travel",
+        "last_updated": "2026-07-17T19:24:44",
         "details_url": "https://travel.gc.ca/destinations/qatar"
     },
     {
@@ -1087,8 +1087,8 @@
     },
     {
         "destination": "Saudi Arabia",
-        "risk_level": "Exercise a high degree of caution (with regional advisories)",
-        "last_updated": "2026-07-14T15:16:52",
+        "risk_level": "Avoid non-essential travel (with regional advisories)",
+        "last_updated": "2026-07-17T18:43:19",
         "details_url": "https://travel.gc.ca/destinations/saudi-arabia"
     },
     {
@@ -1309,8 +1309,8 @@
     },
     {
         "destination": "United Arab Emirates",
-        "risk_level": "Exercise a high degree of caution",
-        "last_updated": "2026-06-25T16:24:07",
+        "risk_level": "Avoid non-essential travel",
+        "last_updated": "2026-07-17T18:45:07",
         "details_url": "https://travel.gc.ca/destinations/united-arab-emirates"
     },
     {
@@ -1322,7 +1322,7 @@
     {
         "destination": "United States",
         "risk_level": "Take normal security precautions",
-        "last_updated": "2026-07-16T13:26:55",
+        "last_updated": "2026-07-17T13:04:41",
         "details_url": "https://travel.gc.ca/destinations/united-states"
     },
     {

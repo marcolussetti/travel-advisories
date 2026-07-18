@@ -16,9 +16,9 @@ The features in this map do not constitute an authoritative source of geographic
 
 The features in this map do not constitute an authoritative source of geographical information. This map is solely intended to assist Canadians by illustrating the risk levels contained in the Travel Advice and Advisories for this destination. The features in this map do not necessarily represent the views of the Canadian government on international boundaries, nomenclature or political status. The text under the Risk levels section takes precedence over this map.
 
-### Jordan - Exercise a high degree of caution
+### JORDAN - AVOID NON-ESSENTIAL TRAVEL
 
-[Exercise a high degree of caution](#levels "Risk Levels") in Jordan due to the volatile security situation in the region.
+[Avoid non-essential travel](#levels "Risk Levels") to Jordan due to the volatile security situation in the region.
 
 ### Borders with Iraq and Syria - Avoid all travel
 
@@ -27,7 +27,3 @@ The features in this map do not constitute an authoritative source of geographic
 ### Northeastern Jordan, east of Ruwaished - Avoid all travel
 
 [Avoid all travel](#levels "Risk Levels") to all areas east of the city of Ruwaished in northeastern Jordan, including Highway 10 leading to Iraq past Ruwaished, due to military activity and the lack of emergency facilities.
-
-### Refugee camps - Avoid non-essential travel
-
-[Avoid non-essential travel](#levels "Risk Levels") to to all refugee camps, including Zaatari and Azraq, due to the unpredictable security situation.

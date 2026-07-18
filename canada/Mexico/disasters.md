@@ -2,6 +2,13 @@
 
 ## Natural disasters and climate
 
+An earthquake of magnitude 7.4 struck off the Pacific coast of Mexico, near the Mexico-Guatemala border on July 17. Aftershocks could occur.
+
+If you’re in or around the affected areas:
+
+* follow the instructions of local authorities
+* monitor local media for the latest information
+
 ### Climate change
 
 Climate change is affecting Mexico. Extreme and unusual weather events are becoming more frequent and may affect your travel plans. Monitor local media for the latest information.

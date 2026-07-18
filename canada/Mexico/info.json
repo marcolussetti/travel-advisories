@@ -1,7 +1,7 @@
 {
     "name": "Mexico",
-    "update_reason": "Need help? section \u2013 updated information on consular assistance",
-    "update_date": "2026-06-23T10:45:00",
+    "update_reason": "Natural disasters and climate section \u2013 updated information on an earthquake",
+    "update_date": "2026-07-17T15:49:00",
     "sections": {
         "risk": "canada/Mexico/risk.md",
         "security": "canada/Mexico/security.md",

@@ -1,7 +1,7 @@
 {
     "name": "Qatar",
-    "update_reason": "Editorial change",
-    "update_date": "2026-07-09T13:39:00",
+    "update_reason": "Risk level section \u2013 Avoid all non-essential travel to Qatar",
+    "update_date": "2026-07-17T19:24:00",
     "sections": {
         "risk": "canada/Qatar/risk.md",
         "security": "canada/Qatar/security.md",

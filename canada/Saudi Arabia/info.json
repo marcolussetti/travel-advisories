@@ -1,7 +1,7 @@
 {
     "name": "Saudi Arabia",
-    "update_reason": "Risk levels section \u2013 avoid non-essential travel to Abha International Airport",
-    "update_date": "2026-07-14T15:16:00",
+    "update_reason": "Risk levels section \u2013 Avoid non-essential travel to Saudi Arabia",
+    "update_date": "2026-07-17T18:43:00",
     "sections": {
         "risk": "canada/Saudi Arabia/risk.md",
         "security": "canada/Saudi Arabia/security.md",
