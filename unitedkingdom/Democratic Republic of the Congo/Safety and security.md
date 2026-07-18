@@ -24,6 +24,8 @@ A range of military and peacekeeping forces are deployed in eastern DRC. Tension
 
 On 28 January 2025, there were large and violent protests outside multiple embassies in Kinshasa, in response to the fighting in eastern DRC. This resulted in an increased security presence and there is an ongoing risk of sporadic protests, which can involve gun fire.
 
+Protests are planned in Kinshasa on 22 July 2026, related to political developments in DRC.
+
 Public gatherings and demonstrations can occur with little or no notice and can quickly turn violent.
 
 Protests may result in:

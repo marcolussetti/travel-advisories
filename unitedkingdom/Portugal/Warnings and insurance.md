@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   10 July 2026
+:   18 July 2026
 
 Updated:
-:   9 July 2026
+:   17 July 2026
 
 Latest update:
-:   New information about attending festivals and concerts and using swimming pools and updated information about protecting yourself and your belongings, and beach safety (‘Safety and security’ page).
+:   Updated information about travelling with medication (‘Health’ page).
 
 This travel advice also covers Madeira, Porto Santo and the Azores.
 

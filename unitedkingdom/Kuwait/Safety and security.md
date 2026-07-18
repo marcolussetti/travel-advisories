@@ -21,12 +21,6 @@ As was the case before the recent regional escalation, terrorist attacks in Kuwa
 
 Stay aware of your surroundings, keep up to date with local media reports and follow the advice of local authorities.
 
-Examples of recent significant incidents include:
-
-* in 2020, 6 minors were arrested in Kuwait on suspicion of links with ISIS
-* in 2024, 3 individuals were arrested on suspicion of an alleged ISIS plot against a place of worship
-* Red Sea military activity
-
 ## Political situation
 
 Recent developments in the Middle East have heightened tensions in the region. Planned and pre-approved peaceful protests are legal, however these are for Kuwaiti citizens only.

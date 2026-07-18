@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   24 June 2026
+:   18 July 2026
 
 Updated:
-:   23 June 2026
+:   17 July 2026
 
 Latest update:
-:   Additional information on Ebola (‘Entry requirements’ and ‘Health’ pages).
+:   Addition of information about protests planned in Kinshasa on 22 July ('Safety and security' page).
 
 ![](https://assets.publishing.service.gov.uk/media/6a196a3465bc5f798327f4fe/FCDO_TA_012_-_Democratic_Repbulic_of_the_Congo_Travel_Advice_Ed20_WEB.jpg)
 

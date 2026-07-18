@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   16 July 2026
+:   18 July 2026
 
 Updated:
-:   15 July 2026
+:   17 July 2026
 
 Latest update:
-:   Updated information about the situation in Pakistan-administered Kashmir, wider regional tensions, and attending the Wagah border ceremony ('Warnings and insurance' page).
+:   Updated information about the situation in Pakistan-administered Kashmir, wider regional tensions, and attending the Wagah border ceremony. New information about property disputes ('Warnings and insurance' and ‘Safety and security’ pages).
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 

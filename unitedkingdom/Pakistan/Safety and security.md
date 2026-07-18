@@ -152,6 +152,28 @@ Do not take photos at military establishments, airports or any infrastructure (i
 
 You should not take photos of people without seeking prior permission.
 
+### Property disputes
+
+Disputes over property ownership are common in Pakistan and have been known to become violent. British nationals have been victims of property scams such as:
+
+* selling the same property to multiple buyers
+* using forged ownership documents or fake land records
+* illegal occupation of land or property (‘qabza’), particularly where owners live overseas
+* selling plots in unapproved or fraudulent housing schemes
+* impersonating the rightful owner to sell or transfer property
+* using a Power of Attorney to take control of someone else’s property without their consent
+* relatives selling inherited or jointly owned property without consent
+* misuse of rental income or unauthorised management of property
+* disputes arising from informal or verbal family agreements
+
+The British High Commission cannot get involved in property disputes. Consular staff are not legally trained and cannot provide legal advice or intervene in private legal matters.
+
+If you are involved in a property dispute, you should seek independent legal advice from an English-speaking lawyer in Pakistan.
+
+If your case relates to property in Punjab, you may contact the Overseas Pakistani Cell at the Lahore High Court which deals with legal cases involving Pakistani nationals living overseas.
+
+If you are concerned for your safety, you should contact the police. The British Government cannot provide private security. If you do wish to have private security, you should consider arranging this for yourself through a private security company.
+
 ### LGBT+ travellers
 
 Same-sex sexual activity between men is illegal. There are occasional arrests, and there are negative attitudes to same-sex relationships throughout Pakistan which can sometimes result in violence. See more details from the Human Dignity Trust about the [current application of the law](https://www.humandignitytrust.org/country-profile/pakistan/).
