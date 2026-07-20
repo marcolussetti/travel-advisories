@@ -10,6 +10,8 @@ Following regional hostilities with Iran and in Israel, Lebanon, the West Bank a
 
 If you hear sirens, remain indoors and stay away from windows to ensure protection from any possible missile/drone fragments. If there are any injuries or damages, call 911 immediately.
 
+On 19 July, missiles were intercepted in the vicinity of Aqaba international airport and seaport. FCDO advises against all but essential travel to Aqaba international airport and seaport.
+
 ## Land border crossings
 
 The roads within Jordan and land border crossings between Jordan and Israel and the West Bank can close at no notice.

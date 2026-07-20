@@ -1,18 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   13 July 2026
+:   20 July 2026
 
 Updated:
-:   12 July 2026
+:   19 July 2026
 
 Latest update:
-:   New information about regional tensions in Jordan (Warnings and insurance page).
-
-![](https://assets.publishing.service.gov.uk/media/6a1fe5c159fb7a60f827f6ac/FCDO__TA__087_-_Jordan_Travel_Advice_Ed2__WEB_.jpg)
-
-
-[Download a more detailed map (PDF, 386 KB)](https://assets.publishing.service.gov.uk/media/6a1fe5c1b95db968c8f3bdd6/FCDO__TA__087_-_Jordan_Travel_Advice_Ed2.pdf)
+:   The FCDO advises against all but essential travel to Aqaba international airport and seaport. (Warnings and insurance page).
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
@@ -21,6 +16,12 @@ Your travel insurance could be invalidated if you travel against advice from the
 ### Jordan-Syria border
 
 FCDO advises against all travel to within 3km of the border with Syria.
+
+## Areas where FCDO advises against all but essential travel
+
+### Aqaba Governate
+
+FCDO advises against all but essential travel to Aqaba international airport and seaport.
 
 ## Regional tensions
 
