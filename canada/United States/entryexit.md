@@ -37,8 +37,6 @@ As per the Western Hemisphere Travel Initiative (WHTI), Canadian citizens aged 1
 
 * a valid passport
 * a Trusted Traveler Program card
-* an enhanced driver’s licence (EDL) or enhanced identification card (EIC) from a province or territory where a U.S. approved EDL/EIC program has been implemented
-* a Secure Certificate of Indian Status (SCIS)
 
 The WHTI-compliant document you choose to use must be valid for the duration of your stay.
 
@@ -52,8 +50,6 @@ Canadian citizens aged 15 years and under entering the United States by land or 
 
 * [Western Hemisphere Travel Initiative (WHTI](https://www.cbp.gov/travel/us-citizens/western-hemisphere-travel-initiative)) – U.S. Customs and Border Protection
 * [Trusted Traveler Programs](https://www.dhs.gov/trusted-traveler-programs?utm_source=(direct)&utm_medium=(none)&utm_term=undefined&utm_content=undefined&utm_campaign=(not%20set)&gclid=undefined&dclid=undefined) – U.S. Customs and Border Protection
-* [Enhanced Driver’s Licenses: What Are They?](https://www.dhs.gov/enhanced-drivers-licenses-what-are-they) – U.S. Department of Homeland Security
-* [Apply for a Secure Certificate of Indian Status](http://www.aadnc-aandc.gc.ca/eng/1100100032380/1100100032381) – Indigenous Services Canada
 
 #### Passport for official travel
 
@@ -105,7 +101,7 @@ When travelling between Canada and the United States, you should carry both your
 
 #### Canadians with dual citizenship from a third country
 
-On January 1, 2026, the specific countries whose nationals are subject to entry limitations in the U.S. were updated per the proclamation “Restricting and Limiting the Entry of Foreign Nationals to Protect the Security of the United States”. Canadian citizens, including dual citizens, travelling on a Canadian passport are not affected by this proclamation.
+On January 1, 2026, the specific countries whose nationals are subject to entry limitations in the U.S. were updated per the proclamation “Restricting and Limiting the Entry of Foreign Nationals to Protect the Security of the United States”. Canadian citizens, including dual citizens, travelling on a Canadian passport are not subject to these entry limitations. However, if you travel or stay requires a visa, including renewals or extensions, you may face delays caused by new processing procedures.
 
 #### Useful links
 
@@ -122,7 +118,7 @@ In most circumstances, Canadian citizens don’t require visitor, business, tran
 If you do need a visa, be aware that U.S. authorities may periodically review already-issued visas. Visas can be terminated for various reasons, including:
 
 * violation of admission terms
-* a re-assessment of eligibility, including because of previous criminal convictions
+* a re-assessment of eligibility, including because of previous criminal convictions or charges
 
 In February 2025, U.S. authorities made changes to some of the instructions on how to fill out visa applications. Follow the current instructions carefully when filling out your application.
 
@@ -163,7 +159,7 @@ Canadians who are permanent residents of the United States must present a valid 
 Permanent resident status in the U.S. can be terminated for certain reasons, including:
 
 * living outside the U.S. for longer than permitted
-* a re-assessment of eligibility, including because of previous criminal convictions
+* a re-assessment of eligibility, including because of previous criminal convictions or charges
 
 [International travel as a U.S. Permanent Resident](https://www.uscis.gov/green-card/after-green-card-granted/international-travel-permanent-resident) – U.S. Citizenship and Immigration Services
 
@@ -200,7 +196,7 @@ Canadian citizens don’t need visas to study or participate in a student exchan
 #### Useful links
 
 * [SEVIS](https://studyinthestates.dhs.gov/sevis-help-hub) – U.S. Department of Homeland Security
-* [Canadian students](https://travel.state.gov/content/travel/en/us-visas/study.html) – U.S. Department of State, Bureau of Consular Affairs
+* [Canadian students](https://ca.usembassy.gov/canadian-students/) – U.S. Embassy and Consulates in Canada
 
 ### Length of stay
 

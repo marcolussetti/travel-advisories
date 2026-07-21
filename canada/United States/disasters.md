@@ -2,17 +2,6 @@
 
 ## Natural disasters and climate
 
-### Flooding in Texas
-
-Heavy rains in Texas have caused significant flooding and have raised water levels in rivers in the State to dangerous levels. Flash flood warnings are in effect in several areas and evacuation orders have been issued for some communities.
-
-* Stay away from riverbanks
-* Do not attempt to drive on flooded roads
-* Follow the directions of local authorities, including evacuation orders
-* Monitor local weather forecasts and emergency alerts for the latest informatio
-
-[July Storms and Flooding](https://tdem.texas.gov/disasters/july-severe-storms-and-flooding-2026) – Texas Division of Emergency Management
-
 Natural disasters can occur at any time.
 
 [Plan Ahead for Disasters](https://www.ready.gov/) – U.S. Department of Homeland Security

@@ -2,10 +2,6 @@
 
 ## Safety and security
 
-### FIFA World Cup 2026™
-
-Canada, Mexico and the United States will be hosting the FIFA World Cup from June 11 to July 19, 2026. If you plan on travelling to Mexico for the tournament, consult our [Advice for Canadians travelling to Mexico – FIFA World Cup 2026™](https://travel.gc.ca/travelling/campaigns/soccer-2026-mexico).
-
 ### Demonstrations
 
 Demonstrations occur frequently, especially in Mexico City, and roadblocks are common during demonstrations. Even peaceful demonstrations can turn violent at any time. They can also lead to disruptions to traffic and public transportation, as well as airport closures.

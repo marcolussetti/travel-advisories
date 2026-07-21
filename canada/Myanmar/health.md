@@ -24,65 +24,6 @@ When travelling in this destination, you might be at risk for diseases that can 
 
 The highlights below will also tell you if your destination may require that vaccine for entering or exiting.
 
-Japanese encephalitis
-
-[Japanese encephalitis](https://www.canada.ca/en/public-health/services/diseases/japanese-encephalitis.html) is a viral infection that can cause swelling of the brain.  It is spread to humans through the bite of an infected mosquito. Risk is very low for most travellers. Travellers at relatively higher risk may want to consider vaccination for JE prior to travelling.
-
-Travellers are at higher risk if they will be:
-
-* travelling long term (e.g. more than 30 days)
-* making multiple trips to endemic areas
-* staying for extended periods in rural areas
-* visiting an area suffering a JE outbreak
-* engaging in activities involving high contact with mosquitos (e.g., entomologists)
-Malaria 
-
-[Malaria](https://www.canada.ca/en/public-health/services/diseases/malaria.html) is a serious and sometimes fatal disease that is caused by parasites spread through the bites of mosquitoes.  
- 
-
-[Antimalarial medication may be recommended](https://www.canada.ca/en/public-health/services/catmat/appendix-1-malaria-risk-recommended-chemoprophylaxis-geographic-area.html) depending on your itinerary and the time of year you are travelling. Consult a health care professional or visit a travel health clinic before travelling to discuss your options. It is recommended to do this 6 weeks before travel, however, it is still a good idea any time before leaving.   
-   
-[Protect yourself from mosquito bites](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html) at all times:   
-• Cover your skin and use an [approved](https://www.canada.ca/en/health-canada/services/about-pesticides/insect-repellents.html) insect repellent on uncovered skin.   
-• Exclude mosquitoes from your living area with screening and/or closed, well-sealed doors and windows.  
-• Use insecticide-treated bed nets if mosquitoes cannot be excluded from your living area.   
-• Wear permethrin-treated clothing.   
-   
-If you develop [symptoms](https://www.canada.ca/en/public-health/services/diseases/malaria/symptoms-malaria.html) similar to malaria when you are travelling or up to a year after you return home, see a health care professional immediately. Tell them where you have been travelling or living.
-
-Rabies 
-
-Rabies is common in this destination and is carried by dogs and some wildlife, including bats. Rabies is a serious disease that’s almost always fatal once symptoms appear. It's spread to humans through the saliva of infected animals, mainly through bites, but it can also be spread through scratches.
-
-Before you travel, talk to a health care professional about rabies vaccination. Vaccination may be recommended, particularly for people at higher risk of exposure, such as:
-
-* veterinarians and wildlife workers
-* children
-* adventure travellers and cave explorers (spelunkers)
-* people who will be in close contact with animals
-
-While travelling:
-
-* avoid contact with animals, especially dogs
-* supervise children closely around animals
-
-If you’re bitten or scratched by an animal:
-
-* wash the wound right away with soap and clean water for about 15 minutes
-* get medical care as soon as possible
-
-In this destination, treatment to prevent rabies may be limited or not available. You may need to travel to another location to receive treatment.
-
-If you get treatment to prevent rabies while outside Canada, ask for:
-
-* written records of medications and vaccines administered, including when they were given, product names, and batch or lot numbers
-* photos of the packaging and labels of any medications or vaccines given to you
-
-When you return to Canada, see a health care professional as soon as possible and bring your treatment records to your appointment.
-
-**Learn more:**  
-[Rabies: Symptoms and treatment](https://www.canada.ca/en/public-health/services/diseases/rabies.html)
-
 Yellow Fever - Country Entry Requirements 
 
 [Yellow fever](https://www.canada.ca/en/public-health/services/diseases/yellow-fever.html) is a disease caused by a flavivirus from the bite of an infected mosquito.
@@ -130,6 +71,60 @@ Getting vaccinated is the best way to protect yourself and others from measles. 
 
 [Measles](https://www.canada.ca/en/public-health/services/diseases/measles.html)
 
+Japanese encephalitis
+
+[Japanese encephalitis](https://www.canada.ca/en/public-health/services/diseases/japanese-encephalitis.html) is a viral infection that can cause swelling of the brain.  It is spread to humans through the bite of an infected mosquito. Risk is very low for most travellers. Travellers at relatively higher risk may want to consider vaccination for JE prior to travelling.
+
+Travellers are at higher risk if they will be:
+
+* travelling long term (e.g. more than 30 days)
+* making multiple trips to endemic areas
+* staying for extended periods in rural areas
+* visiting an area suffering a JE outbreak
+* engaging in activities involving high contact with mosquitos (e.g., entomologists)
+Malaria 
+
+[Malaria](https://www.canada.ca/en/public-health/services/diseases/malaria.html) is a serious and sometimes fatal disease that is caused by parasites spread through the bites of mosquitoes.  
+   
+**There is a risk of malaria in certain areas and/or during a certain time of year in this destination.**
+
+[Antimalarial medication may be recommended](https://www.canada.ca/en/public-health/services/catmat/appendix-1-malaria-risk-recommended-chemoprophylaxis-geographic-area.html) depending on your itinerary and the time of year you are travelling. Consult a health care professional or visit a travel health clinic before travelling to discuss your options. It is recommended to do this 6 weeks before travel, however, it is still a good idea any time before leaving.   
+   
+[Protect yourself from mosquito bites](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html) at all times: 
+
+Rabies 
+
+Rabies is common in this destination and is carried by dogs and some wildlife, including bats. Rabies is a serious disease that’s almost always fatal once symptoms appear. It's spread to humans through the saliva of infected animals, mainly through bites, but it can also be spread through scratches.
+
+Before you travel, talk to a health care professional about rabies vaccination. Vaccination may be recommended, particularly for people at higher risk of exposure, such as:
+
+* veterinarians and wildlife workers
+* children
+* adventure travellers and cave explorers (spelunkers)
+* people who will be in close contact with animals
+
+While travelling:
+
+* avoid contact with animals, especially dogs
+* supervise children closely around animals
+
+If you’re bitten or scratched by an animal:
+
+* wash the wound right away with soap and clean water for about 15 minutes
+* get medical care as soon as possible
+
+In this destination, treatment to prevent rabies may be limited or not available. You may need to travel to another location to receive treatment.
+
+If you get treatment to prevent rabies while outside Canada, ask for:
+
+* written records of medications and vaccines administered, including when they were given, product names, and batch or lot numbers
+* photos of the packaging and labels of any medications or vaccines given to you
+
+When you return to Canada, see a health care professional as soon as possible and bring your treatment records to your appointment.
+
+**Learn more:**  
+[Rabies: Symptoms and treatment](https://www.canada.ca/en/public-health/services/diseases/rabies.html)
+
 COVID-19
 
 COVID-19 is an infectious viral disease. Most of the time, it spreads when people are in close contact with others who are infected with the virus. It spreads through respiratory particles, or through an infected surface or object.
@@ -152,21 +147,6 @@ Eating or drinking unsafe food or water, or swimming in contaminated water can m
 * Don’t swallow water when bathing, showering, swimming in pools, or using hot tubs
 
 [Eat and drink safely abroad](https://travel.gc.ca/travelling/health-safety/food-water)
-
-Cholera
-
-**Risk**
-
-[Cholera](https://www.canada.ca/en/public-health/services/diseases/cholera.html) is a risk in parts of this country. Most travellers are at very low risk.
-
-To protect against cholera, all travellers should practise [safe food and water precautions](https://travel.gc.ca/travelling/health-safety/food-water).
-
-Travellers at higher risk of getting cholera include those:
-
-* visiting, working or living in areas with limited access to safe food, water and proper sanitation
-* visiting areas where outbreaks are occurring
-
-Vaccination may be recommended for high-risk travellers, and should be discussed with a health care professional.
 
 Travellers' diarrhea
 
@@ -195,6 +175,21 @@ A vaccine is available and may be recommended for some travellers to this destin
 [Typhoid fever](https://www.canada.ca/en/public-health/services/diseases/typhoid-fever.html)  
 [Eating and drinking safely abroad](https://travel.gc.ca/travelling/health-safety/food-water)  
 [Clean your hands to help reduce the spread of infectious diseases](https://www.canada.ca/en/public-health/services/healthy-living/hand-hygiene.html)
+
+Cholera
+
+**Risk**
+
+[Cholera](https://www.canada.ca/en/public-health/services/diseases/cholera.html) is a risk in parts of this country. Most travellers are at very low risk.
+
+To protect against cholera, all travellers should practise [safe food and water precautions](https://travel.gc.ca/travelling/health-safety/food-water).
+
+Travellers at higher risk of getting cholera include those:
+
+* visiting, working or living in areas with limited access to safe food, water and proper sanitation
+* visiting areas where outbreaks are occurring
+
+Vaccination may be recommended for high-risk travellers, and should be discussed with a health care professional.
 
 ### Tick and insect bite prevention
 
@@ -232,6 +227,10 @@ A vaccine for the prevention of chikungunya is approved in Canada. Talk to your 
 
 [Chikungunya](https://www.canada.ca/en/public-health/services/diseases/chikungunya.html)
 
+Lymphatic filariasis
+
+[Lymphatic filariasis](https://www.who.int/news-room/fact-sheets/detail/lymphatic-filariasis), also known as elephantiasis, is caused by filariae (tiny worms) spread to humans through the bite of an infected mosquito. It can cause a range of illnesses. Risk is generally low for most travellers. Protect yourself from mosquito bites. There is no vaccine available for lymphatic filariasis although drug treatments exist.
+
 Dengue 
 
 * In this country, dengue is a risk to travellers. It is a viral disease spread to humans by mosquito bites.
@@ -258,10 +257,6 @@ During your trip:
 If you are pregnant or planning a pregnancy, you should discuss the potential risks of travelling to this destination with your health care provider. You may choose to avoid or postpone travel.
 
 For more information, see [Zika virus: Pregnant or planning a pregnancy.](https://www.canada.ca/en/public-health/services/diseases/zika-virus/pregnant-planning-pregnancy.html)
-
-Lymphatic filariasis
-
-[Lymphatic filariasis](https://www.who.int/news-room/fact-sheets/detail/lymphatic-filariasis), also known as elephantiasis, is caused by filariae (tiny worms) spread to humans through the bite of an infected mosquito. It can cause a range of illnesses. Risk is generally low for most travellers. Protect yourself from mosquito bites. There is no vaccine available for lymphatic filariasis although drug treatments exist.
 
 ### Animal precautions
 

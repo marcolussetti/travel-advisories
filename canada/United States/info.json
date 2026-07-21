@@ -1,7 +1,7 @@
 {
     "name": "United States",
-    "update_reason": "Health \u2013 Outbreak monitoring alert for cyclosporiasis in the United States added",
-    "update_date": "2026-07-17T13:04:00",
+    "update_reason": "Safety and security section \u2013 removed information on FIFA World Cup 2026; Entry and exit requirements section \u2013 updated section; Natural disasters and climate section \u2013 removed information about flooding in Texas",
+    "update_date": "2026-07-20T14:01:00",
     "sections": {
         "risk": "canada/United States/risk.md",
         "security": "canada/United States/security.md",

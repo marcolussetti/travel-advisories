@@ -4,6 +4,10 @@
 
 ### Tensions in the Middle East
 
+On July 20, 2026, the U.S. Embassy in Manama issued the following security alert: “The U.S. Embassy has information to suggest that Iran may seek to target unspecified locations in central Manama.”
+
+[U.S. Security Alert](https://bh.usembassy.gov/security-alert-u-s-embassy-manama-july-19-2026/) – U.S. Embassy in Bahrain
+
 The security situation remains volatile following recent military activity in the region.
 
 Missiles, drones and other projectiles struck targets in Bahrain. Military activity in the region could resume on short notice and cause travel disruptions, including flight cancellations
