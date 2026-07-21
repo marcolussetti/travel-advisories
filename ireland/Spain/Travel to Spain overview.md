@@ -8,17 +8,13 @@ Normal Precautions
 
 #### **Wildfires**
 
-Wildfires are currently affecting the Almería region in Andalusia, Spain.
-
-Civil Protection has advised that people postpone travel to the area in order to facilitate firefighting efforts. Citizens in the affected area are advised to follow the instructions of local authorities.
-
-Irish citizens affected by wildfires who require assistance can contact the Embassy on: +34 91 436 4093
-
 During the extended summer period, wildfires are a common occurrence in Spain.
 
 For information on wildfire risk, visit the [**Spanish Meteorological Office (AEMET)**](https://www.aemet.es/en/eltiempo/prediccion/incendios)**.**
 
 Citizens in, or near, areas affected by wildfires should exercise extreme caution and follow the instructions of the local authorities.
+
+Irish citizens affected by wildfires who require assistance can contact the Embassy on: +34 91 436 4093
 
 #### **Weather Warnings**
 

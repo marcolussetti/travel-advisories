@@ -29,9 +29,19 @@ If you are unsure of what the entry requirements for India are, including visa d
 
 A valid passport is required for travel to India. Irish passports should have a minimum validity of six months and have at least two blank pages. Passport cards cannot be used.
 
+### **E-arrival card**
+
+You must complete an [**e-arrival card**](https://indianvisaonline.gov.in/earrival/) online before reaching immigration. The e-arrival card can be completed up to 72 hours before your arrival. You should complete the online process in advance to avoid delays at the airport.
+
+The e-arrival card is not a visa—you will still need a separate valid visa or OCI card to enter India.
+
 Visitors to India are advised to follow the guidance of national and local authorities and stay fully informed of what is going on by monitoring local news and social media.
 
 Citizens can also follow the Embassy on social media (X [**@IrlEmbIndia**](https://twitter.com/IrlEmbIndia) and [**Facebook**](https://www.facebook.com/IrelandinIndia/)) to ensure access to relevant updates and alerts.
+
+### **Ebola**
+
+The World Health Organisation (WHO) has declared this a Public Health Emergency of International Concern. As such, from 6 July 2026, India introduced health screening measures, including completing a mandatory Self-Declaration Form for all passengers arriving in India. The Self-Declaration Form can be completed up to 24 hours before arrival through the [**Air Suvidha Portal**](https://airsuvidha.civilaviation.gov.in/). You will be delayed on arrival and at immigration if you do not complete the form before departure. Travellers from affected regions should also be prepared to undertake on site temperature checks. If you show symptoms, you may be subject to isolation, quarantine, and/or travel restrictions.
 
 ### **North-West**
 

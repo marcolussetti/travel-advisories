@@ -16,7 +16,7 @@ In light of the current security situation in the Middle East and Gulf region, t
 
 Irish citizens already in the region are advised remain vigilant, closely monitor developments and official sources of information, and follow the advice of local authorities.
 
-If you wish to leave Kuwait, limited commercial flights are available.
+If you wish to leave Kuwait, limited commercial flights are available. Flight schedules at Kuwait International Airport are currently reduced and some flights are experiencing delays and cancellations. If you plan to leave Kuwait, you should check the status of your flight with your airline prior to departure and follow local guidance.
 
 For further updates, please monitor the Department’s travel advice and social media channels, as well as the Embassy of Ireland, Abu Dhabi on [**X**](https://x.com/IrelandEmbUAE), [**Facebook**](https://www.facebook.com/IrelandEmbUAE/), and [**Instagram**](https://www.google.ie/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiU7NrMpM2LAxUTQUEAHV2POlgQFnoECAoQAQ&url=https%3A%2F%2Fwww.instagram.com%2Firelandembuae%2F%3Fhl%3Den&usg=AOvVaw3lH1PDscX4yD-bMNp6pdBp&opi=89978449).
 
