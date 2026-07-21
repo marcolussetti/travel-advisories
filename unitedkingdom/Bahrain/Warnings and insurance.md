@@ -1,17 +1,17 @@
 # Warnings and insurance
 
 Still current at:
-:   10 July 2026
+:   21 July 2026
 
 Updated:
-:   9 July 2026
+:   20 July 2026
 
 Latest update:
-:   Updated information about regional tensions ('Warnings and insurance' page).
+:   Updated with information that Iran may seek to target unspecified locations in central Manama ('Warnings and insurance’ page).
 
 ## Regional tensions
 
-The US and Iran have announced a memorandum of understanding (MOU) in relation to the conflict in the Middle East. The situation remains unpredictable. Iran has carried out further attacks on Bahrain since the MOU was agreed, and could do so again at short notice.
+The US and Iran have announced a memorandum of understanding (MOU) in relation to the conflict in the Middle East. The situation remains unpredictable. Iran has carried out further attacks on Bahrain since the MOU was agreed, and could do so again at short notice. On 20 July, the US Embassy Manama issued an advisory that Iran may seek to target unspecified locations in central Manama. British nationals should remain vigilant and follow local authorities’ instructions.
 
 Should hostilities resume, British nationals should:
 

@@ -64,14 +64,21 @@ In Baku local and foreign women usually dress in conservative western-style clot
 
 ### Ramadan
 
-Ramadan is a holy month for Muslims. The dates vary by year and country. In 2025, Ramadan is expected to start around the end of February and finish around the end of March. You should:
+Ramadan is a holy month for Muslims. The dates vary by year and country and you should check this before you travel. During this time, do not:
+
+* eat, drink, smoke or chew gum in public in the daytime, including in your car
+* play loud music or dance
+* swear in public
+
+Get more advice when you arrive from your guide, hotel or business contacts.
+
+You should also:
 
 * check opening hours of shops and restaurants
+* be aware that if hotels and restaurants are providing food or drink in fasting hours, they may separate you from Islamic guests, for example with screens
 * follow local dress codes – clothing that does not meet local dress codes may cause more offence at this time
-* be aware that driving may be erratic, particularly when people are trying to get home at dusk.
+* be aware that fasting can cause tiredness, particularly during the later afternoon and early evening
 * be patient and show tolerance
-
-Get more advice when you arrive from your tour guide, hotel or business contacts.
 
 ### Smoking restrictions
 

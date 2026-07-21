@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   24 June 2026
+:   21 July 2026
 
 Updated:
-:   23 June 2026
+:   20 July 2026
 
 Latest update:
-:   Removal of visa requirements for visitors travelling to Azerbaijan in connection with the World Urban Forum (WUF13).
+:   This travel advice was reviewed for accuracy and there are no significant updates.
 
 ![](https://assets.publishing.service.gov.uk/media/67efddbf27eb76c92cf7e567/FCDO__TA__004_-_Azerbaijan_Travel_Advice_Ed9__WEB_.jpg)
 
@@ -37,10 +37,6 @@ Find out more about [why FCDO advises against travel](/foreign-travel-advice/aze
 ## UK government support
 
 Help for British nationals is extremely limited in the areas where we advise against travel.
-
-## Drone impact at Nakhchivan International Airport
-
-On 5 March 2026, Azerbaijan confirmed two drone strike impacts at Nakhchivan International Airport in Azerbaijan’s southwestern exclave. British nationals should follow instructions of the Azerbaijani local authorities.
 
 ## Regional escalation
 
