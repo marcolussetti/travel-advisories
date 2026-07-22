@@ -1,13 +1,17 @@
 # Warnings and insurance
 
 Still current at:
-:   21 July 2026
+:   22 July 2026
 
 Updated:
-:   20 July 2026
+:   21 July 2026
 
 Latest update:
-:   Removal of information about French National Day traffic restrictions and metro closures in Paris ('Warnings and insurance' page).
+:   Information about disruption caused by a fire near Bordeaux Airport ('Warnings and insurance' page).
+
+## Fire near Bordeaux Airport
+
+A large fire has broken out near Bordeaux Airport. Disruption to flights is likely and some roads around the airport have been temporarily closed. Please check with your travel operator before travelling, including where taking any connecting flights.
 
 ## Wildfires in France
 

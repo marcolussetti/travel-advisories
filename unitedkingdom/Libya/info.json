@@ -1,11 +1,11 @@
 {
     "name": "Libya",
-    "update_reason": "FCDO now advises against all but essential travel to all areas within the city limits of Tripoli. FCDO continues to advise against all but essential travel to the cities of Benghazi and Misrata ('Warnings and insurance' and 'Regional risks' pages).",
+    "update_reason": "FCDO now advises against all but essential travel to the cities of  Tripoli, Benghazi, Al-Bayda and Derna, and the surrounding area knows as Jebel Akhdar, either side of the coastal and desert roads between and including the towns of Al-Maqrun and Al-Tamimi, Misrata ('Warnings and insurance' and 'Regional risks' pages).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Libya/Warnings and insurance.md",
-            "update_date": "2026-06-15T10:00:12+01:00"
+            "update_date": "2026-07-21T10:00:09+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Libya/Getting help.md"
         }
     ],
-    "update_date": "2026-06-15T10:00:12+01:00"
+    "update_date": "2026-07-21T10:00:09+01:00"
 }

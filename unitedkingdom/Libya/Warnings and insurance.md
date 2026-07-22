@@ -1,44 +1,40 @@
 # Warnings and insurance
 
 Still current at:
-:   16 June 2026
+:   22 July 2026
 
 Updated:
-:   15 June 2026
+:   21 July 2026
 
 Latest update:
-:   FCDO now advises against all but essential travel to all areas within the city limits of Tripoli. FCDO continues to advise against all but essential travel to the cities of Benghazi and Misrata ('Warnings and insurance' and 'Regional risks' pages).
+:   FCDO now advises against all but essential travel to the cities of Tripoli, Benghazi, Al-Bayda and Derna, and the surrounding area knows as Jebel Akhdar, either side of the coastal and desert roads between and including the towns of Al-Maqrun and Al-Tamimi, Misrata ('Warnings and insurance' and 'Regional risks' pages).
 
-![](https://assets.publishing.service.gov.uk/media/6a2bee25c39255c595b507d0/FCDO__TA__024_-_Libya_Travel_Advice_Ed4__WEB_.jpg)
+![](https://assets.publishing.service.gov.uk/media/6a5f2d5d13cf36b2315a5efa/FCDO_TA_024_-_Libya_Travel_Advice_Ed5_WEB.jpg)
 
 
-[Download a more detailed map (PDF, 312 KB)](https://assets.publishing.service.gov.uk/media/6a2bee25d95ffddb05d4af7f/FCDO_TA_024_-_Libya_Travel_Advice_Ed4__003_.pdf)
+[Download a more detailed map (PDF, 316 KB)](https://assets.publishing.service.gov.uk/media/6a5f2d5dc7c34404041b4671/FCDO_TA_024_-_Libya_Travel_Advice_Ed5.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
 ## Areas where FCDO advises against travel
 
-FCDO advises against all travel to Libya except for the cities of Tripoli, Benghazi and Misrata.
+FCDO advises against all travel to Libya except for the cities of:
 
-FCDO advises against all but essential travel to the cities of Tripoli, Benghazi and Misrata.
+* Tripoli
+* Benghazi, Al-Bayda and Derna, and the surrounding area known as Jebel Akhdar, either side of the coastal and desert roads between and including the towns of Al-Maqrun and Al-Tamimi
+* Misrata
+
+FCDO advises against all but essential travel to the cities of:
+
+* Tripoli
+* Benghazi, Al-Bayda and Derna, and the surrounding area knows as Jebel Akhdar, either side of the coastal and desert roads between and including the towns of Al-Maqrun and Al-Tamimi
+* Misrata
 
 Find out more about [why the FCDO advises against travel](https://www.gov.uk/foreign-travel-advice/libya/regional-risks).
 
 ## UK government support
 
 UK government support is limited in Libya. If you are in Libya and need urgent help from the UK government (for example, if you’ve been attacked, arrested or someone has died) [contact the British Embassy in Tunis, Tunisia](https://www.gov.uk/world/organisations/british-embassy-tunis) who provide assistance for British nationals in Libya. In-person support is not available in Libya. If you are a British national already in, or planning to travel to Tripoli, you should have robust security arrangements and contingency plans in place.
-
-## Regional risks
-
-There is a heightened risk of regional tension. Escalation could lead to travel disruption and other unanticipated impacts.
-
-British nationals should take sensible precautions, considering their own individual circumstances. These include:
-
-* read [If you’re affected by a crisis abroad - GOV.UK](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas). This includes guidance on “how to prepare for a crisis” with suggestions on what you might include in your emergency supplies and “what to do in a crisis”
-* sign up to FCDO Travel Advice email alerts
-* monitor local and international media for the latest information
-* sign up to local information alerts/resources and follow the instructions of the local authorities
-* stay away from areas around security or military facilities
 
 ## Before you travel
 

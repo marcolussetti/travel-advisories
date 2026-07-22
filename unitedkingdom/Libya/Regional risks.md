@@ -12,7 +12,7 @@ The general security situation in Tripoli has been relatively stable since the U
 
 ## Benghazi
 
-FCDO advises against all but essential travel to all areas within the city limits of Benghazi.
+FCDO advises against all but essential travel to all areas within the city limits of Benghazi. Al-Bayda and Derna, and the region of Jebel Akhdar, either side of the coastal and desert roads between (and including) the towns of Al-Maqrun and Al-Tamimi.
 
 The general security situation in Benghazi has been calm throughout 2024 and 2025. Security is controlled by a single military group, however there remains a risk of in-fighting, but there have not been any incidents in the last 12 months.
 
