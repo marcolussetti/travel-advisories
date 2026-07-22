@@ -100,14 +100,19 @@ Customs officials may ask you to show them:
 
 ### Children and travel
 
-A Canadian minor, under 18 years of age, living in or visiting El Salvador for more than one year is considered a resident of El Salvador.
+A Canadian citizen under 18 years of age (a minor) who departs El Salvador without both their parents or with only one of them after staying in the country for 12 consecutive months must present a parental travel authorization.
 
-To depart El Salvador, a minor resident needs written consent from any parent listed on the child’s birth certificate who is not travelling with the minor. The consent form must be:
+The parental travel authorization must be:
 
-* an original document (not a photocopy or a scan)
-* notarized by either a Salvadoran notary in El Salvador or a Salvadoran consul abroad
+* an original document (not a photocopy or scan); and
+* notarized by either a Salvadoran notary in El Salvador or a Salvadoran consul abroad, using one of the formats established by El Salvador’s General Directorate of Migration and Foreign Affairs
 
-[Children and travel](http://travel.gc.ca/travelling/children)
+Canadian minors who also hold Salvadoran citizenship or residency status must have parental travel authorization every time they exit El Salvador without both their parents or with only one of them. This applies no matter how long they stayed and regardless of the passport they are travelling with or any other nationality they may hold.
+
+#### Useful links
+
+* [Authorization forms for children and adolescents to leave the country](https://www.migracion.gob.sv/servicios/formato-autorizacion-salida-nna/) – General Directorate of Migration and Foreign Affairs
+* [Children and travel](http://travel.gc.ca/travelling/children)
 
 ### Yellow fever
 

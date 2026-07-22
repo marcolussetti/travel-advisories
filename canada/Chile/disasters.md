@@ -2,36 +2,34 @@
 
 ## Natural disasters and climate
 
-The following regions are expecting severe weather for several days starting July 15:
+Since July 16, 2026, severe weather has impacted several regions of Chile. It resulted in numerous casualties, damage to infrastructure and road closures. Route 5, the country’s main north-south highway, remains fully closed between La Serena and Vallenar.
 
-* Yellow alert (warning):
-
-+ Coquimbo
-+ Metropolitana
-+ O'Higgins
-+ Biobío
-
-* Green alert (preventative):
-
-+ Atacama
-+ Maule
-+ Ñuble
-+ La Araucanía
-+ Los Ríos
-
-The severe weather, depending on the region, includes:
-
-* strong winds
-* heavy rainfall and flooding
-* snow or blizzards in mountainous regions
-* large coastal swells
-
-The following essential services could be disrupted:
+The following essential services have been disrupted in several areas:
 
 * electricity
 * transportation, including flights
 * the public water supply
 * telecommunications
+
+Weather alerts remain in effect in the following regions:
+
+* Atacama
+* Biobío
+* Coquimbo
+* Los Ríos
+* Maule
+* Metropolitana
+* Ñuble
+* O'Higgins
+
+
+
+Continued severe weather, depending on the region, could include:
+
+* strong winds
+* heavy rainfall and flooding
+* snow or blizzards in mountainous regions
+* large coastal swells
 
 If you are in an affected area:
 
