@@ -1,31 +1,19 @@
 # Warnings and insurance
 
 Still current at:
-:   28 January 2026
+:   23 July 2026
 
 Updated:
-:   27 January 2026
+:   22 July 2026
 
 Latest update:
-:   Removal of information about the Jama Pass Border closure and an updated assessment that terrorists are likely to try to carry out attacks in Chile (‘Safety and security’ page).
+:   Removal of information about wildfires in the southern regions of Chile ('Warnings and insurance' page).
 
 This travel advice page also covers Rapa Nui (Easter Island).
 
-## Wildfires
-
-Chile is experiencing severe wildfires in the southern regions.
-
-The Chilean Government declared a State of Catastrophe in Ñuble and Biobío regions. Chilean authorities are advising people to avoid the affected areas, follow official channels for up-to-date information and, in the case of an evacuation order, follow the evacuation process swiftly and calmly.
-
-Curfews have also been in place in parts of these regions in recent days.
-
-If you are in the affected areas, or in an area at risk of wildfires, keep up to date with and follow the advice of local authorities and emergency services. Have an evacuation plan ready that does not depend on the UK Government.
-
-For further guidance on wildfires, including the times and locations of any further curfews, visit the website of [Chile’s National Disaster Prevention and Response Service](https://web.senapred.cl/) (Servicio Nacional de Prevención y Respuesta ante Desastres (SERNAPRED) (in Spanish).
-
 ## Before you travel
 
-No travel can be guaranteed safe. Read all the advice in this guide. You may also find it helpful to:
+No travel can be guaranteed safe. Read all the advice in this guide. If you have onward travel plans within the region, check travel advice for all destinations you plan to travel through. You may also find it helpful to:
 
 * see [general advice for women travellers](https://www.gov.uk/guidance/advice-for-women-travelling-abroad)
 * read our [guide on disability and travel abroad](https://www.gov.uk/government/publications/disabled-travellers)

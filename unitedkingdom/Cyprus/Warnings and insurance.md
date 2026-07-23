@@ -1,19 +1,19 @@
 # Warnings and insurance
 
 Still current at:
-:   14 July 2026
+:   23 July 2026
 
 Updated:
-:   13 July 2026
+:   22 July 2026
 
 Latest update:
-:   Information about wildfires ('Warnings and insurance' page).
+:   Updated information about regional tensions following recent strikes and retaliatory attacks by Iran ('Warnings and insurance' page).
 
 ## Regional tensions
 
-The US and Iran have announced a memorandum of understanding in relation to the conflict in the Middle East. The situation in the region remains unpredictable.
+The US and Iran announced a memorandum of understanding (MOU) on 17 June  in relation to the conflict in the Middle East, however the situation in the Middle East remains unpredictable.
 
-Should hostilities resume, British nationals should:
+If affected, British Nationals should:
 
 * read [If you’re affected by a crisis abroad - GOV.UK](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas). This includes guidance on “how to prepare for a crisis” with suggestions on what you might include in your emergency supplies and “what to do in a crisis”
 * sign up to [FCDO Travel Advice email alerts](https://www.gov.uk/foreign-travel-advice/cyprus/email-signup)

@@ -1,30 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   11 July 2026
+:   23 July 2026
 
 Updated:
-:   10 July 2026
+:   22 July 2026
 
 Latest update:
-:   Updated information on the Almeria wildfire, including emergency numbers and family support helpline ('Warnings and insurance' page).
-
-## Wildfire in Los Gallardos, Almeria
-
-Local authorities have reported a wildfire in Los Gallardos, Almería, in Andalucía.
-
-If you are in an area affected by the wildfire:
-
-* follow instructions from local authorities and emergency services at all times
-* avoid travelling into or through the affected area
-* follow updates from the emergency services
-* for emergencies, call 112
-
-### Information and support
-
-If you are concerned about someone in the area, call this helpline +34 677 904 624 provided by the Psychological Intervention Group for Emergencies and Disasters (GIPED). English speaking staff are available.
-
-If you or a family member have been affected and need consular assistance, call +34 917 146 300. If you are in the UK, call +44 (0)20 7008 5000.
+:   Removal of information about Almeria wildfire ('Warnings and insurance' page).
 
 ## Before you travel
 

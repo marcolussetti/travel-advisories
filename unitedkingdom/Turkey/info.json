@@ -1,11 +1,11 @@
 {
     "name": "Turkey",
-    "update_reason": "Information about wildfires ('Warnings and insurance' page).",
+    "update_reason": "Updated information about regional tensions following recent strikes and retaliatory attacks by Iran ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Turkey/Warnings and insurance.md",
-            "update_date": "2026-07-13T15:05:07+01:00"
+            "update_date": "2026-07-22T13:48:23+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Turkey/Getting help.md"
         }
     ],
-    "update_date": "2026-07-13T15:05:07+01:00"
+    "update_date": "2026-07-22T13:48:23+01:00"
 }

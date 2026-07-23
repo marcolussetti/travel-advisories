@@ -4,24 +4,24 @@ This section has safety advice for regions of Saudi Arabia. It only covers regio
 
 You should also read [FCDO’s overall travel advice](/foreign-travel-advice/saudi-arabia) and [safety and security advice](/foreign-travel-advice/saudi-arabia/safety-and-security).
 
-## Saudi Arabia-Yemen border
+## Saudi Arabia-Yemen border and threats from the Houthis
 
 FCDO advises against:
 
 * all travel to within 10km of the border with Yemen
 * all but essential travel to areas between 10km and 80km from the border with Yemen
 
-There is an unofficial truce between the Saudi-led coalition that intervened in Yemen in 2015 against the Houthi-led government, but there are still occasional military clashes along the border with military and civilian casualties.
-
-The Houthis have launched missiles, drones and waterborne improvised explosive devices (IEDs) into Saudi Arabia. These are targeted at critical national infrastructure, including aviation and oil infrastructure. Saudi air defence systems intercept and destroy most of these weapons.  The Houthis have also launched drones and missiles at Israel that have entered Saudi airspace.
+Following the conflict in 2015 between Saudi-led coalition forces and the Houthi militant group in Yemen, there are still occasional military clashes along the border with military and civilian casualties.
 
 The authorities can temporarily close airports near the Saudi Arabia-Yemen border. Check with your airline before travelling to airports near the border.
 
-Attacks against critical national infrastructure are likely. Attacks have also been made on other locations in Saudi Arabia, including Riyadh and Jeddah, and along the Red Sea coast. There were 11 intercepted missile attacks over Riyadh since the first missile attack in November 2017, the most recent in December 2021. In a missile attack, you should:
+As of July 2026, there is a renewed threat from the Houthis to attack Saudi infrastructure and Abha International Airport was targeted. Previously, the Houthis have launched missiles, drones and waterborne improvised explosive devices (IEDs) into Saudi Arabia targeted at critical national infrastructure, including aviation and oil infrastructure. Attacks have also been made on other locations in Saudi Arabia, including Riyadh and Jeddah, and along the Red Sea coast. The Houthis have also launched drones and missiles at Israel that have entered Saudi airspace.
 
-* stay indoors
-* monitor local media reports
-* follow the advice of the local authorities
+In a missile or drone attack, you should:
+
+* stay indoors and under hard shelter
+* monitor local media reports 
+  - follow the advice of the local authorities
 
 ## Military zones and border posts
 

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   19 June 2026
+:   23 July 2026
 
 Updated:
-:   18 June 2026
+:   22 July 2026
 
 Latest update:
-:   Updated information about regional tensions and conflict affecting Iran (‘Warnings and insurance’ page).
+:   Updated information on regional tensions, and due to the security situation, UK staff have been temporarily withdrawn from Iran. Our embassy continues to operate remotely (‘Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/627e359b8fa8f53f99901991/FCDO__TA__021_-_Iran_Travel_Advice_Ed5__WEB_.jpg)
 
@@ -26,9 +26,9 @@ Find out more about [why FCDO advises against travel](https://www.gov.uk/foreign
 
 ## Regional tensions
 
-The US and Iran have announced a memorandum of understanding in relation to the conflict in the Middle East. The situation remains unpredictable and attacks could resume at short notice.
+The US and Iran announced a memorandum of understanding (MOU) on 17 June in relation to the conflict in the Middle East, however the situation in the Middle East remains unpredictable. Since 8 July there have been strikes and retaliatory attacks by Iran in a number of locations across the region against US military and civilian infrastructure. There is a risk of more attacks and unforeseen escalation in the region.
 
-Should hostilities resume, British nationals should:
+British nationals currently in the Middle East should be prepared for possible flight cancellations, periodic airspace closures, and potential travel disruptions, and should:
 
 * read [If you’re affected by a crisis abroad - GOV.UK](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas). This includes guidance on “how to prepare for a crisis” with suggestions on what you might include in your emergency supplies and “what to do in a crisis”
 * sign up to [FCDO Travel Advice email alerts](https://www.gov.uk/foreign-travel-advice/iran/email-signup)
@@ -95,7 +95,7 @@ The FCDO’s [travel advice for Pakistan](https://www.gov.uk/foreign-travel-advi
 
 ## Limited UK government support
 
-UK government support is extremely limited in Iran. No face-to-face consular assistance will be possible in an emergency and the UK government will not be able to help you if you get into difficulty in Iran.
+UK government support is extremely limited in Iran. No face-to-face consular assistance will be possible in an emergency and the UK government will not be able to help you if you get into difficulty in Iran. Due to the ongoing security situation, we have taken the precautionary measure to temporarily withdraw UK staff from Iran. Our embassy continues to operate remotely.
 
 ## Travel insurance
 

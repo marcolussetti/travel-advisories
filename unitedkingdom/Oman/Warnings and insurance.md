@@ -1,29 +1,27 @@
 # Warnings and insurance
 
 Still current at:
-:   14 July 2026
+:   23 July 2026
 
 Updated:
-:   13 July 2026
+:   22 July 2026
 
 Latest update:
-:   Updated information about regional tensions ('Warnings and insurance' page).
+:   Updated information about regional tensions following recent strikes and retaliatory attacks by Iran ('Warnings and insurance' page).
 
 ## Regional tensions
 
-The US and Iran have announced a memorandum of understanding (MoU) in relation to the conflict in the Middle East. The situation remains unpredictable. Iran has carried out further attacks on Oman since the MoU was agreed, and could do so again at short notice.
+The US and Iran announced a memorandum of understanding (MOU) on 17 June in relation to the conflict in the Middle East, however the situation in the Middle East remains unpredictable. Since 8 July there have been strikes and retaliatory attacks by Iran in a number of locations across the region, including Oman, against US military and civilian infrastructure. There is a risk of more attacks and unforeseen escalation in the region. Before the ceasefire, the Iranian regime had stated its intention to target locations associated with the US and Israel, including organisations, businesses, facilities, and institutions.
 
-Should hostilities resume, British nationals should:
+British nationals currently in the Middle East should be prepared for possible flight cancellations, periodic airspace closures, and potential travel disruptions, and should:
 
 * read [If you’re affected by a crisis abroad - GOV.UK](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas). This includes guidance on “how to prepare for a crisis” with suggestions on what you might include in your emergency supplies and “what to do in a crisis”
+* sign up to FCDO Travel Advice [email alerts](https://www.gov.uk/foreign-travel-advice/oman/email-signup)
 * follow advice from the local authorities
-* sign up to FCDO Travel Advice [email alerts](https://www.gov.uk/foreign-travel-advice/oman/email-signup)
-* monitor local and international media for the latest information
+* monitor local and international media for the latest information, including updates relating to airports and airspace which could close at short notice
 * stay away from areas around security or military facilities
 * keep your departure plans under review, and ensure your travel documents are up to date
-* if you are advised to take shelter, stay indoors or find the nearest safe building or designated shelter. An interior stairwell or a room with as few external walls or windows as possible may provide additional protection. The greatest risk is from falling debris caused by intercepts, and you are safest inside a secure structure
-
-Before the 8 April ceasefire, the Iranian regime had stated its intention to target locations in the Gulf associated with the United States and Israel. This included US or Israeli-linked organisations, businesses, facilities and institutions. Iran has previously targeted civilian infrastructure across the region such as ports, hotels, roads, bridges, energy facilities, oil production sites, water systems, and airports.
+* if advised to take shelter, stay indoors or find the nearest safe building or designated shelter. An interior stairwell or a room with as few external walls or windows as possible may provide additional protection. The greatest risk is from falling debris caused by intercepts, and you are safest inside a secure structure. Do not approach or touch any drone or missile fragments or unusual objects
 
 ## Before you travel
 
