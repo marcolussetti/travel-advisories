@@ -127,7 +127,7 @@ The World Health Organization (WHO), at the time of their last report, identifie
 
 [Polio](https://travel.gc.ca/travelling/health-safety/diseases/polio) is spread from person to person and through contaminated food and water. Infection with polio virus can cause paralysis and death in individuals of any age who are not immune.
 
-Polio can be preventeed by vaccination.
+Polio can be prevented by vaccination.
 
 **Recommendations:**
 

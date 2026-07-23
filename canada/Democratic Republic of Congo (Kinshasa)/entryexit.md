@@ -8,7 +8,7 @@ Due to the outbreak of Ebola disease in the Democratic Republic of the Congo (DR
 
 Some countries have imposed entry restrictions for persons who are arriving from or who have recently visited the DRC. Unless you are a citizen of one of these countries, you will be refused entry if you have been in the DRC in the preceding 21 to 30 days.
 
-A larger number of countries, including Canada, have imposed health screening measure upon arrival for travellers who have visited the DRC. These may include the completion of health declaration form, temperature checks, quarantine and restrictions on travel until you are cleared by local health authorities. Contact the authorities of the country you are travelling to for more details.
+A larger number of countries, including Canada, have imposed health screening measures on travellers upon arrival and other border measures for travellers who have visited the DRC. These may include the completion of a health declaration form, temperature checks, quarantine and restrictions on travel until you are cleared by local health authorities. Contact the authorities of the country you are travelling to for more details.
 
 [More information on the Ebola outbreak in the Democratic Republic of the Congo](https://travel.gc.ca/travelling/health-safety/travel-health-notices/549)
 

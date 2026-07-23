@@ -2,6 +2,29 @@
 
 ## Safety and security
 
+### Airspace violations and military debris
+
+Objects from the armed conflict in Ukraine, including drones, have passed through Estonianairspace. Military debris has fallen in various locations. Further incidents could occur.
+
+There could be disruptions to movement and transportation, including:
+
+* border closures or restrictions
+* flight cancellations
+* airspace closures
+
+Estonia maintains a public warning system known as “EE-Alarm.” This service combines physical warning sirens and location-based SMS updates to provide specific information and guidance during emergency situations. The Estonian Government maintains a civil defence and crisis management mobile app called “Ole Valmis!” which is available for free download on the Estonian Rescue Services website.
+
+You should:
+
+* always be aware of your surroundings
+* follow the instructions of local authorities, including air raid sirens
+* monitor trustworthy news sources to stay informed on the situation
+
+#### Useful links
+
+* [EE-Alarm public warning system](https://www.olevalmis.ee/en/public-warning-system-known-as-ee-alarm) – Estonian Rescue Services
+* [Preparing for possible crises](https://kriis.ee/en) – Estonian Rescue Services
+
 ### Crime
 
 #### Petty crime

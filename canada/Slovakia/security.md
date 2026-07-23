@@ -28,6 +28,13 @@ During your trip:
 * avoid isolated areas
 * be aware of your surroundings, especially in busy tourist areas
 
+### Impacts of the armed conflict in Ukraine
+
+In February 2022, Russia launched a full-scale military invasion of Ukraine. Border crossings between Slovakia and Ukraine may be affected due to the ongoing conflict.
+
+* Follow the instructions of local authorities
+* Monitor reliable news sources to stay informed on the evolving situation
+
 ### Terrorism
 
 There is a threat of terrorism in Europe. Terrorists have carried out attacks in several European cities and further attacks are likely.

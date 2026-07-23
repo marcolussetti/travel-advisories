@@ -2,6 +2,28 @@
 
 ## Safety and security
 
+### Airspace violations and military debris
+
+Objects from the armed conflict in Ukraine, including drones, have passed through Latvianairspace. Military debris has fallen in various locations. Further incidents could occur.
+
+Additionally, balloons linked to smuggling operations in Belarus have entered Latvian airspace illegally and landed on Latvian soil.
+
+There could be disruptions to movement and transportation, including:
+
+* border closures or restrictions
+* flight cancellations
+* airspace closures
+
+Latvia maintains a public warning system known as “112 Latvia” This service combines physical warning sirens and location-based emergency cellular messaging to provide specific information and guidance during emergency situations. The Latvian Government maintains a mobile app to support this system, available for free download on the 112 Latvia website.
+
+You should:
+
+* always be aware of your surroundings
+* follow the instructions of local authorities, including air raid sirens
+* monitor trustworthy news sources to stay informed on the situation
+
+[112 Latvia](https://www.vugd.gov.lv/en/website-www112lv-and-application-112-latvia) – State Fire and Rescue Service
+
 ### Crime
 
 Petty crime, such as pickpocketing and purse snatching, occurs. Thieves target tourists.

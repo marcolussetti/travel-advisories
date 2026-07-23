@@ -1,7 +1,7 @@
 {
     "name": "Latvia",
-    "update_reason": "Editorial change",
-    "update_date": "2026-07-13T14:53:00",
+    "update_reason": "Safety and security section \u2013 added information on airspace violations and military debris",
+    "update_date": "2026-07-22T12:06:00",
     "sections": {
         "risk": "canada/Latvia/risk.md",
         "security": "canada/Latvia/security.md",

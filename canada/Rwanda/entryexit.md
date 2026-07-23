@@ -44,11 +44,11 @@ Different entry rules may apply when travelling with a temporary passport or an 
 
 ### Visas
 
-Tourist visa: required - a 30 day visa can be obtained upon arrival or in advance via the Irembo platform   
+Tourist visa: required - a 30 day visa can be obtained upon arrival or in advance via the Irembo platform  
 Work permit: required  
 Business visa: required, valid for 90 days and may be extended once. You may obtain a 30-day visa upon arrival. Visa extension requests can be made via the Irembo platform.
 
-**Useful links**
+#### Useful links
 
 * [Irembo platform for visa applications](https://irembo.gov.rw/home/citizen/all_services) – Government of Rwanda
 * [Rwanda Directorate General of Immigration and Emigration](https://www.migration.gov.rw/)

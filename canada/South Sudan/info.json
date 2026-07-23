@@ -1,7 +1,7 @@
 {
     "name": "South Sudan",
-    "update_reason": "Need help? section \u2013 updated information on consular assistance",
-    "update_date": "2026-07-13T14:44:00",
+    "update_reason": "Risk level section \u2013 updated information on Canadian border measures related to Ebola for travellers from South Sudan; Entry and exit requirements section \u2013 updated information on entry and exit restrictions and health screening measures related to the Ebola outbreak",
+    "update_date": "2026-07-22T11:27:00",
     "sections": {
         "risk": "canada/South Sudan/risk.md",
         "security": "canada/South Sudan/security.md",

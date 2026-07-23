@@ -37,7 +37,7 @@ Dual citizenship is not legally recognized in the Netherlands, with some excepti
 
 If local authorities consider you a citizen of the Netherlands, they may refuse to grant you access to Canadian consular services. This will prevent us from providing you with those services.
 
-**Useful links**
+#### Useful links
 
 * [More about dual citizenship](https://www.government.nl/topics/dutch-citizenship/dual-citizenship) – Government of the Netherlands
 * [Dual citizens](https://travel.gc.ca/travelling/documents/dual-citizenship)
@@ -77,7 +77,7 @@ You must have an International Health Certificate that is signed and stamped by 
 
 Additional certificates may be required if you travel across the border to Saint Martin.
 
-**Useful links**
+#### Useful links
 
 * [Animal Health Office](https://inspection.canada.ca/animal-health/terrestrial-animals/offices/eng/1300462382369/1300462438912) – Canadian Food Inspection Agency
 * [Export of dogs, cats and ferrets to Sint Maarten](https://inspection.canada.ca/animal-health/terrestrial-animals/exports/pets/sint-maarten-dogs-cats-et-ferrets-/eng/1671802541583/1671802542458) – Government of Canada

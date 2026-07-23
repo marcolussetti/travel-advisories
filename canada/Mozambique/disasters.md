@@ -20,7 +20,7 @@ Cyclones occur mainly along the coast from November to April. If you decide to
 * stay informed of the latest regional weather forecasts
 * carry emergency contact information for your airline or tour operator
 
-**Useful links**
+#### Useful links
 
 * [Tornadoes, cyclones, hurricanes, typhoons and monsoons](https://travel.gc.ca/travelling/health-safety/hurricanes-typhoons-cyclones-monsoons)
 * [Large-scale emergencies abroad](https://travel.gc.ca/assistance/emergency-info/large-scale-emergencies-abroad)

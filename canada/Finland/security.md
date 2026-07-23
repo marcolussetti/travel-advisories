@@ -2,6 +2,27 @@
 
 ## Safety and security
 
+### Airspace violations and military debris
+
+Objects from the armed conflict in Ukraine, including drones, have passed through Finnishairspace. Further incidents could occur.
+
+There could be disruptions to movement and transportation, including:
+
+* flight cancellations
+* airspace closures
+* ferry cancellations or ferry terminal closures
+
+The Finnish Government maintains a public warning system. The system combines physical sirens and television/radio broadcasts with the “112 Suomi” mobile application, available for free download from the Finnish Emergency Response Centre Agency website.
+
+You should:
+
+* always be aware of your surroundings
+* follow the instructions of local authorities, including air raid sirens
+* monitor trustworthy news sources to stay informed on the situation
+* keep the 112 Suomi mobile application on your devices to receive emergency information
+
+[112 Suomi](https://112.fi/en/112-suomi-application) – Emergency Response Centre Agency Finland
+
 ### Crime
 
 #### Petty crime

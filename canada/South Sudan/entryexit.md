@@ -8,9 +8,12 @@ Due to the outbreaks of Ebola disease in the Democratic Republic of the Congo (D
 
 Some countries have imposed entry restrictions for persons who are arriving from or who have recently visited South Sudan. Unless you are a citizen of one of these countries, you will be refused entry if you have been in South Sudan in the preceding 21 to 30 days.
 
-A larger number of countries, including Canada, have imposed health screening measure upon arrival for travellers who have visited South Sudan. These may include the completion of health declaration form, temperature checks, quarantine and restrictions on travel until you are cleared by local health authorities. Contact the authorities of the country you are travelling to for more details.
+A larger number of countries, including Canada, have imposed health screening measures on travellers upon arrival and other border measures for travellers who have visited South Sudan. These may include the completion of a health declaration form, temperature checks, quarantine and restrictions on travel until you are cleared by local health authorities. Contact the authorities of the country you are travelling to for more details.
 
-[Ebola outbreak in the Democratic Republic of the Congo](https://travel.gc.ca/travelling/health-safety/travel-health-notices/549)
+#### Useful links
+
+* [Ebola outbreak in the Democratic Republic of the Congo](https://travel.gc.ca/travelling/health-safety/travel-health-notices/549)
+* [Ebola outbreak in Uganda](https://travel.gc.ca/travelling/health-safety/travel-health-notices/550)
 
 The authorities of a country or territory decide who can enter or exit through its borders. The Government of Canada cannot intervene on your behalf if you do not meet your destination’s entry or exit requirements.
 

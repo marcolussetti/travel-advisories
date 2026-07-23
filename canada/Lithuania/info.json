@@ -1,7 +1,7 @@
 {
     "name": "Lithuania",
-    "update_reason": "Editorial change",
-    "update_date": "2026-07-13T14:53:00",
+    "update_reason": "Safety and security section \u2013 added information on airspace violations and military debris",
+    "update_date": "2026-07-22T11:43:00",
     "sections": {
         "risk": "canada/Lithuania/risk.md",
         "security": "canada/Lithuania/security.md",

@@ -2,6 +2,28 @@
 
 ## Safety and security
 
+### Airspace violations and military debris
+
+Objects from the armed conflict in Ukraine, including drones, have passed through Lithuanianairspace. Military debris has fallen in various locations. Further incidents could occur.
+
+Additionally, balloons linked to smuggling operations in Belarus have repeatedly entered Lithuanian airspace illegally, landing on its territory. The balloons have disrupted aviation, including the closure of Vilnius Airport. The Lithuanian government considers these balloons to be a form of hybrid attack, prompting a declaration of a nationwide “emergency situation” in December 2025, which remains in effect.
+
+There could be disruptions to movement and transportation, including:
+
+* border closures or restrictions
+* flight cancellations
+* airspace closures
+
+The Lithuanian Government maintains a public warning system, known as “LT72”, which provides some English language information.
+
+You should:
+
+* always be aware of your surroundings
+* follow the instructions of local authorities, including mobile phone alerts and air raid sirens
+* monitor trustworthy news sources to stay informed on the situation
+
+[LT72](https://lt72.lt/?lang=en) – Fire and Rescue Department under the Ministry of the Interior
+
 ### Crime
 
 #### Petty crime
@@ -129,3 +151,27 @@ If you do call for a taxi or hail one from the street, confirm the fare and ask 
 We don't make assessments on the compliance of foreign domestic airlines with international safety standards.
 
 [Information about foreign domestic airlines](https://travel.gc.ca/air/in-flight-safety#other)
+
+**Airspace violations and military debris**
+
+Objects from the armed conflict in Ukraine, including drones, have passed through Estonianairspace. Military debris has fallen in various locations. Further incidents could occur.
+
+There could be disruptions to movement and transportation, including:
+
+* border closures or restrictions
+* flight cancellations
+* airspace closures
+
+Estonia maintains a public warning system known as “EE-Alarm.” This service combines physical warning sirens and location-based SMS updates to provide specific information and guidance during emergency situations. The Estonian Government maintains a civil defence and crisis management mobile app called “Ole Valmis!” which is available for free download on the Estonian Rescue Services website.
+
+You should:
+
+* always be aware of your surroundings
+* follow the instructions of local authorities, including air raid sirens
+* monitor trustworthy news sources to stay informed on the situation
+
+**Useful links**
+
+* [EE-Alarm public warning system](https://www.olevalmis.ee/en/public-warning-system-known-as-ee-alarm) – Estonian Rescue Services
+
+[Preparing for possible crises](https://kriis.ee/en) – Estonian Rescue Services
