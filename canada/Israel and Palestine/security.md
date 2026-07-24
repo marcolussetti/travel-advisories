@@ -4,9 +4,9 @@
 
 ### Tensions in the Middle East
 
-The security situation remains volatile following recent military activities in the region.
+The security situation remains volatile due to ongoing military activity in the region.
 
-Drones, missiles and other projectiles struck targets in Israel and Palestine. Military activity in the region could resume on short notice and cause travel disruption, including flight cancellations. If you are in Israel or Palestine, prepare contingency plans that don't rely on the Government of Canada's assistance for evacuations or assisted departures.
+Drones, missiles and other projectiles struck targets in Israel and Palestine. Military activity in the region may cause travel disruptions, including flight cancellations. If you are in Israel or Palestine, prepare contingency plans that don't rely on the Government of Canada's assistance for evacuations or assisted departures.
 
 Filming, taking photos and online sharing of images of military installations, activity or damage could lead to severe penalties pursuant to the enforcement of local laws and regulations across the region.
 

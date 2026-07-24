@@ -8,19 +8,19 @@ Verify the status of border crossings ahead of time.
 
 ### Tensions in the Middle East
 
-**U.S. Security Alert**
+#### U.S. Security Alert
 
 On July 19, 2026, the U.S. Embassy in Amman, Jordan, issued a Security Alert:
 
-“Due to a specific and credible threat, Jordanian authorities evacuated the international airport and seaport in Aqaba. We strongly advise all Americans to refrain [from] travelling to either the airport or seaport. Continue to follow all Jordanian authorities’ security directives.
+“Due to a specific and credible threat, Jordanian authorities evacuated the international airport and seaport in Aqaba. We strongly advise all Americans to refrain [from] travelling to either the airport or seaport. Continue to follow all Jordanian authorities' security directives.
 
 U.S. Embassy Amman continues to advise all Americans to avoid travel to military bases in Jordan.”
 
 [U.S. Security Alert](https://jo.usembassy.gov/security-alert-u-s-embassy-amman-july-19-2026/) – U.S. Embassy in Amman
 
-The security situation remains volatile following recent military activity in the region.
+The security situation remains volatile due to ongoing military activity in the region.
 
-Missiles, drones and other projectiles struck targets in Jordan. Military activity in the region could resume on short notice and cause travel disruptions, including flight cancellations
+Missile and drone attacks have resumed and struck targets in Jordan. Military activity may cause travel disruptions, including flight cancellations.
 
 Filming, taking photos and online sharing of images of military installations, activity or damage could lead to severe penalties pursuant to the enforcement of local laws and regulations across the region.
 

@@ -6,35 +6,22 @@
 
 ### Tensions in the Middle East
 
-The security situation remains volatile following recent military activities in the region.
+The security situation remains volatile due to ongoing military activity in the region.
 
-Drones, missiles and other projectiles have struck targets in Iran. Military activity in the region could resume on short notice and cause travel disruptions including flight cancellations.
+Drone and missile attacks have resumed and struck targets in Iran, including civilian infrastructure. Military activity in the region may cause travel disruptions including flight cancellations.
 
 Filming, taking photos and online sharing of images of military installations, activity or damage could lead to severe penalties pursuant to the enforcement of local laws and regulations across the region.
 
 If you travel to one of Iran's border crossings to leave the country, you do so at your own risk.
 
-The following border crossing options are available:
+If you choose to leave Iran via a land border, you do so at your own risk.
 
-* To Türkiye:
+The following border crossing are available:
 
-+ Qator/Kapıköy
-+ Bazargan/Gürbulak
-+ Sero/Esendere
-
-If you’re a Canadian passport holder seeking to enter Türkiye visa-free (for stays of up to 90 days), you must request facilitation from the Turkish authorities through the Embassy of Canada to Türkiye, in Ankara, before travelling to the border. When making your request, you must state which border point you intend to use and provide the details appearing on your passport bio page (name, date of birth, document number) along with a photograph of the passport bio page.
-
-* To Armenia:
-
-+ Nordoz/Agarak
-
-* To Azerbaijan:
-
-+ the Astara land border crossing is closed. However, the Embassy of Canada to Türkiye, in Ankara, can request special entry authorization for Canadians from the Government of Azerbaijan. If you assess that this is your safest option, contact the [Embassy of Canada in Ankara](https://www.international.gc.ca/country-pays/turkiye/ankara.aspx?lang=eng&_ga=2.207730970.909031257.1750038042-1748139045.1691506137) or Global Affairs Canada’s 24/7 [Emergency Watch and Response Centre](https://travel.gc.ca/assistance/emergency-assistance?_ga=2.93069341.168187391.1696947682-2043183889.1686925125). You must provide the details appearing on your Canadian passport’s bio page (full name, date of birth, document number) along with a photograph of the passport bio page. You must still [apply for a visa](https://evisa.gov.az/en/) from Azerbaijan authorities in advance.
-
-* To Turkmenistan:
-
-+ the Sarakhs/Serakhs land border crossing with Iran is fully open. Other land border crossings are partially open and subject to restrictions without notice. Entry through all land border crossings requires special authorization and a transit visa from the Government of Turkmenistan. Travellers must hold proof of onward travel indicating departure from Turkmenistan shortly after arrival. The Embassy of Canada to Kazakhstan, in Astana, can request special entry authorization on behalf of Canadian citizens. If you assess that this is your safest option, you should contact the Embassy of Canada in Astana or Global Affairs Canada’s 24/7 [Emergency Watch and Response Centre](https://travel.gc.ca/assistance/emergency-assistance?_ga=2.93069341.168187391.1696947682-2043183889.1686925125) and provide information from your Canadian passport bio page (full name, date of birth, and document number). You should also be prepared to carry sufficient U.S. dollars in excellent physical condition, as cash payments are required for services in Turkmenistan and damaged or marked banknotes may be refused.
+* Türkiye: Qator/Kapıköy, Bazargan/Gürbula(k), and Sero/Esendere. Canadian passport holders seeking visa-free entry (up to 90 days) must request facilitation through the Embassy of Canada in Ankara before arriving at the border. Include your full name, date of birth, passport number, intended border crossing, and a photo of your passport bio page.
+* Armenia: Nordoz/Agarak.
+* Azerbaijan: The Astara land border is closed. The Embassy of Canada in Ankara can request special entry authorization for Canadians, but you must still obtain an Azerbaijani visa in advance. Provide your passport details and a photo of your passport bio page.
+* Turkmenistan: Sarakhs/Serakhs is fully open; other crossings may face restrictions without notice. Entry requires special authorization and a transit visa. The Embassy of Canada in Astana can request special entry authorization on behalf of Canadians. Travellers must show onward travel and should carry sufficient undamaged U.S. cash, as cash payments are commonly required.
 
 You must have valid travel documents. If you have dual Canadian-Iranian citizenship, Iranian border officials may require you to present your Iranian passport, and if they do, they may prevent you from leaving Iran.
 

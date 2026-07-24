@@ -1,7 +1,7 @@
 {
     "name": "Kuwait",
-    "update_reason": "Risk level section \u2013 avoid non-essential travel to Kuwait; Safety and security section \u2013 updated information on tensions in the Middle East",
-    "update_date": "2026-06-25T16:25:00",
+    "update_reason": "Risk level section \u2013 avoid all travel to Kuwait; Safety and security section \u2013 updated information on the tensions in the Middle East",
+    "update_date": "2026-07-23T09:54:00",
     "sections": {
         "risk": "canada/Kuwait/risk.md",
         "security": "canada/Kuwait/security.md",

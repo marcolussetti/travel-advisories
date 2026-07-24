@@ -1,7 +1,7 @@
 {
     "name": "Saudi Arabia",
-    "update_reason": "Risk levels section \u2013 Avoid non-essential travel to Saudi Arabia",
-    "update_date": "2026-07-17T18:43:00",
+    "update_reason": "Safety and security section \u2013 updated information on the tensions in the Middle East",
+    "update_date": "2026-07-23T10:10:00",
     "sections": {
         "risk": "canada/Saudi Arabia/risk.md",
         "security": "canada/Saudi Arabia/security.md",

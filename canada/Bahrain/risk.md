@@ -16,6 +16,6 @@ The features in this map do not constitute an authoritative source of geographic
 
 The features in this map do not constitute an authoritative source of geographical information. This map is solely intended to assist Canadians by illustrating the risk levels contained in the Travel Advice and Advisories for this destination. The features in this map do not necessarily represent the views of the Canadian government on international boundaries, nomenclature or political status. The text under the Risk levels section takes precedence over this map.
 
-### BAHRAIN - AVOID NON-ESSENTIAL TRAVEL
+### BAHRAIN - AVOID ALL TRAVEL
 
-[Avoid non-essential travel](#levels "Risk Levels") to Bahrain due to the volatile security situation in the region.
+[Avoid all travel](#levels "Risk Levels") to Bahrain due to the volatile security situation in the region.

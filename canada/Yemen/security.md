@@ -4,9 +4,9 @@
 
 ### Tensions in the Middle East
 
-The security situation remains volatile following recent military activity in the region.
+The security situation remains volatile due to ongoing military activity in the region.
 
-Missiles, drones and other projectiles struck targets in the region. Military activity in the region could resume on short notice and cause travel disruptions including flight cancellations.
+Military activity in the region may cause travel disruptions including flight cancellations.
 
 Filming, taking photos and online sharing of images of military installations, activity or damage could lead to severe penalties pursuant to the enforcement of local laws and regulations across the region.
 

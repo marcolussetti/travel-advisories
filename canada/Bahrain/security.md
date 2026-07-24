@@ -8,9 +8,9 @@ On July 20, 2026, the U.S. Embassy in Manama issued the following security alert
 
 [U.S. Security Alert](https://bh.usembassy.gov/security-alert-u-s-embassy-manama-july-19-2026/) – U.S. Embassy in Bahrain
 
-The security situation remains volatile following recent military activity in the region.
+The security situation remains volatile due to ongoing military activity in the region.
 
-Missiles, drones and other projectiles struck targets in Bahrain. Military activity in the region could resume on short notice and cause travel disruptions, including flight cancellations
+Missile and drone attacks have resumed and struck targets in Bahrain, including civilian infrastructure. Military activity in the region may cause travel disruptions, including flight cancellations.
 
 Filming, taking photos and online sharing of images of military installations, activity or damage could lead to severe penalties pursuant to the enforcement of local laws and regulations across the region.
 
