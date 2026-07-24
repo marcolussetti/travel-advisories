@@ -1,11 +1,11 @@
 {
     "name": "Bahrain",
-    "update_reason": "Updated information about regional tensions, including information about recent strikes and retaliatory attacks by Iran ('Warnings insurance') page.",
+    "update_reason": "FCDO now advises against all but essential travel to Bahrain (\u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Bahrain/Warnings and insurance.md",
-            "update_date": "2026-07-22T13:44:31+01:00"
+            "update_date": "2026-07-23T10:00:06+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Bahrain/Getting help.md"
         }
     ],
-    "update_date": "2026-07-22T13:44:31+01:00"
+    "update_date": "2026-07-23T10:00:06+01:00"
 }

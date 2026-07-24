@@ -1,13 +1,18 @@
 # Warnings and insurance
 
 Still current at:
-:   23 July 2026
+:   24 July 2026
 
 Updated:
-:   22 July 2026
+:   23 July 2026
 
 Latest update:
-:   Updated information about regional tensions following recent strikes and retaliatory attacks by Iran ('Warnings and insurance' page).
+:   FCDO now advises against all but essential travel to Kuwait (‘Warnings and insurance’ page)
+
+![](https://assets.publishing.service.gov.uk/media/6a61d42eabcde513b38b6d54/FCDO_TA_105_-_Kuwait_Travel_Advice_Ed1_WEB.jpg)
+
+
+[Download a more detailed map (PDF, 327 KB)](https://assets.publishing.service.gov.uk/media/6a61d42ff869f6a53d0c8aab/FCDO_TA_105_-_Kuwait_Travel_Advice_Ed1.pdf)
 
 ## Regional tensions
 

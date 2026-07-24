@@ -1,11 +1,11 @@
 {
     "name": "France",
-    "update_reason": "Removal of information about disruption caused by a fire near Bordeaux Airport.",
+    "update_reason": "New information about wildfires in Gironde\u00a0('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/France/Warnings and insurance.md",
-            "update_date": "2026-07-22T15:13:44+01:00"
+            "update_date": "2026-07-23T12:15:45+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/France/Getting help.md"
         }
     ],
-    "update_date": "2026-07-22T15:13:44+01:00"
+    "update_date": "2026-07-23T12:15:45+01:00"
 }

@@ -1,13 +1,21 @@
 # Warnings and insurance
 
 Still current at:
-:   23 July 2026
+:   24 July 2026
 
 Updated:
-:   22 July 2026
+:   23 July 2026
 
 Latest update:
-:   Removal of information about disruption caused by a fire near Bordeaux Airport.
+:   New information about wildfires in Gironde ('Warnings and insurance' page).
+
+## Wildfires in Gironde
+
+Wildfires are affecting parts of Gironde (in southwestern France), including areas around Le Porge and Lège-Cap-Ferret. French authorities have evacuated some campsites and tourist accommodation. Access to affected areas may be restricted. Roads may be closed at short notice.
+
+If you are already in the area or are planning to travel there, follow the advice of local authorities, monitor local media, and contact your accommodation or travel provider for latest guidance.
+
+If you are affected by a wildfire or another emergency, call 18 (fire service) or 112 (emergency services).
 
 ## Wildfires in France
 

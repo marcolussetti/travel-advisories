@@ -1,13 +1,18 @@
 # Warnings and insurance
 
 Still current at:
-:   23 July 2026
+:   24 July 2026
 
 Updated:
-:   22 July 2026
+:   23 July 2026
 
 Latest update:
-:   Updated information about regional tensions, including information about recent strikes and retaliatory attacks by Iran ('Warnings insurance') page.
+:   FCDO now advises against all but essential travel to Bahrain (‘Warnings and insurance’ page).
+
+![](https://assets.publishing.service.gov.uk/media/6a61d0e4e2d191f0bc8b6d58/Bahrain_Travel_Advice_Ed1__WEB_.jpg)
+
+
+[Download a more detailed map (PDF, 433 KB)](https://assets.publishing.service.gov.uk/media/6a61d0e491d54bc7d5127e45/FCDO_TA_106_-_Bahrain_Travel_Advice_Ed1.pdf)
 
 ## Regional tensions
 

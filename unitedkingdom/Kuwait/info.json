@@ -1,11 +1,11 @@
 {
     "name": "Kuwait",
-    "update_reason": "Updated information about regional tensions following recent strikes and retaliatory attacks by Iran ('Warnings and insurance' page).",
+    "update_reason": "FCDO now advises against all but essential travel to Kuwait (\u2018Warnings and insurance\u2019 page)",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Kuwait/Warnings and insurance.md",
-            "update_date": "2026-07-22T13:47:35+01:00"
+            "update_date": "2026-07-23T10:00:49+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Kuwait/Getting help.md"
         }
     ],
-    "update_date": "2026-07-22T13:47:35+01:00"
+    "update_date": "2026-07-23T10:00:49+01:00"
 }
