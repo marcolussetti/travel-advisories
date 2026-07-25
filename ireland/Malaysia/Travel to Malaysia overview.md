@@ -28,7 +28,7 @@ For more information or further queries citizens should contact Malaysian Immigr
 
 Visitors to Malaysia are advised to follow the guidance of national and local authorities and stay fully informed of what is going on by monitoring local news and social media, such as [**Bernama**](https://www.bernama.com/)**,** [**NST**](https://www.nst.com.my/) and [**The Star**](https://www.thestar.com.my/).
 
-Citizens can also follow the Embassy on social media - [**X**](https://x.com/IrlEmbMalaysia), [**Facebook**](https://facebook.com/IrlEmbMalaysia) and [**Instagram**](http://www.instagram.com/IrlEmbMalaysia)- to ensure access to relevant updates and alerts.
+Citizens can also follow the Embassy on social media - [**X**](https://x.com/IrlEmbMalaysia), [**Facebook**](https://facebook.com/IrlEmbMalaysia) and [**Instagram**](http://www.instagram.com/IrlEmbMalaysia) - to ensure access to relevant updates and alerts.
 
 ### **Emergency Assistance**
 

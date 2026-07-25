@@ -10,7 +10,7 @@ Do Not Travel
 
 **Irish citizens who are in Iran are strongly advised to leave the country. Irish citizens who are outside Iran should not travel there under any circumstances.**
 
-**A ceasefire between the US/Israel and Iran is currently in place. The security situation remains highly volatile, and there have been airstrikes against targets in Iran in recent weeks. More widespread hostilities, including airstrikes on cities and key infrastructure, could resume at short notice.**
+**There are ongoing US airstrikes taking place on a number of cities and regions in Iran, primarily targeting military infrastructure but with reports also of damage to some civilian infrastructure.** **The security situation remains highly volatile and unpredictable. More widespread hostilities, including more intensive airstrikes on cities across Iran and/or key infrastructure, could resume at short notice.**
 
 **Irish citizens should stay vigilant and avoid all protests and large gatherings. Irish citizens are also strongly advised to stay away from military, government, security, energy, and communications infrastructure. Irish citizens should also not take photographs or videos of sensitive sites, security incidents, military activity or any sites related to the recent conflicts.**
 

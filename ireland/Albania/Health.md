@@ -45,3 +45,21 @@ Rabies is also a matter of concern as there are large numbers of stray dogs, alt
 ### **Water**
 
 The tap water in Albania may cause illness; only drink bottled water.
+
+### **Healthcare Costs for Tourists**
+
+Albania has introduced set costs for healthcare and medical treatment in public primary care facilities. These charges apply for tourists and foreign visitors who are not resident in Albania. It is important to note that payment is required in advance of treatment. Your European Health Insurance Card is not valid in Albania and cannot be used to cover these costs. All costs below are in local currency, Albanian Lek (ALL).
+
+Fees charged in private healthcare facilities may differ.
+
+|  |  |
+| --- | --- |
+| Consultation with a General Practitioner (GP) | 1,000 |
+| Consultation with a specialist physician | 1,500 |
+| Intramuscular or Subcutaneous Injection | 300 |
+| Intravenous Injection | 500 |
+| Minor Outpatient Surgical Procedure | 1,000 |
+| Electrocardiogram (ECG/EKG) | 700 |
+| Complete Blood Count (CBC) | 400 |
+| Complete Urinalysis | 300 |
+| Blood Glucose Test | 250 |

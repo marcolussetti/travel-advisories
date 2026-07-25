@@ -8,9 +8,11 @@ Avoid Non-Essential Travel
 
 #### **Security Situation in the Middle East and Gulf Region**
 
+**The security situation in Gulf region remains unpredictable. Since 8 July, there have been renewed military strikes in a number of locations across the region, including in Qatar, against military and civilian infrastructure. There is a risk of more attacks, and of further escalation.**
+
 **On 14 July 2026, the EU Aviation Safety Agency issued a travel** [**advisory**](https://www.easa.europa.eu/en/domains/air-operations/czibs/czib-2026-07) **stating that air operators should not operate within the airspace of Bahrain, Kuwait, Qatar, the United Arab Emirates, and in some parts of the airspace over the waters of the Gulf of Oman. We understand that this advisory is active until 29 July 2026.**
 
-**Irish citizens concerned about their travel plans, including transit travel through the region, should check with their airline for further information.**
+**Irish citizens in Qatar, including those transiting through Qatar, should be prepared for possible flight cancellations, periodic airspace closures, and potential travel disruptions. If you are concerned about your travel plans, including transit travel through the region, you should check with your airline for further information prior to travel.**
 
 In light of the current security situation in the Middle East and Gulf region, the Department of Foreign Affairs and Trade strongly advises Irish citizens against all but essential travel to Qatar until further notice.
 

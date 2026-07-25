@@ -8,7 +8,7 @@ Normal Precautions
 
 #### **Wildfires**
 
-During the extended summer period, wildfires are a common occurrence in Spain.
+A national emergency has been declared by Spanish authorities due to wildfires in parts of the country.
 
 For information on wildfire risk, visit the [**Spanish Meteorological Office (AEMET)**](https://www.aemet.es/en/eltiempo/prediccion/incendios)**.**
 

@@ -18,6 +18,16 @@ There are severe penalties for all drug offences; this includes amphetamine-type
 
 The Malaysian authorities may require you to take a urine test on arrival if you are suspected of having used illegal drugs before your visit.
 
+The Malaysian authorities have increased their surveillance of those involved in illicit drug activity and authorities may carry out checks in bars and tourist areas, which can include on the spot testing for drug usage. Malaysian authorities have also increased surveillance at airports for drug trafficking.
+
+Never accept luggage from strangers.
+
+Never travel with bags you have not packed yourself.
+
+Always keep control of your own belongings.
+
+A number of Irish citizens have been arrested, detained or imprisoned as a result of drug usage and possession. Do not possess or use drugs in Malaysia. We cannot emphasise this strongly enough.
+
 ### **Driving**
 
 The rules of the road in Malaysia are broadly similar to those in Ireland, and roads are modern and generally well maintained in more urban areas, but less so in more rural areas.
