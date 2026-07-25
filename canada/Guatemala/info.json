@@ -1,7 +1,7 @@
 {
     "name": "Guatemala",
-    "update_reason": "Natural disasters and climate section \u2013 removed information on the July 17 earthquake",
-    "update_date": "2026-07-20T13:44:00",
+    "update_reason": "Security section \u2013 removed information on the state of prevention",
+    "update_date": "2026-07-24T10:38:00",
     "sections": {
         "risk": "canada/Guatemala/risk.md",
         "security": "canada/Guatemala/security.md",

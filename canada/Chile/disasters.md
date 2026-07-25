@@ -2,46 +2,6 @@
 
 ## Natural disasters and climate
 
-Since July 16, 2026, severe weather has impacted several regions of Chile. It resulted in numerous casualties, damage to infrastructure and road closures. Route 5, the country’s main north-south highway, remains fully closed between La Serena and Vallenar.
-
-The following essential services have been disrupted in several areas:
-
-* electricity
-* transportation, including flights
-* the public water supply
-* telecommunications
-
-Weather alerts remain in effect in the following regions:
-
-* Atacama
-* Biobío
-* Coquimbo
-* Los Ríos
-* Maule
-* Metropolitana
-* Ñuble
-* O'Higgins
-
-
-
-Continued severe weather, depending on the region, could include:
-
-* strong winds
-* heavy rainfall and flooding
-* snow or blizzards in mountainous regions
-* large coastal swells
-
-If you are in an affected area:
-
-* monitor local media for the latest information
-* follow the instructions of local authorities, including evacuation orders
-
-### Useful links
-
-* [Latest alerts](https://senapred.cl/informate/alertas) – National Service for Disaster Prevention and Response (SENAPRED) (Spanish only)
-* [Meteorological alert system](https://www.meteochile.gob.cl/PortalDMC-web/index.xhtml) – Meteorological Directorate of Chile (Spanish only)
-* [Torrential rains, flooding and mudslides](#flooding)
-
 Chile is subject to various natural disasters such as:
 
 * volcanic eruptions

@@ -1,7 +1,7 @@
 {
     "name": "Hong Kong",
-    "update_reason": "Need help? section \u2013 updated information on consular assistance",
-    "update_date": "2026-06-23T14:29:00",
+    "update_reason": "Natural disasters and climate section \u2013 added information on Typhoon Noul",
+    "update_date": "2026-07-24T16:44:00",
     "sections": {
         "risk": "canada/Hong Kong/risk.md",
         "security": "canada/Hong Kong/security.md",

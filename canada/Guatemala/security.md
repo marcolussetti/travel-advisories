@@ -2,32 +2,6 @@
 
 ## Safety and security
 
-### State of prevention
-
-A state of prevention is in effect in the following departments:
-
-* Guatemala
-* Petén
-* Escuintla
-* Izabal
-* San Marcos
-* Huehuetenango
-
-During the state of prevention, security forces have the authority to:
-
-* limit demonstrations and public and private gatherings
-* establish roadblocks and checkpoints
-* limit movements
-* regulate or suspend strikes and work stoppages, especially if they have political purposes
-* dissolve gatherings or demonstrations that are not authorized or that involve weapons or violence
-* request that media outlets avoid publications that, in the authority’s judgement, encourage disruption of public order
-
-If you’re in an affected department:
-
-* follow the instructions of local authorities
-* monitor local media to stay informed on the evolving situation
-* avoid areas where demonstrations and large gatherings are taking place
-
 ### Border areas
 
 Border areas often see higher levels of criminal activity and violence. Crime rates are high near all border crossings in Guatemala but are worse near unofficial ones.

@@ -1,7 +1,7 @@
 {
     "name": "Chile",
-    "update_reason": "Natural disasters and climate section \u2013 updated information on severe weather",
-    "update_date": "2026-07-21T16:55:00",
+    "update_reason": "Natural disasters and climate section \u2013 removed information on severe weather",
+    "update_date": "2026-07-24T10:39:00",
     "sections": {
         "risk": "canada/Chile/risk.md",
         "security": "canada/Chile/security.md",
