@@ -1,21 +1,25 @@
 # Warnings and insurance
 
 Still current at:
-:   24 July 2026
+:   25 July 2026
 
 Updated:
-:   23 July 2026
+:   24 July 2026
 
 Latest update:
-:   New information about wildfires in Gironde ('Warnings and insurance' page).
+:   New information about wildfires in south-west France ('Warnings and insurance' page).
 
-## Wildfires in Gironde
+## Wildfires in south-west France
 
-Wildfires are affecting parts of Gironde (in southwestern France), including areas around Le Porge and Lège-Cap-Ferret. French authorities have evacuated some campsites and tourist accommodation. Access to affected areas may be restricted. Roads may be closed at short notice.
+Wildfires are affecting parts of Gironde, including areas around Saumos, Le Porge and Lège-Cap-Ferret, where French authorities have evacuated campsites, tourist accommodation and some residential areas. A separate wildfire is also affecting parts of Landes, including Biscarrosse and surrounding areas. Access to affected areas may be restricted and roads may close at short notice.
 
-If you are already in the area or are planning to travel there, follow the advice of local authorities, monitor local media, and contact your accommodation or travel provider for latest guidance.
+If you are in the area or planning to travel there, follow the advice of local authorities, monitor local media, and check with your accommodation or travel provider before travelling.
 
-If you are affected by a wildfire or another emergency, call 18 (fire service) or 112 (emergency services).
+For information on the wildfires, the Prefecture has opened a public information line from 09:00 to 17:00 on +33 (0)9 70 80 90 40 (select option 1 for Gironde).
+
+You can also monitor active wildfires on the French wildfire map: [Feux de Forêt](https://feuxdeforet.fr/).
+
+If you are affected by a wildfire or other emergency, call 18 (fire service) or 112 (emergency services).
 
 ## Wildfires in France
 

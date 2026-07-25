@@ -26,7 +26,7 @@ Dual British-Tunisian nationals should enter and leave Tunisia on the same passp
 
 ## Visa requirements
 
-You can visit Tunisia without a visa for up to 90 days. Contact the [Tunisian Embassy in the UK](https://consular.website/) for information on how to apply.
+You can visit Tunisia without a visa for up to 90 days, except for holders of Crown Dependency passports, who may need to buy a visa on arrival. Contact the [Tunisian Embassy in the UK](https://consular.website/) for information on how to apply.
 
 Make sure you get your passport stamped.
 
@@ -62,15 +62,17 @@ There are strict rules about [goods you can take into or out of Tunisia](https:/
 
 ### Taking money into and out of Tunisia
 
-Tunisia has strict currency controls in place, if you bring large sums of foreign currency in, border officials may confiscate any excess amount. If you are bringing foreign currency, including pound sterling, [check the rules](https://www.douane.gov.tn/devises-et-change/) and check with customs on arrival whether you need to make any required declarations. If border officials find undeclared amounts over the limit, they may confiscate the excess amount.
+Tunisia has strict currency controls. If you are bringing foreign currency into Tunisia, including pound sterling, check the [applicable rules](https://www.douane.gov.tn/devises-et-change/) and whether you need to make a declaration on arrival. Failure to declare foreign currency may result in confiscation. Keep declaration documents. You are not allowed to take Tunisian dinars out of Tunisia.
 
-Bringing foreign currency into Tunisia requires a stamp duty payment of 10 Tunisian Dinars, regardless of the amount declared.
-
-You are not allowed to take Tunisian dinars out of the country. To exchange leftover dinars at the end of your stay, you need to show the receipt from the bank where you first withdrew or bought the dinars. Receipts from cash machines are not accepted. If you do not present the declaration of foreign currency received from customs upon entering Tunisia, you may not be able to take the foreign currency out of the country when leaving.
+Keep official exchange receipts.
 
 ### Drones
 
 It is illegal to bring drones into Tunisia without authorisation. Any drones detected will be confiscated and stored until your departure.
+
+### Electronic devices
+
+Certain electronic devices with recording, transmission or smart-function capabilities may be subject to restrictions, or be confiscated on arrival for the duration of your visit. If you intend to travel with devices such as Ray-Ban Meta Smart Glasses or walkie-talkies, including toy ones, check the latest requirements with the Tunisian authorities before travelling.
 
 [Previous:Warnings and insurance](/foreign-travel-advice/tunisia)
 

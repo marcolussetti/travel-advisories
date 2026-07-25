@@ -1,11 +1,11 @@
 {
     "name": "Tunisia",
-    "update_reason": "Removal of information about temporary safety measures following severe storm.",
+    "update_reason": "This travel advice has been reviewed for accuracy with changes made throughout, including visa requirements, taking money into and out of Tunisia, electronic devices, drugs and illegal substances and power supply in summer months ('Entry requirements' and 'Safety and security') pages.",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Tunisia/Warnings and insurance.md",
-            "update_date": "2026-02-23T12:48:19+00:00"
+            "update_date": "2026-07-24T17:07:53+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Tunisia/Getting help.md"
         }
     ],
-    "update_date": "2026-02-23T12:48:19+00:00"
+    "update_date": "2026-07-24T17:07:53+01:00"
 }

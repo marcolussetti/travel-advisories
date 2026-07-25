@@ -174,7 +174,7 @@ Find out what you can do to prepare for and respond to [extreme weather and natu
 
 ### Wildfires
 
-Summer wildfires caused significant damage and numerous deaths in towns east of Algiers in 2023, 2022 and 2021. Similar fires could flare up without warning, especially during periods of extreme weather. Follow local advice and avoid travelling to areas where fires may break out.
+Wildfires take place most summers, causing significant damage and risk to life where they take place. Fires could flare up without warning, especially during periods of extreme weather. The General Directorate of Civil Contingency has released advice on [how to help prevent wildfires and what to do if a wildfire breaks out near you](https://dgpc.dz/en/forest-fire-prevention/). Always follow local advice and stay away from high risk areas.
 
 ### Flooding
 

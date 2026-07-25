@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   16 April 2026
+:   25 July 2026
 
 Updated:
-:   15 April 2026
+:   24 July 2026
 
 Latest update:
-:   Removal of information following reports of an explosion in the town of Blida (‘Warnings and insurance’ page).
+:   Updated information on wildfires ('Safety and security' page).
 
 ![](https://assets.publishing.service.gov.uk/media/615dcb70d3bf7f55fd843aea/FCDO__TA__002_-_Algeria_Travel_Advice_Ed3__WEB_.jpg)
 

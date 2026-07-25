@@ -80,7 +80,7 @@ Beach-appropriate clothing in holiday resorts is acceptable, however when visiti
 
 ### Ramadan
 
-Ramadan is a holy month for Muslims. The dates vary by year and country, next starting in February 2026. During this time, eating or drinking, smoking or chewing gum in public in the daytime may cause offence.
+Ramadan is a holy month for Muslims. The dates vary by year and country, next starting in February 2027. During this time, eating or drinking, smoking or chewing gum in public in the daytime may cause offence.
 
 Get more advice when you arrive from your tour guide, hotel or business contacts. You should also:
 
@@ -96,7 +96,7 @@ The sale of alcohol is permitted in Tunisia but is banned from sale in supermark
 
 ### Drugs and illegal substances
 
-It is illegal to bring any controlled or prohibited substances into Tunisia. Travellers found in possession of illegal drugs can face severe penalties, including lengthy prison sentences and heavy fines. We strongly advise against carrying any such substances into the country.
+It is illegal to bring any controlled or prohibited substances into Tunisia. Travellers found in possession of illegal drugs can face severe penalties, including lengthy prison sentences and heavy fines. Tunisian legislation relating to illegal drugs applies regardless of the traveller’s country of residence, country of departure, whether the substance is legal elsewhere or the quantity being carried. Do not carry any such substances into the country.
 
 ### Using cameras in secure areas
 
@@ -155,6 +155,12 @@ You may come across military or police security checkpoints. Approach slowly and
 ### Rail travel
 
 Rail travel is generally safe, although safety standards tend to be lower than in the UK. There is a risk of petty crime on trains.
+
+## Extreme weather and natural disasters
+
+### Power supply in summer months
+
+In summer months, heatwaves and extreme temperatures may occur. This can cause an increase in the pressure on the electricity grid. In response, the Tunisian electricity and gas company (STEG) may carry out temporary power cuts. These disruptions can have a direct impact on infrastructure across the country, including in some hotels. Power cuts can temporarily affect air conditioning, mobile phone networks and Internet connections. In extreme cases cuts can impact water supply and payment transactions (ATMs and card payments). Disruptions are usually only temporary. Find out more from your tour operator, at your accommodation or via local media regarding potential restrictions in your area.
 
 [Previous:Entry requirements](/foreign-travel-advice/tunisia/entry-requirements)
 

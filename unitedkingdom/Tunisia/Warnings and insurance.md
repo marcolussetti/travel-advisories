@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   24 February 2026
+:   25 July 2026
 
 Updated:
-:   23 February 2026
+:   24 July 2026
 
 Latest update:
-:   Removal of information about temporary safety measures following severe storm.
+:   This travel advice has been reviewed for accuracy with changes made throughout, including visa requirements, taking money into and out of Tunisia, electronic devices, drugs and illegal substances and power supply in summer months ('Entry requirements' and 'Safety and security') pages.
 
 ![](https://assets.publishing.service.gov.uk/media/687faf22fdc190fb6b8468e3/FCDO__TA__042_-_Tunisia_Travel_Advice_Ed5__WEB___1_.jpg)
 
