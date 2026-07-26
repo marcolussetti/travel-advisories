@@ -12,7 +12,11 @@ Since March 2025, France has maintained its national security threat level at le
 
 #### **Wildfires**
 
-Wildfires are currently affecting southern France. The French weather service has launched [**a** **fire alert map**](https://meteofrance.com/meteo-des-forets) to help travellers stay up to date. Irish citizens affected by wildfires can contact the Embassy for assistance at: +33 1 44 17 67 00.
+Wildfires are currently affecting southern France. The French weather service has launched [**a fire alert map**](https://meteofrance.com/meteo-des-forets) to help travellers stay up to date.
+
+Citizens in, or near, areas affected by wildfires should exercise extreme caution, monitor news updates and follow the instructions of the local authorities. Irish citizens affected by wildfires can contact the Embassy for assistance at: +33 1 44 17 67 00.
+
+The French authorities have advised against travelling through the Gironde area due to wildfires.
 
 For information on staying safe in hot weather, please see the Climate section below.
 
