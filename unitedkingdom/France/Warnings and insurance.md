@@ -1,25 +1,30 @@
 # Warnings and insurance
 
 Still current at:
-:   25 July 2026
+:   27 July 2026
 
 Updated:
-:   24 July 2026
+:   26 July 2026
 
 Latest update:
-:   New information about wildfires in south-west France ('Warnings and insurance' page).
+:   Further information about wildfires affecting parts of France (‘Warning and insurance’ page)
 
 ## Wildfires in south-west France
 
-Wildfires are affecting parts of Gironde, including areas around Saumos, Le Porge and Lège-Cap-Ferret, where French authorities have evacuated campsites, tourist accommodation and some residential areas. A separate wildfire is also affecting parts of Landes, including Biscarrosse and surrounding areas. Access to affected areas may be restricted and roads may close at short notice.
+Wildfires are affecting parts of Gironde and Landes in the south-west of France.
 
-If you are in the area or planning to travel there, follow the advice of local authorities, monitor local media, and check with your accommodation or travel provider before travelling.
+French authorities have evacuated campsites, tourist accommodation and some residential areas. Access to affected areas may be restricted and roads may close at short notice. Further evacuations may take place.
 
-For information on the wildfires, the Prefecture has opened a public information line from 09:00 to 17:00 on +33 (0)9 70 80 90 40 (select option 1 for Gironde).
+If you are in an affected area, or planning to travel there:
+
+* follow instructions and updates from local authorities and emergency services at all times
+* call 112 if you need emergency help
+
+Check with your accommodation or travel provider before travelling.
+
+For information on the wildfires in the south-west a public information line is open from 09:00 to 17:00, +33 (0)9 70 80 90 40 (select option 1 for Gironde, option 2 for Landes).
 
 You can also monitor active wildfires on the French wildfire map: [Feux de Forêt](https://feuxdeforet.fr/).
-
-If you are affected by a wildfire or other emergency, call 18 (fire service) or 112 (emergency services).
 
 ## Wildfires in France
 

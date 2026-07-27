@@ -1,13 +1,19 @@
 # Warnings and insurance
 
 Still current at:
-:   11 April 2026
+:   27 July 2026
 
 Updated:
-:   10 April 2026
+:   26 July 2026
 
 Latest update:
-:   Updated information on European Entry-Exit System (EES) (‘Entry requirements’ page).
+:   Further information regarding the vehicle related incident in Berlin on 25 July (‘Warnings and insurance’ page)
+
+## Vehicle related incident in Berlin
+
+On 25 July 2026, at around 10pm a vehicle-related incident took place during the Christopher Street Day celebrations in central Berlin, resulting in multiple injuries and one fatality. A major police operation was launched and local authorities advised the public to avoid the affected Tiergarten area. The Berlin police released a statement on Sunday evening saying they had killed the suspected perpetrator of the attack and investigations are ongoing.
+
+If you are in Berlin remain vigilant, follow the advice of local authorities and monitor local media for updates.
 
 ## Before you travel
 
