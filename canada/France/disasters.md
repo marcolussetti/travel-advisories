@@ -2,6 +2,12 @@
 
 ## Natural disasters and climate
 
+### Forest fires in the southwest
+
+Forest fires are affecting certain parts of Gironde and Landes, in the southwest of the country. Large-scale evacuations are underway around the fires, including in tourist areas.
+
+[More information on forest and maquis fires](france#fires)
+
 ### Climate change
 
 Climate change is affecting France. Extreme and unusual weather events are becoming more frequent and may affect your travel plans. Monitor local media for the latest information.

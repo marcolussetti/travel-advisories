@@ -1,7 +1,7 @@
 {
     "name": "France",
-    "update_reason": "Editorial change",
-    "update_date": "2026-07-23T08:54:00",
+    "update_reason": "Natural disasters and climate section \u2013 added information on forest fires in the southwest",
+    "update_date": "2026-07-27T15:25:00",
     "sections": {
         "risk": "canada/France/risk.md",
         "security": "canada/France/security.md",
