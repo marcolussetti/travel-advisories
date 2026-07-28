@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   28 April 2026
+:   28 July 2026
 
 Updated:
-:   27 April 2026
+:   27 July 2026
 
 Latest update:
-:   Updated information on local security measures (‘Safety and security’ page).
+:   New information about military activity in the Red Sea area (‘Regional risks’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/62558a0c8fa8f54a9055161a/FCDO__TA__016_-_Eritrea_Travel_Advice_Ed4__WEB_.jpg)
 

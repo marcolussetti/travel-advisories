@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   2 July 2026
+:   28 July 2026
 
 Updated:
-:   1 July 2026
+:   27 July 2026
 
 Latest update:
-:   Updated information about health risks ('Health' page).
+:   Updated information about a new monthly curfew (See 'National cleaning day' on the 'Safety and security' page).
 
 ## Before you travel
 

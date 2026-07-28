@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   18 June 2026
+:   28 July 2026
 
 Updated:
-:   17 June 2026
+:   27 July 2026
 
 Latest update:
-:   Removal of information about presidential elections taking place on 10 April ('Warnings and insurance' page).
+:   New information about military activity in the Red Sea area ('Regional risks’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/615dd2368fa8f5297a62a0bc/FCDO__TA__013_-_Djibouti_Travel_Advice_Ed2__WEB_.jpg)
 
@@ -21,17 +21,6 @@ Your travel insurance could be invalidated if you travel against advice from the
 ### Djibouti-Eritrea border
 
 FCDO advises against all travel to the Djibouti-Eritrea border.
-
-## Wider regional developments
-
-The British Embassy is closely monitoring events in the Middle East and Gulf region. There is currently no change to the situation in Djibouti.
-
-British nationals should:
-
-* sign up to FCDO Travel Advice email alerts
-* monitor local and international media for the latest information
-* follow the instructions of the Djibouti authorities
-* stay alert and aware.
 
 ## Before you travel
 

@@ -4,6 +4,14 @@ This section has safety advice for regions of Eritrea. It only covers regions wh
 
 You should also read [FCDO’s overall travel advice](/foreign-travel-advice/eritrea) and [safety and security advice](/foreign-travel-advice/eritrea/safety-and-security).
 
+## Military activity in the Red Sea area
+
+There is a risk of military activity is currently underway in response to attempts by Houthi militants to prevent movement of international shipping in the Red Sea. While the area of activity is limited to the Red Sea and Yemen, there is a possibility that the situation could change at short notice. You should:
+
+* read [If you’re affected by a crisis abroad - GOV.UK](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas). This includes guidance on “how to prepare for a crisis” with suggestions on what you might include in your emergency supplies and “what to do in a crisis”
+* sign up to [FCDO Travel Advice email alerts](https://www.gov.uk/foreign-travel-advice/eritrea/email-signup)
+* monitor local and international media for the latest information
+
 ## Eritrea-Djibouti border
 
 FCDO advises against all travel to within 25km of Eritrea’s border with Djibouti.

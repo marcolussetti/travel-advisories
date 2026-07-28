@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   17 June 2026
+:   28 July 2026
 
 Updated:
-:   16 June 2026
+:   27 July 2026
 
 Latest update:
-:   Updated information about bringing medicines into Georgia ('Entry requirements' page).
+:   Updated information on the political situation ('Safety and security' page)
 
 ![](https://assets.publishing.service.gov.uk/media/690481e4823bdda9488b24cf/FCDO_TA_018_-_Georgia_Travel_Advice_Ed4_WEB.jpg)
 

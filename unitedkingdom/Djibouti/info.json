@@ -1,11 +1,11 @@
 {
     "name": "Djibouti",
-    "update_reason": "Removal of  information about presidential elections taking place on 10 April ('Warnings and insurance' page).",
+    "update_reason": "New information about military activity in the Red Sea area ('Regional risks\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Djibouti/Warnings and insurance.md",
-            "update_date": "2026-06-17T09:03:01+01:00"
+            "update_date": "2026-07-27T15:03:02+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Djibouti/Getting help.md"
         }
     ],
-    "update_date": "2026-06-17T09:03:01+01:00"
+    "update_date": "2026-07-27T15:03:02+01:00"
 }

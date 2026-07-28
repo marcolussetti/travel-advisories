@@ -14,7 +14,7 @@ Terrorist attacks in Georgia cannot be ruled out. Attacks could happen anywhere 
 
 ## Political situation
 
-1 June marked the 550th day of protests. Some of these have led to violent confrontation between police and protesters. In Tbilisi the demonstrations are now mainly focused on the Parliament building on Rustaveli Avenue, but they can spread to other areas, particularly on Saturday evenings/nights and on the anniversaries of significant political events. Demonstrations also take place in other cities and towns. Demonstrations may lead to travel disruption.
+21 July marked the 600th day of protests. Some of these have led to violent confrontation between police and protesters. In Tbilisi the demonstrations are now mainly focused on the Parliament building on Rustaveli Avenue, but they can spread to other areas, particularly on Saturday evenings/nights and on the anniversaries of significant political events. Demonstrations also take place in other cities and towns. Demonstrations may lead to travel disruption.
 
 Tensions can escalate without warning. You should:
 

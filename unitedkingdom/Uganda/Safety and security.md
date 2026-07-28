@@ -107,6 +107,16 @@ Scammers may target foreign visitors and residents. Be wary of strangers who:
 
 ## Laws and cultural differences
 
+### National cleaning day
+
+On Thursday 23 July the Government of Uganda declared that the final Saturday of each month, between 7 and 10 am, will be a mandatory and nationwide cleaning day.
+
+According to the Ministry of ICT and National Guidance, Ugandans are expected to clean homes, neighbourhoods, markets, schools, health facilities, places of worship, roads, drainage channels and other public spaces. Foreigners are not the intended participants but may be affected.
+
+During this time, all businesses must close and all non-essential movement of people and vehicles is prohibited. The sole exemption is for emergency services and security actors. The Ugandan Government states that this will be enforced by the police.
+
+It is unclear how widely this will be enforced and what it means for UK travellers, including for hotel and airport access. Contact your travel provider for more information.
+
 ### Personal ID
 
 Officials may stop you and ask for ID. Always carry a copy of the photo page of your passport.

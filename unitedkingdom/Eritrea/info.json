@@ -1,11 +1,11 @@
 {
     "name": "Eritrea",
-    "update_reason": "Updated information on local security measures (\u2018Safety and security\u2019 page).",
+    "update_reason": "New information about military activity in the Red Sea area (\u2018Regional risks\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Eritrea/Warnings and insurance.md",
-            "update_date": "2026-04-27T09:22:31+01:00"
+            "update_date": "2026-07-27T15:03:05+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Eritrea/Getting help.md"
         }
     ],
-    "update_date": "2026-04-27T09:22:31+01:00"
+    "update_date": "2026-07-27T15:03:05+01:00"
 }
