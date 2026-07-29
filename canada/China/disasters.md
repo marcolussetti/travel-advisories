@@ -4,9 +4,9 @@
 
 ### Typhoon Noul
 
-Typhoon Noul is forecast to make landfall in southern China's Guangdong province between Dangan Island and Shenquan Harbour on July 25 and 26, 2026.
+On July 26, 2026, Typhoon Noul made landfall in Huidong County, Guangdong province. It caused significant damage and flooding.
 
-The storm is likely to bring excessive rainfall and violent winds. It may cause flash flooding and landslides and could severely disrupt the following essential services:
+The following essential services are facing significant disruptions:
 
 * transportation
 * power distribution
@@ -20,7 +20,6 @@ If you are in the affected area:
 * exercise caution
 * monitor local news and weather reports
 * follow the instructions of local authorities
-* check with your airline before going to the airport to see if your flight is delayed or cancelled
 
 ### Climate change
 

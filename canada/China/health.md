@@ -64,39 +64,6 @@ Travellers to areas where TBE is found may be at higher risk  during April to N
 
 [Protect yourself from tick bites](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html). The vaccine is not available in Canada. It may be available in the destination you are travelling to.
 
-Rabies 
-
-Rabies is present in this destination and is carried by dogs and some wildlife, including bats. Rabies is a serious disease that’s almost always fatal once symptoms appear. It's spread to humans through the saliva of infected animals, mainly through bites, but it can also be spread through scratches.
-
-Before you travel, talk to a health care professional about rabies vaccination. Vaccination may be recommended for people at higher risk of exposure, such as:
-
-* veterinarians and wildlife workers
-* children
-* adventure travellers and cave explorers (spelunkers)
-* people who will be in close contact with animals
-
-While travelling:
-
-* avoid contact with animals, including free roaming dogs
-* supervise children closely around animals
-
-If you’re bitten or scratched by an animal:
-
-* wash the wound right away with soap and clean water for about 15 minutes
-* get medical care as soon as possible
-
-Treatment to prevent rabies is often available in this destination.
-
-If you get treatment to prevent rabies while outside Canada, ask for:
-
-* written records of medications and vaccines administered, including when they were given, product names, and batch or lot numbers
-* photos of the packaging and labels of any medications or vaccines given to you
-
-When you return to Canada, see a health care professional as soon as possible and bring your treatment records to your appointment.
-
-**Learn more:**  
-[Rabies: Symptoms and treatment](https://www.canada.ca/en/public-health/services/diseases/rabies.html)
-
 Measles 
 
 Measles is a serious viral infection that spreads easily. It spreads through the air, and can stay in the air for up to 2 hours. You can also get measles by direct contact with an infected person or by touching a surface with the virus on it and then touching your eyes, nose, or mouth before washing your hands.
@@ -151,6 +118,39 @@ In addition to vaccination, use personal protective measures to help protect you
 [Vaccine for COVID-19: How to get vaccinated](https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19/vaccines/how-vaccinated.html)  
 [COVID-19: Spread, prevention and risks](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html#p)
 
+Rabies 
+
+Rabies is present in this destination and is carried by dogs and some wildlife, including bats. Rabies is a serious disease that’s almost always fatal once symptoms appear. It's spread to humans through the saliva of infected animals, mainly through bites, but it can also be spread through scratches.
+
+Before you travel, talk to a health care professional about rabies vaccination. Vaccination may be recommended for people at higher risk of exposure, such as:
+
+* veterinarians and wildlife workers
+* children
+* adventure travellers and cave explorers (spelunkers)
+* people who will be in close contact with animals
+
+While travelling:
+
+* avoid contact with animals, including free roaming dogs
+* supervise children closely around animals
+
+If you’re bitten or scratched by an animal:
+
+* wash the wound right away with soap and clean water for about 15 minutes
+* get medical care as soon as possible
+
+Treatment to prevent rabies is often available in this destination.
+
+If you get treatment to prevent rabies while outside Canada, ask for:
+
+* written records of medications and vaccines administered, including when they were given, product names, and batch or lot numbers
+* photos of the packaging and labels of any medications or vaccines given to you
+
+When you return to Canada, see a health care professional as soon as possible and bring your treatment records to your appointment.
+
+**Learn more:**  
+[Rabies: Symptoms and treatment](https://www.canada.ca/en/public-health/services/diseases/rabies.html)
+
 ### Safe food and water precautions
 
 Eating or drinking unsafe food or water, or swimming in contaminated water can make you sick while travelling. Take precautions by following these tips:
@@ -204,6 +204,18 @@ To protect yourself from bites:
 [Insect bite and pest prevention](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html)  
 [Personal insect repellents](https://www.canada.ca/en/health-canada/services/about-pesticides/insect-repellents.html)
 
+Crimean-Congo haemorrhagic fever
+
+There is a risk of [Crimean-Congo haemorrhagic fever](http://www.who.int/mediacentre/factsheets/fs208/en/) (CCHF) in this destination. The risk is generally low for most travellers. CCHF is a disease caused by a virus that can spread to humans through the bite of an infected tick or through contact with the blood or tissues of an infected animal.
+
+Symptoms usually appear suddenly and may include  fever, headache, muscle aches, dizziness, neck pain and stiffness, sore eyes and sensitivity to light, and bleeding under the skin.  In some cases, it can be fatal.
+
+Celebrations which include the slaughtering of animals and contact with their blood or tissues may increase the risk of exposure to the virus. Protect yourself from tick bites and wear gloves or other protective clothing if you are in contact with the blood or tissues of animals, particularly livestock. There is no vaccine available for CCHF.
+
+**Learn more:**  
+[Crimean-Congo haemorrhagic fever (WHO Fact Sheet)](https://www.who.int/en/news-room/fact-sheets/detail/crimean-congo-haemorrhagic-fever)  
+[Insect bite and pest prevention](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html)
+
 Chikungunya
 
 There is a risk of chikungunya in this country. The level of risk may vary by:
@@ -225,16 +237,16 @@ A vaccine for the prevention of chikungunya is approved in Canada. Talk to your 
 
 [Chikungunya](https://www.canada.ca/en/public-health/services/diseases/chikungunya.html)
 
-Crimean-Congo haemorrhagic fever
+Dengue 
 
-There is a risk of [Crimean-Congo haemorrhagic fever](http://www.who.int/mediacentre/factsheets/fs208/en/) (CCHF) in this destination. The risk is generally low for most travellers. CCHF is a disease caused by a virus that can spread to humans through the bite of an infected tick or through contact with the blood or tissues of an infected animal.
-
-Symptoms usually appear suddenly and may include  fever, headache, muscle aches, dizziness, neck pain and stiffness, sore eyes and sensitivity to light, and bleeding under the skin.  In some cases, it can be fatal.
-
-Celebrations which include the slaughtering of animals and contact with their blood or tissues may increase the risk of exposure to the virus. Protect yourself from tick bites and wear gloves or other protective clothing if you are in contact with the blood or tissues of animals, particularly livestock. There is no vaccine available for CCHF.
+* In this country, dengue is a risk to travellers. It is a viral disease spread to humans by mosquito bites.
+* Dengue can cause flu-like symptoms. In some cases, it can lead to severe dengue, which can be fatal.
+* The level of risk of dengue changes seasonally, and varies from year to year. The level of risk also varies between regions in a country and can depend on the elevation in the region.
+* Mosquitoes carrying dengue typically bite during the daytime, particularly around sunrise and sunset.
+* Protect yourself from mosquito bites. There is no vaccine or medication available in Canada to prevent dengue.
 
 **Learn more:**  
-[Crimean-Congo haemorrhagic fever (WHO Fact Sheet)](https://www.who.int/en/news-room/fact-sheets/detail/crimean-congo-haemorrhagic-fever)  
+[Dengue](https://www.canada.ca/en/public-health/services/infectious-diseases/viral-haemorrhagic-fevers/dengue-fever.html)  
 [Insect bite and pest prevention](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html)
 
 Leishmaniasis - Visceral
@@ -248,18 +260,6 @@ To lower your risk, protect yourself from sandfly bites. Sandflies are most acti
 There is no vaccine or medication to prevent infection with the parasite that causes leishmaniasis.
 
 **Learn more:**[Leishmaniasis](https://www.canada.ca/en/public-health/services/diseases/leishmaniasis.html)
-
-Dengue 
-
-* In this country, dengue is a risk to travellers. It is a viral disease spread to humans by mosquito bites.
-* Dengue can cause flu-like symptoms. In some cases, it can lead to severe dengue, which can be fatal.
-* The level of risk of dengue changes seasonally, and varies from year to year. The level of risk also varies between regions in a country and can depend on the elevation in the region.
-* Mosquitoes carrying dengue typically bite during the daytime, particularly around sunrise and sunset.
-* Protect yourself from mosquito bites. There is no vaccine or medication available in Canada to prevent dengue.
-
-**Learn more:**  
-[Dengue](https://www.canada.ca/en/public-health/services/infectious-diseases/viral-haemorrhagic-fevers/dengue-fever.html)  
-[Insect bite and pest prevention](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html)
 
 ### Animal precautions
 

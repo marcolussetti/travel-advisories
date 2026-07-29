@@ -252,27 +252,6 @@ To protect yourself from bites:
 [Insect bite and pest prevention](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html)  
 [Personal insect repellents](https://www.canada.ca/en/health-canada/services/about-pesticides/insect-repellents.html)
 
-Chikungunya
-
-There is a risk of chikungunya in this country. The level of risk may vary by:
-
-* season
-* year
-* region
-* elevation
-
-The virus that causes chikungunya is spread through the bite of an infected mosquito. It can cause fever and pain in the joints. In some cases, the joint pain can be severe and last for months or years.
-
-Protect yourself from mosquito bites at all times.
-
-[Insect bite and pest prevention](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html)
-
-A vaccine for the prevention of chikungunya is approved in Canada. Talk to your healthcare provider about how best to prevent chikungunya, including the benefits and risks of vaccination based on factors such as your age, itinerary and personal preferences.
-
-**Learn more:**
-
-[Chikungunya](https://www.canada.ca/en/public-health/services/diseases/chikungunya.html)
-
 Crimean-Congo haemorrhagic fever
 
 There is a risk of [Crimean-Congo haemorrhagic fever](http://www.who.int/mediacentre/factsheets/fs208/en/) (CCHF) in this destination. The risk is generally low for most travellers. CCHF is a disease caused by a virus that can spread to humans through the bite of an infected tick or through contact with the blood or tissues of an infected animal.
@@ -297,6 +276,27 @@ There is no vaccine or medication to prevent infection with the parasite that ca
 
 **Learn more:**   
 [Leishmaniasis](https://www.canada.ca/en/public-health/services/diseases/leishmaniasis.html)
+
+Chikungunya
+
+There is a risk of chikungunya in this country. The level of risk may vary by:
+
+* season
+* year
+* region
+* elevation
+
+The virus that causes chikungunya is spread through the bite of an infected mosquito. It can cause fever and pain in the joints. In some cases, the joint pain can be severe and last for months or years.
+
+Protect yourself from mosquito bites at all times.
+
+[Insect bite and pest prevention](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html)
+
+A vaccine for the prevention of chikungunya is approved in Canada. Talk to your healthcare provider about how best to prevent chikungunya, including the benefits and risks of vaccination based on factors such as your age, itinerary and personal preferences.
+
+**Learn more:**
+
+[Chikungunya](https://www.canada.ca/en/public-health/services/diseases/chikungunya.html)
 
 Dengue 
 

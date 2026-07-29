@@ -2,6 +2,23 @@
 
 ## Natural disasters and climate
 
+### Earthquake near Kyushu
+
+On July 28, 2026, a 7.1 magnitude earthquake struck the Kumamoto Prefecture in southeastern Kyushu, Japan.
+
+Aftershocks could occur.
+
+If you are in the affected area:
+
+* exercise caution
+* monitor local media for updates on the situation
+* follow the instructions of local and national authorities, including evacuation orders
+
+#### Useful links
+
+* [Latest earthquake information](https://www3.nhk.or.jp/nhkworld/en/app/) – NHK World News
+* [Earthquake safety tips](https://www.jnto.go.jp/safety-tips/eng/emergency/earthquake/e03.html) – Japan National Tourism Organisation
+
 ### Climate change
 
 Climate change is affecting Japan. Extreme and unusual weather events are becoming more frequent and may affect your travel plans. Monitor local news to stay informed on the current situation.

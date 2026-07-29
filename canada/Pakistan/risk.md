@@ -35,7 +35,7 @@ The features in this map do not constitute an authoritative source of geographic
 * the section of the Karakoram Highway from Mansehra to Chilas
 * Pakistan-administered Kashmir
 * the province of Balochistan
-* the province of Khyber Pakhtunkhwa, with the exception of the following districts:
+* the province of Khyber Pakhtunkhwa, with the exception of the following districts where we advise against non-essential travel:
 
 + Haripur
 + Abbottabad
