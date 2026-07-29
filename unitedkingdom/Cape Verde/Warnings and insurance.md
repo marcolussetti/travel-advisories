@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   28 May 2026
+:   29 July 2026
 
 Updated:
-:   27 May 2026
+:   28 July 2026
 
 Latest update:
-:   Updated information about the traveller entry form and updated information about health risks you may face in Cape Verde ('Entry requirements' and 'Health' pages).
+:   Updated information about travelling with medication (‘Health’ page).
 
 ## Before you travel
 

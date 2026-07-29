@@ -84,6 +84,21 @@ Drink-driving is a serious offence in Slovenia. The blood alcohol limit for expe
 
 See [Slovenia traffic and border crossing reports](https://www.promet.si/en).
 
+### Road safety
+
+If your vehicle breaks down on a motorway or expressway:
+
+* call 1970 (or +386 1 518 8 518) for assistance
+* turn on your hazard lights
+* ensure all passengers wear reflective jackets
+* leave the vehicle safely and place a warning triangle behind it
+* wait behind the safety barrier where possible
+* in tunnels, leave in the direction of the entrance
+
+Vehicles stopped in a traffic lane, slip road, or tunnel emergency bay may be removed by a motorway operator-contracted towing service. If your vehicle is on the hard shoulder, an emergency bay or a rest area, you can arrange your own recovery, but it must normally be moved within 2 hours.
+
+Be aware that unauthorised recovery operators may offer assistance and charge high fees. UUse only authorised recovery providers and, if in doubt, call 1970 for advice. Authorised providers display a DARS logo on their vehicle.
+
 ### Motorway tolls
 
 If you drive on Slovenian motorways, you must buy an ‘e-vignette’ for electronic tolls. You can buy weekly, monthly or yearly e-vignettes at:

@@ -42,11 +42,15 @@ The legal status and regulation of some medicines prescribed or bought in the UK
 
 Read [best practice when travelling with medicines on TravelHealthPro](https://travelhealthpro.org.uk/factsheet/43/medicines-abroad).
 
-You will only be able to buy medication from a pharmacy. Find a pharmacy near you on the [Ministry of Health’s list of registered pharmacies](https://www.mf.gov.cv/web/dnre/direca-geral-das-alfandegas) (in Portuguese).
+Changes to your routine when travelling, such as later nights, coping with heat and changes to your diet can have an impact on your medication. See the [Summer Proof Your Health](https://www.gov.uk/government/news/heat-travel-and-late-nights-how-summer-can-affect-your-medicines-and-how-to-stay-safe) campaign for more information.
 
-If you are on medication, make sure you travel with sufficient medication for the duration of your travel. If you run out of medication and have a UK prescription, ask at a pharmacy if they can fill it for you. You may not be able to get the same strength or dosage. Some medicines are unavailable or in short supply and some may not be authorised for sale in Cape Verde.
+Medication is only available from pharmacies. Find a nearby pharmacy using the [list of pharmacies in Cape Verde](https://emprofac.cv/informacoes-uteis/rede-farmacias?qt-rede_farmacias=3#qt-rede_farmacias) (in Portuguese).
 
-If you need a repeat prescription, go to the nearest health centre or hospital emergency department.
+If you take prescribed medication, bring enough for the duration of your visit and keep a few days’ supply in your hand luggage in case your checked baggage is delayed or lost.
+
+If you have a UK prescription and run out of medication, ask a pharmacy whether they can supply it. The same medicine, strength or dose may not be available, and some medicines may be in short supply or unavailable in Cape Verde.
+
+If you need a repeat prescription, go to the nearest health centre or hospital emergency department. You may have to pay for your medication.
 
 ## Healthcare in Cape Verde
 
