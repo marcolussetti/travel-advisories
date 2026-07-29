@@ -6,19 +6,23 @@ Normal Precautions
 
 ### **Travel Alert**
 
+#### **Wildfires**
+
+Wildfires are currently affecting southern France. The French weather service has launched [**a fire alert map**](https://meteofrance.com/meteo-des-forets) showing wildfire risk. Citizens should monitor the news and local authorities social media and websites regarding outbreaks of fire.
+
+Citizens in, or near, areas affected by wildfires should exercise extreme caution, monitor news updates and follow the instructions of the local authorities (e.g. local ‘mairie’, commune, or prefecture). Irish citizens affected by wildfires can contact the Embassy for assistance at: +33 1 44 17 67 00.
+
+The French authorities have advised against travelling through the Gironde area due to wildfires. The area is also heavily affected by air pollution, and vulnerable people should exercise caution and remain indoors as much as possible in affected areas. An air pollution map of Nouvelle Aquitaine is available [**here**](https://www.atmo-nouvelleaquitaine.org/).
+
+Irish citizens intending to travel to affected areas should contact their accommodation or travel provider for the latest updates ahead of travelling.
+
+Citizens can register their stay in France at [**https://citizensregistration.dfa.ie/**](https://citizensregistration.dfa.ie/) so that they can be contacted if there is an unforeseen crisis, including where a family emergency might occur.
+
+For information on staying safe in hot weather, please see the Climate section below.
+
 #### **National Threat Level**
 
 Since March 2025, France has maintained its national security threat level at level 3, ‘attack emergency’ (urgence attentat). This is the highest level in the French Vigipirate security programme.
-
-#### **Wildfires**
-
-Wildfires are currently affecting southern France. The French weather service has launched [**a fire alert map**](https://meteofrance.com/meteo-des-forets) to help travellers stay up to date.
-
-Citizens in, or near, areas affected by wildfires should exercise extreme caution, monitor news updates and follow the instructions of the local authorities. Irish citizens affected by wildfires can contact the Embassy for assistance at: +33 1 44 17 67 00.
-
-The French authorities have advised against travelling through the Gironde area due to wildfires.
-
-For information on staying safe in hot weather, please see the Climate section below.
 
 ### **General Travel Advice**
 
