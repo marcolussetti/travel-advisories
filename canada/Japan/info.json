@@ -1,7 +1,7 @@
 {
     "name": "Japan",
-    "update_reason": "Natural disasters and climate section \u2013 added information on an earthquake near Kyushu and removed information on the tsunami threat",
-    "update_date": "2026-07-28T09:59:00",
+    "update_reason": "Editorial change",
+    "update_date": "2026-07-29T14:31:00",
     "sections": {
         "risk": "canada/Japan/risk.md",
         "security": "canada/Japan/security.md",

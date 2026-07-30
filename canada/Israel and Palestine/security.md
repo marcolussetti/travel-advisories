@@ -120,22 +120,24 @@ Despite the United Nations-monitored buffer zone between Israel and Syria in the
 
 #### Egypt
 
-The border area with Egypt is dangerous due to military operations and smuggling activities.
+The border area with Egypt can be dangerous due to military operations and smuggling activities.
 
-The Israeli Defence Forces regularly patrol the area to intercept drug smugglers resulting in frequent armed clashes.
+In northern Sinai, the security situation can also deteriorate rapidly due to instability and the risk of terrorist attacks.
 
-Entry to and exit from the Gaza Strip through the Rafah border crossing, which is the only crossing point between Palestine (Gaza Strip) and Egypt, is significantly restricted. In northern Sinai, the security situation can also deteriorate rapidly due to instability and the risk of terrorist attacks.
+Entry to and exit from the Gaza Strip through the Rafah border crossing, which is the only crossing point between Palestine (Gaza Strip) and Egypt, is significantly restricted.
 
-Don't drive on:
+The Israeli Defence Forces regularly patrol the border between Israel and Egypt, notably to intercept drug smugglers.
+
+The following highways are subject to closure by Israeli authorities without warning:
 
 * Highway 10
 * Highway 12
 * south of the intersection of highways 10 and 12
 * between Eilat and the Netafim passage
 
-The highways are subject to closure by Israeli authorities without warning.
+Consider using alternative routes.
 
-If you're planning to travel near the border with Egypt despite this advisory:
+If you're planning to travel near the border with Egypt:
 
 * expect roadblocks and checkpoints
 * be aware of your surroundings

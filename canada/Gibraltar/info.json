@@ -1,7 +1,7 @@
 {
     "name": "Gibraltar",
-    "update_reason": "Thorough review and update of the entire content",
-    "update_date": "2026-07-15T11:16:00",
+    "update_reason": "Editorial change",
+    "update_date": "2026-07-29T14:31:00",
     "sections": {
         "risk": "canada/Gibraltar/risk.md",
         "security": "canada/Gibraltar/security.md",

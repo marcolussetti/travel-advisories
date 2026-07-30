@@ -204,18 +204,6 @@ To protect yourself from bites:
 [Insect bite and pest prevention](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html)  
 [Personal insect repellents](https://www.canada.ca/en/health-canada/services/about-pesticides/insect-repellents.html)
 
-Crimean-Congo haemorrhagic fever
-
-There is a risk of [Crimean-Congo haemorrhagic fever](http://www.who.int/mediacentre/factsheets/fs208/en/) (CCHF) in this destination. The risk is generally low for most travellers. CCHF is a disease caused by a virus that can spread to humans through the bite of an infected tick or through contact with the blood or tissues of an infected animal.
-
-Symptoms usually appear suddenly and may include  fever, headache, muscle aches, dizziness, neck pain and stiffness, sore eyes and sensitivity to light, and bleeding under the skin.  In some cases, it can be fatal.
-
-Celebrations which include the slaughtering of animals and contact with their blood or tissues may increase the risk of exposure to the virus. Protect yourself from tick bites and wear gloves or other protective clothing if you are in contact with the blood or tissues of animals, particularly livestock. There is no vaccine available for CCHF.
-
-**Learn more:**  
-[Crimean-Congo haemorrhagic fever (WHO Fact Sheet)](https://www.who.int/en/news-room/fact-sheets/detail/crimean-congo-haemorrhagic-fever)  
-[Insect bite and pest prevention](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html)
-
 Chikungunya
 
 There is a risk of chikungunya in this country. The level of risk may vary by:
@@ -236,6 +224,18 @@ A vaccine for the prevention of chikungunya is approved in Canada. Talk to your 
 **Learn more:**
 
 [Chikungunya](https://www.canada.ca/en/public-health/services/diseases/chikungunya.html)
+
+Crimean-Congo haemorrhagic fever
+
+There is a risk of [Crimean-Congo haemorrhagic fever](http://www.who.int/mediacentre/factsheets/fs208/en/) (CCHF) in this destination. The risk is generally low for most travellers. CCHF is a disease caused by a virus that can spread to humans through the bite of an infected tick or through contact with the blood or tissues of an infected animal.
+
+Symptoms usually appear suddenly and may include  fever, headache, muscle aches, dizziness, neck pain and stiffness, sore eyes and sensitivity to light, and bleeding under the skin.  In some cases, it can be fatal.
+
+Celebrations which include the slaughtering of animals and contact with their blood or tissues may increase the risk of exposure to the virus. Protect yourself from tick bites and wear gloves or other protective clothing if you are in contact with the blood or tissues of animals, particularly livestock. There is no vaccine available for CCHF.
+
+**Learn more:**  
+[Crimean-Congo haemorrhagic fever (WHO Fact Sheet)](https://www.who.int/en/news-room/fact-sheets/detail/crimean-congo-haemorrhagic-fever)  
+[Insect bite and pest prevention](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html)
 
 Dengue 
 

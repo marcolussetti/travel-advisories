@@ -1,7 +1,7 @@
 {
     "name": "Guatemala",
-    "update_reason": "Security section \u2013 removed information on the state of prevention",
-    "update_date": "2026-07-24T10:38:00",
+    "update_reason": "Editorial change",
+    "update_date": "2026-07-29T14:31:00",
     "sections": {
         "risk": "canada/Guatemala/risk.md",
         "security": "canada/Guatemala/security.md",

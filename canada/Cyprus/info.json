@@ -1,7 +1,7 @@
 {
     "name": "Cyprus",
-    "update_reason": "Risk levels section \u2013 take normal security precautions in Cyprus (with regional advisories)",
-    "update_date": "2026-07-06T15:50:00",
+    "update_reason": "Editorial change",
+    "update_date": "2026-07-29T14:31:00",
     "sections": {
         "risk": "canada/Cyprus/risk.md",
         "security": "canada/Cyprus/security.md",

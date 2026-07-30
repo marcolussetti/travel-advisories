@@ -51,7 +51,7 @@ Tourist: required
 
 Due to the volatile security situation in the area, authorities could close the Burundi–Rwanda border at any time.
 
-Periodic closure of the Burundi–Democratic Republic of Congo border can occur without notice.
+Periodic closure of the Burundi–Democratic Republic of the Congo border can occur without notice.
 
 ### Other requirements
 
