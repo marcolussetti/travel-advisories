@@ -4,6 +4,18 @@
 
 Normal Precautions
 
+### **Travel Alert**
+
+#### **Extreme Heat and Weather Warnings in Italy**
+
+Extreme levels of heat, reaching or exceeding 40 degrees Celsius, are forecast for parts of Italy in the coming weeks. You can consult the forecasted temperatures for different Italian regions on [**ItaliaMeteo**](https://www.agenziaitaliameteo.it/en/homepage-en/). Extreme temperatures can occur in all parts of Italy during the summer months and it is strongly advised to take precautions both outdoors and indoors. Extreme temperatures are dangerous for all, but pose particular risks to young children, the elderly and people with underlying health conditions.
+
+Temperatures and weather conditions can change quickly in Italy and you should be prepared to face excessive heat. When travelling in Italy this summer, you should ensure that you always have water available and drink plenty of fluids to stay hydrated, even while inside. Where possible, you should avoid being outdoors during the hottest time of the day (11am to 3pm). While outdoors, wear a hat and light clothing that covers your skin and regularly apply sunscreen of factor 30+ for adults and factor 50+ for children and those with pale skin. You should be particularly aware that extreme heat can make outdoor activities such as hiking or playing sports significantly strenuous even for experienced and physically fit individuals.
+
+For more details on staying safe in hot weather, including advice on when to seek medical attention, please consult the [**HSE’s information page on this subject**](https://healthservice.hse.ie/staff/procedures-guidelines/staying-safe-in-hot-weather/).
+
+Spontaneous fires and wildfires are also possible under these conditions. You should stay informed of local news from local authorities while travelling in Italy and be prepared to respond promptly to instructions. Weather and personal safety alerts are typically published in English by Italy’s Civil Protection Department on their website: [**Dipartimento della Protezione Civile**](https://www.protezionecivile.gov.it/en/).
+
 ### **General Travel Advice**
 
 Irish citizens need a valid passport or passport card to enter Italy.

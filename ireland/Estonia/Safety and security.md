@@ -42,3 +42,13 @@ When moving on the road in poor visibility or at night-time, a pedestrian must u
 If hiring a vehicle, we advise not to hand over your passport as a form of security. If allowing your passport to be photocopied, keep it in your sight at all times.
 
 Check that you have adequate insurance and read the small print of the vehicle hire contract (particularly any waiver that will come into effect if the vehicle is damaged).
+
+### **Emergency Alerts and Drone Hazards**
+
+In the event of both a shelter‑requiring air threat and a possible air threat, the Estonian Defence Forces will inform the public via the EE‑ALARM public warning system, using SMS messages, the mobile applications Eesti äpp and “Ole Valmis!”, and, if necessary, by activating sirens.
+
+Additional information, including links to download both apps, locations of shelters and steps to take to respond to public warnings, is available at <https://www.kriis.ee/> and via the state helpline 1247.
+
+Alerts are sent to the areas affected by the threat. Ensure emergency alert messages are enabled on your phone in order to receive alert messages from the Estonian Government
+
+Further information regarding the public warning system, known as EE-ALARM, can be found [here](https://www.olevalmis.ee/en/public-warning-system-known-as-ee-alarm).
