@@ -24,17 +24,19 @@ If you overstay the 90 days, you’ll have to pay a fine before leaving the coun
 
 ### Applying for or extending a visa
 
-To stay longer than 90 days (to work or study, for business travel or for other reasons), you must meet the Guatemalan government’s entry requirements. Check which type of visa or work permit you need with the [Guatemalan Embassy in the UK](https://www.gov.uk/government/publications/foreign-embassies-in-the-uk).
+To stay longer than 90 days (to work or study, for business, travel or for other reasons), you must meet the Guatemalan government’s entry requirements. Check which type of visa or work permit you need with the [Guatemalan Embassy in the UK](https://www.gov.uk/government/publications/foreign-embassies-in-the-uk).
 
-If you want to extend  your visa or permit to stay, you must apply to the [Institute of Migration](http://igm.gob.gt/) (Spanish language website).
+If you want to extend your visa or permit to stay, you must apply to the [Institute of Migration](http://igm.gob.gt/) (Spanish language website).
 
 Make sure you get your passport stamped on entry.
 
-If you do not get your passport stamped when you arrive, you will get a fine and be delayed on your departure. If you notice your passport has not been stamped, return to the immigration desk, or go to the [Institute of Migration](http://igm.gob.gt/) (in Spanish) offices in Guatemala City as soon as possible.
+If you do not get your passport stamped when you arrive, you will get a fine and be delayed on your departure. If you notice your passport has not been stamped, return to the immigration desk immediately, or go to the [Institute of Migration](http://igm.gob.gt/) (in Spanish) offices in Guatemala City as soon as possible.
 
 ## Immigration declaration form
 
-Before you enter or exit Guatemala, you must [complete the online immigration declaration form](https://farm2.sat.gob.gt/declaDelViajeroGt-web/pages/public/declaracionJuradaDelViajero.html). Print the confirmation email you receive and carry it with you. Alternatively take a screenshot of the email QR code. If you need more information, contact your travel agent or the [Institute of Migration](https://igm.gob.gt/protocolo-sanitario-de-ingreso-a-guatemala/) (in Spanish).
+Before you enter or exit Guatemala, you must [complete the online immigration declaration form](https://farm2.sat.gob.gt/declaDelViajeroGt-web/pages/public/declaracionJuradaDelViajero.html). If you can, print the confirmation email you receive and carry it with you. Alternatively take a screenshot of the email QR code. If you need more information, contact your travel agent or the [Institute of Migration](https://igm.gob.gt/protocolo-sanitario-de-ingreso-a-guatemala/) (in Spanish).
+
+This form can be done on arrival just before immigration, there are dedicated terminals to complete the online form. However, this can delay your arrival into the country.
 
 ## Airport tax
 
@@ -46,7 +48,7 @@ To enter or exit Guatemala, children aged 17 and under travelling alone or with 
 
 ### Travelling between Guatemala, El Salvador, Honduras and Nicaragua
 
-You can travel between Guatemala, Nicaragua and El Salvador for up to 90 days without a visa. The CA-4 Agreement also includes Honduras, however British Nationals must have a visa to visit Honduras. If you’re entering Honduras, [read the entry requirements](https://www.gov.uk/foreign-travel-advice/honduras/entry-requirements). Read the travel advice for:
+You can travel between Guatemala, Nicaragua, and El Salvador for up to 90 days without a visa. The CA-4 Agreement also includes Honduras, however British Nationals must have a visa to visit Honduras. If you’re entering Honduras, [read the entry requirements](https://www.gov.uk/foreign-travel-advice/honduras/entry-requirements). Read the travel advice for:
 
 * [El Salvador](https://www.gov.uk/foreign-travel-advice/el-salvador/entry-requirements)
 * [Nicaragua](https://www.gov.uk/foreign-travel-advice/nicaragua/entry-requirements)
@@ -59,7 +61,7 @@ You’ll have to go through immigration checks at borders. If you’re expelled 
 
 Guatemalan customs or immigration officials sometimes ask travellers crossing land borders to pay an ‘entry fee’. This is illegal. If you are asked to pay a fee, ask for an official receipt, and you may find the officials drop the request.
 
-When crossing into Guatemala by the land border at El Carmen, be wary of people offering to help process your entry into the country. They may be trying to overcharge you for unnecessary services.
+When crossing into Guatemala by land, be wary of people offering to help process your entry into the country. They may be trying to overcharge you for unnecessary services.
 
 ## Vaccine requirements
 

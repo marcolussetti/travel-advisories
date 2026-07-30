@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   18 June 2026
+:   30 July 2026
 
 Updated:
-:   17 June 2026
+:   29 July 2026
 
 Latest update:
-:   Removal of information about Tropical Storm Cristina.
+:   This travel advice has been reviewed for accuracy with minor updates made throughout, including updated information on airport tax, crime and violent attacks against vehicles ('Safety and security' page).
 
 ## Before you travel
 

@@ -10,13 +10,11 @@ Armed robbers have targeted travellers after they cross the Honduran border into
 
 There are unmarked minefields in and around the border with Nicaragua. Avoid walking on unmarked paths or off main roads in these areas.
 
-You may experience delays at the land border crossings between Honduras and Guatemala due to the passage of migrant caravans.
-
 ## Bay Islands and north coast
 
-The Bay Islands are generally safer than mainland Honduras, but there have been several attacks by criminals on visitors, including on the ferries to and from mainland Honduras. If you are visiting Roatán, travel with a reputable guide. If you are driving a car or scooter, avoid side roads in remote areas, particularly Palm Beach Road close to Milton Bight.
+The Bay Islands are generally safer than mainland Honduras, but there have been several attacks by criminals on visitors, including on the ferries to and from mainland Honduras. If you are visiting Roatán, travel with a reputable guide. If you are driving a car or scooter, avoid side roads in remote areas, which can be poorly maintained and unsafe during night time hours.
 
-Take care on beaches in Tela and the north coast towns after dark. There have been attacks on foreigners on beaches after dark.
+Take care on beaches in the north coast towns after dark.
 
 There is a risk of criminal attacks and carjackings in and around Tela, La Ceiba, Trujillo and El Progreso.
 

@@ -13,7 +13,6 @@ Police: 110
 PROATUR, Guatemala’s tourist assistance service, provides 24-hour emergency assistance and routine guidance to tourists (call centre staff speak English and Spanish):
 
 * Telephone: +502 2290 2810 or 1500 if dialling from inside Guatemala
-* Fax: +502 2421 2891
 
 ## Contact your travel provider and insurer
 

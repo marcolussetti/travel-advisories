@@ -23,7 +23,7 @@ There is a risk of violent crime in the municipalities of Ixchiguan and Tajumulc
 PROATUR, Guatemala’s tourist assistance service (see [Getting help](https://www.gov.uk/foreign-travel-advice/guatemala/getting-help) for contact details) gives advice on routes when travelling in and around Sololá, Panajachel and Lake Atitlán. PROATUR advises:
 
 * to avoid the Godinez bypass between Guatemala City and Panajachel (which passes through Patzún) which is an isolated area with high risks of criminality - the Pan American Highway is an alternative route that will take you from Guatemala City to Sololá avoiding these areas.
-* to avoid the road between Cocales (Suchitepequez) and San Lucas Toliman (Atitlán) if possible because of the risks of criminality and poor road conditions
+* to avoid the road between Cocales (Suchitepequez) and San Lucas Toliman (Atitlán) if possible, because of the risks of criminality and poor road conditions
 
 Boat services between towns on the shore of Lake Atitlán may be a safer alternative.
 

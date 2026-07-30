@@ -22,7 +22,7 @@ However, passengers of cruise ships are permitted to enter Honduras under a “s
 
 ### Applying for a visa
 
- Find out  [how to apply for a Honduran visa](https://hondurasembassyuk.com/visa/) (Spanish language website) in London from the Honduran Embassy.
+Find out [how to apply for a Honduran visa](https://hondurasembassyuk.com/visa/) (Spanish language website - with English instructions on visa application process) in London from the Honduran Embassy.
 
 If you are not in the UK, contact the nearest Honduras Embassy for information and instructions about how to apply for a visa. You can also contact the [National Institute of Migration](http://inm.gob.hn/) (Spanish language website).
 
@@ -32,7 +32,7 @@ If you overstay, you may get a fine that you must pay before you leave Honduras.
 
 Make sure you get your passport stamped.
 
-You will get a 30-day visit entry stamp in your passport when you arrive. Make sure the border control officer puts a stamp in your passport otherwise you may get a fine. If your passport is missing a stamp, return to the immigration desk, or go to the [National Institute of Migration](http://inm.gob.hn/) in Tegucigalpa as soon as possible.
+You will get a 30-day visit entry stamp in your passport when you arrive. Make sure the border control officer puts a stamp in your passport otherwise you may get a fine. If your passport is missing a stamp, return to the immigration desk immediately, or go to the [National Institute of Migration](http://inm.gob.hn/) in Tegucigalpa as soon as possible.
 
 You can apply at an immigration office to extend your stay.
 
@@ -58,13 +58,13 @@ To enter or exit Honduras, people aged 20 and under travelling alone or with onl
 
 ## Airport tax
 
-There is an airport departure tax for international flights of 48.44 US dollars (or the same amount in Honduran lempiras). This is normally included in the cost of your ticket.
+There is an airport departure tax for international flights ranging from USD40 - USD55 (or the same amount in Honduran lempiras) depending on the airport. This is normally included in the cost of your ticket.
 
-There is also a departure tax for domestic flights of 54.13 Honduran lempiras (or the same amount in US dollars).
+There is also a lower rate departure tax for domestic flights, again, normally included in the cost of your ticket.
 
 ## Land border fee
 
-If you arrive at or depart from a land border, the immigration authorities will charge you a fee of 3 US dollars. Keep the receipt until you leave Honduras and make sure you get a stamp in your passport.
+When you arrive at a land border, the immigration authorities may charge you a fee of 3 US dollars (in cash). Keep the receipt until you leave Honduras as you may be asked to present it and make sure you get a stamp in your passport.
 
 ## Vaccine requirements
 

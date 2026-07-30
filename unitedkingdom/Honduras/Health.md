@@ -20,7 +20,7 @@ At least 8 weeks before your trip:
 * check the latest [vaccine recommendations](https://travelhealthpro.org.uk/country/101/honduras) for Honduras
 * see where to get vaccines and whether you have to pay on the [NHS travel vaccinations page](https://www.nhs.uk/conditions/travel-vaccinations/)
 
-See what health risks you’ll face in Honduras including:
+See what [health risks you’ll face in Honduras](https://travelhealthpro.org.uk/country/101/honduras#General_Information) including:
 
 * Zika virus
 * malaria and dengue

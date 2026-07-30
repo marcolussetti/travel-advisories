@@ -20,15 +20,19 @@ Incidents of political violence, strikes and large demonstrations can occur, oft
 
 Guatemala has one of the highest violent crime rates in Latin America. Although most of the serious crime involves local gangs, you could be caught up in incidents as they can happen in tourist areas.
 
-No parts of Guatemala City are free from crime, including Zone 10 (Zona Viva), which is popular with tourists and foreign residents. Take care in Zone 1 where tourists have been targeted by criminals, this is the historical centre where cheaper hotels are located and several bus routes end.
+No parts of Guatemala City are free from crime, including Zone 10 (Zona Viva), which is popular with tourists and foreign residents. Take care in Zone 1 where tourists have been targeted by opportunistic criminals, this is the historical centre where cheaper hotels are located and several bus routes end.
+
+If you are planning to visit or stay in the outer zones of the City such as Zones 18-25, you should use reputable chain hotels and research the area extensively as these zones are known for higher levels of crime. Zones 6, 7 and 8 should also be treated with caution.
+
+When travelling to more rural parts of Guatemala you should travel with a reputable tour company and follow local security advice. Areas in and around the departments of Huehuetenango, Chiquimula, Zacapa, Izabal, San Marcos and Petén experience high levels of crime.  You should remain within the touristic areas and travel during daylight hours where possible.
 
 ### Violent crime
 
 Violent attacks, including sexual assault and gun crime, can take place anywhere and at any time of the day. Attackers have killed and injured victims who resisted. There is a low arrest and conviction rate.
 
-Carjacking and armed robbery are common on the main road (Carretera Salvador) leading from Guatemala City to the border with El Salvador.
+Carjacking and armed robbery are common.
 
-There have been armed attacks on tourists travelling by road to and from major tourist sites like Antigua, Tikal, Petén and Lake Atitlán. See [Regional risks](https://www.gov.uk/foreign-travel-advice/guatemala/regional-risks).
+There have been armed attacks or robberies on most tourist routes between Guatemala City, Antigua, Tikal, Petén and Lake Atitlán. See [Regional risks](https://www.gov.uk/foreign-travel-advice/guatemala/regional-risks).
 
 ### Protecting yourself and your belongings
 
@@ -42,7 +46,7 @@ You can take precautions such as:
 
 If you go to remote areas, it may be safer to travel with others or a reputable tour company.
 
-For shorter trips within towns and cities the safest option is to take radio-dispatched taxis (which are usually yellow) or hotel taxis. You can buy pre-paid taxi vouchers from the office of [INGUAT, Guatemala’s tourist agency](https://inguat.gob.gt/) (Spanish language website) in the airport’s arrivals terminal.
+For shorter trips within towns and cities the safest option is to take radio-dispatched taxis (which are usually yellow), Uber (where available) or hotel taxis. You can buy pre-paid taxi vouchers from the office of [INGUAT, Guatemala’s tourist agency](https://inguat.gob.gt/) (Spanish language website) in the airport’s arrivals terminal.
 
 If you’re driving, it is generally safer to travel on main roads. There is a greater risk of attack by gangs on quieter routes. Travel in convoy if possible.
 
@@ -54,9 +58,9 @@ If you are a victim of a criminal attack, INGUAT has a tourist assistance and em
 
 ### Buses and coaches
 
-Avoid travelling on public buses (repainted US school buses). There has been an increase in armed attacks by local gangs on bus drivers and conductors, often resulting in serious injury or death. These attacks have included the use of explosives. There have also been violent muggings, rapes and assaults against foreigners.
+Avoid travelling on public buses (repainted US school buses). There have been incidents of attacks and extortion by local gangs on bus drivers resulting in serious injury or death. These buses are usually poorly maintained, overcrowded and do not generally adhere to the rules of the road, driving at dangerous speeds on perilous roads. Accidents are common and sometimes fatal.
 
-Private intercity coach services are generally safer, but gangs have also attacked these during daylight hours, even on main roads.
+Private intercity coach services are generally safer, but gangs have also targeted these, even on main roads.
 
 ### ATM tampering
 
@@ -64,15 +68,15 @@ Check ATMs for evidence of tampering. Affected machines may not be easy to spot.
 
 ### Fake police officers
 
-Criminals posing as police officers have committed theft, extortion and sexual assault against visitors to Guatemala.
+Criminals posing as police officers have committed theft, extortion and sexual assault in Guatemala.
 
 ### Scams
 
-Foreign visitors are at risk of scams. Scams come in many forms and can lead to great financial loss. Warn your friends and family to be sceptical if they’re asked to transfer funds to you in Guatemala. Tell them to contact you to check that you’ve made this request.
+Foreign visitors are at risk of scams. Scams come in many forms and can lead to great financial loss. Warn your friends and family to be sceptical if they are asked to transfer funds to you in Guatemala. Tell them to contact you to check that you have made this request.
 
 ### Criminal kidnapping
 
-Express kidnappings – short term opportunistic abductions, aimed at extracting cash from the victim – are common in Guatemala. Victims can be targeted or selected at random. They are held while criminals withdraw money from their bank accounts using their cash cards. Many cases involve victims that have been picked up by taxis (registered or illegal) hailed from the street. Be aware of your surroundings and always let someone you trust know your whereabouts, especially after dark.
+Express kidnappings – short term opportunistic abductions, aimed at extracting cash from the victim – are common in Guatemala. Victims can be targeted or selected at random. They are held while criminals withdraw money from their bank accounts using their cards. Many cases involve victims that have been picked up by taxis (registered or illegal) hailed from the street. Be aware of your surroundings and always let someone you trust know your whereabouts, especially after dark.
 
 Business people and visitors perceived to be wealthy may be targeted by kidnappers in search of payouts. Be discreet about discussing your financial or business affairs in places where you may be overheard by others, and when arranging meetings use a secure location.
 
@@ -86,11 +90,11 @@ It is a legal requirement to always carry ID. In most parts of the country, you 
 
 ### Alcohol laws and bans
 
-It is illegal to sell alcoholic and fermented beverages from 1am to 6am.
+During specific periods (such as elections) alcohol sales may be banned or restricted during certain times.
 
 ### Illegal drugs and prison sentences
 
-There are severe penalties for drug trafficking and the use of drugs. Guatemalan prisons are overcrowded, violent and dirty.
+There are severe penalties for drug trafficking and the use of drugs. Guatemalan prisons are overcrowded, violent, and dirty.
 
 ### Taking photos without permission
 
@@ -108,7 +112,7 @@ Read more [advice for LGBT+ travellers](https://www.gov.uk/lesbian-gay-bisexual-
 
 Before you climb volcanoes, visit the websites of the [Guatemalan Meteorological Office](http://www.insivumeh.gob.gt/) (Spanish language website) and [CONRED, Guatemala’s disaster agency](https://conred.gob.gt/) for information on access, restrictions and recommendations.
 
-Follow the advice of local authorities. Some volcanoes are at high altitude with freezing temperatures at night. Tourists have died of exposure on volcanoes in Guatemala. Warm clothing and waterproofs are essential. Local tour organisers tend to underestimate the risks. There is no mountain rescue service.
+Follow the advice of local authorities. Some volcanoes are at high altitude with freezing temperatures at night. Warm clothing and waterproofs are essential. Local tour organisers tend to underestimate the risks and deaths have occurred. There is no mountain rescue service.
 
 See more information on [Volunteering and adventure travel](https://www.gov.uk/guidance/safer-adventure-travel-and-volunteering-overseas).
 
@@ -127,8 +131,9 @@ Hire car companies often have stricter requirements for their customers, such as
 In Guatemala:
 
 * it is illegal to use a mobile phone while driving
-* speed limits are strictly enforced
-* motorcyclists must wear an orange vest and helmet with the registration number or face a fine of 1,000 Guatemalan quetzal (around £100)
+* speed limits are enforced
+
+Randomly located police checkpoints can be setup around the city and drivers are usually pulled over for documentation and outstanding penalty checks. Ensure you have your licence, ID and car rental or ownership paperwork to hand.
 
 Drink-driving is a serious offence. If you are tested and found to have any alcohol in your system, you may get a fine, your licence confiscated and possible imprisonment. However, drinking-driving is common in Guatemala.
 
@@ -148,7 +153,7 @@ Find out what you can do to [prepare for and respond to extreme weather and natu
 
 ### Rainy season
 
-The rainy season in Guatemala normally runs from June to November – the same time as the hurricane season in the Caribbean. Heavy rains cause frequent flooding and landslides, and roads and bridges often collapse.
+The rainy season in Guatemala normally runs from May to November, the same time as the hurricane season in the Caribbean. Heavy rains cause frequent flooding and landslides, and poorly maintained roads and bridges have been known to collapse.
 
 Check local media and consult your tour operator and PROATUR, Guatemala’s tourist assistance service (see [Getting help](/foreign-travel-advice/guatemala/getting-help)). Travel routes are likely to face disruption. Monitor local and international weather updates from the [World Meteorological Organization](http://severe.worldweather.org/) and the [US National Hurricane Center](http://www.nhc.noaa.gov/). Follow the advice of the local authorities, including any evacuation orders.
 

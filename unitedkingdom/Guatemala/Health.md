@@ -17,10 +17,10 @@ Contact your insurance company quickly if you’re referred to a medical facilit
 
 At least 8 weeks before your trip:
 
-* check the latest [vaccine recommendations for Guatamala](https://travelhealthpro.org.uk/country/96/guatemala#Vaccine_Recommendations)
+* check the latest [vaccine recommendations for Guatemala](https://travelhealthpro.org.uk/country/96/guatemala)
 * see where to get vaccines and whether you have to pay on the [NHS travel vaccinations page](https://www.nhs.uk/conditions/travel-vaccinations/)
 
-See [what health risks you’ll face in Guatamala](https://travelhealthpro.org.uk/country/96/guatemala).
+See [what health risks you’ll face in Guatemala](https://travelhealthpro.org.uk/country/96/guatemala).
 
 Altitude sickness is a risk in parts of Guatemala. Read more about [altitude sickness on TravelHealthPro](https://travelhealthpro.org.uk/factsheet/26/altitude-illness).
 
@@ -32,7 +32,7 @@ Read [best practice when travelling with medicines on TravelHealthPro](https://t
 
 The NHS has information on [whether you can take your medicine abroad](https://www.nhs.uk/common-health-questions/medicines/can-i-take-my-medicine-abroad/).
 
-You cannot use British-issued prescriptions in Guatemala. To find a pharmacy (‘farmacia’) look for one of the big national chains such as Meykos, Cruz Verde or Carolina y H.
+You cannot use British-issued prescriptions in Guatemala. To find a pharmacy (‘farmacia’) look for one of the big national chains such as Meykos, Cruz Verde, Galeno or Batres.
 
 ## Healthcare facilities in Guatemala
 

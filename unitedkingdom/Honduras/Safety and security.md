@@ -20,15 +20,13 @@ It is illegal for foreigners to participate in political activities. If you take
 
 ## Crime
 
-There are high levels of crime in Honduras. Most serious crime does not affect tourists, but there have been attacks on foreigners, including armed robbery and sexual assault. Attacks can take place anywhere at any time.
+Honduras has one of the highest violent crime rates in Latin America. Although most serious crime does not affect tourists, you could be caught up in incidents as they can happen anywhere and at any time, even in tourist areas.
 
 ### Protecting yourself and your belongings
 
-Petty theft is a problem in cities and tourist areas, including the Bay Islands (Roatán, Utila and Guanaja). Avoid walking around Tegucigalpa, San Pedro Sula and other main towns and cities in mainland Honduras. Be particularly careful at bus stations, airports, isolated beaches, tourist sites and on public transport. Keep your valuables locked away in a safe if possible. Avoid displaying valuable items like jewellery, cameras, tablets, laptops and mobile phones.
+Petty theft is a problem in cities and tourist areas, including the Bay Islands (Roatán, Utila, and Guanaja). Avoid walking around Tegucigalpa, San Pedro Sula, and other main towns and cities in mainland Honduras. Be particularly careful at bus stations, airports, isolated beaches, tourist sites and on public transport. Keep your valuables locked away in a safe if possible. Avoid displaying valuable items like jewellery, cameras, tablets, laptops, and mobile phones.
 
 ### ATM crime
-
-Criminals have robbed foreigners after they’ve withdrawn money at ATMs.
 
 ATMs are available in the major towns. Check with your hotel which ATMs to use, especially in Roatán. It is safer to withdraw money from ATMs in shopping centres and to change money in hotels or banks. Check ATMs for evidence of tampering, although affected machines may not be easy to spot. Do not withdraw a lot of money at one time and avoid withdrawals at night.
 
@@ -36,7 +34,7 @@ People have been killed and injured resisting criminals. It is useful to carry a
 
 ### Violent attacks against vehicles
 
-There have been violent attacks on people in cars and buses. Using a reputable tour company for longer journeys may reduce the risks. For shorter distances, use radio-dispatched taxis or hotel taxis. It is generally safer to travel on main roads between major cities and tourist destinations.
+There have been violent attacks on people in cars and buses. Using a reputable tour company for longer journeys may reduce the risks, consider alternatives to public transport (buses). For shorter distances, use radio-dispatched taxis or hotel taxis. It is generally safer to travel on main roads between major cities and tourist destinations.
 
 Take precautions such as:
 
@@ -47,8 +45,6 @@ Take precautions such as:
 * not picking up hitchhikers
 
 Take care if you’re travelling alone. In remote areas it may be safer to travel with others or join a tour. Do not accept lifts from strangers or hitchhike.
-
-Avoid travelling on public buses (repainted US school buses). There has been an increase in armed attacks by local gangs on bus drivers and conductors, often resulting in serious injury or death. There have been violent muggings, rape and assault against foreigners on these buses. Private intercity coach services are safer but not immune from attack.
 
 There have been attacks on roads:
 
@@ -61,20 +57,7 @@ There have been attacks on roads:
 
 ### Scams
 
-Scam artists target foreign visitors and residents. The scams come in many forms and can cause great financial loss. Warn your friends and family to be sceptical if they’re asked to transfer funds to you in Honduras. Tell them to contact you to check that you’ve made this request.
-
-## State of exception (emergency)
-
-As part of its plan to address extortion, the Honduras government announced a state of exception (emergency) in December 2022. This measure has been repeatedly extended and remains in place, affecting over 100 municipalities across the country.
-
-During this time there may be restrictions on freedom of movement and other rights in the affected municipalities. Get more advice from your travel operator. You must always carry ID and be prepared for checkpoints.
-
-You should:
-
-* allow extra time to reach your destination
-* monitor local media for updates and information on restrictions
-* avoid crowds or demonstrations
-* always co-operate with military and police officers
+Scammers often target foreign visitors and residents. The scams come in many forms and can cause great financial loss. Warn your friends and family to be sceptical if they’re asked to transfer funds to you in Honduras. Tell them to contact you to check that you’ve made this request.
 
 ## Laws and cultural differences
 
@@ -138,7 +121,7 @@ Find out what you can do to [prepare for and respond to extreme weather and natu
 
 ### Hurricanes
 
-The hurricane season in Honduras normally runs from June to November. Landslides and flooding can affect roads throughout the country. Monitor local weather reports and check the warnings from the [US National Hurricane Center](http://www.nhc.noaa.gov/). Follow the advice of local authorities, including any evacuation orders. See the Honduran national civil protection website [COPECO](https://copeco.gob.hn/) (Spanish language website).
+The hurricane season in Honduras normally runs from May to November. Landslides and flooding can affect roads throughout the country. Monitor local weather reports and check the warnings from the [US National Hurricane Center](http://www.nhc.noaa.gov/). Follow the advice of local authorities, including any evacuation orders. See the Honduran national civil protection website [COPECO](https://copeco.gob.hn/) (Spanish language website).
 
 ### Earthquakes
 
