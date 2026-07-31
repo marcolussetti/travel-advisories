@@ -1,7 +1,7 @@
 {
     "name": "Cuba",
-    "update_reason": "Editorial change",
-    "update_date": "2026-07-29T14:31:00",
+    "update_reason": "Safety and security section \u2013 Added information on opportunistic crimes",
+    "update_date": "2026-07-30T14:24:00",
     "sections": {
         "risk": "canada/Cuba/risk.md",
         "security": "canada/Cuba/security.md",

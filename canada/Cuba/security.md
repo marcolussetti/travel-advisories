@@ -12,18 +12,6 @@ Most large hotels and resorts use generators during power outages. However, fuel
 * Try to keep your phone charged
 * Plan accordingly
 
-### Telecommunications
-
-The telecommunications network in Cuba is poor. Connections are unreliable and frequently interrupted when power outages occur.
-
-Canadian cell phones may not work, even in large cities. Internet access is limited across the island.
-
-Be aware that access to the Internet and social media may be blocked or restricted, particularly during periods of civil unrest or ahead of demonstrations.
-
-* Do not rely solely on your cell phone for emergencies, especially outside major cities
-* Subscribe to and install a VPN service before leaving Canada
-* Keep both digital and hard copies of your emergency contacts’ details
-
 ### Shortages
 
 Cuba faces chronic and severe shortages of ‎basic necessities, including:
@@ -50,30 +38,21 @@ You should carry sufficient cash since many businesses outside larger cities do 
 
 [More information on money](#money)
 
-### Public transportation
+### Telecommunications
 
-Local transportation is limited in availability and costly because of fuel shortages.
+The telecommunications network in Cuba is poor. Connections are unreliable and frequently interrupted when power outages occur.
 
-#### Buses
+Canadian cell phones may not work, even in large cities. Internet access is limited across the island.
 
-Public buses are unreliable, scarce, overcrowded and poorly maintained.
+Be aware that access to the Internet and social media may be blocked or restricted, particularly during periods of civil unrest or ahead of demonstrations.
 
-If you plan to travel by bus, use a private service offered by a tour company or resort.
-
-#### Taxis
-
-Old-model private vehicles offered as taxis are not equipped with standard safety features. They have no insurance coverage for passengers in case of an accident.
-
-* Use only officially marked taxis
-* Avoid hailing taxis on the street
-* Never share a taxi with strangers
-* Agree on a fare before departure, as taxis are not equipped with meters
-
-#### Trains
-
-The rail network is unreliable and slow.
+* Do not rely solely on your cell phone for emergencies, especially outside major cities
+* Subscribe to and install a VPN service before leaving Canada
+* Keep both digital and hard copies of your emergency contacts’ details
 
 ### Crime
+
+The local security situation has deteriorated amid ongoing economic challenges, fuel shortages and frequent power outages. Foreigners may be at increased risk of opportunistic crimes. The economic and infrastructure constraints may also affect the ability of police and emergency services to respond quickly to incidents.
 
 #### Petty crime
 
@@ -119,6 +98,29 @@ Police officers may speak only Spanish.
 * Avoid secluded areas, even on resorts and hotel grounds
 * Exercise caution when dealing with strangers or recent acquaintances
 * Avoid taking public transportation or walking alone at night
+
+### Public transportation
+
+Local transportation is limited in availability and costly because of fuel shortages.
+
+#### Buses
+
+Public buses are unreliable, scarce, overcrowded and poorly maintained.
+
+If you plan to travel by bus, use a private service offered by a tour company or resort.
+
+#### Taxis
+
+Old-model private vehicles offered as taxis are not equipped with standard safety features. They have no insurance coverage for passengers in case of an accident.
+
+* Use only officially marked taxis
+* Avoid hailing taxis on the street
+* Never share a taxi with strangers
+* Agree on a fare before departure, as taxis are not equipped with meters
+
+#### Trains
+
+The rail network is unreliable and slow.
 
 ### Fraud
 
