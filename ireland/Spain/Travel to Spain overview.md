@@ -8,9 +8,9 @@ Normal Precautions
 
 #### **Wildfires**
 
-A national emergency has been declared by Spanish authorities due to wildfires in parts of the country.
+There are active wildfires across Spain.
 
-For information on wildfire risk, visit the [**Spanish Meteorological Office (AEMET)**](https://www.aemet.es/en/eltiempo/prediccion/incendios)**.**
+For information on wildfire risk, visit the [**Spanish Meteorological Office (AEMET)**](https://www.aemet.es/en/eltiempo/prediccion/incendios). Citizens travelling to Spain should contact their travel or accommodation provider for advice on affected regions.
 
 Citizens in, or near, areas affected by wildfires should exercise extreme caution and follow the instructions of the local authorities.
 

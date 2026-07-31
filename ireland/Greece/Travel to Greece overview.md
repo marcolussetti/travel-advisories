@@ -6,6 +6,20 @@ Normal Precautions
 
 ### **Travel Alert**
 
+#### **Wildfires**
+
+Large-scales fires and extreme temperatures can affect a number of areas in Greece, particularly in the summer months.
+
+Wildfires are highly dangerous, unpredictable, and fast moving so you should stay away from affected areas and comply with evacuation orders or instructions from the emergency services, police and local authorities.
+
+If a situation escalates, local authorities may send warnings to all mobile phones in the vicinity, which will sound like a loud alarm. The text of the warning will be in English below the Greek. Take any action advised (though some alerts are precautionary only). Sometimes there will be organised evacuation, and in some instances, where very large numbers of people need to be moved quickly, you may need to make your own arrangements. If evacuation is advised, do not wait, and follow the instructions on which direction to move in. Ensure roaming is turned on to receive any mobile phone alerts from local authorities.
+
+Stay fully informed of what is going on by monitoring local news and social media. Call the Greek Emergency Services on 112 if in immediate danger.
+
+See [**here**](https://www.civilprotection.gr/en/forest-fires) for official information and advice on forest fires in Greece. You can also [**register to get emergency alerts**](https://civilprotection.gov.gr/112) from the Greek Government’s Emergency Communication Service, to get emergency alerts.
+
+#### **Drink Spiking**
+
 Irish citizens travelling to Greek islands, such as Zakynthos (Zante), should exercise a high degree of caution when attending events, bars, or nightclubs.
 
 The Embassy is aware of cases of drink spiking, and advises the following to reduce risk:
