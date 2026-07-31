@@ -14,7 +14,7 @@ Attacks could be indiscriminate including in places visited by foreign nationals
 
 ## Violent crime and assault
 
-In Trinidad and Tobago, there is a high level of violent crime, including gang-related attacks and shootings. Instances of homicides and armed robberies are rising.
+In Trinidad and Tobago, there is a high level of violent crime, including gang-related attacks and shootings. Instances of homicides and armed robberies are common.
 
 Be cautious particularly when travelling in or around:
 
@@ -63,6 +63,10 @@ Robberies and opportunistic crime may occur during the carnival period.  If you
 ### Drink spiking
 
 Avoid accepting drinks from anyone you do not know, and do not leave drinks unattended.
+
+## Outdoor activities and adventure tourism
+
+Providers of recreational and adventure tourism may not meet UK safety standards. Check safety standards and make sure you’re insured if you take part in activities like boat trips, water sports, quad biking or horse riding.
 
 ## Laws and cultural differences
 

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   9 July 2026
+:   31 July 2026
 
 Updated:
-:   8 July 2026
+:   30 July 2026
 
 Latest update:
-:   New information about recent cases of drug-assisted robbery and sexual assault (see ‘Drug assisted robbery and sexual assault’ on the ‘Safety and security’ page).
+:   New information about outdoor activities and adventure tourism (‘Safety and security’ page).
 
 ## State of Emergency
 

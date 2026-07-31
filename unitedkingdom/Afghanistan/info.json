@@ -1,11 +1,11 @@
 {
     "name": "Afghanistan",
-    "update_reason": "New information about heightened tension between Afghanistan and Pakistan (\u2018Warnings and insurance\u2019 page).",
+    "update_reason": "Addition of information about UK Government support (see \u2018Do not travel to Afghanistan\u2019 on the \u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Afghanistan/Warnings and insurance.md",
-            "update_date": "2026-02-27T10:38:40+00:00"
+            "update_date": "2026-07-30T11:36:13+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Afghanistan/Getting help.md"
         }
     ],
-    "update_date": "2026-02-27T10:38:40+00:00"
+    "update_date": "2026-07-30T11:36:13+01:00"
 }
