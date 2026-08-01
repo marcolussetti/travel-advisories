@@ -1,13 +1,22 @@
 # Warnings and insurance
 
 Still current at:
-:   20 March 2026
+:   1 August 2026
 
 Updated:
-:   19 March 2026
+:   31 July 2026
 
 Latest update:
-:   Updated information about global travel impacts due to escalation in the Middle East (‘Warnings and insurance’ page).
+:   Addition of information about local curfews imposed in Nepal’s southern provinces of Koshi Province and Madhesh Province (‘Warnings and insurance’ page).
+
+## Local curfews
+
+Following unrest and public order incidents since 26 July, local curfews have been imposed in 2 of Nepal’s Southern provinces:
+
+* Kooshi Province
+* Madhesh Province
+
+Stay aware of your surroundings and follow the advice of the local authorities.
 
 ## Global travel impacts due to escalation in the Middle East
 
@@ -16,8 +25,8 @@ Escalation in the Middle East has caused widespread travel disruption, including
 Your travel plans may be affected, even if your destination is not in the Middle East. Before you travel:
 
 * check travel advice for any countries or territories you are transiting through
-* check for the latest updates from your airline or tour operator before travelling
-* review your travel insurance policy for coverage before you travel
+* check for the latest updates from your airline or tour operator
+* review your travel insurance policy for coverage
 * monitor local and international media for the latest information and sign up for travel advice email alerts
 
 If your visa has expired as a result of travel disruption, the Nepal Immigration Department have indicated that affected foreign nationals will receive a visa extension without cost until flights are rescheduled. This should be arranged at the airport.

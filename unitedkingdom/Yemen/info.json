@@ -1,11 +1,11 @@
 {
     "name": "Yemen",
-    "update_reason": "Updated information about regional tensions following recent strikes and retaliatory attacks by Iran ('Warnings and insurance' page).",
+    "update_reason": "Latest information about regional risks including the Yemen-Saudi border and threats from the Houthis (see 'Regional tensions' on \u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Yemen/Warnings and insurance.md",
-            "update_date": "2026-07-22T13:47:16+01:00"
+            "update_date": "2026-07-31T10:35:27+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Yemen/Getting help.md"
         }
     ],
-    "update_date": "2026-07-22T13:47:16+01:00"
+    "update_date": "2026-07-31T10:35:27+01:00"
 }

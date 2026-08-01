@@ -1,11 +1,11 @@
 {
     "name": "Nepal",
-    "update_reason": "Updated information about global travel impacts due to escalation in the Middle East (\u2018Warnings and insurance\u2019 page).",
+    "update_reason": "Addition of information about local curfews imposed in Nepal\u2019s southern provinces of Koshi Province and Madhesh Province (\u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Nepal/Warnings and insurance.md",
-            "update_date": "2026-03-19T14:04:20+00:00"
+            "update_date": "2026-07-31T15:39:25+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Nepal/Getting help.md"
         }
     ],
-    "update_date": "2026-03-19T14:04:20+00:00"
+    "update_date": "2026-07-31T15:39:25+01:00"
 }

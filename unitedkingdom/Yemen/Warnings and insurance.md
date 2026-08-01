@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   23 July 2026
+:   1 August 2026
 
 Updated:
-:   22 July 2026
+:   31 July 2026
 
 Latest update:
-:   Updated information about regional tensions following recent strikes and retaliatory attacks by Iran ('Warnings and insurance' page).
+:   Latest information about regional risks including the Yemen-Saudi border and threats from the Houthis (see 'Regional tensions' on ‘Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/5f4e3445e90e071c6f74664e/FCDO__TA__047_-_Yemen_Travel_Advice_Ed1__WEB_.jpg)
 
@@ -39,6 +39,8 @@ If you’re a British national in Yemen and need help from the UK government, yo
 ## Regional tensions
 
 The US and Iran announced a memorandum of understanding (MOU) on 17 June in relation to the conflict in the Middle East, however the situation in the Middle East remains unpredictable. Since 8 July there have been strikes and retaliatory attacks by Iran in a number of locations across the region against US military and civilian infrastructure. There is a risk of more attacks and unforeseen escalation in the region. Before the ceasefire, the Iranian regime had stated its intention to target locations associated with the US and Israel, including organisations, businesses, facilities, and institutions.
+
+Since July 2026, the Houthis have launched air strikes against Saudi territory and Saudi shipping vessels in the Red Sea. There is an ongoing risk of further military escalation, including in Yemen and the Red Sea, which could occur at short notice.
 
 British nationals currently in the Middle East should be prepared for possible flight cancellations, periodic airspace closures, and potential travel disruptions, and should:
 

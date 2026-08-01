@@ -39,8 +39,6 @@ Medical treatment is expensive at western travellers’ clinics in Nepal. Health
 
 FCDO has a [list of medical providers in Kathmandu and Pokhara](https://www.gov.uk/government/publications/nepal-list-of-doctors) where some staff will speak English.
 
-There is also [guidance on healthcare if you’re living in Nepal](https://www.gov.uk/guidance/living-in-nepal#healthcare-in-nepal).
-
 ## Travel and mental health
 
 Read [FCDO guidance on travel and mental health](https://www.gov.uk/guidance/foreign-travel-advice-for-people-with-mental-health-issues). There is also [mental health guidance on TravelHealthPro](https://travelhealthpro.org.uk/factsheet/85/travelling-with-mental-health-conditions).
