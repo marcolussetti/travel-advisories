@@ -18,7 +18,7 @@ You must carry identification, such as your passport, at all times. Keep a photo
 
 ### Face covering
 
-It is illegal to wear clothing or masks that partially or completely cover the face in public places. Failure to comply can result in arrest and a fine. Certain exemptions apply, see the Austrian government’s website for more information.
+It is illegal to wear clothing or masks that partially or completely cover the face in public places. Failure to comply can result in arrest and a fine. Certain exemptions apply, see the Austrian government's website for more information.
 
 [Ban on face coverings](https://www.oesterreich.gv.at/en/themen/menschen_aus_anderen_staaten/aufenthalt/Seite.120251.html) – Austrian government
 
@@ -32,13 +32,13 @@ Penalties for possession, use or trafficking of illegal drugs are severe. Convic
 
 Austria only recognizes dual citizenship in certain cases.
 
-If you are a Canadian citizen, but also a citizen of Austria, our ability to offer you consular services may be limited while you’re there. You may also be subject to different [entry/exit requirements](https://travel.gc.ca/destinations/austria#entryexit).
+If you are a Canadian citizen, but also a citizen of Austria, our ability to offer you consular services may be limited while you're there. You may also be subject to different [entry/exit requirements](https://travel.gc.ca/destinations/austria#entryexit).
 
 Canadians with dual citizenship or who are eligible for Austrian citizenship may be subject to compulsory military service and other requirements under Austrian law.
 
 #### Useful links
 
-* [More about dual Austrian citizenship](https://www.oesterreich.gv.at/en/themen/menschen_aus_anderen_staaten/staatsbuergerschaft/Seite.260430.html)- Austrian government portal
+* [More about dual Austrian citizenship](https://www.oesterreich.gv.at/en/themen/menschen_aus_anderen_staaten/staatsbuergerschaft/Seite.260430.html) – Austrian government portal
 * [Dual citizens](http://travel.gc.ca/travelling/documents/dual-citizenship)
 
 ### International Child Abduction
@@ -69,13 +69,13 @@ Be aware that Canadian consular officials cannot interfere in private legal matt
 
 ### Driving
 
-You can drive for up to 12 months with your valid Canadian driver’s licence, accompanied by an international driving permit or an official German translation of your licence.
+You can drive for up to 12 months with your valid Canadian driver's licence, accompanied by an international driving permit or an official German translation of your licence.
 
 You must be 18 years old to drive in Austria.
 
-Penalties for drinking and driving are severe. The legal blood alcohol limit is 0.05 percent. If convicted, you can expect heavy fines, and local authorities can confiscate your driver’s licence immediately.
+Penalties for drinking and driving are severe. The legal blood alcohol limit is 0.05 percent. If convicted, you can expect heavy fines, and local authorities can confiscate your driver's licence immediately.
 
-You cannot turn right on a red light. A blinking green light is equivalent to an amber light in Canada: it doesn’t mean that you have the right-of-way to advance.
+You cannot turn right on a red light. A blinking green light is equivalent to an amber light in Canada: it doesn't mean that you have the right-of-way to advance.
 
 #### Mandatory equipment
 
@@ -89,7 +89,7 @@ All vehicles must have the following in case of a breakdown:
 
 #### Vignette
 
-You must purchase an autobahn vignette (similar to a toll) sticker to drive on highways. You must affix the sticker to the car’s windshield. You can purchase a vignette at all major border crossings, gas stations and convenience stores across Austria.
+You must purchase an autobahn vignette (similar to a toll) sticker to drive on highways. You must affix the sticker to the car's windshield. You can purchase a vignette at all major border crossings, gas stations and convenience stores across Austria.
 
 You can also purchase a digital vignette online from ASFiNAG, the state-owned highways corporation.
 
@@ -107,7 +107,7 @@ Austrian and EU laws regulate recreational and commercial drone operation. Certa
 
 You must register as a drone operator with the Austrian authorities. Depending on the size of your drone and the intended use, you may also need to take a proof of competency exam.
 
-If you don’t comply, you may be fined and your drone confiscated.
+If you don't comply, you may be fined and your drone confiscated.
 
 #### Useful links
 
