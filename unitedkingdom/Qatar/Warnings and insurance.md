@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   23 July 2026
+:   4 August 2026
 
 Updated:
-:   22 July 2026
+:   3 August 2026
 
 Latest update:
-:   Updated information about regional tensions, including information about recent strikes and retaliatory attacks by Iran ('Warnings insurance') page.
+:   New information on drone use, including permit requirements and penalties for non-compliance (See ‘Using cameras, binoculars and drones’ on the ‘Safety and security’ page).
 
 ## Regional tensions
 

@@ -125,11 +125,15 @@ You should expect a long prison sentence, deportation and heavy fines for posses
 
 Airports in Qatar have highly effective technology and security for detecting illegal items. This is also used to scan the baggage of transiting passengers.
 
-### Using cameras and binoculars
+### Using cameras, binoculars and drones
 
 Be aware of cultural sensitivities when filming or photographing. Taking pictures and sharing any visual imagery of people without their consent can lead to imprisonment or a fine of up to 100,000 Qatari riyals.
 
 Some visitors attempting to film or photograph near religious, military, government or construction sites have been arrested. If in doubt, seek permission.
+
+Drone use, including aerial photography and filming, is regulated in Qatar. You may need licences or permits before importing or operating a drone. Breaching drone regulations may result in fines, imprisonment and confiscation of equipment.
+
+Check the latest requirements with the relevant Qatari authorities before travelling.
 
 ### Journalistic activity
 

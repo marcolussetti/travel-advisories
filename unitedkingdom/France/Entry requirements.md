@@ -37,7 +37,7 @@ If you cannot return to the UK before your visa-free limit expires, contact the 
 At French border control, you may be asked to:
 
 * show proof of your travel insurance to demonstrate you can cover any emergency costs
-* prove that you have [enough money for your stay](https://france-visas.gouv.fr/en/your-arrival-in-france)
+* prove that you have [enough money for your stay](https://france-visas.gouv.fr/en/votre-arrivee-en-france)
 * show proof of your accommodation
 * show a return or onward ticket
 

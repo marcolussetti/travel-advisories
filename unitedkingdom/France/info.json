@@ -1,11 +1,11 @@
 {
     "name": "France",
-    "update_reason": "Further information about wildfires affecting parts of France (\u2018Warning and insurance\u2019 page)",
+    "update_reason": "Removal of information about wildfires affecting parts of Gironde and Landes (\u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/France/Warnings and insurance.md",
-            "update_date": "2026-07-26T11:36:19+01:00"
+            "update_date": "2026-08-03T13:34:18+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/France/Getting help.md"
         }
     ],
-    "update_date": "2026-07-26T11:36:19+01:00"
+    "update_date": "2026-08-03T13:34:18+01:00"
 }
