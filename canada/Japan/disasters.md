@@ -2,22 +2,26 @@
 
 ## Natural disasters and climate
 
-### Earthquake near Kyushu
+### Typhoon Dolphin
 
-On July 28, 2026, a 7.1 magnitude earthquake struck the Kumamoto Prefecture in southeastern Kyushu, Japan.
+Typhoon Dolphin is expected to pass through the Ogasawara, Okinawa and Amami Islands between August 4-6, 2026.
 
-Aftershocks could occur.
+The storm is likely to bring excessive rainfall and violent winds. It may cause flash flooding and landslides and could severely disrupt the following essential services:
+
+* transportation
+* power distribution
+* water and food supply
+* telecommunications networks
+* emergency services
+* medical care
 
 If you are in the affected area:
 
 * exercise caution
-* monitor local media for updates on the situation
-* follow the instructions of local and national authorities, including evacuation orders
+* monitor local news and weather reports
+* follow the instructions of local authorities
 
-#### Useful links
-
-* [Latest earthquake information](https://www3.nhk.or.jp/nhkworld/en/app/) – NHK World News
-* [Earthquake safety tips](https://www.jnto.go.jp/safety-tips/eng/emergency/earthquake/e03.html) – Japan National Tourism Organisation
+[Japan Meteorological Agency](http://www.jma.go.jp/jma/indexe.html)
 
 ### Climate change
 

@@ -2,6 +2,25 @@
 
 ## Natural disasters and climate
 
+### Spokane County wildfires
+
+Multiple wildfires are affecting Spokane County in Washington State, including the Old Trails, Fairview and Autumn Lane Fires.
+
+Local authorities have issued evacuation orders across parts of Spokane County. Many buildings have been destroyed. Air quality across the region may be affected by wildfire smoke and ash.
+
+If you are in Spokane County:
+
+* stay away from active fire areas and evacuation zones
+* follow instructions issued by emergency services personnel, including evacuation orders
+* monitor local media for updates, as fire conditions and evacuation areas may change rapidly
+
+#### Useful links
+
+* [Spokane County Evacuation Address Lookup](https://www.arcgis.com/apps/instant/lookup/index.html?appid=337af083184c474d9d9181bb44f957b0) – Spokane Regional Emergency Communications
+* [Wildfire Resources](https://dnr.wa.gov/wildfire-resources) – Washington State Department of Natural Resources
+
+[More information on bush and forest fires](https://travel.gc.ca/destinations/united-states#fire)
+
 Natural disasters can occur at any time.
 
 [Plan Ahead for Disasters](https://www.ready.gov/) – U.S. Department of Homeland Security
@@ -79,7 +98,7 @@ The air quality in areas near active fires may deteriorate due to heavy smoke. I
 #### Useful links
 
 * [Forest fire information](https://www.nifc.gov/fire-information) – National Interagency Fire Centre
-* [Wildfire](https://www.ready.gov/wildfires)  – U.S. Department of Homeland Security
+* [Wildfire](https://www.ready.gov/wildfires) – U.S. Department of Homeland Security
 * [Latest wildfire information](https://inciweb.wildfire.gov/accessible-view) – United States National Wildfire Coordinating Group
 * [Map of wildfires](https://www.fireweatheravalanche.org/fire/) – Fire weather and Avalanche Center
 * [California forest fires](https://www.fire.ca.gov/) – California Department of Forestry and Fire Protection
