@@ -6,6 +6,19 @@ If your visit to South Africa is for less than 90 days, you won't need a visa. 
 
 If you wish to visit for longer than 90 days please consult your nearest [**Embassy or Consulate**](https://www.ireland.ie/en/dfa/embassies-in-ireland/) of South Africa before travelling.
 
+### **Customs**
+
+There are strict rules about [**goods you can take into or out of South Africa**](https://www.sars.gov.za/customs-and-excise/travellers/arrival-in-sa/). You must declare anything that may be prohibited or subject to tax or duty.
+
+All travellers entering or leaving South Africa through air, land, sea and rail ports of entry are required to [**submit an online traveller declaration**](https://www.sars.gov.za/travellerdeclaration/) before travelling. This can be done online or via the SARS mobile app.
+
+**Taking money into South Africa**
+
+When you enter South Africa, you must declare cash if you are bringing:
+
+* more than 25,000 South African rand per person
+* other currencies worth more than 10,000 US dollars combined
+
 ### **Passports**
 
 A valid passport is required for travel to South Africa and Irish passports should have a minimum validity of 6 months from your intended date of departure from South Africa. If you are a South African citizen aged 18 or over, you must use a South African passport to enter and exit South Africa. It is illegal to use another country’s passport. See the [**South African Department of Home Affairs**](https://www.dha.gov.za/index.php/civic-services/travel-documents) for further information. In terms of section 26(B) of the South African Citizenship Act, 1995, it is a punishable offence for a South African citizen (including dual nationals) of 18 years and older to leave or enter South Africa on a foreign passport.
