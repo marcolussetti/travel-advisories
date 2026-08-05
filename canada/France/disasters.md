@@ -2,9 +2,9 @@
 
 ## Natural disasters and climate
 
-### Forest fires in the southwest
+### Forest fires in the south
 
-Forest fires are affecting certain parts of Gironde and Landes, in the southwest of the country. Large-scale evacuations are underway around the fires, including in tourist areas.
+Forest fires are affecting parts of Gironde, Landes and Var in the south of the country.
 
 [More information on forest and maquis fires](france#fires)
 

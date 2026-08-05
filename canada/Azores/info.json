@@ -1,7 +1,7 @@
 {
     "name": "Azores",
-    "update_reason": "Editorial change",
-    "update_date": "2026-07-29T14:31:00",
+    "update_reason": "The Need help? section was updated.",
+    "update_date": "2026-08-04T12:08:00",
     "sections": {
         "risk": "canada/Azores/risk.md",
         "security": "canada/Azores/security.md",

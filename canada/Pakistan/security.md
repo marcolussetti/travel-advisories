@@ -78,9 +78,24 @@ If you decide to travel overland to Iran and Afghanistan despite this warning:
 
 The security situation in the province of Balochistan remains unstable, due to a long-standing nationalist insurgency and government counter-insurgency operations. Insurgents and militants may target commercial spaces and foreigners, in particular those associated with the China-Pakistan Economic Corridor (CPEC). Attacks on police and security forces occur frequently and have increased recently. Balochistan, which borders Iran and Afghanistan, is also a known route for smugglers.
 
-### Khyber Pakhtunkhwa Province
+### Khyber Pakhtunkhwa (KP) Province
 
-The security situation in Central and Western Khyber Pakhtunkhwa (KP) Province, including its capital Peshawar is unstable due to terrorism, sectarian and political violence and high levels of crime. North Waziristan, South Waziristan, and the Khyber District are particularly volatile and continue to be impacted by the security situation in Afghanistan. Attacks on security and military forces occur frequently. Civil unrest also takes place regularly.
+The security situation in parts of Khyber Pakhtunkhwa Province, including Peshawar, the former tribal districts, southern districts and areas bordering Afghanistan, is unstable due to terrorism, sectarian and political violence and high levels of crime.
+
+The following areas are particularly volatile and continue to be affected by the security situation and activity of militant groups along the border:
+
+* North Waziristan
+* South Waziristan
+* Bannu
+* Lakki Marwat
+* D.I. Khan
+* Bajaur
+* Kurram
+* the Khyber District
+
+Upper and Lower Chitral districts are particularly affected due to their proximity to the Afghanistan border and the potential for cross-border security incidents. Terrorist incidents may occur. Do not travel to this area by road. There is a high risk of kidnapping in the area.
+
+Attacks on security and military forces occur frequently in KP Province. Civil unrest also takes place regularly.
 
 ### Karachi
 
@@ -96,10 +111,6 @@ Extremist groups are present in some parts of the city and there have been terro
 ### Gilgit-Baltistan
 
 Clashes between protesters and security forces have occurred. Past demonstrations have led to traffic and public transport disruptions. Do not travel by road to Gilgit-Baltistan province.
-
-### Chitral
-
-Many parts of Khyber Pakhtunkhwa Province are unstable due to terrorism, violence, and crime rates, including Upper and Lower Chitral districts. Do not travel by road to this area.
 
 ### Terrorism
 

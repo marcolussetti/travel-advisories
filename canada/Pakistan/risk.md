@@ -24,6 +24,13 @@ The features in this map do not constitute an authoritative source of geographic
 
 [Avoid all travel](#levels "Risk Levels") to :
 
+* Pakistan-administered Kashmir
+* the province of Balochistan
+* the province of Khyber Pakhtunkhwa, except:
+
++ Haripur and Abbottabad districts where you should exercise a high degree of caution
++ Chitral district where you should avoid non-essential travel
+
 * the area within 50 km of the border with Afghanistan
 * the areas within 10 km of the borders with China, India and Iran, except the following official border crossings where you should exercise a high degree of caution:
 
@@ -33,13 +40,6 @@ The features in this map do not constitute an authoritative source of geographic
 
 * the areas within 10 km of the Line of Control with India
 * the section of the Karakoram Highway from Mansehra to Chilas
-* Pakistan-administered Kashmir
-* the province of Balochistan
-* the province of Khyber Pakhtunkhwa, with the exception of the following districts where we advise against non-essential travel:
-
-+ Haripur
-+ Abbottabad
-+ Chitral
 
 ### Karachi - Avoid non-essential travel
 
