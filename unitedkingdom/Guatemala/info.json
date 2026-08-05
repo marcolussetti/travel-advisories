@@ -1,11 +1,11 @@
 {
     "name": "Guatemala",
-    "update_reason": "This travel advice has been reviewed for accuracy with minor updates made throughout, including updated information about crime, buses and coaches, alcohol laws and bans and driving rules and safety ('Safety and security' page).",
+    "update_reason": "New information about Fuego volcanic activity ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Guatemala/Warnings and insurance.md",
-            "update_date": "2026-07-29T16:39:54+01:00"
+            "update_date": "2026-08-04T15:21:13+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Guatemala/Getting help.md"
         }
     ],
-    "update_date": "2026-07-29T16:39:54+01:00"
+    "update_date": "2026-08-04T15:21:13+01:00"
 }

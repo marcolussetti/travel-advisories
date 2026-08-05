@@ -1,17 +1,17 @@
 # Warnings and insurance
 
 Still current at:
-:   29 July 2026
+:   5 August 2026
 
 Updated:
-:   28 July 2026
+:   4 August 2026
 
 Latest update:
-:   Addition of information about a large earthquake which struck Kumamoto prefecture on 28 July 2026 ('Warnings and insurance' page).
+:   Updated information about the earthquake in Kumamoto prefecture ('Warnings and insurance' page).
 
 ## Earthquake in Kumamoto prefecture
 
-A large earthquake struck Kumamoto prefecture on 28 July 2026. There are reports of disruption to air and rail services. Train lines in Kyushu have been suspended and flights to and from Kumamoto airport have been disrupted. Earthquake aftershocks may also continue.
+A large earthquake struck Kumamoto prefecture on 28 July 2026. Earthquake aftershocks may continue, which can lead to possible travel disruption.
 
 Follow [local news updates](https://www3.nhk.or.jp/nhkworld/en/news/) and advice from the [Japan Meteorological Agency](https://www.data.jma.go.jp/eqev/data/en/tsunami/tsunami_warning.html).
 

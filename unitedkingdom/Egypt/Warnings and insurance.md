@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   29 March 2026
+:   5 August 2026
 
 Updated:
-:   28 March 2026
+:   4 August 2026
 
 Latest update:
-:   Updated information on border crossing charges at Taba ( 'Entry requirements')
+:   Updated information about entry requirements and regional tensions ('Warnings and insurance' and 'Entry requirements' pages).
 
 ![](https://assets.publishing.service.gov.uk/media/670e278f30536cb92748313c/FCDO__TA__015_-_Egypt_Travel_Advice_Ed10__WEB_.jpg)
 
@@ -58,17 +58,11 @@ FCDO advises against all but essential travel to the Hala’ib Triangle and the
 
 Find out more about [why FCDO advises against travel](https://www.gov.uk/foreign-travel-advice/egypt/regional-risks).
 
-## Regional risks
+## Regional tensions
 
-There is a heightened risk of regional tension. Escalation could lead to travel disruption and other unanticipated impacts.
+The US and Iran announced a memorandum of understanding (MOU) on 17 June in relation to the conflict in the Middle East, however the situation in the region remains unpredictable. Before the ceasefire, the Iranian regime had stated its intention to target locations associated with the US and Israel, including organisations, businesses, facilities, and institutions.
 
-British nationals should take sensible precautions, considering their own individual circumstances. These include:
-
-* read [If you’re affected by a crisis abroad - GOV.UK](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas). This includes guidance on “how to prepare for a crisis” with suggestions on what you might include in your emergency supplies and “what to do in a crisis”
-* sign up to FCDO Travel Advice email alerts
-* monitor local and international media for the latest information
-* sign up to local information alerts/resources and follow the instructions of the local authorities
-* stay away from areas around security or military facilities
+Since 8 July there have been strikes and retaliatory attacks in a number of locations across the region against US military and civilian infrastructure. There is a risk of more attacks and unforeseen escalation in the region. On 29 July, an apparent drone strike and fire caused damage to two ships moored off Damietta, in northern Egypt.
 
 ## Conflict in Israel and Palestine
 

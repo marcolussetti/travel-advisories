@@ -1,24 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   25 July 2026
+:   5 August 2026
 
 Updated:
-:   24 July 2026
+:   4 August 2026
 
 Latest update:
-:   New information about wildfires in parts of Madrid and Ávila, including updated safety advice and the emergency number for travellers ('Warnings and insurance' page).
-
-## Wildfires in Madrid and Avila
-
-Spanish authorities have declared a national emergency because of wildfires in parts of Madrid and Ávila. There are also reports of wildfires in other inland areas of Spain.
-
-If you are in an area affected by a wildfire:
-
-* follow instructions from local authorities and emergency services at all times
-* avoid travelling to or through affected areas
-* check updates from the emergency services
-* call 112 if you need emergency help
+:   Removal of information about wildfires in parts of Madrid and Ávila.
 
 ## Before you travel
 

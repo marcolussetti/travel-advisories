@@ -1,11 +1,11 @@
 {
     "name": "Japan",
-    "update_reason": "Addition of information about a large earthquake which struck Kumamoto prefecture on 28 July 2026 ('Warnings and insurance' page).",
+    "update_reason": "Updated information about the earthquake in Kumamoto prefecture ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Japan/Warnings and insurance.md",
-            "update_date": "2026-07-28T10:16:33+01:00"
+            "update_date": "2026-08-04T11:37:49+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Japan/Getting help.md"
         }
     ],
-    "update_date": "2026-07-28T10:16:33+01:00"
+    "update_date": "2026-08-04T11:37:49+01:00"
 }

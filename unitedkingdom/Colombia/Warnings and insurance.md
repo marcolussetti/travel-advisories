@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   23 June 2026
+:   5 August 2026
 
 Updated:
-:   22 June 2026
+:   4 August 2026
 
 Latest update:
-:   Removal of information about the Colombian Presidential Elections and border closures.
+:   New information about the Colombian presidential inauguration taking place on Friday 7 August ('Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/6a1022481eb143220d8d27b8/FCDO__TA__054_-_Colombia_Travel_Advice_Ed5__WEB___3_.jpg)
 
@@ -62,6 +62,12 @@ FCDO advises against all but essential travel to within 5km of the border with E
 FCDO advises against all but essential travel to Orito, San Miguel, Valle del Guamuez, Puerto Caicedo, Puerto Guzmán, Puerto Asis and Puerto Leguizamo in Putumayo Department.
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/colombia/regional-risks).
+
+## Colombian Presidential Inauguration
+
+Colombia’s presidential inauguration will take place on Friday 7 August in the city of Cali. Expect increased security presence in Cali and other major cities. Planned demonstrations are expected in Bogotá, Barranquilla, and Cali. Plan ahead and expect potential travel disruptions. Stay away from large gatherings and follow local guidance of authorities.
+
+See more information on the [Safety and security page](https://www.gov.uk/foreign-travel-advice/colombia/safety-and-security#political-situation).
 
 ## Before you travel
 

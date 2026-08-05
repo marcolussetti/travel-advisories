@@ -1,11 +1,11 @@
 {
     "name": "Colombia",
-    "update_reason": "Removal of information about the Colombian Presidential Elections and border closures.",
+    "update_reason": "New information about the Colombian presidential inauguration taking place on Friday 7 August ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Colombia/Warnings and insurance.md",
-            "update_date": "2026-06-22T16:51:45+01:00"
+            "update_date": "2026-08-04T16:17:18+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Colombia/Getting help.md"
         }
     ],
-    "update_date": "2026-06-22T16:51:45+01:00"
+    "update_date": "2026-08-04T16:17:18+01:00"
 }

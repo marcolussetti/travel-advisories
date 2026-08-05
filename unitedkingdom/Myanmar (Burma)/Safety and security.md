@@ -36,8 +36,6 @@ There is a higher likelihood of opposition attacks after sunset and an increased
 * Armed Forces Day (27 March)
 * Thingyan Festival (mid-April)
 * Martyrs’ Day (19 July)
-* the anniversary of the execution of political prisoners (23 to 25 July)
-* the lapsing of the state of emergency (1 August)
 * the 8888 uprising (8 August)
 * National Day (25 November)
 
@@ -84,6 +82,8 @@ Internet service is generally good and wifi is widely available in Yangon, for e
 
 Visitors can buy a SIM card for a nominal fee when they arrive. They can be topped up as needed, with top up cards readily available from places like kiosks or supermarkets.
 
+Visitors to Myanmar receive a 30‑day grace period for their mobile devices when they first connect to a local SIM network. For longer stays, register your phone’s IMEI through the Central Equipment Identity Register’s (CEIR) Official Portal, otherwise, your device will be automatically blocked from local networks.
+
 ## Laws and cultural differences
 
 ### Detention and arrest
@@ -118,6 +118,8 @@ Do not take photographs or videos of the police, demonstrations, military instal
 
 There are strict regulations around bringing in and using drones in Myanmar. Using a drone around government buildings, religious buildings or even tourist sites can result in criminal penalties, including a possible prison sentence. Do not attempt to enter Myanmar with a drone unless you have the necessary permits in place before you travel.
 
+Drone warfare is widespread across the country, and those using drones are at risk of being associated with groups involved in the conflict.
+
 ### LGBT+ travellers
 
 Same-sex sexual activity is illegal in Myanmar for men and women, although in practice these laws are not consistently enforced. If convicted, the punishment can be up to life imprisonment. There have been reports of police using threats of prosecution to extort bribes. This is alleged to include arbitrary arrest and detention.
@@ -130,7 +132,7 @@ Read more [advice for LGBT+ travellers](https://www.gov.uk/lesbian-gay-bisexual-
 
 Myanmar is a party to the Convention on International Trade in Endangered Species (CITES). Over 800 species of animals and plants are banned from international trade and a further 30,000 are strictly controlled by legislation. The restrictions cover some exotic souvenirs, such as those made from turtle shell.
 
-Local authorities have a particular interest in and are monitoring the importation, exportation, possession, acquisition and trading of gold, gems and jewellery. You risk arrest for doing so. Make sure you check with relevant government agencies, and obtain necessary import and export permits before entering or leaving Myanmar.
+Local authorities have a particular interest in and are monitoring the importation, exportation, possession, acquisition and trading of gold, gems and jewellery. You risk arrest for doing so. Make sure you check with relevant government agencies and obtain necessary import and export permits before entering or leaving Myanmar.
 
 ## Transport risks
 

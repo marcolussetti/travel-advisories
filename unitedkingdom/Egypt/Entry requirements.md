@@ -30,7 +30,9 @@ You can apply for a visa:
 
 * online – [getting an e-visa in advance](https://visa2egypt.gov.eg/eVisa/Home?VISTK=AMEV-QAST-XKKB-4X4J-LYML-KSS1-J4VF-B3V5-GO2U-AYIZ-4F82-1WR5-RW7O-0L87-4CZ8-9CFV) can help to prevent delays, tourist e-visas are valid for up to 3 months
 * in person or by post – apply through the [Egyptian Consulate General in the UK](https://egyptconsulate.co.uk/visas/)
-* on arrival in Egypt – approved airports have kiosks before you reach the immigration counters where you can buy a visa for 30 US dollars (cash only). Visas on arrival are valid for up to 30 days.
+* on arrival in Egypt – approved airports have kiosks before you reach the immigration counters where you can buy a physical visa for 30 US dollars (cash only). Visas on arrival are valid for up to 30 days.
+
+Starting from 1 August 2026, travellers arriving at Cairo International Airport can also purchase digital visas on arrival (card payment only) via self-service machines or the [Visa on Arrival portal](https://visaonarrival.gov.eg/home/landing) for 36 US dollars, including a 6 US dollar digital service fee.
 
 British passport holders from British Overseas Territories and Crown Dependencies cannot apply online.
 
@@ -52,7 +54,7 @@ If you plan to cross the border from Israel into Egypt at Taba, we recommend you
 
 * If staying in Taba, travellers will need to pay a border tax of 20 US dollars. The border tax allows you to obtain an entry permission stamp for a stay of up to 15 days
 * If travelling further than Taba, including to Sharm El-Sheikh, but remaining within the Sinai Peninsula, travellers will need to pay a border tax of 120 US dollars. The border tax allows you to obtain an entry permission stamp for a stay of up to 15 days
-* If travelling beyond the Sinai Peninsula, including to fly from airports such as Cairo and Hurghada, travellers will need to pay a border tax of 120 US dollars and purchase a standard entry visa for 30 US dollars. At Taba, this entry visa also requires a “letter of guarantee”, provided by travel agents and costing around 20 USD. Both the visa and the “letter of guarantee” can be purchased at the Border Crossing
+* If travelling beyond the Sinai Peninsula, including to fly from airports such as Cairo and Hurghada, travellers will need to pay a border tax of 120 US dollars and purchase a standard entry visa for 30 US dollars. At Taba, this entry visa also requires a “letter of guarantee”, provided by travel agents and costing around 20 US dollars. Both the visa and the “letter of guarantee” can be purchased at the Border Crossing
 
 If travelling by car through the Taba Border Crossing, you may also be required to pay 100 US dollars, with additional charges for parking.
 
