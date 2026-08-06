@@ -6,14 +6,12 @@ Alternatively, the Duty Officer at the Department of Foreign Affairs and Trade i
 
 Monday to Friday 09:30 to 12:30; 14:30 to 16:30
 
-### Embassy of Ireland, Romania
+### Embassy of Ireland, Moldova
 
-The Mark Tower,   
-82-98 Calea Grivitei   
-Bucuresti 010735   
-Romania   
-010735
+Stefan cel Mare si Sfant Boulevard 73/1   
+Chișinău   
+Moldova
 
-[Tel: +40 758611959](tel:+40758611959)
+[Tel: +373 22 802 279](tel:+37322 802 279)
 
-[**Contact us**](/en/romania/bucharest/contact/)
+[**Contact us**](/en/moldova/chisinau/contact/)

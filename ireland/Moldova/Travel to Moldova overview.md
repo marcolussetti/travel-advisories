@@ -6,7 +6,7 @@ High Degree of Caution
 
 ### **Travel Alert**
 
-Due to the regional security situation, Irish citizens should exercise a high degree of caution regarding travel to the Republic of Moldova. The Department of Foreign Affairs and Trade is closely monitoring the situation in Ukraine together with our EU and other international partners.  Current travel advice in relation to Ukraine is available [**here**](/en/dfa/overseas-travel/advice/ukraine/).
+Due to the regional security situation, Irish citizens should exercise a high degree of caution regarding travel to the Republic of Moldova. The Department of Foreign Affairs and Trade is closely monitoring the situation in Ukraine together with our EU and other international partners. Current travel advice in relation to Ukraine is available [**here**](/en/dfa/overseas-travel/advice/ukraine/).
 
 Regularly monitor the announcements of the local authorities in Moldova in respect of developing situations.
 

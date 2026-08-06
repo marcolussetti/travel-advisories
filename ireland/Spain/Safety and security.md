@@ -100,12 +100,6 @@ You drive on the right in Spain. The rules of the road in Spain are broadly simi
 * The use of a mobile phone without a hands-free device can result in a fine and driving ban while in Spain
 * You must wear a reflective vest and use a reflective triangle warning signs if you need to stop at the roadside
 
-### **If Travelling between Gibraltar and Spain**
-
-Vehicles (both cars and motorcycles) may experience significant delays when entering Spain from Gibraltar and sometimes vice versa.  Take water and extra food with you during the hot summer months and wear warm clothing in winter.  It is possible to park cars in La Línea in Spain and walk across the border, and this can help to avoid the worst of the queues. While parking in La Línea immediately next to the border incurs charges, check for free parking throughout the town and next to the stadium (this is an extra kilometre of walking). This also has the advantage of avoiding Gibraltar's complex one way system, very narrow streets, and limited parking.
-
-For the latest information on the waiting time for the queue to leave Gibraltar, you can call +350 200 42777.
-
 ### **Hiring a Vehicle**
 
 If you’re hiring a vehicle, we advise you not to hand over your passport as a form of security. If you’re allowing your passport to be photocopied, keep it in your sight at all times.
