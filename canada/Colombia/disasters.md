@@ -30,6 +30,16 @@ Learn about [El Niño](https://www.canada.ca/en/environment-climate-change/serv
 
 #### Volcanoes
 
+### Puracé volcano
+
+An orange alert has been issued for the Puracé volcano near Popayán due to a recent increase in volcanic activity, including stronger seismic activity below the crater and higher gas and ash emissions.
+
+* Avoid the area around the volcano
+* Monitor the situation through official bulletins
+* Follow the instructions of local authorities, including evacuation orders
+
+[Latest bulletins](https://www2.sgc.gov.co/Noticias/Paginas/Boletines-extraordinarios.aspx) – Colombian Geological Service (Spanish only)
+
 There are several active and potentially active volcanoes throughout Colombia.
 
 Debris from erupting volcanoes may clog rivers and cause them to overflow, which could in turn cause flash floods and landslides. Ash clouds may also cause disruptions to domestic and international flights.

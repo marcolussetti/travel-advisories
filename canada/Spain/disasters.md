@@ -8,23 +8,24 @@ Climate change is affecting Spain. Extreme and unusual weather events are becomi
 
 ### Wildfires
 
-Localized evacuation orders and emergency measures due to wildfires are in effect in parts of:
+Wildfires have affected several regions in Spain, including:
 
 * the Community of Madrid
 * Castilla-La Mancha
 * Castilla y León
-
-Wildfires are also affecting other regions including:
-
 * Aragon
 * Catalonia
 * Asturias
 * Andalusia
 * the Valencian Community
+* Galicia
+* Extremadura
 
-Road closures, transportation disruptions, reduced visibility due to smoke and poor air quality are affecting many areas. Conditions can change rapidly.
+Road closures, transportation disruptions, reduced visibility due to smoke and poor air quality are affecting many areas. Conditions can change rapidly. Stay away from affected areas.
 
-Stay away from affected areas. If you are near a wildfire:
+High temperatures, dry conditions, and strong winds could increase the risk of wildfires throughout the summer.
+
+If you are near a wildfire:
 
 * follow the instructions of local authorities and emergency services, including evacuation orders
 * monitor local media and official emergency channels for updates

@@ -2,6 +2,20 @@
 
 ## Safety and security
 
+### Fuel shortages
+
+Mongolia is experiencing nationwide fuel shortages. Fuel availability is limited and unpredictable. Shortages could disrupt land transportation and air travel.
+
+Local authorities have implemented fuel-rationing measures, such as using licence plate numbers to determine which days of the week you can refuel and limiting how much fuel can be purchased.
+
+Fuel supply disruptions may occur with little notice.
+
+If you are in Mongolia:
+
+* follow the instructions of local authorities
+* keep your vehicle fuelled when possible and avoid unnecessary travel, particularly to remote areas
+* confirm your flights before you travel, and ensure you have sufficient funds and travel insurance in case of disruptions to your travel plans
+
 ### Crime
 
 Petty crime, such as pickpocketing and purse snatching, occurs. This is common:

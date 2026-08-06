@@ -178,6 +178,12 @@ If you face this situation:
 
 ### Demonstrations
 
+### Presidential inauguration
+
+Colombia’s presidential inauguration will take place on August 7, 2026, in Cali. Demonstrations are planned in Barranquilla, Bogotá and Cali, but they could happen in other cities.
+
+Expect increased security measures and traffic disruptions in major cities throughout Colombia.
+
 Demonstrations and strikes take place regularly throughout Colombia, especially in large cities.
 
 Even peaceful demonstrations can turn violent at any time. They can also lead to disruptions to traffic and public transportation.

@@ -53,7 +53,7 @@ As a Canadian, you don’t require a tourist or business visa for stays up to 90
 
 If you plan to stay in Taiwan for more than 180 days, you must obtain a visa before arrival.
 
-[Information on visas](https://www.boca.gov.tw/mp-2.html) - Ministry of Foreign Affairs of Taiwan
+[Information on visas](https://www.boca.gov.tw/mp-2.html) – Ministry of Foreign Affairs of Taiwan
 
 ### Taiwan Arrival Card (TWAC)
 

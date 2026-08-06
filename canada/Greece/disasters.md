@@ -2,6 +2,14 @@
 
 ## Natural disasters and climate
 
+### Wildfires
+
+Wildfires are affecting parts of Greece, including mainland areas and popular tourist islands.
+
+High temperatures, dry conditions, and strong winds could increase the risk of wildfires throughout the summer.
+
+[More information on wildfires](#wildfires)
+
 ### Seismic activity
 
 Greece is located in an active seismic zone. Major earthquakes could occur and can cause significant damage.
@@ -53,7 +61,7 @@ Wildfires are common between July and September, particularly in:
 * the Peloponnese
 * Central Greece
 * Eastern Macedonia and Thrace
-* the northern areas of Athens.
+* areas surrounding Athens
 
 The air quality in areas near active fires may deteriorate due to heavy smoke.
 
@@ -63,4 +71,7 @@ In case of a major fire:
 * follow the advice of local emergency services personnel, including evacuation orders
 * monitor local media for up-to-date information on the situation
 
-[Latest information on fires](https://www.civilprotection.gr/el) – General Secretariat for Civil Protection
+#### Useful links
+
+* [Latest information on fires](https://www.civilprotection.gr/el) – General Secretariat for Civil Protection
+* [Emergency alert notification service](https://civilprotection.gov.gr/en/112/pote-pos-me-eidopoiei) – General Secretariat for Civil Protection

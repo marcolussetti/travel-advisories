@@ -36,6 +36,6 @@ A tsunami can occur within minutes of a nearby earthquake. The risk of tsunami c
 
 #### Useful links
 
-* [Earthquakes latest reports](https://scweb.cwb.gov.tw/en-US) – Seismological Centre of Taiwan
+* [Earthquakes latest reports](https://scweb.cwa.gov.tw/en-us/earthquake/data) – Seismological Centre of Taiwan
 * [Tsunami alerts](https://www.tsunami.gov/) – U.S. Tsunami Warning System
-* [Disaster Prevention in Taiwan](https://bear.emic.gov.tw/MY/#/home/index) – Interior Fire Service of Taiwan
+* [Disaster Prevention in Taiwan](https://www.nfa.gov.tw/eng/) – Interior Fire Service of Taiwan
