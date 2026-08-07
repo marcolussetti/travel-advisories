@@ -20,7 +20,7 @@ At least 8 weeks before your trip:
 * check the latest [vaccine recommendations for Chad](https://travelhealthpro.org.uk/country/47/chad#Vaccine_Recommendations)
 * see how to get vaccines and whether you have to pay on the [NHS travel vaccinations page](https://www.nhs.uk/conditions/travel-vaccinations/)
 
-See [what health risks you’ll face in Chad](https://travelhealthpro.org.uk/country/47/chad).
+See [what health risks you’ll face in Chad](https://travelhealthpro.org.uk/country/47/chad), including cholera.
 
 Altitude sickness is a risk in parts of Chad. Read more about [altitude sickness on TravelHealthPro](https://travelhealthpro.org.uk/factsheet/26/altitude-illness).
 

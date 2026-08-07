@@ -1,10 +1,10 @@
 # Warnings and insurance
 
 Still current at:
-:   5 August 2026
+:   7 August 2026
 
 Updated:
-:   4 August 2026
+:   6 August 2026
 
 Latest update:
 :   New information about Fuego volcanic activity ('Warnings and insurance' page).
@@ -27,7 +27,7 @@ Find out more about [why FCDO advises against travel to these areas](https://ww
 
 ## Fuego volanic activity
 
-Fuego volcano is experiencing increased volcanic activity, including ash emissions and pyroclastic flows. Further escalation remains possible and authorities have begun precautionary evacuations in some communities. Access to the [Astillero Municipal Regional Park](https://lahora.gt/nacionales/ypena/2026/08/03/municipalidad-de-acatenango-cierra-el-acceso-al-parque-astillero-por-actividad-en-el-volcan-de-fuego/), which contains the Acatenango Volcano viewpoint, has also been closed due to Fuego’s volcanic activity.
+Fuego volcano is no longer showing increased volcanic activity, however there remains a risk of lahars (fast-moving volcanic mudflows) in affected areas. Access to the [Astillero Municipal Regional Park](https://lahora.gt/nacionales/ypena/2026/08/03/municipalidad-de-acatenango-cierra-el-acceso-al-parque-astillero-por-actividad-en-el-volcan-de-fuego/), which contains the Acatenango Volcano viewpoint, remains closed due to Fuego’s volcanic activity.
 
 If you are in an affected area, monitor official updates (including through [CONRED, Guatemala’s disaster agency](https://conred.gob.gt/)), follow the advice of local authorities, and be prepared to leave the area if advised to do so.
 

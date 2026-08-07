@@ -1,11 +1,11 @@
 {
     "name": "Chad",
-    "update_reason": "New information about border security ('Regional risks' page).",
+    "update_reason": "Updated information about health risks you\u2019ll face in Chad (\u2018Health\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Chad/Warnings and insurance.md",
-            "update_date": "2026-05-15T15:35:35+01:00"
+            "update_date": "2026-08-06T12:06:47+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Chad/Getting help.md"
         }
     ],
-    "update_date": "2026-05-15T15:35:35+01:00"
+    "update_date": "2026-08-06T12:06:47+01:00"
 }

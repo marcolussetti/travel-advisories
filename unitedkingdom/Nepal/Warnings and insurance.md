@@ -1,22 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   1 August 2026
+:   7 August 2026
 
 Updated:
-:   31 July 2026
+:   6 August 2026
 
 Latest update:
-:   Addition of information about local curfews imposed in Nepal’s southern provinces of Koshi Province and Madhesh Province (‘Warnings and insurance’ page).
-
-## Local curfews
-
-Following unrest and public order incidents since 26 July, local curfews have been imposed in 2 of Nepal’s Southern provinces:
-
-* Kooshi Province
-* Madhesh Province
-
-Stay aware of your surroundings and follow the advice of the local authorities.
+:   Removal of information about local curfews ('Warnings and insurance' page).
 
 ## Global travel impacts due to escalation in the Middle East
 

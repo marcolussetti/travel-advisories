@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   16 May 2026
+:   7 August 2026
 
 Updated:
-:   15 May 2026
+:   6 August 2026
 
 Latest update:
-:   New information about border security ('Regional risks' page).
+:   Updated information about health risks you’ll face in Chad (‘Health’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/60dc7052e90e07717b84dc57/FCDO__TA__010_-_Chad_Travel_Advice_Ed4__WEB_.jpg)
 
