@@ -60,7 +60,13 @@ If you wish to extend your stay in Malawi, contact the Department of Immigration
 
 You cannot perform any type of work, including volunteer work, on a tourist visa. Contact the Malawi Department of Immigration and citizenship services for information on specific requirements.
 
-[Permit information](https://epermit.gov.mw/)– Department of Immigration and Citizenship Services of the Republic of Malawi
+[Permit information](https://epermit.gov.mw/) – Department of Immigration and Citizenship Services of the Republic of Malawi
+
+### Health declaration form
+
+You must complete an online health declaration form before travelling to Malawi.
+
+[Traveller Health Check](https://poe.health.gov.mw/self-screen) – Ministry of Health and Sanitation of the Republic of Malawi
 
 ### Children and travel
 

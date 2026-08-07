@@ -1,7 +1,7 @@
 {
     "name": "Mongolia",
-    "update_reason": "Safety and security section \u2013 added information on fuel shortages",
-    "update_date": "2026-08-05T12:00:00",
+    "update_reason": "Editorial change",
+    "update_date": "2026-08-06T15:36:00",
     "sections": {
         "risk": "canada/Mongolia/risk.md",
         "security": "canada/Mongolia/security.md",

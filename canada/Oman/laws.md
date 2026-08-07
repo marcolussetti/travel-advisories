@@ -18,6 +18,14 @@ Respect restrictions concerning the consumption of alcohol. Do not drink alcohol
 
 Prescription or over-the-counter drugs that are legal in Canada, such as those containing codeine, may be restricted in Oman. Possession of such drugs could lead to a jail sentence. Carry your original prescription and keep prescription medications in their original container.
 
+### Drones
+
+The importation, possession and use of drones, including aerial photography and videography, are strictly regulated in Oman. You must obtain authorization before importing or operating a drone.
+
+Failure to comply with drone regulations may result in severe penalties, including imprisonment, fines, and confiscation of the equipment.
+
+[Drone regulations](https://www.caa.gov.om/files/publications/regulation-governing-unmanned-aircraft-systems-drones.pdf) – Oman Civil Aviation Authority
+
 ### Driving
 
 You should carry an international driving permit.

@@ -18,4 +18,4 @@ The features in this map do not constitute an authoritative source of geographic
 
 ### Mauritius - Take normal security precautions
 
-[Take normal security precautions](#levels "Risk Levels") in Mauritius
+[Take normal security precautions](#levels "Risk Levels") in Mauritius.

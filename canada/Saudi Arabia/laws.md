@@ -30,6 +30,12 @@ It's illegal to:
 
 Be cautious when discussing religious issues.
 
+### Drones
+
+The importation, possession, and use of drones, including aerial photography and videography, are strictly regulated in Saudi Arabia. You must obtain authorization before importing or operating a drone.
+
+Failure to comply with drone regulations may result in severe penalties, including imprisonment, fines, and confiscation of the equipment.
+
 ### Ramadan
 
 In 2027, the lunar month of Ramadan is expected to begin on or around February 7.

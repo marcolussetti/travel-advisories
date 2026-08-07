@@ -22,6 +22,19 @@ If you decide to travel to South Korea during the rainy or typhoon seasons:
 * [Tornadoes, cyclones, hurricanes, typhoons and monsoons](https://travel.gc.ca/travelling/health-safety/hurricanes-typhoons-cyclones-monsoons)
 * [Large-scale emergencies abroad](https://travel.gc.ca/assistance/emergency-info/large-scale-emergencies-abroad)
 
+### Heatwaves
+
+Severe heatwaves affect South Korea between June and September. High temperatures can be dangerous. Know the symptoms of dehydration and heatstroke, which can both be fatal.
+
+If there's a heatwave:
+
+* stay indoors or in the shade during midday hours
+* stay hydrated
+* carry a sufficient water supply
+* monitor local media for information on heat warnings
+
+[Heatwave safety guidelines](https://eng.safekorea.go.kr/safekorea-eng/acts/nacts/action-guide.do?&category=heatWave&actsHeaderTitle=%ED%8F%AD%EC%97%BC&menuSn=1004) – Ministry of the Interior and Safety
+
 ### Air pollution
 
 Air pollution, including yellow dust pollution, is common in South Korea throughout the year and especially in March, April and May.

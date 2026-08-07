@@ -36,13 +36,13 @@ While in Mongolia:
 There have been incidents of violent crime, such as assaults and robberies. Incidents occur more frequently in major cities. In Ulaanbaatar and other large cities such as Erdenet and Darkhan, be extra vigilant in the weeks leading up to and during major holidays, including:
 
 * the Naadam Festival in July
-* the Mongolian Lunar New Year (February 21- 23, 2023)
-* International Women’s Day (March 8)
-* Soldiers’ Day in March
+* the Mongolian Lunar New Year
+* International Women's Day (March 8)
+* Soldiers' Day in March
 
 Do not walk alone after dark.
 
-Individuals posing as police officers have robbed foreigners, particularly in Ulaanbaatar’s Sukhbaatar Square area.
+Individuals posing as police officers have robbed foreigners, particularly in Ulaanbaatar's Sukhbaatar Square area.
 
 If approached, ask to see police credentials or offer to go to the police station.
 
@@ -74,7 +74,7 @@ If engaging in adventure tourism:
 * buy travel insurance that includes helicopter rescue and medical evacuation
 * ensure that the recreational activities you choose are covered by your travel insurance.
 * ensure that your physical condition is good enough to meet the challenges of your activity
-* ensure that you’re properly equipped and well informed about weather and other conditions that may pose a hazard
+* ensure that you're properly equipped and well informed about weather and other conditions that may pose a hazard
 * inform a family member or friend of your itinerary
 * obtain detailed information on each activity before setting out and do not venture off marked trails
 * do not use installation or equipment if you have any doubt about their safety

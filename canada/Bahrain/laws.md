@@ -28,6 +28,14 @@ Bahraini law does not prohibit sexual acts between individuals of the same sex. 
 
 You must carry photo identification. Under Bahraini law, failure to produce photo identification to an authority when asked is considered an offence and you may be fined. Keep a photocopy of your passport in a safe place, in case it’s lost or confiscated.
 
+### Drones
+
+The importation, possession, and use of drones, including aerial photography and videography, are strictly regulated in Bahrain. You must obtain authorization before importing or operating a drone.
+
+Failure to comply with drone regulations may result in severe penalties, including imprisonment, fines, and confiscation of the equipment.
+
+[Drone regulations](https://www.bahrain.bh/wps/portal/en/BNP/ExploreBahrain/Drones) – Government of Bahrain
+
 ### Photography
 
 Do not take photographs of buildings or individuals without prior authorization.

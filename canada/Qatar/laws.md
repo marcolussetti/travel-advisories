@@ -24,6 +24,14 @@ The consumption of alcohol in public is illegal. Avoid drinking alcohol outside 
 
 [Drugs, alcohol and travel](https://travel.gc.ca/travelling/health-safety/drugs)
 
+### Drones
+
+The importation, possession and use of drones, including aerial photography and videography, are strictly regulated in Qatar. You must obtain authorization before importing or operating a drone.
+
+Failure to comply with drone regulations may result in severe penalties, including imprisonment, fines, and confiscation of the equipment.
+
+[Drone regulations](https://caa.gov.qa/en/UA-Drones) – Qatar Civil Aviation Authority
+
 ### Ramadan
 
 In 2027, the lunar month of Ramadan is expected to begin on or around February 7.

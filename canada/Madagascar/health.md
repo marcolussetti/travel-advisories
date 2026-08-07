@@ -203,6 +203,18 @@ To protect yourself from bites:
 [Insect bite and pest prevention](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html)  
 [Personal insect repellents](https://www.canada.ca/en/health-canada/services/about-pesticides/insect-repellents.html)
 
+Dengue 
+
+* In this country, risk of dengue is sporadic. It is a viral disease spread to humans by mosquito bites.
+* Dengue can cause flu-like symptoms. In some cases, it can lead to severe dengue, which can be fatal.
+* The level of risk of dengue changes seasonally, and varies from year to year. The level of risk also varies between regions in a country and can depend on the elevation in the region.
+* Mosquitoes carrying dengue typically bite during the daytime, particularly around sunrise and sunset.
+* Protect yourself from mosquito bites. There is no vaccine or medication available in Canada to prevent dengue.
+
+**Learn more:**  
+[Dengue](https://www.canada.ca/en/public-health/services/infectious-diseases/viral-haemorrhagic-fevers/dengue-fever.html)  
+[Insect bite and pest prevention](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html)
+
 Chikungunya
 
 There is a risk of chikungunya in this country. The level of risk may vary by:
@@ -223,18 +235,6 @@ A vaccine for the prevention of chikungunya is approved in Canada. Talk to your 
 **Learn more:**
 
 [Chikungunya](https://www.canada.ca/en/public-health/services/diseases/chikungunya.html)
-
-Dengue 
-
-* In this country, risk of dengue is sporadic. It is a viral disease spread to humans by mosquito bites.
-* Dengue can cause flu-like symptoms. In some cases, it can lead to severe dengue, which can be fatal.
-* The level of risk of dengue changes seasonally, and varies from year to year. The level of risk also varies between regions in a country and can depend on the elevation in the region.
-* Mosquitoes carrying dengue typically bite during the daytime, particularly around sunrise and sunset.
-* Protect yourself from mosquito bites. There is no vaccine or medication available in Canada to prevent dengue.
-
-**Learn more:**  
-[Dengue](https://www.canada.ca/en/public-health/services/infectious-diseases/viral-haemorrhagic-fevers/dengue-fever.html)  
-[Insect bite and pest prevention](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html)
 
 Rift Valley fever
 
