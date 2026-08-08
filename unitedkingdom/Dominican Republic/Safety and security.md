@@ -83,7 +83,7 @@ Read more [advice for LGBT+ travellers](https://www.gov.uk/lesbian-gay-bisexual-
 
 ## Outdoor activities and adventure tourism
 
-Providers of recreational and adventure tourism may not meet UK safety standards. Check safety standards and make sure you’re insured if you take part in activities like water sports, quad biking or horse riding.
+Providers of recreational and adventure tourism may not meet UK safety standards. Check safety standards with the tour operators or providers and make sure you’re insured if you take part in activities like water sports, boat tours, quad biking or horse riding.
 
 ### Swimming safety
 
@@ -101,7 +101,7 @@ If you’re planning to drive in the Dominican Republic, see [information on dri
 
 You can use a UK photocard driving licence to drive in the Dominican Republic for up to 3 months. If you still have a paper driving licence, you may need to [update it to a photocard licence](https://www.gov.uk/exchange-paper-driving-licence) or get the [correct version of the international driving permit (IDP)](https://www.gov.uk/driving-abroad/international-driving-permit) as well.
 
-For longer visits, apply for a local driving licence. See [Living in the Dominican Republic](https://www.gov.uk/guidance/living-in-the-dominican-republic#driving-in-the-dominican-republic) for more information.
+For longer visits, apply for a local driving licence.
 
 Hire car companies often have stricter requirements for their customers, such as a year of driving experience, a higher minimum age and holding an IDP.
 
@@ -175,12 +175,8 @@ The US Federal Emergency Management Agency website has advice about [what to do 
 
 There is a risk of tsunamis from earthquakes at sea. Follow the instructions of the local authorities if there are warnings of an approaching tsunami.
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/dominican-republic/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/dominican-republic/entry-requirements)
 
-[Next
-:
-Regional risks](/foreign-travel-advice/dominican-republic/regional-risks)
+[Next:Regional risks](/foreign-travel-advice/dominican-republic/regional-risks)
 
 [View a printable version of the whole guide](/foreign-travel-advice/dominican-republic/print)

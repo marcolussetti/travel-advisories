@@ -21,6 +21,7 @@ Attacks could be indiscriminate, including in public places visited by foreign n
 
 Examples of recent attacks include:
 
+* in July 2026, 1 person was killed and 29 injured when a vehicle drove into crowds celebrating Christopher Street Day, Berlin’s annual LGBT+ Pride event
 * in 2024, 3 people were killed and several injured following a knife attack in Solingen
 * in 2021, 5 people were stabbed and injured on a train in Neumarkt, Bavaria
 * in 2020, one person was killed and another seriously injured in a knife attack in Dresden

@@ -59,8 +59,6 @@ Follow FCDO:
 
 The Overseas Business Risk service offers [information and advice for British companies operating in the Dominican Republic](https://www.gov.uk/government/publications/overseas-business-risk-dominican-republic) on how to manage political, economic, and business security-related risks.
 
-[Previous
-:
-Health](/foreign-travel-advice/dominican-republic/health)
+[Previous:Health](/foreign-travel-advice/dominican-republic/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/dominican-republic/print)

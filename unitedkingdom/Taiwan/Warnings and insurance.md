@@ -1,15 +1,19 @@
 # Warnings and insurance
 
 Still current at:
-:   1 August 2026
+:   8 August 2026
 
 Updated:
-:   31 July 2026
+:   7 August 2026
 
 Latest update:
-:   Addition of information about Urban Resilience exercises in different parts of the island during August 2026 ('Warnings and insurance' page').
+:   New information about Typhoon Dolphin (‘Warnings and insurance’ page).
 
 The UK does not recognise Taiwan as a state and has no diplomatic relations with Taiwan, so limited support is available to British nationals. Please refer to the [British Office in Taipei](https://www.gov.uk/world/organisations/british-office-taipei) for further information.
+
+## Typhoon Dolphin
+
+Due to the passage of Typhoon Dolphin, Taiwanese authorities have issued a Sea Warning for the northern coast of Taiwan. Tidal swells and rough seas are expected. British nationals should follow the guidance of the Taiwanese authorities and stay away from swimming, water sports or other related activities in the coastal waters around Taiwan during this period. Some northbound flights and ferry routes may also be affected. Check your travel arrangements with your travel provider.
 
 ## Urban Resilience exercises (August 2026)
 

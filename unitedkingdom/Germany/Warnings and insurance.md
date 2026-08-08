@@ -1,17 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   28 July 2026
+:   8 August 2026
 
 Updated:
-:   27 July 2026
+:   7 August 2026
 
 Latest update:
-:   Updated information regarding the vehicle related incident in Berlin on 25 July ('Warnings and insurance' page).
-
-## Vehicle related incident in Berlin
-
-On 25 July 2026, at around 10pm a vehicle-related incident took place during the Christopher Street Day celebrations in central Berlin, resulting in multiple injuries and one fatality. A major police operation was launched and local authorities advised the public to avoid the affected Tiergarten area. The Berlin police released a statement on Sunday evening saying they had killed the suspected perpetrator of the attack and investigations are ongoing. German authorities have stated there is no ongoing risk to the public in relation to this incident, but to stay aware of your surroundings, keep up to date with local media reports and follow the advice of local authorities.
+:   Removal of information regarding the vehicle related incident in Berlin on 25 July, and new information about recent attacks ('Safety and security' page).
 
 ## Before you travel
 

@@ -1,11 +1,11 @@
 {
     "name": "Germany",
-    "update_reason": "Updated information regarding the vehicle related incident in Berlin on 25 July ('Warnings and insurance' page).",
+    "update_reason": "Removal of information regarding the vehicle related incident in Berlin on 25 July, and new information about recent attacks ('Safety and security' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Germany/Warnings and insurance.md",
-            "update_date": "2026-07-27T15:32:10+01:00"
+            "update_date": "2026-08-07T17:21:02+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Germany/Getting help.md"
         }
     ],
-    "update_date": "2026-07-27T15:32:10+01:00"
+    "update_date": "2026-08-07T17:21:02+01:00"
 }

@@ -1,11 +1,11 @@
 {
     "name": "Mongolia",
-    "update_reason": "New information on travelling between provinces within Mongolia (See 'Borders within Mongolia' on the \u2018Entry requirements\u2019 page).",
+    "update_reason": "New information on fuel shortages in Mongolia (\u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Mongolia/Warnings and insurance.md",
-            "update_date": "2026-06-26T16:03:57+01:00"
+            "update_date": "2026-08-07T13:03:24+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Mongolia/Getting help.md"
         }
     ],
-    "update_date": "2026-06-26T16:03:57+01:00"
+    "update_date": "2026-08-07T13:03:24+01:00"
 }

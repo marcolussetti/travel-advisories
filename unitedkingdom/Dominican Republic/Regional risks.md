@@ -12,12 +12,8 @@ Land and sea borders between the Dominican Republic and Haiti are closed. Milita
 
 There have been armed robberies on roads close to the border with Haiti, including by criminals posing as police officers.
 
-[Previous
-:
-Safety and security](/foreign-travel-advice/dominican-republic/safety-and-security)
+[Previous:Safety and security](/foreign-travel-advice/dominican-republic/safety-and-security)
 
-[Next
-:
-Health](/foreign-travel-advice/dominican-republic/health)
+[Next:Health](/foreign-travel-advice/dominican-republic/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/dominican-republic/print)

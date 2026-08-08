@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   18 July 2026
+:   8 August 2026
 
 Updated:
-:   17 July 2026
+:   7 August 2026
 
 Latest update:
-:   Updated information about the situation in Pakistan-administered Kashmir, wider regional tensions, and attending the Wagah border ceremony. New information about property disputes ('Warnings and insurance' and ‘Safety and security’ pages).
+:   Updated information about the situation in Pakistan-administered Kashmir (See ‘Demonstrations in Pakistan-administered Kashmir’ on the ‘Warnings and insurance’ page).
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
@@ -79,15 +79,15 @@ Find out more about [why FCDO advises against travel to these regions](/foreign-
 
 ## Demonstrations in Pakistan-administered Kashmir
 
-There are currently demonstrations in areas of Pakistan-administered Kashmir, known locally as “Azad Jammu and Kashmir”.
+There are currently demonstrations in areas of Pakistan-administered Kashmir known locally as “Azad Jammu and Kashmir”.
 
-Local authorities are advising tourists to avoid travel to the area, and for tourists already there to leave to avoid potential disruption.
+Local authorities have advised visitors to avoid travel to the area, while visitors already there have been encouraged to leave to avoid potential disruption.
 
-Strikes in the area have previously led to:
+Demonstrations in the area have led to:
 
 * road closures and severe travel disruption
 * suspension of mobile and internet services
-* clashes between protestors and security forces
+* clashes between protestors and security forces, with reports of injuries and loss of life
 
 ## Regional tensions
 

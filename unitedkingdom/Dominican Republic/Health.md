@@ -66,12 +66,8 @@ Find further [advice on medical tourism from TravelHealthPro](https://travelhea
 
 Read [FCDO guidance on travel and mental health](https://www.gov.uk/guidance/foreign-travel-advice-for-people-with-mental-health-issues). There is also [mental health guidance on TravelHealthPro](https://travelhealthpro.org.uk/factsheet/85/travelling-with-mental-health-conditions).
 
-[Previous
-:
-Regional risks](/foreign-travel-advice/dominican-republic/regional-risks)
+[Previous:Regional risks](/foreign-travel-advice/dominican-republic/regional-risks)
 
-[Next
-:
-Getting help](/foreign-travel-advice/dominican-republic/getting-help)
+[Next:Getting help](/foreign-travel-advice/dominican-republic/getting-help)
 
 [View a printable version of the whole guide](/foreign-travel-advice/dominican-republic/print)

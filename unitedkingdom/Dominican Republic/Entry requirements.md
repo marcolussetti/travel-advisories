@@ -55,12 +55,8 @@ For children aged 17 and under travelling alone, parents should check travel req
 
 There are strict rules about [goods you can take into or out of the Dominican Republic](https://www.aduanas.gob.do/de-interes/consultas/) (in Spanish). You must declare anything that may be prohibited or subject to tax or duty.
 
-[Previous
-:
-Warnings and insurance](/foreign-travel-advice/dominican-republic)
+[Previous:Warnings and insurance](/foreign-travel-advice/dominican-republic)
 
-[Next
-:
-Safety and security](/foreign-travel-advice/dominican-republic/safety-and-security)
+[Next:Safety and security](/foreign-travel-advice/dominican-republic/safety-and-security)
 
 [View a printable version of the whole guide](/foreign-travel-advice/dominican-republic/print)

@@ -1,13 +1,17 @@
 # Warnings and insurance
 
 Still current at:
-:   27 June 2026
+:   8 August 2026
 
 Updated:
-:   26 June 2026
+:   7 August 2026
 
 Latest update:
-:   New information on travelling between provinces within Mongolia (See 'Borders within Mongolia' on the ‘Entry requirements’ page).
+:   New information on fuel shortages in Mongolia (‘Warnings and insurance’ page).
+
+## Fuel shortages in Mongolia
+
+There are reports of fuel shortages in Mongolia, including aviation fuel. Fuel supply disruptions may affect domestic and international flights, road travel and access to some remote areas. Check with your airline or transport provider before travelling, allow extra time for journeys  and follow advice from the local authorities.
 
 ## Before you travel
 
