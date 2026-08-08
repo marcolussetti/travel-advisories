@@ -50,7 +50,7 @@ Tourist visa: not required for stays of up to 30 days
 
 ### Registration
 
-Visitors who plan to stay for more than 30 days in Mongolia must register with the Office of Immigration, Naturalization and Foreign Citizens within 48 hours upon arrival.
+Visitors must register their stay through the Immigration Agency website within 48 hours of arrival if their stay will exceed 30 days. Your accommodation provider is required to arrange your registration.
 
 ### Interprovincial travel
 

@@ -4,9 +4,7 @@
 
 ### Typhoon Dolphin
 
-Typhoon Dolphin is expected to pass through the Ogasawara, Okinawa and Amami Islands between August 4-6, 2026.
-
-The storm is likely to bring excessive rainfall and violent winds. It may cause flash flooding and landslides and could severely disrupt the following essential services:
+On August 7, 2026, Typhoon Dolphin passed through the Okinawa and Amami Islands. The storm brought heavy rainfall and violent winds. There is a continued risk of flooding and landslides. The storm has caused significant disruptions to the following essential services:
 
 * transportation
 * power distribution
@@ -19,7 +17,7 @@ If you are in the affected area:
 
 * exercise caution
 * monitor local news and weather reports
-* follow the instructions of local authorities
+* follow the instructions of local authorities, including evacuation orders
 
 [Japan Meteorological Agency](http://www.jma.go.jp/jma/indexe.html)
 

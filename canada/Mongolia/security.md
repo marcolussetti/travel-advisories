@@ -30,8 +30,8 @@ Petty crime, such as pickpocketing and purse snatching, occurs. This is common:
 
 While in Mongolia:
 
-* Ensure that your belongings, including your passport and other travel documents, are secure at all times.
-* Exercise caution in crowded areas
+* ensure that your belongings, including your passport and other travel documents, are secure at all times
+* exercise caution in crowded areas
 
 There have been incidents of violent crime, such as assaults and robberies. Incidents occur more frequently in major cities. In Ulaanbaatar and other large cities such as Erdenet and Darkhan, be extra vigilant in the weeks leading up to and during major holidays, including:
 
@@ -83,28 +83,28 @@ If engaging in adventure tourism:
 
 #### Road conditions
 
-Roads between the capital city and provinces are poor. Driving can be hazardous, especially in rural areas where paved roads are limited. In Ulaanbaatar the number of vehicles and current transportation infrastructure produce chronic traffic jams.
+The majority of interprovincial roads and primary routes, connecting the national capital to provincial centres, are paved. Provincial, secondary and rural road networks consist mainly of gravel or dirt roads. Driving can be hazardous, especially in rural areas where paved roads are limited. In Ulaanbaatar, there are chronic traffic jams due to the high number of vehicles and inadequate transportation infrastructure.
 
 Access to rural areas can be hampered by heavy snowfalls during the winter months.
 
 If travelling to remote areas:
 
-* Plan your journey
-* Travel in a four-wheel-drive vehicle that is well-equipped with provisions, fuel and water
-* Avoid driving after dark
+* plan your journey
+* travel in a four-wheel-drive vehicle that is well-equipped with provisions, fuel and water
+* avoid driving after dark
 
 #### Road safety
 
 Traffic drives on the right but many cars have right-side steering. This can lead to collisions on two-lane roads when drivers attempt to pass slower vehicles.
 
-* Drivers do not respect traffic laws and do not practice safe driving.
-* Exercise caution while driving and anticipate potential hazards.
+* Many drivers do not respect traffic laws and do not practice safe driving
+* Exercise caution while driving and anticipate potential hazards
 
 Accidents are common.
 
-* Traffic laws are not consistently enforced.
-* Drivers are sometimes aggressive and drinking and driving is prevalent.
-* Use a GPS navigation system, if possible.
+* Traffic laws are not consistently enforced
+* Drivers are sometimes aggressive and drinking and driving is prevalent
+* Use a GPS navigation system, if possible
 
 ### Public transportation
 
@@ -112,8 +112,8 @@ Accidents are common.
 
 Taxi drivers have robbed passengers, sometimes violently. The use of “shared taxis” is discouraged because they are not reliable.
 
-* Only use licensed taxis equipped with meters.
-* When possible, book taxis through your hotel.
+* Only use licensed taxis equipped with meters
+* When possible, book taxis through your hotel
 
 #### Buses
 
@@ -121,7 +121,7 @@ Pickpocketing is common on public buses. Overcrowding is common and women have r
 
 #### Trains
 
-The rail network in is limited. Thefts occur frequently on trains between Mongolia and Russia.
+The rail network in Mongolia is limited. Thefts occur frequently on trains between Mongolia and Russia, and Mongolia and China.
 
 ### Air travel
 

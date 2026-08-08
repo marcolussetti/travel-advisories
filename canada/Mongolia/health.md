@@ -231,7 +231,7 @@ High-risk travellers include those visiting or working in prisons, refugee camps
 
 Health care is inadequate.
 
-A few hospitals in Ulaanbaatar are suitable for foreigners, but there is often a shortage of safe medicine and reliable medical staff.
+A few hospitals in Ulaanbaatar are suitable for foreigners. Healthcare capacity, drug inventories and service reliability vary widely depending on the facility, staffing and local supply chain.
 
 You will likely need medical evacuation in case of serious illness or injury. The number of medical evacuation service providers is limited. Medical evacuation is very expensive.
 
