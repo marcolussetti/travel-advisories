@@ -4,7 +4,7 @@
 
 ### Weather conditions
 
-Antarctica is subject to extreme and unpredictable weather conditions. It is cold, dry and windy, with 99% of the continent covered by a permanent ice sheet.
+Antarctica is subject to extreme and unpredictable weather conditions. It is cold, dry and windy with 99% of the continent covered by a permanent ice sheet.
 
 These conditions put you at risk of frostbite and sun overexposure, which can result in dehydration and eye damage.
 
