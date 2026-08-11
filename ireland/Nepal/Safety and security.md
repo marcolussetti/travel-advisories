@@ -59,7 +59,7 @@ Check weather conditions before travelling with domestic airlines. Bad weather c
 
 All carriers from Nepal have been [**refused permission**](http://ec.europa.eu/transport/modes/air/safety/air-ban/index_en.htm) to operate air services to the EU due to safety concerns.
 
-Information on global airline safety is available from the [**International Civil Aviation Organisation’s audit of aviation safety oversight**](http://www.icao.int/safety/Pages/USOAP-Results.aspx) and the [**Aviation Safety network**](http://www.aviation-safety.net/database/country/country.php?id=9N).
+Information on global airline safety is available from the [**International Civil Aviation Organisation’s audit of aviation safety oversight**](http://www.icao.int/safety/Pages/USOAP-Results.aspx) and the [**Aviation Safety network**](https://www.aviation-safety.net/database/countries/9N).
 
 ### **Trekking**
 

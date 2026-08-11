@@ -4,6 +4,16 @@
 
 High Degree of Caution
 
+### **Travel Alert**
+
+An earthquake of 7.4 magnitude has occurred in the west of Colombia, with its epicentre in the department of Chocó. Several regions have been strongly impacted, including the cities of Quibdó, Pereira, Manizales, Armenia, and Cali. Operations have been temporarily suspended at regional airports in Cali, Pereira, Manizales, Quibdó, Armenia, Cartago, Buenaventura and Popayán for safety reasons.
+
+Irish citizens in impacted areas should follow the advice and guidance of the local authorities, including if this is to shelter in place, monitor local news channels for updates, and take care in case of aftershocks.
+
+If you have been impacted and require consular assistance, or have a concern about a relative or a friend, contact us on +57 601 657 6060 or [consularbogota@dfa.ie](mailto:consularbogota@dfa.ie)
+
+For the latest local updates see [**@sgcol**](https://x.com/sgcol) on X. For further information on airport closures, see [**@AerocivilCol**](https://x.com/AerocivilCol)**.**
+
 ### **General Travel Advice**
 
 Irish citizens do not require a visa to visit Colombia for periods of up to 90 days. When entering the country, they may need to provide evidence of return or onward travel.
