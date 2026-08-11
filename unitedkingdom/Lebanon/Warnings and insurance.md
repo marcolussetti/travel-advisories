@@ -1,18 +1,18 @@
 # Warnings and insurance
 
 Still current at:
-:   22 May 2026
+:   11 August 2026
 
 Updated:
-:   21 May 2026
+:   10 August 2026
 
 Latest update:
-:   Updated information about regional tensions and conflict affecting Lebanon (‘Warnings and insurance’ page).
+:   FCDO has changed the areas of Lebanon where it advises against all travel or all but essential travel. FCDO no longer advises against all travel or all but essential travel to some parts of Lebanon. FCDO continues to advise against all travel and all but essential travel to other areas of Lebanon.
 
-![](https://assets.publishing.service.gov.uk/media/69d8ca53eb7e7bc565170210/FCDO__TA__023_-_Lebanon_Travel_Advice_Ed22__WEB___1_.jpg)
+![](https://assets.publishing.service.gov.uk/media/6a79c81529aec7cd59ccc097/FCDO_TA_023_-_Lebanon_Travel_Advice_Ed25_WEB.jpg)
 
 
-[Download a more detailed map (PDF, 617 KB)](https://assets.publishing.service.gov.uk/media/69d8ca53d3e08b8871b6658c/FCDO__TA__023_-_Lebanon_Travel_Advice_Ed22__1_.pdf)
+[Download a more detailed map (PDF, 637 KB)](https://assets.publishing.service.gov.uk/media/6a79c815c5cca217fbd7a02a/FCDO_TA_023_-_Lebanon_Travel_Advice_Ed25.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO). Consular support is also severely limited where FCDO advises against travel.
 
@@ -22,28 +22,20 @@ Your travel insurance could be invalidated if you travel against advice from the
 
 FCDO advises against all travel to the following areas of Beirut and its southern suburbs, excluding Route 51 from central Beirut to Rafic Hariri International Airport:
 
-* Tariq el Jdideh and the area south of (but not including) Saeb Salam street between Ramleh al Bayda and Omar Beyhum street on the northern side of Horsh park to Tayouneh roundabout
+* Tariq el Jdideh and the area east of Tariq el Jdideh, south of Jalloul Street, west of Hourch and the war cemetery (not including the war cemetery), and south of the Soulieman Bastani
 * Ghobeiry and the area north of Ghobeiry but south of Yarmouk street, the war cemetery and Horsh park (not including Horsh park and the cemetery and Yarmouk street)
 * Chiyah (south and west of the Rizkallah Semaan road)
 * Haret Hraik
 * Burj Al Barajneh
 * Mraije
 * Laylaki
-* Basta
-* Bachoura
-* Zekak Al Blat
-* Barbour
-* Khandak El Ghamik
-* Jnah
+* Jnah, south of El Imam Mousa El Sader street
 * The Golf Club of Lebanon
 * all other areas west of the Camil Chamoun Boulevard (south of Forn el Chebbak) that becomes the Old Saida Road through Hadath to Beirut airport
-* the Area of Bir Hassan bordered by the following roads: West of Highway 51; East of Beirut Saida Highway; South of Ghobeiry Road; North of Abbas El Mousawi
 
-FCDO advises against all travel to:
+FCDO advises against all but essential travel to:
 
-The area of Mount Lebanon Governorate south of (including) the road from Quobbeh in the west (and extending to the Mediterranean Sea), which travels through the villages of Yanar, Bechamoun, Ain El Remmah and Aley and south of (excluding) Highway 30 to Dahr El Baydar, at the Mount Lebanon-Beqaa Governorate boundary in the east.
-
-FCDO advises against all but essential travel to the rest of Beirut and Mount Lebanon Governorate.
+The area of Mount Lebanon Governorate south of (but excluding) the road from Wadi El Zayni in the west (and extending to the Mediterranean Sea), which travels through the villages of Aanout, Gharifeh, Ainbal, Boqaata, Moukhtara, Maaser El Chouf to the Mount Lebanon-Beqaa Governorate boundary in the east
 
 ### Areas in the South and Nabatiyeh Governorates
 
@@ -51,29 +43,37 @@ FCDO advises against all travel to South and Nabatiyeh Governorates.
 
 ### Areas in the Beqaa Governorate
 
-FCDO advises against all travel to the Beqaa Governorate.
+FCDO advises against all travel to:
+
+The area of Beqaa Governorate to the east of (but not including) the Masnaa-Rachaiya Road from Masnaa, Dahr El Ahmar to the Beqaa-Nabatiyeh boundary in the south.
+
+FCDO advises against all but essential travel to:
+
+The area of Beqaa Governorate to the south of (but not including) the road from Kafraiya to Joub Jannine, east of (but not including) the road from Joub Jannine to Bar Elias and south of the road from Bar Elias to Deir Zenoun.
 
 ### Areas in the Baalbek-Hermel Governorate
 
-FCDO advises against all travel to Baalbek-Hermel Governorate
+FCDO advises against all travel to:
+
+The area of Baalbek-Hermel Governorate north of (but not including) the Danniyeh-Hermel Road from the Baalbek-Hermel Governate boundary in the west to Hermel in the east.
+
+The area north of (but not including) the Hermel-Ras Baalbek Road from Hermel to the Baalbek-Qaa Highway, and the entire area east of the Baalbek–Qaa Highway (excluding the highway itself), extending south to the Beqaa Governorate boundary.
+
+FCDO advises against all but essential travel to the rest of the Baalbek-Hermel Governate:
 
 ### Areas in the North Governorate
 
-FCDO advises against all travel to the city of Tripoli and to the rest of Northern governorate north of the road running from Chekka to Ariz via Kousba, Ehden and Bsharri (but not including the road itself).
-
-FCDO advises against all but essential travel to the rest of the Northern Governorate.
+FCDO advises against all but essential travel to the area of Tripoli to the east of the Bechara El Khoury road from Bohssas in the south to Beddaoui in the north – including the neighbourhoods of Abou Samra, Tabbaneh, Jessrin, Qoubbeh and Zaytoun.
 
 ### Areas in the Akkar Governorate
 
-FCDO advises against all travel to Akkar Governorate.
+FCDO advises against all travel to:
+
+The area of Akkar Governorate north of (but excluding) the road from Qlayaat in the west (and extending to the Mediterranean Sea) to Tal Keri, Kouaikhat, Aamriyeh, and Qoubaiyat. And east of the same road and from Qoubaiyat to Qatlabah to the boundary of Akkar and Baalbek-Hermel Governorates in the south.
 
 ### Palestinian refugee camps
 
 FCDO advises against all travel to the 12 Palestinian refugee camps. See [Palestinian refugee camp locations](https://www.unrwa.org/where-we-work/lebanon) on the UN Relief and Works Agency website.
-
-## Register your presence
-
-Let the UK government know you’re in Lebanon, [register your presence](https://www.register.service.csd.fcdo.gov.uk/lebanon-20260305) if you’re in Lebanon for further updates.
 
 ## Regional tensions
 
@@ -91,17 +91,16 @@ British nationals should:
 
 ## Leaving Lebanon
 
-Conflict in Lebanon has escalated in response to regional events and the situation is fast-moving. There are a limited number of commercial flight options available, from Beirut Airport. If your presence in Lebanon is not essential, you should consider departing now - if you judge you can access these options safely. Check for the latest updates from your airline or tour operator, as well as the instructions from local authorities. If you are travelling by air do not travel to the airport unless your airline has confirmed your reservation.
-
-If you decide to stay, we cannot guarantee we will be able to help you. You should have a personal emergency plan that does not rely on the UK government. This may include the ability to leave quickly or to shelter in place if you judge it necessary and safe to do so.
-
 Keep your departure plans under review and ensure your travel documents are up to date, including any visas required for onward travel. Make sure you have access to emergency supplies and essential medication. Travel to or within Lebanon is at your own risk.
+and you should have a personal emergency plan which does not rely on the UK government.
 
 ## Conflict affecting Lebanon
 
-Since 2 March, conflict in Lebanon has escalated in response to regional events. Airstrikes and rocket attacks between Israel and Lebanese Hizballah have increased. Widespread evacuation warnings have led to mass movement of people from conflict-affected areas.
+Since 2 March, conflict in Lebanon escalated in response to regional events. Airstrikes and rocket attacks between Israel and Lebanese Hizballah increased. Widespread evacuation warnings led to a mass movement of people from conflict-affected areas.
 
-Israeli airstrikes have occurred primarily in the South, Nabatieh and Beqaa Governates and Beirut’s southern suburbs, but have also occurred outside these areas. The IDF regularly releases evacuation warnings before airstrikes, but many have taken place with no advance notice. A cessation of hostilities was announced on 16 April 2026 but fighting and airstrikes have continued particularly in southern Lebanon, where an Israeli military presence remains. The dynamic nature of the conflict means the situation may change quickly. British nationals should follow local, international and social media to keep up to date with official alerts.
+Israeli airstrikes have occurred primarily in the South, Nabatieh and Beqaa Governates and Beirut’s southern suburbs, but have also occurred outside these areas. The Israeli military often releases evacuation warnings before airstrikes, but many have also taken place with no advance notice.
+
+A cessation of hostilities was announced in June 2026 but fighting and airstrikes have continued particularly in southern Lebanon, where an Israeli military presence remains. The dynamic nature of the conflict means the situation may change quickly. British nationals should follow local, international and social media to keep up to date with official alerts.
 
 We advise you to keep up to date with the latest situation, including using multiple media sources to understand frequency and location of strikes, as these may change rapidly. There are various mapping sources available online.
 

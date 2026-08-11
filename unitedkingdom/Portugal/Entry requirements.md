@@ -69,26 +69,29 @@ Prior to travelling to Portugal, you can use the EU’s [Travel to Europe mobile
 
 ### Non-resident children travelling to Portugal
 
-Children aged 17 and under travelling to Portugal alone, or with a person who is not their parent or legal guardian, must:
+Children aged 17 and under travelling to Portugal alone, or with a person who is not their parent or legal guardian, must carry a letter of authorisation to travel.
 
-* carry a letter of authorisation to travel from their parent or guardian, together with a copy of their parent or guardian’s passport.
+The Portuguese authorities have advised that the letter must:
+
+* be signed and dated by the child’s parent or legal guardian
+* have the parent or guardian’s signature certified by a notary or solicitor
+* have the notary or solicitor’s signature legalised by the [Legalisation Office](https://www.gov.uk/get-document-legalised)
+* be accompanied by a copy of the child’s parent’s or guardian’s passport
 
 Make sure the letter includes:
 
 * the child’s full name, date of birth and passport number
 * the child’s dates of arrival and departure
-* the name of the adult in Portugal who will be responsible for them during their stay
-* the full names, dates of birth, passport numbers and contact details of the parent or guardian
-* the parent or guardian’s signature and date of issue
-* a copy of the parent or guardian’s passport
+* the purpose of the visit
+* the address where the child will be staying
+* the name and passport number of the adult in Portugal who will be responsible for them during their stay
+* the full name, date of birth, passport number and contact details of the parent or guardian
+
+Be prepared to show the letter of authorisation to border officials on arrival and departure from Portugal.
 
 If you bring a child to Portugal without a letter of authorisation, your entry will be delayed and may be refused.
 
 Teenagers aged 17 and under who travel alone, or with friends of the same age, and who are not being met on arrival by a parent or guardian, may be refused entry if they do not have a letter of authorisation.
-
-### Non-resident children leaving Portugal
-
-Non-resident children aged 17 and under who leave Portugal alone, or with a person who is not their parent or guardian, must have a letter of authorisation unless they are returning to their country of origin.
 
 ### Resident children leaving Portugal
 

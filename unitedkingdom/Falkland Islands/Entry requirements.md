@@ -18,9 +18,9 @@ You will be denied entry if you do not have a valid travel document or try to us
 
 ## Visa requirements
 
-You can visit the Falkland Islands without a visa. Visitors are granted permission to stay for one month upon arrival. Those wishing to stay longer are advised to apply in advance. See [Falkland Islands visitor permit](https://customs.fig.gov.fk/permits/visitor).
+You can visit the Falkland Islands without a visa. Visitors are granted permission to stay for one month upon arrival. Those wishing to stay longer are advised to apply in advance. See [Falkland Islands visitor permit](https://www.gov.fk/customs/visitor-permit/).
 
-To work you must have a [Falkland Islands work permit](https://customs.fig.gov.fk/permits/work).
+To work you must have a [Falkland Islands work permit](https://www.gov.fk/customs/work-permit/).
 
 ## Vaccine requirements
 

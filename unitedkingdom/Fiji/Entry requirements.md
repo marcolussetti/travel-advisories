@@ -47,7 +47,7 @@ Fiji customs has strict quarantine regulations and customs officers X-ray all lu
 
 Declare cash in any currency worth 10,000 Fijian dollars or more. If you are found with undeclared cash, you could be prosecuted and get a fine or a prison sentence.
 
-Most tourist hotels and many restaurants accept credit cards. Not all ATMs accept the full range of credit cards. The Australian and New Zealand Bank (ANZ) and Westpac ATMs accept cards with the Visa, Mastercard, Maestro and Cirrus symbols.
+Most tourist hotels and many restaurants accept credit cards. Not all ATMs accept the full range of bank or credit cards. The Australian and New Zealand Bank (ANZ) and Westpac ATMs accept cards with the Visa, Mastercard, Maestro and Cirrus symbols.
 
 [Previous:Warnings and insurance](/foreign-travel-advice/fiji)
 

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   30 May 2026
+:   11 August 2026
 
 Updated:
-:   29 May 2026
+:   10 August 2026
 
 Latest update:
-:   Updated information about interruptions to the supply of water and electricity (‘Warnings and insurance’ page).
+:   New information about interruptions to the supply of water and electricity (‘Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/68b1908211b4ded2da19fc61/FCDO__TA__063_-_Papua_New_Guinea_Ed2__WEB_.jpg)
 
@@ -27,7 +27,7 @@ Find out more about [why FCDO advises against travel](/foreign-travel-advice/pap
 
 ## Interruptions to water and electricity supply
 
-Papua New Guinea can experience interruptions in the supply of water and electricity to urban centres. The water supplier to Port Moresby, Water PNG, recently issued a notice outlining the need for a pipeline repair and the importance of being prepared. Check with the local authorities and [Water PNG](https://www.facebook.com/p/Water-PNG-100069303425822/) for the latest updates.
+Papua New Guinea can experience interruptions in the supply of water and electricity to urban centres. The water supplier to Port Moresby, Water PNG, issued a notice on 7 August advising that a major pipeline repair will be undertaken from 14 August and lasting for 2-3 days, during which time a water rationing schedule will be implemented across the city. Consider personal preparedness and regularly check media updates from [Water PNG](https://www.facebook.com/p/Water-PNG-100069303425822/) for the latest information.
 
 ## Global travel impacts due to escalation in the Middle East
 

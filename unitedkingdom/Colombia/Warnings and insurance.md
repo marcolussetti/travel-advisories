@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   5 August 2026
+:   11 August 2026
 
 Updated:
-:   4 August 2026
+:   10 August 2026
 
 Latest update:
-:   New information about the Colombian presidential inauguration taking place on Friday 7 August ('Warnings and insurance' page).
+:   New information about an earthquake which took place on Monday 10 August (‘Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/6a1022481eb143220d8d27b8/FCDO__TA__054_-_Colombia_Travel_Advice_Ed5__WEB___3_.jpg)
 
@@ -63,39 +63,27 @@ FCDO advises against all but essential travel to Orito, San Miguel, Valle del Gu
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/colombia/regional-risks).
 
-## Colombian Presidential Inauguration
+## Earthquake in Chocó
 
-Colombia’s presidential inauguration will take place on Friday 7 August in the city of Cali. Expect increased security presence in Cali and other major cities. Planned demonstrations are expected in Bogotá, Barranquilla, and Cali. Plan ahead and expect potential travel disruptions. Stay away from large gatherings and follow local guidance of authorities.
+On the morning of Monday 10 August, Colombia suffered an earthquake affecting large parts of the country. Initial reports indicate a magnitude of 7.4 with its epicentre near San José del Palmar in the department of Chocó in the West of Colombia (approximately 90km from Bogotá). Expect potential disruption to travel and airport closures. Wider infrastructure and roads may be affected.
 
-See more information on the [Safety and security page](https://www.gov.uk/foreign-travel-advice/colombia/safety-and-security#political-situation).
+If you’re in Colombia, follow the advice of local authorities, stay away from damaged buildings and plan ahead.
 
-## Before you travel
+The following airports are currently closed:
 
-No travel can be guaranteed safe. Read all the advice in this guide. If you have onward travel plans within the region, check travel advice for all destinations you plan to travel through. You may also find it helpful to:
+* La Nubia Airport (Manizales)
+* Matecaña International Airport (Pereira)
+* El Edén International Airport (Armenia)
+* El Caraño Airport (Quibdó)
+* Santa Ana Airport (Cartago)
+* Gerardo Tobar López Airport (Buenaventura)
 
-* see [general advice for women travellers](https://www.gov.uk/guidance/advice-for-women-travelling-abroad)
-* read our [guide on disability and travel abroad](https://www.gov.uk/government/publications/disabled-travellers)
-* see [general advice for LGBT+ travellers](https://www.gov.uk/guidance/lesbian-gay-bisexual-and-transgender-foreign-travel-advice)
-* read about [safety for solo and independent travel](https://www.gov.uk/guidance/solo-and-independent-travel)
-* see [advice on volunteering and adventure travel abroad](https://www.gov.uk/guidance/safer-adventure-travel-and-volunteering-overseas)
+Get real-time information (in Spanish) following an earthquake from:
 
-### Travel insurance
+* [National Unit for Disaster Risk Management (UNGRD)](https://portal.gestiondelriesgo.gov.co/)
+* [Colombia’s Geological Services](https://www.sgc.gov.co/)
 
-If you choose to travel, research your destinations and [get appropriate travel insurance](https://www.gov.uk/guidance/foreign-travel-insurance). Insurance should cover your itinerary, planned activities and expenses in an emergency.
-
-## About FCDO travel advice
-
-FCDO provides advice about risks of travel to help you make informed decisions. Find out [more about FCDO travel advice](https://www.gov.uk/guidance/about-foreign-commonwealth-development-office-travel-advice).
-
-### Get travel advice updates
-
-Sign up to [get email notifications](https://www.gov.uk/foreign-travel-advice/colombia/email-signup) when this travel advice is updated.
-
-Follow FCDO:
-
-* [travel advice on X](https://x.com/fcdotravelgovuk)
-* [travel advice on Facebook](https://www.facebook.com/FCDOTravel/)
-* [Travel Aware on Instagram](https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Ftravelaware%2F&is_from_rle)
+Be aware of the possibility of earthquake aftershocks. See further guidance about [earthquakes](https://www.gov.uk/foreign-travel-advice/colombia/safety-and-security#earthquakes).
 
 [Next:Entry requirements](/foreign-travel-advice/colombia/entry-requirements)
 

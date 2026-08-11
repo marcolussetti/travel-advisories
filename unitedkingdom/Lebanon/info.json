@@ -1,11 +1,11 @@
 {
     "name": "Lebanon",
-    "update_reason": "Updated information about regional tensions and conflict affecting Lebanon (\u2018Warnings and insurance\u2019 page).",
+    "update_reason": "FCDO has changed the areas of Lebanon where it advises against all travel or all but essential travel. FCDO no longer advises against all travel or all but essential travel to some parts of Lebanon. FCDO continues to advise against all travel and all but essential travel to other areas of Lebanon.",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Lebanon/Warnings and insurance.md",
-            "update_date": "2026-05-21T10:11:01+01:00"
+            "update_date": "2026-08-10T14:51:12+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Lebanon/Getting help.md"
         }
     ],
-    "update_date": "2026-05-21T10:11:01+01:00"
+    "update_date": "2026-08-10T14:51:12+01:00"
 }

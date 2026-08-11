@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   8 August 2026
+:   11 August 2026
 
 Updated:
-:   7 August 2026
+:   10 August 2026
 
 Latest update:
-:   Updated information on flight disruption due to the eruption of Mount Etna ('Warnings and insurance' page).
+:   Addition of information about pedestrian safety ('Safety and security' page).
 
 This travel advice also covers Vatican City.
 

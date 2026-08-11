@@ -10,7 +10,7 @@ UK Counter Terrorism Policing has information and advice on [staying safe abroad
 
 Terrorists are likely to try to carry out attacks in Lebanon.
 
-Islamist terrorist groups seek to target the Lebanese state, security services, and civilians, and intend to target foreigners in Lebanon. Groups within Lebanon, including Hizballah, are proscribed under the Terrorism Act 2000 and the Counter Terrorism (Sanctions) (EU Exit) Regulations 2019. Offences committed under the act – including funding and supporting proscribed organisations – may be liable to prosecution in the UK.
+Islamist terrorist groups seek to target the Lebanese state, security services, and civilians, and intend to target foreigners in Lebanon. Groups within Lebanon, including Lebanese Hizballah, are proscribed under the Terrorism Act 2000 and the Counter Terrorism (Sanctions) (EU Exit) Regulations 2019. Offences committed under the act – including funding and supporting proscribed organisations – may be liable to prosecution in the UK.
 
 Terrorist groups have particularly operated in:
 
@@ -19,17 +19,11 @@ Terrorist groups have particularly operated in:
 * areas close to the Syrian border, including around Hermel and Aarsal
 * Southern suburbs of Beirut
 
-Recent terrorist-related incidents include:
-
-* In 2023, the Lebanese Armed Forces uncovered a cell planning attacks on military sites and prisons
-* in 2022, the police uncovered a terrorist network who were planning 3 simultaneous attacks in the southern suburbs of Beirut
-* in 2021, the Lebanese Armed Forces dismantled a suspected ISIS cell accused of killing of a retired intelligence officer planning further attacks
-* in 2020, following the arrest of an individual suspected of preparing to conduct terrorist attacks in Beirut, there were police and military casualties in 2 security incidents linked to the disruption of further terrorist cells
-* in 2020, 3 municipal police officers were shot and killed in Kaftoun, Koura in North Lebanon
+Recent terrorist-related incidents include a firearm attack which targeted the US embassy in 2024:
 
 There is a heightened risk of terrorism against aviation. Additional security measures have been in place on flights departing from Lebanon to the UK since March 2017. You should co-operate fully with security officials.
 
-If you notice or suspect a security incident is underway, leave the area immediately. Suspects have detonated explosives to avoid arrest. Keep clear of affected areas immediately after any attacks. Bystanders have been killed in a number of terrorist attacks in recent years.
+If you notice or suspect a security incident is underway, leave the area immediately. Suspects have detonated explosives to avoid arrest. Keep clear of affected areas immediately after any attacks.
 
 ### Terrorist kidnap
 
@@ -50,13 +44,13 @@ Violence may occur:
 * between supporters of political groups
 * over scarce or subsidised resources
 
-Confrontations often happen without warning, and can result in large numbers of casualties. Security forces may use tear gas and rubber bullets during clashes.
+Confrontations often happen without warning and can result in large numbers of casualties. Security forces may use tear gas and rubber bullets during clashes.
 
 Weapons are common in Lebanon and groups such as Lebanese Hizballah have arms that are beyond state control. Arguments can quickly escalate into violence, including the use of weapons, typically firearms and bladed weapons.
 
 Celebratory gunfire is illegal in Lebanon but remains widespread. Every year there are reported casualties.
 
-Regional and international developments such as in Syria, Iraq and Israel, can have an impact on the local security situation. Monitor the regional situation whilst in Lebanon.
+Regional and international developments such as in Iran, Israel, Syria and Iraq can have an impact on the local security situation. Monitor the regional situation whilst in Lebanon.
 
 ### Security advice for British nationals
 
@@ -171,7 +165,7 @@ You need either a 1968 [international driving permit (IDP)](https://www.gov.uk
 
 If you are planning to drive in Lebanon, see information on [driving abroad](https://www.gov.uk/driving-abroad).
 
-Driving standards are poor and the accident rate is high. Traffic lights are often switched off and not always observed. It may be better to hire a car with a driver if you’re inexperienced. You must wear a seat belt (if fitted). Avoid travelling at night outside towns if possible. Vehicles with diesel engines are banned.
+Driving standards are poor and the accident rate is high. Traffic lights are often switched off and not always observed. It may be better to hire a car with a driver if you’re inexperienced. You must wear a seat belt (if fitted). Avoid travelling at night outside towns if possible. Cars with diesel engines are banned.
 
 ### Licences and permits
 

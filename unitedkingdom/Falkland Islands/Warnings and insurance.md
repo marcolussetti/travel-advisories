@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   14 January 2026
+:   11 August 2026
 
 Updated:
-:   13 January 2026
+:   10 August 2026
 
 Latest update:
-:   This travel advice has been reviewed for accuracy with minor edits made throughout.
+:   Addition of information about unauthorised photography at Mount Pleasant and updated information about money, air travel and healthcare in the Falkland Islands ('Safety and security' and 'Health' pages).
 
 The Falkland Islands are a British Overseas Territory, so there is no British Embassy, and the [Falkland Islands Government](https://falklands.gov.fk/government-services) will support you if you need help.
 

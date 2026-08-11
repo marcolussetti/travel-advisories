@@ -188,6 +188,10 @@ Transport strikes are often called at short notice. You can find information on 
 
 Traffic can be busy, fast and chaotic, especially in the larger cities. Take care when crossing roads. Pedestrians should cross roads at a crossing. You can be fined for crossing the road if you are within 100 metres of a pedestrian crossing but do not use it. Drivers do not always stop, even though they are required to. The green pedestrian crossing signal also allows cars to turn right on to the crossing, so cross with caution.
 
+Exercise caution in poorly lit or unfamiliar areas, including in road underpasses.
+
+Emergency exits in vehicle tunnels are for emergency use only if you need to leave your vehicle and should not be used as pedestrian routes.
+
 ### Traffic restrictions
 
 You need a pass to drive into the historic centre of many Italian cities in a private or hire car. You can buy a pass from most car hire companies. The boundaries are usually marked with the letters ZTL in black on a yellow background. If you pass this sign, your registration number is likely to be caught on camera and you will be fined if you do not have a pass.

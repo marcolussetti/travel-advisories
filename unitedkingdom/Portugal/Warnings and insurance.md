@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   18 July 2026
+:   11 August 2026
 
 Updated:
-:   17 July 2026
+:   10 August 2026
 
 Latest update:
-:   Updated information about travelling with medication (‘Health’ page).
+:   Updated information about travelling with children and updated information about carrying medication ('Entry requirements' and ‘Health’ pages).
 
 This travel advice also covers Madeira, Porto Santo and the Azores.
 

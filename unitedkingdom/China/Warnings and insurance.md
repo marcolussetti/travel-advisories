@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   16 May 2026
+:   11 August 2026
 
 Updated:
-:   15 May 2026
+:   10 August 2026
 
 Latest update:
-:   New information on drone regulations in China ('Safety and security' page).
+:   Updated information about visa requirements ('Entry requirements' page).
 
 This travel advice covers mainland China. See travel advice for the Special Administrative Regions, [Hong Kong](https://www.gov.uk/foreign-travel-advice/hong-kong) and [Macao](https://www.gov.uk/foreign-travel-advice/macao).
 

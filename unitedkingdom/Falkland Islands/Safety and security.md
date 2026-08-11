@@ -24,7 +24,7 @@ Drug trafficking and possession are illegal in the Falkland Islands and can lead
 
 ### Using cameras at Mount Pleasant Airport
 
-You must have a permit to take photos at Mount Pleasant Airport as it is a military site. The UK Ministry of Defence only issues permits for work purposes or in exceptional circumstances.
+You must have a permit to take photos at Mount Pleasant Airport as it is a military site. The UK Ministry of Defence only issues permits for work purposes or in exceptional circumstances. Taking unauthorised photography at the Mount Pleasant military site might be a prosecutable offence under the Official Secrets Acts of 1911 and 1920 as extended to the Falkland Islands and could result in a lengthy prison sentence.
 
 ### LGBT+ travellers
 
@@ -39,9 +39,11 @@ Although the UK completed its Falkland Islands Demining Programme in 2020, landm
 * take a picture if it is safe to do so
 * call 999 from a safe distance and wait for the police to arrive
 
+Further advice on what to do if you find a suspicious object is on the [Falkland Islands Government website](https://www.gov.fk/visiting-the-falkland-islands/).
+
 ### Money
 
-Credit and debit cards are not widely accepted outside Stanley. Check when making bookings and carry cash in British pounds or US dollars.
+Credit and debit cards are becoming increasingly accepted across the Falkland Islands. However, visitors are still advised to carry some cash as a precaution, in British pounds or US dollars.
 
 There is only one ATM on the Islands, at the petrol station. If it’s not working, you can get a cash advance from the bank in Stanley, using a Visa or Mastercard or by using the cashback facility at a grocery shop.
 
@@ -63,7 +65,7 @@ The speed limit is 25mph in Stanley and 40mph in other areas.
 
 ### Air travel
 
-The Ministry of Defence operates a fare-paying service from RAF Brize Norton to Mount Pleasant Airport twice a week. This flight also stops in Ascension Island. It can be delayed because of poor weather, especially during the southern hemisphere winter, or technical issues with the aircraft. Be prepared for unscheduled diversions to South America by carrying anything you may need in case of any overnight stay.
+The Ministry of Defence operates a fare-paying service from RAF Brize Norton to Mount Pleasant Airport twice a week. This flight also stops in Ascension Island. It can be delayed because of poor weather, especially during the southern hemisphere winter, or technical issues with the aircraft. Be prepared for unscheduled diversions to South America by carrying anything you may need in case of any overnight stay. From 25 July to 15 November (dates subject to amendment), this service will use East Midlands Airport whilst the runway at Brize Norton is being resurfaced.
 
 The Falkland Islands Tourist Board has [information on travelling to the islands](https://www.falklandislands.com/plan-your-trip).
 

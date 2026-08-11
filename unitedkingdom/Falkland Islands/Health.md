@@ -38,10 +38,11 @@ You can access free medical care in the Falkland Islands through the UK-Falkland
 * other medical treatment
 * prescribed medicines
 * ambulance travel
+* emergency dental care
 
 You will need proof of UK residency, such as a passport or NHS medical card.
 
-Medical evacuation is not covered under the UK-Falklands reciprocal healthcare agreement. Therefore you must take out comprehensive travel and medical insurance which includes at least 2 million US dollars. Other medical costs are also not covered. Find out more about [healthcare for UK citizens in the Falkland Islands](https://www.gov.uk/guidance/uk-reciprocal-healthcare-agreements-with-non-eu-countries#falkland-islands).
+Treatment under the UK-Falkland Islands reciprocal healthcare agreement does not extend beyond services provided in the Falkland Islands. Medical evacuation and treatment overseas are not covered under the UK-Falklands reciprocal healthcare agreement. Therefore you must take out comprehensive travel and medical insurance which includes at least 2 million US dollars. Find out more about [healthcare for UK citizens in the Falkland Islands](https://www.gov.uk/guidance/uk-reciprocal-healthcare-agreements-with-non-eu-countries#falkland-islands).
 
 There is also guidance on [healthcare if you’re living in the Falkland Islands](https://www.falklands.gov.fk/health/).
 

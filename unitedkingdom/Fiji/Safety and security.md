@@ -10,9 +10,9 @@ UK Counter Terrorism Policing has information and advice on [staying safe abroad
 
 Although there’s no recent history of terrorism in Fiji, attacks cannot be ruled out.
 
-## Political situation
+## Protests and demonstrations
 
-There can be political instability and there is the potential for civil unrest. Avoid demonstrations, rallies or street gatherings. Avoid any areas of obvious military or police activity.
+Protests can occur with little warning. Avoid demonstrations, rallies or street gatherings. Avoid any areas of obvious military or police activity.
 
 ## Crime
 
@@ -20,18 +20,17 @@ The risk of serious crime is generally low, but there are occasional incidents i
 
 ### Protecting your belongings
 
-Petty theft is quite common. Be careful of your belongings in cities and other popular tourist destinations. To reduce the risk:
+Be careful of your belongings in cities and other popular tourist destinations. To reduce the risk:
 
 * avoid carrying everything in one bag
 * carry a copy of the photo page of your passport and leave the original in a secure place
 * avoid leaving your belongings unattended
 * be alert when withdrawing money from cash machines
-
-There have been thefts from motor vehicles in Suva. Keep windows and doors locked when driving.
+* keep windows and doors locked when driving and belongings out of sight when parked
 
 ### Sexual assault
 
-Take care when walking at night in cities, towns and isolated areas, particularly if you are a woman travelling alone. There have been serious sexual assaults against foreign nationals in Fiji, including British women.
+Take additional care when walking at night in cities, towns and isolated areas, particularly if you are a woman travelling alone. There have been serious sexual assaults against foreign nationals in Fiji, including British women.
 
 See [advice for women travelling abroad](https://www.gov.uk/guidance/advice-for-women-travelling-abroad).
 
@@ -45,7 +44,7 @@ Seek urgent medical attention if you or someone you are travelling with show the
 
 ### Scams
 
-There has been an increase in credit card fraud. This may include credit card skimming devices or other types of data theft. Take care when paying with credit cards or withdrawing money from ATMs.
+Be alert to the risk of credit card fraud. This may include credit card skimming devices or other types of data theft. Take care when paying with credit cards or withdrawing money from ATMs.
 
 ## Mobile phone coverage
 
@@ -89,12 +88,12 @@ See ⁠[watersports safety advice](https://www.rospa.com/leisure-water-safety/wa
 
 Diving schools may have limited resources and do not always observe safety and maintenance standards. Always:
 
-* ask to see a dive operator’s credentials
+* ask to see a dive operator’s credentials  and use schools with appropriate qualifications and credentials
 * check the conditions on your insurance policy – some policies require dive instructors to have certain qualifications
-* make sure safety equipment looks to be in good condition
+* make sure safety equipment is in good condition
 * make sure oxygen is available on the boat
 
-If you have not had any previous diving experience, check what to do if something goes wrong, including how to call for help while at sea.
+Make sure you know what to do if something goes wrong, including how to call for help while at sea.
 
 There’s only one hyperbaric (recompression) chamber in Fiji, at the Colonial War Memorial Hospital in Suva. It is not always working. Check its status before scuba diving and get advice from your dive instructor or dive team. Make sure your insurance covers diving and medical evacuation costs.
 
@@ -116,11 +115,11 @@ Severe weather can lead to roads becoming damaged, blocked or washed away. Seek 
 
 Only use licensed taxis that have a yellow registration plate.
 
-Not all minibuses are licensed. Only use those with yellow number plates. Unlicensed minibuses are probably not insured.
+Not all minibuses are licensed. Only use those with yellow number plates. Unlicensed minibuses are frequently not insured.
 
 ### Sea travel
 
-Check the boat operator’s credentials and safety equipment before boarding boats or vessels travelling between islands. Overloaded vessels are in danger of capsizing or sinking, particularly in poor weather conditions. They may not have enough life-saving equipment for everyone on board.
+Check the boat operator’s credentials and safety equipment before boarding boats or vessels travelling between islands.  Avoid any vessels that are overloaded as they are in danger of capsizing or sinking, particularly in poor weather conditions. Check to make sure there is adequate life-saving equipment for everyone on board in case of emergencies.
 
 ## Extreme weather and natural disasters
 

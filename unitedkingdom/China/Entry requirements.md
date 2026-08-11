@@ -52,6 +52,8 @@ You should get professional legal advice if you’re unsure of your citizenship 
 
 Until 31 December 2026, you can enter China visa free for stays of up to 30 days for business, tourism, family or friend visits or transit.
 
+This policy applies to all holders of standard British passports whose nationality is listed as ‘British citizen.’ Holders of British Crown Dependency passports whose nationality is listed as ‘British citizen’ are eligible for this policy.
+
 If you travel to China for any other reason (this includes paid work, long-term assignments, journalism, or study) or for a stay exceeding 30 days, you must apply for a visa before your trip to China.
 
 If you have any doubt about your eligibility, verify the conditions for visa free entry with the Chinese Embassy in London.

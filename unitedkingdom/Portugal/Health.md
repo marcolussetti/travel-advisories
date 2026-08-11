@@ -36,9 +36,9 @@ Read [best practice when travelling with medicines on TravelHealthPro](https://t
 
 Changes to your routine when travelling, such as later nights, coping with heat and changes to your diet can have an impact on your medication. See the [Summer Proof Your Health](https://www.gov.uk/government/news/heat-travel-and-late-nights-how-summer-can-affect-your-medicines-and-how-to-stay-safe) campaign for more information.
 
-There are strict rules around dispensing certain medicines in Portugal, including antibiotics. Keep the medication in the original container with the prescription label.
+There are strict rules around dispensing certain medicines in Portugal, including antibiotics. Keep any medication you bring or are prescribed in the original container with the prescription label.
 
-UK prescriptions are not recognised in Portugal. Carry enough medication for your visit.
+UK prescriptions are not recognised in Portugal. Carry enough medication for your visit and keep a few days’ supply in your hand luggage in case your checked-in baggage is delayed or lost.
 
 If you need a repeat prescription, go to the nearest health centre or hospital A&E. You may have to pay for your medication.
 
