@@ -6,7 +6,7 @@
 
 On June 24, 2026, two earthquakes of magnitudes 7.2 and 7.5 occurred near the Venezuelan coast, west of Caracas. They caused a large number of casualties and significant damage to infrastructure. A state of emergency has been declared.
 
-In Caracas, Simón Bolívar International Airport is closed until further notice and train service is suspended.
+In Caracas, Simón Bolívar International Airport is closed to passenger flights until further notice.
 
 International flights leaving Venezuela are available from airports in Barcelona, Barquisimeto, Maracaibo and Valencia.
 

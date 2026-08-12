@@ -34,6 +34,8 @@ Learn about [El Niño](https://www.canada.ca/en/environment-climate-change/serv
 
 An orange alert has been issued for the Puracé volcano near Popayán due to a recent increase in volcanic activity, including stronger seismic activity below the crater and higher gas and ash emissions.
 
+As a result, Guillermo León Valencia Airport is temporarily closed.
+
 * Avoid the area around the volcano
 * Monitor the situation through official bulletins
 * Follow the instructions of local authorities, including evacuation orders
@@ -46,11 +48,40 @@ Debris from erupting volcanoes may clog rivers and cause them to overflow, which
 
 #### Earthquakes
 
-Colombia is located in an active seismic area. Earthquakes occur frequently. Dangerous landslides can also occur, even after minor earthquakes.
+On August 10, 2026, a magnitude 7.4 earthquake struck near San José de Palmar in Chocó department, about 280 km west of Bogotá. Dozens of people have been killed and hundreds are missing. A state of national disaster has been declared.
+
+Damage has been reported in several cities, including Bogotá, Cali, Manizales and Pereira. Additional aftershocks could occur, causing further damage to infrastructure.
+
+The following essential services have been disrupted in some areas:
+
+* transportation, including operations at airports
+* power distribution
+* water and food supply
+* telecommunications networks
+* emergency services
+* medical care
+
+While El Dorado International Airport in Bogotá is open, the following airports are closed until further notice:
+
+* Alfonso Bonilla Aragón International Airport in Palmira (serves Cali)
+* El Caraño Airport in Quibdó
+* El Edén International Airport in Armenia
+* Gerardo Tobar López Airport in Buenaventura
+* La Nubia Airport in Manizales
+* Matecaña International Airport in Pereira
+* Santa Ana Airport in Cartago
+
+If you’re in an affected area:
+
+* monitor local media for the latest information
+* follow the instructions of local authorities, including evacuation orders
+* do not enter weakened or damaged structures until local authorities have deemed them safe
+
+Colombia is in an active seismic area. Earthquakes occur frequently. Dangerous landslides can also occur, even after minor earthquakes.
 
 #### Useful links
 
-* [Colombian Geological Service](http://www2.sgc.gov.co/ "Servicio GeolóGico Colombiano") – Colombia’s government (Spanish only)
+* [Colombian Geological Service](http://www2.sgc.gov.co/ "Servicio GeolóGico Colombiano") – Government of Colombia government (Spanish only)
 * [Latest earthquakes](https://earthquake.usgs.gov/earthquakes/map/) – U.S. Geological Survey
 
 ### Rainy seasons

@@ -2,25 +2,6 @@
 
 ## Natural disasters and climate
 
-### Typhoon Dolphin
-
-On August 7, 2026, Typhoon Dolphin passed through the Okinawa and Amami Islands. The storm brought heavy rainfall and violent winds. There is a continued risk of flooding and landslides. The storm has caused significant disruptions to the following essential services:
-
-* transportation
-* power distribution
-* water and food supply
-* telecommunications networks
-* emergency services
-* medical care
-
-If you are in the affected area:
-
-* exercise caution
-* monitor local news and weather reports
-* follow the instructions of local authorities, including evacuation orders
-
-[Japan Meteorological Agency](http://www.jma.go.jp/jma/indexe.html)
-
 ### Climate change
 
 Climate change is affecting Japan. Extreme and unusual weather events are becoming more frequent and may affect your travel plans. Monitor local news to stay informed on the current situation.

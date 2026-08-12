@@ -2,25 +2,6 @@
 
 ## Natural disasters and climate
 
-### Typhoon Noul
-
-On July 26, 2026, Typhoon Noul made landfall in Huidong County, Guangdong province. It caused significant damage and flooding.
-
-The following essential services are facing significant disruptions:
-
-* transportation
-* power distribution
-* water and food supply
-* telecommunications networks
-* emergency services
-* medical care
-
-If you are in the affected area:
-
-* exercise caution
-* monitor local news and weather reports
-* follow the instructions of local authorities
-
 ### Climate change
 
 Climate change is affecting China. Extreme and unusual weather events are becoming more frequent and may affect your travel plans. Monitor local news to stay informed on the current situation.

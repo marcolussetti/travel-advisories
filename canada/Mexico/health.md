@@ -177,6 +177,25 @@ Most people recover on their own without medical treatment and from proper rehyd
 
 Travellers with severe symptoms should consult a health care professional as soon as possible.
 
+Cyclosporiasis
+
+Cyclosporiasis is a common illness among travellers to this destination. It is caused by a parasite called *Cyclospora*. People can become infected by eating food or drinking water that contains the parasite. It’s unlikely to spread directly between people.
+
+The most common symptom of infection is watery diarrhea. If left untreated, you may have the symptoms for a few days up to a few months. Most people have symptoms for 6 to 7 weeks. Sometimes, symptoms may go away and then return.
+
+It can be hard to prevent cyclosporiasis. This is because washing produce does not always get rid of the *Cyclospora* parasite that causes the illness.
+
+You can reduce your risk of infection by:
+
+* avoiding food that has been washed in local drinking water
+* drinking water from a safe source
+* eating:
+  + cooked food
+  + fruit that you can peel yourself
+
+**Learn more:**  
+[Cyclosporiasis (Cyclospora)](https://www.canada.ca/en/public-health/services/diseases/cyclosporiasis-cyclospora.html)
+
 ### Tick and insect bite prevention
 
 Many diseases are spread by bites from infected ticks and insects like mosquitoes, fleas, or flies. Before you travel, find out what types of ticks or insects are in the area, when they’re most active, and what diseases they can spread.

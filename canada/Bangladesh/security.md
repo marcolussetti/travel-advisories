@@ -6,6 +6,8 @@
 
 Since July 2024, the security situation has been volatile in Bangladesh.
 
+Political tensions remain elevated. Additional demonstrations and civil unrest may occur with little warning in response to judicial proceedings and political rallies. Civil unrest could lead to transportation disruptions, business closures or violent confrontations.
+
 Local authorities have enhanced security measures in response to rising violence, including crude bomb detonations and arson attacks.
 
 If you are in Bangladesh:

@@ -2,12 +2,6 @@
 
 ## Natural disasters and climate
 
-### Forest fires in the south
-
-Forest fires are affecting parts of Gironde, Landes and Var in the south of the country.
-
-[More information on forest and maquis fires](france#fires)
-
 ### Climate change
 
 Climate change is affecting France. Extreme and unusual weather events are becoming more frequent and may affect your travel plans. Monitor local media for the latest information.

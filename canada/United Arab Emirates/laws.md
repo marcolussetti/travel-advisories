@@ -107,6 +107,14 @@ They should carefully consider the risks of travelling to the UAE.
 
 [Travel and your sexual orientation, gender identity, gender expression and sex characteristics](https://travel.gc.ca/travelling/health-safety/lgbt-travel)
 
+### Drones
+
+The importation, possession and use of drones, including aerial photography and videography, are strictly regulated in the UAE. You must obtain authorization before importing or operating a drone.
+
+Failure to comply with drone regulations may result in severe penalties, including imprisonment, fines, and confiscation of the equipment.
+
+[Drone regulations](https://www.gcaa.gov.ae/en/pages/UASRegistration.aspx/) – UAE Civil General Aviation Authority
+
 ### Dress and behaviour
 
 UAE customs, laws and regulations adhere closely to Islamic practices and beliefs. Public displays of affection, including holding hands and kissing, may attract the attention of local authorities. Verbal insults and obscene gestures may be considered criminal acts.
