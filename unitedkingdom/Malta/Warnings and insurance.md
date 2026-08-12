@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   7 July 2026
+:   12 August 2026
 
 Updated:
-:   6 July 2026
+:   11 August 2026
 
 Latest update:
-:   Updated information about swimming safety ('Safety and security' page).
+:   Updated information on European Entry-Exit System (EES) (‘Entry requirements’ page).
 
 ## Before you travel
 

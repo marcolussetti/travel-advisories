@@ -222,13 +222,11 @@ Many parts of Italy lie on a major seismic fault line, which means that minor tr
 
 ### Volcanoes
 
-Due to volcanic activity, local authorities have increased the alert levels for Stromboli in the south of Italy. In the event of a volcanic eruption, follow the advice of local authorities.
+There are [several active volcanoes in southern Italy](https://rischi.protezionecivile.gov.it/en/volcanic/volcanoes-italy/). National emergency planning is in place for  [the Phlegraean fields](https://rischi.protezionecivile.gov.it/en/volcanic/volcanoes-italy/phlegraen-fields/bradyseism-phlegraean-fields/), an area that remains active experiencing regular tremors.
 
 Airspace can be affected during eruptions. If you are travelling to or from Catania, during a period of heightened activity, check with your travel provider or with [Catania airport](https://www.aeroporto.catania.it/).
 
-There are [several active volcanoes in southern Italy](https://rischi.protezionecivile.gov.it/en/volcanic/volcanoes-italy/). National emergency planning has been updated for [Vesuvius](https://www.protezionecivile.gov.it/en/approfondimento/update-national-emergency-plan-vesuvius/) as well as [the Phlegraean fields](https://rischi.protezionecivile.gov.it/en/volcanic/volcanoes-italy/phlegraen-fields/bradyseism-phlegraean-fields/), an area that remains active experiencing regular tremors.
-
-Read [what to do in the event of a volcanic eruption](https://rischi.protezionecivile.gov.it/en/volcanic/are-you-prepared/) and follow the instructions of the local authorities.
+Read [what to do in the event of a volcanic eruption](https://rischi.protezionecivile.gov.it/en/volcanic/are-you-prepared/) and follow the instructions of the local authorities.
 
 [Previous:Entry requirements](/foreign-travel-advice/italy/entry-requirements)
 

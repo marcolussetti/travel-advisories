@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   11 August 2026
+:   12 August 2026
 
 Updated:
-:   10 August 2026
+:   11 August 2026
 
 Latest update:
-:   New information about an earthquake which took place on Monday 10 August (‘Warnings and insurance’ page).
+:   Updated information about the earthquake in Chocó (‘Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/6a1022481eb143220d8d27b8/FCDO__TA__054_-_Colombia_Travel_Advice_Ed5__WEB___3_.jpg)
 
@@ -65,18 +65,11 @@ Find out more about [why FCDO advises against travel](/foreign-travel-advice/col
 
 ## Earthquake in Chocó
 
-On the morning of Monday 10 August, Colombia suffered an earthquake affecting large parts of the country. Initial reports indicate a magnitude of 7.4 with its epicentre near San José del Palmar in the department of Chocó in the West of Colombia (approximately 90km from Bogotá). Expect potential disruption to travel and airport closures. Wider infrastructure and roads may be affected.
+On the morning of Monday 10 August, Colombia suffered an earthquake affecting large parts of the country. Initial reports indicate a magnitude of 7.4 with its epicentre near San José del Palmar in the department of Chocó in the West of Colombia.
 
-If you’re in Colombia, follow the advice of local authorities, stay away from damaged buildings and plan ahead.
+Expect potential disruption to travel and airport closures. Matecaña International Airport in Pereira is currently closed.
 
-The following airports are currently closed:
-
-* La Nubia Airport (Manizales)
-* Matecaña International Airport (Pereira)
-* El Edén International Airport (Armenia)
-* El Caraño Airport (Quibdó)
-* Santa Ana Airport (Cartago)
-* Gerardo Tobar López Airport (Buenaventura)
+If you’re in Colombia, follow the advice of local authorities, stay away from damaged buildings and plan ahead.
 
 Get real-time information (in Spanish) following an earthquake from:
 
@@ -84,6 +77,34 @@ Get real-time information (in Spanish) following an earthquake from:
 * [Colombia’s Geological Services](https://www.sgc.gov.co/)
 
 Be aware of the possibility of earthquake aftershocks. See further guidance about [earthquakes](https://www.gov.uk/foreign-travel-advice/colombia/safety-and-security#earthquakes).
+
+## Before you travel
+
+No travel can be guaranteed safe. Read all the advice in this guide. If you have onward travel plans within the region, check travel advice for all destinations you plan to travel through. You may also find it helpful to:
+
+* see [general advice for women travellers](https://webarchive.nationalarchives.gov.uk/ukgwa/20260804150650mp_/https://www.gov.uk/guidance/advice-for-women-travelling-abroad)
+* read our [guide on disability and travel abroad](https://webarchive.nationalarchives.gov.uk/ukgwa/20260804150650mp_/https://www.gov.uk/government/publications/disabled-travellers)
+* see [general advice for LGBT+ travellers](https://webarchive.nationalarchives.gov.uk/ukgwa/20260804150650mp_/https://www.gov.uk/guidance/lesbian-gay-bisexual-and-transgender-foreign-travel-advice)
+* read about [safety for solo and independent travel](https://webarchive.nationalarchives.gov.uk/ukgwa/20260804150650mp_/https://www.gov.uk/guidance/solo-and-independent-travel)
+* see [advice on volunteering and adventure travel abroad](https://webarchive.nationalarchives.gov.uk/ukgwa/20260804150650mp_/https://www.gov.uk/guidance/safer-adventure-travel-and-volunteering-overseas)
+
+### Travel insurance
+
+If you choose to travel, research your destinations and [get appropriate travel insurance](https://webarchive.nationalarchives.gov.uk/ukgwa/20260804150650mp_/https://www.gov.uk/guidance/foreign-travel-insurance). Insurance should cover your itinerary, planned activities and expenses in an emergency.
+
+## About FCDO travel advice
+
+FCDO provides advice about risks of travel to help you make informed decisions. Find out [more about FCDO travel advice](https://webarchive.nationalarchives.gov.uk/ukgwa/20260804150650mp_/https://www.gov.uk/guidance/about-foreign-commonwealth-development-office-travel-advice).
+
+### Get travel advice updates
+
+Sign up to [get email notifications](https://webarchive.nationalarchives.gov.uk/ukgwa/20260804150650mp_/https://www.gov.uk/foreign-travel-advice/colombia/email-signup) when this travel advice is updated.
+
+Follow FCDO:
+
+* [travel advice on X](https://webarchive.nationalarchives.gov.uk/ukgwa/20260804150650mp_/https://x.com/fcdotravelgovuk)
+* [travel advice on Facebook](https://webarchive.nationalarchives.gov.uk/ukgwa/20260804150650mp_/https://www.facebook.com/FCDOTravel/)
+* [Travel Aware on Instagram](https://webarchive.nationalarchives.gov.uk/ukgwa/20260804150650mp_/https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Ftravelaware%2F&is_from_rle)
 
 [Next:Entry requirements](/foreign-travel-advice/colombia/entry-requirements)
 

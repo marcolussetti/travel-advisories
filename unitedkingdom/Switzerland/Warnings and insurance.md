@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   11 June 2026
+:   12 August 2026
 
 Updated:
-:   10 June 2026
+:   11 August 2026
 
 Latest update:
-:   Addition of information about G7 Summit and related disruption ('Warnings and insurance' page).
+:   Updated information on European Entry-Exit System (EES) (‘Entry requirements’ page).
 
 ## G7 Summit
 

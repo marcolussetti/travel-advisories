@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   11 August 2026
+:   12 August 2026
 
 Updated:
-:   10 August 2026
+:   11 August 2026
 
 Latest update:
-:   Updated information about travelling with children and updated information about carrying medication ('Entry requirements' and ‘Health’ pages).
+:   Updated information on European Entry-Exit System (EES) (‘Entry requirements’ page).
 
 This travel advice also covers Madeira, Porto Santo and the Azores.
 

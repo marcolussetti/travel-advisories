@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   15 July 2026
+:   12 August 2026
 
 Updated:
-:   14 July 2026
+:   11 August 2026
 
 Latest update:
-:   New information about alcohol laws and underage drinking and updated information about swimming and water sport safety, quad biking and mopeds, wildfires and medication ('Safety and security' and 'Health' pages).
+:   Updated information on European Entry-Exit System (EES) (‘Entry requirements’ page).
 
 ## Wildfires in Greece
 

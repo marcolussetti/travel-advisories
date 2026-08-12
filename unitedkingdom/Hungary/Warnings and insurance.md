@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   2 June 2026
+:   12 August 2026
 
 Updated:
-:   1 June 2026
+:   11 August 2026
 
 Latest update:
-:   Removal of information about the upcoming UEFA Champions League Final on 30 May (‘Warnings and insurance’ page).
+:   Updated information on European Entry-Exit System (EES) (‘Entry requirements’ page).
 
 ## Before you travel
 

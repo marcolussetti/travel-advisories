@@ -1,11 +1,11 @@
 {
     "name": "Netherlands",
-    "update_reason": "Removal of information about disruption to Eurostar services ('Warnings and insurance' page).",
+    "update_reason": "Updated information on European Entry-Exit System (EES) (\u2018Entry requirements\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Netherlands/Warnings and insurance.md",
-            "update_date": "2026-07-15T09:11:26+01:00"
+            "update_date": "2026-08-11T10:20:34+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Netherlands/Getting help.md"
         }
     ],
-    "update_date": "2026-07-15T09:11:26+01:00"
+    "update_date": "2026-08-11T10:20:34+01:00"
 }

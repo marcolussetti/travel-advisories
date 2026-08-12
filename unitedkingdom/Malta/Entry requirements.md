@@ -49,21 +49,23 @@ Read about [entry processes if you live in Malta](https://www.gov.uk/guidance/l
 
 The European Union’s (EU) new Entry/Exit System (EES) is now being implemented across the Schengen area.
 
-This means that when you travel into the Schengen area for short stays, you may need to register your biometric details, such as fingerprints and a photo.There is no cost for EES registration.
+This means that when you travel into the Schengen area for short stays, you may need to register your biometric details, such as fingerprints and a photo. There is no cost for EES registration.
 
-On your first visit into a Schengen country, you may be asked to register your details at a special booth before proceeding to the immigration desk. Follow directions from your travel operator or the staff at your port of entry. You may also need to provide either your fingerprint or photo when you leave the Schengen area. Children aged 11 or younger will not have their fingerprints scanned but can be required to have their photo taken.
+On your first visit into a Schengen country, you may be asked to register your details at a special booth before proceeding to the immigration desk. Follow directions from your travel operator or the staff at your port of entry. You may also need to provide either your fingerprint or photo when you leave the Schengen area. Children aged 11 or younger will not have their fingerprints scanned but can be required to have their photo taken.
 
-You do not need to take any action before you arrive at the border on entry to the Schengen area, but EES may take each passenger extra time to complete so be prepared to wait longer than usual at the border and to allow more time for immigration controls when you depart the Schengen area.
+You do not need to take any action before you arrive at the border on entry to the Schengen area, but EES may take each passenger extra time to complete so be prepared to wait longer than usual at the border and to allow more time for immigration controls when you depart the Schengen area. If you are departing the Schengen area by plane, allow extra time to reach your departure gate as EES checks may take place before boarding.
 
-EES is replacing the previous system of manually stamping passports when visitors arrive in the Schengen area for short stays. You may be asked to input biometric details every time you enter or exit.
+EES is replacing the previous system of manually stamping passports when visitors arrive in the Schengen area for short stays. You may be asked to input biometric details every time you enter or exit.
 
 If you enter the Schengen area through the Port of Dover, Eurotunnel at Folkestone or Eurostar at St Pancras International, any information will be taken at the border before you leave the UK.
 
 Your digital EES record is valid for 3 years.
 
-Read more [information on the EU Entry/Exit System and to understand which countries are in the Schengen area](https://www.gov.uk/guidance/eu-entryexit-system).
+Read more [information on the EU Entry/Exit System and to understand which countries are in the Schengen area](https://www.gov.uk/guidance/eu-entryexit-system).
 
-If you are long-term resident in a Schengen country, you are exempt from EES in all Schengen countries. The full list of EES exemptions is on [the EU’s official Travel Europe website](https://travel-europe.europa.eu/en/ees/to-whom-does-ees-not-apply).
+If you are long-term resident in a Schengen country, you are exempt from EES in all Schengen countries. The full list of EES exemptions is on [the EU’s official Travel Europe website.](https://travel-europe.europa.eu/en/ees/to-whom-does-ees-not-apply)
+
+If you believe you have been incorrectly entered into EES or your record of time spent in the Schengen area is incorrect, approach border officials when you next cross the Schengen border and request a correction. If you are exempt, carry documentation confirming your status. If you believe your time spent in the Schengen area has been recorded incorrectly, raise this with border officials and be prepared to provide supporting evidence if requested.
 
 ## Vaccine requirements
 

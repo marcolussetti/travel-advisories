@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   11 August 2026
+:   12 August 2026
 
 Updated:
-:   10 August 2026
+:   11 August 2026
 
 Latest update:
-:   Addition of information about pedestrian safety ('Safety and security' page).
+:   Updated information about volcanoes ('Safety and security' page).
 
 This travel advice also covers Vatican City.
 

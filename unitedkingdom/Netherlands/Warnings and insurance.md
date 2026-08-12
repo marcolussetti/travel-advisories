@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   16 July 2026
+:   12 August 2026
 
 Updated:
-:   15 July 2026
+:   11 August 2026
 
 Latest update:
-:   Removal of information about disruption to Eurostar services ('Warnings and insurance' page).
+:   Updated information on European Entry-Exit System (EES) (‘Entry requirements’ page).
 
 Check [separate travel advice pages](/foreign-travel-advice) for advice on travel to the constituent countries and special municipalities in the Dutch Caribbean.
 

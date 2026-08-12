@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   2 May 2026
+:   12 August 2026
 
 Updated:
-:   1 May 2026
+:   11 August 2026
 
 Latest update:
-:   Addition of information about the use of drones ('Safety and security' page).
+:   Updated information on European Entry-Exit System (EES) (‘Entry requirements’ page).
 
 ## Before you travel
 

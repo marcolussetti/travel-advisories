@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   16 May 2026
+:   12 August 2026
 
 Updated:
-:   15 May 2026
+:   11 August 2026
 
 Latest update:
-:   Addition of information about drone incidents and updated information about the Russian border crossing ('Safety and security' and 'Entry requirements' pages).
+:   Updated information on European Entry-Exit System (EES) (‘Entry requirements’ page).
 
 ## Before you travel
 

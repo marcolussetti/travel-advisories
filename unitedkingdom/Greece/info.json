@@ -1,11 +1,11 @@
 {
     "name": "Greece",
-    "update_reason": "New information about alcohol laws and underage drinking and updated information about swimming and water sport safety, quad biking and mopeds, wildfires and medication ('Safety and security' and 'Health' pages).",
+    "update_reason": "Updated information on European Entry-Exit System (EES) (\u2018Entry requirements\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Greece/Warnings and insurance.md",
-            "update_date": "2026-07-14T16:55:49+01:00"
+            "update_date": "2026-08-11T10:17:58+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Greece/Getting help.md"
         }
     ],
-    "update_date": "2026-07-14T16:55:49+01:00"
+    "update_date": "2026-08-11T10:17:58+01:00"
 }

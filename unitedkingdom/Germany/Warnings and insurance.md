@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   8 August 2026
+:   12 August 2026
 
 Updated:
-:   7 August 2026
+:   11 August 2026
 
 Latest update:
-:   Removal of information regarding the vehicle related incident in Berlin on 25 July, and new information about recent attacks ('Safety and security' page).
+:   Updated information on European Entry-Exit System (EES) (‘Entry requirements’ page).
 
 ## Before you travel
 

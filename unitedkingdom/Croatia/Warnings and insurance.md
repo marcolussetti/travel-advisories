@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   21 May 2026
+:   12 August 2026
 
 Updated:
-:   20 May 2026
+:   11 August 2026
 
 Latest update:
-:   Updated information about travel disruption at the Gradiška border crossing ('Warnings and insurance' page).
+:   Updated information on European Entry-Exit System (EES) (‘Entry requirements’ page).
 
 ## Travel disruption at the Gradiška border crossing
 

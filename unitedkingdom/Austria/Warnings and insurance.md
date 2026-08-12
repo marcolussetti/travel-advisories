@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   19 May 2026
+:   12 August 2026
 
 Updated:
-:   18 May 2026
+:   11 August 2026
 
 Latest update:
-:   Removal of information about Eurovision song contest 2026 (‘Warnings and insurance’ page).
+:   Updated information on European Entry-Exit System (EES) (‘Entry requirements’ page).
 
 ## Before you travel
 
