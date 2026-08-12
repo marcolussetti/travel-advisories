@@ -10,7 +10,7 @@ Irish citizens do not require a visa to enter Kyrgyzstan for up to 30 days.
 
 A valid passport is required for travel to Kyrgyzstan. Irish passports should have a minimum validity of 6 months prior to entry. Passport cards cannot be used.
 
-For more information on entry requirements for Kyrgyzstan, please contact the [**Embassy of Kyrgyzstan in London**](https://mfa.gov.kg/en/dm/uk).
+For more information on entry requirements for Kyrgyzstan, please contact the Embassy of Kyrgyzstan in London, whose details can be found [**here**](https://mfa.kg/diplomatic-missions-of-kr/dipmissions-of-kr-abroad-2_en.html).
 
 We advise you to only use officially-recognised border crossings and to only travel in the border areas if absolutely necessary.
 

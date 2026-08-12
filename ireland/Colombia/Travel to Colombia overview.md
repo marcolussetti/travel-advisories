@@ -6,7 +6,7 @@ High Degree of Caution
 
 ### **Travel Alert**
 
-An earthquake of 7.4 magnitude has occurred in the west of Colombia, with its epicentre in the department of Chocó. Several regions have been strongly impacted, including the cities of Quibdó, Pereira, Manizales, Armenia, and Cali. Operations have been temporarily suspended at regional airports in Cali, Pereira, Manizales, Quibdó, Armenia, Cartago, Buenaventura and Popayán for safety reasons.
+An earthquake of 7.4 magnitude has occurred in the west of Colombia, with its epicentre in the department of Chocó. Several regions have been strongly impacted, including the cities of Quibdó, Pereira, Manizales, Armenia, and Cali. Regional airports in Quibdó, Pereira, Manizales, Armenia, Cartago and Buenaventura have temporarily suspended operations due to damages. Cali’s Alfonso Bonilla Aragón airport has resumed operations and is functioning as normal. Major road routes including the Cali-Buenaventura highway and the Manizales-Fresno highway have been temporarily closed. Electricity supply and communications have also been severely impacted in the affected regions.
 
 Irish citizens in impacted areas should follow the advice and guidance of the local authorities, including if this is to shelter in place, monitor local news channels for updates, and take care in case of aftershocks.
 

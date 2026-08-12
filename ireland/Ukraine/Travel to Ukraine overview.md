@@ -40,7 +40,7 @@ The International Organization for Migration has set up information and support 
 
 To date, a significant number of people from Ukraine arriving in Ireland under the Temporary Protection Directive are seeking State-provided accommodation.  The State has provided accommodation for nearly 100,000 people seeking international protection, the majority Ukrainians. This very large increase has resulted in a severe shortage of accommodation.  Projections in terms of accommodation availability remain extremely challenging.  Those thinking about travelling to Ireland are advised to be fully aware of these difficult circumstances in which not every person arriving in Ireland looking for State-provided accommodation may be able to secure that accommodation upon initial arrival in Ireland.
 
-For further information please visit: [**gov.ie - Accommodation (www.gov.ie)**](https://www.gov.ie/en/publication/62512-accommodation/).
+For further information please visit: [**Ukraine Updates (EN)**](https://www.gov.ie/en/department-of-justice-home-affairs-and-migration/campaigns/ukraine-updates-en/).
 
 ### **General Travel Advice**
 

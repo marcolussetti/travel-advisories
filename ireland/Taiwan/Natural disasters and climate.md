@@ -10,4 +10,4 @@ Taiwan is located in an active seismic zone. There is a risk of earthquakes and 
 
 ### **Taiwan Central Weather Bureau**
 
-Pay close attention to local and international weather reports and follow the advice of local authorities. Please check the [**Taiwan Central Weather Bureau**](https://www.cwb.gov.tw/eng/) in relation to the various weather signals and warnings.
+Pay close attention to local and international weather reports and follow the advice of local authorities. Please check the [**Taiwan Central Weather Bureau**](https://www.cwa.gov.tw/eng/) in relation to the various weather signals and warnings.

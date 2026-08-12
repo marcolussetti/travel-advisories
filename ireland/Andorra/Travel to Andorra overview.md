@@ -12,9 +12,7 @@ Your passport must be valid for the proposed duration of your stay in Andorra. I
 
 Visitors to Andorra are advised to follow the guidance of national and local authorities and stay fully informed of what's going on by monitoring local news and social media.
 
-The European Health Insurance Card (EHIC) **is not valid in Andorra**. As such, you should purchase comprehensive travel insurance before travelling. See the Health tab for more details. There is a list of medical centres and pharmacies on the [**Visit Andorra website**](https://visitandorra.com/en/places-and-services/medical-centres-and-pharmacies-in-andorra/).
-
-The wearing of a facemask is mandatory in some health and social care centres in Andorra. For more information on these measures, please consult the website of the [**Official Andorran Tourism Office**](https://visitandorra.com/en/covid-19-in-andorra/faq-if-you-re-spending-a-few-days-in-andorra/).
+The European Health Insurance Card (EHIC) **is not valid in Andorra**. As such, you should purchase comprehensive travel insurance before travelling. See the Health tab for more details. There is a list of medical centres and pharmacies on the [**Visit Andorra website**](https://visitandorra.com/en/public-services/).
 
 Citizens can also follow the Irish Embassy in Madrid on X [**@IrlEmbMadrid**](https://twitter.com/IrlEmbMadrid) to ensure access to relevant updates and alerts.
 

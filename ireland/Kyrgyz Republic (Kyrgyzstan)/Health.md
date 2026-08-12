@@ -8,4 +8,4 @@ Tuberculosis is widespread throughout the country and there are regular outbreak
 
 ### **Medical Facilities**
 
-Medical facilities are not as developed as those in Ireland. Medication easily available in Ireland may not be as easily available in Kyrgystan or may be restricted.
+Medical facilities are not as developed as those in Ireland. Medication easily available in Ireland may not be as easily available in Kyrgyzstan or may be restricted.
