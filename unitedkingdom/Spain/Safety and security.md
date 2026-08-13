@@ -86,7 +86,7 @@ You may need to show ID when buying goods with credit or debit cards. Some shops
 
 ### Alcohol laws and bans
 
-It’s illegal to drink alcohol in the street in some areas of Spain. You can get an on-the-spot fine. There are strict controls on drinking and sexual activity in public places, including on beaches.
+It’s illegal to drink alcohol in the street in some areas of Spain. You can get an on-the-spot fine. There are strict controls on drinking and sexual activity in public places, including on beaches. Some areas also impose fines for the sale or consumption of nitrous oxide, also known as laughing gas.
 
 ### Alcohol laws in the Balearic Islands
 

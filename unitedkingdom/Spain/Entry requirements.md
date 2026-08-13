@@ -82,9 +82,9 @@ If you believe you have been incorrectly entered into EES or your record of time
 
 ## Travelling between Spain and Gibraltar
 
-Spanish border checks can cause delays when crossing between Spain and Gibraltar. If you are travelling to Spain through Gibraltar, [check the travel advice for entry requirements for Gibraltar](https://www.gov.uk/foreign-travel-advice/gibraltar).
+Following the provisional application of the [UK-EU Agreement in respect of Gibraltar](https://www.treaty.gov.gi/) on 15 July 2026 there are no longer entry and exit check booths at the land border for travellers between Gibraltar and Spain.
 
-There is no charge to enter or leave Gibraltar. Do not hand over money to anybody claiming there is a charge.
+Gibraltar’s entry conditions for short-stay visitors now formally aligns with Schengen requirements so you should [check the travel advice for entry requirements for Gibraltar](https://www.gov.uk/foreign-travel-advice/gibraltar), whether or not you’re planning to visit Spain before or after your trip.
 
 ## Unaccompanied minors
 

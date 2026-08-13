@@ -33,6 +33,7 @@ See [what health risks you’ll face in Guinea](https://travelhealthpro.org.uk/c
 * yellow fever
 * Zika virus
 * malaria and dengue
+* chikungunya
 
 There are occasional outbreaks of Ebola in Guinea. The last one was in 2021. Cholera and malaria are also present in Guinea and have similar early symptoms to Ebola. You can read [more information on Ebola and similar diseases](https://travelhealthpro.org.uk/factsheet/68/viral-haemorrhagic-fever).
 

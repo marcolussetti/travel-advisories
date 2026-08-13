@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   12 August 2026
+:   13 August 2026
 
 Updated:
-:   11 August 2026
+:   12 August 2026
 
 Latest update:
-:   Updated information on European Entry-Exit System (EES) (‘Entry requirements’ page).
+:   Updated information about emergency services in Belgium ('Getting help' page).
 
 ## National strike action
 

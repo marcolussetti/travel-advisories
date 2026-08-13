@@ -95,7 +95,7 @@ Nudism and topless sunbathing are not allowed anywhere, including on resort isla
 
 ### Swimming safety
 
-The sea around Maldives can have strong tidal currents that can drag you away from the shoreline. Over 8 British tourists have drowned since 2021.  It is important that you know the risks and what you can do to minimise them.
+The sea around Maldives can have strong tidal currents that can drag you away from the shoreline resulting in drownings. It is important that you know the risks and what you can do to minimise them. Always speak to the appropriate resort staff to find out where it is safe for you to swim.
 
 You should read the security information provided by your tour operator and make yourself aware of local swimming conditions on arrival at the resort.  Keep in regular contact with resort staff to see if these conditions change.
 

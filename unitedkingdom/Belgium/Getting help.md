@@ -6,7 +6,7 @@ The Foreign, Commonwealth & Development Office (FCDO) cannot provide tailored ad
 
 Telephone: 112 (ambulance, fire, police)
 
-You can also download the [112 Where Are U app](https://where.areu.lombardia.it/), the official European emergency number app, which helps the emergency services identify your location.
+Download the [112 BE app](https://112.be/en), the official Belgian emergency app for ambulance, fire and police services. This allows you to contact emergency services directly and helps responders identify your location and personal details.
 
 ## Contact your travel provider and insurer
 

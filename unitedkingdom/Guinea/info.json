@@ -1,11 +1,11 @@
 {
     "name": "Guinea",
-    "update_reason": "Removal of information about Parliamentary and local elections on 31 May ('Warnings and insurance' page).",
+    "update_reason": "Updated information about health risks you\u2019ll face in Guinea (\u2018Health\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Guinea/Warnings and insurance.md",
-            "update_date": "2026-06-01T11:15:14+01:00"
+            "update_date": "2026-08-12T16:34:39+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Guinea/Getting help.md"
         }
     ],
-    "update_date": "2026-06-01T11:15:14+01:00"
+    "update_date": "2026-08-12T16:34:39+01:00"
 }
