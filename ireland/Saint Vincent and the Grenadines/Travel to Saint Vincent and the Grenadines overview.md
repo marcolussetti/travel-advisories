@@ -14,7 +14,7 @@ Visitors to St Vincent and the Grenadines are advised to follow the guidance of 
 
 Citizens can also follow the Embassy of Ireland, Washington on [**Social Media**](https://linktr.ee/embassyofirelandusa) to ensure access to relevant updates and alerts.
 
-La Soufriere, an active volcano located on the northern part of St. Vincent continues to pose a threat. The volcano erupted almost daily from April 9 to April 22, 2021, forcing the evacuation of nearby communities.
+La Soufriere, an active volcano located on the northern part of St. Vincent continues to pose a threat. The volcano erupted almost daily from April 9 to April 22, 2021, forcing the evacuation of nearby communities. While the threat level has returned to normal, visitors are reminded to exercise caution at all times.
 
 **Emergency Assistance**
 

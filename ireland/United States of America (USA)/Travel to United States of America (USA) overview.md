@@ -6,12 +6,6 @@ Normal Precautions
 
 ### **Travel Alert**
 
-#### **World Cup 2026**
-
-The FIFA 2026 World Cup takes place in the USA, Canada and Mexico from 11 June to 19 July.
-
-Visitors will find all relevant information on this page. Please also see our [dedicated World Cup page](https://www.ireland.ie/en/dfa/overseas-travel/know-before-you-go/travel-advice-2026-fifa-world-cup-north-america/), which contains useful tips for travelling fans.
-
 #### **Terrorism**
 
 Current events in the Middle East could heighten the threat of terrorist attacks in the US. Irish citizens should exercise extra vigilance and caution in public spaces. Citizens should keep up to date with local media reports and follow the advice of local authorities. In an emergency citizens should dial 911.
@@ -28,7 +22,7 @@ A valid passport is required for travel to the US. Passport cards cannot be used
 
 The vast majority of visits to the United States pass without difficulty. However, citizens should be sure that they are in full compliance with US immigration requirements. Previous convictions in the United States, misleading information about the purpose of your stay on your visa or ESTA application, or even a slight previous overstay can have serious consequences. These include refusal of entry at the border, detention for periods of time, and/or removal from the US.
 
-Visitors to US are advised to follow the guidance of national and local authorities and stay fully informed of what is going on by monitoring local news.
+Visitors to the US are advised to follow the guidance of national and local authorities and stay fully informed of what is going on by monitoring local news.
 
 Citizens can also follow the Embassy on social media (X @[**Embassy of Ireland, USA**](https://x.com/IrelandEmbUSA) and [**Facebook**](https://www.facebook.com/embassyofirelandusa)) to ensure access to relevant updates and alerts.
 
@@ -36,7 +30,7 @@ Citizens can also follow the Embassy on social media (X @[**Embassy of Ireland, 
 
 The best help is often close at hand so if you have problems, try talking to your local contacts, tour operator representative or hotel management.
 
-You can contact the emergency services in US by dialling 911 Specific emergency numbers are:
+You can contact the emergency services in the US by dialling 911 Specific emergency numbers are:
 
 * Police: 911
 * Fire brigade: 911

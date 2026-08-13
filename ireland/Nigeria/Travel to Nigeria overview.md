@@ -12,7 +12,7 @@ On 17 May, the World Health Organisation (WHO) declared the outbreak of the Bund
 
 No cases of Ebola have been confirmed in Nigeria to date. More information about Ebola is available from the [**World Health Organisation**](https://www.who.int/news-room/fact-sheets/detail/ebola-virus-disease).
 
-Health screening measures have been put in place by the Nigerian authorities for all passengers arriving to Nigeria by air. All passengers are required to complete [**the Nigerian Centre for Disease Control Health Declaration Form**](https://healthapp.ncdc.gov.ng/health-declaration-page/) prior to their arrival in Nigeria. Passengers unable to complete the online form in advance will be provided with a paper-based Health Declaration Form upon arrival for completion and submission to the Port Health Service.
+Health screening measures have been put in place by the Nigerian authorities for all passengers arriving to Nigeria by air. All passengers are required to complete [**the Nigerian Centre for Disease Control Health Declaration Form**](https://healthapp.ncdc.gov.ng/) prior to their arrival in Nigeria. Passengers unable to complete the online form in advance will be provided with a paper-based Health Declaration Form upon arrival for completion and submission to the Port Health Service.
 
 ### **General Travel Advice**
 

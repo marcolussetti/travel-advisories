@@ -4,7 +4,7 @@ Always get comprehensive travel insurance. The Reciprocal Health Agreement betwe
 
 ### **COVID-19**
 
-You do not need a pre-departure COVID-19 test to enter or transit Australia regardless of your COVID-19 vaccination status. Please see the [**Australian government’s website**](https://www.health.gov.au/topics/covid-19/travel#state-and-territory-travel-restrictions) for advice on COVID-19 and travelling, and be aware that COVID-19 restrictions can change with very little notice.
+You do not need a pre-departure COVID-19 test to enter or transit Australia regardless of your COVID-19 vaccination status.
 
 ### **Mosquito-borne Diseases**
 

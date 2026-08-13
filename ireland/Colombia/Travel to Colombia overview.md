@@ -6,11 +6,11 @@ High Degree of Caution
 
 ### **Travel Alert**
 
-An earthquake of 7.4 magnitude has occurred in the west of Colombia, with its epicentre in the department of Chocó. Several regions have been strongly impacted, including the cities of Quibdó, Pereira, Manizales, Armenia, and Cali. Regional airports in Quibdó, Pereira, Manizales, Armenia, Cartago and Buenaventura have temporarily suspended operations due to damages. Cali’s Alfonso Bonilla Aragón airport has resumed operations and is functioning as normal. Major road routes including the Cali-Buenaventura highway and the Manizales-Fresno highway have been temporarily closed. Electricity supply and communications have also been severely impacted in the affected regions.
+An earthquake of 7.4 magnitude has occurred in the west of Colombia, with its epicentre in the department of Chocó. Several regions have been strongly impacted, including the cities of Quibdó, Pereira, Manizales, Armenia, and Cali. Commercial airports in Cali, Quibdó and Armenia have resumed operations and are functioning as normal. Airports in Manizales, Cartago and Buenaventura are partially operational with reduced commercial flight options. The airport in Pereira remains closed due to severe damages. Major road routes including the Cali-Buenaventura highway and the Manizales-Fresno highway have been temporarily closed. Electricity supply and communications have also been severely impacted in the affected regions.
 
 Irish citizens in impacted areas should follow the advice and guidance of the local authorities, including if this is to shelter in place, monitor local news channels for updates, and take care in case of aftershocks.
 
-If you have been impacted and require consular assistance, or have a concern about a relative or a friend, contact us on +57 601 657 6060 or [consularbogota@dfa.ie](mailto:consularbogota@dfa.ie)
+If you have been impacted and require consular assistance, or have a concern about a relative or a friend, contact us on +57 601 657 6060 or [**consularbogota@dfa.ie**](mailto:consularbogota@dfa.ie)
 
 For the latest local updates see [**@sgcol**](https://x.com/sgcol) on X. For further information on airport closures, see [**@AerocivilCol**](https://x.com/AerocivilCol)**.**
 

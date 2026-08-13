@@ -6,7 +6,7 @@ Normal Precautions
 
 ### **General Travel Advice**
 
-Irish citizens can travel to the Federated States of Micronesia (FSM) for up to 30 days without a visa. Those wishing to visit the FSM for a period exceeding 30 days must also complete an [**entry permit.**](https://visit-micronesia.fm/wp-content/uploads/2021/11/permit.pdf)
+Irish citizens can travel to the Federated States of Micronesia (FSM) for up to 30 days without a visa. Those wishing to visit the FSM for a period exceeding 30 days must also complete an [**entry permit**](https://fsmembassy.fm/wp-content/uploads/2021/04/FSM_Entry_Permit_Application.pdf).
 
 A valid passport is required for travel to FSM. Passport cards cannot be used. Irish passports should have a minimum validity of 120 days.  Citizens must also have a valid return or onward ticket.
 
