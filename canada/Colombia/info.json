@@ -1,7 +1,7 @@
 {
     "name": "Colombia",
-    "update_reason": "Natural disasters and climate section \u2013 added information on the temporary closure of the airport in Popay\u00e1n",
-    "update_date": "2026-08-11T14:07:00",
+    "update_reason": "Natural disasters and climate section \u2013 updated information on airport closures",
+    "update_date": "2026-08-12T13:02:00",
     "sections": {
         "risk": "canada/Colombia/risk.md",
         "security": "canada/Colombia/security.md",

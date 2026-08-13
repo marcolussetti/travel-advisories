@@ -63,11 +63,6 @@ The following essential services have been disrupted in some areas:
 
 While El Dorado International Airport in Bogotá is open, the following airports are closed until further notice:
 
-* Alfonso Bonilla Aragón International Airport in Palmira (serves Cali)
-* El Caraño Airport in Quibdó
-* El Edén International Airport in Armenia
-* Gerardo Tobar López Airport in Buenaventura
-* La Nubia Airport in Manizales
 * Matecaña International Airport in Pereira
 * Santa Ana Airport in Cartago
 

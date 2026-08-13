@@ -1,7 +1,7 @@
 {
     "name": "United States",
-    "update_reason": "Natural disasters and climate section \u2013 added information on Spokane County fires",
-    "update_date": "2026-08-03T14:07:00",
+    "update_reason": "Natural disasters and climate section \u2013 removed information on Spokane County wildfires",
+    "update_date": "2026-08-12T14:20:00",
     "sections": {
         "risk": "canada/United States/risk.md",
         "security": "canada/United States/security.md",

@@ -59,6 +59,12 @@ During your stay
 
 ### Demonstrations
 
+### General elections
+
+General elections are scheduled to take place on August 13, 2026. Campaign activities are ongoing. Tensions may be heightened and there may be incidents of violence at some events.
+
+If you’re in Zambia, avoid political rallies, demonstrations, and other election-related gatherings.
+
 Demonstrations can take place, especially surrounding elections. Even peaceful demonstrations can turn violent at any time. They can also lead to disruptions to traffic and public transportation.
 
 * Avoid areas where demonstrations and large gatherings are taking place
