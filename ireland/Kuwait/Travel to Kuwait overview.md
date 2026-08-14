@@ -10,7 +10,7 @@ Avoid Non-Essential Travel
 
 **The security situation in Gulf region remains unpredictable. Since 8 July, there have been renewed military strikes in a number of locations across the region, including in Kuwait, against both military and civilian infrastructure. There is a risk of more attacks, and of further escalation.**
 
-**On 14 July 2026, the EU Aviation Safety Agency issued a travel** [**advisory**](https://www.easa.europa.eu/en/domains/air-operations/czibs/czib-2026-07) **stating that air operators should not operate within the airspace of Bahrain, Kuwait, Qatar, the United Arab Emirates, and in some parts of the airspace over the waters of the Gulf of Oman. We understand that this advisory is active until 29 July 2026.**
+**On 14 July 2026, the EU Aviation Safety Agency issued a travel** [**advisory**](https://www.easa.europa.eu/en/domains/air-operations/czibs/czib-2026-07) **stating that air operators should not operate within the airspace of Bahrain, Kuwait, Qatar, the United Arab Emirates, and in some parts of the airspace over the waters of the Gulf of Oman. We understand that this advisory has been renewed and will be active until 31st August 2026.**
 
 **Irish citizens in Kuwait, including those transiting through Kuwait, should be prepared for possible flight cancellations, periodic airspace closures, and potential travel disruptions. If you are concerned about your travel plans, including transit travel through the region, you should check with your airline for further information prior to travel and follow local guidance.**
 

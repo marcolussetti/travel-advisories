@@ -50,8 +50,6 @@ The tap water in Albania may cause illness; only drink bottled water.
 
 Albania has introduced set costs for healthcare and medical treatment in public primary care facilities. These charges apply for tourists and foreign visitors who are not resident in Albania. It is important to note that payment is required in advance of treatment. Your European Health Insurance Card is not valid in Albania and cannot be used to cover these costs. All costs below are in local currency, Albanian Lek (ALL).
 
-Fees charged in private healthcare facilities may differ.
-
 |  |  |
 | --- | --- |
 | Consultation with a General Practitioner (GP) | 1,000 |
@@ -63,3 +61,5 @@ Fees charged in private healthcare facilities may differ.
 | Complete Blood Count (CBC) | 400 |
 | Complete Urinalysis | 300 |
 | Blood Glucose Test | 250 |
+
+Fees charged in private healthcare facilities may differ.
