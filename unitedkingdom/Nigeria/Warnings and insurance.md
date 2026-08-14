@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   14 July 2026
+:   14 August 2026
 
 Updated:
-:   13 July 2026
+:   13 August 2026
 
 Latest update:
-:   Updated information that all passengers need to complete online Health Declaration Form before entering Nigeria (see ‘Health screening’ on the ‘Entry requirements’ page).
+:   New information about on Governorship elections taking place in Osun State on 15 August ('Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/6a4d04e84889d85e75ab4154/FCDO__TA__030_-_Nigeria_Travel_Advice_Ed11__WEB_.jpg)
 
@@ -69,6 +69,10 @@ FCDO advises against all but essential travel to:
 * Imo State
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/nigeria/regional-risks).
+
+## Governorship elections
+
+On Saturday 15 August, Governorship elections will take place in Osun State. A heavier security presence is expected in Osogbo and surrounding Osun State from Friday 14 August. Travel restrictions may also be in place. Follow local advice and carry your passport or other ID to show if required.
 
 ## Before you travel
 

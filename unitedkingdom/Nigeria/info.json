@@ -1,11 +1,11 @@
 {
     "name": "Nigeria",
-    "update_reason": "Updated information that all passengers need to complete online Health Declaration Form before entering Nigeria (see \u2018Health screening\u2019 on the \u2018Entry requirements\u2019 page).",
+    "update_reason": "New information about on Governorship elections taking place in Osun State on 15 August ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Nigeria/Warnings and insurance.md",
-            "update_date": "2026-07-13T15:10:23+01:00"
+            "update_date": "2026-08-13T14:02:36+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Nigeria/Getting help.md"
         }
     ],
-    "update_date": "2026-07-13T15:10:23+01:00"
+    "update_date": "2026-08-13T14:02:36+01:00"
 }

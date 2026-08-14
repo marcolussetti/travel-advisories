@@ -1,13 +1,17 @@
 # Warnings and insurance
 
 Still current at:
-:   5 February 2026
+:   14 August 2026
 
 Updated:
-:   4 February 2026
+:   13 August 2026
 
 Latest update:
-:   Removal of information around travel disruption at land border crossings.
+:   New information on wait times if travelling to and from the Schengen area from North Macedonia ('Warnings and insurance' page).
+
+## Travel disruption
+
+The European Union’s (EU) new Entry/Exit System (EES) is now being implemented across the Schengen area. The EES may take each passenger extra time, so it is important to be prepared to wait longer than usual at EU country borders and allow more time for immigration controls if travelling to and from the Schengen area.
 
 ## Before you travel
 

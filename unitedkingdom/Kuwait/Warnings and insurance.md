@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   24 July 2026
+:   14 August 2026
 
 Updated:
-:   23 July 2026
+:   13 August 2026
 
 Latest update:
-:   FCDO now advises against all but essential travel to Kuwait (‘Warnings and insurance’ page)
+:   New information about visa requirements when entering Kuwait ('Entry requirements' page).
 
 ![](https://assets.publishing.service.gov.uk/media/6a61d42eabcde513b38b6d54/FCDO_TA_105_-_Kuwait_Travel_Advice_Ed1_WEB.jpg)
 

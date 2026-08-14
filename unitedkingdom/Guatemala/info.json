@@ -1,11 +1,11 @@
 {
     "name": "Guatemala",
-    "update_reason": "New information about Fuego volcanic activity ('Warnings and insurance' page).",
+    "update_reason": "Removal of information about Fuego volcanic activity ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Guatemala/Warnings and insurance.md",
-            "update_date": "2026-08-06T16:58:55+01:00"
+            "update_date": "2026-08-13T14:45:16+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Guatemala/Getting help.md"
         }
     ],
-    "update_date": "2026-08-06T16:58:55+01:00"
+    "update_date": "2026-08-13T14:45:16+01:00"
 }

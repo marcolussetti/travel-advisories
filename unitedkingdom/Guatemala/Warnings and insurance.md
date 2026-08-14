@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   7 August 2026
+:   14 August 2026
 
 Updated:
-:   6 August 2026
+:   13 August 2026
 
 Latest update:
-:   New information about Fuego volcanic activity ('Warnings and insurance' page).
+:   Removal of information about Fuego volcanic activity ('Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/65fac0c89316f5001d64c3c0/FCDO__TA__095_-_Guatemala_Travel_Advice_Ed1__WEB_.jpg)
 
@@ -24,12 +24,6 @@ FCDO advises against all but essential travel to:
 * to the towns of Santa Ana Huista, San Antonio Huista and La Democracia in the department of Huehuetenango
 
 Find out more about [why FCDO advises against travel to these areas](https://www.gov.uk/foreign-travel-advice/guatemala/regional-risks).
-
-## Fuego volanic activity
-
-Fuego volcano is no longer showing increased volcanic activity, however there remains a risk of lahars (fast-moving volcanic mudflows) in affected areas. Access to the [Astillero Municipal Regional Park](https://lahora.gt/nacionales/ypena/2026/08/03/municipalidad-de-acatenango-cierra-el-acceso-al-parque-astillero-por-actividad-en-el-volcan-de-fuego/), which contains the Acatenango Volcano viewpoint, remains closed due to Fuego’s volcanic activity.
-
-If you are in an affected area, monitor official updates (including through [CONRED, Guatemala’s disaster agency](https://conred.gob.gt/)), follow the advice of local authorities, and be prepared to leave the area if advised to do so.
 
 ## Before you travel
 

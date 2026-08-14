@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   23 July 2026
+:   14 August 2026
 
 Updated:
-:   22 July 2026
+:   13 August 2026
 
 Latest update:
-:   Updated information on regional tensions, and due to the security situation, UK staff have been temporarily withdrawn from Iran. Our embassy continues to operate remotely (‘Warnings and insurance’ page).
+:   Removal of information on temporary withdrawal of UK staff from Iran and the embassy operating remotely (‘Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/627e359b8fa8f53f99901991/FCDO__TA__021_-_Iran_Travel_Advice_Ed5__WEB_.jpg)
 
@@ -95,7 +95,7 @@ The FCDO’s [travel advice for Pakistan](https://www.gov.uk/foreign-travel-advi
 
 ## Limited UK government support
 
-UK government support is extremely limited in Iran. No face-to-face consular assistance will be possible in an emergency and the UK government will not be able to help you if you get into difficulty in Iran. Due to the ongoing security situation, we have taken the precautionary measure to temporarily withdraw UK staff from Iran. Our embassy continues to operate remotely.
+UK government support is extremely limited in Iran. No face-to-face consular assistance will be possible in an emergency and the UK government will not be able to help you if you get into difficulty in Iran.
 
 ## Travel insurance
 

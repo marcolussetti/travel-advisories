@@ -1,19 +1,19 @@
 # Warnings and insurance
 
 Still current at:
-:   30 June 2026
+:   14 August 2026
 
 Updated:
-:   29 June 2026
+:   13 August 2026
 
 Latest update:
-:   Updated information about travel disruption along the Bosnian-Croatian border, particularly the Gradiška crossing ('Warnings and insurance' page).
+:   New information on wait times if travelling to and from the Schengen area from Bosnia and Herzegovina. New information that the border crossing at Gradiška has been relocated to a new facility ('Warnings and insurance' page).
 
-## Travel disruption at the Gradiška border crossing
+## Travel disruption
 
-A new border crossing at Gradiška has been temporarily opened as an emergency measure, following a bridge collapse. Delays are expected. Travellers should plan ahead and check local advice before crossing by car.
+The border crossing at Gradiška has been relocated to a new facility. Travellers should plan ahead and check local advice before crossing by car.
 
-Significant delays are expected at all crossings between Bosnia and Herzegovina and Croatia due to the EU Entry/Exit System. Long queues in very hot weather may form on the Bosnia and Herzegovina side with no additional services for children or vulnerable people.
+The European Union’s (EU) new Entry/Exit System (EES) is now being implemented across the Schengen area. The EES may take each passenger extra time, so it is important to be prepared to wait longer than usual at EU country borders and allow more time for immigration controls if travelling to and from the Schengen area.
 
 ## Before you travel
 

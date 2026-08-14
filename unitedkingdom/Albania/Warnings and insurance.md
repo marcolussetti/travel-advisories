@@ -1,13 +1,17 @@
 # Warnings and insurance
 
 Still current at:
-:   11 December 2025
+:   14 August 2026
 
 Updated:
-:   10 December 2025
+:   13 August 2026
 
 Latest update:
-:   New information about dual nationals returning to the UK (‘Entry requirements’ page).
+:   New information on wait times if travelling to and from the Schengen area from Albania ('Warnings and insurance' page).
+
+## Travel disruption
+
+The European Union’s (EU) new Entry/Exit System (EES) is now being implemented across the Schengen area. The EES may take each passenger extra time, so it is important to be prepared to wait longer than usual at EU country borders and allow more time for immigration controls if travelling to and from the Schengen area.
 
 ## Before you travel
 
@@ -37,8 +41,6 @@ Follow FCDO:
 * [travel advice on Facebook](https://www.facebook.com/FCDOTravel/)
 * [Travel Aware on Instagram](https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Ftravelaware%2F&is_from_rle)
 
-[Next
-:
-Entry requirements](/foreign-travel-advice/albania/entry-requirements)
+[Next:Entry requirements](/foreign-travel-advice/albania/entry-requirements)
 
 [View a printable version of the whole guide](/foreign-travel-advice/albania/print)

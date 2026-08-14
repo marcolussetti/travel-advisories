@@ -138,12 +138,8 @@ Be cautious if you are in or near an area affected by wildfires. During the even
 * contact your airline or travel operator who can assist you with return travel to the UK
 * if you need consular assistance call +355 4 223 4973/4/5 during [working hours](https://www.gov.uk/world/organisations/british-embassy-tirana/office/british-embassy) or +44 207 008 5000 out of hours
 
-[Previous
-:
-Entry requirements](/foreign-travel-advice/albania/entry-requirements)
+[Previous:Entry requirements](/foreign-travel-advice/albania/entry-requirements)
 
-[Next
-:
-Health](/foreign-travel-advice/albania/health)
+[Next:Health](/foreign-travel-advice/albania/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/albania/print)

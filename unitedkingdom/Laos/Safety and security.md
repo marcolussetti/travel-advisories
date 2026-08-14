@@ -184,7 +184,7 @@ Find out what you can do to [prepare for and respond to extreme weather and natu
 
 ### Monsoon
 
-The rainy season in Laos normally runs from May to October, at the same time as the typhoon season in south-east Asia. The season started early in 2025 with higher-than-expected levels of rain. This means that river levels are above average and heavy rainstorms may cause unexpected and serious flooding. Be aware of local advice, social media coverage and follow the advice of the local authorities.
+The rainy season in Laos normally runs from May to October, at the same time as the typhoon season in south-east Asia. During this period river levels can can increase dramatically within hours and heavy rainstorms may cause unexpected and serious flooding. Be aware of local advice, social media coverage and follow the advice of the local authorities.
 
 Travel to some provinces can be seriously disrupted during this time. Mountain areas are vulnerable to landslides in the rainy season and the Mekong’s river basins and surrounding areas are likely to be flooded. Meteorologists predict that tropical storms could be more forceful and more frequent in the future, this can amplify monsoon storms and rainfall. Away from river basins there is a high risk of flash flooding causing falling trees, damage to buildings and transport infrastructure; be aware landslides may expose undiscovered UXO.
 

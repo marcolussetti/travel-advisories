@@ -65,7 +65,7 @@ While there is a general tolerance of same-sex couples in Montenegro, LGBT+ trav
 
 ### Swimming safety
 
-Take note of warning signs on beaches, follow instructions from lifeguards and observe the flag indicators. Take local advice if jellyfish or sea urchins are present.
+Take note of warning signs on beaches, follow instructions from lifeguards and observe the flag indicators. Take local advice if jellyfish or sea urchins are present. Speedboats and other watercraft operate frequently along the coast, particularly during the summer months. Take care when swimming, remain aware of vessels operating nearby, and use designated swimming areas where available.
 
 See [water safety on holiday](https://www.rlss.org.uk/safety-on-holiday) from the Royal Life Saving Society.
 
@@ -94,7 +94,7 @@ If you’re hiking in the mountains:
 
 ### Road travel
 
-If you are planning to drive in Montenegro, see [information on driving abroad](https://www.gov.uk/driving-abroad) and check the [rules of the road in the RAC’s Montenegro guide](https://www.rac.co.uk/drive/travel/country/montenegro/). The guide lists driving regulations and other legal requirements you need to be aware of.
+Traffic congestion is common during the summer tourist season, particularly on coastal roads, major routes and at border crossings. Journey times can be significantly longer than usual. If you are planning to drive in Montenegro, see [information on driving abroad](https://www.gov.uk/driving-abroad) and check the [rules of the road in the RAC’s Montenegro guide](https://www.rac.co.uk/drive/travel/country/montenegro/). The guide lists driving regulations and other legal requirements you need to be aware of.
 
 Check if you need a [UK sticker to drive your car outside the UK](https://www.gov.uk/displaying-number-plates/flags-identifiers-and-stickers).
 

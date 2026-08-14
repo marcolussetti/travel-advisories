@@ -1,24 +1,26 @@
 # Warnings and insurance
 
 Still current at:
-:   5 June 2026
+:   14 August 2026
 
 Updated:
-:   4 June 2026
+:   13 August 2026
 
 Latest update:
-:   New information on travel disruption due to large number of international events taking place over the summer and beyond (‘Warnings and insurance’ page).
+:   New information on wait times if travelling to and from the Schengen area from Montenegro and updated information about road travel and swimming safety ('Warnings and insurance' and ‘Safety and security’ pages).
 
 ## Travel disruption
 
-Due to some large international events taking place over the summer, airports and roads may be more congested than normal.
+Airports can be very busy during the summer months, with delays possible at check-in, security screening and passport control. Arrive at the airport well in advance of your scheduled departure.
 
-You should:
+For road travel you should:
 
 * monitor local media and official announcements
 * plan your journey in advance
 * allow extra time for travel
 * follow the advice of local authorities
+
+The European Union’s (EU) new Entry/Exit System (EES) is now being implemented across the Schengen area. The EES may take each passenger extra time, so it is important to be prepared to wait longer than usual at EU country borders and allow more time for immigration controls if travelling to and from the Schengen area.
 
 ## Before you travel
 

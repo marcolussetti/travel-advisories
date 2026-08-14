@@ -1,11 +1,11 @@
 {
     "name": "Montenegro",
-    "update_reason": "New information on travel disruption due to large number of international events taking place over the summer and beyond (\u2018Warnings and insurance\u2019 page).",
+    "update_reason": "New information on wait times if travelling to and from the Schengen area from Montenegro and updated information about road travel and swimming safety ('Warnings and insurance' and \u2018Safety and security\u2019 pages).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Montenegro/Warnings and insurance.md",
-            "update_date": "2026-06-04T11:55:51+01:00"
+            "update_date": "2026-08-13T16:25:26+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Montenegro/Getting help.md"
         }
     ],
-    "update_date": "2026-06-04T11:55:51+01:00"
+    "update_date": "2026-08-13T16:25:26+01:00"
 }

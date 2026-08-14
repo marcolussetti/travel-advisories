@@ -33,6 +33,8 @@ You must have a visa to visit Kuwait.
 
 You can get a visa on arrival in Kuwait or online. More information is available from the [Kuwait Ministry of Interior](https://kuwaitvisa.moi.gov.kw/).
 
+British citizens born in Afghanistan, Iran, Iraq, Lebanon, Pakistan, Sudan, Syria or Yemen are not eligible for visa on arrival and must obtain a visa from the Kuwaiti Embassy before travelling.
+
 ### Checks at border control
 
 You must be able to show:

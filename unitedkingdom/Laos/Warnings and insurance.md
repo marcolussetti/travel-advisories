@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   23 April 2026
+:   14 August 2026
 
 Updated:
-:   22 April 2026
+:   13 August 2026
 
 Latest update:
-:   Updated information about the Lao Digital Immigration Form (LDIF) ('Entry requirements’ page).
+:   Updated information on flooding risks during periods of heavy rain (‘Safety and security’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/64391b7a773a8a0013ab2c63/FCDO__TA__088_-_Laos_Travel_Advice_Ed1__WEB_.jpg)
 
