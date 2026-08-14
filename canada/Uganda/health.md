@@ -11,26 +11,6 @@ This section has information and advice about health risks you might face when t
 
 It's best to talk to a healthcare provider or visit a travel health clinic preferably 6 weeks before your trip to get personalized health advice. Even if your travel date is coming up soon, it's still worthwhile to make an appointment.
 
-### Outbreak Monitoring
-
-#### Marburg virus disease in Uganda
-
-A case of Marburg virus disease (MVD) has been reported in western Uganda (Kyegegwa district). This case is not linked to the Ebola disease outbreak currently affecting parts of the Democratic Republic of the Congo and Uganda.
-
-The virus that causes MVD can spread to people through contact with infected animals, most often fruit bats. It can also spread between people through direct contact with the bodily fluids of someone who is sick, or by touching items that have those fluids on them. Marburg virus disease is very serious and can be deadly. There is currently no vaccine or specific treatment for it, but the risk of infection is low if proper safety precautions are followed.
-
-The risk of infection is very low for most travellers, however travellers visiting the area where the outbreak is occurring could be at higher risk. If you are travelling to the area, follow local health guidelines and take precautions to protect yourself.
-
-* Avoid contact with people who have symptoms of MVD (fever, rash, muscle pain), and anything that could be contaminated with their bodily fluids.
-* Avoid contact with the bodies of people who have died of MVD or an unknown illness during funerals and burials.
-* Wash your hands regularly with soap and water for at least 20 seconds, or use a hand sanitizer containing at least 60% alcohol for 20 seconds or until dry.
-* Avoid close contact with live and dead animals, especially bats.
-
-Monitor your health for symptoms while in the affected area and for 21 days after leaving. Isolate from others and seek medical care immediately if you develop symptoms of MVD.  
-   
-**Learn more:**  
-[Marburg virus disease](https://www.canada.ca/en/public-health/services/infectious-diseases/viral-haemorrhagic-fevers/marburg-virus-disease.html)
-
 ### Routine vaccines
 
 Make sure your routine vaccinations are up-to-date before you travel, no matter where you’re going.
@@ -131,10 +111,7 @@ Malaria
 [Malaria](https://www.canada.ca/en/public-health/services/diseases/malaria.html) is a serious and sometimes fatal disease that is caused by parasites spread through the bites of mosquitoes.
 
 **Malaria is a risk to travellers to this destination.**  
-   
-[Antimalarial medication is recommended](https://www.canada.ca/en/public-health/services/catmat/appendix-1-malaria-risk-recommended-chemoprophylaxis-geographic-area.html) for most travellers to this destination and should be taken as recommended. Consult a health care professional or visit a travel health clinic before travelling to discuss your options. It is recommended to do this 6 weeks before travel, however, it is still a good idea any time before leaving.   
-   
-[Protect yourself from mosquito bites](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html) at all times:
+ 
 
 * Cover your skin and use an [approved](https://www.canada.ca/en/health-canada/services/about-pesticides/insect-repellents.html) insect repellent on uncovered skin.
 * Exclude mosquitoes from your living area with screening and/or closed, well-sealed doors and windows.

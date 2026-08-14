@@ -8,29 +8,6 @@ Climate change is affecting Spain. Extreme and unusual weather events are becomi
 
 ### Wildfires
 
-Wildfires have affected several regions in Spain, including:
-
-* the Community of Madrid
-* Castilla-La Mancha
-* Castilla y León
-* Aragon
-* Catalonia
-* Asturias
-* Andalusia
-* the Valencian Community
-* Galicia
-* Extremadura
-
-Road closures, transportation disruptions, reduced visibility due to smoke and poor air quality are affecting many areas. Conditions can change rapidly. Stay away from affected areas.
-
-High temperatures, dry conditions, and strong winds could increase the risk of wildfires throughout the summer.
-
-If you are near a wildfire:
-
-* follow the instructions of local authorities and emergency services, including evacuation orders
-* monitor local media and official emergency channels for updates
-* be prepared to modify your travel plans or even evacuate the area on short notice
-
 High temperatures create dry conditions, which can lead to large fires throughout Spain, particularly during the summer. Fires can lead to railway and road closures, including major highways, and affect air traffic.
 
 Heavy smoke may deteriorate the air quality in areas near active fires.

@@ -19,3 +19,9 @@ The features in this map do not constitute an authoritative source of geographic
 ### United States - Take normal security precautions
 
 [Take normal security precautions](#levels "Risk Levels") in the United States.
+
+### Hawaii County - Avoid non-essential travel
+
+[Avoid non-essential travel](#levels "Risk Levels") to Hawaii County due to Tropical Storm Lala.
+
+[Natural disasters and climate](#disasters)
