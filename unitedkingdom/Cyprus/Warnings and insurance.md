@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   23 July 2026
+:   15 August 2026
 
 Updated:
-:   22 July 2026
+:   14 August 2026
 
 Latest update:
-:   Updated information about regional tensions following recent strikes and retaliatory attacks by Iran ('Warnings and insurance' page).
+:   New information about fertility treatment (‘Safety and security’ page).
 
 ## Regional tensions
 

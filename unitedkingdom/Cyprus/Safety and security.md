@@ -82,6 +82,10 @@ Before entering into any surrogacy arrangements:
 
 Children born through surrogacy are not automatically entitled to British nationality. To bring your child born through surrogacy from Cyprus to the UK, you must apply for a [full British passport](https://www.gov.uk/overseas-passports) for the child before you travel. The application process can take a significant amount of time, and even longer if supporting documentation has been issued in the north of Cyprus, due to the UK’s non-recognition of the authorities there. The maximum period you may be allowed to stay in Cyprus without a visa is 90 days.
 
+### Fertility treatment
+
+Fertility treatment in the north of Cyprus carries risks as clinics are not regulated in the same way as in the UK. Make sure you conduct thorough research beforehand. Further information on fertility treatment abroad is available on the [Human Fertilisation and Embryology Authority (HFEA) website](https://www.hfea.gov.uk/treatments/explore-all-treatments/fertility-treatment-abroad/).
+
 ### International parental child abduction
 
 The authorities in the north of Cyprus do not act on British court orders. They will not share information with the British High Commission on children subject to UK court orders. This means the British High Commission cannot ensure that these children are properly safeguarded.

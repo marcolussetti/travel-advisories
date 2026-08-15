@@ -88,13 +88,13 @@ Although same-sex relationships are not illegal, public attitudes are less toler
 
 ## Surrogacy
 
-Due to the security challenges across all of Ukraine, we must currently advise against commissioning any surrogacy arrangements.
+Due to the security challenges across all of Ukraine, we must currently advise against commissioning any surrogacy arrangements there. Further information about surrogacy overseas can be found [here.](https://www.gov.uk/government/publications/surrogacy-overseas/surrogacy-overseas)
 
 Commissioning a surrogacy will not automatically mean that the child holds British citizenship. If you want to bring your child born through surrogacy from Ukraine to the UK, you must [apply for a full British passport](https://www.gov.uk/overseas-passports).
 
 The FCDO cannot facilitate your departure from Ukraine.
 
-If you are considering changing your surrogacy arrangements, or making a new arrangement with a Ukrainian woman in another country, you should read about [surrogacy arrangements in foreign countries](https://www.gov.uk/government/publications/surrogacy-overseas/surrogacy-overseas).
+If you are considering changing your surrogacy arrangements, or making a new arrangement with a Ukrainian woman in another country, check surrogacy advice for that country also.
 
 ## Transport information and risks
 
