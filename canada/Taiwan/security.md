@@ -47,46 +47,6 @@ Motorcycle and scooter drivers don’t respect traffic laws. They are extremely 
 
 [Latest news](https://www.thb.gov.tw/en/) - Directorate General of Highways
 
-### Urban Resilience Exercises
-
-Urban Resilience (Air Defense) Exercises will take place between August 7 and 13, 2026, across Taiwan. These mandatory drills will simulate situations including disaster rescue operations and internet network disruptions.
-
-The drills will affect these regions on the following dates:
-
-* August 7, 2026, from 10 am to 10:30 am:
-
-+ Tainan
-+ Kaohsiung
-+ Pingtung
-
-* August 10, 2026, from 2:30 pm to 3 pm:
-
-+ Miaoli
-+ Taichung
-+ Changhua
-+ Nantou
-+ Yunlin
-+ Chiayi County
-+ Chiayi City
-
-* August 13, 2026, from 2:30 pm to 3 pm:
-
-+ Taipei
-+ New Taipei
-+ Taoyuan
-+ Keelung
-+ Hsinchu City
-+ Hsinchu County
-+ Yilan
-
-During the exercise, transportation services may be disrupted and traffic may be temporarily stopped. If you are outdoors, you may be directed to seek shelter.
-
-In central and northern Taiwan, communications may also be disrupted, including 4G and 5G mobile data services.
-
-Failure to comply with drill instructions could result in heavy fines ranging from 30,000 to 150,000 TWD.
-
-Review the schedule and location of the [2026 Urban Resilience (Air Defense) Exercises](https://adma.mnd.gov.tw/uniten/100003/7439).
-
 ### Demonstrations
 
 Demonstrations take place from time to time. Even peaceful demonstrations can turn violent at any time. They can also lead to disruptions to traffic and public transportation.

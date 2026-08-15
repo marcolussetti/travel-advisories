@@ -62,7 +62,7 @@ Once a roadblock is in place, local authorities, officials, and vendors will not
 * medication
 * warm clothing
 
-Don’t cross roadblocks, even if they appear unattended. This may aggravate the situation and lead to physical harm. Instead, consider:
+Don't cross roadblocks, even if they appear unattended. This may aggravate the situation and lead to physical harm. Instead, consider:
 
 * taking an alternative safer route
 * returning to your place of departure
@@ -91,7 +91,7 @@ Criminals often operate in organized groups. They will distract victims while an
 To avoid becoming a victim of theft:
 
 * ensure that your belongings, including your passport and other travel documents, are secure at all times
-* don’t travel alone, especially at night
+* don't travel alone, especially at night
 * be cautious of strangers approaching you
 * remain alert to your surroundings at all times
 * avoid showing signs of affluence
@@ -112,11 +112,11 @@ Violent crime, carjacking and civil unrest, mainly associated with drug traffick
 
 #### Fraudulent police officers
 
-Criminals often pose as police officers and ask to examine the traveller’s belongings or ask the traveller to accompany them to a bogus police station, sometimes in collusion with a criminal posing as a taxi driver or as another traveller.
+Criminals often pose as police officers and ask to examine the traveller's belongings or ask the traveller to accompany them to a bogus police station, sometimes in collusion with a criminal posing as a taxi driver or as another traveller.
 
-Under Bolivian law, there’s no obligation to go with an officer to a police station unless they have a formal written request from a judge with your name on it. Any search or seizure must occur at a genuine police station in the prosecutor's presence.
+Under Bolivian law, there's no obligation to go with an officer to a police station unless they have a formal written request from a judge with your name on it. Any search or seizure must occur at a genuine police station in the prosecutor's presence.
 
-If you’re stopped while travelling by someone claiming to be a local authority, ask to see their official identification.
+If you're stopped while travelling by someone claiming to be a local authority, ask to see their official identification.
 
 [Overseas fraud](https://travel.gc.ca/travelling/health-safety/overseas-fraud)
 
@@ -144,7 +144,7 @@ There is a risk of express kidnappings. Criminals ask for small, immediate ranso
 
 * Use only reputable taxi companies or ride-sharing apps
 * Avoid hailing taxis on the street
-* If armed criminals threaten you, cooperate and don’t resist
+* If armed criminals threaten you, cooperate and don't resist
 
 ### Women's safety
 
@@ -167,7 +167,7 @@ Incidents are most likely to occur:
 * in bars and restaurants
 * on public transportation, including taxis on the street
 
-While you’re in Bolivia:
+While you're in Bolivia:
 
 * be wary of accepting these items from new acquaintances
 * never leave food or drinks unattended or in the care of strangers
@@ -228,7 +228,7 @@ Road safety is poor throughout the country. Accidents and fatalities are common.
 
 Road conditions are poor throughout the country.
 
-Although improved highways connect Cochabamba, La Paz, Santa Cruz and Sucre, many roads in Bolivia are unpaved. The old Yungas Road (commonly known as “Death Road”) is considered one of the world’s most dangerous roads.
+Although improved highways connect Cochabamba, La Paz, Santa Cruz and Sucre, many roads in Bolivia are unpaved. The old Yungas Road (commonly known as “Death Road”) is considered one of the world's most dangerous roads.
 
 Driving can also be dangerous due to:
 
@@ -264,7 +264,7 @@ Lifeguard services do not always meet Canadian standards.  Most lakes do not ha
 If you take a boat tour:
 
 * make sure the boat you are boarding is carrying appropriate safety equipment, including life jackets accessible for all passengers at all times
-* don’t board boats that appear overloaded or unsafe
+* don't board boats that appear overloaded or unsafe
 * verify the safety standards of boats with your tour operator
 * if you have any doubts about the safety of the equipment, do not use it.
 
@@ -300,10 +300,10 @@ Only use tour buses operated by well-known, reputable companies. If you have any
 
 Many taxis are poorly maintained and do not have functional seatbelts.
 
-You can call registered radio taxi companies from a landline or from a hotel. Radio taxis are identifiable by the telephone number and name of the taxi company on the vehicle’s roof.
+You can call registered radio taxi companies from a landline or from a hotel. Radio taxis are identifiable by the telephone number and name of the taxi company on the vehicle's roof.
 
 * Avoid hailing taxis on the street and taking motorcycle taxis
-* Note the driver’s name on his or her photo identification card and license number
+* Note the driver's name on his or her photo identification card and license number
 * Exercise caution when taking cabs to and from airports, especially in Santa Cruz and La Paz, where tourists have been the victims of robberies
 * Decline transportation from people offering cheaper fares
 * Never share a taxi with strangers
@@ -315,7 +315,7 @@ Ride-sharing services are not available in many cities.
 
 If you use a ride-sharing app:
 
-* confirm the driver’s identity and license plate before getting in the car
+* confirm the driver's identity and license plate before getting in the car
 * use the security features in rideshare apps
 
 #### Trains

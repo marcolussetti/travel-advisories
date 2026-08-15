@@ -10,10 +10,7 @@ Penalties for breaking the law in Colombia can be more severe than in Canada, ev
 
 Detention conditions may be below the standards of Canadian prisons.
 
-#### Useful links
-
-* [Overview of the criminal law system in Colombia](http://travel.gc.ca/travelling/advisories/overview-of-colombian-criminal-law-system)
-* [Arrest and detention](http://travel.gc.ca/assistance/emergency-info/arrest-detention)
+[Arrest and detention](http://travel.gc.ca/assistance/emergency-info/arrest-detention)
 
 ### Drugs
 

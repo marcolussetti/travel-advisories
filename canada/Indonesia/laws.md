@@ -6,8 +6,6 @@ You must abide by local laws.
 
 Learn about what you should do and how we can help if you are [arrested or detained abroad](http://travel.gc.ca/assistance/emergency-info/arrest-detention).
 
-[Overview of the criminal law system in Indonesia](https://travel.gc.ca/travelling/advisories/overview-of-the-criminal-law-system-in-indonesia)
-
 ### Drugs
 
 Penalties for possession, use or trafficking of illegal drugs are severe. Convicted offenders can expect long jail sentences. They can also be detained for long periods, without the possibility of release on bail, while police conduct investigations prior to prosecution.

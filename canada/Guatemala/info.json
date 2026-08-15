@@ -1,7 +1,7 @@
 {
     "name": "Guatemala",
-    "update_reason": "Natural disasters and climate section \u2013 added information on the eruption of the Fuego volcano",
-    "update_date": "2026-08-04T16:43:00",
+    "update_reason": "Natural disasters and climate section \u2013 removed information on the Fuego volcano",
+    "update_date": "2026-08-14T11:26:00",
     "sections": {
         "risk": "canada/Guatemala/risk.md",
         "security": "canada/Guatemala/security.md",

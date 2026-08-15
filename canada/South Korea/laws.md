@@ -8,8 +8,6 @@ Learn about what you should do and how we can help if you are [arrested or detai
 
 Police may confiscate your passport and/or detain you during an investigation.
 
-[Overview of the criminal law system in South Korea](http://travel.gc.ca/travelling/advisories/korea-south/criminal-law-system)
-
 ### Drugs
 
 Penalties for possession, use or trafficking of illegal drugs are severe. Convicted offenders can expect long jail sentences, heavy fines and deportation. Minor violations, including smoking small quantities of an illegal drug such as cannabis (even in a private home) can result in pre-trial detention.

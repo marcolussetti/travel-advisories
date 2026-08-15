@@ -2,25 +2,6 @@
 
 ## Natural disasters and climate
 
-### Fuego volcano
-
-On August 3, 2026, the Fuego volcano, located 40 km from Guatemala City, erupted, releasing lava and hot ash.
-
-Authorities have evacuated nearby communities and issued an orange alert, the second highest on the alert scale, across the country.
-
-Flights could be disrupted due to ash clouds.
-
-If you’re in the affected area:
-
-* monitor local media to stay informed of the evolving situation
-* follow the instructions of local authorities, including evacuation orders
-* check your flight status with your airline if you have a flight booked
-
-#### Useful links
-
-* [Fuego volcano monitoring](https://conred.gob.gt/volcan-de-fuego-agosto-2026/) (Spanish only)
-* [More on seismic activity](#volcano)
-
 ### Climate change
 
 Climate change is affecting Guatemala. Extreme and unusual weather events are becoming more frequent and may affect your travel plans. Monitor local news to stay informed on the current situation.

@@ -1,7 +1,7 @@
 {
     "name": "Mexico",
-    "update_reason": "Health \u2013 Information about cyclosporiasis added",
-    "update_date": "2026-08-11T14:44:00",
+    "update_reason": "Editorial change",
+    "update_date": "2026-08-14T13:58:00",
     "sections": {
         "risk": "canada/Mexico/risk.md",
         "security": "canada/Mexico/security.md",

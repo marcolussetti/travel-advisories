@@ -1,7 +1,7 @@
 {
     "name": "Malta",
-    "update_reason": "Entry and exit requirements section \u2013 updated information on the European Travel Information and Authorization System (ETIAS)",
-    "update_date": "2026-08-11T09:10:00",
+    "update_reason": "Natural disasters and climate section \u2013 added information on flight disruptions related to the eruption of Mount Etna",
+    "update_date": "2026-08-14T14:10:00",
     "sections": {
         "risk": "canada/Malta/risk.md",
         "security": "canada/Malta/security.md",

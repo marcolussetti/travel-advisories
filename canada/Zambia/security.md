@@ -61,7 +61,9 @@ During your stay
 
 ### General elections
 
-General elections are scheduled to take place on August 13, 2026. Campaign activities are ongoing. Tensions may be heightened and there may be incidents of violence at some events.
+General elections took place on August 13, 2026.
+
+The results have not yet been announced and incidents of violence may occur throughout the election period.
 
 If you’re in Zambia, avoid political rallies, demonstrations, and other election-related gatherings.
 

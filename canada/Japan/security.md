@@ -60,7 +60,8 @@ Be wary of individuals, even those you know, who ask you to carry a package to J
 #### Useful links
 
 * [Drugs, alcohol and travel](https://travel.gc.ca/travelling/health-safety/drugs)
-* [International drug smuggling scams](http://www.cbsa-asfc.gc.ca/security-securite/senior-aines-eng.html)
+* [Join the fight against drug smuggling](https://www.cbsa-asfc.gc.ca/security-securite/smuggling-trafic-eng.html#protect) – Canada Border Services Agency
+* [Drug smuggling: Scams, set-ups and consequences](https://travel.gc.ca/travelling/health-safety/drug-smuggling)
 
 ### Spiked food and drinks
 

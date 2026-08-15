@@ -10,8 +10,6 @@ In accordance with Dominican law, a person detained or arrested by the authoriti
 
 Judicial processes may last several years during which accused individuals are normally detained. It could lead to very long prison sentences in difficult conditions.
 
-[Overview of the criminal law system in the Dominican Republic](http://travel.gc.ca/travelling/advisories/dominican-republic/criminal-law-system)
-
 ### Drugs
 
 Penalties for possession, use or trafficking of illegal drugs are severe. Convicted offenders can expect lengthy jail sentences and heavy fines.

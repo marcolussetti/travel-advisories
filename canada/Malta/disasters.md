@@ -2,6 +2,14 @@
 
 ## Natural disasters and climate
 
+### Flight disruptions due to the eruption of Mount Etna
+
+Flights are disrupted in Malta due to a volcanic ash cloud from the recent eruption of Mount Etna in Sicily, Italy.
+
+Confirm the status of your flight before heading to the airport.
+
+[Malta international Airport](https://maltairport.com/)
+
 ### Flooding and landslides
 
 Heavy rains and seasonal storms can cause severe flooding and landslides. Roads may become impassable and infrastructure damaged.

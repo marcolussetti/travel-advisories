@@ -16,10 +16,7 @@ Police may detain you for up to 72 hours for many petty crimes including:
 
 Detention conditions are below the standards of Canadian prisons.
 
-#### Useful links
-
-* [The Mexican criminal law system](http://travel.gc.ca/travelling/advisories/mexico/mexican-criminal-law-system)
-* [Arrest and detention](http://travel.gc.ca/assistance/emergency-info/arrest-detention)
+[Arrest and detention](http://travel.gc.ca/assistance/emergency-info/arrest-detention)
 
 ### Transfer to a Canadian prison
 

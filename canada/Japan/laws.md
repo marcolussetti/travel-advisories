@@ -8,8 +8,7 @@ In many cases, arrested or detained suspects are denied oral or written communic
 
 If you are detained, even for a minor offence, you may be held without charge for up to 23 days. Police officers may begin their initial questioning before you see a lawyer. You could also be in detention for weeks or months during the investigation and legal proceedings.
 
-* [Overview of the criminal law system in Japan](https://travel.gc.ca/travelling/advisories/japan/criminal-law-system "Criminal law system in Japan")
-* [Arrest and detention](https://travel.gc.ca/assistance/emergency-info/arrest-detention "Arrest and detention")
+[Arrest and detention](https://travel.gc.ca/assistance/emergency-info/arrest-detention "Arrest and detention")
 
 ### Drugs
 
