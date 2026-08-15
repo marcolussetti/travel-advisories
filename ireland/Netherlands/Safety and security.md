@@ -8,7 +8,7 @@ For people aged 16 or over who fail to comply with the requirement to identify t
 
 ### **Terrorism**
 
-The current [**Netherlands Terrorism Threat level**](https://english.nctv.nl/topics/terrorist-threat-assessment-netherlands) (as set by the NCTV / National Coordinator for Threat Assessment) remains substantial at 4 on a scale of 5 after a number of recent incidents. This indicates that there is a real chance of a terrorist attack in the country, but that the authorities have no concrete indications that one is being planned. Attacks could be indiscriminate, including in places frequented by expatriates and foreign travellers. Visitors should be vigilant and follow the advice of local authorities, reporting any suspicious activity to the police.
+The current [**Netherlands Terrorism Threat level**](https://english.nctv.nl/topics/t/terrorist-threat-assessment-netherlands) (as set by the NCTV / National Coordinator for Threat Assessment) remains substantial at 4 on a scale of 5 after a number of recent incidents. This indicates that there is a real chance of a terrorist attack in the country, but that the authorities have no concrete indications that one is being planned. Attacks could be indiscriminate, including in places frequented by expatriates and foreign travellers. Visitors should be vigilant and follow the advice of local authorities, reporting any suspicious activity to the police.
 
 ### **Crime**
 

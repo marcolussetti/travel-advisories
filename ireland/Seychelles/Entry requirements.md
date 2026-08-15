@@ -2,7 +2,7 @@
 
 ### Visas
 
-The Seychelles is a visa-free country and passports should be valid for the duration of the intended visit. More information can be found [**here**](http://www.ics.gov.sc/visa-and-travel/visiting-seychelles).
+The Seychelles is a visa-free country and passports should be valid for the duration of the intended visit. More information can be found [**here**](https://www.ics.gov.sc/visa-and-travel/visiting-seychelles).
 
 ### **Passports**
 

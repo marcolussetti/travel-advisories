@@ -55,7 +55,7 @@ Anyone suspected of driving or attempting to operate a vehicle when under the in
 
 ### **Winter Equipment**
 
-From mid-November to mid-March and during winter weather conditions outside of these dates, vehicles up to 3.5 tonnes must be fitted with winter tyres. Under certain conditions, snow chains will suffice. You can find out more on the [**Automobile Association of Slovenia website**](https://www.amzs.si/en).
+From mid-November to mid-March and during winter weather conditions outside of these dates, vehicles up to 3.5 tonnes must be fitted with winter tyres. Under certain conditions, snow chains will suffice. You can find out more on the [**Automobile Association of Slovenia website**](https://www.amzs.si/en/automobile-and-motorcycle-association-of-slovenia).
 
 ### **Hiking**
 
