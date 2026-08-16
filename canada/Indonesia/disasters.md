@@ -2,6 +2,27 @@
 
 ## Natural disasters and climate
 
+### Earthquakes in Indonesia
+
+On August 14, 2026, two earthquakes struck Indonesia. A magnitude 6.9 earthquake struck Pematangsiantar, North Sumatra following a magnitude 7.7 earthquake that struck near Flores Island, off the northern coast of East Nusa Tenggara province. They caused casualties and significant damage to infrastructure. Local authorities are responding to the situation and assessing the full extent of the damage.
+
+Additional earthquakes are expected in and around the affected area. Authorities warn that aftershocks may continue for an extended period and could cause further damage, particularly to weakened structures. The following essential services are disrupted:
+
+* transportation
+* power distribution
+* water and food supply
+* telecommunications networks
+* emergency services
+* medical care
+
+If you are in the affected area:
+
+* follow the instructions of local authorities, including evacuation orders
+* monitor local media for updates on the situation
+* do not enter weakened or damaged structures until local authorities have deemed them safe
+
+[Aftershock Forecast](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/oaf/overview) – U.S. Geological Survey (USGS)
+
 ### Climate change
 
 Climate change is affecting Indonesia. Extreme and unusual weather events are becoming more frequent and may affect your travel plans. Indonesia is located in a very active seismic zone and is prone to natural disasters such as:
