@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   11 June 2026
+:   17 August 2026
 
 Updated:
-:   10 June 2026
+:   16 August 2026
 
 Latest update:
-:   Updated information about 'All Indonesia Declaration Form' and visa scams ('Entry requirements' page).
+:   Information about an earthquake in East Nusa Tenggara on 15 August (Warnings and insurance)
 
 ![](https://assets.publishing.service.gov.uk/media/6745db6083f3d6d843be9719/FCDO__TA__020_-_Indonesia_Travel_Advice_Ed9__WEB_.jpg)
 
@@ -46,6 +46,15 @@ Your travel insurance could be invalidated if you travel against advice from the
 * to within 7km of the crater
 
 See [more details about why FCDO advises against travel](/foreign-travel-advice/indonesia/regional-risks).
+
+## East Nusa Tenggara (NTT) Earthquake
+
+On 15 August, a strong offshore earthquake struck north of Flores, causing fatalities, injuries, and damage to buildings and infrastructure in parts of Flores. Numerous aftershocks have been recorded and may continue in the coming days.
+
+A tsunami warning was issued following the earthquake but has since been lifted. Local authorities have reported damage to roads, homes, and public facilities, with landslides and transport disruption affecting some areas.
+
+If you are in Flores or planning to travel there, follow the advice of local authorities, remain alert to aftershocks, avoid damaged buildings and affected coastal areas, and monitor local media and official guidance.
+Travellers in Flores and neighbouring parts of East Nusa Tenggara should monitor local developments, as aftershocks and transport disruption may affect travel plans.
 
 ## Global travel impacts due to escalation in the Middle East
 
