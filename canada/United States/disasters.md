@@ -2,27 +2,6 @@
 
 ## Natural disasters and climate
 
-### Tropical Storm Lala
-
-Tropical Storm Lala is expected to make landfall on Hawaii County as a hurricane on August 15, 2026.
-
-The storm is likely to bring excessive rainfall and violent winds. It may cause flash flooding and landslides and could severely disrupt the following essential services:
-
-* transportation
-* power distribution
-* water and food supply
-* telecommunications networks
-* emergency services
-* medical care
-
-If you are in Hawaii County:
-
-* exercise caution
-* monitor local news and weather reports
-* follow the instructions of local authorities
-
-[Latest advisories](http://www.nhc.noaa.gov/) – U.S. National Hurricane Centre
-
 Natural disasters can occur at any time.
 
 [Plan Ahead for Disasters](https://www.ready.gov/) – U.S. Department of Homeland Security

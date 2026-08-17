@@ -1,7 +1,7 @@
 {
     "name": "United States",
-    "update_reason": "Risk levels section \u2013 Avoid non-essential travel to Hawaii County; Natural disasters and climate section \u2013 added information on Tropical Storm Lala",
-    "update_date": "2026-08-13T16:40:00",
+    "update_reason": "Risk level section \u2013 removed regional advisory for Hawaii County; Natural disasters and climate section \u2013 removed information on Tropical Storm Lala",
+    "update_date": "2026-08-16T19:46:00",
     "sections": {
         "risk": "canada/United States/risk.md",
         "security": "canada/United States/security.md",
