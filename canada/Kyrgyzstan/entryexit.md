@@ -52,12 +52,12 @@ Tourist visa: not required for stays of up to 30 days in a 60-day period
 
 If you intend to stay in Kyrgyzstan for longer than 30 days, you must obtain an E-Visa before your arrival in the country.
 
-Once in the country, you must also register with the State Registration Service Passport Desk within 5 business days following your arrival. You will need to show this proof of registration to leave the country.
+Once in the country, you must also register with the State Registration Service Passport Desk within 60 days following your arrival. You will need to show this proof of registration to leave the country.
 
 If you fail to do so, local authorities will prevent you from leaving until you pay the associated fine.
 
-* [State Registration Services](https://portal.srs.kg/ru/service/b780fddb-3903-4a39-bb20-61664409250a) - Ministry of Justice of Kyrgyzstan
-* [E-visa](https://www.evisa.e-gov.kg/index.php) - Ministry of Foreign Affairs of Kyrgyzstan
+* [State Registration Services](https://portal.srs.kg/ru/service/b780fddb-3903-4a39-bb20-61664409250a) – Ministry of Justice of Kyrgyzstan (in Russian and Kyrgyz only)
+* [E-visa](https://www.evisa.e-gov.kg/index.php) – Ministry of Foreign Affairs of Kyrgyzstan
 
 ### Regional travel
 

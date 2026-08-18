@@ -16,7 +16,9 @@ Avalanches can occur in mountainous areas, including at ski resorts. These can c
 
 Typhoons usually occur between June and October. During this period, even small storms can quickly develop into major typhoons. Southern areas, including Okinawa and surrounding islands, are more vulnerable.
 
-These severe storms can put you at risk and hamper the provision of essential services.
+Typhoons can bring torrential rainfall, strong winds, storm surges, flooding and landslides. Transportation networks, including flights, ferries, rail services and road travel, may be disrupted with little notice.
+
+These severe storms can put you at risk and hamper the provision of essential services. Heavy rainfall can trigger landslides, damage roads and bridges, and cause flash flooding, particularly in low-lying areas near rivers and coastlines.
 
 If you decide to travel to Japan during the typhoon season:
 
