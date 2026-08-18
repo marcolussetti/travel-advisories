@@ -24,6 +24,10 @@ See [what health risks you’ll face in Chile](https://travelhealthpro.org.uk/co
 
 There are confirmed cases of dengue fever on Rapa Nui (Easter Island). Take steps to [avoid being bitten by mosquitoes](http://travelhealthpro.org.uk/factsheet/38/insect-and-tick-bite-avoidance).
 
+### Hantavirus
+
+Hantavirus is present in Chile. Read more information about [Hantavirus in Chile on TravelHealthPro](https://travelhealthpro.org.uk/country/48/chile#Outbreaks). Further guidance on Hantavirus is available from the [UK Health Security Agency](https://ukhsa.blog.gov.uk/2026/05/05/what-is-hantavirus-how-is-it-transmitted-and-what-are-the-symptoms/) and [Chile’s Ministry of Health](https://www.minsal.cl/ministerio-de-salud-declara-alerta-sanitaria-por-hantavirus-desde-atacama-a-magallanes/) (website in Spanish).
+
 ## Medication
 
 The legal status and regulation of some medicines prescribed or bought in the UK can be different in other countries.

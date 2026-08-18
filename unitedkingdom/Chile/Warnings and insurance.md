@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   23 July 2026
+:   18 August 2026
 
 Updated:
-:   22 July 2026
+:   17 August 2026
 
 Latest update:
-:   Removal of information about wildfires in the southern regions of Chile ('Warnings and insurance' page).
+:   Addition of information about Hantavirus in Chile ('Health' page).
 
 This travel advice page also covers Rapa Nui (Easter Island).
 
