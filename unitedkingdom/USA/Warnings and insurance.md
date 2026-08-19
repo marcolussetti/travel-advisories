@@ -1,21 +1,15 @@
 # Warnings and insurance
 
 Still current at:
-:   3 June 2026
+:   19 August 2026
 
 Updated:
-:   2 June 2026
+:   18 August 2026
 
 Latest update:
-:   Addition of  information about entry requirements for those entering from Ebola-affected regions ('Entry requirements' page).
+:   Updated information about US Hurricane season predictions (‘Safety and security’ page).
 
 This travel advice also covers American Samoa, Guam, Northern Mariana Islands, Puerto Rico, and United States Virgin Islands.
-
-## World Cup 2026
-
-The US is co-hosting the 2026 World Cup which takes place between 11 June and 19 July.
-
-If you are planning to travel to the US during these times, see the [World Cup page](https://www.gov.uk/foreign-travel-advice/usa/world-cup-2026) for more information.
 
 ## Before you travel
 

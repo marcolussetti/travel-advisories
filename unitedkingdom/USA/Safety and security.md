@@ -138,14 +138,13 @@ Snowstorms can disrupt critical infrastructure, and cause power cuts, or delays 
 
 The Atlantic hurricane season normally runs from June to November. The Pacific hurricane season normally runs from May to November. Hurricanes can affect coastal regions, Hawaii and Guam. The South Pacific tropical cyclone season normally runs from November to May and can affect American Samoa.
 
-The US National Oceanic and Atmospheric Administration (NOAA) predicts that there is a very high likelihood of an “[above-normal Atlantic hurricane season](https://www.noaa.gov/news-release/noaa-predicts-above-normal-2024-atlantic-hurricane-season)” in 2024. Travellers to the USA during the hurricane season should check the websites of local, State and Federal agencies (such as the [National Oceanic and Atmospheric Administration](https://www.noaa.gov/)) for the latest conditions. You should also be aware of the possibility of disruption to flights.
+The [US National Oceanic and Atmospheric Administration’s](https://www.noaa.gov/) (NOAA) seasonal outlook predicts a “below-normal Atlantic hurricane season” and an “above-normal hurricane season in the central Pacific basin”, including the waters around Hawaii in 2026. Travellers to the USA during hurricane season should check the websites of local, State and Federal agencies (such as NOAA and the [US National Hurricane Center](https://www.nhc.noaa.gov/)) for the latest forecasts and conditions. You should also be aware of the possibility of disruption to flights and other transport services.
 
 You should:
 
 * monitor approaching storms on the [US National Hurricane Center website](https://www.nhc.noaa.gov/)
 * follow instructions from local authorities, including evacuation orders
-* visit the [Federal Emergency Management Agency (FEMA) website](https://www.fema.gov) for information on preparing for extreme weather and evacuating
-* check with your airline or travel agent about possible disruption to flights or airport services and follow their advice
+* visit the [Federal Emergency Management Agency (FEMA) website](https://www.fema.gov/) for information on preparing for extreme weather and evacuatingCheck with your airline or travel agent about possible disruption to flights or airport services and follow their advice
 
 ### Earthquakes
 
@@ -187,6 +186,6 @@ Parts of the US are in the Arctic Circle, including some very remote areas of la
 
 [Previous:Entry requirements](/foreign-travel-advice/usa/entry-requirements)
 
-[Next:World Cup 2026](/foreign-travel-advice/usa/world-cup-2026)
+[Next:Health](/foreign-travel-advice/usa/health)
 
 [View a printable version of the whole guide](/foreign-travel-advice/usa/print)

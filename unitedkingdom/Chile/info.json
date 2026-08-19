@@ -1,11 +1,11 @@
 {
     "name": "Chile",
-    "update_reason": "Addition of information about Hantavirus in Chile ('Health' page).",
+    "update_reason": "Update regarding severe weather and flooding in Tocopilla, northern Chile (See \u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Chile/Warnings and insurance.md",
-            "update_date": "2026-08-17T10:19:31+01:00"
+            "update_date": "2026-08-18T23:18:12+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Chile/Getting help.md"
         }
     ],
-    "update_date": "2026-08-17T10:19:31+01:00"
+    "update_date": "2026-08-18T23:18:12+01:00"
 }

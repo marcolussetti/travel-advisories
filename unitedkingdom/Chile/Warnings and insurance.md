@@ -1,15 +1,19 @@
 # Warnings and insurance
 
 Still current at:
-:   18 August 2026
+:   19 August 2026
 
 Updated:
-:   17 August 2026
+:   18 August 2026
 
 Latest update:
-:   Addition of information about Hantavirus in Chile ('Health' page).
+:   Update regarding severe weather and flooding in Tocopilla, northern Chile (See ‘Warnings and insurance’ page).
 
 This travel advice page also covers Rapa Nui (Easter Island).
+
+## State of emergency in Tocopilla
+
+A state of emergency has been declared in Tocopilla, northern Chile, due to severe weather and flooding. If you are a British citizen in the area, please follow the advice of local authorities, including any evacuation orders. Access to Tocopilla is currently restricted. Check for updates and safety alerts from Chilean civil protection [@Senapred](https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsenapred.cl%2F&data=05%7C02%7CDylan.Mower%40fcdo.gov.uk%7C0f5a216388434a22b21f08defd73b6ad%7Cd3a2d0d37cc84f52bbf985bd43d94279%7C0%7C0%7C639226870602454405%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=jDkmq9km1u7qfVR%2Bnb5M6PcWA5%2FsL%2B%2Bifl1Xw3ipJT8%3D&reserved=0) and local officials. British nationals in Chile who require urgent consular assistance can contact the local number 22 370 4100 and select the option for consular assistance.
 
 ## Before you travel
 

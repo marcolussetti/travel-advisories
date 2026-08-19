@@ -10,8 +10,6 @@ A valid ESTA or visa does not guarantee you will be allowed to enter the US. 
 
 If you’re not sure how these requirements apply to you, contact the US Embassy or a consulate in the UK. See information from [US Customs and Border Protection](https://www.cbp.gov/travel/international-visitors) on entry for international visitors.
 
-For information specific to those coming to the US to attend the World Cup, see our [World Cup 2026 page](https://www.gov.uk/foreign-travel-advice/usa/world-cup-2026) and [US Customs and Border Protection information](https://www.cbp.gov/travel/cbp-welcomes-you-fifa-world-cup-2026).
-
 ## Passport validity requirements
 
 To enter the US, your passport must be valid for the length of your planned stay.
