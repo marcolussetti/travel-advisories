@@ -1,7 +1,7 @@
 {
     "name": "Malta",
-    "update_reason": "Natural disasters and climate section \u2013 added information on flight disruptions related to the eruption of Mount Etna",
-    "update_date": "2026-08-14T14:10:00",
+    "update_reason": "Natural disasters and climate section \u2013 removed information on flight disruptions related to the eruption of Mount Etna",
+    "update_date": "2026-08-18T14:38:00",
     "sections": {
         "risk": "canada/Malta/risk.md",
         "security": "canada/Malta/security.md",

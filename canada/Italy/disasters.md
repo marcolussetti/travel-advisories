@@ -12,14 +12,6 @@ Italy is located in an active seismic zone. Even minor earthquakes can cause sig
 
 ### Volcanoes
 
-### Flight disruptions due to the eruption of Mount Etna
-
-Flights are disrupted in Sicily due to volcanic ash cloud from the recent eruption of Mount Etna.
-
-Confirm the status of your flight before heading to the airport.
-
-[Catania International airport](https://www.aeroporto.catania.it/en)
-
 There are nine active volcanoes in Italy.
 
 If you are travelling near active volcanoes:
