@@ -10,9 +10,9 @@ Monday to Friday 09:00-13:30 and 14:40-17:00
 
 ### Embassy of Ireland, India
 
-C17 Malcha Marg   
-Chanakyapuri   
-New Delhi 110 021   
+Thapar House, 124, Janpath Rd,   
+Connaught Place,   
+New Delhi, 110001   
 India
 
 [Tel: +91 11 4940 3200](tel:+9111 4940 3200)
