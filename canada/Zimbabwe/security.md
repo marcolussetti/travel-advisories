@@ -134,6 +134,17 @@ Taxis recommended by hotels are normally reliable and in good condition.
 * Only use a reputable taxi company
 * Book taxis through your hotel or an authorized taxi centre
 
+#### Ferries
+
+Fatal ferry accidents have occurred due to poor maintenance, overcrowding, and a lack of safety measures and equipment.
+
+If you decide to travel by ferry:
+
+* only use a reputable company
+* make sure appropriate safety equipment is available
+* do not board a boat that is too crowded or in poor condition
+* avoid water transportation during adverse weather conditions
+
 ### Air travel
 
 We don't make assessments on the compliance of foreign domestic airlines with international safety standards.

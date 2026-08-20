@@ -40,7 +40,7 @@ If you’re travelling near active volcanoes:
 #### Useful links
 
 * [Volcano alerts](https://rnvv.sernageomin.cl/) – National Geology and Mining Service (Spanish only)
-* [Volcanic eruptions](https://bibliogrd.senapred.gob.cl/bitstream/handle/1671/6385/05_ErupcionVolcanica_Ingles%20SENAPRED%202023.pdf?sequence=5&isAllowed=y) – National Service for Disaster Prevention and Response (SENAPRED)
+* [Volcanic eruptions](https://bibliogrd.senapred.gob.cl/bitstream/handle/1671/8923/03_get_ready_with_senapred_volcanic_eruption_eng.pdf) – National Service for Disaster Prevention and Response (SENAPRED)
 
 ### Earthquakes and tsunamis
 
@@ -55,7 +55,7 @@ In the event of an earthquake or tsunami:
 
 #### Useful links
 
-* [Earthquakes](https://bibliogrd.senapred.gob.cl/bitstream/handle/1671/6385/15_Sismo_Ingles%20SENAPRED%202023.pdf?sequence=15&isAllowed=y) – National Service for Disaster Prevention and Response (SENAPRED)
+* [Earthquakes](https://bibliogrd.senapred.gob.cl/bitstream/handle/1671/8870/01_get_ready_with_senapred_earthquakes_eng.pdf) – National Service for Disaster Prevention and Response (SENAPRED)
 * [Latest alerts](https://senapred.cl/informate/alertas) – National Service for Disaster Prevention and Response (SENAPRED) (Spanish only)
 * [Latest earthquakes](https://earthquake.usgs.gov/earthquakes/map/?extent=-3.33795,-125.33203&extent=65.07213,-64.6875) – U.S. Geological Survey
 * [Tsunami alerts](https://tsunami.gov/) – U.S. Tsunami Warning System
@@ -72,9 +72,9 @@ Avoid riverside accommodations, especially in central and southern Chile, becaus
 
 #### Useful links
 
-* [Winter](https://bibliogrd.senapred.gob.cl/bitstream/handle/1671/6385/10_Invierno_ingles%20SENAPRED%202023.pdf?sequence=10&isAllowed=y) – National Service for Disaster Prevention and Response (SENAPRED)
-* [Floods](https://bibliogrd.senapred.gob.cl/bitstream/handle/1671/6385/09_Inundaciones_ingles%20SENAPRED%202023.pdf?sequence=9&isAllowed=y) – National Service for Disaster Prevention and Response (SENAPRED)
-* [Mudflows](https://bibliogrd.senapred.gob.cl/bitstream/handle/1671/6385/01_Aluviones_Ingles%20SENAPRED%202023.pdf?sequence=1&isAllowed=y) – National Service for Disaster Prevention and Response (SENAPRED)
+* [Winter](https://bibliogrd.senapred.gob.cl/bitstream/handle/1671/8880/10_get_ready_with_senapred_winter_eng.pdf) – National Service for Disaster Prevention and Response (SENAPRED)
+* [Floods](https://bibliogrd.senapred.gob.cl/bitstream/handle/1671/8887/12_get_ready_with_senapred_floods_eng.pdf) – National Service for Disaster Prevention and Response (SENAPRED)
+* [Mudflows](https://bibliogrd.senapred.gob.cl/bitstream/handle/1671/8861/04_get_ready_with_senapred_mudslides_eng.pdf) – National Service for Disaster Prevention and Response (SENAPRED)
 
 ### Coastal swells
 
@@ -89,7 +89,7 @@ If you plan to travel near the coast:
 #### Useful links
 
 * [Marine forecasts](https://meteoarmada.directemar.cl/prontus_meteo/site/edic/base/port/inicio.html) – Chilean Navy Weather Service (some information in Spanish only)
-* [Sea surges](https://bibliogrd.senapred.gob.cl/bitstream/handle/1671/6385/12_Marejadas_Ingles%20SENAPRED%202023.pdf?sequence=12&isAllowed=y) – National Service for Disaster Prevention and Response (SENAPRED)
+* [Sea-swell waves](https://bibliogrd.senapred.gob.cl/bitstream/handle/1671/8897/15_get_ready_with_senapred_sea_swell_waves_eng.pdf) – National Service for Disaster Prevention and Response (SENAPRED)
 
 ### Wildfires
 
@@ -107,7 +107,7 @@ In case of a major fire:
 
 * [Current situation and fire forecast](https://www.conaf.cl/incendios/situacion-actual-y-pronostico-de-incendios/#reporteincendios) – National Forest Corporation (CONAF) (Spanish only)
 * [Latest alerts](https://senapred.cl/informate/alertas) – National Service for Disaster Prevention and Response (SENAPRED) (Spanish only)
-* [Wildfires](https://bibliogrd.senapred.gob.cl/bitstream/handle/1671/6385/08_IncendiosForestales_Ingles%20SENAPRED%202023.pdf?sequence=8&isAllowed=y) – National Service for Disaster Prevention and Response (SENAPRED)
+* [Wildfires](https://bibliogrd.senapred.gob.cl/bitstream/handle/1671/8867/06_get_ready_with_senapred_wildfires_eng.pdf) – National Service for Disaster Prevention and Response (SENAPRED)
 
 ### Air pollution
 
