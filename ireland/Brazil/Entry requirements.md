@@ -4,7 +4,7 @@
 
 Irish citizens do not need a visa to visit Brazil as a tourist for periods of up to 90 days. Visitors will, however, have to be able to show that they are a genuine tourist (see below).
 
-On arrival in Brazil, visitors must present a passport that is valid for at least 6 months. In general, on arrival in Brazil visitors should have: proof that they have or have access to sufficient funds (if bringing credit cards, we advise you to carry a statement to prove the limit); a return or onward ticket; and proof of accommodation booked for at least the first night.
+On arrival in Brazil, visitors must present a passport that is valid for at least 6 months. In general, on arrival in Brazil visitors must have: proof that they have or have access to sufficient funds (if bringing credit cards, we advise you to carry a statement to prove the limit); a return or onward ticket; and proof of accommodation booked for at least the first night. Travellers must always check with the [Brazilian Embassy, in Dublin](http://dublin.itamaraty.gov.br/en-us/) on entry requirements.
 
 On entering Brazil, visitors should ensure your passport is stamped by the immigration authorities and retain a copy of your immigration landing card. These will be reviewed when departing Brazil, and if not presented, a fine may be applied.
 
