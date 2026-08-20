@@ -25,7 +25,7 @@ Examples of previous significant attacks include:
 * in March 2024, a plot to attack New Year (Nowruz) celebrations in Vahdat using poison was disrupted by Tajik authorities
 * in 2023, three suspected terrorists were reportedly killed by Tajik border forces while planning an attack ahead of Tajik national day celebrations. There are infrequent incursions by armed criminal and terrorist groups across the Afghanistan border into Tajikistan, mainly at night
 
-Stay aware of your surroundings, keep up to date with local media reports and follow the advice of local authorities.
+Stay aware of your surroundings and take particular care during periods of national or religious significance and on public holidays, including Nowruz, Independence Day and New Year Celebrations. Keep up to date with local media reports and follow the advice of local authorities.
 
 ## Political situation
 

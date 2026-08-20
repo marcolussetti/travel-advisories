@@ -16,9 +16,9 @@ There is a history of border clashes in this area, and the security situation ca
 
 ### Tajikistan-Afghanistan border
 
-In November 2025, five Chinese nationals were killed in two separate cross-border attacks launched from Afghanistan in the Shamsiddin Shohon (Khatlon) and Darvoz (GBAO) regions.
+In November 2025, 5 Chinese nationals were killed in 2 separate cross-border attacks launched from Afghanistan in the Shamsiddin Shohon (Khatlon) and Darvoz (GBAO) regions. On 13 August 2026, a local resident was killed by a stray bullet in Darvoz during armed clashes along the border of Afghanistan’s Badakhshan Province.
 
-Armed clashes or incursions by armed terrorist or criminal groups may occur without notice near the border with Afghanistan. Stay alert and be cautious in these areas. Do not walk off-road – there are both marked and unmarked minefields. Read [information on terrorism](https://www.gov.uk/foreign-travel-advice/tajikistan/safety-and-security#terrorism).
+Armed clashes involving terrorist or criminal groups may occur without notice close to the Tajikistan border in Afghanistan’s Badakhshan region. Armed groups have previously conducted cross-border incursions from Afghanistan. You should stay alert in border regions and follow the instructions of local authorities. Do not walk off-road – there are both marked and unmarked minefields.
 
 ## Gorno-Badakhshan Autonomous Region
 

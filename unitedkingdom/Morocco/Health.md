@@ -28,19 +28,31 @@ Altitude sickness is a risk in parts of Morocco. Read more about [altitude sick
 
 Henna tattoos can cause a painful allergic reaction including swelling and an itchy rash in some people.
 
+### Rabies
+
+Rabies and other animal-borne diseases are present in Morocco. Stray animals are common in many towns and cities. Packs of dogs often gather in parks, on wasteland, and in quieter areas, and can behave aggressively. Do not approach or feed stray animals. If you are bitten or scratched, seek medical advice immediately.
+
 ## Medication
 
-If you have a UK prescription and need medication in Morocco, contact the nearest pharmacy. If they do not have your medication, they will ask you to get another prescription from a Moroccan doctor for an alternative medication. Pharmacies are open 24 hours in every city and district.
+If you have prescription medication issued in the UK, ensure you bring an adequate supply for the duration of your trip and plan carefully to avoid running out. On some occasions, travellers have struggled to source medication.
+
+If you require medication in Morocco, contact the nearest pharmacy. If they do not have your medication, they will ask you to get another prescription from a Moroccan doctor for an alternative medication. Pharmacies are open 24 hours in every city and district.
 
 The legal status and regulation of some medicines prescribed or bought in the UK can be different in other countries.
 
 Read [best practice when travelling with medicines on TravelHealthPro](https://travelhealthpro.org.uk/factsheet/43/medicines-abroad).
 
+## Food hygiene and allergies
+
+Travellers to Morocco should follow good food and water hygiene to reduce the risk of stomach bugs. Travellers who fall ill are advised to seek medical help if symptoms, such as vomiting and diarrhoea, do not improve after a few days.
+
+Travellers with allergies should take extra care when dining in Morocco. Allergen information is not consistently provided, and cross-contamination risks may be higher than in the UK. Make your allergies clear and avoid foods you are unsure about.
+
 ## Healthcare in Morocco
 
-Public health facilities in Morocco struggle to provide adequate medical care. Private clinics are available. Make sure you have adequate travel health insurance and accessible funds to cover the cost of any medical treatment abroad and repatriation.
+Public health facilities in Morocco provide limited medical care. Private clinics are available and operate to a higher standard. Make sure you have adequate travel health insurance and accessible funds to cover the cost of any medical treatment abroad and repatriation.
 
-FCDO has a [list of medical providers in Morocco](https://www.gov.uk/government/publications/morocco-list-of-medical-facilities) where some staff will speak English.
+FCDO has a [list of medical providers in Morocco](https://www.gov.uk/government/publications/morocco-list-of-medical-facilities) where some staff will speak English.
 
 ## Travel and mental health
 

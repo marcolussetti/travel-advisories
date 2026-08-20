@@ -1,11 +1,11 @@
 {
     "name": "Qatar",
-    "update_reason": "New information on drone use, including permit requirements and penalties for non-compliance (See \u2018Using cameras, binoculars and drones\u2019 on the \u2018Safety and security\u2019 page).",
+    "update_reason": "Updated information about bringing prescription and controlled medication into Qatar, including the Ministry of Public Health's online permit application system ('Health' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Qatar/Warnings and insurance.md",
-            "update_date": "2026-08-03T13:41:18+01:00"
+            "update_date": "2026-08-19T14:38:09+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Qatar/Getting help.md"
         }
     ],
-    "update_date": "2026-08-03T13:41:18+01:00"
+    "update_date": "2026-08-19T14:38:09+01:00"
 }

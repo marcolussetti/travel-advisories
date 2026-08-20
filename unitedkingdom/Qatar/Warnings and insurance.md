@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   4 August 2026
+:   20 August 2026
 
 Updated:
-:   3 August 2026
+:   19 August 2026
 
 Latest update:
-:   New information on drone use, including permit requirements and penalties for non-compliance (See ‘Using cameras, binoculars and drones’ on the ‘Safety and security’ page).
+:   Updated information about bringing prescription and controlled medication into Qatar, including the Ministry of Public Health's online permit application system ('Health' page).
 
 ## Regional tensions
 

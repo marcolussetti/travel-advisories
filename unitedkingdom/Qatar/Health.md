@@ -30,16 +30,9 @@ TravelHealthPro explains [best practice when travelling with medicines](https://
 
 ### Bringing medication into Qatar
 
-Some prescribed and over-the-counter medicines may be controlled substances in Qatar. If you need to bring controlled or prescription medication into Qatar, make sure you carry it in its original packaging, accompanied by your prescription and an official letter signed and stamped by your doctor. The letter should include:
+Some prescribed and over-the-counter medicines may be controlled substances in Qatar. If you need to bring controlled or prescription medication into Qatar, make sure you follow the steps required by the Qatar Ministry of Public Health, including carrying a prescription and medical report in English or Arabic containing details of your medication and treatment, issued within the last 6 months.
 
-* name of the medication
-* quantity prescribed
-* dosage
-* why it’s required
-
-The letter should be signed by the doctor or consultant and stamped by the hospital or surgery.
-
-For more information, [see](https://www.moph.gov.qa/_layouts/download.aspx?SourceUrl=/Admin/Lists/PublicationsAttachments/Attachments/201/Guideline-of-Controlled-Drugs-for-Travellers%20-%20English.pdf) [the Ministry of Public Health (MOPH) guide.](https://www.moph.gov.qa/_layouts/download.aspx?SourceUrl=/Admin/Lists/PublicationsAttachments/Attachments/201/Guideline-of-Controlled-Drugs-for-Travellers%20-%20English.pdf)
+The Ministry of Public Health (MOPH) provides an [electronic service](https://fli.moph.gov.qa/?lang=en) which enables travellers arriving to the State of Qatar to submit applications for permits allowing them to carry controlled medicines for personal use, with the ability to track their applications and receive permits online.
 
 ## Healthcare in Qatar
 

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   10 July 2026
+:   20 August 2026
 
 Updated:
-:   9 July 2026
+:   19 August 2026
 
 Latest update:
-:   Updated information about visa extension (see ‘Visa requirements’ on the ‘Entry requirements’ page).
+:   New information about terrorism and armed clashes near the Tajikistan-Afghanistan border ('Safety and security' and ‘Regional risks’ pages).
 
 ## Global travel impacts due to escalation in the Middle East
 

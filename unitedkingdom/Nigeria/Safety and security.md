@@ -99,7 +99,7 @@ If you receive a suspicious email that claims to be from any British High Commis
 
 ### IVF and fertility treatment scams
 
-If you’re considering fertility treatment in Nigeria, be cautious. There have been a number of staged fake births (commonly called ‘miracle babies’) where visitors are falsely led to believe they have given birth.
+If you’re considering fertility treatment in Nigeria, exercise caution. There have been reports of a number of staged fake births (commonly called ‘miracle babies’) where visitors are falsely led to believe that a birth has taken place. Regulation of the fertility sector, including surrogacy services, is weak. Ensure you are aware of relevant UK requirements if you plan to bring a baby born through fertility treatment in Nigeria into the UK, such as [Guidance on surrogacy overseas](https://www.gov.uk/government/publications/surrogacy-overseas/surrogacy-overseas).
 
 The UK has restricted [overseas adoption of children](https://www.gov.uk/child-adoption/adopting-a-child-from-overseas) from Nigeria. If you bring a child who is not biologically related to you into the UK without following the legal procedures, you could face prosecution and the child may not be eligible for British citizenship.
 

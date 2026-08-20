@@ -1,19 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   5 August 2026
+:   20 August 2026
 
 Updated:
-:   4 August 2026
+:   19 August 2026
 
 Latest update:
-:   Updated information about the earthquake in Kumamoto prefecture ('Warnings and insurance' page).
-
-## Earthquake in Kumamoto prefecture
-
-A large earthquake struck Kumamoto prefecture on 28 July 2026. Earthquake aftershocks may continue, which can lead to possible travel disruption.
-
-Follow [local news updates](https://www3.nhk.or.jp/nhkworld/en/news/) and advice from the [Japan Meteorological Agency](https://www.data.jma.go.jp/eqev/data/en/tsunami/tsunami_warning.html).
+:   Removal of information about the earthquake in Kumamoto prefecture ('Warnings and insurance' page).
 
 ## Global travel impacts due to escalation in the Middle East
 

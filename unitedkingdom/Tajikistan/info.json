@@ -1,11 +1,11 @@
 {
     "name": "Tajikistan",
-    "update_reason": "Updated information about visa extension (see \u2018Visa requirements\u2019 on the \u2018Entry requirements\u2019 page).",
+    "update_reason": "New information about terrorism and armed clashes near the Tajikistan-Afghanistan border ('Safety and security' and \u2018Regional risks\u2019 pages).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Tajikistan/Warnings and insurance.md",
-            "update_date": "2026-07-09T16:21:59+01:00"
+            "update_date": "2026-08-19T15:15:52+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Tajikistan/Getting help.md"
         }
     ],
-    "update_date": "2026-07-09T16:21:59+01:00"
+    "update_date": "2026-08-19T15:15:52+01:00"
 }

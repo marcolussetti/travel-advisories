@@ -12,6 +12,20 @@ Make sure [your passport is not damaged](https://www.gov.uk/government/publicati
 
 You will be denied entry if you do not have a valid travel document or try to use a passport that has been reported lost or stolen.
 
+## Lost or stolen passports
+
+If your passport is lost or stolen, you will need to apply for an emergency travel document from the British embassy. You will also need to show a police report to be able to leave the country. The police will issue a written report, this can be a “déclaration de perte” for a lost passport or a “déclaration de vol” for a stolen passport. Stolen or lost passports must be reported in the city where the theft occurred.
+
+Border officials should stamp your passport when you enter Morocco. Some travellers have had difficulties leaving Morocco because their passport did not have an entry stamp.
+
+## Sending passports by post
+
+It is illegal to send passports by post to or through Morocco. The authorities will confiscate British passports sent to or through Morocco by post or courier.
+
+## Carrying unaccompanied passports
+
+Carrying another person’s passport may attract scrutiny from Police, Immigration, Customs, or Border Officials. Travellers are strongly advised not to carry a passport belonging to an individual who is not accompanying them unless there is a clear and legitimate reason for doing so.
+
 ## Dual nationals
 
 When returning to the UK, British citizens must carry a valid [British passport](https://www.gov.uk/browse/abroad/passports) or [certificate of entitlement](https://www.gov.uk/right-of-abode/apply-for-a-certificate-of-entitlement). See [Dual citizenship](https://www.gov.uk/dual-citizenship).
@@ -23,10 +37,6 @@ You can visit Morocco without a visa for up to 90 days for tourism.
 To stay longer than 90 days, you must request an extension at a Moroccan police station.
 
 If you’re going to Morocco for reasons other than tourism, check visa requirements with the [Moroccan Consulate General in the UK](https://www.consulat.ma/en).
-
-Make sure you get your passport stamped.
-
-Make sure the border official stamps your passport. Some travellers have had difficulties leaving Morocco because their passport has no entry stamp.
 
 ## Arriving by private boat
 
@@ -40,13 +50,15 @@ For full details about medical entry requirements and recommended vaccinations, 
 
 ## Customs rules
 
-There are strict rules about [goods you can take into or out of Morocco](https://www.douane.gov.ma/web/guest/particuliers) (in French). You must declare anything that may be prohibited or subject to tax or duty.
+There are strict rules about [goods you can take into or out of Morocco](https://www.douane.gov.ma/web/guest/particuliers). You must declare anything that may be prohibited or subject to tax or duty.
 
 ### Taking money into or out of Morocco
 
-You can take up to 2,000 Moroccan dirham into or out of Morocco. The dirham is ‘non-convertible’ – it cannot be easily exchanged for other currencies .
+The Moroccan dirham is a closed ‘non-convertible’ currency. This means it cannot be easily exchanged outside Morocco for other currencies .
 
-You must declare foreign currency worth 100,000 Moroccan dirham or more (about 10,000 US dollars) when you enter or leave the country. There is no limit on the amount of foreign cash you can carry.
+You must declare foreign currency worth 100,000 Moroccan dirham or more (equal to around £8,000) when you enter or leave the country.
+
+Passing fraudulent banknotes carries significant prison sentences. Defacing Moroccan banknotes is also illegal and punishable by imprisonment.
 
 [Previous:Warnings and insurance](/foreign-travel-advice/morocco)
 

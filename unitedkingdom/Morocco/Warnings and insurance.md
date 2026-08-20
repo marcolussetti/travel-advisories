@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   18 February 2026
+:   20 August 2026
 
 Updated:
-:   17 February 2026
+:   19 August 2026
 
 Latest update:
-:   Removal of information about risks from severe weather conditions in several areas across Morocco.
+:   This travel advice has been reviewed for accuracy with updates made throughout, including new information about passports, using dating applications, outdoor activities and adventure tourism, using electronic scooters and bikes, quad biking, hot air balloons and beaches and wildfires; information about rabies and food hygiene and allergies; updated information about taking money into or out of Morocco, and information about illegal drugs and prison sentences (See 'Entry requirements', 'Safety and security' and 'Health' pages).
 
 ## Before you travel
 

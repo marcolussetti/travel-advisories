@@ -1,11 +1,11 @@
 {
     "name": "Morocco",
-    "update_reason": "Removal of information about risks from severe weather conditions in several areas across Morocco.",
+    "update_reason": "This travel advice has been reviewed for accuracy with updates made throughout, including new information about passports, using dating applications, outdoor activities and adventure tourism, using electronic scooters and bikes, quad biking, hot air balloons and beaches and wildfires; information about rabies and food hygiene and allergies; updated information about taking money into or out of Morocco, and information about illegal drugs and prison sentences (See 'Entry requirements', 'Safety and security' and 'Health' pages).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Morocco/Warnings and insurance.md",
-            "update_date": "2026-02-17T10:48:54+00:00"
+            "update_date": "2026-08-19T12:00:36+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Morocco/Getting help.md"
         }
     ],
-    "update_date": "2026-02-17T10:48:54+00:00"
+    "update_date": "2026-08-19T12:00:36+01:00"
 }
