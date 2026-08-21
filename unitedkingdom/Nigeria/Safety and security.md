@@ -97,11 +97,17 @@ If you’re emailed about a money transfer to Nigeria for someone you know, cont
 
 If you receive a suspicious email that claims to be from any British High Commission office in Nigeria, contact the Consular Section of the [British Deputy High Commission](https://www.gov.uk/world/organisations/british-deputy-high-commission-lagos#contact-us) in Lagos.
 
-### IVF and fertility treatment scams
+### Surrogacy and fertility treatment
 
-If you’re considering fertility treatment in Nigeria, exercise caution. There have been reports of a number of staged fake births (commonly called ‘miracle babies’) where visitors are falsely led to believe that a birth has taken place. Regulation of the fertility sector, including surrogacy services, is weak. Ensure you are aware of relevant UK requirements if you plan to bring a baby born through fertility treatment in Nigeria into the UK, such as [Guidance on surrogacy overseas](https://www.gov.uk/government/publications/surrogacy-overseas/surrogacy-overseas).
+If you’re considering fertility treatment or surrogacy options in Nigeria, exercise caution. There have been reports of staged fake births, commonly referred to as ‘miracle babies’, where visitors are falsely led to believe that a birth has taken place.
 
-The UK has restricted [overseas adoption of children](https://www.gov.uk/child-adoption/adopting-a-child-from-overseas) from Nigeria. If you bring a child who is not biologically related to you into the UK without following the legal procedures, you could face prosecution and the child may not be eligible for British citizenship.
+Regulation of fertility treatment and surrogacy services in Nigeria is weak, and legal protections for intended parents and surrogates may be limited. There have also been reports of legal disputes involving international surrogacy arrangements in both Nigerian and English courts.
+
+If you plan to bring a child born through fertility treatment or surrogacy in Nigeria to the UK, make sure you understand the relevant UK immigration and health requirements. See [Guidance on surrogacy overseas](https://www.gov.uk/government/publications/surrogacy-overseas/surrogacy-overseas).
+
+### Overseas Adoption
+
+The UK has restricted overseas adoption of children from Nigeria. If you bring a child who is not biologically related to you into the UK without following the legal procedures, you could face prosecution and the child may not be eligible for British citizenship.
 
 ### Kidnapping for ransom
 

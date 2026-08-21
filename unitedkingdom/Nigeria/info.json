@@ -1,11 +1,11 @@
 {
     "name": "Nigeria",
-    "update_reason": "Updated information about IVF and fertility treatment scams ('Safety and security' page).",
+    "update_reason": "Updated information about IVF, fertility treatment scams and overseas adoption ('Safety and security' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Nigeria/Warnings and insurance.md",
-            "update_date": "2026-08-19T10:46:01+01:00"
+            "update_date": "2026-08-20T15:18:43+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Nigeria/Getting help.md"
         }
     ],
-    "update_date": "2026-08-19T10:46:01+01:00"
+    "update_date": "2026-08-20T15:18:43+01:00"
 }

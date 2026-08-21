@@ -1,11 +1,11 @@
 {
     "name": "Kuwait",
-    "update_reason": "New information about visa requirements when entering Kuwait ('Entry requirements' page).",
+    "update_reason": "FCDO no longer advises against all but essential travel to Kuwait (\u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Kuwait/Warnings and insurance.md",
-            "update_date": "2026-08-13T12:29:47+01:00"
+            "update_date": "2026-08-20T09:00:55+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Kuwait/Getting help.md"
         }
     ],
-    "update_date": "2026-08-13T12:29:47+01:00"
+    "update_date": "2026-08-20T09:00:55+01:00"
 }

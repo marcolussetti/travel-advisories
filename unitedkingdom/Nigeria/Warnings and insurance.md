@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   20 August 2026
+:   21 August 2026
 
 Updated:
-:   19 August 2026
+:   20 August 2026
 
 Latest update:
-:   Updated information about IVF and fertility treatment scams ('Safety and security' page).
+:   Updated information about IVF, fertility treatment scams and overseas adoption ('Safety and security' page).
 
 ![](https://assets.publishing.service.gov.uk/media/6a4d04e84889d85e75ab4154/FCDO__TA__030_-_Nigeria_Travel_Advice_Ed11__WEB_.jpg)
 

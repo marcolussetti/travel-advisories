@@ -1,18 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   24 July 2026
+:   21 August 2026
 
 Updated:
-:   23 July 2026
+:   20 August 2026
 
 Latest update:
-:   FCDO now advises against all but essential travel to Bahrain (‘Warnings and insurance’ page).
-
-![](https://assets.publishing.service.gov.uk/media/6a61d0e4e2d191f0bc8b6d58/Bahrain_Travel_Advice_Ed1__WEB_.jpg)
-
-
-[Download a more detailed map (PDF, 433 KB)](https://assets.publishing.service.gov.uk/media/6a61d0e491d54bc7d5127e45/FCDO_TA_106_-_Bahrain_Travel_Advice_Ed1.pdf)
+:   FCDO no longer advises against all but essential travel to Bahrain (‘Warnings and insurance’ page).
 
 ## Regional tensions
 

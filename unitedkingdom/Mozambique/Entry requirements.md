@@ -12,7 +12,7 @@ Check with your travel provider that your passport and other travel documents me
 
 You will be denied entry if you do not have a valid travel document or try to use a passport that has been reported lost or stolen.
 
-Make sure you get your passport stamped.
+Make sure you get your passport stamped with the correct dates before leaving the immigration desk.
 
 You need at least 2 blank pages for entry stamps.
 
@@ -26,19 +26,27 @@ If you’re entering Mozambique with a child under the age of 18, you will need 
 
 ## Visa requirements
 
-You can [travel without a visa to Mozambique](https://www.mozambiquehighcommission.org.uk/visa-section.html) for tourism or business for up to 30 days but the Mozambican authorities request you apply for an Electronic Travel Authorisation (ETA) at least 48 hours before departure. You can [apply through the Mozambique eVisa official portal](https://evisa.gov.mz/).
+British passport holders must get an Electronic Travel Authorisation (ETA) before travelling to Mozambique for tourism or business visits of up to 30 days.
 
-On arrival, you must be able to show border control a written invitation from your host, or a confirmed reservation for accommodation, and a return or onward air ticket.
+You can apply for an ETA through the [official Mozambique eVisa portal](https://evisa.gov.mz/) at least 5 working days before you travel. You must pay online when you apply. You cannot pay on arrival at the border.
 
-Keep the receipt provided upon arrival at the border, as you may need to show it when exiting Mozambique.
+The fee is approximately 47 US dollars, including a 37 US dollars  visa fee and a 650 Mozambican Metical processing fee. Processing can take at least 5 working days. You should apply well in advance of your travel date.
+
+When you arrive in Mozambique, you may be asked to show:
+
+* proof of accommodation
+* a return or onward ticket
+* proof that you have enough money to support yourself during your stay
+
+You should carry a printed copy of your approved ETA and payment confirmation, as immigration officials may ask to see them when you enter or leave Mozambique.
 
 ## Entering Mozambique by land crossing
+
+Not all lands borders are open 24 hours a day 7 days a week. Check the opening times directly [online](https://evisa.gov.mz/). Land border crossings into neighbouring countries can be restricted, blocked or closed at short notice.
 
 It can take a long time to clear border formalities at the Lebombo-Ressano Garcia land crossing from South Africa, especially during holiday periods. There can be delays if you are travelling on public transport. Allow time to get to your destination before nightfall.
 
 There have been armed robberies close to the Lebombo border in Nelspruit. These often take place in the queue for the border, mainly after dark. When you stop at junctions or in queues, stay alert and ensure you have space to turn and drive off.
-
-Land border crossings into neighbouring countries can be restricted, blocked or closed at short notice.
 
 ## Travel to or from South Africa
 

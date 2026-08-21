@@ -1,11 +1,11 @@
 {
     "name": "Mozambique",
-    "update_reason": "New information about document requirements for travellers under 18 ('Entry requirements' page).",
+    "update_reason": "New information about requirement for Electronic Travel Authorisation (ETA) ('Entry requirements' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Mozambique/Warnings and insurance.md",
-            "update_date": "2026-07-09T15:47:45+01:00"
+            "update_date": "2026-08-20T14:50:43+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Mozambique/Getting help.md"
         }
     ],
-    "update_date": "2026-07-09T15:47:45+01:00"
+    "update_date": "2026-08-20T14:50:43+01:00"
 }

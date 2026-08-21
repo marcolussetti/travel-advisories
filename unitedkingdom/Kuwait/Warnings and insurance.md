@@ -1,18 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   14 August 2026
+:   21 August 2026
 
 Updated:
-:   13 August 2026
+:   20 August 2026
 
 Latest update:
-:   New information about visa requirements when entering Kuwait ('Entry requirements' page).
-
-![](https://assets.publishing.service.gov.uk/media/6a61d42eabcde513b38b6d54/FCDO_TA_105_-_Kuwait_Travel_Advice_Ed1_WEB.jpg)
-
-
-[Download a more detailed map (PDF, 327 KB)](https://assets.publishing.service.gov.uk/media/6a61d42ff869f6a53d0c8aab/FCDO_TA_105_-_Kuwait_Travel_Advice_Ed1.pdf)
+:   FCDO no longer advises against all but essential travel to Kuwait (‘Warnings and insurance’ page).
 
 ## Regional tensions
 
@@ -30,7 +25,7 @@ British nationals currently in the Middle East should be prepared for possible f
 
 ### Travelling to or transiting through Kuwait
 
-Kuwait International Airport is currently operating through Terminals 4 and 5, serving Kuwait Airways and Jazeera Airways, while Terminal 1 remains closed. Flight schedules are reduced. Check details with your airline before travelling and follow local guidance.
+Kuwait International Airport is currently operating through Terminals 4 and 5, serving Kuwait Airways, Jazeera Airways and foreign carriers, while Terminal 1 remains closed. Flight schedules remain reduced. Check details with your airline before travelling and follow local guidance.
 
 ## Before you travel
 
