@@ -43,6 +43,16 @@ When travelling in this destination, you might be at risk for diseases that can 
 
 The highlights below will also tell you if your destination may require that vaccine for entering or exiting.
 
+Polio 
+
+[Polio](https://travel.gc.ca/travelling/health-safety/diseases/polio) (poliomyelitis) is an infectious disease that can be prevented by vaccination. It is caused by poliovirus type 1, 2 or 3. Circulating vaccine-derived poliovirus 2 (cVDPV2) is present in this country.
+
+Polio is spread from person to person and through contaminated food and water. Infection with the polio virus can cause paralysis and death in individuals of any age who are not immune.
+
+**Recommendations:**
+
+* Be sure that your polio vaccinations are up to date before travelling. Polio is part of the [routine vaccine schedule](https://www.canada.ca/en/public-health/services/publications/healthy-living/canadian-immunization-guide-part-1-key-immunization-information/page-13-recommended-immunization-schedules.html#p1c12a2) for children in Canada.
+* One booster dose of the polio vaccine is recommended as an [adult](https://www.canada.ca/en/public-health/services/publications/healthy-living/canadian-immunization-guide-part-3-vaccination-specific-populations/page-9-immunization-travellers.html#a3).
 Yellow Fever - Country Entry Requirements 
 
 [Yellow fever](https://www.canada.ca/en/public-health/services/diseases/yellow-fever.html) is a disease caused by a flavivirus from the bite of an infected mosquito.
@@ -168,17 +178,6 @@ When you return to Canada, see a health care professional as soon as possible an
 
 **Learn more:**  
 [Rabies: Symptoms and treatment](https://www.canada.ca/en/public-health/services/diseases/rabies.html)
-
-Polio 
-
-[Polio](https://travel.gc.ca/travelling/health-safety/diseases/polio) (poliomyelitis) is an infectious disease that can be prevented by vaccination. It is caused by poliovirus type 1, 2 or 3. Circulating vaccine-derived poliovirus 2 (cVDPV2) is present in this country.
-
-Polio is spread from person to person and through contaminated food and water. Infection with the polio virus can cause paralysis and death in individuals of any age who are not immune.
-
-**Recommendations:**
-
-* Be sure that your polio vaccinations are up to date before travelling. Polio is part of the [routine vaccine schedule](https://www.canada.ca/en/public-health/services/publications/healthy-living/canadian-immunization-guide-part-1-key-immunization-information/page-13-recommended-immunization-schedules.html#p1c12a2) for children in Canada.
-* One booster dose of the polio vaccine is recommended as an [adult](https://www.canada.ca/en/public-health/services/publications/healthy-living/canadian-immunization-guide-part-3-vaccination-specific-populations/page-9-immunization-travellers.html#a3).
 
 ### Safe food and water precautions
 
@@ -398,16 +397,6 @@ To lower your risk of getting sexually transmissible infections (STIs), HIV, and
 [Sexual health and travel](https://www.canada.ca/en/public-health/services/diseases/sexually-transmitted-infections.html)  
 [HIV and AIDS: Travel health advice](https://www.canada.ca/en/public-health/services/diseases/hiv-aids/travel-health-advice.html)
 
-Tuberculosis
-
-[Tuberculosis](https://www.canada.ca/en/public-health/services/diseases/tuberculosis.html) is an infection caused by bacteria and usually affects the lungs.
-
-For most travellers the risk of tuberculosis is low.
-
-Travellers who may be at high risk while travelling in regions with risk of tuberculosis should discuss pre- and post-travel options with a health care professional.
-
-High-risk travellers include those visiting or working in prisons, refugee camps, homeless shelters, or hospitals, or travellers visiting friends and relatives.
-
 Marburg virus disease
 
 Sporadic outbreaks of Marburg virus disease (MVD) may occur in this country.
@@ -421,6 +410,16 @@ Marburg virus is transmitted to people from fruit bats and spreads among humans 
 
 **Learn more:**  
 [Marburg virus disease](https://www.canada.ca/en/public-health/services/infectious-diseases/viral-haemorrhagic-fevers/marburg-virus-disease.html)
+
+Tuberculosis
+
+[Tuberculosis](https://www.canada.ca/en/public-health/services/diseases/tuberculosis.html) is an infection caused by bacteria and usually affects the lungs.
+
+For most travellers the risk of tuberculosis is low.
+
+Travellers who may be at high risk while travelling in regions with risk of tuberculosis should discuss pre- and post-travel options with a health care professional.
+
+High-risk travellers include those visiting or working in prisons, refugee camps, homeless shelters, or hospitals, or travellers visiting friends and relatives.
 
 ### Medical services and facilities
 

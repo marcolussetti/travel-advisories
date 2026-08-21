@@ -87,9 +87,9 @@ Overstaying is a criminal offence. There is a fine for each day of overstay. Thi
 
 ### Domestic flights
 
-Rules for international flights also apply to domestic flights within Peru, including touristic flights over the Nazca lines archaeological site. Pisco International Airport is the closest and safest airport from Lima that offers this type of flight.
+Rules for international flights also apply to domestic flights within Peru, including tourist flights over the Nazca lines archaeological site.
 
-Carry your passport with you and be prepared to show it to officials
+Carry your passport with you and be prepared to show it to officials.
 
 ### Dual citizenship
 

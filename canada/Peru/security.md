@@ -121,7 +121,7 @@ Assaults have occurred along the Inca Trail and in the Huaraz region of the Cord
 
 Express kidnappings involving tourists have occurred. Victims are usually abducted for a few hours and forced to withdraw money from ATMs for their release. Most express kidnappings take place at night, but incidents also occur during daylight hours. Incidents often involve criminals posing as taxi drivers, or taxi drivers working for organized gangs.
 
- Virtual kidnappings occur throughout the country. Criminals use stolen cellphones to contact family members claiming to have kidnapped the owner of the phone and then ask for ransom money.
+Virtual kidnappings occur throughout the country. Criminals use stolen cellphones to contact family members claiming to have kidnapped the owner of the phone and then ask for ransom money.
 
 * Be suspicious of strangers approaching you on the street
 * Never leave your cellphone unattended
@@ -254,6 +254,10 @@ Access to Vinicunca, the “Rainbow Mountain”, is regularly disrupted by viol
 ### Sand buggies
 
 There are reports of accidents, severe injuries and deaths involving recreational sand buggies, particularly in the sand dunes around Ica and Lake Huacachina. These vehicles are not regulated, often poorly maintained, and safety equipment is not always available.
+
+### Nazca lines sightseeing flights
+
+Pisco International Airport is the closest airport to Lima that offers tourist flights over the Nazca lines archaeological site, and the safest option for flights. If you choose to take a flight over the Nazca lines, make sure to use a certified operator.
 
 ### Water activities
 

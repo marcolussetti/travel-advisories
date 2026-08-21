@@ -8,7 +8,7 @@ You must have your passport stamped immediately upon entry into Ethiopia. You mu
 
 If you do not comply, you could face heavy entry and overstay fines.
 
-[For more information on entry and overstay fines](#entry-overstay-fines)
+[For more information on entry and overstay fines](#overstayfines)
 
 Some countries have imposed measures in response to the [Ebola disease outbreak](https://travel.gc.ca/travelling/health-safety/travel-health-notices/549). These can include restrictions on entry and health screening measures for travellers having recently visited an affected country. If you are suspected of having symptoms, you may be subject to isolation, quarantine and/or travel restrictions. Contact the authorities of the country you are travelling to for more details.
 

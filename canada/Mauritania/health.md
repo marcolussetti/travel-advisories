@@ -25,51 +25,6 @@ When travelling in this destination, you might be at risk for diseases that can 
 
 The highlights below will also tell you if your destination may require that vaccine for entering or exiting.
 
-Polio 
-
-The World Health Organization (WHO), at the time of their last report, identified this country as no longer poliovirus-infected, but as having been previously infected within the last 24 months.
-
-[Polio](https://travel.gc.ca/travelling/health-safety/diseases/polio) is spread from person to person and through contaminated food and water. Infection with polio virus can cause paralysis and death in individuals of any age who are not immune.
-
-Polio can be prevented by vaccination.
-
-**Recommendations:**
-
-* Be sure that your polio vaccinations are up to date before travelling. Polio is part of the [routine vaccine schedule](https://www.canada.ca/en/public-health/services/publications/healthy-living/canadian-immunization-guide-part-1-key-immunization-information/page-13-recommended-immunization-schedules.html#p1c12a2) for children in Canada.
-* One booster dose of the polio vaccine is recommended as an [adult](https://www.canada.ca/en/public-health/services/publications/healthy-living/canadian-immunization-guide-part-3-vaccination-specific-populations/page-9-immunization-travellers.html#a3).
-Rabies 
-
-Rabies is present in this destination and is carried by dogs and some wildlife, including bats. Rabies is a serious disease that’s almost always fatal once symptoms appear. It's spread to humans through the saliva of infected animals, mainly through bites, but it can also be spread through scratches.
-
-Before you travel, talk to a health care professional about rabies vaccination. Vaccination may be recommended for people at higher risk of exposure, such as:
-
-* veterinarians and wildlife workers
-* children
-* adventure travellers and cave explorers (spelunkers)
-* people who will be in close contact with animals
-
-While travelling:
-
-* avoid contact with animals, including free roaming dogs
-* supervise children closely around animals
-
-If you’re bitten or scratched by an animal:
-
-* wash the wound right away with soap and clean water for about 15 minutes
-* get medical care as soon as possible
-
-Treatment to prevent rabies is often available in this destination.
-
-If you get treatment to prevent rabies while outside Canada, ask for:
-
-* written records of medications and vaccines administered, including when they were given, product names, and batch or lot numbers
-* photos of the packaging and labels of any medications or vaccines given to you
-
-When you return to Canada, see a health care professional as soon as possible and bring your treatment records to your appointment.
-
-**Learn more:**  
-[Rabies: Symptoms and treatment](https://www.canada.ca/en/public-health/services/diseases/rabies.html)
-
 Yellow Fever - Country Entry Requirements 
 
 [Yellow fever](https://www.canada.ca/en/public-health/services/diseases/yellow-fever.html) is a disease caused by a flavivirus from the bite of an infected mosquito.
@@ -153,6 +108,51 @@ Malaria
 • Wear permethrin-treated clothing.   
    
 If you develop [symptoms](https://www.canada.ca/en/public-health/services/diseases/malaria/symptoms-malaria.html) similar to malaria when you are travelling or up to a year after you return home, see a health care professional immediately. Tell them where you have been travelling or living.
+
+Polio 
+
+The World Health Organization (WHO), at the time of their last report, identified this country as no longer poliovirus-infected, but as having been previously infected within the last 24 months.
+
+[Polio](https://travel.gc.ca/travelling/health-safety/diseases/polio) is spread from person to person and through contaminated food and water. Infection with polio virus can cause paralysis and death in individuals of any age who are not immune.
+
+Polio can be prevented by vaccination.
+
+**Recommendations:**
+
+* Be sure that your polio vaccinations are up to date before travelling. Polio is part of the [routine vaccine schedule](https://www.canada.ca/en/public-health/services/publications/healthy-living/canadian-immunization-guide-part-1-key-immunization-information/page-13-recommended-immunization-schedules.html#p1c12a2) for children in Canada.
+* One booster dose of the polio vaccine is recommended as an [adult](https://www.canada.ca/en/public-health/services/publications/healthy-living/canadian-immunization-guide-part-3-vaccination-specific-populations/page-9-immunization-travellers.html#a3).
+Rabies 
+
+Rabies is present in this destination and is carried by dogs and some wildlife, including bats. Rabies is a serious disease that’s almost always fatal once symptoms appear. It's spread to humans through the saliva of infected animals, mainly through bites, but it can also be spread through scratches.
+
+Before you travel, talk to a health care professional about rabies vaccination. Vaccination may be recommended for people at higher risk of exposure, such as:
+
+* veterinarians and wildlife workers
+* children
+* adventure travellers and cave explorers (spelunkers)
+* people who will be in close contact with animals
+
+While travelling:
+
+* avoid contact with animals, including free roaming dogs
+* supervise children closely around animals
+
+If you’re bitten or scratched by an animal:
+
+* wash the wound right away with soap and clean water for about 15 minutes
+* get medical care as soon as possible
+
+Treatment to prevent rabies is often available in this destination.
+
+If you get treatment to prevent rabies while outside Canada, ask for:
+
+* written records of medications and vaccines administered, including when they were given, product names, and batch or lot numbers
+* photos of the packaging and labels of any medications or vaccines given to you
+
+When you return to Canada, see a health care professional as soon as possible and bring your treatment records to your appointment.
+
+**Learn more:**  
+[Rabies: Symptoms and treatment](https://www.canada.ca/en/public-health/services/diseases/rabies.html)
 
 COVID-19
 

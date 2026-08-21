@@ -55,7 +55,7 @@ You can apply for a visa at the nearest Mozambican embassy or consulate or obtai
 
 #### Tourist and business visa exemption
 
-You may enter Mozambique for tourism or business without a visa for up to 30 days; however, you must present the following upon arrival:
+You may enter Mozambique for tourism or business purposes without a visa for up to 30 days, but you must present the following upon arrival:
 
 * an Electronic Travel Authorization (ETA) obtained at least 48 hours before departure
 * a return or onward ticket (except for travel by land)

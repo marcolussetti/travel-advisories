@@ -25,6 +25,24 @@ When travelling in this destination, you might be at risk for diseases that can 
 
 The highlights below will also tell you if your destination may require that vaccine for entering or exiting.
 
+Polio – WHO Temporary Recommendations 
+
+[Polio](https://travel.gc.ca/travelling/health-safety/diseases/polio) (poliomyelitis) is an infectious disease that can be prevented by vaccination. It is caused by poliovirus type 1, 2 or 3. Wild poliovirus (WPV1) and/or circulating vaccine-derived poliovirus (cVDPV1 or cVDPV3)) is/are present in this destination.
+
+Polio is spread from person to person and through contaminated food and water. Infection with the polio virus can cause paralysis and death in individuals of any age who are not immune.
+
+**Recommendations:**
+
+* Be sure that your polio vaccinations are up to date before travelling. Polio is part of the [routine vaccine schedule](https://www.canada.ca/en/public-health/services/publications/healthy-living/canadian-immunization-guide-part-1-key-immunization-information/page-13-recommended-immunization-schedules.html#p1c12a2) for children in Canada.
+* One booster dose of the polio vaccine is recommended as an [adult](https://www.canada.ca/en/public-health/services/publications/healthy-living/canadian-immunization-guide-part-3-vaccination-specific-populations/page-9-immunization-travellers.html#a3).
+* Make sure that the polio vaccination is documented on the International Certificate of Vaccination or Prophylaxis. This is the only document accepted as proof of vaccination. It is provided at designated [yellow fever vaccination centres](https://www.canada.ca/fr/sante-publique/services/sante-voyageurs/fievre-jaune.html).
+* Carry the certificate as proof of vaccination when travelling to this destination.
+
+This destination is subject to Temporary Recommendations under the World Health Organization (WHO)’s polio Public Health Emergency of International Concern (PHEIC).
+
+**Temporary Recommendations (WHO):**
+
+* Travellers who are visiting for longer than 4 weeks may be required to receive a dose of polio vaccine 1 to 12 months before they leave this destination. This may be required even if you have previously received all the recommended polio vaccine doses as part of the routine vaccine schedule in Canada.
 Hepatitis A
 
 There is a risk of [hepatitis A](https://www.canada.ca/en/public-health/services/diseases/hepatitis-a.html) in this destination. It is a disease of the liver. People can get hepatitis A if they ingest contaminated food or water, eat foods prepared by an infectious person, or if they have close physical contact (such as oral-anal sex) with an infectious person, although casual contact among people does not spread the virus.
@@ -153,25 +171,6 @@ When you return to Canada, see a health care professional as soon as possible an
 **Learn more:**  
 [Rabies: Symptoms and treatment](https://www.canada.ca/en/public-health/services/diseases/rabies.html)
 
-Polio – WHO Temporary Recommendations 
-
-[Polio](https://travel.gc.ca/travelling/health-safety/diseases/polio) (poliomyelitis) is an infectious disease that can be prevented by vaccination. It is caused by poliovirus type 1, 2 or 3. Wild poliovirus (WPV1) and/or circulating vaccine-derived poliovirus (cVDPV1 or cVDPV3)) is/are present in this destination.
-
-Polio is spread from person to person and through contaminated food and water. Infection with the polio virus can cause paralysis and death in individuals of any age who are not immune.
-
-**Recommendations:**
-
-* Be sure that your polio vaccinations are up to date before travelling. Polio is part of the [routine vaccine schedule](https://www.canada.ca/en/public-health/services/publications/healthy-living/canadian-immunization-guide-part-1-key-immunization-information/page-13-recommended-immunization-schedules.html#p1c12a2) for children in Canada.
-* One booster dose of the polio vaccine is recommended as an [adult](https://www.canada.ca/en/public-health/services/publications/healthy-living/canadian-immunization-guide-part-3-vaccination-specific-populations/page-9-immunization-travellers.html#a3).
-* Make sure that the polio vaccination is documented on the International Certificate of Vaccination or Prophylaxis. This is the only document accepted as proof of vaccination. It is provided at designated [yellow fever vaccination centres](https://www.canada.ca/fr/sante-publique/services/sante-voyageurs/fievre-jaune.html).
-* Carry the certificate as proof of vaccination when travelling to this destination.
-
-This destination is subject to Temporary Recommendations under the World Health Organization (WHO)’s polio Public Health Emergency of International Concern (PHEIC).
-
-**Temporary Recommendations (WHO):**
-
-* Travellers who are visiting for longer than 4 weeks may be required to receive a dose of polio vaccine 1 to 12 months before they leave this destination. This may be required even if you have previously received all the recommended polio vaccine doses as part of the routine vaccine schedule in Canada.
-
 ### Safe food and water precautions
 
 Eating or drinking unsafe food or water, or swimming in contaminated water can make you sick while travelling. Take precautions by following these tips:
@@ -240,6 +239,18 @@ To protect yourself from bites:
 [Insect bite and pest prevention](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html)  
 [Personal insect repellents](https://www.canada.ca/en/health-canada/services/about-pesticides/insect-repellents.html)
 
+Leishmaniasis - Visceral
+
+Visceral leishmaniasis, also called kala azar, can occur in this destination, though the risk is low for most travellers.
+
+The infection spreads through the bite of an infected sandfly. Symptoms can appear weeks or months after infection and may include fever, weight loss, an enlarged liver or spleen, and anaemia. Without treatment, visceral leishmaniasis can be fatal. If you think you might have visceral leishmaniasis, it’s important to speak to a health care provider as soon as possible.
+
+To lower your risk, protect yourself from sandfly bites. Sandflies are most active between sunset and sunrise in rural, forested and some urban areas.
+
+There is no vaccine or medication to prevent infection with the parasite that causes leishmaniasis.
+
+**Learn more:**[Leishmaniasis](https://www.canada.ca/en/public-health/services/diseases/leishmaniasis.html)
+
 Zika virus 
 
 [Zika virus](https://www.canada.ca/en/public-health/services/diseases/zika-virus.html) is a risk in this country.
@@ -272,18 +283,6 @@ There is no vaccine or medication to prevent onchocerciasis.
 African trypanosomiasis
 
 [African trypanosomiasis (sleeping sickness)](https://www.canada.ca/en/public-health/services/diseases/trypanosomiasis.html) is caused by a parasite spread through the bite of a tsetse fly. Tsetse flies usually bite during the day and the bites are usually painful. If untreated, the disease is eventually fatal. Risk is generally low for most travellers. Protect yourself from bites especially in game parks and rural areas. Avoid wearing bright or dark-coloured clothing as these colours attract tsetse flies. There is no vaccine available for this disease.
-
-Leishmaniasis - Visceral
-
-Visceral leishmaniasis, also called kala azar, can occur in this destination, though the risk is low for most travellers.
-
-The infection spreads through the bite of an infected sandfly. Symptoms can appear weeks or months after infection and may include fever, weight loss, an enlarged liver or spleen, and anaemia. Without treatment, visceral leishmaniasis can be fatal. If you think you might have visceral leishmaniasis, it’s important to speak to a health care provider as soon as possible.
-
-To lower your risk, protect yourself from sandfly bites. Sandflies are most active between sunset and sunrise in rural, forested and some urban areas.
-
-There is no vaccine or medication to prevent infection with the parasite that causes leishmaniasis.
-
-**Learn more:**[Leishmaniasis](https://www.canada.ca/en/public-health/services/diseases/leishmaniasis.html)
 
 ### Animal precautions
 
