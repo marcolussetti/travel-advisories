@@ -6,8 +6,6 @@ There is an ongoing risk of regular, serious terrorism incidents throughout the 
 
 Irish citizens in Pakistan should always exercise vigilance and caution and avoid large public gatherings. Major political demonstrations can be called at short notice, particularly within Islamabad and other major cities. While many public demonstrations take place in Pakistan without incident, large gatherings can potentially become violent quickly. Keep informed of what is going on around you by monitoring local media and staying in contact with your local contact, hotel or tour organizer. Be aware that mobile data and internet access may be curtailed during periods of civil unrest and road networks in cities, including airport routes.may be blocked. You should make contingency plans accordingly.
 
-Following a conflict in May 2025 a ceasefire was announced between Pakistan and India. The potential for a future escalation in hostilities persists, particularly in border regions and in the Pakistan-administered Kashmir region. Conflict between Afghanistan and Pakistan has also resulted in periods of serious cross-border clashes and violence. Except for official border crossing points, foreign nationals are not allowed to travel within certain distances of Pakistan’s international borders.
-
 ### **Kidnapping**
 
 The threat of kidnap of foreign nationals across Pakistan remains high. Kidnappers do not discriminate between nationalities or religions so follow these basic precautions:

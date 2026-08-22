@@ -6,6 +6,14 @@ High Degree of Caution
 
 ### **Travel Alert**
 
+### **Earthquake**
+
+An earthquake of magnitude 6.7 occurred on 20 of August 2026, northwest of the city of Upahuacho, in the Parinacochas province of the Ayacucho region. The earthquake was also felt in Cusco and Lima. The earthquake has resulted in dame to homes, health centres, and schools.
+
+Irish citizens in impacted areas should follow the advice and guidance of the local authorities and monitor local news channels for updates.
+
+If you have been impacted and require consular assistance, or have a concern about a relative or a friend, contact us on: +56 2 3304 6600
+
 ### **States of Emergency**
 
 States of Emergency are in force throughout many regions of Peru, including Lima and Callao and can be declared at short notice.

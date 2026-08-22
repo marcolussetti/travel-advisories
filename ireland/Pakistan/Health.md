@@ -2,7 +2,7 @@
 
 ### **Health Insurance**
 
-We encourage you to take out private health insurance before traveling to Pakistan. You should make sure that the insurance covers your needs. Travel insurance does not necessarily cover all expenses or in all situations.
+We encourage you to take out private health insurance before traveling to Pakistan. You should make sure that the insurance covers your needs. Travel insurance does not necessarily cover all expenses or all situations.
 
 ### **Vaccinations**
 

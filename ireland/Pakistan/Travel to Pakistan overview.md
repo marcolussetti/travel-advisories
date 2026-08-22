@@ -8,13 +8,9 @@ High Degree of Caution
 
 #### **Pakistan-Afghanistan Border**
 
-Following recent cross-border clashes, travellers are reminded and strongly advised to avoid all non-essential travel to the Pakistan-Afghanistan border regions. These areas remain volatile, with a high risk of terrorism, armed conflict, kidnapping, and cross-border violence.
+Following recent cross-border clashes, travellers are reminded and strongly advised avoiding all non-essential travel to the Pakistan-Afghanistan border regions. These areas remain volatile, with a high risk of terrorism, armed conflict, kidnapping, and cross-border violence.
 
 The security situation can deteriorate rapidly without warning, and government assistance in these regions may be limited or unavailable. Citizens should remain vigilant, monitor local media for updates, and strictly adhere to travel advisories issued by relevant authorities.
-
-#### **International Flight Disruption and Potential Fuel Shortages**
-
-Regional conflict has the potential to cause transport disruption and delays. There is also the possibility or disruption to regional energy supply routes impacting fuel availability and pricing. Citizens should stay in touch with their airlines in regard to any upcoming travel and take note of any notices regarding energy saving measures and reduced working hours for government offices.
 
 #### **Political Protests**
 
@@ -22,19 +18,19 @@ In view of recent regional and international developments, there is a heightened
 
 #### **Pakistan Administered Kashmir**
 
-The Embassy continues to advise against all travel to the Pakistan Administered Kashmir (AJK) region. The local government has also issued a travel advisory advising against travel to the region.
+The Embassy continues to advise against all travel to the Pakistan Administered Kashmir (AJK) region.
 
-In particular, and due to ongoing tensions, there may be planned protests, strike actions, and the possibility of travel disruptions during June 2026. Road closures, delays, restrictions on movement, and disruptions to public services may occur with little notice. Those currently in AJK should remain alert, avoid demonstrations and large gatherings, monitor local developments, and follow the guidance of local authorities.
+In particular, and due to ongoing tensions, there may be planned protests, strike actions, road closures, delays, restrictions on movement, and disruptions to public services may occur with little notice. Those currently in AJK should remain alert, avoid demonstrations and large gatherings, monitor local developments, and follow the guidance of local authorities.
 
 ### **General Travel Advice**
 
-Irish citizens require a valid passport (having minimum validity of 6 months) and a visa to enter Pakistan. It is advisable to take a few photocopies of your passport/valid ID’s during your stay in Pakistan. Please note that Irish Passport Cards are not accepted.
+Irish citizens require a valid passport (having minimum validity of 6 months) and a visa to enter Pakistan. It is advisable to take a few photocopies of your passport/valid IDs with you during your stay in Pakistan. Please note that Irish Passport Cards are not accepted.
 
 Irish citizens may apply for a visa online or for extensions through the Pakistani Government’s [**Official Visa Portal**](https://visa.nadra.gov.pk/).
 
 Irish travellers with essential travel to Pakistan should [**register their presence**](https://www.ireland.ie/en/dfa/overseas-travel/citizens-registration/) on the website of the Department of Foreign Affairs and Trade, to ensure that they receive important travel advice, services, and updates.
 
-Except for official border crossing points, foreigners are not permitted to travel;
+Foreigners are not permitted to travel, except for official border crossing points
 
 - within 10 miles of Pakistan’s international borders and
 
