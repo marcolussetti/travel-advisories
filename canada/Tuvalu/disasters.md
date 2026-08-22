@@ -4,7 +4,7 @@
 
 ### Climate change
 
-Climate change is affecting Tuvalu. Extreme and unusual weather events are becoming more frequent and may affect your travel plans. Monitor local news to stay informed on the current situation. 
+Climate change is affecting Tuvalu. Extreme and unusual weather events are becoming more frequent and may affect your travel plans. Monitor local news to stay informed on the current situation.
 
 ### Rainy season
 

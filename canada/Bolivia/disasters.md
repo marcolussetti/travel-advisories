@@ -44,7 +44,7 @@ In case of a significant fire:
 
 ### Earthquakes
 
-Bolivia is in an active seismic zone and is prone to earthquakes in the centre and southwest areas.
+Bolivia is located in an active seismic zone and is prone to earthquakes in the centre and southwest areas.
 
 Dangerous landslides can also occur, even after minor earthquakes.
 

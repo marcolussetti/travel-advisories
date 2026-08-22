@@ -62,7 +62,7 @@ If you decide to visit these counties:
 
 There is a high crime rate in most regions of Kenya, particularly in major cities such as Nairobi, Mombasa and Kisumu, and at coastal beach resorts.
 
-#### Petty Crime
+#### Petty crime
 
 Petty crime, such as pickpocketing and purse snatching, occurs frequently, particularly in urban centres.
 
@@ -80,7 +80,8 @@ Snatching from passing motorcycles or cars is frequent. Common targets are bags,
 
 In Nairobi, exercise increased caution in and around:
 
-* Central Business District
+* the Central Business District
+* Eastleigh and Pangani
 * Mathare, Kibera, and other informal settlement communities
 
 In Mombasa, exercise increased caution in and around the Old Town.

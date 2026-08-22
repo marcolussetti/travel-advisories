@@ -35,6 +35,6 @@ The features in this map do not constitute an authoritative source of geographic
 * within 50 km of the coast of Tana River County
 * within 50 km of the coast of Kilifi County (from north of the city of Malindi to the Tana River County limits)
 
-### Neighbourhoods of Nairobi - Avoid non-essential travel
+### Kibera neighbourhood of Nairobi - Avoid non-essential travel
 
-[Avoid non-essential travel](#levels "Risk Levels") to Avoid non-essential travel to the neighbourhoods of Eastleigh, Kibera and Pangani in Nairobi, due to the high crime rate.
+[Avoid non-essential travel](#levels "Risk Levels") to the Kibera neighbourhood of Nairobi due to the high crime rate.

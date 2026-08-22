@@ -21,7 +21,7 @@ In case of a major fire:
 #### Useful links
 
 * [Fire hazard map](https://www.aemet.es/en/eltiempo/prediccion/incendios) – State Meteorological Agency (AEMET)
-* [Civil protection](https://www.proteccioncivil.es/es/inicio) – Spanish Ministry of the Interior (Spanish only)
+* [Civil protection](https://www.proteccioncivil.es) – Spanish Ministry of the Interior (Spanish only)
 
 ### Flooding and landslides
 

@@ -14,18 +14,28 @@ Penalties for possession, use or trafficking of illegal drugs are severe. Convic
 
 [Drugs, alcohol and travel](https://travel.gc.ca/travelling/health-safety/drugs)
 
-### Medication
+### Imports and exports
 
-You cannot bring medication classified as a controlled substance into South Korea without an import permit, even with a prescription. This includes narcotic and psychotropic drugs.
+#### Medication
 
-If you take prescription medications, you're responsible for determining their legality in South Korea. Without proper authorization, these medications may be confiscated, and you could face legal consequences.
+It is illegal to bring narcotics and psychotropic drugs into South Korea, even with a prescription, unless you have an import permit. To import narcotic and psychotropic substances, you must apply online for approval before you arrive.
 
-To import narcotic and psychotropic substances, you must apply online for approval before you arrive.
+If you take prescription medications, you're responsible for verifying if they are legal in South Korea before you travel. Without proper authorization, these medications may be confiscated and you could face legal consequences.
+
+#### Other items
+
+South Korea has strict rules on the import and export of various items, including:
+
+* poppy seeds or foods containing poppy seeds
+* non-prescription supplements
+* firearms and ammunition
+* radio equipment
 
 #### Useful links
 
-* [Apply for an import permit](https://nedrug.mfds.go.kr/CCAAI01/init) – Ministry of Food and Drug Safety, Republic of Korea
-* [Drug information search](https://nedrug.mfds.go.kr/eng/index) – Government of Korea
+* [Apply for an import permit](https://nedrug.mfds.go.kr/CCAAI01/init) – Ministry of Food and Drug Safety
+* [Drug information search](https://nedrug.mfds.go.kr/eng/index) – Ministry of Food and Drug Safety
+* [Korea Customs Service](https://www.customs.go.kr/english/main.do)
 
 ### Support for anti-government organizations
 
@@ -37,7 +47,7 @@ Photography of military installations and government buildings is illegal.
 
 ### Driving
 
-You must carry an International Driving Permit or a South Korean driver’s licence.
+You must carry an International Driving Permit or a South Korean driver’s licence.
 
 Penalties for drinking and driving are severe. The legal blood alcohol limit is 0.03%. If the police suspect you of drinking and driving, they could confiscate your driver’s licence on the spot. If you’re convicted, you can expect heavy fines and a jail sentence.
 
@@ -45,23 +55,38 @@ Penalties for drinking and driving are severe. The legal blood alcohol limit is 
 
 ### Teaching English
 
-Carefully review any contract to teach English in South Korea before signing it, even when arranged by a Canadian recruiter. There have been reports that some contracts have been modified after the fact. Ensure that all terms and conditions of employment are clear before accepting an offer. Ensure that you meet all the necessary requirements.
+Carefully review any contract to teach English in South Korea before signing it, even if it was arranged by a Canadian recruiter. There have been reports that some contracts have been modified after the fact. Ensure that:
 
-The Korean government investigates the use of fraudulent documents, degrees and English-as-a-second-language (ESL) certificates. Penalties for using fraudulent documents include arrest, deportation and restrictions on re-entry. Be aware that written contracts may not be binding documents. Verbal agreements often take precedence over written agreements.
+* all terms and conditions of employment are clear before accepting an offer
+* you meet all the necessary requirements
+
+The Korean government investigates the use of fraudulent documents, degrees and English as a Second Language (ESL) certificates. Penalties for using fraudulent documents include arrest, deportation and restrictions on re-entry. Be aware that written contracts may not be binding documents. Verbal agreements often take precedence over written agreements.
+
+Some teachers have faced exploitation, including excessive working hours, and legal issues. There are organizations that can assist foreigners residing in South Korea, including teachers who are facing these issues.
+
+#### Useful links
+
+* [Seoul Foreign Portal](https://global.seoul.go.kr/web/main.do?lang=en)
+* [Busan Global City Foundation](https://bgcf.or.kr/)
 
 ### Dual citizenship
 
-South Korea legally recognizes dual citizenship. If you're a citizen of Canada, but also a citizen of South Korea, our ability to offer you consular services may be limited while you're there. You may also be subject to different entry/exit requirements.
+South Korea legally recognizes dual citizenship. If you're a citizen of Canada, but also a citizen of South Korea, our ability to offer you consular services may be limited while you're there. You may also be subject to different entry and exit requirements.
 
-The South Korean government considers children born from a Korean and a non-Korean parent to be South Korean citizens until age 18, even if they weren't born in South Korea. Former Koreans over 65 who wish to live their remaining years in South Korea may be granted citizenship.
+The South Korean government considers children born to a Korean and a non-Korean parent to be South Korean citizens until age 18, even if they weren't born in South Korea. Former Koreans over 65 who wish to live their remaining years in South Korea may be granted citizenship.
 
-A male dual citizen whose name appears on the Korean family relation certificate may be subject to compulsory military service, even when entering South Korea on a Canadian passport. Before travelling to South Korea, Canadian males of Korean origin may need to renounce their Korean citizenship or have their names removed from the Korean family relation certificate to avoid this requirement.
+If you’re a male dual citizen whose name appears on the Korean family relation certificate, you may be subject to compulsory military service, even when entering South Korea on a Canadian passport. If you’re a Canadian male of Korean origin, before travelling to South Korea, you may need to renounce your Korean citizenship or have your name removed from the Korean family relation certificate to avoid this requirement. The South Korean authorities may not allow you to renounce your Korean citizenship or leave the country until you either:
 
-Korean authorities will only recognize you as a Canadian-South Korean citizen if you meet certain criteria. If you think you may have a claim to South Korean citizenship, contact the Embassy of the Republic of Korea or one of its consulates.
+* complete your military service
+* receive a special exemption from serving
+
+Korean authorities will only recognize you as a dual Canadian-South Korean citizen if you meet certain criteria. If you think you may have a claim to South Korean citizenship, contact the Embassy of the Republic of Korea or one of its consulates.
+
+#### Useful links
 
 * [Entry/exit requirements](https://travel.gc.ca/destinations/south-korea#entryexit)
 * [Foreign diplomatic missions and consulates in Canada](http://www.international.gc.ca/protocol-protocole/reps.aspx?lang=eng)
-* [General information for travellers with dual citizenship](https://travel.gc.ca/travelling/documents/dual-citizenship)
+* [Dual citizens](https://travel.gc.ca/travelling/documents/dual-citizenship)
 
 ### International Child Abduction
 
@@ -91,12 +116,10 @@ Be aware that Canadian consular officials cannot interfere in private legal matt
 
 ### 2SLGBTQI+ persons
 
-Although the laws of South Korea do not prohibit sexual acts between individuals of the same sex, homosexuality is not socially tolerated. Same sex marriages are not legally recognised in South Korea.
-
-2SLGBTQI+ persons should carefully consider the risks of travelling to South Korea.
+Although the laws of South Korea do not prohibit sexual acts between individuals of the same sex, homosexuality is not socially tolerated. Same-sex marriages are not legally recognized in South Korea.
 
 [Travel and your sexual orientation, gender identity, gender expression and sex characteristics](https://travel.gc.ca/travelling/health-safety/lgbt-travel)
 
 ### Money
 
-The currency of South Korea is the won (KRW). Some major banks have ATMs that accept international debit or credit cards. The amount allowed per withdrawal may be quite low, making the service charge excessive. Most ATMs that allow withdrawal of money from Canadian bank accounts offer English instructions.
+The currency in South Korea is the won (KRW). Some major banks have ATMs that accept international debit or credit cards. The amount allowed per withdrawal may be quite low, making the service charge excessive. Most ATMs that allow withdrawal of money from Canadian bank accounts offer English instructions.

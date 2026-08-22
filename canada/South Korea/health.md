@@ -238,6 +238,17 @@ Make sure you get travel insurance that includes coverage for medical evacuation
 
 [Health and safety outside Canada](https://travel.gc.ca/travelling/health-safety)
 
+### Medical tourism
+
+Canadian citizens have had serious health complications following cosmetic or other elective surgeries abroad.
+
+Before leaving for medical travel:
+
+* make sure you have done your research
+* only use competent health-care providers
+
+[Travelling outside Canada to receive medical care](https://travel.gc.ca/travelling/health-safety/medical-care-outside-canada)
+
 ### Keep in Mind...
 
 The decision to travel is the sole responsibility of the traveller. The traveller is also responsible for his or her own personal safety.

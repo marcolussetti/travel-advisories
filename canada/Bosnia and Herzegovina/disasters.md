@@ -16,7 +16,7 @@ There is a risk year-round.
 
 ### Earthquakes
 
-Bosnia and Herzegovina is in an active seismic zone, and minor earthquakes are common.
+Bosnia and Herzegovina is located in an active seismic zone and minor earthquakes are common.
 
 ### Wildfires
 

@@ -4,7 +4,7 @@
 
 ### Seismic activity
 
-San Marino is in an active seismic zone and is subject to earthquakes.
+San Marino is located in an active seismic zone and is subject to earthquakes.
 
 [Information on seismic activity in San Marino](http://www.sanmarino.sm/on-line/home/pubblica-amministrazione/dipartimenti/articolo44011665.html) (in Italian only)
 

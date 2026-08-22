@@ -63,9 +63,9 @@ During your stay
 
 General elections took place on August 13, 2026.
 
-The results have not yet been announced and incidents of violence may occur throughout the election period.
+Incidents of violence may occur.
 
-If you’re in Zambia, avoid political rallies, demonstrations, and other election-related gatherings.
+If you’re in Zambia, maintain awareness and avoid political rallies, demonstrations and other election-related gatherings.
 
 Demonstrations can take place, especially surrounding elections. Even peaceful demonstrations can turn violent at any time. They can also lead to disruptions to traffic and public transportation.
 

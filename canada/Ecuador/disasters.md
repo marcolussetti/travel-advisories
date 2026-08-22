@@ -57,7 +57,7 @@ The complex weather phenomenon called El Niño happens at irregular intervals of
 
 ### Earthquakes and tsunamis
 
-Ecuador is in an active seismic area. Earthquakes and tremors occur regularly.
+Ecuador is located in an active seismic zone. Earthquakes and tremors occur regularly.
 
 Even minor earthquakes can cause significant damage.
 

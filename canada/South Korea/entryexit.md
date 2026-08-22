@@ -44,19 +44,23 @@ Different entry rules may apply when travelling with a temporary passport or an 
 
 ### Visas
 
-Tourist visa: not required\*  
-Business visa: not required\*  
-Student visa: required (must be obtained outside South Korea)  
-Working visa: required (must be obtained outside South Korea)
+Tourist visa: not required for stays of up to 180 days\*  
+ Business visa: not required for stays of up to 180 days\*  
+ Student visa: required (must be obtained outside South Korea)  
+ Work visa: required (must be obtained outside South Korea)
 
-\*Canadians are exempt from the Korea Electronic Travel Authority (K-ETA) requirement to visit South Korea until December 31, 2026.
+\*Canadians are exempt from the Korea Electronic Travel Authority (K-ETA) requirement until December 31, 2026.
 
-You can't change your visa status once you're in South Korea.
+You can't change your visa status once you're in South Korea as a tourist.
 
 If you wish to extend the length of your visa, contact the Korea Immigration Service as soon as possible to apply for an extension. Authorities strictly enforce immigration laws and regulations.
 
-* [Korea Electronic Travel Authority (K-ETA)](https://k-eta.go.kr/portal/apply/index.do?locale=EN) – Ministry of Justice, Republic of Korea
-* [More information about visas](http://www.immigration.go.kr/immigration_eng/index.do) – Korea Immigration Service
+Since regulations can change, contact the Korea Immigration Service if you have questions related to visas.
+
+#### Useful links
+
+* [Korea Electronic Travel Authority (K-ETA)](https://k-eta.go.kr/portal/apply/index.do?locale=EN) – Korea Immigration Service
+* [More information about visas](http://www.immigration.go.kr/immigration_eng/index.do) – Korea Immigration Service
 
 ### E-arrival cards
 
@@ -77,11 +81,11 @@ Foreigners must register their biometrics (fingerprints and facial scan) at thei
 
 ### Screening measures
 
-When you arrive from countries designated as "Quarantine Inspection Required Areas" including Canada, you are subject to symptom-based health screening measures. The Korea Immigration Service will assess your body temperature upon arrival. If you exhibit symptoms associated with infectious diseases, you must submit a health questionnaire either in electronic (Q-CODE) or paper format. Korean authorities may test you for other infectious diseases such as cholera and Zika virus. If you show flu-like symptoms or test positive for an infectious disease, authorities may quarantine you for medical observation.
+When you arrive from a country designated as a "Quarantine Inspection Required Area," you are subject to symptom-based health screening measures. The Korea Immigration Service will assess your body temperature upon arrival. If you exhibit symptoms associated with infectious diseases, you must submit a health questionnaire in either electronic (Q-CODE) or paper format. Korean authorities may test you for other infectious diseases such as cholera and Zika virus. If you show flu-like symptoms or test positive for an infectious disease, authorities may quarantine you for medical observation.
 
 You can register for a Q-CODE up to 7 days before arrival.
 
-[Q-CODE guide](https://qcode.kdca.go.kr/qco/guide.do) – Korea Disease Control and Prevention Agency
+[Q-CODE](https://qcode.kdca.go.kr/qco/index.do?lang=en) – Korea Disease Control and Prevention Agency
 
 ### Children and travel
 
