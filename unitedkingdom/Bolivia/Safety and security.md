@@ -155,9 +155,11 @@ Find out what you can do to [prepare for and respond to extreme weather and natu
 
 Forest fires are common during the dry season (May to October) and affect some parts of Southern and Eastern Bolivia. This can impact air quality in the areas most affected by the fires but also in other parts of the country, including La Paz. It is advisable to wear a face mask if the air quality is particularly bad, or to stay inside.
 
-### Flooding and landslides
+### Flooding, landslides and snowfall
 
-Floods and landslides are common, particularly in mountainous areas during the rainy season (November to March). Roads are often impassable for days at a time.
+Floods and landslides are common, particularly in mountainous areas during the rainy season (November to March), although weather can be unpredictable throughout the year. Roads can become impassable for days at a time. Travellers may become stranded in high, remote areas. Take food, water and warm clothing with you in case of delays or bad weather.
+
+Earthquakes.
 
 ### Earthquakes
 

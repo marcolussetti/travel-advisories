@@ -1,11 +1,11 @@
 {
     "name": "Bolivia",
-    "update_reason": "FCDO no longer advises against all but essential travel to the department of La Paz, including the city of La Paz ('Warnings and insurance' page).",
+    "update_reason": "Updated information on flooding, landslides and snowfall (\u2018Safety and security\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Bolivia/Warnings and insurance.md",
-            "update_date": "2026-07-03T12:47:30+01:00"
+            "update_date": "2026-08-21T10:53:00+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Bolivia/Getting help.md"
         }
     ],
-    "update_date": "2026-07-03T12:47:30+01:00"
+    "update_date": "2026-08-21T10:53:00+01:00"
 }

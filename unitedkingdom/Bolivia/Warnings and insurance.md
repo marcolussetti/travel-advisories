@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   4 July 2026
+:   22 August 2026
 
 Updated:
-:   3 July 2026
+:   21 August 2026
 
 Latest update:
-:   FCDO no longer advises against all but essential travel to the department of La Paz, including the city of La Paz ('Warnings and insurance' page).
+:   Updated information on flooding, landslides and snowfall (‘Safety and security’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/6a479e848effd97622f53c15/FCDO__TA__098_-_Bolivia_Travel_Advice_Ed1__WEB_.jpg)
 

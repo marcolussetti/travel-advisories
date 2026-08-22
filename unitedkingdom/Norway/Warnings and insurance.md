@@ -1,13 +1,17 @@
 # Warnings and insurance
 
 Still current at:
-:   12 August 2026
+:   22 August 2026
 
 Updated:
-:   11 August 2026
+:   21 August 2026
 
 Latest update:
-:   Updated information on European Entry-Exit System (EES) (‘Entry requirements’ page).
+:   Information about an ongoing air traffic controllers' strike (Warnings and insurance)
+
+## Air traffic control strike
+
+An ongoing air traffic controllers’ strike is causing disruption to flights across Norway. Delays and cancellations are expected while negotiations continue. Check with your airline or tour operator before travelling and monitor local updates.
 
 ## Before you travel
 
