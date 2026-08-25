@@ -4,13 +4,13 @@
 
 ### Earthquakes
 
-Rwanda is located in an active seismic zone.  However, earthquakes are not common.
+Rwanda is located in an active seismic zone. However, earthquakes are not common.
 
 ### Volcanoes
 
 There are several active and dormant volcanoes in and around Rwanda.
 
-The Nyiragongo volcano, located near Goma DRC, is one of the world’s most active volcanoes. It may pose a threat in northwestern areas in Rwanda near the DRC border.
+The Nyiragongo volcano, located near Goma in the DRC, is one of the world’s most active volcanoes. It may pose a threat in northwestern areas in Rwanda near the DRC border.
 
 Past eruptions forced the evacuation of hundreds of thousands of people, caused significant damage to infrastructure, and resulted in many casualties.
 
