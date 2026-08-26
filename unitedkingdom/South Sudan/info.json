@@ -1,11 +1,11 @@
 {
     "name": "South Sudan",
-    "update_reason": "New information about Ebola ('Entry requirements' page).",
+    "update_reason": "Updated information about Ebola ('Entry requirements' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/South Sudan/Warnings and insurance.md",
-            "update_date": "2026-05-26T13:55:03+01:00"
+            "update_date": "2026-08-25T10:10:08+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/South Sudan/Getting help.md"
         }
     ],
-    "update_date": "2026-05-26T13:55:03+01:00"
+    "update_date": "2026-08-25T10:10:08+01:00"
 }

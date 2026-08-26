@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   27 May 2026
+:   26 August 2026
 
 Updated:
-:   26 May 2026
+:   25 August 2026
 
 Latest update:
-:   New information about Ebola ('Entry requirements' page).
+:   Updated information about Ebola ('Entry requirements' page).
 
 ![](https://assets.publishing.service.gov.uk/media/5f4f33bfe90e071c6c7d9425/FCDO__TA__036_-_South_Sudan_Travel_Advice_Ed1__WEB_.jpg)
 

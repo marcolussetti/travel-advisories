@@ -51,6 +51,8 @@ In May 2026, neighbouring countries ([Democratic Republic of Congo](https://www.
 
 At Juba International Airport, some airlines are now asking passengers departing the country to complete a health declaration form. Some countries have heightened health screening for travellers coming from South Sudan. [Check entry requirements](https://www.gov.uk/foreign-travel-advice) for the country you’re travelling to or transiting.
 
+The UK’s Returning Workers Scheme has been activated, due to the outbreak of Ebola disease. Returning health and humanitarian workers should check the latest at [UK’s Returning Workers Scheme](https://www.gov.uk/guidance/ebola-returning-workers-scheme) before returning to the UK. Due to the proximity of South Sudan to affected areas, South Sudan is also covered by the scheme.
+
 UK Health Security Agency has [Ebola information for humanitarian or healthcare workers](https://www.gov.uk/government/publications/ebola-virus-disease-information-for-workers-in-at-risk-countries).
 
 ### COVID-19
