@@ -6,7 +6,7 @@ High Degree of Caution
 
 ### **Travel Alert**
 
-An earthquake of 7.4 magnitude occurred in the west of Colombia on 10 August, with its epicentre in the department of Chocó. Several regions have been strongly impacted, including the cities of Quibdó, Pereira, Manizales, Armenia, and Cali. Pereira airport remains temporarily closed due to severe damages. Other airports in the region have resumed operations.
+An earthquake of 7.4 magnitude occurred in the west of Colombia on 10 August, with its epicentre in the department of Chocó. Several regions have been strongly impacted, including the cities of Quibdó, Pereira, Manizales, Armenia, and Cali. Airports in the region are gradually resuming operations. Contact your airline or travel agent for updates on flight availability.
 
 Irish citizens in impacted areas should follow the advice and guidance of the local authorities and monitor local news channels for updates.
 
