@@ -4,6 +4,14 @@
 
 High Degree of Caution
 
+### **Travel Alert**
+
+On 26 August, severe flash flooding and mudslides occurred in the China-Nepal border area. There have been a number of reported casualties. Infrastructure within the area has been significantly damaged.
+
+Irish citizens are advised to avoid the affected areas, monitor local media and follow the instructions of local authorities.
+
+If you require consular assistance, contact the Embassy of Ireland in Beijing on +86 10 853 162 00 during office hours, Embassy of Ireland in Beijing out of hours Emergency service +86 10 138 010 567 or Consular Assistance in Dublin on +353 1 408 2000
+
 ### **General Travel Advice**
 
 China has announced that until 31 December 2026, citizens of Ireland holding an ordinary Irish passport travelling to China for business, tourism, family or friends visit, exchange and transit are eligible for visa-free entry, for a duration not exceeding 30 days. Individuals who do not meet the visa-free conditions or who are official passport holders still need to apply for a visa or a visa free certificate before entering China.

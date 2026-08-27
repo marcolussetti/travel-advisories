@@ -6,13 +6,15 @@ High Degree of Caution
 
 ### **Travel Alert**
 
-Following violent clashes and protests on 8 September 2025, restrictions and curfews have been lifted.
+#### **Flash flood in Rasuwa district and Nepal-China border areas**
 
-While calm has been restored to much of the country following the appointment of an interim prime minister, the situation remains volatile.
+On 26 August, a major flash flood in Rasuwa district and the Nepal-China border area caused widespread damage to buildings, roads and transport and communications infrastructure. Downstream areas, including Nuwakot, Dhading and Chitwan, have also been affected. The situation is developing, with search and rescue operations underway and significant disruption to transport.
 
-National elections will take place in Nepal on 5 March 2026. There may be restrictions on travel across much of Nepal throughout the election period. Some disruption to domestic and international air travel is also possible. There will be an increase in rallies, protests and demonstrations, with the risk of further violent clashes as a result. Irish citizens are advised to avoid public demonstrations, exercise caution in public places, stay alert, monitor local news reports and follow the advice of local authorities.
+The Nepalese authorities have advised residents and visitors to avoid flood-affected areas, remain in safe locations and follow the advice of local authorities. If travelling in Nepal, you should check local conditions and transport arrangements before travelling and be prepared for disruption.
 
-Those who have not already done so should register their details and those of their dependents [here](https://www.ireland.ie/en/dfa/overseas-travel/citizens-registration/).
+The Nepalese authorities have established a toll-free emergency number, 1234, and a dedicated hotline, 1144.
+
+If you are an Irish citizen affected by the flooding and require assistance, you should contact the Honorary Consul of Ireland in Kathmandu on +977 1 4783140 / +977 1 4780141, or the Embassy of Ireland in New Delhi on +91 11 4940 3200.
 
 ### **General Travel Advice**
 
