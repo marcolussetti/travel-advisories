@@ -26,4 +26,4 @@ The features in this map do not constitute an authoritative source of geographic
 
 * Cibitoke province
 * Bubanza province
-* Area west of and including the RN5 highway in Bujumbura Rural
+* Highway RN5 and the area west of it in the Bujumbura Rural Zone

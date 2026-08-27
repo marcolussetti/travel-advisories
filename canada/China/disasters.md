@@ -2,6 +2,31 @@
 
 ## Natural disasters and climate
 
+### Severe flash flooding and mudslides in the China-Nepal border area
+
+On August 26, 2026, severe flash flooding and a major mudslide occurred in the China-Nepal border area in Gyirong County, Tibet Autonomous Region of China.
+
+The mudslide has washed away parts of the China-Nepal border crossing and has resulted in several casualties and hundreds missing. Roads and infrastructure have been damaged.
+
+Debris and unstable slopes in affected areas could trigger further flooding and mudslides in Gyirong County.
+
+The following essential services could be disrupted in the region:
+
+* transportation
+* power distribution
+* water and food supply
+* telecommunications networks
+* emergency services
+* medical care
+
+If you’re in the affected areas:
+
+* move to higher ground if it is safe to do so
+* monitor local media for the latest information
+* follow the instructions of local authorities, including evacuation orders
+
+If you require assistance, contact the [Emergency Watch and Response Centre](https://travel.gc.ca/assistance/emergency-assistance) in Ottawa
+
 ### Climate change
 
 Climate change is affecting China. Extreme and unusual weather events are becoming more frequent and may affect your travel plans. Monitor local news to stay informed on the current situation.

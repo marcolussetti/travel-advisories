@@ -1,7 +1,7 @@
 {
     "name": "Mexico",
-    "update_reason": "Editorial change",
-    "update_date": "2026-08-14T13:58:00",
+    "update_reason": "Safety and security section \u2013 removed information on a U.S. Security Alert",
+    "update_date": "2026-08-26T10:23:00",
     "sections": {
         "risk": "canada/Mexico/risk.md",
         "security": "canada/Mexico/security.md",

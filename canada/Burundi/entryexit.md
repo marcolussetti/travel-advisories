@@ -18,7 +18,7 @@ Before you travel, check with your transportation company about passport require
 
 #### Regular Canadian passport
 
-Your passport must be valid for the duration of your stay.
+Your passport must be valid for at least 6 months beyond the date you expect to leave Burundi and have at least one blank page.
 
 #### Passport for official travel
 
@@ -44,22 +44,23 @@ Different entry rules may apply when travelling with a temporary passport or an 
 
 ### Visas
 
-Tourist: required  
- Business: required
+Tourist visa: required  
+ Business visa: required  
+ Transit visa: required
+
+You can obtain a visa either from the Burundian Embassy in Ottawa or by applying online for a “visa certificate.” This certificate will allow you to receive your visa upon arrival at Melchior Ndadaye International Airport in Bujumbura.
+
+[Entry visa application](https://migration.gov.bi/Apply/step1/8) – Burundian General Commission for Migration
 
 ### Border closures
 
-Due to the volatile security situation in the area, authorities could close the Burundi–Rwanda border at any time.
+The border between Burundi and Rwanda has been closed since January 2024.
 
-Periodic closure of the Burundi–Democratic Republic of the Congo border can occur without notice.
+Local authorities regularly close the border between Burundi and the Democratic Republic of the Congo without prior notice. Check the status of border crossings before travelling there.
 
 ### Other requirements
 
-Visitors to Burundi must have an onward ticket.
-
-You must complete the online incoming/outgoing passenger form before entering or leaving Burundi via the Bujumbura airport.
-
-[Incoming/outgoing passenger form - Government of Burundi](https://migration.gov.bi/Form_Entry_Exit_New)
+Visitors entering Burundi must have a return ticket or an onward ticket if they’re in transit.
 
 ### Children and travel
 

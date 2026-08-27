@@ -2,12 +2,15 @@
 
 ## Natural disasters and climate
 
+### Climate change
+
+Climate change is affecting Burundi. Extreme and unusual weather events are becoming more frequent and may affect your travel plans. Monitor local media for the latest information.
+
 ### Rainy season
 
-The dry season extends from mid-May to early October.
+The rainy season begins in February and continues to mid-May. During this period, flooding can hamper overland travel and reduce access to essential services. Roads may become impassable due to landslides. Infrastructure may be damaged.
 
-The rainy season begins in February and continues to mid-May. During the rainy season, heavy downpours are common and can result in flash floods. Infrastructure and transportation routes may be damaged and secondary roads may become impassable.
-
-* Keep informed of regional weather forecast
-* Avoid the affected areas
-* Follow the instructions of local authorities
+* Monitor local media for the latest information, including on road conditions
+* Monitor weather reports
+* Stay away from flooded areas
+* Follow the instructions of local authorities, including evacuation orders

@@ -1,7 +1,7 @@
 {
     "name": "China",
-    "update_reason": "Natural disasters section \u2013 removed Typhoon Noul",
-    "update_date": "2026-08-11T10:48:00",
+    "update_reason": "Natural disasters and climate section \u2013 added information on severe flooding and mudslides in the China-Nepal border area",
+    "update_date": "2026-08-27T13:48:00",
     "sections": {
         "risk": "canada/China/risk.md",
         "security": "canada/China/security.md",
