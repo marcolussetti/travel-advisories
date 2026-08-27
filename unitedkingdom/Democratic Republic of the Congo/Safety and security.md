@@ -26,6 +26,8 @@ On 28 January 2025, there were large and violent protests outside multiple embas
 
 Public gatherings and demonstrations can occur with little or no notice and can quickly turn violent.
 
+Protests are planned in Kinshasa on 15 September 2026 related to political developments in DRC.
+
 Protests may result in:
 
 * the closure of shops and public services

@@ -66,7 +66,7 @@ Visa requirements for [Hong Kong](https://www.gov.uk/foreign-travel-advice/hong-
 
 ### Applying for a visa
 
-Unless you meet the requirement for visa-free access, you must arrange a visa before traveling to China.
+Unless you meet the requirement for visa-free access, you must arrange a visa before travelling to China.
 
 If you’re 14 to 70 years old, you must apply for a visa online and then go in person to a [visa for China application centre](https://www.visaforchina.cn/). Officials will take a scan of your fingerprints as part of your application. There are visa application centres in London, Manchester, Belfast and Edinburgh. If you’re aged 13 or under, or 71 or over, you do not have to attend in person, but someone will need to submit your application on your behalf.
 

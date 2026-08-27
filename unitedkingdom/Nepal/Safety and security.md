@@ -170,8 +170,6 @@ Travel during the monsoon season (normally June to October) can be hazardous. Fl
 * be prepared to change or cancel your plans at short notice
 * take equipment, medication and enough supplies to cover any emergencies or possible delays
 
-Recent flooding and landslides across much of the country caused disruption, particularly to the road network. This may take some time to resolve. Delays are possible, check transport plans with your tour operator. Follow advice from local authorities.
-
 The Nepal government [Meteorological Forecasting Division](http://www.mfd.gov.np/) provides weather updates (in English) and flood forecasts during the monsoon. You can also access the [Department of Hydrology and Meteorology flood monitoring service](https://www.dhm.gov.np/hydrology/floodMonitoring).
 
 ### Earthquakes

@@ -1,13 +1,26 @@
 # Warnings and insurance
 
 Still current at:
-:   7 August 2026
+:   27 August 2026
 
 Updated:
-:   6 August 2026
+:   26 August 2026
 
 Latest update:
-:   Removal of information about local curfews ('Warnings and insurance' page).
+:   New information about flooding in the Rasuwa district and the Nepal-China border area (‘Warnings and insurance’ page).
+
+## Flash flood in the Rasuwa district and the Nepal-China border area
+
+On 26 August 2026, major flooding in Rasuwa district and the Nepal-China border area caused widespread damage. Buildings, roads, other transport and communications infrastructure have been severely damaged. Other areas in Nepal, including Chitwan, have also been affected.
+
+The Nepalese authorities and emergency services are responding. The situation may change rapidly. If you are travelling in the region, follow the advice of the Nepalese government and local authorities and be alert to the changing situation. The Nepalese government has established a toll-free emergency Nepalese language number, 1234, and a dedicated hotline 1144 accessible in Nepal.
+
+If you are affected and need assistance from the UK government, call:
+
+* from Nepal +977 (0)14237100
+* from the UK +44 (0) 207 008 5000
+
+Sign up to [get email notifications](https://www.gov.uk/foreign-travel-advice/nepal/email-signup) when this travel advice is updated. See the ‘Getting Help’ page for further information.
 
 ## Global travel impacts due to escalation in the Middle East
 

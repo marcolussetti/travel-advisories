@@ -1,11 +1,11 @@
 {
     "name": "China",
-    "update_reason": "Updated information about visa requirements ('Entry requirements' page).",
+    "update_reason": "Updated information about heavy flooding and landslides along the Nepal-China border\u00a0(\u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/China/Warnings and insurance.md",
-            "update_date": "2026-08-10T11:48:49+01:00"
+            "update_date": "2026-08-27T11:55:46+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/China/Getting help.md"
         }
     ],
-    "update_date": "2026-08-10T11:48:49+01:00"
+    "update_date": "2026-08-27T11:55:46+01:00"
 }

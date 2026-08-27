@@ -1,13 +1,23 @@
 # Warnings and insurance
 
 Still current at:
-:   20 June 2026
+:   27 August 2026
 
 Updated:
-:   19 June 2026
+:   26 August 2026
 
 Latest update:
-:   New information about unexploded ordinance along the Kyrgyzstan-Tajikistan border (‘Regional risks’ page).
+:   New information about the World Nomad Games ('Warnings and insurance' page).
+
+## The World Nomad Games
+
+The opening ceremony of the World Nomad Games takes place at the Bishkek Arena on 31 August. This will be followed by events in the Issyk-Kul region from 1 to 6 September.
+
+Before you travel:
+
+* check for the latest updates from your airline or tour operator
+* review your travel insurance policy for coverage
+* monitor local and international media for the latest information and [sign up for travel advice email alerts](https://www.gov.uk/foreign-travel-advice/kyrgyzstan/email-signup)
 
 ## Before you travel
 
