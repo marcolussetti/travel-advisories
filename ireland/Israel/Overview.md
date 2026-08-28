@@ -2,15 +2,17 @@
 
 ### **Security Status**
 
-Do Not Travel
+Avoid Non-Essential Travel
 
 ### **Travel Alert**
 
-**The Department of Foreign Affairs and Trade advises Irish citizens against all travel to Israel.**
+**The Department of Foreign Affairs and Trade advises against all but essential travel to Israel. Irish citizens currently in Israel who have not already done so, are asked to register on the Department’s Citizens Registration platform** [**here**](https://citizensregistration.dfa.ie/)**.**
 
-**Given the recent attack on Iran, Irish citizens are advised against all travel to Israel. Citizens currently in Israel should shelter in place, minimise unnecessary movement, and follow the advice and guidance of local authorities. Stay away from all military facilities.**
+* **Irish citizens in Israel are strongly advised not to travel to border areas with Lebanon.**
+* **Irish citizens in Israel are strongly advised not to travel to the parts of the Israeli-occupied Golan Heights that border with Syria and Lebanon.**
+* **Irish citizens in Israel are strongly advised not to travel to all border areas between the Gaza Strip and Israel.**
 
-**Irish citizens currently in Israel in need of consular assistance can contact the Embassy of Ireland in Israel on +972 36964166. If you have not already done so you are asked to register on the Department’s Citizens Registration platform** [**here**](https://citizensregistration.dfa.ie/)**.**
+**Irish citizens currently in Israel in need of consular assistance can contact the Embassy of Ireland in Israel on +972 36964166.**
 
 There is a risk of rocket fire, drone infiltration, ballistic missiles, etc., which can occur without warning, and can disrupt civilian infrastructure, including transportation and communications. We strongly advise that citizens familiarise themselves with their closest protected location. Many buildings are fitted with a “safe room”, reinforced spaces designed to withstand missile attacks.
 
