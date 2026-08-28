@@ -1,7 +1,7 @@
 {
     "name": "Japan",
-    "update_reason": "Natural disasters and climate section \u2013 added information on Typhoon Saudel",
-    "update_date": "2026-08-24T13:05:00",
+    "update_reason": "Natural disasters and climate section \u2013 updated information on Typhoon Saudel",
+    "update_date": "2026-08-28T12:15:00",
     "sections": {
         "risk": "canada/Japan/risk.md",
         "security": "canada/Japan/security.md",

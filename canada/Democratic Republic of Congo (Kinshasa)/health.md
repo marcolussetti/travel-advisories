@@ -26,6 +26,24 @@ When travelling in this destination, you might be at risk for diseases that can 
 
 The highlights below will also tell you if your destination may require that vaccine for entering or exiting.
 
+Polio – WHO Temporary Recommendations 
+
+[Polio](https://travel.gc.ca/travelling/health-safety/diseases/polio) (poliomyelitis) is an infectious disease that can be prevented by vaccination. It is caused by poliovirus type 1, 2 or 3. Wild poliovirus (WPV1) and/or circulating vaccine-derived poliovirus (cVDPV1 or cVDPV3)) is/are present in this destination.
+
+Polio is spread from person to person and through contaminated food and water. Infection with the polio virus can cause paralysis and death in individuals of any age who are not immune.
+
+**Recommendations:**
+
+* Be sure that your polio vaccinations are up to date before travelling. Polio is part of the [routine vaccine schedule](https://www.canada.ca/en/public-health/services/publications/healthy-living/canadian-immunization-guide-part-1-key-immunization-information/page-13-recommended-immunization-schedules.html#p1c12a2) for children in Canada.
+* One booster dose of the polio vaccine is recommended as an [adult](https://www.canada.ca/en/public-health/services/publications/healthy-living/canadian-immunization-guide-part-3-vaccination-specific-populations/page-9-immunization-travellers.html#a3).
+* Make sure that the polio vaccination is documented on the International Certificate of Vaccination or Prophylaxis. This is the only document accepted as proof of vaccination. It is provided at designated [yellow fever vaccination centres](https://www.canada.ca/fr/sante-publique/services/sante-voyageurs/fievre-jaune.html).
+* Carry the certificate as proof of vaccination when travelling to this destination.
+
+This destination is subject to Temporary Recommendations under the World Health Organization (WHO)’s polio Public Health Emergency of International Concern (PHEIC).
+
+**Temporary Recommendations (WHO):**
+
+* Travellers who are visiting for longer than 4 weeks may be required to receive a dose of polio vaccine 1 to 12 months before they leave this destination. This may be required even if you have previously received all the recommended polio vaccine doses as part of the routine vaccine schedule in Canada.
 Hepatitis A
 
 There is a risk of [hepatitis A](https://www.canada.ca/en/public-health/services/diseases/hepatitis-a.html) in this destination. It is a disease of the liver. People can get hepatitis A if they ingest contaminated food or water, eat foods prepared by an infectious person, or if they have close physical contact (such as oral-anal sex) with an infectious person, although casual contact among people does not spread the virus.
@@ -153,25 +171,6 @@ When you return to Canada, see a health care professional as soon as possible an
 
 **Learn more:**  
 [Rabies: Symptoms and treatment](https://www.canada.ca/en/public-health/services/diseases/rabies.html)
-
-Polio – WHO Temporary Recommendations 
-
-[Polio](https://travel.gc.ca/travelling/health-safety/diseases/polio) (poliomyelitis) is an infectious disease that can be prevented by vaccination. It is caused by poliovirus type 1, 2 or 3. Wild poliovirus (WPV1) and/or circulating vaccine-derived poliovirus (cVDPV1 or cVDPV3)) is/are present in this destination.
-
-Polio is spread from person to person and through contaminated food and water. Infection with the polio virus can cause paralysis and death in individuals of any age who are not immune.
-
-**Recommendations:**
-
-* Be sure that your polio vaccinations are up to date before travelling. Polio is part of the [routine vaccine schedule](https://www.canada.ca/en/public-health/services/publications/healthy-living/canadian-immunization-guide-part-1-key-immunization-information/page-13-recommended-immunization-schedules.html#p1c12a2) for children in Canada.
-* One booster dose of the polio vaccine is recommended as an [adult](https://www.canada.ca/en/public-health/services/publications/healthy-living/canadian-immunization-guide-part-3-vaccination-specific-populations/page-9-immunization-travellers.html#a3).
-* Make sure that the polio vaccination is documented on the International Certificate of Vaccination or Prophylaxis. This is the only document accepted as proof of vaccination. It is provided at designated [yellow fever vaccination centres](https://www.canada.ca/fr/sante-publique/services/sante-voyageurs/fievre-jaune.html).
-* Carry the certificate as proof of vaccination when travelling to this destination.
-
-This destination is subject to Temporary Recommendations under the World Health Organization (WHO)’s polio Public Health Emergency of International Concern (PHEIC).
-
-**Temporary Recommendations (WHO):**
-
-* Travellers who are visiting for longer than 4 weeks may be required to receive a dose of polio vaccine 1 to 12 months before they leave this destination. This may be required even if you have previously received all the recommended polio vaccine doses as part of the routine vaccine schedule in Canada.
 
 ### Safe food and water precautions
 
@@ -373,6 +372,20 @@ To lower your risk of getting sexually transmissible infections (STIs), HIV, and
 [Sexual health and travel](https://www.canada.ca/en/public-health/services/diseases/sexually-transmitted-infections.html)  
 [HIV and AIDS: Travel health advice](https://www.canada.ca/en/public-health/services/diseases/hiv-aids/travel-health-advice.html)
 
+Marburg virus disease
+
+Sporadic outbreaks of Marburg virus disease (MVD) may occur in this country.
+
+Marburg virus is transmitted to people from fruit bats and spreads among humans through direct contact with the bodily fluids of infected people or objects contaminated with these fluids. The disease is serious and often fatal, and there is currently no vaccine or specific treatment. The risk of getting the virus is low if proper precautions are followed.
+
+* Avoid contact with people who have symptoms of MVD (fever, rash, muscle pain), and anything that could be contaminated with their bodily fluids.
+* Avoid contact with the bodies of people who have died of MVD or an unknown illness during funerals and burials.
+* Avoid close contact with live (especially sick) or dead animals, as both can spread the virus.
+* Clean your hands often with soap and water for at least 20 seconds, or use a hand sanitizer containing at least 60% alcohol.
+
+**Learn more:**  
+[Marburg virus disease](https://www.canada.ca/en/public-health/services/infectious-diseases/viral-haemorrhagic-fevers/marburg-virus-disease.html)
+
 Tuberculosis
 
 [Tuberculosis](https://www.canada.ca/en/public-health/services/diseases/tuberculosis.html) is an infection caused by bacteria and usually affects the lungs.
@@ -392,20 +405,6 @@ Ebola disease can be caused by 6 different viruses, including Sudan virus and Eb
 Practise good hygiene (frequent and proper hand washing) and avoid contact with the body fluids of people with Ebola disease or unknown illnesses. Avoid contact with wild animals.
 
 Of the different viruses that cause Ebola disease, there is only a vaccine to prevent disease caused by Ebola virus. It is available under certain circumstances; however, it is not authorized for sale in Canada. There are currently no approved vaccines or effective treatments for Ebola disease caused by the other viruses, including Sudan virus.
-
-Marburg virus disease
-
-Sporadic outbreaks of Marburg virus disease (MVD) may occur in this country.
-
-Marburg virus is transmitted to people from fruit bats and spreads among humans through direct contact with the bodily fluids of infected people or objects contaminated with these fluids. The disease is serious and often fatal, and there is currently no vaccine or specific treatment. The risk of getting the virus is low if proper precautions are followed.
-
-* Avoid contact with people who have symptoms of MVD (fever, rash, muscle pain), and anything that could be contaminated with their bodily fluids.
-* Avoid contact with the bodies of people who have died of MVD or an unknown illness during funerals and burials.
-* Avoid close contact with live (especially sick) or dead animals, as both can spread the virus.
-* Clean your hands often with soap and water for at least 20 seconds, or use a hand sanitizer containing at least 60% alcohol.
-
-**Learn more:**  
-[Marburg virus disease](https://www.canada.ca/en/public-health/services/infectious-diseases/viral-haemorrhagic-fevers/marburg-virus-disease.html)
 
 ### Medical services and facilities
 

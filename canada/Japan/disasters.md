@@ -4,16 +4,11 @@
 
 ### Typhoon Saudel
 
-Typhoon Saudel is expected to affect southern Japan, including Okinawa and Amami Islands, between August 24-27, 2026.
+On August 26, 2026, Typhoon Saudel swept across Okinawa and the Amami Islands. It brought heavy rainfall and violent winds.
 
-The storm is likely to bring excessive rainfall and violent winds. It may cause flash flooding and landslides and could severely disrupt the following essential services:
+The storm also disrupted transportation and power distribution.
 
-* transportation
-* power distribution
-* water and food supply
-* telecommunications networks
-* emergency services
-* medical care
+Flash flooding and landslides could still occur.
 
 If you are in the affected area:
 
