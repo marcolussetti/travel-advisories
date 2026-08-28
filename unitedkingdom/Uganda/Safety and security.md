@@ -41,7 +41,7 @@ Recent significant attacks include:
 
 ## Political situation
 
-Presidential and Parliamentary elections took place in Uganda on 15 January 2026. The Presidential Inauguration Ceremony will take place on 12 May 2026.
+Presidential and Parliamentary elections last took place in Uganda on 15 January 2026. The Presidential Inauguration Ceremony took place on 12 May 2026.
 
 Elections and political events have led to protests and violence, including fatalities. There has also been disruption to the internet and social media.
 
@@ -109,13 +109,15 @@ Scammers may target foreign visitors and residents. Be wary of strangers who:
 
 ### National cleaning day
 
-On Thursday 23 July the Government of Uganda declared that the final Saturday of each month, between 7 and 10 am, will be a mandatory and nationwide cleaning day.
+The  final Saturday of each month, between 7 and 10 am, is a mandatory and nationwide cleaning day.
 
-According to the Ministry of ICT and National Guidance, Ugandans are expected to clean homes, neighbourhoods, markets, schools, health facilities, places of worship, roads, drainage channels and other public spaces. Foreigners are not the intended participants but may be affected.
+According to Government of Uganda guidance, Ugandans are expected to clean homes, neighbourhoods, markets, schools, health facilities, places of worship, roads, drainage channels and other public spaces. Foreigners are not the intended participants but may be affected.
 
-During this time, all businesses must close and all non-essential movement of people and vehicles is prohibited. The sole exemption is for emergency services and security actors. The Ugandan Government states that this will be enforced by the police.
+During this time, all businesses must close and all non-essential movement of people and vehicles is prohibited. There are exemptions for tourists, international travellers, medical staff, state security actors and journalists. Patients seeking medical attention are allowed to travel to health facilities. Cross border traffic is also exempt.
 
-It is unclear how widely this will be enforced and what it means for UK travellers, including for hotel and airport access. Contact your travel provider for more information.
+The Ugandan police will enforce the travel restrictions. Anyone travelling under one of the exemptions may be required to identify themselves and explain their circumstances to police officers.
+
+It is unclear how widely the restrictions are enforced and what the restrictions mean for UK travellers, including for hotel and airport access. Contact your travel provider for more information.
 
 ### Personal ID
 

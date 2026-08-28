@@ -1,11 +1,11 @@
 {
     "name": "Taiwan",
-    "update_reason": "New information about typhoon season ('Warnings and insurance' page).",
+    "update_reason": "Updated information of the health risks you\u2019ll face in Taiwan (\u2018Health\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Taiwan/Warnings and insurance.md",
-            "update_date": "2026-08-26T11:06:26+01:00"
+            "update_date": "2026-08-28T13:31:24+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Taiwan/Getting help.md"
         }
     ],
-    "update_date": "2026-08-26T11:06:26+01:00"
+    "update_date": "2026-08-28T13:31:24+01:00"
 }

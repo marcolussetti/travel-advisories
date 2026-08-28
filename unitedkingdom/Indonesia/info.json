@@ -1,11 +1,11 @@
 {
     "name": "Indonesia",
-    "update_reason": "Information about an earthquake in East Nusa Tenggara on 15 August (Warnings and insurance)",
+    "update_reason": "Updated information about visa requirements ('Entry requirements' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Indonesia/Warnings and insurance.md",
-            "update_date": "2026-08-16T12:31:33+01:00"
+            "update_date": "2026-08-28T12:29:31+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Indonesia/Getting help.md"
         }
     ],
-    "update_date": "2026-08-16T12:31:33+01:00"
+    "update_date": "2026-08-28T12:29:31+01:00"
 }

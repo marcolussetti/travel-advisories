@@ -166,7 +166,7 @@ Roads are well maintained, and driving is on the left. Watch out for:
 
 ## Extreme weather and natural disasters
 
-Find out what you can do to [prepare for and respond to natural disasters in Japan](https://www.gov.uk/guidance/living-in-japan#natural-disasters).
+Find out what you can do to [prepare for and respond to natural disasters in Japan](https://www.gov.uk/guidance/living-in-japan#natural-disasters). The Japan National Tourism Organisation operates a 24 hours a day, 7 days a week Japan Visitor Hotline for emergency English-language assistance during natural disasters: +81(5)0 3816 2787.
 
 ### Extreme Heat
 
@@ -181,6 +181,12 @@ In Japan the tropical cyclone (typhoon) season is between June and December, pea
 Tropical cyclones in Japan often come with damaging high tides, increasing the risk of landslides and flooding. The dangers increase when an earthquake occurs shortly after a tropical cyclone has saturated an area.
 
 See [weather safety tips](https://www.jnto.go.jp/safety-tips/eng/emergency/weather/w01.html) from the Japan National Tourism Agency.
+
+### Flooding and heavy rain
+
+Periods of heavy rainfall are common in Japan, particularly during the rainy season and typhoon season. Intense rain can lead to flooding, landslides, and significant disruption to transport and infrastructure. Conditions can worsen rapidly and with little warning, especially in low-lying, coastal, and mountainous areas.
+
+The [Japan Meteorological Agency](https://www.jma.go.jp/jma/indexe.html) publishes weather warnings and emergency alerts that identify areas currently at risk from heavy rain, flooding, and landslides. The website also provides information on severe weather hazards, evacuation guidance, and practical advice on how to stay safe during periods of heavy rainfall.
 
 ### Earthquakes and tsunamis
 

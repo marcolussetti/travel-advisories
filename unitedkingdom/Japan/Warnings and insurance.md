@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   20 August 2026
+:   28 August 2026
 
 Updated:
-:   19 August 2026
+:   28 August 2026
 
 Latest update:
-:   Removal of information about the earthquake in Kumamoto prefecture ('Warnings and insurance' page).
+:   Addition of information about flooding and heavy rain ('Safety and security' page).
 
 ## Global travel impacts due to escalation in the Middle East
 

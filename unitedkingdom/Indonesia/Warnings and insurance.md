@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   17 August 2026
+:   28 August 2026
 
 Updated:
-:   16 August 2026
+:   28 August 2026
 
 Latest update:
-:   Information about an earthquake in East Nusa Tenggara on 15 August (Warnings and insurance)
+:   Updated information about visa requirements ('Entry requirements' page).
 
 ![](https://assets.publishing.service.gov.uk/media/6745db6083f3d6d843be9719/FCDO__TA__020_-_Indonesia_Travel_Advice_Ed9__WEB_.jpg)
 

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   27 August 2026
+:   28 August 2026
 
 Updated:
-:   26 August 2026
+:   28 August 2026
 
 Latest update:
-:   New information about typhoon season ('Warnings and insurance' page).
+:   Updated information of the health risks you’ll face in Taiwan (‘Health’ page).
 
 The UK does not recognise Taiwan as a state and has no diplomatic relations with Taiwan, so limited support is available to British nationals. Please refer to the [British Office in Taipei](https://www.gov.uk/world/organisations/british-office-taipei) for further information.
 

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   28 July 2026
+:   28 August 2026
 
 Updated:
-:   27 July 2026
+:   28 August 2026
 
 Latest update:
-:   Updated information about a new monthly curfew (See 'National cleaning day' on the 'Safety and security' page).
+:   Updated information about exemptions to travel restrictions on National cleaning days ('Safety and security' page).
 
 ## Before you travel
 

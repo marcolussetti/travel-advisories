@@ -16,11 +16,11 @@ An attack on a bar popular with the LGBT+ community in the capital, Bratislava, 
 
 ## Border with Ukraine
 
-There is widespread military activity in Ukraine. See warnings against travel in [Ukraine travel advice](https://www.gov.uk/foreign-travel-advice/ukraine).
+There is widespread military activity in Ukraine. Border crossings with Ukraine may be affected by security measures, temporary restrictions or delays at short notice. If travelling near the Slovakia-Ukraine border, check local information before departure, follow instructions from Slovak police and border authorities. FCDO advises against travel to Ukraine. See warnings against travel in [Ukraine travel advice](https://www.gov.uk/foreign-travel-advice/ukraine).
 
 ## Political demonstrations
 
-Demonstrations may start with little or no warning. Follow the advice of local authorities.
+Political demonstrations can take place in Bratislava and other cities, sometimes at short notice. Recent demonstrations have generally been peaceful, but large gatherings may disrupt transport and public areas. Stay away from demonstrations, monitor local media, and follow the advice of local authorities.
 
 ## Crime
 
@@ -82,7 +82,9 @@ If you’re planning a winter sports holiday in Slovakia, see [Preparing for win
 
 If you need help from the [Slovak Mountain Rescue Service (HZS)](https://hzs.sk/kontakty/), you will have to meet costs of up to 1,000 euros. Make sure your insurance includes rescue costs. Anyone ignoring or violating [HZS rules or instructions](http://www.hzs.sk/pokyny-hzs#UK) will get a fine of up to 3,320 euros.
 
-Visitors in mountain areas occasionally encounter bears and wolves. Take particular care if you’re in an area where bears have been sighted. For advice on minimising risks, see the [Slovak Wildlife Society](https://www.medvede.sk/index1.php?action=strety) website.
+Brown bears are present in many mountain and forested areas, particularly in central and northern Slovakia, including parts of the Tatras, Low Tatras and Poľana areas. Bear sightings and occasional attacks have been reported. If hiking, stay on marked trails, avoid dense vegetation where visibility is poor, make noise in forested areas, keep dogs under close control, do not approach or feed wildlife, and check local warnings before setting out.
+
+For advice on minimising risks, see the [Slovak Wildlife Society](https://www.medvede.sk/index1.php?action=strety) website.
 
 ## Transport risks
 
@@ -110,13 +112,15 @@ If you use Slovak motorways (‘Dialnica’), you must display a motorway vignet
 
 ### Taxis
 
-Only use officially licensed taxis. Drivers must display their licence. Take sensible precautions, particularly at night or if you are alone. Do not get into a taxi if you are concerned about the driver or condition of the vehicle. Taxi drivers sometimes try to overcharge tourists by adding unauthorised supplements or by not setting the meter at the start of a journey. Make sure the taxi meter is on or agree a set price for the journey beforehand. See information on [local taxi use](https://www.visitbratislava.com/informations/transport/).
+In Bratislava Old Town and in nightlife areas, check prices before ordering, keep your drink in sight, use licensed taxis or reputable ride-hailing services. If you feel threatened, leave the area and contact police. See information on [local taxi use](https://www.visitbratislava.com/informations/transport/).
 
 ## Extreme weather and natural disasters
 
 Find out what you can do to [prepare for and respond to extreme weather and natural hazards](https://www.gov.uk/guidance/extreme-weather-and-natural-hazards).
 
-You can access [local forecasts and weather warnings](https://www.shmu.sk/sk/?page=987) for Slovakia. Follow the instructions of local authorities.
+Slovakia can experience extreme weather, including heatwaves, storms, heavy rain, flash flooding, winter snow and mountain weather that changes quickly.
+
+Check [local forecasts and weather warnings](https://www.shmu.sk/sk/?page=987) in Slovakia and follow the instructions of local authorities.
 
 [Previous:Entry requirements](/foreign-travel-advice/slovakia/entry-requirements)
 

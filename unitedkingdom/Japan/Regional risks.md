@@ -12,10 +12,6 @@ The Japanese authorities carry out comprehensive checks to monitor radiation in 
 
 Although the decommissioning of the Fukushima Daiichi site and full clean-up of the surrounding area will take many years, the risks are gradually declining.
 
-## Noto Peninsula
-
-A series of earthquakes hit the Noto Peninsula on 1 January, causing a minor tsunami and fires in various parts of Ishikawa Prefecture. Infrastructure damage was extensive, and some transport links remain disrupted. Take care in affected areas and follow local guidance.
-
 [Previous:Safety and security](/foreign-travel-advice/japan/safety-and-security)
 
 [Next:Health](/foreign-travel-advice/japan/health)

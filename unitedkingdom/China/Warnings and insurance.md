@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   27 August 2026
+:   28 August 2026
 
 Updated:
 :   27 August 2026
 
 Latest update:
-:   Updated information about heavy flooding and landslides along the Nepal-China border (‘Warnings and insurance’ page).
+:   "Updated information on Warnings and insurance"
 
 This travel advice covers mainland China. See travel advice for the Special Administrative Regions, [Hong Kong](https://www.gov.uk/foreign-travel-advice/hong-kong) and [Macao](https://www.gov.uk/foreign-travel-advice/macao).
 
@@ -15,7 +15,7 @@ This travel advice covers mainland China. See travel advice for the Special Admi
 
 On 26 August 2026, heavy flooding and landslides have caused widespread damage in Gyirong County in Shigatse, Tibet, near the Nepal border. Buildings, roads, other transport and communications infrastructure have been severely damaged.
 
-The Chinese authorities and emergency services are responding. The situation may change rapidly. Stay away from affected areas where possible. If you are travelling in the region, follow the advice of the Chinese government and local authorities and be alert to the changing situation.
+The Chinese authorities and emergency services are responding. The authorities have warned of the risk of further flooding. The situation may change rapidly. Stay away from affected areas where possible. If you are travelling in the region, follow the advice of the Chinese government and local authorities and be alert to the changing situation.
 
 If you are affected and need assistance from the UK government, call:
 

@@ -22,18 +22,23 @@ You must have a visa to visit Indonesia.
 
 You can get a [30-day visa on arrival (VOA)](https://evisa.imigrasi.go.id/) for:
 
-* tourism or visiting
-* some business purposes or an official meeting
-* procurement of goods
-* official visits or government duties
+* tourism
+* visiting family or friends
+* some business activities and official meetings
+* buying goods
+* official government visits
 
-The VOA is not suitable for all business activities or for volunteering. You should confirm the appropriate visa for your visit at the [Indonesian immigration website](https://www.imigrasi.go.id/wna/permohonan-visa-republik-indonesia).
+The VOA is not suitable for all business activities, volunteering, influencer work, or creating commercial online content. If you plan to create sponsored social media content, work as an influencer, or produce online content for commercial purposes while in Indonesia, you may need a different type of visa.
 
-The VOA costs 500,000 Indonesian rupiah, payable in cash or by card. It is valid for single entry only. You must meet passport validity requirements and have a return or onward ticket. Most of the [main airports and ports](https://kemlu.go.id/london/en/news/18631/visa-on-arrival-voa-for-foreign-travellers) issue VOAs.
+Check which visa you need on the [Indonesian immigration website](https://www.imigrasi.go.id/wna/permohonan-visa-republik-indonesia).
 
-You can also apply for a visa at least a week before you leave on the [Indonesian immigration website](https://evisa.imigrasi.go.id/). You will find options to apply for a multiple-entry visa or a 60-day visa.
+The VOA costs 500,000 Indonesian rupiah and can be paid by cash or card. It is valid for single entry only.
 
-Make sure your visa is approved before arriving in Indonesia, otherwise you may only be eligible for a 30-day visa on arrival. Online visas approved after entry are not valid and may result in overstaying penalties.
+To get a VOA, your passport must meet Indonesia’s entry requirements, and you must have proof of your onward or return journey. Most of the [main airports and seaports](https://kemlu.go.id/london/en/news/18631/visa-on-arrival-voa-for-foreign-travellers) issue VOAs.
+
+You can also apply online for a visa before you travel using the [Indonesian immigration website](https://evisa.imigrasi.go.id/). Apply at least one week before you leave. You can choose from several visa options, including multiple-entry visas and 60-day visas.
+
+Make sure your visa is approved before you arrive in Indonesia. If it is not approved before you travel, you may only be able to get a 30-day VOA. A visa approved after you enter Indonesia is not valid and you could face penalties for overstaying.
 
 ### All Indonesia Declaration Form
 

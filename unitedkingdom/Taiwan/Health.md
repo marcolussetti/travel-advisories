@@ -22,7 +22,7 @@ At least 8 weeks before your trip:
 * check the latest [vaccine recommendations for Taiwan](https://travelhealthpro.org.uk/country/218/taiwan#Vaccine_Recommendations)
 * see where to get vaccines and whether you have to pay on the [NHS travel vaccinations page](https://www.nhs.uk/conditions/travel-vaccinations/)
 
-See [what health risks you’ll face in Taiwan](https://travelhealthpro.org.uk/country/218/taiwan).
+See [what health risks you’ll face in Taiwan](https://travelhealthpro.org.uk/country/218/taiwan), including mpox.
 
 There has been a significant increase in cases of [dengue fever](http://travelhealthpro.org.uk/factsheet/13/dengue) in the south of Taiwan (including the cities of Kaohsiung and Tainan). Take [precautions to avoid mosquito bites](http://travelhealthpro.org.uk/insect-tick-bite-avoidance/). See [key updates from the Taiwan Centers for Disease Control](https://www.cdc.gov.tw/En).
 
