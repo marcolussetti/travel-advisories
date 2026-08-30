@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   20 June 2026
+:   30 August 2026
 
 Updated:
-:   19 June 2026
+:   29 August 2026
 
 Latest update:
-:   Updated information about the re-opening of Diori Hamani International Airport in Niamey and updated information about LGBT+ laws ('Warnings and insurance' and 'Safety and security' pages).
+:   Information on reports of gunfire early morning on 29 August near Presidential Palace and Diori Hamani International airport (‘Warnings and insurance’ page)
 
 ![](https://assets.publishing.service.gov.uk/media/69021020918e1f940b3cf7e5/FCDO__TA__029_-_Niger_Travel_Advice_Ed5__WEB_.jpg)
 
@@ -26,7 +26,7 @@ The political situation remains unstable following the military coup in July 202
 
 ## Travel disruption
 
-Diori Hamani International Airport in Niamey has reopened and resumed operations following heavy gunfire in the vicinity of the airport on 18 June. The road between central Niamey and the airport may have more security checkpoints and possible short-notice travel disruptions.
+There have been reports of gunfire around the Presidential Palace and Diori Hamani International airport early morning on 29 August. The road between central Niamey and the airport may have more security checkpoints and possible short-notice travel disruptions.
 
 You should:
 

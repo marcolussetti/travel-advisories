@@ -1,11 +1,11 @@
 {
     "name": "Niger",
-    "update_reason": "Updated information about the re-opening of Diori Hamani International Airport in Niamey and updated information about LGBT+ laws ('Warnings and insurance' and 'Safety and security' pages).",
+    "update_reason": "Information on reports of gunfire early morning on 29 August near Presidential Palace and Diori Hamani International airport (\u2018Warnings and insurance\u2019 page)",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Niger/Warnings and insurance.md",
-            "update_date": "2026-06-19T16:00:50+01:00"
+            "update_date": "2026-08-29T15:30:01+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Niger/Getting help.md"
         }
     ],
-    "update_date": "2026-06-19T16:00:50+01:00"
+    "update_date": "2026-08-29T15:30:01+01:00"
 }
