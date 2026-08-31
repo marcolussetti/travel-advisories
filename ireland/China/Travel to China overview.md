@@ -10,7 +10,7 @@ On 26 August, severe flash flooding and mudslides occurred in the China-Nepal bo
 
 Irish citizens are advised to avoid the affected areas, monitor local media and follow the instructions of local authorities.
 
-If you require consular assistance, contact the Embassy of Ireland in Beijing on +86 10 853 162 00 during office hours, Embassy of Ireland in Beijing out of hours Emergency service +86 10 138 010 567 or Consular Assistance in Dublin on +353 1 408 2000
+If you require consular assistance, contact the Embassy of Ireland in Beijing on +86 10 853 162 00 during office hours, Embassy of Ireland in Beijing out of hours Emergency service +86 10 138 010 567 74 or Consular Assistance in Dublin on +353 1 408 2000
 
 ### **General Travel Advice**
 
