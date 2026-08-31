@@ -1,11 +1,11 @@
 {
     "name": "Nepal",
-    "update_reason": "Updated information about affected areas following flash flooding, including Nuwakot and Dhading ('Warnings and insurance' page).",
+    "update_reason": "Information added that a Family Support Centre has opened at the British Embassy Kathmandu for families and friends of British nationals affected by the recent flooding. Also, recent events in the Rasuwa district and along the Nepal-China border are affecting other areas of Nepal including Gorkha, Nuwakot and Dhading ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Nepal/Warnings and insurance.md",
-            "update_date": "2026-08-28T13:46:24+01:00"
+            "update_date": "2026-08-30T17:43:23+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Nepal/Getting help.md"
         }
     ],
-    "update_date": "2026-08-28T13:46:24+01:00"
+    "update_date": "2026-08-30T17:43:23+01:00"
 }

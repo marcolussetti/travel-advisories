@@ -1,11 +1,11 @@
 {
     "name": "Kenya",
-    "update_reason": "Updated information about key dates for potential protests in June and July (see 'Political situation' on \u2018Safety and security page\u2019).",
+    "update_reason": "Significant flight delays and disruption have been reported at a number of airports in Kenya (Warnings and Insurance page)",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Kenya/Warnings and insurance.md",
-            "update_date": "2026-06-24T12:48:44+01:00"
+            "update_date": "2026-08-31T11:42:11+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Kenya/Getting help.md"
         }
     ],
-    "update_date": "2026-06-24T12:48:44+01:00"
+    "update_date": "2026-08-31T11:42:11+01:00"
 }

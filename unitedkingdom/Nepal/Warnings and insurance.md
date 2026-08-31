@@ -1,21 +1,23 @@
 # Warnings and insurance
 
 Still current at:
-:   28 August 2026
+:   31 August 2026
 
 Updated:
-:   28 August 2026
+:   30 August 2026
 
 Latest update:
-:   Updated information about affected areas following flash flooding, including Nuwakot and Dhading ('Warnings and insurance' page).
+:   Information added that a Family Support Centre has opened at the British Embassy Kathmandu for families and friends of British nationals affected by the recent flooding. Also, recent events in the Rasuwa district and along the Nepal-China border are affecting other areas of Nepal including Gorkha, Nuwakot and Dhading ('Warnings and insurance' page).
 
 ## Flash flood in the Rasuwa district and the Nepal-China border area
 
-On 26 August 2026, major flooding in Rasuwa district and the Nepal-China border area caused widespread damage. Buildings, roads, other transport and communications infrastructure have been severely damaged. Other areas in Nepal, including Nuwakot and Dhading, have also been affected.
+On 26 August 2026, major flooding in Rasuwa district and the Nepal-China border area caused widespread damage. Buildings, roads, other transport and communications infrastructure have been severely damaged. Other areas in Nepal, including Gorkha, Nuwakot and Dhading, have also been affected.
 
 The Nepalese authorities and emergency services are responding. The authorities have warned of the risk of further flooding. The situation may change rapidly. If you are travelling in the region, follow the advice of the Nepalese government and local authorities and be alert to the changing situation. The Nepalese government has established a toll-free emergency Nepalese language number, 1234, and a dedicated hotline 1144 accessible in Nepal.
 
-If you are affected and need assistance from the UK government, call:
+The UK’s Rapid Deployment Team has opened a Family Support Centre located at British Embassy Kathmandu. The Centre will be open to provide assistance to the family and friends of affected British Nationals from 0900 to 1900, Monday to Sunday.
+
+If you are affected and need assistance from the UK government, including outside of these hours, call:
 
 * from Nepal +977 (0)14237100
 * from the UK +44 (0) 207 008 5000
