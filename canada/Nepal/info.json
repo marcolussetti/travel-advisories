@@ -1,7 +1,7 @@
 {
     "name": "Nepal",
-    "update_reason": "Natural disasters and climate section \u2013 added information on severe flooding and mudslides in the Nepal-China border area",
-    "update_date": "2026-08-27T13:46:00",
+    "update_reason": "Risk levels section \u2013 avoid non-essential travel to Rasuwa and Nuwakot districts; Natural disasters and climate section \u2013 updated information on severe flooding and mudslides in the Nepal-China border area",
+    "update_date": "2026-08-31T16:51:00",
     "sections": {
         "risk": "canada/Nepal/risk.md",
         "security": "canada/Nepal/security.md",

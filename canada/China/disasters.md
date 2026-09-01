@@ -19,13 +19,15 @@ The following essential services could be disrupted in the region:
 * emergency services
 * medical care
 
-If you’re in the affected areas:
+There is an ongoing risk of additional flooding and mudslides.
+
+You should avoid non-essential travel to Gyirong County. If you’re in an affected area:
 
 * move to higher ground if it is safe to do so
 * monitor local media for the latest information
 * follow the instructions of local authorities, including evacuation orders
 
-If you require assistance, contact the [Emergency Watch and Response Centre](https://travel.gc.ca/assistance/emergency-assistance) in Ottawa
+If you require assistance, contact the [Emergency Watch and Response Centre](https://travel.gc.ca/assistance/emergency-assistance) in Ottawa.
 
 ### Climate change
 

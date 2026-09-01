@@ -19,7 +19,7 @@ The following essential services are disrupted:
 * emergency services
 * medical care
 
-If you’re in the affected areas:
+There is an ongoing risk of additional flooding and mudslides. You should avoid non-essential travel to Rasuwa and Nuwakot districts. If you're in an affected area:
 
 * move to higher ground if it is safe to do so
 * monitor local media for the latest information

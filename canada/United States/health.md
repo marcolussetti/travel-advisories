@@ -50,30 +50,6 @@ When travelling in this destination, you might be at risk for diseases that can 
 
 The highlights below will also tell you if your destination may require that vaccine for entering or exiting.
 
-Yellow Fever - Country Entry Requirements 
-
-[Yellow fever](https://www.canada.ca/en/public-health/services/diseases/yellow-fever.html) is a disease caused by a flavivirus from the bite of an infected mosquito.
-
-Travellers get vaccinated either because it is required to enter a country or because it is recommended for their protection.
-
-**Risk**
-
-* There is no risk of yellow fever in this country.
-
-**Country Entry Requirement\***
-
-* Proof of vaccination is not required to enter this country.
-
-**Recommendation**
-
-* Vaccination is not recommended.
-
-\* It is important to note that [country entry requirements](https://www.who.int/publications/m/item/vaccination-requirements-and-recommendations-for-international-travellers-and-malaria-situation-per-country-2022-edition) may not reflect your risk of yellow fever at your destination. It is recommended that you contact the nearest [diplomatic or consular office](http://www.international.gc.ca/protocol-protocole/reps.aspx?view=d) of the destination(s) you will be visiting to verify any additional entry requirements.
-
-[About Yellow Fever](https://www.canada.ca/en/public-health/services/diseases/yellow-fever.html)
-
-[Yellow Fever Vaccination Centres in Canada]( https://www.canada.ca/en/public-health/services/travel-health/yellow-fever.html#select-centre)
-
 Measles 
 
 Measles is a serious viral infection that spreads easily. It spreads through the air, and can stay in the air for up to 2 hours. You can also get measles by direct contact with an infected person or by touching a surface with the virus on it and then touching your eyes, nose, or mouth before washing your hands.
@@ -116,6 +92,30 @@ In addition to vaccination, use personal protective measures to help protect you
 
 [Vaccine for COVID-19: How to get vaccinated](https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19/vaccines/how-vaccinated.html)  
 [COVID-19: Spread, prevention and risks](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html#p)
+
+Yellow Fever - Country Entry Requirements 
+
+[Yellow fever](https://www.canada.ca/en/public-health/services/diseases/yellow-fever.html) is a disease caused by a flavivirus from the bite of an infected mosquito.
+
+Travellers get vaccinated either because it is required to enter a country or because it is recommended for their protection.
+
+**Risk**
+
+* There is no risk of yellow fever in this country.
+
+**Country Entry Requirement\***
+
+* Proof of vaccination is not required to enter this country.
+
+**Recommendation**
+
+* Vaccination is not recommended.
+
+\* It is important to note that [country entry requirements](https://www.who.int/publications/m/item/vaccination-requirements-and-recommendations-for-international-travellers-and-malaria-situation-per-country-2022-edition) may not reflect your risk of yellow fever at your destination. It is recommended that you contact the nearest [diplomatic or consular office](http://www.international.gc.ca/protocol-protocole/reps.aspx?view=d) of the destination(s) you will be visiting to verify any additional entry requirements.
+
+[About Yellow Fever](https://www.canada.ca/en/public-health/services/diseases/yellow-fever.html)
+
+[Yellow Fever Vaccination Centres in Canada]( https://www.canada.ca/en/public-health/services/travel-health/yellow-fever.html#select-centre)
 
 Rabies 
 
@@ -163,6 +163,14 @@ To protect yourself from bites:
 [Insect bite and pest prevention](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html)  
 [Personal insect repellents](https://www.canada.ca/en/health-canada/services/about-pesticides/insect-repellents.html)
 
+Dengue 
+
+* In this country, risk of [dengue](https://www.canada.ca/en/public-health/services/infectious-diseases/viral-haemorrhagic-fevers/dengue-fever.html) is sporadic. It is a viral disease spread to humans by mosquito bites.
+* Dengue can cause flu-like symptoms. In some cases, it can lead to severe dengue, which can be fatal.
+* The level of risk of dengue changes seasonally, and varies from year to year. The level of risk also varies between regions in a country and can depend on the elevation in the region.
+  + Visit the Centers for Disease Control and Preventions webpage on [Dengue in the U.S. States and Territories](https://www.cdc.gov/dengue/data-research/facts-stats/?CDC_AAref_Val=https://www.cdc.gov/dengue/areaswithrisk/in-the-us.html) for the most up-to-date information on dengue outbreaks in the United States
+* Mosquitoes carrying dengue typically bite during the daytime, particularly around sunrise and sunset.
+* [Protect yourself from mosquito bites](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html). There is no vaccine or medication that protects against dengue fever.
 Zika virus 
 
 [Zika virus](https://www.canada.ca/en/public-health/services/diseases/zika-virus.html) may be a risk in some areas of the United States.
@@ -180,14 +188,6 @@ If you are pregnant or planning a pregnancy, you should discuss the potential ri
 
 For more information, see [Zika virus: Pregnant or planning a pregnancy](https://www.canada.ca/en/public-health/services/diseases/zika-virus/pregnant-planning-pregnancy.html).
 
-Dengue 
-
-* In this country, risk of [dengue](https://www.canada.ca/en/public-health/services/infectious-diseases/viral-haemorrhagic-fevers/dengue-fever.html) is sporadic. It is a viral disease spread to humans by mosquito bites.
-* Dengue can cause flu-like symptoms. In some cases, it can lead to severe dengue, which can be fatal.
-* The level of risk of dengue changes seasonally, and varies from year to year. The level of risk also varies between regions in a country and can depend on the elevation in the region.
-  + Visit the Centers for Disease Control and Preventions webpage on [Dengue in the U.S. States and Territories](https://www.cdc.gov/dengue/data-research/facts-stats/?CDC_AAref_Val=https://www.cdc.gov/dengue/areaswithrisk/in-the-us.html) for the most up-to-date information on dengue outbreaks in the United States
-* Mosquitoes carrying dengue typically bite during the daytime, particularly around sunrise and sunset.
-* [Protect yourself from mosquito bites](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html). There is no vaccine or medication that protects against dengue fever.
 Chikungunya
 
 There is a risk of chikungunya in this country. The level of risk may vary by:

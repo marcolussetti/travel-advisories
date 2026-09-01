@@ -19,3 +19,9 @@ The features in this map do not constitute an authoritative source of geographic
 ### Nepal - Exercise a high degree of caution
 
 [Exercise a high degree of caution](#levels "Risk Levels") in Nepal due to the fragile political and security situation.
+
+### Rasuwa and Nuwakot districts - Avoid non-essential travel
+
+[Avoid non-essential travel](#levels "Risk Levels") to Rasuwa and Nuwakot districts due to severe flash flooding and mudslides damage, as well as the continued risk of further flooding and mudslides.
+
+[Natural disasters and climate](#disasters)

@@ -19,3 +19,9 @@ The features in this map do not constitute an authoritative source of geographic
 ### China - Exercise a high degree of caution
 
 [Exercise a high degree of caution](#levels "Risk Levels") in China.
+
+### Gyirong County - Avoid non-essential travel
+
+[Avoid non-essential travel](#levels "Risk Levels") to Gyirong County due to severe flash flooding and mudslide damage, as well as the continued risk of further flooding and mudslides.
+
+[Natural disasters and climate](#disasters)

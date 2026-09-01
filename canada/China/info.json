@@ -1,7 +1,7 @@
 {
     "name": "China",
-    "update_reason": "Natural disasters and climate section \u2013 added information on severe flooding and mudslides in the China-Nepal border area",
-    "update_date": "2026-08-27T13:48:00",
+    "update_reason": "Risk levels section \u2013 avoid non-essential travel to Gyirong County; Natural disasters and climate section \u2013 updated information on severe flash flooding and mudslides in the China-Nepal border area",
+    "update_date": "2026-08-31T16:49:00",
     "sections": {
         "risk": "canada/China/risk.md",
         "security": "canada/China/security.md",
