@@ -1,11 +1,11 @@
 {
     "name": "Kenya",
-    "update_reason": "Significant flight delays and disruption have been reported at a number of airports in Kenya (Warnings and Insurance page)",
+    "update_reason": "Updated information about flight delays due to industrial action ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Kenya/Warnings and insurance.md",
-            "update_date": "2026-08-31T11:42:11+01:00"
+            "update_date": "2026-09-01T12:05:48+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Kenya/Getting help.md"
         }
     ],
-    "update_date": "2026-08-31T11:42:11+01:00"
+    "update_date": "2026-09-01T12:05:48+01:00"
 }

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   31 August 2026
+:   1 September 2026
 
 Updated:
-:   30 August 2026
+:   1 September 2026
 
 Latest update:
-:   Information added that a Family Support Centre has opened at the British Embassy Kathmandu for families and friends of British nationals affected by the recent flooding. Also, recent events in the Rasuwa district and along the Nepal-China border are affecting other areas of Nepal including Gorkha, Nuwakot and Dhading ('Warnings and insurance' page).
+:   Addition of UK government assistance phone number from India ('Warnings and insurance' page).
 
 ## Flash flood in the Rasuwa district and the Nepal-China border area
 
@@ -20,6 +20,7 @@ The UK’s Rapid Deployment Team has opened a Family Support Centre located at B
 If you are affected and need assistance from the UK government, including outside of these hours, call:
 
 * from Nepal +977 (0)14237100
+* from India +91 11 2419 2100
 * from the UK +44 (0) 207 008 5000
 
 Sign up to [get email notifications](https://www.gov.uk/foreign-travel-advice/nepal/email-signup) when this travel advice is updated. See the ‘Getting Help’ page for further information.
