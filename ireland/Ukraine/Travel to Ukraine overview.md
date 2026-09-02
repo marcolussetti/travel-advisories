@@ -10,13 +10,19 @@ The Department of Foreign Affairs and Trade is closely monitoring the situation 
 
 The Department strongly advises against all travel to Ukraine, for any purpose. Irish citizens in Ukraine should leave if safe to do so. If you believe you cannot leave safely, you should shelter in a secure place and monitor developments closely. Keep your situation and departure plans under constant review and ensure your travel documents are up to date. Bear in mind that communication lines (phone, internet) may be disrupted.
 
-The Department strongly advises against commissioning surrogacy arrangements in Ukraine, as the situation is currently extremely dangerous and unpredictable. Ukraine remains under strict martial law and the war continues to present significant risks to all parties engaged in surrogacy arrangements, including surrogate mothers, babies and commissioning parents. Russian drone and missile attacks currently target Ukraine on an almost daily basis, affecting Kyiv and other cities, including in western Ukraine, and require both residents and visitors to take shelter for lengthy periods, mostly at night. Residential buildings, hotels and other civilian buildings, including maternity hospitals, have been badly damaged or destroyed in attacks over recent months, giving rise to increasing numbers of civilian casualties. In some regions, hospitals and maternity clinics may not be fully operational, putting the health of surrogate mothers and babies at risk.
+Russia launches drone and missile attacks on Ukraine on a daily basis, affecting Kyiv and other cities, including in western Ukraine. This is giving rise to steadily increasing numbers of civilian deaths and injuries, and requiring both residents and visitors to take shelter for lengthy periods.
+
+June 2026 became the month with the highest number of civilians killed and injured since April 2022, with at least 293 civilians killed and 1,990 injured,
+
+Residential buildings, hotels, hospitals and other civilian buildings are being badly damaged or destroyed in attacks.
+
+The Department strongly advises against commissioning surrogacy arrangements in Ukraine, as the situation is currently extremely dangerous and unpredictable. Ukraine remains under strict martial law and the war continues to present significant risks to all parties engaged in surrogacy arrangements, including surrogate mothers, babies and commissioning parents. In some regions, hospitals and maternity clinics may not be fully operational, putting the health of surrogate mothers and babies at risk.
 
 It should also be noted that the Department requires DNA testing to establish parentage before travel documents can be issued to a child born through surrogacy. DNA testing must be conducted in Kyiv and witnessed by an official from the Embassy. The Department is aware it can take in excess of four weeks to compile the necessary documents for an application for travel document, including DNA test results, during which time the child will be unable to exit Ukraine. It should be borne in mind that Kyiv is located some 8-9 hours by car from the nearest international border, and that travel distances by train can be longer.
 
 The capacity of the Department to provide consular assistance in Ukraine remains extremely limited.
 
-Missile and drone attacks on critical civilian infrastructure, in particular since October 2022, have caused significant damage in Ukraine, and resulted in periodic severe water and electricity shortages across many parts of the country. You should be aware that electricity and/or water shortages have been widespread in Kyiv and other cities, and are possible at short notice anywhere in the country.
+Continuous missile and drone attacks on critical civilian infrastructure have caused significant damage in Ukraine, and resulted in periodic severe water and electricity shortages across many parts of the country. You should be aware that electricity and/or water shortages have been widespread in Kyiv and other cities, and are possible at short notice anywhere in the country.
 
 Irish-Ukrainian dual citizens should be aware that Ukraine does not recognise dual citizenship. If you are a dual citizen male aged between 18 and 60 and enter Ukraine, you may not be permitted to leave due to martial law.
 
