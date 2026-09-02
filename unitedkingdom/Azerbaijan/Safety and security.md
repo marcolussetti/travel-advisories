@@ -64,21 +64,17 @@ In Baku local and foreign women usually dress in conservative western-style clot
 
 ### Ramadan
 
-Ramadan is a holy month for Muslims. The dates vary by year and country and you should check this before you travel. During this time, do not:
+Ramadan is a holy month for Muslims. The dates vary by year and country.
 
-* eat, drink, smoke or chew gum in public in the daytime, including in your car
-* play loud music or dance
-* swear in public
+Most restaurants, cafés, shops and other services in Azerbaijan continue to operate during Ramadan. Some businesses may adjust their opening hours or offer special Ramadan arrangements.
 
-Get more advice when you arrive from your guide, hotel or business contacts.
+During Ramadan, you should:
 
-You should also:
-
-* check opening hours of shops and restaurants
-* be aware that if hotels and restaurants are providing food or drink in fasting hours, they may separate you from Islamic guests, for example with screens
-* follow local dress codes – clothing that does not meet local dress codes may cause more offence at this time
-* be aware that fasting can cause tiredness, particularly during the later afternoon and early evening
-* be patient and show tolerance
+* check opening hours of shops and restaurants, as these may vary
+* respect local religious customs and traditions
+* follow local dress codes, particularly when visiting religious sites - clothing that does not meet local dress codes may cause more offence at this time
+* be aware that some people may be fasting and may be more tired than usual, especially in the late afternoon and early evening
+* be patient and considerate towards those who are observing Ramadan
 
 ### Smoking restrictions
 

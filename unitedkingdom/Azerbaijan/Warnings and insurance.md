@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   21 July 2026
+:   2 September 2026
 
 Updated:
-:   20 July 2026
+:   2 September 2026
 
 Latest update:
-:   This travel advice was reviewed for accuracy and there are no significant updates.
+:   Addition of information about visa procedures for visitors travelling to Azerbaijan in connection with the Formula 1 Azerbaijan Grand Prix (‘Entry requirements’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/67efddbf27eb76c92cf7e567/FCDO__TA__004_-_Azerbaijan_Travel_Advice_Ed9__WEB_.jpg)
 
