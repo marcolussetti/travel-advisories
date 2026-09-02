@@ -4,13 +4,11 @@
 
 ### Entry and exit restrictions and health screening measures related to the Ebola outbreak
 
-Due to the outbreak of Ebola disease in Uganda, you may be subject to health exit screening measures, such as completing a health form and temperature checks.
+Due to the recent outbreak of Ebola disease in Uganda, you may be subject to health exit screening measures, such as completing a health form and temperature checks.
 
 Some countries have imposed entry restrictions for persons who are arriving from or who have recently visited Uganda. Unless you are a citizen of one of these countries, you will be refused entry if you have been in Uganda in the preceding 21 to 30 days.
 
 A larger number of countries, including Canada, have imposed health screening measures on travellers upon arrival and other border measures for travellers who have visited Uganda. These may include the completion of a health declaration form, temperature checks, quarantine and restrictions on travel until you are cleared by local health authorities. Contact the authorities of the country you are travelling to for more details.
-
-[More information on the Ebola outbreak in Uganda](https://travel.gc.ca/travelling/health-safety/travel-health-notices/550)
 
 The authorities of a country or territory decide who can enter or exit through its borders. The Government of Canada cannot intervene on your behalf if you do not meet your destination’s entry or exit requirements.
 
@@ -52,28 +50,20 @@ Different entry rules may apply when travelling with a temporary passport or an 
 
 ### Visas
 
+You need to apply for an electronic visa before travelling to Uganda.
+
 Tourist visa: required  
-Business visa: required  
-Work permit: required  
-Transit visa: required
+ Business visa: required  
+ Work permit: required  
+ Transit visa: required
 
-While you can obtain a visa on arrival, you should first attempt to get a visa online. Apply as far in advance of your trip as possible, as delays could occur. You may need proof that you first attempted to apply online, before being granted a visa on arrival.
+You cannot perform any type of work, including volunteer work, with a tourist visa. If you plan to travel to Uganda for volunteer work, contact the High Commission of Uganda in Canada for information on the specific requirements.
 
-Some travellers without an e-visa have been refused entry, even though they technically qualified for visa on arrival.
+[Apply for an electronic visa](https://visas.immigration.go.ug/) – Uganda’s official application service
 
-Canadians intending to work in Uganda should insist that the employer ascertain what type of permit will be required from Uganda’s Directorate of Citizenship and Immigration Control.
+### Land border crossings
 
-[Apply for an electronic visa](https://visas.immigration.go.ug/) - Uganda’s e-immigration system
-
-### Restricted items
-
-The importation of electronic equipment is strictly controlled in Uganda.
-
-Starlink terminals are prohibited, and other electronic devices, such as drones, may require a permit before they can be brought into the country.  
-
-If you attempt to enter Uganda with prohibited items or without official authorization, customs officials may confiscate your belongings. You could also face arrest and detention. Any items confiscated on entry may not be returned.
-
-Contact the Ugandan High Commission or the nearest Ugandan consulate prior to departure for up-to-date information on customs requirements.
+Due to political tensions between Uganda and Rwanda, the land border crossings may close without notice. Verify their status before you travel.
 
 ### Children and travel
 

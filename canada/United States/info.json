@@ -1,7 +1,7 @@
 {
     "name": "United States",
-    "update_reason": "Natural disasters and climate section \u2013 added information on a flash flood watch for northern and central Arizona",
-    "update_date": "2026-08-31T16:12:00",
+    "update_reason": "Natural disasters and climate section \u2013 removed information on a flash flood watch for northern and central Arizona",
+    "update_date": "2026-09-01T14:09:00",
     "sections": {
         "risk": "canada/United States/risk.md",
         "security": "canada/United States/security.md",

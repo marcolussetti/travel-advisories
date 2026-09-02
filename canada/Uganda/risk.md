@@ -22,9 +22,7 @@ The features in this map do not constitute an authoritative source of geographic
 
 ### Canadian border measures related to Ebola for travellers from Uganda
 
-The Public Health Agency of Canada has issued a [Travel Health Notice](https://travel.gc.ca/travelling/health-safety/travel-health-notices/550) due to the outbreak of Ebola disease.
-
-From May 30, 2026, to August 29, 2026, Canada will have temporary border measures in place for travellers who have been in Uganda, the Democratic Republic of the Congo or South Sudan within the preceding 21 days.
+Until September 28, 2026, Canada will have temporary border measures in place for travellers who have been in Uganda, the Democratic Republic of the Congo or South Sudan within the preceding 21 days.
 
 * Canadians and Canadian permanent residents who have been in these countries in the preceding 21 days and who don’t have Ebola disease symptoms when they get to Canada must quarantine for 21 days and monitor their health daily
 

@@ -2,21 +2,6 @@
 
 ## Natural disasters and climate
 
-### Flash flood watch for northern and central Arizona
-
-A flash flood watch is in effect for northern and central Arizona, including the Grand Canyon. This follows a severe flash flood in parts of the Grand Canyon on August 29, 2026, where casualties and missing persons have been reported.
-
-If you’re in the affected area:
-
-* follow the instructions of local authorities, including evacuation orders
-* monitor local news and weather reports for the latest information
-
-#### Useful links
-
-* [Weather forecast, webcams, and road conditions](https://www.nps.gov/grca/planyourvisit/weather-condition.htm) – National Park Service
-* [Alerts and conditions](https://www.nps.gov/grca/planyourvisit/conditions.htm) – National Park Service
-* [National Weather Service Office, Flagstaff, Arizona](https://www.weather.gov/fgz/)
-
 ### Nevada fires
 
 Multiple wildfires are affecting Sierra and Washoe counties, near Reno, Nevada.

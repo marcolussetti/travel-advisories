@@ -8,17 +8,61 @@ Learn about what you should do and how we can help if you are [arrested or detai
 
 ### Drugs
 
-Penalties for possession, use or trafficking of illegal drugs are strict. Convicted offenders can expect jail sentences and heavy fines.
+Penalties for possession, use or trafficking of illegal drugs are severe. Convicted offenders can expect jail sentences and heavy fines.
+
+* Pack your own luggage and monitor it closely at all times
+* Never transport other people’s packages, bags or suitcases
 
 [Drugs, alcohol and travel](https://travel.gc.ca/travelling/health-safety/drugs)
 
+### Smoking and electronic cigarette ban
+
+Smoking is strictly prohibited in the following areas:
+
+* public places
+* workplaces
+* public transport
+* outdoor spaces within 50 m of any public building
+
+The use of electronic cigarettes and shisha (water-pipe tobacco) is illegal. Violations of these laws can result in fines and detention.
+
+### Identification
+
+Local authorities may request to see your identification at any time.
+
+* Always carry a valid photo identification
+* Keep a photocopy of your passport and visa in a safe place in case they’re lost or seized
+* Keep a digital copy of your identification and travel documents
+
 ### Photography
 
-Photography of security forces, diplomatic sites, government installations, airports and the Owen Falls Dam (at the source of the Nile River, near Jinja) is prohibited. Always ask for permission before photographing individuals.
+Photographing sensitive installations and security forces is prohibited. This includes:
+
+* airports
+* ports
+* military sites
+* dams, including Owen Falls Dam
+* government buildings
+* uniformed service people
+
+Always ask permission before photographing individuals.
+
+### Drones
+
+You must obtain a permit from the Uganda Civil Aviation Authority to import and operate a drone in Uganda.
+
+[Information on drone permits](https://caa.go.ug/Download/81/unmanned-aircraft-systems-drones/5507/updated-drones-clearance-procedure-for-uganda) – Uganda Civil Aviation Authority
 
 ### Camouflage clothing
 
-Wearing military-style or camouflage clothing is prohibited and may result in a jail sentence.
+It’s illegal to wear, buy, sell or distribute camouflage clothing in Uganda. Offenders can expect fines and detention.
+
+### Dress and behaviour
+
+To avoid offending local sensitivities:
+
+* dress conservatively when travelling outside of urban areas
+* respect religious and social traditions
 
 ### Dual citizenship
 
@@ -53,33 +97,27 @@ Be aware that Canadian consular officials cannot interfere in private legal matt
 
 Traffic drives on the left.
 
-An International Driving Permit is recommended.
+To drive in Uganda, you must always carry:
 
-Drivers must always carry:
-
-* a valid driver’s license in English or with a certified translation
+* a valid driver’s licence in English or with a certified translation if your licence is in French
 * vehicle registration documents
 * proof of valid insurance
 * a valid vehicle inspection certificate
 
-These documents must be produced on demand by a police officer.
+An International Driving Permit is recommended.
 
-You must be at least 18 years old to drive a private motor vehicle in Uganda.
+You can drive using a valid Canadian driver’s licence for up to 90 days from the date of entry into Uganda.
 
-If you are over 18, you may drive using a Canadian driver’s licence for up to 90 days from the date of entry into Uganda.
-
-In the event of an accident, Ugandan law requires drivers to stop and exchange information and assistance. There is a possibility of mob anger if the accident has caused serious injury. In such cases, remain in your vehicle and drive to the nearest police station to report the accident.
-
-Penalties for driving under the influence of alcohol include immediate imprisonment.
+In the event of an accident, Ugandan law requires drivers to stop and exchange information and provide assistance. However, if you feel threatened by a hostile crowd, remain in your vehicle and drive to the nearest police station to report the accident.
 
 [International Driving Permit](https://travel.gc.ca/travelling/documents/international-driving-permit)
 
 #### Traffic violations
 
-If you are stopped for a traffic violation, the police officer may ask you to pay an on-the spot fine. Police, however, are not permitted to accept cash on the spot without issuing an official receipt. If you disagree with the traffic ticket, you have the right to ask for due process. The officer should provide you with information on when and where you can go to be properly charged, and then you may pursue that process.
+Police are not permitted to accept cash on the spot without issuing an official receipt. If you disagree with the traffic ticket, ask for a copy of the written fine that can be paid later, or insist on going to the nearest police station.
 
 ### Money
 
-The currency is the Uganda shilling (UGX).
+The currency of Uganda is the Ugandan shilling (UGX).
 
-Credit cards are accepted only by major hotels, airlines and some car rental agencies. You will find a foreign exchange (forex) bureau at most border posts and in all major cities. Most shops, banks and forex bureaus do not accept or exchange U.S. dollars printed before 2007.
+Credit cards are accepted only by major hotels, airlines and some car rental agencies. There are foreign exchange bureaus at most border crossings and in major cities.
