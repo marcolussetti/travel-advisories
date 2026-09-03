@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   2 July 2026
+:   3 September 2026
 
 Updated:
-:   1 July 2026
+:   2 September 2026
 
 Latest update:
-:   Updated information on limited commercial flight availability (‘Warnings and insurance’ page).
+:   Updated information on resumption of limited commercial flight operations from Maiquetía Simón Bolivar International Airport from 1 September (‘Warnings and insurance’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/69a6b088b9bd90e63a2521da/FCDO__TA__045_-_Venezuela_Travel_Advice_Ed4__WEB_.jpg)
 
@@ -63,16 +63,14 @@ A significant humanitarian response is currently taking place. If in Venezuela,
 
 ## Air Travel
 
-Availability of commercial flights to and from Venezuela is limited. Maiquetía Simón Bolívar International Airport, which serves Caracas, is temporarily closed to commercial flights.
+Availability of commercial flights to and from Venezuela is limited. Maiquetía Simón Bolívar International Airport, which serves Caracas, resumed commercial flight operations on 1 September with limited capacity.
 
-Commercial international flights are continuing from Valencia (Arturo Michelana International Airport), Barquisimeto (Jacinto Lara International Airport), Barcelona (General José Antonio Anzoátegui International Airport) and Maracaibo (La Chinita International Airport). Stay in contact with your airline or travel agent/tour operator for up-to-date information.
+Commercial international flights are also operating from Valencia (Arturo Michelena International Airport), Barquisimeto (Jacinto Lara International Airport), Barcelona (General José Antonio Anzoátegui International Airport) and Maracaibo (La Chinita International Airport). Stay in contact with your airline or travel agent/tour operator for the latest travel information and flight updates.
 
 If you are affected and need assistance from the UK government, call:
 
 * from Venezuela +58 (0) 212 263 8411
 * from UK +44 (0) 207 008 5000
-
-Walk-in appointments at the Embassy are currently unavailable.
 
 Be aware of the possibility of earthquake aftershocks. See further information about [earthquakes](https://www.gov.uk/foreign-travel-advice/venezuela/safety-and-security#earthquakes).
 

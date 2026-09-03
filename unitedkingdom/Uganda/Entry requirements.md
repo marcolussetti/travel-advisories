@@ -42,13 +42,13 @@ For full details about medical entry requirements and recommended vaccinations, 
 
 ## Ebola
 
-You may encounter health screening measures, such as being required to fill in a passenger locator form on arrival and departure and temperature checks, including at airports. Some countries have heightened health screening for travellers from Uganda. [Check entry requirements](https://www.gov.uk/foreign-travel-advice/) for the country you’re travelling to or transiting.
+Some countries have ongoing heightened health screening for travellers from Uganda. [Check entry requirements](https://www.gov.uk/foreign-travel-advice/) for the country you’re travelling to or transiting.
 
 On 27 May, the Ugandan National Task Force on Ebola Virus Disease [announced](https://x.com/MinofHealthUG/status/2057471796497035293), a closure of the Ugandan border with the Democratic Republic of Congo, with limited exceptions for authorised Ebola response, humanitarian and security personnel.
 
 Check with your travel operator for more information.
 
-The UK’s Returning Workers Scheme has been activated, due to the outbreak of Ebola disease. Returning health and humanitarian workers should check the latest at [UK’s Returning Workers Scheme](https://www.gov.uk/guidance/ebola-returning-workers-scheme) before returning to the UK.
+The UK’s Returning Workers Scheme has been activated, due to the outbreak of Ebola. Returning health and humanitarian workers should check the latest at [UK’s Returning Workers Scheme](https://www.gov.uk/guidance/ebola-returning-workers-scheme) before returning to the UK.
 
 ## Customs rules
 

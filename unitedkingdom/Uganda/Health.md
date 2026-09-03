@@ -34,13 +34,11 @@ Altitude sickness is a risk in parts of Uganda. Read more about [altitude sickne
 
 ### Ebola
 
-There are occasional Ebola outbreaks in Uganda. On 15 May the Ugandan Ministry of Health announced an outbreak of Ebola Bundibugyo in Uganda, including in Kampala. TravelHealthPro has information on [Ebola Disease in Uganda](https://travelhealthpro.org.uk/news/909/ebola-disease-in-drc-and-uganda) and  [general information on Ebola and similar diseases](https://travelhealthpro.org.uk/factsheet/68/viral-haemorrhagic-fever). The World Health Organisation (WHO) has [declared Ebola in the Democratic Republic of Congo and Uganda a Public Health Emergency of International Concern](https://www.who.int/news/item/17-05-2026-epidemic-of-ebola-disease-in-the-democratic-republic-of-the-congo-and-uganda-determined-a-public-health-emergency-of-international-concern).
+There are occasional Ebola outbreaks in Uganda. On 27 August 2026, the World Health Organisation declared the Uganda Ebola outbreak over. The outbreak in neighbouring DRC continues and the risk of transmission into Uganda remains. Government of Uganda is continuing to implement precautions on Uganda’s border with DRC to reduce this risk. Please see their [Standard Operating Procedures (SOPs)](https://health.go.ug/all-downloads/) for more details.
 
-The Government of Uganda has imposed temporary restrictions on mass gatherings, including concerts, festivals, rallies, community celebrations, races, and some market activities close to the border. For gatherings which may go ahead[, Ministry of Health Standard Operating Procedures (SOPs)](https://health.go.ug/all-downloads/) should be closely followed. Check with your travel operator for more information.
+TravelHealthPro has information on [Ebola Disease in Uganda](https://travelhealthpro.org.uk/news/ebola-disease-in-drc-and-uganda) and [general information on Ebola and similar diseases](https://travelhealthpro.org.uk/factsheets/viral-haemorrhagic-fever). Some countries still have heightened health screening for travellers from Uganda. [Check entry requirements](https://www.gov.uk/foreign-travel-advice) for the country you’re travelling to or transiting.
 
-You may encounter exit screening (temperature checks) on leaving Uganda. Some countries have heightened health screening for travellers from Uganda. [Check entry requirements](https://www.gov.uk/foreign-travel-advice/) for the country you’re travelling to or transiting.
-
-UK Health Security Agency has [Ebola information for humanitarian or healthcare workers](https://www.gov.uk/government/publications/ebola-virus-disease-information-for-workers-in-at-risk-countries).
+UK Health Security Agency has [Ebola information for humanitarian or healthcare workers](https://www.gov.uk/government/collections/ebola-virus-disease-clinical-management-and-guidance).
 
 ### Drinking water
 

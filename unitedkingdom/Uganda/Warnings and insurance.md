@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   28 August 2026
+:   3 September 2026
 
 Updated:
-:   28 August 2026
+:   2 September 2026
 
 Latest update:
-:   Updated information about exemptions to travel restrictions on National cleaning days ('Safety and security' page).
+:   Updated information that, on 27 August 2026, the World Health Organisation declared the Uganda Ebola outbreak over ('Entry requirements' and ‘Health’ pages).
 
 ## Before you travel
 

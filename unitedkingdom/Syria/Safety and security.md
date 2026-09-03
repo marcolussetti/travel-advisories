@@ -10,12 +10,18 @@ UK Counter Terrorism Policing has information and advice on [staying safe abroad
 
 Terrorists are very likely to try to carry out attacks in Syria.
 
-There are multiple terrorist groups operating in Syria. There have been a number of terrorist attacks across Syria, including in major cities, resulting in large numbers of casualties. Daesh, formerly known as ISIL/ISIS, continues to carry out regular attacks, especially in, but not limited to, northeast Syria and Damascus.
+There are multiple terrorist groups operating in Syria. There have been several terrorist attacks across Syria, including in major cities, resulting in large numbers of casualties. Daesh, also known as ISIL/ISIS, continues to carry out regular attacks all across Syria, including in Damascus. Terrorist groups continue to post a significant threat to civilians in Syria and have shown they can carry out coordinated attacks against civilian targets.
 
-Terrorist groups continue to pose a significant threat to civilians in Syria and have shown they can carry out coordinated attacks against civilian targets. On 2 June 2025, an attack in the Greek Orthodox Church of Prophet Elias, Damascus, killed at least 30 people.
+### Examples of previous significant attacks include:
+
+* on 7 July 2026, two improvised explosive devices detonated outside the Four Seasons hotel and Ministry for Tourism in Damascus, killing at least one person and injuring 36 others
+* on 2 July 2026, an improvised explosive device detonated inside a crowded café in central Damascus, killing at least nine people and injuring 22 others
+* on 2 June 2025, an attack in the Greek Orthodox Church of Prophet Elias, Damascus, killed at least 30 people
 
 Foreign nationals, including British nationals, and the places they frequently visit could be considered legitimate targets. This includes:
 
+* military sites, security forces and institutions
+* government buildings and embassies
 * public transport and transport hubs, such as airports
 * border crossings
 * public squares and other crowded places
@@ -27,9 +33,7 @@ Foreign nationals, including British nationals, and the places they frequently v
 
 Attacks could also target:
 
-* military sites, security forces and institutions
 * oil facilities
-* government buildings and embassies
 * political offices and events
 * police stations
 * maritime facilities
@@ -49,9 +53,7 @@ The long-standing policy of the British government is not to make substantive co
 
 ## Security situation
 
-The situation in Syria remains volatile and dangerous after over a decade of conflict and insecurity. The Bashar al-Assad regime ended in December 2024. The new Syrian government in Damascus may lean towards conservative Islamist practices . Some areas within Syria are controlled by local armed groups, and are not under control of the Syrian government, including northeast Syria and Suwayda province in southern Syria.
-
-Fighting and violence may occur around the country and is highly unpredictable. It includes artillery and airstrikes.
+The situation in Syria remains volatile. Fighting and violence may occur around the country and is highly unpredictable. This includes artillery and airstrikes. Some areas within Syria are controlled by local armed groups, and are not under control of the Syrian government, particularly in Suwayda province in southern Syria.
 
 Fighting has, at various times, led to the temporary suspension of commercial flights, road closures, and the closure of some border crossings. Curfews may be imposed across the country.
 
@@ -63,11 +65,11 @@ There may be risks to your safety, including detention, if you take part in poli
 
 ## Journalists in Syria
 
-Journalists and other foreigners may be vulnerable to mistreatment, detention, and from armed groups, or confiscation of phones, cameras and video cameras by security forces.
+Journalists and other foreign nationals may be at increased risk of detention, mistreatment, or harassment by armed groups and security forces. Security forces may also confiscate phones, cameras and other recording equipment.
 
 ## Unexploded Weapons
 
-Landmines and other unexploded weapons remain from the Syrian conflict. While highly populated areas and major routes are largely clear, there is still a risk in less populated and rural areas. Do not step off roads and paved areas without an experienced guide. Take care near:
+Landmines and other unexploded weapons remain from the Syrian conflict. While highly populated areas and major routes are largely clear, there remains a risk in less populated and rural areas. Do not step off roads and paved areas without an experienced guide. Take care near:
 
 * the former lines of conflict
 * the edge of roads
@@ -84,11 +86,11 @@ There is a humanitarian crisis in Syria. Public infrastructure and services have
 
 ## Sanctions
 
-The UK has sanctions in place on Syria. Since the fall of the Assad regime, the UK has removed sanctions on some sectors.  See the [Office of Financial Sanctions Implementation, HM Treasury](https://www.gov.uk/government/organisations/office-of-financial-sanctions-implementation), and [UK sanctions on Syria](https://www.gov.uk/government/publications/syria-sanctions-guidance) for more information.
+Since the fall of the Assad regime, the UK has removed sanctions on some sectors, though some remain. See the [Office of Financial Sanctions Implementation, HM Treasury](https://www.gov.uk/government/organisations/office-of-financial-sanctions-implementation), and [UK sanctions on Syria](https://www.gov.uk/government/publications/syria-sanctions-guidance) for more information.
 
 ## Crime
 
-The humanitarian crisis and instability  has led to a rise in crime in most areas in the country, including extortion at checkpoints, violent robbery, carjacking and kidnapping.
+The humanitarian crisis and instability has led to a rise in crime in most areas in the country, including petty crime, violent robbery, carjacking and kidnapping.
 
 ### Criminal kidnapping
 

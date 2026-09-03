@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   23 July 2026
+:   3 September 2026
 
 Updated:
-:   22 July 2026
+:   2 September 2026
 
 Latest update:
-:   Updated information about regional tensions, including information about recent strikes and retaliatory attacks by Iran ('Warnings insurance') page.
+:   This travel advice has been reviewed for accuracy with changes made throughout, including terrorism in Syria, security situation, journalists in Syria and crime ('Safety and security' page).
 
 ![](https://assets.publishing.service.gov.uk/media/5f4f3764e90e071c745ff2f9/FCDO__TA__039_-_Syria_Travel_Advice_Ed1__WEB_.jpg)
 

@@ -1,11 +1,11 @@
 {
     "name": "Uganda",
-    "update_reason": "Updated information about exemptions to travel restrictions on National cleaning days ('Safety and security' page).",
+    "update_reason": "Updated information that, on 27 August 2026, the World Health Organisation declared the Uganda Ebola outbreak over ('Entry requirements' and \u2018Health\u2019 pages).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Uganda/Warnings and insurance.md",
-            "update_date": "2026-08-28T15:05:20+01:00"
+            "update_date": "2026-09-02T16:45:31+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Uganda/Getting help.md"
         }
     ],
-    "update_date": "2026-08-28T15:05:20+01:00"
+    "update_date": "2026-09-02T16:45:31+01:00"
 }
