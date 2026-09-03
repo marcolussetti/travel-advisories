@@ -25,6 +25,14 @@ Irish citizens require a visa to enter Azerbaijan. Citizens can apply online usi
 
 A valid passport is required for travel to Azerbaijan. Passport cards **cannot** be used. Irish passports should have a minimum validity of 3 months from the expiry date of your Azerbaijani visa. This means your passport must be valid for at least 6 months after the date you arrive in Azerbaijan.
 
+### **Formula 1 2026**
+
+Foreign visitors arriving to Azerbaijan in connection with the Formula 1 race to be held in Baku in 2026 can obtain visas on arrival at the international airports of Azerbaijan from 25 August 2026 until 30 September 2026, by providing one of the below mentioned documents.
+
+* An accreditation card or other document confirming accreditation in accordance with the relevant rules of "Formula One Management Limited" company and International Automobile Federation, the international organisers of Formula 1 races.
+* An accreditation card for Baku City Circuit Operations Company.
+* A ticket, including electronic ticket or a document that confirms obtaining a ticket for Formula 1 race to be held in Baku in 2026.
+
 ### **Entry Restrictions**
 
 Anyone who has visited the region formerly known as “Nagorno-Karabakh” in the past without the permission of the Azerbaijani authorities will be refused entry to Azerbaijan.
