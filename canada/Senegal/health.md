@@ -172,15 +172,13 @@ Frequent handwashing and making careful food and beverage choices can reduce you
 **Learn more:**[Travellers’ diarrhea](https://www.canada.ca/en/public-health/services/diseases/diarrhea.html)  
 [Eat and drink safely outside Canada](https://travel.gc.ca/travelling/health-safety/food-water)
 
-Typhoid 
+Typhoid fever 
 
-Typhoid fever is a disease caused by bacteria. Symptoms may include fever, cough, diarrhea, tiredness, headache, and loss of appetite.
+There is a risk of typhoid fever in this destination, but the risk is low for most travellers. Travellers are at higher risk in places with poor sanitation, limited access to clean water, or unsafe food preparation. Cleaning your hands often and making safe food and drink choices can help lower your risk.
 
-There is a risk of typhoid fever in this destination, but the risk is low for most travellers.
+Typhoid fever is a disease caused by bacteria. It spreads through consuming contaminated food or drinking water, or through contact with the feces of an infected person.
 
-Typhoid fever spreads through consuming contaminated food or drinking water, or through contact with the feces of an infected person.
-
-Travellers are at higher risk in places with poor sanitation, limited access to clean water, or unsafe food preparation. Young children, older adults, people visiting friends or relatives, and people with weakened immune systems are more likely to become seriously ill. Cleaning your hands often and making safe food and drink choices can help lower your risk.
+Symptoms may include fever, cough, diarrhea, tiredness, headache, and loss of appetite. Young children, older adults, people visiting friends or relatives, and people with weakened immune systems are more likely to become seriously ill.
 
 A vaccine is available and may be recommended for some travellers to this destination, depending on their risk. Talk to a health care provider before you travel to find out if this vaccine is recommended for you.
 

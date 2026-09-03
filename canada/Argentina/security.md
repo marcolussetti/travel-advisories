@@ -87,7 +87,7 @@ In Buenos Aires, petty crime occurs in tourist areas, particularly in:
 
 In La Boca, always remain on Caminito Street. Violent thefts often occur on neighbouring streets. Avoid the area after dark.
 
-[Tourism Prevention QR Code](https://buenosaires.gob.ar/noticias/codigo-qr-de-prevencion-turistica#:~:text=El%20C%C3%B3digo%20QR%20de%20Prevenci%C3%B3n,p%C3%A1gina%20del%20Ministerio%20P%C3%BAblico%20Fiscal.) -  City of Buenos Aires (in Spanish)
+[Tourism Prevention QR Code](https://buenosaires.gob.ar/noticias/codigo-qr-de-prevencion-turistica#:~:text=El%20C%C3%B3digo%20QR%20de%20Prevenci%C3%B3n,p%C3%A1gina%20del%20Ministerio%20P%C3%BAblico%20Fiscal.) – City of Buenos Aires (in Spanish)
 
 ### Mendoza
 
@@ -216,7 +216,7 @@ Due to winter weather conditions impacting road safety, authorities close land b
 * Plan accordingly
 * Follow the instructions of local authorities
 
-[International crossings](International%20crossings) - Government of Argentina (in Spanish)
+[International crossings](https://www.argentina.gob.ar/seguridad/pasosinternacionales) – Government of Argentina (in Spanish)
 
 ### Road travel
 
@@ -242,7 +242,7 @@ If you are in Buenos Aires, you can use an application to call a taxi.
 * Don’t share taxis with strangers
 * Try to pay with exact change, since unscrupulous taxi drivers sometimes trade counterfeit bills for good ones
 
-[Buenos Aires taxi app](https://buenosaires.gob.ar/jefaturadegabinete/innovacion/aplicacionesmoviles/ba-taxi) - City of Buenos Aires (in Spanish)
+[Buenos Aires taxi app](https://buenosaires.gob.ar/jefaturadegabinete/innovacion/aplicacionesmoviles/ba-taxi) – City of Buenos Aires (in Spanish)
 
 #### Ridesharing services
 

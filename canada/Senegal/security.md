@@ -197,7 +197,7 @@ Avoid crossing the Senegal River using private pirogue services, as it is illega
 
 The Grand Magal of Touba is an annual pilgrimage that attracts a large number of pilgrims each year.
 
-The next event should take place on August 2, 2026.
+The next event should take place on July 23, 2027.
 
 Before and during the pilgrimage, you can expect:
 

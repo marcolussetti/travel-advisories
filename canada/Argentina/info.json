@@ -1,7 +1,7 @@
 {
     "name": "Argentina",
-    "update_reason": "The Need help? section was updated.",
-    "update_date": "2026-08-21T14:41:00",
+    "update_reason": "Editorial change",
+    "update_date": "2026-09-02T13:58:00",
     "sections": {
         "risk": "canada/Argentina/risk.md",
         "security": "canada/Argentina/security.md",

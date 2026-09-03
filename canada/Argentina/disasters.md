@@ -33,7 +33,7 @@ In the event of an earthquake or volcanic eruption:
 * monitor local news for to stay informed on the evolving situation
 * follow the instructions of local authorities, including evacuation orders.
 
-[More about seismic activity in Argentina](http://www.inpres.gob.ar/) - National Institute of Seismic Prevention (in Spanish only)
+[More about seismic activity in Argentina](http://www.inpres.gob.ar/) – National Institute of Seismic Prevention (in Spanish only)
 
 ### Flooding
 

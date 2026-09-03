@@ -48,12 +48,23 @@ Seasonal flooding can hamper overland travel and reduce the provision of essenti
 * [National Institute of Meteorology and Hydrology](https://www.inamhi.gob.ec/) – Government of Ecuador (Spanish only)
 * [Road conditions and closures](https://www.ecu911.gob.ec/consulta-de-vias/) – ECU911 (Spanish only)
 
-### El Niño
+### El Niño 2026-2027
 
-The complex weather phenomenon called El Niño happens at irregular intervals of 2 to 7 years. In Ecuador, El Niño generally generates heavy rainfalls for 6 to 9 months, occurring at the same time as the rainy season from October to May.
+The complex weather phenomenon called El Niño happens at irregular intervals of 2 to 7 years. In Ecuador, El Niño may result in periods of heavy rainfall, flooding, landslides, transportation disruptions, and interruptions to essential services, typically during the rainy season from October to May.
 
-* Keep informed of regional weather forecasts before and during your travels, and plan accordingly.
-* Ensure you have adequate insurance to cover the consequences of such events, including the disruption of travel plans.
+The National Secretariat for Risk Management (SNGR) has identified 17 provinces, 143 cantons and 491 parishes located primarily below 1,500 metres above sea level as areas of concern. These areas are in the following regions:
+
+* Coastal region
+* Andes region (Sierra)
+* Amazon region
+* Galápagos
+
+If you're in Ecuador:
+
+* keep informed of regional weather forecasts before and during your travels, and plan accordingly
+* ensure you have adequate insurance to cover the consequences of such events, including the disruption of travel plans
+
+[Guidelines for Local Governments in Preparation for El Niño](https://www.gestionderiesgos.gob.ec/gobierno-nacional-entrega-lineamientos-estrategicos-a-los-gad-ante-el-evento-de-el-nino/) – National Secretariat for Risk Management, Government of Ecuador (Spanish only)
 
 ### Earthquakes and tsunamis
 
