@@ -1,11 +1,11 @@
 {
     "name": "Ireland",
-    "update_reason": "This travel advice was reviewed for accuracy and there are no significant updates.",
+    "update_reason": "Addition of information about ID requirements for travel between the UK and Ireland under the Common Travel Area (\u2018Entry requirements\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Ireland/Warnings and insurance.md",
-            "update_date": "2026-02-26T11:06:23+00:00"
+            "update_date": "2026-09-04T10:53:16+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Ireland/Getting help.md"
         }
     ],
-    "update_date": "2026-02-26T11:06:23+00:00"
+    "update_date": "2026-09-04T10:53:16+01:00"
 }

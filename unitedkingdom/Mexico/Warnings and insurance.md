@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   17 July 2026
+:   4 September 2026
 
 Updated:
-:   16 July 2026
+:   4 September 2026
 
 Latest update:
-:   Removal of information on the match between England and Mexico on 5 July, 2026.
+:   Information about Hurricane Marie causing intense rain across state of Baja California Sur ('Warnings and insurance' page)
 
 ![](https://assets.publishing.service.gov.uk/media/69a1c6c8ec82ce45f05bd70e/FCDO__TA__065_-_Mexico_Travel_Advice_Ed5__WEB_.jpg)
 
@@ -107,11 +107,12 @@ FCDO advises against all but essential travel on Federal Highway 199 (Carretera 
 
 Find out more about [why FCDO advises against travel to these areas](/foreign-travel-advice/mexico/regional-risks).
 
-## World Cup 2026
+## Hurricane Marie
 
-Mexico is co-hosting the 2026 World Cup which takes place between 11 June and 19 July.
-
-If you are planning to travel to Mexico during the World Cup, see the [World Cup page](https://www.gov.uk/foreign-travel-advice/mexico/world-cup-2026) for more information.
+* Hurricane Marie is causing intense rains across the state of Baja California Sur, including the tourist resort of Los Cabos. This is expected to continue on 4 September. A hurricane warning is in place. Monitor local and international weather updates, including [US National Hurricane Center](https://www.nhc.noaa.gov/) and [Mexican Meteorological Service](https://smn.conagua.gob.mx/en/) (in Spanish).
+* Follow advice from local authorities and your tour operator.
+* Sign up to [get email notifications](https://www.gov.uk/foreign-travel-advice/mexico/email-signup) when this travel advice is updated.
+* See [extreme weather and natural hazards](https://www.gov.uk/guidance/extreme-weather-and-natural-hazards) for advice about how to prepare for travel during hurricane season and what to do ahead of a storm.
 
 ## Before you travel
 

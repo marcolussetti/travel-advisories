@@ -37,7 +37,7 @@ Only drink boiled or bottled water and avoid ice in drinks.
 
 ### Cyclospora
 
-There have been [reported cases of Cyclospora](https://travelhealthpro.org.uk/news/707/cyclospora-and-summer-travel), a food and water bug, affecting travellers returning from Mexico.
+There have been [reported cases of Cyclospora](https://travelhealthpro.org.uk/news/917/cyclospora-and-summer-travel), a food and water bug, affecting travellers returning from Mexico.
 
 ## Medication
 

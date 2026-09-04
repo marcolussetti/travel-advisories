@@ -30,24 +30,13 @@ You must get a [UK Police Certificate](https://www.acro.police.uk/s/) before you
 
 ## Travel between Rwanda and the Democratic Republic of the Congo
 
-Land border crossing opening hours between Rwanda and the Democratic Republic of the Congo at Gisenyi-Goma and Cyangugu-Bukavu vary. The conflict in DRC could further affect border crossings (see [Democratic Republic of the Congo’s travel advice](https://www.gov.uk/foreign-travel-advice/democratic-republic-of-the-congo)). The FCDO currently advises against all but essential travel to parts of the Rubavu and Rusizi Districts.
+Land border crossing opening hours between Rwanda and the Democratic Republic of the Congo (DRC) at Gisenyi-Goma and Cyangugu-Bukavu vary. The conflict in DRC could further affect border crossings (see [Democratic Republic of the Congo’s travel advice](https://www.gov.uk/foreign-travel-advice/democratic-republic-of-the-congo)). The FCDO currently advises against all but essential travel to parts of the Rusizi District.
 
 You may experience immigration difficulties if you do not have residency status and regularly cross between the two countries.
 
-Following the Ebola outbreak, transit from the Democratic Republic of the Congo through Rwanda is only permitted in exceptional circumstances related to humanitarian missions and essential travel, and is subject to:
-
-* health risk assessment
-* destination-country requirements
-* transport operator requirements
-* public health requirements
-* approval by the Rwandan authorities
-
 ## Border measures
 
-On 22 May the Government of Rwanda [announced new border measures](https://x.com/RwandaHealth/status/2057790371657101712?s=20) in response to the Ebola outbreak, including:
-
-* Any Foreign nationals who have travelled to or transited through the Democratic Republic of Congo (DRC) in the last 30 days prior to their intended travel to Rwanda will be denied entry
-* Rwandan nationals and foreign residents with valid proof of residency in Rwanda will be permitted entry. However, if they have travelled to or through DRC in the last 30 days, they will be subject to mandatory quarantine procedures
+In response to the current Ebola outbreak in DRC, the Government of Rwanda has introduced [health-screening measures at Kigali International Airport and border restrictions with DRC](https://www.rbc.gov.rw/PHSEPR/about-ebola-2/). These measures may be subject to short notice change. Check the latest advice of local authorities and tour operators ahead of travel.
 
 ## Customs rules
 

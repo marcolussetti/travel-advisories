@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   16 July 2026
+:   4 September 2026
 
 Updated:
-:   15 July 2026
+:   4 September 2026
 
 Latest update:
-:   Addition of information about flooding ('Warnings and insurance' page).
+:   Addition of information about electronical arrival and departure cards and updated information about applying for a visa (‘Entry requirements’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/6991cc717da91680ad7f4436/Bangladesh_map.jpg)
 

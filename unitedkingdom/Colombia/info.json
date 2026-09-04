@@ -1,11 +1,11 @@
 {
     "name": "Colombia",
-    "update_reason": "Removal of information about flooding risks during periods of heavy rain (\u2018Warnings and insurance\u2019 page).",
+    "update_reason": "Updated information on earthquake response and removal of information about the closure of Mateca\u00f1a International Airport ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Colombia/Warnings and insurance.md",
-            "update_date": "2026-08-18T15:51:11+01:00"
+            "update_date": "2026-09-03T15:30:31+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Colombia/Getting help.md"
         }
     ],
-    "update_date": "2026-08-18T15:51:11+01:00"
+    "update_date": "2026-09-03T15:30:31+01:00"
 }

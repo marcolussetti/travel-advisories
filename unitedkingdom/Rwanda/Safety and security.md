@@ -64,6 +64,10 @@ Rwanda’s laws do not discriminate against sexual orientation, and its constitu
 
 There is a ban on plastic bags in Rwanda for environmental reasons. If you have plastic bags when you arrive in the country, they will be confiscated.
 
+### Vaporisers, e-cigarette bans
+
+Vapes and e-cigarettes are banned in Rwanda. It is illegal to bring them into the country, including for personal use. If you are found in possession of vapes or e-cigarettes you will have them confiscated and could be fined.
+
 ## Genocide Memorial Day
 
 The week following Genocide Memorial Day on 7 April is an official week of mourning.

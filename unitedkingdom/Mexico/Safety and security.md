@@ -281,6 +281,6 @@ The [Mexican Disaster Prevention Centre](https://www.gob.mx/cenapred) has updat
 
 [Previous:Entry requirements](/foreign-travel-advice/mexico/entry-requirements)
 
-[Next:World Cup 2026](/foreign-travel-advice/mexico/world-cup-2026)
+[Next:Regional risks](/foreign-travel-advice/mexico/regional-risks)
 
 [View a printable version of the whole guide](/foreign-travel-advice/mexico/print)

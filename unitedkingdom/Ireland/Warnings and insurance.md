@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   27 February 2026
+:   4 September 2026
 
 Updated:
-:   26 February 2026
+:   4 September 2026
 
 Latest update:
-:   This travel advice was reviewed for accuracy and there are no significant updates.
+:   Addition of information about ID requirements for travel between the UK and Ireland under the Common Travel Area (‘Entry requirements’ page).
 
 ## Before you travel
 

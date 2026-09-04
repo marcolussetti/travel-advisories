@@ -1,11 +1,11 @@
 {
     "name": "Rwanda",
-    "update_reason": "Addition of information about travel between Rwanda and DRC for humanitarian missions and essential travel (\u2018Entry requirements\u2019 page).",
+    "update_reason": "New information about vapes and e-cigarette bans in Rwanda and updated information about border measures introduced by the Rwandan Government in response to the Ebola outbreak in the Democratic Republic of Congo ('Entry requirements' and 'Safety and security' pages).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Rwanda/Warnings and insurance.md",
-            "update_date": "2026-06-10T15:14:19+01:00"
+            "update_date": "2026-09-04T10:15:14+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Rwanda/Getting help.md"
         }
     ],
-    "update_date": "2026-06-10T15:14:19+01:00"
+    "update_date": "2026-09-04T10:15:14+01:00"
 }

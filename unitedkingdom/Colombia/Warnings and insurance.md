@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   19 August 2026
+:   4 September 2026
 
 Updated:
-:   18 August 2026
+:   3 September 2026
 
 Latest update:
-:   Removal of information about flooding risks during periods of heavy rain (‘Warnings and insurance’ page).
+:   Updated information on earthquake response and removal of information about the closure of Matecaña International Airport ('Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/6a1022481eb143220d8d27b8/FCDO__TA__054_-_Colombia_Travel_Advice_Ed5__WEB___3_.jpg)
 
@@ -67,7 +67,7 @@ Find out more about [why FCDO advises against travel](/foreign-travel-advice/col
 
 On the morning of Monday 10 August, Colombia suffered a magnitude 7.4 earthquake, affecting large parts of the country. Its epicentre was near San José del Palmar in the department of Chocó in the West of Colombia.
 
-Expect potential disruption to travel. Matecaña International Airport in Pereira is currently closed.
+A humanitarian response is currently taking place in earthquake-affected areas.
 
 If you’re in Colombia, follow the advice of local authorities, stay away from damaged buildings and plan ahead.
 

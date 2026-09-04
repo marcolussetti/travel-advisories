@@ -6,11 +6,11 @@ The authorities in Ireland set and enforce entry rules. If you’re not sure how
 
 ## Passport and ID requirements
 
-British nationals are not legally required to show a passport to enter Ireland, but it may be useful to carry in case you need to prove your identity.
+British nationals are not legally required to show a passport to enter Ireland, but it may be useful to carry in case you need to prove your identity. British and Irish citizens can continue to travel freely between the UK and Ireland under the Common Travel Area.
 
-Irish immigration officers are entitled to ask for proof of British nationality in the course of their work. Ferries and airlines may ask for ID. Check your carrier’s conditions of travel.
+Some airlines and ferry operators have introduced, or will be introducing, a passport-only identification requirement. Check your carrier’s requirements before departure and, where necessary, travel with a valid passport. Check the [Ireland Citizens Information Board for guidance on acceptable ID](https://www.citizensinformation.ie/en/government-in-ireland/ireland-and-the-uk/common-travel-area-between-ireland-and-the-uk/).
 
-Check the [Ireland Citizens Information Board for guidance on acceptable ID](https://www.citizensinformation.ie/en/government-in-ireland/ireland-and-the-uk/common-travel-area-between-ireland-and-the-uk/).
+Irish immigration officers are entitled to ask for proof of British nationality in the course of their work.
 
 ## Visa requirements
 

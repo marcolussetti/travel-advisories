@@ -24,11 +24,17 @@ At Bangladeshi border control, you may also need to show a return or onward tick
 
 When returning to the UK, British citizens must carry a valid [British passport](https://www.gov.uk/browse/abroad/passports) or [certificate of entitlement](https://www.gov.uk/right-of-abode/apply-for-a-certificate-of-entitlement). See [Dual Citizenship](https://www.gov.uk/dual-citizenship).
 
+## Electronic arrival and departure cards
+
+Bangladesh has introduced online arrival and departure registration for foreign nationals. Travellers may be required to complete an [electronic arrival card](https://edcard.specialbranch.gov.bd/foreigner/register) before entering Bangladesh and an [electronic departure card](https://edcard.specialbranch.gov.bd/foreigner/departure) before leaving.
+
 ## Visa requirements
 
 You must have a visa to visit Bangladesh for up to 3 months, unless you have a ‘no visa required’ stamp in your UK passport.
 
 ### Applying for a visa
+
+If you are eligible for a visa on arrival, you may be able to [pre-register online](https://voa.specialbranch.gov.bd/register/new) before travel. Check the latest requirements with the Bangladeshi authorities and your airline before travelling.
 
 [Apply in advance for a visa](https://bhclondon.org.uk/visa) from the Bangladeshi High Commission in the UK.
 

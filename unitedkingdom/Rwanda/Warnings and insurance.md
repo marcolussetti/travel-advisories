@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   11 June 2026
+:   4 September 2026
 
 Updated:
-:   10 June 2026
+:   4 September 2026
 
 Latest update:
-:   Addition of information about travel between Rwanda and DRC for humanitarian missions and essential travel (‘Entry requirements’ page).
+:   New information about vapes and e-cigarette bans in Rwanda and updated information about border measures introduced by the Rwandan Government in response to the Ebola outbreak in the Democratic Republic of Congo ('Entry requirements' and 'Safety and security' pages).
 
 ![](https://assets.publishing.service.gov.uk/media/694416f88f4636fa2c547e9a/FCDO__TA__100_-_Rwanda_Travel_Advice_Ed5__WEB_.jpg)
 

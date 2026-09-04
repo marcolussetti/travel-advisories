@@ -1,11 +1,11 @@
 {
     "name": "Mexico",
-    "update_reason": "Removal of information on the match between England and Mexico on 5 July, 2026.",
+    "update_reason": "Information about Hurricane Marie causing intense rain across state of Baja California Sur ('Warnings and insurance' page)",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Mexico/Warnings and insurance.md",
-            "update_date": "2026-07-16T16:08:09+01:00"
+            "update_date": "2026-09-04T00:25:51+01:00"
         },
         {
             "title": "Entry requirements",
@@ -16,11 +16,6 @@
             "title": "Safety and security",
             "url": "https://www.gov.uk/foreign-travel-advice/mexico/safety-and-security",
             "file": "unitedkingdom/Mexico/Safety and security.md"
-        },
-        {
-            "title": "World Cup 2026",
-            "url": "https://www.gov.uk/foreign-travel-advice/mexico/world-cup-2026",
-            "file": "unitedkingdom/Mexico/World Cup 2026.md"
         },
         {
             "title": "Regional risks",
@@ -38,5 +33,5 @@
             "file": "unitedkingdom/Mexico/Getting help.md"
         }
     ],
-    "update_date": "2026-07-16T16:08:09+01:00"
+    "update_date": "2026-09-04T00:25:51+01:00"
 }
