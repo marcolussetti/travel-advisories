@@ -100,9 +100,9 @@ Women travelling alone may be subject to some forms of harassment and verbal abu
 
 ### Road safety
 
-Road conditions and road safety are generally good throughout the country. However, roads may be narrow.
+Road conditions and road safety are generally good throughout the country. However, some roads may be narrow, particularly in residential and rural areas.
 
-[Japan Road Traffic Information Center](https://www.jartic.or.jp/ "Japan Road traffic Information Center") (in Japanese)
+[Japan Road Traffic Information Center](https://www.jartic.or.jp/ "Japan Road traffic Information Center") (Japanese only)
 
 ### Public transportation
 

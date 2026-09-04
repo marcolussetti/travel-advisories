@@ -2,22 +2,6 @@
 
 ## Natural disasters and climate
 
-### Typhoon Saudel
-
-On August 26, 2026, Typhoon Saudel swept across Okinawa and the Amami Islands. It brought heavy rainfall and violent winds.
-
-The storm also disrupted transportation and power distribution.
-
-Flash flooding and landslides could still occur.
-
-If you are in the affected area:
-
-* exercise caution
-* monitor local news and weather reports
-* follow the instructions of local authorities
-
-[Japan Meteorological Agency](http://www.jma.go.jp/jma/indexe.html)
-
 ### Climate change
 
 Climate change is affecting Japan. Extreme and unusual weather events are becoming more frequent and may affect your travel plans. Monitor local news to stay informed on the current situation.
