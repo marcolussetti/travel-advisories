@@ -2,22 +2,6 @@
 
 ## Natural disasters and climate
 
-### Nevada fires
-
-Multiple wildfires are affecting Sierra and Washoe counties, near Reno, Nevada.
-
-Local authorities have issued evacuation orders in some affected areas. Air quality may be affected by wildfire smoke and ash.
-
-If you are in the affected areas:
-
-* stay away from active fires and evacuation zones
-* follow the instructions of local authorities, including evacuation orders
-* monitor local media for updates, as fire conditions and evacuation areas may change rapidly
-
-[Latest updates](https://www.oem.nv.gov/wildfire-info-2026/) – Nevada Office of Emergency Management
-
-[More information on bush and forest fires](https://travel.gc.ca/destinations/united-states#fire)
-
 Natural disasters can occur at any time.
 
 [Plan Ahead for Disasters](https://www.ready.gov/) – U.S. Department of Homeland Security

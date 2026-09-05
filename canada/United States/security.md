@@ -2,20 +2,6 @@
 
 ## Safety and security
 
-### Shooting in downtown Minneapolis
-
-There are reports that several people have been shot in downtown Minneapolis.
-
-Local authorities are on the scene and are asking the public to avoid the area from 12th street to Franklin, Hennepin to 3rd Ave S.
-
-If you’re in Minneapolis:
-
-* avoid the area from 12th street to Franklin, Hennepin to 3rd Ave S
-* follow the instructions of local authorities
-* monitor local media for updates on the evolving situation
-
-[For more information](https://x.com/CityMinneapolis/) – City of Minneapolis
-
 ### Border with Mexico
 
 Criminal incidents associated with drug trafficking are more frequent at the border with Mexico, in the following states:
