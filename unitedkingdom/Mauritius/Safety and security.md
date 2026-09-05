@@ -72,11 +72,15 @@ If you’re [taking part in any kind of water sports](https://www.rlss.org.uk/sa
 
 If you are planning to drive in Mauritius, see [information on driving abroad](https://www.gov.uk/driving-abroad).
 
+As in the UK, left-hand traffic is standard across Mauritius.
+
 You can use a UK photocard driving licence to drive in Mauritius. Carry your licence with you when driving. If you still have a paper driving licence, you may need to [update it to a photocard licence](https://www.gov.uk/exchange-paper-driving-licence).
 
 Hire car companies often have stricter requirements for their customers, such as a year of driving experience, a higher minimum age and holding an IDP.
 
-Drink-driving is a serious offence in Mauritius. If you’re tested and found to have a [quarter of England’s legal limit of alcohol in your system](https://police.govmu.org/police/?page_id=6024), you may get a fine and possible imprisonment.
+Drivers are expected to carry in their vehicles yellow chalk, or other appropriate yellow indelible marker. This should be used to mark the position and registration number of their vehicle on the surface of a road in the event of an accident or breakdown, before moving their vehicle off the road where possible.
+
+Drink-driving is a serious offence in Mauritius. Penalties for driving under the influence of alcohol, even at very low levels (a [quarter of England’s legal limit of alcohol in your system](https://police.govmu.org/police/?page_id=6024)), can include fines or imprisonment.
 
 ### Driving conditions
 

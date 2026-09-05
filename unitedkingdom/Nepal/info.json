@@ -1,11 +1,11 @@
 {
     "name": "Nepal",
-    "update_reason": "Addition of UK government assistance phone number from India ('Warnings and insurance' page).",
+    "update_reason": "Addition of information about Family Assistance Centre at the British Embassy Kathmandu (See \u2018Warnings and insurance\u2019 page)",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Nepal/Warnings and insurance.md",
-            "update_date": "2026-09-01T09:47:59+01:00"
+            "update_date": "2026-09-04T13:11:59+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Nepal/Getting help.md"
         }
     ],
-    "update_date": "2026-09-01T09:47:59+01:00"
+    "update_date": "2026-09-04T13:11:59+01:00"
 }

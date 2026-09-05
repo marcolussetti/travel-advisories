@@ -1,11 +1,11 @@
 {
     "name": "Kenya",
-    "update_reason": "Updated information about flight delays due to industrial action ('Warnings and insurance' page).",
+    "update_reason": "Removed information about industrial action ('Warnings and insurance' page)",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Kenya/Warnings and insurance.md",
-            "update_date": "2026-09-01T12:05:48+01:00"
+            "update_date": "2026-09-04T15:12:11+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Kenya/Getting help.md"
         }
     ],
-    "update_date": "2026-09-01T12:05:48+01:00"
+    "update_date": "2026-09-04T15:12:11+01:00"
 }

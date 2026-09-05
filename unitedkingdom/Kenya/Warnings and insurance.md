@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   1 September 2026
+:   5 September 2026
 
 Updated:
-:   1 September 2026
+:   4 September 2026
 
 Latest update:
-:   Updated information about flight delays due to industrial action ('Warnings and insurance' page).
+:   Removed information about industrial action ('Warnings and insurance' page)
 
 ![](https://assets.publishing.service.gov.uk/media/696a6280448fedc1eb4248f0/FCDO__TA__055_-_Kenya_Travel_Advice_Ed7__WEB_.jpg)
 
@@ -35,12 +35,6 @@ FCDO advises against all but essential travel to:
 * within 15km of the east coast between the Tana River and the Galana (Athi-Galana-Sabaki) River
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/kenya/regional-risks).
-
-## Industrial action affecting airports
-
-On 1 September 2026, aviation workers and the Kenyan government reached an agreement to end strike action that has disrupted airport operations. Disruption to flights and airport operations is likely to continue while services recover.
-
-If you are travelling to, from, or within Kenya, check the status of your flight with your airline before travelling to the airport.
 
 ## Before you travel
 

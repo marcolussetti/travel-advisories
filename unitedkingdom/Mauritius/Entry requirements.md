@@ -37,7 +37,7 @@ For details about health entry requirements and recommended vaccinations see [Tr
 
 ## Travelling from Reunion Island to Mauritius
 
-On arrival in Mauritius, you may be asked further questions about your health and recent travel history, although plans to ask people to show a PCR test for Chikungunya have been postponed.
+On arrival in Mauritius, you may be asked questions about your health and recent travel history.
 
 ## Health screening
 
@@ -45,10 +45,10 @@ If you travel to Mauritius from a country where malaria is common, border offici
 
 ## Ebola
 
- On 15 June, the [Mauritius Ministry of Foreign Affairs](https://foreign.govmu.org/Pages/default.aspx) announced that in response to the Ebola outbreak:
+As a precautionary measure, Mauritius has introduced entry restrictions in response to the Ebola outbreak:
 
-* Non-Mauritian nationals that have travelled from Democratic Republic of Congo, Uganda, or South Sudan within the preceding 21 days and that do not hold a valid work permit, residence permit, occupation permit, business, or student visa are not allowed to enter Mauritius
-* Mauritian nationals, and non-Mauritians holding a valid work permit, residence permit, occupation permit, business visa or student visa who have travelled from, transited through, or been present in Democratic Republic of Congo, Uganda, or South Sudan within the preceding 21 days will be permitted entry but will be subject to a 21-day mandatory quarantine
+* Non-Mauritian nationals that have travelled from Democratic Republic of Congo or South Sudan within the preceding 21 days and that do not hold a valid work permit, residence permit, occupation permit, business, or student visa are not allowed to enter Mauritius
+* Mauritian nationals, and non-Mauritians holding a valid work permit, residence permit, occupation permit, business visa or student visa who have travelled from, transited through, or been present in Democratic Republic of Congo or South Sudan within the preceding 21 days will be permitted entry but will be subject to a 21-day mandatory quarantine
 
 ## Customs rules
 

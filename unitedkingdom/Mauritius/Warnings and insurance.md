@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   16 June 2026
+:   5 September 2026
 
 Updated:
-:   15 June 2026
+:   4 September 2026
 
 Latest update:
-:   Updated information on Ebola (‘Entry requirements page’).
+:   Updated information on Ebola and travelling from Reunion Island (‘Entry requirements’) and Road travel (‘Safety and security’)
 
 ## Before you travel
 

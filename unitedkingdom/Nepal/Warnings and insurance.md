@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   1 September 2026
+:   5 September 2026
 
 Updated:
-:   1 September 2026
+:   4 September 2026
 
 Latest update:
-:   Addition of UK government assistance phone number from India ('Warnings and insurance' page).
+:   Addition of information about Family Assistance Centre at the British Embassy Kathmandu (See ‘Warnings and insurance’ page)
 
 ## Flash flood in the Rasuwa district and the Nepal-China border area
 
@@ -15,9 +15,13 @@ On 26 August 2026, major flooding in Rasuwa district and the Nepal-China border 
 
 The Nepalese authorities and emergency services are responding. The authorities have warned of the risk of further flooding. The situation may change rapidly. If you are travelling in the region, follow the advice of the Nepalese government and local authorities and be alert to the changing situation. The Nepalese government has established a toll-free emergency Nepalese language number, 1234, and a dedicated hotline 1144 accessible in Nepal.
 
-The UK’s Rapid Deployment Team has opened a Family Support Centre located at British Embassy Kathmandu. The Centre will be open to provide assistance to the family and friends of affected British Nationals from 0900 to 1900, Monday to Sunday.
+The Family Assistance Centre at the British Embassy Kathmandu remains available to support the family and friends of affected British Nationals.
 
-If you are affected and need assistance from the UK government, including outside of these hours, call:
+The Centre will be open on Saturday 5 September and Sunday 6 September from 10am to 4pm on a drop-in basis.
+
+From Monday 7 September, in-person support will be available by pre-arrangement which can be booked on the numbers below.
+
+If you are affected and need assistance from the UK government call:
 
 * from Nepal +977 (0)14237100
 * from India +91 11 2419 2100
