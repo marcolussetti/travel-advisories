@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   28 August 2026
+:   6 September 2026
 
 Updated:
-:   28 August 2026
+:   6 September 2026
 
 Latest update:
-:   Updated information about visa requirements ('Entry requirements' page).
+:   Information about flight disruptions at Soekarno Hatta Airport and Halim Airport in Jakarta due to volcanic ash cloud ('Warnings and insurance' page)
 
 ![](https://assets.publishing.service.gov.uk/media/6745db6083f3d6d843be9719/FCDO__TA__020_-_Indonesia_Travel_Advice_Ed9__WEB_.jpg)
 
@@ -47,14 +47,11 @@ Your travel insurance could be invalidated if you travel against advice from the
 
 See [more details about why FCDO advises against travel](/foreign-travel-advice/indonesia/regional-risks).
 
-## East Nusa Tenggara (NTT) Earthquake
+## Flight disruptions at Jakarta airports
 
-On 15 August, a strong offshore earthquake struck north of Flores, causing fatalities, injuries, and damage to buildings and infrastructure in parts of Flores. Numerous aftershocks have been recorded and may continue in the coming days.
+Soekarno Hatta Airport and Halim Airport in Jakarta were temporarily closed due to the volcanic ash clouds from Mount Anak Krakatau on 5 September. Both airports have reopened, but there are continued flight disruptions and many flights are cancelled or delayed.
 
-A tsunami warning was issued following the earthquake but has since been lifted. Local authorities have reported damage to roads, homes, and public facilities, with landslides and transport disruption affecting some areas.
-
-If you are in Flores or planning to travel there, follow the advice of local authorities, remain alert to aftershocks, avoid damaged buildings and affected coastal areas, and monitor local media and official guidance.
-Travellers in Flores and neighbouring parts of East Nusa Tenggara should monitor local developments, as aftershocks and transport disruption may affect travel plans.
+If you are due to travel, check with your airline or travel provider for up to date information on your flight status.
 
 ## Global travel impacts due to escalation in the Middle East
 
