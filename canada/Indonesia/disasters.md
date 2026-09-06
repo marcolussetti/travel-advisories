@@ -2,6 +2,52 @@
 
 ## Natural disasters and climate
 
+### Volcanoes
+
+### Flight disruptions due to the eruption of Mount Anak Krakatau
+
+Flights are disrupted in Indonesia due to a volcanic ash cloud caused by the recent eruption of Mount Anak Krakatau.
+
+Several airports are affected, including:
+
+* Jakarta Soekarno-Hatta International Airport
+* Halim Perdanakusuma International Airport
+* Lampung Airport
+
+Confirm the status of your flight before heading to the airport.
+
+[For more information](https://x.com/soettaairport) – Soekarno-Hatta international Airport
+
+### Mount Semeru eruption
+
+On November 19, 2025, a significant volcanic eruption occurred at Mount Semeru in Lumajang Regency, East Java. Indonesian authorities have evacuated the surrounding areas. The increased seismic activity is ongoing.
+
+A large volcanic ash cloud could disrupt air traffic and cause flight delays or cancellations.
+
+Indonesia has 129 active volcanoes and periodically experiences major volcanic events that can be dangerous, even life-threatening. Ash clouds can disrupt air travel, including on the island of Bali, and cause or worsen respiratory problems. Rain near volcanos can cause dangerous floods, called ‘lahar’ or cold lava floods, that contain volcanic debris.
+
+Concerning volcanic activity is ongoing in the following areas:
+
+* Mount Ibu volcano on Halmahera Island in North Maluku province
+* Mount Merapi volcano on Java Island on the border between the province of Central Java and the Special Region of Yogyakarta
+* Mount Semeru volcano on Java Island in East Java Province
+* Mount Anak Krakatau between Java and Sumatra islands
+
+Active volcanoes are monitored to provide residents with an early warning should unusual activity occur. Local authorities can raise alert levels and order evacuations on short notice.
+
+If you are near active volcanoes:
+
+* take official warnings seriously and respect exclusion zones
+* monitor local media to stay up-to-date on latest developments
+* follow the advice of local authorities, including evacuation orders
+* be prepared to modify your travel arrangements or even evacuate the area on short notice
+
+#### Useful links
+
+* [National Disaster Management Authority](https://www.bnpb.go.id/) – Government of Indonesia (in Indonesian only)
+* [Map of active volcanoes in Indonesia](https://magma.vsi.esdm.go.id/) – MAGMA Indonesia (portions in Indonesian only)
+* [Centre for Volcanology and Geological Hazard Mitigation](https://vsi.esdm.go.id/) – Geological Agency of Indonesia (in Indonesian only)
+
 ### Earthquakes in Indonesia
 
 On August 14, 2026, two earthquakes struck Indonesia. A magnitude 6.9 earthquake struck Pematangsiantar, North Sumatra following a magnitude 7.7 earthquake that struck near Flores Island, off the northern coast of East Nusa Tenggara province. They caused casualties and significant damage to infrastructure. Local authorities are responding to the situation and assessing the full extent of the damage.
@@ -42,37 +88,6 @@ Each year, Indonesia experiences thousands of earthquakes. Some trigger tsunamis
 A tsunami can occur within minutes of a nearby earthquake. However, the risk of tsunami can remain for several hours following the first tremor. If you're staying on the coast, familiarize yourself with the region's evacuation plans in the event of a tsunami warning.
 
 [Tsunami alerts](https://www.tsunami.gov/) – U.S. Tsunami Warning System
-
-### Volcanoes
-
-### Mount Semeru eruption
-
-On November 19, 2025, a significant volcanic eruption occurred at Mount Semeru in Lumajang Regency, East Java. Indonesian authorities have evacuated the surrounding areas. The increased seismic activity is ongoing.
-
-A large volcanic ash cloud could disrupt air traffic and cause flight delays or cancellations.
-
-Indonesia has 129 active volcanoes and periodically experiences major volcanic events that can be dangerous, even life-threatening. Ash clouds can disrupt air travel, including on the island of Bali, and cause or worsen respiratory problems. Rain near volcanos can cause dangerous floods, called ‘lahar’ or cold lava floods, that contain volcanic debris.
-
-Concerning volcanic activity is ongoing in the following areas:
-
-* Mount Ibu volcano on Halmahera Island in North Maluku province
-* Mount Merapi volcano on Java Island on the border between the province of Central Java and the Special Region of Yogyakarta
-* Mount Semeru volcano on Java Island in East Java Province
-
-Active volcanoes are monitored to provide residents with an early warning should unusual activity occur. Local authorities can raise alert levels and order evacuations on short notice.
-
-If you are near active volcanoes:
-
-* take official warnings seriously and respect exclusion zones
-* monitor local media to stay up-to-date on latest developments
-* follow the advice of local authorities, including evacuation orders
-* be prepared to modify your travel arrangements or even evacuate the area on short notice
-
-#### Useful links
-
-* [National Disaster Management Authority](https://www.bnpb.go.id/) – Government of Indonesia (in Indonesian only)
-* [Map of active volcanoes in Indonesia](https://magma.vsi.esdm.go.id/) – MAGMA Indonesia (portions in Indonesian only)
-* [Centre for Volcanology and Geological Hazard Mitigation](https://vsi.esdm.go.id/) – Geological Agency of Indonesia (in Indonesian only)
 
 ### Rainy season
 
