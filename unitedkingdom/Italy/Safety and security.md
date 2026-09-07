@@ -142,11 +142,11 @@ See further tips on [ABTA’s swim safe pages](https://www.rlss.org.uk/safety-on
 
 Follow local advice if jellyfish are present.
 
-### Adventure sports
+### Hiking and adventure sports
 
 Hiking, mountaineering and other adventure sports have specific risks.
 
-Check the company is well-established in the industry and make sure your insurance covers these activities.
+Make sure your insurance covers these activities.
 
 For sports activities like skiing, potholing and mountaineering, and for sports classed as particularly dangerous, such as off-piste skiing, mountain biking, climbing, paragliding or BASE jumping, your insurance should include:
 
@@ -154,11 +154,13 @@ For sports activities like skiing, potholing and mountaineering, and for sports 
 * helicopter costs
 * repatriation to your country of residence or transfer to neighbouring countries for treatment
 
-Check weather forecasts and conditions and make sure you’re properly equipped for the worst-case scenario with items such as a map, compass, GPS and telecommunication equipment.
+Check weather forecasts and conditions and make sure you’re properly equipped for the worst-case scenario with items such as a map, compass, GPS and telecommunication equipment. Wear appropriate footwear and clothing for the terrain and season.
 
-Risks are greater if you undertake any activity alone. You may want to hire a guide for expert advice. Always leave copies of your itinerary with someone.
+Risks are greater if you undertake any activity alone. Plan your route beforehand and consider your limitations in distance and difficulty. You may want to hire a guide for expert advice. Always leave copies of your itinerary and insurance with someone.
 
 If you are planning on hiking in the Trentino region, [read what to do if  you see a brown bear](https://www.trentino.com/en/leisure-activities/mountains-and-hiking/useful-information/rules-of-conduct-for-bear-contact/).
+
+If an accident happens or if you become lost, call 112 for the emergency services.
 
 ## Transport risks
 

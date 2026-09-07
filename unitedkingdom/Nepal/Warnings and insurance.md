@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   5 September 2026
+:   7 September 2026
 
 Updated:
-:   4 September 2026
+:   6 September 2026
 
 Latest update:
-:   Addition of information about Family Assistance Centre at the British Embassy Kathmandu (See ‘Warnings and insurance’ page)
+:   Amendment to information about the Family Assistance Centre at the British Embassy Kathmandu (See ‘Warnings and insurance’ page)
 
 ## Flash flood in the Rasuwa district and the Nepal-China border area
 
@@ -17,9 +17,9 @@ The Nepalese authorities and emergency services are responding. The authorities 
 
 The Family Assistance Centre at the British Embassy Kathmandu remains available to support the family and friends of affected British Nationals.
 
-The Centre will be open on Saturday 5 September and Sunday 6 September from 10am to 4pm on a drop-in basis.
+From Monday 7 September, in-person support at the Centre will be available by appointment. Appointments can be booked using the contact numbers below.
 
-From Monday 7 September, in-person support will be available by pre-arrangement which can be booked on the numbers below.
+Consular assistance remains available 24 hours a day, 7 days a week for anyone affected who requires support from the UK Government.
 
 If you are affected and need assistance from the UK government call:
 
