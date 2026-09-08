@@ -124,8 +124,6 @@ The sale of alcohol is restricted between midnight and 11am. This does not app
 
 ### Illegal drugs and prison sentences
 
-Cannabis use in Thailand is restricted to medical purposes only. You must not buy, possess or use it without a Thai-issued medical prescription, which is limited to a 30-day supply. Recreational use remains illegal.
-
 Thailand has strict laws against drug use, possession and trafficking. Possessing small quantities of illegal substances can lead to heavy fines or imprisonment. Possessing [Class A drugs](https://www.siam-legal.com/litigation/criminal-defence-drug-offences-in-thailand.php) can lead to the death penalty.
 
 Conditions in prisons and other detention facilities in Thailand are harsh, with limited access to healthcare. Detainees have died in custody.
@@ -135,6 +133,8 @@ Some British nationals have suffered severe psychiatric problems because of drug
 ### Cannabis
 
 Cannabis laws in Thailand are strictly enforced and have changed in recent years. You must follow local regulations on possession, use and export.
+
+Cannabis use in Thailand is restricted to medical purposes only. You must not buy, possess or use it without a Thai-issued medical prescription, which is limited to a 30-day supply. Recreational use remains illegal.
 
 It is illegal to take cannabis out of Thailand without the appropriate export permission from the authorities.
 
@@ -216,11 +216,11 @@ Find out what you can do to prepare for and respond to [extreme weather and natu
 
 ### Rainy season
 
-The rainy season is generally from May to October. In Koh Samui and the south-east of Thailand it is from November to March. However, the rainy season has been more unpredictable recently.
+The rainy season is generally from May to October. In Koh Samui and south-east Thailand it is usually from November to March. However, weather patterns have become increasingly unpredictable and periods of intense rainfall can occur across Thailand.
 
-Heavy storms cause disruption including flooding and landslides. Lakes, caves and waterfalls are particularly at risk of dangerous flash flooding.
+Heavy rainfall can cause flash flooding, landslides and disruption to transport, particularly in northern, north-eastern and mountainous areas. Conditions can change rapidly and may result in road closures and local travel disruption. Lakes, caves and waterfalls are particularly at risk of dangerous flash flooding.
 
-Follow the [Thai Meteorological Department](https://www.tmd.go.th/en/) for weather warnings.
+Follow local authority advice and monitor the [Thai Meteorological Department](https://www.tmd.go.th/en/) for weather warnings.
 
 ### Earthquakes
 

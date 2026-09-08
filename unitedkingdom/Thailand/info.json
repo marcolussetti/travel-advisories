@@ -1,11 +1,11 @@
 {
     "name": "Thailand",
-    "update_reason": "Updated information about cannabis ('Safety and security' page).",
+    "update_reason": "Updated information about visa requirements and the rainy season in Thailand ('Entry requirements' and 'Safety and security' pages).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Thailand/Warnings and insurance.md",
-            "update_date": "2026-06-30T12:30:58+01:00"
+            "update_date": "2026-09-08T11:41:26+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Thailand/Getting help.md"
         }
     ],
-    "update_date": "2026-06-30T12:30:58+01:00"
+    "update_date": "2026-09-08T11:41:26+01:00"
 }

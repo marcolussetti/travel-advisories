@@ -20,11 +20,15 @@ If you’re a dual national, it is best to leave Thailand on the same passport y
 
 ## Visa requirements
 
-You can visit Thailand for a period of 60 days for the purpose of tourism, business engagements, and urgent or ad-hoc work. This visa category can be extended for another period not exceeding 30 days.
+From 15 September 2026, if you enter Thailand under the visa exemption scheme, you can stay for up to 30 days for tourism.
 
-You can also apply in advance for a [multiple-entry visa for up to 60 days](https://london.thaiembassy.org/en/page/tourist-multiple-entries-visa).
+If you entered Thailand before 15 September 2026, you will usually be allowed to stay for the period granted when you arrived. If you want to stay longer, you must get the appropriate visa before you travel or, if eligible, apply for an extension through the Thai immigration authorities.
 
-For work, study or other reasons, you need a [visa before you travel](https://www.thaievisa.go.th/).
+You may be asked to show that you meet the entry requirements. This could include proof that you have enough money for your stay (at least 10,000 Thai baht per person or 20,000 Thai baht per family) and evidence of onward or return travel. British nationals have been refused entry for failing to provide this evidence.
+
+If you overstay your permission to stay in Thailand, you could be fined, detained, deported or banned from re-entering the country. Make sure you understand the conditions of your stay and get any visa extension you need before your permission expires.
+
+If you plan to work, study, retire or live in Thailand, you must get the appropriate visa before you travel.
 
 ### Digital Arrival Card
 

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   1 July 2026
+:   8 September 2026
 
 Updated:
-:   30 June 2026
+:   8 September 2026
 
 Latest update:
-:   Updated information about cannabis ('Safety and security' page).
+:   Updated information about visa requirements and the rainy season in Thailand ('Entry requirements' and 'Safety and security' pages).
 
 ![](https://assets.publishing.service.gov.uk/media/6980b4383915f7123658010e/FCDO__TA__040_-_Thailand_Travel_Advice_Ed8__WEB_.jpg)
 
@@ -53,7 +53,7 @@ Your travel plans may be affected, even if your destination is not in the Middle
 
 ## It is illegal to carry cannabis out of Thailand
 
-British nationals have been caught carrying cannabis out of Thailand. There have been arrests of British nationals caught transiting through airports in other countries. Many international airports have excellent technology and security for detecting illegal items, which may be used to scan the baggage of transiting passengers.
+British nationals have been caught carrying cannabis out of Thailand, including while transiting through other countries. Many international airports have excellent technology and security for detecting illegal items, which may be used to scan the baggage of transiting passengers. If caught you will be arrested or fined.
 
 ## Before you travel
 
