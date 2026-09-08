@@ -2,6 +2,21 @@
 
 ## Natural disasters and climate
 
+### Heavy rainfall and landslide warnings in Aichi Prefecture
+
+On September 8, 2026, local authorities issued Level 4 urgent warnings and evacuation orders in many parts of Aichi Prefecture, including Nagoya City, due to heavy rain and landslide risks. Under Japan's warning system, a Level 4 alert indicates that all residents in affected areas should evacuate, while Level 5 represents a life-threatening emergency.
+
+Heavy rainfall may trigger flash flooding, river flooding, landslides and transportation disruptions.
+
+If you're in an affected:
+
+* monitor local weather forecasts and alerts
+* follow the instructions of local authorities, including evacuation orders
+* avoid flooded areas, rivers, steep slopes and areas prone to landslides
+* expect disruptions to road, rail and air transportation
+
+[Weather warning / advisory : Aichi Western Region](https://www.data.jma.go.jp/multi/warn/warn_detail.html?code=230010&lang=en) – Japan Meteorological Agency
+
 ### Climate change
 
 Climate change is affecting Japan. Extreme and unusual weather events are becoming more frequent and may affect your travel plans. Monitor local news to stay informed on the current situation.

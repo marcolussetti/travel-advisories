@@ -614,7 +614,7 @@
     {
         "destination": "Japan",
         "risk_level": "Take normal security precautions",
-        "last_updated": "2026-09-03T13:07:37",
+        "last_updated": "2026-09-08T07:25:35",
         "details_url": "https://travel.gc.ca/destinations/japan"
     },
     {
@@ -1321,8 +1321,8 @@
     },
     {
         "destination": "United States",
-        "risk_level": "Take normal security precautions",
-        "last_updated": "2026-09-04T13:53:33",
+        "risk_level": "Take normal security precautions (with regional advisories)",
+        "last_updated": "2026-09-07T14:25:33",
         "details_url": "https://travel.gc.ca/destinations/united-states"
     },
     {
