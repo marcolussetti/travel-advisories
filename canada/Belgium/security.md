@@ -27,25 +27,25 @@ Incidents of petty crime on trains along the Paris–Brussels–Amsterdam and Br
 
 While in Belgium:
 
-* don’t carry large sums of cash or valuables unnecessarily
+* don't carry large sums of cash or valuables unnecessarily
 * ensure that your belongings, including your passport and other travel documents, are secure at all times, particularly on public transportation
 * take extra precautions on trains, as criminals often steal carry-on luggage from overhead compartments or from below seats
 * never leave your luggage unattended
 * keep car windows and doors locked at all times
-* don’t leave any valuables in plain sight inside of vehicles
+* don't leave any valuables in plain sight inside of vehicles
 
 #### Violent crime
 
 Incidents of violent crime are on the rise.
 
-You should exercise increased caution due to a recent surge in violent crimes, including shootings and stabbings, in the Brussels-Capital Region and other major cities. You should remain vigilant despite local authorities’ response to these incidents and report any suspicious activities to the police.
+You should exercise increased caution due to a recent surge in violent crimes, including shootings and stabbings, in the Brussels-Capital Region and other major cities. You should remain vigilant despite local authorities' response to these incidents and report any suspicious activities to the police.
 
 If you find yourself in a dangerous situation:
 
 * seek shelter immediately
 * contact local authorities
 
-Criminal gangs use ports on Belgium’s North Sea coast as a point of entry for drug trafficking and other contraband. This is particularly prevalent in Ostend and Antwerp. Clashes between rival gangs have led to violent incidents in Antwerp and its suburbs, including bombings and shootings.
+Criminal gangs use ports on Belgium's North Sea coast as a point of entry for drug trafficking and other contraband. This is particularly prevalent in Ostend and Antwerp. Clashes between rival gangs have led to violent incidents in Antwerp and its suburbs, including bombings and shootings.
 
 Criminals do not tend to target bystanders, but there is always the risk of being in the wrong place at the wrong time.
 
@@ -59,7 +59,7 @@ Armed robbers and organized gangs have targeted jewellers, banks and individuals
 
 Credit card and ATM fraud occurs. When using debit or credit cards:
 
-* pay careful attention when your cards are being handled by others, and don’t let servers or merchants take your card out of sight
+* pay careful attention when your cards are being handled by others, and don't let servers or merchants take your card out of sight
 * use ATMs located in public areas or inside a bank or business
 * check ATMs or other machines for skimmers or removable readers, and avoid using card readers with an irregular or unusual feature
 * cover the keypad with one hand when entering your PIN
@@ -84,7 +84,7 @@ Always be aware of your surroundings when in public places. Be particularly vigi
 
 #### Enhanced security measures
 
-Following a shooting in Brussels in October 2023, the national threat level increased to level 3 on a scale of 4.
+Following a shooting in Brussels in October 2023, the national threat level increased to level 3 on a scale of 4.
 
 Expect heightened security measures, including:
 
@@ -98,8 +98,8 @@ The Government of Belgium maintains a public alert system on terrorism and commu
 
 #### Useful links
 
-* [Register with the Belgian Public Alert System (BE-Alert)](https://www.be-alert.be/en/) - Belgian Crisis Centre
-* [Current terrorism threat levels](https://crisiscenter.be/en/risks-belgium/security-risks/terrorism-and-extremism) - Belgian Crisis Centre
+* [Register with the Belgian Public Alert System (BE-Alert)](https://www.be-alert.be/en/) - Belgian Crisis Centre
+* [Current terrorism threat levels](https://cuta.belgium.be/) – Coordination Unit for Threat Analysis
 * [@CrisiscenterBE](https://twitter.com/crisiscenterbe) - Belgian Crisis Centre (in French)
 
 ### Strikes

@@ -62,7 +62,7 @@ If you stay in India for more than 180 days, you must register within 14 days of
 #### Useful links
 
 * [e-FRRO online portal](https://indianfrro.gov.in/eservices/) (for Delhi, Mumbai, Chennai and Bengaluru) – India's Bureau of Immigration
-* [FRRO Contact List](https://boi.gov.in/boi/contents/registration-authority/contact-jurisdictional-frro) – India's Bureau of Immigration
+* [FRRO Contact List](https://www.indianfrro.gov.in/cla/contact-us) – India's Bureau of Immigration
 
 #### Penalties for overstaying
 
@@ -116,7 +116,7 @@ The FRRO will verify the entry details before issuing an exit visa. This process
 
 Special permits are required to visit certain parts of India designated as restricted or protected areas.
 
-[Restricted or protected areas](https://boi.gov.in/boi/public/pages/ea8303e5-a167-48cb-857a-31b475fe7575) – India's Bureau of Immigration
+[Restricted or protected areas](https://www.mha.gov.in/en/divisionofmha/foreigners-division/protected-area-permit-pap-restricted-area-permit-rap) – India's Bureau of Immigration
 
 ### Poliomyelitis
 

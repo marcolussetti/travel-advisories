@@ -1,7 +1,7 @@
 {
     "name": "Bangladesh",
-    "update_reason": "Safety and security section \u2013 updated information on the  security situation",
-    "update_date": "2026-08-10T16:27:00",
+    "update_reason": "Entry and exit requirements section \u2013 added information on electronic arrival and departure cards",
+    "update_date": "2026-09-08T12:25:00",
     "sections": {
         "risk": "canada/Bangladesh/risk.md",
         "security": "canada/Bangladesh/security.md",

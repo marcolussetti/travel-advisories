@@ -71,7 +71,7 @@ There is also a high threat of theft from rental and parked vehicles.
 #### Useful links
 
 * [Security advice while in Catalonia](https://mossos.gencat.cat/en/consells_de_seguretat/index.html) – Mossos d’Esquadra
-* [Tips to stay safe](https://ajuntament.barcelona.cat/seguretatiprevencio/sites/default/files/PDF/stay-safe-respect-others.pdf) – Municipality of Barcelona
+* [Tips to stay safe](https://ajuntament.barcelona.cat/seguretatiprevencio/en/stay-safe) – Municipality of Barcelona
 
 ### Foreign Tourist Assistance Service
 

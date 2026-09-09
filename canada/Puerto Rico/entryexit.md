@@ -20,7 +20,7 @@ Before you travel, check with your transportation company about passport require
 
 #### Regular Canadian passport
 
-Your passport must be valid for the duration of your stay.
+Your passport must be valid for the duration of your stay in Puerto Rico.
 
 #### Passport for official travel
 
@@ -44,9 +44,31 @@ Different entry rules may apply when travelling with a temporary passport or an 
 * [Foreign Representatives in Canada](https://www.international.gc.ca/protocol-protocole/reps.aspx?lang=eng)
 * [Canadian passports and other travel documents](http://www.canada.ca/passport)
 
+### Visas
+
+Canadian visitors can usually stay in the United States for 6 months without a visa. You must declare your intended duration of stay upon entry into Puerto Rico.
+
+In most circumstances, Canadian citizens don’t require visitor, business, transit or other visas to enter the United States from Canada, but there are some exceptions.
+
+[Visa requirements for Canadians](https://travel.state.gov/content/travel/en/us-visas/tourism-visit/citizens-of-canada-and-bermuda.html) – U.S. Department of State
+
+#### Studying in Puerto Rico
+
+Canadian citizens don’t need visas to study or participate in a student exchange program in the United States. However, they need to be registered with SEVIS, a U.S. student tracking system. Students must present their registration form to U.S. Customs and Border Protection (CBP) officers each time they enter Puerto Rico.
+
+#### Useful links
+
+* [SEVIS](https://studyinthestates.dhs.gov/sevis-help-hub) – U.S. Department of Homeland Security
+* [Canadian students](https://ca.usembassy.gov/canadian-students/) – U.S. Embassy and Consulates in Canada
+
 ### Other entry requirements
 
-Customs officials may ask you to show them a return or onward ticket and proof of sufficient funds to cover the cost of your stay.
+Customs officials may ask you to show them:
+
+* a return or onward ticket
+* proof of sufficient funds to cover your stay
+
+Consult the full [entry and exit requirements for the United States](https://travel.gc.ca/destinations/united-states#entryexit) and its territories.
 
 ### Children and travel
 

@@ -15,7 +15,7 @@ Judicial proceedings are usually lengthy in Malta due to long pretrial investiga
 * obtaining free legal aid can be complex and slow down the process
 * unpredictable delays may occur before trial and between hearings
 
-[Things to Know About Justice in Malta](https://justice.gov.mt/en/justice/Pages/Things-to-Know-About-Justice-in-Malta.aspx) - Ministry for Justice
+[Things to Know About Justice in Malta](https://www.gov.mt/en/Life%20Events/Pages/Services%20and%20Information%20Pages/Justice/Things-to-know-about-Justice-in-Malta.aspx) – Ministry for Justice
 
 ### Transfer to a Canadian prison
 
@@ -78,8 +78,8 @@ You must register your drone to use it in the European Union. If you don’t co
 
 #### Useful links
 
-* [Civil drones](https://www.easa.europa.eu/domains/civil-drones) - European Union Aviation Safety Agency
-* [Use of drones](https://www.transport.gov.mt/aviation/drones/information-help-4445) - Transport Malta
+* [Civil drones](https://www.easa.europa.eu/domains/civil-drones) – European Union Aviation Safety Agency
+* [Use of drones](https://www.transport.gov.mt/aviation/drones/information-help-4445) – Transport Malta
 
 ### Beach etiquette
 
@@ -87,7 +87,7 @@ Certain activities, items and behaviours are prohibited on Malta’s beaches. Ma
 
 If you fail to comply, you may be fined.
 
-[Code of Conduct for Malta’s Beaches](https://www.visitmalta.com/en/a/beach-conduct/) - VisitMalta
+[Code of Conduct for Malta’s Beaches](https://www.visitmalta.com/en/a/beach-conduct/) – VisitMalta
 
 ### Driving
 
@@ -95,7 +95,7 @@ You may drive up to one year with a valid Canadian driver’s licence. However, 
 
 #### Useful links
 
-* [The Highway Code of Malta](https://www.transport.gov.mt/Highway-eg.pdf-f5447) - Government of Malta
+* [The Highway Code of Malta](https://www.transport.gov.mt/Highway-eg.pdf-f5447) – Government of Malta
 * [Road rules and safety](https://europa.eu/youreurope/citizens/travel/driving-abroad/road-rules-and-safety/) – European Commission
 * [More about the International Driving Permit](https://travel.gc.ca/travelling/documents/international-driving-permit)
 

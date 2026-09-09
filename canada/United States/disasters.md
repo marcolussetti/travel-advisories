@@ -6,28 +6,6 @@ Natural disasters can occur at any time.
 
 [Plan Ahead for Disasters](https://www.ready.gov/) – U.S. Department of Homeland Security
 
-### Hurricane Lowell
-
-Hurricane Lowell could pass through Kauai County, including the Islands of Kauai and Niihau and the Papahanaumokuakea Marine National Monument from Nihoa to French Frigate Shoals between September 7-8, 2026.
-
-The storm is likely to bring excessive rainfall and violent winds. It may cause flash flooding and landslides and could severely disrupt the following essential services:
-
-* transportation
-* power distribution
-* water and food supply
-* telecommunications networks
-* emergency services
-* medical care
-
-If you are in the affected area:
-
-* exercise caution
-* monitor local news and weather reports
-* follow the instructions of local authorities, including evacuation orders
-* contact your airline for the latest information on the status of your flights
-
-[Latest advisories](http://www.nhc.noaa.gov/) – U.S. National Hurricane Centre
-
 ### Climate change
 
 Climate change is affecting the United States. Extreme and unusual weather events are becoming more frequent and may affect your travel plans. Monitor local media for the latest information.

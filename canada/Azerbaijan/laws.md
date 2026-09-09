@@ -105,7 +105,7 @@ You need an export certificate to take antiques or art like carpets, samovars, c
 #### Useful links
 
 * [Prohibition and restrictions](https://customs.gov.az/en/ferdler-ucun/mallarin-gomrukden-kecirilmesi) – State Customs Committee of the Republic of Azerbaijan
-* [Azerbaijan National Carpet Museum](https://azcarpetmuseum.az/en/contact)
+* [Azerbaijan National Carpet Museum](http://www.azcarpetmuseum.az/contact)
 
 ### Mobile devices
 

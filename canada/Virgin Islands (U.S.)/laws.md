@@ -24,7 +24,7 @@ If you are a Canadian citizen, but also a citizen of the United States, our abil
 
 The Hague Convention on the Civil Aspects of International Child Abduction is an international treaty. It can help parents with the return of children who have been removed to or retained in certain countries in violation of custody rights. The convention applies between Canada and the United States.
 
-If your child was wrongfully taken to, or is being held in the U.S. Virgin Islands, and if the applicable conditions are met, you may apply for the return of your child to the US Virgin Islands court.
+If your child was wrongfully taken to, or is being held in the U.S. Virgin Islands, and if the applicable conditions are met, you may apply for the return of your child to the U.S. Virgin Islands court.
 
 If you are in this situation:
 
@@ -48,11 +48,11 @@ Be aware that Canadian consular officials cannot interfere in private legal matt
 
 ### Driving
 
-Traffic drives on the left, but nearly all the cars on the island have left-side steering columns.
+Traffic drives on the left.
 
-A valid Canadian driver’s licence is required to drive in the U.S. Virgin Islands.
+You can drive in the U.S. Virgin Islands with a valid Canadian driver’s licence for up to 90 days.
 
-You should carry an International Driving Permit.
+If your Canadian driver’s licence is not in English, it is recommended you carry an International Driving Permit.
 
 [International Driving Permit](https://travel.gc.ca/travelling/documents/international-driving-permit)
 
@@ -60,4 +60,4 @@ You should carry an International Driving Permit.
 
 The currency of the U.S. Virgin Islands is the U.S. dollar (USD).
 
-ATMs can be found throughout all three islands. Most establishments accept credit cards.
+Credit cards are widely accepted and ATMs are available throughout the territory.

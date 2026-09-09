@@ -50,7 +50,11 @@ Student visa: required
 
 You should obtain a visa before travelling to Bangladesh. While you can apply for single-entry tourist and business visas upon arrival, which are valid for stays of up to 30 days, there is a risk of you being denied entry into the country.
 
-### Other entry requirements
+### Other entry and exit requirements
+
+Canadian passport holders travelling by air may be required to complete an electronic arrival card to enter Bangladesh and an electronic departure card to leave.
+
+Check with your airline or travel agent before travelling.
 
 Customs officials may ask you to show them a return or onward ticket and proof of sufficient funds to cover your stay.
 
@@ -59,7 +63,12 @@ You must carry all documents pertaining to the purpose of your visit. If you're 
 * a hotel booking confirmation
 * a letter of invitation or letter of offer from a local company providing details regarding the purpose and duration of your stay
 
-### Exit requirements
+#### Useful links
+
+* [E-Arrival Card](https://edcard.specialbranch.gov.bd/foreigner/register)
+* [E-Departure Card](https://edcard.specialbranch.gov.bd/foreigner/departure)
+
+#### Business visa holders
 
 If you enter Bangladesh on a business visa, you'll have to provide local authorities with an Income Tax Clearance Certificate or an Income Tax Exemption Certificate upon departure.
 

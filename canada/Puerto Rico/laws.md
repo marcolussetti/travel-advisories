@@ -6,6 +6,12 @@ You must abide by local laws.
 
 Learn about what you should do and how we can help if you are [arrested or detained abroad](http://travel.gc.ca/assistance/emergency-info/arrest-detention).
 
+### Transfer to a Canadian prison
+
+Canada and the United States are signatories to the Convention on the Transfer of Sentenced Persons. This enables a Canadian imprisoned in Puerto Rico to request a transfer to a Canadian prison to complete a sentence. The transfer requires the agreement of both Canadian and Puerto Rican authorities.
+
+This process can take a long time, and there is no guarantee that the transfer will be approved by either or both sides.
+
 ### Drugs
 
 Penalties for possession, use or trafficking of illegal drugs are severe. Convicted offenders can expect jail sentences and heavy fines.
@@ -19,8 +25,6 @@ Dual citizenship is legally recognized in the United States.
 If you are a Canadian citizen, but also a citizen of the United States, our ability to offer you consular services may be limited while you're there. You may also be subject to different [entry/exit requirements](#entryexit).
 
 [Dual citizens](http://travel.gc.ca/travelling/documents/dual-citizenship)
-
-### 
 
 ### International Child Abduction
 
@@ -50,8 +54,14 @@ Be aware that Canadian consular officials cannot interfere in private legal matt
 
 ### Driving
 
-You can drive in Puerto Rico with a valid Canadian driver’s licence for up to 90 days. If you plan to stay longer, you must obtain a Puerto Rican licence.
+You can drive in Puerto Rico with a valid Canadian driver’s licence for up to 90 days. You must carry your passport with you. If you plan to stay longer, you must obtain a Puerto Rican driver’s licence.
+
+If your Canadian driver’s licence is not in English, it is recommended you carry an International Driving Permit.
+
+[International Driving Permit](https://travel.gc.ca/travelling/documents/international-driving-permit)
 
 ### Money
 
-The currency of Puerto Rico is the U.S. dollar (USD). Credit cards are widely accepted.
+The currency of Puerto Rico is the U.S. dollar (USD).
+
+Credit cards are widely accepted and ATMs are available throughout the territory.

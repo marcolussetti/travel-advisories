@@ -236,9 +236,11 @@ To lower your risk of getting sexually transmissible infections (STIs), HIV, and
 
 ### Medical services and facilities
 
-Good health care is available throughout the islands.
+Good health care is available, but conditions may vary throughout the islands.
 
-Some clinics and hospitals may expect immediate cash payment for medical services.
+Health care professionals are scarce.
+
+Medical facilities may require immediate cash payment for medical treatment.
 
 Medical evacuation can be very expensive and you may need it in case of serious illness or injury.
 
@@ -248,9 +250,15 @@ Make sure you get travel insurance that includes coverage for medical evacuation
 
 ### Medication
 
-It can be difficult to get prescriptions refilled.
+Some prescription medications may not be available in the U.S. Virgin Islands.
 
-Ensure you have sufficient medication for your stay and extra in case of emergency.
+If you take prescription medications, you’re responsible for determining their legality in the U.S. Virgin Islands.
+
+* Bring enough medication for your stay
+* Always keep your medication in the original container and carry a copy of your prescriptions
+* Pack your medication in your carry-on luggage
+
+[Travelling with medication](https://travel.gc.ca/travelling/health-safety/medication)
 
 ### Keep in Mind...
 

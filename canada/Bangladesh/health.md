@@ -24,6 +24,71 @@ When travelling in this destination, you might be at risk for diseases that can 
 
 The highlights below will also tell you if your destination may require that vaccine for entering or exiting.
 
+Japanese encephalitis
+
+[Japanese encephalitis](https://www.canada.ca/en/public-health/services/diseases/japanese-encephalitis.html) is a viral infection that can cause swelling of the brain.  It is spread to humans through the bite of an infected mosquito. Risk is very low for most travellers. Travellers at relatively higher risk may want to consider vaccination for JE prior to travelling.
+
+Travellers are at higher risk if they will be:
+
+* travelling long term (e.g. more than 30 days)
+* making multiple trips to endemic areas
+* staying for extended periods in rural areas
+* visiting an area suffering a JE outbreak
+* engaging in activities involving high contact with mosquitos (e.g., entomologists)
+COVID-19
+
+COVID-19 is an infectious viral disease. Most of the time, it spreads when people are in close contact with others who are infected with the virus. It spreads through respiratory particles, or through an infected surface or object.
+
+Vaccination is one of the most important ways to protect yourself from developing serious complications from COVID-19. Talk to a healthcare provider about the COVID-19 vaccine before travelling. Evidence shows that the COVID-19 vaccines used in Canada are very effective at preventing severe illness, hospitalization and death from COVID-19.
+
+In addition to vaccination, use personal protective measures to help protect yourself and others.
+
+**Learn more :**
+
+[Vaccine for COVID-19: How to get vaccinated](https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19/vaccines/how-vaccinated.html)  
+[COVID-19: Spread, prevention and risks](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html#p)
+
+Influenza
+
+ The best way to protect yourself from seasonal [influenza](https://www.canada.ca/en/public-health/services/diseases/flu-influenza.html) (flu) is to get vaccinated every year. [Get the flu shot](https://www.canada.ca/en/public-health/services/diseases/flu-influenza/get-your-flu-shot.html) at least 2 weeks before travelling.
+
+ The flu occurs worldwide.
+
+* In the Northern Hemisphere, the flu season usually runs from November to   April.
+* In the Southern Hemisphere, the flu season usually runs between April and   October.
+* In the tropics, there is flu activity year round.
+
+The flu vaccine available in one hemisphere may only offer partial protection against the flu in the other hemisphere.
+
+The flu virus spreads from person to person when they cough or sneeze or by touching objects and surfaces that have been contaminated with the virus. Clean your hands often and wear a mask if you have a fever or respiratory symptoms.
+
+Typhoid fever 
+
+There is a risk of typhoid fever in this destination. Travellers are at higher risk in places with poor sanitation, limited access to clean water, or unsafe food preparation. Cleaning your hands often and making safe food and drink choices can help lower your risk.
+
+Typhoid fever is a disease caused by bacteria. It spreads through consuming contaminated food or drinking water, or through contact with the feces of an infected person.
+
+Symptoms may include fever, cough, diarrhea, tiredness, headache, and loss of appetite. Young children, older adults, people visiting friends or relatives, and people with weakened immune systems are more likely to become seriously ill.
+
+A vaccine is available and is recommended for most travellers to this destination. Talk to a health care provider before you travel to find out if this vaccine is recommended for you.
+
+**Learn more:**  
+[Typhoid fever](https://www.canada.ca/en/public-health/services/diseases/typhoid-fever.html)  
+[Eating and drinking safely abroad](https://travel.gc.ca/travelling/health-safety/food-water)  
+[Clean your hands to help reduce the spread of infectious diseases](https://www.canada.ca/en/public-health/services/healthy-living/hand-hygiene.html)
+
+Malaria 
+
+[Malaria](https://www.canada.ca/en/public-health/services/diseases/malaria.html) is a serious and sometimes fatal disease that is caused by parasites spread through the bites of mosquitoes.  
+   
+**There is a risk of malaria in certain areas and/or during a certain time of year in this destination.**
+
+[Antimalarial medication may be recommended](https://www.canada.ca/en/public-health/services/catmat/appendix-1-malaria-risk-recommended-chemoprophylaxis-geographic-area.html) depending on your itinerary and the time of year you are travelling. Consult a health care professional or visit a travel health clinic before travelling to discuss your options. It is recommended to do this 6 weeks before travel, however, it is still a good idea any time before leaving.   
+   
+[Protect yourself from mosquito bites](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html) at all times:   
+• Cover your skin and use an [approved](https://www.canada.ca/en/health-canada/services/about-pesticides/insect-repellents.html) insect repellent on uncovered skin.   
+• Exclude mosquitoes from your living area with screening and/or closed, well-sealed doors and windows.
+
 Yellow Fever - Country Entry Requirements 
 
 [Yellow fever](https://www.canada.ca/en/public-health/services/diseases/yellow-fever.html) is a disease caused by a flavivirus from the bite of an infected mosquito.
@@ -70,74 +135,6 @@ Getting vaccinated is the best way to protect yourself and others from measles. 
 **Learn more:**
 
 [Measles](https://www.canada.ca/en/public-health/services/diseases/measles.html)
-
-Japanese encephalitis
-
-[Japanese encephalitis](https://www.canada.ca/en/public-health/services/diseases/japanese-encephalitis.html) is a viral infection that can cause swelling of the brain.  It is spread to humans through the bite of an infected mosquito. Risk is very low for most travellers. Travellers at relatively higher risk may want to consider vaccination for JE prior to travelling.
-
-Travellers are at higher risk if they will be:
-
-* travelling long term (e.g. more than 30 days)
-* making multiple trips to endemic areas
-* staying for extended periods in rural areas
-* visiting an area suffering a JE outbreak
-* engaging in activities involving high contact with mosquitos (e.g., entomologists)
-COVID-19
-
-COVID-19 is an infectious viral disease. Most of the time, it spreads when people are in close contact with others who are infected with the virus. It spreads through respiratory particles, or through an infected surface or object.
-
-Vaccination is one of the most important ways to protect yourself from developing serious complications from COVID-19. Talk to a healthcare provider about the COVID-19 vaccine before travelling. Evidence shows that the COVID-19 vaccines used in Canada are very effective at preventing severe illness, hospitalization and death from COVID-19.
-
-In addition to vaccination, use personal protective measures to help protect yourself and others.
-
-**Learn more :**
-
-[Vaccine for COVID-19: How to get vaccinated](https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19/vaccines/how-vaccinated.html)  
-[COVID-19: Spread, prevention and risks](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html#p)
-
-Influenza
-
- The best way to protect yourself from seasonal [influenza](https://www.canada.ca/en/public-health/services/diseases/flu-influenza.html) (flu) is to get vaccinated every year. [Get the flu shot](https://www.canada.ca/en/public-health/services/diseases/flu-influenza/get-your-flu-shot.html) at least 2 weeks before travelling.
-
- The flu occurs worldwide.
-
-* In the Northern Hemisphere, the flu season usually runs from November to   April.
-* In the Southern Hemisphere, the flu season usually runs between April and   October.
-* In the tropics, there is flu activity year round.
-
-The flu vaccine available in one hemisphere may only offer partial protection against the flu in the other hemisphere.
-
-The flu virus spreads from person to person when they cough or sneeze or by touching objects and surfaces that have been contaminated with the virus. Clean your hands often and wear a mask if you have a fever or respiratory symptoms.
-
-Typhoid 
-
-There is a risk of typhoid fever in this destination. Typhoid fever is a disease caused by bacteria. Symptoms may include fever, cough, diarrhea, tiredness, headache, and loss of appetite.
-
-Typhoid fever spreads through consuming contaminated food or drinking water, or through contact with the feces of an infected person.
-
-Travellers are at higher risk in places with poor sanitation, limited access to clean water, or unsafe food preparation. Young children, older adults, people visiting friends or relatives, and people with weakened immune systems are more likely to become seriously ill. Cleaning your hands often and making safe food and drink choices can help lower your risk.
-
-A vaccine is available and is recommended for most travellers to this destination. Talk to a health care provider before you travel to find out if this vaccine is recommended for you.
-
-**Learn more:**  
-[Typhoid fever](https://www.canada.ca/en/public-health/services/diseases/typhoid-fever.html)  
-[Eating and drinking safely abroad](https://travel.gc.ca/travelling/health-safety/food-water)  
-[Clean your hands to help reduce the spread of infectious diseases](https://www.canada.ca/en/public-health/services/healthy-living/hand-hygiene.html)
-
-Malaria 
-
-[Malaria](https://www.canada.ca/en/public-health/services/diseases/malaria.html) is a serious and sometimes fatal disease that is caused by parasites spread through the bites of mosquitoes.  
-   
-**There is a risk of malaria in certain areas and/or during a certain time of year in this destination.**
-
-[Antimalarial medication may be recommended](https://www.canada.ca/en/public-health/services/catmat/appendix-1-malaria-risk-recommended-chemoprophylaxis-geographic-area.html) depending on your itinerary and the time of year you are travelling. Consult a health care professional or visit a travel health clinic before travelling to discuss your options. It is recommended to do this 6 weeks before travel, however, it is still a good idea any time before leaving.   
-   
-[Protect yourself from mosquito bites](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html) at all times:   
-• Cover your skin and use an [approved](https://www.canada.ca/en/health-canada/services/about-pesticides/insect-repellents.html) insect repellent on uncovered skin.   
-• Exclude mosquitoes from your living area with screening and/or closed, well-sealed doors and windows.  
-• Use insecticide-treated bed nets if mosquitoes cannot be excluded from your living area.   
-• Wear permethrin-treated clothing.   
- 
 
 Rabies 
 
@@ -207,23 +204,6 @@ Frequent handwashing and making careful food and beverage choices can reduce you
 
 **Learn more:**[Travellers’ diarrhea](https://www.canada.ca/en/public-health/services/diseases/diarrhea.html)  
 [Eat and drink safely outside Canada](https://travel.gc.ca/travelling/health-safety/food-water)
-
-Typhoid 
-
-Typhoid fever is a disease caused by bacteria. Symptoms may include fever, cough, diarrhea, tiredness, headache, and loss of appetite.
-
-There is a risk of typhoid fever in this destination, but the risk is low for most travellers.
-
-Typhoid fever spreads through consuming contaminated food or drinking water, or through contact with the feces of an infected person.
-
-Travellers are at higher risk in places with poor sanitation, limited access to clean water, or unsafe food preparation. Young children, older adults, people visiting friends or relatives, and people with weakened immune systems are more likely to become seriously ill. Cleaning your hands often and making safe food and drink choices can help lower your risk.
-
-A vaccine is available and may be recommended for some travellers to this destination, depending on their risk. Talk to a health care provider before you travel to find out if this vaccine is recommended for you.
-
-**Learn more:**  
-[Typhoid fever](https://www.canada.ca/en/public-health/services/diseases/typhoid-fever.html)  
-[Eating and drinking safely abroad](https://travel.gc.ca/travelling/health-safety/food-water)  
-[Clean your hands to help reduce the spread of infectious diseases](https://www.canada.ca/en/public-health/services/healthy-living/hand-hygiene.html)
 
 ### Tick and insect bite prevention
 

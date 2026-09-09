@@ -12,7 +12,7 @@ Heavy rains and seasonal storms can cause severe flooding and landslides. Roads 
 #### Useful links
 
 * [Weather alerts](https://www.maltairport.com/weather/) - Malta international airport
-* [Civil protection department](https://homeaffairs.gov.mt/en/MHAS-Departments/CPD/Pages/CPD-Home.aspx) - Government of Malta
+* [Civil Protection Department](https://homeaffairs.gov.mt/civil-protection-department/) - Government of Malta
 
 ### Earthquakes
 

@@ -27,7 +27,7 @@ If you decide to travel to a coastal area during the hurricane season despite th
 
 ### Flooding and landslides
 
-Heavy rains can cause flooding and landslides. Roads may become impassable and infrastructure damaged.
+Heavy rains can cause flooding and landslides. Roads may become impassable and infrastructure may be damaged.
 
 * Exercise caution, particularly in areas around rivers
 * Stay informed of the latest regional weather forecasts
@@ -35,5 +35,23 @@ Heavy rains can cause flooding and landslides. Roads may become impassable and i
 
 #### Useful links
 
-* [Flooding in Puerto Rico and U.S. Virgin Islands](https://www.weather.gov/safety/flood-states-pr) – U.S. National Weather Service
-* [Weather forecast](https://www.weather.gov/sju/) – U.S. National Weather Service
+* [Flooding in Puerto Rico and U.S. Virgin Islands](https://www.weather.gov/safety/flood-states-pr) – U.S. National Weather Service
+* [Weather forecast](https://www.weather.gov/sju/) – U.S. National Weather Service
+
+### Earthquakes and tsunamis
+
+The U.S. Virgin Islands are located in an active seismic zone. Earthquakes occur frequently.
+
+A tsunami can occur within minutes of a nearby earthquake. However, the risk of a tsunami can remain for several hours following the first tremor. If you’re staying on the coast, familiarize yourself with the region’s evacuation plans in the event of a tsunami warning.
+
+[Tsunami alerts](https://www.tsunami.gov/) – U.S. Tsunami Warning System
+
+### Wildfires
+
+High temperatures create dry conditions, which can lead to large fires throughout the territory. Fires can lead to transportation disruptions. Heavy smoke may deteriorate the air quality in areas near active fires.
+
+In case of a major fire:
+
+* stay away from the affected areas, particularly if you suffer from respiratory ailments
+* monitor local media for the latest information
+* follow the instructions of local authorities, including evacuation orders

@@ -25,6 +25,41 @@ When travelling in this destination, you might be at risk for diseases that can 
 
 The highlights below will also tell you if your destination may require that vaccine for entering or exiting.
 
+Meningococcal disease 
+
+This destination is in the African Meningitis Belt, an area which has the highest rates of meningococcal disease in the world. [Meningococcal disease](https://www.canada.ca/en/public-health/services/immunization/vaccine-preventable-diseases/invasive-meningococcal-disease.html) is a serious and sometimes fatal infection.
+
+Travellers who are at higher risk should discuss vaccination with a health care provider. High-risk travellers include those living or working with the local population (e.g., health care workers) or those travelling to crowded areas or taking part in large gatherings.
+
+Malaria 
+
+[Malaria](https://www.canada.ca/en/public-health/services/diseases/malaria.html) is a serious and sometimes fatal disease that is caused by parasites spread through the bites of mosquitoes.
+
+**Malaria is a risk to travellers to this destination.**  
+   
+[Antimalarial medication is recommended](https://www.canada.ca/en/public-health/services/catmat/appendix-1-malaria-risk-recommended-chemoprophylaxis-geographic-area.html) for most travellers to this destination and should be taken as recommended. Consult a health care professional or visit a travel health clinic before travelling to discuss your options. It is recommended to do this 6 weeks before travel, however, it is still a good idea any time before leaving. 
+
+* Cover your skin and use an [approved](https://www.canada.ca/en/health-canada/services/about-pesticides/insect-repellents.html) insect repellent on uncovered skin.
+* Exclude mosquitoes from your living area with screening and/or closed, well-sealed doors and windows.
+* Use insecticide-treated bed nets if mosquitoes cannot be excluded from your living area.
+* Wear permethrin-treated clothing.
+
+ If you develop [symptoms](https://www.canada.ca/en/public-health/services/diseases/malaria/symptoms-malaria.html) similar to malaria when you are travelling or up to a year after you return home, see a health care professional immediately. Tell them where you have been travelling or living.
+
+Influenza
+
+ The best way to protect yourself from seasonal [influenza](https://www.canada.ca/en/public-health/services/diseases/flu-influenza.html) (flu) is to get vaccinated every year. [Get the flu shot](https://www.canada.ca/en/public-health/services/diseases/flu-influenza/get-your-flu-shot.html) at least 2 weeks before travelling.
+
+ The flu occurs worldwide.
+
+* In the Northern Hemisphere, the flu season usually runs from November to   April.
+* In the Southern Hemisphere, the flu season usually runs between April and   October.
+* In the tropics, there is flu activity year round.
+
+The flu vaccine available in one hemisphere may only offer partial protection against the flu in the other hemisphere.
+
+The flu virus spreads from person to person when they cough or sneeze or by touching objects and surfaces that have been contaminated with the virus. Clean your hands often and wear a mask if you have a fever or respiratory symptoms.
+
 Hepatitis A
 
 There is a risk of [hepatitis A](https://www.canada.ca/en/public-health/services/diseases/hepatitis-a.html) in this destination. It is a disease of the liver. People can get hepatitis A if they ingest contaminated food or water, eat foods prepared by an infectious person, or if they have close physical contact (such as oral-anal sex) with an infectious person, although casual contact among people does not spread the virus.
@@ -73,53 +108,6 @@ Getting vaccinated is the best way to protect yourself and others from measles. 
 
 [Measles](https://www.canada.ca/en/public-health/services/diseases/measles.html)
 
-Meningococcal disease 
-
-This destination is in the African Meningitis Belt, an area which has the highest rates of meningococcal disease in the world. [Meningococcal disease](https://www.canada.ca/en/public-health/services/immunization/vaccine-preventable-diseases/invasive-meningococcal-disease.html) is a serious and sometimes fatal infection.
-
-Travellers who are at higher risk should discuss vaccination with a health care provider. High-risk travellers include those living or working with the local population (e.g., health care workers) or those travelling to crowded areas or taking part in large gatherings.
-
-Malaria 
-
-[Malaria](https://www.canada.ca/en/public-health/services/diseases/malaria.html) is a serious and sometimes fatal disease that is caused by parasites spread through the bites of mosquitoes.
-
-**Malaria is a risk to travellers to this destination.**  
-   
-[Antimalarial medication is recommended](https://www.canada.ca/en/public-health/services/catmat/appendix-1-malaria-risk-recommended-chemoprophylaxis-geographic-area.html) for most travellers to this destination and should be taken as recommended. Consult a health care professional or visit a travel health clinic before travelling to discuss your options. It is recommended to do this 6 weeks before travel, however, it is still a good idea any time before leaving.   
-   
-[Protect yourself from mosquito bites](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html) at all times:
-
-* Cover your skin and use an [approved](https://www.canada.ca/en/health-canada/services/about-pesticides/insect-repellents.html) insect repellent on uncovered skin.
-* Exclude mosquitoes from your living area with screening and/or closed, well-sealed doors and windows.
-* Use insecticide-treated bed nets if mosquitoes cannot be excluded from your living area.
-* Wear permethrin-treated clothing.
-
- If you develop [symptoms](https://www.canada.ca/en/public-health/services/diseases/malaria/symptoms-malaria.html) similar to malaria when you are travelling or up to a year after you return home, see a health care professional immediately. Tell them where you have been travelling or living.
-
-Influenza
-
- The best way to protect yourself from seasonal [influenza](https://www.canada.ca/en/public-health/services/diseases/flu-influenza.html) (flu) is to get vaccinated every year. [Get the flu shot](https://www.canada.ca/en/public-health/services/diseases/flu-influenza/get-your-flu-shot.html) at least 2 weeks before travelling.
-
- The flu occurs worldwide.
-
-* In the Northern Hemisphere, the flu season usually runs from November to   April.
-* In the Southern Hemisphere, the flu season usually runs between April and   October.
-* In the tropics, there is flu activity year round.
-
-The flu vaccine available in one hemisphere may only offer partial protection against the flu in the other hemisphere.
-
-The flu virus spreads from person to person when they cough or sneeze or by touching objects and surfaces that have been contaminated with the virus. Clean your hands often and wear a mask if you have a fever or respiratory symptoms.
-
-Polio 
-
-[Polio](https://travel.gc.ca/travelling/health-safety/diseases/polio) (poliomyelitis) is an infectious disease that can be prevented by vaccination. It is caused by poliovirus type 1, 2 or 3. Circulating vaccine-derived poliovirus 2 (cVDPV2) is present in this country.
-
-Polio is spread from person to person and through contaminated food and water. Infection with the polio virus can cause paralysis and death in individuals of any age who are not immune.
-
-**Recommendations:**
-
-* Be sure that your polio vaccinations are up to date before travelling. Polio is part of the [routine vaccine schedule](https://www.canada.ca/en/public-health/services/publications/healthy-living/canadian-immunization-guide-part-1-key-immunization-information/page-13-recommended-immunization-schedules.html#p1c12a2) for children in Canada.
-* One booster dose of the polio vaccine is recommended as an [adult](https://www.canada.ca/en/public-health/services/publications/healthy-living/canadian-immunization-guide-part-3-vaccination-specific-populations/page-9-immunization-travellers.html#a3).
 Rabies 
 
 Rabies is present in this destination and is carried by dogs and some wildlife, including bats. Rabies is a serious disease that’s almost always fatal once symptoms appear. It's spread to humans through the saliva of infected animals, mainly through bites, but it can also be spread through scratches.
@@ -153,6 +141,18 @@ When you return to Canada, see a health care professional as soon as possible an
 **Learn more:**  
 [Rabies: Symptoms and treatment](https://www.canada.ca/en/public-health/services/diseases/rabies.html)
 
+Polio 
+
+The World Health Organization (WHO), at the time of their last report, identified this country as no longer poliovirus-infected, but as having been previously infected within the last 24 months.
+
+[Polio](https://travel.gc.ca/travelling/health-safety/diseases/polio) is spread from person to person and through contaminated food and water. Infection with polio virus can cause paralysis and death in individuals of any age who are not immune.
+
+Polio can be prevented by vaccination.
+
+**Recommendations:**
+
+* Be sure that your polio vaccinations are up to date before travelling. Polio is part of the [routine vaccine schedule](https://www.canada.ca/en/public-health/services/publications/healthy-living/canadian-immunization-guide-part-1-key-immunization-information/page-13-recommended-immunization-schedules.html#p1c12a2) for children in Canada.
+* One booster dose of the polio vaccine is recommended as an [adult](https://www.canada.ca/en/public-health/services/publications/healthy-living/canadian-immunization-guide-part-3-vaccination-specific-populations/page-9-immunization-travellers.html#a3).
 COVID-19
 
 COVID-19 is an infectious viral disease. Most of the time, it spreads when people are in close contact with others who are infected with the virus. It spreads through respiratory particles, or through an infected surface or object.
@@ -202,15 +202,13 @@ Frequent handwashing and making careful food and beverage choices can reduce you
 **Learn more:**[Travellers’ diarrhea](https://www.canada.ca/en/public-health/services/diseases/diarrhea.html)  
 [Eat and drink safely outside Canada](https://travel.gc.ca/travelling/health-safety/food-water)
 
-Typhoid 
+Typhoid fever 
 
-Typhoid fever is a disease caused by bacteria. Symptoms may include fever, cough, diarrhea, tiredness, headache, and loss of appetite.
+There is a risk of typhoid fever in this destination, but the risk is low for most travellers. Travellers are at higher risk in places with poor sanitation, limited access to clean water, or unsafe food preparation. Cleaning your hands often and making safe food and drink choices can help lower your risk.
 
-There is a risk of typhoid fever in this destination, but the risk is low for most travellers.
+Typhoid fever is a disease caused by bacteria. It spreads through consuming contaminated food or drinking water, or through contact with the feces of an infected person.
 
-Typhoid fever spreads through consuming contaminated food or drinking water, or through contact with the feces of an infected person.
-
-Travellers are at higher risk in places with poor sanitation, limited access to clean water, or unsafe food preparation. Young children, older adults, people visiting friends or relatives, and people with weakened immune systems are more likely to become seriously ill. Cleaning your hands often and making safe food and drink choices can help lower your risk.
+Symptoms may include fever, cough, diarrhea, tiredness, headache, and loss of appetite. Young children, older adults, people visiting friends or relatives, and people with weakened immune systems are more likely to become seriously ill.
 
 A vaccine is available and may be recommended for some travellers to this destination, depending on their risk. Talk to a health care provider before you travel to find out if this vaccine is recommended for you.
 

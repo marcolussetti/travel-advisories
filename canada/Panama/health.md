@@ -24,6 +24,27 @@ When travelling in this destination, you might be at risk for diseases that can 
 
 The highlights below will also tell you if your destination may require that vaccine for entering or exiting.
 
+Rabies 
+
+Rabies may be present in some wildlife in this destination, including bats. Rabies is a serious disease that’s almost always fatal once symptoms appear. It's spread to humans through the saliva of infected animals, mainly through bites, but it can also be spread through scratches.
+
+Before you travel, talk to a health care professional about rabies vaccination. Vaccination may be recommended if you’ll be working directly with wildlife.
+
+If you’re bitten or scratched by wildlife, including bats:
+
+* wash the wound right away with soap and clean water for about 15 minutes
+* get medical care as soon as possible
+
+If you get treatment to prevent rabies while outside Canada, ask for:
+
+* written records of medications and vaccines administered, including when they were given, product names, and batch or lot numbers
+* photos of the packaging and labels of any medications or vaccines given to you
+
+When you return to Canada, see a health care professional as soon as possible and bring your treatment records to your appointment.
+
+**Learn more:**  
+[Rabies: Symptoms and treatment](https://www.canada.ca/en/public-health/services/diseases/rabies.html)
+
 Yellow Fever - Country Entry Requirements 
 
 [Yellow fever](https://www.canada.ca/en/public-health/services/diseases/yellow-fever.html) is a disease caused by a flavivirus from the bite of an infected mosquito.
@@ -102,7 +123,8 @@ The flu virus spreads from person to person when they cough or sneeze or by touc
 Malaria 
 
 [Malaria](https://www.canada.ca/en/public-health/services/diseases/malaria.html) is a serious and sometimes fatal disease that is caused by parasites spread through the bites of mosquitoes.  
- 
+   
+**There is a risk of malaria in certain areas and/or during a certain time of year in this destination.**
 
 [Antimalarial medication may be recommended](https://www.canada.ca/en/public-health/services/catmat/appendix-1-malaria-risk-recommended-chemoprophylaxis-geographic-area.html) depending on your itinerary and the time of year you are travelling. Consult a health care professional or visit a travel health clinic before travelling to discuss your options. It is recommended to do this 6 weeks before travel, however, it is still a good idea any time before leaving.   
    
@@ -113,27 +135,6 @@ Malaria
 • Wear permethrin-treated clothing.   
    
 If you develop [symptoms](https://www.canada.ca/en/public-health/services/diseases/malaria/symptoms-malaria.html) similar to malaria when you are travelling or up to a year after you return home, see a health care professional immediately. Tell them where you have been travelling or living.
-
-Rabies 
-
-Rabies may be present in some wildlife in this destination, including bats. Rabies is a serious disease that’s almost always fatal once symptoms appear. It's spread to humans through the saliva of infected animals, mainly through bites, but it can also be spread through scratches.
-
-Before you travel, talk to a health care professional about rabies vaccination. Vaccination may be recommended if you’ll be working directly with wildlife.
-
-If you’re bitten or scratched by wildlife, including bats:
-
-* wash the wound right away with soap and clean water for about 15 minutes
-* get medical care as soon as possible
-
-If you get treatment to prevent rabies while outside Canada, ask for:
-
-* written records of medications and vaccines administered, including when they were given, product names, and batch or lot numbers
-* photos of the packaging and labels of any medications or vaccines given to you
-
-When you return to Canada, see a health care professional as soon as possible and bring your treatment records to your appointment.
-
-**Learn more:**  
-[Rabies: Symptoms and treatment](https://www.canada.ca/en/public-health/services/diseases/rabies.html)
 
 ### Safe food and water precautions
 
@@ -181,6 +182,30 @@ A vaccine for the prevention of chikungunya is approved in Canada. Talk to your 
 
 [Chikungunya](https://www.canada.ca/en/public-health/services/diseases/chikungunya.html)
 
+Oropouche virus disease
+
+Oropouche virus disease (OVD) is a risk in this destination. It is a disease caused by the Oropouche virus, which is spread to humans through the bite of an infected small fly called a midge (also known as no-see-um) and possibly certain mosquitos. Symptoms usually include fever, headache, joint and muscle pain, chills, and sometimes nausea and vomiting. In some cases, aseptic meningitis (inflammation of the membranes that surround the brain) may occur.
+
+Protect yourself from midge and mosquito bites at all times. There is no vaccine or medication that protects against OVD.
+
+[Insect bite and pest prevention](https://can01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.canada.ca%2Fen%2Fpublic-health%2Fservices%2Fdiseases%2Finsect-bite-prevention.html&data=05%7C02%7Cemma.wilson-pease%40phac-aspc.gc.ca%7C950eb571eea04ea8922408dd8bfc0e6b%7C42fd9015de4d4223a368baeacab48927%7C0%7C0%7C638820636858248088%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=3wrheI8AJmjXghdnmKpB6VhknzTfqTjXNWSNKNTG6Wc%3D&reserved=0)
+
+Most travellers are at low risk. There are concerns that the Oropouche virus could be passed from a pregnant woman or pregnant person to their unborn baby, which might lead to serious problems like stillbirth or issues with the baby’s head and brain development. Pregnant women, pregnant people, or anyone planning a pregnancy should discuss the possible risks of travelling to areas with Oropouche virus with their healthcare provider. The healthcare provider may advise you to avoid nonessential travel to areas experiencing an OVD outbreak.
+
+* To find out if your destination is experiencing an ongoing OVD outbreak, check the top of the Health section for any travel health notices or outbreak monitoring alerts.
+Leishmaniasis – Cutaneous and mucocutaneous
+
+Cutaneous and mucocutaneous leishmaniasis can occur in this destination, though the risk is low for most travellers.
+
+The infection spreads through the bite of an infected sandfly. Cutaneous symptoms usually appear weeks or months after infection, and may include swollen lymph nodes and persistent skin sores and ulcers. Mucocutaneous symptoms can develop at the same time, or years later, causing nasal congestion, frequent nose bleeds, and sores in the nose or mouth.
+
+To lower your risk, protect yourself from sandfly bites. Sandflies are most active between sunset and sunrise in rural, forested and some urban areas.
+
+There is no vaccine or medication to prevent infection with the parasite that causes leishmaniasis.
+
+**Learn more:**   
+[Leishmaniasis](https://www.canada.ca/en/public-health/services/diseases/leishmaniasis.html)
+
 Dengue 
 
 * In this country, dengue is a risk to travellers. It is a viral disease spread to humans by mosquito bites.
@@ -213,30 +238,6 @@ American trypanosomiasis
 [American trypanosomiasis (Chagas disease)](https://www.canada.ca/en/public-health/services/diseases/chagas-disease-american-trypanosomiasis.html) is a risk in this country. It is caused by a parasite spread by infected triatomine bugs. The infection can be inactive for decades, but humans can eventually develop complications causing disability and even death.
 
 Risk is generally low for most travellers. Protect yourself from triatomine bugs, which are active at night, by using mosquito nets if staying in poorly-constructed housing. There is no vaccine available for Chagas disease.
-
-Oropouche virus disease
-
-Oropouche virus disease (OVD) is a risk in this destination. It is a disease caused by the Oropouche virus, which is spread to humans through the bite of an infected small fly called a midge (also known as no-see-um) and possibly certain mosquitos. Symptoms usually include fever, headache, joint and muscle pain, chills, and sometimes nausea and vomiting. In some cases, aseptic meningitis (inflammation of the membranes that surround the brain) may occur.
-
-Protect yourself from midge and mosquito bites at all times. There is no vaccine or medication that protects against OVD.
-
-[Insect bite and pest prevention](https://can01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.canada.ca%2Fen%2Fpublic-health%2Fservices%2Fdiseases%2Finsect-bite-prevention.html&data=05%7C02%7Cemma.wilson-pease%40phac-aspc.gc.ca%7C950eb571eea04ea8922408dd8bfc0e6b%7C42fd9015de4d4223a368baeacab48927%7C0%7C0%7C638820636858248088%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=3wrheI8AJmjXghdnmKpB6VhknzTfqTjXNWSNKNTG6Wc%3D&reserved=0)
-
-Most travellers are at low risk. There are concerns that the Oropouche virus could be passed from a pregnant woman or pregnant person to their unborn baby, which might lead to serious problems like stillbirth or issues with the baby’s head and brain development. Pregnant women, pregnant people, or anyone planning a pregnancy should discuss the possible risks of travelling to areas with Oropouche virus with their healthcare provider. The healthcare provider may advise you to avoid nonessential travel to areas experiencing an OVD outbreak.
-
-* To find out if your destination is experiencing an ongoing OVD outbreak, check the top of the Health section for any travel health notices or outbreak monitoring alerts.
-Leishmaniasis – Cutaneous and mucocutaneous
-
-Cutaneous and mucocutaneous leishmaniasis can occur in this destination, though the risk is low for most travellers.
-
-The infection spreads through the bite of an infected sandfly. Cutaneous symptoms usually appear weeks or months after infection, and may include swollen lymph nodes and persistent skin sores and ulcers. Mucocutaneous symptoms can develop at the same time, or years later, causing nasal congestion, frequent nose bleeds, and sores in the nose or mouth.
-
-To lower your risk, protect yourself from sandfly bites. Sandflies are most active between sunset and sunrise in rural, forested and some urban areas.
-
-There is no vaccine or medication to prevent infection with the parasite that causes leishmaniasis.
-
-**Learn more:**   
-[Leishmaniasis](https://www.canada.ca/en/public-health/services/diseases/leishmaniasis.html)
 
 ### Animal precautions
 

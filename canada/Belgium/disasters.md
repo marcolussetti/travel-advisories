@@ -12,4 +12,4 @@ Heavy rains, particularly in spring and summer, can cause severe flooding and la
 * Stay informed of the latest regional weather forecasts
 * Follow the advice of local authorities, including evacuation orders
 
-[Flooding](https://crisiscenter.be/en/risks-belgium/natural-risks/flooding) - Belgian crisis centre
+[Natural risks](https://crisiscenter.be/en/risks-belgium/natural-risks) – Belgian Crisis Centre
