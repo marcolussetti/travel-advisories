@@ -185,7 +185,18 @@ Drink-driving is a serious offence in Brazil and checkpoints are often set up. I
 
 ### Taxi travel
 
-There have been reports of express kidnappings, assaults and robberies from unlicensed taxis, including in cars using fraudulent internet-based taxi accounts. Do not hail taxis on the street. There are authorised taxi booths at most airports in Brazil. If using ride-hailing platforms, always check the number plate and driver are the same as your confirmed booking before getting into the vehicle. Users may track their journey through the app and, if necessary, share their location.
+There have been reports of express kidnappings, assaults and robberies from unlicensed taxis, including in cars using fraudulent ride-hailing accounts, such as Uber. Do not hail taxis on the street. There are authorised taxi booths at most airports in Brazil.
+
+Ride-hailing apps, such as Uber, are widely available in Brazil. Be wary of unregulated drivers posing as ride-hailing app drivers, especially at airports.
+
+Make sure you:
+
+* book through the official app
+* wait in a safe location until your vehicle arrives, including at designated pick-up areas at airports
+* check the vehicle registration and driver details match
+* are alert to any diversions or change in destination on the app
+* do not display your phone or valuables
+* use available safety features such as trip tracking and location sharing
 
 ### Air travel
 

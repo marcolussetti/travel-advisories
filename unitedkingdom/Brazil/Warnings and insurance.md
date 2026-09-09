@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   12 May 2026
+:   9 September 2026
 
 Updated:
-:   11 May 2026
+:   9 September 2026
 
 Latest update:
-:   New information on scams, taxi travel and regional risks ('Safety and security' and 'Regional risks' pages).
+:   Updated information about taxi travel ('Safety and security' page).
 
 ![](https://assets.publishing.service.gov.uk/media/661e86507469198185bd3e6f/FCDO__TA__092_-_Brazil_Travel_Advice_Ed3__WEB_.jpg)
 
