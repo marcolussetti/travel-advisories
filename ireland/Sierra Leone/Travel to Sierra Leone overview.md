@@ -18,9 +18,9 @@ It is strongly recommended that Irish citizens travelling to or in Sierra Leone 
 
 Irish citizens require a visa to enter Sierra Leone. E-visas can be obtained [**online**](http://www.evisa.sl/). A single-entry visa costs $80, multi-entry costs $160.
 
-All inbound and outbound passengers from international airports in Sierra Leone are required to pay a $25 airport security fee prior to travel. Payment can be made [**online**](https://securipass.sl/), via Orange Money or Afrimoney, or at any branch of United Bank for Africa (UBA) or Sierra Leone Commercial Bank (SLCB).
+A $25 airport security fee has been temporarily suspended but may be reinstated at short notice. Travellers are advised to check before travelling.
 
-Travellers to Sierra Leone are also required to show evidence of a yellow fever vaccination.
+Travellers to and from Sierra Leone are required to complete a digital health declaration form on the [**Sierra Leone Health Travel Portal**](https://www.google.ie/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwi98_uW2s2WAxX0QEEAHX72H0IQFnoECA0QAQ&url=%2Fgoto%3Furl%3DCAESUQHrOzAViQXlRIxrQKs3Br1J7WPdOO1w9XungP1d2uou5KhtZ1XwTU-e5Ywa-XB5GUkYM5SKap-RMBerQQvO1PGd9F93fB5G7oa1fxBpmjiQqw&usg=AOvVaw32S50heoh1WgUzfQpK7w8b&opi=89978449) **(**[**https://poep.npha.gov.sl/)**](https://poep.npha.gov.sl/))**.** Travellers to Sierra Leone are also required to show evidence of a yellow fever vaccination.
 
 A valid passport is required for travel to Sierra Leone. Irish passports should have a minimum validity of six months. Passport cards cannot be used.
 

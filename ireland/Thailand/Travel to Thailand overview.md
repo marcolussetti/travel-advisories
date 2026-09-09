@@ -6,15 +6,15 @@ Normal Precautions
 
 ### **Travel Alert**
 
-On 19 May, the Thai government approved a reduction in the 60-day visa-free stays for tourists from more than 90 countries, including Ireland. Under the new rules, the visa-free duration will be decided on a country-by-country basis by the Thai immigration authorities. The Thai authorities have not yet announced an implementation date for the new rules, and Irish citizens intending to travel are advised to closely monitor advice from Thai immigration or contact the Royal Thai Embassy in London for further information. Tourists already in Thailand or arriving before the new measures take effect will still be allowed to remain under their existing visa conditions until their permitted stay expires.
+New visa exemption rules coming into effect on 15 September 2026 reduces the visa-free period for Irish passport holders from 60 to 30 days. Tourists already in Thailand or arriving before the new measures take effect will still be allowed to remain under their existing visa conditions until their permitted stay expires.
 
-We advise against all travel to the entirety of the border region between Thailand and Cambodia, where armed clashes between Thai and Cambodian armed forces broke out in July 2025 and again in December. The clashes resulted in fatalities, including among civilians. Tensions along the border region remain, and unexploded land mines are present in the disputed border regions. Border crossings are subject to restrictions and closures. The situation remains fluid and Irish citizens in Thailand and Cambodia or intending to visit should pay close attention to authoritative sources of information and advice, and remain vigilant at all times.
+We advise against all travel to the entirety of the border region between Thailand and Cambodia, where armed clashes between Thai and Cambodian armed forces have taken place. The clashes have resulted in fatalities, including among civilians. Despite the ceasefire in place, tensions along the border region remain, and unexploded land mines are present in the disputed border regions. Border crossings are subject to restrictions and closures. The situation remains fluid and Irish citizens in Thailand and Cambodia or intending to visit should pay close attention to authoritative sources of information and advice, and remain vigilant at all times.
 
 ### **General Travel Advice**
 
-Irish citizens do not require a visa to enter Thailand for the purpose of tourism or short-term business engagements for a period not exceeding 60 days. A valid passport is required for travel to Thailand. Thai immigration authorities are known to adopt a strict approach to accepting damaged passports. Irish citizens are advised to renew their passport before travel to Thailand should it have any damage as Thai Immigration may refuse entry otherwise. Irish passports should have a minimum validity of 6 months. Passport cards cannot be used.
+From 15 September 2026, Irish citizens do not require a visa to enter Thailand for the purpose of tourism or short-term business engagements for a period not exceeding 30 days. A valid passport is required for travel to Thailand. Thai immigration authorities are known to adopt a strict approach to accepting damaged passports. Irish citizens are advised to renew their passport before travel to Thailand should it have any damage as Thai Immigration may refuse entry otherwise. Irish passports should have a minimum validity of 6 months. Passport cards cannot be used.
 
-From May 1 2025, all non-Thai nationals entering Thailand are required to complete the Thailand Digital Arrival Card within 3 days prior to their date of arrival. The application portal and further details can be found on the [**Thailand Digital Arrival Card**](https://tdac.immigration.go.th/arrival-card/#/home) website.
+All non-Thai nationals entering Thailand are required to complete the Thailand Digital Arrival Card within 3 days prior to their date of arrival. The application portal and further details can be found on the [**Thailand Digital Arrival Card**](https://tdac.immigration.go.th/arrival-card/#/home) website.
 
 Please consult the website of the Royal Thai Embassy in London for the most up-to-date information regarding entry requirements for Thailand.
 
@@ -24,13 +24,13 @@ For more information on visas and passports, please see the Entry requirements t
 
 Visitors to Thailand are advised to follow the guidance of national and local authorities and to stay fully informed of what is going on by monitoring local news and social media.
 
-Citizens can also follow the Embassy on social media (X @[**IrlEmbBangkok**](https://twitter.com/IrlEmbBangkok) and [**Facebook**](https://www.facebook.com/IrishEmbassyThailand)) to ensure access to relevant updates and alerts.
+Citizens can also follow the Embassy on social media (X @[**IrlEmbBangkok**](https://twitter.com/IrlEmbBangkok)**,** [Instagram](https://www.instagram.com/irishembassythailand/) and [**Facebook**](https://www.facebook.com/IrishEmbassyThailand)) to ensure access to relevant updates and alerts.
 
 ### **Emergency Assistance**
 
 The best help is often close at hand so if a problem arises, try talking to your local contacts, tour operator representatives or hotel management.
 
-In the event of an emergency, first call the Thai Tourist Police at 1155. Please contact the Embassy of Ireland at +66 (0) 2 0161360. Outside of working hours in the event of a genuine emergency, please leave a message.
+In the event of an emergency, first call the Thai Tourist Police at 1155. Please contact the Embassy of Ireland at +66 (0) 2 0161360. Outside of working hours in the event of a genuine emergency, please leave a message. This mailbox is monitored regularly.
 
 ### **Our Tips for Safe Travels:**
 

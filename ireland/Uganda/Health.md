@@ -27,17 +27,13 @@ Malaria is a serious and sometimes fatal disease transmitted by mosquitoes. You 
 
 ### **Ebola**
 
-On 17 May, the World Health Organisation (WHO) declared the outbreak of the Bundibugyo strain of Ebola in the Democratic Republic of Congo and Uganda a [**Public Health Emergency of International Concern**](https://www.who.int/news/item/17-05-2026-epidemic-of-ebola-disease-in-the-democratic-republic-of-the-congo-and-uganda-determined-a-public-health-emergency-of-international-concern).
-
-The Uganda Ministry of Health has now introduced mandatory health declaration requirement for all travellers entering and exiting Uganda. All passengers are required to complete the online declaration form prior to travel: [**Traveller Health Declaration — UPHDS**](https://poes.health.go.ug/declare/).
+On 27 August, WHO declared Uganda Ebola Free as Uganda had successfully completed the 42-day post-outbreak surveillance period with no reported cases and is not currently reporting active [Ebola](https://www.who.int/news-room/fact-sheets/detail/ebola-disease) transmission. However, the Ebola outbreak in the Democratic Republic of Congo (DRC) remains a WHO-declared [**Public Health Emergency of International Concern**](https://www.who.int/news/item/17-05-2026-epidemic-of-ebola-disease-in-the-democratic-republic-of-the-congo-and-uganda-determined-a-public-health-emergency-of-international-concern), and Uganda continues to maintain heightened surveillance and preparedness measures due to the ongoing risk of cross-border importation. - [**https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON616**](https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON616)
 
 You may encounter exit screening (temperature checks) on leaving Uganda and some countries have heightened health screening for travellers from Uganda. Citizens are encouraged to check entry requirements for the country you are travelling to or transiting.
 
 Travellers should follow local health advice during an outbreak. For suspected cases, the public should call the Uganda Ministry of Health toll-free line 0800 100 066 or send a free SMS to 6767.
 
 More information on Ebola can be found here: [**https://www.who.int/news-room/fact-sheets/detail/ebola-disease**](https://www.who.int/news-room/fact-sheets/detail/ebola-disease).
-
-The Embassy is aware of reports of a case of Marburg Virus Disease in Western Uganda. Citizens are advised to follow the same measures to protect themselves as for Ebola and to monitor for updates if travelling to this area.
 
 ### **Water**
 

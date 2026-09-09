@@ -65,7 +65,7 @@ Recent significant attacks include:
 
 In September 2023 a number of improvised explosive devices were captured by police. Two devices exploded in the greater Kampala area in December 2023.
 
-### **Regional Travel**
+### **Travel in Uganda and the Region**
 
 Travel can be difficult and dangerous so do not go outside the main towns unless you are well prepared. We recommend that you do not travel outside of towns after dark.
 
@@ -86,6 +86,12 @@ For Mgahinga Gorilla National Park and Bwindi Impenetrable Forest, it is normal 
 Get local travel advice before travelling to Bundibugyo District, Semiliki National Park and Wildlife Reserve in western Uganda.
 
 Travel to the northern part of Murchison Falls National Park should only be undertaken in the company of an armed game warden who has functional communications equipment.
+
+### **Warning: Hiking in the Rwenzori Mountains**
+
+High-altitude mountaineering in the Rwenzori Mountains is an inherently high-risk activity, particularly due to the danger of rockfall. The ascent of Margherita Peak is a technical and demanding climb that should only be attempted by properly prepared individuals.
+
+Climbers are strongly advised to possess adequate experience in high-mountain environments, as well as the necessary technical skills, equipment, and physical fitness. Before planning an ascent, visitors should carefully review weather forecasts for the intended period and obtain detailed, up-to-date information on trail conditions, access routes, and the current status of the peak.
 
 ### **Kidnapping**
 

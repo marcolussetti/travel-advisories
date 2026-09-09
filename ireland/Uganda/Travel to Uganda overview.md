@@ -8,11 +8,9 @@ High Degree of Caution
 
 #### **Ebola Outbreak**
 
-On 17 May, the World Health Organisation (WHO) declared the outbreak of the Bundibugyo strain of Ebola in the Democratic Republic of Congo and Uganda a [**Public Health Emergency of International Concern**](https://www.who.int/news/item/17-05-2026-epidemic-of-ebola-disease-in-the-democratic-republic-of-the-congo-and-uganda-determined-a-public-health-emergency-of-international-concern).
+On 27 August, WHO declared Uganda Ebola Free as Uganda had successfully completed the 42-day post-outbreak surveillance period with no reported cases and is not currently reporting active [Ebola](https://www.who.int/news-room/fact-sheets/detail/ebola-disease) transmission. However, the Ebola outbreak in the Democratic Republic of Congo (DRC) remains a WHO-declared [**Public Health Emergency of International Concern**](https://www.who.int/news/item/17-05-2026-epidemic-of-ebola-disease-in-the-democratic-republic-of-the-congo-and-uganda-determined-a-public-health-emergency-of-international-concern), and Uganda continues to maintain heightened surveillance and preparedness measures due to the ongoing risk of cross-border importation. - [**https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON616**](https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON616)
 
 The Uganda Ministry of Health has introduced mandatory health declaration requirement for all travellers entering and exiting Uganda. All passengers are required to complete the online declaration form prior to travel: [**Traveller Health Declaration — UPHDS**](https://poes.health.go.ug/declare/).
-
-Humanitarian Aid Workers travelling to Uganda are urged to [**register**](https://www.hpsc.ie/a-z/vectorborne/viralhaemorrhagicfever/guidance/vhfguidanceappendices/vhfguidanceforhumanitarianaidworkers/) with HSE HPSC in advance of their deployment.
 
 All Irish citizens living in or visiting Uganda are encouraged to register their presence on our [**Citizen Registration**](https://citizensregistration.dfa.ie/) platform.
 
@@ -40,9 +38,11 @@ For suspected cases, the Ugandan authorities have advised the public to call the
 
 For information on the Marburg Virus please read the health section below.
 
-#### **Border Areas**
+### **Border Areas**
 
-Irish citizens are advised against travel close to Uganda’s border with the Democratic Republic of Congo (DRC).
+The border crossings between Uganda and DRC remain restricted to essential travel, trade activities, and humanitarian personnel.
+
+Travel to areas close to the DRC border should continue to follow existing security and health advisories. Travellers are advised to exercise caution, monitor official updates, and comply with any local authority requirements in border districts.
 
 Uganda’s border with the DRC remains closed, and the Department of Foreign Affairs and Trade continues to advise Irish citizens against all travel to the DRC. Any person returning from the DRC into Uganda will now have to undergo mandatory self-isolation for 21 days.
 

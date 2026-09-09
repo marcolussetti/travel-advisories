@@ -1,14 +1,6 @@
 ## Health
 
-### **Caution**
-
-There were two confirmed fatal cases of tickborne Severe Fever with Thrombocytopenia Syndrome (SFTS) in Wang Pong District, Phetchabun Province in north-central Thailand in late June 2025. Members of the public are advised to reduce their risk of infection from tick-borne diseases by avoiding contact with ticks, particularly in rural or forested areas and by wearing protective clothing, using tick repellents and performing body checks after outdoor activities.
-
-### **COVID-19 situation in Thailand**
-
-Mask wearing in public is a voluntary practice. However, the Ministry of Public Health continues to recommend that you wear a mask in a crowded or badly ventilated place such as on public transportation. Wear a mask if you have COVID-19 symptoms or you are in a high risk group. Most buildings have their own requirements for mask wearing and signs will be displayed at the entrance. Mask wearing remains a very common health related practice in Thailand.
-
-#### **All Irish citizens in Thailand are encouraged to:**
+### **All Irish citizens in Thailand are encouraged to:**
 
 Ensure you are [**registered**](https://www.ireland.ie/en/dfa/overseas-travel/citizens-registration/) with the Embassy of Ireland in Thailand.
 
@@ -17,7 +9,7 @@ Follow our social media channels for the latest updates:
 [**Facebook**](https://www.facebook.com/IrishEmbassyThailand)  
 [**X**](https://x.com/IrlEmbBangkok)
 
-### **Medical Treatment and Health Insurance – Very Important**
+### **Medical Treatment and Health Insurance**
 
 Due to the heat and other factors some European visitors to Thailand fall ill.
 
@@ -33,10 +25,10 @@ Dengue fever is prevalent in Thailand, particularly in the south. Before travell
 
 ### **Zika Virus**
 
-Since 2023, Thai authorities have reported a 300% increase in cases of Zika virus disease, with more than 800 cases identified last year. Zika virus is a mosquito-borne disease and can have serious health impacts on babies if contracted during pregnancy.
+There has been an increase in zika virus cases in Thailand in recent years, with 245 cases reported in 2025. Zika virus is a mosquito-borne disease and can have serious health impacts on babies if contracted during pregnancy.
 
 Frequently asked questions on Zika virus infection for the [**general public**](https://www.hpsc.ie/a-z/vectorborne/zika/factsheet/factsheetforthegeneralpublic/) and [**Zika virus infection and pregnancy**](https://www.hpsc.ie/a-z/vectorborne/zika/factsheet/factsheetonzikavirusandpregnancy/), and information on [**how to protect yourself and your family from biting mosquitoes**](https://www.hpsc.ie/a-z/vectorborne/mosquitoes/protectyourselfagainstmosquitoes/), are available on the HPSC website.
 
 ### **Water**
 
-We recommend to avoid tap water and drink only boiled or bottled water during your stay.
+We recommend citizens avoid tap water and drink only boiled or bottled water during your stay.

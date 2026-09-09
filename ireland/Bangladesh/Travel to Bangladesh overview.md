@@ -6,6 +6,10 @@ High Degree of Caution
 
 ### **Travel Alert**
 
+#### **Electronic Arrival and Departure Cards**
+
+Bangladesh now requires foreign nationals to complete online arrival and departure registrations. Travellers need to submit an [**electronic arrival card**](https://edcard.specialbranch.gov.bd/foreigner/register) before entering the country and an [**electronic departure card**](https://edcard.specialbranch.gov.bd/foreigner/departure) prior to departure.
+
 #### **Fuel Shortages**
 
 As a result of the ongoing conflict in the Middle East and Gulf region, Bangladesh is experiencing significant fuel shortages.
