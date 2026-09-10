@@ -178,9 +178,7 @@ Snacks, beverages, gum and cigarettes may contain drugs that could put you at ri
 
 ### Torres del Paine National Park
 
-The “W” circuit will be closed in June and July 2026 due to winter conditions. In August 2026, you will be required to have a specialized guide and appropriate equipment to hike this trail.
-
-From now through August 30, 2026, you will be required to have a specialized guide and appropriate equipment if hiking the Base Torres trail.
+Until September 15, 2026, or as long as winter conditions persist, you will be required to have a specialized guide and appropriate equipment to hike the “W” circuit or the Base Torres trail.
 
 Guides are also recommended during the rest of the year.
 

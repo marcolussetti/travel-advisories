@@ -139,7 +139,7 @@ To protect yourself from bites:
 
 ### Animal precautions
 
-Some infections can spread directly from animals to people, like rabies or bird flu (avian influenza). Others don’t spread directly from animals but can infect people who visit areas animals have contaminated with their droppings or body fluids.
+Some infections, such as rabies, spread through direct contact with animals. Others, such as hantavirus infections and avian influenza, can also spread indirectly when people come into contact with areas contaminated by animal droppings or other animal waste.
 
 Certain activities can increase your chances of coming into contact with animals, their droppings, or their body fluids, like:
 
@@ -204,7 +204,7 @@ The availability of both prescription and over-the-counter medications is limite
 
 Danish customs restrict certain medications and limit the amount of medication that you can bring into Greenland. For most prescription medications, you can only bring in the quantity prescribed for three months. Certain medications are controlled. For controlled medications, you can only bring in the quantity prescribed for 30 days.
 
-If you take prescription medication, you’re responsible for determining their legality in the country.
+If you take prescription medication, you're responsible for determining their legality in the country.
 
 * Bring sufficient quantities of your medication with you
 * Always keep your medication in the original container
@@ -213,7 +213,7 @@ If you take prescription medication, you’re responsible for determining their 
 
 #### Useful links
 
-* [Bringing medicine into Denmark](https://laegemiddelstyrelsen.dk/en/pharmacies/medicines-imported-from-abroad/medicines-for-human-use/are-you-bringing-medicine-into-denmark/) – Danish Medicines Agency
+* [How to Import Medicine into Denmark](https://laegemiddelstyrelsen.dk/en/pharmacies/medicines-imported-from-abroad/) – Danish Medicines Agency
 * [Legal medicines and import of medicines](https://peqqik.gl/Emner/Medicin/Udlevering-indfoersel-lovelige-laegemid?sc_lang=da-DK) – Greenland health portal (in Danish)
 
 ### Keep in Mind...

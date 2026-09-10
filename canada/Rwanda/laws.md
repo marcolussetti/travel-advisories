@@ -12,6 +12,18 @@ Penalties for possession, use or trafficking of illegal drugs are severe. Convic
 
 [Drugs, alcohol and travel](https://travel.gc.ca/travelling/health-safety/drugs)
 
+### 2SLGBTQI+ persons
+
+Rwandan law doesn’t criminalize sexual acts or relationships between persons of the same sex.
+
+However, homosexuality is not widely socially accepted. 2SLGBTQI+ persons could be discriminated against based on their sexual orientation, gender identity, gender expression, or sex characteristics.
+
+[Travel and your sexual orientation, gender identity, gender expression and sex characteristics](https://travel.gc.ca/travelling/health-safety/lgbt-travel)
+
+### Electronic cigarettes and vaporizers
+
+It is illegal to import or use electronic cigarettes or vaporizers in Rwanda. Offenders will have the items confiscated and may face fines.
+
 ### Non-biodegradable bags
 
 Non-biodegradable bags are prohibited in Rwanda. If you arrive with such bags at the airport in Kigali, they will be confiscated.

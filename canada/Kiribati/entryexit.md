@@ -50,7 +50,7 @@ Student visa: required
 
 Visas must be obtained before entry and take between 10 and 30 days to process.
 
-[Kiribati Ministry of Foreign Affairs Immigration Division](https://kiribati.gov.ki/services/passport-and-visas)
+[Kiribati Ministry of Foreign Affairs Immigration Division](https://immigration.mfai.gov.ki/)
 
 ### Other entry requirements
 

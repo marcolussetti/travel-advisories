@@ -2,7 +2,7 @@
 
 ## Entry and exit requirements
 
-Antarctica is governed through an international treaty system and is not owned by any one nation.
+Antarctica is governed through an international treaty system and is not owned by any one country.
 
 ### Passport and visas
 

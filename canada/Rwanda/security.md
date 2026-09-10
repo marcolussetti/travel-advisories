@@ -4,9 +4,11 @@
 
 ### Border restrictions with the Democratic Republic of the Congo
 
-Due to the outbreak of Ebola disease in the Democratic Republic of the Congo (DRC), crossing at the Gisenyi-Goma and Cyangugu-Bukavu land borders crossings is restricted to most travellers.
+Due to the outbreak of Ebola disease in the Democratic Republic of the Congo (DRC), strict border restrictions apply to foreigners who have visited the DRC 21 days prior to their entry into Rwanda.
 
-Rwandan citizens, as well as foreigners with a valid proof of residency in Rwanda can return to Rwanda but may be subject to health screening measures such as temperature checks, quarantine, and travel restrictions.
+Rwandan citizens, as well as foreigners with a valid proof of residency in Rwanda, can return to Rwanda but may be subject to health screening measures such as temperature checks, quarantine, and travel restrictions.
+
+Crossing at the Gisenyi-Goma and Cyangugu-Bukavu land border crossings is prohibited for most travellers.
 
 [Ebola outbreak in the Democratic Republic of the Congo](https://travel.gc.ca/travelling/health-safety/travel-health-notices/549)
 

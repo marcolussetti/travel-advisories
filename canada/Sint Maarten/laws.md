@@ -79,7 +79,7 @@ Additional certificates may be required if you travel across the border to Saint
 
 #### Useful links
 
-* [Animal Health Office](https://inspection.canada.ca/animal-health/terrestrial-animals/offices/eng/1300462382369/1300462438912) – Canadian Food Inspection Agency
+* [Animal Health Office](https://inspection.canada.ca/en/about-cfia/contact-cfia/contact-cfia-office-telephone) – Canadian Food Inspection Agency
 * [Export of dogs, cats and ferrets to Sint Maarten](https://inspection.canada.ca/animal-health/terrestrial-animals/exports/pets/sint-maarten-dogs-cats-et-ferrets-/eng/1671802541583/1671802542458) – Government of Canada
 
 ### Investments
