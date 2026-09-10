@@ -43,8 +43,6 @@ Although there are public and private hospitals in Antananarivo, they can only h
 
 FCDO has a [list of medical providers in Madagascar](https://www.gov.uk/government/publications/madagascar-doctors/list-of-medical-facilities-in-madagascar) where some staff will speak English.
 
-There is also [guidance on healthcare if you’re living in Madagascar](https://www.gov.uk/guidance/living-in-madagascar#healthcare-in-madagascar).
-
 ## Travel and mental health
 
 Read [FCDO guidance on travel and mental health](https://www.gov.uk/guidance/foreign-travel-advice-for-people-with-mental-health-issues). There is also [mental health guidance on TravelHealthPro](https://travelhealthpro.org.uk/factsheet/85/travelling-with-mental-health-conditions).

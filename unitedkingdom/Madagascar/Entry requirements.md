@@ -57,6 +57,14 @@ Alternative medication will be provided to those that:
 
 You are likely to be asked to leave contact details with the health authorities and they may follow up with you after 3-5 days.
 
+### Ebola
+
+Madagascar has introduced additional health measures in response to the Ebola outbreak:
+
+* if you have been in, or transited through, a country affected by Ebola in the last 21 days, you may not be allowed to enter Madagascar unless you are exempt
+* Malagasy nationals, foreign residents, people with valid work or student visas, diplomats, and staff of international organisations and Non-Governmental Organisations can enter Madagascar after travelling through an affected country. They must complete a 21-day quarantine and health monitoring period. Quarantine must take place at an approved location. Travellers are responsible for the cost of accommodation, food and transport
+* all travellers must complete a health declaration form, declare any travel through an affected country in the previous 21 days, and undergo health screening on arrival
+
 ## Customs rules
 
 There are strict rules about [goods you can take into or out of Madagascar](http://www.douanes.gov.mg/particulier/voyageurs/). You must declare anything that may be prohibited or subject to tax or duty.

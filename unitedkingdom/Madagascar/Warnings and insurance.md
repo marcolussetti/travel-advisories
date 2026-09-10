@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   27 January 2026
+:   10 September 2026
 
 Updated:
-:   26 January 2026
+:   9 September 2026
 
 Latest update:
-:   Updated information on health risks in Madagascar ('Health' page).
+:   Addition of information on Ebola entry requirements (‘Entry requirements’ page)
 
 ## Before you travel
 
