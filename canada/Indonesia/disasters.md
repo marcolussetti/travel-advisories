@@ -2,33 +2,25 @@
 
 ## Natural disasters and climate
 
+### Climate change
+
+Climate change is affecting Indonesia. Extreme and unusual weather events are becoming more frequent and may affect your travel plans. Indonesia is located in a very active seismic zone and is prone to natural disasters such as:
+
+* earthquakes
+* tsunamis
+* flooding
+* volcanic eruptions
+* drought
+
+Monitor local media for the latest information.
+
 ### Volcanoes
-
-### Flight disruptions due to the eruption of Mount Anak Krakatau
-
-Flights are disrupted in Indonesia due to a volcanic ash cloud caused by the recent eruption of Mount Anak Krakatau.
-
-Several airports are affected, including:
-
-* Jakarta Soekarno-Hatta International Airport
-* Halim Perdanakusuma International Airport
-* Lampung Airport
-
-Confirm the status of your flight before heading to the airport.
-
-[For more information](https://x.com/soettaairport) – Soekarno-Hatta international Airport
-
-### Mount Semeru eruption
-
-On November 19, 2025, a significant volcanic eruption occurred at Mount Semeru in Lumajang Regency, East Java. Indonesian authorities have evacuated the surrounding areas. The increased seismic activity is ongoing.
-
-A large volcanic ash cloud could disrupt air traffic and cause flight delays or cancellations.
 
 Indonesia has 129 active volcanoes and periodically experiences major volcanic events that can be dangerous, even life-threatening. Ash clouds can disrupt air travel, including on the island of Bali, and cause or worsen respiratory problems. Rain near volcanos can cause dangerous floods, called ‘lahar’ or cold lava floods, that contain volcanic debris.
 
 Concerning volcanic activity is ongoing in the following areas:
 
-* Mount Ibu volcano on Halmahera Island in North Maluku province
+* Mount Sinabung in North Sumatra Province
 * Mount Merapi volcano on Java Island on the border between the province of Central Java and the Special Region of Yogyakarta
 * Mount Semeru volcano on Java Island in East Java Province
 * Mount Anak Krakatau between Java and Sumatra islands
@@ -48,42 +40,19 @@ If you are near active volcanoes:
 * [Map of active volcanoes in Indonesia](https://magma.vsi.esdm.go.id/) – MAGMA Indonesia (portions in Indonesian only)
 * [Centre for Volcanology and Geological Hazard Mitigation](https://vsi.esdm.go.id/) – Geological Agency of Indonesia (in Indonesian only)
 
-### Earthquakes in Indonesia
+### Earthquakes and tsunamis
 
-On August 14, 2026, two earthquakes struck Indonesia. A magnitude 6.9 earthquake struck Pematangsiantar, North Sumatra following a magnitude 7.7 earthquake that struck near Flores Island, off the northern coast of East Nusa Tenggara province. They caused casualties and significant damage to infrastructure. Local authorities are responding to the situation and assessing the full extent of the damage.
+On August 14, 2026, a magnitude 7.7 earthquake struck near Flores Island, off the northern coast of East Nusa Tenggara province. Significant damage to homes and infrastructure occurred, and aftershocks continue.
 
-Additional earthquakes are expected in and around the affected area. Authorities warn that aftershocks may continue for an extended period and could cause further damage, particularly to weakened structures. The following essential services are disrupted:
+[Aftershock Forecast](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/oaf/overview) – U.S. Geological Survey (USGS)
 
-* transportation
-* power distribution
-* water and food supply
-* telecommunications networks
-* emergency services
-* medical care
+Each year, Indonesia experiences thousands of earthquakes. Some trigger tsunamis and cause significant damage. Deaths and injuries occasionally occur.
 
-If you are in the affected area:
+If you are in an earthquake-affected area:
 
 * follow the instructions of local authorities, including evacuation orders
 * monitor local media for updates on the situation
 * do not enter weakened or damaged structures until local authorities have deemed them safe
-
-[Aftershock Forecast](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/oaf/overview) – U.S. Geological Survey (USGS)
-
-### Climate change
-
-Climate change is affecting Indonesia. Extreme and unusual weather events are becoming more frequent and may affect your travel plans. Indonesia is located in a very active seismic zone and is prone to natural disasters such as:
-
-* earthquakes
-* tsunamis
-* flooding
-* volcanic eruptions
-* drought
-
-Monitor local media for the latest information.
-
-### Earthquakes and tsunamis
-
-Each year, Indonesia experiences thousands of earthquakes. Some trigger tsunamis and cause significant damage. Deaths and injuries occasionally occur.
 
 A tsunami can occur within minutes of a nearby earthquake. However, the risk of tsunami can remain for several hours following the first tremor. If you're staying on the coast, familiarize yourself with the region's evacuation plans in the event of a tsunami warning.
 
@@ -108,8 +77,13 @@ Unrestricted burning in Sumatra and Kalimantan sometimes causes air pollution to
 
 Monitor air pollution levels closely, as they change quickly.
 
-During periods of high pollution:
+During periods of high pollution and wildfires:
 
 * limit your activities outdoors
 * monitor local media
 * follow the instructions of local authorities
+
+**Useful links**
+
+* [Regional Haze Situation](https://asmc.asean.org/home/) – ASEAN Specialised Meteorological Centre (ASMC)
+* [ASMC Alerts levels and advisories](https://asmc.asean.org/asmc-alerts/)

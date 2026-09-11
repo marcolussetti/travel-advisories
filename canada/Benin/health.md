@@ -25,6 +25,16 @@ When travelling in this destination, you might be at risk for diseases that can 
 
 The highlights below will also tell you if your destination may require that vaccine for entering or exiting.
 
+Polio 
+
+[Polio](https://travel.gc.ca/travelling/health-safety/diseases/polio) (poliomyelitis) is an infectious disease that can be prevented by vaccination. It is caused by poliovirus type 1, 2 or 3. Circulating vaccine-derived poliovirus 2 (cVDPV2) is present in this country.
+
+Polio is spread from person to person and through contaminated food and water. Infection with the polio virus can cause paralysis and death in individuals of any age who are not immune.
+
+**Recommendations:**
+
+* Be sure that your polio vaccinations are up to date before travelling. Polio is part of the [routine vaccine schedule](https://www.canada.ca/en/public-health/services/publications/healthy-living/canadian-immunization-guide-part-1-key-immunization-information/page-13-recommended-immunization-schedules.html#p1c12a2) for children in Canada.
+* One booster dose of the polio vaccine is recommended as an [adult](https://www.canada.ca/en/public-health/services/publications/healthy-living/canadian-immunization-guide-part-3-vaccination-specific-populations/page-9-immunization-travellers.html#a3).
 Hepatitis A
 
 There is a risk of [hepatitis A](https://www.canada.ca/en/public-health/services/diseases/hepatitis-a.html) in this destination. It is a disease of the liver. People can get hepatitis A if they ingest contaminated food or water, eat foods prepared by an infectious person, or if they have close physical contact (such as oral-anal sex) with an infectious person, although casual contact among people does not spread the virus.
@@ -129,16 +139,6 @@ When you return to Canada, see a health care professional as soon as possible an
 **Learn more:**  
 [Rabies: Symptoms and treatment](https://www.canada.ca/en/public-health/services/diseases/rabies.html)
 
-Polio 
-
-[Polio](https://travel.gc.ca/travelling/health-safety/diseases/polio) (poliomyelitis) is an infectious disease that can be prevented by vaccination. It is caused by poliovirus type 1, 2 or 3. Circulating vaccine-derived poliovirus 2 (cVDPV2) is present in this country.
-
-Polio is spread from person to person and through contaminated food and water. Infection with the polio virus can cause paralysis and death in individuals of any age who are not immune.
-
-**Recommendations:**
-
-* Be sure that your polio vaccinations are up to date before travelling. Polio is part of the [routine vaccine schedule](https://www.canada.ca/en/public-health/services/publications/healthy-living/canadian-immunization-guide-part-1-key-immunization-information/page-13-recommended-immunization-schedules.html#p1c12a2) for children in Canada.
-* One booster dose of the polio vaccine is recommended as an [adult](https://www.canada.ca/en/public-health/services/publications/healthy-living/canadian-immunization-guide-part-3-vaccination-specific-populations/page-9-immunization-travellers.html#a3).
 COVID-19
 
 COVID-19 is an infectious viral disease. Most of the time, it spreads when people are in close contact with others who are infected with the virus. It spreads through respiratory particles, or through an infected surface or object.
@@ -188,15 +188,13 @@ Frequent handwashing and making careful food and beverage choices can reduce you
 **Learn more:**[Travellers’ diarrhea](https://www.canada.ca/en/public-health/services/diseases/diarrhea.html)  
 [Eat and drink safely outside Canada](https://travel.gc.ca/travelling/health-safety/food-water)
 
-Typhoid 
+Typhoid fever 
 
-Typhoid fever is a disease caused by bacteria. Symptoms may include fever, cough, diarrhea, tiredness, headache, and loss of appetite.
+There is a risk of typhoid fever in this destination, but the risk is low for most travellers. Travellers are at higher risk in places with poor sanitation, limited access to clean water, or unsafe food preparation. Cleaning your hands often and making safe food and drink choices can help lower your risk.
 
-There is a risk of typhoid fever in this destination, but the risk is low for most travellers.
+Typhoid fever is a disease caused by bacteria. It spreads through consuming contaminated food or drinking water, or through contact with the feces of an infected person.
 
-Typhoid fever spreads through consuming contaminated food or drinking water, or through contact with the feces of an infected person.
-
-Travellers are at higher risk in places with poor sanitation, limited access to clean water, or unsafe food preparation. Young children, older adults, people visiting friends or relatives, and people with weakened immune systems are more likely to become seriously ill. Cleaning your hands often and making safe food and drink choices can help lower your risk.
+Symptoms may include fever, cough, diarrhea, tiredness, headache, and loss of appetite. Young children, older adults, people visiting friends or relatives, and people with weakened immune systems are more likely to become seriously ill.
 
 A vaccine is available and may be recommended for some travellers to this destination, depending on their risk. Talk to a health care provider before you travel to find out if this vaccine is recommended for you.
 
@@ -247,18 +245,6 @@ A vaccine for the prevention of chikungunya is approved in Canada. Talk to your 
 
 [Chikungunya](https://www.canada.ca/en/public-health/services/diseases/chikungunya.html)
 
-Dengue 
-
-* In this country, risk of dengue is sporadic. It is a viral disease spread to humans by mosquito bites.
-* Dengue can cause flu-like symptoms. In some cases, it can lead to severe dengue, which can be fatal.
-* The level of risk of dengue changes seasonally, and varies from year to year. The level of risk also varies between regions in a country and can depend on the elevation in the region.
-* Mosquitoes carrying dengue typically bite during the daytime, particularly around sunrise and sunset.
-* Protect yourself from mosquito bites. There is no vaccine or medication available in Canada to prevent dengue.
-
-**Learn more:**  
-[Dengue](https://www.canada.ca/en/public-health/services/infectious-diseases/viral-haemorrhagic-fevers/dengue-fever.html)  
-[Insect bite and pest prevention](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html)
-
 Onchocerciasis
 
 Onchocerciasis, also called river blindness, can occur in this destination. The risk is low for most travellers, but increases for people who stay for long periods, especially in rural regions near fast-moving rivers and streams where blackflies live.
@@ -273,9 +259,21 @@ There is no vaccine or medication to prevent onchocerciasis.
 [Onchocerciasis](https://www.who.int/news-room/fact-sheets/detail/onchocerciasis)  
 [Insect bite and pest prevention](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html)
 
+Dengue 
+
+* In this country, risk of dengue is sporadic. It is a viral disease spread to humans by mosquito bites.
+* Dengue can cause flu-like symptoms. In some cases, it can lead to severe dengue, which can be fatal.
+* The level of risk of dengue changes seasonally, and varies from year to year. The level of risk also varies between regions in a country and can depend on the elevation in the region.
+* Mosquitoes carrying dengue typically bite during the daytime, particularly around sunrise and sunset.
+* Protect yourself from mosquito bites. There is no vaccine or medication available in Canada to prevent dengue.
+
+**Learn more:**  
+[Dengue](https://www.canada.ca/en/public-health/services/infectious-diseases/viral-haemorrhagic-fevers/dengue-fever.html)  
+[Insect bite and pest prevention](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html)
+
 ### Animal precautions
 
-Some infections can spread directly from animals to people, like rabies or bird flu (avian influenza). Others don’t spread directly from animals but can infect people who visit areas animals have contaminated with their droppings or body fluids.
+Some infections, such as rabies, spread through direct contact with animals. Others, such as hantavirus infections and avian influenza, can also spread indirectly when people come into contact with areas contaminated by animal droppings or other animal waste.
 
 Certain activities can increase your chances of coming into contact with animals, their droppings, or their body fluids, like:
 
