@@ -1,13 +1,17 @@
 # Warnings and insurance
 
 Still current at:
-:   11 June 2026
+:   11 September 2026
 
 Updated:
-:   10 June 2026
+:   11 September 2026
 
 Latest update:
-:   FCDO no longer advises against all but essential travel to the municipalities of Zvečan, Zubin Potok and Leposavic, and areas of Mitrovica north of the river Ibar. New information about northern Kosovo (‘Warnings and insurance’ and ‘Regional risks’ pages).
+:   New information about large public gatherings in Pristina and other urban centres that may cause travel disruption (‘Warnings and insurance’ page).
+
+## Large gatherings in Pristina and other urban centres
+
+There will be large gatherings in Pristina and other urban centres over the next week, including on 12 and 16 September. This could lead to some disruption, including to traffic and public transport. Keep up to date with local developments, allow extra time for travel, and stay away from any large crowds or demonstrations.
 
 ## Before you travel
 

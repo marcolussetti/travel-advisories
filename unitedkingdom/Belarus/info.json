@@ -1,11 +1,11 @@
 {
     "name": "Belarus",
-    "update_reason": "Updated information about the risk of arrest and detention ('Safety and security' page).",
+    "update_reason": "Updated information on buying flight tickets if the journey is starting in, or within, Russia ('Safety and security\u2019 page)",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Belarus/Warnings and insurance.md",
-            "update_date": "2026-05-11T12:38:13+01:00"
+            "update_date": "2026-09-10T14:40:11+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Belarus/Getting help.md"
         }
     ],
-    "update_date": "2026-05-11T12:38:13+01:00"
+    "update_date": "2026-09-10T14:40:11+01:00"
 }

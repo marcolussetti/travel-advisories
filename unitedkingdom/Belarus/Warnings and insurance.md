@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   12 May 2026
+:   11 September 2026
 
 Updated:
-:   11 May 2026
+:   10 September 2026
 
 Latest update:
-:   Updated information about the risk of arrest and detention ('Safety and security' page).
+:   Updated information on buying flight tickets if the journey is starting in, or within, Russia ('Safety and security’ page)
 
 ![](https://assets.publishing.service.gov.uk/media/621a51bb8fa8f54916f45f67/FCDO_TA_057_-_Belarus_Travel_Advice_Ed2_WEB.jpg)
 

@@ -72,12 +72,6 @@ You will have to pay a small landing fee when you arrive. See Tristan da Cunha t
 
 ## Vaccine requirements
 
-### St Helena
-
-For details about medical entry requirements and recommended vaccinations, see [TravelHealthPro’s St Helena, Ascension and Tristan da Cunha guide](https://travelhealthpro.org.uk/country/14/ascension-island-st-helena-tristan-da-cunha#Vaccine_Recommendations).
-
-### Ascension and Tristan da Cunha
-
 For details about medical entry requirements and recommended vaccinations, see [TravelHealthPro’s St Helena, Ascension and Tristan da Cunha guide](https://travelhealthpro.org.uk/country/14/ascension-island-st-helena-tristan-da-cunha#Vaccine_Recommendations).
 
 ## Customs rules

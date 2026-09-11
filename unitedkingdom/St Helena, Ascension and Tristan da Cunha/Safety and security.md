@@ -94,7 +94,7 @@ South African airline Airlink provides weekly flights between St Helena and Joha
 
 ### Ascension
 
-There is a monthly charter flight from South Africa to Ascension, stopping at St Helena. The Ministry of Defence operates a fare-paying service from RAF Brize Norton to Mount Pleasant Airport twice a week. This flight also stops in Ascension Island. The Ascension Island government handles the bookings for both flights. For more information, email [flight.bookings@ascension.gov.ac](mailto:flight.bookings@ascension.gov.ac).
+There is a monthly charter flight from South Africa to Ascension, stopping at St Helena. The Ministry of Defence operates a fare-paying service from RAF Brize Norton to Mount Pleasant Airport twice a week. This flight also stops in Ascension Island. From 25 July to 15 November (dates subject to amendment), this service will use East Midlands Airport whilst the runway at Brize Norton is being surfaced. The Ascension Island government handles the bookings for both flights. For more information, email [flight.bookings@ascension.gov.ac](mailto:flight.bookings@ascension.gov.ac).
 
 ### Tristan da Cunha
 

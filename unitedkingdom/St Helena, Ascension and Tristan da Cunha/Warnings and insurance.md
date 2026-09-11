@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   8 July 2026
+:   11 September 2026
 
 Updated:
-:   7 July 2026
+:   10 September 2026
 
 Latest update:
-:   CORRECTION: Updated information about payment methods in Tristan da Cunha (see ‘Money’ on ‘Safety and security’ page).
+:   New information on getting to Ascension Island ('Safety and Security' page)
 
 St Helena, Ascension and Tristan da Cunha are British Overseas Territories. There are no British Embassies, and the St Helena, Ascension and Tristan da Cunha governments will support you if you need emergency assistance.
 

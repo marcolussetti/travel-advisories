@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   6 September 2026
+:   11 September 2026
 
 Updated:
-:   6 September 2026
+:   10 September 2026
 
 Latest update:
-:   Information about flight disruptions at Soekarno Hatta Airport and Halim Airport in Jakarta due to volcanic ash cloud ('Warnings and insurance' page)
+:   Removal of information about closure of Jakarta airports due to volcanic ash clouds (‘Warnings and insurance’ page)
 
 ![](https://assets.publishing.service.gov.uk/media/6745db6083f3d6d843be9719/FCDO__TA__020_-_Indonesia_Travel_Advice_Ed9__WEB_.jpg)
 
@@ -46,12 +46,6 @@ Your travel insurance could be invalidated if you travel against advice from the
 * to within 7km of the crater
 
 See [more details about why FCDO advises against travel](/foreign-travel-advice/indonesia/regional-risks).
-
-## Flight disruptions at Jakarta airports
-
-Soekarno Hatta Airport and Halim Airport in Jakarta were temporarily closed due to the volcanic ash clouds from Mount Anak Krakatau on 5 September. Both airports have reopened, but there are continued flight disruptions and many flights are cancelled or delayed.
-
-If you are due to travel, check with your airline or travel provider for up to date information on your flight status.
 
 ## Global travel impacts due to escalation in the Middle East
 

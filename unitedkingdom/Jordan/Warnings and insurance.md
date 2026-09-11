@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 August 2026
+:   11 September 2026
 
 Updated:
-:   25 August 2026
+:   10 September 2026
 
 Latest update:
-:   FCDO no longer advises against all but essential travel to Aqaba international airport and seaport following review of the security situation ('Warnings and insurance' page).
+:   Addition of information about Iranian missile strikes on Jordan (‘Warnings and insurance’ page)
 
 ![](https://assets.publishing.service.gov.uk/media/6a8dadd63b22fb169dc18d46/FCDO__TA__087_-_Jordan_Travel_Advice_Ed2__WEB_.jpg)
 
@@ -24,7 +24,7 @@ FCDO advises against all travel to within 3km of the border with Syria.
 
 ## Regional tensions
 
-The US and Iran announced a memorandum of understanding (MOU) on 17 June in relation to the conflict in the Middle East, however the situation in the Middle East remains unpredictable. Since 8 July there have been strikes and retaliatory attacks by Iran in a number of locations across the region, including Jordan, against US military and civilian infrastructure. There is a risk of more attacks and unforeseen escalation in the region. Before the ceasefire, the Iranian regime had stated its intention to target locations associated with the US and Israel, including organisations, businesses, facilities, and institutions.
+The US and Iran announced a memorandum of understanding (MOU) on 17 June in relation to the conflict in the Middle East, however the situation in the Middle East remains unpredictable. Since 8 July there have been strikes and retaliatory attacks by Iran in a number of locations across the region, including Jordan, against US military and civilian infrastructure. In early September renewed attacks and interceptions occurred in and around Aqaba. There is a risk of more attacks and unforeseen escalation in the region. Before the ceasefire, the Iranian regime had stated its intention to target locations associated with the US and Israel, including organisations, businesses, facilities, and institutions.
 
 British nationals currently in the Middle East should be prepared for possible flight cancellations, periodic airspace closures, and potential travel disruptions, and should:
 
@@ -32,7 +32,7 @@ British nationals currently in the Middle East should be prepared for possible f
 * sign up to FCDO Travel Advice [email alerts](https://www.gov.uk/foreign-travel-advice/jordan/email-signup)
 * follow advice from the local authorities
 * monitor local and international media for the latest information, including updates relating to airports and airspace which could close at short notice
-* stay away from areas around security or military facilities
+* stay away from areas around security or military facilities and strategic infrastructure. Recent attacks show that these areas may be targets or experience falling debris
 * keep your departure plans under review, and ensure your travel documents are up to date
 * if advised to take shelter, stay indoors or find the nearest safe building or designated shelter. An interior stairwell or a room with as few external walls or windows as possible may provide additional protection. The greatest risk is from falling debris caused by intercepts, and you are safest inside a secure structure. Do not approach or touch any drone or missile fragments or unusual objects
 

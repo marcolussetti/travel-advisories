@@ -138,7 +138,7 @@ Due to international restrictions on Belavia, they may not have access to compon
 
 UK government staff do not use Belavia.
 
-The UK has placed sanctions on some Russian airlines, including Aeroflot, Rossiya Airlines and Ural. It is illegal for any British national or company in the UK to do business with these airlines, including buying airline tickets.
+The UK has placed sanctions on some Russian airlines, including Aeroflot, Rossiya Airlines and Ural. You can buy flight tickets if the journey is starting in, or within, Russia without breaching UK sanctions.
 
 The UK has also sanctioned the Belarusian air traffic control operator.
 
