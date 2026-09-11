@@ -1,22 +1,26 @@
 ## Health
 
+### **Ebola**
+
+The DRC is currently experiencing a significant outbreak of the Ebola Bundibugyo virus which the World Health Organisation (WHO) has declared a Public Health Emergency of International Concern. The following six provinces have reported cases, Ituri, North and South Kivu, Haut-Uélé, Bas-Uélé and Tshopo. In contrast to the Zaire Ebola strains, there are currently no approved specific therapeutics or vaccines against the Bundibugyo Ebola virus which is a factor in the high death toll from the virus.
+
+Some countries have heightened health screening for travellers from the DRC. Check entry requirements for the country you are travelling to or transiting.
+
 ### **Get Travel and Medical Insurance**
 
-Before travelling, the Department of Foreign Affairs **strongly recommends** that you obtain comprehensive travel insurance which will cover all overseas medical costs, including medical repatriation/evacuation, repatriation of remains and legal costs. Check any exclusions and, in particular, that your policy covers all the activities you want to undertake.
+Should you decide to travel, the Department of Foreign Affairs **strongly recommends** that you obtain comprehensive travel insurance before travelling which will cover all overseas medical costs, including medical repatriation/evacuation, repatriation of remains and legal costs. Check any exclusions and that your policy covers all the activities you want to undertake.
 
 ### **Medical Facilities**
 
-The Centre Prive d'Urgence (CPU) clinic in Kinshasa is able to cope with basic health problems and to stabilise a patient after most serious accidents. Medical evacuation is advisable as soon as possible. Outside Kinshasa, western standard medical facilities are practically non-existent.
+The Centre Prive d'Urgence (CPU) clinic in Kinshasa can cope with basic health problems including stabilising a patient after most serious accidents. However, medical evacuation is advisable as soon as possible in serious cases. Outside Kinshasa, western standard medical facilities are practically non-existent.
 
 ### **Malaria**
 
 Malaria is prevalent in the Democratic Republic of Congo. Before travelling, get up-to-date medical advice as to whether you will need anti-malarial medication. On arrival, avoid being bitten by mosquitoes by using bed nets and repellents, and wearing closed shoes, long sleeves and trousers.
 
-### **Ebola**
+### **Mpox**
 
-There are occasional Ebola outbreaks in the DRC. On 15 May 2026 the DRC Ministry of Health announced an outbreak of the Ebola Bundibugyo virus in the North-Eastern Ituri Province. The World Health Organisation (WHO) have declared this a Public Health Emergency of International Concern.
-
-Some countries have heightened health screening for travellers from the DRC. Check entry requirements for the country you are travelling to or transiting.
+Between 1 January and 31 May 2025, DRC reported more than 12 000 suspected cases and 22 deaths, accounting for over 50% of all mpox cases in Africa. While the Ministry of Health in DRC officially declared the outbreak over in April 2026, individuals in DRC or considering travel to DRC should follow local public health instructions and updates.
 
 ### **Other Illnesses**
 

@@ -4,13 +4,13 @@
 
 Irish citizen require a visa to enter Indonesia. The electronic Visa on Arrival (e-VoA) is available to Irish citizens travelling to Indonesia. The e-VoA is a single-entry visa which is valid for 30 days in Indonesia for the purpose of tourism, business meetings, goods purchasing or transit. You can apply for a visa for Indonesia [**Here**](https://evisa.imigrasi.go.id/).
 
-Alternatively, you can apply for a Visa on Arrival (VoA) in-person upon your arrival in Indonesia. You can only make the in-person applications at designated Immigration Border Control points.
+Alternatively, you can apply for a Visa on Arrival (VoA) in-person upon your arrival in Indonesia at designated Immigration Border Control points.
 
 A VoA can only be applied for using an eligible passport with a minimum of 6 months’ validity. Other types of travel document are not eligible.
 
 The Visa on Arrival fee is IDR 500,000 and can be paid online or upon arrival at a designed Immigration Border Control point.
 
-The VoA can be extended once for a maximum of 30 additional days by applying to a local Indonesian immigration office, at the cost of IDR 500,000. Travellers should extend their visa within the initial 30 days to avoid a visa overstay fine.
+The VoA can be extended once for a maximum of 30 additional days by applying online or at a local Indonesian immigration office, at the cost of IDR 500,000. Travellers should extend their visa within the initial 30 days to avoid a visa overstay fine.
 
 A Visa on Arrival cannot be changed into another type of stay permit. The holder is also not eligible to apply for an onshore visa.
 
@@ -30,6 +30,6 @@ If unsure of the entry/exit requirements for Indonesia, including visa and other
 
 ### **Passport**
 
-Irish passports must be valid for a minimum of six months from the date of arrival to Indonesia, otherwise entry will be refused. This rule may also be applicable if you are planning onward travel in South East Asia. Check the requirements for other countries carefully.
+Irish passports must be valid for a minimum of six months from the date of arrival to Indonesia, otherwise entry will be refused. This rule may also be applicable if you are planning onward travel in Southeast Asia. Check the requirements for other countries carefully.
 
 It is advisable to carry a number of photocopies of your passport with you while travelling. **Damaged passports – even if the damage is minor - may result in a refusal of entry by immigration officials in Indonesia.**

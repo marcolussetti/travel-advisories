@@ -2,15 +2,19 @@
 
 ### **Geographical Position**
 
-Indonesia sits along a volatile seismic strip called the ‘Ring of Fire’ in the Pacific Ocean. Volcanic eruptions and earthquakes occur regularly, often with a potential threat of tsunamis. The capacity of the Indonesian emergency and rescue services, and local authorities, to deal with large natural disasters is limited.
+Indonesia sits along a volatile seismic strip called the ‘Ring of Fire’ in the Pacific Ocean. Volcanic eruptions and earthquakes occur regularly, with the potential threat of tsunamis. The capacity of the Indonesian emergency and rescue services, and local authorities, to deal with large natural disasters is limited.
+
+Stay informed by the [Indonesian Meteorology, Climatology and Geophysics Agency (BMKG)](https://www.bmkg.go.id/), who issue alerts via the “Info BMKG” phone application. You can select English language in the app settings.
 
 ### **Earthquake**
 
-If travelling to or living in Indonesia, make sure to know what to do in the event of an earthquake. Tsunamis as a result of earthquakes are also a regular occurrence throughout Indonesia, which can affect low lying areas such as beaches or river valleys.
+If travelling to or living in Indonesia, make sure to know what to do in the event of an earthquake – see the [US Federal Management Agency](https://www.ready.gov/earthquakes) advice.
+
+Tsunamis as a result of earthquakes can also occur. These will affect low lying areas such as beaches or river valleys.
 
 ### **Volcanoes**
 
-There are many volcanoes in Indonesia, any of which can erupt without warning. Visitors should exercise caution, check news reports and follow local advice before travelling to volcanic areas.
+There are many volcanoes in Indonesia, any of which can erupt without warning. Visitors should exercise caution, check news reports and follow local advice before travelling to volcanic areas. Never enter volcano exclusion zones which have been set by the Indonesian government if there is a significant level of risk.
 
 Volcanic activity throughout Indonesia **frequently affects** flight schedules and the operation of regional airports, including Lombok and Bali International Airports. Please heed the advice and guidance of local authorities, adhere to exclusion zones around volcanoes, and maintain contact with airlines and tour operators before travelling.
 

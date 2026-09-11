@@ -12,4 +12,4 @@ Please note that local law requires that citizens who are bringing medication in
 
 ### **Medical Treatment**
 
-Should medical attention be required, please be aware that health and medical care standards in Indonesia can be poor and some medical tests cannot be done reliably. Good medical treatment can be very expensive. In remote areas, high quality services for serious injury or illness are unlikely to be available.
+Please be aware that health and medical care standards in Indonesia can be poor and some medical tests cannot be done reliably. Good medical treatment can be very expensive. In remote areas, high quality services for serious injury or illness are unlikely to be available.
