@@ -1,11 +1,11 @@
 {
     "name": "Mexico",
-    "update_reason": "Information about Hurricane Marie causing intense rain across state of Baja California Sur ('Warnings and insurance' page)",
+    "update_reason": "Removal of information about Hurricane Marie ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Mexico/Warnings and insurance.md",
-            "update_date": "2026-09-04T00:25:51+01:00"
+            "update_date": "2026-09-11T16:29:14+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Mexico/Getting help.md"
         }
     ],
-    "update_date": "2026-09-04T00:25:51+01:00"
+    "update_date": "2026-09-11T16:29:14+01:00"
 }

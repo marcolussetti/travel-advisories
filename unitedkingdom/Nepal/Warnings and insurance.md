@@ -1,27 +1,29 @@
 # Warnings and insurance
 
 Still current at:
-:   7 September 2026
+:   12 September 2026
 
 Updated:
-:   6 September 2026
+:   11 September 2026
 
 Latest update:
-:   Amendment to information about the Family Assistance Centre at the British Embassy Kathmandu (See ‘Warnings and insurance’ page)
+:   Updated information about flooding in the Rasuwa district and Nepal-China border area and about the Family Assistance Centre at the British Embassy Kathmandu (‘Warnings and insurance’ page).
 
 ## Flash flood in the Rasuwa district and the Nepal-China border area
 
 On 26 August 2026, major flooding in Rasuwa district and the Nepal-China border area caused widespread damage. Buildings, roads, other transport and communications infrastructure have been severely damaged. Other areas in Nepal, including Gorkha, Nuwakot and Dhading, have also been affected.
 
-The Nepalese authorities and emergency services are responding. The authorities have warned of the risk of further flooding. The situation may change rapidly. If you are travelling in the region, follow the advice of the Nepalese government and local authorities and be alert to the changing situation. The Nepalese government has established a toll-free emergency Nepalese language number, 1234, and a dedicated hotline 1144 accessible in Nepal.
+The Nepalese authorities and emergency services are responding. The authorities have warned of the risk of further flooding. Areas affected by flooding and landslides may remain unstable. Further heavy rainfall or an earthquake could trigger additional landslides, rockfalls and other hazards, particularly in mountainous areas. The situation may change rapidly.
+
+If you are travelling in the region, follow the advice of the Nepalese government and local authorities, be alert to the changing situation and monitor local media for updates. The Nepalese government has established a toll-free emergency Nepalese language number, 1234, and a dedicated hotline 1144 accessible in Nepal.
 
 The Family Assistance Centre at the British Embassy Kathmandu remains available to support the family and friends of affected British Nationals.
 
-From Monday 7 September, in-person support at the Centre will be available by appointment. Appointments can be booked using the contact numbers below.
+In-person support at the Centre will be available Monday to Thursday, between 9am and 5pm and on Friday, between 9am and 1pm.
 
 Consular assistance remains available 24 hours a day, 7 days a week for anyone affected who requires support from the UK Government.
 
-If you are affected and need assistance from the UK government call:
+If you are affected and need assistance from the UK Government call:
 
 * from Nepal +977 (0)14237100
 * from India +91 11 2419 2100

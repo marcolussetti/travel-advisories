@@ -1,6 +1,6 @@
 # Entry requirements
 
-This information is for people travelling on a full [‘British citizen’ passport](https://www.gov.uk/types-of-british-nationality) from the UK. It is based on the UK government’s understanding of Nepal’s current rules for the most common types of travel.
+This information is for people travelling on a full [‘British citizen’ passport](https://www.gov.uk/types-of-british-nationality) from the UK. It is based on the UK Government’s understanding of Nepal’s current rules for the most common types of travel.
 
 The authorities in Nepal set and enforce entry rules. If you’re not sure how these requirements apply to you, contact the [Nepal Embassy in the UK](https://uk.nepalembassy.gov.np/).
 

@@ -1,11 +1,11 @@
 {
     "name": "Nepal",
-    "update_reason": "Amendment to information about the Family Assistance Centre at the British Embassy Kathmandu (See \u2018Warnings and insurance\u2019 page)",
+    "update_reason": "Updated information about flooding in the Rasuwa district and Nepal-China border area and about the Family Assistance Centre at the British Embassy Kathmandu (\u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Nepal/Warnings and insurance.md",
-            "update_date": "2026-09-06T15:39:52+01:00"
+            "update_date": "2026-09-11T14:52:03+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Nepal/Getting help.md"
         }
     ],
-    "update_date": "2026-09-06T15:39:52+01:00"
+    "update_date": "2026-09-11T14:52:03+01:00"
 }
