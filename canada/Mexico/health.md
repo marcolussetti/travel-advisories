@@ -24,6 +24,39 @@ When travelling in this destination, you might be at risk for diseases that can 
 
 The highlights below will also tell you if your destination may require that vaccine for entering or exiting.
 
+Rabies 
+
+Rabies is present in this destination and is carried by dogs and some wildlife, including bats. Rabies is a serious disease that’s almost always fatal once symptoms appear. It's spread to humans through the saliva of infected animals, mainly through bites, but it can also be spread through scratches.
+
+Before you travel, talk to a health care professional about rabies vaccination. Vaccination may be recommended for people at higher risk of exposure, such as:
+
+* veterinarians and wildlife workers
+* children
+* adventure travellers and cave explorers (spelunkers)
+* people who will be in close contact with animals
+
+While travelling:
+
+* avoid contact with animals, including free roaming dogs
+* supervise children closely around animals
+
+If you’re bitten or scratched by an animal:
+
+* wash the wound right away with soap and clean water for about 15 minutes
+* get medical care as soon as possible
+
+Treatment to prevent rabies is often available in this destination.
+
+If you get treatment to prevent rabies while outside Canada, ask for:
+
+* written records of medications and vaccines administered, including when they were given, product names, and batch or lot numbers
+* photos of the packaging and labels of any medications or vaccines given to you
+
+When you return to Canada, see a health care professional as soon as possible and bring your treatment records to your appointment.
+
+**Learn more:**  
+[Rabies: Symptoms and treatment](https://www.canada.ca/en/public-health/services/diseases/rabies.html)
+
 Yellow Fever - Country Entry Requirements 
 
 [Yellow fever](https://www.canada.ca/en/public-health/services/diseases/yellow-fever.html) is a disease caused by a flavivirus from the bite of an infected mosquito.
@@ -105,40 +138,8 @@ Malaria
 
 [Antimalarial medication may be recommended](https://www.canada.ca/en/public-health/services/catmat/appendix-1-malaria-risk-recommended-chemoprophylaxis-geographic-area.html) depending on your itinerary and the time of year you are travelling. Consult a health care professional or visit a travel health clinic before travelling to discuss your options. It is recommended to do this 6 weeks before travel, however, it is still a good idea any time before leaving.   
    
-[Protect yourself from mosquito bites](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html) at all times: 
-
-Rabies 
-
-Rabies is present in this destination and is carried by dogs and some wildlife, including bats. Rabies is a serious disease that’s almost always fatal once symptoms appear. It's spread to humans through the saliva of infected animals, mainly through bites, but it can also be spread through scratches.
-
-Before you travel, talk to a health care professional about rabies vaccination. Vaccination may be recommended for people at higher risk of exposure, such as:
-
-* veterinarians and wildlife workers
-* children
-* adventure travellers and cave explorers (spelunkers)
-* people who will be in close contact with animals
-
-While travelling:
-
-* avoid contact with animals, including free roaming dogs
-* supervise children closely around animals
-
-If you’re bitten or scratched by an animal:
-
-* wash the wound right away with soap and clean water for about 15 minutes
-* get medical care as soon as possible
-
-Treatment to prevent rabies is often available in this destination.
-
-If you get treatment to prevent rabies while outside Canada, ask for:
-
-* written records of medications and vaccines administered, including when they were given, product names, and batch or lot numbers
-* photos of the packaging and labels of any medications or vaccines given to you
-
-When you return to Canada, see a health care professional as soon as possible and bring your treatment records to your appointment.
-
-**Learn more:**  
-[Rabies: Symptoms and treatment](https://www.canada.ca/en/public-health/services/diseases/rabies.html)
+[Protect yourself from mosquito bites](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html) at all times:   
+• Cover your skin and use an [approved](https://www.canada.ca/en/health-canada/services/about-pesticides/insect-repellents.html) insect repellent on uncovered skin. 
 
 ### Safe food and water precautions
 
@@ -149,6 +150,25 @@ Eating or drinking unsafe food or water, or swimming in contaminated water can m
 * Don’t swallow water when bathing, showering, swimming in pools, or using hot tubs
 
 [Eat and drink safely abroad](https://travel.gc.ca/travelling/health-safety/food-water)
+
+Cyclosporiasis
+
+Cyclosporiasis is a common illness among travellers to this destination. It is caused by a parasite called *Cyclospora*. People can become infected by eating food or drinking water that contains the parasite. It’s unlikely to spread directly between people.
+
+The most common symptom of infection is watery diarrhea. If left untreated, you may have the symptoms for a few days up to a few months. Most people have symptoms for 6 to 7 weeks. Sometimes, symptoms may go away and then return.
+
+It can be hard to prevent cyclosporiasis. This is because washing produce does not always get rid of the *Cyclospora* parasite that causes the illness.
+
+You can reduce your risk of infection by:
+
+* avoiding food that has been washed in local drinking water
+* drinking water from a safe source
+* eating:
+  + cooked food
+  + fruit that you can peel yourself
+
+**Learn more:**  
+[Cyclosporiasis (Cyclospora)](https://www.canada.ca/en/public-health/services/diseases/cyclosporiasis-cyclospora.html)
 
 Travellers' diarrhea
 
@@ -176,25 +196,6 @@ Most people recover on their own without medical treatment and from proper rehyd
 * Carry [oral rehydration salts](https://travel.gc.ca/travelling/health-safety/rehydration) when travelling.
 
 Travellers with severe symptoms should consult a health care professional as soon as possible.
-
-Cyclosporiasis
-
-Cyclosporiasis is a common illness among travellers to this destination. It is caused by a parasite called *Cyclospora*. People can become infected by eating food or drinking water that contains the parasite. It’s unlikely to spread directly between people.
-
-The most common symptom of infection is watery diarrhea. If left untreated, you may have the symptoms for a few days up to a few months. Most people have symptoms for 6 to 7 weeks. Sometimes, symptoms may go away and then return.
-
-It can be hard to prevent cyclosporiasis. This is because washing produce does not always get rid of the *Cyclospora* parasite that causes the illness.
-
-You can reduce your risk of infection by:
-
-* avoiding food that has been washed in local drinking water
-* drinking water from a safe source
-* eating:
-  + cooked food
-  + fruit that you can peel yourself
-
-**Learn more:**  
-[Cyclosporiasis (Cyclospora)](https://www.canada.ca/en/public-health/services/diseases/cyclosporiasis-cyclospora.html)
 
 ### Tick and insect bite prevention
 
@@ -232,6 +233,19 @@ A vaccine for the prevention of chikungunya is approved in Canada. Talk to your 
 
 [Chikungunya](https://www.canada.ca/en/public-health/services/diseases/chikungunya.html)
 
+Leishmaniasis – Cutaneous and mucocutaneous
+
+Cutaneous and mucocutaneous leishmaniasis can occur in this destination, though the risk is low for most travellers.
+
+The infection spreads through the bite of an infected sandfly. Cutaneous symptoms usually appear weeks or months after infection, and may include swollen lymph nodes and persistent skin sores and ulcers. Mucocutaneous symptoms can develop at the same time, or years later, causing nasal congestion, frequent nose bleeds, and sores in the nose or mouth.
+
+To lower your risk, protect yourself from sandfly bites. Sandflies are most active between sunset and sunrise in rural, forested and some urban areas.
+
+There is no vaccine or medication to prevent infection with the parasite that causes leishmaniasis.
+
+**Learn more:**   
+[Leishmaniasis](https://www.canada.ca/en/public-health/services/diseases/leishmaniasis.html)
+
 Dengue 
 
 * In this country, dengue is a risk to travellers. It is a viral disease spread to humans by mosquito bites.
@@ -265,22 +279,9 @@ American trypanosomiasis
 
 Risk is generally low for most travellers. Protect yourself from triatomine bugs, which are active at night, by using mosquito nets if staying in poorly-constructed housing. There is no vaccine available for Chagas disease.
 
-Leishmaniasis – Cutaneous and mucocutaneous
-
-Cutaneous and mucocutaneous leishmaniasis can occur in this destination, though the risk is low for most travellers.
-
-The infection spreads through the bite of an infected sandfly. Cutaneous symptoms usually appear weeks or months after infection, and may include swollen lymph nodes and persistent skin sores and ulcers. Mucocutaneous symptoms can develop at the same time, or years later, causing nasal congestion, frequent nose bleeds, and sores in the nose or mouth.
-
-To lower your risk, protect yourself from sandfly bites. Sandflies are most active between sunset and sunrise in rural, forested and some urban areas.
-
-There is no vaccine or medication to prevent infection with the parasite that causes leishmaniasis.
-
-**Learn more:**   
-[Leishmaniasis](https://www.canada.ca/en/public-health/services/diseases/leishmaniasis.html)
-
 ### Animal precautions
 
-Some infections can spread directly from animals to people, like rabies or bird flu (avian influenza). Others don’t spread directly from animals but can infect people who visit areas animals have contaminated with their droppings or body fluids.
+Some infections, such as rabies, spread through direct contact with animals. Others, such as hantavirus infections and avian influenza, can also spread indirectly when people come into contact with areas contaminated by animal droppings or other animal waste.
 
 Certain activities can increase your chances of coming into contact with animals, their droppings, or their body fluids, like:
 

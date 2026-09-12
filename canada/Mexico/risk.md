@@ -32,7 +32,11 @@ The features in this map do not constitute an authoritative source of geographic
 * Colima, excluding the city of Manzanillo only if accessed by air
 * Guanajuato, in all areas south of and including highways 43D and 45D
 * Guerrero, excluding the cities of Ixtapa/Zihuatanejo only if accessed by air
-* Jalisco, within 50 km of the border with Michoacán state
+* Jalisco, within 50 km of the border with Michoacán state, excluding:
+
++ Mazamitla (and highway 405 leading there)
++ the area around Lake Chapala between highway 15 and 15D
+
 * Lagunas de Zempoala National Park in Morelos
 * Michoacán, excluding the cities of Morelia and Patzcuaro
 * Nayarit, within 20 km of the border with the states of Sinaloa and Durango
