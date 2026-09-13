@@ -24,27 +24,6 @@ When travelling in this destination, you might be at risk for diseases that can 
 
 The highlights below will also tell you if your destination may require that vaccine for entering or exiting.
 
-Rabies 
-
-Rabies may be present in some wildlife in this destination, including bats. Rabies is a serious disease that’s almost always fatal once symptoms appear. It's spread to humans through the saliva of infected animals, mainly through bites, but it can also be spread through scratches.
-
-Before you travel, talk to a health care professional about rabies vaccination. Vaccination may be recommended if you’ll be working directly with wildlife.
-
-If you’re bitten or scratched by wildlife, including bats:
-
-* wash the wound right away with soap and clean water for about 15 minutes
-* get medical care as soon as possible
-
-If you get treatment to prevent rabies while outside Canada, ask for:
-
-* written records of medications and vaccines administered, including when they were given, product names, and batch or lot numbers
-* photos of the packaging and labels of any medications or vaccines given to you
-
-When you return to Canada, see a health care professional as soon as possible and bring your treatment records to your appointment.
-
-**Learn more:**  
-[Rabies: Symptoms and treatment](https://www.canada.ca/en/public-health/services/diseases/rabies.html)
-
 Yellow Fever - Country Entry Requirements 
 
 [Yellow fever](https://www.canada.ca/en/public-health/services/diseases/yellow-fever.html) is a disease caused by a flavivirus from the bite of an infected mosquito.
@@ -118,6 +97,27 @@ The flu vaccine available in one hemisphere may only offer partial protection ag
 
 The flu virus spreads from person to person when they cough or sneeze or by touching objects and surfaces that have been contaminated with the virus. Clean your hands often and wear a mask if you have a fever or respiratory symptoms.
 
+Rabies 
+
+Rabies may be present in some wildlife in this destination, including bats. Rabies is a serious disease that’s almost always fatal once symptoms appear. It's spread to humans through the saliva of infected animals, mainly through bites, but it can also be spread through scratches.
+
+Before you travel, talk to a health care professional about rabies vaccination. Vaccination may be recommended if you’ll be working directly with wildlife.
+
+If you’re bitten or scratched by wildlife, including bats:
+
+* wash the wound right away with soap and clean water for about 15 minutes
+* get medical care as soon as possible
+
+If you get treatment to prevent rabies while outside Canada, ask for:
+
+* written records of medications and vaccines administered, including when they were given, product names, and batch or lot numbers
+* photos of the packaging and labels of any medications or vaccines given to you
+
+When you return to Canada, see a health care professional as soon as possible and bring your treatment records to your appointment.
+
+**Learn more:**  
+[Rabies: Symptoms and treatment](https://www.canada.ca/en/public-health/services/diseases/rabies.html)
+
 ### Safe food and water precautions
 
 Eating or drinking unsafe food or water, or swimming in contaminated water can make you sick while travelling. Take precautions by following these tips:
@@ -127,6 +127,17 @@ Eating or drinking unsafe food or water, or swimming in contaminated water can m
 * Don’t swallow water when bathing, showering, swimming in pools, or using hot tubs
 
 [Eat and drink safely abroad](https://travel.gc.ca/travelling/health-safety/food-water)
+
+Travellers' diarrhea
+
+Travellers' diarrhea is the most common illness that affects travellers. Travellers are at higher risk when going to destinations with poor standards of hygiene and sanitation and/or eating at places with poor food handling practices. Young children, the elderly, and people with existing health problems are more at risk.
+
+Travellers’ diarrhea is caused by many different bacteria, viruses, and parasites. It’s easily spread from person-to-person or by consuming contaminated food or water. Besides diarrhea, symptoms usually include fever, nausea, vomiting, and stomach pain.
+
+Frequent handwashing and making careful food and beverage choices can reduce your risk of developing travellers’ diarrhea. If you become sick, the most important thing to do is to maintain hydration by drinking lots of fluids.
+
+**Learn more:**[Travellers’ diarrhea](https://www.canada.ca/en/public-health/services/diseases/diarrhea.html)  
+[Eat and drink safely outside Canada](https://travel.gc.ca/travelling/health-safety/food-water)
 
 Typhoid fever 
 
@@ -142,17 +153,6 @@ A vaccine is available and may be recommended for some travellers to this destin
 [Typhoid fever](https://www.canada.ca/en/public-health/services/diseases/typhoid-fever.html)  
 [Eating and drinking safely abroad](https://travel.gc.ca/travelling/health-safety/food-water)  
 [Clean your hands to help reduce the spread of infectious diseases](https://www.canada.ca/en/public-health/services/healthy-living/hand-hygiene.html)
-
-Travellers' diarrhea
-
-Travellers' diarrhea is the most common illness that affects travellers. Travellers are at higher risk when going to destinations with poor standards of hygiene and sanitation and/or eating at places with poor food handling practices. Young children, the elderly, and people with existing health problems are more at risk.
-
-Travellers’ diarrhea is caused by many different bacteria, viruses, and parasites. It’s easily spread from person-to-person or by consuming contaminated food or water. Besides diarrhea, symptoms usually include fever, nausea, vomiting, and stomach pain.
-
-Frequent handwashing and making careful food and beverage choices can reduce your risk of developing travellers’ diarrhea. If you become sick, the most important thing to do is to maintain hydration by drinking lots of fluids.
-
-**Learn more:**[Travellers’ diarrhea](https://www.canada.ca/en/public-health/services/diseases/diarrhea.html)  
-[Eat and drink safely outside Canada](https://travel.gc.ca/travelling/health-safety/food-water)
 
 ### Tick and insect bite prevention
 
