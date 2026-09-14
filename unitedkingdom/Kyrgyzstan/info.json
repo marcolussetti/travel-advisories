@@ -1,11 +1,11 @@
 {
     "name": "Kyrgyzstan",
-    "update_reason": "New information about the World Nomad Games ('Warnings and insurance' page).",
+    "update_reason": "Removal of information about the World Nomad Games ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Kyrgyzstan/Warnings and insurance.md",
-            "update_date": "2026-08-26T15:14:04+01:00"
+            "update_date": "2026-09-14T11:23:33+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Kyrgyzstan/Getting help.md"
         }
     ],
-    "update_date": "2026-08-26T15:14:04+01:00"
+    "update_date": "2026-09-14T11:23:33+01:00"
 }
