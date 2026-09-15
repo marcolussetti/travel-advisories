@@ -6,6 +6,10 @@ Normal Precautions
 
 ### **Travel Alert**
 
+#### **Demonstrations**
+
+There may be demonstrations in Pristina and other urban centres over the next week, including on 16 September, which could draw large crowds and cause local traffic or security disruptions. Travelers should completely avoid large public gatherings, crowds, and demonstrations throughout the country, and keep up to date with local developments.
+
 While the overall security situation remains calm in most of the country, there are ongoing tensions in northern Kosovo and violence can flare up in the city of Mitrovica without warning. Any Irish citizens already in Kosovo are advised against travel to northern Mitrovica and to the northern municipalities of Leposavic, Zubin Potok and Zvecan as there is an increased risk of disturbance in these areas.
 
 For further information read the safety and security section of this page.

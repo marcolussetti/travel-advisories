@@ -45,6 +45,10 @@ The state of emergency allows the military and police to:
 * read private mail and phone records;
 * enter private properties without permission.
 
+**Curfew**
+
+A curfew will be in place from 00:00 on the 17 September to 23:59 on 30 September in the provinces of Guayas, Manabí, Los Ríos, and El Oro from 00:00 to 05:00 each day. This will be accompanied by enhanced presence of security forces.
+
 The Embassy advises all Irish citizens in Ecuador to be particularly attentive to news and safety recommendations from the Ecuadorian authorities.
 
 If an Irish citizen decides to travel to Ecuador at this time, via a land border from Peru or Colombia, **contrary to this travel advice**, they must present a criminal record certificate from their country of residence covering the last five years. The certificate must be legalised with a Hague Apostille. This does not apply to children and adolescents under 18.

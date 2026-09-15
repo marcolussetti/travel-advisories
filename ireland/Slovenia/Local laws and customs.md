@@ -13,3 +13,13 @@ Visitors must carry personal proof of identity at all times (passport, national 
 ### **Money**
 
 Slovenia uses the euro. ATMs are widely available and major credit cards/travellers’ cheques are accepted. You can withdraw cash from your Irish account if your ATM card has a Maestro or Cirrus symbol. Banks and bureaux de change will change travellers’ cheques, sterling and other main currencies.
+
+### **Kayaking**
+
+If you are planning to kayak the Soča or Koritnica Rivers, you must have a valid river permit for some areas (dovolilnica).
+
+Permits can be purchased through the official GoSoča website. [**https://gosoca.si/**](https://gosoca.si/)
+
+After purchasing your permit, you must also select the date of use and activate it at least 30 minutes before entering the river.
+
+Please make sure your permit is valid and activated before entering the water. The fine for using designated entry/exit points without a valid permit can be €800. Under Slovenian rules, a reduced payment of €400 may be available in certain circumstances, but choosing to challenge a fine can affect your entitlement to the reduced amount.
