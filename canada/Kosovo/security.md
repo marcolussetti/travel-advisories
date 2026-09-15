@@ -2,6 +2,17 @@
 
 ## Safety and security
 
+### Demonstrations
+
+Large-scale demonstrations may take place in Pristina and other cities across the country on September 16, 2026. Further mass gatherings could occur before and after that date.
+
+If you are in Kosovo:
+
+* avoid areas where demonstrations and gatherings are taking place
+* monitor local media for the most recent information
+* be prepared to modify your plans in case of disturbances
+* expect enhanced security measures and an increased police presence
+
 ### Kosovo
 
 Kosovo declared its independence from Serbia in 2008. Serbia doesn’t recognize Kosovo as an independent state. Ethnic tensions between Kosovo Serbs and Kosovo Albanians are ongoing.
