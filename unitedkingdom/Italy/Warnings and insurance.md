@@ -1,19 +1,19 @@
 # Warnings and insurance
 
 Still current at:
-:   7 September 2026
+:   15 September 2026
 
 Updated:
-:   7 September 2026
+:   14 September 2026
 
 Latest update:
-:   Addition of information about hiking and adventure sports (‘Safety and security’ page).
+:   Addition of information about Mount Etna eruption and flight disruption ('Warnings and insurance' page).
 
 This travel advice also covers Vatican City.
 
-## Wildfires in Italy
+## Mount Etna eruption – flight disruption
 
-There is a high risk of wildfires during the summer in Italy as temperatures continue to soar. For advice, visit the wildfires section on the [Safety and security page](https://www.gov.uk/foreign-travel-advice/italy/safety-and-security).
+Flights are currently affected by ash cloud from Mount Etna. Check with your travel provider or [Catania airport](https://www.aeroporto.catania.it/en) before travelling.
 
 ## Before you travel
 
