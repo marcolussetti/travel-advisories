@@ -14,7 +14,7 @@ Terrorist attacks in Georgia cannot be ruled out. Attacks could happen anywhere 
 
 ## Political situation
 
-21 July marked the 600th day of protests. Some of these have led to violent confrontation between police and protesters. In Tbilisi the demonstrations are now mainly focused on the Parliament building on Rustaveli Avenue, but they can spread to other areas, particularly on Saturday evenings/nights and on the anniversaries of significant political events. Demonstrations also take place in other cities and towns. Demonstrations may lead to travel disruption.
+9 September marked the 650th consecutive day of protests. Some of these have led to violent confrontation between police and protesters. In Tbilisi the demonstrations are now mainly focused on the Parliament building on Rustaveli Avenue, but they can spread to other areas, particularly on Saturday evenings/nights and on the anniversaries of significant political events. Demonstrations also take place in other cities and towns. Demonstrations may lead to travel disruption.
 
 Tensions can escalate without warning. You should:
 
@@ -156,7 +156,9 @@ Take care when driving, especially at night. Be aware that:
 * heavy rain, flooding and snow at higher altitudes can affect roads and bridges making travel difficult or impossible (particularly in remote areas)
 * landslides are common
 
-If you’re travelling outside Tbilisi, particularly in remote areas, make sure your vehicle is suitable for off-road driving and check weather conditions locally.
+Construction work is currently ongoing in the vicinity of central Tbilisi.
+
+If you’re travelling outside Tbilisi, particularly in remote areas, make sure your vehicle is suitable for off-road driving and check weather conditions locally. Access to medical facilities may be limited in remote areas, and available facilities may not have modern medical equipment.
 
 ### Rail travel
 

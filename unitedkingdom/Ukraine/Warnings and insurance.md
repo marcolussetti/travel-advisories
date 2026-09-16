@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   15 August 2026
+:   16 September 2026
 
 Updated:
-:   14 August 2026
+:   15 September 2026
 
 Latest update:
-:   Updated information about the Russian invasion of Ukraine (‘Warnings and insurance’ page).
+:   Updated information about Russian invasion of Ukraine ('Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/663398524d8bb7378fb6c167/FCDO__TA__044_-_Ukraine_Travel_Advice_Ed12__WEB___1_.jpg)
 
@@ -66,7 +66,7 @@ There is an ongoing risk of harm to British nationals from Russian attacks acros
 
 Conferences and events that are attended by the Ukrainian government and military are more likely to be targeted.
 
-In the event of attacks, follow the advice of the local authorities, including responding to air raid alerts.
+In the event of attacks, follow the advice of the local authorities, including responding to air raid alerts and train evacuation instructions.
 
 Russian attacks on the energy network may result in unscheduled blackouts or emergency power cuts with little notice. Rolling scheduled blackouts may be required in some areas. Electricity outages may also affect district heating and water supplies. Be aware that temperatures may drop below -20°C in the depths of winter.
 
