@@ -73,23 +73,6 @@ Criminals can compromise public Wi-Fi networks to steal personal data or credit 
 
 Never leave your food or drinks unattended or in the care of strangers. Avoid accepting snacks, beverages, gum or cigarettes from new acquaintances, as these items may contain drugs that could put you at risk of sexual assault and robbery.
 
-### Demonstrations
-
-Demonstrations may occur. Even peaceful demonstrations can turn violent at any time. They can also lead to disruptions to traffic and public transportation.
-
-* Avoid areas where demonstrations and large gatherings are taking place
-* Follow the instructions of local authorities
-* Monitor local media for information on ongoing demonstrations
-
-[Mass gatherings (large-scale events)](https://travel.gc.ca/travelling/health-safety/mass-gatherings)
-
-### Water shortages
-
-The Turks and Caicos Islands experience water shortages. Local authorities may impose water rationing measures.
-
-* Keep a sufficient supply of water on hand
-* Monitor local media for the latest information
-
 ### Water activities
 
 Sharks pose a risk to swimmers. Do not swim in waters where fishermen use bait to attract marine life.
@@ -97,13 +80,13 @@ Sharks pose a risk to swimmers. Do not swim in waters where fishermen use bait t
 * Consult residents and tour operators for information on possible hazards, the presence of dangerous species and safe swimming areas
 * Keep a safe distance from areas reserved for recreational boating
 
-### Adventure tourism
+### Adventure travel
 
 Outdoor activities, such as diving and snorkelling, can be dangerous.
 
 Tour operators may not meet Canadian safety standards.
 
-If you intend to participate in adventure tourism activities:
+If you intend to participate in adventure travel activities:
 
 * share your itinerary with a friend or family member if you’re alone
 * obtain detailed information on your activity and the environment in which you will be setting out

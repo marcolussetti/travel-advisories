@@ -1,7 +1,7 @@
 {
     "name": "United States",
-    "update_reason": "Risk level section \u2013 removed regional advisory for Hurricane Lowell; Natural disasters and climate section \u2013 removed information on Hurricane Lowell",
-    "update_date": "2026-09-08T15:54:00",
+    "update_reason": "Editorial change",
+    "update_date": "2026-09-15T15:09:00",
     "sections": {
         "risk": "canada/United States/risk.md",
         "security": "canada/United States/security.md",

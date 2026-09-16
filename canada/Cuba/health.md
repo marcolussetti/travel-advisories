@@ -5,7 +5,6 @@
 ### Relevant Travel Health Notices
 
 * [Measles: Advice for travellers](https://travel.gc.ca/travelling/health-safety/travel-health-notices/504)
-* [Oropouche virus disease in the Americas](https://travel.gc.ca/travelling/health-safety/travel-health-notices/534)
 * [Dengue: Advice for travellers](https://travel.gc.ca/travelling/health-safety/travel-health-notices/517)
 * [Chikungunya: Advice for travellers](https://travel.gc.ca/travelling/health-safety/travel-health-notices/540)
 
@@ -55,26 +54,6 @@ When travelling in this destination, you might be at risk for diseases that can 
 
 The highlights below will also tell you if your destination may require that vaccine for entering or exiting.
 
-Hepatitis B
-
-[Hepatitis B](https://www.canada.ca/en/public-health/services/diseases/hepatitis-b.html) is a risk in every destination. It is a viral liver disease that is easily transmitted from one person to another through exposure to blood and body fluids containing the hepatitis B virus.  Travellers who may be exposed to blood or other bodily fluids (e.g., through sexual contact, medical treatment, sharing needles, tattooing, acupuncture or occupational exposure) are at higher risk of getting hepatitis B.
-
-Hepatitis B vaccination is recommended for all travellers. [Prevent hepatitis B](https://www.canada.ca/en/public-health/services/diseases/hepatitis-b/prevention-risks.html#a2) infection by practicing safe sex, only using new and sterile drug equipment, and only getting tattoos and piercings in settings that follow public health regulations and standards.
-
-Influenza
-
- The best way to protect yourself from seasonal [influenza](https://www.canada.ca/en/public-health/services/diseases/flu-influenza.html) (flu) is to get vaccinated every year. [Get the flu shot](https://www.canada.ca/en/public-health/services/diseases/flu-influenza/get-your-flu-shot.html) at least 2 weeks before travelling.
-
- The flu occurs worldwide.
-
-* In the Northern Hemisphere, the flu season usually runs from November to   April.
-* In the Southern Hemisphere, the flu season usually runs between April and   October.
-* In the tropics, there is flu activity year round.
-
-The flu vaccine available in one hemisphere may only offer partial protection against the flu in the other hemisphere.
-
-The flu virus spreads from person to person when they cough or sneeze or by touching objects and surfaces that have been contaminated with the virus. Clean your hands often and wear a mask if you have a fever or respiratory symptoms.
-
 Yellow Fever - Country Entry Requirements 
 
 [Yellow fever](https://www.canada.ca/en/public-health/services/diseases/yellow-fever.html) is a disease caused by a flavivirus from the bite of an infected mosquito.
@@ -115,6 +94,26 @@ Getting vaccinated is the best way to protect yourself and others from measles. 
 **Learn more:**
 
 [Measles](https://www.canada.ca/en/public-health/services/diseases/measles.html)
+
+Hepatitis B
+
+[Hepatitis B](https://www.canada.ca/en/public-health/services/diseases/hepatitis-b.html) is a risk in every destination. It is a viral liver disease that is easily transmitted from one person to another through exposure to blood and body fluids containing the hepatitis B virus.  Travellers who may be exposed to blood or other bodily fluids (e.g., through sexual contact, medical treatment, sharing needles, tattooing, acupuncture or occupational exposure) are at higher risk of getting hepatitis B.
+
+Hepatitis B vaccination is recommended for all travellers. [Prevent hepatitis B](https://www.canada.ca/en/public-health/services/diseases/hepatitis-b/prevention-risks.html#a2) infection by practicing safe sex, only using new and sterile drug equipment, and only getting tattoos and piercings in settings that follow public health regulations and standards.
+
+Influenza
+
+ The best way to protect yourself from seasonal [influenza](https://www.canada.ca/en/public-health/services/diseases/flu-influenza.html) (flu) is to get vaccinated every year. [Get the flu shot](https://www.canada.ca/en/public-health/services/diseases/flu-influenza/get-your-flu-shot.html) at least 2 weeks before travelling.
+
+ The flu occurs worldwide.
+
+* In the Northern Hemisphere, the flu season usually runs from November to   April.
+* In the Southern Hemisphere, the flu season usually runs between April and   October.
+* In the tropics, there is flu activity year round.
+
+The flu vaccine available in one hemisphere may only offer partial protection against the flu in the other hemisphere.
+
+The flu virus spreads from person to person when they cough or sneeze or by touching objects and surfaces that have been contaminated with the virus. Clean your hands often and wear a mask if you have a fever or respiratory symptoms.
 
 Rabies 
 
@@ -172,6 +171,32 @@ Eating or drinking unsafe food or water, or swimming in contaminated water can m
 
 [Eat and drink safely abroad](https://travel.gc.ca/travelling/health-safety/food-water)
 
+Travellers' diarrhea
+
+Travellers' diarrhea is the most common illness that affects travellers. Travellers are at higher risk when going to destinations with poor standards of hygiene and sanitation and/or eating at places with poor food handling practices. Young children, the elderly, and people with existing health problems are more at risk.
+
+Travellers’ diarrhea is caused by many different bacteria, viruses, and parasites. It’s easily spread from person-to-person or by consuming contaminated food or water. Besides diarrhea, symptoms usually include fever, nausea, vomiting, and stomach pain.
+
+Frequent handwashing and making careful food and beverage choices can reduce your risk of developing travellers’ diarrhea. If you become sick, the most important thing to do is to maintain hydration by drinking lots of fluids.
+
+**Learn more:**[Travellers’ diarrhea](https://www.canada.ca/en/public-health/services/diseases/diarrhea.html)  
+[Eat and drink safely outside Canada](https://travel.gc.ca/travelling/health-safety/food-water)
+
+Typhoid fever 
+
+There is a risk of typhoid fever in this destination, but the risk is low for most travellers. Travellers are at higher risk in places with poor sanitation, limited access to clean water, or unsafe food preparation. Cleaning your hands often and making safe food and drink choices can help lower your risk.
+
+Typhoid fever is a disease caused by bacteria. It spreads through consuming contaminated food or drinking water, or through contact with the feces of an infected person.
+
+Symptoms may include fever, cough, diarrhea, tiredness, headache, and loss of appetite. Young children, older adults, people visiting friends or relatives, and people with weakened immune systems are more likely to become seriously ill.
+
+A vaccine is available and may be recommended for some travellers to this destination, depending on their risk. Talk to a health care provider before you travel to find out if this vaccine is recommended for you.
+
+**Learn more:**  
+[Typhoid fever](https://www.canada.ca/en/public-health/services/diseases/typhoid-fever.html)  
+[Eating and drinking safely abroad](https://travel.gc.ca/travelling/health-safety/food-water)  
+[Clean your hands to help reduce the spread of infectious diseases](https://www.canada.ca/en/public-health/services/healthy-living/hand-hygiene.html)
+
 Salmonellosis
 
 [Salmonellosis](https://www.canada.ca/en/public-health/services/diseases/salmonellosis-salmonella.html) is a common illness among travellers to this country. It can be spread through contaminated food or beverages, such as raw or undercooked poultry and eggs, as well as fruits or vegetables.
@@ -185,34 +210,6 @@ Most people recover on their own without medical treatment and from proper rehyd
 * + Carry [oral rehydration salts](https://travel.gc.ca/travelling/health-safety/rehydration) when travelling.
 
 Travellers with severe symptoms should consult a health care professional as soon as possible.
-
-Travellers' diarrhea
-
-Travellers' diarrhea is the most common illness that affects travellers. Travellers are at higher risk when going to destinations with poor standards of hygiene and sanitation and/or eating at places with poor food handling practices. Young children, the elderly, and people with existing health problems are more at risk.
-
-Travellers’ diarrhea is caused by many different bacteria, viruses, and parasites. It’s easily spread from person-to-person or by consuming contaminated food or water. Besides diarrhea, symptoms usually include fever, nausea, vomiting, and stomach pain.
-
-Frequent handwashing and making careful food and beverage choices can reduce your risk of developing travellers’ diarrhea. If you become sick, the most important thing to do is to maintain hydration by drinking lots of fluids.
-
-**Learn more:**[Travellers’ diarrhea](https://www.canada.ca/en/public-health/services/diseases/diarrhea.html)  
-[Eat and drink safely outside Canada](https://travel.gc.ca/travelling/health-safety/food-water)
-
-Typhoid 
-
-Typhoid fever is a disease caused by bacteria. Symptoms may include fever, cough, diarrhea, tiredness, headache, and loss of appetite.
-
-There is a risk of typhoid fever in this destination, but the risk is low for most travellers.
-
-Typhoid fever spreads through consuming contaminated food or drinking water, or through contact with the feces of an infected person.
-
-Travellers are at higher risk in places with poor sanitation, limited access to clean water, or unsafe food preparation. Young children, older adults, people visiting friends or relatives, and people with weakened immune systems are more likely to become seriously ill. Cleaning your hands often and making safe food and drink choices can help lower your risk.
-
-A vaccine is available and may be recommended for some travellers to this destination, depending on their risk. Talk to a health care provider before you travel to find out if this vaccine is recommended for you.
-
-**Learn more:**  
-[Typhoid fever](https://www.canada.ca/en/public-health/services/diseases/typhoid-fever.html)  
-[Eating and drinking safely abroad](https://travel.gc.ca/travelling/health-safety/food-water)  
-[Clean your hands to help reduce the spread of infectious diseases](https://www.canada.ca/en/public-health/services/healthy-living/hand-hygiene.html)
 
 ### Tick and insect bite prevention
 
@@ -228,6 +225,27 @@ To protect yourself from bites:
 
 [Insect bite and pest prevention](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html)  
 [Personal insect repellents](https://www.canada.ca/en/health-canada/services/about-pesticides/insect-repellents.html)
+
+Chikungunya
+
+There is a risk of chikungunya in this country. The level of risk may vary by:
+
+* season
+* year
+* region
+* elevation
+
+The virus that causes chikungunya is spread through the bite of an infected mosquito. It can cause fever and pain in the joints. In some cases, the joint pain can be severe and last for months or years.
+
+Protect yourself from mosquito bites at all times.
+
+[Insect bite and pest prevention](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html)
+
+A vaccine for the prevention of chikungunya is approved in Canada. Talk to your healthcare provider about how best to prevent chikungunya, including the benefits and risks of vaccination based on factors such as your age, itinerary and personal preferences.
+
+**Learn more:**
+
+[Chikungunya](https://www.canada.ca/en/public-health/services/diseases/chikungunya.html)
 
 Dengue 
 
@@ -256,27 +274,6 @@ If you are pregnant or planning a pregnancy, you should discuss the potential ri
 
 For more information, see [Zika virus: Pregnant or planning a pregnancy.](https://www.canada.ca/en/public-health/services/diseases/zika-virus/pregnant-planning-pregnancy.html)
 
-Chikungunya
-
-There is a risk of chikungunya in this country. The level of risk may vary by:
-
-* season
-* year
-* region
-* elevation
-
-The virus that causes chikungunya is spread through the bite of an infected mosquito. It can cause fever and pain in the joints. In some cases, the joint pain can be severe and last for months or years.
-
-Protect yourself from mosquito bites at all times.
-
-[Insect bite and pest prevention](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html)
-
-A vaccine for the prevention of chikungunya is approved in Canada. Talk to your healthcare provider about how best to prevent chikungunya, including the benefits and risks of vaccination based on factors such as your age, itinerary and personal preferences.
-
-**Learn more:**
-
-[Chikungunya](https://www.canada.ca/en/public-health/services/diseases/chikungunya.html)
-
 Oropouche virus disease
 
 Oropouche virus disease (OVD) is a risk in this destination. It is a disease caused by the Oropouche virus, which is spread to humans through the bite of an infected small fly called a midge (also known as no-see-um) and possibly certain mosquitos. Symptoms usually include fever, headache, joint and muscle pain, chills, and sometimes nausea and vomiting. In some cases, aseptic meningitis (inflammation of the membranes that surround the brain) may occur.
@@ -291,7 +288,7 @@ Most travellers are at low risk. There are concerns that the Oropouche virus cou
 
 ### Animal precautions
 
-Some infections can spread directly from animals to people, like rabies or bird flu (avian influenza). Others don’t spread directly from animals but can infect people who visit areas animals have contaminated with their droppings or body fluids.
+Some infections, such as rabies, spread through direct contact with animals. Others, such as hantavirus infections and avian influenza, can also spread indirectly when people come into contact with areas contaminated by animal droppings or other animal waste.
 
 Certain activities can increase your chances of coming into contact with animals, their droppings, or their body fluids, like:
 
