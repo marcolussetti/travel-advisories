@@ -22,11 +22,9 @@ To avoid offending local sensitivities:
 
 ### 2SLGBTQI+ persons
 
-The law of the Cook Islands criminalizes sodomy between persons of the same sex. If you are convicted, you could face imprisonment.
+The law of the Cook Islands doesn't criminalize sexual acts or relationships between persons of the same sex.
 
-2SLGBTQI+ persons could also be discriminated against or detained based on their sexual orientation, gender identity, gender expression or sex characteristics. They may be accused of committing indecent acts.
-
-2SLGBTQI+ persons should carefully consider the risks of travelling to the Cook Islands.
+However, 2SLGBTQI+ persons could be discriminated against based on their sexual orientation, gender identity, gender expression or sex characteristics.
 
 [Travel and your sexual orientation, gender identity, gender expression and sex characteristics](https://travel.gc.ca/travelling/health-safety/lgbt-travel)
 

@@ -44,9 +44,11 @@ Different entry rules may apply when travelling with a temporary passport or an 
 
 ### Visas
 
-Tourist visa: not required for stays of up to 90 days in a 12-month period  
+Tourist visa: required for stays of up to 90 days in a 180-day period  
 Business visa: not required for stays of up to 30 days  
 Student visa: required
+
+[Visas](https://immigration.gov.sb/visas/) – Solomon Islands Immigration Division
 
 ### Health requirements
 

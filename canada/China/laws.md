@@ -143,7 +143,7 @@ A Canadian animal health inspection certificate and vaccination certificate shou
 
 Animals without the proper documentation will be held in quarantine at the port of arrival and could be euthanized if the proper documentation is not provided.
 
-[Animal Health Office](https://inspection.canada.ca/animal-health/terrestrial-animals/offices/eng/1300462382369/1300462438912) - Canadian Food Inspection Agency
+[Pets (dogs, cats and ferrets): Export certificates](https://inspection.canada.ca/en/animal-health/terrestrial-animals/exports/pets) - Canadian Food Inspection Agency
 
 ### Getting married in China
 
