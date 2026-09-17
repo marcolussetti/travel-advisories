@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 July 2026
+:   17 September 2026
 
 Updated:
-:   25 July 2026
+:   16 September 2026
 
 Latest update:
-:   Latest information on regional risks including the Saudi-Yemen border and threats from the Houthis (‘Warnings and insurance’ and ‘Regional risks’ pages).
+:   Addition of information about conflict between the Houthi military group and the Governments of Yemen and Saudi Arabia and updated information about regional tensions (‘Regional risks’ and ‘Warnings and insurance’ pages).
 
 ![](https://assets.publishing.service.gov.uk/media/6a33d2b225c5199bda117785/FCDO__TA__034_-_Saudi_Arabia_Travel_Advice_Ed3__WEB_.jpg)
 
@@ -29,18 +29,18 @@ Find out more about [why FCDO advises against travel](/foreign-travel-advice/sau
 
 ## Regional tensions
 
-The US and Iran announced a memorandum of understanding (MOU) on 17 June in relation to the conflict in the Middle East, however the situation in the Middle East remains unpredictable. Since 8 July there have been strikes and retaliatory attacks by Iran in a number of locations across the region against US military and civilian infrastructure. There is a risk of more attacks and unforeseen escalation in the region. Before the ceasefire, the Iranian regime had stated its intention to target locations associated with the US and Israel, including organisations, businesses, facilities, and institutions.
-
-Since July 2026, the Houthis (a military group in Yemen) have launched air strikes against Saudi territory and Saudi shipping vessels in the Red Sea. They have previously carried out attacks on Saudi infrastructure including airports, and could do so again at short notice including airports and ports in Riyadh, Jeddah and Abha. See [‘Regional risks’ page](https://www.gov.uk/foreign-travel-advice/saudi-arabia/regional-risks).
+Since July 2026, the Houthis (a military group in Yemen) have launched attacks against Saudi territory, and Saudi shipping vessels in the Red Sea. See [‘Regional risks’ page](https://www.gov.uk/foreign-travel-advice/saudi-arabia/regional-risks).
 
 British nationals currently in the Middle East should be prepared for possible flight cancellations, periodic airspace closures, and potential travel disruption, and should:
 
 * read [If you’re affected by a crisis abroad - GOV.UK](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas). This includes guidance on “how to prepare for a crisis” with suggestions on what you might include in your emergency supplies and “what to do in a crisis”
 * follow advice from the local authorities and sign up to FCDO Travel Advice [email alerts](https://www.gov.uk/foreign-travel-advice/saudi-arabia/email-signup)
 * monitor local and international media for the latest information, including updates relating to airports and airspace which could close at short notice
-* stay away from areas around security or military facilities
+* stay away from areas around oil infrastructure and military facilities
 * keep your departure plans under review, and ensure your travel documents are up to date
 * if you are advised to take shelter, stay indoors or find the nearest safe building or designated shelter. An interior stairwell or a room with as few external walls or windows as possible may provide additional protection. The greatest risk is from falling debris caused by intercepts, and you are safest inside a secure structure
+
+The US and Iran announced a memorandum of understanding (MOU) on 17 June 2026 in relation to the conflict in the Middle East, however the situation in the Middle East remains unpredictable. Since 8 July there have been strikes and retaliatory attacks by Iran in a number of locations across the region against US military and civilian infrastructure. There is a risk of more attacks and unforeseen escalation in the region. Before the ceasefire, the Iranian regime had stated its intention to target locations associated with the US and Israel, including organisations, businesses, facilities, and institutions.
 
 ## Before you travel
 

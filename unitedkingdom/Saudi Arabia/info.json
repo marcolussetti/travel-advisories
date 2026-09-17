@@ -1,11 +1,11 @@
 {
     "name": "Saudi Arabia",
-    "update_reason": "Latest information on regional risks including the Saudi-Yemen border and threats from the Houthis (\u2018Warnings and insurance\u2019 and \u2018Regional risks\u2019 pages).",
+    "update_reason": "Addition of information about conflict between the Houthi military group and the Governments of Yemen and Saudi Arabia and updated information about regional tensions (\u2018Regional risks\u2019 and \u2018Warnings and insurance\u2019 pages).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Saudi Arabia/Warnings and insurance.md",
-            "update_date": "2026-07-25T18:34:42+01:00"
+            "update_date": "2026-09-16T16:26:53+01:00"
         },
         {
             "title": "Entry requirements",
@@ -38,5 +38,5 @@
             "file": "unitedkingdom/Saudi Arabia/Getting help.md"
         }
     ],
-    "update_date": "2026-07-25T18:34:42+01:00"
+    "update_date": "2026-09-16T16:26:53+01:00"
 }

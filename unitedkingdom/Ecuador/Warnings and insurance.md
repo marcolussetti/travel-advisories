@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   11 July 2026
+:   17 September 2026
 
 Updated:
-:   10 July 2026
+:   16 September 2026
 
 Latest update:
-:   Updated information on land border crossings with Colombia and Peru ('Entry requirements' page).
+:   Updated information about State of Emergency ('Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/65a1082ce96df50014f8452c/FCDO__TA__014_-_Ecuador_Travel_Advice_Ed5__WEB_.jpg)
 
@@ -45,7 +45,7 @@ Find out more about [why FCDO advises against travel](/foreign-travel-advice/ecu
 
 ## State of Emergency
 
-The Ecuadorean government has declared a 60-day state of emergency as of 16 June, for security reasons in the following 10 provinces:
+The Ecuadorean government has declared a 60-day state of emergency as of 15 September, for security reasons in the following 8 provinces:
 
 * Guayas
 * Manabí
@@ -55,16 +55,14 @@ The Ecuadorean government has declared a 60-day state of emergency as of 16 Ju
 * Pichincha
 * Esmeraldas
 * Santo Domingo de los Tsáchilas
-* Sucumbíos
-* Azuay
 
 The state of emergency includes the following cantons:
 
 * La Maná (Cotopaxi province)
 * Las Naves (Bolívar province)
-* La Troncal (Cañar province)
+* Camilo Ponce Enriquez (Azuay province)
 
-The state of emergency will mean greater police and military presence on the streets. Follow the advice of local authorities and monitor local media.
+The State of Emergency will mean greater police and military presence on the streets. It includes curfew hours (from 12am to 5am) for the provinces of El Oro, Guayas, Los Rios and Manabi, from 17 to 30 September. Follow the advice of local authorities and monitor local media.
 
 ## Before you travel
 

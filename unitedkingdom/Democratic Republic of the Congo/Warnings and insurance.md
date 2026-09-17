@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   27 August 2026
+:   17 September 2026
 
 Updated:
-:   26 August 2026
+:   16 September 2026
 
 Latest update:
-:   Addition of information that protests are planned in Kinshasa on 15 September 2026 ('Safety and security' page).
+:   Removal of information about protests planned in Kinshasa on 15 September 2026 ('Safety and security' page).
 
 ![](https://assets.publishing.service.gov.uk/media/6a196a3465bc5f798327f4fe/FCDO_TA_012_-_Democratic_Repbulic_of_the_Congo_Travel_Advice_Ed20_WEB.jpg)
 

@@ -1,19 +1,15 @@
 # Warnings and insurance
 
 Still current at:
-:   15 September 2026
+:   17 September 2026
 
 Updated:
-:   14 September 2026
+:   17 September 2026
 
 Latest update:
-:   Addition of information about Mount Etna eruption and flight disruption ('Warnings and insurance' page).
+:   Removal of information about Mount Etna eruption and flight disruption ('Warnings and insurance' page).
 
 This travel advice also covers Vatican City.
-
-## Mount Etna eruption – flight disruption
-
-Flights are currently affected by ash cloud from Mount Etna. Check with your travel provider or [Catania airport](https://www.aeroporto.catania.it/en) before travelling.
 
 ## Before you travel
 

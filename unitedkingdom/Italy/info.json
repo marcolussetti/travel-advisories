@@ -1,11 +1,11 @@
 {
     "name": "Italy",
-    "update_reason": "Addition of information about Mount Etna eruption and flight disruption ('Warnings and insurance' page).",
+    "update_reason": "Removal of information about Mount Etna eruption and flight disruption ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Italy/Warnings and insurance.md",
-            "update_date": "2026-09-14T15:40:59+01:00"
+            "update_date": "2026-09-17T12:00:32+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Italy/Getting help.md"
         }
     ],
-    "update_date": "2026-09-14T15:40:59+01:00"
+    "update_date": "2026-09-17T12:00:32+01:00"
 }

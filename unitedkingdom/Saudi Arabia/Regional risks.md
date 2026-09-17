@@ -11,19 +11,16 @@ FCDO advises against:
 * all travel to within 10km of the border with Yemen
 * all but essential travel to areas between 10km and 80km from the border with Yemen
 
-Following the conflict in 2015 between Saudi-led coalition forces and the Houthi militant group in Yemen, there are still occasional military clashes along the border with military and civilian casualties.
+In 2026, direct military conflict between the Houthi military group and the Governments of Yemen and Saudi Arabia has resumed.
 
 The authorities can temporarily close airports near the Saudi Arabia-Yemen border. Check with your airline before travelling to airports near the border.
 
-As of July 2026, there is a renewed threat from the Houthis to attack Saudi infrastructure, including airports. Since 13 July, the Houthis have targeted Saudi Arabia, including launching air strikes against Abha International Airport and critical national infrastructure in Yanbu and Jazan, and against Saudi shipping vessels in the Red Sea. There is a risk of more attacks and escalation.
-
-Previously, the Houthis have launched missiles, drones and waterborne improvised explosive devices (IEDs) into Saudi Arabia targeted at critical national infrastructure, including aviation and oil infrastructure. Attacks have also been made on other locations in Saudi Arabia, including Riyadh and Jeddah, and along the Red Sea coast. The Houthis have also launched drones and missiles at Israel that have entered Saudi airspace.
+Since 13 July 2026, the Houthis have launched missiles and drones targeting several cities, airports, military bases and energy infrastructure sites across Saudi Arabia including Abha, Jizan, Najran, Taif, Jeddah and Yanbu as well as Saudi shipping vessels in the Red Sea. Some civilians have been injured. There is a risk of more attacks and escalation. Saudi Civil Defence issue early warning alerts to people in affected areas.
 
 In a missile or drone attack, you should:
 
 * stay indoors and under hard shelter
-* monitor local media reports 
-  - follow the advice of the local authorities
+* monitor local media reports - follow the advice of the local authorities
 
 ## Military zones and border posts
 
