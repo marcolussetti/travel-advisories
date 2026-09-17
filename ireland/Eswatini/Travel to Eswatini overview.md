@@ -6,36 +6,21 @@ High Degree of Caution
 
 ### **Travel Alert**
 
-#### **Situation in the Middle East**
+Public protest, demonstrations and strikes can occur occasionally in Eswatini. The last significant protests broke out in 2021 and resulted in significant damage and loss of life, while a series of security-related incidents continued in 2022.
 
-Due to the evolving situation in the Middle East, significant flight disruptions are currently being experienced. Several international airlines have suspended or cancelled their flights.
-
-Irish Citizens should anticipate delays, possible rerouting of flights and cancellations.
-
-Irish Citizens are advised to:
-
-* Contact their airline or travel agent directly for rebooking or rerouting their travel.
-* Regularly monitor the airline’s websites and official travel updates.
-* Ensure they have valid visas and sufficient funds in case of extended stays.
-* Keep copies of flight cancellation notices and travel documents.
-
-The Embassy is closely monitoring the situation and remains available to provide consular assistance to Irish citizens affected by these disruptions.
-
-#### **Political Situation**
-
-Public protest, demonstrations and strikes can occur occasionally in Eswatini. The last significant protests broke out in 2021 and resulted in significant damage and loss of life, while a series of security-related incidents continued in 2022. As of 2025, the security situation has improved significantly, but travellers should remain vigilant for any signs of disturbances, and avoid protests, demonstrations or marches.
+As of 2026, the security situation has improved significantly. In the event of unrest, please pay attention to your surroundings, stay away from crowds, monitor the local media, and follow instructions from the authorities. Unplanned demonstrations may occur at short notice and cause major disruption.
 
 ### **General Travel Advice**
 
 Irish citizens do not require a visa to enter Eswatini.
 
-A valid passport is required for travel to Eswatini. Irish passports should have a minimum validity of three months. Passport cards cannot be used.
+A valid passport is required for travel to Eswatini. Irish passports should have a minimum validity of three months and at least two blank pages. Passport cards cannot be used.
 
 For more information on visas and passports, please see the Entry requirements tab.
 
-Visitors to Eswatini are advised to follow the guidance of national and local authorities and stay fully informed of what is going on by monitoring local news and social media.
+Visitors to Eswatini are advised to follow the guidance of national and local authorities and stay fully informed of events by monitoring local news and social media.
 
-Citizens can also follow the Embassy on social media X [**@IrlEmbMaputo**](https://twitter.com/IrlEmbMaputo) and [**Facebook**](https://www.facebook.com/EmbassyofIrelandMozambique/) to ensure access to relevant updates and alerts.
+Citizens can also follow the Irish Embassy on social media X [**@IrlEmbMaputo**](https://twitter.com/IrlEmbMaputo) and [**Facebook**](https://www.facebook.com/EmbassyofIrelandMozambique/) to ensure access to relevant updates and alerts.
 
 ### **Emergency Assistance**
 
@@ -54,9 +39,9 @@ The country code for Eswatini is (+268).
 ### **Our Tips for Safe Travels:**
 
 * Get comprehensive travel insurance that covers all planned activities.
-* [**Register**](https://www.ireland.ie/en/dfa/overseas-travel/citizens-registration/) your details with us so that we can contact you quickly if there is an unforeseen crisis like a natural disaster or a family emergency.
+* [**Register**](https://www.ireland.ie/en/dfa/overseas-travel/citizens-registration/) your details with us so that we can contact you quickly if there is an unforeseen crisis, like a natural disaster or a family emergency.
 * Follow us on X [**@dfatravelwise**](https://www.twitter.com/DFATravelWise) and Instagram [**@dfatravelwise**](https://www.instagram.com/dfatravelwise/) for the latest travel updates.
 * Read our [**‘Know Before You Go’**](https://www.ireland.ie/en/dfa/overseas-travel/know-before-you-go-/) guide.
 * Read our [**Consular Assistance Charter**](https://www.ireland.ie/en/dfa/overseas-travel/assistance-abroad/consular-assistance-charter/) that clearly sets out the assistance that can be provided to citizens in difficulty overseas, and the limits of what the Department can do.
 
-As there is no Irish Embassy in Eswatini, we are limited in the help we can offer in an emergency. However, if assistance is needed, citizens can contact the [**Irish Embassy in Mozambique.**](https://www.ireland.ie/en/mozambique/maputo/)
+As there is no Irish Embassy situated in Eswatini, we are limited in the help we can offer in an emergency. However, if assistance is needed, citizens can contact the [**Irish Embassy in Mozambique.**](https://www.ireland.ie/en/mozambique/maputo/)

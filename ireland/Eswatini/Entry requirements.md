@@ -2,9 +2,9 @@
 
 ### Visa
 
-Irish passport holders do not need a visa to enter Eswatini.
+Irish passport holders do not need a visa to enter Eswatini if staying for less than 30 days.
 
-### Passport
+### **Passport**
 
 Passports must be valid for at least three months from the date of entry into Eswatini and have two or more blank pages.
 
@@ -12,11 +12,15 @@ It is advisable to take a number of photocopies of your passport with you when t
 
 ### **Lost or Stolen Passports**
 
-If your passport is lost or stolen while abroad contact the Irish Embassy in Maputo. We will do our best to help as quickly as possible but this can take some time. Location and circumstances may limit the help we can give.
+If your passport is lost or stolen while abroad, please contact the Irish Embassy in Maputo. We will do our best to help as quickly as possible, but this can take some time. Location and circumstances may limit the help the Embassy can provide.
 
 What we can do:
 
 * Issue an emergency travel document to get home;
 * If required, provide advice on applying for new passport.
 
-A police report is needed to make a claim on travel insurance. We will not provide a travel document without a police report.
+A police report is needed to make a claim through travel insurance. We will not provide a travel document without a police report.
+
+### **Entering with your own vehicle**
+
+If your vehicle is not registered in Eswatini, you must complete a customs declaration form at the border post and pay a 150 Swazi emalangeni road fund levy, 80 emalangeni for a motorcycle and higher amounts for commercial vehicles. These payments can be made with South African Rands. Always carry proof of your customs declaration and levy payment in the vehicle. Vehicles may be searched at borders.
