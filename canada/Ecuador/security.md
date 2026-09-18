@@ -6,9 +6,8 @@
 
 A state of exception is in effect in the following provinces due to increasing criminal violence and organized crime:
 
-* Azuay
+* Azuay, in Camilo Ponce Enriquez canton only
 * Bolívar, in Las Naves canton only
-* Cañar, in La Troncal canton only
 * Cotopaxi, in La Maná canton only
 * El Oro
 * Esmeraldas
@@ -18,7 +17,6 @@ A state of exception is in effect in the following provinces due to increasing c
 * Pichincha
 * Santa Elena
 * Santo Domingo de los Tsáchilas
-* Sucumbíos
 
 While the state of exception is in effect, security forces have the power to:
 
@@ -26,6 +24,13 @@ While the state of exception is in effect, security forces have the power to:
 * read private mail and phone records
 * conduct raids, inspections and searches
 * prohibit assembly
+
+In addition, a curfew is in effect from 12 am to 5 am until September 30 in the following provinces:
+
+* El Oro
+* Guayas
+* Los Ríos
+* Manabí
 
 If you are in Ecuador:
 

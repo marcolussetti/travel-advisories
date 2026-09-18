@@ -1,7 +1,7 @@
 {
     "name": "Jordan",
-    "update_reason": "Editorial change",
-    "update_date": "2026-08-10T17:18:00",
+    "update_reason": "Safety and security section \u2013 removed information on a U.S. Security Alert; Laws and culture section \u2013 added information on drones and mandatory military service for dual citizens",
+    "update_date": "2026-09-17T15:37:00",
     "sections": {
         "risk": "canada/Jordan/risk.md",
         "security": "canada/Jordan/security.md",

@@ -1,7 +1,7 @@
 {
     "name": "Ecuador",
-    "update_reason": "Natural disasters and climate section \u2013 updated information on El Ni\u00f1o",
-    "update_date": "2026-09-02T15:29:00",
+    "update_reason": "Safety and security \u2013 updated information on the state of exception",
+    "update_date": "2026-09-17T16:02:00",
     "sections": {
         "risk": "canada/Ecuador/risk.md",
         "security": "canada/Ecuador/security.md",

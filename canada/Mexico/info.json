@@ -1,7 +1,7 @@
 {
     "name": "Mexico",
-    "update_reason": "Risk levels section \u2013 regional advisory removed for Mazamitla and the area around Lake Chapala",
-    "update_date": "2026-09-11T13:26:00",
+    "update_reason": "Safety and security section \u2013 added information on online dating applications",
+    "update_date": "2026-09-17T16:54:00",
     "sections": {
         "risk": "canada/Mexico/risk.md",
         "security": "canada/Mexico/security.md",

@@ -20,9 +20,14 @@ The work week is from Sunday to Thursday.
 
 Dual citizenship is legally recognized in Jordan.
 
-If you are a Canadian citizen, but also a citizen of Jordan, our ability to offer you consular services may be limited while you're there. You may also be subject to different [entry/exit requirements](#entryexit).
+Jordanian men born in 2007 or later, including dual citizens, are subject to mandatory military service in Jordan once they turn 18 years old. Dual citzenship is not grounds for exemption or exception from national service requirements in Jordan.
 
-[Dual citizens](http://travel.gc.ca/travelling/documents/dual-citizenship)
+If you are a Canadian citizen, but also a citizen of Jordan, our ability to offer you consular services may be limited while you're there. You may also be subject to different [entry/exit requirements](https://travel.gc.ca/destinations/jordan#entryexit).
+
+#### Useful links
+
+* [Dual citizens](http://travel.gc.ca/travelling/documents/dual-citizenship)
+* [National Service Portal](https://khidmetalam.gov.jo/Home) – Jordan Armed Forces (Arabic only)
 
 ### Family law
 
@@ -72,6 +77,12 @@ Consumption of alcohol outside approved venues is illegal. It could result in yo
 ### Identification
 
 Local authorities may request to see your identification at any time. Always carry valid identification or a photocopy of it.
+
+### Drones
+
+The importation, possession, and use of drones, including for aerial photography and videography, are strictly regulated in Jordan. You must obtain authorization before importing or operating a drone.
+
+ Failure to comply with drone regulations may result in severe penalties, including imprisonment, fines, and confiscation of the equipment.
 
 ### Illegal activities
 

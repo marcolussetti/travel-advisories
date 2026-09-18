@@ -112,6 +112,13 @@ During your stay:
 
 [Are you a victim of sexual violence?](https://canadainmexico.com/wp-content/uploads/2021/11/SGBV-En-Digital.pdf) – Government of Canada and British Embassy in Mexico City
 
+#### Online dating
+
+Travellers have been drugged and robbed after inviting new acquaintances they met online to their accommodation.
+
+* Be cautious if using online dating applications
+* Always meet new acquaintances in a secure and familiar location
+
 #### Carjackings
 
 Carjackings are common on roads along the Pacific coast and northern borders. Criminals mainly target:
@@ -173,11 +180,13 @@ Travellers have fallen victim to online scams, including phishing emails and rom
 * coerced or tricked into acting as a drug or money courier for criminal groups
 * kidnapped
 * forced to transfer money or withdraw funds
+* drugged and become victims of theft, assault or other crimes
 
 Before travelling to Mexico to visit someone you met online:
 
 * be wary of individuals who ask you to carry a package from Mexico on their behalf, as drugs may be concealed in objects that appear harmless
 * beware of people who show a keen interest in you online
+* exercise caution when meeting someone for the first time, as criminals may use dating applications and social media to target travellers for theft, extortion or other crimes
 
 #### Useful links
 
