@@ -38,7 +38,7 @@ Examples of recent attacks include:
 
 ## Security situation in Russia
 
-The Russian invasion of Ukraine continues. There are reports of drone attacks and explosions in Russia, particularly near the Russian border with Ukraine, but also in and near large cities and infrastructure sites across Western and Central Russia. Associated Russian air defence activity may pose a threat to civilian aviation. There have been several shootings in Moscow, often near to apartment blocks. There has also been a bombing near to a Moscow railway station.
+The Russian invasion of Ukraine continues. There are reports of drone attacks and explosions in Russia, particularly near the Russian border with Ukraine, but also in and near large cities and infrastructure sites across Western and Central Russia. Associated Russian air defence activity may pose a threat to civilian aviation. Air space may close during drone attacks. This has led to frequent and unpredictable delays, diversions and cancellations to flights in and out of Russian airports. There have been several shootings in Moscow, often near to apartment blocks. There has also been a bombing near to a Moscow railway station.
 
 Check local media for the latest information. Be vigilant and avoid any political demonstrations or gatherings.
 
@@ -330,9 +330,9 @@ Do not leave your sleeping compartment empty, as some compartments only have a s
 
 ### Air travel
 
-Air space will close during drone attacks. This has led to frequent and unpredictable delays, diversions and cancellations to flights in and out of airports in European Russia.
+Air space will close during drone attacks. This has led to frequent and unpredictable delays, diversions and cancellations to flights in and out of Russian airports.
 
-There are restrictions on domestic flights to a number of airports in southern Russia, with disruption to internal flights to and from Moscow and other cities. Check the latest information with your airline or travel provider.
+There are restrictions on domestic flights to a number of airports in southern Russia, with disruption to internal flights to and from Moscow and other cities. Check the latest information with your airline or travel provider. Each airline regularly conducts their own safety and security risk assessments if they are flying over or near conflict regions. See [Air travel: safety and security](https://www.gov.uk/guidance/air-travel-safety-and-security)
 
 ### Air safety
 

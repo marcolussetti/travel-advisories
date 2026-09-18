@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   4 July 2026
+:   18 September 2026
 
 Updated:
-:   3 July 2026
+:   18 September 2026
 
 Latest update:
-:   Addition of information about recent fuel shortages (see 'Road travel' on 'Safety and security' page).
+:   Updated information about drone attacks leading to short-notice restrictions on airspace use and airport operations (‘Warnings and insurance’ and ‘Safety and security’ pages).
 
 ![](https://assets.publishing.service.gov.uk/media/621cd8428fa8f54915f43831/FCDO__TA__059_-_Russia_Travel_Advice_Ed1__WEB_.jpg)
 
@@ -30,6 +30,8 @@ Russia has a track record of targeting foreign nationals and holding them in det
 
 There is also a high likelihood terrorists will try to carry out attacks, including in major cities. See [‘Safety and security’](https://www.gov.uk/foreign-travel-advice/russia/safety-and-security).
 
+Ongoing drone attacks and associated Russian air-defence activity may increase risks to civilian aviation and can lead to short-notice restrictions on airspace use and airport operations. See [‘Safety and security’](https://www.gov.uk/foreign-travel-advice/russia/safety-and-security)
+
 ## Limited UK government support
 
 The British Embassy in Moscow and British Consulate in Ekaterinburg are open, but the situation could change at short notice.
@@ -44,7 +46,7 @@ Contact the Russian emergency services on 112.
 
 If you hold both British and Russian nationality, Russian authorities will treat you as a Russian citizen. This limits the consular assistance the UK government can provide. If you are arrested or detained, Russian authorities are unlikely to allow UK consular staff to visit or assist you.
 
-Russian nationals are required to notify Russian authorities of any second nationality, including British, within 60 days of acquiring that nationality, or within 60 days of returning to Russia if the British/ foreign nationality was obtained outside of Russia. Parents are responsible for notification on behalf of their children aged under 18.  Failure to comply can result in criminal liability. Penalties can include a fine of up to 200,000 Russian rubles (or up to one year of income) and/or compulsory work for up to 400 hours.
+Russian nationals are required to notify Russian authorities of any second nationality, including British, within 60 days of acquiring that nationality, or within 60 days of returning to Russia if the British/ foreign nationality was obtained outside of Russia. Parents are responsible for notification on behalf of their children aged under 18.  Failure to comply can result in criminal liability. Your British passport may be confiscated by the Russian authorities and not returned. Penalties can include a fine of up to 200,000 Russian rubles (or up to one year of income) and/or compulsory work for up to 400 hours.
 
 ### Military Service
 

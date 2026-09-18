@@ -1,17 +1,17 @@
 # Warnings and insurance
 
 Still current at:
-:   11 September 2026
+:   18 September 2026
 
 Updated:
-:   11 September 2026
+:   17 September 2026
 
 Latest update:
-:   New information about large public gatherings in Pristina and other urban centres that may cause travel disruption (‘Warnings and insurance’ page).
+:   Updated information about large public gatherings in Pristina and other urban centres that may cause travel disruption (‘Warnings and insurance’ page).
 
 ## Large gatherings in Pristina and other urban centres
 
-There will be large gatherings in Pristina and other urban centres over the next week, including on 12 and 16 September. This could lead to some disruption, including to traffic and public transport. Keep up to date with local developments, allow extra time for travel, and stay away from any large crowds or demonstrations.
+There have been demonstrations in Pristina on 12 and 16 September and there is potential for further large gatherings over coming days. This could lead to some disruption, including to traffic and public transport. Keep up to date with local developments, allow extra time for travel, and stay away from any large crowds or demonstrations.
 
 ## Before you travel
 

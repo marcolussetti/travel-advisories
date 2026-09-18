@@ -6,7 +6,7 @@ The authorities in Russia set and enforce entry rules. If you’re not sure how 
 
 ## Biometrics
 
-As of 1 December 2024, foreigners entering Russia at Moscow airports Domodedovo, Sheremetyevo, Vnukovo or Zhukovsky will be required to register, on arrival, their biometric details such as fingerprints and photographs.
+Foreigners entering Russia will be required to register, on arrival, their biometric details such as fingerprints and photographs.
 
 ## Passport validity requirements
 

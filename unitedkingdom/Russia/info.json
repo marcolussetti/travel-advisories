@@ -1,11 +1,11 @@
 {
     "name": "Russia",
-    "update_reason": "Addition of information about recent fuel shortages (see 'Road travel' on 'Safety and security' page).",
+    "update_reason": "Updated information about drone attacks leading to short-notice restrictions on airspace use and airport operations (\u2018Warnings and insurance\u2019 and \u2018Safety and security\u2019 pages).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Russia/Warnings and insurance.md",
-            "update_date": "2026-07-03T09:40:32+01:00"
+            "update_date": "2026-09-18T11:01:11+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Russia/Getting help.md"
         }
     ],
-    "update_date": "2026-07-03T09:40:32+01:00"
+    "update_date": "2026-09-18T11:01:11+01:00"
 }
