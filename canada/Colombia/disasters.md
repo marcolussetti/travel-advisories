@@ -17,14 +17,14 @@ Colombia is subject to various natural disasters such as:
 
 Climate change is affecting Colombia. Extreme and unusual weather events are becoming more frequent and may affect your travel plans. Monitor local news to stay informed on the current situation.
 
-### El Niño
+### El Niño 2026
 
-The complex weather phenomenon called El Niño happens at irregular intervals of 2 to 7 years and can last 9 months to 2 years.
+The complex weather phenomenon called El Niño happens at irregular intervals of 2 to 7 years. In 2026, El Niño is expected to generate heavy rainfall during the rainy season from September to November.
 
 * Keep informed of regional weather forecasts before and during your travels and plan accordingly
 * Ensure you have adequate insurance to cover the consequences of such events, including the disruption of travel plans
 
-Learn about [El Niño](https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/el-nino.html)
+Learn more about [El Niño](https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/el-nino.html)
 
 ### Seismic activity
 
@@ -34,7 +34,7 @@ Learn about [El Niño](https://www.canada.ca/en/environment-climate-change/serv
 
 An orange alert has been issued for the Puracé volcano near Popayán due to a recent increase in volcanic activity, including stronger seismic activity below the crater and higher gas and ash emissions.
 
-As a result, Guillermo León Valencia Airport is temporarily closed.
+Guillermo León Valencia Airport in Popayán may close and reopen without warning.
 
 * Avoid the area around the volcano
 * Monitor the situation through official bulletins
@@ -54,17 +54,12 @@ Damage has been reported in several cities, including Bogotá, Cali, Manizales a
 
 The following essential services have been disrupted in some areas:
 
-* transportation, including operations at airports
+* transportation
 * power distribution
 * water and food supply
 * telecommunications networks
 * emergency services
 * medical care
-
-While El Dorado International Airport in Bogotá is open, the following airports are closed until further notice:
-
-* Matecaña International Airport in Pereira
-* Santa Ana Airport in Cartago
 
 If you’re in an affected area:
 
