@@ -6,32 +6,21 @@ High Degree of Caution
 
 ### **Travel Alert**
 
-**Security Situation in the Middle East**
-
-Due to the evolving situation in the Middle East, significant flight disruptions are currently being experienced. Several international airlines have suspended or cancelled their flights.
-
-Irish Citizens should anticipate delays, possible rerouting of flights and cancellations.
-
-Irish Citizens are advised to:
-
-* Contact their airline or travel agent directly for rebooking or rerouting their travel.
-* Regularly monitor the airline’s websites and official travel updates.
-* Ensure they have valid visas and sufficient funds in case of extended stays.
-* Keep copies of flight cancellation notices and travel documents.
-
-The Embassy is closely monitoring the situation and remains available to provide consular assistance to Irish citizens affected by these disruptions.
-
 ### **Political Situation**
 
-Passengers are advised not to travel to the province of Cabo Delgado and certain parts of Nampula in northern Mozambique, due to an ongoing violent insurgency involving armed attacks on local civilians and security forces since October 2017. Please see the ‘Safety and Security Tab’ for further details and information.
+Passengers are advised not to travel to the province of Cabo Delgado, the districts of Memba and Erati in Nampula, and the districts on Mecula and Marrupa in Niassa in northern Mozambique, due to an ongoing violent insurgency involving armed attacks on local civilians and security forces since October 2017. Please see the ‘Safety and Security Tab’ for further details and information.
 
-Several months of unrest followed contested elections in October 2024. The situation has improved significantly in recent months, but a reduced possibility of future unrest remains.
+Several months of unrest followed contested elections in October 2024. The situation improved significantly but a possibility of future unrest remains.
 
 In the event of increased unrest, please pay attention to your surroundings, stay away from crowds, monitor the local media, and follow instructions from the authorities. Unplanned demonstrations may occur at short notice and cause disruption to roads, toll booths and borders.
 
 ### **General Travel Advice**
 
-Irish passport holders travelling to Mozambique on a normal passport for **tourism** or **business** purposes can enter Mozambique without a visa. Travellers must pay the equivalent of 650 Meticais (approx. €10), provide proof of accommodation and (for those travelling by air) a return ticket to the immigration officer at the port of entry. Travellers are advised to keep the receipt of this payment for the duration of their stay to present at the port of exit. Travellers availing of the visa exemption can stay for a period of 30 days, with the possibility to extend up to a maximum of 90 days (consecutive or interrupted) in one year. **Please see the ‘Additional Information’ tab for more information on visas and passports.**
+Irish passport holders travelling to Mozambique on a normal passport for **tourism** or **business** purposes can enter Mozambique without a visa. However, you must apply for an ETA through the [Mozambique eVisa portal](https://evisa.gov.mz/) at least 5 working days before you travel. You must pay online when you apply. You cannot pay on arrival at the border.
+
+The fee is approximately $47, which includes a €27 visa fee and a 650 Metical processing fee. Processing can take five or more working days, so applying early is highly advised. Immigration officials may ask to see a printed copy of the approved ETA and payment confirmation when travellers enter or leave Mozambique. Travellers may also be asked to provide proof of accommodation and (for those travelling by air) a return ticket to the immigration officer at the port of entry.
+
+Travellers availing of the visa exemption can stay for a period of 30 days, with the possibility to extend up to a maximum of 90 days (consecutive or interrupted) in one year. **Please see the ‘Additional Information’ tab for more information on visas and passports.**
 
 Visitors to Mozambique are advised to follow the guidance of national and local authorities and stay fully informed of current events by monitoring local news and social media.
 

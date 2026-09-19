@@ -4,13 +4,13 @@
 
 Any Irish citizens already in Mozambique are advised not to travel to the province of Cabo Delgado, due to a series of armed attacks on local civilians and security forces since October 2017. These attacks have resulted in the loss of life and destruction of property, including the burning of vehicles and homes. In particular, you are advised to avoid travelling to the districts of Mocímboa da Praia, Macomia, Palma, Nangade, Quissanga, Mueda, Ibo, Meluco, Ancuabe, Chiure, Metuge and Muidumbe, including islands off the coast.
 
-In September 2022, attacks spread to Erati and Memba districts in northern Nampula province. Citizens are advised against all travel to these areas.
+In September 2022, attacks spread to Erati and Memba districts in northern Nampula province. Attacks have also taken place in the districts of Mecula and Marrupa in Niassa. Citizens are advised against all travel to these areas.
 
 If you decide to travel to Cabo Delgado, please be aware there is an increased security presence on the ground, and you should follow the advice of local authorities. You should also closely monitor national, local and social media for any updates.
 
 You are advised to remain vigilant if traveling by road in Sofala province due to several armed attacks on vehicular traffic since August 2019. These attacks have targeted both civilians and members of the security forces. In particular, you are advised to avoid non-essential travel on the EN1 between the towns of Inchope and Gorongosa, and on the EN6 between Tica and Inchope.
 
-Several months of unrest followed contested elections in October 2024. The situation has improved significantly in recent months, but a reduced possibility of future unrest remains.
+Several months of unrest followed contested elections in October 2024. The situation improved significantly but a possibility of future unrest remains.
 
 In the event of increased unrest, please pay attention to your surroundings, stay away from crowds, monitor the local media, and follow instructions from the authorities. Unplanned demonstrations may occur at short notice and cause disruption to roads, toll booths and borders.
 
@@ -26,7 +26,7 @@ If you are a victim of crime, you should contact the local police immediately an
 
 You should avoid walking on Avenida Friedrich Engels in Maputo City.
 
-Mozambique does not have as serious a crime problem as a number of other countries in the region. However, it is a poor country with a high cost of living and those who are obviously better off may become targets. Street crime, such as pickpocketing or robbery with threats of violence, is a reality in Mozambique and, as anywhere, the risks increase after dark.
+Mozambique does not have as serious a crime problem as a number of other countries in the region. Mozambique is a poor country with a high cost of living and those who are obviously better off may become targets. Street crime, such as pickpocketing or robbery with threats of violence, is a reality in Mozambique and, as anywhere, the risks increase after dark.
 
 You are advised to exercise particular caution in city centre areas due to reported rises in petty crime, including pick-pocketing and theft of car-parts from parked vehicles. Driving on Avenida Acordos de Lusaka (Maputo) at night-time is not recommended, due to reports of car-jackings.
 
@@ -43,13 +43,13 @@ Avoid dark and unlit streets and stairways, arrange to be picked up or dropped o
 
 Street crime, such as pickpocketing or robbery with threats of violence, is a reality in Mozambique and, as anywhere, the risks increase after dark.
 
-Car crime, including car-jacking, has been on the increase. Keep your car doors locked when driving and try to be aware if you are being followed. Park your car in safe, open places. If somebody offers to watch your car for you, do not react negatively. Be friendly and give the person some money when you return to your car. The appropriate price varies but would usually be around 10 meticais (about €0.15).
+Car crime, including car-jacking, has been on the increase. Keep your car doors locked when driving and try to be aware if you are being followed. Park your car in safe, open places. If somebody offers to watch your car for you, do not react negatively. Be friendly and give the person some money when you return to your car. The appropriate price varies but would usually be around 20 meticais (about €0.27).
 
 Gratuitous violence is not a feature of crime in Mozambique, so if you are mugged or your car is hijacked, you should remain calm, offer no resistance and hand over your possessions without question.
 
 ### **Driving**
 
-Car crime has been on the increase. Keep your car doors locked when driving. Park your car in safe, open, well-lit places. If somebody offers to watch your car for you, don’t react negatively. Be friendly and give the person some money when you return to your car. The appropriate price varies but would usually be around 10 meticais (about €0.15).
+Car crime has been on the increase. Keep your car doors locked when driving. Park your car in safe, open, well-lit places. If somebody offers to watch your car for you, don’t react negatively. Be friendly and give the person some money when you return to your car. The appropriate price varies but would usually be around 20 meticais (about €0.27).
 
 If you are planning to drive in Mozambique, be extremely careful. Conditions are poor once you get off the major roads so make sure that you and your vehicle are capable of handling a road before setting off. There is inadequate lighting, even in urban areas, and vehicles are often badly maintained and driving standards are erratic. Be prepared for other road users to behave in unpredictable ways, including overtaking on blind bends and driving at night without lights.
 
@@ -71,7 +71,7 @@ Check that you have adequate insurance and read the small print of the vehicle h
 
 ### **Kidnapping**
 
-Whilst violent crime does occur at times, most visits to Mozambique are trouble-free. There has been a recent significant increase in cases of criminal kidnappings, so extra care should be taken.
+Whilst violent crime does occur at times, most visits to Mozambique are trouble-free. Cases of kidnapping have reduced in the last year, but extra care should be taken.
 
 Cases of kidnapping take place primarily in larger cities, especially Maputo and Matola. Individuals perceived as wealthy, including foreigners, tend to be preferred targets. Be extremely vigilant at all times, avoid displaying signs of affluence, consider regularly modifying your patterns of travel, and be aware of your surroundings at all times.
 

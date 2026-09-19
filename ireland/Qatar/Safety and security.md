@@ -16,7 +16,7 @@ Visitors should be aware that there is a degree of threat from terrorism general
 
 ### **Crime**
 
-Crime remains relatively low in Qatar but take sensible precautions. If a victim of a crime while in Qatar, report it to the local police immediately. [Contact the Irish Embassy in Abu Dhabi](https://www.ireland.ie/en/uae/abudhabi/) if you need help.
+Crime remains relatively low in Qatar but take sensible precautions. If a victim of a crime while in Qatar, report it to the local police immediately. [**Contact the Irish Embassy in Abu Dhabi**](https://www.ireland.ie/en/uae/abudhabi/) if you need help.
 
 * Do not carry credit cards, travel tickets and money together - leave spare cash and valuables in a safe place.
 * Do not carry your passport unless absolutely necessary and leave a photocopy of your passport (and travel and insurance documents) in your hotel or with family or friends at home.
@@ -24,7 +24,11 @@ Crime remains relatively low in Qatar but take sensible precautions. If a victim
 
 ### **Social Media and Photography**
 
-Qatar has strict laws regarding online behaviour, including comments made via social media, with offences punishable by fines, imprisonment and deportation. Sharing videos or photographs of others through social media can be a punishable offence. Visitors should stay away from military sites – taking photos of military or security installations, and some public buildings is prohibited. Avoid filming or photographing people without their permission.
+Qatar has strict laws regarding online behaviour, including comments made via social media, with offences punishable by fines, imprisonment and deportation.
+
+Sharing videos or photographs of others through social media can be a punishable offence. Taking videos or photographs of public authorities, including police officers and military personnel, can result in arrest. Avoid filming or photographing people without their permission.
+
+Visitors should stay away from military sites. Taking photos of military or security installations, and some public buildings – including government, police and Embassy buildings – is prohibited.
 
 ### **Driving**
 

@@ -6,7 +6,7 @@ You should ensure that you take out comprehensive travel and medical insurance b
 
 ### **Medical Facilities**
 
-There are a number of serious health risks in Mozambique and medical facilities outside Maputo are generally poor. In cases of serious illness or injury, medical evacuation to South Africa or elsewhere may be necessary.
+There are a number of serious health risks in Mozambique and Mozambique’s health infrastructure is weak. Medicine availability is variable and often in short supply, while local medical facilities may lack basic resources and supplies. Some health facilities may also ask for cash payment up front. In cases of serious illness or injury, medical evacuation to South Africa or elsewhere may be necessary.
 
 ### **Vaccinations**
 
@@ -25,10 +25,6 @@ If you have been in a country where yellow fever is endemic, you must have a yel
 ### **HIV and AIDS**
 
 Mozambique has a high **HIV and AIDS** infection rate. You should take appropriate precautions to limit the risk of transmission through blood or sexual contact. If you suspect that you have been exposed to possible infection, you should seek immediate medical attention.
-
-### **Covid-19**
-
-Travellers who test positive for **COVID-19** whilst in Mozambique must self-isolate in a hotel or private accommodation. Those who do not have symptoms must self-isolate until advised otherwise by a doctor, after testing negative, or for 7 days. Those showing symptoms must self-isolate for 7 days after developing symptoms.
 
 ### **Yellow Fever**
 
