@@ -200,18 +200,16 @@ Find out what you can do to [prepare for and respond to extreme weather and natu
 
 ### Volcanic eruptions
 
-Check [Regional risks](/foreign-travel-advice/indonesia/regional-risks) for warnings against travel to specific volcanoes.
+Indonesia has many active volcanoes. Volcanoes can erupt without warning and have caused damage and loss of life. Local authorities may evacuate communities near an eruption, and exclusion zones can change at short notice
 
-There are lots of active volcanoes in Indonesia. They can erupt without warning and eruptions have caused destruction and fatalities. The authorities usually evacuate villages within a 3km to 7km radius of the eruption.
+Check with local authorities and news reports for updates on exclusion zones and safety advice before travelling to areas that are prone to volcanic activity.
 
-There are 4 numbered volcano alert levels:
+For the latest information check:
 
-1. Normal
-2. Advisory
-3. Watch
-4. Warning
-
-Check news reports and [updates on volcanic activity](https://magma.esdm.go.id/v1/gunung-api/laporan) (in Bahasa language) before travelling to areas that are prone to volcanic activity.
+* Bureau of Meteorology Volcanic Ash Advisory Centre
+* [MAGMA Indonesia](https://magma.esdm.go.id/v1) (only in Bahasa Indonesia language) for daily updates on status and alert levels
+* National Disaster Management Authority – BNPB (only in Bahasa Indonesia language)
+* Global Disaster Alert and Coordination System
 
 While near any volcano, you should:
 

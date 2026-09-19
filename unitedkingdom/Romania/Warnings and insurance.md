@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   12 August 2026
+:   19 September 2026
 
 Updated:
-:   11 August 2026
+:   18 September 2026
 
 Latest update:
-:   Updated information on European Entry-Exit System (EES) (‘Entry requirements’ page).
+:   New information about drones crossing into Romanian airspace (‘Safety and security’ page).
 
 ## Before you travel
 

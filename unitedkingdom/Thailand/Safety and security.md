@@ -96,9 +96,15 @@ Criticising the Thai monarchy (‘lèse-majesté’) is illegal. The law can be 
 
 Posting images of people drinking alcohol or wearing clothing considered inappropriate can be illegal. Both the person who uploaded the images and the people in them could be fined or imprisoned.
 
-### Buying property in Thailand
+### Business and property ownership
 
-Buying property in Thailand is not straightforward. Make sure you understand local laws and consult a lawyer before making financial commitments. British people have been victims of property scams.
+Thai authorities have increased enforcement against unlawful business ownership arrangements involving foreign nationals. This includes the use of Thai nationals as ‘nominee’ and majority shareholders, where a foreign national provides the funding for, or exercises control over, a business or property ownership arrangement.
+
+If you are considering buying property, investing in a business or setting up a company in Thailand, make sure you understand local laws and seek independent legal advice. If you already own a business or have property-related investments in Thailand, consider reviewing your ownership arrangements with a qualified legal adviser to ensure they comply with Thai law. Those found to be operating in breach of Thai business laws may face arrest, fines, deportation or other legal penalties.
+
+### Deportation
+
+On 28 August 2026, Thailand introduced new deportation regulations. Foreign nationals may be deported without the need for a criminal conviction if the Thai authorities determine that their conduct is contrary to public order, public morals or the wellbeing of the Thai people. Those who are deported may also face restrictions on returning to Thailand. You should comply with all local laws and regulations and follow instructions issued by Thai authorities.
 
 ### Drones
 

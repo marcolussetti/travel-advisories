@@ -16,7 +16,7 @@ Attacks could be indiscriminate, including in places visited by foreign national
 
 There is widespread military activity in neighbouring Ukraine. See [Ukraine travel advice](https://www.gov.uk/foreign-travel-advice/ukraine).
 
-Public demonstrations are common. Marches and gatherings are mostly peaceful and well-policed, but take extra care in crowded places. Demonstrations, marches and gatherings can attract violence. Monitor local media and follow the instructions of local authorities.
+There have been cases of drones crossing into Romanian airspace and territorial waters, and occasionally, drones carrying explosives have landed or washed ashore in Romania. If you encounter drone activity follow guidance from local authorities, including the [RO-Alert mobile](https://ro-alert.ro/en/about-ro-alert-2/) phone alert system, and do not approach any military debris.
 
 ## Crime
 

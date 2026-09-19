@@ -1,11 +1,11 @@
 {
     "name": "Indonesia",
-    "update_reason": "Removal of information about closure of Jakarta airports due to volcanic ash clouds (\u2018Warnings and insurance\u2019 page)",
+    "update_reason": "FCDO no longer advises against all travel to volcanoes in Indonesia and will no longer advise against all travel in the event of future volcanic eruptions. FCDO have added new information about volcanoes in Indonesia, including information from the local authorities who enforce exclusion zones on a number of volcanically active sites (See \u2018Warnings and insurance\u2019 and \u2018Safety and security\u2019 pages).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Indonesia/Warnings and insurance.md",
-            "update_date": "2026-09-10T12:07:18+01:00"
+            "update_date": "2026-09-18T11:54:47+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Indonesia/Getting help.md"
         }
     ],
-    "update_date": "2026-09-10T12:07:18+01:00"
+    "update_date": "2026-09-18T11:54:47+01:00"
 }

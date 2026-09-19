@@ -4,61 +4,6 @@ This section has safety advice for regions of Indonesia. It only covers regions 
 
 You should also read [FCDO’s overall travel advice](/foreign-travel-advice/indonesia) and [safety and security advice](/foreign-travel-advice/indonesia/safety-and-security).
 
-## Volcanic activity
-
-See [Extreme weather and natural disasters](/foreign-travel-advice/indonesia/safety-and-security).
-
-### Mount Lewotobi Laki-Laki, East Nusa Tenggara
-
-FCDO advises against all travel to within 7km of the crater of Mount Lewotobi Laki-Laki on Flores Island, East Nusa Tenggara province. This aligns with an exclusion zone put in place by the local authorities.
-
-Mount Lewotobi Laki-Laki erupted on 17 June 2025. Indonesian authorities have raised the volcano status alert to the highest level (level 4), and have warned of potential mud and debris flows within the exclusion zone. There has been disruption to flights to and from the islands of Bali and Flores.
-
-### Mount Sinabung, North Sumatra
-
-FCDO advises against all travel to within 5km of the crater of Mount Sinabung in Karo Regency, North Sumatra. This aligns with an exclusion zone put into place by the local authorities.
-
-Mount Sinabung erupted in 2021, sending a large column of smoke and ash into the sky.
-
-### Mount Marapi, West Sumatra
-
-FCDO advises against all travel to within 3km of the crater of Mount Marapi in West Sumatra. This aligns with an exclusion zone put in place by the local authorities.
-
-Mount Marapi erupted in December 2023.
-
-### Mount Semeru, East Java
-
-FCDO advises against all travel to:
-
-* within 5 km of the crater of Mount Semeru in Lumajang Regency, East Java
-* the south-east area of Mount Semeru along the Besuk Kobokan river, approximately 13km from the crater, and 500m from any Besuk Kobokan riverbank
-
-These areas align with exclusion zones put in place by the local authorities.
-
-Mount Semeru erupted in 2022, emitting a 1,500m (4,921ft) high ash cloud. Indonesian authorities have set the alert level to 4 (of 4), warning of the potential for hot pyroclastic flows and lava flows along rivers, tributaries and valleys around Mount Semeru. The most likely affected are Besuk Kobokan, Besuk Bang, Besuk Kembar and Besuk Sat.
-
-### Mount Ruang, Northern Sulawesi
-
-FCDO advises against all travel to within 7km of the crater of Mount Ruang in Northern Sulawesi. This aligns with an exclusion zone put in place by the local authorities.
-
-Mount Ruang erupted on 16 April 2024.
-
-### Mount Ibu, North Maluku
-
-FCDO advises against all travel to within 7km of the crater of Mount Ibu in North Maluku Province. This aligns with an exclusion zone put in place by the local authorities.
-
-Mount Ibu erupted on 6 June 2024.
-
-### Mount Agung, Bali
-
-In 2018, Mount Agung in East Bali erupted, emitting gas and ash which resulted in the closure of Bali’s airport and a number of nearby regional airports for a period of time.
-
-Further disruption cannot be ruled out. The local authorities have indicated that Mount Agung continues to show signs of volcanic activity and the possibility of volcanic eruptions remains.
-
-Climbers are recommended to limit activity around the crater. An alert could be issued at short notice.
-
-For more information on how to be prepared for a volcanic eruption see [Safety and security](https://www.gov.uk/foreign-travel-advice/indonesia/safety-and-security).
-
 ## Aceh
 
 Aceh has emerged from a long period of internal conflict. Although violence against foreigners is rare, a British national was abducted in 2013 and there were 3 separate incidents in 2009 targeting foreigners. There have been reports of Sharia (religious) police harassing foreigners.

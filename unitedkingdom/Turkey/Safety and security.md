@@ -152,7 +152,7 @@ Same-sex sexual activity is legal in Turkey. However, many parts of Turkey are s
 
 ### Comments about the nation and flag
 
-It is illegal to insult the Turkish nation or the national flag. These laws can also apply to comments or images online no matter where you were or when you posted them. Defacing Turkish banknotes is also illegal. Offences under these laws are punishable by a prison sentence of between 6 months and 3 years.
+It is illegal to insult the Turkish nation or the national flag. Insulting the President or the founder of the Turkish Republic, Mustafa Kemal Atatürk is also a criminal offence. These laws can apply to comments or images online no matter where you were or when you posted them. Defacing Turkish banknotes is also illegal. Offences under these laws are punishable by a prison sentence of between 6 months and 3 years.
 
 ## Outdoor activities and adventure tourism
 

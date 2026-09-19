@@ -1,51 +1,19 @@
 # Warnings and insurance
 
 Still current at:
-:   11 September 2026
+:   19 September 2026
 
 Updated:
-:   10 September 2026
+:   18 September 2026
 
 Latest update:
-:   Removal of information about closure of Jakarta airports due to volcanic ash clouds (‘Warnings and insurance’ page)
+:   FCDO no longer advises against all travel to volcanoes in Indonesia and will no longer advise against all travel in the event of future volcanic eruptions. FCDO have added new information about volcanoes in Indonesia, including information from the local authorities who enforce exclusion zones on a number of volcanically active sites (See ‘Warnings and insurance’ and ‘Safety and security’ pages).
 
-![](https://assets.publishing.service.gov.uk/media/6745db6083f3d6d843be9719/FCDO__TA__020_-_Indonesia_Travel_Advice_Ed9__WEB_.jpg)
+## Volcanic eruptions
 
+Volcanic eruptions occur frequently across Indonesia. In the event of a volcanic eruption, follow the latest advice issued by the local authorities, including on areas to avoid, exclusion zones and actions to take if air quality is affected.
 
-[Download a more detailed map (PDF, 2.02 MB)](https://assets.publishing.service.gov.uk/media/6745db60bdeffdc82cffe17c/FCDO__TA__020_-_Indonesia_Travel_Advice_Ed9.pdf)
-
-Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth and Development Office (FCDO).
-
-## Areas where FCDO advises against all travel
-
-### FCDO advises against all travel to a number of volcanoes in Indonesia:
-
-### Mount Lewotobi Laki-Laki, on Flores Island, East Nusa Tenggara Province
-
-* to within 7km of the crater
-
-### Mount Sinabung, Karo Regency, North Sumatra
-
-* to within 5km of the crater
-
-### Mount Marapi, West Sumatra
-
-* to within 3km of the crater
-
-### Mount Semeru, Lumajang Regency, East Java
-
-* to within 5km of the crater
-* in the south-east of Mount Semura to within 500m from any riverbank of the Besuk Kobokan river for 13km from the crater
-
-### Mount Ruang, Northern Sulawesi
-
-* to within 7km of the crater
-
-### Mount Ibu, North Maluku Province
-
-* to within 7km of the crater
-
-See [more details about why FCDO advises against travel](/foreign-travel-advice/indonesia/regional-risks).
+For more details, see [Extreme weather and natural disasters](https://www.gov.uk/foreign-travel-advice/indonesia/safety-and-security#extreme-weather-and-natural-disasters) on the Safety and security page.
 
 ## Global travel impacts due to escalation in the Middle East
 

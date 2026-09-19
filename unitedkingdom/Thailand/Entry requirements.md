@@ -20,7 +20,9 @@ If you’re a dual national, it is best to leave Thailand on the same passport y
 
 ## Visa requirements
 
-From 15 September 2026, if you enter Thailand under the visa exemption scheme, you can stay for up to 30 days for tourism.
+From 15 September 2026, if you enter Thailand under the visa exemption scheme, you can stay for up to 30 days for tourism only. Visa-exempt entry does not cover business travel, including attending conferences, meetings or other business activities. If you are travelling for business purposes, you should obtain the appropriate visa before you travel.
+
+Visa-exempt entry for tourism is normally limited to two entries per calendar year. If you have already entered Thailand under the visa exemption scheme twice in the same year, you may need to obtain a visa before travelling.
 
 If you entered Thailand before 15 September 2026, you will usually be allowed to stay for the period granted when you arrived. If you want to stay longer, you must get the appropriate visa before you travel or, if eligible, apply for an extension through the Thai immigration authorities.
 

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   8 September 2026
+:   19 September 2026
 
 Updated:
-:   8 September 2026
+:   18 September 2026
 
 Latest update:
-:   Updated information about visa requirements and the rainy season in Thailand ('Entry requirements' and 'Safety and security' pages).
+:   Updated information on visa exemption scheme, business ownership and deportation ('Entry requirements' and ‘Safety and security’ pages)
 
 ![](https://assets.publishing.service.gov.uk/media/6980b4383915f7123658010e/FCDO__TA__040_-_Thailand_Travel_Advice_Ed8__WEB_.jpg)
 

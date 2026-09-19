@@ -1,11 +1,11 @@
 {
     "name": "Romania",
-    "update_reason": "Updated information on European Entry-Exit System (EES) (\u2018Entry requirements\u2019 page).",
+    "update_reason": "New information about drones crossing into Romanian airspace (\u2018Safety and security\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Romania/Warnings and insurance.md",
-            "update_date": "2026-08-11T10:22:08+01:00"
+            "update_date": "2026-09-18T14:15:40+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Romania/Getting help.md"
         }
     ],
-    "update_date": "2026-08-11T10:22:08+01:00"
+    "update_date": "2026-09-18T14:15:40+01:00"
 }

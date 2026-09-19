@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   23 July 2026
+:   19 September 2026
 
 Updated:
-:   22 July 2026
+:   18 September 2026
 
 Latest update:
-:   Updated information about regional tensions following recent strikes and retaliatory attacks by Iran ('Warnings and insurance' page).
+:   Updated information around the risks of negatively commenting about the nation and flag ('Safety and security' page).
 
 ![](https://assets.publishing.service.gov.uk/media/69a6faa2a2495f2d259f13d2/FCDO_TA_043_-_Turkey_Travel_Advice_Ed4_WEB.jpg)
 
