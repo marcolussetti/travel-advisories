@@ -9,13 +9,13 @@ You should also read [FCDO’s overall travel advice](/foreign-travel-advice/sau
 FCDO advises against:
 
 * all travel to within 10km of the border with Yemen
-* all but essential travel to areas between 10km and 80km from the border with Yemen
+* all but essential travel to areas between 10km and 80km from the border with Yemen, and extends to include the cities of Abha and Khamis Mushait in Aseer province
 
-In 2026, direct military conflict between the Houthi military group and the Governments of Yemen and Saudi Arabia has resumed.
+In 2026, direct military conflict between the Houthi rebel military group and the Governments of Yemen and Saudi Arabia has resumed.
 
 The authorities can temporarily close airports near the Saudi Arabia-Yemen border. Check with your airline before travelling to airports near the border.
 
-Since 13 July 2026, the Houthis have launched missiles and drones targeting several cities, airports, military bases and energy infrastructure sites across Saudi Arabia including Abha, Jizan, Najran, Taif, Jeddah and Yanbu as well as Saudi shipping vessels in the Red Sea. Some civilians have been injured. There is a risk of more attacks and escalation. Saudi Civil Defence issue early warning alerts to people in affected areas.
+Since 13 July 2026, the Houthis have launched missiles and drones targeting several cities, airports, military bases and energy infrastructure sites across Saudi Arabia including Abha, Jizan, Najran, Riyadh, Taif, Jeddah and Yanbu as well as Saudi shipping vessels in the Red Sea. Some civilians have been injured. There is a risk of more attacks and escalation. Saudi Civil Defence issue early warning alerts to people in affected areas.
 
 In a missile or drone attack, you should:
 

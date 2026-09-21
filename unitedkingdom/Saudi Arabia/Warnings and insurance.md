@@ -1,18 +1,18 @@
 # Warnings and insurance
 
 Still current at:
-:   17 September 2026
+:   21 September 2026
 
 Updated:
-:   16 September 2026
+:   20 September 2026
 
 Latest update:
-:   Addition of information about conflict between the Houthi military group and the Governments of Yemen and Saudi Arabia and updated information about regional tensions (‘Regional risks’ and ‘Warnings and insurance’ pages).
+:   The Foreign, Commonwealth and Development Office (FCDO) advice against all but essential travel extends to include the cities of Abha and Khamis Mushait in Aseer province. The FCDO continues to advise against all travel to within 10km of the border with Yemen and all but essential travel to areas between 10km and 80km from the border with Yemen. ('Warnings and insurance' and 'Regional risks')
 
-![](https://assets.publishing.service.gov.uk/media/6a33d2b225c5199bda117785/FCDO__TA__034_-_Saudi_Arabia_Travel_Advice_Ed3__WEB_.jpg)
+![](https://assets.publishing.service.gov.uk/media/6ab030912f29b38884818743/FCDO_TA_034_-_Saudi_Arabia_Travel_Advice_Ed10_WEB.jpg)
 
 
-[Download a more detailed map (PDF, 1.02 MB)](https://assets.publishing.service.gov.uk/media/6a33d2b2c6e94f095f3efa2e/FCDO__TA__034_-_Saudi_Arabia_Travel_Advice_Ed3.pdf)
+[Download a more detailed map (PDF, 1.03 MB)](https://assets.publishing.service.gov.uk/media/6ab030914c0f475de0a66a77/FCDO_TA_034_-_Saudi_Arabia_Travel_Advice_Ed10__002_.pdf)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
@@ -23,19 +23,20 @@ Your travel insurance could be invalidated if you travel against advice from the
 FCDO advises against:
 
 * all travel to within 10km of the border with Yemen
-* all but essential travel to areas between 10km and 80km from the border with Yemen
+* all but essential travel to areas between 10km and 80km from the border with Yemen, and extends to include the cities of Abha and Khamis Mushait in Aseer province
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/saudi-arabia/regional-risks).
 
 ## Regional tensions
 
-Since July 2026, the Houthis (a military group in Yemen) have launched attacks against Saudi territory, and Saudi shipping vessels in the Red Sea. See [‘Regional risks’ page](https://www.gov.uk/foreign-travel-advice/saudi-arabia/regional-risks).
+Since 13 July, the Houthis (a military group in Yemen) have launched missiles and drones targeting cities, airports, military and energy sites across Saudi Arabia, including Abha, Jizan, Najran, Riyadh, Jeddah and Yanbu, as well as shipping in the Red Sea. Further attacks are possible. Follow Saudi Civil Defence alerts. See [‘Regional risks’ page](https://www.gov.uk/foreign-travel-advice/saudi-arabia/regional-risks).
 
 British nationals currently in the Middle East should be prepared for possible flight cancellations, periodic airspace closures, and potential travel disruption, and should:
 
 * read [If you’re affected by a crisis abroad - GOV.UK](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas). This includes guidance on “how to prepare for a crisis” with suggestions on what you might include in your emergency supplies and “what to do in a crisis”
 * follow advice from the local authorities and sign up to FCDO Travel Advice [email alerts](https://www.gov.uk/foreign-travel-advice/saudi-arabia/email-signup)
-* monitor local and international media for the latest information, including updates relating to airports and airspace which could close at short notice
+* refrain from capturing or sharing images of conflict-related incidents
+* monitor local and international media for the latest information, including updates relating to airports and airspace which could close at short notice. Exercise caution at transport infrastructure, including ports and airports.
 * stay away from areas around oil infrastructure and military facilities
 * keep your departure plans under review, and ensure your travel documents are up to date
 * if you are advised to take shelter, stay indoors or find the nearest safe building or designated shelter. An interior stairwell or a room with as few external walls or windows as possible may provide additional protection. The greatest risk is from falling debris caused by intercepts, and you are safest inside a secure structure

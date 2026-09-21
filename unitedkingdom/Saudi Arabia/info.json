@@ -1,11 +1,11 @@
 {
     "name": "Saudi Arabia",
-    "update_reason": "Addition of information about conflict between the Houthi military group and the Governments of Yemen and Saudi Arabia and updated information about regional tensions (\u2018Regional risks\u2019 and \u2018Warnings and insurance\u2019 pages).",
+    "update_reason": "The Foreign, Commonwealth and Development Office (FCDO) advice against all but essential travel extends to include the cities of Abha and Khamis Mushait in Aseer province. The FCDO continues to advise against all travel to within 10km of the border with Yemen and all but essential travel to areas between 10km and 80km from the border with Yemen.  ('Warnings and insurance' and 'Regional risks')",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Saudi Arabia/Warnings and insurance.md",
-            "update_date": "2026-09-16T16:26:53+01:00"
+            "update_date": "2026-09-20T20:23:47+01:00"
         },
         {
             "title": "Entry requirements",
@@ -38,5 +38,5 @@
             "file": "unitedkingdom/Saudi Arabia/Getting help.md"
         }
     ],
-    "update_date": "2026-09-16T16:26:53+01:00"
+    "update_date": "2026-09-20T20:23:47+01:00"
 }
