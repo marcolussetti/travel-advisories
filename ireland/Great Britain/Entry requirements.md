@@ -16,4 +16,4 @@ The UK Government advises that this could include:
 
 However, this list will not be treated as exhaustive. Other documents, including providing more than one document, may be accepted. These will be considered on a case by case basis by the UK Border Force.
 
-Please note, however, that some airlines and other carriers require that you have a valid passport before you can travel with them. Please check with your travel company regarding their requirements before travelling.
+Please note, however, that some airlines, ferry companies and other carriers require that you have a valid passport before you can travel with them. Please check with your travel company regarding their requirements before travelling.

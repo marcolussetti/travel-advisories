@@ -6,9 +6,13 @@ Normal Precautions
 
 ### **Travel Alert**
 
+#### **Ferry Transport Requirement**
+
+Effective from 28 September 2026, the majority of ferry companies, including Irish Ferries and Stena Line, require that Irish citizens present a valid **Irish passport or passport card** for travel between Ireland and the UK.
+
 #### **Airlines Passport Requirement**
 
-Effective from 25 February, the majority of airlines, including Aer Lingus and Ryanair, require that Irish citizens present a valid **Irish passport or passport card** for travel between Ireland and the UK.
+Effective from 25 February 2026, the majority of airlines, including Aer Lingus and Ryanair, require that Irish citizens present a valid **Irish passport or passport card** for travel between Ireland and the UK.
 
 TravelWise Tips:
 
