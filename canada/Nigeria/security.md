@@ -338,6 +338,13 @@ The Same Sex Marriage (Prohibition) Act provides for lengthy jail sentences for 
 
 [Travel and your sexual orientation, gender identity, gender expression and sex characteristics](https://travel.gc.ca/travelling/health-safety/lgbt-travel)
 
+### Unregulated alcohol
+
+Casualties have occurred due to the consumption of unregulated and adulterated alcohol containing high levels of methanol.
+
+* Buy alcohol from reputable establishments
+* Seek medical assistance if you begin to feel sick
+
 ### Swimming
 
 Coastal waters can be dangerous, even for experienced swimmers. Riptides are common. Several drownings occur every year. Beaches are generally unsupervised. There is no warning system to alert of unsafe conditions.

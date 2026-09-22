@@ -200,15 +200,13 @@ Frequent handwashing and making careful food and beverage choices can reduce you
 **Learn more:**[Travellers’ diarrhea](https://www.canada.ca/en/public-health/services/diseases/diarrhea.html)  
 [Eat and drink safely outside Canada](https://travel.gc.ca/travelling/health-safety/food-water)
 
-Typhoid 
+Typhoid fever 
 
-Typhoid fever is a disease caused by bacteria. Symptoms may include fever, cough, diarrhea, tiredness, headache, and loss of appetite.
+There is a risk of typhoid fever in this destination, but the risk is low for most travellers. Travellers are at higher risk in places with poor sanitation, limited access to clean water, or unsafe food preparation. Cleaning your hands often and making safe food and drink choices can help lower your risk.
 
-There is a risk of typhoid fever in this destination, but the risk is low for most travellers.
+Typhoid fever is a disease caused by bacteria. It spreads through consuming contaminated food or drinking water, or through contact with the feces of an infected person.
 
-Typhoid fever spreads through consuming contaminated food or drinking water, or through contact with the feces of an infected person.
-
-Travellers are at higher risk in places with poor sanitation, limited access to clean water, or unsafe food preparation. Young children, older adults, people visiting friends or relatives, and people with weakened immune systems are more likely to become seriously ill. Cleaning your hands often and making safe food and drink choices can help lower your risk.
+Symptoms may include fever, cough, diarrhea, tiredness, headache, and loss of appetite. Young children, older adults, people visiting friends or relatives, and people with weakened immune systems are more likely to become seriously ill.
 
 A vaccine is available and may be recommended for some travellers to this destination, depending on their risk. Talk to a health care provider before you travel to find out if this vaccine is recommended for you.
 
@@ -305,7 +303,7 @@ Rift Valley fever
 
 ### Animal precautions
 
-Some infections can spread directly from animals to people, like rabies or bird flu (avian influenza). Others don’t spread directly from animals but can infect people who visit areas animals have contaminated with their droppings or body fluids.
+Some infections, such as rabies, spread through direct contact with animals. Others, such as hantavirus infections and avian influenza, can also spread indirectly when people come into contact with areas contaminated by animal droppings or other animal waste.
 
 Certain activities can increase your chances of coming into contact with animals, their droppings, or their body fluids, like:
 
@@ -358,11 +356,11 @@ High-risk travellers include those visiting or working in prisons, refugee camps
 
 ### Medical services and facilities
 
-Health care is inadequate in Sudan.
+Health care is inadequate in Sudan and has further deteriorated since the onset of the armed conflict.
 
-You will likely need an emergency medical evacuation is case of serious illness or injury. However, it can also be difficult to obtain and air ambulances are usually not available on short notice.
+You will likely need a medical evacuation in case of serious illness or injury. However, it can be difficult to obtain and air ambulances are usually not available on short notice.
 
-There are no medical facilities to treat diving-related injuries in Port Sudan.
+There are no medical facilities to treat diving-related injuries.
 
 * Avoid surgery in Sudan
 * Ensure that your health plan coverage includes Sudan
@@ -373,7 +371,15 @@ Make sure you get travel insurance that includes coverage for medical evacuation
 
 ### Medication
 
-There is a shortage of medicine. Bring sufficient quantities of your prescription medication as well as basic medicine.
+There is a shortage of medicine in Sudan.
+
+If you take prescription medications, you’re responsible for determining their legality in Sudan.
+
+* Bring enough prescription medication as well as basic medicine for your stay
+* Always keep your medication in the original container and carry a copy of your prescriptions
+* Pack your medication in your carry-on luggage
+
+[Travelling with medication](https://travel.gc.ca/travelling/health-safety/medication)
 
 ### Keep in Mind...
 

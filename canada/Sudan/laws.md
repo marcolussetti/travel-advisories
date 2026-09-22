@@ -10,13 +10,11 @@ Learn about what you should do and how we can help if you are [arrested or detai
 
 Sudan is a traditional, conservative society. Sharia (Islamic law) is applied throughout the country. Islamic practices and beliefs are closely adhered to in the country’s customs, laws and regulations.
 
-* Avoid displays of affection in public, holding hands for instance
+* Avoid public displays of affection, including holding hands
 * Be extremely discreet if swimming in public
 * Avoid wearing shorts in public
-* If you are a woman:
-  + dress conservatively
-  + avoid wearing short skirts or shirts with low necklines
-  + avoid displaying bare arms
+
+[More advice for women travellers](#women)
 
 ### Ramadan
 
@@ -30,7 +28,7 @@ In public, between sunrise and sunset, be discreet when:
 
 ### Religious proselytism
 
-Religious proselytism can lead to arrest for long periods of time and deportation.
+Religious proselytism can lead to arrest, prolonged detention and deportation.
 
 ### Drugs
 
@@ -42,26 +40,17 @@ It is prohibited to import or consume alcohol, even in private.
 
 [Drugs, alcohol and travel](https://travel.gc.ca/travelling/health-safety/drugs)
 
-### 2SLGBTQI+ persons
-
-Sudanese law prohibits sexual acts between individuals of the same sex. Third time convicted offenders can face up to life imprisonment or the death penalty.
-
-2SLGBTQI+ persons should carefully consider the risks of travelling to Sudan.
-
-[Travel and your sexual orientation, gender identity, gender expression and sex characteristics](https://travel.gc.ca/travelling/health-safety/lgbt-travel)
-
 ### Pornography
 
-It is prohibited to import magazines or books of a sexually explicit nature.
+Possession of pornographic material is illegal.
 
 ### Photography
 
-A photography permit is required for all forms of photography.
+You must obtain authorization from the Ministry of Culture and Information for any form of photography.
 
 Even with a permit, it is strictly prohibited to photograph:
 
-* airports
-* military areas
+* airports and military areas
 * bridges
 * drainage stations
 * broadcast stations
@@ -69,9 +58,13 @@ Even with a permit, it is strictly prohibited to photograph:
 * slum areas
 * beggars
 
-The authorities may suspect you of espionage if you take pictures without a permit.
+Local authorities may suspect you of espionage if you take photos without official permission. If so, they may detain you.
 
-If you travel with your laptop, ensure that you remove any photo files that could be deemed by the authorities as suspicious.
+If you travel with a laptop, make sure it does not contain any photos that Sudanese authorities could deem suspicious.
+
+### Drones
+
+Due to security concerns related to the ongoing armed conflict, the importation, possession, or use of drones may result in arrest, detention and the confiscation of equipment.
 
 ### Dual citizenship
 
@@ -81,30 +74,7 @@ If you are a Canadian citizen, but also a citizen of Sudan, our ability to offer
 
 [Dual citizens](http://travel.gc.ca/travelling/documents/dual-citizenship)
 
-### International Child Abduction
-
-The Hague Convention on the Civil Aspects of International Child Abduction is an international treaty. It can help parents with the return of children who have been removed to or retained in certain countries in violation of custody rights. It does not apply between Canada and South Sudan.
-
-If your child was wrongfully taken to, or is being held in South Sudan by an abducting parent:
-
-* act as quickly as you can
-* consult a lawyer in Canada and in South Sudan to explore all the legal options for the return of your child
-* report the situation to the nearest Canadian government office abroad or to Global Affairs Canada by calling the Emergency Watch and Response Centre
-
-If your child was removed from a country other than Canada, consult a lawyer to determine if The Hague Convention applies.
-
-Be aware that Canadian consular officials cannot interfere in private legal matters or in another country's judicial affairs.
-
-#### Useful links
-
-* [International Child Abductions: A guide for affected parents](https://travel.gc.ca/travelling/publications/international-child-abductions)
-* [Children and travel](https://travel.gc.ca/travelling/children)
-* [Canadian embassies and consulates by destination](https://travel.gc.ca/assistance/embassies-consulates)
-* [Request emergency assistance](https://travel.gc.ca/assistance/emergency-assistance)
-
-### Minors
-
-Sudanese minors (under 18 years of age) require the permission of their father or guardian to leave the country.
+### 
 
 ### International Child Abduction
 
@@ -129,18 +99,18 @@ Be aware that Canadian consular officials cannot interfere in private legal matt
 
 ### Driving
 
-You should carry an international driving permit.
+To drive in Sudan, you must have an International Driving Permit along with your valid Canadian driver’s licence.
 
 [International Driving Permit](https://travel.gc.ca/travelling/documents/international-driving-permit)
 
 ### Money
 
-The currency of Sudan is the Sudanese pound (SDG). It is non-convertible outside the country and its export is prohibited.
+The currency of Sudan is the Sudanese pound (SDG), but the U.S. dollar is widely accepted. The Sudanese pound is non-convertible outside the country and its export is prohibited.
 
-Transferring U.S. dollars to Sudan is difficult because of international sanctions. In addition, U.S. currency dated prior to 2006 is not usually accepted.
+Transferring U.S. or Canadian dollars to Sudan is difficult due to international sanctions imposed on the country.
 
-Foreign banking and credit cards are not accepted in Sudan. There are ATMs, but they only service local accounts.
+Foreign debit and credit cards are not accepted. There are ATMs, but they only service local accounts.
 
 International flights and hotel bills must be paid in cash.
 
-You should carry sufficient funds in U.S. dollars to cover your expenses for the duration of your stay.
+You should have sufficient cash in U.S. dollars to cover all your expenses during your stay.

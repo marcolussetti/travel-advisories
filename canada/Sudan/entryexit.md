@@ -45,37 +45,29 @@ Different entry rules may apply when travelling with a temporary passport or an 
 ### Visas
 
 Tourist visa: required  
-Business visa: required  
-Student visa: required  
-Transit visa: required
+ Business visa: required  
+ Student visa: required  
+ Transit visa: required
 
 Allow at least 2 months between your visa application and the intended date of travel. Visas are not granted automatically to prospective travellers.
 
-### Registration
+Sudanese authorities strictly enforce entry requirements. Visa irregularities or alleged immigration violations may result in significant financial penalties. The authorities may hold onto your passport until these penalties are paid in full.
+
+#### Registration
 
 As a foreigner, you must register with the Ministry of the Interior’s Aliens’ Registration Office within 3 days of your arrival in Sudan.
 
-If arriving by land or sea, you can register at your port of entry.
+If arriving by land or sea, you can register at your point of entry.
 
 Certain larger hotels offer to register their guests. Processing fees apply and vary depending on where you register. Two passport-style photos may be required.
 
-### Travels outside of Khartoum
+#### Israeli stamp
 
-You must obtain a permit before travelling outside of Khartoum. You can obtain your permit from the Foreign Ministry. You should start procedures at least a week prior to your trip dates.
+Local authorities will automatically deny you entry to Sudan if your passport contains an Israeli stamp.
 
-It is extremely difficult to obtain permits for destinations within west Sudan, except for persons working for registered humanitarian organizations and diplomatic missions.
+#### Children and travel
 
-Sudanese authorities enforce permit regulations rigorously and they can retain documents. Carry at least 3 copies of your travel permit and passport, including the Sudan visa page, at all times.
-
-### Stamp from Israel
-
-Local authorities will automatically deny you entry to Sudan if your passport contains a stamp from Israel.
-
-### Children and travel
-
-The country’s customs, laws and regulations adhere closely to Islamic practices and beliefs.
-
-Under Sudanese law, women and their children may encounter difficulties relating to mobility. Local authorities may prohibited them from departing Sudan if the father has not given his consent, regardless of custodial rights accorded to the mother by any Sudanese, Canadian or other courts.
+Minors under the age of 18 may be required to present a letter of consent from their father or guardian to exit Sudan, even when travelling with their mother. This requirement may apply regardless of any custody rights granted to the mother by a Sudanese, Canadian or foreign court.
 
 [Children and travel](http://travel.gc.ca/travelling/children)
 
