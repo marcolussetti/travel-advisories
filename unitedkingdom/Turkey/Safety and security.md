@@ -148,11 +148,15 @@ Do not take photographs of or near military or official installations. Ask for p
 
 ### LGBT+ travellers
 
-Same-sex sexual activity is legal in Turkey. However, many parts of Turkey are socially conservative and showing affection in public could receive unwelcome attention. Read more [advice for LGBT+ travellers](https://www.gov.uk/guidance/lesbian-gay-bisexual-and-transgender-foreign-travel-advice).
+Same-sex sexual activity is legal in Turkey. However, some parts of the country are socially conservative and public displays of affection may attract unwanted attention. Same-sex relationships are not legally recognised.
+
+Since 2015, authorities have banned or dispersed Pride events. Anti-LGBT+ statements by senior public figures have increased in recent years, and restrictions on LGBT+ organisations have increased. Turkish authorities have carried out operations against LGBT+ organisations and activists across the country.
+
+Read more [advice for LGBT+ travellers](https://www.gov.uk/guidance/lesbian-gay-bisexual-and-transgender-foreign-travel-advice).
 
 ### Comments about the nation and flag
 
-It is illegal to insult the Turkish nation or the national flag. Insulting the President or the founder of the Turkish Republic, Mustafa Kemal Atatürk is also a criminal offence. These laws can apply to comments or images online no matter where you were or when you posted them. Defacing Turkish banknotes is also illegal. Offences under these laws are punishable by a prison sentence of between 6 months and 3 years.
+It is illegal to insult the Turkish nation or the national flag. Insulting the President or the founder of the Turkish Republic, Mustafa Kemal Atatürk, is also a criminal offence. These laws can apply to comments or images online no matter where you were or when you posted them. Defacing Turkish banknotes is also illegal. Offences under these laws are punishable by a prison sentence of between 6 months and 3 years.
 
 ## Outdoor activities and adventure tourism
 

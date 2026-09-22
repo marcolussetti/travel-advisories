@@ -1,13 +1,21 @@
 # Warnings and insurance
 
 Still current at:
-:   27 June 2026
+:   22 September 2026
 
 Updated:
-:   26 June 2026
+:   21 September 2026
 
 Latest update:
-:   New information about submitting a health declaration if you are travelling to or transiting through Vietnam ('Entry requirements' page).
+:   Addition of information about tropical storm season ('Warnings and insurance') page
+
+## Tropical storm season
+
+The tropical storm season runs from May to November. Tropical storms can cause serious travel disruption. Follow and monitor local and international weather updates from the [National Centre for Hydro-Meteorological Forecasting](https://nchmf.gov.vn/KttvsiteE/en-US/2/index.html) and [Japan Meteorological Agency](https://www.jma.go.jp/bosai/map.html#5/35.532/145.811/&elem=root&typhoon=TC2630&contents=typhoon&lang=en) and follow the advice of local authorities.
+
+See [Extreme weather and natural disasters](https://www.gov.uk/foreign-travel-advice/vietnam/safety-and-security#extreme-weather-and-natural-disasters).
+
+For more regular updates, English-news versions of local newspapers are available at [VNexpress](https://e.vnexpress.net/) and [Vietnam News](https://vietnamnews.vn/)
 
 ## Global travel impacts due to escalation in the Middle East
 
@@ -27,7 +35,7 @@ No travel can be guaranteed safe. Read all the advice in this guide. You may als
 
 * see [general advice for women travellers](https://www.gov.uk/guidance/advice-for-women-travelling-abroad)
 * read our [guide on disability and travel abroad](https://www.gov.uk/government/publications/disabled-travellers)
-* see [general advice for LGBT+ travellers](https://www.gov.uk/guidance/lesbian-gay-bisexual-and-transgender-foreign-travel-advice)
+* see [general advice for LGBT+ travellers (https://www.gov.uk/guidance/lesbian-gay-bisexual-and-transgender-foreign-travel-advice)
 * read about [safety for solo and independent travel](https://www.gov.uk/guidance/solo-and-independent-travel)
 * see [advice on volunteering and adventure travel abroad](https://www.gov.uk/guidance/safer-adventure-travel-and-volunteering-overseas)
 

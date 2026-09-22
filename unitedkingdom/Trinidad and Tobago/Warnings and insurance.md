@@ -1,19 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   31 July 2026
+:   22 September 2026
 
 Updated:
-:   30 July 2026
+:   21 September 2026
 
 Latest update:
-:   New information about outdoor activities and adventure tourism (‘Safety and security’ page).
-
-## State of Emergency
-
-The Trinidad and Tobago government introduced a State of Emergency on 3 March. The State of Emergency was introduced following persistent violent crime and criminal activity and gives authorities additional powers of search, arrest and detention. No curfew or restrictions on movement have been imposed.
-
-Follow the instructions of police and local authorities.
+:   Removal of information about State of Emergency ('Warnings and insurance' page).
 
 ## Before you travel
 

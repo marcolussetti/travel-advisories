@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   8 August 2026
+:   22 September 2026
 
 Updated:
-:   7 August 2026
+:   22 September 2026
 
 Latest update:
-:   Updated information about the situation in Pakistan-administered Kashmir (See ‘Demonstrations in Pakistan-administered Kashmir’ on the ‘Warnings and insurance’ page).
+:   Addition of information about planned protests and possible disruption in Pakistan (‘Warnings and insurance’ page)
 
 Your travel insurance could be invalidated if you travel against advice from the Foreign, Commonwealth & Development Office (FCDO).
 
@@ -76,6 +76,17 @@ FCDO advises against all but essential travel to all areas of Sindh Province nor
 FCDO advises against all but essential travel to Dera Ghazi Khan.
 
 Find out more about [why FCDO advises against travel to these regions](/foreign-travel-advice/pakistan/regional-risks).
+
+## Planned protests and possible disruption
+
+Protests and marches are planned in Islamabad, Rawalpindi, Peshawar, and other cities in Pakistan. Locations, timings and routes may change at short notice. Previous protests have led to road closures, transport disruption, increased security deployments, restrictions on movement, and temporary disruptions to mobile and internet services.
+
+You should:
+
+* stay away from all demonstrations, political gatherings, and large public events
+* monitor local media and follow the advice of local authorities
+* allow extra time for journeys and check routes before travelling
+* be prepared for short-notice road closures and disruptions to transport, mobile and internet services
 
 ## Demonstrations in Pakistan-administered Kashmir
 

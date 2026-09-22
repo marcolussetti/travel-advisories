@@ -27,7 +27,7 @@ You should not expect internet privacy. Local authorities can review the content
 
 ## Freedom of expression
 
-British nationals should be cautious of political activities, including criticizing the government or its domestic and foreign policies or advocating alternatives to Communist Party rule. Possession of political material, and non-sanctioned religious activities including proselytizing could lead to a temporary ban on leaving the country, a prison sentence, or a full travel ban.
+British nationals should be cautious of political activities, including criticising the government or its domestic and foreign policies or advocating alternatives to Communist Party rule. Possession of political material, and non-sanctioned religious activities including proselytising could lead to a temporary ban on leaving the country, a prison sentence, or a full travel ban.
 
 British nationals of Vietnamese descent should be especially careful with their online postings.
 

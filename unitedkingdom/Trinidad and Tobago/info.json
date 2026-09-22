@@ -1,11 +1,11 @@
 {
     "name": "Trinidad and Tobago",
-    "update_reason": "New information about outdoor activities and adventure tourism (\u2018Safety and security\u2019 page).",
+    "update_reason": "Removal of information about State of Emergency ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Trinidad and Tobago/Warnings and insurance.md",
-            "update_date": "2026-07-30T16:58:19+01:00"
+            "update_date": "2026-09-21T16:13:58+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Trinidad and Tobago/Getting help.md"
         }
     ],
-    "update_date": "2026-07-30T16:58:19+01:00"
+    "update_date": "2026-09-21T16:13:58+01:00"
 }

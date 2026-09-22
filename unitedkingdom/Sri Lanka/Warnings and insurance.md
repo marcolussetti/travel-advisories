@@ -1,13 +1,19 @@
 # Warnings and insurance
 
 Still current at:
-:   27 May 2026
+:   22 September 2026
 
 Updated:
-:   26 May 2026
+:   21 September 2026
 
 Latest update:
-:   New information about Electronic Travel Authorization (ETA) which will now be issued free of charge as of 25 May 2026 ('Entry requirements' page).
+:   Addition of information about heavy rainfall, flooding and landslides (‘Warnings and insurance’ page)
+
+## Heavy rainfall, flooding and landslides
+
+Heavy rainfall during the inter-monsoon season has increased the risk of flooding and landslides across Sri Lanka. Disruption to transport and other services is possible. Check with your travel provider and follow the advice of local authorities.
+
+Sri Lanka Tourism’s 24-hour hotline is available on 1912.
 
 ## Global travel impacts due to escalation in the Middle East
 
