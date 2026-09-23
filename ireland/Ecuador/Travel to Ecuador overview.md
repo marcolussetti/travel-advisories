@@ -21,9 +21,9 @@ Owing to civil unrest, violent crime, and kidnapping, the security status of ‘
 
 ### **State of Emergency**
 
-A state of emergency was renewed on 14 August 2026 for 30 days owing to ongoing internal unrest and armed violence. The current state of emergency applies to the following provinces:
+A state of emergency was renewed on 15 September 2026 for 60 days owing to ongoing internal unrest and armed violence. The current state of emergency applies to the following provinces:
 
-* Pinchincha (Quito is the capital of this province)
+* Pichincha (Quito is the capital of this province)
 * Guayas (Guayaquil is in this province)
 * El Oro
 * Manabí
@@ -31,9 +31,7 @@ A state of emergency was renewed on 14 August 2026 for 30 days owing to ongoing 
 * Santa Elena
 * Santo Domingo
 * Esmeraldas
-* Sucumbíos
-* Azuay
-* La Troncal in the province of Cañar
+* Camilo Ponce Enriquez in the province of Azuay
 * Las Naves in the province of Bolívar
 * La Maná in the province of Cotopaxi
 
