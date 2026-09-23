@@ -78,12 +78,6 @@ It is forbidden to photograph military or public installations. Avoid photograph
 
 Turkish antiquities and other cultural artifacts that are considered of historical value or of national importance cannot be exported. Seek advice from Turkish authorities prior to departure from Türkiye. If the item can be exported, you will require a sales receipt and the official museum export certificate issued by the Turkish customs office.
 
-### 2SLGBTQI+ persons
-
-Turkish law does not prohibit sexual acts between individuals of the same sex. However, homosexuality is not widely socially accepted.
-
-[Travel and your sexual orientation, gender identity, gender expression and sex characteristics](https://travel.gc.ca/travelling/health-safety/lgbt-travel)
-
 ### Dual citizenship
 
 Dual citizenship is legally recognized in Türkiye.

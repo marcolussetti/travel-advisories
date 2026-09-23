@@ -44,18 +44,18 @@ Different entry rules may apply when travelling with a temporary passport or an 
 
 ### Visas
 
-Tourist visa: not required for stays of up to 60 days   
-Business visa: not required for stays of up to 60 days  
-Student visa: required   
-Working visa: required
+Tourist visa: not required for stays of up to 30 days  
+Business visa: required   
+Student visa: required  
+Work visa: required
 
 [Thai visa applications](https://thaievisa.go.th/)
 
-If you're travelling to Thailand for tourism with a regular Canadian passport, you can obtain a 60-day visa exemption on arrival (no visa required), which can be extended at the Immigration Office for another 30 days maximum at the discretion of the immigration officer.
+If you're travelling to Thailand for tourism with a regular Canadian passport, you can obtain a 30-day visa exemption on arrival (no visa required), which can be extended at the Immigration Office for a maximum of 30 days, at the discretion of the immigration officer.
 
-If you wish to stay longer than 60 days, work or study in Thailand, you must obtain the appropriate visa from the Thai authorities by submitting your application online.
+If you wish to stay longer than 30 days, or work or study in Thailand, you must obtain the appropriate visa from the Thai authorities by submitting your application online.
 
-Avoid using visa agents or intermediaries, as Thai authorities actively monitor and strictly enforce visa regulations. If you have a passport with altered or counterfeit visas or stamps, you could face fines, jail, deportation, and future entry bans.
+Avoid using visa agents or intermediaries, as Thai authorities actively monitor and strictly enforce visa regulations. If you have a passport with altered or counterfeit visas or stamps, you could face fines, jail, deportation and future entry bans.
 
 #### Digital Arrival Card
 

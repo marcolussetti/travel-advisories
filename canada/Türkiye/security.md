@@ -129,6 +129,16 @@ If you participate in demonstrations or travel to locations where demonstrations
 
 [Mass gatherings (large-scale events)](https://travel.gc.ca/travelling/health-safety/mass-gatherings)
 
+### 2SLGBTQI+ persons
+
+Turkish law does not criminalize sexual acts between persons of the same sex. However, homosexuality is not widely socially accepted.
+
+2SLGBTQI+ events and gatherings may be subject to local government bans. 2SLGBTQI+ persons may face discrimination, harassment, and violence based on their sexual orientation, gender identity, gender expression, or sex characteristics. 2SLGBTQI+ protestors and activists have been arrested.
+
+2SLGBTQI+ persons should carefully consider the risks of travelling to Türkiye.
+
+[Travel and your sexual orientation, gender identity, gender expression and sex characteristics](https://travel.gc.ca/travelling/health-safety/lgbt-travel)
+
 ### Crime
 
 Petty crime, such as pickpocketing and purse snatching, can occur throughout Türkiye.
