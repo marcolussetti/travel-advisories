@@ -1,11 +1,11 @@
 {
     "name": "Bolivia",
-    "update_reason": "Updated information on flooding, landslides and snowfall (\u2018Safety and security\u2019 page).",
+    "update_reason": "Updated information about the State of Emergency ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Bolivia/Warnings and insurance.md",
-            "update_date": "2026-08-21T10:53:00+01:00"
+            "update_date": "2026-09-22T16:45:15+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Bolivia/Getting help.md"
         }
     ],
-    "update_date": "2026-08-21T10:53:00+01:00"
+    "update_date": "2026-09-22T16:45:15+01:00"
 }

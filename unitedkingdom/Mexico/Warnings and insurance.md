@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   12 September 2026
+:   23 September 2026
 
 Updated:
-:   11 September 2026
+:   22 September 2026
 
 Latest update:
-:   Removal of information about Hurricane Marie ('Warnings and insurance' page).
+:   Addition of information about Hurricane Polo ('Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/69a1c6c8ec82ce45f05bd70e/FCDO__TA__065_-_Mexico_Travel_Advice_Ed5__WEB_.jpg)
 
@@ -106,6 +106,17 @@ FCDO advises against all but essential travel to within 40km of the Guatemalan b
 FCDO advises against all but essential travel on Federal Highway 199 (Carretera Federal 199) between Rancho Nuevo (just outside San Cristobal de las Casas) and the Chancalá junction just outside Palenque (where Federal Highway 199 meets Federal Highway 307).
 
 Find out more about [why FCDO advises against travel to these areas](/foreign-travel-advice/mexico/regional-risks).
+
+## Hurricane Polo
+
+Hurricane Polo is bringing heavy rainfall across Mexico’s southwestern coast, including parts of Guerrero, Michoacan and Oaxaca states. Heavy rain is expected to continue during the week of 21 September, and may cause life-threatening flooding and landslides. A hurricane warning is in place.
+
+Monitor local and international weather updates, including [US National Hurricane Center](https://www.nhc.noaa.gov/) and [Mexican Meteorological Service](https://www.nhc.noaa.gov/).
+
+Follow advice from local authorities and your tour operator.
+
+See [extreme weather and natural hazards](https://www.gov.uk/guidance/extreme-weather-and-natural-hazards)
+for advice about how to prepare for travel during hurricane season and what to do ahead of a storm.
 
 ## Before you travel
 

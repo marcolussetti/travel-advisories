@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   22 August 2026
+:   23 September 2026
 
 Updated:
-:   21 August 2026
+:   22 September 2026
 
 Latest update:
-:   Updated information on flooding, landslides and snowfall (‘Safety and security’ page).
+:   Updated information about the State of Emergency ('Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/6a479e848effd97622f53c15/FCDO__TA__098_-_Bolivia_Travel_Advice_Ed1__WEB_.jpg)
 
@@ -24,7 +24,7 @@ Find out more about [why FCDO advises against travel](https://www.gov.uk/forei
 
 ## State of Emergency
 
-A State of Emergency has been declared in Bolivia, giving police and armed forces powers to remove roadblocks, disrupt protests and detain those not complying with the new measures for up to 8 hours without charge. This could lead to violence. Follow the advice of local authorities, be wary of unverified or unofficial information, stay alert and keep away from protests and roadblocks.
+A State of Emergency has been declared in Bolivia, giving police and armed forces powers to remove roadblocks, disrupt protests and detain those not complying with the new measures for up to 8 hours without charge. Follow the advice of local authorities, be wary of unverified or unofficial information, stay alert and keep away from protests and roadblocks.
 
 ## Protests and roadblocks
 
@@ -37,10 +37,6 @@ Any British national who requires urgent consular assistance, should conta
 Check [road status updates from the Bolivian road authority](https://transitabilidad.abc.gob.bo/mapa/) (available inside Bolivia only) to see which roads are blocked.
 
 If you purchase a bus ticket ‘condicionado’ it means the bus company may not be able to guarantee arrival to your destination.
-
-## Leaving Bolivia
-
-Ensure your travel documents remain valid and confirm you have any required visas for onward travel.
 
 ## Before you travel
 
