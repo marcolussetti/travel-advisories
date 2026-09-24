@@ -295,11 +295,22 @@ When travelling by car in Colombia:
 
 #### Roadblocks
 
-### Access to Tayrona National Park
+### Riots in Santa Marta and disruptions on the Troncal del Caribe (Route 90)
 
-In the past, the Troncal del Caribe (Route 90) between Calabazo and Los Linderos has been closed due to roadblocks. This area is located near Tayrona National Park. Although the road has reopened, more road closures or travel disruptions are possible if there are new protests in the area. These could occur with little warning. If you plan to travel to the area, monitor local media for the latest information.
+Following a conflict between the Colombian Armed Forces and an illegal armed group, riots have erupted in the city of Santa Marta. The military has been deployed to Santa Marta. Businesses and schools are closed and transportation has been disrupted. Authorities are prohibiting the circulation of motorcycles with male passengers.
+
+In addition, there are roadblocks on the Troncal del Caribe (Route 90) near Barrio 11 de Noviembre and traffic disruptions between Santa Marta and Guachaca as a result of the conflict.
+
+Route 90 is used to access Tayrona National Park and other popular tourist destinations east of Santa Marta. Consider delaying travel along Route 90.
+
+If you’re in or near Santa Marta:
+
+* follow the instructions of local authorities, including any shelter-in-place orders
+* monitor local media for the latest information
 
 Local authorities may deny you entry to certain areas due to emerging security threats. Military checkpoints outside cities are common.
+
+In the past, parts of the Troncal del Caribe (Route 90) have been closed due to roadblocks. Route 90 is used to access Tayrona National Park. More road closures or travel disruptions are possible if there are new protests or security operations in the area. These could occur with little warning.
 
 Strikes occur often in Colombia and associated roadblocks on major transit routes may cause significant travel disruptions.
 

@@ -2,6 +2,18 @@
 
 ## Natural disasters and climate
 
+### Forest fires in Ricaurte Province
+
+Forest fires are affecting parts of Ricaurte Province, near the town of Villa de Leyva. A state of public emergency has been declared and large-scale evacuations are underway.
+
+The fires could lead to road closures, transportation disruptions and reduced visibility due to smoke and poor air quality. Conditions can change rapidly. Stay away from affected areas.
+
+If you are near a wildfire:
+
+* follow the instructions of local authorities, including evacuation orders
+* monitor local media for updates
+* be prepared to modify your travel plans or even evacuate the area on short notice
+
 Colombia is subject to various natural disasters such as:
 
 * droughts
