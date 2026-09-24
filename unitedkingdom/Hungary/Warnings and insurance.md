@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   12 August 2026
+:   24 September 2026
 
 Updated:
-:   11 August 2026
+:   23 September 2026
 
 Latest update:
-:   Updated information on European Entry-Exit System (EES) (‘Entry requirements’ page).
+:   Removal of information about restrictions to LGBT+ marches and events ('Safety and security' page).
 
 ## Before you travel
 

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   23 September 2026
+:   24 September 2026
 
 Updated:
-:   22 September 2026
+:   24 September 2026
 
 Latest update:
-:   Addition of information about Hurricane Polo ('Warnings and insurance' page).
+:   Updated information about Hurricane Polo ('Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/69a1c6c8ec82ce45f05bd70e/FCDO__TA__065_-_Mexico_Travel_Advice_Ed5__WEB_.jpg)
 
@@ -109,11 +109,13 @@ Find out more about [why FCDO advises against travel to these areas](/foreign-tr
 
 ## Hurricane Polo
 
-Hurricane Polo is bringing heavy rainfall across Mexico’s southwestern coast, including parts of Guerrero, Michoacan and Oaxaca states. Heavy rain is expected to continue during the week of 21 September, and may cause life-threatening flooding and landslides. A hurricane warning is in place.
+Hurricane Polo is affecting Mexico’s southwestern coast. Heavy rain is expected to continue during the week of 21 September and may cause life-threatening flooding and landslides. A tropical cyclone warning is in place.
 
 Monitor local and international weather updates, including [US National Hurricane Center](https://www.nhc.noaa.gov/) and [Mexican Meteorological Service](https://www.nhc.noaa.gov/).
 
 Follow advice from local authorities and your tour operator.
+
+The hurricane is forecast to move towards Baja California on the weekend of 26 and 27 September.
 
 See [extreme weather and natural hazards](https://www.gov.uk/guidance/extreme-weather-and-natural-hazards)
 for advice about how to prepare for travel during hurricane season and what to do ahead of a storm.

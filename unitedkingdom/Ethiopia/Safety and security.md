@@ -44,23 +44,22 @@ A nationwide general election is due to be held on 1 June 2026. Stay away from l
 
 ### Conflict and violence
 
-Tensions are high between Ethiopia and Eritrea, the security situation in Northern Ethiopia may deteriorate quickly.
-
-Between November 2020 and November 2022, conflict took place in the northern regions of Ethiopia, in particular in Tigray but also in Amhara and Afar.
-
-Following the end of the conflict there have remained high tensions and occasional clashes between Tigray People’s Liberation Front aligned forces and the Ethiopian military. In 2025 there were increased political and security tensions in some areas with the seizing of administrative offices, checkpoints, the arrest of officials and disruption to goods and services. Since 26 January there have been renewed clashes in Tigray, including reports of drone strikes.
-
-Since spring 2023 there has been significant conflict in Amhara region, between Amhara militia groups (Fano) and the Ethiopian authorities, as well as opportunistic crime and banditry.
-
-There have been increased tensions and violence between armed groups and the security forces across Oromia region.
-
-Unrest can start with no notice. There are ongoing armed clashes between ethnic groups in much of the country. Foreigners have not been targeted. However you should:
+Unrest can start with no notice. There are ongoing armed clashes between ethnic groups and with security forces in much of the country. Foreigners have not been targeted, but can get caught up in events.  You should:
 
 * monitor local media
 * follow the advice of local authorities and your tour operator
 * reconsider travel to affected areas
+* stay away from large gatherings and demonstrations
 
-Avoid large gatherings and demonstrations. Comply with the law, including in relation to carrying ID cards, and possession of foreign currency and weapons. Avoid confrontation and follow the instructions of the authorities.
+Tensions are high between Ethiopia and Eritrea, the security situation in Northern Ethiopia may deteriorate quickly.
+
+Between November 2020 and November 2022, conflict took place in the northern regions of Ethiopia, in particular in Tigray but also in Amhara and Afar.
+
+The security situation in northern Ethiopia may deteriorate quickly. Tensions are high between Ethiopia and Eritrea, and between the Tigray People’s Liberation Front and the Ethiopian Federal Government. There have been renewed clashes between Tigray People’s Liberation Front aligned forces and the Ethiopian military in parts of Tigray, including reports of drone strikes, which have increased in frequency since August 2026. This follows a conflict which took place between November 2020 and November 2022, in the northern regions of Ethiopia, in particular in Tigray but also in Amhara and Afar.
+
+Since spring 2023 there has been significant conflict in Amhara region, between Amhara militia groups (Fano) and the Ethiopian authorities, as well as opportunistic crime and banditry.
+
+There have been increased tensions and violence between armed groups and the security forces across Oromia region.
 
 ### Strikes and protests
 

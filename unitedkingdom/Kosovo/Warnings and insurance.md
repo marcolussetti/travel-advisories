@@ -1,17 +1,17 @@
 # Warnings and insurance
 
 Still current at:
-:   18 September 2026
+:   24 September 2026
 
 Updated:
-:   17 September 2026
+:   23 September 2026
 
 Latest update:
-:   Updated information about large public gatherings in Pristina and other urban centres that may cause travel disruption (‘Warnings and insurance’ page).
+:   Updated information about large gatherings in Pristina and other urban areas of Kosovo (‘Warnings and insurance’ page).
 
 ## Large gatherings in Pristina and other urban centres
 
-There have been demonstrations in Pristina on 12 and 16 September and there is potential for further large gatherings over coming days. This could lead to some disruption, including to traffic and public transport. Keep up to date with local developments, allow extra time for travel, and stay away from any large crowds or demonstrations.
+Large gatherings are taking place, including in Pristina in the evenings. This could lead to some disruption, including to traffic and public transport. Keep up to date with local developments, allow extra time for travel, and stay away from any large crowds or demonstrations.
 
 ## Before you travel
 

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   4 September 2026
+:   24 September 2026
 
 Updated:
-:   3 September 2026
+:   23 September 2026
 
 Latest update:
-:   Updated information on earthquake response and removal of information about the closure of Matecaña International Airport ('Warnings and insurance' page).
+:   Updated information on heightened security measures in Santa Marta ('Warnings and insurance' page).
 
 ![](https://assets.publishing.service.gov.uk/media/6a1022481eb143220d8d27b8/FCDO__TA__054_-_Colombia_Travel_Advice_Ed5__WEB___3_.jpg)
 
@@ -62,6 +62,12 @@ FCDO advises against all but essential travel to within 5km of the border with E
 FCDO advises against all but essential travel to Orito, San Miguel, Valle del Guamuez, Puerto Caicedo, Puerto Guzmán, Puerto Asis and Puerto Leguizamo in Putumayo Department.
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/colombia/regional-risks).
+
+## Santa Marta Security Situation
+
+Santa Marta remains under heightened security measures following a major operation against armed groups in the area. The city has experienced a deterioration in public order, including damage to vehicles and local businesses, and disruption to transport services. Schools and many businesses have closed. A further deployment of police and military is expected.
+
+Risks are also present along the main transport Route 90 (Troncal del Caribe), a route frequently used by both domestic and international visitors. This route connects Santa Marta with the Tayrona National Park, Palomino, and Riohacha. Travellers should plan ahead, follow advice of local authorities, and see safety and security section.
 
 ## Earthquake in Chocó
 

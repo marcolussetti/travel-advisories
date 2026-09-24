@@ -1,11 +1,11 @@
 {
     "name": "Mexico",
-    "update_reason": "Addition of information about Hurricane Polo ('Warnings and insurance' page).",
+    "update_reason": "Updated information about Hurricane Polo ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Mexico/Warnings and insurance.md",
-            "update_date": "2026-09-22T16:13:12+01:00"
+            "update_date": "2026-09-24T11:34:46+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Mexico/Getting help.md"
         }
     ],
-    "update_date": "2026-09-22T16:13:12+01:00"
+    "update_date": "2026-09-24T11:34:46+01:00"
 }

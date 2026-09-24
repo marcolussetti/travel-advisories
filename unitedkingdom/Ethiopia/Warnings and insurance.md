@@ -1,18 +1,18 @@
 # Warnings and insurance
 
 Still current at:
-:   30 May 2026
+:   24 September 2026
 
 Updated:
-:   29 May 2026
+:   24 September 2026
 
 Latest update:
-:   Addition of information about nationwide elections on 1 June (‘Warnings and insurance’ page).
+:   FCDO now advises against all travel to the parts of Afar region within 10km of the border with Eritrea and within 20km of the Tigray-Afar border. FCDO continues to advise against all travel and all but essential travel to other parts of Ethiopia. (Warnings and insurance)
 
-![](https://assets.publishing.service.gov.uk/media/6983415b20fe1bb69ac243ed/FCDO__TA__017_-_Ethiopia_Travel_Advice_Ed42__WEB_.jpg)
+![](https://assets.publishing.service.gov.uk/media/6ab4c1d88cb3c0580e5010eb/FCDO__TA__017_-_Ethiopia_Travel_Advice_Ed43__WEB_.jpg)
 
 
-[Download a more detailed map (PDF, 819 KB)](https://assets.publishing.service.gov.uk/media/6983415b13622473b51ca9d7/FCDO__TA__017_-_Ethiopia_Travel_Advice_Ed42__1_.pdf)
+[Download a more detailed map (PDF, 822 KB)](https://assets.publishing.service.gov.uk/media/6ab45dabfe72ed1e2b02efad/FCDO__TA__017_-_Ethiopia_Travel_Advice_Ed43_6115.pdf)
 
 ## Areas where FCDO advises against travel
 
@@ -40,7 +40,7 @@ FCDO advises against all travel to Amhara region.
 
 ### Afar region
 
-FCDO advises against all travel to the parts of Afar region within 10km of the border with Eritrea.
+FCDO advises against all travel to the parts of Afar region within 10km of the border with Eritrea and within 20km of the Tigray-Afar border.
 
 ### Gambela region
 
@@ -94,11 +94,9 @@ FCDO advises against all but essential travel to the rest of Benishangul-Gumuz r
 
 Find out more about why [FCDO advises against travel to these regions](/foreign-travel-advice/ethiopia/regional-risks).
 
-## Nationwide elections
+## Suspended flights to and from Tigray region
 
-Nationwide elections will be held on Monday 1 June. A public holiday has been declared and public buildings and banks will be closed. There will be high security around polling stations and potential vehicle and ID checks.
-
-Allow extra time for essential journeys, follow instructions from local authorities and carry identification with you.
+All civilian flights to and from Tigray region were suspended on 22 September 2026. Flights to and from northern Ethiopia could be suspended or cancelled at short notice.
 
 ## Support from FCDO
 

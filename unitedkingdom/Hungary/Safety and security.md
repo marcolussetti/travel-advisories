@@ -61,8 +61,6 @@ Airports in Hungary have excellent technology and security for detecting illegal
 
 Same-sex sexual activity is legal in Hungary. Budapest is generally tolerant and open. Outside of Budapest, showing affection in public may receive unwanted attention. Read more [advice for LGBT+ travellers](https://www.gov.uk/guidance/lesbian-gay-bisexual-and-transgender-foreign-travel-advice).
 
-Hungary has passed legislation allowing the banning of rallies and marches that depict or promote LGBT+ identities to minors. Participants could be identified by facial recognition technology and face fines of up to 200,000 Hungarian Forints. The Hungarian government classified Budapest Pride 2025 as illegal under this legislation.
-
 ## Outdoor activities and adventure tourism
 
 ### Festivals
