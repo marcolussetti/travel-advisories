@@ -9,3 +9,7 @@ Illegal drug use (no matter what the drug) carries stiff penalties, including fi
 ### **Public Transport**
 
 You must validate printed, single-journey tickets before you go down to the metro or on to the suburban train. On trams, trolleys, buses it must be validated right after you get on the vehicle. Alternatively use the Budapest Go application and buy single tickets online before you get on the vehicle. The mobile phone should read the QR code of the vehicle before you get on. The code is beside the doors outside the vehicle. It is not possible to activate the code once you got on the vehicle. **If you do not validate tickets, you could receive a fine from an inspector, which can be an uncomfortable experience.**
+
+### **Demonstrations**
+
+Hungarian police authorities may require notification of public demonstrations. Persons participating in illegal demonstrations may face penalties, including large fines. Citizens should exercise caution in areas where demonstrations and large gatherings take place, recognise local cultural sensitives and follow the instructions of local authorities.

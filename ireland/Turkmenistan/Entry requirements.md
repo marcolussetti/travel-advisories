@@ -20,4 +20,6 @@ It’s advisable to take a number of photocopies of your passport with you when 
 
 ### **Dual Nationality**
 
-Turkmenistan does not recognise dual nationality and you are expected to have only one passport with you. You are not allowed to enter Turkmenistan without the prior approval of the Turkmen authorities.
+Dual nationality is prohibited by Turkmenistan for all Turkmen citizens. If you hold both Turkmen and Irish citizenships, you may be prevented from leaving Turkmenistan by Turkmen border authorities, until you formally renounce your Turkmen citizenship. The application process to renounce Turkmen citizenship can take many months from inside the country. Before attempting to travel to Turkmenistan, you should contact the nearest Embassy of Turkmenistan for advice. You may also wish to seek local legal advice on the renunciation process regarding the documentation and steps required. The Embassy’s ability to provide consular assistance in these cases is very limited.
+
+Dual nationality is not recognised by Turkmenistan. If you are an Irish citizen holding another nationality, you are expected to have only one passport with you when entering the country and you should enter and exit with the same passport.

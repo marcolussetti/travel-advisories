@@ -8,7 +8,7 @@ High Degree of Caution
 
 If you have a need to travel to Turkmenistan, even when transiting, you are strongly advised to contact the [**Turkmen Embassy London**](https://uk.tmembassy.gov.tm/en) for more information on the requirements for entry.
 
-**If you are seeing to enter Turkmenistan from Iran, by land border, you must contact the Embassy of Ireland in Ankara, Türkiye or the Department of Foreign Affairs and Trade in Dublin, to facilitate this transit, which is subject to the approval of the Turkmen authorities.** **You should contact us as early as possible before intended travel.**
+**If you are seeking to enter Turkmenistan from Iran, by land border, you must contact the Embassy of Ireland in Ankara, Türkiye or the Department of Foreign Affairs and Trade in Dublin, to facilitate this transit, which is subject to the approval of the Turkmen authorities.** **You should contact us as early as possible before intended travel.**
 
 The Department of Foreign Affairs and Trade advises against all travel to the Turkmenistan/Afghanistan border area.
 
@@ -17,6 +17,10 @@ Certain parts of Turkmenistan have been designated as ‘restricted’ and speci
 Irish citizens require a visa and letter of invitation to enter Turkmenistan.  Further information about visas and letters of invitation can be obtained from the [**Turkmen Embassy in London**](https://uk.tmembassy.gov.tm/en).
 
 A valid passport is required for travel to Turkmenistan. Irish passports should have a minimum validity of six months. Passport cards cannot be used.
+
+Dual nationality is prohibited by Turkmenistan for all Turkmen citizens. If you hold both Turkmen and Irish citizenships, you may be prevented from leaving Turkmenistan by Turkmen border authorities, until you formally renounce your Turkmen citizenship. The application process to renounce Turkmen citizenship can take many months from inside the country. Before attempting to travel to Turkmenistan, you should contact the nearest Embassy of Turkmenistan for advice. You may also wish to seek local legal advice on the renunciation process regarding the documentation and steps required. The Embassy’s ability to provide consular assistance in these cases is very limited.
+
+Dual nationality is not recognised by Turkmenistan. If you are an Irish citizen holding another nationality, you are expected to have only one passport with you when entering the country and you should enter and exit with the same passport.
 
 Visitors to Turkmenistan are advised to follow the guidance of national and local authorities and stay fully informed of what's going on by monitoring local news and social media.
 
