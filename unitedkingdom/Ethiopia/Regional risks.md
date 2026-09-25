@@ -18,7 +18,7 @@ FCDO advises against all travel to within:
 * 10km of the border with South Sudan
 * 100km of the Ethiopian border with Somalia and Kenya in Ethiopia’s Somali region, and within 30km of the Ethiopian border with Somalia in Fafan zone, except the border town and crossing at Wajale, and the principal road between Jijiga and Wajale
 * 10km of the border with Kenya, except for principal roads and towns
-* 10km of the border with Eritrea
+* 20km of the border with Eritrea
 
 FCDO advises against all but essential travel to:
 
@@ -50,7 +50,7 @@ There has been an increase in roadblocks across Amhara region.
 
 ## Afar region
 
-FCDO advises against all travel to the parts of Afar region within 10km of the border with Eritrea.
+FCDO advises against all travel to the parts of Afar region within 20km of the border with Eritrea and within 50km of the Tigray region, and advises against all but essential travel to the rest of Afar..
 
 There are irregular armed clashes between ethnic groups in Afar region and Somali Regional State, in particular along the main Addis Ababa to Djibouti road (A1) and the surrounding areas. Attacks are sporadic and infrequent, but may involve roadblocks and vehicles being targeted.
 

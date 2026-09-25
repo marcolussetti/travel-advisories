@@ -1,18 +1,18 @@
 # Warnings and insurance
 
 Still current at:
-:   24 September 2026
+:   25 September 2026
 
 Updated:
 :   24 September 2026
 
 Latest update:
-:   FCDO now advises against all travel to the parts of Afar region within 10km of the border with Eritrea and within 20km of the Tigray-Afar border. FCDO continues to advise against all travel and all but essential travel to other parts of Ethiopia. (Warnings and insurance)
+:   FCDO now advises against all travel to the parts of Afar region within 20km of the border with Eritrea and within 50km of the Tigray-Afar border, and against all but essential travel to the rest of Afar. FCDO continues to advise against all travel and all but essential travel to other parts of Ethiopia. (Warnings and insurance page)
 
-![](https://assets.publishing.service.gov.uk/media/6ab4c1d88cb3c0580e5010eb/FCDO__TA__017_-_Ethiopia_Travel_Advice_Ed43__WEB_.jpg)
+![](https://assets.publishing.service.gov.uk/media/6ab5808ba9c3d267bccceedc/FCDO_TA_017_-_Ethiopia_Travel_Advice_Ed44_WEB__003_.jpg)
 
 
-[Download a more detailed map (PDF, 822 KB)](https://assets.publishing.service.gov.uk/media/6ab45dabfe72ed1e2b02efad/FCDO__TA__017_-_Ethiopia_Travel_Advice_Ed43_6115.pdf)
+[Download a more detailed map (PDF, 827 KB)](https://assets.publishing.service.gov.uk/media/6ab5808cfceb6fb3a65011d1/Ethiopia_Travel_Advice.pdf)
 
 ## Areas where FCDO advises against travel
 
@@ -24,7 +24,7 @@ FCDO advises against all travel to within:
 * 10km of the border with South Sudan
 * 100km of the Ethiopian border with Somalia and Kenya in Ethiopia’s Somali region, and within 30km of the Ethiopian border with Somalia in Fafan zone, except the border town and crossing at Wajale, and the principal road between Jijiga and Wajale
 * 10km of the border with Kenya, except for principal roads and towns
-* 10km of the border with Eritrea
+* 20km of the border with Eritrea
 
 FCDO advises against all but essential travel to:
 
@@ -40,7 +40,11 @@ FCDO advises against all travel to Amhara region.
 
 ### Afar region
 
-FCDO advises against all travel to the parts of Afar region within 10km of the border with Eritrea and within 20km of the Tigray-Afar border.
+FCDO advises against all travel to within 20km of the border with Eritrea
+
+FCDO advises against all travel to within 50km of the boundary with Tigray region.
+
+FCDO advises against all but essential travel to the rest of Afar.
 
 ### Gambela region
 
@@ -97,6 +101,16 @@ Find out more about why [FCDO advises against travel to these regions](/foreign-
 ## Suspended flights to and from Tigray region
 
 All civilian flights to and from Tigray region were suspended on 22 September 2026. Flights to and from northern Ethiopia could be suspended or cancelled at short notice.
+
+If you are in the Tigray region you should shelter in place:
+
+* Stay indoors whenever possible
+* Obey any local restrictions such as curfews
+* Monitor the media for developments that would allow you to leave safely
+* Stay in touch with your airline for updates.
+* As soon as you judge it is safe to do so you should leave the Tigray region using commercial means.
+
+Read FCDO advice on [how to deal with a crisis overseas](https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas).
 
 ## Support from FCDO
 

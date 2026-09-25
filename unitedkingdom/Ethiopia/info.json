@@ -1,11 +1,11 @@
 {
     "name": "Ethiopia",
-    "update_reason": "FCDO now advises against all travel to the parts of Afar region within 10km of the border with Eritrea and within 20km of the Tigray-Afar border.  FCDO continues to advise against all travel and all but essential travel to other parts of Ethiopia.  (Warnings and insurance)",
+    "update_reason": "FCDO now advises against all travel to the parts of Afar region within 20km of the border with Eritrea and within 50km of the Tigray-Afar border, and against all but essential travel to the rest of Afar. FCDO continues to advise against all travel and all but essential travel to other parts of Ethiopia. (Warnings and insurance page)",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Ethiopia/Warnings and insurance.md",
-            "update_date": "2026-09-24T00:19:17+01:00"
+            "update_date": "2026-09-24T21:04:06+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Ethiopia/Getting help.md"
         }
     ],
-    "update_date": "2026-09-24T00:19:17+01:00"
+    "update_date": "2026-09-24T21:04:06+01:00"
 }
