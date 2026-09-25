@@ -10,32 +10,6 @@ This section has information and advice about health risks you might face when t
 
 It's best to talk to a healthcare provider or visit a travel health clinic preferably 6 weeks before your trip to get personalized health advice. Even if your travel date is coming up soon, it's still worthwhile to make an appointment.
 
-### Outbreak Monitoring
-
-#### Cyclosporiasis in the United States
-
-State and federal partners in the U.S. are working together to investigate several outbreaks of cyclosporiasis in the country. Cyclosporiasis is an illness of the intestine caused by a parasite called Cyclospora. People can become infected by eating food or drinking water that contains the Cyclospora parasite. It’s unlikely to spread directly between people.
-
-The most common symptom of infection is watery diarrhea. If left untreated, you may have the symptoms for a few days up to a few months. Most people have symptoms for 6 to 7 weeks. Sometimes, symptoms may go away and then return.
-
-You can reduce your risk of infection by:
-
-* thoroughly washing fresh fruits and vegetables under clean, cool, running water before eating them.  
-  + Disinfectants and produce washes may not completely remove Cyclospora.
-  + Wash produce even if it’s labelled as pre-washed or ready to eat.
-* cooking produce while travelling in states experiencing an outbreak of cyclosporiasis.
-* following safe food and water practices while travelling.
-
-For more information, see [Eat and drink safely outside Canada](https://travel.gc.ca/travelling/health-safety/food-water).
-
-If you develop diarrhea that is severe, watery, or lasts more than a few days, seek medical attention.
-
-**Learn more:**   
-[Cyclosporiasis (Cyclospora)](https://www.canada.ca/en/public-health/services/diseases/cyclosporiasis-cyclospora.html)  
-[Surveillance of Cyclosporiasis (U.S. CDC)](https://www.cdc.gov/cyclosporiasis/php/surveillance/index.html)  
-[Cyclospora Outbreak with Unknown Source | Cyclosporiasis (U.S. CDC)](https://www.cdc.gov/cyclosporiasis/outbreaks/07-26/index.html)  
-[Domestically Acquired Cyclosporiasis Cases in Multiple U.S. States, 2026 (U.S. CDC)](https://www.cdc.gov/han/php/notices/han00531.html)
-
 ### Routine vaccines
 
 Make sure your routine vaccinations are up-to-date before you travel, no matter where you’re going.
@@ -146,7 +120,7 @@ Eating or drinking unsafe food or water, or swimming in contaminated water can m
 * Avoid, if possible, getting water in your eyes, mouth, or nose when swimming in freshwater (like streams, lakes, or canals), especially after heavy rain or flooding - the water might look clean but can still be contaminated
 * Don’t swallow water when bathing, showering, swimming in pools, or using hot tubs
 
-[Eat and drink safely abroad](https://travel.gc.ca/travelling/health-safety/food-water)
+[Eat and drink safely outside Canada](https://travel.gc.ca/travelling/health-safety/food-water)
 
 ### Tick and insect bite prevention
 
@@ -256,7 +230,7 @@ When travelling, you can reduce your risk of getting or spreading respiratory in
 
 [Mass gatherings (large-scale events)](https://travel.gc.ca/travelling/health-safety/mass-gatherings)  
 [Clean your hands to help reduce the spread of infectious diseases](https://www.canada.ca/en/public-health/services/healthy-living/hand-hygiene.html)  
-[Respiratory infectious diseases: How to reduce the spread with personal protective measures](https://www.canada.ca/en/public-health/services/diseases/respiratory-infectious-diseases-reduce-spread-personal-protective-measures.html)
+[Respiratory infectious diseases: Reduce your risk](https://www.canada.ca/en/public-health/services/diseases/respiratory-infectious-diseases-reduce-spread-personal-protective-measures.html)
 
 To lower your risk of getting sexually transmissible infections (STIs), HIV, and mpox, you can:
 

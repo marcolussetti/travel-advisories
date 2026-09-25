@@ -1,7 +1,7 @@
 {
     "name": "Colombia",
-    "update_reason": "Safety and security section \u2013 added information on riots in Santa Marta and disruptions on the Troncal del Caribe (Route 90)",
-    "update_date": "2026-09-23T17:06:00",
+    "update_reason": "Safety and security section \u2013 updated information on the security situation in Santa Marta and disruptions on the Troncal del Caribe (Route 90)",
+    "update_date": "2026-09-24T12:40:00",
     "sections": {
         "risk": "canada/Colombia/risk.md",
         "security": "canada/Colombia/security.md",

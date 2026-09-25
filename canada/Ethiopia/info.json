@@ -1,7 +1,7 @@
 {
     "name": "Ethiopia",
-    "update_reason": "Editorial change",
-    "update_date": "2026-08-20T13:45:00",
+    "update_reason": "Risk levels section \u2013 avoid all travel to Afar; safety and security section \u2013 added information on the security situation in northern Ethiopia",
+    "update_date": "2026-09-24T13:03:00",
     "sections": {
         "risk": "canada/Ethiopia/risk.md",
         "security": "canada/Ethiopia/security.md",

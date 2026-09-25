@@ -295,11 +295,11 @@ When travelling by car in Colombia:
 
 #### Roadblocks
 
-### Riots in Santa Marta and disruptions on the Troncal del Caribe (Route 90)
+### Security situation in Santa Marta and disruptions on the Troncal del Caribe (Route 90)
 
-Following a conflict between the Colombian Armed Forces and an illegal armed group, riots have erupted in the city of Santa Marta. The military has been deployed to Santa Marta. Businesses and schools are closed and transportation has been disrupted. Authorities are prohibiting the circulation of motorcycles with male passengers.
+Following a major security operation against an illegal armed group, retaliatory violence and disturbances have erupted in the city of Santa Marta. This group has announced an armed transportation blockade, shutdown of civilian activities and an around-the-clock curfew until 12 pm on September 25, 2026. Businesses and schools are closed and transportation has been disrupted. The military has been deployed to Santa Marta and authorities are prohibiting the circulation of motorcycles with male passengers.
 
-In addition, there are roadblocks on the Troncal del Caribe (Route 90) near Barrio 11 de Noviembre and traffic disruptions between Santa Marta and Guachaca as a result of the conflict.
+In addition, there are roadblocks on the Troncal del Caribe (Route 90) near Barrio 11 de Noviembre and traffic disruptions between Santa Marta and Guachaca as a result of the security operation.
 
 Route 90 is used to access Tayrona National Park and other popular tourist destinations east of Santa Marta. Consider delaying travel along Route 90.
 

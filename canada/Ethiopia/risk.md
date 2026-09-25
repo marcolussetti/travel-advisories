@@ -18,11 +18,11 @@ The features in this map do not constitute an authoritative source of geographic
 
 ### ETHIOPIA - AVOID NON-ESSENTIAL TRAVEL
 
-[Avoid non-essential travel](#levels "Risk Levels") to Ethiopia due to civil unrest, violence, fuel shortages, armed conflict and crime. The security situation can deteriorate without warning.
+[Avoid non-essential travel](#levels "Risk Levels") to Ethiopia due to civil unrest, violence, fuel shortages, armed conflict and crime. The security situation can deteriorate further without warning.
 
 This advisory **excludes** Addis Ababa where you should exercise a high degree of caution.
 
-Additional regional advice and advisories are in effect. Our ability to provide consular assistance is limited in some regions.
+Our ability to provide consular assistance is limited in some regions.
 
 ### Addis Ababa - Exercise a high degree of caution
 
@@ -32,6 +32,7 @@ Additional regional advice and advisories are in effect. Our ability to provide 
 
 [Avoid all travel](#levels "Risk Levels") to the following areas in the northern regions due to armed conflict, civil unrest and the unpredictable security situation:
 
+* Afar
 * Amhara
 * Benishangul-Gumuz
 * Tigray
@@ -53,7 +54,6 @@ Additional regional advice and advisories are in effect. Our ability to provide 
 
 [Avoid all travel](#levels "Risk Levels") to the following border areas due to persistent instability, military activity, banditry, the high risk of terrorist attacks, kidnapping, violence and landmines:
 
-* 10 km of the border with Eritrea
 * 100 km of the Somali region border with Somalia and Kenya
 * 30 km of the border with Somalia in Fafan zone, except for road C104, the town of Wajale and its border crossing where you should avoid non-essential travel
 * 10 km of the border with Somalia in the Sitti zone

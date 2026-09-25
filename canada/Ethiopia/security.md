@@ -2,6 +2,23 @@
 
 ## Safety and security
 
+### Security situation in Northern Ethiopia
+
+Fighting is ongoing between armed groups and the Ethiopian military in Tigray, Afar and Amhara.
+
+Flights to and from Tigray are suspended until further notice.
+
+The security situation is unpredictable and could deteriorate further.
+
+If you are in a region affected by an armed conflict:
+
+* shelter-in-place until the situation stabilizes and until it is safe to leave the region
+* monitor local media to stay informed on the evolving situation
+* avoid military, police and security installations
+* expect heavy security measures and increased security presence
+* sign up for the [Registration of Canadians Abroad](https://travel.gc.ca/travelling/registration) service to receive important safety updates from the Government of Canada
+* contact the Embassy of Canada in Addis Ababa by email if you require consular assistance: [consul.addis@international.gc.ca](mailto:consul.addis@international.gc.ca)
+
 ### Fuel shortages
 
 Ethiopia is experiencing fuel shortages. There are long wait times at gas stations across the country.
@@ -32,16 +49,6 @@ If you travel to Ethiopia:
 * make sure to stop at all checkpoints and roadblocks, even if they appear unattended
 * if you are stopped by security forces, stay calm and follow instructions
 
-If you are in a region affected by an armed conflict:
-
-* monitor local media to stay informed on the evolving situation
-* avoid military, police and security installations
-* expect heavy security measures and increased security presence
-* follow the instructions of local authorities
-* shelter-in-place until the situation stabilizes and until it is safe to leave the region (flights and land transportation may be disrupted)
-* sign up for the [Registration of Canadians Abroad](https://travel.gc.ca/travelling/registration) service to receive important safety updates from the Government of Canada
-* contact the Embassy of Canada in Addis Ababa by email if you require consular assistance: [consul.addis@international.gc.ca](mailto:consul.addis@international.gc.ca)
-
 Landmines and unexploded ordnance still pose a serious risk in several regions, particularly those affected by ongoing or past conflicts, as well as in several regional and international border areas.
 
 * Be especially vigilant in remote areas
@@ -62,15 +69,13 @@ A state of emergency is in effect across the region. This allows the police and 
 * enter private properties to conduct searches
 * detain persons of interest
 
-[Advice if you are in the Amhara region or affected by an armed conflict](#advice)
+[Advice if you are in the Amhara region or affected by an armed conflict](#security)
 
 ### Tigray region
 
 Rival armed groups continue to fight for territorial control, particularly along the Afar-Tigray border and in the Southern Zone, resulting in civilian casualties.
 
-On November 2, 2022, after two years of armed conflict, the Cessation of Hostilities Agreement was signed between the Government of Ethiopia and the main insurgent armed group in Tigray. The agreement remains fragile, as repeated outbreaks of violence continue to put the peace process at risk. In January 2026, armed clashes occurred between armed groups and the Ethiopian military. The security situation remains uncertain and could escalate with little warning. Unexploded ordnance also poses a threat to your safety.
-
-[Advice if you are in the Tigray region or affected by an armed conflict](#advice)
+[Advice if you are in the Tigray region or affected by an armed conflict](#security)
 
 ### Afar region
 
@@ -87,7 +92,7 @@ If you decide to travel to the Danakil Depression:
 
 Cross-border tensions with Eritrea could escalate into violence with little warning. Despite demining efforts, residual landmines also pose a threat to your safety.
 
-[Advice if you are in the Afar region or affected by an armed conflict](#advice)
+[Advice if you are in the Afar region or affected by an armed conflict](#security)
 
 ### Oromia region
 
@@ -100,8 +105,6 @@ Demonstrations, civil unrest, violent crime, armed conflicts, and clashes betwee
 * North and West Shewa
 
 The security situation could deteriorate without warning. A heightened security presence remains throughout these areas.
-
-[Advice if you are in the Oromia region or affected by an armed conflict](#advice)
 
 ### Gambella and Benishangul-Gumuz regions
 
@@ -120,8 +123,6 @@ The security situation could deteriorate without warning. A heightened security 
 ### Border areas
 
 Most border areas, including regional borders, often see higher criminal activity and violence, including in rural areas. Regional tensions and confrontations between organized criminal groups, ethnic groups, and Ethiopian authorities pose a risk.
-
-[Advice if in border areas or affected by an armed conflict](#advice)
 
 #### Eritrea
 

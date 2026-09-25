@@ -1,7 +1,7 @@
 {
     "name": "Philippines",
-    "update_reason": "The Need help? section was updated.",
-    "update_date": "2026-09-21T07:04:00",
+    "update_reason": "Editorial change",
+    "update_date": "2026-09-25T07:02:00",
     "sections": {
         "risk": "canada/Philippines/risk.md",
         "security": "canada/Philippines/security.md",
