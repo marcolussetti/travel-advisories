@@ -2,7 +2,7 @@
 
 ## Risk level
 
-[![Risk level map](https://www.international.gc.ca/tama-sgcv_images/maps-cartes/MX/mapeng.png)](#full-screen)
+[![Map unavailable due to ongoing event – see risk level text](https://www.international.gc.ca/tama-sgcv_images/maps-cartes/MX/mapongoingeng.png)](#full-screen)
 
 Disclaimer
 
@@ -12,7 +12,7 @@ The features in this map do not constitute an authoritative source of geographic
 
 ## Mexico travel advice
 
-![Risk level map](https://www.international.gc.ca/tama-sgcv_images/maps-cartes/MX/mapeng.png)Disclaimer
+![Map unavailable due to ongoing event – see risk level text](https://www.international.gc.ca/tama-sgcv_images/maps-cartes/MX/mapongoingeng.png)Disclaimer
 
 The features in this map do not constitute an authoritative source of geographical information. This map is solely intended to assist Canadians by illustrating the risk levels contained in the Travel Advice and Advisories for this destination. The features in this map do not necessarily represent the views of the Canadian government on international boundaries, nomenclature or political status. The text under the Risk levels section takes precedence over this map.
 
@@ -54,3 +54,9 @@ The features in this map do not constitute an authoritative source of geographic
 * Sonora, excluding the cities of Hermosillo, Guaymas/San Carlos and Puerto Peñasco
 * Tamaulipas, excluding the city of Tampico only if accessed by air or sea
 * Zacatecas, excluding the city of Zacatecas
+
+### Baja California Sur - Avoid non-essential travel
+
+[Avoid non-essential travel](#levels "Risk Levels") to Baja California Sur, from Punta Eugenia to Santa Fe, due to Hurricane Polo.
+
+[Natural disasters and climate](#disasters)

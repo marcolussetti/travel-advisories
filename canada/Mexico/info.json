@@ -1,7 +1,7 @@
 {
     "name": "Mexico",
-    "update_reason": "Safety and security section \u2013 added information on online dating applications",
-    "update_date": "2026-09-17T16:54:00",
+    "update_reason": "Risk levels section \u2013 avoid non-essential travel to Baja California Sur, from Punta Eugenia to Santa Fe; Natural disasters and climate section \u2013 updated information on Hurricane Polo",
+    "update_date": "2026-09-26T01:43:00",
     "sections": {
         "risk": "canada/Mexico/risk.md",
         "security": "canada/Mexico/security.md",

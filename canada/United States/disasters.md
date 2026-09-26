@@ -2,11 +2,11 @@
 
 ## Natural disasters and climate
 
-### Tropical Storm Nolo
+### Hurricane Nolo
 
-Tropical Storm Nolo is expected to become a hurricane and pass off the coast of Hawaii’s Big Island on September 25-26, 2026.
+Hurricane Nolo is expected to pass off the coast of Hawaii’s Big Island on September 25-26, 2026.
 
-The storm is likely to bring excessive rainfall and violent winds. It may cause flash flooding and landslides and could severely disrupt the following essential services:
+The storm is likely to bring excessive rainfall, storm surges and violent winds. It may cause flash flooding and landslides on the Big Island and Maui, especially in higher terrain, and could severely disrupt the following essential services:
 
 * transportation
 * power distribution
@@ -15,13 +15,13 @@ The storm is likely to bring excessive rainfall and violent winds. It may cause 
 * emergency services
 * medical care
 
-If you are in the affected area:
+If you are in an affected area:
 
 * exercise caution
 * monitor local news and weather reports
 * follow the instructions of local authorities
 
-[National Hurricane Center](https://www.nhc.noaa.gov/) – National Oceanic and Atmospheric Administration (NOAA)
+[Latest advisories](http://www.nhc.noaa.gov/) – U.S. National Hurricane Center
 
 Natural disasters can occur at any time.
 
