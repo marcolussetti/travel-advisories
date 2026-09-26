@@ -18,13 +18,11 @@ When returning to the UK, British citizens must carry a valid [British passport]
 
 ## Visa requirements
 
-If you’re visiting Cuba as a tourist, you need to get a tourist -visa, also known as a tourist -card, before you travel. Apply through the [Cuban Embassy in the UK](https://misiones.cubaminrex.cu/en/united-kingdom/embassy-cuba-united-kingdom-great-britain-and-northern-ireland) or check with your travel agent or tour operator. You can also apply for an electronic visa through the [eVisa-Cuba](https://evisacuba.cu/en/inicio) site. When your application is approved, you will receive a ten-character code which should be entered as you fill in your advance passenger information on the [DViajeros](https://www.dviajeros.mitrans.gob.cu/inicio) platform (see below). This will generate a QR code to be presented to the immigration authorities at the border. The electronic-visa will be linked to the applicant’s passport.
+If you’re visiting Cuba as a tourist, you need to get a tourist visa, also known as a tourist card, before you travel. Apply through the [Cuban Embassy in the UK](https://misiones.cubaminrex.cu/en/united-kingdom/embassy-cuba-united-kingdom-great-britain-and-northern-ireland) or check with your travel agent or tour operator. You can also apply for an electronic visa through the [eVisa-Cuba](https://evisacuba.cu/en/inicio) site. When your application is approved, you will receive a ten-character code which should be entered as you fill in your advance passenger information on the [DViajeros](https://www.dviajeros.mitrans.gob.cu/inicio) platform (see below). This will generate a QR code to be presented to the immigration authorities at the border. The electronic visa will be linked to the applicant’s passport.
 
 You must also show proof of onward or return travel. See [Cuba’s consular services information](https://misiones.cubaminrex.cu/en/united-kingdom/consular-services) for details.
 
 For more information and advice about other types of visas, contact the [Cuban Embassy in the UK](https://misiones.cubaminrex.cu/en/united-kingdom/embassy-cuba-united-kingdom-great-britain-and-northern-ireland).
-
-The [Cuban Tourism Portal](https://www.cuba.travel/en/) provides useful information on travelling to and within Cuba.
 
 ### Overstaying your visa
 
@@ -38,9 +36,9 @@ You should download or print your completed [DViajeros](https://www.dviajeros.mi
 
 ### Travelling from the USA to Cuba
 
-Under US law, you are not allowed to travel directly from the USA to Cuba for tourism.
+US regulations do not authorise tourist travel to Cuba from the US. Travellers departing the US for Cuba are generally required to certify that their travel falls within one of the 12 categories for which the US authorities approve direct travel to Cuba.
 
-There are 12 reasons or categories for which the USA authorities will approve direct travel from the USA to Cuba. For more information see the [US State Department’s travel advice for Cuba](https://travel.state.gov/content/passports/en/country/cuba.html).
+For more information see the [US State Department’s travel advice for Cuba](https://travel.state.gov/content/passports/en/country/cuba.html).
 
 ### Travelling from Cuba to the USA
 
@@ -54,7 +52,7 @@ For full details about medical entry requirements and recommended vaccinations, 
 
 ## Customs rules
 
-There are strict rules about [goods you can take into and out of Cuba](https://www.cubatravel.cu/en/useful-information/regulations-and-formalities). You must declare anything that may be prohibited or subject to tax or duty.
+There are rules about the types of [goods you can take into and out of Cuba](https://www.cubatravel.cu/en/useful-information/regulations-and-formalities). You must declare anything that may be prohibited or subject to tax or duty.
 
 ### Art and antiques
 
@@ -82,9 +80,9 @@ Complete a customs form if items are confiscated on your arrival so you can coll
 
 ### Taking money into Cuba
 
-The Cuban national peso (CUP – ‘moneda nacional’) is the official currency and cannot be exchanged outside of Cuba. Declare foreign currency you’re taking into Cuba if the value is more than 5,000 US dollars.
+The Cuban national peso (CUP ‘moneda nacional’) is the official currency and cannot be exchanged outside of Cuba. Declare foreign currency you’re taking into Cuba if the value is more than 5,000 US dollars.
 
-You must only exchange money at the Cadeca exchange houses. It is illegal to exchange money anywhere else. See [Money](/foreign-travel-advice/cuba/safety-and-security#money).
+It is illegal to exchange money anywhere other than Cadeca exchange houses. See ‘Money’ on the [Safety and security page](/foreign-travel-advice/cuba/safety-and-security#money).
 
 [Previous:Warnings and insurance](/foreign-travel-advice/cuba)
 

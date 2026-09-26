@@ -6,7 +6,7 @@ You should also read [FCDO’s overall travel advice](/foreign-travel-advice/eth
 
 ## Travel Restrictions
 
-Since 29 January 2026 all civilian flights to and from Tigray region have been suspended. Foreign nationals are currently unable to travel to airports in Afar regional state due to restrictions by the Ethiopian authorities. Check with your operator before travel.
+All civilian flights to and from Tigray region have been suspended. Foreign nationals are currently unable to travel to airports in Afar regional state due to restrictions by the Ethiopian authorities. Check with your operator before travel.
 
 The Ethiopian authorities may implement travel restrictions anywhere in the country at short notice.
 
@@ -53,12 +53,6 @@ There has been an increase in roadblocks across Amhara region.
 FCDO advises against all travel to the parts of Afar region within 20km of the border with Eritrea and within 50km of the Tigray region, and advises against all but essential travel to the rest of Afar..
 
 There are irregular armed clashes between ethnic groups in Afar region and Somali Regional State, in particular along the main Addis Ababa to Djibouti road (A1) and the surrounding areas. Attacks are sporadic and infrequent, but may involve roadblocks and vehicles being targeted.
-
-## Danakil desert
-
-If you plan to visit the Danakil desert area, be aware of the risk of excessive heat and difficult terrain in some areas, including around the Erta Ale volcano. Facilities are basic, with no running water and limited medical options.
-
-Tourism in the area has been targeted by armed groups in 2007, 2012 and 2017. Only travel to this area with a recognised tour company. When booking, check that your group will be supported by an armed police or military escort.
 
 ## Gambela region
 

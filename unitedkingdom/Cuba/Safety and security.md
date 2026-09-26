@@ -18,7 +18,9 @@ Avoid any demonstrations or large gatherings and follow the advice of the local 
 
 ## Crime
 
-Levels of crime are generally lower than in the UK, but the difficult economic situation is leading to an increase in opportunistic crime. There have been reports of muggings in Havana and of burglaries at properties, with instances of violent crime. Siphoning of fuel from parked vehicles is a regular occurrence. You should exercise caution, particularly at night. Keep your personal belongings, including your passport, in a secure place, avoid carrying large amounts of cash or showing signs of affluence.
+While crime has reportedly increased in recently months, data suggests that levels of crime are generally lower than in the UK or regional averages, but the difficult economic situation is leading to an increase in opportunistic crime. There have been reports of muggings in Havana and of burglaries at properties, with instances of violent crime. Siphoning of fuel from parked vehicles is a regular occurrence.
+
+Exercise caution, particularly at night. Keep your personal belongings, including your passport, in a secure place, avoid carrying large amounts of cash or showing signs of affluence. Always carry a photocopy of your passport. Pre-arrange transport and avoid walking at night.
 
 ### Protecting your belongings
 
@@ -52,7 +54,7 @@ There have been attacks on foreigners in hire cars after deliberate puncturing o
 
 ### Illegal drugs penalties
 
-Cuba has strict laws on the use, possession and trafficking of illegal drugs. Cuban courts can give severe penalties for drug-related offences. Pack all luggage yourself and do not carry items for anyone else.
+Cuba has a zero tolerance policy against the use, possession and trafficking of illegal drugs. Cuban courts can give severe penalties for drug-related offences. Pack all luggage yourself and do not carry items for anyone else.
 
 ### Using cameras in restricted areas
 
@@ -60,7 +62,7 @@ Avoid all military zones and other restricted areas. Do not take photographs or 
 
 ### LGBT+ travellers
 
-Same-sex sexual activity is legal in Cuba, but gender diversity is not fully understood or accepted by the general population. Same-sex marriages are recognised under Cuban law.
+Same-sex sexual activity is legal in Cuba, but gender diversity is not fully accepted by the general population. Same-sex marriages are recognised under Cuban law.
 
 Read more [advice for LGBT+ travellers](https://www.gov.uk/lesbian-gay-bisexual-and-transgender-foreign-travel-advice).
 
@@ -70,11 +72,11 @@ If you break the law, or are suspected of causing injury to someone, you may be 
 
 ### Money
 
-On 3 June the Cuban Central Bank announced that international cards such as Visa and Mastercard will no longer be accepted in Cuba, with effect from 6 June. Available payment methods include cash and Cuban prepaid cards. It it likely that you will not be able to withdraw cash through ATMs with an international card.
+The Cuban Central Bank has announced that international cards such as Visa and Mastercard are no longer accepted in Cuba. Available payment methods include cash and Cuban prepaid cards (CLASICA card). You will not be able to withdraw cash through ATMs with an international card.
 
-If visiting Cuba, you should bring enough cash to cover your expenses for the entire length of your stay and in case of an emergency. US dollars and euros are widely accepted and can be exchanged in Cuba.
+If you need to visit Cuba, you should bring enough cash to cover your expenses for the entire length of your stay and in case of an emergency (including medical costs or if your departure is delayed). US dollars and euros are widely accepted and can be exchanged in Cuba.
 
-You must only exchange money at the Cadeca exchange houses. It is illegal to exchange money anywhere else, including with any individuals who may offer exchange services. If you’re caught making an unauthorised exchange, you could be fined or get a prison sentence.
+It is illegal to exchange money anywhere other than Cadeca exchange houses, including with any individuals who may offer exchange services. If you’re caught making an unauthorised exchange, you could be fined or get a prison sentence.
 
 Check with your hotel and tour providers on how to make payments ahead of your arrival in Cuba, and whether these can be made in advance via international bank transfer. Take precautions when carrying large amounts of cash.
 
@@ -86,7 +88,7 @@ If you’re planning to drive, see [information on driving abroad](https://www.g
 
 You can drive in Cuba with a UK driving licence for up to 6 months. After 6 months, you must pass a driving test and get a Cuban driving licence.
 
-You can hire a car in Cuba, but fuel shortages can make it difficult to get petrol or diesel, especially for long distances. If you hire a car with a driver, they will know where to source fuel.
+You can hire a car in Cuba, but fuel shortages can make it difficult to get petrol or diesel, especially for long distances. If you hire a car with a driver, they may know where to source fuel but supply is intermittent.
 
 ### Motorcycles and scooters
 
@@ -96,11 +98,13 @@ If you hire a moped or motorbike, check the condition of the vehicle carefully. 
 
 Three-wheel Coco-taxis may be in an unsafe condition. Tourists have been injured and killed when riding in these vehicles.
 
-Official yellow taxis are generally reliable. Avoid private taxis and old private classic taxi cars as it is unlikely that they will be properly licensed, or have modern safety features. It is best to book rides in old classic cars from reputable companies.
+App-based taxi services are available but Wi-Fi and data signal is limited. Pre-book a return journey if possible.
+
+Official yellow taxis are generally reliable. Avoid private taxis and old private classic taxi cars as it is unlikely that they will be properly licensed or have modern safety features. It is best to book rides in old classic cars from reputable companies.
 
 ### Road conditions
 
-Driving standards are variable. Many vehicles, including public transport, are badly maintained. Drivers are prone to stop suddenly and may not signal. Roads are poorly lit and badly sign-posted. Avoid driving at night as animals and unlit vehicles are a danger and you may not see hazards such as potholes.
+Driving standards are variable. Many vehicles, including public transport, are badly maintained. Drivers are prone to stop suddenly and may not signal. There is little if any street lighting at night and roads are badly sign-posted. Avoid driving at night as animals and unlit vehicles are a danger and you may not see hazards such as potholes.
 
 ## Extreme weather and natural disasters
 

@@ -1,11 +1,11 @@
 {
     "name": "Algeria",
-    "update_reason": "Updated information on wildfires ('Safety and security' page).",
+    "update_reason": "Updated information about customs rules, terrorism in Algeria, political situation and personal ID (\u2018Entry requirements\u2019 and \u2018Safety and security\u2019 pages).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Algeria/Warnings and insurance.md",
-            "update_date": "2026-07-24T17:25:37+01:00"
+            "update_date": "2026-09-25T16:01:59+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Algeria/Getting help.md"
         }
     ],
-    "update_date": "2026-07-24T17:25:37+01:00"
+    "update_date": "2026-09-25T16:01:59+01:00"
 }

@@ -1,11 +1,11 @@
 {
     "name": "Cuba",
-    "update_reason": "New information on levels of crime and updated information about power outages ('Warnings and insurance' and 'Safety and security' pages).",
+    "update_reason": "This travel advice has been reviewed for accuracy with changes made throughout, including protests in Cuba, power outages and fuel and water shortages, travel disruption, international card transactions, travel insurance, visa requirements, travelling to the USA from Cuba, taking money into Cuba, crime, money, taxis, emergency medical numbers and healthcare in Cuba (\u2018Warnings and insurance\u2019, \u2018Entry requirements\u2019, \u2018Safety and security\u2019 and \u2018Health\u2019 pages).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Cuba/Warnings and insurance.md",
-            "update_date": "2026-07-16T13:04:39+01:00"
+            "update_date": "2026-09-25T12:36:31+01:00"
         },
         {
             "title": "Entry requirements",
@@ -28,5 +28,5 @@
             "file": "unitedkingdom/Cuba/Getting help.md"
         }
     ],
-    "update_date": "2026-07-16T13:04:39+01:00"
+    "update_date": "2026-09-25T12:36:31+01:00"
 }

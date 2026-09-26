@@ -1,21 +1,21 @@
 # Warnings and insurance
 
 Still current at:
-:   18 September 2026
+:   26 September 2026
 
 Updated:
-:   17 September 2026
+:   25 September 2026
 
 Latest update:
-:   Updated informational about national strike action ('Warnings and insurance' page).
+:   Addition of information about a public sector strike planned for 12 October ('Warnings and insurance' page).
 
 ## National strike action
 
 Strike action is an ongoing issue that can cause disruption.
 
-Air traffic controllers at Charleroi Airport (BSCA) have announced strikes from Wednesday 16 September every night between 10pm and 8am. The industrial action is expected to continue until Saturday 10 October. This may impact incoming and outgoing flights from Charleroi Airport. For the latest information check the website of [Brussels South Charleroi Airport](https://www.brussels-charleroi-airport.com/en/news).
-
 A large-scale demonstration is expected to take place in central Brussels on Friday 9 October. There is no confirmation on whether this will affect public transport or wider public services including schools.
+
+A public sector strike is planned on Monday 12 October. This may affect public transport and other public services.
 
 General strikes took place on 31 March, 29 April,14 October, 26 November, 15 December 2025 and 12 March and 12 May 2026. Strike action may be announced at short notice.
 

@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   17 July 2026
+:   26 September 2026
 
 Updated:
-:   16 July 2026
+:   25 September 2026
 
 Latest update:
-:   New information on levels of crime and updated information about power outages ('Warnings and insurance' and 'Safety and security' pages).
+:   This travel advice has been reviewed for accuracy with changes made throughout, including protests in Cuba, power outages and fuel and water shortages, travel disruption, international card transactions, travel insurance, visa requirements, travelling to the USA from Cuba, taking money into Cuba, crime, money, taxis, emergency medical numbers and healthcare in Cuba (‘Warnings and insurance’, ‘Entry requirements’, ‘Safety and security’ and ‘Health’ pages).
 
 ![](https://assets.publishing.service.gov.uk/media/698cc89184cc2df4a87123d5/FCDO__TA__103_-_Cuba_Travel_Advice_Ed1__WEB_.jpg)
 
@@ -18,31 +18,31 @@ Latest update:
 
 ### Protests in Cuba
 
-The ongoing situation in Cuba has led to a series of recent protests. To date most of these have remained peaceful but be aware that protests can escalate. You should avoid large gatherings, monitor the media for updates and follow the advice of the local authorities.
+Cuba is experiencing a worsening economic situation with shortages of fuel, electricity, water and basic necessities. This is affecting tourism services and disrupting travel within the country.
 
-### Power outages and fuel shortages
+The situation has led to frequent protests. To date most of these have remained peaceful but be aware that protests can escalate. You should stay away from large gatherings, monitor the media for updates and follow the advice of the local authorities.
 
-On 14 July, the Cuban National Electric grid collapsed for the third time in a week. On 13 May, the Cuban government announced that the country had exhausted its reserves of diesel and fuel oil. This is leading to severe and sustained disruption to essential infrastructure and basic services, including transport, medical care and communications. Authorities have introduced fuel rationing, scaled back public services, and made changes to healthcare, education, transport and tourism operations to conserve severely limited energy supplies.
+The situation is also leading to an increase in opportunistic crime, but levels remain lower than in the UK. See ‘Crime’ on the [Safety and security page](https://www.gov.uk/foreign-travel-advice/cuba/safety-and-security#crime).
 
-If you are currently in Cuba, carefully consider if your presence is essential. Take precautions by conserving fuel, water, food and mobile phone charge, and be prepared for significant disruption.
+### Power outages and fuel and water shortages
+
+The Cuban National Electric grid has collapsed a number of times over the last few months. Given current circumstances, further grid collapses are likely. Low fuel reserves are leading to severe and sustained disruption to essential infrastructure and basic services, including transport, medical care, communications, water supply and street lighting. Authorities have introduced fuel rationing, scaled back public services, and made changes to healthcare, education, transport and tourism operations to conserve severely limited energy supplies. Access to safe drinking water and wastewater management can be problematic.
+
+Take precautions by conserving fuel, water, food and mobile phone charge, and be prepared for significant disruption.
 
 ### Travel disruption
 
-Cuban authorities have announced that all of its international airports are without aviation fuel. Terminal 2 at José Martí International Airport, which services flights to the USA and some charter flights, has been closed with flights diverted to Terminal 3. Some airlines, including all Canadian airlines, Air France, Iberia, World2Fly and LATAM, have suspended flights to and from Cuba. Other airlines are keeping their routes under review. Options for leaving the country could reduce further if the situation worsens.
+Cuban authorities have announced that all of its international airports are without aviation fuel. Only Terminal 3 at José Martí International Airport is currently in operation. Some airlines, including all Canadian airlines, Air France, Iberia, World2Fly and LATAM, have suspended flights to and from Cuba. Other airlines are keeping their routes under review. Options for leaving the country could reduce further if the situation worsens.
 
-The situation has the potential to deteriorate quickly and without warning. Make sure you are ready to change your plans quickly if needed. If you are considering leaving Cuba, check for messaging from your airline or tour operator for up-to-date information. Ensure your travel documents remain valid and confirm you have any required visas for onward travel.
+If you are currently in Cuba, carefully consider if your presence is essential. The situation has the potential to deteriorate quickly and without warning. Make sure you are ready to change your plans quickly if needed. If you are considering leaving Cuba, check for messaging from your airline or tour operator for up-to-date information. Ensure your travel documents remain valid and confirm you have any required visas for onward travel.
 
 Continue to monitor local media and follow the instructions of local authorities. Subscribe to [FCDO email alerts](https://www.gov.uk/foreign-travel-advice/cuba/email-signup) and read our [guidance on how to deal with a crisis overseas](https://www.gov.uk/government/collections/support-for-british-nationals-abroad#help-in-a-crisis).
 
 ### International card transactions
 
-On 3 June the Cuban Central Bank announced that international cards such as Visa and Mastercard will no longer be accepted in Cuba, with effect from 6 June. Available payment methods include cash and Cuban prepaid cards. It is likely that you will not be able to withdraw cash through ATMs with an international card.
+The Cuban Central Bank has announced that international cards such as Visa and Mastercard are no longer accepted in Cuba. Available payment methods include cash and Cuban prepaid cards. You will not be able to withdraw cash through ATMs with an international card.
 
-If visiting Cuba, you should bring enough cash to cover your expenses for the entire length of your stay and in case of an emergency. US dollars and euros are widely accepted and can be exchanged in Cuba.
-
-You must only exchange money at the Cadeca exchange houses. It is illegal to exchange money anywhere else, including with any individuals who may offer exchange services. If you’re caught making an unauthorised exchange, you could be fined or get a prison sentence.
-
-Check with your hotel and tour providers on how to make payments ahead of your arrival in Cuba, and whether these can be made in advance via international bank transfer. Take precautions when carrying large amounts of cash.
+If you need to visit Cuba, you should bring enough cash to cover your expenses for the entire length of your stay and in case of an emergency (such as medical treatment or delayed departure). US dollars and euros are widely accepted and can be exchanged in Cuba. See ‘Money’ on the [Safety and security page](https://www.gov.uk/foreign-travel-advice/cuba/safety-and-security#money).
 
 ## Before you travel
 
@@ -56,7 +56,7 @@ No travel can be guaranteed safe. Read all the advice in this guide. You may als
 
 ### Travel insurance
 
-If you choose to travel, research your destinations and [get appropriate travel insurance](https://www.gov.uk/guidance/foreign-travel-insurance). Insurance should cover your itinerary, planned activities and expenses in an emergency.
+If you choose to travel, research your destinations and [get appropriate travel insurance](https://www.gov.uk/guidance/foreign-travel-insurance). Insurance should cover your itinerary, planned activities and expenses in an emergency. Make sure your travel insurance covers Cuba.
 
 ## About FCDO travel advice
 

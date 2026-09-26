@@ -38,10 +38,6 @@ Terrorist group Al-Shabaab, based in Somalia, poses a threat across East Africa.
 
 ## Political situation
 
-### Elections
-
-A nationwide general election is due to be held on 1 June 2026. Stay away from large gatherings and demonstrations and follow advice of the local authorities.
-
 ### Conflict and violence
 
 Unrest can start with no notice. There are ongoing armed clashes between ethnic groups and with security forces in much of the country. Foreigners have not been targeted, but can get caught up in events.  You should:
@@ -51,11 +47,7 @@ Unrest can start with no notice. There are ongoing armed clashes between ethnic 
 * reconsider travel to affected areas
 * stay away from large gatherings and demonstrations
 
-Tensions are high between Ethiopia and Eritrea, the security situation in Northern Ethiopia may deteriorate quickly.
-
-Between November 2020 and November 2022, conflict took place in the northern regions of Ethiopia, in particular in Tigray but also in Amhara and Afar.
-
-The security situation in northern Ethiopia may deteriorate quickly. Tensions are high between Ethiopia and Eritrea, and between the Tigray People’s Liberation Front and the Ethiopian Federal Government. There have been renewed clashes between Tigray People’s Liberation Front aligned forces and the Ethiopian military in parts of Tigray, including reports of drone strikes, which have increased in frequency since August 2026. This follows a conflict which took place between November 2020 and November 2022, in the northern regions of Ethiopia, in particular in Tigray but also in Amhara and Afar.
+The security situation in northern Ethiopia may deteriorate quickly. There have been renewed clashes between insurgent groups and the Ethiopian military in parts of Afar, and Tigray, including reports of drone strikes which have increased in frequency since August 2026.
 
 Since spring 2023 there has been significant conflict in Amhara region, between Amhara militia groups (Fano) and the Ethiopian authorities, as well as opportunistic crime and banditry.
 

@@ -10,7 +10,15 @@ UK Counter Terrorism Policing has information and advice on [staying safe abroad
 
 Terrorists are likely to try to carry out attacks in Algeria.
 
-Terrorist attacks have often focused on the Algerian state, but attacks could be indiscriminate and target foreign nationals. There is also a risk that lone actors target foreign nationals. You should remain vigilant at all times and follow specific advice and direction of the local security authorities.
+Terrorist attacks could be indiscriminate, including in places visited by foreign nationals, such as:
+
+* transport hubs
+* locations popular with tourists and foreigners
+* government buildings
+* crowded places
+* businesses with western interests
+
+There is also a risk that lone actors target foreign nationals. Stay aware of your surroundings, keep up to date with local media reports and follow the advice of local authorities.
 
 The threat from terrorism is higher in some parts of the country, including:
 
@@ -19,15 +27,9 @@ The threat from terrorism is higher in some parts of the country, including:
 * rural, and in particular mountainous, areas in the north and between Tunisia and Algiers
 * the Sahara
 
-The Algerian authorities continue to conduct effective counter-terrorism operations to disrupt terrorist activity but there’s a continuing threat of further terrorist attacks.
-
 The terrorist threat comes from individuals inspired by Islamist extremist and anti-Semitic ideology and established groups, such as Al-Qaida in the Islamic Maghreb (AQIM). These groups have been active across the country and likely consider Western nationals legitimate targets.
 
-Recent significant attacks include:
-
-* in 2021, a solider killed by an improvised explosive device (IED) in Tlemcen Province
-* in 2021, 2 soldiers killed by an IED in Ain Defla Province
-* in 2021, 2 soldiers killed in Tipasa Province
+The Algerian authorities conduct effective counter-terrorism operations and retain a strong, visible security presence across the country.
 
 ### Terrorist kidnap
 
@@ -39,7 +41,7 @@ The long-standing policy of the British government is to not make substantive co
 
 ## Political situation
 
-Demonstrations and other forms of protest are subject to various restrictions. You should take precautions for your personal safety by avoiding political gatherings and demonstrations. Follow instructions given by local security authorities.
+Algeria has a visible security presence across the country that gives considerable attention to the safety of its visitors. Demonstrations and other forms of protest are subject to various restrictions. You should take precautions for your personal safety by avoiding political gatherings and demonstrations. Follow instructions given by local security authorities.
 
 ## Algeria-Morocco border
 
@@ -77,11 +79,11 @@ The Algerian authorities devote considerable resources to the safety of foreign 
 
 ### Personal ID
 
-You do not have to carry your passport at all times, but take it with you on longer journeys. You must have your passport if you travel inside Algeria by air. Keep copies of your passport’s photo page and your visa or entry stamp in a separate place.
+You will need your passport to check in to any hotels in Algeria. You do not have to carry your passport at all times, but take it with you on longer journeys. You must have your passport if you travel inside Algeria by air. Keep copies of your passport’s photo page and your visa or entry stamp in a separate place.
 
 ### Ramadan
 
-Ramadan is a holy month for Muslims. The dates vary by year and country, next starting in February 2026. During this time, do not:
+Ramadan is a holy month for Muslims. The dates vary by year and country, next starting in February 2027. During this time, do not:
 
 * eat, drink, smoke or chew gum in public in the daytime, including in your car
 * play loud music or dance
@@ -100,7 +102,7 @@ You should also:
 
 ### Alcohol laws
 
-It is illegal to be under the influence of alcohol in a public place.
+It is illegal to drink or be under the influence of alcohol in a public place.
 
 ### Illegal drugs and prison sentences
 

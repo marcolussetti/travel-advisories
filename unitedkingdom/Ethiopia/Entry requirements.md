@@ -50,6 +50,10 @@ before arrival, if they are visiting Ethiopia or making a transit stop which inc
 
 You could be required to undergo testing or treatment if you have symptoms.
 
+### Health screening
+
+Travellers from some countries may be required to complete a health declaration form if they are visiting or transiting through Ethiopia. Check with the airline if the country you are travelling from requires this.
+
 ## Customs rules
 
 There are strict rules about goods that you can take into or out of Ethiopia.

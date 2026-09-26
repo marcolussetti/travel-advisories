@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   25 July 2026
+:   26 September 2026
 
 Updated:
-:   24 July 2026
+:   25 September 2026
 
 Latest update:
-:   Updated information on wildfires ('Safety and security' page).
+:   Updated information about customs rules, terrorism in Algeria, political situation and personal ID (‘Entry requirements’ and ‘Safety and security’ pages).
 
 ![](https://assets.publishing.service.gov.uk/media/615dcb70d3bf7f55fd843aea/FCDO__TA__002_-_Algeria_Travel_Advice_Ed3__WEB_.jpg)
 

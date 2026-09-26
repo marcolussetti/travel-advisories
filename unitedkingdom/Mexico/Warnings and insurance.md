@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   24 September 2026
+:   26 September 2026
 
 Updated:
-:   24 September 2026
+:   26 September 2026
 
 Latest update:
-:   Updated information about Hurricane Polo ('Warnings and insurance' page).
+:   Further information about Hurricane Polo, with links to the guidance on emergency planning and shelter locations published by local authorities (Warnings and insurance)
 
 ![](https://assets.publishing.service.gov.uk/media/69a1c6c8ec82ce45f05bd70e/FCDO__TA__065_-_Mexico_Travel_Advice_Ed5__WEB_.jpg)
 
@@ -115,7 +115,7 @@ Monitor local and international weather updates, including [US National Hurrican
 
 Follow advice from local authorities and your tour operator.
 
-The hurricane is forecast to move towards Baja California on the weekend of 26 and 27 September.
+The hurricane is forecast to move towards Baja California on the weekend of 26 and 27 September. Local authorities have published guidance on [emergency preparedness](https://turismo.loscabos.gob.mx/emergency-preparedness-in-los-cabos-a-guide-for-foreign-residents/) and the locations of [emergency shelters](https://www.bcs.gob.mx/ciclones-tropicales-2026/inicio-ciclones-2026/) if needed.
 
 See [extreme weather and natural hazards](https://www.gov.uk/guidance/extreme-weather-and-natural-hazards)
 for advice about how to prepare for travel during hurricane season and what to do ahead of a storm.

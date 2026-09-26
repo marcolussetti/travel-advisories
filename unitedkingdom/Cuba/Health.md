@@ -11,6 +11,8 @@ This is particularly important if you have a health condition or are pregnant.
 
 Call 104 and ask for an ambulance.
 
+The ambulance service is limited and generally unreliable, particularly in emergencies outside urban areas.
+
 Contact your insurance company quickly if you’re referred to a medical facility for treatment.
 
 ## Vaccine recommendations and health risks
@@ -25,9 +27,9 @@ The Cuban government had declared an arbovirus epidemic in 2025 following the si
 See [what health risks you’ll face in Cuba,](https://travelhealthpro.org.uk/country/60/cuba) including:
 
 * dengue
-* Zika virus
+* zika virus
 * malaria
-* Oropouche virus disease
+* oropouche virus disease
 * chikungunya
 
 You should take precautions to avoid or prevent mosquito and other insect bites.
@@ -44,7 +46,7 @@ The legal status and regulation of some medicines prescribed or bought in the UK
 
 ## Healthcare in Cuba
 
-Medical facilities in Havana are better than elsewhere in Cuba. If you need medical treatment, you or your insurance company will need to pay with foreign currency before any treatment. Make sure you have accessible funds to cover the cost of any medical treatment abroad and repatriation.
+Medical facilities in Havana are better than elsewhere in Cuba. If you need medical treatment, you or your insurance company will need to pay with foreign currency (most likely USD) before any treatment, bearing in mind that Visa/Mastercard payments cannot be made. Make sure you have accessible funds to cover the cost of any medical treatment abroad and repatriation.
 
 FCDO has a [list of medical providers in Cuba](https://www.gov.uk/government/publications/cuba-list-of-medical-facilitiespractitioners) where some staff will speak English.
 
