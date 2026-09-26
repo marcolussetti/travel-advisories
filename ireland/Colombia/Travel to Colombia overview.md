@@ -6,6 +6,12 @@ High Degree of Caution
 
 ### **Travel Alert**
 
+A number of security incidents have been reported along the Troncal del Caribe (Ruta 90), disrupting traffic on the highway between Santa Marta and La Guajira. The disruption also affects the route used to access Tayrona National Park and other coastal destinations in east Santa Marta, due to the conflict between the Colombian Armed Forces and illegal armed groups.
+
+Irish citizens in affected areas are advised to follow the instructions of local authorities and monitor local media for the latest security updates.
+
+### **Travel Alert**
+
 An earthquake of 7.4 magnitude occurred in the west of Colombia on 10 August, with its epicentre in the department of Chocó. Several regions have been strongly impacted, including the cities of Quibdó, Pereira, Manizales, Armenia, and Cali. Airports in the region are gradually resuming operations. Contact your airline or travel agent for updates on flight availability.
 
 Irish citizens in impacted areas should follow the advice and guidance of the local authorities and monitor local news channels for updates.

@@ -6,7 +6,13 @@ High Degree of Caution
 
 ### **Travel Alert**
 
+#### **Travel to and from northern Ethiopia**
+
+On Wednesday, 23 September 2026, the Ethiopian Government announced the suspension of all flights to and from all airports in Tigray. The Ethiopian authorities may implement travel restrictions or suspend flights anywhere in the country at short notice. Irish citizens are advised to avoid all travel to Tigray Regional State and Amhara Regional State. Irish citizens are also advised to avoid all travel within 20km of the Tigray Regional State and Eritrean borders in Afar Regional State.
+
 #### **Ebola Outbreak**
+
+Irish citizens entering Ethiopia from a country which Ethiopian immigration authorities have determined to be at risk of Ebola are required to complete a [health declaration form](https://e-thtp.ephi.gov.et/) before travelling.
 
 Humanitarian Aid Workers travelling to Ethiopia are urged to [**register**](https://www.hpsc.ie/a-z/vectorborne/viralhaemorrhagicfever/guidance/vhfguidanceappendices/vhfguidanceforhumanitarianaidworkers/) with HSE HPSC in advance of their deployment.
 
@@ -19,10 +25,6 @@ Irish citizens and residents should monitor their health for 21 days after retur
 Irish Citizens and residents who have had **known contact with an Ebola patient or the remains of someone who died of Ebola**, contact your Regional Department of Public Health who will advise you to monitor your health in the 21 days after your exposure, and advise on any other measures you may need to take.
 
 **Regional Department of Health Contact List** and further information on the Ebola Virus Disease is available on the HPSC website [**here**](https://www.hpsc.ie/a-z/vectorborne/viralhaemorrhagicfever/ebola/frequentlyaskedquestions/).
-
-#### **Travel Restrictions**
-
-The Ethiopian authorities may implement travel restrictions anywhere in the country at short notice. Always check with your operator before travel.
 
 ### **General Travel Advice**
 
@@ -46,8 +48,9 @@ Citizens can also follow the Embassy on X[**@IrlEmbEthiopia**](https://twitter.c
 * Gambella Regional State.
 * The East and West Guji, East and West Wellega, Kelam Wellega and Horo Gudru Wellega zones of Oromia.
 * The Gedeo zone of South Ethiopia Regional State.
-* Parts of Afar Regional state within 10km of border with Eritrea.
-* Land within 20km of the borders with Border areas with Sudan, South Sudan and Kenya.
+* Parts of Afar Regional State within 20km of border with Eritrea.
+* Parts of the Afar Regional State within 20km of the border with Tigray Regional State.
+* Land within 20km of border areas with Sudan, South Sudan and Kenya.
 * Land within 100km of the borders of Somalia and Somaliland excluding the city of Jijiga.
 
 #### **The Department of Foreign Affairs and Trade advises against all but essential travel to:**
@@ -65,6 +68,8 @@ The Embassy recommends against all travel to Amhara Regional State as the region
 ### **Tigray**
 
 The Cessation of Hostilities Agreement signed in November 2022 ended the large-scale fighting in Tigray. Nonetheless there continues to be reports of sporadic and indiscriminate violence particularly in the disputed of territory of Western Tigray and the Raya area of southern Tigray, but also elsewhere in the region, including in major urban centres such as Mekelle.
+
+All flights to and from all airports in Tigray Regional State were suspended on Wednesday, 23 September 2026. Roads leaving Tigray into Amhara and Afar regional states are not safe owing to the risk of militia activity. Any Irish citizen presently in Tigray Regional State should urgently contact the Embassy of Ireland in Addis Ababa.
 
 ### **Addis Ababa**
 
