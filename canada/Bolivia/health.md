@@ -5,7 +5,6 @@
 ### Relevant Travel Health Notices
 
 * [Measles: Advice for travellers](https://travel.gc.ca/travelling/health-safety/travel-health-notices/504)
-* [Chikungunya: Advice for travellers](https://travel.gc.ca/travelling/health-safety/travel-health-notices/540)
 
 This section has information and advice about health risks you might face when travelling. Following this advice can help reduce your risk of getting sick. Not all risks are listed here.
 
@@ -156,7 +155,7 @@ Eating or drinking unsafe food or water, or swimming in contaminated water can m
 * Avoid, if possible, getting water in your eyes, mouth, or nose when swimming in freshwater (like streams, lakes, or canals), especially after heavy rain or flooding - the water might look clean but can still be contaminated
 * Don’t swallow water when bathing, showering, swimming in pools, or using hot tubs
 
-[Eat and drink safely abroad](https://travel.gc.ca/travelling/health-safety/food-water)
+[Eat and drink safely outside Canada](https://travel.gc.ca/travelling/health-safety/food-water)
 
 Travellers' diarrhea
 
@@ -169,15 +168,13 @@ Frequent handwashing and making careful food and beverage choices can reduce you
 **Learn more:**[Travellers’ diarrhea](https://www.canada.ca/en/public-health/services/diseases/diarrhea.html)  
 [Eat and drink safely outside Canada](https://travel.gc.ca/travelling/health-safety/food-water)
 
-Typhoid 
+Typhoid fever 
 
-Typhoid fever is a disease caused by bacteria. Symptoms may include fever, cough, diarrhea, tiredness, headache, and loss of appetite.
+There is a risk of typhoid fever in this destination, but the risk is low for most travellers. Travellers are at higher risk in places with poor sanitation, limited access to clean water, or unsafe food preparation. Cleaning your hands often and making safe food and drink choices can help lower your risk.
 
-There is a risk of typhoid fever in this destination, but the risk is low for most travellers.
+Typhoid fever is a disease caused by bacteria. It spreads through consuming contaminated food or drinking water, or through contact with the feces of an infected person.
 
-Typhoid fever spreads through consuming contaminated food or drinking water, or through contact with the feces of an infected person.
-
-Travellers are at higher risk in places with poor sanitation, limited access to clean water, or unsafe food preparation. Young children, older adults, people visiting friends or relatives, and people with weakened immune systems are more likely to become seriously ill. Cleaning your hands often and making safe food and drink choices can help lower your risk.
+Symptoms may include fever, cough, diarrhea, tiredness, headache, and loss of appetite. Young children, older adults, people visiting friends or relatives, and people with weakened immune systems are more likely to become seriously ill.
 
 A vaccine is available and may be recommended for some travellers to this destination, depending on their risk. Talk to a health care provider before you travel to find out if this vaccine is recommended for you.
 
@@ -282,7 +279,7 @@ Most travellers are at low risk. There are concerns that the Oropouche virus cou
 
 ### Animal precautions
 
-Some infections can spread directly from animals to people, like rabies or bird flu (avian influenza). Others don’t spread directly from animals but can infect people who visit areas animals have contaminated with their droppings or body fluids.
+Some infections, such as rabies, spread through direct contact with animals. Others, such as hantavirus infections and avian influenza, can also spread indirectly when people come into contact with areas contaminated by animal droppings or other animal waste.
 
 Certain activities can increase your chances of coming into contact with animals, their droppings, or their body fluids, like:
 
@@ -311,7 +308,7 @@ When travelling, you can reduce your risk of getting or spreading respiratory in
 
 [Mass gatherings (large-scale events)](https://travel.gc.ca/travelling/health-safety/mass-gatherings)  
 [Clean your hands to help reduce the spread of infectious diseases](https://www.canada.ca/en/public-health/services/healthy-living/hand-hygiene.html)  
-[Respiratory infectious diseases: How to reduce the spread with personal protective measures](https://www.canada.ca/en/public-health/services/diseases/respiratory-infectious-diseases-reduce-spread-personal-protective-measures.html)
+[Respiratory infectious diseases: Reduce your risk](https://www.canada.ca/en/public-health/services/diseases/respiratory-infectious-diseases-reduce-spread-personal-protective-measures.html)
 
 To lower your risk of getting sexually transmissible infections (STIs), HIV, and mpox, you can:
 

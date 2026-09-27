@@ -6,7 +6,7 @@
 
 ### Hurricane Polo
 
-Hurricane Polo is expected to sweep across Baja California Sur, between Punta Eugenia and Santa Fe, on September 28, 2026, before reaching the coast of Sinaloa and/or Sonora states on September 29.
+Hurricane Polo is expected to sweep across Baja California Sur, from the border with Baja California state south to the area between and Punta Coyote and El Conejo, on September 28, 2026. The storm is expected to reach the coast of Sinaloa and/or Sonora states on September 29.
 
 The storm is likely to bring excessive rainfall and violent winds. It may cause flash flooding and landslides and could severely disrupt the following essential services:
 
