@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   19 September 2026
+:   28 September 2026
 
 Updated:
-:   18 September 2026
+:   28 September 2026
 
 Latest update:
-:   Updated information on visa exemption scheme, business ownership and deportation ('Entry requirements' and ‘Safety and security’ pages)
+:   Information on Severe Flooding ('Warnings and Insurance’ page)
 
 ![](https://assets.publishing.service.gov.uk/media/6980b4383915f7123658010e/FCDO__TA__040_-_Thailand_Travel_Advice_Ed8__WEB_.jpg)
 
@@ -38,6 +38,12 @@ FCDO advises against all but essential travel to areas within 20km of the�
 Fighting occurred along parts of the border in July 2025, and further clashes took place in early December, involving rocket and artillery fire. Land borders and crossings between Thailand and Cambodia remain suspended. Tourist sites close to the border, including the Khao Phra Wihan Preah Vihear temple, the Ta Kwai Ta Krabey temple and the Ta Muen Thom Tamone Thom temple, are closed. There are unexploded landmines in the area. Travel to affected border regions should be avoided.
 
 Find out more about [why FCDO advises against travel](/foreign-travel-advice/thailand/regional-risks).
+
+## Severe Flooding
+
+Severe flooding is affecting parts of Thailand following heavy rainfall in a number of provinces, including Bangkok, Nonthaburi, Pathum Thani and Samut Prakan. All 50 districts of Bangkok have been declared disaster-affected areas. Travel disruption, including road closures and flooding of low-lying areas, is possible.
+
+The Thai government has declared special public holidays on 28 and 29 September in Bangkok, Nonthaburi, Pathum Thani and Samut Prakan. Many government offices and services may be closed or operating with reduced capacity. Follow the advice of local authorities if you plan to travel.
 
 ## Global travel impacts due to escalation in the Middle East
 

@@ -1,11 +1,11 @@
 {
     "name": "Thailand",
-    "update_reason": "Updated information on visa exemption scheme, business ownership and deportation ('Entry requirements' and \u2018Safety and security\u2019 pages)",
+    "update_reason": "Information on Severe Flooding ('Warnings and Insurance\u2019 page)",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Thailand/Warnings and insurance.md",
-            "update_date": "2026-09-18T16:03:52+01:00"
+            "update_date": "2026-09-28T06:10:02+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Thailand/Getting help.md"
         }
     ],
-    "update_date": "2026-09-18T16:03:52+01:00"
+    "update_date": "2026-09-28T06:10:02+01:00"
 }
