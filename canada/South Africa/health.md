@@ -5,7 +5,6 @@
 ### Relevant Travel Health Notices
 
 * [Measles: Advice for travellers](https://travel.gc.ca/travelling/health-safety/travel-health-notices/504)
-* [Diphtheria: Advice for travellers](https://travel.gc.ca/travelling/health-safety/travel-health-notices/528)
 
 This section has information and advice about health risks you might face when travelling. Following this advice can help reduce your risk of getting sick. Not all risks are listed here.
 
@@ -24,27 +23,6 @@ These may include vaccines for measles, mumps, and rubella (MMR), diphtheria, te
 When travelling in this destination, you might be at risk for diseases that can be prevented with vaccines or medications. Talk to a travel health care provider about which ones are right for you based on your travel plans.
 
 The highlights below will also tell you if your destination may require that vaccine for entering or exiting.
-
-Rabies 
-
-Rabies may be present in some wildlife in this destination, including bats. Rabies is a serious disease that’s almost always fatal once symptoms appear. It's spread to humans through the saliva of infected animals, mainly through bites, but it can also be spread through scratches.
-
-Before you travel, talk to a health care professional about rabies vaccination. Vaccination may be recommended if you’ll be working directly with wildlife.
-
-If you’re bitten or scratched by wildlife, including bats:
-
-* wash the wound right away with soap and clean water for about 15 minutes
-* get medical care as soon as possible
-
-If you get treatment to prevent rabies while outside Canada, ask for:
-
-* written records of medications and vaccines administered, including when they were given, product names, and batch or lot numbers
-* photos of the packaging and labels of any medications or vaccines given to you
-
-When you return to Canada, see a health care professional as soon as possible and bring your treatment records to your appointment.
-
-**Learn more:**  
-[Rabies: Symptoms and treatment](https://www.canada.ca/en/public-health/services/diseases/rabies.html)
 
 Yellow Fever - Country Entry Requirements 
 
@@ -76,6 +54,27 @@ Hepatitis A
 There is a risk of [hepatitis A](https://www.canada.ca/en/public-health/services/diseases/hepatitis-a.html) in this destination. It is a disease of the liver. People can get hepatitis A if they ingest contaminated food or water, eat foods prepared by an infectious person, or if they have close physical contact (such as oral-anal sex) with an infectious person, although casual contact among people does not spread the virus.
 
 Practise [safe food and water precautions](https://travel.gc.ca/travelling/health-safety/food-water) and wash your hands often. Vaccination is recommended for all travellers to areas where hepatitis A is present.
+
+Rabies 
+
+Rabies may be present in some wildlife in this destination, including bats. Rabies is a serious disease that’s almost always fatal once symptoms appear. It's spread to humans through the saliva of infected animals, mainly through bites, but it can also be spread through scratches.
+
+Before you travel, talk to a health care professional about rabies vaccination. Vaccination may be recommended if you’ll be working directly with wildlife.
+
+If you’re bitten or scratched by wildlife, including bats:
+
+* wash the wound right away with soap and clean water for about 15 minutes
+* get medical care as soon as possible
+
+If you get treatment to prevent rabies while outside Canada, ask for:
+
+* written records of medications and vaccines administered, including when they were given, product names, and batch or lot numbers
+* photos of the packaging and labels of any medications or vaccines given to you
+
+When you return to Canada, see a health care professional as soon as possible and bring your treatment records to your appointment.
+
+**Learn more:**  
+[Rabies: Symptoms and treatment](https://www.canada.ca/en/public-health/services/diseases/rabies.html)
 
 Measles 
 
@@ -143,7 +142,7 @@ Eating or drinking unsafe food or water, or swimming in contaminated water can m
 * Avoid, if possible, getting water in your eyes, mouth, or nose when swimming in freshwater (like streams, lakes, or canals), especially after heavy rain or flooding - the water might look clean but can still be contaminated
 * Don’t swallow water when bathing, showering, swimming in pools, or using hot tubs
 
-[Eat and drink safely abroad](https://travel.gc.ca/travelling/health-safety/food-water)
+[Eat and drink safely outside Canada](https://travel.gc.ca/travelling/health-safety/food-water)
 
 Travellers' diarrhea
 
@@ -216,7 +215,7 @@ Rift Valley fever
 
 ### Animal precautions
 
-Some infections can spread directly from animals to people, like rabies or bird flu (avian influenza). Others don’t spread directly from animals but can infect people who visit areas animals have contaminated with their droppings or body fluids.
+Some infections, such as rabies, spread through direct contact with animals. Others, such as hantavirus infections and avian influenza, can also spread indirectly when people come into contact with areas contaminated by animal droppings or other animal waste.
 
 Certain activities can increase your chances of coming into contact with animals, their droppings, or their body fluids, like:
 
@@ -245,7 +244,7 @@ When travelling, you can reduce your risk of getting or spreading respiratory in
 
 [Mass gatherings (large-scale events)](https://travel.gc.ca/travelling/health-safety/mass-gatherings)  
 [Clean your hands to help reduce the spread of infectious diseases](https://www.canada.ca/en/public-health/services/healthy-living/hand-hygiene.html)  
-[Respiratory infectious diseases: How to reduce the spread with personal protective measures](https://www.canada.ca/en/public-health/services/diseases/respiratory-infectious-diseases-reduce-spread-personal-protective-measures.html)
+[Respiratory infectious diseases: Reduce your risk](https://www.canada.ca/en/public-health/services/diseases/respiratory-infectious-diseases-reduce-spread-personal-protective-measures.html)
 
 To lower your risk of getting sexually transmissible infections (STIs), HIV, and mpox, you can:
 

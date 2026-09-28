@@ -1,7 +1,7 @@
 {
     "name": "Mexico",
-    "update_reason": "Risk levels section \u2013 avoid non-essential travel to Baja California Sur, from the border with Baja California state south to the area between Punta Coyote and El Conejo; Natural disasters and climate section \u2013 updated information on Hurricane Polo",
-    "update_date": "2026-09-27T01:16:00",
+    "update_reason": "Risk levels section \u2013 avoid non-essential travel to the northwestern coast of mainland Mexico, from Bah\u00eda de Kino to Topolobampo; Natural disasters and climate section \u2013 updated information on Hurricane Polo",
+    "update_date": "2026-09-27T22:06:00",
     "sections": {
         "risk": "canada/Mexico/risk.md",
         "security": "canada/Mexico/security.md",

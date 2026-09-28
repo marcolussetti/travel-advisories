@@ -1,7 +1,7 @@
 {
     "name": "Venezuela",
-    "update_reason": "Natural disasters and climate section \u2013 updated information on earthquakes near Caracas",
-    "update_date": "2026-09-01T15:52:00",
+    "update_reason": "Health \u2013 Travel health notice for yellow fever was removed",
+    "update_date": "2026-09-28T09:12:00",
     "sections": {
         "risk": "canada/Venezuela/risk.md",
         "security": "canada/Venezuela/security.md",

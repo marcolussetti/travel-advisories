@@ -5,7 +5,6 @@
 ### Relevant Travel Health Notices
 
 * [Measles: Advice for travellers](https://travel.gc.ca/travelling/health-safety/travel-health-notices/504)
-* [Yellow fever in the Americas](https://travel.gc.ca/travelling/health-safety/travel-health-notices/547)
 
 This section has information and advice about health risks you might face when travelling. Following this advice can help reduce your risk of getting sick. Not all risks are listed here.
 
@@ -42,13 +41,13 @@ Travellers get vaccinated either because it is required to enter a country or be
 **Recommendation**
 
 * Vaccination is recommended depending on your itinerary.
-* Contact a designated [Yellow Fever Vaccination Centre](to https://www.canada.ca/en/public-health/services/travel-health/yellow-fever.html#select-centre) well in advance of your trip to arrange for vaccination.
+* Contact a designated [Yellow Fever Vaccination Centre](https://www.canada.ca/en/public-health/services/travel-health/yellow-fever.html) well in advance of your trip to arrange for vaccination.
 * Discuss travel plans, activities, and destinations with a health care professional.
 * [Protect yourself from mosquito bites.](http://travel.gc.ca/travelling/health-safety/insect-bite)
 
 [About Yellow Fever](https://www.canada.ca/en/public-health/services/diseases/yellow-fever.html)
 
-[Yellow Fever Vaccination Centres in Canada](https://www.canada.ca/en/public-health/services/travel-health/yellow-fever.html#select-centre)  
+[Yellow Fever Vaccination Centres in Canada](https://www.canada.ca/en/public-health/services/travel-health/yellow-fever.html)  
 \* It is important to note that [country entry requirements](https://www.who.int/publications/m/item/vaccination-requirements-and-recommendations-for-international-travellers-and-malaria-situation-per-country-2021-edition) may not reflect your risk of yellow fever at your destination. It is recommended that you contact the nearest [diplomatic or consular office](https://www.international.gc.ca/protocol-protocole/reps.aspx?view=d&lang=eng) of the destination(s) you will be visiting to verify any additional entry requirements.
 
 Hepatitis A
@@ -103,17 +102,15 @@ The flu virus spreads from person to person when they cough or sneeze or by touc
 Malaria 
 
 [Malaria](https://www.canada.ca/en/public-health/services/diseases/malaria.html) is a serious and sometimes fatal disease that is caused by parasites spread through the bites of mosquitoes.  
- 
+   
+**There is a risk of malaria in certain areas and/or during a certain time of year in this destination.**
 
 [Antimalarial medication may be recommended](https://www.canada.ca/en/public-health/services/catmat/appendix-1-malaria-risk-recommended-chemoprophylaxis-geographic-area.html) depending on your itinerary and the time of year you are travelling. Consult a health care professional or visit a travel health clinic before travelling to discuss your options. It is recommended to do this 6 weeks before travel, however, it is still a good idea any time before leaving.   
    
 [Protect yourself from mosquito bites](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html) at all times:   
 • Cover your skin and use an [approved](https://www.canada.ca/en/health-canada/services/about-pesticides/insect-repellents.html) insect repellent on uncovered skin.   
 • Exclude mosquitoes from your living area with screening and/or closed, well-sealed doors and windows.  
-• Use insecticide-treated bed nets if mosquitoes cannot be excluded from your living area.   
-• Wear permethrin-treated clothing.   
-   
-If you develop [symptoms](https://www.canada.ca/en/public-health/services/diseases/malaria/symptoms-malaria.html) similar to malaria when you are travelling or up to a year after you return home, see a health care professional immediately. Tell them where you have been travelling or living.
+• Use insecticide-treated bed nets if mosquitoes cannot be excluded from your living area. 
 
 Rabies 
 
@@ -156,7 +153,7 @@ Eating or drinking unsafe food or water, or swimming in contaminated water can m
 * Avoid, if possible, getting water in your eyes, mouth, or nose when swimming in freshwater (like streams, lakes, or canals), especially after heavy rain or flooding - the water might look clean but can still be contaminated
 * Don’t swallow water when bathing, showering, swimming in pools, or using hot tubs
 
-[Eat and drink safely abroad](https://travel.gc.ca/travelling/health-safety/food-water)
+[Eat and drink safely outside Canada](https://travel.gc.ca/travelling/health-safety/food-water)
 
 Travellers' diarrhea
 
@@ -270,7 +267,7 @@ There is no vaccine or medication to prevent infection with the parasite that ca
 
 ### Animal precautions
 
-Some infections can spread directly from animals to people, like rabies or bird flu (avian influenza). Others don’t spread directly from animals but can infect people who visit areas animals have contaminated with their droppings or body fluids.
+Some infections, such as rabies, spread through direct contact with animals. Others, such as hantavirus infections and avian influenza, can also spread indirectly when people come into contact with areas contaminated by animal droppings or other animal waste.
 
 Certain activities can increase your chances of coming into contact with animals, their droppings, or their body fluids, like:
 
@@ -299,7 +296,7 @@ When travelling, you can reduce your risk of getting or spreading respiratory in
 
 [Mass gatherings (large-scale events)](https://travel.gc.ca/travelling/health-safety/mass-gatherings)  
 [Clean your hands to help reduce the spread of infectious diseases](https://www.canada.ca/en/public-health/services/healthy-living/hand-hygiene.html)  
-[Respiratory infectious diseases: How to reduce the spread with personal protective measures](https://www.canada.ca/en/public-health/services/diseases/respiratory-infectious-diseases-reduce-spread-personal-protective-measures.html)
+[Respiratory infectious diseases: Reduce your risk](https://www.canada.ca/en/public-health/services/diseases/respiratory-infectious-diseases-reduce-spread-personal-protective-measures.html)
 
 To lower your risk of getting sexually transmissible infections (STIs), HIV, and mpox, you can:
 
