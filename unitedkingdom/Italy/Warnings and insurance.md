@@ -1,15 +1,23 @@
 # Warnings and insurance
 
 Still current at:
-:   17 September 2026
+:   29 September 2026
 
 Updated:
-:   17 September 2026
+:   28 September 2026
 
 Latest update:
-:   Removal of information about Mount Etna eruption and flight disruption ('Warnings and insurance' page).
+:   New information about Mount Etna volcanic activity (‘Warnings and insurance’ page).
 
 This travel advice also covers Vatican City.
+
+## Mount Etna
+
+Due to volcanic activity, the local authorities have increased the alert level for Mount Etna. In the event of a volcanic eruption, follow the advice of local authorities. Read information about [volcanoes.](https://www.gov.uk/foreign-travel-advice/italy/safety-and-security#Volcanoes:~:text=an%20earthquake.-,Volcanoes,-There%20are%C2%A0)
+
+Arrivals and departures into Catania airport may be cancelled, delayed or re-routed to Palermo or Comiso.
+
+If you are traveling to or from Catania, check with your travel provider or [Catania airport](https://www.aeroporto.catania.it/en).
 
 ## Before you travel
 

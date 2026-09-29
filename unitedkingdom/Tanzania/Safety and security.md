@@ -27,8 +27,6 @@ Stay aware of your surroundings, keep up to date with local media reports and fo
 
 Extremists linked to the Islamic terrorist group Al-Shabaab based in Somalia pose a threat across the East Africa region, and are thought to be active in Tanzania. Attacks by IS-Mozambique, who are based in the Cabo Delgado province of Mozambique, are possible near Tanzania’s border with this area of Mozambique. There is also thought to be some support for Daesh (formerly referred to as ISIL). The Tanzanian authorities have successfully made a number of arrests in connection to terrorism. However, many incidents in Tanzania are of unclear origin and may be conducted by criminal gangs.
 
-In 2020, the village of Kitaya in the Mtwara region was attacked, close to the border with Mozambique, the attack was claimed by Islamic extremists operating from northern Mozambique. Most attacks target the local security forces, although attacks against western interests are also possible.
-
 ## Political situation
 
 A general election took place on 29 October 2025. Protests and the resulting security response led to fatalities and injuries in many areas of mainland Tanzania.

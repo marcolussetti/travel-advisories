@@ -42,6 +42,8 @@ You must be ready to show your return or onward ticket at border control.
 
 On 18 May, the Tanzania Ministry of Health issued a [Travel Advisory note](https://www.moh.go.tz/) announcing heightened health screening measures for travellers arriving into Tanzania from Uganda and the Democratic Republic of Congo. The World Health Organisation (WHO) has [declared this a Public Health Emergency of International Concern](https://www.who.int/news/item/17-05-2026-epidemic-of-ebola-disease-in-the-democratic-republic-of-the-congo-and-uganda-determined-a-public-health-emergency-of-international-concern).
 
+On 27 August, WHO declared the Uganda Ebola outbreak over. Heightened health screening measures are no longer in place for travellers arriving into Tanzania from Uganda, but remain for those arriving from the Democratic Republic of Congo.
+
 ### Mpox screening
 
 You will need to pass through mpox screening, in the form of body temperature checks, at all points of entry into Tanzania.

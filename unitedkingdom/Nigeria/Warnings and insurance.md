@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   21 August 2026
+:   29 September 2026
 
 Updated:
-:   20 August 2026
+:   28 September 2026
 
 Latest update:
-:   Updated information about IVF, fertility treatment scams and overseas adoption ('Safety and security' page).
+:   Updated information about Ebola screening ('Entry requirements' page).
 
 ![](https://assets.publishing.service.gov.uk/media/6a4d04e84889d85e75ab4154/FCDO__TA__030_-_Nigeria_Travel_Advice_Ed11__WEB_.jpg)
 

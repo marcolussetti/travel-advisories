@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   20 May 2026
+:   29 September 2026
 
 Updated:
-:   19 May 2026
+:   29 September 2026
 
 Latest update:
-:   Addition of information about heightened health screening measures for those entering Tanzania from Uganda and the Democratic Republic of Congo ('Entry requirements' page).
+:   Updated information that heightened health screening measures are no longer in place for travellers arriving into Tanzania from Uganda, but remain for those arriving from the Democratic Republic of Congo (‘Entry requirements’ page).
 
 ![](https://assets.publishing.service.gov.uk/media/690e25f165da22dd57729905/FCDO__TA__086_-_Tanzania_Travel_Advice_Ed1__WEB_.jpg)
 

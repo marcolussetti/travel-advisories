@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   26 September 2026
+:   29 September 2026
 
 Updated:
-:   26 September 2026
+:   28 September 2026
 
 Latest update:
-:   Further information about Hurricane Polo, with links to the guidance on emergency planning and shelter locations published by local authorities (Warnings and insurance)
+:   Hurricane Polo will impact Baja California Sur on 28 September and is forecast to continue into Sinaloa and Sonora states.
 
 ![](https://assets.publishing.service.gov.uk/media/69a1c6c8ec82ce45f05bd70e/FCDO__TA__065_-_Mexico_Travel_Advice_Ed5__WEB_.jpg)
 
@@ -109,13 +109,15 @@ Find out more about [why FCDO advises against travel to these areas](/foreign-tr
 
 ## Hurricane Polo
 
-Hurricane Polo is affecting Mexico’s southwestern coast. Heavy rain is expected to continue during the week of 21 September and may cause life-threatening flooding and landslides. A tropical cyclone warning is in place.
+Hurricane Polo will impact Baja California Sur on the afternoon and evening of 28 September, and is forecast to continue into Sinaloa and Sonora states over the following days. This will bring high winds, dangerous sea conditions and heavy rains, with risks of life-threatening flooding and landslides.
 
 Monitor local and international weather updates, including [US National Hurricane Center](https://www.nhc.noaa.gov/) and [Mexican Meteorological Service](https://www.nhc.noaa.gov/).
 
 Follow advice from local authorities and your tour operator.
 
-The hurricane is forecast to move towards Baja California on the weekend of 26 and 27 September. Local authorities have published guidance on [emergency preparedness](https://turismo.loscabos.gob.mx/emergency-preparedness-in-los-cabos-a-guide-for-foreign-residents/) and the locations of [emergency shelters](https://www.bcs.gob.mx/ciclones-tropicales-2026/inicio-ciclones-2026/) if needed.
+Local authorities have published guidance on [emergency preparedness](https://turismo.loscabos.gob.mx/emergency-preparedness-in-los-cabos-a-guide-for-foreign-residents/) and the locations of [emergency shelters](https://www.bcs.gob.mx/ciclones-tropicales-2026/inicio-ciclones-2026/) if needed.
+
+Post storm environments can remain hazardous, including due to damage to infrastructure, flooding, possible power outages and limited communications. If you have been affected by the hurricane and are in need of consular assistance, call the British Embassy in Mexico on +52 55 1670 3200.
 
 See [extreme weather and natural hazards](https://www.gov.uk/guidance/extreme-weather-and-natural-hazards)
 for advice about how to prepare for travel during hurricane season and what to do ahead of a storm.
