@@ -36,6 +36,8 @@ Visitors can contact the emergency services in Chile by dialling 133. Specific e
 * Fire brigade: 132
 * Ambulance: 131
 
+For updates on local alerts (eg. forest fires, flooding, earthquakes), please consult Chile’s National Service for Prevention and Response to Natural Disasters (SENAPRED) (Spanish only) – [**here**](https://senapred.cl/alertas/).
+
 ### **Our Tips for Safe Travels:**
 
 * Get comprehensive travel insurance that covers all planned activities.

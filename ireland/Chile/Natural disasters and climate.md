@@ -1,5 +1,7 @@
 ## Natural disasters and climate
 
+For updates on local alerts (eg. forest fires, flooding, earthquakes), please consult Chile’s National Service for Prevention and Response to Natural Disasters (SENAPRED) (Spanish only) – [**here**](https://senapred.cl/alertas/).
+
 ### **Earthquake**
 
 Chile is in a high-risk zone for earthquakes. Visitors should familiarise themselves with safety procedures in the event of an earthquake or tsunami, and take note of instructions in hotel rooms. Building regulations require new structures to take account of seismic risks. Safety measures are widely known and put into practice by national organisations and local authorities. If travelling to or living in Chile, make sure to know what to do in the event of an earthquake.

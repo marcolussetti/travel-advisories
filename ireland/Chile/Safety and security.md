@@ -47,7 +47,7 @@ Read information about the official transportation options at Santiago airport:
 * [**taxis**](https://www.nuevopudahuel.cl/fromairport?language=en&target=taxis)
 * [**buses**](https://www.nuevopudahuel.cl/fromairport?language=en&target=buses)
 * [**transfers**](https://www.nuevopudahuel.cl/fromairport?language=en&target=transfer)
-* [**car rental**](https://www.nuevopudahuel.cl/fromairport?language=en&target=arriendo-vehiculos) (read the section ‘Vehicle crime’ below if you are planning on renting a car.
+* [**car rental**](https://www.nuevopudahuel.cl/fromairport?language=en&target=arriendo-vehiculos) (read the section ‘Driving' and 'Hiring a Vehicle’ below if you are planning on renting a car)
 
 There are two official taxi companies operating in both terminals at the airport. Taxi Oficial Basico operates with black and yellow vehicles, and Taxi Oficial operates with blue vehicles.
 
@@ -61,7 +61,7 @@ If planning to drive in Chile, be prepared and take some basic precautions:
 * Driving under the influence of alcohol or drugs is against the law and you risk being detained, fined or banned from driving if caught.
 * Keep vehicle doors locked and bags kept out of sight to prevent opportunistic bag-snatching if stopped at traffic lights.
 
-#### **Hiring a Vehicle**
+### **Hiring a Vehicle**
 
 If hiring a vehicle, we advise you not to hand over your passport as a form of security. If allowing your passport to be photocopied, keep it in your sight at all times.
 

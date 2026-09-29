@@ -10,15 +10,7 @@ A number of security incidents have been reported along the Troncal del Caribe (
 
 Irish citizens in affected areas are advised to follow the instructions of local authorities and monitor local media for the latest security updates.
 
-### **Travel Alert**
-
-An earthquake of 7.4 magnitude occurred in the west of Colombia on 10 August, with its epicentre in the department of Chocó. Several regions have been strongly impacted, including the cities of Quibdó, Pereira, Manizales, Armenia, and Cali. Airports in the region are gradually resuming operations. Contact your airline or travel agent for updates on flight availability.
-
-Irish citizens in impacted areas should follow the advice and guidance of the local authorities and monitor local news channels for updates.
-
 If you have been impacted and require consular assistance, or have a concern about a relative or a friend, contact us on +57 601 657 6060 or [**consularbogota@dfa.ie**](mailto:consularbogota@dfa.ie)
-
-For the latest local updates see [**@sgcol**](https://x.com/sgcol) on X. For further information on airport closures, see [**@AerocivilCol**](https://x.com/AerocivilCol)**.**
 
 ### **General Travel Advice**
 

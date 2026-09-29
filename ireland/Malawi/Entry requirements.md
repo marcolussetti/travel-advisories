@@ -16,6 +16,12 @@ As of January 2026, Irish passport holders must apply for a visa to enter Malawi
 
 You are advised to bring US dollars in cash for payment on arrival, if your e-visa has not been issued in time for travel. Please note that the embassy is aware of individuals without an e-visa being denied boarding to travel to Malawi.
 
+### **Traveller Health Check form**
+
+The Ministry of Health and Sanitation requires all arriving passengers to complete a Traveller Health Check Form. The form can be accessed on arrival via a QR code or completed in advance online [here](https://poe.health.gov.mw/self-screen).
+
+Please note that Ireland is not currently listed among the available country options on the form. Travellers should consult the relevant health or immigration authorities at their port of entry for advice on how to proceed.
+
 ### **Extending an Entry Permit**
 
 If you wish to extend your stay, the 30-day permit can be extended twice, up to an additional 30 days on each renewal, before it expires (90 days in total). Renewals can be granted at the immigration offices in Lilongwe or in Blantyre.  
