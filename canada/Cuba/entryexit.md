@@ -82,7 +82,7 @@ You must be able to show proof of medical insurance upon entry to Cuba. If you d
 
 Canadian provincial health care coverage provides very limited coverage outside Canada. It will not pay for medical bills up front and does not include air evacuation.
 
-Cuban authorities won’t let you leave the country with outstanding medical bills. You will need to remain in Cuba until all debts are paid. Medical bills are payable by credit card only.
+Cuban authorities won’t let you leave the country with outstanding medical bills. You will need to remain in Cuba until all debts are paid. Medical bills are payable in cash (U.S. dollars) only.
 
 * Make sure you purchase the best health insurance you can afford
 * Ensure the insurance includes medical evacuation and hospital stays

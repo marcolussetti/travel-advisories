@@ -23,9 +23,11 @@ If you are travelling near active volcanoes:
 
 Some active volcanoes are continually monitored by Italian authorities and are located near densely populated urban areas or popular tourist destinations.
 
-#### Sicily
+#### Mount Etna
 
-Mount Etna is Europe’s most active volcano. Periods of high activity can bring significant ash fall, earthquakes and emission of harmful gases.
+Mount Etna, in Sicily, is Europe’s most active volcano. Periods of high activity can bring significant ash fall, earthquakes and emission of harmful gases.
+
+Eruptions and volcanic activity may occasionally disrupt operations at Catania-Fontanarossa Airport, in Sicily. Flights may be cancelled, delayed, or re-routed with little to no notice. Always check the status of your flight before you travel.
 
 #### Aeolian Islands
 
@@ -39,6 +41,7 @@ Mount Vesuvius and the Phlegraean Fields in the Naples area are active volcanoes
 
 * [Information on active volcanoes](https://www.ingv.it/it/dati-in-tempo-reale-vulcani-maps) - Italian National Institute of Geophysics and Volcanology (in Italian only)
 * [Information on seismic activity in Italy](https://rischi.protezionecivile.gov.it/en/seismic-0) - Italian Civil Protection Department
+* [Homepage](https://www.aeroporto.catania.it/en) – Catania Airport
 
 ### Wildfires
 

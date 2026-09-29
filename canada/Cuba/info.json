@@ -1,7 +1,7 @@
 {
     "name": "Cuba",
-    "update_reason": "The Need help? section was updated.",
-    "update_date": "2026-09-22T06:46:00",
+    "update_reason": "Entry and exit requirements section \u2013 updated information on payment for medical bills; Health section \u2013 added information on payment for medical bills",
+    "update_date": "2026-09-28T14:58:00",
     "sections": {
         "risk": "canada/Cuba/risk.md",
         "security": "canada/Cuba/security.md",
