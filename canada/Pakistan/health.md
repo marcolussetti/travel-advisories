@@ -31,74 +31,6 @@ There is a risk of [hepatitis A](https://www.canada.ca/en/public-health/services
 
 Practise [safe food and water precautions](https://travel.gc.ca/travelling/health-safety/food-water) and wash your hands often. Vaccination is recommended for all travellers to areas where hepatitis A is present.
 
-Rabies 
-
-Rabies is common in this destination and is carried by dogs and some wildlife, including bats. Rabies is a serious disease that’s almost always fatal once symptoms appear. It's spread to humans through the saliva of infected animals, mainly through bites, but it can also be spread through scratches.
-
-Before you travel, talk to a health care professional about rabies vaccination. Vaccination may be recommended, particularly for people at higher risk of exposure, such as:
-
-* veterinarians and wildlife workers
-* children
-* adventure travellers and cave explorers (spelunkers)
-* people who will be in close contact with animals
-
-While travelling:
-
-* avoid contact with animals, especially dogs
-* supervise children closely around animals
-
-If you’re bitten or scratched by an animal:
-
-* wash the wound right away with soap and clean water for about 15 minutes
-* get medical care as soon as possible
-
-In this destination, treatment to prevent rabies may be limited or not available. You may need to travel to another location to receive treatment.
-
-If you get treatment to prevent rabies while outside Canada, ask for:
-
-* written records of medications and vaccines administered, including when they were given, product names, and batch or lot numbers
-* photos of the packaging and labels of any medications or vaccines given to you
-
-When you return to Canada, see a health care professional as soon as possible and bring your treatment records to your appointment.
-
-**Learn more:**  
-[Rabies: Symptoms and treatment](https://www.canada.ca/en/public-health/services/diseases/rabies.html)
-
-Polio – WHO Temporary Recommendations 
-
-[Polio](https://travel.gc.ca/travelling/health-safety/diseases/polio) (poliomyelitis) is an infectious disease that can be prevented by vaccination. It is caused by poliovirus type 1, 2 or 3. Wild poliovirus (WPV1) and/or circulating vaccine-derived poliovirus (cVDPV1 or cVDPV3)) is/are present in this destination.
-
-Polio is spread from person to person and through contaminated food and water. Infection with the polio virus can cause paralysis and death in individuals of any age who are not immune.
-
-**Recommendations:**
-
-* Be sure that your polio vaccinations are up to date before travelling. Polio is part of the [routine vaccine schedule](https://www.canada.ca/en/public-health/services/publications/healthy-living/canadian-immunization-guide-part-1-key-immunization-information/page-13-recommended-immunization-schedules.html#p1c12a2) for children in Canada.
-* One booster dose of the polio vaccine is recommended as an [adult](https://www.canada.ca/en/public-health/services/publications/healthy-living/canadian-immunization-guide-part-3-vaccination-specific-populations/page-9-immunization-travellers.html#a3).
-* Make sure that the polio vaccination is documented on the International Certificate of Vaccination or Prophylaxis. This is the only document accepted as proof of vaccination. It is provided at designated [yellow fever vaccination centres](https://www.canada.ca/fr/sante-publique/services/sante-voyageurs/fievre-jaune.html).
-* Carry the certificate as proof of vaccination when travelling to this destination.
-
-This destination is subject to Temporary Recommendations under the World Health Organization (WHO)’s polio Public Health Emergency of International Concern (PHEIC).
-
-**Temporary Recommendations (WHO):**
-
-* Travellers who are visiting for longer than 4 weeks may be required to receive a dose of polio vaccine 1 to 12 months before they leave this destination. This may be required even if you have previously received all the recommended polio vaccine doses as part of the routine vaccine schedule in Canada.
-Typhoid fever 
-
-There is a risk of typhoid fever in Pakistan. Travellers are at higher risk in places with poor sanitation, limited access to clean water, or unsafe food preparation. The risk can increase during the monsoon season (June to September). Cleaning your hands often and making safe food and drink choices can help lower your risk.
-
-Typhoid fever is a disease caused by bacteria. Extensively drug-resistant (XDR) typhoid fever has been reported in Pakistan. This type of typhoid fever is harder to treat because the bacteria that causes it doesn’t respond to most antibiotics.
-
-Typhoid fever spreads through consuming contaminated food or drinking water, or through contact with the feces of an infected person. Symptoms may include fever, cough, diarrhea or constipation, tiredness, headache, and loss of appetite. In some cases, typhoid fever can damage the intestines and cause bleeding.
-
-Young children, older adults, people visiting friends or relatives, and people with weakened immune systems are more likely to become seriously ill.
-
-A vaccine is available and is recommended for most travellers to this destination. Talk to a health care provider before you travel to find out if this vaccine is recommended for you.
-
-**Learn more:**  
-[Typhoid fever](https://www.canada.ca/en/public-health/services/diseases/typhoid-fever.html)  
-[Eating and drinking safely abroad](https://travel.gc.ca/travelling/health-safety/food-water)  
-[Clean your hands to help reduce the spread of infectious diseases](https://www.canada.ca/en/public-health/services/healthy-living/hand-hygiene.html)
-
 Measles 
 
 Measles is a serious viral infection that spreads easily. It spreads through the air, and can stay in the air for up to 2 hours. You can also get measles by direct contact with an infected person or by touching a surface with the virus on it and then touching your eyes, nose, or mouth before washing your hands.
@@ -195,6 +127,74 @@ Travellers get vaccinated either because it is required to enter a country or be
 [Yellow Fever Vaccination Centres in Canada](https://www.canada.ca/en/public-health/services/travel-health/yellow-fever.html#select-centre%20)  
 \* It is important to note that [country entry requirements](https://www.who.int/publications/m/item/vaccination-requirements-and-recommendations-for-international-travellers-and-malaria-situation-per-country-2022-edition "Link to External Site") may not reflect your risk of yellow fever at your destination. It is recommended that you contact the nearest [diplomatic or consular office](http://www.international.gc.ca/protocol-protocole/reps.aspx?view=d "Link to External Site") of the destination(s) you will be visiting to verify any additional entry requirements.
 
+Rabies 
+
+Rabies is common in this destination and is carried by dogs and some wildlife, including bats. Rabies is a serious disease that’s almost always fatal once symptoms appear. It's spread to humans through the saliva of infected animals, mainly through bites, but it can also be spread through scratches.
+
+Before you travel, talk to a health care professional about rabies vaccination. Vaccination may be recommended, particularly for people at higher risk of exposure, such as:
+
+* veterinarians and wildlife workers
+* children
+* adventure travellers and cave explorers (spelunkers)
+* people who will be in close contact with animals
+
+While travelling:
+
+* avoid contact with animals, especially dogs
+* supervise children closely around animals
+
+If you’re bitten or scratched by an animal:
+
+* wash the wound right away with soap and clean water for about 15 minutes
+* get medical care as soon as possible
+
+In this destination, treatment to prevent rabies may be limited or not available. You may need to travel to another location to receive treatment.
+
+If you get treatment to prevent rabies while outside Canada, ask for:
+
+* written records of medications and vaccines administered, including when they were given, product names, and batch or lot numbers
+* photos of the packaging and labels of any medications or vaccines given to you
+
+When you return to Canada, see a health care professional as soon as possible and bring your treatment records to your appointment.
+
+**Learn more:**  
+[Rabies: Symptoms and treatment](https://www.canada.ca/en/public-health/services/diseases/rabies.html)
+
+Polio – WHO Temporary Recommendations 
+
+[Polio](https://travel.gc.ca/travelling/health-safety/diseases/polio) (poliomyelitis) is an infectious disease that can be prevented by vaccination. It is caused by poliovirus type 1, 2 or 3. Wild poliovirus (WPV1) and/or circulating vaccine-derived poliovirus (cVDPV1 or cVDPV3)) is/are present in this destination.
+
+Polio is spread from person to person and through contaminated food and water. Infection with the polio virus can cause paralysis and death in individuals of any age who are not immune.
+
+**Recommendations:**
+
+* Be sure that your polio vaccinations are up to date before travelling. Polio is part of the [routine vaccine schedule](https://www.canada.ca/en/public-health/services/publications/healthy-living/canadian-immunization-guide-part-1-key-immunization-information/page-13-recommended-immunization-schedules.html#p1c12a2) for children in Canada.
+* One booster dose of the polio vaccine is recommended as an [adult](https://www.canada.ca/en/public-health/services/publications/healthy-living/canadian-immunization-guide-part-3-vaccination-specific-populations/page-9-immunization-travellers.html#a3).
+* Make sure that the polio vaccination is documented on the International Certificate of Vaccination or Prophylaxis. This is the only document accepted as proof of vaccination. It is provided at designated [yellow fever vaccination centres](https://www.canada.ca/fr/sante-publique/services/sante-voyageurs/fievre-jaune.html).
+* Carry the certificate as proof of vaccination when travelling to this destination.
+
+This destination is subject to Temporary Recommendations under the World Health Organization (WHO)’s polio Public Health Emergency of International Concern (PHEIC).
+
+**Temporary Recommendations (WHO):**
+
+* Travellers who are visiting for longer than 4 weeks may be required to receive a dose of polio vaccine 1 to 12 months before they leave this destination. This may be required even if you have previously received all the recommended polio vaccine doses as part of the routine vaccine schedule in Canada.
+Typhoid fever 
+
+There is a risk of typhoid fever in Pakistan. Travellers are at higher risk in places with poor sanitation, limited access to clean water, or unsafe food preparation. The risk can increase during the monsoon season (June to September). Cleaning your hands often and making safe food and drink choices can help lower your risk.
+
+Typhoid fever is a disease caused by bacteria. Extensively drug-resistant (XDR) typhoid fever has been reported in Pakistan. This type of typhoid fever is harder to treat because the bacteria that causes it doesn’t respond to most antibiotics.
+
+Typhoid fever spreads through consuming contaminated food or drinking water, or through contact with the feces of an infected person. Symptoms may include fever, cough, diarrhea or constipation, tiredness, headache, and loss of appetite. In some cases, typhoid fever can damage the intestines and cause bleeding.
+
+Young children, older adults, people visiting friends or relatives, and people with weakened immune systems are more likely to become seriously ill.
+
+A vaccine is available and is recommended for most travellers to this destination. Talk to a health care provider before you travel to find out if this vaccine is recommended for you.
+
+**Learn more:**  
+[Typhoid fever](https://www.canada.ca/en/public-health/services/diseases/typhoid-fever.html)  
+[Eating and drinking safely abroad](https://travel.gc.ca/travelling/health-safety/food-water)  
+[Clean your hands to help reduce the spread of infectious diseases](https://www.canada.ca/en/public-health/services/healthy-living/hand-hygiene.html)
+
 ### Safe food and water precautions
 
 Eating or drinking unsafe food or water, or swimming in contaminated water can make you sick while travelling. Take precautions by following these tips:
@@ -203,7 +203,7 @@ Eating or drinking unsafe food or water, or swimming in contaminated water can m
 * Avoid, if possible, getting water in your eyes, mouth, or nose when swimming in freshwater (like streams, lakes, or canals), especially after heavy rain or flooding - the water might look clean but can still be contaminated
 * Don’t swallow water when bathing, showering, swimming in pools, or using hot tubs
 
-[Eat and drink safely abroad](https://travel.gc.ca/travelling/health-safety/food-water)
+[Eat and drink safely outside Canada](https://travel.gc.ca/travelling/health-safety/food-water)
 
 Cholera
 
@@ -351,7 +351,7 @@ When travelling, you can reduce your risk of getting or spreading respiratory in
 
 [Mass gatherings (large-scale events)](https://travel.gc.ca/travelling/health-safety/mass-gatherings)  
 [Clean your hands to help reduce the spread of infectious diseases](https://www.canada.ca/en/public-health/services/healthy-living/hand-hygiene.html)  
-[Respiratory infectious diseases: How to reduce the spread with personal protective measures](https://www.canada.ca/en/public-health/services/diseases/respiratory-infectious-diseases-reduce-spread-personal-protective-measures.html)
+[Respiratory infectious diseases: Reduce your risk](https://www.canada.ca/en/public-health/services/diseases/respiratory-infectious-diseases-reduce-spread-personal-protective-measures.html)
 
 To lower your risk of getting sexually transmissible infections (STIs), HIV, and mpox, you can:
 

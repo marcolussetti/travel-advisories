@@ -18,7 +18,7 @@ Before you travel, check with your transportation company about passport require
 
 #### Regular Canadian passport
 
-Your passport must be valid at least 150 days from the date you enter Türkiye.
+Your passport must be valid for at least 150 days from the date you enter Türkiye. You may be denied entry if there is not enough space for entry and exit stamps in your passport.
 
 #### Passport for official travel
 
@@ -44,38 +44,42 @@ Different entry rules may apply when travelling with a temporary passport or an 
 
 ### Visas
 
+Tourist visa: not required for stays of up to 90 days in a 180-day period  
 Work visa: required  
-Tourism visa: not required for stays of up to 90 days in a 180-day period  
 Business visa: required  
 Student visa: required  
 Medical visa: required
 
-If you are travelling to Türkiye to seek medical services, apply for a medical visa through the HealthTürkiye online portal. You should also consult our advice on medical tourism under the [Health](https://travel.gc.ca/destinations/turkiye#health) section before applying for a medical visa.
+If you are travelling to Türkiye and need a visa, use the official Government of Türkiye site to apply online and purchase an e-visa before entering the country. Be cautious of third-party websites that offer help with obtaining any type of visa, as they may charge additional fees to provide information and submit applications for you. They do not operate on behalf of the Government of Türkiye.
 
-If you are travelling to Türkiye and need a visa, use the official Turkish government site to apply online and purchase an e-visa before entering the country. Be cautious of third-party websites that offer help in getting any type of visa, as they may charge additional fees to provide information and submit applications for you. They do not operate on behalf of the Government of Türkiye.
+To qualify for a subsequent visa-exempt entry for a 90-day period, you must leave Türkiye for at least 90 days before being allowed to re-enter for another 90 days.
 
-If you plan to study or work in Türkiye, you must obtain a visa at a Turkish embassy or consulate before arriving in Türkiye. If you intend to work remotely from Türkiye, you must first obtain a ‘’Digital Nomad’’ visa by submitting the requested documentation on the government of Türkiye’s digital nomads online portal. If your documents are validated, you will receive a Digital Nomad Identification Certificate that you must present at a Turkish embassy, consulate or visa center to receive your visa.
+If you plan to study or work in Türkiye, you must obtain a visa at a Turkish embassy or consulate before your arrival. If you intend to work remotely from Türkiye, you must first obtain a “Digital Nomad” visa by submitting the requested documentation on the Government of Türkiye’s Digital Nomads online portal. If your documents are validated, you will receive a Digital Nomad Identification Certificate that you must present at a Turkish embassy, consulate or visa centre to receive your visa.
 
-To qualify for a subsequent visa-exempted entry for a 90-day period in Turkiye, you must leave the country for at least 90 days before being allowed to re-enter for another 90 days.
+If you are travelling to Türkiye to seek medical services, apply for a medical visa through the HealthTürkiye online portal. You should also consult our advice on [medical tourism](#medical) under the Health section before applying for a medical visa.
 
-If you wish to remain in Türkiye for longer than 90 consecutive days, you must obtain a residence permit from the Provincial Directorate of Migration Management in the province in which you reside. If you overstay, you might be fined, deported or banned from future travel to Türkiye for a specific period of time.
+If you wish to remain in Türkiye for longer than 90 consecutive days, you must obtain a residence permit from the Provincial Directorate of Migration Management in the province in which you reside. Residence permit processing can take months. If you overstay, you might be fined, deported or banned from future entry into Türkiye for a specific period. If you previously applied for refugee or asylum status in Türkiye, records will reflect this and may complicate re entry. If that’s your case, consult the nearest Turkish embassy or consulate before travelling.
 
 #### Useful links
 
-* [E-visa application system](https://www.evisa.gov.tr/en/) – Ministry of Foreign Affairs of the Republic of Türkiye
-* [Residency permit applications](https://en.goc.gov.tr/)– Ministry of Interior of the Republic of Türkiye
-* [HealthTürkiye online portal](https://healthturkiye.com/medical-visa) – Ministry of Health of the Republic of Türkiye
-* [Digital nomads online portal](https://digitalnomads.goturkiye.com/application-requirements-for-digital-nomad-visa-and-short-term-residence)– Ministry of Culture and Tourism of the Republic of Türkiye
+* [E-visa application system](https://www.visa.org.tr/turkiye/?utm_source=bing&utm_medium=cpc&utm_campaign=571386487&utm_id=571386487&utm_term=turkey%20e%20visa%20online&utm_content=74286124951537&adgroupid=1188574360316527&targetid=kwd-74286568941054&matchtype=e&device=c) – Ministry of Culture and Tourism of the Republic of Türkiye
+* [Digital Nomads online portal](https://digitalnomads.goturkiye.com/application-requirements-for-digital-nomad-visa-and-short-term-residence) – Ministry of Culture and Tourism of the Republic of Türkiye
+* [HealthTürkiye online portal](https://healthturkiye.com/medical-visa) – Ministry of Health of the Republic of Türkiye
+* [Residence permit applications](https://en.goc.gov.tr/residence-1) – Ministry of Interior of the Republic of Türkiye
 
-### Entry stamp
+### Entry and exit stamps
 
-Ensure Turkish immigration officials stamp your passport on arrival. Failure to produce a stamped passport is punishable by a fine, detention and deportation, and can lead to significant delays at departure.
+Make sure Turkish immigration officials stamp your passport on arrival. Failure to produce a stamped passport is punishable by a fine, detention and deportation, and can lead to significant delays at departure. Make sure to obtain an exit stamp when leaving Türkiye, including when travelling by sea to nearby islands, to avoid difficulty re-entering Türkiye and a fine.
 
-### Dual citizenship
+### Dual citizens
 
 Dual Turkish-Canadian citizens must present a valid Turkish passport or piece of identification to enter the country.
 
+[Dual citizens](https://travel.gc.ca/travelling/documents/dual-citizenship)
+
 ### Children and travel
+
+If you leave Türkiye with your child who has dual Turkish-Canadian citizenship and is 18 years old or younger, you may need to show permission for them to travel from the Turkish parent.
 
 Learn about [travelling with children](http://travel.gc.ca/travelling/children).
 

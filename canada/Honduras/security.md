@@ -130,20 +130,41 @@ To avoid becoming a victim:
 * avoid carrying large amounts of cash
 * avoid showing signs of affluence
 
-### State of emergency
+### State interventions
+
+#### Increased security operations
+
+Honduran authorities have increased security operations targeting gangs and organized criminal groups. Police and military operations may occur with little notice, particularly in:
+
+* Tegucigalpa
+* the Valle de Sula region
+* Yoro
+* parts of northern Honduras
+
+In areas where security operations are underway, you may encounter:
+
+* an increased police and military presence
+* checkpoints and searches
+* road closures or localized movement disruptions
+* confrontations between security forces and criminal groups
+
+Criminal activity could also shift to neighbouring areas or alternate routes.
+
+#### State of emergency
 
 Local authorities periodically declare a state of emergency in various municipalities to fight against gang-related crime and extortion.
 
 While a state of emergency is in effect, security forces have increased rights to restrict freedom of movement, conduct searches, make seizures and detain persons of interest.
 
-If you are travelling in an area where a state of emergency is in effect:
+If you are travelling in areas affected by state interventions:
 
-* be aware that you may be subject to searches by security forces
-* always cooperate with military and police officers
-* carry valid ID at all times and be prepared for various checkpoints
-* allow extra time to reach your destination
+* remain vigilant and be aware of your surroundings
+* always carry valid identification
+* allow additional time for travel and be prepared to change your route
+* do not attempt to cross security cordons or roadblocks
+* cooperate with police and military officers
 * follow the instructions of local authorities
-* monitor local news to stay informed on the current situation
+* monitor local media for information on security operations and disruptions
 
 ### Express kidnappings
 

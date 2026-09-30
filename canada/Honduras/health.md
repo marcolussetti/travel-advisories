@@ -148,7 +148,7 @@ Eating or drinking unsafe food or water, or swimming in contaminated water can m
 * Avoid, if possible, getting water in your eyes, mouth, or nose when swimming in freshwater (like streams, lakes, or canals), especially after heavy rain or flooding - the water might look clean but can still be contaminated
 * Don’t swallow water when bathing, showering, swimming in pools, or using hot tubs
 
-[Eat and drink safely abroad](https://travel.gc.ca/travelling/health-safety/food-water)
+[Eat and drink safely outside Canada](https://travel.gc.ca/travelling/health-safety/food-water)
 
 Travellers' diarrhea
 
@@ -175,27 +175,6 @@ To protect yourself from bites:
 
 [Insect bite and pest prevention](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html)  
 [Personal insect repellents](https://www.canada.ca/en/health-canada/services/about-pesticides/insect-repellents.html)
-
-Chikungunya
-
-There is a risk of chikungunya in this country. The level of risk may vary by:
-
-* season
-* year
-* region
-* elevation
-
-The virus that causes chikungunya is spread through the bite of an infected mosquito. It can cause fever and pain in the joints. In some cases, the joint pain can be severe and last for months or years.
-
-Protect yourself from mosquito bites at all times.
-
-[Insect bite and pest prevention](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html)
-
-A vaccine for the prevention of chikungunya is approved in Canada. Talk to your healthcare provider about how best to prevent chikungunya, including the benefits and risks of vaccination based on factors such as your age, itinerary and personal preferences.
-
-**Learn more:**
-
-[Chikungunya](https://www.canada.ca/en/public-health/services/diseases/chikungunya.html)
 
 Dengue 
 
@@ -230,6 +209,27 @@ American trypanosomiasis
 
 Risk is generally low for most travellers. Protect yourself from triatomine bugs, which are active at night, by using mosquito nets if staying in poorly-constructed housing. There is no vaccine available for Chagas disease.
 
+Chikungunya
+
+There is a risk of chikungunya in this country. The level of risk may vary by:
+
+* season
+* year
+* region
+* elevation
+
+The virus that causes chikungunya is spread through the bite of an infected mosquito. It can cause fever and pain in the joints. In some cases, the joint pain can be severe and last for months or years.
+
+Protect yourself from mosquito bites at all times.
+
+[Insect bite and pest prevention](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html)
+
+A vaccine for the prevention of chikungunya is approved in Canada. Talk to your healthcare provider about how best to prevent chikungunya, including the benefits and risks of vaccination based on factors such as your age, itinerary and personal preferences.
+
+**Learn more:**
+
+[Chikungunya](https://www.canada.ca/en/public-health/services/diseases/chikungunya.html)
+
 Leishmaniasis – Cutaneous and mucocutaneous
 
 Cutaneous and mucocutaneous leishmaniasis can occur in this destination, though the risk is low for most travellers.
@@ -245,7 +245,7 @@ There is no vaccine or medication to prevent infection with the parasite that ca
 
 ### Animal precautions
 
-Some infections can spread directly from animals to people, like rabies or bird flu (avian influenza). Others don’t spread directly from animals but can infect people who visit areas animals have contaminated with their droppings or body fluids.
+Some infections, such as rabies, spread through direct contact with animals. Others, such as hantavirus infections and avian influenza, can also spread indirectly when people come into contact with areas contaminated by animal droppings or other animal waste.
 
 Certain activities can increase your chances of coming into contact with animals, their droppings, or their body fluids, like:
 
@@ -274,7 +274,7 @@ When travelling, you can reduce your risk of getting or spreading respiratory in
 
 [Mass gatherings (large-scale events)](https://travel.gc.ca/travelling/health-safety/mass-gatherings)  
 [Clean your hands to help reduce the spread of infectious diseases](https://www.canada.ca/en/public-health/services/healthy-living/hand-hygiene.html)  
-[Respiratory infectious diseases: How to reduce the spread with personal protective measures](https://www.canada.ca/en/public-health/services/diseases/respiratory-infectious-diseases-reduce-spread-personal-protective-measures.html)
+[Respiratory infectious diseases: Reduce your risk](https://www.canada.ca/en/public-health/services/diseases/respiratory-infectious-diseases-reduce-spread-personal-protective-measures.html)
 
 To lower your risk of getting sexually transmissible infections (STIs), HIV, and mpox, you can:
 

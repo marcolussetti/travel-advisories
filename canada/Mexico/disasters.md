@@ -2,11 +2,9 @@
 
 ## Natural disasters and climate
 
-### 
-
 ### Hurricane Polo
 
-Hurricane Polo is expected to sweep across Baja California Sur, from the border with Baja California state south to the area between and San Evaristo and El Conejo, on September 28, 2026. The storm is expected to reach the northwestern coast of mainland Mexico, from Bahía de Kino to Topolobampo, on September 29.
+Hurricane Polo swept across Baja California Sur on September 28, 2026. It caused significant damage. The storm is expected to reach the northwestern coast of mainland Mexico, from Bahía de Kino to Topolobampo, on September 29, 2026.
 
 The storm is likely to bring excessive rainfall and violent winds. It may cause flash flooding and landslides and could severely disrupt the following essential services:
 

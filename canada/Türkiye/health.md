@@ -62,39 +62,6 @@ Travellers to areas where TBE is found may be at higher risk  during April to N
 
 [Protect yourself from tick bites](https://www.canada.ca/en/public-health/services/diseases/insect-bite-prevention.html). The vaccine is not available in Canada. It may be available in the destination you are travelling to.
 
-Rabies 
-
-Rabies is present in this destination and is carried by dogs and some wildlife, including bats. Rabies is a serious disease that’s almost always fatal once symptoms appear. It's spread to humans through the saliva of infected animals, mainly through bites, but it can also be spread through scratches.
-
-Before you travel, talk to a health care professional about rabies vaccination. Vaccination may be recommended for people at higher risk of exposure, such as:
-
-* veterinarians and wildlife workers
-* children
-* adventure travellers and cave explorers (spelunkers)
-* people who will be in close contact with animals
-
-While travelling:
-
-* avoid contact with animals, including free roaming dogs
-* supervise children closely around animals
-
-If you’re bitten or scratched by an animal:
-
-* wash the wound right away with soap and clean water for about 15 minutes
-* get medical care as soon as possible
-
-Treatment to prevent rabies is often available in this destination.
-
-If you get treatment to prevent rabies while outside Canada, ask for:
-
-* written records of medications and vaccines administered, including when they were given, product names, and batch or lot numbers
-* photos of the packaging and labels of any medications or vaccines given to you
-
-When you return to Canada, see a health care professional as soon as possible and bring your treatment records to your appointment.
-
-**Learn more:**  
-[Rabies: Symptoms and treatment](https://www.canada.ca/en/public-health/services/diseases/rabies.html)
-
 Measles 
 
 Measles is a serious viral infection that spreads easily. It spreads through the air, and can stay in the air for up to 2 hours. You can also get measles by direct contact with an infected person or by touching a surface with the virus on it and then touching your eyes, nose, or mouth before washing your hands.
@@ -138,6 +105,39 @@ The flu vaccine available in one hemisphere may only offer partial protection ag
 
 The flu virus spreads from person to person when they cough or sneeze or by touching objects and surfaces that have been contaminated with the virus. Clean your hands often and wear a mask if you have a fever or respiratory symptoms.
 
+Rabies 
+
+Rabies is present in this destination and is carried by dogs and some wildlife, including bats. Rabies is a serious disease that’s almost always fatal once symptoms appear. It's spread to humans through the saliva of infected animals, mainly through bites, but it can also be spread through scratches.
+
+Before you travel, talk to a health care professional about rabies vaccination. Vaccination may be recommended for people at higher risk of exposure, such as:
+
+* veterinarians and wildlife workers
+* children
+* adventure travellers and cave explorers (spelunkers)
+* people who will be in close contact with animals
+
+While travelling:
+
+* avoid contact with animals, including free roaming dogs
+* supervise children closely around animals
+
+If you’re bitten or scratched by an animal:
+
+* wash the wound right away with soap and clean water for about 15 minutes
+* get medical care as soon as possible
+
+Treatment to prevent rabies is often available in this destination.
+
+If you get treatment to prevent rabies while outside Canada, ask for:
+
+* written records of medications and vaccines administered, including when they were given, product names, and batch or lot numbers
+* photos of the packaging and labels of any medications or vaccines given to you
+
+When you return to Canada, see a health care professional as soon as possible and bring your treatment records to your appointment.
+
+**Learn more:**  
+[Rabies: Symptoms and treatment](https://www.canada.ca/en/public-health/services/diseases/rabies.html)
+
 ### Safe food and water precautions
 
 Eating or drinking unsafe food or water, or swimming in contaminated water can make you sick while travelling. Take precautions by following these tips:
@@ -146,7 +146,7 @@ Eating or drinking unsafe food or water, or swimming in contaminated water can m
 * Avoid, if possible, getting water in your eyes, mouth, or nose when swimming in freshwater (like streams, lakes, or canals), especially after heavy rain or flooding - the water might look clean but can still be contaminated
 * Don’t swallow water when bathing, showering, swimming in pools, or using hot tubs
 
-[Eat and drink safely abroad](https://travel.gc.ca/travelling/health-safety/food-water)
+[Eat and drink safely outside Canada](https://travel.gc.ca/travelling/health-safety/food-water)
 
 Travellers' diarrhea
 
@@ -248,7 +248,7 @@ When travelling, you can reduce your risk of getting or spreading respiratory in
 
 [Mass gatherings (large-scale events)](https://travel.gc.ca/travelling/health-safety/mass-gatherings)  
 [Clean your hands to help reduce the spread of infectious diseases](https://www.canada.ca/en/public-health/services/healthy-living/hand-hygiene.html)  
-[Respiratory infectious diseases: How to reduce the spread with personal protective measures](https://www.canada.ca/en/public-health/services/diseases/respiratory-infectious-diseases-reduce-spread-personal-protective-measures.html)
+[Respiratory infectious diseases: Reduce your risk](https://www.canada.ca/en/public-health/services/diseases/respiratory-infectious-diseases-reduce-spread-personal-protective-measures.html)
 
 To lower your risk of getting sexually transmissible infections (STIs), HIV, and mpox, you can:
 
@@ -262,7 +262,7 @@ To lower your risk of getting sexually transmissible infections (STIs), HIV, and
 
 ### Medical tourism
 
-Medical tourism is common in Türkiye. Canadian travellers have had serious health complications following surgeries abroad. The Turkish government recommends that all travellers seeking medical services select healthcare providers authorized by the Turkish Ministry of Health.
+Medical tourism is common in Türkiye. Canadian travellers have had serious health complications following surgeries abroad. The Turkish government recommends that all travellers seeking medical services select healthcare providers authorized by the Turkish Ministry of Health.
 
 Before leaving for medical travel, you should do your research, especially on:
 
@@ -271,33 +271,32 @@ Before leaving for medical travel, you should do your research, especially on:
 * language barriers, which can lead to misunderstandings about your medical care and conditions
 * travel insurance that includes coverage for the type of medical procedure you will be undergoing
 
-The Turkish authorities established the HealthTürkiye online portal, which provides information to foreigners about medical tourism in Türkiye.
+Turkish authorities established the HealthTürkiye online portal, which provides foreigners with information about medical tourism in Türkiye.
 
 You should discuss your medical plans with your primary healthcare provider in Canada before travelling.
 
-* Make sure that the healthcare providers you choose are authorized by the Turkish health authorities.
 * Ask to see the credentials of the healthcare providers
-* Obtain a written agreement detailing the proposed treatment or procedure.
+* Obtain a written agreement detailing the proposed treatment or procedure
 
 #### Useful links
 
-* [Receiving medical care outside Canada](https://travel.gc.ca/travelling/health-safety/medical-care-outside-canada)
+* [Travelling outside Canada to receive medical care](https://travel.gc.ca/travelling/health-safety/medical-care-outside-canada)
 * [If you become sick or injured while travelling outside Canada or after your return](https://travel.gc.ca/assistance/emergency-info/sick-injured)
-* [Authorized healthcare providers](https://shgmturizmdb.saglik.gov.tr/EN-69063/healthcare-providers-authorized-by-the-ministry.html) - Ministry of Health of the Republic of Türkiye (In Turkish)
-* [International Health Services Call Center](https://shgmturizmdb.saglik.gov.tr/EN-90754/international-health-services-call-center-commences-service.html) - Ministry of Health of the Republic of Türkiye
+* [Authorized healthcare providers](https://shgmturizmdb.saglik.gov.tr/EN-69063/healthcare-providers-authorized-by-the-ministry.html) – Ministry of Health of the Republic of Türkiye
+* [International Health Services Call Center](https://shgmturizmdb.saglik.gov.tr/EN-90754/international-health-services-call-center-commences-service.html) – Ministry of Health of the Republic of Türkiye
 * [HealthTürkiye](https://healthturkiye.com/homepage) – Ministry of Health of the Republic of Türkiye
+
+#### 
 
 ### Universal health coverage
 
-Foreigners with residency permits must register for universal health coverage under Turkish Social Security (SGK). Although Canadian citizens are exempt, you may enroll if you have no other coverage and you have been a resident in Türkiye for at least one year.
+Foreigners applying for residency in Türkiye must provide proof of private health insurance that covers the requested duration of the residence permit. Foreign residents holding a valid residence permit who have legally resided in Türkiye for at least one continuous year can apply for the Social Security Institution’s (Sosyal Guvenlik Kurumu, SGK) General Health Insurance (Genel Sağlık Sigortası, GSS), which covers public hospitals and other healthcare services. This SGK registration is separate from the requirement to have private health insurance for the duration of the residence permit.
 
-[Universal Health Insurance](http://www.sgk.gov.tr/wps/portal/sgk/en/detail/universal_health_ins) - Türkiye's social Security Institution
+[Social Security Institute of the Republic of Türkiye](https://sgk.gov.tr/) (Turkish only)
 
 ### Medical services and facilities
 
-Modern medical care is available in major cities but may not be in remote areas. Immediate cash payment is often required.
-
-Most provincial and territorial health care programs are extremely limited in the coverage offered abroad.
+Modern medical care is available in major cities but may not be in remote areas. Immediate cash payment is often required and costs can be high.
 
 Make sure you get travel insurance that includes coverage for medical evacuation and hospital stays.
 

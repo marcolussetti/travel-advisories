@@ -8,6 +8,18 @@ The Government of Canada may not be in a position to provide consular assistance
 * the Government of Pakistan prohibits entry
 * advance permission is required for entry
 
+### Planned demonstrations around October 4
+
+Demonstrations are expected across Pakistan during the first week of October. A large protest of approximately 20,000 to 25,000 demonstrators is planned to begin in Peshawar on October 4 and travel to Islamabad, with participants expected to arrive on October 5. Additional demonstrations are likely to take place in Karachi and other major cities, with further protest activity possible nationwide.
+
+If you are in Pakistan:
+
+* stay away from demonstrations and large gatherings
+* expect heavy security measures and an increased security presence
+* expect road closures and travel disruptions
+* follow the instructions of local authorities
+* monitor local media for the latest information
+
 ### Tensions along the Pakistan–Afghanistan border
 
 On February 26, 2026, tensions between Pakistan and Afghanistan have escalated in coordinated cross border attacks.

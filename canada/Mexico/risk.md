@@ -52,7 +52,6 @@ The features in this map do not constitute an authoritative source of geographic
 * Nuevo León, excluding the city of Monterrey
 * Sinaloa, excluding the following areas, and only if accessed by air or sea:
 
-+ the city of Los Mochis
 + specific areas in and around the city of Mazatlán:
 
 - Centro Histórico south of Avenida Gutiérrez Najera

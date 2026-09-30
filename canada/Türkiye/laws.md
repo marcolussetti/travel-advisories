@@ -8,75 +8,66 @@ Learn about what you should do and how we can help if you are [arrested or detai
 
 ### Identification
 
-Authorities can request to see your ID at any time. If you fail to present valid identification documents upon request, you could face:
+Local authorities may request to see your identification at any time. If you fail to present valid documents upon request, you could face:
 
 * fines
 * arrest
 * detention
 * deportation
-* entry ban for future travel into Türkiye
+* an entry ban for future travel into Türkiye
 
 During your stay:
 
-* carry the original version (not only photocopies or digital versions) of a valid government-issued ID, such as your passport, at all times.
-* keep a digital copy of your ID and travel documents in case it is seized or lost
-* follow the instructions of the local authorities requesting the documents
+* always carry valid identification (you must have the original, not only photocopies or digital versions)
+* keep a digital copy of your identification and travel documents in case they are seized or lost
+* follow the instructions of the authorities requesting the documents
 
-If you are temporarily in Türkiye, you should carry a valid passport that contains a Turkish entry stamp and a valid visa.
+If you are temporarily in Türkiye and carry more than one passport, you should carry the one that contains your entry stamp and valid visa.
 
-If you reside in Türkiye, you should carry your Turkish resident ID (Kimlik and/or Ikamet) and a valid passport that contains a Turkish entry stamp and a valid visa.
+If you reside in Türkiye, you should carry your Turkish resident identification (Kimlik and/or Ikamet).
+
+Hotels are legally required to register foreign guests with the local police or gendarmerie. Your passport will be required at check-in.
 
 ### Drugs
 
-The use of illegal drugs is prohibited. Penalties for possession, use or trafficking of illegal drugs are severe. Convicted offenders can expect lengthy jail sentences and heavy fines.
-
-Don't agree to carry any baggage that is not yours.
+The use of illegal drugs is prohibited, including during transit. Penalties for possession, use or trafficking of illegal drugs, such as cannabis, are severe. Convicted offenders can expect lengthy jail sentences and heavy fines.
 
 [Drugs, alcohol and travel](https://travel.gc.ca/travelling/health-safety/drugs)
 
 ### Lèse-majesté
 
-It is illegal to denigrate, desecrate or insult the following:
+It is illegal to denigrate, desecrate or insult the:
 
-* the name or image of Mustafa Kemal Atatürk, the founder of the Republic of Türkiye
-* the president of the Republic of Türkiye
-* the Turkish flag and the national anthem
+* name or image of Mustafa Kemal Atatürk, the founder of the Republic of Türkiye
+* president of the Republic of Türkiye
+* Turkish flag and national anthem
 * Turkish currency
-* State organs and institutions and its judicial bodies
-* the police and the military
+* Turkish government, state organs and institutions and its judicial bodies
+* police and military
 
 ### Religious proselytism
 
-Although religious proselytism is not illegal, some activities may be considered illegal and could lead to detention.
+Although religious proselytizing is not illegal, certain missionary activities could risk being interpreted as crimes defined under the Penal Code, such as blasphemy, insulting religious values, incitement against religion and disrupting public order. This may result in detention, fines and/or deportation.
 
-### Political discussions
+### Online activities and political discussions
 
-Avoid discussions (including on social media) on historical and religious issues as well as on politics.
-
-* Keep in mind the sensitivities
-* Think twice before posting or reacting to online content criticizing the government
-* Restrain/limit your social media footprint.
-
-#### Online activities
-
-Turkish authorities have detained and prosecuted people over social media posts criticizing the government, state officials, president, military operations. You could be subject to scrutiny even if a post was published years ago or outside of Türkiye.
-
-Authorities have also targeted people and groups for:
-
-* publishing statements
-* organizing news conferences
-* organizing or participating in nonviolent activities
-* critical writing and online activism protesting the government, its policies, decisions and actions
-
-Even if a case does not go to trial or ends in acquittal, people can be labelled as terrorism suspects and face adverse consequences due to investigations and criminal proceedings, including possible loss of employment and social exclusion.
+Turkish authorities have detained and prosecuted people over public or published statements criticizing or protesting the government, state officials, the president and military operations. The same risk can apply to online activities, including what someone posts, shares or likes on social media. It can also include social media activity that took place in the past and outside Türkiye.
 
 ### Photography
 
-It is forbidden to photograph military or public installations. Avoid photographing public demonstrations or members of police or security forces. Cameras may be confiscated. Do not photograph people without their permission.
+It is forbidden to photograph military or official installations. Avoid photographing public demonstrations, police officers or security forces. Cameras may be confiscated. Do not photograph people without their permission.
 
 ### Exports
 
-Turkish antiquities and other cultural artifacts that are considered of historical value or of national importance cannot be exported. Seek advice from Turkish authorities prior to departure from Türkiye. If the item can be exported, you will require a sales receipt and the official museum export certificate issued by the Turkish customs office.
+Turkish antiquities and other cultural artifacts that are considered of historical value or of national importance cannot be exported. Seek advice from the Turkish customs office if you want to export them. If the item can be exported, you will need a sales receipt and the official museum export certificate issued by the Turkish customs office.
+
+### Telecommunications
+
+Access to some e-SIM services is restricted in Türkiye. Foreign cell phones must be registered with local authorities within 120 days. Otherwise, they will be restricted from connecting to local networks.
+
+### Persons with disabilities
+
+Expect accessibility to be limited in transportation, lodging and general infrastructure.
 
 ### Dual citizenship
 
@@ -114,19 +105,31 @@ Be aware that Canadian consular officials cannot interfere in private legal matt
 
 ### Driving
 
-You should carry an international driving permit.
+You should carry an international driving permit. For stays longer than 180 days, you must obtain a Turkish driver’s licence from the Turkish Security Directorate.
 
-[International Driving Permit](https://travel.gc.ca/travelling/documents/international-driving-permit)
+You can bring a vehicle into Türkiye for up to 6 months with the proper documentation.
+
+#### Useful links
+
+* [International Driving Permit](https://travel.gc.ca/travelling/documents/international-driving-permit)
+* [Traffic department](https://www.trafik.gov.tr/) – Turkish Security Directorate (Turkish only)
+* [Touring and Automobile Association of Türkiye](https://turing.tr/en/)
+
+#### Driving laws
+
+Penalties for drinking and driving include fines and a 6-month confiscation of your driver’s licence. Using a cell phone while driving is illegal and can lead to a fine.
+
+It is illegal to ride motorcycles and mopeds without wearing a helmet. Failure to wear one can result in a severe fine.
 
 ### Dress and behaviour
 
 Islamic practices and beliefs are closely adhered to in many parts of the country.
 
-In all places of worship, women should cover their head with a scarf and all visitors should cover their arms and legs.
+In all places of worship, women must cover their heads with a scarf and all visitors must cover their arms and legs.
 
-* Dress conservatively, especially in areas outside major cities and coastal resorts
-* Behave discreetly
-* Respect religious and social traditions to avoid offending local sensitivities
+Respect religious and social traditions to avoid offending local sensitivities.
+
+### Ramadan
 
 In 2027, the lunar month of Ramadan is expected to begin on or around February 7.
 
@@ -136,6 +139,12 @@ In public, between sunrise and sunset, be discreet when:
 * eating
 * smoking
 
+The opening hours of shops and restaurants may be different during Ramadan.
+
 ### Money
 
-The currency of Türkiye is the Turkish lira (TRY).
+The currency of Türkiye is the Turkish lira (TRY). Many small vendors, taxi drivers and rural businesses prefer cash payments. If you want to exchange currency, go to reputable banks or official exchange offices.
+
+#### Foreign currency declaration
+
+There is no limit on the amount of foreign currency or Turkish lira that you can take into Türkiye. However, you can’t leave the country with more than the equivalent of $5,000 USD in Turkish lira or other foreign currency without proof that the sums come from authorized banks.

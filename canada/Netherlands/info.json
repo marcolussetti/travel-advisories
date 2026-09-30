@@ -1,7 +1,7 @@
 {
     "name": "Netherlands",
-    "update_reason": "The Need help? section was updated.",
-    "update_date": "2026-09-28T10:17:00",
+    "update_reason": "Editorial change",
+    "update_date": "2026-09-29T14:51:00",
     "sections": {
         "risk": "canada/Netherlands/risk.md",
         "security": "canada/Netherlands/security.md",
