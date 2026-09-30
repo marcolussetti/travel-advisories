@@ -21,15 +21,17 @@ On 13 November 2024, two explosions occurred at the Praça dos Três Poderes in 
 
 ## Protests and civil unrest
 
-Protests, demonstrations and strikes take place regularly in cities across Brazil. Even peaceful events can sometimes turn confrontational and escalate into violence. Police have used rubber bullets and tear gas extensively to disperse protesters.
+The first round of Brazil’s general election will take place on 4 October. A second round is scheduled for 25 October. The presidential inauguration ceremony will be held in Brasília on 5 January.
+
+Protests, demonstrations and strikes may take place in cities across Brazil. Even peaceful events can become confrontational and may turn violent. Police have used rubber bullets and tear gas to disperse protesters.
 
 You should:
 
-* avoid political rallies or protests
-* follow local news reports
-* comply with the instructions of local authorities
+* avoid political rallies, protests and demonstrations
+* monitor local media for updates
+* follow the instructions of local authorities
 
-If you encounter a protest or feel uncomfortable in a large gathering, leave the area immediately.
+If you encounter a protest or demonstration, or feel uncomfortable in a large crowd, leave the area as soon as it is safe to do so.
 
 ## Favelas
 

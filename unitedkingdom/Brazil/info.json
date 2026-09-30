@@ -1,11 +1,11 @@
 {
     "name": "Brazil",
-    "update_reason": "Updated information about taxi travel ('Safety and security' page).",
+    "update_reason": "New information about elections taking place on 4 October, and political events ('Warnings and insurance' and 'Safety and security' pages).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Brazil/Warnings and insurance.md",
-            "update_date": "2026-09-09T10:06:01+01:00"
+            "update_date": "2026-09-29T17:00:43+01:00"
         },
         {
             "title": "Entry requirements",
@@ -33,5 +33,5 @@
             "file": "unitedkingdom/Brazil/Getting help.md"
         }
     ],
-    "update_date": "2026-09-09T10:06:01+01:00"
+    "update_date": "2026-09-29T17:00:43+01:00"
 }

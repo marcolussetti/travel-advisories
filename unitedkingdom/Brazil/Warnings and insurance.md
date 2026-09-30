@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   9 September 2026
+:   30 September 2026
 
 Updated:
-:   9 September 2026
+:   29 September 2026
 
 Latest update:
-:   Updated information about taxi travel ('Safety and security' page).
+:   New information about elections taking place on 4 October, and political events ('Warnings and insurance' and 'Safety and security' pages).
 
 ![](https://assets.publishing.service.gov.uk/media/661e86507469198185bd3e6f/FCDO__TA__092_-_Brazil_Travel_Advice_Ed3__WEB_.jpg)
 
@@ -28,6 +28,14 @@ FCDO advises against all but essential travel to the following river areas towar
 * along the Rio Negro (Black River) and its tributaries north or west of the town of Barcelos in Amazonas State
 
 Find out more about [why FCDO advises against travel](https://www.gov.uk/foreign-travel-advice/brazil/regional-risks).
+
+## Elections and political events
+
+The first round of Brazil’s general election will take place on 4 October. A second round is scheduled for 25 October. The presidential inauguration ceremony will be held in Brasília on 5 January.
+
+Protests and demonstrations can happen across Brazil without warning and the situation can change quickly.
+
+See more information about protests and civil unrest on the [Safety and security page](https://www.gov.uk/foreign-travel-advice/brazil/safety-and-security).
 
 ## Before you travel
 
