@@ -6,15 +6,20 @@ High Degree of Caution
 
 ### **Travel Alert**
 
-#### **UK ETA**
+**Hurricane Polo, currently a Category 3 storm, is projected to make landfall near western Baja California Sur on 28 or 29 September as a Category 1 hurricane, before moving inland toward Chihuahua as a tropical depression by 30 September.**
 
-**Exemption for Irish Citizens, including Irish dual citizens, travelling to, or transiting through, the UK, the Channel Islands or the Isle of Man from outside the Common Travel Area:**
+**Key Impact Areas & Weather Warnings:**
 
-The UK has introduced a new Electronic Travel Authorisation (ETA) for people travelling to, or transiting through, the UK, the Channel Islands, or the Isle of Man from outside the Common Travel Area. **Irish citizens, including Irish dual citizens, do not need and therefore are ineligible to apply for an ETA. Under UK entry requirements, you must present a valid Irish passport at UK border control to demonstrate that you are exempt from the ETA requirement**.
+* **Primary Threat: Baja California Sur, Sonora, and Sinaloa are under active hurricane watches and warnings. Heavy rain, strong winds, and storm surges are already affecting coastal areas.**
+* **Broader Impact: Adverse weather, localized flash flooding, and landslides are threatening north, west, and southwestern states, including Chihuahua, Colima, Durango, Guerrero, Jalisco, Michoacan, and Nayarit.**
+* **Infrastructure: Several ports in Sonora and Baja California Sur are closed. Over 15,000 federal troops have deployed to assist with pre-emptive evacuations and emergency shelters.**
 
-You are advised to check your passport validity, and where necessary, apply for an Irish passport, well in advance of any travel. Where travel is required owing to an emergency, Irish citizens, including Irish dual citizens, who are not in possession of a valid Irish passport can contact the Embassy of Ireland in Mexico, or nearest Consulate, for advice.
+**Action Required:**
 
-Further information on the ETA is available at [Get an electronic travel authorisation (ETA) to visit the UK: Overview - GOV.UK](https://www.gov.uk/eta)
+* **Inbound Travellers: Defer all non-essential travel to Baja California Sur until at least 30 September.**
+* **In-Location Workforce: Activate hurricane response plans immediately. Be ready to evacuate at short notice or shelter in place for at least 72 hours.**
+* **Transport & Logistics: Expect major, short-notice disruptions to air and land travel. Reconfirm all bookings with providers. Do not attempt to cross flooded roads.**
+* **Monitoring: The trajectory of the storm remains unpredictable. Monitor local updates via the Mexican National Meteorological Service (**[**website**](http://mailgun.internationalsos.com/c/eJxUzbuK4zAUgOGnkToZ6VgXq1Dhm3YDGwh4d3vZOXEMsTRYSph5-2HKtD_8fL_O0xlzDiueBlcLZSxIbui0FVzSgaeC-2lwxHSd96bxY8-GXoxM9s3AWgkda7XUnYBWyBGIGd7OPyGuz7Ciw_jW_-ORtxSdoNNX_hGuTtKrkyiWG0UnjLLacm2B3t0M802htQj1Us86KMV5CDOgErUJStHNKaU9aA6s1wMwOfaWWbAN46qW3nDdNEYTyf9No5h-t5fp_PcycUkf7l7KRyZ1S8AT8HmP1ZJiWJ-hWtNc7Z8EPGYCnh6uhPjaqjXE630jkm-x4BFD2VIMj5xytaSdvhx8BwAA__94RWQA)**) and the US National Hurricane Center (**[**website**](http://mailgun.internationalsos.com/c/eJxUzU-L4yAYgPFPE28GffNG48FD_rlb2EIhu3t3jJMIrZbotMy3H3rs9QcPz6_zcvY5282fJt3wVipAJskSinfp8Kfib6dJV3IYjJGdmUc6jXymOHYT7REG2gsUA4ee4wyVnN7KPzZuX3bz2sc3_--PHFLUnCzf-XVYNZJVo-fuk3jNZauEYkIB2bVSq1JgP9aOW8Ed40K0iOhcBxZajiTothUGBAM6igkozqOiClRHWdugkUx0nRQVsn_LzJff_WU5_70sDMlV76Xcc9X0FZgKzPP5rOPu6pisrbf0eGlj_N06cuhi4yPUm43rHipkIRZ_RFtCivaaU65dupGHhp8AAAD__wZQY1E)**)**
 
 ### **General Travel Advice**
 

@@ -6,13 +6,17 @@ Do Not Travel
 
 ### **Travel Alert**
 
+**Irish citizens are advised to avoid non-essential travel to Beirut. Within Beirut, Irish citizens are strongly advised against all travel to the southern suburbs of Beirut, excluding highway 51 between the airport and central Beirut**
+
+**Irish citizens are strongly advised against all travel to the rest of Lebanon.**
+
 #### **Regional tensions**
 
 The situation in Lebanon remains volatile, and events could escalate throughout the country with little warning.
 
 The Embassy of Ireland, Cairo is closely monitoring the evolving situation.
 
-Some international airlines have suspended or cancelled their flights to Beirut and Irish citizens in Lebanon should consider leaving the country while commercial options are available.
+Some international airlines have suspended or cancelled their flights to Beirut and flight availability could change with little warning.
 
 However, if you choose to remain, be prepared to leave quickly or to shelter in place for an extended period, keep yourself informed of what is going on around you by monitoring local media and staying in contact with your hotel and local contacts. Follow the advice of the local authorities and stock up on basic necessities such as water, food, fuel and medicines.
 
@@ -24,7 +28,7 @@ Citizens in need of assistance, can contact the [**Irish Embassy in Cairo, Egypt
 
 ### **General Travel Advice**
 
-The security situation in Lebanon remains unstable and could deteriorate without warning. Military activity is ongoing in many parts of the country, particularly in Southern Lebanon and the Beqaa Valley, and in some parts of Beirut. This includes airstrikes and artillery fire. Military activity could spread to other areas in Lebanon with little warning.
+The security situation in Lebanon remains unstable and could deteriorate without warning. There is a possibility of military activity in many parts of the country, particularly in Southern Lebanon and the Beqaa Valley, and in some parts of Beirut. This includes airstrikes and artillery fire. Military activity could spread to other areas in Lebanon with little warning.
 
 Due to regional events, as well as economic and political crises, there is an increased risk of protests and demonstrations, including outside international organisations and Embassies, which could quickly lead to violence.
 
