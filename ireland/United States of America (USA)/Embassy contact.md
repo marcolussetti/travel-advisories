@@ -194,7 +194,13 @@ Denver, CO
 
 ### Honorary Consul of Ireland, Houston (Texas)
 
-Please contact the [**Consulate General of Ireland, Austin**](/en/usa/austin/contact/)
+Pamela Skaufel   
+3065 Reba Drive   
+Houston, TX 77019
+
+[Tel: +1 832 465 4263](tel:+1832 465 4263)
+
+Email: [pamela.kearney.skaufel@honoraryconsul.ie](mailto:pamela.kearney.skaufel@honoraryconsul.ie)
 
 ### Honorary Consul of Ireland, Nashville (Tennessee)
 

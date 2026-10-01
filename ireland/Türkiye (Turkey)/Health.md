@@ -1,8 +1,14 @@
 ## Health
 
-If you need urgent health treatment during your stay, dial 112 to contact the emergency health services
+### **Urgent Medical treatment**
 
-### **Medical, Dental, and Cosmetic Procedures**
+**If you require urgent medical treatment during your stay, dial 112 to access emergency health services, including public hospitals.**
+
+**The Embassy is aware of cases where foreign tourists have been taken by tourism service providers (e.g. hotels) to private hospitals for emergency or urgent care. In some cases, fees have been unclear and significantly higher than expected.**
+
+**To help avoid unexpected costs, contact 112 directly or consult your travel insurance provider for advice on accessing appropriate public hospital services.**
+
+### **Elective Medical, Dental, and Cosmetic Procedures**
 
 It is essential that appropriate travel insurance is in place. **A European Health Insurance Card (EHIC) cannot be used in Türkiye.**
 
