@@ -1,13 +1,13 @@
 # Warnings and insurance
 
 Still current at:
-:   12 September 2026
+:   1 October 2026
 
 Updated:
-:   11 September 2026
+:   1 October 2026
 
 Latest update:
-:   Updated information about flooding in the Rasuwa district and Nepal-China border area and about the Family Assistance Centre at the British Embassy Kathmandu (‘Warnings and insurance’ page).
+:   Removal of information about the Family Assistance Centre at the British Embassy Kathmandu (‘Warnings and insurance’ page).
 
 ## Flash flood in the Rasuwa district and the Nepal-China border area
 
@@ -16,10 +16,6 @@ On 26 August 2026, major flooding in Rasuwa district and the Nepal-China border 
 The Nepalese authorities and emergency services are responding. The authorities have warned of the risk of further flooding. Areas affected by flooding and landslides may remain unstable. Further heavy rainfall or an earthquake could trigger additional landslides, rockfalls and other hazards, particularly in mountainous areas. The situation may change rapidly.
 
 If you are travelling in the region, follow the advice of the Nepalese government and local authorities, be alert to the changing situation and monitor local media for updates. The Nepalese government has established a toll-free emergency Nepalese language number, 1234, and a dedicated hotline 1144 accessible in Nepal.
-
-The Family Assistance Centre at the British Embassy Kathmandu remains available to support the family and friends of affected British Nationals.
-
-In-person support at the Centre will be available Monday to Thursday, between 9am and 5pm and on Friday, between 9am and 1pm.
 
 Consular assistance remains available 24 hours a day, 7 days a week for anyone affected who requires support from the UK Government.
 
