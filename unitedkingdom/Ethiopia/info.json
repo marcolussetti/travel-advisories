@@ -1,37 +1,12 @@
 {
     "name": "Ethiopia",
-    "update_reason": "New information about health screening on arrival, updated information about conflict and violence and the removal of information about elections and Danakil desert ('Entry requirements', Safety and security\u2019 and \u2018Regional risks\u2019 pages).",
+    "update_reason": "Updated information about reported attacks on military installations and large gatherings (See 'Political situation' on the 'Safety and security' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Ethiopia/Warnings and insurance.md",
-            "update_date": "2026-09-25T16:13:20+01:00"
-        },
-        {
-            "title": "Entry requirements",
-            "url": "https://www.gov.uk/foreign-travel-advice/ethiopia/entry-requirements",
-            "file": "unitedkingdom/Ethiopia/Entry requirements.md"
-        },
-        {
-            "title": "Safety and security",
-            "url": "https://www.gov.uk/foreign-travel-advice/ethiopia/safety-and-security",
-            "file": "unitedkingdom/Ethiopia/Safety and security.md"
-        },
-        {
-            "title": "Regional risks",
-            "url": "https://www.gov.uk/foreign-travel-advice/ethiopia/regional-risks",
-            "file": "unitedkingdom/Ethiopia/Regional risks.md"
-        },
-        {
-            "title": "Health",
-            "url": "https://www.gov.uk/foreign-travel-advice/ethiopia/health",
-            "file": "unitedkingdom/Ethiopia/Health.md"
-        },
-        {
-            "title": "Getting help",
-            "url": "https://www.gov.uk/foreign-travel-advice/ethiopia/getting-help",
-            "file": "unitedkingdom/Ethiopia/Getting help.md"
+            "update_date": "2026-10-01T18:05:40+01:00"
         }
     ],
-    "update_date": "2026-09-25T16:13:20+01:00"
+    "update_date": "2026-10-01T18:05:40+01:00"
 }

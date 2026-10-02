@@ -1,37 +1,12 @@
 {
     "name": "Tanzania",
-    "update_reason": "Updated information that heightened health screening measures are no longer in place for travellers arriving into Tanzania from Uganda, but remain for those arriving from the Democratic Republic of Congo (\u2018Entry requirements\u2019 page).",
+    "update_reason": "New information about mandatory inbound travel insurance for those arriving into mainland Tanzania (\u2018Entry requirements\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Tanzania/Warnings and insurance.md",
-            "update_date": "2026-09-29T10:26:37+01:00"
-        },
-        {
-            "title": "Entry requirements",
-            "url": "https://www.gov.uk/foreign-travel-advice/tanzania/entry-requirements",
-            "file": "unitedkingdom/Tanzania/Entry requirements.md"
-        },
-        {
-            "title": "Safety and security",
-            "url": "https://www.gov.uk/foreign-travel-advice/tanzania/safety-and-security",
-            "file": "unitedkingdom/Tanzania/Safety and security.md"
-        },
-        {
-            "title": "Regional risks",
-            "url": "https://www.gov.uk/foreign-travel-advice/tanzania/regional-risks",
-            "file": "unitedkingdom/Tanzania/Regional risks.md"
-        },
-        {
-            "title": "Health",
-            "url": "https://www.gov.uk/foreign-travel-advice/tanzania/health",
-            "file": "unitedkingdom/Tanzania/Health.md"
-        },
-        {
-            "title": "Getting help",
-            "url": "https://www.gov.uk/foreign-travel-advice/tanzania/getting-help",
-            "file": "unitedkingdom/Tanzania/Getting help.md"
+            "update_date": "2026-10-01T16:28:23+01:00"
         }
     ],
-    "update_date": "2026-09-29T10:26:37+01:00"
+    "update_date": "2026-10-01T16:28:23+01:00"
 }
