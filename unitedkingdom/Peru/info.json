@@ -1,37 +1,12 @@
 {
     "name": "Peru",
-    "update_reason": "Removal of info about Colombia\u2019s temporary border closures with Peru (\u2018Warnings and insurance\u2019 page)",
+    "update_reason": "New information about local elections in Peru on 4 October and the El Ni\u00f1o weather system (see 'Warnings and insurance' and 'Safety and security' page)",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Peru/Warnings and insurance.md",
-            "update_date": "2026-06-22T23:35:12+01:00"
-        },
-        {
-            "title": "Entry requirements",
-            "url": "https://www.gov.uk/foreign-travel-advice/peru/entry-requirements",
-            "file": "unitedkingdom/Peru/Entry requirements.md"
-        },
-        {
-            "title": "Safety and security",
-            "url": "https://www.gov.uk/foreign-travel-advice/peru/safety-and-security",
-            "file": "unitedkingdom/Peru/Safety and security.md"
-        },
-        {
-            "title": "Regional risks",
-            "url": "https://www.gov.uk/foreign-travel-advice/peru/regional-risks",
-            "file": "unitedkingdom/Peru/Regional risks.md"
-        },
-        {
-            "title": "Health",
-            "url": "https://www.gov.uk/foreign-travel-advice/peru/health",
-            "file": "unitedkingdom/Peru/Health.md"
-        },
-        {
-            "title": "Getting help",
-            "url": "https://www.gov.uk/foreign-travel-advice/peru/getting-help",
-            "file": "unitedkingdom/Peru/Getting help.md"
+            "update_date": "2026-10-02T16:16:39+01:00"
         }
     ],
-    "update_date": "2026-06-22T23:35:12+01:00"
+    "update_date": "2026-10-02T16:16:39+01:00"
 }

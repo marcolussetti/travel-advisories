@@ -1,32 +1,12 @@
 {
     "name": "Italy",
-    "update_reason": "New information about Mount Etna volcanic activity (\u2018Warnings and insurance\u2019 page).",
+    "update_reason": "Removal of information about Mount Etna volcanic activity (\u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Italy/Warnings and insurance.md",
-            "update_date": "2026-09-28T14:17:37+01:00"
-        },
-        {
-            "title": "Entry requirements",
-            "url": "https://www.gov.uk/foreign-travel-advice/italy/entry-requirements",
-            "file": "unitedkingdom/Italy/Entry requirements.md"
-        },
-        {
-            "title": "Safety and security",
-            "url": "https://www.gov.uk/foreign-travel-advice/italy/safety-and-security",
-            "file": "unitedkingdom/Italy/Safety and security.md"
-        },
-        {
-            "title": "Health",
-            "url": "https://www.gov.uk/foreign-travel-advice/italy/health",
-            "file": "unitedkingdom/Italy/Health.md"
-        },
-        {
-            "title": "Getting help",
-            "url": "https://www.gov.uk/foreign-travel-advice/italy/getting-help",
-            "file": "unitedkingdom/Italy/Getting help.md"
+            "update_date": "2026-10-02T13:49:28+01:00"
         }
     ],
-    "update_date": "2026-09-28T14:17:37+01:00"
+    "update_date": "2026-10-02T13:49:28+01:00"
 }
