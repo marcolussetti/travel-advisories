@@ -4,13 +4,25 @@
 
 High Degree of Caution
 
+### Travel Alert
+
+**Brazil will hold a first round of the general election on October 4, 2026, with a second round on October 25, 2026, if required.**
+
+**There may be political gatherings, demonstrations and increased security measures before, during and after the elections.**
+
+Irish citizens in Brazil are advised to:
+
+* Avoid areas where demonstrations and large gatherings are taking place
+* Follow the instructions of local authorities
+* Monitor local media for the latest information
+
 ### **General Travel Advice**
+
+Public protests are regularly held in Brazil in response to political developments. These may cause severe disruption to roads and public transport. Non-Brazilian citizens are restricted from participating in protests in Brazil and Irish citizens should avoid all areas where protests are expected to take place, monitor local media and follow the advice from the local authorities.
 
 Irish citizens do not require a visa to visit Brazil as a tourist for periods of up to 90 days. Passports should be valid for a minimum period of 6 months from the date of entry into Brazil. More information can be found in the Entry Requirements tab. If you are a single parent/guardian travelling with a minor, please consult the Entry Requirements tab for important information.
 
 Although most visits to Brazil are trouble free, crime levels are high and visitors should be vigilant and exercise a high degree of caution at all times, and particularly during large festivals such as Carnival and New Year.
-
-Public protests are regularly held in Brazil in response to political developments. These may cause severe disruption to roads and public transport. Non-Brazilian citizens are restricted from participating in protests in Brazil and Irish citizens should avoid all areas where protests are expected to take place, monitor local media and follow the advice from the local authorities.
 
 Citizens can also follow the Embassy in Brasília and Consulate General in São Paulo on social media X [**@Irlandanobrasil**](https://x.com/irlandanobrasil)**;** Facebook [**@IrlnoBrasil**](https://www.facebook.com/irlnobrasil/); and Instagram [**@IrlnoBrasil**](http://www.instagram.com/irlnobrasil) to ensure access to relevant updates and alerts.
 

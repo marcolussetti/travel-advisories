@@ -16,11 +16,13 @@ Visitors to the Netherlands are advised to follow the guidance of national and l
 
 Citizens can also follow the Embassy on social media (@IrelandinNL on [**X**](https://twitter.com/IrelandinNL), [**Instagram**](https://www.instagram.com/irelandinnl/) and [**Facebook**](https://www.facebook.com/IrelandInNL/)) to ensure access to relevant updates and alerts.
 
-### **Temporary Reintroduction of Land Border Controls**
+**Mobile Security Monitoring**
 
-The Netherlands has implemented temporary border controls at its internal borders with Belgium and Germany to combat irregular migration and cross-border crime. These controls, carried out by the Royal Netherlands Marechaussee, commenced on 9 December 2024 for initial period of 6 months. These controls have now been extended and will remain in place until 30 September 2026 .
+Temporary Border Controls carried out by the Royal Netherlands Marechaussee introduced on 9 December 2026 formally ended on 30 September 2026.
 
-Travellers should be aware of potential delays and additional documentation requirements during this period. Further information can be found on the [**website**](https://english.marechaussee.nl/topics/temporary-reintroduction-of-border-control) of the Royal Netherlands Marechaussee.
+As of 1 October 2026, checks at the Netherlands’ internal borders will be carried out under the expanded and revised framework for [Mobile Security Monitoring](https://english.marechaussee.nl/topics/m/mobile-security-monitoring) (MTV). The Royal Netherlands Marechaussee carries out these targeted checks on a spot-check basis at the borders with other countries in the Schengen zone. These inspections take place on the road, on trains, on the water, and at airports. Because these are not standard checks, travel can usually continue without delay.
+
+Travellers should be aware of potential spot checks of documents they may encounter on various forms of transportation when entering the Netherlands from another Schengen state. Further information can be found on the [**website**](https://english.marechaussee.nl/topics/m/mobile-security-monitoring) of the Royal Netherlands Marechaussee.
 
 ### **Emergency Assistance**
 

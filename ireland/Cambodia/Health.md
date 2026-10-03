@@ -1,8 +1,14 @@
 ## Health
 
+### **Emergency medical number**
+
+Dial 119 and ask for an ambulance.
+
+Contact your insurance company immediately if you’re referred to a medical facility for treatment.
+
 ### **Vaccinations**
 
-Check with a doctor well in advance of travelling to see if any vaccinations for Cambodia are required.
+To enter Cambodia, you must have a certificate to prove you have had a yellow fever vaccination if you are coming from a [**country with**](https://nathnacyfzone.org.uk/factsheet/65/countries-with-risk-of-yellow-fever-transmission) high transmission risk. Check with a health professional well in advance of travelling to see if any vaccinations for Cambodia are required or recommended for you.
 
 ### **Medical Facilities**
 

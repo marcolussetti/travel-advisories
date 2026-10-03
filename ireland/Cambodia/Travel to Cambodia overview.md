@@ -8,13 +8,13 @@ Normal Precautions
 
 **Thailand Border Region**
 
-We advise against all travel within 20km of the border region between Thailand and Cambodia, where armed clashes have taken place between Thai and Cambodian armed forces. The clashes have resulted in fatalities including civilian fatalities, and land mines remain present in the disputed border regions. Border crossings are subject to restrictions and closures, and there is a possibility of disruption to air travel between the two countries. While a ceasefire has been agreed, the situation remains fluid and Irish citizens in Thailand and Cambodia or intending to visit should pay close attention to authoritative sources of information and advice, and remain vigilant at all times. As there is no Irish Embassy in Cambodia, we are limited in the help we can offer in an emergency there. However, if assistance is required, please contact the Irish Embassy in Vietnam.
+We advise against all travel within 20km of the border region between Thailand and Cambodia, where armed clashes have taken place between Thai and Cambodian armed forces. The clashes have resulted in fatalities including civilian fatalities, and land mines remain present in the disputed border regions. Border crossings are subject to restrictions and closures, and there is a possibility of disruption to air travel between the two countries. While a ceasefire has been agreed, the situation remains fluid and Irish citizens in Thailand and Cambodia or intending to visit should pay close attention to authoritative sources of information and advice and remain vigilant at all times. As there is no Irish Embassy in Cambodia, we are limited in the help we can offer in an emergency there. However, if assistance is required, please contact the Irish Embassy in Vietnam.
 
 ### **General Travel Advice**
 
 Tourists wishing to travel to Cambodia can apply for an [**E-visa**](https://www.evisa.gov.kh/) or visa-on-arrival.
 
-All passengers arriving into Phnom Penh or Siem Reap airports must also submit [**an e-Arrival Card (CeA)**](https://arrival.gov.kh/) within seven days of arrival date.
+All passengers arriving into Phnom Penh, Sihanoukville, or Siem Reap airports must also submit [**an e-Arrival Card (CeA)**](https://arrival.gov.kh/) within seven days of arrival date.
 
 Fees, conditions and photograph requirements are subject to change. Please check the website of the [**Ministry of Foreign Affairs & International Co-operation**](https://www.evisa.gov.kh/) for the latest information. All visitors to Cambodia must hold a passport that is valid for at least six months from the time of entry into Cambodia and contain at least one blank page for a visa stamp. Entry is normally refused if you have a damaged passport or pages missing. Passport cards cannot be used.
 

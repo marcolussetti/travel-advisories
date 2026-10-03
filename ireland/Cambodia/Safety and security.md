@@ -14,11 +14,11 @@ Although the threat from terrorism in Cambodia is low, there is still a global r
 
 ### **Landmines**
 
-Unexploded mines and ordnances are a continuing hazard in former battlefields, particularly in northern Cambodia. Do not stray off main routes in rural areas or pick up metal objects, and check with your tour operator before travelling to affected regions.
+Unexploded mines and ordnances are a continuing hazard in former battlefields, particularly in northern Cambodia. Do not stray off main routes in rural areas or pick up metal objects and check with your tour operator before travelling to affected regions.
 
 ### **Crime**
 
-Petty Crime is common in Cambodia, particularly in urban areas visitors should take sensible precautions at all times and especially during the summer peak travel period;
+Petty Crime is common in Cambodia, particularly in urban areas. Visitors should take sensible precautions at all times and especially during the summer peak travel period;
 
 * The Embassy is aware of a number of cases of tourists being lured into private homes under the pretext of discovering a new bar, and assaulted or robbed. We recommend that tourists exercise caution if invited by locals to visit a bar outside tourist areas, or to visit someone’s home for a game of cards or other form of gambling;
 * The Embassy has received a number of reports of citizens suspecting that their drinks have been spiked in bars in Cambodia. Always be vigilant and never accept a drink off a stranger.
@@ -30,11 +30,13 @@ Petty Crime is common in Cambodia, particularly in urban areas visitors should t
 * When travelling by air, bus or train, stay vigilant against petty theft, particularly in busy rail and bus stations and in crowded airports;
 * Avoid isolated areas after dark, including beaches in the Sihanoukville area, where there have been an increasing number of violent incidents;
 * Travelling by car will reduce the risk as will limiting night time travel around Phnom Penh, Sihanoukville and Siem Reap to well-lit public areas;
-* Visitors should be aware of the risk of robbery and other crime (including sexual offences) especially in Phnom Penh, Sihanoukville and Siem Reap, particularly after dark.
+* Visitors should be aware of the risk of robbery and other crime (including sexual offences) especially in Phnom Penh, Sihanoukville and Siem Reap, particularly after dark;
+* Travellers have reported fake dollar bills being given as change in shops and bars. Check that the notes you receive are genuine and not damaged;
+* Female travellers have reported sexual assaults in Siem Reap and Sihanoukville. This includes incidents of lone women being sexually assaulted by men claiming to be motorcycle taxi drivers in the Pub Street area of Siem Reap. Where possible, arrange trusted transport plans in advance.
 
 ### **Lost or Stolen Passport**
 
-If your passport is lost or stolen, report this to the Police immediately and obtain a Police Report. Irish Citizens should be aware that if this occurs, it will delay your travel plans considerably, and cost you money. Along with the time taken to arrange a new travel document, you will subsequently need to get a replacement visa and an exit visa from immigration and this may delay your onward travel plans considerably. Please be aware that the nearest Irish Embassy is in Hanoi, Vietnam and dealing with a lost or stolen passport can be extremely inconvenient for you and can take time to resolve.
+If your passport is lost or stolen, report this to the Police immediately and obtain a Police Report. Irish Citizens should be aware that if this occurs, it will delay your travel plans considerably and cost you money. Along with the time taken to arrange a new travel document, you will subsequently need to get a replacement visa and an exit visa from immigration and this may delay your onward travel plans considerably. Please be aware that the nearest Irish Embassy is in Hanoi, Vietnam and dealing with a lost or stolen passport can be extremely inconvenient for you and can take time to resolve.
 
 ### **Reporting Crime**
 
@@ -77,7 +79,7 @@ Homemade alcohol may be contaminated with methanol, bacteria or with toxic chemi
 
 Even small amounts of methanol can kill or cause serious harm. It is not possible to identify methanol in alcoholic drinks by taste or smell. Early symptoms of methanol poisoning include vomiting, poor judgement, loss of balance and drowsiness. 12-48 hours after drinking: abdominal pain, vertigo, hyperventilation, breathlessness, blurred vision and/or blindness, coma and convulsions .
 
-Seek urgent medical attention if you or someone you are travelling with show the [signs of methanol poisoning](https://travelaware.campaign.gov.uk/spiking-and-methanol-poisoning/) after drinking.
+Seek urgent medical attention if you or someone you are travelling with show the [**signs of methanol poisoning**](https://travelaware.campaign.gov.uk/spiking-and-methanol-poisoning/) after drinking.
 
 Be aware of spiked drinks, food and cigarettes, particularly late at night in bars. Don’t leave food or drink unattended or accept food, drink or cigarettes from strangers.
 
@@ -92,3 +94,7 @@ Consumption of these drinks, on their own or with alcohol can pose a serious dan
 Before taking part in any outdoor or water-based sports or activities, such as kayaking, rock climbing, hang-gliding, etc., check that your travel insurance will cover you in the event of death or injury to yourself or a third party.
 
 Visitors should also be aware that the health and safety requirements in Cambodia are not as stringent as in Ireland and are often neither observed nor enforced. This means the risk of a serious or fatal accident while taking part in these activities is much higher.
+
+### **Flooding**
+
+The rainy season in Cambodia runs from approximately mid-April to the end of October. The water levels of rivers and lakes will be high during the rainy season and flooding is increasingly common in a number of provinces. Check with your travel agent and your hotel staff for details on which areas to avoid during the rainy season.

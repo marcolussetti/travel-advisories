@@ -6,17 +6,17 @@ Remember, the local laws apply to you as a visitor and it is your responsibility
 
 You should avoid any involvement with illegal drugs, including cannabis, while in Cambodia.
 
-Illegal drug use (no matter what the drug) carries stiff penalties, including the death penalty, which is enforced.
+Cambodia has a zero-tolerance policy for drug offenses. Possessing any illegal drugs, even in very small quantities, can carry severe penalties up to and including life imprisonment. It is a crime to have drugs in your system, and you may be required to take a drug test if police suspect you of using drugs.
 
 Recreational drugs available in Cambodia can be extremely dangerous and can result in death. Drugs sold in Cambodia may be fake, synthetic, or laced with toxic ingredients undetectable to the buyer, and can result in severe psychiatric problems.
 
 ### **Law Enforcement**
 
-Crimes such as sex offences or fraud can result in long prison terms. The Cambodian legal system is not very well developed and the standard of prisons is very poor.
+Crimes such as sexual offences or fraud can result in long prison terms. The Cambodian legal system is not very well developed and the standard of prisons is very poor.
 
 ### **Photography**
 
-Photography of, or near, military installations is generally prohibited.
+Photography of, or near, military installations is generally prohibited. Ask permission before taking pictures of people, particularly monks or other religious figures.
 
 ### **Getting Married**
 
@@ -36,7 +36,7 @@ ATMs are not widely available outside the major cities and tourist areas and som
 
 ### **Credit Cards**
 
-Credit cards are accepted in some hotels and by some businesses in larger cities, but outside the main centres visitors may find that cash is the only acceptable currency.
+Credit cards are accepted in some hotels and by some businesses in larger cities, but outside the main centres cash may be required.
 
 ### **Travellers’ Cheques**
 
