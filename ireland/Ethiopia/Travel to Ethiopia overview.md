@@ -6,9 +6,9 @@ High Degree of Caution
 
 ### **Travel Alert**
 
-#### **Travel to and from northern Ethiopia**
+#### **Travel in northern Ethiopia**
 
-On Wednesday, 23 September 2026, the Ethiopian Government announced the suspension of all flights to and from all airports in Tigray. The Ethiopian authorities may implement travel restrictions or suspend flights anywhere in the country at short notice. Irish citizens are advised to avoid all travel to Tigray Regional State and Amhara Regional State. Irish citizens are also advised to avoid all travel within 20km of the Tigray Regional State and Eritrean borders in Afar Regional State.
+On Wednesday, 23 September 2026, the Ethiopian Government announced the suspension of all flights to and from all airports in Tigray. The Ethiopian authorities may implement travel restrictions or suspend flights anywhere in the country at short notice. Irish citizens are advised to avoid all travel to Tigray Regional State and Amhara Regional State, and avoid non-essential travel to Afar Regional State.
 
 #### **Ebola Outbreak**
 
@@ -56,6 +56,7 @@ Citizens can also follow the Embassy on X[**@IrlEmbEthiopia**](https://twitter.c
 #### **The Department of Foreign Affairs and Trade advises against all but essential travel to:**
 
 * Ethiopia's Somali Regional State, excluding the area around Jijiga. Care should be take on the A10 road between Harar and Jijiga due to sporadic unrest, particularly in the area around Babile.
+* Afar Regional State (with the exception of parts of Afar within 20km of the Eritrean and Tigray borders, for which Irish citizens are advised to avoid all travel).
 
 Travel insurance, including international medical evacuation, is essential for visitors to Ethiopia as medical facilities may be limited. It is essential that you check the terms of your travel insurance policy thoroughly before you travel. You should be aware that **if you travel to areas of the country where the Department advises against all travel, your travel insurance is likely to be invalidated and the Embassy’s ability to provide consular assistance may be limited**.
 
@@ -67,9 +68,7 @@ The Embassy recommends against all travel to Amhara Regional State as the region
 
 ### **Tigray**
 
-The Cessation of Hostilities Agreement signed in November 2022 ended the large-scale fighting in Tigray. Nonetheless there continues to be reports of sporadic and indiscriminate violence particularly in the disputed of territory of Western Tigray and the Raya area of southern Tigray, but also elsewhere in the region, including in major urban centres such as Mekelle.
-
-All flights to and from all airports in Tigray Regional State were suspended on Wednesday, 23 September 2026. Roads leaving Tigray into Amhara and Afar regional states are not safe owing to the risk of militia activity. Any Irish citizen presently in Tigray Regional State should urgently contact the Embassy of Ireland in Addis Ababa.
+Any Irish citizen presently in Tigray Regional State should urgently contact the Embassy of Ireland in Addis Ababa. All flights to and from all airports in Tigray Regional State were suspended on Wednesday, 23 September 2026. Roads leaving Tigray into Amhara and Afar regional states are not safe owing to the risk of militia activity.
 
 ### **Addis Ababa**
 
