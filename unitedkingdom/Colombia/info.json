@@ -1,37 +1,12 @@
 {
     "name": "Colombia",
-    "update_reason": "Updated information on heightened security measures in Santa Marta ('Warnings and insurance' page).",
+    "update_reason": "Removal of information about heightened security measures in Santa Marta.",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Colombia/Warnings and insurance.md",
-            "update_date": "2026-09-23T19:02:49+01:00"
-        },
-        {
-            "title": "Entry requirements",
-            "url": "https://www.gov.uk/foreign-travel-advice/colombia/entry-requirements",
-            "file": "unitedkingdom/Colombia/Entry requirements.md"
-        },
-        {
-            "title": "Safety and security",
-            "url": "https://www.gov.uk/foreign-travel-advice/colombia/safety-and-security",
-            "file": "unitedkingdom/Colombia/Safety and security.md"
-        },
-        {
-            "title": "Regional risks",
-            "url": "https://www.gov.uk/foreign-travel-advice/colombia/regional-risks",
-            "file": "unitedkingdom/Colombia/Regional risks.md"
-        },
-        {
-            "title": "Health",
-            "url": "https://www.gov.uk/foreign-travel-advice/colombia/health",
-            "file": "unitedkingdom/Colombia/Health.md"
-        },
-        {
-            "title": "Getting help",
-            "url": "https://www.gov.uk/foreign-travel-advice/colombia/getting-help",
-            "file": "unitedkingdom/Colombia/Getting help.md"
+            "update_date": "2026-10-06T13:48:58+01:00"
         }
     ],
-    "update_date": "2026-09-23T19:02:49+01:00"
+    "update_date": "2026-10-06T13:48:58+01:00"
 }
