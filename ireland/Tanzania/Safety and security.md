@@ -6,11 +6,17 @@ Following the general election on 29 October 2025, there were several days of co
 
 The current situation is calm but unpredictable. Irish citizens are advised to stay alert to their surroundings, and avoid all demonstrations, rallies, and large crowds.
 
-If visitors become aware of any nearby protests, leave the area immediately and monitor our travel advice, and social and local media for up-to-date information.
+On the one year anniversary of the 2025 elections on 29 October 2026, there may be demonstrations, increased controls and restrictions on freedom of movement.
+
+Avoid all demonstrations, rallies, and large crowds.
+
+If visitors become aware of any nearby protests, leave the area immediately and do not take photos of security forces, military installations, protests, or riots.
+
+Monitor our travel advice, and social and local media for up-to-date information. Access to some social media platforms may be restricted during the period.
 
 ### **Terrorism**
 
-Barring unrest during the election period, the political situation in Tanzania is reasonably stable but terrorist incidents, including the 1998 bombing of the U.S. Embassies in Dar es Salaam and Nairobi, as well as occasional attacks by extremists on police stations and mosques, among other targets, highlight the threat posed by terrorism in East Africa and underscore the capacity of terrorist groups to carry out such attacks.
+Barring unrest during the election period, the political situation in Tanzania is reasonably stable but terrorist incidents, including the 1998 bombing of the US Embassies in Dar es Salaam and Nairobi, as well as occasional attacks by extremists on police stations and mosques, among other targets, highlight the threat posed by terrorism in East Africa and underscore the capacity of terrorist groups to carry out such attacks.
 
 Extremists linked to the Islamic terrorist group Al-Shabaab based in Somalia pose a threat across the east Africa region, and are thought to be active in Tanzania. However, many security incidents in Tanzania are of unclear origin and may be conducted by criminal gangs. Most attacks of this nature target the local security forces, although attacks against foreign nationals cannot be ruled out.
 

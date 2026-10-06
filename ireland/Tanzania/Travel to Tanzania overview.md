@@ -6,7 +6,17 @@ High Degree of Caution
 
 ### **Travel Alert**
 
+#### **Weather**
+
+For the months of October to December 2026, above-average rainfall is expected in parts of Tanzania due to the El Niño weather phenomenon.
+
+Heavy rainfall, flooding and landslides can disrupt road, ferry, air traffic and other infrastructure.
+
+Follow weather forecasts and local media for updates before making travel arrangements.
+
 #### **Ebola Outbreak**
+
+On 17 May, the World Health Organisation (WHO) declared Ebola Bundibugyo virus outbreak in Democratic Republic of Congo and Uganda a Public Health Emergency of International Concern.
 
 Humanitarian Aid Workers travelling to Tanzania are urged to [**register**](https://www.hpsc.ie/a-z/vectorborne/viralhaemorrhagicfever/guidance/vhfguidanceappendices/vhfguidanceforhumanitarianaidworkers/) with HSE HPSC in advance of their deployment.
 
@@ -18,17 +28,11 @@ Additional health screening measures are in place for travellers arriving into T
 
 These measures are in response to the outbreak of the Ebola Bundibugyo virus in these countries. The World Health Organisation (WHO) has declared this a Public Health Emergency of International Concern.
 
-#### **Returning to Ireland from an** [**Ebola-affected area**](https://urldefense.com/v3/__https:/www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda__;!!CfJOjA!CqeNvFD8hfwZyCDwpWYNe2ymDNxqWtFXbgDzXV5HrvMqMvFVgubbolwpTO2M9f6FxkU0NkHCF6Hvk2tzzw$) **(DRC, Uganda) or neighbouring countries (South Sudan, Rwanda, Burundi, Angola, the Central African Republic, the Republic of Congo, Ethiopia, Kenya, Tanzania, Zambia)**
+#### **Returning to Ireland from an** [**Ebola-affected area**](https://urldefense.com/v3/__https:/www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda__;!!CfJOjA!CqeNvFD8hfwZyCDwpWYNe2ymDNxqWtFXbgDzXV5HrvMqMvFVgubbolwpTO2M9f6FxkU0NkHCF6Hvk2tzzw$) **(DRC) or neighbouring countries (South Sudan, Rwanda, Burundi, Angola, the Central African Republic, the Republic of Congo, Ethiopia, Kenya, Tanzania, Zambia)**
 
 Irish citizens and residents should monitor their health for 21 days after returning from the region. This is because the incubation period of the disease ranges from 2 to 21 days. If you develop symptoms such as fever, severe headache, or unexplained bleeding, seek immediate medical attention **by phone** and inform healthcare providers of your recent travel and any exposure to Ebola.
 
-Irish Citizens and residents who have had **known contact with an Ebola patient or the remains of someone who died of Ebola**, contact your Regional Department of Public Health who will advise you to monitor your health in the 21 days after your exposure, and advise on any other measures you may need to take.
-
-**Regional Department of Health Contact List** and further information on the Ebola Virus Disease is available on the HPSC website [**here**](https://www.hpsc.ie/a-z/vectorborne/viralhaemorrhagicfever/ebola/frequentlyaskedquestions/).
-
-If you are an Irish citizen in need of consular assistance, you can call the Embassy Duty Officer 24/7 on +255 754 783 455
-
-If you wish to contact us on behalf of a relative who is in Tanzania, please reach out to the Department of Foreign Affairs by phone 00353 1 4082000 or on the following webpage: Contact Us - Department of Foreign Affairs'
+Irish Citizens and residents who have had **known contact with an Ebola patient or the remains of someone who died of Ebola**, contact your Regional Department of Public Health (list available [**here**](https://www.hpsc.ie/a-z/vectorborne/viralhaemorrhagicfever/ebola/frequentlyaskedquestions/)) who will advise you to monitor your health in the 21 days after your exposure, and advise on any other measures you may need to take.
 
 ### **General Travel Advice**
 
@@ -40,7 +44,15 @@ For further information about visas, visit the [**Tanzanian immigration website*
 
 A valid passport is required for travel to Tanzania. Irish passports should have a minimum validity of 6 months from the date of entry and a minimum on one unused visa page. Passport cards cannot be used.
 
-From 1 October 2024, all foreigners entering Zanzibar will be required to purchase mandatory travel insurance directly from the national insurer, Zanzibar Insurance Corporation. For more information please visit [**https://visitzanzibar.go.tz/**](https://visitzanzibar.go.tz/).
+#### **Travel Insurance**
+
+All visitors to mainland Tanzania and Zanzibar, except residents, must have mandatory inbound travel insurance, either from the National Insurance Cooperation or the Zanzibar Insurance Corporation depending on port of entry.
+
+Visitors are recommended to buy insurance online in advance, or at points of entry upon arrival in either mainland Tanzania or Zanzibar.
+
+If you arrive in mainland Tanzania first, you must buy travel insurance from the National Insurance Corporation (NIC) for the duration of your stay, up to 92 days. Insurance must be bought through the [National Insurance Corporation](https://inbound.nicinsurance.co.tz/apply) as other travel insurance policies are not accepted. If you have questions that are not answered on the website, email NIC at **wecare.inbound@nicinsurance.co.tz.**
+
+If you arrive in Zanzibar first, you must buy travel insurance from the Zanzibar Insurance Corporation (ZIC) for the duration of your stay, up to 92 days. Insurance must be bought through [Visit Zanzibar](https://visitzanzibar.go.tz/) as other travel insurance policies are not accepted. If you have questions that are not answered on the website, email ZIC at **inbound@zic.co.tz.**
 
 Visitors to Tanzania are advised to follow the guidance of national and local authorities and stay fully informed of what is going on by monitoring local news and social media.
 
@@ -53,6 +65,10 @@ Citizens can also follow the Embassy on X @[**IrlEmbTanzania**](https://twitter.
 The best help is often close at hand so if a problem arises, try talking to local contacts, tour operator representatives or hotel management.
 
 Contact the emergency services in Tanzania by dialling 112.
+
+If you are an Irish citizen in need of consular assistance, you can call the Embassy Duty Officer 24/7 on +255 754 783 455
+
+If you wish to contact us on behalf of a relative who is in Tanzania, please reach out to the Department of Foreign Affairs by phone 00353 1 4082000 or on the following webpage: Contact Us - Department of Foreign Affairs'
 
 ### **Our Tips for Safe Travels:**
 
