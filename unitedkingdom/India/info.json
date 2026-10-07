@@ -1,37 +1,12 @@
 {
     "name": "India",
-    "update_reason": "New information about Electronic Overseas Citizen of India Card (e-OCI) and additional\u202finformation\u202fabout Ebola health screening and a  mandatory Self-Declaration Form for all international passengers arriving in India ('Entry requirements' page).",
+    "update_reason": "This travel advice has been reviewed for accuracy, with minor amendments made throughout, including updated information on access permits, scams, trekking in India, air and rail travel, India-Pakistan border area and Western India and healthcare in India (\u2018Entry requirements\u2019,\u2018Safety and security\u2019 and \u2018Health\u2019 pages).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/India/Warnings and insurance.md",
-            "update_date": "2026-07-09T14:54:18+01:00"
-        },
-        {
-            "title": "Entry requirements",
-            "url": "https://www.gov.uk/foreign-travel-advice/india/entry-requirements",
-            "file": "unitedkingdom/India/Entry requirements.md"
-        },
-        {
-            "title": "Safety and security",
-            "url": "https://www.gov.uk/foreign-travel-advice/india/safety-and-security",
-            "file": "unitedkingdom/India/Safety and security.md"
-        },
-        {
-            "title": "Regional risks",
-            "url": "https://www.gov.uk/foreign-travel-advice/india/regional-risks",
-            "file": "unitedkingdom/India/Regional risks.md"
-        },
-        {
-            "title": "Health",
-            "url": "https://www.gov.uk/foreign-travel-advice/india/health",
-            "file": "unitedkingdom/India/Health.md"
-        },
-        {
-            "title": "Getting help",
-            "url": "https://www.gov.uk/foreign-travel-advice/india/getting-help",
-            "file": "unitedkingdom/India/Getting help.md"
+            "update_date": "2026-10-07T11:56:27+01:00"
         }
     ],
-    "update_date": "2026-07-09T14:54:18+01:00"
+    "update_date": "2026-10-07T11:56:27+01:00"
 }

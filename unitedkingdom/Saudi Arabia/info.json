@@ -1,42 +1,12 @@
 {
     "name": "Saudi Arabia",
-    "update_reason": "The Foreign, Commonwealth and Development Office (FCDO) advice against all but essential travel extends to include the cities of Abha and Khamis Mushait in Aseer province. The FCDO continues to advise against all travel to within 10km of the border with Yemen and all but essential travel to areas between 10km and 80km from the border with Yemen.  ('Warnings and insurance' and 'Regional risks')",
+    "update_reason": "Updated information about regional tensions (\u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Saudi Arabia/Warnings and insurance.md",
-            "update_date": "2026-09-20T20:23:47+01:00"
-        },
-        {
-            "title": "Entry requirements",
-            "url": "https://www.gov.uk/foreign-travel-advice/saudi-arabia/entry-requirements",
-            "file": "unitedkingdom/Saudi Arabia/Entry requirements.md"
-        },
-        {
-            "title": "Safety and security",
-            "url": "https://www.gov.uk/foreign-travel-advice/saudi-arabia/safety-and-security",
-            "file": "unitedkingdom/Saudi Arabia/Safety and security.md"
-        },
-        {
-            "title": "Regional risks",
-            "url": "https://www.gov.uk/foreign-travel-advice/saudi-arabia/regional-risks",
-            "file": "unitedkingdom/Saudi Arabia/Regional risks.md"
-        },
-        {
-            "title": "Pilgrimage",
-            "url": "https://www.gov.uk/foreign-travel-advice/saudi-arabia/pilgrimage",
-            "file": "unitedkingdom/Saudi Arabia/Pilgrimage.md"
-        },
-        {
-            "title": "Health",
-            "url": "https://www.gov.uk/foreign-travel-advice/saudi-arabia/health",
-            "file": "unitedkingdom/Saudi Arabia/Health.md"
-        },
-        {
-            "title": "Getting help",
-            "url": "https://www.gov.uk/foreign-travel-advice/saudi-arabia/getting-help",
-            "file": "unitedkingdom/Saudi Arabia/Getting help.md"
+            "update_date": "2026-10-06T16:15:18+01:00"
         }
     ],
-    "update_date": "2026-09-20T20:23:47+01:00"
+    "update_date": "2026-10-06T16:15:18+01:00"
 }
