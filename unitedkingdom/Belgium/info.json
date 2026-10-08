@@ -1,32 +1,12 @@
 {
     "name": "Belgium",
-    "update_reason": "Addition of information about a public sector strike planned for 12 October ('Warnings and insurance' page).",
+    "update_reason": "New information about demonstrations and strike action on 9 and 12 October (\u2018Safety and security\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Belgium/Warnings and insurance.md",
-            "update_date": "2026-09-25T12:48:06+01:00"
-        },
-        {
-            "title": "Entry requirements",
-            "url": "https://www.gov.uk/foreign-travel-advice/belgium/entry-requirements",
-            "file": "unitedkingdom/Belgium/Entry requirements.md"
-        },
-        {
-            "title": "Safety and security",
-            "url": "https://www.gov.uk/foreign-travel-advice/belgium/safety-and-security",
-            "file": "unitedkingdom/Belgium/Safety and security.md"
-        },
-        {
-            "title": "Health",
-            "url": "https://www.gov.uk/foreign-travel-advice/belgium/health",
-            "file": "unitedkingdom/Belgium/Health.md"
-        },
-        {
-            "title": "Getting help",
-            "url": "https://www.gov.uk/foreign-travel-advice/belgium/getting-help",
-            "file": "unitedkingdom/Belgium/Getting help.md"
+            "update_date": "2026-10-07T16:20:34+01:00"
         }
     ],
-    "update_date": "2026-09-25T12:48:06+01:00"
+    "update_date": "2026-10-07T16:20:34+01:00"
 }

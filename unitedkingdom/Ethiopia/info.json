@@ -1,12 +1,12 @@
 {
     "name": "Ethiopia",
-    "update_reason": "Updated information about reported attacks on military installations and large gatherings (See 'Political situation' on the 'Safety and security' page).",
+    "update_reason": "Updated information about conflict and violence (\u2018Safety and security\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Ethiopia/Warnings and insurance.md",
-            "update_date": "2026-10-01T18:05:40+01:00"
+            "update_date": "2026-10-07T16:46:25+01:00"
         }
     ],
-    "update_date": "2026-10-01T18:05:40+01:00"
+    "update_date": "2026-10-07T16:46:25+01:00"
 }
