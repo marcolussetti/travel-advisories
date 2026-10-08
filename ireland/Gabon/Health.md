@@ -8,7 +8,7 @@ Before travelling, the Department **strongly recommends** that citizens obtain c
 
 Check with a GP or an International Health and Travel Centre what vaccinations may be required at least eight weeks before travel.
 
-Evidence of vaccination (in the form of a certificate) can be a requirement for entry to some countries.
+Proof of yellow fever vaccination is required to enter Gabon.
 
 ### **Medication**
 

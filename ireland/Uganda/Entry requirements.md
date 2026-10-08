@@ -12,6 +12,10 @@ Your passport should be valid for a minimum period of 6 months from the date of 
 
 ### Yellow Fever
 
-Yellow fever vaccination is required for travellers arriving from all countries. Irish citizens will be asked to show proof of Yellow Fever vaccination upon arrival and departure. Passengers without Yellow Fever certificates/cards shall be vaccinated at their own cost.
+A Yellow Fever Vaccination certificate is **no longer a mandatory requirement** for entry into Uganda.
+
+This requirement is not listed on the e-visa application portal ([www.visas.immigration.go.ug](http://www.visas.immigration.go.ug/)) or on the National Citizenship and Immigration Control (NCIC) website ([www.immigration.go.ug](https://www.immigration.go.ug/)).
+
+Travelers to Uganda therefore do not need a Yellow Fever vaccination certificate for entry.
 
 If travellers are unsure of the entry requirements for Uganda, including visa and other immigration information, ask your travel agent or contact the nearest [**Embassy or Consulate**](/en/dfa/embassies-in-ireland/) of Uganda.
