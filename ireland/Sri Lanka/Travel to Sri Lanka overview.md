@@ -8,13 +8,13 @@ High Degree of Caution
 
 #### **Fuel Shortage**
 
-**As a result of the ongoing conflict in the Middle East and Gulf region, Sri Lanka is experiencing significant fuel shortages. To manage fuel supply, non-essential government services are not operational on Wednesdays, which may affect access to public services.**
+As a result of the ongoing conflict in the Middle East and Gulf region, Sri Lanka is experiencing significant fuel shortages. To manage fuel supply, non-essential government services are not operational on Wednesdays, which may affect access to public services.
 
-**The Sri Lankan government has implemented special arrangements to ensure fuel access for service providers in the tourist sector.**
+The Sri Lankan government has implemented special arrangements to ensure fuel access for service providers in the tourist sector.
 
-**Irish Citizens in Sri Lanka are advised to monitor local media and government announcements for updates.**
+Irish Citizens in Sri Lanka are advised to monitor local media and government announcements for updates.
 
-**The Sri Lankan Tourist Hotline number is 1912.**
+The Sri Lankan Tourist Hotline number is 1912.
 
 #### **Air Travel Disruption**
 
@@ -26,14 +26,6 @@ Irish citizens are advised to:
 * Monitor local and international news, airline communications and airport announcements closely.
 
 Register their details and those of their dependents [**here**](https://www.ireland.ie/en/dfa/overseas-travel/citizens-registration/).
-
-#### **Electronic Travel Authorization (ETA) Technical Issue**
-
-The Department of Immigration and Emigration in Sri Lanka have advised that the online ETA system is currently experiencing technical difficulties. As a result, there are delays in the approval of some ETA applications.
-
-If you have made an ETA application, please carry proof of this with you when traveling, as airline staff or immigration officials may request it. Upon verification of the ETA application, as long as the standard entry requirements are met and required supporting documentation is in order, your visa will be issued.
-
-Please see full details regarding the notice from the Sri Lankan Government [**here**](https://srilankahc.uk/2026/02/18/notice-to-all-eta-applicants/).
 
 #### **Extreme Weather**
 
