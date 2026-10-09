@@ -1,37 +1,12 @@
 {
     "name": "Eritrea",
-    "update_reason": "New information about military activity in the Red Sea area (\u2018Regional risks\u2019 page).",
+    "update_reason": "FCDO now advises against all but essential travel to Eritrea. FCDO continues to advise against all travel to within 25km of all of Eritrea\u2019s land borders (\u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Eritrea/Warnings and insurance.md",
-            "update_date": "2026-07-27T15:03:05+01:00"
-        },
-        {
-            "title": "Entry requirements",
-            "url": "https://www.gov.uk/foreign-travel-advice/eritrea/entry-requirements",
-            "file": "unitedkingdom/Eritrea/Entry requirements.md"
-        },
-        {
-            "title": "Safety and security",
-            "url": "https://www.gov.uk/foreign-travel-advice/eritrea/safety-and-security",
-            "file": "unitedkingdom/Eritrea/Safety and security.md"
-        },
-        {
-            "title": "Regional risks",
-            "url": "https://www.gov.uk/foreign-travel-advice/eritrea/regional-risks",
-            "file": "unitedkingdom/Eritrea/Regional risks.md"
-        },
-        {
-            "title": "Health",
-            "url": "https://www.gov.uk/foreign-travel-advice/eritrea/health",
-            "file": "unitedkingdom/Eritrea/Health.md"
-        },
-        {
-            "title": "Getting help",
-            "url": "https://www.gov.uk/foreign-travel-advice/eritrea/getting-help",
-            "file": "unitedkingdom/Eritrea/Getting help.md"
+            "update_date": "2026-10-09T10:14:54+01:00"
         }
     ],
-    "update_date": "2026-07-27T15:03:05+01:00"
+    "update_date": "2026-10-09T10:14:54+01:00"
 }

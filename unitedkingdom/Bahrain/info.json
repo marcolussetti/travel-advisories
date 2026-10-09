@@ -1,32 +1,12 @@
 {
     "name": "Bahrain",
-    "update_reason": "FCDO no longer advises against all but essential travel to Bahrain (\u2018Warnings and insurance\u2019 page).",
+    "update_reason": "Updated information about Bahraini-UK dual nationality, laws and cultural differences, and air quality in Bahrain ('Entry requirements\u2019, \u2018Safety and security\u2019 and 'Health' pages).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Bahrain/Warnings and insurance.md",
-            "update_date": "2026-08-20T11:51:52+01:00"
-        },
-        {
-            "title": "Entry requirements",
-            "url": "https://www.gov.uk/foreign-travel-advice/bahrain/entry-requirements",
-            "file": "unitedkingdom/Bahrain/Entry requirements.md"
-        },
-        {
-            "title": "Safety and security",
-            "url": "https://www.gov.uk/foreign-travel-advice/bahrain/safety-and-security",
-            "file": "unitedkingdom/Bahrain/Safety and security.md"
-        },
-        {
-            "title": "Health",
-            "url": "https://www.gov.uk/foreign-travel-advice/bahrain/health",
-            "file": "unitedkingdom/Bahrain/Health.md"
-        },
-        {
-            "title": "Getting help",
-            "url": "https://www.gov.uk/foreign-travel-advice/bahrain/getting-help",
-            "file": "unitedkingdom/Bahrain/Getting help.md"
+            "update_date": "2026-10-08T14:01:04+01:00"
         }
     ],
-    "update_date": "2026-08-20T11:51:52+01:00"
+    "update_date": "2026-10-08T14:01:04+01:00"
 }

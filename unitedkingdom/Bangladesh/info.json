@@ -1,37 +1,12 @@
 {
     "name": "Bangladesh",
-    "update_reason": "Addition of information about electronical arrival and departure cards and updated information about applying for a visa (\u2018Entry requirements\u2019 page).",
+    "update_reason": "Addition of information about Hindu festival of Durga Puja, taking place in Bangladesh 16 to 21 October (\u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Bangladesh/Warnings and insurance.md",
-            "update_date": "2026-09-04T10:49:04+01:00"
-        },
-        {
-            "title": "Entry requirements",
-            "url": "https://www.gov.uk/foreign-travel-advice/bangladesh/entry-requirements",
-            "file": "unitedkingdom/Bangladesh/Entry requirements.md"
-        },
-        {
-            "title": "Safety and security",
-            "url": "https://www.gov.uk/foreign-travel-advice/bangladesh/safety-and-security",
-            "file": "unitedkingdom/Bangladesh/Safety and security.md"
-        },
-        {
-            "title": "Regional risks",
-            "url": "https://www.gov.uk/foreign-travel-advice/bangladesh/regional-risks",
-            "file": "unitedkingdom/Bangladesh/Regional risks.md"
-        },
-        {
-            "title": "Health",
-            "url": "https://www.gov.uk/foreign-travel-advice/bangladesh/health",
-            "file": "unitedkingdom/Bangladesh/Health.md"
-        },
-        {
-            "title": "Getting help",
-            "url": "https://www.gov.uk/foreign-travel-advice/bangladesh/getting-help",
-            "file": "unitedkingdom/Bangladesh/Getting help.md"
+            "update_date": "2026-10-09T11:14:33+01:00"
         }
     ],
-    "update_date": "2026-09-04T10:49:04+01:00"
+    "update_date": "2026-10-09T11:14:33+01:00"
 }

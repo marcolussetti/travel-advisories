@@ -1,37 +1,12 @@
 {
     "name": "Uganda",
-    "update_reason": "Updated information that, on 27 August 2026, the World Health Organisation declared the Uganda Ebola outbreak over ('Entry requirements' and \u2018Health\u2019 pages).",
+    "update_reason": "Removal of information about a yellow fever vaccination certificate requirement, as this is no longer mandatory for entry to Uganda ('Entry requirements' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Uganda/Warnings and insurance.md",
-            "update_date": "2026-09-02T16:45:31+01:00"
-        },
-        {
-            "title": "Entry requirements",
-            "url": "https://www.gov.uk/foreign-travel-advice/uganda/entry-requirements",
-            "file": "unitedkingdom/Uganda/Entry requirements.md"
-        },
-        {
-            "title": "Safety and security",
-            "url": "https://www.gov.uk/foreign-travel-advice/uganda/safety-and-security",
-            "file": "unitedkingdom/Uganda/Safety and security.md"
-        },
-        {
-            "title": "Regional risks",
-            "url": "https://www.gov.uk/foreign-travel-advice/uganda/regional-risks",
-            "file": "unitedkingdom/Uganda/Regional risks.md"
-        },
-        {
-            "title": "Health",
-            "url": "https://www.gov.uk/foreign-travel-advice/uganda/health",
-            "file": "unitedkingdom/Uganda/Health.md"
-        },
-        {
-            "title": "Getting help",
-            "url": "https://www.gov.uk/foreign-travel-advice/uganda/getting-help",
-            "file": "unitedkingdom/Uganda/Getting help.md"
+            "update_date": "2026-10-08T14:51:08+01:00"
         }
     ],
-    "update_date": "2026-09-02T16:45:31+01:00"
+    "update_date": "2026-10-08T14:51:08+01:00"
 }

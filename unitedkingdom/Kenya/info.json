@@ -1,12 +1,12 @@
 {
     "name": "Kenya",
-    "update_reason": "New information about the detection of Ebola and measures taken by the Kenyan Government in response to the Ebola outbreak in the Democratic Republic of Congo\u202f(\u2018Health\u2019 page).",
+    "update_reason": "New information about mandatory travel health insurance requirement for foreign visitors staying in Kenya (\u2018Entry requirements\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Kenya/Warnings and insurance.md",
-            "update_date": "2026-10-07T10:29:49+01:00"
+            "update_date": "2026-10-09T09:38:13+01:00"
         }
     ],
-    "update_date": "2026-10-07T10:29:49+01:00"
+    "update_date": "2026-10-09T09:38:13+01:00"
 }
