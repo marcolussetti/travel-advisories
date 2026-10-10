@@ -8,7 +8,11 @@ High Degree of Caution
 
 #### **Ebola Outbreak**
 
-There are currently no confirmed cases of Ebola virus in Kenya. The Embassy of Ireland in Kenya continues to monitor the situation.
+On 6 October 2026, Kenya confirmed its first imported case of Ebola. The Government of Kenya is implementing public health measures in response, including contact tracing, surveillance, and border screening, as well as quarantine arrangements for individuals deemed at risk. The Embassy of Ireland in Kenya continues to monitor the situation.
+
+**Regional Department of Health Contact List** and further information on the Ebola Virus Disease, including advice for Irish citizens travelling to Ebola-affected areas or bordering countries, is available on the HPSC website [**here**](https://www.hpsc.ie/a-z/vectorborne/viralhaemorrhagicfever/ebola/frequently-asked-questions).
+
+If you are travelling to Kenya from DRC, Uganda or another high-risk African country, you may be subject to enhanced health screening measures due to the ongoing Ebola outbreak in DRC.
 
 Humanitarian Aid Workers travelling to Kenya are urged to [**register**](https://www.hpsc.ie/a-z/vectorborne/viralhaemorrhagicfever/guidance/vhfguidanceappendices/vhfguidanceforhumanitarianaidworkers/) with HSE HPSC in advance of their deployment.
 

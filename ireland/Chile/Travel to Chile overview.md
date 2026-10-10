@@ -4,6 +4,27 @@
 
 Normal Precautions
 
+### **Travel Alert**
+
+#### **Heavy Rainfall and Mudslides in Santiago**
+
+The [**National Disaster Prevention and Response Service** (**SENAPRED**)](https://senapred.cl/visor-chile-preparado/) has declared a Red Alert in the following areas of Santiago due to heavy rain and severe mudslides affecting the Andean and pre-Andean areas in the eastern sector of the Metropolitan Region:
+
+* San José de Maipo
+* Puente Alto
+* Pirque
+* La Florida
+* Peñalolén
+* La Reina
+* Las Condes
+* Lo Barnechea
+* Vitacura
+* Colina
+
+Please follow advice of the local authorities (check @SENAPRED social media and [**website**](https://senapred.cl/)), including any evacuation orders.
+
+If you require consular assistance, contact the Embassy on **Tel: +56 233 04 6600**
+
 ### **General Travel Advice**
 
 In recent years, there have been large-scale protests and demonstrations leading to civil unrest across Chile, and there is a risk of violent protest in Santiago and other Chilean cities, particularly on Friday afternoons and evenings. Even peaceful protests can become violent.

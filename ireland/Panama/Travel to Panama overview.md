@@ -4,11 +4,15 @@
 
 High Degree of Caution
 
-### **Travel Alert**
+### Travel Alert
 
-#### **Oropouche Disease**
+#### Earthquake, 9 October 2026
 
-In February 2024, the Pan American Health Organization (PAHO) issued an epidemiological alert concerning increasing reports of Oropouche disease, a virus mainly transmitted to humans through being bitten by infected midges. Some species of mosquito are also known to spread the virus. Oropouche can manifest as an acute febrile illness with common systems including headache, nausea, vomiting, muscle and joint pains. Occasionally symptoms can be more severe. PAHO has reported an outbreak in countries in Central America, including Panama. Take precautions to avoid being bitten by mosquitoes by using bed nets and repellents, and wearing closed shoes, long sleeves and trousers.
+An earthquake of 7.6 magnitude occurred in Panama on 9 October.
+
+Irish citizens in impacted areas should follow the advice and guidance of the local authorities and monitor local news channels for updates.
+
+If you have been impacted and require consular assistance, or have a concern about a relative or a friend, contact us on [+57 601 657 6060](tel:+576016576060) or through a consular query on [the Embassy Colombia contact form](/en/colombia/bogota/contact/).
 
 ### **General Travel Advice**
 
