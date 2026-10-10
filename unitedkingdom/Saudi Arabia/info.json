@@ -1,12 +1,12 @@
 {
     "name": "Saudi Arabia",
-    "update_reason": "FCDO now advises against all but essential travel to Aseer province, Riyadh province, Najran province, Jizan province and Taif city and Taif International Airport.  FCDO continues to advise against all travel to within 10km of the border with Yemen.  (Warnings and insurance.)",
+    "update_reason": "Addition of information about travelling to the airport (see 'Regional tensions' on 'Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Saudi Arabia/Warnings and insurance.md",
-            "update_date": "2026-10-08T19:35:10+01:00"
+            "update_date": "2026-10-09T16:00:16+01:00"
         }
     ],
-    "update_date": "2026-10-08T19:35:10+01:00"
+    "update_date": "2026-10-09T16:00:16+01:00"
 }

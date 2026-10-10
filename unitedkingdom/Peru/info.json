@@ -1,12 +1,12 @@
 {
     "name": "Peru",
-    "update_reason": "New information about local elections in Peru on 4 October and the El Ni\u00f1o weather system (see 'Warnings and insurance' and 'Safety and security' page)",
+    "update_reason": "Removal of information about local elections ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Peru/Warnings and insurance.md",
-            "update_date": "2026-10-02T16:16:39+01:00"
+            "update_date": "2026-10-09T14:35:03+01:00"
         }
     ],
-    "update_date": "2026-10-02T16:16:39+01:00"
+    "update_date": "2026-10-09T14:35:03+01:00"
 }

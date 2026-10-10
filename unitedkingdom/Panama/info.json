@@ -1,12 +1,12 @@
 {
     "name": "Panama",
-    "update_reason": "Updated information about border control checks and curfews (\u2018Entry requirements\u2019 and \u2018Safety and security\u2019 pages).",
+    "update_reason": "Information about a 7.6 earthquake in Panama (Warnings and insurance)",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Panama/Warnings and insurance.md",
-            "update_date": "2026-10-07T16:03:44+01:00"
+            "update_date": "2026-10-09T21:08:09+01:00"
         }
     ],
-    "update_date": "2026-10-07T16:03:44+01:00"
+    "update_date": "2026-10-09T21:08:09+01:00"
 }
