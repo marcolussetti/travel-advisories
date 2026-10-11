@@ -1,12 +1,12 @@
 {
     "name": "Saudi Arabia",
-    "update_reason": "Addition of information about travelling to the airport (see 'Regional tensions' on 'Warnings and insurance' page).",
+    "update_reason": "Update following incident at King Khalid International Airport on 10 October ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Saudi Arabia/Warnings and insurance.md",
-            "update_date": "2026-10-09T16:00:16+01:00"
+            "update_date": "2026-10-10T16:52:06+01:00"
         }
     ],
-    "update_date": "2026-10-09T16:00:16+01:00"
+    "update_date": "2026-10-10T16:52:06+01:00"
 }
