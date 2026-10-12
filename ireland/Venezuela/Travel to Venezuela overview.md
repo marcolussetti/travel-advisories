@@ -6,21 +6,11 @@ Do Not Travel
 
 ### Travel Alert
 
-#### **Earthquake – State of Emergency**
+On 24 June, two earthquakes of 7.2 and 7.5 magnitude occurred in Venezuela, causing severe damage across the country, particularly in the state of La Guaira.
 
-**Venezuela has declared a state of emergency following two major earthquakes and several aftershocks across the country.**
+Flights availability to and from Venezuela is limited. Maiquetía Simón Bolívar International Airport resumed operations on 1 September with limited capacity.
 
-Flights to and from Simon Bolivar International Airport have been suspended until further notice and non-essential services have been temporarily cancelled. Irish citizens should monitor local media, follow the advice of local authorities, and avoid affected areas.
-
-As there is no Irish Embassy in Venezuela, we are limited in the help we can offer you in an emergency. If you require urgent consular assistance, call the [**Irish Embassy in Colombia**](https://www.ireland.ie/en/colombia/bogota/contact/).
-
-The Embassy operates an out of hours service for Irish citizens requiring emergency assistance on weekends and public holidays.
-
-If you are in need of emergency assistance during these times, you should leave a message on the emergency message system by calling +57 1 657 6060. The emergency message system is checked regularly outside of office hours and a member of the Embassy staff will contact you as soon as possible.
-
-When you leave a message, remember to state your name, the nature of the problem, where you are now, and the details of how the Duty Officer can contact you (e.g. leave your mobile phone number, or the phone number of the hotel/hostel where you are staying).
-
-Alternatively, you may contact the Duty Officer at the Department of Foreign Affairs and Trade at +353 (01) 408 2000
+Irish citizens should contact your airline or travel agent for updates on flight availability.
 
 ### **General Travel Advice**
 
