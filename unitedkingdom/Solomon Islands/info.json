@@ -1,32 +1,12 @@
 {
     "name": "Solomon Islands",
-    "update_reason": "Removal of information about Tropical Cyclone Maila (\u2018Warnings and Insurance\u2019 page).",
+    "update_reason": "New information about Solomon Islands\u2019 new electronic visa system (see \u2018Visa requirements' on the \u2018Entry requirements\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Solomon Islands/Warnings and insurance.md",
-            "update_date": "2026-05-26T09:39:14+01:00"
-        },
-        {
-            "title": "Entry requirements",
-            "url": "https://www.gov.uk/foreign-travel-advice/solomon-islands/entry-requirements",
-            "file": "unitedkingdom/Solomon Islands/Entry requirements.md"
-        },
-        {
-            "title": "Safety and security",
-            "url": "https://www.gov.uk/foreign-travel-advice/solomon-islands/safety-and-security",
-            "file": "unitedkingdom/Solomon Islands/Safety and security.md"
-        },
-        {
-            "title": "Health",
-            "url": "https://www.gov.uk/foreign-travel-advice/solomon-islands/health",
-            "file": "unitedkingdom/Solomon Islands/Health.md"
-        },
-        {
-            "title": "Getting help",
-            "url": "https://www.gov.uk/foreign-travel-advice/solomon-islands/getting-help",
-            "file": "unitedkingdom/Solomon Islands/Getting help.md"
+            "update_date": "2026-10-12T12:44:41+01:00"
         }
     ],
-    "update_date": "2026-05-26T09:39:14+01:00"
+    "update_date": "2026-10-12T12:44:41+01:00"
 }

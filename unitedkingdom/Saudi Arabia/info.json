@@ -1,12 +1,12 @@
 {
     "name": "Saudi Arabia",
-    "update_reason": "Update following incident at King Khalid International Airport on 10 October ('Warnings and insurance' page).",
+    "update_reason": "FCDO now also advises against all but essential travel to the cities of Jeddah and Dammam, and to all airports in Saudi Arabia except for Medina International Airport  ('Warnings and insurance' page)",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Saudi Arabia/Warnings and insurance.md",
-            "update_date": "2026-10-10T16:52:06+01:00"
+            "update_date": "2026-10-11T22:11:44+01:00"
         }
     ],
-    "update_date": "2026-10-10T16:52:06+01:00"
+    "update_date": "2026-10-11T22:11:44+01:00"
 }

@@ -1,12 +1,12 @@
 {
     "name": "Eritrea",
-    "update_reason": "FCDO now advises against all but essential travel to Eritrea. FCDO continues to advise against all travel to within 25km of all of Eritrea\u2019s land borders (\u2018Warnings and insurance\u2019 page).",
+    "update_reason": "Addition of information about the temporary withdrawal of dependants of British Embassy staff from Eritrea (\u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Eritrea/Warnings and insurance.md",
-            "update_date": "2026-10-09T10:14:54+01:00"
+            "update_date": "2026-10-12T12:48:05+01:00"
         }
     ],
-    "update_date": "2026-10-09T10:14:54+01:00"
+    "update_date": "2026-10-12T12:48:05+01:00"
 }
