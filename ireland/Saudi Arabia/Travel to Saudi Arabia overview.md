@@ -8,19 +8,21 @@ Avoid Non-Essential Travel
 
 #### **Security Situation in the Middle East and Gulf Region**
 
-**In light of the current security situation in the Middle East and Gulf region, the Department of Foreign Affairs and Trade strongly advises Irish citizens against all but essential travel to Saudi Arabia until further notice.**
+**In light of the current security situation in the Middle East and Gulf region, the Department of Foreign Affairs and Trade strongly advises Irish citizens against all but essential travel to Saudi Arabia until further notice. Irish citizens are advised to avoid all travel to and from King Khalid International Airport, which is now closed, and to avoid non-essential travel to other airports in KSA.**
 
-Irish citizens in Saudi Arabia are advised to shelter in place, avoid unnecessary movement and to follow the advice of the local authorities, including when so advised, to shelter in place. Irish citizens are advised to avoid military and security force installations as well as other sites of strategic economic importance including ports and energy facilities.
+**For Irish citizens wishing to leave or enter Saudi Arabia, it is currently possible to do so via commercial means, but we encourage you to consider using airports in neighbouring countries until further notice:**
+
+* **Bahrain** – Bahrain International Airport (BAH)
+* **Jordan** – Queen Alia Airport (AMM)
+* **Oman** – Muscat International Airport (MCT)
+* **Qatar** – Hamad International Airport (DOH)
+* **UAE** – Zayed International Airport (AUH)
 
 Airspace in Saudi Arabia may close for limited periods at short notice. Citizens affected are advised to liaise directly with their airline before travelling to the airport and to follow the guidance provided.
 
 #### **In Saudi Arabia**
 
-Irish citizens already in the region are advised to avoid unnecessary journeys, remain vigilant, closely monitor developments and local media, and follow the advice of local authorities. In particular, if local authorities advise you to take shelter, stay indoors or move to the nearest safe building immediately. Falling debris caused by intercepts is a significant risk, and you are safest inside a secure structure.
-
-#### **Leaving Saudi Arabia**
-
-If you wish to leave Saudi Arabia, it is possible to do so via commercial means.
+Irish citizens in Saudi Arabia are advised to follow the advice of the local authorities, including when so advised, to shelter in place. If you receive instructions to shelter in place, please do so in a room without windows or in your basement. Irish citizens are advised to avoid military and security installations as well as other sites of strategic importance.
 
 #### **Contact information and Embassy updates**
 
