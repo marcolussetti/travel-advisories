@@ -1,37 +1,12 @@
 {
     "name": "Pakistan",
-    "update_reason": "Addition of information about planned protests and possible disruption in Pakistan (\u2018Warnings and insurance\u2019 page)",
+    "update_reason": "Addition of information about emergency measures in Khyber Pakhtunkhwa (\u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Pakistan/Warnings and insurance.md",
-            "update_date": "2026-09-22T11:07:03+01:00"
-        },
-        {
-            "title": "Entry requirements",
-            "url": "https://www.gov.uk/foreign-travel-advice/pakistan/entry-requirements",
-            "file": "unitedkingdom/Pakistan/Entry requirements.md"
-        },
-        {
-            "title": "Safety and security",
-            "url": "https://www.gov.uk/foreign-travel-advice/pakistan/safety-and-security",
-            "file": "unitedkingdom/Pakistan/Safety and security.md"
-        },
-        {
-            "title": "Regional risks",
-            "url": "https://www.gov.uk/foreign-travel-advice/pakistan/regional-risks",
-            "file": "unitedkingdom/Pakistan/Regional risks.md"
-        },
-        {
-            "title": "Health",
-            "url": "https://www.gov.uk/foreign-travel-advice/pakistan/health",
-            "file": "unitedkingdom/Pakistan/Health.md"
-        },
-        {
-            "title": "Getting help",
-            "url": "https://www.gov.uk/foreign-travel-advice/pakistan/getting-help",
-            "file": "unitedkingdom/Pakistan/Getting help.md"
+            "update_date": "2026-10-13T13:37:00+01:00"
         }
     ],
-    "update_date": "2026-09-22T11:07:03+01:00"
+    "update_date": "2026-10-13T13:37:00+01:00"
 }

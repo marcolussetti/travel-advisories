@@ -1,32 +1,12 @@
 {
     "name": "Mauritius",
-    "update_reason": "Updated information on Ebola and travelling from Reunion Island (\u2018Entry requirements\u2019) and Road travel (\u2018Safety and security\u2019)",
+    "update_reason": "Addition of  information about local demonstrations and community unrest (\u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Mauritius/Warnings and insurance.md",
-            "update_date": "2026-09-04T16:08:37+01:00"
-        },
-        {
-            "title": "Entry requirements",
-            "url": "https://www.gov.uk/foreign-travel-advice/mauritius/entry-requirements",
-            "file": "unitedkingdom/Mauritius/Entry requirements.md"
-        },
-        {
-            "title": "Safety and security",
-            "url": "https://www.gov.uk/foreign-travel-advice/mauritius/safety-and-security",
-            "file": "unitedkingdom/Mauritius/Safety and security.md"
-        },
-        {
-            "title": "Health",
-            "url": "https://www.gov.uk/foreign-travel-advice/mauritius/health",
-            "file": "unitedkingdom/Mauritius/Health.md"
-        },
-        {
-            "title": "Getting help",
-            "url": "https://www.gov.uk/foreign-travel-advice/mauritius/getting-help",
-            "file": "unitedkingdom/Mauritius/Getting help.md"
+            "update_date": "2026-10-13T10:06:03+01:00"
         }
     ],
-    "update_date": "2026-09-04T16:08:37+01:00"
+    "update_date": "2026-10-13T10:06:03+01:00"
 }

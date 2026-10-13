@@ -1,12 +1,12 @@
 {
     "name": "Mexico",
-    "update_reason": "Latest information on Hurricane Simon (Warnings and insurance)",
+    "update_reason": "Updated information about Hurricane Simon ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Mexico/Warnings and insurance.md",
-            "update_date": "2026-10-09T21:19:56+01:00"
+            "update_date": "2026-10-13T09:45:22+01:00"
         }
     ],
-    "update_date": "2026-10-09T21:19:56+01:00"
+    "update_date": "2026-10-13T09:45:22+01:00"
 }
