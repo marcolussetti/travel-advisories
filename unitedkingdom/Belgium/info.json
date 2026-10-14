@@ -1,12 +1,12 @@
 {
     "name": "Belgium",
-    "update_reason": "New information about demonstrations and strike action on 9 and 12 October (\u2018Safety and security\u2019 page).",
+    "update_reason": "Updated information about national strike action (\u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Belgium/Warnings and insurance.md",
-            "update_date": "2026-10-07T16:20:34+01:00"
+            "update_date": "2026-10-13T15:33:30+01:00"
         }
     ],
-    "update_date": "2026-10-07T16:20:34+01:00"
+    "update_date": "2026-10-13T15:33:30+01:00"
 }

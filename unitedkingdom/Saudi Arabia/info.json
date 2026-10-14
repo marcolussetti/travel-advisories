@@ -1,12 +1,12 @@
 {
     "name": "Saudi Arabia",
-    "update_reason": "FCDO now also advises against all but essential travel to the cities of Jeddah and Dammam, and to all airports in Saudi Arabia except for Medina International Airport  ('Warnings and insurance' page)",
+    "update_reason": "Updated information about regional tensions and additional information about military zones and border posts, and Saudi-Yemen border and threats from the Houthis (\u2018Warnings and insurance\u2019 and \u2018Regional risks\u2019 pages).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Saudi Arabia/Warnings and insurance.md",
-            "update_date": "2026-10-11T22:11:44+01:00"
+            "update_date": "2026-10-13T17:09:24+01:00"
         }
     ],
-    "update_date": "2026-10-11T22:11:44+01:00"
+    "update_date": "2026-10-13T17:09:24+01:00"
 }

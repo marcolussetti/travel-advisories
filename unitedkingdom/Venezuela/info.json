@@ -1,37 +1,12 @@
 {
     "name": "Venezuela",
-    "update_reason": "Updated information on resumption of limited commercial flight operations from Maiquet\u00eda Sim\u00f3n Bolivar International Airport from 1 September (\u2018Warnings and insurance\u2019 page).",
+    "update_reason": "FCDO now advises against all travel to Amazonas state and to within 40km (25 miles) of the border with Colombia. FCDO continues to advise against all travel to the Orinoco Mining Arc (\u2018Arco Minero\u2019) region to the south of the Orinoco river, and within 40km (25 miles) of the border Brazil  and Guyana . FCDO advises against all but essential travel to the remaining areas of Venezuela  including Zulia state, Maracaibo and the eastern shore of Lake Maracaibo ('Warnings and insurance' page). Updated information about political and economic situation ('Safety and Security' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Venezuela/Warnings and insurance.md",
-            "update_date": "2026-09-02T15:49:14+01:00"
-        },
-        {
-            "title": "Entry requirements",
-            "url": "https://www.gov.uk/foreign-travel-advice/venezuela/entry-requirements",
-            "file": "unitedkingdom/Venezuela/Entry requirements.md"
-        },
-        {
-            "title": "Safety and security",
-            "url": "https://www.gov.uk/foreign-travel-advice/venezuela/safety-and-security",
-            "file": "unitedkingdom/Venezuela/Safety and security.md"
-        },
-        {
-            "title": "Regional risks",
-            "url": "https://www.gov.uk/foreign-travel-advice/venezuela/regional-risks",
-            "file": "unitedkingdom/Venezuela/Regional risks.md"
-        },
-        {
-            "title": "Health",
-            "url": "https://www.gov.uk/foreign-travel-advice/venezuela/health",
-            "file": "unitedkingdom/Venezuela/Health.md"
-        },
-        {
-            "title": "Getting help",
-            "url": "https://www.gov.uk/foreign-travel-advice/venezuela/getting-help",
-            "file": "unitedkingdom/Venezuela/Getting help.md"
+            "update_date": "2026-10-14T10:31:54+01:00"
         }
     ],
-    "update_date": "2026-09-02T15:49:14+01:00"
+    "update_date": "2026-10-14T10:31:54+01:00"
 }
