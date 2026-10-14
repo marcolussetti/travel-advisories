@@ -6,9 +6,11 @@ High Degree of Caution
 
 ### **Travel Alert**
 
-#### **Flash flood in Rasuwa district and Nepal-China border areas**
+#### Flooding, Flash Floods and Mudslides
 
-On 26 August, a major flash flood in Rasuwa district and the Nepal-China border area caused widespread damage to buildings, roads and transport and communications infrastructure. Downstream areas, including Nuwakot, Dhading and Chitwan, have also been affected. The situation is developing, with search and rescue operations underway and significant disruption to transport.
+On 12 August, floods hit the Budhi Gandaki River in the Gorkha District of north central Nepal and caused damage in the region. The affected area includes the popular Manaslu Circuit and Tsum Valley trekking routes. Local authorities are conducting rescue and recovery operations. Transport, roads and other infrastructure may be disrupted. Irish citizens are advised to avoid flood-affected areas, follow the advice of local authorities and monitor local media for updates. Please check with your tour operator before travelling and reconsider your need to travel to flood-affected areas.
+
+The major floods and mudslides that occurred on 26 August in the Rasuwa district and the Nepal-China border area continue to affect parts of the country. Reconstruction and recovery efforts are underway by Nepalese authorities.
 
 The Nepalese authorities have advised residents and visitors to avoid flood-affected areas, remain in safe locations and follow the advice of local authorities. If travelling in Nepal, you should check local conditions and transport arrangements before travelling and be prepared for disruption.
 
