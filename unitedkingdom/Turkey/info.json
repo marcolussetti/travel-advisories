@@ -1,37 +1,12 @@
 {
     "name": "Turkey",
-    "update_reason": "Updated information for LGBT+ travellers ('Safety and security' page).",
+    "update_reason": "Addition of information about heavy rain and flooding in Istanbul ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Turkey/Warnings and insurance.md",
-            "update_date": "2026-09-21T14:00:49+01:00"
-        },
-        {
-            "title": "Entry requirements",
-            "url": "https://www.gov.uk/foreign-travel-advice/turkey/entry-requirements",
-            "file": "unitedkingdom/Turkey/Entry requirements.md"
-        },
-        {
-            "title": "Safety and security",
-            "url": "https://www.gov.uk/foreign-travel-advice/turkey/safety-and-security",
-            "file": "unitedkingdom/Turkey/Safety and security.md"
-        },
-        {
-            "title": "Regional risks",
-            "url": "https://www.gov.uk/foreign-travel-advice/turkey/regional-risks",
-            "file": "unitedkingdom/Turkey/Regional risks.md"
-        },
-        {
-            "title": "Health",
-            "url": "https://www.gov.uk/foreign-travel-advice/turkey/health",
-            "file": "unitedkingdom/Turkey/Health.md"
-        },
-        {
-            "title": "Getting help",
-            "url": "https://www.gov.uk/foreign-travel-advice/turkey/getting-help",
-            "file": "unitedkingdom/Turkey/Getting help.md"
+            "update_date": "2026-10-15T10:34:15+01:00"
         }
     ],
-    "update_date": "2026-09-21T14:00:49+01:00"
+    "update_date": "2026-10-15T10:34:15+01:00"
 }

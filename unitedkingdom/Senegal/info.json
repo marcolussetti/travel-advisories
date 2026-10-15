@@ -1,37 +1,12 @@
 {
     "name": "Senegal",
-    "update_reason": "Updated information for LGBT+ travellers due to legislation being amended around same-sex relations (\u2018Safety and security' page).",
+    "update_reason": "Updated information about health risks you'll face in Senegal ('Health' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Senegal/Warnings and insurance.md",
-            "update_date": "2026-05-13T16:45:46+01:00"
-        },
-        {
-            "title": "Entry requirements",
-            "url": "https://www.gov.uk/foreign-travel-advice/senegal/entry-requirements",
-            "file": "unitedkingdom/Senegal/Entry requirements.md"
-        },
-        {
-            "title": "Safety and security",
-            "url": "https://www.gov.uk/foreign-travel-advice/senegal/safety-and-security",
-            "file": "unitedkingdom/Senegal/Safety and security.md"
-        },
-        {
-            "title": "Regional risks",
-            "url": "https://www.gov.uk/foreign-travel-advice/senegal/regional-risks",
-            "file": "unitedkingdom/Senegal/Regional risks.md"
-        },
-        {
-            "title": "Health",
-            "url": "https://www.gov.uk/foreign-travel-advice/senegal/health",
-            "file": "unitedkingdom/Senegal/Health.md"
-        },
-        {
-            "title": "Getting help",
-            "url": "https://www.gov.uk/foreign-travel-advice/senegal/getting-help",
-            "file": "unitedkingdom/Senegal/Getting help.md"
+            "update_date": "2026-10-15T10:00:14+01:00"
         }
     ],
-    "update_date": "2026-05-13T16:45:46+01:00"
+    "update_date": "2026-10-15T10:00:14+01:00"
 }
