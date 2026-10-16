@@ -4,11 +4,21 @@
 
 Normal Precautions
 
+### **Travel Alert**
+
+#### **Demonstrations**
+
+Large-scale political demonstrations have become a regular occurrence in the capital of Tirana and can arise in other urban areas across Albania. These demonstrations can occur with little notice, and cause disruption to transportation and other essential services.
+
+Irish citizens are advised to avoid any demonstrations, large-scale gatherings or political rallies. Such protests have the propensity to escalate without warning, and there have been reports of violence at recent demonstrations near government buildings.
+
+Irish citizens are further encouraged to follow the advice of local authorities and to stay informed of the security situation through trusted media sources.
+
 ### **General Travel Advice**
 
-Irish citizens do not need a visa for short visits to Albania (up to 90 days). However, passports must be valid for a minimum period of six months from date of entry into Albania. Although Albania is not in the EU, the Albanian authorities do accept Irish Passport Cards for entry into Albania via Tirana International Airport. However, be advised that it is preferable to travel on a full Irish passport.
+Irish citizens do not need a visa for short visits to Albania (up to 90 days). However, passports must be valid for a minimum period of six months from the date of entry into Albania. Although Albania is not in the EU, Albanian authorities do accept valid Irish Passport Cards for entry into Albania via Tirana International Airport. However, be advised that it is preferable to travel on a full Irish passport.
 
-Visitors to Albania are advised to follow the guidance of national and local authorities and stay fully informed of what is going on by monitoring local news and social media.
+Visitors to Albania are advised to follow the guidance of national and local authorities and stay fully informed of local developments by monitoring local news and social media.
 
 Citizens can also follow the Irish Embassy in Athens on social media ([**X**](https://twitter.com/IrlEmbAthens) and [**Facebook**](https://www.facebook.com/EmbassyOfIrelandGreece)) to ensure access to relevant updates and alerts.
 
@@ -28,7 +38,7 @@ If there is a serious incident, visitors should co-operate with local authoritie
 
 ### **Emergency Assistance**
 
-The best help is often close at hand so if a problem arises, try talking to local contacts, tour operator representatives or hotel management.
+The best help is often close at hand, so if a problem arises, try talking to local contacts, tour operator representatives or hotel management.
 
 Albanian local emergency service telephone numbers are:
 
@@ -45,4 +55,4 @@ Albanian local emergency service telephone numbers are:
 * Read our [**‘Know Before You Go’**](https://www.ireland.ie/en/dfa/overseas-travel/know-before-you-go/) guide.
 * Read our [**Consular Assistance Charter**](https://www.ireland.ie/en/dfa/overseas-travel/assistance-abroad/consular-assistance-charter/) that clearly sets out the assistance that can be provided to citizens in difficulty overseas, and the limits of what the Department can do.
 
-As there is no Irish Embassy in Albania, we are limited in the help we can offer in an emergency. However, if assistance is needed, please contact the [**Irish Embassy in Athens**](https://www.ireland.ie/en/greece/athens/) , Greece.
+As there is no Irish Embassy in Albania, we are limited in the consular assistance we can offer in an emergency. However, if assistance is needed, please contact the [**Irish Embassy in Athens**](https://www.ireland.ie/en/greece/athens/) , Greece.

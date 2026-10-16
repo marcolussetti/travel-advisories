@@ -6,6 +6,28 @@ High Degree of Caution
 
 ### **Travel Alert**
 
+#### **Inbound Travel Health Insurance**
+
+As of October 5, 2026, the Kenyan government has introduced a new requirement for most visitors to Kenya. Visitors who arrive in Kenya after 5 October (apart from those on an exempted list – see below), including minors, are required to hold "Inbound Travel Health Insurance" purchased through a Kenyan government website for the entire duration of their stay in Kenya, **regardless of whether they already possess travel insurance obtained elsewhere**. This insurance can be purchased online when applying for the [Electronic Travel Authorization (eTA)](https://etakenya.go.ke/) or at [www.insurance.ecitizen.go.ke](http://www.insurance.ecitizen.go.ke/).
+
+It is important to note that those who applied for, and have been granted, ETAs before 5 October, but who will travel to Kenya after 5 October will also be affected by this change and must also purchase this insurance in advance of travel.
+
+Citizens are advised to ensure they are visiting the official websites for purchasing the insurance by using the links above.
+
+A policy may be used for multiple entries into Kenya within its 90 days validity period. Visitors should pay close attention to the limits of cover in the mandatory insurance, and for maximum protection, additional travel insurance from a third-party provider remains recommended.
+
+The following visitors are exempt from holding Kenyan Inbound Travel Health Insurance;
+
+- Kenyan Citizens
+
+- Holders of valid residence status
+
+- Citizens of the East African Community (EAC) Partner States
+
+- Holders of Diplomatic, Official and Service passports
+
+- Transit passengers who do not seek entry into Kenya
+
 #### **Ebola Outbreak**
 
 On 6 October 2026, Kenya confirmed its first imported case of Ebola. The Government of Kenya is implementing public health measures in response, including contact tracing, surveillance, and border screening, as well as quarantine arrangements for individuals deemed at risk. The Embassy of Ireland in Kenya continues to monitor the situation.
