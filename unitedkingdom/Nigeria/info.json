@@ -1,37 +1,12 @@
 {
     "name": "Nigeria",
-    "update_reason": "Updated information about Ebola screening ('Entry requirements' page).",
+    "update_reason": "FCDO now advises against all travel to Sokoto State. FCDO continues to advise against all travel and all but essential travel to other parts of Nigeria (\u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Nigeria/Warnings and insurance.md",
-            "update_date": "2026-09-28T15:46:12+01:00"
-        },
-        {
-            "title": "Entry requirements",
-            "url": "https://www.gov.uk/foreign-travel-advice/nigeria/entry-requirements",
-            "file": "unitedkingdom/Nigeria/Entry requirements.md"
-        },
-        {
-            "title": "Safety and security",
-            "url": "https://www.gov.uk/foreign-travel-advice/nigeria/safety-and-security",
-            "file": "unitedkingdom/Nigeria/Safety and security.md"
-        },
-        {
-            "title": "Regional risks",
-            "url": "https://www.gov.uk/foreign-travel-advice/nigeria/regional-risks",
-            "file": "unitedkingdom/Nigeria/Regional risks.md"
-        },
-        {
-            "title": "Health",
-            "url": "https://www.gov.uk/foreign-travel-advice/nigeria/health",
-            "file": "unitedkingdom/Nigeria/Health.md"
-        },
-        {
-            "title": "Getting help",
-            "url": "https://www.gov.uk/foreign-travel-advice/nigeria/getting-help",
-            "file": "unitedkingdom/Nigeria/Getting help.md"
+            "update_date": "2026-10-16T15:52:35+01:00"
         }
     ],
-    "update_date": "2026-09-28T15:46:12+01:00"
+    "update_date": "2026-10-16T15:52:35+01:00"
 }

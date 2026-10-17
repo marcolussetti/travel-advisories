@@ -1,12 +1,12 @@
 {
     "name": "Kenya",
-    "update_reason": "Updated information about travel health insurance requirements for entry into Kenya (See \u2018Mandatory Travel Insurance\u2019 on the \u2018Entry requirements\u2019 page).",
+    "update_reason": "New information about Ebola screening (\u2018Entry requirements\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Kenya/Warnings and insurance.md",
-            "update_date": "2026-10-13T12:59:44+01:00"
+            "update_date": "2026-10-16T13:02:22+01:00"
         }
     ],
-    "update_date": "2026-10-13T12:59:44+01:00"
+    "update_date": "2026-10-16T13:02:22+01:00"
 }

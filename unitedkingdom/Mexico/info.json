@@ -1,12 +1,12 @@
 {
     "name": "Mexico",
-    "update_reason": "Updated information about Hurricane Simon ('Warnings and insurance' page).",
+    "update_reason": "New information about Hurricane Trudy, which is affecting Mexico\u2019s pacific coast ('Warnings and insurance' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Mexico/Warnings and insurance.md",
-            "update_date": "2026-10-13T09:45:22+01:00"
+            "update_date": "2026-10-16T16:29:42+01:00"
         }
     ],
-    "update_date": "2026-10-13T09:45:22+01:00"
+    "update_date": "2026-10-16T16:29:42+01:00"
 }
