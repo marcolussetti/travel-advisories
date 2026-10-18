@@ -1,12 +1,12 @@
 {
     "name": "Saudi Arabia",
-    "update_reason": "FCDO now advises against all but essential travel to Saudi Arabia. FCDO continues to advise against all travel to within 10km of the border with Yemen (\u2018Warnings and insurance\u2019 page and \u2018Regional risks\u2019 page).",
+    "update_reason": "Updates to the safety and security section to reflect latest regional tensions ('Safety and security' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Saudi Arabia/Warnings and insurance.md",
-            "update_date": "2026-10-16T22:40:31+01:00"
+            "update_date": "2026-10-17T17:25:35+01:00"
         }
     ],
-    "update_date": "2026-10-16T22:40:31+01:00"
+    "update_date": "2026-10-17T17:25:35+01:00"
 }
