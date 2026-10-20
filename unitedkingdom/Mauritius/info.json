@@ -1,12 +1,12 @@
 {
     "name": "Mauritius",
-    "update_reason": "Updated information about local demonstrations and community unrest (\u2018Warnings and insurance\u2019 page).",
+    "update_reason": "Updated information about local demonstrations and community unrest ('Safety and security' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Mauritius/Warnings and insurance.md",
-            "update_date": "2026-10-16T13:27:02+01:00"
+            "update_date": "2026-10-19T15:45:58+01:00"
         }
     ],
-    "update_date": "2026-10-16T13:27:02+01:00"
+    "update_date": "2026-10-19T15:45:58+01:00"
 }

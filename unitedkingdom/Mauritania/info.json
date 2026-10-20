@@ -1,37 +1,12 @@
 {
     "name": "Mauritania",
-    "update_reason": "New information about protests (\u2018Warnings and insurance\u2019 page).",
+    "update_reason": "New information on risks of travelling on the iron ore train (\u2018Safety and security\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Mauritania/Warnings and insurance.md",
-            "update_date": "2026-03-24T16:23:01+00:00"
-        },
-        {
-            "title": "Entry requirements",
-            "url": "https://www.gov.uk/foreign-travel-advice/mauritania/entry-requirements",
-            "file": "unitedkingdom/Mauritania/Entry requirements.md"
-        },
-        {
-            "title": "Safety and security",
-            "url": "https://www.gov.uk/foreign-travel-advice/mauritania/safety-and-security",
-            "file": "unitedkingdom/Mauritania/Safety and security.md"
-        },
-        {
-            "title": "Regional Risks",
-            "url": "https://www.gov.uk/foreign-travel-advice/mauritania/regional-risks",
-            "file": "unitedkingdom/Mauritania/Regional Risks.md"
-        },
-        {
-            "title": "Health",
-            "url": "https://www.gov.uk/foreign-travel-advice/mauritania/health",
-            "file": "unitedkingdom/Mauritania/Health.md"
-        },
-        {
-            "title": "Getting help",
-            "url": "https://www.gov.uk/foreign-travel-advice/mauritania/getting-help",
-            "file": "unitedkingdom/Mauritania/Getting help.md"
+            "update_date": "2026-10-19T20:07:15+01:00"
         }
     ],
-    "update_date": "2026-03-24T16:23:01+00:00"
+    "update_date": "2026-10-19T20:07:15+01:00"
 }
