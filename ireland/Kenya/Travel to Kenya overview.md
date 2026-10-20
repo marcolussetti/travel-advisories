@@ -30,7 +30,7 @@ The following visitors are exempt from holding Kenyan Inbound Travel Health Insu
 
 #### **Ebola Outbreak**
 
-On 6 October 2026, Kenya confirmed its first imported case of Ebola. The Government of Kenya is implementing public health measures in response, including contact tracing, surveillance, and border screening, as well as quarantine arrangements for individuals deemed at risk. The Embassy of Ireland in Kenya continues to monitor the situation.
+To date Kenya has confirmed 8 cases of Ebola. All 8 cases are identified as emanating from the same cluster, with no community transmission confirmed. The Government of Kenya is implementing public health measures in response, including contact tracing, surveillance, and border screening, as well as quarantine arrangements for individuals deemed at risk. The Embassy of Ireland in Kenya continues to monitor the situation.
 
 **Regional Department of Health Contact List** and further information on the Ebola Virus Disease, including advice for Irish citizens travelling to Ebola-affected areas or bordering countries, is available on the HPSC website [**here**](https://www.hpsc.ie/a-z/vectorborne/viralhaemorrhagicfever/ebola/frequently-asked-questions).
 
