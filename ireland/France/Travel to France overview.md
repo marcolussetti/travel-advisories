@@ -6,6 +6,18 @@ Normal Precautions
 
 ### **Travel Alert**
 
+#### **Protests**
+
+In recent weeks, protests in France have been accompanied by significant civil unrest. Paris and a number of other cities have put in place short-term overnight curfews in specified zones. Travellers should check trusted news outlets and the social media of local authorities for information on curfews and other updates related to their area of travel.
+
+Do not go towards or participate in protests. If you find yourself in an area affected by demonstrations or unrest, do not loiter to view the events. Do not record. Move away from the area as quickly and calmly as possible. If you are already inside a secure building (like a hotel, office, or store), it may be preferable to shelter there, moving to the inside of the building. Follow the advice of local authorities
+
+Irish citizens intending to travel to affected areas should contact their accommodation or travel provider for the latest updates ahead of travelling.
+
+Citizens can register their stay in France at [**https://citizensregistration.dfa.ie/**](https://citizensregistration.dfa.ie/) so that they can be contacted if there is an unforeseen crisis, including where a family emergency might occur.
+
+For information on staying safe in hot weather, please see the Climate section below.
+
 #### **National Threat Level**
 
 Since March 2025, France has maintained its national security threat level at level 3, ‘attack emergency’ (urgence attentat). This is the highest level in the French Vigipirate security programme.

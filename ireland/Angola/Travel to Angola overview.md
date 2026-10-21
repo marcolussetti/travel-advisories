@@ -32,8 +32,6 @@ For more information on visas and passports, please see the Entry Requirements t
 
 Visitors to Angola are advised to follow the guidance of national and local authorities and stay fully informed of what's going on by monitoring local news and social media.
 
-Angola has removed all COVID-19 entry and exit requirements. However, passengers travelling to, or transiting through, Angola are advised to re-confirm the current requirements for travel with their airline and/or travel agent, as these can be subject to change at short notice.
-
 As there is no Irish Embassy in Angola, we are limited in the help we can offer you in an emergency. However, if you need assistance, you can contact the [**Irish Embassy in Lisbon**](/en/portugal/lisbon/contact/) or the Duty Officer at the Department of Foreign Affairs in Dublin at +353 (0)1 408 2000.
 
 ### **Emergency Assistance**

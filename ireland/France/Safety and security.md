@@ -4,6 +4,12 @@
 
 Irish citizens in France are reminded that they should be in possession of a valid form of photographic identification such as a passport or passport card at all times.
 
+### **Protests**
+
+Where protests occur they may be accompanied by civil unrest. Travellers should check trusted news outlets and the social media of local authorities for information related to their area of travel.
+
+Do not go towards or participate in protests. If you find yourself in an area affected by demonstrations or unrest, do not loiter to view the events. Do not record. Move away from the area as quickly and calmly as possible. If you are already inside a secure building (like a hotel, office, or store), it may be preferable to shelter there, moving to the inside of the building. Follow the advice of local authorities.
+
 ### **Terrorism**
 
 Since March 2025, France has maintained its national security threat level at level 3, ‘attack emergency’ (urgence attentat). This is the highest level in the French Vigipirate security programme.

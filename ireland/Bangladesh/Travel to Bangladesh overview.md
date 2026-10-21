@@ -18,20 +18,6 @@ Measures such as limits on fuel sales have been implemented by the authorities. 
 
 Irish Citizens in Bangladesh are advised to monitor local media and government announcements for updates, and allow extra time for travel.
 
-#### **National Elections**
-
-National elections took place in Bangladesh on 12 February 2026. While the election period has passed peacefully, there is still a chance for political gatherings or demonstrations to occur.
-
-Irish citizens travelling to or located in Bangladesh are recommended to exercise a high degree of caution, avoid demonstrations and monitor the advice of local authorities. Those who have not already done so should register their details and those of their dependents [here](https://www.ireland.ie/en/dfa/overseas-travel/citizens-registration/).
-
-The Department continues to advise against all but essential travel to the Chittagong Hill Tracts. The area is made up of the following districts:
-
-Rangamati
-
-Khagrachari
-
-Bandarban
-
 ### **General Travel Advice**
 
 Irish citizens require a visa to enter Bangladesh. The visa-on-arrival system is available to travellers from Ireland, depending on the purpose of visit. However, we recommend that travellers obtain a visa in advance to eliminate uncertainties with the visa-on-arrival process. Irish travellers to Bangladesh are encouraged to consult Bangladeshi authorities, such as the [**Bangladesh High Commission in London**](https://bhclondon.org.uk/), for advice on entry requirements.
@@ -45,6 +31,14 @@ Citizens can also follow the Irish Embassy in India on social media (X [**@IrlEm
 ### **Security**
 
 There are heightened security concerns about the potential threat to Western citizens in Bangladesh and Irish citizens should remain vigilant while travelling in the country. Due to the risk of terrorist attacks, Irish citizens are advised to exercise caution in public places, to avoid large gatherings or demonstrations, and venues frequented by expats/foreign tourists, and to keep informed of news reports or security developments.
+
+The Department continues to advise against all but essential travel to the Chittagong Hill Tracts. The area is made up of the following districts:
+
+Rangamati
+
+Khagrachari
+
+Bandarban
 
 ### **Emergency Assistance**
 
