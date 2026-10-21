@@ -1,32 +1,12 @@
 {
     "name": "Seychelles",
-    "update_reason": "New information on illegal drugs and prison sentences ('Safety and security' page).",
+    "update_reason": "New information about how to respond to extreme weather in the Seychelles (\u2018Safety and security\u2019 page)",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Seychelles/Warnings and insurance.md",
-            "update_date": "2026-01-21T12:01:13+00:00"
-        },
-        {
-            "title": "Entry requirements",
-            "url": "https://www.gov.uk/foreign-travel-advice/seychelles/entry-requirements",
-            "file": "unitedkingdom/Seychelles/Entry requirements.md"
-        },
-        {
-            "title": "Safety and security",
-            "url": "https://www.gov.uk/foreign-travel-advice/seychelles/safety-and-security",
-            "file": "unitedkingdom/Seychelles/Safety and security.md"
-        },
-        {
-            "title": "Health",
-            "url": "https://www.gov.uk/foreign-travel-advice/seychelles/health",
-            "file": "unitedkingdom/Seychelles/Health.md"
-        },
-        {
-            "title": "Getting help",
-            "url": "https://www.gov.uk/foreign-travel-advice/seychelles/getting-help",
-            "file": "unitedkingdom/Seychelles/Getting help.md"
+            "update_date": "2026-10-20T14:59:57+01:00"
         }
     ],
-    "update_date": "2026-01-21T12:01:13+00:00"
+    "update_date": "2026-10-20T14:59:57+01:00"
 }

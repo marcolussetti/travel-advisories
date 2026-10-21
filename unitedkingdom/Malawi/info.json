@@ -1,32 +1,12 @@
 {
     "name": "Malawi",
-    "update_reason": "New information about Traveller Health Check form ('Entry requirements' page).",
+    "update_reason": "New information about foreign currency rules (\u2018Entry requirements\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Malawi/Warnings and insurance.md",
-            "update_date": "2026-07-03T10:59:53+01:00"
-        },
-        {
-            "title": "Entry requirements",
-            "url": "https://www.gov.uk/foreign-travel-advice/malawi/entry-requirements",
-            "file": "unitedkingdom/Malawi/Entry requirements.md"
-        },
-        {
-            "title": "Safety and security",
-            "url": "https://www.gov.uk/foreign-travel-advice/malawi/safety-and-security",
-            "file": "unitedkingdom/Malawi/Safety and security.md"
-        },
-        {
-            "title": "Health",
-            "url": "https://www.gov.uk/foreign-travel-advice/malawi/health",
-            "file": "unitedkingdom/Malawi/Health.md"
-        },
-        {
-            "title": "Getting help",
-            "url": "https://www.gov.uk/foreign-travel-advice/malawi/getting-help",
-            "file": "unitedkingdom/Malawi/Getting help.md"
+            "update_date": "2026-10-20T15:35:09+01:00"
         }
     ],
-    "update_date": "2026-07-03T10:59:53+01:00"
+    "update_date": "2026-10-20T15:35:09+01:00"
 }

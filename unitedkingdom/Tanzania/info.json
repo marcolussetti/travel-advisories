@@ -1,12 +1,12 @@
 {
     "name": "Tanzania",
-    "update_reason": "Updated information about mandatory travel insurance and wildfires ('Entry requirements' and 'Safety and security' pages).",
+    "update_reason": "Updated information about Ebola screening measures for all travellers arriving into Tanzania, addition of information about the risk of protests on 29 October and new information about the risks of bringing cannabidiol (CBD) products into Tanzania (\u2018Entry requirements\u2019 and \u2018Safety and security\u2019 pages).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Tanzania/Warnings and insurance.md",
-            "update_date": "2026-10-09T14:57:22+01:00"
+            "update_date": "2026-10-20T15:04:46+01:00"
         }
     ],
-    "update_date": "2026-10-09T14:57:22+01:00"
+    "update_date": "2026-10-20T15:04:46+01:00"
 }
