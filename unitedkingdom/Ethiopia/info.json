@@ -1,12 +1,12 @@
 {
     "name": "Ethiopia",
-    "update_reason": "New information about fighting in the Tigray region and updated information about travel from the airport and around Addis Ababa (\u2018Warnings and insurance\u2019, \u2018Safety and security\u2019 and \u2018Regional risks\u2019 pages).",
+    "update_reason": "New information about conflict within northern Ethiopia, including the Tigray region (\u2018Warnings and insurance\u2019 and \u2018Regional risks\u2019 pages).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Ethiopia/Warnings and insurance.md",
-            "update_date": "2026-10-16T17:03:39+01:00"
+            "update_date": "2026-10-21T15:37:51+01:00"
         }
     ],
-    "update_date": "2026-10-16T17:03:39+01:00"
+    "update_date": "2026-10-21T15:37:51+01:00"
 }

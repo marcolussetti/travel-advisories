@@ -1,12 +1,12 @@
 {
     "name": "Saudi Arabia",
-    "update_reason": "Updates to the safety and security section to reflect latest regional tensions ('Safety and security' page).",
+    "update_reason": "Updated information about King Khalid Airport which continues to be targeted and ongoing threat from terrorism in Saudi Arabia (\u2018Warnings and insurance\u2019 and \u2018Safety and security\u2019 pages).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Saudi Arabia/Warnings and insurance.md",
-            "update_date": "2026-10-17T17:25:35+01:00"
+            "update_date": "2026-10-21T12:35:47+01:00"
         }
     ],
-    "update_date": "2026-10-17T17:25:35+01:00"
+    "update_date": "2026-10-21T12:35:47+01:00"
 }

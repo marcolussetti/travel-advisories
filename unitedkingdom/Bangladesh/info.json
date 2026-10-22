@@ -1,12 +1,12 @@
 {
     "name": "Bangladesh",
-    "update_reason": "Addition of information about Hindu festival of Durga Puja, taking place in Bangladesh 16 to 21 October (\u2018Warnings and insurance\u2019 page).",
+    "update_reason": "Removal of information about Hindu festival of Durga Puja (\u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Bangladesh/Warnings and insurance.md",
-            "update_date": "2026-10-09T11:14:33+01:00"
+            "update_date": "2026-10-22T09:30:24+01:00"
         }
     ],
-    "update_date": "2026-10-09T11:14:33+01:00"
+    "update_date": "2026-10-22T09:30:24+01:00"
 }

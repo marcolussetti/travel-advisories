@@ -1,32 +1,12 @@
 {
     "name": "Turkmenistan",
-    "update_reason": "Updated information about COVID-19 testing when arriving in Turkmenistan ('Entry requirements' page).",
+    "update_reason": "Updated information about COVID-19 rules, applying for visas, transit visas and taking cash into Turkmenistan (\u2018Entry requirements\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Turkmenistan/Warnings and insurance.md",
-            "update_date": "2026-06-04T13:53:56+01:00"
-        },
-        {
-            "title": "Entry requirements",
-            "url": "https://www.gov.uk/foreign-travel-advice/turkmenistan/entry-requirements",
-            "file": "unitedkingdom/Turkmenistan/Entry requirements.md"
-        },
-        {
-            "title": "Safety and security",
-            "url": "https://www.gov.uk/foreign-travel-advice/turkmenistan/safety-and-security",
-            "file": "unitedkingdom/Turkmenistan/Safety and security.md"
-        },
-        {
-            "title": "Health",
-            "url": "https://www.gov.uk/foreign-travel-advice/turkmenistan/health",
-            "file": "unitedkingdom/Turkmenistan/Health.md"
-        },
-        {
-            "title": "Getting help",
-            "url": "https://www.gov.uk/foreign-travel-advice/turkmenistan/getting-help",
-            "file": "unitedkingdom/Turkmenistan/Getting help.md"
+            "update_date": "2026-10-21T15:50:49+01:00"
         }
     ],
-    "update_date": "2026-06-04T13:53:56+01:00"
+    "update_date": "2026-10-21T15:50:49+01:00"
 }

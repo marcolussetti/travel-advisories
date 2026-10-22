@@ -1,32 +1,12 @@
 {
     "name": "Serbia",
-    "update_reason": "New information on wait times if travelling to and from the Schengen area from Serbia ('Warnings and insurance' page).",
+    "update_reason": "New information about Serbian parliamentary elections taking place on 25 October (\u2018Warnings and insurance\u2019 and \u2018Safety and security\u2019 pages).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Serbia/Warnings and insurance.md",
-            "update_date": "2026-08-13T16:18:02+01:00"
-        },
-        {
-            "title": "Entry requirements",
-            "url": "https://www.gov.uk/foreign-travel-advice/serbia/entry-requirements",
-            "file": "unitedkingdom/Serbia/Entry requirements.md"
-        },
-        {
-            "title": "Safety and security",
-            "url": "https://www.gov.uk/foreign-travel-advice/serbia/safety-and-security",
-            "file": "unitedkingdom/Serbia/Safety and security.md"
-        },
-        {
-            "title": "Health",
-            "url": "https://www.gov.uk/foreign-travel-advice/serbia/health",
-            "file": "unitedkingdom/Serbia/Health.md"
-        },
-        {
-            "title": "Getting help",
-            "url": "https://www.gov.uk/foreign-travel-advice/serbia/getting-help",
-            "file": "unitedkingdom/Serbia/Getting help.md"
+            "update_date": "2026-10-22T10:20:25+01:00"
         }
     ],
-    "update_date": "2026-08-13T16:18:02+01:00"
+    "update_date": "2026-10-22T10:20:25+01:00"
 }
