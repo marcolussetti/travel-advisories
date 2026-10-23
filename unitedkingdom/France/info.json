@@ -1,12 +1,12 @@
 {
     "name": "France",
-    "update_reason": "Updated information on local curfews (\u2018Warnings and insurance\u2019 page)",
+    "update_reason": "Updated information about demonstrations (\u2018Warnings and insurance\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/France/Warnings and insurance.md",
-            "update_date": "2026-10-19T18:40:21+01:00"
+            "update_date": "2026-10-22T17:57:33+01:00"
         }
     ],
-    "update_date": "2026-10-19T18:40:21+01:00"
+    "update_date": "2026-10-22T17:57:33+01:00"
 }
