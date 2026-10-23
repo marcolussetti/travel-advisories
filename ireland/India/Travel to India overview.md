@@ -6,28 +6,27 @@ High Degree of Caution
 
 ### **Travel Alert**
 
-Protests have been taking place primarily in New Delhi but have spread to other parts of the country, such as Mumbai and Bangalore, since Monday July 20. This has resulted in violent confrontations. The Government has implemented restrictions including curfews, road closures and metro station closures, and may introduce additional measures if the situation further deteriorates.
+Protests have been taking place primarily in New Delhi but at times in other parts of the country, such as Mumbai and Bangalore, since Monday July 20. This has resulted in violent confrontations and arrests. When the protests occur, the Government has implemented restrictions including curfews, road closures and metro station closures, and may introduce additional measures if the situation further deteriorates.
 
 Irish citizens are advised to avoid public demonstrations, exercise caution in public places, stay alert, monitor local news reports and follow the advice of local authorities.
 
-#### **Travel Disruptions**
+### **Travel Disruptions**
 
-There is significant disruption to travel across the Middle East and Gulf regions, including airspace closures, delayed and cancelled flights.
+Recent months have seen disruption to travel across the Middle East and Gulf regions, including airspace closures, delayed and cancelled flights.
 
 Irish citizens are advised to:
 
 * Check for the latest updates from your airline or travel agent before travelling.
 * Monitor local and international news, airline communications and airport announcements closely.
 * Check if their Indian visa will need to be extended, and if so, contact the nearest [**Foreigners Regional Registration Office (FRRO)**](https://www.mea.gov.in/press-releases.htm?dtl/40836/Advisory).
-* Register their details and those of their dependents [**here**](https://www.ireland.ie/en/dfa/overseas-travel/citizens-registration/).
 
 ### **General Travel Advice**
 
-### **North-West**
+**North-West**
 
 The Department of Foreign Affairs and Trade advises against all travel to Jammu and Kashmir, including the cities of Pahalgam, Srinagar and Jammu.
 
-Irish citizens in the Union Territory of Ladakh should remain vigilant, follow the advice of local authorities, and monitor developments in the local and Indian media. We advise against all travel within 10km of the India-Pakistan border and note the closure of the Wagah-Atarri border crossing.
+Irish citizens in the Union Territory of Ladakh should remain vigilant, follow the advice of local authorities, and monitor developments in the local and Indian media. We advise against all travel within 10km of the India-Pakistan border.
 
 ### **North-East**
 

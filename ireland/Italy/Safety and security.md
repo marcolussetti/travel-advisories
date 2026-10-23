@@ -2,7 +2,7 @@
 
 ### **Social Unrest**
 
-The political situation in Italy is stable but public demonstrations can occur frequently, especially in the centres of major cities where tourists are likely to find themselves. They are usually well organised and rarely, if ever, turn violent. However, you should avoid them and exercise common sense if in the vicinity of large public gatherings.
+The political situation in Italy is stable but public demonstrations can occur frequently, especially in the centres of major cities where tourists are likely to find themselves. These demonstrations are usually well organised and peaceful, but on occasion they are accompanied by violence. In general, Irish citizens should exercise caution and common sense around public demonstrations and in the vicinity of large public gatherings.
 
 Always keep informed of what is going on around you by monitoring local media and staying in contact with your hotel or tour organiser.
 

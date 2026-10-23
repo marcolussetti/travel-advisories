@@ -8,7 +8,7 @@ High Degree of Caution
 
 #### Flooding, Flash Floods and Mudslides
 
-On 12 August, floods hit the Budhi Gandaki River in the Gorkha District of north central Nepal and caused damage in the region. The affected area includes the popular Manaslu Circuit and Tsum Valley trekking routes. Local authorities are conducting rescue and recovery operations. Transport, roads and other infrastructure may be disrupted. Irish citizens are advised to avoid flood-affected areas, follow the advice of local authorities and monitor local media for updates. Please check with your tour operator before travelling and reconsider your need to travel to flood-affected areas.
+On 12 October, floods hit the Budhi Gandaki River in the Gorkha District of north central Nepal and caused damage in the region. The affected area includes the popular Manaslu Circuit and Tsum Valley trekking routes. Local authorities are conducting rescue and recovery operations. Transport, roads and other infrastructure may be disrupted. Irish citizens are advised to avoid flood-affected areas, follow the advice of local authorities and monitor local media for updates. Please check with your tour operator before travelling and reconsider your need to travel to flood-affected areas.
 
 The major floods and mudslides that occurred on 26 August in the Rasuwa district and the Nepal-China border area continue to affect parts of the country. Reconstruction and recovery efforts are underway by Nepalese authorities.
 
@@ -17,6 +17,15 @@ The Nepalese authorities have advised residents and visitors to avoid flood-affe
 The Nepalese authorities have established a toll-free emergency number, 1234, and a dedicated hotline, 1144.
 
 If you are an Irish citizen affected by the flooding and require assistance, you should contact the Honorary Consul of Ireland in Kathmandu on +977 1 4783140 / +977 1 4780141, or the Embassy of Ireland in New Delhi on +91 11 4940 3200.
+
+### **Travel Disruptions**
+
+Recent months have seen disruption to travel across the Middle East and Gulf regions, including airspace closures, delayed and cancelled flights.
+
+Irish citizens are advised to:
+
+* Check for the latest updates from your airline or travel agent before travelling.
+* Monitor local and international news, airline communications and airport announcements closely.
 
 ### **General Travel Advice**
 

@@ -18,6 +18,15 @@ Measures such as limits on fuel sales have been implemented by the authorities. 
 
 Irish Citizens in Bangladesh are advised to monitor local media and government announcements for updates, and allow extra time for travel.
 
+#### **Travel Disruptions**
+
+Recent months have seen disruption to travel across the Middle East and Gulf regions, including airspace closures, delayed and cancelled flights.
+
+Irish citizens are advised to:
+
+* Check for the latest updates from your airline or travel agent before travelling.
+* Monitor local and international news, airline communications and airport announcements closely.
+
 ### **General Travel Advice**
 
 Irish citizens require a visa to enter Bangladesh. The visa-on-arrival system is available to travellers from Ireland, depending on the purpose of visit. However, we recommend that travellers obtain a visa in advance to eliminate uncertainties with the visa-on-arrival process. Irish travellers to Bangladesh are encouraged to consult Bangladeshi authorities, such as the [**Bangladesh High Commission in London**](https://bhclondon.org.uk/), for advice on entry requirements.

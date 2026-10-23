@@ -16,16 +16,14 @@ Irish Citizens in Sri Lanka are advised to monitor local media and government an
 
 The Sri Lankan Tourist Hotline number is 1912.
 
-#### **Air Travel Disruption**
+#### **Travel Disruption**
 
-There is significant disruption to travel across the Middle East and Gulf regions, including airspace closures, delayed and cancelled flights. The Sri Lankan government have announced a free fourteen-day visa extension for foreign visitors who are unable to leave the country due to flight cancellations linked to the ongoing crisis in the Middle East.
+Recent months have seen disruption to travel across the Middle East and Gulf regions, including airspace closures, delayed and cancelled flights.
 
 Irish citizens are advised to:
 
 * Check for the latest updates from your airline or travel agent before travelling.
 * Monitor local and international news, airline communications and airport announcements closely.
-
-Register their details and those of their dependents [**here**](https://www.ireland.ie/en/dfa/overseas-travel/citizens-registration/).
 
 #### **Extreme Weather**
 

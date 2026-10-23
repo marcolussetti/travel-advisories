@@ -8,10 +8,6 @@ Normal Precautions
 
 #### **Demonstrations**
 
-Demonstrations in Pristina and other urban centres are continuing since the Kosovo Specialist Chambers ruling on the 16 September. Irish citizens should avoid large public gatherings, crowds, and demonstrations throughout the country; monitor developments and local media; and follow the advice of local authorities.
-
-Irish citizens visiting Pristina for the Ireland-Kosovo game on Thursday 24 September should be aware that Ireland does not have an embassy in Pristina, but there will be consular officials on site from Embassy Budapest. Citizens requiring consular assistance should contact the Irish Embassy in Budapest on +36 1 301 4960.
-
 While the overall security situation remains calm in most of the country, there are ongoing tensions in northern Kosovo and violence can flare up in the city of Mitrovica without warning. Any Irish citizens already in Kosovo are advised against travel to northern Mitrovica and to the northern municipalities of Leposavic, Zubin Potok and Zvecan as there is an increased risk of disturbance in these areas.
 
 For further information read the safety and security section of this page.
