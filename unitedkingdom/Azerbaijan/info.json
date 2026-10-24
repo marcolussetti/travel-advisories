@@ -1,12 +1,12 @@
 {
     "name": "Azerbaijan",
-    "update_reason": "Removal of information about visa procedures for visitors travelling to Azerbaijan in connection with the Formula 1 Azerbaijan Grand Prix (\u2018Entry requirements\u2019 page).",
+    "update_reason": "New information about entry requirements for the upcoming FIFA U-15 World Cup and Festival 2026 and travelling on a UK Emergency Travel Document to Azerbaijan. Updated information about visa requirements and entering Azerbaijan across the land border from Iran ('Entry requirements' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Azerbaijan/Warnings and insurance.md",
-            "update_date": "2026-10-08T14:13:24+01:00"
+            "update_date": "2026-10-23T13:44:51+01:00"
         }
     ],
-    "update_date": "2026-10-08T14:13:24+01:00"
+    "update_date": "2026-10-23T13:44:51+01:00"
 }

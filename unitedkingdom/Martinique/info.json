@@ -1,32 +1,12 @@
 {
     "name": "Martinique",
-    "update_reason": "New information about dual nationals returning to the UK (\u2018Entry requirements\u2019 page).",
+    "update_reason": "Updated information about demonstrations (\u2018Safety and security\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Martinique/Warnings and insurance.md",
-            "update_date": "2025-12-10T13:37:46+00:00"
-        },
-        {
-            "title": "Entry requirements",
-            "url": "https://www.gov.uk/foreign-travel-advice/martinique/entry-requirements",
-            "file": "unitedkingdom/Martinique/Entry requirements.md"
-        },
-        {
-            "title": "Safety and security",
-            "url": "https://www.gov.uk/foreign-travel-advice/martinique/safety-and-security",
-            "file": "unitedkingdom/Martinique/Safety and security.md"
-        },
-        {
-            "title": "Health",
-            "url": "https://www.gov.uk/foreign-travel-advice/martinique/health",
-            "file": "unitedkingdom/Martinique/Health.md"
-        },
-        {
-            "title": "Getting help",
-            "url": "https://www.gov.uk/foreign-travel-advice/martinique/getting-help",
-            "file": "unitedkingdom/Martinique/Getting help.md"
+            "update_date": "2026-10-23T16:16:42+01:00"
         }
     ],
-    "update_date": "2025-12-10T13:37:46+00:00"
+    "update_date": "2026-10-23T16:16:42+01:00"
 }
