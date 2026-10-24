@@ -14,7 +14,7 @@ The Uganda Ministry of Health has introduced mandatory health declaration requir
 
 All Irish citizens living in or visiting Uganda are encouraged to register their presence on our [**Citizen Registration**](https://citizensregistration.dfa.ie/) platform.
 
-#### **Returning to Ireland from an** [**Ebola-affected area**](https://urldefense.com/v3/__https:/www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda__;!!CfJOjA!CqeNvFD8hfwZyCDwpWYNe2ymDNxqWtFXbgDzXV5HrvMqMvFVgubbolwpTO2M9f6FxkU0NkHCF6Hvk2tzzw$) **(DRC, Uganda) or neighbouring countries (South Sudan, Rwanda, Burundi, Angola, the Central African Republic, the Republic of Congo, Ethiopia, Kenya, Tanzania, Zambia)**
+#### **Returning to Ireland from an** [**Ebola-affected area**](https://urldefense.com/v3/__https:/www.ecdc.europa.eu/en/ebola-outbreak-democratic-republic-congo-and-uganda__;!!CfJOjA!CqeNvFD8hfwZyCDwpWYNe2ymDNxqWtFXbgDzXV5HrvMqMvFVgubbolwpTO2M9f6FxkU0NkHCF6Hvk2tzzw$) **(DRC) or neighbouring countries (Uganda, South Sudan, Rwanda, Burundi, Angola, the Central African Republic, the Republic of Congo, Ethiopia, Kenya, Tanzania, Zambia)**
 
 Irish citizens and residents should monitor their health for 21 days after returning from the region. This is because the incubation period of the disease ranges from 2 to 21 days. If you develop symptoms such as fever, severe headache, or unexplained bleeding, seek immediate medical attention **by phone** and inform healthcare providers of your recent travel and any exposure to Ebola.
 

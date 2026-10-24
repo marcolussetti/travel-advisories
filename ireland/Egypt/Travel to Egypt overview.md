@@ -8,6 +8,7 @@ High Degree of Caution
 
 #### **Regional tensions**
 
+**Please note that The Embassy of Ireland, Cairo is currently closed.**  
 The Embassy of Ireland, Cairo is closely monitoring the current regional situation and advises that Irish citizens exercise a high degree of caution. Escalation could lead to travel disruption and other unanticipated impacts across the region.
 
 #### **Irish citizens are strongly advised against:**

@@ -6,16 +6,6 @@ Normal Precautions
 
 ### Travel Alert
 
-#### **Wildfires**
-
-There are active wildfires across Spain.
-
-For information on wildfire risk, visit the [**Spanish Meteorological Office (AEMET)**](https://www.aemet.es/en/eltiempo/prediccion/incendios). Citizens travelling to Spain should contact their travel or accommodation provider for advice on affected regions.
-
-Citizens in, or near, areas affected by wildfires should exercise extreme caution and follow the instructions of the local authorities.
-
-Irish citizens affected by wildfires who require assistance can contact the Embassy on: +34 91 436 4093
-
 #### **Weather Warnings**
 
 Weather warnings, including extreme weather warnings, can affect many of areas of Spain all year round.
