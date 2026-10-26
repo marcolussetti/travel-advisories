@@ -1,12 +1,12 @@
 {
     "name": "Jordan",
-    "update_reason": "New information added following reports of a shooting in Karak ('Warnings and insurance' page).",
+    "update_reason": "Further information about a shooting in Karak on 23 October (Warnings and insurance)",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Jordan/Warnings and insurance.md",
-            "update_date": "2026-10-23T14:49:26+01:00"
+            "update_date": "2026-10-25T15:33:37+00:00"
         }
     ],
-    "update_date": "2026-10-23T14:49:26+01:00"
+    "update_date": "2026-10-25T15:33:37+00:00"
 }
