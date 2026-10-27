@@ -1,32 +1,12 @@
 {
     "name": "El Salvador",
-    "update_reason": "Removal of information about Tropical Storm Cristina.",
+    "update_reason": "New information about Ebola-related health measures and quarantine requirements for some travellers (\u2018Entry requirements\u2019 page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/El Salvador/Warnings and insurance.md",
-            "update_date": "2026-06-17T14:04:09+01:00"
-        },
-        {
-            "title": "Entry requirements",
-            "url": "https://www.gov.uk/foreign-travel-advice/el-salvador/entry-requirements",
-            "file": "unitedkingdom/El Salvador/Entry requirements.md"
-        },
-        {
-            "title": "Safety and security",
-            "url": "https://www.gov.uk/foreign-travel-advice/el-salvador/safety-and-security",
-            "file": "unitedkingdom/El Salvador/Safety and security.md"
-        },
-        {
-            "title": "Health",
-            "url": "https://www.gov.uk/foreign-travel-advice/el-salvador/health",
-            "file": "unitedkingdom/El Salvador/Health.md"
-        },
-        {
-            "title": "Getting help",
-            "url": "https://www.gov.uk/foreign-travel-advice/el-salvador/getting-help",
-            "file": "unitedkingdom/El Salvador/Getting help.md"
+            "update_date": "2026-10-27T11:06:26+00:00"
         }
     ],
-    "update_date": "2026-06-17T14:04:09+01:00"
+    "update_date": "2026-10-27T11:06:26+00:00"
 }

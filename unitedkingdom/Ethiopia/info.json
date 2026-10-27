@@ -1,12 +1,12 @@
 {
     "name": "Ethiopia",
-    "update_reason": "New information about conflict within northern Ethiopia, including the Tigray region (\u2018Warnings and insurance\u2019 and \u2018Regional risks\u2019 pages).",
+    "update_reason": "Updated information about increased tensions and armed groups ('Regional risks' page).",
     "pages": [
         {
             "title": "Warnings and insurance",
             "file": "unitedkingdom/Ethiopia/Warnings and insurance.md",
-            "update_date": "2026-10-21T15:37:51+01:00"
+            "update_date": "2026-10-26T16:58:29+00:00"
         }
     ],
-    "update_date": "2026-10-21T15:37:51+01:00"
+    "update_date": "2026-10-26T16:58:29+00:00"
 }
