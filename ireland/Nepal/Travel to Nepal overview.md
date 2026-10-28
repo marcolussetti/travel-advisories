@@ -6,6 +6,20 @@ High Degree of Caution
 
 ### **Travel Alert**
 
+#### **Cyclone Arnab**
+
+The Government of Nepal’s National Disaster Risk Reduction and Management Authority (NDRRMA) has issued a high alert for Cyclone Arnab, a powerful storm developing over the Bay of Bengal that is expected to intensify significantly. The provinces of Koshi, Bagmati, Madhesh, Gandaki, Lumbini, Karnali and Sudurpashchim are expected to be particularly affected.
+
+Heavy rainfall accompanied by thunderstorms, lightning and strong winds is forecast. Some areas may also experience snowfall, snowstorms and an increased risk of avalanches.
+
+Irish citizens in Nepal are advised to remain vigilant from **29 to 31 October** and to take the following precautions:
+
+* Avoid travel to high hill and Himalayan regions.
+* Avoid non-essential travel where possible, as road and air services may be disrupted.
+* Do not stay in high-risk areas, including riverbanks and flood-prone locations.
+* Monitor local weather forecasts and news updates, and follow the advice of local authorities at all times.
+* In an emergency, contact **1234**, **100** or **1114** for disaster assistance.
+
 #### Flooding, Flash Floods and Mudslides
 
 On 12 October, floods hit the Budhi Gandaki River in the Gorkha District of north central Nepal and caused damage in the region. The affected area includes the popular Manaslu Circuit and Tsum Valley trekking routes. Local authorities are conducting rescue and recovery operations. Transport, roads and other infrastructure may be disrupted. Irish citizens are advised to avoid flood-affected areas, follow the advice of local authorities and monitor local media for updates. Please check with your tour operator before travelling and reconsider your need to travel to flood-affected areas.

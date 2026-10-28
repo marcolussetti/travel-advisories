@@ -12,6 +12,17 @@ There are strict limits on the amount of alcoholic beverages, cigarettes, cigars
 
 E-cigarettes, vapes and refills are illegal in Thailand. These items may be confiscated by the Royal Thai Police and you could be fined or sent to prison for up to 10 years if convicted. The sale or supply of these items is also banned and you could face a heavy fine or up to 5 years imprisonment if found guilty.
 
+### **Carrying Prescription Medication in Thailand**
+
+Many prescription medications (e.g. diazepam, alprazolam, clonazepam) are strictly controlled in Thailand. Travellers undergoing treatment who need to carry medications containing these substances must strictly adhere to the applicable regulations. Possession without a valid prescription is illegal, and travellers have been searched, detained, and arrested.
+
+**What you should do:**
+
+* At all times, carry your medication in its original, labelled packaging, together with your prescription or a doctor's letter.
+* Familiarise yourself with the applicable regulations and guidelines under Thai law to ensure you are carrying your medication with the appropriate safeguards in place [**permitfortraveler.fda.moph.go.th**](http://permitfortraveler.fda.moph.go.th/)
+
+For any queries, please contact the Thai FDA Narcotics Control Division at [**narcotics@fda.moph.go.th**](mailto:narcotics@fda.moph.go.th)
+
 ### **Illegal Drugs**
 
 Penalties for the possession, distribution and consumption of drugs in Thailand are severe. The possession of even what some may regard as small quantities often leads to imprisonment. The Thai authorities have increased their surveillance of those involved in illicit drugs activity and undercover police carry out spot checks in and around bars, restaurants and discos in tourist areas. These checks may include searches of bags, purses, and pockets. A number of tourists have suffered psychiatric problems as a result of drug use in Thailand. A number of Irish citizens have been imprisoned as a result of drug possession. **Do not possess or use drugs in Thailand**.

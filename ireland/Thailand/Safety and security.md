@@ -64,7 +64,7 @@ Ownership of property in Thailand is very complicated. There have been many repo
 
 In general, Thailand is a fairly safe country in which to travel once some basic precautions are taken. However, there have been incidents where foreign nationals have been attacked. Female passengers, in particular, should be careful of their personal safety. There have also been incidents where tourists have had their drinks drugged (in tourist areas and 'red light' districts). Be very careful about taking drinks from strangers and be very wary at parties such as the Full Moon party on Koh Phangan Island. Avoid all drugs, consume alcohol in moderation and exercise caution at large social gatherings. Do not swim at night.
 
-**Fire Safety**
+### **Fire Safety**
 
 Fire safety standards in Thailand are below the standards required in Ireland, and Irish citizens are advised to always be aware of emergency exits, and to maintain vigilance, especially in crowded buildings, hotels, restaurants and bars.
 
